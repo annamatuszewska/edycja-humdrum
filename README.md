@@ -43,15 +43,13 @@ Po chwili projekt otworzy się w VS Code.
 ---
 2️⃣ Zasada organizacyjna projektu (bardzo ważne)
 
-Pracujesz tylko na swoim podfolderze
+Pracujesz lokalnie w wybranym folderze.
 
-Pracujesz zawsze na osobnym branchu
+Pracujesz zawsze na osobnym branchu - patrz 3️⃣
 
-Jeden branch = jedna partia (50 plików)
+Jeden branch = jedna partia (50 plików).
 
-Po wysłaniu Pull Request nie zmieniasz już tego brancha
-
-Zakładamy, że zakresy plików nie nachodzą na siebie.
+Po wysłaniu Pull Request nie zmieniasz już tego brancha.
 
 ---
 3️⃣ Rozpoczęcie pracy nad nową partią
@@ -66,8 +64,8 @@ Wpisz:
 git checkout main
 git pull
 
-
 To pobiera najnowszą wersję projektu.
+
 
 Krok 2 – utworzenie nowego brancha
 
@@ -81,7 +79,6 @@ anna-dwok02-0001-0050
 
 Komenda:
 git checkout -b imię-nazwaksiazki-nrplikustart-nrplikukoniec
-
 
 Od tego momentu wszystkie zmiany zapisują się na tym branchu.
 
