@@ -6,12 +6,12 @@
 Ta instrukcja prowadzi krok po kroku przez cały proces pracy w projekcie.
 Nie jest wymagana wcześniejsza znajomość GitHuba ani programowania.
 
-1️⃣ Wymagania wstępne (jednorazowo)
+## 1️⃣ Wymagania wstępne (jednorazowo)
 1. Konto GitHub
 
 Upewnij się, że masz konto na https://github.com
 
-Zostaniesz dodany(a) do projektu przez kierownika projektu — zaakceptuj zaproszenie, które przyjdzie e-mailem lub w GitHubie.
+Zostaniesz dodany(a) do projektu przez kierownika projektu — **zaakceptuj zaproszenie**, które przyjdzie e-mailem lub w GitHubie.
 
 2. Instalacja VS Code
 
@@ -23,53 +23,45 @@ Zainstaluj program (standardowe ustawienia, „Dalej, dalej”)
 
 3. Połączenie VS Code z GitHubem (jednorazowo)
 
-Otwórz VS Code
+Otwórz **VS Code**
 
-Kliknij ikonę Source Control (rozgałęzienie po lewej stronie)
+Kliknij ikonę **Source Control** (rozgałęzienie po lewej stronie) 
 
-Kliknij Clone Repository
+![source control icon](docs/image/sourcecontrol.png)
 
-Wybierz Clone from GitHub
+Kliknij **Clone Repository** i wybierz **Clone from GitHub**
 
-Zostaniesz poproszony(a) o zalogowanie do GitHuba w przeglądarce — zaloguj się i zatwierdź
+![alt text](docs/image/clonerepo.png)
 
-Wybierz repozytorium projektu z listy lub wpisz:
+Zostaniesz poproszony(a) o zalogowanie do GitHuba w przeglądarce — zaloguj się i zatwierdź.
+
+Wpisz adres tego projektu:
 https://github.com/annamatuszewska/edycja-humdrum.git
 
-Wybierz folder na swoim komputerze, gdzie projekt ma się zapisać
+Wybierz folder na swoim komputerze, gdzie projekt ma się zapisać (**uwaga!** lepiej nie zapisywać na pulpicie, aby uniknąć przypadkowego usunięcia)
 
 Po chwili projekt otworzy się w VS Code.
 
 ---
-2️⃣ Zasada organizacyjna projektu (bardzo ważne)
+## 2️⃣ Zasada organizacyjna projektu (bardzo ważne)
 
-Pracujesz lokalnie w wybranym folderze.
+Pracujesz i zapisujesz ostateczne wersje plików lokalnie zawsze w tym samym wybranym folderze.
 
-Pracujesz zawsze na osobnym branchu - patrz 3️⃣
+Pracujesz **zawsze na osobnym branchu** - patrz p. 3️⃣
 
-Jeden branch = jedna partia (50 plików).
+Jeden branch = **jedna partia (50 plików)**
 
-Po wysłaniu Pull Request nie zmieniasz już tego brancha.
+Po przesłaniu Pull Request **nie zmieniasz już tego brancha**
 
 ---
-3️⃣ Rozpoczęcie pracy nad nową partią
-Krok 1 – przejście na główną wersję projektu
-
-W VS Code:
-
-Otwórz Terminal (górne menu → Terminal → New Terminal)
-
-Wpisz:
-
-git checkout main
-git pull
-
-To pobiera najnowszą wersję projektu.
-
-
-Krok 2 – utworzenie nowego brancha
+## 3️⃣ Rozpoczęcie pracy nad nową partią
+### Krok 1 – utworzenie nowego brancha
 
 Branch tworzysz zawsze przed rozpoczęciem nowej partii.
+W VS Code znajdź "Create branch":
+
+![alt text](docs/image/createbranch.png)
+
 
 Schemat nazwy brancha:
 imię-nazwaksiazki-nrplikustart-nrplikukoniec
@@ -77,15 +69,23 @@ imię-nazwaksiazki-nrplikustart-nrplikukoniec
 Przykład:
 anna-dwok02-0001-0050
 
-Komenda:
-git checkout -b imię-nazwaksiazki-nrplikustart-nrplikukoniec
+Kliknij na **Publish branch** (nie trzeba wpisywać wiadmomści)
 
-Od tego momentu wszystkie zmiany zapisują się na tym branchu.
+![alt text](docs/image/publishbranch.png)
 
----
-4️⃣ Praca z plikami
 
-Edytuj tylko pliki ze swojej partii
+Branch został zarejstrowany w repozytorium oraz od tego momentu wszystkie zmiany zapisują się lokalnie na tym branchu.
+
+Jeśli chcesz mieć pewność, że pracujesz na właściwym branchu spójrz do okienka **Graph**
+
+![alt text](docs/image/graph.png)
+
+Koncentryczne okręgi oznaczają lokalny branch a chmurka oznacza, że branch zarajestrowano też w repozytorium.
+
+### Krok 2 - praca z plikami
+
+
+**Edytuj tylko pliki ze swojej partii**
 
 Pliki:
 
@@ -93,45 +93,42 @@ poprawiane: w folderze humdrum/...
 
 nowe teksty: w folderze tekst/...
 
-Nie zmieniaj innych folderów ani plików
+Nie zmieniaj innych folderów ani plików. 
+Nie trzeba przenosić plików ani folderów, zmieniać nazw itp., ponieważ historia zmian na Twoim branchu zapisuje się oddzielnie od plików źródłowych (main).
 
 Pliki zapisuj normalnie (Ctrl+S / Cmd+S).
 
----
-5️⃣ Zakończenie pracy nad partią (commit)
+### Krok 3 - zakończenie pracy nad partią (commit)
 
-Po zakończeniu edycji wszystkich 50 plików:
+- po zakończeniu edycji wszystkich 50 plików w sekcji Source Control sprawdź, czy w okienku **CHANGES** znajdują się prawidłowe pliki
 
-Krok 1 – sprawdzenie zmian
+![alt text](docs/image/changes.png)
 
-W terminalu:
 
-git status
-
-Krok 2 – dodanie plików do commita
-git add .
-
-Krok 3 – zapisanie commita
-git commit -m "Nazwaksiazki pliki nrplikustart–nrplikukoniec"
+- wpisz wiadomość w okienku Message nad przyciskiem **Commit** w formie:
+"Nazwaksiazki pliki nrplikustart–nrplikukoniec"
 
 Przykład:
-git commit -m "DWOK02 pliki 001–050"
+"DWOK02 pliki 001–050"
 
----
-6️⃣ Wysłanie pracy do sprawdzenia (Pull Request)
-Krok 1 – wysłanie brancha
-git push -u origin NAZWA_BRANCHA
+Wciśnij **Commit** a następnie **Sync Changes**
 
-Krok 2 – utworzenie Pull Request
+![alt text](docs/image/sync.png)
 
-VS Code wyświetli komunikat o wysłaniu brancha — kliknij Create Pull Request
-(jeśli nie widzisz komunikatu, wejdź na GitHub w przeglądarce — pojawi się przycisk „Compare & pull request”)
+### Krok 4 - Przesłanie pracy do sprawdzenia (Pull Request)
+
+- Sprawdź na [github](https://github.com/annamatuszewska/edycja-humdrum) czy pojawiły się Twoje zmiany.
+Automatycznie powinna się pojawić taka wiadomość:
+![alt text](image.png)
+
+– kliknij na **Compare & pull request**
+
+Jeśli nie jest dostępne przejdź do zakładki **Pull request** -> **New pull request**
 
 Upewnij się, że:
 
-base: main
+base: main  <- compare: Twój branch
 
-compare: Twój branch
 
 W opisie wpisz krótko:
 
@@ -139,45 +136,65 @@ jaka książka
 
 zakres plików (np. 001–050)
 
+
 Kliknij Create Pull Request
 
 Na tym etapie Twoja praca jest gotowa.
 
-Po akceptacji Pull Request
+### Krok 5 - Rozpoczęcie kolejnej partii
+
+Dla kolejnej partii przed stworzeniem nowego brancha należy przejść na main:
+
+![alt text](docs/image/checkoutto.png)
+
+
+
+Wybierz main lokalny 
+**!uwaga!** nie wybieraj main z "remote branches"
+
+![alt text](docs/image/mainlocal.png)
+
+Następnie powtórz działania od **Kroku 1** zakładając nowy branch - pamiętaj o odpowiedniej nazwie.
+
+
+
+### Krok 6 - Po akceptacji Pull Request
 
 Po zaakceptowaniu i połączeniu (merge) przez kierownika projektu:
 
-Krok 1 – odświeżenie informacji o repo
-git fetch -p
+Krok 1 – odświeżenie informacji o repo używając polecenia fetch:
 
-Krok 2 – usunięcie lokalnego brancha
-git branch -d NAZWA_BRANCHA
+![alt text](docs/image/fetch.png)
 
 
-To porządkuje lokalną listę branchy.
+Krok 2 – usunięcie lokalnego brancha (branch w repozytorium będzie już usunięty)
 
----
-8️⃣ Rozpoczęcie kolejnej partii
+![alt text](docs/image/deletebranch.png)
 
-Dla kolejnej partii zawsze powtarzasz schemat:
 
-git checkout main
-git pull
-git checkout -b NOWA_NAZWA_BRANCHA
+To porządkuje lokalną listę branchy. 
+
+Nie usuwaj lokalnego brancha dopóki pull request nie został zaakceptowany. Po prostu przejdź do main i stwórz nowy branch. Do poprzednich branchy można wrócić jeśli zajdzie taka potrzeba.
 
 ---
-9️⃣ Kiedy używać git pull?
+## 4️⃣ Kiedy używać git pull?
 
-Używaj:
+Git pull powoduje pobranie aktualnego stanu projektu i nadpisanie stanu lokalnych plików.
 
-zawsze przed rozpoczęciem nowej partii
+**!używaj git pull tylko, gdy jesteś na branchu main!** (Check out to... -> main)
 
-gdy kierownik projektu poinformuje, że projekt został zaktualizowany
+![alt text](docs/image/gitpull.png)
 
-Nie musisz używać git pull w trakcie pracy nad jedną partią.
+Jak i kiedy najbezpieczniej użwać:
+
+- Zawsze przed rozpoczęciem nowej partii, tj. po wysłaniu pull request dla ostatniej partii i przejściu na branch main
+
+- Gdy kierownik projektu poinformuje, że jest to konieczne
+
+- Nie używaj git pull w trakcie pracy nad jedną partią.
 
 ---
-1️⃣0️⃣ Najważniejsze zasady (podsumowanie)
+## 5️⃣ Najważniejsze zasady (podsumowanie)
 
 ✔️ jedna partia = jeden branch
 
