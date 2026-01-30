@@ -69,7 +69,7 @@ imię-nazwaksiazki-nrplikustart-nrplikukoniec
 Przykład:
 anna-dwok02-0001-0050
 
-Kliknij na **Publish branch** (nie trzeba wpisywać wiadmomści)
+Kliknij na **Publish branch** (nie trzeba wpisywać wiadomości)
 
 ![alt text](docs/image/publishbranch.png)
 
@@ -106,20 +106,23 @@ Pliki zapisuj normalnie (Ctrl+S / Cmd+S).
 
 
 - wpisz wiadomość w okienku Message nad przyciskiem **Commit** w formie:
+
 "Nazwaksiazki pliki nrplikustart–nrplikukoniec"
 
 Przykład:
 "DWOK02 pliki 001–050"
 
-Wciśnij **Commit** a następnie **Sync Changes**
+Wciśnij **Commit** a następnie **Sync Changes** (nie trzeba wpisywać wiadomości)
 
 ![alt text](docs/image/sync.png)
 
 ### Krok 4 - Przesłanie pracy do sprawdzenia (Pull Request)
 
-- Sprawdź na [github](https://github.com/annamatuszewska/edycja-humdrum) czy pojawiły się Twoje zmiany.
+- Sprawdź [w repozytorium github projektu](https://github.com/annamatuszewska/edycja-humdrum) czy pojawiły się Twoje zmiany.
+
 Automatycznie powinna się pojawić taka wiadomość:
-![alt text](image.png)
+
+![alt text](docs/image/github-pullrequest.png)
 
 – kliknij na **Compare & pull request**
 
