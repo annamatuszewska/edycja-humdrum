@@ -3,88 +3,108 @@
 !!!source: DWOK13
 !!!id: 13029
 !!!signature: 1302900000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8d
-8g
-8b
-=2
-4dd
-8dd
-=3
-8a
-8a
-8dd
-=4
-16a
-16b
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8d	Będę
+8g	.
+8b	ży-
+=2	=2
+4dd	-nała
+8dd	.
+=3	=3
+8a	trawkę
+8a	.
+8dd	zie-
+=4	=4
+16aL	-lo-
+16b/J	.
+4g}	-ną,
 !!LO:LB:g=esac
-=5
-{8d
-8g
-8b
-=6
-4dd
-16dd
-16cc
-=7
-8a
-8a
-16dd
-16cc
-=8
-16a
-16b
-4g}
+=5	=5
+{8d	będę
+8g	.
+8b	śpie-
+=6	=6
+4dd	-wała
+16dd/L	.
+16cc/J	.
+=7	=7
+8a	pieśń
+8a	u-
+16dd/L	-lu-
+16cc/J	.
+=8	=8
+16aL	-bio-
+16b/J	.
+4g}	-ną.
 !!LO:LB:g=esac
-=9
-{16a
-16a
-8.cc
-16a
-=10
-16b
-16b
-8.dd
-16b
-=11
-16a
-16a
-8.cc
-16a
-=12
-16b
-16b
-8.dd
-16b}
+=9	=9
+{16a	Bo
+16a	mnie
+8.cc	tęskno
+16a	.
+=10	=10
+16b	bez
+16b	miłe-
+8.dd	.
+16b	-go
+=11	=11
+16a	i
+16a	dobrze
+8.cc	.
+16a	mi
+=12	=12
+16b	życzą-
+16b	.
+8.dd	-cego.
+16b}	.
 !!LO:LB:g=esac
-=13
-{16a
-16a
-8cc
-8a
-=14
-8.g
-16b
-16b
-16dd
-=15
-16dd
-16cc
-8a
-8b
-=16
-4g}
-8r
-==
-*-
+=13	=13
+{16a	chłopca
+16a	.
+8cc	moje-
+8a\	.
+=14	=14
+8.g	-go
+16b	matu-
+16b	.
+16dd	-lu,
+=15	=15
+16dd	chłopca
+16cc	.
+8a\	moje-
+8b	.
+=16	=16
+4g}	-go.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Będę żynała trawkę zieloną,
+!!będę śpiewała pieśń ulubioną.
+!!Bo mnie tęskno bez miłego
+!!i dobrze mi życzącego.
+!!chłopca mojego matulu,
+!!chłopca mojego.
+!!@VERSE:
+!!2. Będę ja żynał żytko w snopeczki,
+!!będę pszeniczkę składał w kopeczki,
+!!a gdzie mi się kwiat nawinie,
+!!zerwę i dam go dziewczynie,
+!!mojéj kochanéj jedynéj,
+!!mojéj kochanéj.
+!!@@END: VERSES
+!!!role-singer: Group
+!!!role-listener: Group
+!!!singer-sex: female, male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=42 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 18} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 18}
 !!!page: 18
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-05

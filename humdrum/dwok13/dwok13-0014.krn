@@ -3,79 +3,111 @@
 !!!source: DWOK13
 !!!id: 13014
 !!!signature: 1301400000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M6/8
-=1
-{4cc
-8cc
-4cc
-8a
-=2
-4cc
-8cc
-4cc
-8a
-=3
-4cc
-8cc
-4cc
-8cc
-=4
-4cc
-8cc
-4dd
-8cc}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M6/8	*
+=1	=1
+!LO:TX:a:t=Do Cygara.	!
+{4cc	Z_końcem
+8cc	.
+4cc	moje-
+8a	.
+=2	=2
+4cc	-go
+8cc	cygara,
+4cc	.
+8a	.
+=3	=3
+4cc	kończą
+8cc	.
+4cc	się
+8cc	mo-
+=4	=4
+4cc	-je
+8cc	cierpienia,
+4dd	.
+8cc}	.
 !!LO:LB:g=esac
-=5
-{4b-
-8b-
-8b-
-8cc
-8dd
-=6
-4cc
-8f
-8f
-8g
-8a
-=7
-4g
-8a
-4b-
-8dd
-=8
-4.dd
-8cc}
-4r
+=5	=5
+{4b-	wszystko
+8b-	.
+8b-L	próżność,
+8ccJ	.
+8dd	.
+=6	=6
+4cc	wszystko
+8f	.
+8fL	mara,
+8gJ	.
+8a	.
+=7	=7
+4g	żal
+8a	i
+4b-/	utra-
+8dd/	.
+=8	=8
+4.dd	-pienia,
+8cc}	.
+4r	.
 !!LO:LB:g=esac
-=9
-{4b-
-8b-
-8b-
-8cc
-8dd
-=10
-4cc
-8f
-8f
-8g
-8a
-=11
-4g
-8a
-4b-
-8g
-=12
-4.g
-8f}
-4r
-==
-*-
+=9	=9
+{4b-	wszystko
+8b-	.
+8b-L	próżność,
+8ccJ	.
+8dd	.
+=10	=10
+4cc	wszystko
+8f	.
+8fL	mara,
+8gJ	.
+8a	.
+=11	=11
+4g	żal
+8a	i
+4b-	utra-
+8g\	.
+=12	=12
+4.g	-pienia.
+8f}	.
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Z końcem mojego cygara,
+!!kończą się moje cierpienia,
+!!wszystko próżność, wszystko mara, 
+!!żal i utrapienia.
+!!@VERSE:
+!!2. A ja młody i poczciwy,
+!!znoszę losy mężnie, stale,
+!!nie jestem tak nieszczęśliwy, 
+!!gdy cygaro palę.
+!!@VERSE:
+!!3. Nie zboczyłem z drogi cnoty,
+!!a los mi się smucić każe, —
+!!straciłem drogie przedmioty,
+!!(lecz) szczęśliw przy cygarze.
+!!@VERSE:
+!!4. Może ma śmierć niedaleka,
+!!wszak nie będę istniał wcale, —
+!!niechajże chwilkę poczeka,
+!!(aż) cygaro (me) wypalę.
+!!@VERSE:
+!!5. Człek przyjaciół swych utraci,
+!!przyszłość zamknie księgę starą, 
+!!wszystko się w popiół obróci
+!!jak (oto) moje cygaro.
+!!@@END: VERSES
+!!!role-singer: complex
+!!!role-listener: complex
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=35 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 11} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 11}
 !!!page: 11
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-03

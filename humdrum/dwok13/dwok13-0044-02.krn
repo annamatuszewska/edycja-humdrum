@@ -3,66 +3,94 @@
 !!!source: DWOK13
 !!!id: 13044
 !!!signature: 1304400002
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/4
-=1
-{4cc
-8cc
-8cc
-8b-
-8b-
-=2
-8a
-8a
-8a
-8a
-8g
-8g
-=3
-8f
-8cc
-8cc
-8cc
-8b-
-8b-
-=4
-8a
-8cc
-8a
-8a
-8g
-8g}
-!!LO:LB:g=esac
-=5
-{4f
-8f
-8f
-8g
-8a
-=6
-8b-
-8cc
-2dd
-=7
-8cc
-8ff
-8ee
-8dd
-8cc
-8b-
-=8
-8a
-8g
-4f}
-4r
-==
-*-
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/4	*
+=1	=1
+!LO:TX:a:t=Polski.	!
+{4cc	Niech
+8cc/L	będzie
+8cc/J	.
+8b-/L	Jezus
+8b-/J	.
+=2	=2
+8aL	Chrystus
+8aJ	.
+8a	pochwalony,
+8a	.
+8gL	.
+8gJ	.
+=3	=3
+8fL	powiedz
+8ccJ/	.
+8cc/L	mi
+8cc/J	.
+8b-/L	panno
+8b-/J	.
+=4	=4
+8aL	czy
+8ccJ/	.
+8a	będę
+8a	.
+8gL	kochany,
+8g}J	.
+!!LO:LB:g=esac	.
+=5	=5
+{4f	powiedz
+8f	.
+8f	mi
+8g	panno
+8a	.
+=6	=6
+8b-	coć
+8cc	ważę,
+2dd	.
+=7	=7
+8cc/L	czy
+8ff/J	.
+8ee	się
+8dd	tu
+8cc	bywać
+8b-	.
+=8	=8
+8a	odważę.
+8g	.
+4f}	.
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Niech będzie Jezus Christus pochwalony, 
+!!powiedz mi panno 
+!!czy będę kochany,
+!!powiedz mi panno coć ważę, 
+!!czy się tu bywać odważę.
+!!@VERSE:
+!!2. Powiedz mi panno szczerym dokumentem, 
+!!żeby nie było z próżnym komplimentem. 
+!!Niech sobie koni nie trudzę, 
+!!sam sobie czasu nie mudzę.
+!!@VERSE:
+!!3. Alboż ty konie w złocie szacujesz, 
+!!co ich na moment dla mnie żałujesz. 
+!!Nie trudź ty koni, sam siebie, 
+!!ja się obeńdę bez ciebie. 
+!!@VERSE:
+!!4. Wyszedłszy za próg na wpół zemdlony; 
+!!Niech będzie Jezus Chrystus pochwalony, 
+!!teraz i zawsze, na wieki! 
+!!już cię wypuszczam z opieki
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: male
 !!!ONB: Polski
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=49 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 25} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 25}
 !!!page: 25
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-08

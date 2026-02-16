@@ -3,102 +3,127 @@
 !!!source: DWOK13
 !!!id: 13031
 !!!signature: 1303100000
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M6/8
-=1
-{4f#
-8a
-4g#
-8a
-=2
-4b
-8a
-4f#
-8d
-=3
-4f#
-8f#
-4g
-8c#
-=4
-4.d
-4a}
-8r
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M6/8	*
+=1	=1
+{4f#	Ach
+8a	ja-
+4g#	kiż
+8a	to
+=2	=2
+4b	piękny
+8a	.
+4f#	kwiatek
+8d	.
+=3	=3
+4f#	co
+8f#	ona
+4g	.
+8c#	trzy-
+=4	=4
+4.d	-mała;
+4a}	.
+8r	.
 !!LO:LB:g=esac
-=5
-{4f#
-8a
-4g#
-8a
-=6
-4b
-8a
-4f#
-8d
-=7
-4f#
-8f#
-4g
-8c#
-=8
-4.d
-4a}
-8r
+=5	=5
+{4f#	ach
+8a	nad
+4g#	różę
+8a	.
+=6	=6
+4b	ten
+8a	bławatek,
+4f#	.
+8d	.
+=7	=7
+4f#	bo
+8f#	.
+4g	ona
+8c#	po-
+=8	=8
+4.d	-da-
+4a}	-ła.
+8r	.
 !!LO:LB:g=esac
-=9
-{4c#
-8e
-4a
-8g
-=10
-8f#
-8a
-8dd
-4ff#
-8dd
-=11
-8cc#
-8b
-8a
-8g
-8f#
-8e
-=12
-4f#
-8g
-4a}
-8r
+=9	=9
+{4c#	Ach,
+8e	jak
+4a	słodka
+8g	.
+=10	=10
+8f#	ta
+8a	.
+8dd	jagoda,
+4ff#	.
+8dd	.
+=11	=11
+8cc#L	bo
+8bJ	.
+8a	ona
+8gL	.
+8f#J	.
+8e	po-
+=12	=12
+(<4f#	-da-
+8g)	.
+4a}	-ła;
+8r	.
 !!LO:LB:g=esac
-=13
-{4c#
-8e
-4a
-8g
-=14
-8f#
-8a
-8dd
-4ff#
-8dd
-=15
-8cc#
-8b
-8a
-8g
-8f#
-8e
-=16
-4.f#
-8d}
-8r
-8r
-==
-*-
+=13	=13
+{4c#	ach
+8e	jak
+4a	świeża,
+8g	.
+=14	=14
+8f#	czysta
+8a	.
+8dd	woda,
+4ff#	.
+8dd	.
+=15	=15
+8cc#L	bo
+8bJ	.
+8a	ona
+8gL	.
+8f#J	czer-
+8e	.
+=16	=16
+4.f#	-pała.
+8d}	.
+8r	.
+8r	.
+==	==
+*-	*-
+!!!RDF**kern: <= above
+!!@@BEGIN: VERSES
+!!1. Ach jakiż to piękny kwiatek!
+!!co ona (go) trzymała;
+!!ach nad różę ten bławatek, —
+!!bo ona (go) zerwała.
+!!Ach, jak słodka ta jagoda, —
+!!bo ona podała;
+!!ach jak świeża, czysta woda, —
+!!bo ona czerpała.
+!!@VERSE:
+!!2. Ach bezcenny ten sznureczek, —
+!!bo ona robiła;
+!!ach wieleż wart ten listeczek, —
+!!bo ona zgubiła.
+!!Ach, jak usieść tu przyjemnie, —
+!!bo ona siedziała;
+!!ach, tu ciągnie coś tajemnie, —
+!!bo ona stąpała.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=43 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 19} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 19}
 !!!page: 19
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-05

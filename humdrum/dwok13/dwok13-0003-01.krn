@@ -3,124 +3,142 @@
 !!!source: DWOK13
 !!!id: 13003
 !!!signature: 1300300001
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M3/8
-{16dd
-16dd
-=1
-8dd
-8d
-16dd
-16cc#
-=2
-8cc#
-8b
-16ee
-16dd
-=3
-8.cc#
-16b
-16a
-16g
-=4
-8g
-8f#
-16d
-16dd}
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M3/8	*
+{16dd	Kto
+16dd	bo-
+=1	=1
+8dd	-gaty
+8d	.
+16dd	i
+16cc#	szczę-
+=2	=2
+8cc#	-śliwy,
+8b	.
+16ee	nie
+16dd	wiel-
+=3	=3
+8.cc#	-ka
+16b	rzecz
+16a	że
+16g	cno-
+=4	=4
+8g	-tliwy,
+8f#	.
+16d	lecz
+16dd}	gdy
 !!LO:LB:g=esac
-=5
-{8dd
-8d
-16dd
-16cc#
-=6
-8cc#
-8b
-16a
-16a
-=7
-8.b
-16cc#
-16dd
-16cc#
-=8
-16ee
-16dd
-16cc#
-16b
-16a
-16a
-=9
-8a
-8a
-16g
-16c#
-=10
-8e
-8d}
+=5	=5
+{8dd	idzie
+8d	.
+16dd	nieszczę-
+16cc#	.
+=6	=6
+8cc#	-śliwie,
+8b	.
+16a	to
+16a	jest
+=7	=7
+8.b	sztuka
+16cc#	.
+16dd	żyć
+16cc#	cno-
+=8	=8
+16eeL	-tliwie
+16ddJ	.
+16cc#L	.
+16bJ	.
+16a	to
+16a	jest
+=9	=9
+8a	sztu-
+8a	-ka
+16g	żyć
+16c#	cno-
+=10	=10
+8e	tliwie.
+8d}	.
 !!LO:LB:g=esac
-=-
-{16dd
-16dd
-=11
-8dd
-8d
-16dd
-16cc#
-=12
-8cc#
-8b
-16ee
-16dd
-=13
-8.cc#
-16b
-16a
-16g
-=14
-8g
-8f#
-16d
-16dd}
+=-	=-
+{16dd	Kto
+16dd	bo-
+=11	=11
+8dd	-gaty
+8d	i
+16dd	szczę-
+16cc#	.
+=12	=12
+8cc#	-śliwy,
+8b	.
+16ee	nie
+16dd	wiel-
+=13	=13
+8.cc#	-ka
+16b	rzecz
+16a	że
+16g	cno-
+=14	=14
+8g	-tliwy,
+8f#	.
+16d	lecz
+16dd}	gdy
 !!LO:LB:g=esac
-=15
-{8dd
-8d
-16dd
-16cc#
-=16
-8cc#
-8b
-16a
-16a
-=17
-8.b
-16cc#
-16dd
-16ee
-=18
-16ee
-16dd
-16cc#
-16b
-16a
-16a
-=19
-8a
-8a
-16g
-16c#
-=20
-8e
-8d}
-==
-*-
+=15	=15
+{8dd	idzie
+8d	.
+16dd	nieszczę-
+16cc#	.
+=16	=16
+8cc#	-śliwie,
+8b	.
+16a	to
+16a	jest
+=17	=17
+8.b	sztuka
+16cc#	.
+16dd/L	żyć
+16ee/J	cno-
+=18	=18
+16eeL	-tliwie,
+16ddJ	.
+16cc#L	.
+16bJ	.
+16a	to
+16a	jest
+=19	=19
+8a	sztuka
+8a	.
+16g	żyć
+16c#	cno-
+=20	=20
+8e	-tliwie.
+8d}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!	Kto bogaty i szczęśliwy,
+!!	nie wielka rzecz że cnotliwy,
+!!	lecz gdy idzie nieszczęśliwie, 
+!!	to jest sztuka żyć cnotliwie,
+!!	to jest sztuka żyć cnotliwie.
+
+!!@VERSE: 
+!!	2. W więzieniach mnie osadzają, 
+!!	ciężki los sercu zadają, 
+!!	każą żyć w ciężkiéj sromocie, 
+!!	to jest sztuka żyć przy cnocie.
+!!@@END: VERSES
+!!!role-singer: Brother
+!!!role-listener: Brother
+!!!singer-sex: male
 !!!ONB: Wersja z przedtaktem
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=28 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 4} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 4}
 !!!page: 4
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-01-31

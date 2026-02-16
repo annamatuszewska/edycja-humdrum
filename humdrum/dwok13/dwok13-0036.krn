@@ -3,74 +3,93 @@
 !!!source: DWOK13
 !!!id: 13036
 !!!signature: 1303600000
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M3/8
-=1
-{16dd
-16dd
-8.ff
-16dd
-=2
-16ee-
-16dd
-8cc
-8b-
-=3
-16a
-16b-
-8.cc
-16dd
-=4
-16a
-16b-
-8dd
-8f}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=muzyka T. Klonowskiego	!
+{16dd	Na
+16dd	jarmarczek
+8.ff	.
+16dd	.
+=2	=2
+16ee-	się
+16dd	wyprawię,
+8cc	.
+8b-	.
+=3	=3
+16a\	zwierciadełko
+16b-	.
+8.cc	.
+16dd	.
+=4	=4
+16a\	sobie
+16b-	.
+8dd	wprawię,
+8f}	.
 !!LO:LB:g=esac
-=5
-{16dd
-16dd
-8.ff
-16dd
-=6
-16ee-
-16dd
-8cc
-8b-
-=7
-16a
-16b-
-8.cc
-16dd
-=8
-16ee-
-16ee-
-8dd
-8f}
+=5	=5
+{16dd	będę
+16dd	się
+8.ff	w_niem
+16dd	.
+=6	=6
+16ee-	przeglądała,
+16dd	.
+8cc	.
+8b-	.
+=7	=7
+16a\	przymilała
+16b-	.
+8.cc	.
+16dd	a
+=8	=8
+16ee-/L	śpiewała,
+16ee-/J	.
+8dd	.
+8f}	.
 !!LO:LB:g=esac
-=9
-{16a
-16b-
-8.cc
-16a
-=10
-8b-
-4ff
-=11
-16ee-
-16ee-
-8.dd
-16f
-=12
-16a
-16cc
-4b-}
-==
-*-
+=9	=9
+{16a\	dana,
+16b-	.
+8.cc	dana,
+16a	.
+=10	=10
+8b-	dana,
+4ff	.
+=11	=11
+16ee-	dana,
+16ee-	.
+8.dd	dana,
+16f	.
+=12	=12
+16aL	dana.
+16cc/J	.
+4b-}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Na jarmarczek się wyprawię,
+!!zwierciadełko sobie sprawię,
+!!będę się w niem przeglądała,
+!!przymilała a śpiewała,
+!!dana, dana, dana, dana.
+!!@VERSE:
+!!2. Jak nie śpiewać, kiedym rada,
+!!gdy Jasinek ze mną gada,
+!!chwali stroje, buzię chwali,
+!!aż mnie jakiś ogień pali,
+!!dana, dana, dana, dana.
+!!@@END: VERSES
+!!!role-singer: Mistress
+!!!role-listener: lovers
+!!!singer-sex: female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=45 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 21-22} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, pp. 21-22}
 !!!page: 21-22
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-06

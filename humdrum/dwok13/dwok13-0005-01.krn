@@ -3,98 +3,160 @@
 !!!source: DWOK13
 !!!id: 13005
 !!!signature: 1300500001
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M3/8
-=1
-{16f
-16f
-8.b-
-16a
-=2
-16g
-16g
-8ee-
-8dd
-=3
-16dd
-16cc
-8g
-8a
-=4
-16cc
-16b-
-8a
-8g}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Tandéta.	!
+{16f		Słyszałem
+16f	.
+8.b-	.
+16a	o
+=2	=2
+16g	jednéj
+16g	.
+8ee-	pani
+8dd	.
+=3	=3
+16dd	co
+16cc	godnego
+8g	.
+8a	.
+=4	=4
+16cc	męża
+16b-	.
+8a\	miała,
+8g}\	.
 !!LO:LB:g=esac
-=5
-{16f
-16f
-8.b-
-16a
-=6
-16g
-16g
-8ee-
-8dd
-=7
-16dd
-16cc
-8g
-8a
-=8
-16cc
-16b-
-8a
-8b-}
+=5	=5
+{16f	on
+16f	by
+8.b-	życie
+16a	.
+=6	=6
+16g	oddał
+16g	.
+8ee-	dla
+8dd	niéj,
+=7	=7
+16dd	ona
+16cc	.
+8g	za
+8a	in-
+=8	=8
+16cc	-nym
+16b-	szalała.
+8aL	.
+8b-}J	.
 !!LO:LB:g=esac
-=9
-{16cc
-16cc
-8a
-8f
-=10
-16dd
-16b-
-8b-
-8b-
-=11
-16cc
-16cc
-8a
-8f
-=12
-16dd
-16b-
-8b-
-8b-}
+=9	=9
+{16cc	A
+16cc	choć
+8a	nie
+8f	mia-
+=10	=10
+16dd	-ła
+16b-	powo-
+8b-	.
+8aq	.
+8b-	du,
+=11	=11
+16cc	poszła
+16cc	.
+8a	jednak
+8f	.
+=12	=12
+16dd	do
+16b-	rozwodu,
+8b-	.
+8b-}	.
 !!LO:LB:g=esac
-=13
-{16f
-16f
-8.b-
-16a
-=14
-16g
-16g
-8ee-
-8dd
-=15
-16dd
-16cc
-8g
-8a
-=16
-16.cc
-32b-
-8a
-8b-}
-==
-*-
+=13	=13
+{16f	taką
+16f	.
+8.b-	zalo-
+16a\	.
+=14	=14
+16g	-tną
+16g	kobiétę,
+8ee-	.
+8dd	.
+=15	=15
+16dd	wieszać
+16cc	.
+8g	zaraz
+8a	.
+=16	=16
+16.cc	na
+32b-	tandetę.
+8a\	.
+8b-}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Słyszałem o jednéj pani
+!!co godnego męża miała
+!!on by życie oddał dla niéj,
+!!ona za innym szalała.
+!!A choć nie miała powodu,
+!!poszła jednak do rozwodu,
+!!taką zalotną kobiétę,
+!!wieszać zaraz na tandetę.
+!!@VERSE:
+!!2. Żonka w domu z dziećmi płacze,
+!!pan mąż koło innéj skacze;
+!!co dręczysz słabą kobietę!
+!!ruszaj, bracie, na tandétę.
+!!Żoneczka w domu pracuje,
+!!albo się z dziećmi mozoli,
+!!mąż po placu spaceruje,
+!!i winko albo poncz goli.
+!!@VERSE:
+!!3. Młodzik co ukończył szkoły,
+!!z laseczką bruki szlifuje,
+!!chociaż głupi, chociaż goły,
+!!przecież starszym imponuje.
+!!Ciągle na łbie czub zadziera,
+!!gdzie nietrzeba, tam zaziera.
+!!Co po próżniakach na świecie!
+!!niechaj wiszą na tandćcie.
+!!@VERSE:
+!!4. Panna co się ciągle stroji,
+!!za młodzieżą oczkiem ściga,
+!!po całych dniach w oknie stoji
+!!i każdemu chłopu dyga.
+!!Na romansach się rozumie,
+!!pończoszki zacząć nie umie;
+!!takie panienki w sekrecie,
+!!sprzedają się na tandćcie.
+!!@VERSE:
+!!5. Czytać ojców naszych dzieje,
+!!był to zwyczaj dawnych matek,
+!!lub czynić sobie nadzieję,
+!!z dobrze wychowanych dziatek.
+!!Lecz dzisiaj panienka w mieście,
+!!zaufana w swym rozumie,
+!!czytała romansów dwieście,
+!!a koszuli szyć nie umie.
+!!@VERSE:
+!!6. Zagra co na fortepianie,
+!!po fnyicusku zaszczebiecze,
+!!opowiedzieć nie jest w stanie,
+!!w jaki sposób chlćb się piecze.
+!!Zaśpiewa co przy gitarze,
+!!wizyty często przyjmuje;
+!!rozmawia tylko o parze,
+!!kaszy gotować nie umie.		
+!!@@END: VERSES
+!!!role-singer: Brother
+!!!role-listener: Brother
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=29 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 5} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 5}
 !!!page: 5
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-01

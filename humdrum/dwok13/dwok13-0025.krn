@@ -3,78 +3,114 @@
 !!!source: DWOK13
 !!!id: 13025
 !!!signature: 1302500000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{8ff
-8.ee
-16dd
-=2
-4cc
-8a
-=3
-8g
-8.g
-16b-
-=4
-8dd
-4cc}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{8ff	Już
+8.ee	mi
+16dd	mi-
+=2	=2
+4cc	nęło
+8a	.
+=3	=3
+8g	piętnaście
+8.g	.
+16b-	.
+=4	=4
+8dd	latek,
+4cc}	.
 !!LO:LB:g=esac
-=5
-{8ff
-8.ee
-16dd
-=6
-4cc
-8a
-=7
-8g
-8.g
-16b-
-=8
-8a
-4f}
+=5	=5
+{8ff	trzeba
+8.ee	.
+16dd	się
+=6	=6
+4cc	wpisać
+8a	.
+=7	=7
+8g	w_rejestr
+8.g	.
+16b-	mę-
+=8	=8
+8a	-żatek.
+4f}	.
 !!LO:LB:g=esac
-=9
-{16a
-16b-
-8cc
-8b-
-=10
-16b-
-16a
-8dd
-8cc
-=11
-4ff
-8ee
-=12
-4ff}
-8r
+=9	=9
+{16a\	Przybywajcie
+16b-	.
+8cc	.
+8b-	.
+=10	=10
+16a	miłe
+16b-/	.
+8dd	chłopcy
+8cc	.
+=11	=11
+4ff	a
+8ee	sko-
+=12	=12
+4ff}	-ro,
+8r	.
 !!LO:LB:g=esac
-=13
-{16a
-16b-
-8cc
-8b-
-=14
-16a
-16b-
-8dd
-8b-
-=15
-4a
-8g
-=16
-4f}
-8r
-==
-*-
+=13	=13
+{16a\	bo
+16b-	ja
+8cc	sobie
+8b-	.
+=14	=14
+16a\	z_was
+16b-	jednego
+8dd	.
+8b-	.
+=15	=15
+4a	wybio-
+8g	.
+=16	=16
+4f}	-rę.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Już mi minęło piętnaście latek
+!!trzeba się wpisać w rejestr mężatek.
+!!Przybywajcie miłe chłopcy a skoro,
+!!bo ja sobie z was jednego wybiorę.
+!!@VERSE:
+!!2. Sędziego niechcę, choć wiele sądzi,
+!!bo chociaż sądzi, często pobłądzi.
+!!Ztąd nowe zwady pomiędzy sąsiady,
+!!a ja dawno nie lubiłam zwady.
+!!@VERSE:
+!!3.Francuza nie chcę, on różowany,
+!!surducik piękny, sam fryzowany.
+!!Skacze, kręci się jak pupka, Boże!
+!!w takim chłopcu któż zakochać się może.
+!!@VERSE:
+!!4. Pisarza nie chcę, cienkiego smyka,
+!!bo mało mówi, dużo połyka.
+!!Stoji, sapie, a wciąż bazgrze aż nudno;
+!!w takim chłopcu zakochać się trudno.
+!!@VERSE:
+!!5. Żołnierza nie chcę, choć pięknie prosi,
+!!niechże on sobie tornister nosi.
+!!Żołnierza serce niestałe, marszowe,
+!!prędkoby mnie wykierował na wdowę.
+!!@VERSE:
+!!6. Mam-ci ja chłopca, jest pełen cnoty,
+!!kocham go szczerze, z całéj ochoty.
+!!Dam mu buzi i co więcéj, niech zgadnie —
+!!i uściskam, ucałuję tak ładnie.
+!!@@END: VERSES
+!!!role-singer: unmarried woman
+!!!role-listener: Group
+!!!singer-sex: female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=40 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 16} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 16}
 !!!page: 16
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-03

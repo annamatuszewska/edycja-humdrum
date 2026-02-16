@@ -3,76 +3,121 @@
 !!!source: DWOK13
 !!!id: 13004
 !!!signature: 1300400000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16cc
-16cc
-8cc
-8cc
-=2
-16b
-16a
-8b
-8g
-=3
-16g
-16b
-8dd
-8dd
-=4
-16ee
-16dd
-8cc
-8cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16cc	Teraźniejsze
+16cc	.
+8cc	.
+8cc	.
+=2	=2
+16b	świata
+16a\	.
+8b	żądze,
+8g	.
+=3	=3
+16g	są
+16b	.
+8dd	pieniądze,
+8dd	.
+=4	=4
+16ee	są
+16dd	pieniądze,
+8cc	.
+8cc}	.
 !!LO:LB:g=esac
-=5
-{16cc
-16cc
-8cc
-8cc
-=6
-16b
-16a
-8b
-8g
-=7
-16g
-16b
-8dd
-8dd
-=8
-16ee
-16dd
-8cc
-8cc}
+=5	=5
+{16cc	Za
+16cc	pieniądze
+8cc	.
+8cc	.
+=6	=6
+16b	wszystkie
+16a\	.
+8b	stany,
+8g	.
+=7	=7
+16g	sędzie,
+16b	.
+8dd	wojsko,
+8dd	.
+=8	=8
+16ee	księża,
+16dd	.
+8cc	pany.
+8cc}	.
 !!LO:LB:g=esac
-=9
-{16g
-16g
-8ee
-8cc
-=10
-16a
-16a
-4dd
-=11
-16b
-16b
-8a
-8b
-=12
-16dd
-16cc
-8cc}
-8r
-==
-*-
+=9	=9
+{16g	Teraźniejszy
+16g	.
+8ee	.
+8cc	.
+=10	=10
+16a	świata
+16a	.
+4dd	czas,
+=11	=11
+16b	za
+16b	pieniądze
+8a\	.
+8b	.
+=12	=12
+16dd	lubią
+16cc	.
+8cc}	nas.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Teraźniejsze świata żądze, 
+!!są pieniądze, są pieniądze. 
+!!Za pieniądze wszystkie stany, 
+!!sędzie, wojsko, księża, pany. 
+!!Teraźniejszy świata czas: 
+!!za pieniądze lubią nas.
+!!@VERSE:
+!!2. Za pieniądze ksiądz się modli, 
+!!za pieniądze lud się podli, 
+!!za pieniądze prawnik staje, 
+!!i sędzia wyrok daje. 
+!!Teraźniejszy świata plan, 
+!!kto pieniądze ma, to pan. 
+!!@VERSE:
+!!3. Teraz damy uważają, 
+!!za pieniądze ręce dają. 
+!!Za pieniądze wszystko będzie, 
+!!sława, honor, urząd wszędzie. 
+!!Teraźniejszy świata traf, 
+!!kto pieniądze ma, to graf.
+!!@VERSE:
+!!4. A gdy tylko słyszeć da się: 
+!!że panienka nie źle ma się; — 
+!!zaraz piękna i uczona, 
+!!choć wygląda na gawrona. 
+!!(v. A gdy czasem słyszeć da się: 
+!!tam panienka dobrze ma się, — 
+!!śliczna, piękna i uczona, 
+!!choć spogląda jako wrona). 
+!!Teraźniejszych chłopców gust, 
+!!za pieniądze dotknąć ust.
+!!@VERSE:
+!!5. Choćby była w ambarasie, 
+!!bierz się do niéj w dobrym czasie; 
+!!nie uważaj na te fraszki, 
+!!byle miała złote blaszki. 
+!!Teraźniejszy chłopców szał, 
+!!brać z pieniędzmi co Bóg dał.
+!!@@END: VERSES
+!!!role-singer: Brother
+!!!role-listener: Brother
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=28 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 4} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 4}
 !!!page: 4
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-01-31

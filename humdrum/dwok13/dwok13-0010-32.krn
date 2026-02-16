@@ -3,55 +3,85 @@
 !!!source: DWOK13
 !!!id: 13010
 !!!signature: 1301000032
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M3/8
-=1
-{16a
-16a
-8b
-8a
-=2
-16dd
-16dd
-8cc#
-8b
-=3
-16.a
-32a
-8g
-16a
-16g
-=4
-4f#}
-8r
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M3/8	*
+=1	=1
+{16a	lecz
+16a	głośniejsze
+8b/	.
+8a	.
+=2	=2
+16dd	chłopskie
+16dd	.
+8cc#X	tony
+8b	.
+=3	=3
+16.a	głośniéj
+32a	.
+8g	piosnka
+16aL	.
+16gJ	.
+=4	=4
+4f#}	brzmi,
+8r	.
 !!LO:LB:g=esac
-=5
-{16a
-16a
-8b
-8a
-=6
-16.dd
-32dd
-8cc#
-8b
-=7
-32b
-32a
-16gg
-8.ee
-16cc#
-=8
-4dd}
-8r
-==
-*-
+=5	=5
+{16a	lecz
+16a	głośniejsze
+8b/	.
+8a	.
+=6	=6
+16.dd	chłopskie
+32dd	.
+8cc#X	tony,
+8b	.
+=7	=7
+32b/L	głośniéj
+32a	.
+16gg/J	piosnka
+8.ee	.
+16cc#X	.
+=8	=8
+4dd}	brzmi.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Ach mój Boże, ach mój Panie, źle na świecie źle,
+!!z biedą człowiek rano wstaje, z biedą kładzie się.
+!!Mróz na dworze i wiatr wieje i do chaty dmie,
+!!na kominie skra nie tleje niema drzewa, nie.
+!!W jasnym dworze tańczą pany i kapela grzmi,
+!!lecz głośniejsze chłopskie tony
+!!głośniéj piosnka brzmi.
+!!lecz głośniejsze chłopskie tony,
+!!głosniéj piosnka brzmi.
+!!@VERSE:
+!!2. Drzewa niéma, chleba niéma,
+!!w chacie mróz i głód,
+!!ciężkie lato, cięższa zima,
+!!na ubogi ród.
+!!Źle na świecie, ach okrutnie,
+!!że aż dusza drży,
+!!a tak w sercu gorzko, smutnie,
+!!że aż w oczach łzy.
+!!@VERSE:
+!!3. W jasnym dworze tańczą pany,
+!!i kapela grzmi,
+!!lecz głośniejsze chłopskie tany,
+!!głośniéj piosnka brzmi.
+!!@@END: VERSES
+!!!role-singer: Complex
+!!!role-listener: Group
+!!!singer-sex: Complex
 !!!ONB: Wariant Fragmentu melodii w D z tekstem lecz głośniejsze chłopskie tony
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=33 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 9} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 9}
 !!!page: 9
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-16

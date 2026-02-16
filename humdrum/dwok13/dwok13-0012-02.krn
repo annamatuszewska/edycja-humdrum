@@ -3,88 +3,100 @@
 !!!source: DWOK13
 !!!id: 13012
 !!!signature: 1301200002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{4dd
-4dd
-8cc
-8a
-=2
-8g
-8b
-4a
-8f#
-8d
-=3
-4dd
-4dd
-8cc
-8a
-=4
-2.b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{4dd	Na
+4dd	dolinie
+8cc	.
+8a\	.
+=2	=2
+8g	zawie-
+8b/	.
+4a	-rucha
+8f#L	.
+8dJ	.
+=3	=3
+4dd	mokrym
+4dd	.
+8cc	śniegiem
+8a\	.
+=4	=4
+2.b}	dmie,
 !!LO:LB:g=esac
-=5
-{4dd
-4dd
-8cc
-8a
-=6
-8g
-8b
-4a
-8f#
-8d
-=7
-8dd
-8dd
-4cc
-4a
-=8
-2.g}
+=5	=5
+{4dd	na
+4dd	kominie
+8cc	.
+8a\	.
+=6	=6
+8g	ogień
+8b/	.
+4a	dmucha
+8f#L	.
+8dJ	.
+=7	=7
+8dd	trzaska
+8dd	.
+4cc	obok
+4a	.
+=8	=8
+2.g}	mnie.
 !!LO:LB:g=esac
-=9
-{4cc
-4a
-8cc
-8ee
-=10
-8ee
-8ee
-4.dd
-8b
-=11
-4cc
-4a
-8cc
-8ee
-=12
-2.dd}
+=9	=9
+{4cc/	Przed
+4a	kominem
+8cc	.
+8ee	.
+=10	=10
+8ee	stoję
+8ff#q	.
+8ee	.
+4.dd	z_fajką;
+8b	.
+=11	=11
+4cc/	puszczam
+4a	.
+8cc	w_komin
+8ee	.
+=12	=12
+2.dd}	dym,
 !!LO:LB:g=esac
-=13
-{8b
-8a
-4cc
-4ee
-=14
-8cc#
-8dd
-4.gg
-8b
-=15
-8dd
-8dd
-4cc
-4a
-=16
-2.g}
-==
-*-
+=13	=13
+{8b	a
+8a\	wspomnienia
+4cc	.
+4ee	.
+=14	=14
+8cc#	wszystkie
+8dd	.
+4.gg	moje
+8b	.
+=15	=15
+8dd	lecą
+8dd	.
+4cc	razem
+4a	.
+=16	=16
+2.g}	z_nim.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Na dolinie zawierucha mokrym śniegiem dmie,
+!!na kominie ogień dmucha, trzaska obok mnie.
+!!Przed kominem stoję z fajką; puszczam w komin dym, 
+!!a wspomnienia wszystkie moje lecą razem z nim.
+!!@@END: VERSES
+!!!role-singer: complex
+!!!role-listener: complex
+!!!singer-sex: complex
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=34 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 10} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 10}
 !!!page: 10
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-03
