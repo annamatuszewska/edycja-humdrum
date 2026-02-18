@@ -3,52 +3,64 @@
 !!!source: DWOK13
 !!!id: 13092
 !!!signature: 1309200000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16.cc
-32cc
-8cc
-8g
-=2
-16.ee
-32ee
-8ee
-8cc
-=3
-16gg
-16gg
-8g
-16cc
-16ee
-=4
-4.gg}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16.cc	Praw-
+32cc	-dę
+8cc	mówił
+8g	.
+=2	=2
+16.ee	Ku-
+32ee	-ba
+8ee	stary,
+8cc	.
+=3	=3
+8gq	.
+16gg	Bóg
+16gg	mu
+8g	zdro-
+16ccL	.
+16eeJ	-wie
+=4	=4
+4.gg}	daj,
 !!LO:LB:g=esac
-=5
-{16.ff
-32ee
-8dd
-8g
-=6
-16.ee
-32dd
-8cc
-8a
-=7
-16dd
-16b
-8g
-16ff
-16ee
-=8
-4.cc}
-==
-*-
+=5	=5
+{16.ff	nie
+32ee	maszci
+8dd	.
+8g	jak
+=6	=6
+16.ee	świat
+32dd	széro-
+8cc	.
+8a	-ki,
+=7	=7
+16dd	nad
+16b	nasz
+8g	pol-
+16ffL	-ski
+16eeJ	.
+=8	=8
+4.cc}	kraj.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Prawdę mówił Kuba stary,
+!!Bóg mu zdrowie daj,
+!!nie maszci jak świat széroki,
+!!nad nasz polski kraj.
+!!@@END: VERSES
+!!!role-singer: Complex
+!!!role-listener: Group
+!!!singer-sex: Complex
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=77 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 53} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 53}
 !!!page: 53
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-15

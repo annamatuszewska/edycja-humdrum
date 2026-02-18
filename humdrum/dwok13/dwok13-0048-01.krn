@@ -3,86 +3,168 @@
 !!!source: DWOK13
 !!!id: 13048
 !!!signature: 1304800001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16b
-16dd
-8cc#
-8dd
-=2
-16ee
-16dd
-8b
-8g
-=3
-16a
-16f#
-8d
-8b
-=4
-4.g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16b	A
+16dd	witaj-
+8cc#	.
+8dd	-że
+=2	=2
+16ee	jak
+16dd	się
+8b	miewasz
+8g\	.
+=3	=3
+16a	Kasiu
+16f#	.
+8d	jedy-
+8b	.
+=4	=4
+4.g}	-na?
 !!LO:LB:g=esac
-=5
-{16b
-16dd
-8cc#
-8dd
-=6
-16ee
-16dd
-8b
-8g
-=7
-16a
-16f#
-8d
-8b
-=8
-4.g}
+=5	=5
+{16b	czy
+16dd	ty
+8cc#	sobie
+8dd	.
+=6	=6
+16ee	przypominasz
+16dd	.
+8b	.
+8g\	.
+=7	=7
+16a	twego
+16f#	.
+8d	Marci-
+8b	.
+=8	=8
+4.g}	-na,
 !!LO:LB:g=esac
-=9
-{16a
-16a
-8b
-8a
-=10
-16dd
-16dd
-8cc#
-8b
-=11
-16a
-16cc#
-8ee
-8ff#
-=12
-4.dd}
+=9	=9
+{16a	co
+16a	to
+8b/	z_tobą
+8a	.
+=10	=10
+16dd	tam
+16dd	na
+8cc#	wieńcu
+8b	.
+=11	=11
+16a\	tę-
+16cc#	-go
+8ee	wywijał,
+8ff#	.
+=12	=12
+4.dd}	.
 !!LO:LB:g=esac
-=13
-{16b
-16dd
-8cc#
-8dd
-=14
-16ee
-16dd
-8b
-8g
-=15
-16a
-16f#
-8d
-8b
-=16
-4.g}
-==
-*-
+=13	=13
+{16b	i
+16dd	od
+8cc#	rana
+8dd	.
+=14	=14
+16ee	do
+16dd	wieczora
+8b	.
+8g	.
+=15	=15
+16a	zdrowie
+16f#	.
+8d	twe
+8b	spi-
+=16	=16
+4.g}	-jał.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A witajże  jak się miewasz Kasiu jedyna?
+!!czy ty sobie przypominasz twego Marcina,
+!!co to z tobą tam na wieńcu tęgo wywijał,
+!!i od rana do wieczora zdrowie twe spijał.
+!!Jak się miewasz? toć cię witam,
+!!Kasiu jedyna, —
+!!poznasz że ty, toć cię pytam,
+!!twego Marcina?
+!!Wszakżem z tobą raz na wieńcu (dożynkach)
+!!tęgo wywijał,
+!!i do rana ci w gościeńcu
+!!na zdrowie pijał.
+!!@VERSE:
+!!2. Bóg ci zapłać, téż cię witam,
+!!drogi Marcinie!
+!!i o zdrowie tylko pytam
+!!twoje jedynie.
+!!Odtąd, bracie, com się z tobą
+!!rozstać musiała,
+!!tom pokoju i u ojców
+!!nigdy nie miała.
+!!@VERSE:
+!!3. Tatuś-ci mnie, ach, swatają
+!!z starym Maciejem,
+!!a macocha biją, łają,
+!!że nieraz nie jem!
+!!Tak więc muszę płakać, ślochać;
+!!moja-ż zaś wina,
+!!że nie mogę Maćka kochać,
+!!tylko Marcina.
+!!@VERSE:
+!!4. O chodż-że tu, Kasiu droga,
+!!niech cię utulę!
+!!tylko nie płacz mi, na Boga!
+!!sam się-ć rozczulę.
+!!Wnet oboje w niskiéj chatce
+!!rzucim się śmiele
+!!do nóg ojcu, do nóg matce,
+!!będzie wesele!
+!!@VERSE:
+!!5. Napadła-ć mię właśnie wczora
+!!wielka tęsknica,
+!!iżem zaraz szedł do dwora,
+!!prosić dziedzica.
+!!Żeby mi téż iść pozwolił
+!!tutaj w tę stronę,
+!!cobym sobie, Kasiu, ciebie
+!!wybrał na żonę.
+!!@VERSE:
+!!6. O i mnie to, ach, nad ciebie
+!!nikt nie milejszy,
+!!świadkiem tego Pan Bóg w niebie
+!!i dzień dzisiejszy.
+!!Trapiłam się z tém co czuję,
+!!jak z jaką winą!
+!!a tak szczérze cię miłuję,
+!!aż łzy mi płyną.
+!!@VERSE:
+!!7. Jakeś się po tańcu rozstał
+!!ze mną, nieboże!
+!!W sercu-ś mi na wieki został,
+!!tu-ś i w téj porze.
+!!Jak cię wzięli do żołnierzy,
+!!ażem omdlała,
+!!i za ciebie jak najszczerzéj
+!!Boga'm błagała.
+!!@VERSE:
+!!8. Niech ci, Kasiu, Bóg zapłaci
+!!za Twoje serce, —
+!!już-ci mi się, już sprzykrzyło
+!!żyć w poniewierce.
+!!I mówiłem już z grajkami,
+!!słowo mi dali;
+!!w trzy niedziele, jest wesele,
+!!będą nam grali.
+!!@@END: VERSES
+!!!role-singer: Lover, Mistress
+!!!role-listener: Lover, Mistress
+!!!singer-sex: male, female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=51 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 27} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 27}
 !!!page: 27
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-11

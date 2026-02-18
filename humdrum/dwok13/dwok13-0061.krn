@@ -3,74 +3,99 @@
 !!!source: DWOK13
 !!!id: 13061
 !!!signature: 1306100000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16e
-16g
-8.cc
-16e
-=2
-16d
-16f
-8a
-8d
-=3
-16d
-16a
-8.g
-16d
-=4
-16e
-16a
-4g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16e	O
+16g	mym
+8.cc	lubym
+16e	.
+=2	=2
+16d	zawsze
+16f	.
+8a	myślę,
+8d	.
+=3	=3
+16d	przy
+16a	nim
+8.g	tylko
+16d\	.
+=4	=4
+16e	pragnę
+16a	.
+4g}	być,
 !!LO:LB:g=esac
-=5
-{16g
-16ee
-8.cc
-16e
-=6
-16f
-16g
-8a
-8d
-=7
-16d
-16a
-8.g
-16f
-=8
-16d
-16e
-4c}
+=5	=5
+{16g	ale
+16ee	.
+8.cc	mama
+16e	.
+=6	=6
+16f	mi
+16g	nie
+8a	każe
+8d	.
+=7	=7
+16d	o
+16a	miłości
+8.g	.
+16f	.
+=8	=8
+16d	jeszcze
+16e	.
+4c}	śnić.
 !!LO:LB:g=esac
-=9
-{16g
-16ee
-8.cc
-16e
-=10
-16f
-16g
-8a
-8d
-=11
-16d
-16a
-8.g
-16f
-=12
-16d
-16e
-4c}
-==
-*-
+=9	=9
+{16g	ale
+16ee	.
+8.cc	mama
+16e	.
+=10	=10
+16f	mi
+16g	nie
+8a	każe
+8d	.
+=11	=11
+16d	o
+16a	miłości
+8.g	.
+16f	.
+=12	=12
+16d	jeszcze
+16e	.
+4c}	śnić.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. O mym lubym zawsze myślę,
+!!przy nim pragnę być,
+!!ale mama mi nie każe o miłości jeszcze śnić.
+!!@VERSE:
+!!2. Mama mówi, żem dziecinna,
+!!że to tylko sercu żal,
+!!ach mój Boże, cóż ja winna?
+!!kiedy luby serce dał.
+!!@VERSE:
+!!3. On mnie kocha całą siłą,
+!!ja téż z duszy kocham go,
+!!jak nie kochać, gdy tak miło
+!!dzielić z lubym szczęście to.
+!!@VERSE:
+!!4. Sama nie wiem co mam robić,
+!!drę z rozpaczy wieniec róż,
+!!może też przebłagam mamę, —
+!!z młodych lat kochała już.
+!!@@END: VERSES
+!!!role-singer: Daughter
+!!!role-listener: Complex
+!!!singer-sex: female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=59 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 35} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 35}
 !!!page: 35
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-11

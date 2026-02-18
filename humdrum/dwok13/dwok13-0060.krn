@@ -3,115 +3,154 @@
 !!!source: DWOK13
 !!!id: 13060
 !!!signature: 1306000000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M4/4
-=1
-{4f
-8a
-8cc
-4ff
-8ee
-8ff
-=2
-8ee
-8dd
-4dd
-2r
-=3
-4cc
-8cc
-8cc
-8ee
-8dd
-8cc
-8g
-=4
-4.cc
-8b-
-8a
-8r
-8c
-8c}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M4/4	*
+=1	=1
+!LO:TX:a:t=I to minie.	!
+{4f	Wiosna
+8a	.
+8cc	się
+4ff	mile
+8ee	.
+8ff	u-
+=2	=2
+8eeL	-śmiecha,
+8ddJ	.
+4dd	.
+2r	.
+=3	=3
+4cc	kwitną
+8cc	.
+8cc	już
+8ccq	.
+(8eeL	róże
+8ddJ	.
+8cc)	w
+8g\	do-
+=4	=4
+(4.cc	-linie,
+8b-)	.
+8a	.
+8r	.
+8c	słowik
+8c}	.
 !!LO:LB:g=esac
-=5
-{4.a
-8g
-4f
-8g
-8a
-=6
-4.cc
-8b-
-4g
-4r
-=7
-2a
-4g
-4cc
-=8
-8cc
-8f
-4r
-4r
-4a}
+=5	=5
+{4.a	dumką
+8g	.
+4f	bu-
+8g	.
+8a	-dzi
+=6	=6
+(4.cc	e-
+8b-)	.
+4g	-cha,
+4r	.
+=7	=7
+2a	ach
+4g	i
+4cc	to
+=8	=8
+8cc	minie!
+8f	.
+4r	.
+4r	.
+4a}	Ja
 !!LO:LB:g=esac
-=9
-{4a
-4e
-8r
-8e
-8.a
-16g
-=10
-4g
-4f
-4r
-4a
-=11
-4.g
-8g
-16f#
-16g
-16b
-16a
-16g
-16f
-16e
-16d
-=12
-4d
-4c
-4r
-8c
-8c}
+=9	=9
+{4a	nucę
+4e	.
+8r	.
+8e	i
+8.a	splatam
+16g	.
+=10	=10
+4g	wianki
+4f	.
+4r	.
+4a	rad
+=11	=11
+4.g	jestem
+8g	.
+16f#L	lu-
+16g	.
+16b	.
+16aJ	.
+16gL	-béj
+16f	.
+16eJ	.
+16d	dru-
+=12	=12
+4d	-żynie,
+4c	.
+4r	.
+8c	szumi
+8c}	.
 !!LO:LB:g=esac
-=13
-{4.a
-8g
-4f
-8g
-8a
-=14
-4.cc
-8b-
-4g
-4r
-=15
-2a
-4g
-4cc
-=16
-8cc
-8f}
-4r
-2r
-==
-*-
+=13	=13
+{4.a	tokaj
+8g	.
+4f	brzmią
+16gqqL	.
+16fqq	.
+16eqq	.
+16fqqJ	.
+8g	mul-
+8a	.
+=14	=14
+(4.cc	-tan-
+8b-)	.
+4g	-ki
+4r	.
+=15	=15
+2a	lecz
+4g	i
+4cc	to
+=16	=16
+8cc	minie.
+8f}	.
+4r	.
+2r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Wiosna się mile uśmiecha,
+!!kwitną już róże w dolinie,
+!!słowik dumką budzi echa,
+!!ach i to minie!
+!!Ja nucę i splatam wianki
+!!rad jestem lubéj drużynie,
+!!szumi tokaj brzmią multanki
+!!lecz i to minie.
+!!@VERSE:
+!!2. Pląsaj o rącza młodzieży,
+!!pląsaj przy fletniach i winie,
+!!otocz, otocz grób ten świéży,
+!!gdzie wszystko minie!
+!!Trosk i roskoszy nam zdroje
+!!Jowisza sączy naczynie,
+!!spełńmy wesoło oboje,—
+!!oboje minie!
+!!@VERSE:
+!!3. Urok wiosny, barwa, siła,
+!!wdzięk wasz o młode boginie, —
+!!znoje mędrców, królów dzieła,
+!!wszystko przeminie !
+!!A toż czucie, wielki Boże!
+!!cnéj com poprzysiągł Halinie,
+!!czyż i to czas bystry zmoże?
+!!Nie, to nie minie!
+!!@@END: VERSES
+!!!role-singer: Complex
+!!!role-listener: Group
+!!!singer-sex: Complex
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=59 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 35} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 35}
 !!!page: 35
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-11

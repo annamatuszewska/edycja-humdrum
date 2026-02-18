@@ -3,82 +3,122 @@
 !!!source: DWOK13
 !!!id: 13058
 !!!signature: 1305800001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16d
-16d
-8g
-8b
-=2
-4dd
-8dd
-=3
-16dd
-16dd
-8ee
-8b
-=4
-8dd
-4cc}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16d	Ach
+16d	Boże,
+8g	.
+8b	ach
+=2	=2
+4dd	Boże,
+8dd	.
+=3	=3
+16dd	cóż
+16dd	ja
+8ee	teraz
+8b	.
+=4	=4
+8dd	znaczę,
+4cc}	.
 !!LO:LB:g=esac
-=5
-{16d
-16d
-8f#
-8a
-=6
-4cc
-8cc
-=7
-16cc
-16ee
-8dd
-8a
-=8
-8cc
-4b}
+=5	=5
+{16d	gdy
+16d	sobie
+8f#	.
+8a	roz-
+=6	=6
+4cc	-pomnę
+8cc	.
+=7	=7
+16cc	to
+16ee	sobie
+8dd	.
+8a	za-
+=8	=8
+8cc	-płaczę.
+4b}	.
 !!LO:LB:g=esac
-=9
-{16g
-16g
-8b
-8dd
-=10
-4gg
-8gg
-=11
-16gg
-16ff#
-8ee
-8dd
-=12
-8ff#
-4ee}
+=9	=9
+{16g	Zapłaczę
+16g	.
+8b	.
+8dd	ja
+=10	=10
+4gg	nieraz
+8gg	.
+=11	=11
+16gg	i
+16ff#	nie
+8ee	tysiąc
+8dd	.
+=12	=12
+8ff#	razy,
+4ee}	.
 !!LO:LB:g=esac
-=13
-{16gg
-16gg
-8ff#
-8ee
-=14
-4dd
-8b
-=15
-16ee
-16dd
-8cc
-8f#
-=16
-8a
-4g}
-==
-*-
+=13	=13
+{16gg	gdy
+16gg	sobie
+8ff#	.
+8ee	roz-
+=14	=14
+4dd	-pomnę
+8b	.
+=15	=15
+16ee	kochanka
+16dd	.
+8cc	.
+8f#	wy-
+=16	=16
+8a	-razy.
+4g}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Ach Boże, ach cóż ja teraz znaczę,
+!!gdy sobie rozpomnę to sobie zapłaczę.
+!!Zapłaczę ja nieraz i nie tysiąc razy,
+!!gdy sobie rozpomnę
+!!kochanka wyrazy.
+!!@VERSE:
+!!2. Kochanku, kochanku, drogie moje życie,
+!!gdy ja cię nie widzę, nie miłe mi życie.
+!!Nie miła mi życie, nie miła godzina,
+!!powiédz mi kochanku, co to za przyczyna?
+!!@VERSE:
+!!3. Bym ja była nigdy kochania nie znała,
+!!kiedy się kto kochał, to ja go wyśmiała.
+!!A teraz kochanie, to moja zabawa,
+!!płacz i wyrzekanie, to moja potrawa.
+!!@VERSE:
+!!4. Mówiła mi matka, drogie dziecko moje,
+!!przestań wojażować, bo nieszczęście twoje.
+!!Bo kto wojażuje i niema pieniędzy,
+!!przyjdzie do nieszczęścia i do wielkiéj nędzy.
+!!@VERSE:
+!!5. Są panowie tacy, co wsie, miasta mają,
+!!przez wojażowanie, wszystko utracają.
+!!Nie słuchałam matki, ani rady brata,
+!!muszę ja marnować moje młode lata.
+!!@VERSE:
+!!6. Lata ptaszek lata, skrzydełkami bije,
+!!powićdz ty kochanko, ja dla ciebie żyję.
+!!Ja dla ciebie żyję, tyś mi nie wierzyła,
+!!mówiłem o buzię, tyś mi odmówiła.
+!!Na tęż nutę:
+!!Dziewcze bądź zdrowe,
+!!Ojczyzna mnie woła i t. d.
+!!@@END: VERSES
+!!!role-singer: Mistress, Lover
+!!!role-listener: Mistress, Lover
+!!!singer-sex: female, male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=57 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 33} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 33}
 !!!page: 33
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-11

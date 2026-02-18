@@ -3,113 +3,147 @@
 !!!source: DWOK13
 !!!id: 13054
 !!!signature: 1305400000
-**kern
-*clefG2
-*k[b-]
-*d:
-*M3/4
-=1
-{8.a
-16a
-4.b-
-8a
-=2
-8g#
-8a
-4.f
-8d
-=3
-8.c#
-16e
-8g
-8b-
-8a
-8c#
-=4
-4d}
-4r
-4r
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*d:	*
+*M3/4	*
+=1	=1
+{8.a	Siałem
+16a	.
+4.b-	proso
+8a	.
+=2	=2
+8g#	na
+8a	zagonie,
+4.f	.
+8d	.
+=3	=3
+8.c#	nie
+16e	mogłem
+8gL	.
+8b-J	.
+8aL	go
+8c#J	.
+=4	=4
+4d}	żąć,
+4r	.
+4r	.
 !!LO:LB:g=esac
-=5
-{8.a
-16a
-4ff
-8ee
-8dd
-=6
-8.cc#
-16dd
-4a
-8f
-8d
-=7
-8.c#
-16e
-8g
-8b-
-8.a
-16c#
-=8
-4d}
-4r
-4r
+=5	=5
+{8.a	pokochałem
+16a	.
+4ff	.
+8eeL	.
+8ddJ	.
+=6	=6
+8.cc#	lube
+16dd	.
+4a	dziewcze,
+8fL	.
+8dJ	.
+=7	=7
+8.c#	nie
+16e	mogłem
+8gL	.
+8b-J	.
+8.aL	go
+16c#J	.
+=8	=8
+4d}	wziąć.
+4r	.
+4r	.
 !!LO:LB:g=esac
-=
-{8.c
-16f
-12a
-12b-
-12a
-8g
-8f
-=9
-8.e
-16g
-8b-
-8dd
-4cc
-=
-8.c
-16a
-12a
-12b-
-12a
-8g
-8f
-=10
-8e
-8g
-8b-
-8dd
-4cc}
+=	=
+{8.cnL	Bo
+16fJ	.
+*Xtuplet	*
+12aL	po-
+12b-/	.
+12aJ	.
+8g	-siać
+8f	.
+=9	=9
+8.eL	to
+16gJ	.
+8b-L	nie
+8ddJ	.
+4cc	żąć,
+=	=
+8.cL	bo
+16aJ	ko-
+12aL	.
+12b-	.
+12aJ	.
+8gL	-chać
+8fJ	.
+=10	=10
+8eL	to
+8gJ	.
+8b-L	nie
+8ddJ	.
+4cc}	wziąć,
 !!LO:LB:g=esac
-=11
-{8.a
-16a
-4ff
-8ee
-8dd
-=12
-8cc#
-8dd
-4a
-8f
-8d
-=13
-8.c#
-16e
-8g
-8b-
-8a
-8c#
-=14
-4d}
-4r
-4r
-==
-*-
+=11	=11
+{8.a	choć
+16a	mnie
+4ff	zdradza
+8eeL	.
+8ddJ	.
+=12	=12
+8cc#	lube
+8dd	.
+4a	dziewcze
+8fL	.
+8dJ	.
+=13	=13
+8.c#	nie
+16e	mogę
+8gL	.
+8b-J	.
+8aL	je
+8c#J	.
+=14	=14
+4d}	kląć.
+4r	.
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Siałem proso na zagonie,
+!!nie mogłem go żąć,
+!!pokochałem lube dziewcze,
+!!nie mogłem go wziąć.
+!!Bo posiać to nie żąć,
+!!bo kochać to nie wziąć,
+!!choć mnie zdradza lube dziewcze
+!!nie mogę je kląć.
+!!@VERSE:
+!!2. Proso zeszło, lecz przed żniwem
+!!zbił je nagły grad,
+!!moją miłość ku dziewczęciu
+!!zły zepsował świat.
+!!Plon zboża zniszczył grad,
+!!dziewczęcia nie dał świat;
+!!choć zawiodła me nadzieje,
+!!wspominam ją rad.
+!!@VERSE:
+!!3. Przyszła zima, młode siewy
+!!zimny kryje śniég,
+!!i me serce czasem ziębi
+!!smutny życia bieg.
+!!Lecz słońce topi śnieg,
+!!myśl słodzi życia bieg,
+!!méj miłości nie zagłuszy
+!!nawet grobu brzeg.
+!!@@END: VERSES
+!!!role-singer: 
+!!!role-listener: 
+!!!singer-sex: 
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=55 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 31-32} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, pp. 31-32}
 !!!page: 31-32
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-11

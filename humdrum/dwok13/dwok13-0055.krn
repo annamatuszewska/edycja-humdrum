@@ -3,101 +3,116 @@
 !!!source: DWOK13
 !!!id: 13055
 !!!signature: 1305500000
-**kern
-*clefG2
-*k[b-]
-*d:
-*M3/4
-=1
-{8a
-8a
-4.b-
-8a
-=2
-8a
-8a
-4.f
-8d
-=3
-8.c#
-16e
-4g
-8b-
-8a
-=4
-4d}
-4r
-4r
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*d:	*
+*M3/4	*
+=1	=1
+{8a	Siałem
+8a	.
+4.b-/	proso
+8a	.
+=2	=2
+8a	na
+8a	zagonie,
+4.f	.
+8d	.
+=3	=3
+8.c#	nie
+16e	mogłem
+4g	.
+8b-\L	go
+8a\J	.
+=4	=4
+4d}	żąć,
+4r	.
+4r	.
 !!LO:LB:g=esac
-=5
-{8.a
-16a
-4dd
-8cc
-8b-
-=6
-8.a
-16a
-4f
-8e
-8d
-=7
-8.c#
-16e
-4g
-8b-
-8a
-=8
-4d}
-4r
-4r
+=5	=5
+{8.a	pokocha-
+16a	.
+4dd	.
+8ccL	-łem
+8b-J	.
+=6	=6
+8.a	lube
+16a	.
+4f	dziewcze,
+8eL	.
+8dJ	.
+=7	=7
+8.c#	nie
+16e	mogłem
+4g	.
+8b-\L	go
+8aJ\	.
+=8	=8
+4d}	wziąć.
+4r	.
+4r	.
 !!LO:LB:g=esac
-=9
-{4f
-4f
-4f
-=10
-8e
-8g
-2cc
-=11
-8c
-8f
-4a
-8g
-8f
-=12
-8e
-8dd
-4cc}
-4r
+=9	=9
+{4f	Bo
+4f	posiać
+4f	.
+=10	=10
+8e	to
+8g	nie
+2cc	żąć,
+=11	=11
+8c	bo
+8f	pokochać
+4a	.
+8gL	.
+8fJ	.
+=12	=12
+8e	to
+8dd	nie
+4cc}	wziąć,
+4r	.
 !!LO:LB:g=esac
-=13
-{8.a
-16a
-4ff
-8ee
-8dd
-=14
-8cc#
-8dd
-4a
-8f
-8d
-=15
-8.c#
-16e
-4g
-8b-
-8a
-=16
-4d}
-4r
-4r
-==
-*-
+=13	=13
+{8.a	choć
+16a	mnie
+4ff	zdradza
+8eeL	.
+8ddJ	.
+=14	=14
+8cc#	lube
+8dd	.
+4a	dziewcze,
+8fL	.
+8dJ	.
+=15	=15
+8.c#	nie
+16e	mogę
+4g	.
+8b-\L	mu
+8a\J	.
+=16	=16
+4d}	kląć.
+4r	.
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Siałem proso na zagonie,
+!!nie mogłem go żąć,
+!!pokochałem lube dziewcze,
+!!nie mogłem go wziąć.
+!!Bo posiać to nie żąć,
+!!bo pokochać to nie wziąć,
+!!choć mnie zdradza lube dziewcze,
+!!nie mogę mu kląć.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Complex
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=56 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 32} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 32}
 !!!page: 32
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-11

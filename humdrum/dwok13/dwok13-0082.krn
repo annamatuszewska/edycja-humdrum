@@ -3,66 +3,104 @@
 !!!source: DWOK13
 !!!id: 13082
 !!!signature: 1308200000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M4/4
-{8b
-8cc
-=1
-4dd
-8.cc
-16a
-4g
-8b
-8cc
-=2
-4ee
-4dd
-4r
-8b
-8cc
-=3
-4dd
-8.cc
-16a
-4g
-8b
-8cc
-=4
-4ee
-4dd
-4r
-8b
-8cc}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*met(c)	*
+{8bL	Raz
+8ccJ	.
+=1	=1
+4dd	chodząc
+8.ccL	.
+16aJ	.
+4g	sobie
+8b	.
+8cc	po
+=2	=2
+4ee	polu
+4dd	.
+4r	.
+8bL	czy-
+8ccJ	.
+=3	=3
+4dd	-ści-
+8.ccL	-łem
+16a\J	.
+4g	zboże
+8b	z_ką-
+8cc	.
+=4	=4
+4ee	-kolu,
+4dd	.
+4r	.
+8bL	i
+8ccJ}	.
 !!LO:LB:g=esac
-=5
-{4.dd
-8gg
-4gg
-8ff#
-8ee
-=6
-4dd
-4g
-4r
-8f#
-8g
-=7
-4.a
-8b
-4cc
-8ee
-8f#
-=8
-4a
-4g}
-4r
-==
-*-
+=5	=5
+{4.dd	chcąc
+8ffq#	.
+8gg	wypocząć
+4gg	.
+8ff#	.
+8ee	po
+=6	=6
+4dd	zno-
+(8bq	.
+4g)	ju,
+4r	.
+8f#L	u-
+8gJ	.
+=7	=7
+4.a	-siadłem
+8b	.
+4cc	blisko
+8ee	.
+8f#	przy
+=8	=8
+4a	zdroju.
+4g}	.
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Raz chodząc sobie po polu
+!!czyściłem zboże z kąkolu,
+!!i chcąc wypocząć po znoju,
+!!usiadłem blisko przy zdroju.
+!!@VERSE:
+!!2. Tam niedaleko wieśniacy
+!!odpoczywając po pracy —
+!!wyprzęgali z pługu bydlęta,
+!!jeść im przyniosły dziewczęta.
+!!@VERSE:
+!!3. Pomiędzy temi wieśniaki
+!!co wypróżniali dwojaki,
+!!z nich jeden wzdychał prócz jadła
+!!do téj co przy nim usiadła.
+!!@VERSE:
+!!4. Gdy mówił, ona milczała;
+!!wydać się jednak nie chciała,
+!!choć jéj oczy mu sprzyjały
+!!na niego patrzeć nie śmiały.
+!!@VERSE:
+!!5. A ja to widząc zdumiałem,
+!!bo wiejskich dziewcząt nie znałem,
+!!bom myślał że tylko w mieście
+!!kochać się można w niewieście.
+!!@VERSE:
+!!6. Ale widzę ja że wszędzie
+!!miłość ma swoje siedlisko;
+!!nikt się bez niéj nie obeńdzie,
+!!ta z ludzi robi igrzysko.
+!!@@END: VERSES
+!!!role-singer: Complex
+!!!role-listener: Group
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=72 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 48} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 48}
 !!!page: 48
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-14

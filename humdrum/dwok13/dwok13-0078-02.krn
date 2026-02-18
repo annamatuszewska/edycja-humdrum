@@ -3,77 +3,119 @@
 !!!source: DWOK13
 !!!id: 13078
 !!!signature: 1307800002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16b
-16dd
-8dd
-16ee
-16dd
-=2
-16a
-16cc
-8cc
-16b
-16a
-=3
-16g
-16a
-8b
-16cc
-16b
-=4
-8a
-4d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Moje bogactwa.	!
+{16b	Mała
+16dd	.
+8dd/L	chatka
+16ee/	.
+16dd/J	.
+=2	=2
+16a\	przy
+16cc	doli-
+8cc/L	.
+16b/	.
+16a/J	-nie
+=3	=3
+16g	w
+16a	któréj
+8b	strumień
+16cc/L	.
+16b/J	.
+=4	=4
+8a\	płynie,
+4d}	.
 !!LO:LB:g=esac
-=5
-{16e
-16f#
-8.g
-16d
-=6
-16e
-16f#
-8.g
-16d
-=7
-16e
-16f#
-8g
-8b
-=8
-16a
-16cc
-8.ee
-16dd}
+=5	=5
+{16e	kawał
+16f#	.
+8.g	niwy
+16d	.
+=6	=6
+16e	nieleni-
+16f#	.
+8.g	.
+16d	-wy
+=7	=7
+16e	łączka
+16f#	.
+8gL	na
+8b/J	po-
+=8	=8
+16a\	-trzeby
+16cc	.
+8.ee/L	swoje
+16dd/J}	.
 !!LO:LB:g=esac
-=9
-{16cc
-16b
-8a
-16g
-16a
-=10
-16b
-16g
-4d
-=11
-16a
-16b
-8cc
-16dd
-16cc
-=12
-8b
-4g}
-==
-*-
+=9	=9
+{16cc	to
+16b	bogactwo
+8aL	.
+16g	.
+16aJ	.
+=10	=10
+16b/L	swoje,
+16gJ	.
+4d	.
+=11	=11
+16a\	to
+16b	bogactwo
+8cc/L	.
+16dd/	.
+16cc/J	.
+=12	=12
+8b	swoje.
+4g}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Mała chatka przy dolinie
+!!w któréj strumień płynie,
+!!kawał niwy nieleniwy
+!!łączka na potrzeby swoje
+!!to bogactwo swoje,
+!!to bogactwo swoje.
+!!@VERSE:
+!!2. Cztery woły i dwa konie,
+!!nie drzémiące w bronie;
+!!koło ściany
+!!wóz kowany,
+!!i pług, którym skibę skroję,
+!!to bogactwa moje.
+!!@VERSE:
+!!3. Czarna z owiec mych sukmana,
+!!a czapka z barana;
+!!pas wełniany,
+!!w domu tkany,
+!!i świąteczne w skrzyni stroje,
+!!to bogactwo moje.
+!!@VERSE:
+!!4. Dobry sąsiad, święta zgoda,
+!!w domu żonka młoda,
+!!nie zwadliwa
+!!i poczciwa;
+!!stary ojciec, dzieci dwoje,
+!!to bogactwo moje.
+!!@VERSE:
+!!5. Czerstwe zdrowie, serce hojne,
+!!sumienie spokojne;
+!!myśl niewinna,
+!!pieśń rodzinna,
+!!co przy pracy słodzi znoje:
+!!to bogactwa moje.
+!!@@END: VERSES
+!!!role-singer: Husband
+!!!role-listener: Group
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=69 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 45-46} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, pp. 45-46}
 !!!page: 45-46
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-18

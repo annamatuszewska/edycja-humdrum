@@ -3,62 +3,93 @@
 !!!source: DWOK13
 !!!id: 13091
 !!!signature: 1309100000
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M6/8
-=1
-{8ff
-8ff
-8ff
-4dd
-8b-
-=2
-8f
-8a
-8cc
-4ee-
-8cc
-=3
-8f
-8a
-8cc
-8ee-
-8cc
-8cc
-=4
-8b-
-8dd
-8cc
-4b-
-8b-}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M6/8	*
+=1	=1
+{8ff	W_zielo-
+8ff	.
+8ff	-nym
+4dd	ga-
+8b-	-ju
+=2	=2
+8f	przy
+8a	miłym
+8cc	.
+4ee-	chłodzie,
+8cc	.
+=3	=3
+8f	zbiera-
+8a	.
+8cc	-ją
+8ee-	ma-
+8cc	-li-
+8cc	-ny
+=4	=4
+8b-	w_miłéj
+8dd	u-
+8cc	-rodzie,
+4b-	.
+8b-}	.
 !!LO:LB:g=esac
-=5
-{4ff
-8ff
-4dd
-8b-
-=6
-4f
-8a
-4cc
-8cc
-=7
-4ff
-8ff
-4dd
-8b-
-=8
-8ee-
-8cc
-8a
-4b-
-8b-}
-==
-*-
+=5	=5
+{4ff	dwie
+8ff	.
+4dd	panien-
+8b-	-ki
+=6	=6
+4f	bar-
+8a	-dzo
+4cc	ła-
+8cc	-dne,
+=7	=7
+4ff	nader
+8ff	.
+4dd	ży-
+8b-	-we,
+=8	=8
+8ee-	na-
+8cc	-der
+8a	składne.
+4b-	.
+8b-}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. W zielonym gaju przy miłym chłodzie,
+!!zbierają maliny w miłéj urodzie,
+!!Dwie panienki bardzo ładne,
+!!nader żywe, nader składne.
+!!@VERSE:
+!!2. Ja się przypatrzył tak pięknéj minie,
+!!i rozumiałem że dwie boginie,
+!!a to były dwie dzieweczki,
+!!naszéj wioski pastereczki.
+!!@VERSE:
+!!3. A ja za niemi, a óny w stronę,
+!!ja napróżno wiatr w laszczynie gonię.
+!!Jaż'em stanoł zadumiały,
+!!na ten ich widok tak wspaniały.
+!!@VERSE:
+!!4. A tak-ci-ć, to tak, ta pycha umie,
+!!że która ładna, to już rozumie:
+!!że wszystkie doskonałości,
+!!znajdują się w jéj ładności.
+!!@VERSE:
+!!5. Lilija więdnie, róża opada,
+!!narcyz stólisty swe listki składa,
+!!boć to za czasem wszystko się psuje,
+!!i twoja ładność téż nie wiekuje.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Group
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=76 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 52} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 52}
 !!!page: 52
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-15

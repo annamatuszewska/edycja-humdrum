@@ -3,90 +3,131 @@
 !!!source: DWOK13
 !!!id: 13053
 !!!signature: 1305300000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16cc
-16dd
-8ee
-8cc
-=2
-16dd
-16ee
-8dd
-8cc
-=3
-16b
-16a
-8g
-8b
-=4
-8cc
-4a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16cc	A
+16dd	gdy
+8ee	miła
+8cc	.
+=2	=2
+16dd	Marysińka
+16ee	.
+8dd	.
+8cc	.
+=3	=3
+16b/	rozstawać
+16a	.
+8g	.
+8b	się
+=4	=4
+8cc	miała,
+4a}	.
 !!LO:LB:g=esac
-=5
-{16cc
-16dd
-8ee
-8cc
-=6
-16dd
-16ee
-8dd
-8cc
-=7
-16b
-16a
-8g
-8b
-=8
-8cc
-4cc}
+=5	=5
+{16cc	z_tym
+16dd	lubosym
+8ee	.
+8cc	.
+=6	=6
+16dd	z_tym
+16ee	Jasinkiem
+8dd	.
+8cc	.
+=7	=7
+16b/	i
+16a	tak
+8g	się
+8b	że-
+=8	=8
+8cc	-gnała.
+4cc}	.
 !!LO:LB:g=esac
-=9
-{8cc
-8g
-16e
-16d
-=10
-16c
-16d
-8e
-8e
-=11
-16d
-16f
-8g
-8b
-=12
-8cc
-4ee}
+=9	=9
+{8cc	Oj
+8aq	i
+8g	jak
+16eL	precz
+16dJ	.
+=10	=10
+16c	powędrujesz
+16d	.
+8e	.
+8e	.
+=11	=11
+16d	i
+16fn	to
+8g	sobie
+8b	.
+=12	=12
+8cc	wspomnij,
+4ee}	.
 !!LO:LB:g=esac
-=13
-{8cc
-8g
-16e
-16d
-=14
-16c
-16d
-8e
-8e
-=15
-16d
-16f
-8a
-8g
-=16
-8e
-4c}
-==
-*-
+=13	=13
+{8cc	żé
+8aq	ta
+8g	twoja
+16eL	.
+16dJ	.
+=14	=14
+16c	Marysieńka
+16d	.
+8e	.
+8e	.
+=15	=15
+16d	o
+16fn	tobie
+8a	.
+8g	za-
+=16	=16
+8e	-pomni.
+4c}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A gdy miła Marysińka rozstawać się miała,
+!!z tym lubosym z tym Jasinkiem i tak się żegnała.
+!!Oj i jak precz powędrujesz i to sobie wspomnij,
+!!żé ta twoja Marysieńka o tobie zapomni.
+!!@VERSE:
+!!3. Nę (na!) że Jasinku tę taśmę
+!!z mych włosów splątaną,
+!!nojś (noś) ją Jasińku przy sobie
+!!póki'm ja kochaną.
+!!4.Skoro Jasińku poczujesz
+!!w sercu swém odmianę,
+!!rzuć ją Jasińku na wodę,
+!!ode mnie, nieznaną.
+!!5.Nę-że Jasińku ten sygnet
+!!na znak przywiązania,
+!!nojś go Jasinku przy sobie,
+!!póki'm ja kochana.
+!!@VERSE:
+!!6. Skoro się Jasiu insza
+!!w serce twoje wkradnie,
+!!rzuć go Jasińku o ziemię,
+!!nie patrz kędy padnie.
+!!@VERSE:
+!!7. Lecz sygnetu inszej nie daj
+!!z przyciśnieniem ręki,
+!!bo wtedy będę ponojsić
+!!niezniesione męki.
+!!@VERSE:
+!!8. A jeżeli ci Marysia
+!!przypomni się tkliwa,
+!!to się wróć, bo ja dla ciebie
+!!żyję nieszczęśliwa.
+!!@@END: VERSES
+!!!role-singer: Mistress
+!!!role-listener: Lover
+!!!singer-sex: female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=55 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 31} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 31}
 !!!page: 31
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-11

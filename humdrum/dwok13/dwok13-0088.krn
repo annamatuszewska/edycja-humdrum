@@ -3,98 +3,135 @@
 !!!source: DWOK13
 !!!id: 13088
 !!!signature: 1308800000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M4/4
-=1
-{4a
-4b-
-4.cc
-8ff
-=2
-4a
-4b-
-4.cc
-8a
-=3
-4g
-4b-
-4.dd
-8b-
-=4
-4a
-4g
-4f}
-4r
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*met(c)	*
+=1	=1
+{4a\	Nad
+4b-	wo-
+4.cc	-dą
+8ff	w_wie-
+=2	=2
+4a\	-czornéj
+4b-	.
+4.cc	po-
+8a	-rze,
+=3	=3
+4g	za
+4b-	gą-
+4.dd	-skami
+8b-	.
+=4	=4
+4a	cho-
+4g	-dzi-
+4f}	-ła
+4r	.
 !!LO:LB:g=esac
-=5
-{4a
-4b-
-4.cc
-8ff
-=6
-4a
-4b-
-4.cc
-8a
-=7
-4g
-4b-
-4.dd
-8b-
-=8
-4a
-4g
-4f}
-4r
+=5	=5
+{4a\	pasterka
+4b-	.
+4.cc	.
+8ff	pię-
+=6	=6
+4a\	-kna
+4b-	jak
+4.cc	zorze,
+8a	.
+=7	=7
+4g	i
+4b-	tak
+4.dd	so-
+8b-	-bie
+=8	=8
+4a	mówi-
+4g	.
+4f}	ła:
+4r	.
 !!LO:LB:g=esac
-=9
-{4.ff
-8dd
-4cc
-4r
-=10
-4.ff
-8dd
-4cc
-4r
-=11
-4g
-4b-
-4.dd
-8b-
-=12
-4a
-4g
-4f}
-4r
+=9	=9
+{(4.ff	Chodź-
+8dd)	.
+4cc	-cież,
+4r	.
+=10	=10
+(4.ff	chodź-
+8dd)	.
+4cc	-cie
+4r	.
+=11	=11
+4g	gą-
+4b-	-ski
+4.dd	mo-
+8b-	-je,
+=12	=12
+4a	do
+4g	do-
+4f}	-mu,
+4r	.
 !!LO:LB:g=esac
-=13
-{4.ff
-8dd
-4cc
-4r
-=14
-4.ff
-8dd
-4cc
-4r
-=15
-4g
-4b-
-4.dd
-8b-
-=16
-4a
-4g
-4f}
-4r
-==
-*-
+=13	=13
+{(4.ff	o-
+8dd)	-po-
+4cc	-wiem
+4r	.
+=14	=14
+(4.ff	wam
+8dd)	tro-
+4cc	-ski
+4r	.
+=15	=15
+4g	.
+16b-qqL	.
+16ccqq	.
+16b-qq	.
+16aqq	.
+16b-qqJ	.
+4.dd	.
+8b-	.
+=16	=16
+4a	ni-
+4g	-ko-
+4f}	-mu.
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Nad wodą w wieczornéj porze,
+!!za gąskami chodziła
+!!pasterka piękna jak zorze,
+!!i tak sobie mówiła:
+!!Chodźcież, chodźcie gąski moje,
+!!chodźcież, chodźcie do domu,
+!!opowiem wam troski moje,
+!!nie powiódzcież nikomu.
+!!@VERSE:
+!!2. I tak chodząc za gąskami
+!!ręce łamie, narzéka;
+!!myjąc twarz rzewnemi łzami,
+!!na gąsięta swe czeka.
+!!Hola, hola, gąski moje,
+!!hola, hola do domu;
+!!noc nadchodzi, a ja sama,
+!!niémam was (dać) spędzić komu.
+!!@VERSE:
+!!3. Jam się w wolności zrodziła,
+!!uczyła na łonie matki,
+!!tego kocham, komum miła,
+!!nie zwabią mnie dostatki.
+!!Pójdźcież, pójdźcie gąski moje,
+!!pójdźcież, pójdźcie do domu;
+!!powiedziałam troski moje,
+!!nie powiédzcież nikomu.
+!!@@END: VERSES
+!!!role-singer: Shepherdess
+!!!role-listener: Group
+!!!singer-sex: female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=75 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 51} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 51}
 !!!page: 51
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-15

@@ -1,90 +1,107 @@
-!!!!SEGMENT: DWOK1307400002-dziewcze_z_czarnemi_oczyma.krn
+!!!!SEGMENT: DWOK1307400001-dziewcze_z_czarnemi_oczyma.krn
 !!!OTL: Dziewczę z czarnemi oczyma
 !!!source: DWOK13
 !!!id: 13074
-!!!signature: 1307400002
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{8f
-8.ff
-16ee
-=2
-8dd
-8.dd
-16cc
-=3
-16g
-16a
-8b-
-8dd
-=4
-8dd
-4cc}
+!!!signature: 1307400001
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{8f\	Dziewczę,
+8.ffL	.
+16eeJ	.
+=2	=2
+8dd	dziewczę
+8.ddL	.
+16ccJ	.
+=3	=3
+16g	z_czarnemi
+16a	.
+8b-	.
+8dd	o-
+=4	=4
+8dd	-czyma,
+4cc}	.
 !!LO:LB:g=esac
-=5
-{16f
-16f
-8.ff
-16ee
-=6
-16dd
-16dd
-8.dd
-16cc
-=7
-16g
-16a
-8b-
-8g
-=8
-8g
-4f}
+=5	=5
+{16fL	co
+16fJ	to
+8.ffL	płaczesz,
+16eeJ	.
+=6	=6
+16dd/L	gdzie
+16dd/J	to
+8eeq	.
+8.ddL	dążysz
+16ccJ	.
+=7	=7
+16g	co
+16a	ci
+8b-	za
+8g	przy-
+=8	=8
+8g	-czyna?
+4f}	.
 !!LO:LB:g=esac
-=9
-{16.f
-32g
-8a
-8cc
-=10
-16.g
-32a
-8b-
-8dd
-=11
-16dd
-16cc
-8g
-8b-
-=12
-8dd
-4cc}
+=9	=9
+{16.f	Spieszę,
+32g	.
+8a	spieszę
+8cc	.
+=10	=10
+16.g	do
+32a	zagrody
+8b-	.
+8dd	.
+=11	=11
+16dd	gdzie
+16cc	się
+8g	bieli
+8b-	.
+=12	=12
+8dd/	chatka
+4cc}/	.
 !!LO:LB:g=esac
-=13
-{16.f
-32g
-8a
-8cc
-=14
-16.g
-32a
-8b-
-8dd
-=15
-16g
-16a
-8b-
-8g
-=16
-8g
-4f}
-==
-*-
+=13	=13
+{16.f	płaczę,
+32g	.
+8a	płaczę
+8cc	.
+=14	=14
+16.g	lamen-
+32a	.
+8b-	-tuję
+8dd	.
+=15	=15
+16g	bo
+16a	mi
+8b-	chora
+8g	.
+=16	=16
+8g	matka.
+4f}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Dziewczę, dziewczę
+!!z czarnemi oczyma,
+!!co to płaczesz,
+!!gdzie to dążysz
+!!co ci za przyczyna?
+!!Spieszę, spieszę do zagrody
+!!gdzie się bieli chatka
+!!płaczę, płaczę lamentuję
+!!bo mi chora matka.
+!!@@END: VERSES
+!!!role-singer: Daughter
+!!!role-listener: Complex
+!!!singer-sex: female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=67 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 43} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 43}
 !!!page: 43
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-13

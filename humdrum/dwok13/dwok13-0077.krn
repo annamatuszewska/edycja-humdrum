@@ -3,74 +3,116 @@
 !!!source: DWOK13
 !!!id: 13077
 !!!signature: 1307700000
-**kern
-*clefG2
-*k[]
-*C:
-*M4/4
-=1
-{4cc
-8b
-8cc
-4dd
-4g
-=2
-8cc
-8dd
-8ee
-8ff
-4ee
-4dd}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*met(c)	*
+=1	=1
+!LO:TX:a:t=Fraszka.	!
+{4cc	Jedwabie
+8b	.
+8cc	.
+4dd	pannom,
+4g	.
+=2	=2
+8cc	merynos
+8dd	.
+8ee	.
+8ff	mężatkom
+4ee	.
+4dd}	.
 !!LO:LB:g=esac
-=3
-{8ff
-8ee
-8dd
-8dd
-8ee
-8ee
-8ee
-8cc
-=4
-8g
-8g
-8a
-8b
-4cc
-4cc}
+=3	=3
+{8ff	a
+8ee	perkalik
+8dd	.
+8dd	.
+8ee	wdowulinkom,
+8ee	.
+8ee	.
+8cc	.
+=4	=4
+8g	a
+8g	naslisko
+8a	.
+8b/	.
+4cc	babkom.
+4cc}	.
 !!LO:LB:g=esac
-=5
-{4cc
-8b
-8cc
-4dd
-4g
-=6
-8cc
-8dd
-8ee
-8ff
-4ee
-4dd}
+=5	=5
+{4cc	Jedwabie
+8b	.
+8cc	.
+4dd	pannom,
+4g	.
+=6	=6
+8cc	merynos
+8dd	.
+8ee	.
+8ff	.
+4ee	mężatkom
+4dd}	.
 !!LO:LB:g=esac
-=7
-{8ff
-8ee
-8dd
-8dd
-4ee
-8ee
-8cc
-=8
-4g
-8a
-8b
-4cc
-4cc}
-==
-*-
+=7	=7
+{8ff	a
+8ee	perkalik
+8dd	.
+8dd	.
+4ee/	wdowulinkom,
+8ee	.
+8cc/	.
+=8	=8
+4g\	a
+8a	naslisko
+8b	.
+4cc	babkom.
+4cc}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Jedwabie pannom,
+!!merynos mężatkom
+!!a perkalik wdowulinkom,
+!!a naslisko babkom.
+!!Jedwabie pannom,
+!!merynos mężatkom
+!!a perkalik wdowulinkom,
+!!a naslisko babkom.
+!!@VERSE:
+!!2. Serektóm banóm,
+!!banóm made kanóm,
+!!a witere fratres,
+!!fratres i zanum.
+!!@VERSE:
+!!3. Karasie pannom,
+!!szczupaki mężatkom,
+!!drobne rybki wdowulińkom,
+!!a żabki babkom.
+!!@VERSE:
+!!4. Serektóm i t. d.
+!!@VERSE:
+!!5. Powozy pannom,
+!!karéty mężatkom,
+!!karulińki (Karren) wdowulińkom,
+!!a taczki babkom.
+!!@VERSE:
+!!6. Serektóm i t. d.
+!!@VERSE:
+!!7. Rozmaryn pannom,
+!!różyczki mężatkom,
+!!drobne listki wdowuleókom,
+!!a żagáwki (pokrzywy) babkom.
+!!@VERSE:
+!!8. Serektóm i Ł d.
+!!@@END: VERSES
+!!!role-singer: Complex
+!!!role-listener: Complex
+!!!singer-sex: Complex
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=69 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 45} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 45}
 !!!page: 45
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-14

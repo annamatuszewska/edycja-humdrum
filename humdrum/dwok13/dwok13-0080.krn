@@ -3,78 +3,94 @@
 !!!source: DWOK13
 !!!id: 13080
 !!!signature: 1308000000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{8.g
-16cc
-16e
-16a
-=2
-16g
-16f
-8d
-8g
-=3
-8.g
-16cc
-16e
-16a
-=4
-16g
-16f
-8d
-8c}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Wiersz Jana Kochanowskiego.	!
+{8.g	Gorące
+16cc	.
+16e	.
+16a	dni
+=2	=2
+16g	nasta-
+16f	.
+8d	-wają
+8g	.
+=3	=3
+8.g	suche
+16cc	.
+16e	role
+16a	.
+=4	=4
+16g	się
+16f	podają,
+8d	.
+8c}	.
 !!LO:LB:g=esac
-=5
-{8.e
-16g
-16f
-16d
-=6
-16e
-16g
-8cc
-8cc
-=7
-8.b
-16a
-16d
-16f
-=8
-16e
-16g
-8cc
-8g}
+=5	=5
+{8.e	polny
+16g	.
+16f	świerszcz
+16d	co
+=6	=6
+16e	głosu
+16g	.
+8cc	staje,
+8cc	.
+=7	=7
+8.b	gwałtownemu
+16a	.
+16d\	.
+16f\	.
+=8	=8
+16e	słońce
+16g	.
+8cc	łaje,
+8g\}	.
 !!LO:LB:g=esac
-=9
-{8.a
-16cc
-16b
-16a
-=10
-16g
-16cc
-8ee
-8ee
-=11
-8ff
-8ff
-16g
-16b
-=12
-16dd
-16dd
-8ee
-8cc}
-==
-*-
+=9	=9
+{8.a\	polny
+16cc	.
+16b	świerszcz
+16a	co
+=10	=10
+16g	głosu
+16cc	.
+8ee	staje,
+8ee	.
+=11	=11
+8ff	gwałtownemu
+8ggq	.
+8ff	.
+16g	.
+16b	.
+=12	=12
+16dd	słońcu
+16dd	.
+8ee	łaje.
+8cc}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Gorące dni nastawają
+!!suche role się podają,
+!!polny świerszcz co głosu staje,
+!!gwałtownemu słońce łaje,
+!!polny świerszcz
+!!co głosu staje,
+!!gwałtownemu słońcu łaje.
+!!@@END: VERSES
+!!!role-singer: Complex
+!!!role-listener: Complex
+!!!singer-sex: Complex
 !!!ONB: Wiersz Jana Kochanowskiego, muz. T. Klonowskiego
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=71 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 47} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 47}
 !!!page: 47
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-14

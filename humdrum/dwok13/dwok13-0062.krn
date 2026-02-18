@@ -3,90 +3,122 @@
 !!!source: DWOK13
 !!!id: 13062
 !!!signature: 1306200000
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M4/4
-=1
-{4f
-8dd
-8cc
-4b-
-4f
-=2
-4f
-8ee-
-8dd
-4.cc
-8b-
-=3
-4a
-8cc
-8b-
-4.a
-8g
-=4
-8e
-8f
-8g
-8f
-4d
-4d}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*met(c)	*
+=1	=1
+{4f	To
+8dd	nic
+8cc	nie-mowna,
+4b-	.
+4f	.
+=2	=2
+4f	to
+8ee-	gadająca,
+8dd	.
+4.cc	.
+8b-	.
+=3	=3
+4a	to
+8cc	jak
+8b-	głaz
+4.a	martwa,
+8g	.
+=4	=4
+8eL	to
+8fJ	znów
+8g	jest
+8f	drżąca,
+4d	.
+4d}	.
 !!LO:LB:g=esac
-=5
-{4f
-8f
-8f
-4.b-
-8a
-=6
-4g
-8g
-8g
-4.ee-
-8dd
-=7
-4cc
-8b-
-8a
-4.ff
-8ff
-=8
-4ff
-8ee-
-8a
-4b-
-4b-}
+=5	=5
+{4f	to
+8f	obojętna,
+8f	.
+4.b-	.
+8a\	.
+=6	=6
+4g	to
+8g	na-wpół
+8g	.
+4.ee-	żywa,
+8dd	.
+=7	=7
+4cc	od
+8b-	wszystkich
+8a	.
+4.ff	stroni,
+8ff	.
+=8	=8
+4ff	to
+8ee-	znów
+8a	ich
+4b-	wzywa.
+4b-}	.
 !!LO:LB:g=esac
-=9
-{4f
-8f
-8f
-4.b-
-8a
-=10
-4g
-8g
-8g
-4.ee-
-8dd
-=11
-4cc
-8b-
-8a
-4.ff
-8ff
-=12
-4ff
-8ee-
-8a
-4b-
-4b-}
-==
-*-
+=9	=9
+{4f	Ty
+8f	nie
+8f	uwierzysz,
+4.b-	.
+8a\	.
+=10	=10
+4g	ty
+8g	nie
+8g	uwierzysz,
+4.ee-	.
+8dd	.
+=11	=11
+4cc	ach
+8b-	nie
+8a\	uwierzysz,
+4.ff	.
+8ff	.
+=12	=12
+4ff	jakażeś
+8ee-	.
+8a	.
+4b-	miła!
+4b-}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. To nic nie-mowna, to gadająca,
+!!to jak głaz martwa, to znów jest drżąca,
+!!to obojętna, to na-wpół żywa,
+!!ot wszystkich stroni, to znów ich wzywa.
+!!Ty nie uwierzysz, ty nie uwierzysz,
+!!ach nie uwierzysz, jakażeś miła!
+!!@VERSE:
+!!2. To schytrzy oczko, to zmarszczy czoło,
+!!to pokaprysi, to znów wesoło,
+!!to moment zgodna, to znów zaprzeczna,
+!!to hałaśliwa, to znów jest grzeczna.
+!!Ty nie uwierzysz i t. d.
+!!@VERSE:
+!!3. To nocki nie śpi, to dzień przepędza,
+!!ból serce cierpi, to znowu śpiéwa,
+!!to śmierci pragnie, w niebo spogląda,
+!!to do klasztoru, to walca żąda.
+!!Ty nie uwierzysz i t. d.
+!!@VERSE:
+!!4. Jeżli minęły nieszczęść koleje,
+!!któreby ciebie przerazić miały,
+!!jeżli kochałeś a bez nadzieji,
+!!wiesz co ja cierpię, że jestem stały.
+!!Ty nie uwierzysz, ty nie uwierzysz,
+!!ach nie uwierzysz, jakażeś miła!
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=60 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 36} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 36}
 !!!page: 36
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-11

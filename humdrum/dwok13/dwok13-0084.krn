@@ -3,121 +3,139 @@
 !!!source: DWOK13
 !!!id: 13084
 !!!signature: 1308400000
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M3/8
-=1
-{16a
-16g#
-8a
-8g
-=2
-16f#
-16e
-8.f#
-16d
-=3
-16dd
-16cc#
-16b
-16a
-16g
-16f#
-=4
-8a
-8g}
-8r
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M3/8	*
+=1	=1
+{16a	Gdy
+16g#	się
+8a	po-
+8g	-la
+=2	=2
+16f#	za-
+16e	-zie-
+8.f#	-le-
+16d	-nią
+=3	=3
+16dd	i
+16cc#	wio-
+16b	-sna
+16a\	wszystko
+16g	.
+16f#	o-
+=4	=4
+8a	-ży-
+8g}	-wi,
+8r	.
 !!LO:LB:g=esac
-=5
-{16g
-16f#
-8g
-8e
-=6
-16c#
-16d
-8.e
-16c#
-=7
-16c#
-16e
-16g
-16b
-16a
-16g#
-=8
-8a
-8f#}
-8r
+=5	=5
+{16g	piękność
+16f#	.
+8g	na-
+8e	-tu-
+=6	=6
+16c#	-ry
+16d	o-
+8.e	-ce-
+16c#	-nią,
+=7	=7
+16c#	i
+16e	wtenczas
+16g	.
+16b	tyl-
+16a\	-ko
+16g#	szczę-
+=8	=8
+8a	-śli-
+8f#;}	-wi.
+8r	.
 !!LO:LB:g=esac
-=9
-{16f#
-16f#
-8g
-8f#
-=10
-16f#
-16a
-8b
-8f#
-=11
-16f#
-16f#
-8g
-8f#
-=12
-16f#
-16f#
-8dd
-8b}
+=9	=9
+(16AqL	.
+16dqJ	.
+{16f#)	Dla
+16f#	nich
+8g	słońce
+8f#	.
+=10	=10
+16f#	piękniéj
+16a	.
+8b	świe-
+8f#	-ci,
+=11	=11
+16f#	dla
+16f#	nich
+8g	słowik
+8f#	.
+=12	=12
+16f#	piękniéj
+16f#	.
+8dd	nuci,
+8b}	.
 !!LO:LB:g=esac
-=13
-{16a
-16a
-8b
-8a
-=14
-8.ff#
-16ee
-16dd
-16a
-=15
-16a
-16b
-8a
-8g
-=16
-16f#
-16g
-8b
-8a}
+=13	=13
+{16a	wiosna
+16a	.
+8b/	ży-
+8a	-cie
+=14	=14
+8.ff#	w_nich
+16ee	o-
+16dd	-cu-
+16a	-ci,
+=15	=15
+16a\	bo
+16b	nie
+8a	są
+8g	z_czu-
+=16	=16
+16f#	-cia
+16g	wy-
+8b/	-zu-
+8a}	-ci,
 !!LO:LB:g=esac
-=17
-{16a
-16a
-8b
-8a
-=18
-8.ff#
-16ee
-16dd
-16a
-=19
-8.cc#
-16b
-16g
-16e
-=20
-16d
-16e
-8f#
-8d}
-==
-*-
+=17	=17
+{16a	wiosna
+16a	.
+8b/	ży-
+8a	-cie
+=18	=18
+8.ff#	w_nich
+16ee	o-
+16dd	-cu-
+16a	-ci,
+=19	=19
+8.cc#	bo
+16b	nie
+16g	są
+16e	z
+=20	=20
+16d	czucia
+16e	wyzuci.
+8f#	.
+8d}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Gdy się pola zazielenią
+!!i wiosna wszystko ożywi,
+!!piękność natury ocenią,
+!!i wtenczas tylko szczęśliwi.
+!!Dla nich słońce piękniéj świeci,
+!!dla nich słowik piękniéj nuci,
+!!wiosna życie w nich ocuci,
+!!bo nie są z czucia wyzuci,
+!!bo nie są z czucia wyzuci.
+!!@@END: VERSES
+!!!role-singer: Group
+!!!role-listener: Group
+!!!singer-sex: Complex
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=73 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 49} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 49}
 !!!page: 49
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-14
