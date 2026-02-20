@@ -1,0 +1,105 @@
+!!!!SEGMENT: DWOK1202100000-oj_wyjezdzaj_wyjezdzaj_z_podworza_mojego.krn
+!!!OTL: Oj wyjeżdżaj, wyjeżdżaj z podwórza mojego
+!!!source: DWOK12
+!!!id: 12021
+!!!signature: 1202100000
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{4gg	Oj
+4gg	wyjeż-
+4gg	.
+=2	=2
+8gg	dżaj,
+8gg	wyjeżdżaj
+4dd	.
+8ffL	.
+8eeJ	.
+=3	=3
+4cc	z
+8bq	.
+4cc	podwó-
+8ee	.
+8gg	.
+=4	=4
+8dd	rza
+8eeq	.
+8dd	mojego,
+4b	.
+4g}	.
+!!LO:LB:g=esac
+=5	=5
+{4cc	nie
+4cc	ciebiem
+8cc	.
+8ee	się
+=6	=6
+8dd	spodziewała,
+8dd	.
+4ff	.
+4ee	.
+=7	=7
+2cc	kogoś
+8eeL	.
+8ggJ	.
+=8	=8
+8dd	grzeczniejszego,
+8eeq	.
+8dd	.
+4b	.
+4g}	.
+!!LO:LB:g=esac
+=9	=9
+{4cc	nie
+4cc	ciebiem
+8cc	.
+8ee	się
+=10	=10
+8dd	spodziewała,
+8dd	.
+4ff	.
+4ee	.
+=11	=11
+2cc	kogoś
+8eeL	.
+8ggJ	.
+=12	=12
+8dd	grzeczniejszego.
+8eeq	.
+8dd	.
+4b	.
+4g}	.
+==	==
+*-	*-
+!!@@BEGIN:
+!!@COMMENTARY: od Kościana.
+!!@@END:
+!!!role-singer: Mistress, Lover
+!!!role-listener: Miistress, Lover
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:Oj wyjeżdżaj, wyjeżdżaj z podwórza mojego,
+!!nie ciebiem się spodziewała, kogoś grzeczniejszego.
+!!@VERSE:O wyjadę, wyjadę, 
+!!o chusteczkę proszę,
+!!a ja ciebie, kochaneczko,
+!!w swém sercu nie noszę.
+!!@VERSE:Choćbym dała chusteczkę,
+!!ale matka patrzy.
+!!A pójdź-że, kochaneczko,
+!!i ulicę zaprzéj.
+!!@VERSE:I uliczkę zapiérała,
+!!czarne oczki uciérała:
+!!czego-żem to, grzeczna dama,
+!!dzisiaj doczekała!
+!!@@END: VERSES
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=28 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 12} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 12}
+!!!page: 12
+!!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-13-02

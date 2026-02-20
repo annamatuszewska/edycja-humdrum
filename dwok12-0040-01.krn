@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK1204000001-konik_zmokl_jam_zmok_sukieneczka_zmokla.krn
+!!!OTL: Konik zmok(ł), jam zmok, sukieneczka zmokła
+!!!source: DWOK12
+!!!id: 12040
+!!!signature: 1204000001
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*E:	*
+*M3/4	*
+=1	=1
+{8b	Konik
+8dd	.
+4dd	zmok(ł),
+8dd	jam
+8ee	zmok,
+=2	=2
+8b	konik
+8dd	.
+8ddL	zmok(ł),
+8bJ	.
+8dd	jam
+8ee	zmok,
+=3	=3
+8cc	sukieneczka
+8b	.
+4a	.
+4cc	.
+=4	=4
+4b	zmokła,
+2e}	.
+!!LO:LB:g=esac
+=5	=5
+{8e	dla
+16f#L	ciebie
+16g#J	.
+8a	Kasieńku,
+8e	.
+8f#	.
+8d	.
+=6	=6
+8e	dla
+16f#L	ciebie
+16g#J	.
+8a	Kasieńku
+8e	.
+8f#	.
+8d}	.
+!!LO:LB:g=esac
+=7	=7
+{8e	sto-
+16f#L	ją-
+16g#J	.
+4a	cy
+4cc#	u
+=8	=8
+4b	o-
+2e}	kna.
+==	==
+*-	*-
+!!@@BEGIN:
+!!@COMMENTARY: od Wągrowca.
+!!@@END:
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:Konik zmok(ł), jam zmok,
+!!sukieneczka zmokła,
+!!dla ciebie Kasieńku
+!!stojący u okna.
+!!@VERSE:Nie będę ja roli orał,
+!!w jesieni,
+!!jéno będę rączki nosił
+!!w kieszeni i t. d.
+!!@@END: VERSES
+!!!ONB: moze zapisac od A?
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=35 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 19-20} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 19-20}
+!!!page: 19-20
+!!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-19-02

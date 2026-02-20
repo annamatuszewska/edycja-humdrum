@@ -1,0 +1,129 @@
+!!!!SEGMENT: DWOK1201600000-o_otworzcie_kochankowi.krn
+!!!OTL: O otwórzcie kochankowi
+!!!source: DWOK12
+!!!id: 12016
+!!!signature: 1201600000
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*g:	*
+*M3/4	*
+=1	=1
+{4dd	O
+4dd	otwórzcie
+8dd	.
+8ee	.
+=2	=2
+8ff	kochan-
+8eeq	.
+8dd	.
+4cc#	kowi
+4a	.
+=3	=3
+8gL	sze-
+8aJ	.
+4b-	ro-
+4g	ko
+=4	=4
+4f#	wrota,
+2d}	.
+!!LO:LB:g=esac
+=5	=5
+{4f#	żeby
+4f#	.
+8f#	sobie
+8d	.
+=6	=6
+8f#	ten
+8a	wrony
+4dd	.
+4a	koń
+=7	=7
+8g	nie
+8a	otrząsnął
+8cc#q	.
+4b-	.
+4g	.
+=8	=8
+4f#	złota.
+2d}	.
+!!LO:LB:g=esac
+=9	=9
+{4dd	O
+4dd	otwórzcie
+8dd	.
+8ee	.
+=10	=10
+8ff	kochan-
+8eeq	.
+8dd	.
+4cc#	kowi
+4a	.
+=11	=11
+8gL	sze-
+8aJ	.
+8b-L	ro-
+8aJ	.
+4g	ko
+=12	=12
+4f#	wrota,
+2d}	.
+!!LO:LB:g=esac
+=13	=13
+{4f#	żeby
+4f#	.
+8f#	sobie
+8d	.
+=14	=14
+8f#	ten
+8a	wrony
+8ddL	.
+8cc#J	.
+4a	koń
+=15	=15
+8gL	nie
+8aJ	.
+8cc#q	.
+8b-L	otrząsnął
+8aJ	.
+4g	.
+=16	=16
+4f#	złota.
+2d}	.
+==	==
+*-	*-
+!!@@BEGIN:
+!!@COMMENTARY: od Gniezna.
+!!@@END:
+!!!role-singer: Mistress
+!!!role-listener: Lover
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:O otwórzcie kochankowi
+!!szeroko wrota,
+!!żeby sobie ten wrony koń
+!!nie otrząsnął złota.
+!!@VERSE:O podłóżcie konikowi
+!!grzebieniec pod próg,
+!!żeby sobie ten wrony koń
+!!nie uwalał nóg.
+!!@VERSE:O nalijcie konikowi
+!!w koryto wody,
+!!żeby sobie ten wrony koń
+!!umył te nogi.
+!!@VERSE:O i dejcie konikowi
+!!kołacz pieczony,
+!!a ja swemu Jasińkowi
+!!kapłon pieczony.
+!!@VERSE:Oj i dejcie konikowi
+!!bochenek chleba.
+!!a ja swemu Jasińkowi
+!!czego potrzeba.
+!!@@END: VERSES
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=25 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 9} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 9}
+!!!page: 9
+!!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-11-02

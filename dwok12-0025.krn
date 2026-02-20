@@ -1,0 +1,126 @@
+!!!!SEGMENT: DWOK1202500000-a_w_niedziele_raniusienko.krn
+!!!OTL: A w niedzielę raniusieńko
+!!!source: DWOK12
+!!!id: 12025
+!!!signature: 1202500000
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16gL	A
+16bJ	w niedzielę
+8.dd	.
+16g	.
+=2	=2
+16b	raniusieńko
+16cc	.
+16eeL	.
+16ddJ	.
+8cc	.
+=3	=3
+16ee	jeszcze
+16gg	.
+16ggL	nie
+16ffJ	.
+8ee	był
+=4	=4
+4.dd}	dzień,
+!!LO:LB:g=esac
+=5	=5
+{16g	oj
+16b	i
+8.dd	jedzie
+16g	.
+=6	=6
+16b	Jasio
+16cc	.
+16eeL	drogą,
+16ddJ	.
+8cc	.
+=7	=7
+16a	Kasia
+16cc	.
+16eeL	pele
+16ddJ	.
+8cc	.
+=8	=8
+4.g}	len.
+!!LO:LB:g=esac
+=9	=9
+{16g	A
+16b	w niedzielę
+8.dd	.
+16g	.
+=10	=10
+16b	raniusieńko
+16cc	.
+16eeL	.
+16ddJ	.
+8cc	.
+=11	=11
+16ee	jeszcze
+16gg	.
+16ggL	nie
+16ffJ	.
+8ee	był
+=12	=12
+4.dd}	dzień,
+!!LO:LB:g=esac
+=13	=13
+{16g	oj
+16b	i
+8.dd	jedzie
+16g	.
+=14	=14
+16b	Jasio
+16cc	.
+16eeL	drogą,
+16ddJ	.
+8cc	.
+=15	=15
+16a	Kasia
+16cc	.
+16eeL	pele
+16ddJ	.
+8cc	.
+=16	=16
+4.g}	len.
+==	==
+*-	*-
+!!@@BEGIN:
+!!@COMMENTARY: od Szmigla (Morownica).
+!!@@END:
+!!!role-singer: Mistress, Lover
+!!!role-listener: Mistress, Lover
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:A w niedzielę raniusieńko
+!!jeszcze nie był dzień,
+!!oj i jedzie Jasio drogę,
+!!Kasia  pele len.
+!!@VERSE:Dzień dobry ci, Kasineczku, 
+!!miałaś moją być.
+!!powiedziałaś, powiedziałaś:
+!!nie umiem robić.
+!!@VERSE:A bo-ć ci to nie robota, 
+!!kiedy pelesz len.
+!!Dopiero-ć mnie matka moja,
+!!dziś wegnała weń.
+!!@VERSE:A mam-ci brzezineczkę
+!!przed moje wroty,
+!!brzezineczka ta nauczy
+!!wszystkiej roboty.
+!!@VERSE:Jeszczem się nie obiecowała
+!!Jasiu, twoją być,
+!!a ty już mnie obiecujesz
+!!brzezineczką bić.
+!!@@END: VERSES
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=29 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 13-14} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 13-14}
+!!!page: 13-14
+!!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-13-02
