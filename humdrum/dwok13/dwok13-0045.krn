@@ -3,65 +3,76 @@
 !!!source: DWOK13
 !!!id: 13045
 !!!signature: 1304500000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{4dd
-8cc
-8a
-8g
-8d
-=2
-8g
-8b
-8a
-8d
-8g
-8b
-=3
-4dd
-8cc
-8a
-8g
-8d
-=4
-8g
-8b
-8a
-16a
-16f#
-8g
-8g}
-!!LO:LB:g=esac
-=5
-{4g
-8b
-8b
-8b
-8g
-=6
-8cc
-8ee
-2ee
-=7
-4dd
-8gg
-8dd
-8b
-8g
-=8
-8a
-16a
-16f#
-4g}
-4r
-==
-*-
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{4dd	Niech
+8cc	będzie
+8a	.
+8g	Jezus
+8d	.
+=2	=2
+8g	Chrystus
+8b	.
+8a\	pochwalo-
+8d	.
+8g	.
+8b	-ny,
+=3	=3
+4dd	powiedz
+8cc	.
+8a\	mi
+8g	panno
+8d	.
+=4	=4
+8g	czy
+8b	jadę
+8a	.
+16aL	do
+16f#J	.
+8g;	żony.
+8g}	.
+!!LO:LB:g=esac	.
+=5	=5
+{4g	Powiedz
+8b	.
+8b	mi
+8b	panno
+8g	.
+=6	=6
+8cc	otwarcie,
+8ee	.
+2ee	.
+=7	=7
+4dd	czyli
+8gg	.
+8dd	mnie
+8b	kochasz
+8g	.
+=8	=8
+8a	zażarcie.
+16aL	.
+16f#J	.
+4g}	.
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Niech będzie Jezus Chrystus pochwalony, 
+!!powiedz mi panno czy jadę do żony. 
+!!Powiedz mi panno otwarcie, 
+!!czyli mnie kochasz zażarcie.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=50 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 26} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 26}
 !!!page: 26
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-08

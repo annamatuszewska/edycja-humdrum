@@ -3,154 +3,196 @@
 !!!source: DWOK13
 !!!id: 13009
 !!!signature: 1300900001
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-{8cc
-8b
-=1
-4a
-4cc
-8ee
-8ee
-=2
-8dd
-8cc
-4b
-8cc
-8b
-=3
-4a
-4b
-8a
-8g#
-=4
-4g#
-4a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+!LO:TX:a:t=Sierota	!
+{8cc	Nie
+8b	mam
+=1	=1
+4a\	ojca
+4cc	.
+8ee	nie
+8ee	mam
+=2	=2
+8ddL	matki,
+8ccJ	.
+4b	.
+8cc	już
+8b	lat
+=3	=3
+4a\	siedem
+4b	.
+8a	jak
+8g#	śpią
+=4	=4
+4g#	w_grobie,
+4a}	.
 !!LO:LB:g=esac
-=-
-{8cc
-8b
-=5
-4a
-4cc
-8ee
-8ee
-=6
-8dd
-8cc
-4b
-8cc
-8b
-=7
-4a
-4b
-8a
-8g#
-=8
-4g#
-4a}
+=-	=-
+{8cc	nie
+8b	mam
+=5	=5
+4a\	nigdzie
+4cc	.
+8ee	własnéj
+8ee	.
+=6	=6
+8ddL	chatki,
+8ccJ	.
+4b	wszędzie,
+8cc	.
+8b	.
+=7	=7
+4a\	w_każdéj
+4b	.
+8a	smutnam
+8g#	.
+=8	=8
+4g#	dobie.
+4a}	.
 !!LO:LB:g=esac
-=-
-{8cc
-8dd
-=9
-4ee
-4ee
-8ff
-8ee
-=10
-4ee
-8dd
-8r
-8ee
-8dd
-=11
-4cc
-4ee
-8dd
-8cc
-=12
-4cc
-8b}
-8r
+=-	=-
+{8cc	Dawniéj
+8dd	.
+=9	=9
+4ee	gdym
+4ee	się
+8ff	obu-
+8ee	.
+=10	=10
+4ee	-dziła
+8dd	.
+8r	.
+8ee	droga
+8dd	.
+=11	=11
+4cc	matka
+4ee	.
+8dd	mnie
+8cc	pie-
+=12	=12
+4cc	-ściła,
+8b}	.
+8r	.
 !!LO:LB:g=esac
-=-
-{8cc
-8b
-=13
-4a
-4cc
-8ee
-8ee
-=14
-8dd
-8cc
-4b
-8cc
-8b
-=15
-4a
-4b
-8a
-8g#
-=16
-4g#
-4a}
+=-	=-
+{8cc	czule
+8b	.
+=13	=13
+4a\	Kasię
+4cc	.
+8ee	swą
+8ee	ści-
+=14	=14
+8ddL	-ska-
+8ccJ	.
+4b	-ła
+8cc	i
+8b	do
+=15	=15
+4a\	piersi
+4b	.
+8a	przytu-
+8g#	.
+=16	=16
+4g#	-lała,
+4a}	.
 !!LO:LB:g=esac
-=-
-{8cc
-8dd
-=17
-4ee
-4ee
-8ff
-8ee
-=18
-4ee
-8dd
-8r
-8ee
-8dd
-=19
-4cc
-4ee
-8dd
-8cc
-=20
-4cc
-8b}
-8r
+=-	=-
+{8cc	Dawniéj
+8dd	.
+=17	=17
+4ee	gdym
+4ee	się
+8ff	obu-
+8ee	.
+=18	=18
+4ee	-dziła
+8dd	.
+8r	.
+8ee	droga
+8dd	.
+=19	=19
+4cc	matka
+4ee	.
+8dd	mnie
+8cc	pie-
+=20	=20
+4cc	-ściła
+8b}	.
+8r	.
 !!LO:LB:g=esac
-=-
-{8cc
-8b
-=21
-4a
-4cc
-8ee
-8ee
-=22
-8dd
-8cc
-4b
-8cc
-8b
-=23
-4a
-4b
-8a
-8g#
-=24
-4g#
-4a}
-==
-*-
+=-	=-
+{8cc	czule
+8b	.
+=21	=21
+4a\	Kasię
+4cc	.
+8ee	swą
+8ee	ści-
+=22	=22
+8ddL	-ska-
+8ccJ	ła
+4b	.
+8cc	i
+8b	do
+=23	=23
+4a\	piersi
+4b	.
+8a	przytu-
+8g#	.
+=24	=24
+4g#	-lała.
+4a}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Nie mam ojca nie mam matki,
+!!już lat siedem jak śpią w grobie
+!!nie mam nigdzie własnéj chatki,
+!!wszędzie, w każdéj smutnam dobie.
+!!Dawniéj, gdym się obudziła,
+!!droga matka mnie pieściła, czule
+!!Kasię swą ściskała i do piersi przytulała.
+!!@VERSE:
+!!2. Dziś, gdzie tylko spojrzę okiem,
+!!zewsząd smutek na mnie czyha;
+!!dziś, gdzie tylko stąpię krokiem,
+!!świat ojczymi mnie odpycha.
+!!Nikt nie słucha żalu mego,
+!!i nikt serca strapionego
+!!nie ukoji, nie pocieszy,
+!!precz ode mnie każdy spieszy.
+!!@VERSE:
+!!3. Świat okrutny, świat bez czucia,
+!!jak lód zimny, jak głaz twardy,
+!!chleba skibę gdy mi rzuca,
+!!strasznym kraje wzrokiem wzgardy.
+!!Ach, nie wiedzą jak smakuje
+!!chléb, co wzgarda ofiaruje ;
+!!każdy kęsek łzę wyciska,
+!!co w zapłacie dawcy błyska.
+!!@VERSE:
+!!4. Precz od ludzi, pójdę sobie,
+!!niech się o mnie nie kłopocą,
+!!tam na ojca, matki grobie,
+!!płakać będę dniem i nocą.
+!!Może zmarłych wzruszę prędzéj,
+!!może drodzy, z mojéj nędzy,
+!!każą ziemi się roztworzyć
+!!i przy sobie się położyć.
+!!@@END: VERSES
+!!!role-singer: Daughter
+!!!role-listener: Group
+!!!singer-sex: female
 !!!ONB: Wariant z przedtaktem
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=32 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 8} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 8}
 !!!page: 8
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-01

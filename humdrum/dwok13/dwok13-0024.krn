@@ -3,79 +3,90 @@
 !!!source: DWOK13
 !!!id: 13024
 !!!signature: 1302400000
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/8
-=1
-{8e
-8a
-8cc#
-=2
-8cc#
-8b
-8cc#
-=3
-8dd
-8g#
-8b
-=4
-8b
-4a}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M3/8	*
+=1	=1
+{8e	Już
+8a\	mi
+8cc#	mi-
+=2	=2
+8cc#L	-nę-
+8bJ	.
+8cc#	-ło
+=3	=3
+8dd	szesnaście
+8g#	.
+8b/	.
+=4	=4
+8b/	latek,
+4a}	.
 !!LO:LB:g=esac
-=5
-{8e
-8a
-8cc#
-=6
-8cc#
-8b
-8cc#
-=7
-8dd
-8g#
-8b
-=8
-8b
-4a}
+=5	=5
+{8e	trzeba
+8a\	.
+8cc#	się
+=6	=6
+8cc#L	wpisać
+8bJ	.
+8cc#	.
+=7	=7
+8dd	w_rejestr
+8g#	.
+8b/	mę-
+=8	=8
+8b/	-żatek.
+4a}	.
 !!LO:LB:g=esac
-=9
-{16e
-16e
-8g#
-8b
-=10
-16e
-16e
-8g#
-8b
-=11
-4dd
-8cc#
-=12
-4.ee}
+=9	=9
+{16e	Przybywajcie
+16e	.
+8g#	.
+8b	.
+=10	=10
+16e	kawa-
+16e	.
+8g#	-lery,
+8b	.
+=11	=11
+4dd	a
+8cc#	sko-
+=12	=12
+4.ee}	-ro
 !!LO:LB:g=esac
-=13
-{16b
-16b
-8dd
-8b
-=14
-16a
-16a
-8cc#
-8a
-=15
-8e
-4g#
-=16
-4a}
-8r
-==
-*-
+=13	=13
+{16b	może
+16b	.
+8dd	sobie
+8b	.
+=14	=14
+16a\	z_was
+16a\	.
+8cc#	którego
+8a\	.
+=15	=15
+8e	wybio-
+4g#	.
+=16	=16
+4a}	rę.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Już mi minęło szesnaście latek,
+!!trzeba się wpisać w rejestr mężatek.
+!!Przybywajcie kawalery,
+!!a skoro może sobie z was którego wybiorę.
+!!@@END: VERSES
+!!!role-singer: unmarried woman
+!!!role-listener: unmarried man
+!!!singer-sex: female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=40 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 16} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 16}
 !!!page: 16
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-03

@@ -3,84 +3,110 @@
 !!!source: DWOK13
 !!!id: 13035
 !!!signature: 1303500000
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M2/4
-=1
-{8a
-8b
-8cc#
-8dd
-=2
-4ee
-8cc#
-8ee
-=3
-4ee
-8cc#
-8ee
-=4
-4ee
-4cc#}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M2/4	*
+=1	=1
+!LO:TX:a:t=Słowa Karpińskiego.	!
+{8a\	Kiedy
+8b	.
+8cc#	ja
+8dd	u-
+=2	=2
+4ee	-siądę,
+8cc#	u-
+8ee	.
+=3	=3
+4ee	-siądę,
+8cc#	.
+8ee	u-
+=4	=4
+4ee	-siądę
+4cc#}	.
 !!LO:LB:g=esac
-=5
-{8dd
-8ff#
-8ff#
-8ff#
-=6
-4ee
-8cc#
-8r
-=7
-8dd
-8ff#
-8ff#
-8ff#
-=8
-4ee
-8cc#}
-8r
+=5	=5
+{8dd	koło
+8ff#	.
+8ff#	méj
+8ff#	Do-
+=6	=6
+4ee	-ry-
+8cc#	-dy,
+8r	.
+=7	=7
+8dd	koło
+8ff#	.
+8ff#	méj
+8ff#	Do-
+=8	=8
+4ee	-rydy
+8cc#}	.
+8r	.
 !!LO:LB:g=esac
-=9
-{4ff#
-8dd
-8b
-=10
-4.a
-8a
-=11
-8g#
-8g#
-8g#
-8g#
-=12
-8a
-8cc#
-4ee}
+=9	=9
+{4ff#	oczy
+8dd	w
+8b	nią
+=10	=10
+4.a	wlepię
+8a	.
+=11	=11
+8g#	i
+8g#	zapomnę
+8g#	.
+8g#	.
+=12	=12
+8aL	bie-
+8cc#J	.
+4ee}	-dy,
 !!LO:LB:g=esac
-=13
-{4ff#
-8dd
-8b
-=14
-4.a
-8a
-=15
-8g#
-8g#
-8g#
-8g#
-=16
-4a
-4a}
-==
-*-
+=13	=13
+{4ff#	oczy
+8dd	w
+8b	nią
+=14	=14
+4.a	wlepię
+8a	.
+=15	=15
+8g#	i
+8g#	zapomnę
+8g#	.
+8g#	.
+=16	=16
+4a	biedy.
+4a}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Kiedy ja usiądę, usiądę,
+!!usiądę koło méj Dorydy, koło méj Dorydy
+!!oczy w nią wlepię i zapomnę biedy, biedy.
+!!@VERSE:
+!!2. A Doryda powié mi (:) jako mi mawiała,
+!!daj mi twe serce, jam ci moje dała.
+!!@VERSE:
+!!3. A ona mnie jeszcze (:) ściśnie, pocałuje,
+!!wtenczas Dorydo, nic mnie nie turbuje.
+!!@VERSE:
+!!4. Niech jak chcą gadają, ludzie nieżyczliwi,
+!!jeszcze się przy mnie Doryda wyżywi.
+!!@VERSE:
+!!5. Czyli palić słońce (czy słońce), czy bić będą słoty,
+!!dla jéj miłości, pójdę do roboty.
+!!@VERSE:
+!!6. Przyśpiewując pracy méj, pieśni o Dorydzie,
+!!z-orzę mój zagon, zapomnę o biédzie.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: male
 !!!ONB: Słowa Karpińskiego
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=45 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 21} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 21}
 !!!page: 21
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-06

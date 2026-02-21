@@ -3,65 +3,89 @@
 !!!source: DWOK13
 !!!id: 13030
 !!!signature: 1303000000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16a
-16a
-8f
-8a
-=2
-4dd
-8cc
-=3
-16a
-16a
-8f
-8a
-=4
-4dd
-8cc}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16a	Pojrzyj
+16a	.
+8f	przecie
+8a	.
+=2	=2
+4dd	mile
+8cc	.
+=3	=3
+16a	moja
+16a	.
+8f	Zosiu
+8a	.
+=4	=4
+4dd	płocha,
+8cc}	.
 !!LO:LB:g=esac
-=5
-{8.ee
-16dd
-16b-
-16g
-=6
-4dd
-8cc
-=7
-16cc
-16b-
-8g
-8e
-=8
-8f
-4ff}
+=5	=5
+{8.ee	daruj
+16dd	.
+16b-	a-
+16g	-by
+=6	=6
+4dd	chwilę
+8cc	.
+=7	=7
+16cc	temu
+16b-	.
+8g	co
+8e	cię
+=8	=8
+8f	kocha,
+4ff}	.
 !!LO:LB:g=esac
-=9
-{8.ee
-16dd
-16b-
-16g
-=10
-4dd
-8cc
-=11
-16cc
-16b-
-8g
-8e
-=12
-8g
-4f}
-==
-*-
+=9	=9
+{8.ee	daruj
+16dd	.
+16b-	a-
+16g	-by
+=10	=10
+4dd	chwilę
+8cc	.
+=11	=11
+16cc	temu
+16b-	.
+8g	co
+8e	cię
+=12	=12
+8g	kocha.
+4f}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Pojrzyj przecie mile moja Zosiu płocha,
+!!daruj aby chwilę temu co cię kocha.
+!!@VERSE:
+!!2. Kiedy cię nie staje,
+!!ciemno mi na niebie;
+!!łąki, trzody, gaje,
+!!niczém mi bez ciebie.
+!!@VERSE:
+!!3. Tyś jest moje mienie,
+!!ty wesele moje;
+!!byle twe spojrzenie,
+!!o nic jut nie stoję.
+!!@VERSE:
+!!4. Gdybym ja się kiedy,
+!!stał niewiernym Zosi,
+!!niech mnie wicher wtedy
+!!w góry poroznosi.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=42 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 18} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 18}
 !!!page: 18
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-05

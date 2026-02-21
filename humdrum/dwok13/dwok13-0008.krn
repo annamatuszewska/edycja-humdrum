@@ -3,90 +3,141 @@
 !!!source: DWOK13
 !!!id: 13008
 !!!signature: 1300800000
-**kern
-*clefG2
-*k[b-e-]
-*g:
-*M3/8
-=1
-{16g
-16a
-8b-
-8dd
-=2
-16cc
-16b-
-8a
-8g
-=3
-4d
-8f#
-=4
-8f#
-4d}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*g:	*
+*M3/8	*
+=1	=1
+{16g\	Już
+16a\	.
+8b-	minęły
+8dd	.
+=2	=2
+16cc	tamte
+16b-	.
+8a	lata,
+8g	.
+=3	=3
+4d	ach
+8f#	ja
+=4	=4
+8f#	biedna
+4d}	.
 !!LO:LB:g=esac
-=5
-{16dd
-16dd
-8b-
-8dd
-=6
-16cc
-16b-
-8a
-8g
-=7
-4d
-8f#
-=8
-8f#
-4g}
+=5	=5
+{16dd/L	kiedym
+16dd/J	.
+8b-/L	była
+8dd/J	.
+=6	=6
+16cc	u_swej
+16b-	.
+8a	matki
+8g	.
+=7	=7
+4d	sama
+8f#	.
+=8	=8
+8f#	jedna,
+4g}	.
 !!LO:LB:g=esac
-=9
-{16b-
-16a
-16b-
-16cc
-8dd
-=10
-16ee-
-16dd
-16ee-
-16ff
-8gg
-=11
-16ff
-16ee
-8ff
-8a
-=12
-8b-
-4dd}
+=9	=9
+{16b-	la
+16a\	la
+16b-L	.
+16ccJ	la
+8dd	la,
+=10	=10
+16ee-	la
+16dd	la
+16ee-L	.
+16ffJ	la
+8gg	la
+=11	=11
+16ff	la
+16ee	la
+8ff	sama
+8a	.
+=12	=12
+8b-	sama
+4dd}	.
 !!LO:LB:g=esac
-=13
-{16b-
-16a
-16b-
-16cc
-8dd
-=14
-16ee-
-16dd
-16ee-
-16ff
-8gg
-=15
-16ff
-16ee
-8ff
-8a
-=16
-8b-
-4b-}
-==
-*-
+=13	=13
+{16b-	la
+16a	la
+16b-L	.
+16ccJ	la
+8dd	la,
+=14	=14
+16ee-	la
+16dd	la
+16ee-L	.
+16ffJ	la
+8gg	la
+=15	=15
+16ff	la
+16ee	la
+8ff	sama
+8a	.
+=16	=16
+8b-	jedna.
+4b-}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1.Już minęły tamte lata,
+!!ach ja biedna kiedyś była u swej matki sama jedna,
+!!la la la la, la la la la la la sama sama,
+!!la la la la, la la la la la la sama jedna.
+!!@VERSE:
+!!2. Dawniéj jam do żniw chodziła
+!!od dnia do dnia;
+!!dzisiaj jam żoną i panią
+!!kupca z Wiednia.
+!!@VERSE:3. 
+!!Jadało się na śniadanie,
+!!żur z prażużką —
+!!teraz kawa jest posiłkiem
+!!w mojém brzuszku.
+!!@VERSE:
+!!4. Dawniéj było na obiadek:
+!!groch, kapusta; —
+!!teraz pieczeń jest skopowa,
+!!kaczka tłusta.
+!!@VERSE:
+!!5. Do kościoła'm pieszo biegła,
+!!mnie wołają, —
+!!dzisiaj niech-no krzyknę, tępnę
+!!zaprzęgają
+!!@VERSE:
+!!6. A pan tatuś na mnie burczał,
+!!a jam drżała; —
+!!teraz siedzę na kanapie,
+!!pani cała.
+!!@VERSE:
+!!7. I w gościńcu'm tańcowała
+!!obertasa,
+!!dziś w salonie z ładnym chłopcem
+!!kontredansa.
+!!@VERSE:
+!!8. Dawniéj było: dána, dána!
+!!dziś z francuska:
+!!chodź tu lokaj, chodź tu bona,
+!!pościel łóżka!
+!!@VERSE:
+!!9. W sieni na worku'm sypiała
+!!bez pościeli, —
+!!dzisiaj leżę w puchu cała
+!!zaraz śmieléj.
+!!@@END: VERSES
+!!!role-singer: Brother
+!!!role-listener: Brother
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=31 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 7} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 7}
 !!!page: 7
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-01

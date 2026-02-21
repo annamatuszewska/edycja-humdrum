@@ -3,75 +3,98 @@
 !!!source: DWOK13
 !!!id: 13037
 !!!signature: 1303700002
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{8a
-8a
-8a
-=2
-4a
-8cc
-=3
-8cc
-8b-
-8a
-=4
-8b-
-4g}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{8a	Staś
+8a	mi
+8a	pier-
+=2	=2
+4a	-ścionek
+8cc	.
+=3	=3
+8cc	przyniósł
+8b-	.
+8a\	z_jar-
+=4	=4
+8b-	-marku,
+4g}	.
 !!LO:LB:g=esac
-=5
-{8g
-8f#
-8g
-=6
-8b-
-8d
-8e
-=7
-8g
-[4f}
-=8
-4f]
-8r
+=5	=5
+{8g	Józio
+8f#	z_prze-
+8g	.
+=6	=6
+8b-	-ślicznych
+8d	.
+8e	róż
+=7	=7
+8g	wianek,
+[4f}	.
+=8	=8
+4f]	.
+8r	.
 !!LO:LB:g=esac
-=9
-{8b-
-8dd
-8dd
-=10
-8ff
-8ee
-8dd
-=11
-8dd
-8cc
-8cc
-=12
-4ff
-8a}
+=9	=9
+{8b-	tyś
+8dd	mi
+8dd	ża-
+=10	=10
+8ddq	.
+8ffL	-dnego
+8eeJ	.
+8dd	.
+=11	=11
+8dd	nie
+8cc	dał
+8cc	po-
+=12	=12
+8ccq	.
+4ff	-darku,
+8a}\	.
 !!LO:LB:g=esac
-=13
-{8cc
-8.ee
-16dd
-=14
-8cc
-8b-
-8e
-=15
-8g
-[4f}
-=16
-4f]
-8r
-==
-*-
+=13	=13
+{8cc	lecz
+8.ee/L	Jasiu
+16dd/J	.
+=14	=14
+8cc	tyś
+8b-	mój
+8e	ko-
+=15	=15
+8g	.
+[4f}	-cha-
+=16	=16
+4f]	-nek.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Staś mi pierścionek przyniósł z jarmarku,
+!!Józio z prześlicznych róż wianek,
+!!tyś mi żadnego nie dał podarku,
+!!lecz Jasiu tyś mój kochanek.
+!!@VERSE:
+!!2. Antosia usta gdyby korale;
+!!włos od kruczego czarniejszy,
+!!płeć bielsza niżli me róże białe,
+!!lecz Jasiu, tyś mi piękniejszy.
+!!@VERSE:
+!!3. Wczoraj od Józia przysłano swaty,
+!!dziś swatów Stasia się boję,
+!!pójdź Janku, uderz w okno méj chaty,
+!!pójdź tu i bierz mnie jak swoję.
+!!@@END: VERSES
+!!!role-singer: Mistress
+!!!role-listener: Lover
+!!!singer-sex: female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=46 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 22} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 22}
 !!!page: 22
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-06

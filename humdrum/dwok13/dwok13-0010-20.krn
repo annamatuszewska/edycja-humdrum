@@ -3,54 +3,86 @@
 !!!source: DWOK13
 !!!id: 13010
 !!!signature: 1301000020
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16.g
-32b
-8b
-8g
-=2
-16.ee
-32ee
-8dd
-8g
-=3
-16b
-16a
-8cc
-8f#
-=4
-4g}
-8r
+!!!EFL:1301000010/2
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16.g	W_jasnym
+32b	.
+8ccq	.
+8b	dworze
+8g	.
+=2	=2
+16.ee	tańczą
+32ee	.
+8dd	pany
+8g	.
+=3	=3
+16b	i
+16a\	kape-
+8cc	.
+8f#\	-la
+=4	=4
+4g}	grzmi,
+8r	.
 !!LO:LB:g=esac
-=5
-{16.g
-32b
-8b
-8g
-=6
-16.ee
-32ee
-8dd
-8g
-=7
-16b
-16a
-8cc
-16e
-16f#
-=8
-4g}
-8r
-==
-*-
+=5	=5
+{16.g	w_jasnym
+32b	.
+8ccq	.
+8b	dworze
+8g	.
+=6	=6
+16.ee	tańczą
+32ee	.
+8dd	pany
+8g	.
+=7	=7
+16b	i
+16a\	kape-
+8cc	.
+16eL	-la
+16f#J	.
+=8	=8
+4g}	grzmi.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1.Ach mój Boże, ach mój Panie, źle na świecie źle, 
+!!z biedą człowiek rano wstaje, z biedą kładzie się.
+!!Mróz na dworce i wiatr wieje i do chaty dmie, 
+!!na kominie skra nie tleje niema drzewa, nie. 
+!!W jasnym dworze tańczą pany i kapela grzmi,
+!!lecz głośniejsze chłopskie tony
+!!głośniéj piosnka brzmi.
+!!lecz głośniejsze chłopskie tony,
+!!głosniéj piosnka brzmi.
+!!@VERSE:
+!!2. Drzewa niéma, chleba niéma, 
+!!w chacie mróz i głód, 
+!!ciężkie lato, cięższa zima, 
+!!na ubogi ród. 
+!!Źle na świecie, ach okrutnie, 
+!!że aż dusza drży, 
+!!a tak w sercu gorzko, smutnie, 
+!!że aż w oczach łzy. 
+!!3. W jasnym dworze tańczą pany, 
+!!i kapela grzmi, 
+!!lecz głośniejsze chłopskie tany, 
+!!głośniéj piosnka brzmi.
+!!@@END: VERSES
+!!!role-singer: complex
+!!!role-listener: complex
+!!!singer-sex: complex
 !!!ONB: Fragment w G z tekstem W jasnym dworze
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=33 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 9} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 9}
 !!!page: 9
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-02

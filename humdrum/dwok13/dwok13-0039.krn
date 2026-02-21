@@ -3,63 +3,94 @@
 !!!source: DWOK13
 !!!id: 13039
 !!!signature: 1303900000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M6/8
-=1
-{8f
-8a
-8a
-8a
-8g
-8a
-=2
-4cc
-8b-
-4g
-8r
-=3
-8g
-8b-
-8b-
-8b-
-8a
-8b-
-=4
-4dd
-8cc
-4a}
-8r
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M6/8	*
+=1	=1
+{8f	Runia
+8a	.
+8a	szukała
+8a	.
+8g	.
+8a	o
+=2	=2
+(4cc	chłodzie
+8b-)	.
+4g	.
+8r	.
+=3	=3
+8g	kwiatów
+8b-	.
+8b-	i
+8b-	ziółek
+8a\	w
+8b-	o-
+=4	=4
+(4dd	-grodzie,
+8cc)	.
+4a}	.
+8r	.
 !!LO:LB:g=esac
-=5
-{8ff
-8ee
-8dd
-8cc
-8b-
-8a
-=6
-4dd
-8b-
-4g
-8r
-=7
-8g
-8b-
-8dd
-8dd
-8cc
-8e
-=8
-4.g
-4f}
-8r
-==
-*-
+=5	=5
+{8ff	a-
+8ee	-le
+8dd	kwiateczki
+8cc	.
+8b-	.
+8a\	.
+=6	=6
+4dd	zerwano
+8b-	.
+4g	.
+8r	.
+=7	=7
+8g	a
+8b-	ziółka
+8dd	.
+8dd	wprzód
+8cc	wyzbie-
+8e	.
+=8	=8
+4.g	-rano.
+4f}	.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Runia szukała o chłodzie kwiatów
+!!i ziółek w ogrodzie,
+!!ale kwiateczki zerwano
+!!a ziółka wprzód wyzbierano.
+!!@VERSE:
+!!2. Biedna ja, biedna dziewczyna,
+!!na święto kwiatu nie stanie.
+!!Ach, nieszczęśliwa godzina!
+!!znikło do włosów przybranie.
+!!@VERSE:
+!!3. Gdy się tak żali i gniéwa,
+!!Stasio wychodzi z za drzewa,
+!!niesie świeżuchne i hoże
+!!kwiaty, — fijołki i róże.
+!!@VERSE:
+!!4. Kwiatem pamięci związane,
+!!oddał w rączęta kochane.
+!!Ona odbiera i płonie,
+!!miłość przemawia w jéj łonie.
+!!@VERSE:
+!!5. Póki jutrzenka co rano,
+!!co wieczór zjawią się cienie,
+!!póty mi będziesz kochaną,
+!!serca mojego nie zmienię.
+!!@@END: VERSES
+!!!role-singer: Lover, mistress
+!!!role-listener: Complex
+!!!singer-sex: female, male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=47 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 23} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 23}
 !!!page: 23
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-06

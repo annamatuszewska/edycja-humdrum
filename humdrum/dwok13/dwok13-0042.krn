@@ -3,103 +3,121 @@
 !!!source: DWOK13
 !!!id: 13042
 !!!signature: 1304200000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16f
-16a
-8cc
-8ff
-=2
-8dd
-8b-
-8dd
-=3
-16cc
-16cc
-8a
-8cc
-=4
-8b-
-8g
-8b-
-=5
-16cc
-16a
-8f
-8f
-=6
-8g
-4c}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16f	Ja
+16a	do
+8cc	dworu
+8ff	.
+=2	=2
+8dd	zajadę
+8b-	.
+8dd	.
+=3	=3
+16cc	i
+16cc	wystąpię
+8a\	.
+8cc	.
+=4	=4
+8b-	z_para-
+8g	.
+8b-	-dą
+=5	=5
+16cc	przed
+16a	dziewulą
+8f	.
+8f	.
+=6	=6
+8g	ła-
+8eq	.
+4c}	dną.
 !!LO:LB:g=esac
-=7
-{16f
-16a
-8cc
-8ff
-=8
-8dd
-8b-
-8dd
-=9
-16cc
-16cc
-8a
-8cc
-=10
-8b-
-8g
-8b-
-=11
-16cc
-16a
-8f
-8f
-=12
-8g
-4c}
+=7	=7
+{16f	Ja
+16a	do
+8cc	dworu
+8ff	.
+=8	=8
+8dd	zajadę
+8b-	.
+8dd	.
+=9	=9
+16cc	i
+16cc	wystąpię
+8a\	.
+8cc	.
+=10	=10
+8b-	z_para-
+8g	.
+8b-	-dą
+=11	=11
+16cc	przed
+16a\	.
+8f	dziewulą
+8f	.
+=12	=12
+8g	ła-
+8eq	.
+4c}	-dną.
 !!LO:LB:g=esac
-=13
-{16c
-16e
-4g
-=14
-16f
-16a
-4cc
-=15
-16b-
-16b-
-8g
-8g
-=16
-8cc
-4a}
+=13	=13
+{16c	Ta
+16e	grzeczna,
+4g	.
+=14	=14
+16f	ta
+16a	ładna,
+4cc	.
+=15	=15
+8ccq	.
+16b-	ta
+16b-	ma
+8g\	oczka
+8g\	.
+=16	=16
+8cc	czarne
+4a}\	.
 !!LO:LB:g=esac
-=17
-{16c
-16e
-4g
-=18
-16f
-16a
-4cc
-=19
-16b-
-16b-
-8g
-8b-
-=20
-16cc
-16a
-4f}
-==
-*-
+=17	=17
+{16c	z_tą
+16e	gadam,
+4g	.
+=18	=18
+16f	z_tą
+16a	figle,
+4cc	.
+=19	=19
+8ccq	.
+16b-	a
+16b-	do
+8gL	téj
+8b-J/	się
+=20	=20
+16ccL	garnę.
+16a\J	.
+4f}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Ja do dworu zajadę
+!!i wystąpię z paradą
+!!przed dziewulą ładną.
+!!Ta grzeczna, ta ładna,
+!!ta ma oczka czarne
+!!z tą gadam, z tą figle,
+!!a do téj się garnę.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Group
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=49 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 25} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 25}
 !!!page: 25
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-06

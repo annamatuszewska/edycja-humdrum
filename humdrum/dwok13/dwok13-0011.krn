@@ -3,71 +3,112 @@
 !!!source: DWOK13
 !!!id: 13011
 !!!signature: 1301100000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16dd
-16cc
-8b
-8b
-=2
-16b
-16a
-8g#
-8a
-=3
-16a
-16b
-8cc
-8f#
-=4
-4g}
-8r
-!!LO:LB:g=esac
-=5
-{16a
-16b
-8cc
-8ee
-=6
-16ee
-16dd
-8b
-8b
-=7
-16dd
-16dd
-8cc
-8a
-=8
-4dd}
-8r
-!!LO:LB:g=esac
-=9
-{16a
-16b
-8cc
-8ee
-=10
-16ee
-16dd
-8b
-8dd
-=11
-16dd
-16dd
-8cc
-8a
-=12
-4g}
-8r
-==
-*-
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16dd	Na
+16cc	.
+8b	dolinie
+8b	.
+=2	=2
+16b	zawie-
+16a	.
+8g#	-rucha
+8a	.
+=3	=3
+16a	mokrym
+16b	.
+8cc	śniegiem
+8f#	.
+=4	=4
+4g}	dmie,
+8r	.
+!!LO:LB:g=esac	.
+=5	=5
+{16a\	na
+16b	kominie
+8cc	.
+8ee	.
+=6	=6
+16ee	ogień
+16dd	.
+8b	bucha,
+8b	.
+=7	=7
+16dd	trzaska
+16dd	.
+8cc	koło
+8a	.
+=8	=8
+4dd}	mnie,
+8r	.
+!!LO:LB:g=esac	.
+=9	=9
+{16a\	na
+16b	kominie
+8cc	.
+8ee	.
+=10	=10
+16ee	ogień
+16dd	.
+8b/L	bucha,
+8dd/J	.
+=11	=11
+16dd	trzaska
+16dd	.
+8cc	koło
+8a	.
+=12	=12
+4g}	mnie.
+8r	.
+==	==
+*-	*
+!!@@BEGIN: VERSES
+!!1.Na dolinie zawierucha
+!!mokrym śniegiem dmie,
+!!na kominie ogień bucha,
+!!trzaska koło mnie.
+!!@VERSE:
+!!2. Przy kominie z lulką stoję,
+!!puszczam w kłęby dym;
+!!a wspomnienia wszystkie moje
+!!lecą razem z nim.
+!!@VERSE:
+!!3. Niechaj lecą, jak leciały
+!!chwile młodych łat,
+!!co z sobą wszystko zabrały,
+!!i ostatni kwiat.
+!!@VERSE:
+!!4. Gdzie ten kwiatek, gdzie nadzieje?
+!!omyliły mnie;
+!!jeden wiatr co w polu wieje,
+!!tylko bawi mnie.
+!!@VERSE:
+!!5. On bez celu, ja bez celu,
+!!i ten z lulki dym,
+!!trzech nas tylko, trzech, — niewielu,
+!!pójdźmy razem z nim.
+!!@VERSE:
+!!6. Pójdziem, pójdziem, precz daleko,
+!!precz z Wołoszy tu,
+!!a gdy nas się kto zapyta,
+!!odpowiemy mu:
+!!@VERSE:
+!!7. Idziem, idziem z kraju nędzy,
+!!z niewoli kajdan,
+!!gdzie jest gwałt i samowola,
+!!gdzie jest obcy pan.
+!!@@END: VERSES
+!!!role-singer: Man
+!!!role-listener: Group
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=33 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 9} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 9}
 !!!page: 9
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-01

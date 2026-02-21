@@ -3,79 +3,141 @@
 !!!source: DWOK13
 !!!id: 13020
 !!!signature: 1302000000
-**kern
-*clefG2
-*k[b-e-]
-*g:
-*M3/8
-=1
-{8.g
-16a
-16b-
-16cc
-=2
-16dd
-16dd
-8cc#
-8dd
-=3
-8.gg
-16gg
-16ff
-16ee-
-=4
-16dd
-16dd
-8cc#
-8dd}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*g:	*
+*M3/8	*
+=1	=1
+{8.g	Żył
+16a	Ma-
+16b-	-tysek
+16cc	.
+=2	=2
+16dd	chłop
+16dd	przed
+8cc#	laty,
+8dd	.
+=3	=3
+8.gg	jak
+16gg	drugiego
+16ff	.
+16ee-	.
+=4	=4
+16dd	nie
+16dd	ma
+8cc#	w_świecie
+8dd}	.
 !!LO:LB:g=esac
-=5
-{16ee-
-16ee-
-8.dd
-16a
-=6
-16b-
-16b-
-8dd
-16cc
-16b-
-=7
-8.a
-16d
-16e
-16f#
-=8
-16g
-16a
-8b-
-8dd}
+=5	=5
+{16ee-	był
+16ee-	przystojny
+8.dd	.
+16a\	.
+=6	=6
+16b-	i
+16b-	boga-
+8dd	.
+16ccL	-ty,
+16b-J	.
+=7	=7
+8.a	zgo-
+16d	-ła
+16e	szczęśliw
+16f#	.
+=8	=8
+16g	na
+16a\	tym
+8b-	świecie,
+8dd}	.
 !!LO:LB:g=esac
-=9
-{16ee-
-16ee-
-8.dd
-16a
-=10
-16b-
-16b-
-8dd
-16cc
-16b-
-=11
-8.a
-16d
-16e
-16f#
-=12
-16g
-16a
-8b-
-8g}
-==
-*-
+=9	=9
+{16ee-	był
+16ee-	przystojny
+8.dd	.
+16a\	.
+=10	=10
+16b-	i
+16b-	boga-
+8dd	.
+16ccL	-ty,
+16b-J	.
+=11	=11
+8.a	zgo-
+16d	-ła
+16e	szczęśliw
+16f#	.
+=12	=12
+16g	na
+16a	tym
+8b-/	świecie.
+8g}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Żył Matysek chłop przed laty,
+!!jak drugiego niema w świecie
+!!był przystojny i bogaty,
+!!zgoła szczęśliw na tym świecie,
+!!na tym świecie.
+!!@VERSE:
+!!2. Był przystojny, nie znał biédy
+!!zazdrościli mu ludziska;
+!!nikt nie myślał, żeby kiedy
+!!przyszła kréska na Matyska
+!!@VERSE:
+!!3. Czarnobrewa cud dziewoja,
+!!pokochała się w nim skrycie:
+!!mój Matysku będę twoja,
+!!twoją będę całe życie.
+!!@VERSE:
+!!4. Wtém bogatszy sypnął grosza
+!!i dziewoji miłość zyska,
+!!a Matysek wziął odkosza,
+!!przyszła kréska na Matyska
+!!@VERSE:
+!!5. Tak przyjaciel cieszy w biedzie
+!!w imieniny go i ściska.
+!!Dobrze mówisz mój sąsiedzie
+!!pij, pij bracie na Matyska.
+!!@VERSE:
+!!6. Toć od tańca, od hulanki
+!!zachorował téj tu doby;
+!!lekarz przyszedł dla ratunku
+!!i napędził trzy choroby.
+!!@VERSE:
+!!7. A za recept i za leki,
+!!wziął ze stajni dwa koniska.
+!!Jedźże, jedżże w świat daleki
+!!szukaj zdrowia dla Matyska.
+!!@VERSE:
+!!8. Matus jedzie, Matus wraca,
+!!chory zawsze, zawsze goły,
+!!pustka w sercu, pustka w głowie
+!!puste gumna i stodoły.
+!!@VERSE:
+!!9. Tak więc umarł jak ów święty
+!!co tureckim ludzie zowią;
+!!i z odzieży liche strzępy
+!!położyli mu pod głową.
+!!@VERSE:
+!!10. A na pogrzeb nikt z sąsiadów
+!!nie wyruszył nawet zbliska,
+!!trumnę niosło czterech dziadów
+!!i wrzucono w dół Matyska.
+!!@VERSE:
+!!11. Na cmentarzu, na mogile,
+!!modrzewiany krzyżyk błyska,
+!!a na krzyżu ktoś napisał:
+!!przyszła kréska na Matyska.
+!!@@END: VERSES
+!!!role-singer: Brother
+!!!role-listener: Grup
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=37 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 13-14} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, pp. 13-14}
 !!!page: 13-14
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-03
