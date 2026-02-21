@@ -67,7 +67,7 @@
 16bJ	.
 8dd}	.
 =13	=13
-16d	żeby
+{16d	żeby
 16f#	.
 8a	mi
 16aL	się
@@ -75,10 +75,10 @@
 =14	=14
 8.gL	dostał
 16bJ	.
-8dd}	.
+8dd	.
 !!LO:LB:g=esac	.
 =15	=15
-{16ee	na
+16ee	na
 16cc	zielo-
 8a\	.
 8a\	-ne
@@ -99,7 +99,6 @@
 !!na zielone świątki.
 !!@@END: VERSES
 !!!role-singer: Mistress
-!!!role-listener: Complex
 !!!singer-sex: female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -108,3 +107,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-08
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-18

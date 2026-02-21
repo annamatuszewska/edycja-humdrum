@@ -24,7 +24,6 @@
 16cc	godnego
 8g	.
 8a	.
-
 =4	=4
 16cc	męża
 16b-	.
@@ -151,8 +150,6 @@
 !!rozmawia tylko o parze,
 !!kaszy gotować nie umie.		
 !!@@END: VERSES
-!!!role-singer: Brother
-!!!role-listener: Brother
 !!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -161,3 +158,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-01
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-17

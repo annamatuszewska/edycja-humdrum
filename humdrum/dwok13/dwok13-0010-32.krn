@@ -5,8 +5,8 @@
 !!!signature: 1301000032
 **kern	**text
 *clefG2	*
-*k[f#c#]	*
-*D:	*
+*k[f#]	*
+*G:	*
 *M3/8	*
 =1	=1
 {16a	lecz
@@ -74,9 +74,6 @@
 !!lecz głośniejsze chłopskie tany,
 !!głośniéj piosnka brzmi.
 !!@@END: VERSES
-!!!role-singer: Complex
-!!!role-listener: Group
-!!!singer-sex: Complex
 !!!ONB: Wariant Fragmentu melodii w D z tekstem lecz głośniejsze chłopskie tony
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -85,3 +82,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-16
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-17

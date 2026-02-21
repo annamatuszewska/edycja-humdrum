@@ -143,7 +143,7 @@
 4g#	-lała.
 4a}	.
 ==	==
-*-	*
+*-	*-
 !!@@BEGIN: VERSES
 !!Nie mam ojca nie mam matki,
 !!już lat siedem jak śpią w grobie
@@ -181,7 +181,6 @@
 !!i przy sobie się położyć.
 !!@@END: VERSES
 !!!role-singer: Daughter
-!!!role-listener: Group
 !!!singer-sex: female
 !!!ONB: Wariant odtaktowy
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
@@ -191,3 +190,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-01
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-17

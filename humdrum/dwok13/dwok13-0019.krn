@@ -9,6 +9,7 @@
 *g:	*
 *M3/8	*
 =1	=1
+!LO:TX:a:t=Młody rybak.	!
 {16g	Łódko
 16a	.
 8b-	moja
@@ -52,7 +53,7 @@
 4dd/	łódko,
 8gg/	.
 =11	=11
-16ff#/L	suwaj
+16ff/L	suwaj
 16ee-/J	.
 8dd	po
 8cc	głę-
@@ -100,8 +101,8 @@
 !!jak o złotéj rybce, 
 !!co pluska we Wiśle.
 !!@@END: VERSES
+!!@COMMENTARY:muzyka Ant. Wójkowskiego
 !!!role-singer: lover
-!!!role-listener:mistress
 !!!singer-sex:male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition

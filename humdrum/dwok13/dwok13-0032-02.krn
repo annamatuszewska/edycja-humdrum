@@ -152,9 +152,6 @@
 !!a ktokolwiek ciebie zna,
 !!może-ż bez cię żyć? la, la.
 !!@@END: VERSES
-!!!role-singer: complex
-!!!role-listener: complex
-!!!singer-sex: complex
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=43 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 19} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 19}
@@ -162,3 +159,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-05
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-17

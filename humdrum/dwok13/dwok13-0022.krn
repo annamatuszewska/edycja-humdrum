@@ -24,8 +24,8 @@
 16g#L	jeleń
 16b/J	.
 =4	=4
-16aL	nogę,
-16ccJ#/	.
+16aL\	nogę,
+16ccJ#	.
 8.ff#L	.
 16ee}J	.
 !!LO:LB:g=esac
@@ -71,7 +71,7 @@
 8ff#	.
 8ee	.
 =14	=14
-4.cc#	z_góry
+4cc#	z_góry
 8a\	.
 =15	=15
 16ee	jakeś
@@ -101,9 +101,9 @@
 !!LO:LB:g=esac
 =	=
 *Xtuplet	*
-{24ee/	bo
+{24ee/L	bo
 24cc#/	widziała
-24ee/	.
+24ee/J	.
 8ff#	.
 8ee	.
 =21	=21
@@ -132,9 +132,9 @@
 !!bo widziała z góry,
 !!jakeś ciągnął skóry.
 !!@@END: VERSES
-!!!role-singer: unmarried woman
+!!!role-singer: unmarried woman, complex
 !!!role-listener:unmarried man
-!!!singer-sex: female
+!!!singer-sex: female, complex
 !!!ONB: Mazur
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -143,4 +143,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-03
-
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-17

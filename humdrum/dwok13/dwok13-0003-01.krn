@@ -124,16 +124,12 @@
 !!	lecz gdy idzie nieszczęśliwie, 
 !!	to jest sztuka żyć cnotliwie,
 !!	to jest sztuka żyć cnotliwie.
-
 !!@VERSE: 
 !!	2. W więzieniach mnie osadzają, 
 !!	ciężki los sercu zadają, 
 !!	każą żyć w ciężkiéj sromocie, 
 !!	to jest sztuka żyć przy cnocie.
 !!@@END: VERSES
-!!!role-singer: Brother
-!!!role-listener: Brother
-!!!singer-sex: male
 !!!ONB: Wersja z przedtaktem
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -142,3 +138,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-01-31
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-17
