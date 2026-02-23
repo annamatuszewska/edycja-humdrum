@@ -3,202 +3,231 @@
 !!!source: DWOK13
 !!!id: 13107
 !!!signature: 1310700000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16d
-16d
-8g
-8b
-=2
-8dd
-8.ee
-16dd
-=3
-16d
-16d
-8f#
-8a
-=4
-4g}
-8r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Wieńcowa.	!
+{16d	Człowiek
+16d	.
+8g	w_ziemię
+8b	.
+=2	=2
+8dd	siał
+8.ee	zbo-
+16dd	-żę
+=3	=3
+16d	Pan
+16d	Bóg
+8f#	dojrzéc
+8a	.
+=4	=4
+4g}	dał,
+8r	.
 !!LO:LB:g=esac
-=5
-{16d
-16d
-8g
-8b
-=6
-16dd
-16dd
-8.ee
-16dd
-=7
-16d
-16d
-8f#
-8a
-=8
-4g}
-8r
+=5	=5
+{16d	z_Two-
+16d	-jéj
+8g	ła-
+8b	-ski
+=6	=6
+16dd/L	dobry
+16dd/J	.
+8.ee	Bo-
+16dd	-że,
+=7	=7
+16d	bę-
+16d	-dzie
+8f#	chlebek
+8a	.
+=8	=8
+4g}	miał.
+8r	.
 !!LO:LB:g=esac
-=9
-{16gg
-16gg
-8ff#
-8ee
-=10
-8a
-8cc
-8ee
-=11
-16d
-16d
-8f#
-8a
-=12
-8g
-8b
-8dd}
+=9	=9
+{16gg	Daléj
+16gg	.
+8ff#	żwawo
+8ee	.
+=10	=10
+8a\	do
+8cc	pra-
+8ee	-cy,
+=11	=11
+16d	zwi-
+16d	-jaj-
+8f#	-cie
+8a	się
+=12	=12
+8g	żniwia-
+8b	.
+8dd}	-cy,
 !!LO:LB:g=esac
-=13
-{16gg
-16gg
-8ff#
-8ee
-=14
-8a
-8cc
-8ee
-=15
-8d
-8.cc
-16f#
-=16
-4g}
-8r
+=13	=13
+{16gg	pó-
+16gg	-ki
+8ff#	po-
+8ee	-ra,
+=14	=14
+8a\	pó-
+8cc	-ki
+8ee	czas
+=15	=15
+8d\	Bóg
+8.cc	wi-
+16f#	-dzi
+=16	=16
+4g}	nas.
+8r	.
 !!LO:LB:g=esac
-=17
-{16dd
-16dd
-8b
-8b
-=18
-8a
-8cc
-8cc
-=19
-16ee
-16cc
-8a
-8a
-=20
-8g
-8b
-8dd}
+=17	=17
+{16dd	Już
+16dd	pszeniczka
+8b	.
+8b	.
+=18	=18
+8a	ze-
+8cc	-bra-
+8cc	-na,
+=19	=19
+16ee	przy-
+16cc	-cho-
+8a	-dzi-
+8a	-my
+=20	=20
+8g	do
+8b	pa-
+8dd}	-na
 !!LO:LB:g=esac
-=21
-{16gg
-16dd
-8b
-8b
-=22
-8a
-8cc
-8cc
-=23
-16ee
-16cc
-8a
-8a
-=24
-8g
-8g
-8g}
+=21	=21
+{16gg/L	przycho-
+16dd/J	.
+8b	-dzimy
+8b	.
+=22	=22
+8a	do
+8cc	pa-
+8cc	-ni,
+=23	=23
+16ee	nikt
+16cc	nam
+8a	pra-
+8a	-cy
+=24	=24
+8g	nie
+8g\	zga-
+8g}	-ni.
 !!LO:LB:g=esac
-=25
-{16a
-16a
-8d
-8d
-=26
-8g
-8g
-8g
-=27
-16a
-16b
-8cc
-8f#
-=28
-8g
-8g
-8g}
+=25	=25
+{16a	chociaż
+16a	.
+8d	pły-
+8d	-nął
+=26	=26
+8g	pot
+8g	z_czo-
+8g	-ła,
+=27	=27
+16a\	to
+16b	gromad-
+8cc	.
+8f#	-ka
+=28	=28
+8g	we-
+8g	-so-
+8g}	-ła,
 !!LO:LB:g=esac
-=29
-{16a
-16a
-8d
-8d
-=30
-8g
-8g
-8g
-=31
-16a
-16b
-8cc
-8f#
-=32
-8g
-8g
-8g}
+=29	=29
+{16a	piosnkę
+16a	.
+8d	so-
+8d	-bie
+=30	=30
+8g	śpie-
+8g	-wa-
+8g	-ła,
+=31	=31
+16a\	i
+16b	psze-
+8cc	-ni-
+8f#	-czkę
+=32	=32
+8g	zbie-
+8g	-ra-
+8g}	-ła.
 !!LO:LB:g=esac
-=33
-{16gg
-16dd
-8b
-8b
-=34
-8a
-8cc
-8cc
-=35
-16ee
-16cc
-8a
-8f#
-=36
-8g
-8b
-8dd}
+=33	=33
+{16gg	Niech
+16dd	się
+8b	pra-
+8b	-ca
+=34	=34
+8a	o-
+8cc	-pła-
+8cc	-ci,
+=35	=35
+16ee	nie-
+16cc	-chaj
+8a\L	państwo
+8f#\J	.
+=36	=36
+8g	zbo-
+8b	-ga-
+8dd}	-ca,
 !!LO:LB:g=esac
-=37
-{16a
-16a
-8d
-8d
-=38
-8g
-8g
-8g
-=39
-16a
-16b
-8cc
-8f#
-=40
-8g
-8g
-8g}
-==
-*-
+=37	=37
+{16a	a
+16a	gdy
+8d	zbiorą
+8d	.
+=38	=38
+8g	się
+8g\	grosze,
+8g\	.
+=39	=39
+16a\	syp-
+16b	-cie
+8cc	biednym
+8f#	.
+=40	=40
+8g	po
+8g	tro-
+8g}	-sze.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Człowiek w_ziemię siał zbożę
+!!Pan Bóg dojrzéc dał,
+!!z_Twojéj łaski
+!!dobry Boże,
+!!będzie chlebek miał.
+!!Daléj żwawo do pracy,
+!!zwijajcie się żniwiacy,
+!!póki pora, póki czas,
+!!Bóg widzi nas.
+!!Już pszeniczka zebrana,
+!!przychodzimy do pana
+!!przychodzimy do pani,
+!!nikt nam pracy nie zgani.
+!!chociaż płynął pot z_czoła,
+!!to gromadka wesoła,
+!!piosnkę sobie śpiewała,
+!!i pszeniczkę zbierała.
+!!Niech się praca opłaci,
+!!niechaj państwo zbogaca,
+!!a gdy zbiorą się grosze,
+!!sypcie biednym po trosze.
+!!@@END: VERSES
+!!!role-singer: Workers
+!!!role-listener: Group
+!!!singer-sex: Complex
 !!!ONB: Wieńcowa
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=85 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 61-62} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, pp. 61-62}
 !!!page: 61-62
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-18

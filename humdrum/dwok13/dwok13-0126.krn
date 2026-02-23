@@ -3,77 +3,112 @@
 !!!source: DWOK13
 !!!id: 13126
 !!!signature: 1312600000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16b
-8dd
-8dd
-=2
-16dd
-16dd
-8dd
-8b
-=3
-16dd
-16dd
-8b
-8cc
-=4
-16dd
-16dd
-8.ee
-16dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Na
+16b	to
+8dd	Pan
+8dd	Bóg
+=2	=2
+16dd	dał
+16dd	niedzie-
+8dd	.
+8b	-lę
+=3	=3
+16dd	by
+16dd	po
+8b	ty-
+8cc	-go-
+=4	=4
+16dd	-dniowym
+16dd	.
+8.ee	trudzie,
+16dd}	.
 !!LO:LB:g=esac
-=5
-{16cc
-16b
-8a
-8a
-=6
-16dd
-16b
-8g
-8g
-=7
-16a
-16a
-8f#
-8d
-=8
-16g
-16g
-8.b
-16dd}
+=5	=5
+{16cc	przebywszy
+16b	.
+8a	.
+8a	ra-
+=6	=6
+16dd	-nek
+16b	w_kościele
+8g	.
+8g	.
+=7	=7
+16a\	po-
+16a\	-hu-
+8f#	-la-
+8d	-li
+=8	=8
+16g	sobie
+16g	.
+8.b	lu-
+16dd}	-dzie.
 !!LO:LB:g=esac
-=9
-{16cc
-16b
-8a
-8a
-=10
-16dd
-16b
-8g
-8g
-=11
-16cc
-16a
-8f#
-8d
-=12
-16.g
-32g
-8b
-8g}
-==
-*-
+=9	=9
+{16cc	przebywszy
+16b	.
+8a	.
+8a	ra-
+=10	=10
+16dd	-nek
+16b	w_kościele
+8g	.
+8g	.
+=11	=11
+16cc/L	po-
+16aJ	-hu-
+8f#	-la-
+8d	-li
+=12	=12
+16.g	sobie
+32g	.
+8b	lu-
+8g}	-dzie.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Na to Pan Bóg dał niedzielę
+!!by po tygodniowym trudzie,
+!!przebywszy ranek w kościele
+!!pohulali sobie ludzie.
+!!@VERSE:
+!!2. Daléj chłopcy i dziewczęta,
+!!gdy niedziela przyjdzie święta,
+!!bierzcie pary, łączcie koło,
+!!potańcujcie se wesoło.
+!!@VERSE:
+!!3. A my starzy poza stołem
+!!do gawędy zasiądziewa,
+!!i spełniając zdrowie kołem,
+!!na was patrzéć się będziewa.
+!!@VERSE:
+!!4. Najprzód Janek, chłopców krasa,
+!!z swą Marysią długorzęsą,
+!!tak zamaśnie huczno hasa,
+!!aż się szyby w karczmie trzęsą.
+!!@VERSE:
+!!5. Za nim zaraz idą w ślady,
+!!każda para sobie miła,
+!!bez przymusu, bez przysady,
+!!jak natura utworzyła.
+!!@VERSE:
+!!6. Bądźcie zdrowe pańskie sale,
+!!szczérze wyznam przyjaciele,
+!!nad wykwintne pląsy, bale,
+!!wiejską przenoszę niedzielę.
+!!@@END: VERSES 
+!!!role-listener: Group
+!!!singer-sex: Complex 
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=97 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 73} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 73}
 !!!page: 73
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-20

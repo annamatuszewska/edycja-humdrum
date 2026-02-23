@@ -3,90 +3,119 @@
 !!!source: DWOK13
 !!!id: 13104
 !!!signature: 1310400000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16ee
-16b
-8.cc
-16g
-=2
-16a
-16b
-8.cc
-16a
-=3
-16g
-16cc
-8b
-8cc
-=4
-16dd
-16gg
-8ff#
-8gg}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16ee	Hej
+16b	wio-
+8.cc	-sen-
+16g	-ka
+=2	=2
+16a\	z_boskiéj
+16b	.
+8.cc	wo-
+16a	-li,
+=3	=3
+16g	z_nie-
+16cc	-ba
+8b	słon-
+8cc	-ko
+=4	=4
+16dd	się
+16gg	u-
+8ff#	-śmie-
+8gg}	-cha,
 !!LO:LB:g=esac
-=5
-{16ee
-16ee
-8.cc
-16g
-=6
-16a
-16b
-8.cc
-16a
-=7
-16g
-16cc
-8b
-8cc
-=8
-16dd
-16dd
-8ee
-8cc}
+=5	=5
+{16ee/L	śnie-
+16ee/J	-gi
+8.cc	ze-
+16g	-szły
+=6	=6
+16a\	z_miękkiéj
+16b	.
+8.cc	ro-
+16a	-li,
+=7	=7
+16g	bę-
+16cc	-dzie
+8b	pra-
+8cc	-ca
+=8	=8
+16dd	i
+16dd	po-
+8ee	-cie-
+8cc}	-cha.
 !!LO:LB:g=esac
-=9
-{16b
-16cc
-8.dd
-16dd
-=10
-16ff
-16ff
-8ee
-8cc
-=11
-16.ee
-32ee
-8dd
-16cc
-16b}
+=9	=9
+{16b	Skąpo
+16cc	.
+8.dd	ży-
+16dd	-ta
+=10	=10
+16ff	już
+16ff	w_stodo-
+8ee	.
+8cc	-le,
+=11	=11
+16.ee	da-
+32ee	-léj,
+8dd	woł-
+16ccL	.
+16b}J	-ki,
 !!LO:LB:g=esac
-=12
-{16a
-16a
-8dd
-8dd
-=13
-16ff
-16ff
-8.ee
-16cc
-=14
-16b
-16g
-8b
-8cc}
-==
-*-
+=12	=12
+{16a	da-
+16a	-léj
+8dd	w_pole,
+8dd	.
+=13	=13
+16ff	da-
+16ff	-léj
+8.ee	woł-
+16cc	-ki,
+=14	=14
+16b	daléj
+16g\	.
+8b	w_po-
+8cc}	-le.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Hej wiosenka z_boskiéj woli,
+!!z_nieba słonko się uśmiecha,
+!!śniegi zeszły z_miękkiéj roli,
+!!będzie praca i pociecha.
+!!Skąpo żyta już w_stodole,
+!!daléj, wołki,
+!!daléj w_pole, daléj wołki,
+!!daléj w_pole.
+!!@VERSE:
+!!2. Pługi skrzypią, kracze wrona,
+!!a skowronek heń pogania,
+!!hej z zagona do zagona,
+!!zorzę dużo do śniadania.
+!!Skiba pada w lewo, w prawo,
+!!dalćj wołki, daléj żwawo.
+!!@VERSE:
+!!3. Co za radość dla oracza,
+!!choć o kamień lemiesz dzwoni,
+!!pług niczemu nie przebacza,
+!!tam gdzie rosła paproć łoni, —
+!!teraz będzie plon bogaty,
+!!hej! od siebie, ho! srokaty.
+!!@@END: VERSES
+!!!role-singer: Worker
+!!!role-listener: Group
+!!!singer-sex: male
 !!!ONB: muz. T. Klonowskiego
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=84 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 60} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 60}
 !!!page: 60
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-18

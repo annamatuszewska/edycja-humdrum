@@ -3,90 +3,107 @@
 !!!source: DWOK13
 !!!id: 13109
 !!!signature: 1310900002
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M3/8
-=1
-{8d
-8d
-8d
-=2
-8d
-8d
-8d
-=3
-16.f#
-32g
-8a
-8e
-=4
-16.f#
-32g
-8a
-8e
-=5
-16f#
-16g
-16a
-16b
-16a
-16e
-=6
-16f#
-16a
-16cc#
-16ee
-8dd}
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M3/8	*
+=1	=1
+{8dL	.
+8d	.
+8dJ	.
+=2	=2
+8dL	.
+8d	.
+8dJM	.
+=3	=3
+16.f#	W_gęstym
+32g	.
+8a	sadku
+8e	.
+=4	=4
+16.f#	ro-
+32g	-sa
+8a	ka-
+8e	-pie,
+=5	=5
+16f#	pachnie
+16g	.
+16aL	zie-
+16b/	.
+16a	-le,
+16eJ	.
+=6	=6
+16f#	pta-
+16a	-stwo
+16cc#/L	śpie-
+16ee/J	.
+8dd}	-wa,
 !!LO:LB:g=esac
-=7
-{16.a
-32a
-8g
-8g
-=8
-16f#
-16g
-8.b
-16a
-=9
-16a
-16a
-8g
-8e
-=10
-16d
-16e
-16g
-16f#
-8d}
+=7	=7
+{16.a	a
+32a	Zo-
+8g	-siń-
+8g	-ka
+=8	=8
+16f#	ptaszki
+16g	.
+8.b/	ła-
+16a	-pie,
+=9	=9
+16a	a
+16a	Kasiń-
+8g	.
+8e	-ka
+=10	=10
+16d	ziele
+16e	.
+16gL	zry-
+16f#J	.
+8d}	-wa.
 !!LO:LB:g=esac
-=11
-{16.a
-32a
-8g
-8g
-=12
-16f#
-16g
-8.b
-16a
-=13
-16a
-16a
-8g
-8e
-=14
-16d
-16e
-16g
-16f#
-8d}
-==
-*-
+=11	=11
+{16.a	a
+32a	Zo-
+8g	-siń-
+8g	-ka
+=12	=12
+16f#	ptaszki
+16g	.
+8.b/	ła-
+16a	-pie,
+=13	=13
+16a	a
+16a	Kasiń-
+8g	.
+8e	-ka
+=14	=14
+16d	ziele
+16e	.
+16gL	zry-
+16f#J	.
+8d}	-wa.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. W_gęstym sadku rosa kapie,
+!!pachnie ziele,
+!!ptastwo śpiewa,
+!!a Zosińka ptaszki łapie,
+!!a Kasińka ziele zrywa.
+!!@VERSE:
+!!2. Nie łap ptaszków ty Zosieńko,
+!!bo bez ptaszków nie wesoło,
+!!nie rwij ziela ty Kasieńko,
+!!bo bez ziela bardzo goło.
+!!@@END: VERSES
+!!!role-singer: Complex
+!!!role-listener: Girls
+!!!singer-sex: Complex
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=87 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 63} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 63}
 !!!page: 63
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-18

@@ -3,110 +3,157 @@
 !!!source: DWOK13
 !!!id: 13115
 !!!signature: 1311500000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M6/8
-{16d
-16d
-=1
-4g
-8g
-8b
-8f#
-8g
-=2
-4.a
-4r
-16d
-16d
-=3
-4a
-8a
-8a
-8dd
-8cc}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M6/8	*
+{16d	Kiedy
+16d	.
+=1	=1
+!LO:TX:a:t=Kawalerski stan.	!
+4g	chcę
+8g	to
+8b/L	mo-
+8f#J	.
+8g	-gę
+=2	=2
+4.a	wyjść,
+4r	.
+16d	kie-
+16d	-dy
+=3	=3
+4a	chcę
+8a	to
+8a\L	mo-
+8ddJ	.
+8cc}	-gę
 !!LO:LB:g=esac
-=4
-{4b
-8r
-4r
-16g
-16g
-=5
-4b
-8b
-8b
-8g
-8b
-=6
-4.cc
-4r
-8f#
-=7
-4dd
-8dd
-8dd
-8ee
-8dd
-=8
-4g
-8r
-4r
-16d
-16d}
+=4	=4
+{4b	przyjść,
+8r	.
+4r	.
+16g	bo-
+16g	-daj
+=5	=5
+4b	to
+8b	ka-
+8b	-wa-
+8g	-lers-
+8b	-ki
+=6	=6
+4.cc	stan,
+4r	.
+8f#	człek
+=7	=7
+4dd	so-
+8dd	-bie
+8dd	ży-
+8ee	-je
+8dd	jak
+=8	=8
+4g	pan.
+8r	.
+4r	.
+16d	Kiedy
+16d}	.
 !!LO:LB:g=esac
-=9
-{4g
-8g
-8.g
-16f#
-8g
-=10
-4.a
-4r
-16d
-16d
-=11
-4a
-8a
-8a
-8dd
-8cc
-=12
-4b
-8r
-4r
-16g
-16g}
+=9	=9
+{4g	chcę
+8g	to
+8.g\	mo-
+16f#\J	.
+8g	-gę
+=10	=10
+4.a	wyjść,
+4r	.
+16d	kie-
+16d	-dy
+=11	=11
+4a	chcę
+8a	to
+8a\L	mo-
+8ddJ	.
+8cc	-gę
+=12	=12
+4b	przyjść
+8r	.
+4r	.
+16g	bo-
+16g}	-daj
 !!LO:LB:g=esac
-=13
-{8b
-8g
-8b
-8b
-8g
-8b
-=14
-4.cc
-4r
-8f#
-=15
-4dd
-8dd
-8dd
-8ee
-8dd
-=16
-4g}
-8r
-4r
-==
-*-
+=13	=13
+{8b/L	to
+8g	ka-
+8b/J 	-wa-
+8b	-ler-
+8g	.
+8b	-ski
+=14	=14
+4.cc	stan,
+4r	.
+8f#	człek
+=15	=15
+4dd	so-
+8dd	-bie
+8dd	ży-
+8ee	-je
+8dd	jak
+=16	=16
+4g}	pan.
+8r	.
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Kiedy chcę to mogę wyjść,
+!!kiedy chcę to mogę przyjść,
+!!bodaj to kawalerski stan,
+!!człek sobie żyje jak pan.
+!!@VERSE:
+!!2. A żonka: gdzieżeś to był?
+!!coś jadł, coś robił, coś pił?
+!!Oto mi żoneczkę masz, —
+!!mężowie, smutny stan wasz!
+!!@VERSE:
+!!3. A żonce na suknię dać,
+!!potém w rączkę całować.
+!!Otóż mi żoneczkę masz,
+!!mężowie, biedny stan wasz!
+!!@VERSE:
+!!4. Kiedy chcę, to idę na bal,
+!!któréj chcę, to kupię szal.
+!!Bodaj to kawalerski stan,
+!!człek sobie żyje jak pan.
+!!@VERSE:
+!!5. A żonka: gdzie złotych pięć?
+!!Nuże się tu przed nią kręć.
+!!Otóż mi żoneczkę masz, —
+!!mężowie, smutny stan wasz!
+!!@VERSE:
+!!6. Kiedy chcę, assambluję,
+!!którą chcę, pocałuję.
+!!Bodaj to kawalerski stan,
+!!człek sobie żyje jak pan.
+!!@VERSE:
+!!7. Na panny nie patrzaj już,
+!!spuść oczy, rączki złóż.
+!!Otóż to żoneczkę masz,
+!!mężowie, biedny stan wasz !
+!!@VERSE:
+!!8. Więc bracia, przysiężmy wraz,
+!!nie żenić się nigdy wczas.
+!!Bodaj to kawalerski stan,
+!!człek sobie żyje jak pan.
+!!@@END: VERSES
+!!!role-singer: Man
+!!!role-listener: Group
+!!!singer-sex: male
 !!!ONB: Kawalerski stan
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=90 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 66} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 66}
 !!!page: 66
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-19

@@ -3,85 +3,140 @@
 !!!source: DWOK13
 !!!id: 13129
 !!!signature: 1312900000
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M3/8
-=1
-{8f
-8.dd
-16b-
-=2
-8g
-8.cc
-16cc
-=3
-16f
-16f
-8g
-8a
-=4
-4b-}
-8r
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=karty.	!
+{8f	Niech
+8.dd	każdy
+16b-	.
+=2	=2
+8g	to
+8.cc	przy-
+16cc	-zna,
+=3	=3
+16f	ten
+16f	co
+8g	roz-
+8a	-um
+=4	=4
+4b-}	ma,
+8r	że
 !!LO:LB:g=esac
-=5
-{8f
-8.dd
-16b-
-=6
-8g
-8.cc
-16cc
-=7
-16f
-16f
-8g
-8a
-=8
-4b-}
-8r
+=5	=5
+{8f	że
+8.dd	w_kar-
+16b-	-ty
+=6	=6
+8g	za-
+8.cc	-ba-
+16cc	-wa,
+=7	=7
+16f	jest
+16f	najgor-
+8g	.
+8a	-sza
+=8	=8
+4b-}	gra.
+8r	.
 !!LO:LB:g=esac
-=9
-{16a
-16b-
-8.cc
-16a
-=10
-8b-
-8.dd
-16b-
-=11
-16cc
-16dd
-8ee-
-8ee-
-=12
-4dd}
-8r
+=9	=9
+{16a\	Człowiek
+16b-	.
+8.cc	tra-
+16a	-ci
+=10	=10
+8b-	pie-
+8ccq	.
+8.dd	-nią-
+16b-	-dze,
+=11	=11
+16cc	człowiek
+16dd	.
+8ee-	tra-
+8ffq	.
+8ee-	-ci
+=12	=12
+4dd}	czas,
+8r	.
 !!LO:LB:g=esac
-=13
-{16f
-16f
-8.dd
-16b-
-=14
-8g
-8e-
-8cc
-=15
-16.f
-32f
-8g
-8a
-=16
-4b-}
-8r
-==
-*-
+=13	=13
+{16f	a
+16f	ten
+8.dd	co
+16b-	je
+=14	=14
+8gM	wy-
+8e-	-gry-
+8cc	-wa,
+=15	=15
+16.f	ro-
+32f	-bi
+8ee-q	.
+8g	żar-
+8a	-ty
+=16	=16
+4b-}	z_nas.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Niech każdy to przyzna,
+!!ten co rozum ma,
+!!że w karty zabawa,
+!!jest najgorsza gra.
+!!Człowiek traci pieniądze,
+!!człowiek traci czas,
+!!a ten co je wygrywa,
+!!robi żarty z nas.
+!!@VERSE:
+!!2. Ojczysko pracuje,
+!!robi z grosza grosz,
+!!złotem obrączkowem
+!!wypakował trzos.
+!!Pan synek objąwszy
+!!wszystko w swoją moc,
+!!przehulał, przemarnował
+!!wszystko w jedną noc.
+!!@VERSE:
+!!3. Łapanki, capanki,
+!!markowane gry,
+!!szumele, faraony,
+!!frykasy i stry (ostrygi?).
+!!Co tylko zgubić może,
+!!używał pan Piotr,
+!!a z człowieka poczciwego,
+!!stał się wielki łotr.
+!!@VERSE:
+!!4. Nareszcie pan Pietrek
+!!idzie gęsi paść,
+!!zostaje spekulantem
+!!i zaczyna kraść.
+!!Co tylko najgorszego
+!!używa pan Piotr,
+!!a z człowieka poczciwego
+!!stał się wielki łotr.
+!!@VERSE:
+!!5. Nareszcie pan Pietrek
+!!kończy życie tak:
+!!z więzienia do więzienia,
+!!a w końcu na hak.
+!!Co tylko najgorszego
+!!używał pan Piotr;
+!!aż odebrał swą zapłatę
+!!sowicie jak łotr.
+!!@@END: VERSES
+!!!role-singer: Complex
+!!!role-listener: Group
+!!!singer-sex: male
 !!!ONB: Karty
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=98 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 74} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 74}
 !!!page: 74
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-20

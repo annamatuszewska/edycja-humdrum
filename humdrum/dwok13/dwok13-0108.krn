@@ -3,140 +3,164 @@
 !!!source: DWOK13
 !!!id: 13108
 !!!signature: 1310800000
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/4
-=1
-{8e
-8e
-4f#
-8g#
-8e
-=2
-8a
-8cc#
-4b
-8dd
-8cc#
-=3
-8e
-8e
-4f#
-8g#
-8e
-=4
-2a
-4a}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M3/4	*
+=1	=1
+!LO:TX:a:t=Kujawiak.	!
+!LO:TX:a:t=Rola. (Dożynkowa pieśń na Wieńcu).	!
+{8e	Panie,
+8e	.
+4f#	sprzą-
+8g#L	-tnio-
+8eJ	.
+=2	=2
+8a\	-ne
+8cc#	twe
+4b	ni-
+8ddL	-wy,
+8cc#J	.
+=3	=3
+8e	pełne
+8e	.
+4f#	bro-
+8g#L	-gi
+8eJ	.
+=4	=4
+2a\	zbo-
+4a\}	-ża,
 !!LO:LB:g=esac
-=5
-{8e
-8e
-4f#
-8g#
-8e
-=6
-8a
-8cc#
-4b
-8dd
-8cc#
-=7
-8e
-8e
-4f#
-8g#
-8e
-=8
-2a
-4a}
+=5	=5
+{8e	o-
+8e	-byś
+4f#	po-
+8g#L	-żył
+8eJ	.
+=6	=6
+8a\	je
+8cc#	szczęśli-
+4b	.
+8ddL	-wy
+8cc#J	.
+=7	=7
+8e	niech
+8e	da
+4f#	ła-
+8g#L	-ska
+8eJ	.
+=8	=8
+2a\	Bo-
+4a\}	-ża.
 !!LO:LB:g=esac
-=9
-{8dd
-8ff#
-4ff#
-4ff#
-=10
-8ee
-8ee
-4ee
-4cc#
-=11
-8b
-8dd
-4e
-4g#
-=12
-8b
-8a
-4g#
-4a}
+=9	=9
+{8dd	I
+8ff#	niech
+4ff#	zawsze
+4ff#	.
+=10	=10
+8ee	twe
+8ee	za-
+4ee	-go-
+4cc#	-ny,
+=11	=11
+8b	równie
+8dd	.
+4e	buj-
+4g#	-ne
+=12	=12
+8b	da-
+8a\	-ją
+4g#\	plo-
+4a}\	-ny
 !!LO:LB:g=esac
-=13
-{8dd
-8ff#
-4ff#
-4ff#
-=14
-8ee
-8ee
-4ee
-4cc#
-=15
-8b
-8dd
-4e
-8dd
-8cc#
-=16
-2.a}
+=13	=13
+{8dd	i
+8ff#	niech
+4ff#	zawsze
+4ff#	.
+=14	=14
+8ee	twe
+8ee	za-
+4ee	-go-
+4cc#	-ny,
+=15	=15
+8b	równy
+8dd	.
+4e	da-
+8ddL	-ją
+8cc#J	.
+=16	=16
+2.a}	plon.
 !!LO:LB:g=esac
-=17
-{8dd
-8ff#
-4ff#
-4ff#
-=18
-8ee
-8ee
-4ee
-4cc#
-=19
-8b
-8dd
-4e
-4g#
-=20
-8b
-8a
-4cc#
-4ee}
+=17	=17
+{8dd	I
+8ff#	niech
+4ff#	zawsze
+4ff#	.
+=18	=18
+8ee	twe
+8ee	za-
+4ee	-go-
+4cc#	-ny,
+=19	=19
+8b	równie
+8dd	.
+4e	buj-
+4g#	-ne
+=20	=20
+8b	da-
+8a\	-ją
+4cc#/	plo-
+4ee/}	-ny
 !!LO:LB:g=esac
-=21
-{8dd
-8ff#
-4ff#
-4ff#
-=22
-8ee
-8ee
-4ee
-8cc#
-8ee
-=23
-8b
-8dd
-4e
-8dd
-8cc#
-=24
-2.a}
-==
-*-
+=21	=21
+{8dd	i
+8ff#	niech
+4ff#	zawsze
+4ff#	.
+=22	=22
+8ee	twe
+8ee	za-
+4ee	-go-
+8cc#/L	-ny,
+8ee/J	.
+=23	=23
+8b	ró-
+8dd	-wny
+4e	da-
+8ddL	-ją
+8cc#J	.
+=24	=24
+2.a}	plon.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Panie, sprzątnione twe niwy,
+!!pełne brogi zboża,
+!!obyś pożył je szczęśliwy
+!!niech da łaska Boża.
+!!I niech zawsze twe zagony,
+!!równie bujne dają plony
+!!i niech zawsze twe zagony,
+!!równy dają plon.
+!!@VERSE:
+!!2. Niech rok cały aż pod szczyty
+!!mnoży się w stodole;
+!!za granicę pasożyty,
+!!darmojady, mole!
+!!Smakuje-ż wam nasza strawa,
+!!Wiedzcie-ż że to krwawa praca itd.
+!!@@END: VERSES
+!!!role-singer: Worker
+!!!role-listener: Landlord
+!!!singer-sex: Complex
 !!!ONB: Dożynkowa pieśń na Wieńcu, kujawiak
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=86 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 62} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 62}
 !!!page: 62
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-18

@@ -3,91 +3,106 @@
 !!!source: DWOK13
 !!!id: 13111
 !!!signature: 1311100000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{4b
-4a
-8cc
-8ee
-=2
-8dd
-8b
-4a
-4dd
-=3
-4b
-4a
-8cc
-8ee
-=4
-8dd
-8b
-4a
-8f#
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+!LO:TX:a:t=Kujawiak.	!
+{4b	Gdzie
+4a\	się
+8cc	dzia-
+8ee	-ły
+=2	=2
+8dd	o-
+8b	-ne
+4a	la-
+4dd	-ta,
+=3	=3
+4b	kie-
+4a	-dy
+8cc	człek
+8ee	u-
+=4	=4
+8dd	-ży-
+8b	-wał
+4a	świa-
+8f#L	-ta,
+8g}J	.
 !!LO:LB:g=esac
-=5
-{4.b
-8a
-8cc
-8a
-=6
-4.b
-8a
-8cc
-8a
-=7
-4.b
-8a
-8cc
-8b
-=8
-8a
-8f#
-4d
-4g}
+=5	=5
+{4.b	ja-
+8a	-dał,
+8cc	pi-
+8a	-jał,
+=6	=6
+4.b	w_karczmie
+8a\	.
+8cc	bywał,
+8a\	.
+=7	=7
+4.b	nic
+8a\	nie
+8cc	ro-
+8b	-bił
+=8	=8
+8a	ino
+8f#	.
+4d	pi-
+4g}	-jał,
 !!LO:LB:g=esac
-=9
-{4b
-8b
-8a
-8cc
-8a
-=10
-4b
-8b
-8a
-8cc
-8a
-=11
-4b
-8b
-8a
-8cc
-8b
-=12
-2.dd}
+=9	=9
+{4b	oj
+8ccq	.
+8bL	jedy
+8a\	.
+8cc	jedy
+8a\J	.
+=10	=10
+4b	oj
+8bL	je-
+8a\	-dy
+8cc	jedy,
+8a\J	.
+=11	=11
+4b	oj
+8bL	jedy
+8a\	.
+8cc	je-
+8a\J	-dy
+=12	=12
+2.dd}	ja,
 !!LO:LB:g=esac
-=13
-{4b
-8b
-8a
-8cc
-8b
-=14
-8a
-8f#
-4d
-4g}
-==
-*-
+=13	=13
+{4b	oj
+8bL	jedy
+8a\	.
+8cc	jedy
+8bJ	.
+=14	=14
+8aL	oj
+8f#J	.
+4d	da
+4g}	tom.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Gdzie się działy one lata,
+!!kiedy człek używał świata,
+!!jadał, pijał, w_karczmie bywał,
+!!nic nie robił ino pijał,
+!!oj jedy jedy oj jedy jedy,
+!!oj jedy ja, oj jedy jedy oj da tom.
+!!@@END: VERSES
+!!!role-singer: Complex
+!!!role-listener: Complex
+!!!singer-sex: Complex
 !!!ONB: Kujawiak
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=88 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 64} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 64}
 !!!page: 64
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-19

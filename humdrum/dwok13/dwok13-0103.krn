@@ -3,84 +3,103 @@
 !!!source: DWOK13
 !!!id: 13103
 !!!signature: 1310300000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M2/4
-=1
-{8a
-8cc
-8cc
-8dd
-=2
-8cc
-4.b-
-=3
-8a
-8cc
-8a
-8a
-=4
-8g
-4.b-}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M2/4	*
+=1	=1
+!LO:TX:a:t=Krakowiak.	!
+{8a\	Po-
+8cc	-wiedz-
+8cc	-cie
+8dd	ta-
+=2	=2
+8cc	-tu-
+4.b-	-siu
+=3	=3
+8a\	co
+8cc	wy
+8a	do
+8a	mnie
+=4	=4
+8g	m-
+4.b-}	-acie,
 !!LO:LB:g=esac
-=5
-{8a
-8cc
-8cc
-8ff
-=6
-8ee
-4.b-
-=7
-8a
-8cc
-8a
-8a
-=8
-8g
-4.b-}
+=5	=5
+{8a\	że
+8cc	za
+8cc/L	mnie
+8ff/J	có-
+=6	=6
+8ee/	-recz-
+4.b-/	-ki
+=7	=7
+8a\	wydać
+8cc	.
+8a	się
+8a	wzbra-
+=8	=8
+8g	-nia-
+4.b-}	-cie.
 !!LO:LB:g=esac
-=9
-{8.a
-16f
-8f
-8f
-=10
-8e
-4.c
-=11
-8f
-8a
-8f
-8f
-=12
-8e
-4.g}
+=9	=9
+{8.a	Żem
+16f	dobry
+8f	.
+8f	gospo-
+=10	=10
+8e	.
+4.c	-darz,
+=11	=11
+8f	świadczą
+8a	.
+8f	me
+8f	za-
+=12	=12
+8e	-gro-
+4.g}	-dy,
 !!LO:LB:g=esac
-=13
-{8.a
-16f
-8f
-8f
-=14
-8e
-4.c
-=15
-8g
-8cc
-8e
-8e
-=16
-8f
-4f}
-8r
-==
-*-
+=13	=13
+{8.a	je-
+16f	-że-
+8f	-li
+8f	mam
+=14	=14
+8e	wa-
+4.c	-dy,
+=15	=15
+8g	da-
+8cc	-ruj-
+8e	-cie
+8e	bom
+=16	=16
+8f	mło-
+4f}	-dy.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Powiedzcie tatusiu co wy do mnie macie,
+!!że za mnie córeczki wydać się wzbraniacie.
+!!Żem dobry gospodarz,
+!!świadczą me zagrody,
+!!jeżeli mam wady,
+!!darujcie bom młody.
+!!@VERSE:
+!!2. Ale się poprawię, jak nas Pan Bóg złączy,
+!!a ma miłość ku wam, nigdy się nie skończy.
+!!Wszakże na ambonie, nasz ksiądz proboszcz prawi,
+!!że prawdziwą miłość Pan Bóg błogosławi.
+!!@@END: VERSES
+!!!role-singer: Bridegroom
+!!!role-listener: Father
+!!!singer-sex: male
 !!!ONB: Krakowiak
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=84 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 60} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 60}
 !!!page: 60
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-18

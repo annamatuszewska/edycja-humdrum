@@ -3,77 +3,141 @@
 !!!source: DWOK13
 !!!id: 13101
 !!!signature: 1310100000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16g
-16g
-8cc
-8cc
-=2
-8cc
-8cc
-16cc
-16dd
-=3
-16ee
-16cc
-8cc
-8cc
-=4
-8cc
-8cc
-16cc
-16dd}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Kujawiak.	!
+{16g	Weso-
+16g	.
+8cc	-ły
+8cc	ja
+=2	=2
+8cc	pa-
+8cc	-ro-
+16cc	-be-
+16dd	-czek,
+=3	=3
+16ee	za-
+16cc	-le-
+8cc	-cam
+8cc	się
+=4	=4
+8cc	do
+8cc	dzieweczek,
+16cc	.
+16dd}	.
 !!LO:LB:g=esac
-=5
-{16ee
-16cc
-8cc
-8b
-=6
-8a
-8a
-16ff
-16ee
-=7
-16dd
-16dd
-8b
-8g
-=8
-8cc
-8cc
-16gg
-16ff}
+=5	=5
+{16ee	do
+16cc	dzieweczek
+8cc	.
+8b	.
+=6	=6
+8a	się
+8a	za-
+16ff	-le-
+16ee	-cam,
+=7	=7
+16dd	każdéj
+16dd	.
+8b	ta-
+8g	-niec
+=8	=8
+8cc	przy-
+8cc	-o-
+16gg	-bie-
+16ff}	-cam,
 !!LO:LB:g=esac
-=9
-{16ee
-16cc
-8cc
-8b
-=10
-8a
-8a
-16ff
-16ee
-=11
-16dd
-16cc
-16b
-16dd
-16ff
-16ee
-=12
-8cc
-4cc}
-==
-*-
+=9	=9
+{16ee	do
+16cc	dzieweczek
+8cc	.
+8b	.
+=10	=10
+8a	się
+8a	za-
+16ff	-le-
+16ee	-cam,
+=11	=11
+16dd	każ-
+16cc	-déj
+16b	ta-
+16dd	-niec
+16ff	przy-
+16ee	-o-
+=12	=12
+8cc	-bie-
+4cc}	-cam.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Wesoły ja parobeczek,
+!!zalecam się do dzieweczek,
+!!do dzieweczek się zalecam,
+!!każdéj taniec przyobiecam,
+!!do dzieweczek się zalecam,
+!!każdéj taniec przyobiecam.
+!!@VERSE:
+!!2. W prawo, w lewo pójdę z Baśką,
+!!a Mazura utnę z Kaśką.
+!!Dziewczęta mnie téż kochają,
+!!boczkiem na mnie spoglądają.
+!!@VERSE:
+!!3. Każda za mnie iśćby rada,
+!!choć nie jedna na mnie gada;
+!!boć to dziewcząt zwyczaj taki,
+!!ten im siaki, ten owaki.
+!!@VERSE:
+!!4. Ale niechno którą zechcę,
+!!i serduszko jéj załechcę,
+!!o mój Jezusiczku miły,
+!!wszystkie będą zazdrościły.
+!!@VERSE:
+!!5. Osobliwie kiej w niedzielę
+!!nowiuteńką mam kamzelę;
+!!u koszuli wstęgę burą,
+!!a u czapki pawie pióro.
+!!@VERSE:
+!!6. Kiedy mnie Marysia zoczy,
+!!nie odwróci czarnych oczy.
+!!Ja téż będę patrzył na nią,
+!!wszystkie inne dałbym za nią.
+!!@VERSE:
+!!7. Dałbym duszę, ciało moje,
+!!tylko nie ojczyznę swoję;
+!!tylko nie ojczyznę, dana,
+!!moja Marysiu kochana.
+!!@VERSE:
+!!8. Bom téż chłopek łebski sobie,
+!!zdrów i wesół w każdéj dobie,
+!!czy to taniec, czy to żniwo,
+!!zawsze u mnie naprzód żywo.
+!!@VERSE:
+!!9. A gdy wezmą na wojenkę,
+!!wezmę bojową sukienkę;
+!!będę rąbał i bił śmiało,
+!!jako na Janka przystało.
+!!@VERSE:
+!!10. Hej panowie, Janek tęgi,
+!!będzie bił, choć niéma wstęgi;
+!!boć to lepszy chłop w siermiędze,
+!!niźli wielki pan o wstędze.
+!!@VERSE:
+!!11. Lepszy chłopek, bo się nie da,
+!!za wstążkę kraju nie sprzeda.
+!!Oj nie sprzeda braci, matki,
+!!za honory, za dostatki.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Group
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=82 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 58} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 58}
 !!!page: 58
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-16

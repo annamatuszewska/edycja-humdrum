@@ -3,193 +3,210 @@
 !!!source: DWOK13
 !!!id: 13120
 !!!signature: 1312000000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16f
-16f
-8f
-8f
-=2
-8f
-4f
-=3
-16a
-16a
-8.b-
-16a
-=4
-8a
-4g
-=5
-16dd
-16dd
-8.cc
-16b-
-=6
-8b-
-4a}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Taniec na kuligu. Chłopek.	!
+{16fL	.
+16f	.
+8f	.
+8fJ	.
+=2	=2
+8f	.
+4f	.
+=3	=3
+16a\	Przewie-
+16a\	.
+8.b-\	-le-
+16a\	-bni
+=4	=4
+8a\	pań-
+4g	-stwo
+=5	=5
+16dd	za
+16dd	złe
+8.cc	mi
+16b-	nie
+=6	=6
+8b-	weź-
+4a}	-cie,
 !!LO:LB:g=esac
-=7
-{16a
-16a
-8.b-
-16a
-=8
-8a
-4g
-=9
-16dd
-16dd
-8.cc
-16b-
-=10
-8b-
-4a}
+=7	=7
+{16\a	że
+16a\	się
+8.b-	z_wami
+16a\	.
+=8	=8
+8a\	w_ta-
+4g	-ny
+=9	=9
+16dd	ośmielam
+16dd	.
+8.cc	.
+16b-	na-
+=10	=10
+8b-	-reszcie.
+4a}	.
 !!LO:LB:g=esac
-=11
-{16ff
-16ff
-8ee
-8dd
-=12
-8dd
-4cc
-=13
-16ee
-16dd
-8b-
-8b-
-=14
-8dd
-4cc}
+=11	=11
+{16ff	Chłopek
+16ff	.
+8ee	ci
+8dd	ja
+=12	=12
+8dd	chłopek
+4cc	.
+=13	=13
+16ee	a
+16dd	tyś
+8b-	ji-
+8b-	-mo-
+=14	=14
+8dd	-ścianka
+4cc}	.
 !!LO:LB:g=esac
-=15
-{16ff
-16ff
-8ee
-8dd
-=16
-8dd
-4cc
-=17
-16ee
-16dd
-8b-
-8e
-=18
-8g
-4f}
+=15	=15
+{16ff	ja
+16ff	w_białéj
+8ee	.
+8dd	suk-
+=16	=16
+8dd	-ma-
+4cc	-nie
+=17	=17
+16ee	a
+16dd	tyś
+8b-	jak
+8e	ślach-
+=18	=18
+8g	-cianka.
+4f}	.
 !!LO:LB:g=esac
-=19
-{8f
-8a
-16g
-16f
-=20
-16g
-16b-
-8dd
-8cc
-=21
-8f
-8a
-16g
-16f
-=22
-16g
-16f
-8e
-8f}
+=19	=19
+{8f	Mo-
+8a	-ścia
+16g	panno
+16f	.
+=20	=20
+16g	podaj
+16b-	.
+8dd	rę-
+8cc	-ce
+=21	=21
+8f	niech
+8a	się
+16g	z
+16f	tobą
+=22	=22
+16g	raz
+16f	wykrę-
+8e	.
+8f}	-cę,
 !!LO:LB:g=esac
-=23
-{8f
-8a
-16g
-16f
-=24
-16g
-16b-
-8dd
-8cc
-=25
-8f
-8a
-16g
-16f
-=26
-16g
-16f
-8e
-8f}
+=23	=23
+{8f	Nie
+8a	trze-
+16g	-ba
+16f	się
+=24	=24
+16g	wstydzić
+16b-	.
+8dd	chłopka,
+8cc	.
+=25	=25
+8f	gospo-
+8a	.
+16g	-da-
+16f	-rza
+=26	=26
+16g	i
+16f	pa-
+8e	-rob-
+8f}	-ka.
 !!LO:LB:g=esac
-=27
-{16.c
-32f
-8a
-16g
-16f
-=28
-16e
-16g
-16dd
-16cc
-16b-
-16g
-=29
-16.c
-32f
-8a
-16g
-16f
-=30
-16.e
-32c
-16d
-16e
-8f}
+=27	=27
+{16.cL	.
+32fJ	.
+8aL	.
+16g	.
+16fJ	.
+=28	=28
+16eL	.
+16gJ	.
+16ddL	.
+16ccJ	.
+16b-L	.
+16gJ	.
+=29	=29
+16.cL	.
+32fJ	.
+8aL	.
+16g	.
+16fJ	.
+=30	=30
+16.eL	.
+32c	.
+16d	.
+16e	.
+8fJ}	.
 !!LO:LB:g=esac
-=31
-{16ff
-16ff
-8ee
-8dd
-=32
-8dd
-4cc
-=33
-16ee
-16dd
-8b-
-8b-
-=34
-8dd
-4cc}
+=31	=31
+{16ff	Bo
+16ff	w
+8ee	naszéj
+8dd	oj-
+=32	=32
+8dd	-czyźnie
+4cc	.
+=33	=33
+16ee	już
+16dd	po
+8b-	śla-
+8b-	-che-
+=34	=34
+8dd	-czyźnie
+4cc}	.
 !!LO:LB:g=esac
-=35
-{16ff
-16ff
-8ee
-8dd
-=36
-8dd
-4cc
-=37
-16ee
-16dd
-8b-
-8e
-=38
-8g
-4f}
-==
-*-
+=35	=35
+{16ff	boś-
+16ff	-my
+8ee	to
+8dd	kam-
+=36	=36
+8dd	-racia
+4cc	.
+=37	=37
+16ee	jednéj
+16dd	.
+8b-	mat-
+8e	-ki
+=38	=38
+8g	bracia.
+4f}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Przewielebni państwo za złe mi nie weźcie,
+!!że się z wami w tany ośmielam nareszcie.
+!!Chłopek ci ja chłopek a tyś jimościanka
+!!ja w białéj sukmanie a tyś jak ślachcianka.
+!!Mościa panno podaj ręce niech się z tobą raz wykręcę,
+!!Nie trzeba się wstydzić chłopka,
+!!gospodarza i parobka.
+!!Bo w naszéj ojczyźnie już po ślacheczyźnie
+!!bośmy to kamracia jednéj matki bracia.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Mother, Father
+!!!singer-sex: male
 !!!ONB: Taniec na kuligu, chłopek, z r. 1840
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=93 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 69} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 69}
 !!!page: 69
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-20

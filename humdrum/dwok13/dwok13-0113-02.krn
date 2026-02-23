@@ -3,97 +3,124 @@
 !!!source: DWOK13
 !!!id: 13113
 !!!signature: 1311300002
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{8cc
-8cc
-8g
-8g
-=2
-8a
-8a
-4g
-=3
-16g
-16a
-16b
-16cc
-8.dd
-16cc
-=4
-8ee
-8dd
-4cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+=1	=1
+!LO:TX:a:t=Z komedyo-opery: Doktor z Medyki.	!
+{8cc	Pe-
+8cc	-wien
+8g	doktor
+8g	.
+=2	=2
+8a	medy-
+8a	.
+4g\	-cyny
+=3	=3
+16gL	tadi
+16aJ	.
+16b	ra-
+16cc	-di
+8.dd	da-
+16cc	-ta
+=4	=4
+8ee	ta
+8dd	da-
+4cc}	-na,
 !!LO:LB:g=esac
-=5
-{8cc
-8cc
-8g
-8g
-=6
-8a
-8a
-8g
-8g
-=7
-16g
-16a
-16b
-16cc
-8.dd
-16cc
-=8
-8ee
-8dd
-8cc
-8cc}
+=5	=5
+{8cc	le-
+8cc	-czył
+8g	w_sposób
+8g	.
+=6	=6
+8a	swój
+8a	je-
+8gL	-dyny
+8gJ	.
+=7	=7
+16gL	radi
+16aJ	.
+16b	ra-
+16cc	-di
+8.dd	da-
+16cc	-ta
+=8	=8
+8ee	ta
+8dd	da-
+8ccL/	-na,
+8ccJ}/	.
 !!LO:LB:g=esac
-=9
-{8b
-8cc
-8dd
-8ee
-=10
-8dd
-8cc#
-4dd
-=11
-8gg
-8dd
-8b
-8g
-=12
-4g}
-4r
+=9	=9
+{8b	le-
+8cc	-czył
+8dd	tego
+8ee	.
+=10	=10
+8dd	kto
+8cc#	cho-
+4dd	-ry
+=11	=11
+8gg	u
+8dd	ha
+8b	ha
+8g	ha
+=12	=12
+4g}	hi
+4r	.
 !!LO:LB:g=esac
-=13
-{8cc
-8dd
-8ee
-8g
-=14
-8cc
-8dd
-4ee
-=15
-16dd
-16ee
-16dd
-16cc
-8b
-8dd
-=16
-4cc}
-4r
-==
-*-
+=13	=13
+{8cc	że
+8dd	nie
+8ee	wiedzą
+8g	.
+=14	=14
+8cc	do
+8dd	kto-
+4ee	-ry
+=15	=15
+16dd	ta-
+16ee	-dy
+16dd	rady
+16cc	.
+8b	da
+8dd	ta
+=16	=16
+4cc}	na.
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Pewien doktor medycyny tadi radi data ta dana,
+!!leczył w sposób swój jedyny radi radi data ta dana,
+!!leczył tego kto chory u hu ha ha hi
+!!że nie wiedzą doktory tady rady da ta na.
+!!@VERSE:
+!!2. Żyda febra porwała,
+!!o ziemię go rzuciła.
+!!Jak go rzuci głową w śnieg,
+!!i zakończył Icyk wiek.
+!!@VERSE:
+!!3. Nieboszczyka téż Jacka,
+!!porwała zła bolączka.
+!!Zażył kremortartary,
+!!ponieśli go na mary.
+!!@VERSE:
+!!4. Pewien rzeżnik w Krakowie
+!!wielki cierpiał ból w głowie.
+!!Jak go rznie w łeb obuchem,
+!!wyleciał mu ból z duchem.
+!!@@END: VERSES
+!!!role-singer: Complex
+!!!role-listener: Group
+!!!singer-sex: Complex
 !!!ONB: Z komedyo-opery Doktor z Medyki
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=89 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 65} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 65}
 !!!page: 65
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-19

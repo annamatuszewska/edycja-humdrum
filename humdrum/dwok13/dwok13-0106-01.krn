@@ -3,77 +3,89 @@
 !!!source: DWOK13
 !!!id: 13106
 !!!signature: 1310600001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16d
-16d
-8g
-8b
-=2
-4dd
-8r
-=3
-16a
-16cc
-8ee
-8ee
-=4
-4dd}
-8r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16d	Gdy
+16d	w
+8g	_zystém
+8b	po-
+=2	=2
+4dd	-lu
+8r	.
+=3	=3
+16a\	sło-
+16cc	-neczko
+8ee	.
+8ee	świé-
+=4	=4
+4dd}	-ci
+8r	.
 !!LO:LB:g=esac
-=5
-{16d
-16d
-8g
-8b
-=6
-4dd
-8r
-=7
-16a
-16cc
-8ee
-8ee
-=8
-4dd}
-8r
+=5	=5
+{16d	dzio-
+16d	-nek
+8g	przy
+8b	pra-
+=6	=6
+4dd	-cy
+8r	.
+=7	=7
+16a\	prę-
+16cc	-dzéj
+8ee	u-
+8ee	-le-
+=8	=8
+4dd}	-ci.
+8r	.
 !!LO:LB:g=esac
-=9
-{16a
-16cc
-8.ee
-16f#
-=10
-16g
-16g
-8b
-8dd
-=11
-16a
-16cc
-8.ee
-16f#
-=12
-16g
-16g
-8b
-8g
-=13
-16a
-16cc
-8f#
-8f#
-=14
-4g}
-8r
-==
-*-
+=9	=9
+{16a\	I
+16cc	mnie
+8.ee	chwile
+16f#	.
+=10	=10
+16g	mi-
+16g	-léj
+8b	pły-
+8dd	-ną
+=11	=11
+16a\	i
+16cc	godzina
+8.ee	.
+16f#	.
+=12	=12
+16g	za
+16g	go-
+8b	-dziną
+8g\	.
+=13	=13
+16a\	sie-
+16cc	-dzę
+8f#\	z_Ma-
+8f#\	-ry-
+=14	=14
+4g}	-ną.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Gdy w _zystém polu słoneczko świéci
+!!dzionek przy pracy prędzéj uleci.
+!!I mnie chwile miléj płyną
+!!i godzina za godziną
+!!siedzę z_Maryną.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=85 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 61} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 61}
 !!!page: 61
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-18
