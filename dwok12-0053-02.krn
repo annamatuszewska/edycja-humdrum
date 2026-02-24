@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK1205300002-czarno_kura_pieje_kowalka_sie_smieje.krn
+!!!OTL: Czarno kura pieje, kowalka się śmieje
+!!!source: DWOK12
+!!!id: 12053
+!!!signature: 1205300002
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16g	Czorno
+16g	.
+8b/	kurá
+8g	.
+=2	=2
+8cc	pieje,
+4ee	.
+=3	=3
+16ee	kowalka
+16ee	.
+8dd	.
+8g	się
+=4	=4
+8cc	śmieje,
+4ee}	.
+!!LO:LB:g=esac
+=5	=5
+{16ee	kowa-
+16ee	.
+8dd	-licy
+8g	.
+=6	=6
+8cc	kują,
+8eeL	.
+8ggJ/	.
+=7	=7
+16gg	panny
+16dd	.
+8ff	wyska-
+8ff	.
+=8	=8
+16ddL	-kują.
+16bJ/	.
+8ccL	.
+8g}J/	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!!role-listener: Lover
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:1. Czorno kurá pieje,
+!!kowalka się śmieje,
+!!kowalicy kują,
+!!panny wyskakują.
+!!@VERSE:2. A widzis ty Jonku
+!!w tym druciánym wionku,
+!!Kasia ci go dała,
+!!jesce więcy kchciała.
+!!@VERSE:3. Jeźdżała z nim w lecie,
+!!po boru po lesie,
+!!na biołym koniku,
+!!w czerwonym spodniku.
+!!@VERSE:4. Talarami brząka,
+!!podkówkami tąpa.
+!!Talary zgubiła,
+!!trzewiczki przepiła.
+!!@@END: VERSES
+!!!ONB: Kolberg zanotował melodię w metrum 3/4. Powinno być raczej 3/8
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=39 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 23-24} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 23-24}
+!!!page: 23-24
+!!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-20-02
