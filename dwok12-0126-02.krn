@@ -1,0 +1,86 @@
+!!!!SEGMENT: DWOK1212600002-dziewucho_moja_choc_nie_kochana.krn
+!!!OTL: Dziewucho moja, choć nie kochana
+!!!source: DWOK12
+!!!id: 12126
+!!!signature: 1212600002
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8b	Dziewucho
+8dd	.
+8dd	.
+8dd	moja,
+4ee	.
+=2	=2
+8a\	choć
+8cc	nie
+8cc	kochanka,
+8cc	.
+4b	.
+=3	=3
+8b	napój
+8dd	.
+8dd	mi
+8dd	konia,
+8eeL	.
+8eeJ/	.
+=4	=4
+8a\	napój
+8cc	.
+8ddq	.
+8cc	kasztanka.
+16bL	.
+16aJ\	.
+4g}	.
+!!LO:LB:g=esac
+=5	=5
+{8b	Kasztanek
+8ddq	.
+8cc	.
+8a	.
+8f#	pije,
+4d	.
+=6	=6
+8d	podkówką
+8f#	.
+8g	.
+8b	bije,
+4cc	.
+=7	=7
+8b	uciekaj
+8ddq	.
+8cc	.
+8a	.
+8f#	dziewcze,
+8dL	.
+8ccJ	.
+=8	=8
+8d	bo
+8f#	cię
+8g	zabije.
+16bL	.
+16aJ	.
+4g}	.
+==	==
+*-	*-
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:1. Dziewucho moja, choć nie kochanka,
+!!napój mi konia, napój kasztanka.
+!!Bo cię zabije, bo cię podepce,
+!!uwiódem cię uwiód, teraz cię niechcę.
+!!Kasztanek pije, podkówką bije,
+!!uciekaj dziewcze, bo cię zabije.
+!!@@END: VERSES
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=77 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 61} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 61}
+!!!page: 61
+!!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-02-25

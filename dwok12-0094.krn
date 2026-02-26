@@ -1,0 +1,130 @@
+!!!!SEGMENT: DWOK1209400000-liscie_w_ogrodzie_liscie_padaja.krn
+!!!OTL: Liście w ogrodzie, liście padają
+!!!source: DWOK12
+!!!id: 12094
+!!!signature: 1209400000
+**kern	**text
+*clefG2	*
+*k[f#c#g#d#]	*
+*E:	*
+*met(c)	*
+=1	=1
+{4b	Liście
+4b	.
+4cc#	w ogro-
+4b	.
+=2	=2
+8g#	-dzie,
+8b/	liście
+8a	.
+8f#	padają;
+4g#	.
+4e}	.
+!!LO:LB:g=esac
+=3	=3
+{4b	tego
+4b	.
+4cc#	kowa-
+4b	.
+=4	=4
+8g#	-la,
+8b/	tego
+8a	.
+8f#	mi
+4g#	dają.
+4e}	.
+!!LO:LB:g=esac
+=5	=5
+{8f#	Kowal
+8f#	.
+8e#	bije
+8f#	.
+4a	młotem,
+4g#	.
+=6	=6
+8f#	zalé-
+8f#	.
+8e#	-wa
+8f#	się
+4a	potem;
+4g#}	.
+!!LO:LB:g=esac
+=7	=7
+{4b	nie
+8b	chcę,
+8cc#	nie
+4b	pójdę,
+4g#	.
+=8	=8
+8b	nie
+8a/	po
+8f#	mojej
+8f#	.
+4g#	woli.
+4e}	.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:1. Liście w ogrodzie, liście padają;
+!!tego kowala, tego mi dają.
+!!Kowal bije młotem,
+!!zaléwa się potém;
+!!niechcę, nie pójdę,
+!!nie po mojéj woli.
+!!@VERSE:2. Liście w ogrodzie, liście padają;
+!!tego rymarza, tego mi dają.
+!!Rymarz ciągnie skóry,
+!!zębami do góry:
+!!nie chcę, i t. d.
+!!@VERSE:3. Liście w ogrodzie, liście padają;
+!!tego stolarza, tego mi dają.
+!!Stolarz robi skrzynki,
+!!rad kocha panienki;
+!!nie chcę, i t. d.
+!!@VERSE:4. Liście w ogrodzie, liście padają;
+!!tego skotarza, tego mi dają.
+!!Skotarz pędzi krowy,
+!!rad on kocha wdowy;
+!!nie chcę, i t. d.
+!!@VERSE:5. Liście w ogrodzie, liście padają;
+!!tego garcarza, tego mi dają.
+!!Garcarz robi garki,
+!!rad on kocha starki;
+!!nie chcę, i t. d.
+!!@VERSE:6. Liście w ogrodzie, liście padają;
+!!tego owczarza, tego mi dają.
+!!Owcarz pędzi owce,
+!!obije go kto chce;
+!!nie chcę, i t. d.
+!!@VERSE:7. Liście w ogrodzie, liście padają;
+!!tego świniarza, tego mi dają.
+!!Świniarz pędzi świnie,
+!!owala się w glinie;
+!!nie chcę, i t. d.
+!!@VERSE:8. Liście w ogrodzie, liście padają;
+!!tego ślusarza, tego mi dają.
+!!Ślusarz robi klucze,
+!!i łeb sobie tłucze:
+!!inni: (Ślusarz robi kłodki,
+!!to ma rozum krótki;) nie chcę.
+!!@VERSE:9. Liście w ogrodzie, liście padają;
+!!tego muzykanta, tego mi dają.
+!!Muzykant rychło wstaje,
+!!na dzień dobry graje;
+!!nie chcę, i t. d.
+!!@VERSE:10. Liście w ogrodzie, liście padają;
+!!tego młynarza, tego mi dają,
+!!Młynarz mele mączki,
+!!rada jadam pączki;
+!!chcę go i pójdę,
+!!bo po mojéj woli.
+!!@@END: VERSES
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=60 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 44} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 44}
+!!!page: 44
+!!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-02-25
