@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK1215600010-synowa_synowa_tylko_bys_sypiala.krn
+!!!OTL: Synowa, synowa tylko byś sypiała
+!!!source: DWOK12
+!!!id: 12156
+!!!signature: 1215600010
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+!!LO:TX:a:t=Okrągły v. Polski przy weselu.
+{8g	Synowa,
+8f#	.
+8g	.
+8b	synowa,
+8ee	.
+8dd	.
+=2	=2
+8a	tylkobyś
+8a	.
+8a	.
+8a	sypia-
+8dd	.
+8cc}	-ła,
+!!LO:LB:g=esac
+=3	=3
+{8b	wydójże
+8a	.
+8g	.
+8f#	te
+8g	krowy
+8b	.
+=4	=4
+8a	coś
+8g	je
+8f#	tu
+8e	na-
+8f#q	.
+8e	gnała.
+8d}	.
+==	==
+*-	*-
+!!!role-singer: Mother-In-Law
+!!!role-listener: Daughter-In-Law,
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:1. Synowa, synowa, tylkobyś sypiała,
+!!wydójże te krowy coś je tu nagnała.
+!!@@END: VERSES
+!!!ONB: Partia wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=94 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 78} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 78}
+!!!page: 78
+!!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-02-25

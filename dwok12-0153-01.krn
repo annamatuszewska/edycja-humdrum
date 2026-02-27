@@ -1,0 +1,95 @@
+!!!!SEGMENT: DWOK1215300001-wstaj_ino_synowa_wstaj_ino_synowa.krn
+!!!OTL: Wstaj ino synowa, wstaj ino synowa
+!!!source: DWOK12
+!!!id: 12153
+!!!signature: 1215300001
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8cc	Wstaj
+8b	i-
+8g	-no
+8b	synowa
+8dd	.
+8ee	.
+=2	=2
+8cc	Wstaj
+8b	i-
+8g	-no
+8b	synowa
+8dd	.
+8ee	.
+=3	=3
+8cc	jużeś
+8b	.
+4a	sie
+4cc	dość
+=4	=4
+8g	wyspała;
+8f#	.
+2d}	.
+!!LO:LB:g=esac
+=5	=5
+{8e	idź
+8g	te
+8f#	krówki
+8a	.
+8e	dojić,
+8d	.
+=6	=6
+8e	idź
+8g	te
+8f#	krówki
+8a	.
+8e	dojić,
+8d	.
+=7	=7
+8e	cóześ
+8g	.
+4a/	je
+4cc	tu_na-
+=8	=8
+8gL	-gnała.
+8f#J	.
+2d}	.
+==	==
+*-	*-
+!!!role-singer: Mother-In-Law, Daughter-In-Law
+!!!role-listener: Daughter-In-Law, Mother-In-Law
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:1. Wstaj ino synowa (:)
+!!jużeś sie dość wyspała;
+!!idź te krówki dojić,
+!!cóześ je tu nagnała.
+!!@VERSE:2. Nie potrzeba matko
+!!mi tego zadawać,
+!!ja böła siérota,
+!!nimioł mi ich chto dawać.
+!!@VERSE:3. Kiedyś ty wiedziała,
+!!ześ ty siérota böła,
+!!po cóżeś sie dałá
+!!do mojego syna.
+!!@VERSE:4. A myślis ty matko (:)
+!!ze twój sön panem bedzie,
+!!weźnie kij i thorby,
+!!dziadów zwodzić bedzie.
+!!@VERSE:5. Pocekaj synowa,
+!!pohamuj ty gęby,
+!!boć wezne kaminia,
+!!wybije ci zęby.
+!!@VERSE:6. A wolałaby ja,
+!!z kaminia podgrodzić,
+!!niezeli męzewy
+!!matuli wygodzić.
+!!@@END: VERSES
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=92 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 76-77} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 76-77}
+!!!page: 76-77
+!!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-02-25

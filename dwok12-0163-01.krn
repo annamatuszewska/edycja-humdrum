@@ -1,0 +1,89 @@
+!!!!SEGMENT: DWOK1216300001-co_za_przyczyna_ze_mnie_maz_bije.krn
+!!!OTL: Co za przyczyna że mnie mąż bije
+!!!source: DWOK12
+!!!id: 12163
+!!!signature: 1216300001
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{8cc	Co
+8b	za
+8a\	przy-
+=2	=2
+4g	-czyna
+8a	.
+=3	=3
+8f	że
+8e	mnie
+8f	mąż
+=4	=4
+8g	bije,
+4e}	.
+!!LO:LB:g=esac
+=5	=5
+{8cc	niemasz
+8b	.
+8cc/	ta-
+=6	=6
+4g	-kiego
+8a	.
+=7	=7
+8f	co
+8e	po-
+8f	-ża-
+=8	=8
+8g	-łuje.
+4e}	.
+!!LO:LB:g=esac
+=9	=9
+{16e	Przyjedź,
+16g	.
+8g	przyjedź
+8g	.
+=10	=10
+16cc	ojcze
+8ddq	.
+16cc	.
+8b	do
+8cc	mnie,
+=11	=11
+16a\	przyjedź,
+16a\	.
+8a\	przyjedź
+8f\	.
+=12	=12
+16.cc	pożałuj
+32cc	.
+8b	.
+8a}	mnie,
+!!LO:LB:g=esac
+=13	=13
+{4g	poża-
+8e	.
+=14	=14
+16fL	-łuj
+16dJ	.
+8c}	mnie.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Wife
+!!!role-listener: Father
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:1. Co za przyczyna że mnie mąż bije,
+!!niemasz takiego co pożałuje.
+!!Przyjedź, przyjedź ojcze do mnie,
+!!przyjedź, przyjedź pożałuj mnie,
+!!pożałuj mnie.
+!!@@END: VERSES
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=98 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 82} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 82}
+!!!page: 82
+!!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-02-25

@@ -1,0 +1,83 @@
+!!!!SEGMENT: DWOK1213900000-w_tem_sadeczku_na_ogrodzie.krn
+!!!OTL: W tem sadeczku na ogrodzie
+!!!source: DWOK12
+!!!id: 12139
+!!!signature: 1213900000
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+!!LO:TX:a:t=Weselna.
+{8b	W tém
+8dd	sadeczku
+8dd	.
+8cc	.
+=2	=2
+8b	na
+8dd	ogrodzie
+8dd	.
+8ee	.
+=3	=3
+8cc	rośnie
+8a	.
+8cc	le-
+8ee	-li-
+=4	=4
+2dd}	-ja,
+!!LO:LB:g=esac
+=5	=5
+{8g	tam
+8a	gdzie
+8b	to
+8cc	się
+=6	=6
+8b	najmilejsza
+8g	.
+8a	.
+8f#	.
+=7	=7
+8a	moja
+8cc	.
+8b	u-
+8dd	-wi-
+=8	=8
+2g}	-ja.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:1. W tem sadeczku na ogrodzie
+!!rośnie lelija, —
+!!tam gdzie to się najmilejsza
+!!moja uwija.
+!!@VERSE:2. Idzie-ć ona przez pokojik
+!!czyniąc się panią,
+!!a Jasińka oczka bolą
+!!patrzając na nią.
+!!@VERSE:3. Idzie-ć ona do kościoła
+!!jako lelija, —
+!!a Jasinek na koniku
+!!przed nią wywija.
+!!@VERSE:4. I usiadła w pierwszéj ławce
+!!między damami,
+!!najśliczniejszy dyjamencik
+!!między perłami.
+!!@VERSE:5. Przyklęknęła do ołtarza
+!!jak różany kwiat,
+!!czarne oczy zapłakały,
+!!zmienił jéj się świat.
+!!@VERSE:6. Na! chusteczki, otrzéj oczki
+!!kochanko moja;
+!!niech-że ci się świat nie mieni,
+!!uroda twoja.
+!!@@END: VERSES
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=84 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 68} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 68}
+!!!page: 68
+!!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-02-25
