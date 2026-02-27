@@ -3,60 +3,76 @@
 !!!source: DWOK13
 !!!id: 13172
 !!!signature: 1317200000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16a
-16cc
-8ee
-8ee
-=2
-16dd
-16dd
-16ee
-16dd
-16cc
-16b
-=3
-16a
-16cc
-8ee
-8ee
-=4
-16dd
-16dd
-8cc
-8b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{16a\	Ta
+16cc	gościn-
+8ee	.
+8ee	-na
+=2	=2
+16dd	jest
+16dd	go-
+16ee/L	-spo-
+16dd/	.
+16cc/	.
+16b/J	-nia
+=3	=3
+16a\	bo
+16cc	má
+8ee	córki
+8ee	.
+=4	=4
+16dd	do
+16dd	za-
+8cc	-go-
+8b}	-na,
 !!LO:LB:g=esac
-=5
-{16a
-16a
-8e
-8g#
-=6
-16b
-16dd
-16ee
-16dd
-16cc
-16b
-=7
-16a
-16a
-8e
-8g#
-=8
-16b
-16dd
-8cc
-8b}
-==
-*-
+=5	=5
+{16a\	a
+16a\	go-
+8e	-ścin-
+8g#	-ny
+=6	=6
+16b	wielgi
+16dd	.
+16ee/L	sa-
+16dd/	.
+16cc/	-piec
+16b/J	.
+=7	=7
+16a\	jak
+16a\	się
+8e	na-
+8g#	-zre,
+=8	=8
+16b	uć-
+16dd	-knie
+8cc	za
+8b}	piec.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Ta gościnna jest gosponia
+!!bo má córki do zagona,
+!!a gościnny wielgi sapiec
+!!jak się nazre, ućknie za piec.
+!!@VERSE:
+!!2. Ta gościnna, dobra nasza,
+!!stoji z dzbanem u szynkfasa,
+!!naléwa nam — i polała
+!!swój fartuszek aż do pasa.
+!!@@END: VERSES
+!!!role-singer: Complex 
+!!!role-listener: Complex
+!!!singer-sex: Complex
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=117 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 93} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 93}
 !!!page: 93
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-27

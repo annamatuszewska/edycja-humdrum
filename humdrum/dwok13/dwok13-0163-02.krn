@@ -3,58 +3,82 @@
 !!!source: DWOK13
 !!!id: 13163
 !!!signature: 1316300002
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/8
-=1
-{16a
-16cc#
-4ee
-=
-24a
-24g#
-24b
-8dd
-8cc#
-=2
-16a
-16cc#
-8b
-16b
-16g#
-=3
-16a
-16f#
-4e}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Mazurek.	!
+{16a\	Do
+16cc#	boru
+4ee	.
+=2	=2
+*Xtuplet	.
+24aL	nie
+24g#	.
+24bJ	pój-
+8ddL	-dę
+8cc#J	.
+=3	=3
+16a\	i
+16cc#	drew
+8b	.
+(8ddq	.
+16b/)L	rą-
+16g#/J	-bać
+=4	=4
+16a	nie
+16f#	bę-
+4e}	-de,
 !!LO:LB:g=esac
-=4
-{16a
-16cc#
-8b
-8g#
-=5
-16a
-16f#
-8e
-8g#
-=6
-16a
-16cc#
-16b
-16cc#
-16dd
-16b
-=7
-16a
-16f#
-4e}
-==
-*-
+=5	=5
+{16a\	drewnoby
+16cc#	.
+8b	.
+8g#	mnie
+=6	=6
+16a	za-
+16f#	-bi-
+8eL	-ło,
+8g#J	.
+=7	=7
+16a\	co-
+16cc#	-by
+16bL	dziew-
+16ccJ#	.
+16ddL	-cze
+16bJ	.
+=8	=8
+16a	ro-
+16f#	-bi-
+4e}	-ło?
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Do boru nie pójdę,
+!!i drew rąbać nie będe,
+!!drewnoby mnie zabiło,
+!!coby dziewcze robiło?
+!!@VERSE:
+!!2. Przyszedby pan borowy,
+!!wzionby mi siekierę,
+!!dziewczeby mnie złajało
+!!że ja sie źle bierę.
+!!@VERSE:
+!!3. Za siekierę talara,
+!!toporzysko złoty. —
+!!Ty dziewucho, psiąjucho,
+!!nie rób mi sromoty!
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: male 
 !!!ONB: Mazurek
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=113 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 89} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 89}
 !!!page: 89
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-26

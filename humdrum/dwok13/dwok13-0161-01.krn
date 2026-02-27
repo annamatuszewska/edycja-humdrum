@@ -3,124 +3,147 @@
 !!!source: DWOK13
 !!!id: 13161
 !!!signature: 1316100001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16b
-8.dd
-16b
-=2
-16dd
-16b
-8dd
-8ee
-=3
-16a
-16a
-8cc
-8ee
-=4
-16dd
-16dd
-8b
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Mazur.	!
+{16g	Hożo,
+16b	.
+8.dd	ho-
+16b	-żo
+=2	=2
+16dd	po
+16b	na-
+8dd	-szemu,
+8ee	.
+=3	=3
+16a\	da-
+16a\	-łaś
+8cc	gę-
+8ee	-by
+=4	=4
+16dd	koniu-
+8eeq	.
+16dd	.
+8b	-szemu.
+8g}	.
 !!LO:LB:g=esac
-=5
-{16d
-16f#
-8a
-16r
-16ee
-=6
-16dd
-16dd
-8b
-8g
-=7
-16b
-16dd
-8.dd
-16ee
-=8
-16a
-16a
-8f#
-8d}
+=5	=5
+{16d	Dałam,
+16f#	.
+8a	da-
+16r	.
+16ee	-łam,
+=6	=6
+16dd	miałam
+8eeq	.
+16dd	.
+8b	za
+8g	co,
+=7	=7
+16b	to-
+16dd	-bie
+8.dd	nie
+16ee	dam
+=8	=8
+16a\	boś
+8bq	.
+16a\	la-
+8f#	-da-
+8d}	-co.
 !!LO:LB:g=esac
-=9
-{16d
-16f#
-8a
-16r
-16ee
-=10
-16dd
-16dd
-8b
-8g
-=11
-16b
-16dd
-8.dd
-16ee
-=12
-16a
-16a
-8f#
-8d}
+=9	=9
+{16d	Dałam
+16f#	.
+8a	da-
+16r	.
+16ee	-łam
+=10	=10
+16dd	miałam
+8eeq	.
+16dd	.
+8b	za
+8g	co
+=11	=11
+16b	to-
+16dd	-bie
+8.dd	nie
+16ee	dam
+=12	=12
+16a\	boś
+8bq	.
+16a\	la-
+8f#	-da-
+8d}	-co.
 !!LO:LB:g=esac
-=13
-{8.g
-16d
-16B
-16d
-=14
-16g
-16d
-16B
-16d
-16e
-16d
-=15
-8.e
-16c
-8e
-=16
-16g
-16e
-16c
-16e
-8g}
+=13	=13
+{8.gL	.
+16dJ	.
+16BL	.
+16dJ	.
+=14	=14
+16gL	.
+16d	.
+16B	.
+16dJ	.
+16e\L	.
+16d\J	.
+=15	=15
+8.eL	.
+16c	.
+8eJ	.
+=16	=16
+16gL	.
+16e	.
+16c	.
+16e	.
+8g}J	.
 !!LO:LB:g=esac
-=17
-{8.g
-16d
-16B
-16d
-=18
-16g
-16d
-16B
-16d
-16g
-16f#
-=19
-8.e
-16c
-8e
-=20
-8c
-8A
-8G}
-==
-*-
+=17	=17
+{8.gL	.
+16dJ	.
+16BL	.
+16dJ	.
+=18	=18
+16gL	.
+16d	.
+16B	.
+16dJ	.
+16gL	.
+16f#J	.
+=19	=19
+8.eL	.
+16c	.
+8eJ	.
+=20	=20
+8c\L	.
+8A\	.
+8G}\J	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Hożo, hożo po naszemu,
+!!dałaś gęby koniuszemu.
+!!Dałam, dałam, miałam za co,
+!!tobie nie dam boś ladaco.
+!!@VERSE:
+!!2. Kaśka nasza, Maciek nie nasz,
+!!Kaśka jesta, Maćka niémasz.
+!!@VERSE:
+!!3. Kaśka nasza, my Kaścyni,
+!!będzie dobra gospodyni.
+!!@@END: VERSES
+!!!role-singer: Lover, Mistress
+!!!role-listener: Mistress, Lover
+!!!singer-sex: male, female
 !!!ONB: Mazur
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=112 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 88} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 88}
 !!!page: 88
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-26

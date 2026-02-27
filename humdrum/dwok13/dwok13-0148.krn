@@ -3,85 +3,100 @@
 !!!source: DWOK13
 !!!id: 13148
 !!!signature: 1314800000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16a
-8b
-8b
-=2
-8ee
-4dd
-=3
-16dd
-16ee
-8dd
-8b
-=4
-8e
-4d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Ol-
+16a	-szo-
+8b	-we
+8b	ko-
+=2	=2
+8ee	-ryt-
+4dd	-ko,
+=3	=3
+16dd	co
+16ee	to
+8dd	masz
+8b	ko-
+=4	=4
+8e	-bitko
+4d}	.
 !!LO:LB:g=esac
-=5
-{16g
-16a
-8b
-8b
-=6
-8ee
-8dd
-8b
-=7
-16dd
-16ee
-8dd
-16b
-16g
-=8
-8e
-4d}
+=5	=5
+{8g	w_far-
+8f#	-tuszku
+16g	.
+16a	w_far-
+=6	=6
+8b	-tusz-
+4g\	-ku
+=7	=7
+(4dd	hej
+8cc)	.
+=8	=8
+8b	w_far-
+8e	-tu-
+8d}	-szku?
 !!LO:LB:g=esac
-=9
-{8g
-8f#
-16g
-16a
-=10
-8b
-4g
-=11
-4dd
-8cc
-=12
-8b
-8e
-8d}
+=9	=9
+{16g	Jabka
+16a	.
+8b	dla
+8b	mło-
+=10	=10
+8ee	-dzi-
+8dd/L	-ka,
+8b/J	.
+=11	=11
+16dd	zgniłki
+16ee	.
+8dd	dla
+16b/L	dzia-
+16gJ	.
+=12	=12
+8e	-dy-
+4d}	-ka
 !!LO:LB:g=esac
-=13
-{8g
-8f#
-16g
-16a
-=14
-8b
-8g
-16e
-16d
-=15
-4dd
-8cc
-=16
-16b
-16g
-8e
-8d}
-==
-*-
+=13	=13
+{8g	w_far-
+8f#	-tuszku,
+16g	.
+16a	w_far-
+=14	=14
+8b	-tusz-
+8gL	-ku
+16e	.
+16dJ	.
+=15	=15
+(4dd	hej
+8cc)	.
+=16	=16
+16b/L	w_far-
+16gJ	.
+8e	-tusz-
+8d}	-ku?
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Olszowe korytko,
+!!co to masz kobitko
+!!w fartuszku, w fartuszku
+!!hej w fartuszku?
+!!Jabka dla młodzika,
+!!zgniłki dla dziadyka
+!!w fartuszku, w fartuszku
+!!hej w fartuszku?
+!!@@END: VERSES
+!!!role-singer: Complex
+!!!role-listener: Complex
+!!!singer-sex: Complex
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=108 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 84} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 84}
 !!!page: 84
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-22

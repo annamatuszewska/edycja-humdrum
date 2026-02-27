@@ -3,105 +3,126 @@
 !!!source: DWOK13
 !!!id: 13151
 !!!signature: 1315100000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16a
-16b
-16cc
-8dd
-=2
-8ee
-16ff#
-16ee
-8dd
-=3
-16b
-16a
-16b
-16cc
-8dd
-=4
-8a
-16f#
-16e
-8d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Wiatrak dziewuszyn (przy weselu).	!
+{16g	A
+16a	mój
+16bL	Sta-
+16ccJ	.
+8dd	-chu,
+=2	=2
+8ee	chcesz
+16ff#L	chle-
+16eeJ	.
+8dd	-ba?
+=3	=3
+16b	A
+16a\	mój
+16bL	druż-
+16ccJ	.
+8dd	-bo,
+=4	=4
+8a	nie
+8gq	.
+16f#L	trze-
+16eJ	.
+8d}	-ba.
 !!LO:LB:g=esac
-=5
-{16g
-16a
-8b
-8g
-=6
-8a
-16cc
-16ee
-8dd
-=7
-16g
-16a
-8b
-8g
-=8
-8a
-16f#
-16e
-8d}
+=5	=5
+{16g	Gorza-
+16a	.
+8b/	-łecz-
+8g	-kę
+=6	=6
+8a	to-
+16ccL	-bym
+16eeJ	.
+8dd	piół,
+=7	=7
+16g	że-
+16a	-by
+8b/	mi
+8g\	ji
+=8	=8
+8a	chto
+8gq	.
+16f#L	ku-
+16eJ	.
+8d}	-piół.
 !!LO:LB:g=esac
-=9
-{16g
-16a
-16b
-16cc
-8dd
-=10
-16ee
-16gg
-16ff#
-16ee
-8dd
-=11
-16b
-16a
-16b
-16cc
-8dd
-=12
-8a
-16f#
-16e
-8d}
+=9	=9
+{16g	Lepsza
+16a	.
+16bL	go-
+16ccJ	.
+8dd	-rzał-
+=10	=10
+16ee/L	-ka
+16gg/J	ma-
+16ff#L	.
+16eeJ	-tu-
+8dd	-la,
+=11	=11
+16b	lepsza
+16a\	.
+16bL	go-
+16ccJ	.
+8dd	-rzał-
+=12	=12
+8a	-ka
+8gq	.
+16f#L	jedyna,
+16eJ	.
+8d}	.
 !!LO:LB:g=esac
-=13
-{16g
-16a
-8b
-8g
-=14
-8a
-16cc
-16ee
-8dd
-=15
-16g
-16a
-8b
-16g
-16f#
-=16
-8a
-16f#
-16e
-8d}
-==
-*-
+=13	=13
+{16g	niżli
+16a	.
+8b/	choćby
+8g	.
+=14	=14
+8a	w_tygielku
+16ccL	.
+16eeJ	.
+8dd	.
+=15	=15
+16g	sma-
+16a	-żo-
+8b/	-ne
+16gL	kluski
+16f#J	.
+=16	=16
+8a	da
+8gq	.
+16f#L	dy-
+16eJ	.
+8d}	na!
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A mój Stachu, chcesz chleba?
+!!A mój drużbo, nie trzeba.
+!!Gorzałeczkę tobym piół,
+!!żeby mi ji chto kupiół.
+!!@VERSE:
+!!2. Lepsza gorzałka matula,
+!!lepsza gorzałka jedyna,
+!!niżli choćby w tygielku
+!!smażone kluski, da dyna!
+!!@@END: VERSES
+!!!role-singer: Best man
+!!!role-listener: Bridegroom
+!!!singer-sex: male
 !!!ONB: Wiatrak dziewuszyn (przy weselu)
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=108 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 84-85} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, pp. 84-85}
 !!!page: 84-85
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-23

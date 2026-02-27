@@ -3,101 +3,123 @@
 !!!source: DWOK13
 !!!id: 13142
 !!!signature: 1314200000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16g
-8a
-8a
-=2
-16b
-16b
-8cc
-8a
-=3
-16b
-16b
-8a
-8f#
-=4
-16g
-16e
-8.d
-16f#}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Owczarek.	!
+{16g	Nie
+16g	będzie
+8a	.
+8a	me
+=2	=2
+16b	matka
+16b	.
+8cc	bi-
+8a\	-ła,
+=3	=3
+16b	bo
+16b	nima
+8a\	.
+8f#	o
+=4	=4
+16g	co
+16e	da
+8.d	o
+16f#}	co,
 !!LO:LB:g=esac
-=5
-{16g
-16g
-8f#
-8f#
-=6
-16g
-16e
-8d
-8cc
-=7
-16b
-16b
-8a
-8f#
-=8
-16g
-16e
-8.d
-16f#}
+=5	=5
+{16g\	o
+16g\	chy-
+8f#\	-ba-
+8f#\	-by
+=6	=6
+16g	o
+16e	za-
+8d	-le(o)-
+8cc	-ty
+=7	=7
+16b	chyba-
+16b	.
+8a\	-by
+8f#	o
+=8	=8
+16g	to
+16e	da
+8.d	o
+16f#}	to.
 !!LO:LB:g=esac
-=9
-{16g
-16g
-8a
-8a
-=10
-16b
-16dd
-8ee
-8cc
-=11
-16dd
-16b
-8a
-16f#
-16d
-=12
-16e
-16c
-8.d
-16f#}
+=9	=9
+{16g	Nie
+16g	będzie
+8a	.
+8a	me
+=10	=10
+16b/L	matka
+16dd/J	.
+8ee/L	bi-
+8cc/J	-ła
+=11	=11
+16dd/L	bo
+16b/	nima
+8aJ	.
+16f#\L	o
+16d\J	.
+=12	=12
+16e\L	co
+16c\J	da
+8.d\L	o
+16f#\J}	co,
 !!LO:LB:g=esac
-=13
-{16g
-16b
-8a
-8f#
-=14
-16g
-16e
-8d
-8cc
-=15
-16b
-16b
-8a
-16f#
-16d
-=16
-16e
-16c
-8.d
-16f#}
-==
-*-
+=13	=13
+{16gL	o
+16b/J	chy-
+8aL	-ba-
+8f#J	-by
+=14	=14
+16g	o
+16e	za-
+8d	-le(o)-
+8cc	-ty
+=15	=15
+16b	chyba-
+16b	.
+8a	-by
+16f#\L	o
+16d\J	.
+=16	=16
+16e\L	to
+16c\J	da
+8.d\L	o
+16f#\J}	to.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Nie będzie me matka biła,
+!!bo nima o co da o co,
+!!o chybaby o zale(o)ty
+!!chybaby o to da o to.
+!!@VERSE:
+!!2. Żeby nie u téj dziewuli,
+!!żeby nie u téj, da a tej,
+!!nie stojałby mój koniczek
+!!ani minuty, minuty.
+!!@VERSE:
+!!3. Idzie mi o cię dziewulo.
+!!idzie mi o cię, da o cię;
+!!choćbyś była za Poznaniem,
+!!pojadę po cię, da po cię.
+!!@@END: VERSES
+!!!role-singer: Daughter, Lover
+!!!role-listener: Complex
+!!!singer-sex: female, male
 !!!ONB: Owczarek
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=105 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 81-82} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, pp. 81-82}
 !!!page: 81-82
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-22

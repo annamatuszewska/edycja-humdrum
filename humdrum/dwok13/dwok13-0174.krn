@@ -3,98 +3,119 @@
 !!!source: DWOK13
 !!!id: 13174
 !!!signature: 1317400000
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/8
-=1
-{16a
-16cc#
-8ee
-8ee
-=2
-16ee
-16ff#
-8dd
-8b
-=3
-16dd
-16ff#
-8.ee
-16b
-=4
-16cc#
-16b
-8g#
-8e}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M3/8	*
+=1	=1
+{16a\	A
+16cc#	czemu
+8ee	.
+8ee	to
+=2	=2
+16ee	ko-
+16ff#	-nie
+8dd	mo-
+8b	-je
+=3	=3
+16dd	sia-
+16ff#	-na
+8.ee	nie
+16b	je-
+=4	=4
+16cc#	-dzą,
+16b	nie
+8g#	je-
+8e}	-dzą,
 !!LO:LB:g=esac
-=5
-{16e
-16g#
-8a
-8b
-=6
-16cc#
-16dd
-8cc#
-8a
-=7
-16cc#
-16dd
-8.ee
-16dd
-=8
-16cc#
-16b
-8g#
-8e}
+=5	=5
+{16e	a
+16g#	bo
+8a	ó-
+8b	-ny
+=6	=6
+16cc#	do
+16dd	dziewczęcia
+8cc#	.
+8a	.
+=7	=7
+16cc#	dróżki
+16dd	.
+8.ee	nie
+16dd	wie-
+=8	=8
+16cc#	-dzą,
+16b	nie
+8g#	wiedzą.
+8e}	.
 !!LO:LB:g=esac
-=9
-{16a
-16cc#
-8ee
-8ee
-=10
-16ee
-16ff#
-8dd
-8b
-=11
-16dd
-16ff#
-8.ee
-16b
-=12
-16cc#
-16b
-8g#
-8e}
+=9	=9
+{16a\	A
+16cc#	czemu
+8ee	.
+8ee	to
+=10	=10
+16ee	ko-
+16ff#	-nie
+8dd	mo-
+8b	-je
+=11	=11
+16dd	sia-
+16ff#	-no
+8.ee	po-
+16b	-ja-
+=12	=12
+16cc#	-dły,
+16b	po-
+8g#	-ja-
+8e}	-dły
 !!LO:LB:g=esac
-=13
-{16e
-16g#
-8a
-8b
-=14
-16cc#
-16dd
-8cc#
-8a
-=15
-16cc#
-16dd
-8.ee
-16dd
-=16
-16cc#
-16b
-8g#
-8e}
-==
-*-
+=13	=13
+{16e	a
+16g#	bo
+8a	ó-
+8b	-ny
+=14	=14
+16cc#	do
+16dd	dziewczęcia
+8cc#	.
+8a	.
+=15	=15
+16cc#	dróżkę
+16dd	.
+8.ee	po-
+16dd	-zba-
+=16	=16
+16cc#	-dły,
+16b	po-
+8g#	-zbadły.
+8e}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A czemu to konie moje
+!!siana nie jedzą, nie jedzą,
+!!a bo óny do dziewczęcia
+!!dróżki nie wiedzą, nie wiedzą.
+!!@VERSE:
+!!2. A czemu to konie moje
+!!siano pojadły, pojadły,
+!!a bo óny do dziewczęcia
+!!dróżkę pozbadły, pozbadły.
+!!@VERSE:
+!!3. Będziesz wyryżał koniku,
+!!będziesz wyryżał, wyryżał,
+!!ino będziesz do maluśkiéj
+!!do wrót zajéżdżał, zajéżdżał.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Complex
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=117 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 93} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 93}
 !!!page: 93
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-27

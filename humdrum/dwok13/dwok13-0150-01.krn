@@ -3,56 +3,67 @@
 !!!source: DWOK13
 !!!id: 13150
 !!!signature: 1315000001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8.g
-16a
-16b
-16cc
-=2
-16dd
-16dd
-8ee
-8ff#
-=3
-16dd
-16dd
-8b
-8cc
-=4
-16a
-16a
-8b
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8.g	Cztery
+16a	.
+16b	mi-
+16cc	-le
+=2	=2
+16dd	za
+16dd	Warszawą,
+8ee	.
+8ff#	.
+=3	=3
+16dd	o-
+16dd	-że-
+8b	-nił
+8cc	się
+=4	=4
+16a\	wró-
+16a\	-bel
+8b	z_ka-
+8g}\	-w(k)ą.
 !!LO:LB:g=esac
-=5
-{8.g
-16b
-8cc
-=6
-16a
-16a
-16b
-16dd
-8ee
-=7
-8.dd
-16b
-8cc
-=8
-16a
-16f#
-16a
-16b
-8g}
-==
-*-
+=5	=5
+{8.g	Je-
+16b	-szcze
+8cc	wróbel
+=6	=6
+16a\	nie
+16a\	po
+16bL	ślu-
+16ddJ	.
+8ee	-bie,
+=7	=7
+8.dd	już
+16b	mu
+8cc	kawa
+=8	=8
+16a	w_pierzu
+16f#	.
+16aL	sku-
+16b/J	-bie.
+8g}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Cztery mile za Warszawą,
+!!ożenił się wróbel zkaw(k)ą.
+!!Jeszcze wróbel nie po ślubie,
+!!już mu kawa w pierzu skubie.
+!!@@END: VERSES
+!!!role-singer: Complex
+!!!role-listener: Group
+!!!singer-sex: Complex
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=108 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 84} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 84}
 !!!page: 84
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-23
