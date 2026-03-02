@@ -3,77 +3,90 @@
 !!!source: DWOK13
 !!!id: 13183
 !!!signature: 1318300010
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16f
-16a
-8cc
-8ff
-=2
-16ee
-16gg
-8ff
-8dd
-=3
-16cc
-16a
-8f
-8b-
-=4
-16c
-16c
-8e
-8f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16f	O
+16a	mój
+8cc	Bo-
+8ff	-że
+=2	=2
+16ee	wszechmogą-
+16gg	.
+8ff	.
+8dd	-cy,
+=3	=3
+16cc	zjadły
+16a\	.
+8f	szew-
+8b-	-cy
+=4	=4
+16c	groch
+16c	gorą-
+8e	.
+8f}	-cy;
 !!LO:LB:g=esac
-=5
-{16a
-16cc
-8dd
-8b-
-=6
-16g
-16e
-8g
-8a
-=7
-16b-
-16dd
-8b-
-8a
-=8
-8g
-8e
-8f}
+=5	=5
+{16a\	nima
+16cc	.
+8dd	mi-
+8b-	-ski
+=6	=6
+16g	a-
+16e	-ni
+8g	łyż-
+8a\	-ki,
+=7	=7
+16b-	o-
+16dd	-pa-
+8ccq	.
+8b-	-rzy-
+8a\	-ły
+=8	=8
+8g\	szewcy
+8e	py-
+8f}	-ski.
 !!LO:LB:g=esac
-=9
-{16a
-16cc
-8dd
-8b-
-=10
-16g
-16e
-8g
-8a
-=11
-16b-
-16dd
-8b-
-8a
-=12
-16g
-16g
-8e
-8f}
-==
-*-
+=9	=9
+{16a\	nima
+16cc	.
+8dd	mi-
+8b-	-ski
+=10	=10
+16g	a-
+16e	-ni
+8g	łyż-
+8a\	-ki,
+=11	=11
+16b-	o-
+16dd	-pa-
+8ccq	.
+8b-	-rzy-
+8a\	-ły
+=12	=12
+16gL	szewcy
+16gJ	.
+8e	py-
+8f}	-ski.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!O mój Boże wszechmogący,
+!!zjadły szewcy groch gorący;
+!!nima miski ani łyżki,
+!!oparzyły szewcy pyski.
+!!@@END: VERSES
+!!!role-singer: Complex
+!!!role-listener: Complex
+!!!singer-sex: Complex
 !!!ONB: Partia wokalna
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=120 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 96} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 96}
 !!!page: 96
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-01

@@ -3,92 +3,107 @@
 !!!source: DWOK13
 !!!id: 13184
 !!!signature: 1318400000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{8a
-16cc
-16a
-16cc
-16ff
-=2
-8dd
-8dd
-8cc
-=3
-16a
-16cc
-16a
-16g
-16b-
-16dd
-=4
-8cc
-8a
-8f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{8a\	O-
+16cc	-li
+16a\	na-
+16cc	-piekła
+16ff	.
+=2	=2
+8dd	o-
+8dd	-wo-
+8cc	-cu,
+=3	=3
+16a\	da
+16cc	na
+16a	piecu
+16g	.
+16b-L	go
+16ddJ	.
+=4	=4
+8cc	po-
+8a	-kładła,
+8f}	.
 !!LO:LB:g=esac
-=5
-{8a
-16cc
-16a
-16cc
-16ff
-=6
-8dd
-8dd
-8cc
-=7
-16a
-16cc
-16a
-16g
-16b-
-16dd
-=8
-8cc
-8a
-8f}
+=5	=5
+{8a\	A
+16cc	mie-
+16a\	-li
+16cc	my
+16ff	się
+=6	=6
+8dd	po-
+8dd	-dzielić,
+8cc	.
+=7	=7
+16a\	da
+16cc	o-
+16a	-na
+16g	mi
+16b-L	go
+16ddJ	.
+=8	=8
+8cc	po-
+8a	-kradła.
+8f}	.
 !!LO:LB:g=esac
-=9
-{16g
-16b-
-8.cc
-16b-
-=10
-16g
-16b-
-8.cc
-16b-
-=11
-16g
-16b-
-8.cc
-16b-
-=12
-16g
-16b-
-8.cc
-16b-}
+=9	=9
+{16g	Ta
+16b-	psia-
+8.cc	-ju-
+16b-	-cha,
+=10	=10
+16g	ta
+16b-	smarka-
+8.cc	.
+16b-	-ta,
+=11	=11
+16g	ta
+16b-	be-
+8.cc	-sty-
+16b-	-ja,
+=12	=12
+16g	ta
+16b-	warga-
+8.cc	.
+16b-}	-ta,
 !!LO:LB:g=esac
-=13
-{16a
-16cc
-16a
-16g
-16b-
-16dd
-=14
-16b-
-16cc
-8a
-8f}
-==
-*-
+=13	=13
+{16a\	o-
+16cc	-li
+16a	da-
+16g	-li
+16b-	da-
+16dd	-li
+=14	=14
+8gq	.
+16b-	dy-
+16cc	-na
+8a	da-
+8f}	-na.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oli napiekła owocu,
+!!da na piecu go pokładła,
+!!A mieli my się podzielić,
+!!da ona mi go pokradła.
+!!Ta psiajucha, ta smarkata,
+!!ta bestyja, ta wargata,
+!!oli dali dali dyna dana.
+!!@@END: VERSES
+!!!role-singer: Complex
+!!!role-listener: Complex
+!!!singer-sex: Complex
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=121 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 97} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 97}
 !!!page: 97
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-02

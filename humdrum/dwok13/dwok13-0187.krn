@@ -3,79 +3,107 @@
 !!!source: DWOK13
 !!!id: 13187
 !!!signature: 1318700000
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M3/8
-=1
-{8f#
-8a
-16a
-16g
-=2
-16f#
-16a
-8dd
-8dd
-=3
-8b
-8b
-16b
-16dd
-=4
-16dd
-16dd
-8.cc#
-16a}
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M3/8	*
+=1	=1
+{8f#	Zagraj-
+8a	.
+16a	-że
+16g	mi
+=2	=2
+16f#	ty
+16a	gra-
+8dd	-czy-
+8dd	-ku
+=3	=3
+8ddq	.
+8b	czte-
+8b	-ry
+16b	go-
+16dd	-dzi-
+=4	=4
+16dd	-ny,
+8eeq	.
+16dd	go-
+8.cc#	-dzi-
+16a}	-ny,
 !!LO:LB:g=esac
-=5
-{8f#
-8a
-16a
-16g
-=6
-16f#
-16a
-8a
-8a
-=7
-16b
-16g
-8e
-16e
-16g
-=8
-16b
-16a
-8f#
-8d}
+=5	=5
+{8f#	a-
+8a	-bo
+16a	mi
+16g	téż
+=6	=6
+16f#	z
+16a	tą
+8a	je-
+8a	-dyną
+=7	=7
+16b/L	ta-
+16gJ	.
+8e	-ne-
+16e	-czek
+16g	mi-
+=8	=8
+16b	-ły
+16a\	da
+8f#	mi-
+8d}	-ły.
 !!LO:LB:g=esac
-=9
-{8f#
-8a
-16a
-16g
-=10
-16f#
-16d
-8c#
-8e
-=11
-16g
-16g
-8e
-16e
-16g
-=12
-16b
-16a
-8f#
-8d}
-==
-*-
+=9	=9
+{8f#	a-
+8a	-bo
+16a	mi
+16g	téż
+=10	=10
+16f#L\	z
+16d\J	tą
+8c#\L	je-
+8e\J	-dyną
+=11	=11
+16g\L	ta-
+16g\J	.
+8e	-ne-
+16e	-czek
+16g	mi-
+=12	=12
+16b	-ły
+16a\	da
+8f#	mi-
+8d}	-ły.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Zagrajże mi ty graczyku
+!!cztery godziny, godziny,
+!!abo mi téż z tą jedyną
+!!taneczek miły da miły.
+!!@VERSE:
+!!2. Ty graczyku będziesz w niebie,
+!!basanista obok ciebie.
+!!Basanisto, dobrze basuj,
+!!na panny się nie przypatruj.
+!!@VERSE:
+!!3. Basanisto źle basujesz,
+!!całą godzinę, godzinę;
+!!na panny się przypatrujesz,
+!!na te jedyne, jedyne.
+!!@VERSE:
+!!4. Zagraj mi głośnij skrzypeczku,
+!!dam ci motek strón, da i strón,
+!!ale jeszcze u barana
+!!pod ogonem są da i są.
+!!@@END: VERSES
+!!!role-singer: Mistress
+!!!role-listener: Group
+!!!singer-sex: female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=122 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 98} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 98}
 !!!page: 98
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-02

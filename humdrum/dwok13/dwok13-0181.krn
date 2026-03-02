@@ -3,77 +3,93 @@
 !!!source: DWOK13
 !!!id: 13181
 !!!signature: 1318100000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16b
-8.dd
-16ee
-=2
-16ee
-16dd
-8cc#
-8dd
-=3
-16b
-16dd
-8b
-8a
-=4
-16a
-16g
-8f#
-8d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Nie-
+16b	-da-
+8.dd	-le-
+16ee	-ko
+=2	=2
+16ee	wo-
+16dd	-da
+8cc#	wo-
+8dd	-dy,
+=3	=3
+16b	poszed
+16dd	.
+8b	Ja-
+8a\	-sio
+=4	=4
+16a	na
+16g	ja-
+8f#	-go-
+8d}	-dy.
 !!LO:LB:g=esac
-=5
-{16g
-16b
-8.dd
-16g
-=6
-16b
-16a
-8cc
-8f#
-=7
-16g
-16b
-8.dd
-16a
-=8
-16b
-16a
-8f#
-8d}
+=5	=5
+{16g	Stra-
+16b	-cił
+8.dd	suknię
+16g	.
+=6	=6
+16b	i
+16a\	fu-
+8cc	-zy-
+8f#	-ją,
+=7	=7
+16g	mo-
+16b	-ja
+8.dd	Ka-
+16a\	-siu
+=8	=8
+16b	wy-
+16a\	-kup
+8f#	mi
+8d}	ją.
 !!LO:LB:g=esac
-=9
-{16g
-16b
-8.dd
-16g
-=10
-16b
-16a
-8cc
-8f#
-=11
-16g
-16b
-8.dd
-16a
-=12
-16b
-16a
-8f#
-8d}
-==
-*-
+=9	=9
+{16g	Stra-
+16b	-cił
+8.dd	suknię
+16g	.
+=10	=10
+16b	i
+16a\	fu-
+8cc	-zy-
+8f#	-ją,
+=11	=11
+16g	mo-
+16b	-ja
+8.dd	Ka-
+16a\	-siu
+=12	=12
+16b	wy-
+16a\	-kup
+8f#	mi
+8d}	ją.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Niedaleko woda wody,
+!!poszed Jasio na jagody.
+!!Stracił suknię i fuzyją,
+!!moja Kasiu wykup mi ją.
+!!@VERSE:
+!!2. Radabym ci wykupiła,
+!!bym się ludzi nie wstydziła.
+!!Bo tu ludzie nie po temu,
+!!dziwują się lada czemu.
+!!@@END: VERSES
+!!!role-singer: Lover, Mistress
+!!!role-listener: Mistress, Lover
+!!!singer-sex: male, female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=120 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 96} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 96}
 !!!page: 96
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-01

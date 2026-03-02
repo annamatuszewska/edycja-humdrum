@@ -3,77 +3,111 @@
 !!!source: DWOK13
 !!!id: 13188
 !!!signature: 1318800000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{8a
-8ff
-16ee
-16cc
-=2
-16b
-16dd
-8ee
-8cc
-=3
-8a
-8ff
-16ee
-16cc
-=4
-16b
-16g#
-8a
-8e}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{8a	Nie
+8ff	bę-
+16ee	-dę
+16cc	ja
+=2	=2
+16b	się
+16dd	kłopo-
+8ee	.
+8cc	-tał
+=3	=3
+8a\	bo
+8ff	ładną
+16ee	.
+16cc	bę-
+=4	=4
+16b	-dę
+16g#	dziewkę
+8a	.
+8e}	miał.
 !!LO:LB:g=esac
-=5
-{16e
-16g#
-8b
-8cc
-=6
-16b
-16g#
-8b
-8cc
-=7
-8b
-8g#
-16a
-16cc
-=8
-16b
-16g#
-8a
-8e}
+=5	=5
+{16e	Ła-
+16g#	-dną,
+8b	ła-
+8cc	-dną
+=6	=6
+16b/L	jak
+16g#J	li-
+8b	-li-
+8ddq	.
+8cc	-ja,
+=7	=7
+8b	a-
+8g#	-le
+16a	i
+16cc	złą
+=8	=8
+16b/L	jak
+16g#J	besty-
+8a	.
+8e}	-ja.
 !!LO:LB:g=esac
-=9
-{16e
-16g#
-8b
-8cc
-=10
-16b
-16g#
-8b
-8cc
-=11
-8b
-8g#
-16a
-16cc
-=12
-16e
-16g#
-8a
-8e}
-==
-*-
+=9	=9
+{16e	Ła-
+16g#	-dną
+8b	ła-
+8cc	-dną
+=10	=10
+16b/L	jak
+16g#J	li-
+8b	-li-
+8ddq	.
+8cc	-ja,
+=11	=11
+8b	a-
+8g#	-le
+16a	i
+16cc	złą
+=12	=12
+16e\	jak
+16g#\	besty-
+8a	.
+8e}	ja.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Nie będę ja się kłopotał
+!!bo ładną będę dziewkę miał.
+!!Ładną, ładną jak lilija,
+!!ale i złą jak bestyja.
+!!@VERSE:
+!!2. Oczki cię zdobią dziewulo,
+!!oczki cię zdobią da zdobią.
+!!Ale rączki kata zjadły,
+!!źle robią da i źle robią.
+!!@VERSE:
+!!Od Kobylina (Targoszyce):
+!!3. Oczki cię zdobią, dziewulo,
+!!oczki cię zdobią, da zdobią;
+!!ale rączki kata zjadły,
+!!nie rade robią, da robią.
+!!@VERSE:
+!!4. Oczki zdobione dziewulo,
+!!oczki zdobione, zdobione;
+!!ale rączki kata zjadły,
+!!nie wyrobione, da dana!
+!!@VERSE:
+!!5. Bladnieją oczki, dziewulo,
+!!bladnieją oczki, da oczki;
+!!nie od piwa ani winna,
+!!od gorzałeczki, da dana.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Complex
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=122 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 98} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 98}
 !!!page: 98
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-02

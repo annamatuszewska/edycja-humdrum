@@ -3,56 +3,68 @@
 !!!source: DWOK13
 !!!id: 13185
 !!!signature: 1318500000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16a
-16cc
-8a
-8ff
-=2
-16g
-16a
-8b-
-8g
-=3
-16b-
-16dd
-8.cc
-16b-
-=4
-16a
-16cc
-8g
-8f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16a\	Oj
+16cc	i
+8cc	pój-
+8ff	-dę
+=2	=2
+16g	ja
+16a	do
+8b-/	Ku-
+8g	-jaw,
+=3	=3
+16b-	oj
+16dd	bę-
+8.cc	-de
+16b-	hu-
+=4	=4
+16a\	-lał
+16cc	da
+8g	hu-
+8f}	-lał,
 !!LO:LB:g=esac
-=5
-{16c
-16e
-8.e
-16g
-=6
-16a
-16a
-8b-
-8g
-=7
-16b-
-16dd
-8.cc
-16b-
-=8
-16a
-16cc
-8g
-8f}
-==
-*-
+=5	=5
+{16c	poj-
+16e	-mę
+8.e	so-
+16g	-bie
+=6	=6
+16a	Ku-
+16a	-ja-
+8b-	-wiankę,
+8g	.
+=7	=7
+16b-	gdyby
+16dd	.
+8.cc	ją
+16b-	u-
+=8	=8
+16a\	-lał,
+8b-q	.
+16cc	da
+8g	u-
+8f}	-lał.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oj i pójdę ja do Kujaw,
+!!oj będe hulał da hulał,
+!!pojmę sobie Kujawiankę,
+!!gdyby ją ulał, da ulał.
+!!@@END: VERSES
+!!!role-singer: Complex
+!!!role-listener: Complex
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=121 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 97} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 97}
 !!!page: 97
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-02
