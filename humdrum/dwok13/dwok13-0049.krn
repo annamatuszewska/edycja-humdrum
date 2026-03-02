@@ -3,93 +3,122 @@
 !!!source: DWOK13
 !!!id: 13049
 !!!signature: 1304900000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{8.a
-16cc
-16b
-16cc
-=2
-16dd
-16cc
-8b-
-8a
-=3
-16g
-16g
-8g
-16g
-16a
-=4
-4f}
-8r
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Kujawiak.	!
+{8.a	O
+16cc	wi-
+16b	-tajże,
+16cc	.
+=2	=2
+16dd	jak
+16cc	się
+8b-X	miewasz
+8a	.
+=3	=3
+16g	Kasiu
+16g	.
+8g	je-
+16gL	-dy-
+16aJ	.
+=4	=4
+4f}	-na,
+8r	.
 !!LO:LB:g=esac
-=5
-{8.a
-16cc
-16b
-16cc
-=6
-16dd
-16cc
-8b-
-8a
-=7
-16g
-16g
-8g
-16g
-16a
-=8
-4f}
-8r
+=5	=5
+{8.a	czy
+16cc	ty
+16b	sobie
+16cc	.
+=6	=6
+16dd	przypominasz
+16cc	.
+8b-X	.
+8a	.
+=7	=7
+16g	twego
+16g	.
+8g	Marci-
+16gL	.
+16aJ	.
+=8	=8
+4f}	-na.
+8r	.
 !!LO:LB:g=esac
-=9
-{16g
-16g
-8a
-8g
-=10
-16cc
-16cc
-8b
-8cc
-=11
-16dd
-16b-
-8dd
-16dd
-16ee
-=12
-4.cc}
+=9	=9
+{16g	Co
+16g	to
+8a	u
+8g	was
+=10	=10
+16cc	raz
+16cc	na
+8b	wieńcu
+8cc	.
+=11	=11
+16dd	z_tobą
+16b-	.
+8dd	wywi-
+16ddL	.
+16eeJ	.
+=12	=12
+4.cc}	-jał,
 !!LO:LB:g=esac
-=13
-{16g
-16g
-8a
-8g
-=14
-16cc
-16cc
-8b
-8cc
-=15
-16dd
-16dd
-8dd
-16dd
-16ee
-=16
-4.cc}
-==
-*-
+=13	=13
+{16g	i
+16g	od
+8a	rana
+8g	.
+=14	=14
+16cc	do
+16cc	wieczora
+8b	.
+8cc	.
+=15	=15
+16dd/L	twe
+16dd/J	zdrowie
+8dd	.
+16ddL	pi-
+16eeJ	.
+=16	=16
+4.cc}	-jał.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. O witajże  jak się miewasz Kasiu jedyna?
+!!czy ty sobie przypominasz twego Marcina.
+!!Co to u was raz na wieńcu z tobą wywijał,
+!!i od rana do wieczora twe zdrowie pijał.
+!!@VERSE:
+!!2. Już ja nigdy nie zapomnę
+!!tych twoich słówek,
+!!chociaż nie wiem co to papiór
+!!ani ołówek.
+!!Ino sobie zakarbuję
+!!w sercu o tobie,
+!!że cię nigdy nie zapomnę,
+!!nawet ni w grobie.
+!!(vel: Moja Kasiu, moje życie,
+!!tylko mi nie becz,
+!!czas rozumieć, czas już przécie,
+!!ćpić frasunek precz).
+!!Zerknij oczkiem, podéjdź skoczkiem
+!!i rzuć się śmiele,
+!!do nóg ojcu, do nóg matce,
+!!— i już wesele.
+!!@@END: VERSES
+!!!role-singer: 
+!!!role-listener: 
+!!!singer-sex: 
 !!!ONB: Kujawiak
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=53 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 29} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 29}
 !!!page: 29
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-11

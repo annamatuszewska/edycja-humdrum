@@ -3,109 +3,124 @@
 !!!source: DWOK13
 !!!id: 13065
 !!!signature: 1306500000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16f
-16f
-8e
-8f
-=2
-16g
-16g
-8f#
-8g
-=3
-16b-
-16b-
-8dd
-8dd
-=4
-4cc}
-8r
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16f	Dobra
+16f	.
+8e	Basiu,
+8f	.
+=2	=2
+16g	piękna
+16g	.
+8f#	Basiu,
+8g	.
+=3	=3
+16b-	rączek
+16b-	.
+8dd	swych
+8dd	nie
+=4	=4
+4cc}	łam,
+8r	.
 !!LO:LB:g=esac
-=5
-{16a
-16a
-8g
-8f
-=6
-16e
-16e
-8g
-8b-
-=7
-16dd
-16dd
-8cc
-8e
-=8
-4f}
-8r
+=5	=5
+{16a	bo
+16a	o
+8g	Stasiu,
+8f	.
+=6	=6
+16e	twoim
+16e	.
+8g	Stasiu
+8b-	.
+=7	=7
+16dd	dobre
+16dd	.
+8cc	wieści
+8e	.
+=8	=8
+4f}	mam.
+8r	.
 !!LO:LB:g=esac
-=9
-{16g
-16g
-8a
-8g
-=10
-16g
-16g
-8cc
-8cc
-=11
-16b
-16b
-8a
-8b
-=12
-4cc}
-8r
+=9	=9
+{16g	Poszli
+16g	.
+8a	nasi
+8g	.
+=10	=10
+16g\	do
+16g\	Szkalmierza,
+8cc	.
+8cc	.
+=11	=11
+16b	przedać
+16b	.
+8a\	co
+8b	Bóg
+=12	=12
+4cc}	dał,
+8r	.
 !!LO:LB:g=esac
-=13
-{16a
-16a
-8g
-8f
-=14
-16e
-16e
-8g
-8b-
-=15
-16dd
-16dd
-8cc
-8e
-=16
-4f}
-8r
+=13	=13
+{16a	i
+16a	słyszeli
+8g	.
+8f	.
+=14	=14
+16e	od
+16e	żołnierza,
+8g	.
+8b-	.
+=15	=15
+16dd	że
+16dd	Staś
+8cc	już
+8e	krzyz
+=16	=16
+4f}	miał.
+8r	.
 !!LO:LB:g=esac
-=17
-{16g
-16g
-8a
-8g
-=18
-16ee
-16ee
-8cc
-8cc
-=19
-16b
-16dd
-8ff
-8b
-=20
-4cc}
-8r
-==
-*-
+=17	=17
+{16g	i
+16g	słyszeli
+8a	.
+8g	.
+=18	=18
+16ee/	od
+16ee/	żołnierza,
+8cc	.
+8cc	.
+=19	=19
+16b/L	że
+16dd/J	Staś
+8ff/L	krzyż
+8b/J	już
+=20	=20
+4cc}	miał.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Dobra Basiu, piękna Basiu,
+!!rączek swych nie łam,
+!!bo o Stasiu, twoim Stasiu
+!!dobre wieści mam.
+!!Poszli nasi do Szkalmierza,
+!!przedać co Bóg dał,
+!!i słyszeli od żołnierza,
+!!że Staś już krzyż miał.
+!!@@END: VERSES
+!!!role-singer: Bride
+!!!role-listener: Bridegroom
+!!!singer-sex: complex
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=62 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 38} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 38}
 !!!page: 38
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-11

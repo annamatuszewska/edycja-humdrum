@@ -3,101 +3,115 @@
 !!!source: DWOK13
 !!!id: 13071
 !!!signature: 1307100001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-{8dd
-=1
-8.ee
-16dd
-16.cc
-32a
-=2
-8.g
-16b
-16.a
-32g
-=3
-8.f#
-16ee
-16.dd
-32cc
-=4
-16b
-16gg
-8r
-8dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+!LO:TX:a:t=Mazur.	!
+{8dd	Ach!
+=1	=1
+8.ee	Niechże
+16dd	.
+16.cc	ja
+32a	le-
+=2	=2
+8.g	-piéj
+16b/	nie
+16.a	żyję
+32g	.
+=3	=3
+8.f#	dziewcze
+16ee	.
+16.dd	skarby
+32cc	.
+=4	=4
+16b	moje-
+16gg	.
+8r	.
+8dd}	ach
 !!LO:LB:g=esac
-=5
-{8.ee
-16dd
-16cc
-16a
-=6
-8.g
-16b
-16.a
-32g
-=7
-8.f#
-16ee
-16.dd
-32f#
-=8
-8g
-16r
-16dd
-16.ee
-32ff#}
+=5	=5
+{8.ee	jeźli
+16dd	.
+16cc	kiedy
+16a	.
+=6	=6
+8.g\	oczka
+16b	.
+16.a\	czyje
+32g\	.
+=7	=7
+8.f#	milsze
+16ee	.
+16.dd	mi
+32f#	nad
+=8	=8
+8g\	twoje. -
+16r	.
+16dd	.
+16.eeL	- Ach!
+32ff#}J	.
 !!LO:LB:g=esac
-=9
-{8.gg
-16b
-16.ee
-32dd
-=10
-8.cc
-16d
-16.f#
-32a
-=11
-8.cc
-16ee
-16.dd
-32cc
-=12
-16a#
-16b
-16r
-16dd
-16.ee
-32ff#}
+=9	=9
+{8.gg	Patrzajże
+16b	.
+16.ee	.
+32dd	mi
+=10	=10
+8.cc	prosto
+16d	.
+16.f#	w_oczy
+32a	.
+=11	=11
+8.cc	bo
+16ee	Bóg
+16.dd	widzi
+32cc	.
+=12	=12
+16a#\	w_niebie,
+16b	.
+16r	.
+16dd	.
+16.eeL	ach
+32ff#}J	.
 !!LO:LB:g=esac
-=13
-{8.gg
-16b
-16.ee
-32dd
-=14
-8.cc
-16d
-16.f#
-32a
-=15
-8.cc
-16ee
-16.dd
-32f#
-=16
-8g}
-8r
-==
-*-
+=13	=13
+{8.gg	że
+16b	mi
+16.ee	ledwie
+32dd	.
+=14	=14
+8.cc	nie
+16d	wyskoczy
+16.f#	.
+32a	.
+=15	=15
+8.cc	serduszko
+16ee	.
+16.dd	.
+32f#	do
+=16	=16
+8g\}	ciebie.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Ach! Niechże ja lepiéj nie żyję
+!!dziewcze skarby moje
+!!ach jeźli kiedy oczka czyje 
+!!milsze mi nad twoje. — Ach!
+!!Patrzajże mi prosto w oczy bo Bóg widzi w niebie, 
+!!ach że mi ledwie nie wyskoczy serduszko do ciebie.	
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: male
 !!!ONB: zapis z przedtaktem
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=65 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 41-42} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, pp. 41-42}
 !!!page: 41-42
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-12

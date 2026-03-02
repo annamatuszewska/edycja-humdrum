@@ -3,62 +3,80 @@
 !!!source: DWOK13
 !!!id: 13072
 !!!signature: 1307200000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M6/8
-{8f
-=1
-4a
-8a
-8a
-8g
-8f
-=2
-4cc
-8b-
-8g
-8r
-8c
-=3
-4b-
-8b-
-8b-
-8a
-8g
-=4
-4dd
-8cc
-8cc
-8r
-8cc}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M6/8	*
+{8f	Na-
+=1	=1
+4a	-dziejo
+8a	.
+8a	nasza
+8g	.
+8f	na-
+=2	=2
+(4cc	-dzie-
+8b-)	.
+8g	-jo,
+8r	.
+8c	naj-
+=3	=3
+4b-	-większe
+8b-	.
+8b-	dobro
+8a	.
+8g	czło-
+=4	=4
+(4dd	-wie-
+8cc)	.
+8cc	-ka,
+8r	.
+8cc}	gdy
 !!LO:LB:g=esac
-=5
-{4ff
-8ff
-8gg
-8ff
-8ee
-=6
-4.ee
-8dd
-8r
-8cc
-=7
-4ee
-8dd
-8cc
-8b-
-8e
-=8
-4.g
-8f}
-8r
-==
-*-
+=5	=5
+{4ff	wejdziesz,
+8ff	.
+8gg	troski
+8ff	.
+8ee	ni-
+=6	=6
+4.ee	-szczeją,
+8dd	.
+8r	.
+8cc	gdy
+=7	=7
+4ee	znikniesz,
+8dd	.
+8ccL	rozkosz
+8b-J	.
+8e	u-
+=8	=8
+4.g	cieka.
+8f}	.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Nadziejo nasza nadziejo,
+!!największe dobro człowieka,
+!!gdy wejdziesz,
+!!troski niszczeją,
+!!gdy znikniesz,
+!!rozkosz ucieka.
+!!@VERSE:
+!!2. W boleściach, klęskach, potrzebie,
+!!moc twoja cierpienia skraca,
+!!Bóg udręczonym przez ciebie,
+!!swobodę i szczęście wraca.
+!!@@END: VERSES
+!!!role-singer: Complex
+!!!role-listener: Complex
+!!!singer-sex: complex
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=66 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 42} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 42}
 !!!page: 42
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-13

@@ -3,92 +3,208 @@
 !!!source: DWOK13
 !!!id: 13093
 !!!signature: 1309300000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M2/4
-=1
-{8cc
-8cc
-8b-
-8g
-=2
-8f
-8f
-8a
-8f
-=3
-8e
-8e
-8g
-8e
-=4
-8f
-8g
-8a
-8b-}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M2/4	*
+=1	=1
+!LO:TX:a:t=Furman.	!
+{8cc	Wszystkich
+8ddq	.
+8cc	.
+8b-	dziś
+8g	cie-
+=2	=2
+8f	-ka-
+8f	-wość
+8a	budzi,
+8f	.
+=3	=3
+8e	kto
+8e	jest
+8g	naj-
+8e	-szczę-
+=4	=4
+8f	-śliwszy
+8g	.
+8a	z_lu-
+8b-}	-dzi,
 !!LO:LB:g=esac
-=5
-{8cc
-8cc
-8b-
-8g
-=6
-8f
-8f
-8a
-8f
-=7
-8e
-8e
-8g
-8e
-=8
-8f
-8g
-8a
-8b-}
+=5	=5
+{8cc	a
+8ddq	.
+8cc	ja
+8b-	mówię
+8g	.
+=6	=6
+8f	że
+8f	nad
+8a	pa-
+8f	-na,
+=7	=7
+8e	szczęśliwszym
+8e	.
+8g	.
+8e	jest
+=8	=8
+8f	stan
+8g	fur-
+8a	-ma-
+8b-}	-na.
 !!LO:LB:g=esac
-=9
-{4cc
-8b-
-8e
-=10
-8f
-8f
-4a
-=11
-8e
-8e
-8g
-8e
-=12
-8f
-8g
-8a
-8b-}
+=9	=9
+{4cc	Het
+8b-L	wio,
+8eJ	.
+=10	=10
+8f	het-
+8f	-ta
+4a	wio,
+=11	=11
+8e	krzyczy
+8e	.
+8g	sta-
+8e	-ry
+=12	=12
+8f	si-
+8g	-wy,
+8a	ja-
+8b-}	-ry
 !!LO:LB:g=esac
-=13
-{4cc
-8b-
-8e
-=14
-8f
-8f
-4a
-=15
-8e
-8e
-8g
-8e
-=16
-2f}
-==
-*-
+=13	=13
+{4cc	wio
+8b-L	wio,
+8eJ	.
+=14	=14
+8f	het-
+8f	-ta
+4a	wio,
+=15	=15
+8e	het-
+8e	-ta
+8g	het-
+8e	-ta
+=16	=16
+2f}	brr!
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Wszystkich dziś ciekawość budzi,
+!!kto jest najszczęśliwszy z ludzi,
+!!a ja mówię że nad pana,
+!!szczęśliwszym jest stan furmana.
+!!Het wio, hetta wio,
+!!krzyczy stary, siwy, jary
+!!wio wio, hetta wio,
+!!hetta hetta brr!
+!!2.Biczyk śmigły, wozik kuty,
+!!konik dzielny, chomąt suty;
+!!a dziegciu pełna mażnica —
+!!niémasz to jak pan woźnica!
+!!Het wio, hetta wio!
+!!krzyczy stary, siwy, jary,
+!!wio wio, hetta wio!
+!!hetta, hetta brr!
+!!@VERSE:
+!!3. Czy to z góry, czy pod górę,
+!!zawsze ciągną cztery kare,
+!!a który ma złą naturę,
+!!to go biczem wnet pod skórę.
+!!Het wio i t d.
+!!@VERSE:
+!!4. Gdy wiozę panienki młode,
+!!spoglądam na ich urodę,
+!!nie mieniam się z żadnym panem
+!!wolę sobie być furmanem.
+!!Het wio i t. d.
+!!@VERSE:
+!!5. Gdy jadę z panem w konkury
+!!do jakiéj ładniuchnéj damy,
+!!i ja biorę się do któréj,
+!!tak obaj kochanki mamy.
+!!Het wio i t. d.
+!!@VERSE:
+!!6. Gdy z kozła kieruję konie,
+!!jestem sobie król na tronie,
+!!tam gdzie zechcę szkapy idą,
+!!czy to koczem, czy to bidą.
+!!Het wio i t. d.
+!!@VERSE:
+!!7. Tylko jedna ta różnica,
+!!że sprawiedliwszy woźnica;
+!!choć na konia jarzmo wkłada,
+!!jednak nim sumiennie włada.
+!!Het wio i t. d.
+!!@VERSE:
+!!8. Gdyby mię królem zrobiono,
+!!z kozła na tron posadzono,
+!!ogół królów bym zawstydził,
+!!bobym nieprawość wyśledził.
+!!Het wio i t. d.
+!!@VERSE:
+!!9. Wszystkich co krew braci ssają,
+!!i co ludzkości nie znają,
+!!wrogów, pobrałbym na furę
+!!i wywrócił w jaką dziurę.
+!!Het wio i t. d.
+!!@VERSE:
+!!10. A tego co w zbytkach brodzi,
+!!kogo kraj swój nie obchodzi,
+!!z fornalkami marsz do brony,
+!!niechaj uprawia zagony.
+!!Het wio i t. d.
+!!@VERSE:
+!!11. I paniczów co z herbami
+!!dumnie wzgardzają stanami, —
+!!daléj laleczki, niestety,
+!!marsz do cugu do karety!
+!!Het wio i t. d.
+!!@VERSE:
+!!12. Wynagrodziłbym każdemu,
+!!choćby stanu książęcemu,
+!!bo ja nie wiem co różnica
+!!króla, chłopa lub szlachcica.
+!!Het wio i t. d.
+!!@VERSE:
+!!13. Lecz skoro tak przemoc chciała,
+!!by nas ludzi rozróżniała,
+!!nie opuszczę stan mój luby,
+!!będę szukał w léjcach chluby.
+!!Het wio i t. d.
+!!@VERSE:
+!!14. A tak gdym tylko furmanem,
+!!z mym się muszę zgodzić stanem,
+!!i już nie ludzi strofować,
+!!tylko mych koni pilnować.
+!!Het wio i t. d.
+!!@VERSE:
+!!15. Lecz wy którym rząd oddany,
+!!bierzcie za przykład furmany.
+!!Wam to należy miarkować
+!!jak podwładnemi kierować.
+!!Het wio i t. d.
+!!@VERSE:
+!!16. Teraz już nie będę gadać,
+!!bo trzeba na kozioł siadać,
+!!Stoją konie zaprzężone,
+!!muszę jechać w inną stronę.
+!!Het wio i t. d.
+!!@VERSE:
+!!17. A gdy będziecie mi radzi,
+!!to i wrócić nie zawadzi.
+!!Cmuknę koniom, klasnę z bicza
+!!i wysadzę wam panicza.
+!!Het wio i t. d.
+!!@@END: VERSES
+!!!role-singer: Carter
+!!!role-listener: Group
+!!!singer-sex: male
 !!!ONB: Furman
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=77 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 53} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 53}
 !!!page: 53
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-15

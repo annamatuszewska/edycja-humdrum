@@ -3,47 +3,83 @@
 !!!source: DWOK13
 !!!id: 13087
 !!!signature: 1308700010
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M3/8
-=1
-{8dd
-8.a
-16g
-=2
-16f#
-16a
-4d
-=3
-8e
-8.a
-16g
-=4
-16f#
-16a
-4dd}
+!!!EFL:1308700010/1
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M3/8	*
+=1	=1
+{8dd	Szczę-
+8.a	-śli-
+16g	-we
+=2	=2
+16f#L	ży-
+16aJ	.
+4d	-cie
+=3	=3
+8e	w_pasterskim
+8.a	.
+16g	.
+=4	=4
+16f#L	by-
+16aJ	.
+4dd}	-cie,
 !!LO:LB:g=esac
-=5
-{8dd
-8.a
-16g
-=6
-16f#
-16a
-4d
-=7
-8e
-8.a
-16c#
-=8
-8e
-4d}
-==
-*-
+=5	=5
+{8dd	tam
+8.a	człowiek
+16g	.
+=6	=6
+16f#L	wol-
+16aJ	.
+4d	-ny
+=7	=7
+8e	do
+8.a	pracy
+16c#	.
+=8	=8
+8e	zdol-
+4d}	-ny.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Szczęśliwe życie w pasterskim bycie,
+!!tam człowiek wolny do pracy zdolny.
+!!Z wioseczki dzieweczki
+!!każda swemu rada,
+!!a z miasta niewiasta
+!!za stoma przepada.
+!!@VERSE:
+!!2 Ksiądz na spowiedzi
+!!grzechy wyśledzi;
+!!nakładzie w uszy,
+!!pasterkę kruszy
+!!A w mieście
+!!niewieście
+!!sam sługa Boży,
+!!w swéj celi
+!!najśmieléj
+!!grzéchu przymnoży.
+!!@VERSE:
+!!3. Na wsi za złoty
+!!nie kupi cnoty;
+!!choć wieś uboga,
+!!ale cnota droga.
+!!A z miasta
+!!niewiasta
+!!cnotę sprzedaje;
+!!choć stara
+!!psiawiara
+!!wszystkim gęby daje.
+!!@@END: VERSES
+!!!role-singer: Complex
+!!!role-listener: Complex
+!!!singer-sex: complex
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=110 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 86} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 86}
 !!!page: 86
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-15

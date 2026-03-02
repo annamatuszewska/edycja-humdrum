@@ -3,62 +3,73 @@
 !!!source: DWOK13
 !!!id: 13057
 !!!signature: 1305700000
-**kern
-*clefG2
-*k[]
-*C:
-*M6/8
-=1
-{8cc
-8b
-8cc
-4g
-8g
-=2
-8a
-8a
-8a
-4g
-8g
-=3
-8cc
-8b
-8cc
-4dd
-8ee
-=4
-4ff
-8ee
-4dd}
-8r
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M6/8	*
+=1	=1
+{8cc	Nad
+8b	brzegiem
+8cc	.
+4g	cicho
+8g	.
+=2	=2
+8a	płynącéj
+8a	.
+8a	.
+4g	rzeki,
+8g	.
+=3	=3
+8cc	który
+8b	.
+8cc	był
+4dd	trawą
+8ee	.
+=4	=4
+4ff	odziany,
+8ee	.
+4dd}	.
+8r	.
 !!LO:LB:g=esac
-=5
-{8g
-8ff
-8dd
-4ee
-8cc
-=6
-8b
-8cc
-8a
-4a
-8g
-=7
-8g
-8a
-8b
-4cc
-8dd
-=8
-4ee
-8dd
-4cc}
-8r
-==
-*-
+=5	=5
+{8g	zemdlony
+8ff	.
+8dd	.
+4ee	chciałem
+8cc	.
+=6	=6
+8b	zamknąć
+8cc	.
+8a	powieki,
+4a	.
+8g	.
+=7	=7
+8g	by
+8a	zyskać
+8b/	.
+4cc	pokój
+8dd	.
+=8	=8
+4ee	żądany.
+8dd	.
+4cc}	.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Nad brzegiem cicho płynącéj rzeki,
+!!który był trawą odziany,
+!!zemdlony chciałem zamknąć powieki,
+!!by zyskać pokój żądany.
+!!@@END: VERSES
+!!!role-singer: 
+!!!role-listener: 
+!!!singer-sex: 
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=57 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 33} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 33}
 !!!page: 33
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-11

@@ -3,71 +3,80 @@
 !!!source: DWOK13
 !!!id: 13046
 !!!signature: 1304600000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16a
-8.b
-16cc
-=2
-16dd
-16ee
-8dd
-8b
-=3
-16a
-16f#
-8a
-8cc
-=4
-8b
-4g}
-!!LO:LB:g=esac
-=5
-{16f#
-16e
-8.d
-16f#
-=6
-16g
-16b
-8.dd
-16dd
-=7
-16a
-16f#
-8a
-8cc
-=8
-8b
-4g}
-!!LO:LB:g=esac
-=9
-{16f#
-16e
-8.d
-16f#
-=10
-16g
-16b
-8.dd
-16dd
-=11
-16a
-16f#
-8a
-8cc
-=12
-8b
-4g}
-==
-*-
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Przyszed
+16a	.
+8.b	Jasio
+16cc	.
+=2	=2
+16dd	do
+16ee	Kasiuni
+8dd	.
+8b	.
+=3	=3
+16a	dobranoc
+16f#	.
+8a	.
+8cc	po-
+=4	=4
+8b	-wiedzieć,
+4g}	.
+!!LO:LB:g=esac	.
+=5	=5
+{16f#	a
+16e	o-
+8.d	-na
+16f#	go
+=6	=6
+16g	pięknie
+16b	.
+8.dd	prosi
+16dd	.
+=7	=7
+16a	na
+16f#	łóżecz-
+8a	.
+8cc	-ku
+=8	=8
+8b	siedzieć,
+4g}	.
+!!LO:LB:g=esac	.
+=9	=9
+{16f#	a
+16e	o-
+8.d	-na
+16f#	go
+=10	=10
+16g	pięknie
+16b	.
+8.dd	prosi
+16dd	.
+=11	=11
+16a	na
+16f#	łóżecz-
+8a	.
+8cc	-ku
+=12	=12
+8b	siedzieć.
+4g}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Przyszed Jasio do Kasiuni dobranoc powiedzieć,
+!!a ona go pięknie prosi na łóżeczku siedzieć.
+!!@@END: VERSES
+!!!role-singer: Complex
+!!!role-listener: Complex
+!!!singer-sex: Complex
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=50 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 26} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 26}
 !!!page: 26
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-08

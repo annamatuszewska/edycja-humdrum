@@ -3,75 +3,102 @@
 !!!source: DWOK13
 !!!id: 13063
 !!!signature: 1306300000
-**kern
-*clefG2
-*k[]
-*C:
-*M4/4
-=1
-{4g
-8a
-8b
-4.cc
-8b
-=2
-8a
-8g
-8f
-8e
-4g
-8f}
-8r
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*met(c)	*
+=1	=1
+!LO:TX:a:t=Śpiewana także i na nutę nr 57.	!
+{4g	Góry
+8a	.
+8b/	od
+4.cc	ciebie
+8b	.
+=2	=2
+8a	już
+8g	mnie
+8f	odda-
+8e	.
+4g	-lają,
+8f}	.
+8r	.
 !!LO:LB:g=esac
-=3
-{4f
-8e
-8f
-4.dd
-8cc
-=4
-8b
-8a
-8g
-8f
-4f
-8e}
-8r
+=3	=3
+{4f	wszystkie
+8e	.
+8f	wido-
+4.dd	.
+8cc	-ki
+=4	=4
+8b	smutnemi
+8a	.
+8g	.
+8f	się
+4f	stają,
+8e}	.
+8r	.
 !!LO:LB:g=esac
-=5
-{4e
-8e
-8e
-4.a
-8a
-=6
-8g#
-8b
-8.ee
-16dd
-4dd
-8cc}
-8r
+=5	=5
+{4e	i
+8e	echo
+8e	.
+4.a	tylko
+8a	.
+=6	=6
+8g#	powtarza
+8b	.
+8.ee	.
+16dd	te
+4dd	słowa,
+8cc}	.
+8r	.
 !!LO:LB:g=esac
-=7
-{4g
-8.cc
-16dd
-4.ee
-8e
-=8
-8a
-8g
-8f
-8d
-4d
-8c}
-8r
-==
-*-
+=7	=7
+{4gn	bywaj
+8.cc	.
+16dd	mi
+4.ee	bywaj
+8e\	.
+=8	=8
+8a	moja
+8g	.
+8f	luba
+8d	.
+4d	zdrowa.
+8c}	.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Góry od ciebie już mnie oddalają,
+!!wszystkie widoki smutnemi się stają,
+!!i echo tylko powtarza te słowa,
+!!bywaj mi bywaj moja luba zdrowa.
+!!@VERSE:
+!!2. Gdy pram po wodzie unosić mnie będzie,
+!!twa luba postać obecna mi wszędzie.
+!!A wiatr po falach uniesie te słowa:
+!!bywaj mi, bywąj moja luba zdrowa!
+!!@VERSE:
+!!3. Na tamtéj stronie, gdy nad brzegiem stanę,
+!!i spojrzę jeszcze w te strony kochane,
+!!poraz ostatni powtórzę (v. usłyszysz) te słowa:
+!!bywaj mi, bywaj, moja luba zdrowa!
+!!@VERSE:
+!!4. Gdy wieść cię dojdzie, że ja już nie żyję,
+!!i garstka ziemi zwłoki me pokryje,
+!!już nie usłyszysz więcéj tego słowa:
+!!bywaj mi, bywaj moja luba zdrowa!
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: male
 !!!ONB: Adnotacja: Śpiewana także i na nutę nr 57. Wariant t. 7: 5__+1_.+2+3__.5_
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=61 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 37} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 37}
 !!!page: 37
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-11

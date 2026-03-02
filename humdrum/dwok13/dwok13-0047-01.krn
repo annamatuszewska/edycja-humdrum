@@ -3,87 +3,136 @@
 !!!source: DWOK13
 !!!id: 13047
 !!!signature: 1304700001
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{8.cc
-16g
-16cc
-16g
-=2
-16cc
-16cc
-8ee
-8gg
-=3
-8.gg
-16ee
-16dd
-16ff#
-=4
-4gg}
-8r
-!!LO:LB:g=esac
-=5
-{8.cc
-16g
-16cc
-16g
-=6
-16cc
-16cc
-8ee
-8gg
-=7
-8.ff
-16ee
-16dd
-16ee
-=8
-4cc}
-8r
-!!LO:LB:g=esac
-=9
-{8ff
-4aa
-=10
-16gg
-16ee
-4cc
-=11
-8dd
-16dd
-16g
-16dd
-16g
-=12
-16cc
-16cc
-8ee
-8gg}
-!!LO:LB:g=esac
-=13
-{8ff
-4aa
-=14
-16gg
-16ee
-4cc
-=15
-16dd
-16ee
-8dd
-16g
-16dd
-=16
-4.cc}
-==
-*-
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{8.cc	Ty
+16g	ze
+16cc	mnie
+16g	szy-
+=2	=2
+16cc	-dzisz
+16cc	dziewucho,
+8ee	.
+8gg	.
+=3	=3
+8.gg	ty
+16ee	ze
+16dd	mnie
+16ff#	szy-
+=4	=4
+4gg}	-dzisz,
+8r	.
+!!LO:LB:g=esac	.
+=5	=5
+{8.cc	ty
+16g	mnie
+16cc	tylko
+16g	.
+=6	=6
+16cc	wtedy
+16cc	.
+8ee	kochasz
+8gg	.
+=7	=7
+8.ff	kiedy
+16ee	.
+16dd	mnie
+16ee	wi-
+=8	=8
+4cc}	-dzisz.
+8r	.
+!!LO:LB:g=esac	.
+=9	=9
+{8ff	Hop
+4aa	hop
+=10	=10
+16gg	da
+16ee	dana.
+4cc	.
+=11	=11
+8dd	kiedy
+16ddL	.
+16g\J	mnie
+16dd\L	.
+16gJ	wi-
+=12	=12
+16cc	-dzisz
+16cc	da
+8ee	dana
+8gg}	.
+!!LO:LB:g=esac	.
+=13	=13
+{8ff	hop
+4aa	hop
+=14	=14
+16gg	da
+16ee	dana
+4cc	.
+=15	=15
+16dd	kiedy
+16ee	.
+8dd	mnie
+(16g	wi-
+16dd)	.
+=16	=16
+4.cc}	-dzisz.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Ty ze mnie szydzisz dziewucho, 
+!!ty ze mnie szydzisz,
+!!ty mnie tylko wtedy kochasz 
+!!kiedy mnie widzisz,
+!!Hop hop da dana,
+!!kiedy mnie widzisz
+!!da dana hop hop
+!!da dana kiedy mnie widzisz.
+!!@VERSE:
+!!2. Ja z cię nie szydzę, chłopaku, 
+!!ja z cię nie szydzę, 
+!!bo cię także wtenczas kocham, 
+!!choć cię nie widzę. 
+!!Hop hop i t. d. 
+!!@VERSE:
+!!3. Ty będziesz moją, dziewulo, 
+!!ty będziesz moją, 
+!!jéno mi się przesieweczki 
+!!w polu dostoją. 
+!!Hop i t. d. 
+!!@VERSE:
+!!4. Przesieweczki z pola sprzątnę, 
+!!wezmę, wymłócę, 
+!!i zaniosę na zapowiedź, 
+!!do domu wrócę.
+!!@VERSE:
+!!5. Dam bitego (v. jedną czwartą) 
+!!organiście, 
+!!aby wlazł na chór, 
+!!i zaśpiewał uroczyście: 
+!!veni Creatór! 
+!!@VERSE:
+!!6. Sprzedam cielę na jarmarku! 
+!!za cztéry bite, — 
+!!wyszykuję weselisko 
+!!dla nas obfite. 
+!!Hop i t. d. 
+!!@VERSE:
+!!7. A to wszystko dla cię Kasiu, 
+!!dla cię jedyna, 
+!!boś tylko jedna na świecie 
+!!ma ulubiona.
+!!@@END: VERSES
+!!!role-singer: Lover, mistress
+!!!role-listener: Lover, mistress
+!!!singer-sex: male, female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=50 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 26-27} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, pp. 26-27}
 !!!page: 26-27
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-09

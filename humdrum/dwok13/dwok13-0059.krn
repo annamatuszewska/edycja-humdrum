@@ -3,172 +3,217 @@
 !!!source: DWOK13
 !!!id: 13059
 !!!signature: 1305900000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{8c
-8f
-8a
-=2
-16b-
-16b-
-4g
-=3
-8e
-8g
-8b-
-=4
-16dd
-16cc
-4a}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{8c	Dla
+8f	ciebie
+8a	.
+=2	=2
+16b-	żyję
+16b-	.
+4g	ja,
+=3	=3
+8e	dla
+8g	ciebie
+8b-	.
+=4	=4
+16dd	w_oku
+16cc	.
+4a}	łza,
 !!LO:LB:g=esac
-=5
-{16a
-16b-
-8a
-8cc#
-=6
-16dd
-16ee
-4ff
-=7
-16a
-16g
-8ee
-8dd
-=8
-4cc}
-8r
+=5	=5
+{16aL	dla
+16b-J	.
+8a\	ciebie
+8cc#	.
+=6	=6
+16dd	serce
+16ee	.
+4ff	drży,
+=7	=7
+8bq	.
+16a	tyś
+16g	nam
+8ee	szczęściem,
+8dd	.
+=8	=8
+4cc}	ty,
+8r	.
 !!LO:LB:g=esac
-=9
-{8c
-8f
-8a
-=10
-16b-
-16b-
-4g
-=11
-8e
-8g
-8b-
-=12
-16dd
-16cc
-4a}
+=9	=9
+{8c	Dla
+8f	ciebie
+8a	.
+=10	=10
+16b-	żyję
+16b-	.
+4g	ja,
+=11	=11
+8e	dla
+8g	ciebie
+8b-	.
+=12	=12
+16dd	w_oku
+16cc	.
+4a}	łza,
 !!LO:LB:g=esac
-=13
-{16a
-16b-
-8a
-8cc#
-=14
-16dd
-16ee
-4ff
-=15
-16a
-16g
-8ee
-8dd
-=16
-4cc}
-8r
+=13	=13
+{16a\L	dla
+16b-\J	.
+8a\	ciebie
+8cc#	.
+=14	=14
+16dd	serce
+16ee	.
+4ff	drży,
+=15	=15
+8bq	.
+16a	tyś
+16g	nam
+8ee	szczęściem,
+8dd	.
+=16	=16
+4cc}	ty,
+8r	.
 !!LO:LB:g=esac
-=17
-{8cc
-16b
-16cc
-16ff
-16ee
-=18
-16ee
-16dd
-4g
-=19
-16g
-32a
-32b-
-8.dd
-16cc
-=20
-4f}
-8r
+=17	=17
+{8cc	dla
+16bL	ciebie
+16ccJ	.
+16ffL	.
+16eeJ	.
+=18	=18
+16ee	serce
+16dd	.
+4g	drży,
+=19	=19
+16g	tyś
+32aL	nam
+32b-J	szczęściem,
+8.dd	.
+16cc	.
+=20	=20
+4f}	ty.
+8r	.
 !!LO:LB:g=esac
-=21
-{16a
-16b-
-8a
-8dd
-=22
-4ee
-8a
-=23
-16a
-16b-
-8a
-8dd
-=24
-4.ee}
+=21	=21
+{16a\	Na
+16b-	mnie
+8a\	oczy
+8dd	.
+=22	=22
+(4ee	zwróć,
+8a)	.
+=23	=23
+16a	moje
+8ccq	.
+16b-	męki
+8a\	.
+8dd	skróć,
+=24	=24
+4.ee}	.
 !!LO:LB:g=esac
-=25
-{16ff
-16ee
-4dd
-=26
-16ee
-16dd
-4cc
-=27
-16b
-16a
-8g#
-16ff
-16ee
-=28
-4.a}
+=25	=25
+{16ff	słówkiem
+16ee	.
+4dd	choć
+=26	=26
+16ee	jedném
+16dd	.
+4cc	ciesz,
+=27	=27
+16b/	i
+16a	co
+8g#	mówię
+16ffL	.
+16eeJ	.
+=28	=28
+4.a}	wierz.
 !!LO:LB:g=esac
-=29
-{16b-
-16g
-4dd
-=30
-16cc
-16a
-4ff
-=31
-8.ee
-16dd
-16b-
-16g
-=32
-8a
-8f}
-8r
+=29	=29
+{16b-	Słyszę
+16g	.
+4dd	jęk,
+=30	=30
+16cc	słyszę
+16a\	.
+4ff	głos,
+=31	=31
+8.ee	widzę
+16dd	.
+16b-/	bladość
+16g	.
+=32	=32
+(<8a	lic,
+8f)}	.
+8r	.
 !!LO:LB:g=esac
-=33
-{16b-
-16g
-4dd
-=34
-16cc
-16aa
-4ff
-=35
-8.ee
-16dd
-16b-
-16g
-=36
-4f}
-8r
-==
-*-
+=33	=33
+{16b-	czuję
+16g	.
+4dd	twój
+=34	=34
+16cc/L	smutny
+16aaJ	.
+4ff/	los,
+=35	=35
+8.ee	lecz
+16dd	nie
+16b-/	wierzę
+16g	.
+=36	=36
+4f\}	w_nic.
+8r	.
+==	==
+*-	*-
+!!!RDF**kern: <= above
+!!@@BEGIN: VERSES
+!!1. Dla ciebie żyję ja, dla ciebie w oku łza,
+!!dla ciebie serce drży, tyś nam szczęściem, ty,
+!!Dla ciebie żyję ja, dla ciebie w oku łza,
+!!dla ciebie serce drży, tyś nam szczęściem, ty,
+!!dla ciebie serce drży, tyś nam szczęściem, ty.
+!!Na mnie oczy zwróć,
+!!moje męki skróć, słówkiem choć jedném ciesz, i co mówię wierz.
+!!Słyszę jęk, słyszę głos, widzę bladość lic,
+!!czuję twój smutny los, lecz nie wierzę w nic.
+!!2.W twych licach świéci kwiat,
+!!w twe oczy ogień wpadł,
+!!a wszędzie blask i wdzięk,—
+!!ztąd mój cały jęk.
+!!Miej-że litość, miéj
+!!dla mnie w piersi twéj,
+!!słówkiem choć jedném ciesz,
+!!i co mówię, wierz.
+!!Ciebie znam i twój los,
+!!znam bladość twych lic,
+!!słyszę jęk, słyszę głos,
+!!lecz nie wierzę nic.
+!!@VERSE:
+!!3. W twéj duszy dobroć trwa,
+!!twe serce tkliwość zna;
+!!twe cnoty umiem czuć,—
+!!me cierpienia skróć!
+!!Daj nadzieję, daj,
+!!uczuć twych nie taj,
+!!słówkiem choć jedném ciesz,
+!!i co mówię, wierz.
+!!Cnoty twe i twój los,
+!!znam to dobrze, znam;
+!!lecz na twój jęk i głos,
+!!czyliż wierzyć mam?
+!!@@END: VERSES
+!!!role-singer: 
+!!!role-listener: 
+!!!singer-sex: 
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=58 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 34} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 34}
 !!!page: 34
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-11
