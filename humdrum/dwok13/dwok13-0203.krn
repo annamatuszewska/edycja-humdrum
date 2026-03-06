@@ -3,52 +3,69 @@
 !!!source: DWOK13
 !!!id: 13203
 !!!signature: 1320300000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{8cc
-8b
-8a
-=2
-16cc
-16ee
-8dd
-8ee
-=3
-8cc
-8b
-8a
-=4
-16g#
-16b
-8dd
-8a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{8cc	O
+8b	mój
+8a	Bo-
+=2	=2
+16ccL/	-że
+16eeJ/	mój
+8ddL/	Bo-
+8eeJ/	-że
+=3	=3
+8cc	o
+8b	ska-
+8a	-ra-
+=4	=4
+16g#\	-łeś
+16b	mnie
+8dd	marnie,
+8a\}	.
 !!LO:LB:g=esac
-=5
-{8cc
-8b
-8a
-=6
-16e
-16g#
-8b
-8cc
-=7
-8cc
-8b
-8a
-=8
-16e
-16g#
-8b
-8e}
-==
-*-
+=5	=5
+{8cc	o
+8b	ko-
+8a	-go
+=6	=6
+16e	ja
+16g#	nie
+8b/L	kocham,
+8cc/J	.
+=7	=7
+8cc	o
+8b	to
+8a	się
+=8	=8
+16e	do
+16g#	mnie
+8b	gar-
+8e\}	-nie.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. O mój Boże mój Boże
+!!o skarałeś mnie marnie,
+!!o kogo ja nie kocham,
+!!o to się do mnie garnie.
+!!@VERSE:
+!!2. Oj a kogo ja kocham,
+!!da to ode mnie stroni,
+!!oj ni ja z niego męża,
+!!da ni on ze mnie żony.
+!!@@END: VERSES
+!!!role-singer: Single women
+!!!role-listener: Complex
+!!!singer-sex: female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=127 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 103} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 103}
 !!!page: 103
 !!!ONB: Converted on 2024/12/26 with esac2hum
+
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-04

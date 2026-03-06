@@ -3,57 +3,80 @@
 !!!source: DWOK13
 !!!id: 13194
 !!!signature: 1319400000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16g#
-16a
-8cc
-8ee
-=2
-16ff#
-16ff#
-8dd#
-8ee
-=3
-16g#
-16a
-8cc
-8b
-=4
-16b
-16a
-8g#
-8e}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Weselna.	!
+{16g#	Z_tamtéj
+16a	.
+8cc	strony
+8ee	.
+=2	=2
+16ff#	je-
+16ff#	-zio-
+8dd#	-recz-
+8ee	-ka,
+=3	=3
+16g#	ja-
+16a	-dzie
+8cc	Jani-
+8b	.
+=4	=4
+16b	-szek,
+16a\	Ja-
+8g#	-ni-
+8e}	-szek,
 !!LO:LB:g=esac
-=5
-{16g#
-16a
-8.ee
-16b
-=6
-16g#
-16b
-8dd
-8a
-=7
-8cc
-8a
-16b
-16dd
-=8
-16b
-16a
-8g#
-8e}
-==
-*-
+=5	=5
+{16g#	czápka
+16a	.
+8.ee	no-
+16b	-wa
+=6	=6
+16g#	pa-
+16b	-pié-
+8dd	-ro-
+8a	-wa,
+=7	=7
+8bq	.
+8cc	si-
+8a	-wy
+16b	ko-
+16dd	-ni-
+=8	=8
+16b	-szek,
+16a\	ko-
+8g#	-ni-
+8e}	-szek.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Z tamtéj strony jezioreczka,
+!!jadzie Janiszek, Janiszek,
+!!czápka nowa papiérowa,
+!!siwy koniszek, koniszek.
+!!@VERSE:
+!!2. Stoji szklanka koło wianka,
+!!idzie za mąż Kłodziejanka.
+!!A za kogo? — Za onego,
+!!za Jasińka urodnego.
+!!@VERSE:
+!!3. Dziewcze moje, nie wierzę ci,
+!!kupię dzwonki, zawieszę ci.
+!!Jak cię chłopcy będą gonić,
+!!to ci dzwonki będą dzwonić.
+!!@@END: VERSES
+!!!role-singer: Complex
+!!!role-listener: Complex
+!!!singer-sex: Complex
 !!!ONB: Weselna
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=124 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 100} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 100}
 !!!page: 100
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-03

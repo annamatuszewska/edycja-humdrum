@@ -9,35 +9,37 @@
 *C:
 *M3/8
 =1
-{4ee
+!LO:TX:a:t=Sztajer.
+{8ccq
+4ee
 8ee
 =2
-8ee
+8eeL
 8dd
-8cc
+8ccJ
 =3
 4dd
 8dd
 =4
-8dd
+8ddL
 8b
-8g}
+8g\J}
 !!LO:LB:g=esac
 =5
-{8cc
+{8ccL
 8ee
-8ee
+8eeJ
 =6
-8ee
+8eeL
 8dd
-8cc
+8ccJ
 =7
-16ee
+16eeL
 16ff
 16gg
-16ff
-16dd
-16b
+16ffJ
+16ddL
+16bJ
 =8
 4.cc}
 ==
@@ -48,3 +50,5 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=129 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 105} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 105}
 !!!page: 105
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-04

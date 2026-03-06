@@ -3,58 +3,72 @@
 !!!source: DWOK13
 !!!id: 13214
 !!!signature: 1321400010
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16dd
-16dd
-8ee
-16ff
-16ee
-=
-24dd
-24ee
-24dd
-8cc
-16ee
-16cc
-=2
-8g
-4cc
-=3
-8g
-8e
-8b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16dd/L	Oj
+16dd/J	.
+8ee/	poznać
+16ff/L	.
+16ee/J	.
+=	=
+24dd/L	to
+24ee/J	.
+24dd/	dziewu-
+8cc/	.
+16ee/L	-lę,
+16cc/J	.
+=2	=2
+8g\	która
+4cc	poćci-
+=3	=3
+8g\L	-wa,
+8e\J	poćci-
+8b}	-wa,
 !!LO:LB:g=esac
-=4
-{16b
-16b
-8a
-16f#
-16d
-=5
-16f#
-16a
-8cc
-16ee
-16cc
-=6
-8g
-4d
-=7
-16f#
-16a
-8cc
-16b
-16g}
-==
-*-
+=4	=4
+{16b/	kiedy
+16b/	.
+8a	i-
+16f#L	-dzie
+16dJ	.
+=5	=5
+16f#	z_karczmy
+16a\	.
+8cc/L	do
+16ee/	dom
+16cc/J	.
+=6	=6
+8g\	chusteczką
+4d\	ki-
+=7	=7
+16f#	-wa,
+16a\	da
+8cc	ki-
+16bL	-wa.
+16gJ}\	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj poznać to dziewulę,
+!!która poćciwa, poćciwa,
+!!kiedy idzie z karczmy do dom
+!!chusteczką kiwa, da kiwa.
+!!@VERSE:
+!!2. Oj i poznać ci to taką,
+!!co jest niecnota, niecnota;
+!!bo jak idzie z karczmy do dom
+!!podpiera płota, da płota.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!ONB: Partia wokalna
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=131 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 107} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 107}
 !!!page: 107
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-05

@@ -3,109 +3,126 @@
 !!!source: DWOK13
 !!!id: 13196
 !!!signature: 1319600000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8b
-8cc
-4ee
-4ff
-=2
-8gg
-8gg
-4ff
-8aa
-8ff
-=3
-4dd
-4cc
-8b
-8g
-=4
-8b
-8cc
-8ee
-8ff
-4dd}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8b	Ty
+8cc	ko-
+4ee	-ni-
+4ff	-ku
+=2	=2
+8gg	śro-
+8gg	-no-
+4ff	-wa-
+8aaL	-ty,
+8ffJ	.
+=3	=3
+4dd	nie
+4cc	za-
+8b	-jeżdżaj
+8g	.
+=4	=4
+8b	do
+8cc	bo-
+8eeL	-ga-
+8ffJ	.
+4dd}/	-ty,
 !!LO:LB:g=esac
-=5
-{8b
-8cc
-4ee
-4g
-=6
-4cc
-4dd
-4g
-=7
-8ff
-8ee
-4cc
-4b
-=8
-8b
-8cc
-8ee
-8ff
-4dd}
+=5	=5
+{8b	i-
+8cc	-no
+4ee	za-
+4g	-jedź
+=6	=6
+4cc	do
+4dd	u-
+4g	-bo-gij,
+=7	=7
+8ff	do
+8ee	ładniuśki,
+4cc	.
+4b	.
+=8	=8
+8b	do
+8cc	chę-
+8eeL	-do-
+8ffJ	.
+4dd}/	-gij.
 !!LO:LB:g=esac
-=9
-{8b
-8cc
-4ee
-4ff
-=
-8gg
-8gg
-4ff
-12aa
-12gg
-12ff
-=10
-4dd
-8b
-8cc
-8b
-8g
-=
-8b
-8cc
-12ee
-12gg
-12ff
-4dd}
+=9	=9
+{8b	Ty
+8cc	ko-
+4ee	-ni-
+4ff	-ku
+=	=
+*Xtuplet	*
+8gg	śro-
+8gg	-no-
+4ff	-wa-
+12aa/L	-ty,
+12gg/	.
+12ff/J	.
+=10	=10
+4dd	nie
+8b/L	za-
+8cc/J	.
+8b	-jeżdżaj
+8g	.
+=	=
+8b	do
+8cc	bo-
+12ee/L	-ga-
+12gg/	.
+12ff/J	.
+4dd}/	-ty,
 !!LO:LB:g=esac
-=11
-{8b
-8cc
-4ee
-4b
-=12
-8cc
-8cc
-8dd
-8b
-4g
-=13
-8ff
-8ee
-4cc
-8b
-8g
-=
-8b
-8cc
-12ee
-12gg
-12ff
-4dd}
-==
-*-
+=11	=11
+{8b	i-
+8cc	-no
+4ee/	za-
+4b/	-jedź
+=12	=12
+8cc/L	do
+8cc/J	.
+8dd/L	u-
+8b/J	-bo-
+4g	-gij,
+=13	=13
+8ff	do
+8ee	ładniuśki,
+4cc	.
+8b/L	.
+8gJ	.
+=	=
+8b	do
+8cc	chę-
+12ee/L	-do-
+12gg/	.
+12ff/J	.
+4dd}/	-gij.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Ty koniku śronowaty,
+!!nie zajeżdżaj do bogaty,
+!!ino zajedź do ubogij,
+!!do ładniuśki, do chędogij.
+!!@VERSE:
+!!2. Bo uboga Boga prosi,
+!!a bogata pysk podnosi,
+!!ta uboga wyćwiczona,
+!!ta bogata rozpieszczona.
+!!@@END: VERSES
+!!!role-singer: Complex
+!!!role-listener: Single man
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=125 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 101} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 101}
 !!!page: 101
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-03

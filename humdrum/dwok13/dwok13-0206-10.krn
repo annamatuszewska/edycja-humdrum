@@ -3,140 +3,160 @@
 !!!source: DWOK13
 !!!id: 13206
 !!!signature: 1320600010
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{8cc
-8cc
-8cc
-=2
-16g
-16b
-8dd
-8ff
-=3
-8cc
-8cc
-8cc
-=4
-16g
-16b
-8dd
-8cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{8cc	Bę-
+8cc	-dziesz
+8cc	płaka-
+=2	=2
+16g	-ła
+16b/	dzie-
+8dd	-wu-
+8ff	-lo,
+=3	=3
+8cc	bę-
+8cc	-dziesz
+8cc	płaka-
+=4	=4
+16g	-ła,
+16b	płaka-
+8dd	.
+8cc}	-ła,
 !!LO:LB:g=esac
-=5
-{16ee
-16cc
-8ee
-8gg
-=6
-16gg
-16gg
-8.aa
-16ff
-=7
-16ee
-16cc
-8ee
-8gg
-=8
-16gg
-16gg
-8.aa
-16ff}
+=5	=5
+{16ee	i-
+16cc	-no
+8ee	zajdziesz
+8gg	.
+=6	=6
+16gg	na
+8ff#q	.
+16gg	to
+8.aa	miej-
+16ff	-sce
+=7	=7
+16ee	i-
+16cc	-no
+8ee	zajdziesz
+8gg	.
+=8	=8
+16gg	na
+8ff#q	.
+16gg	to
+8.aa	miej-
+16ff}	-sce
 !!LO:LB:g=esac
-=9
-{16ee
-16cc
-8ee
-8gg
-=10
-16g
-16b
-8dd
-8cc
-=11
-16ee
-16cc
-8ee
-8gg
-=12
-16g
-16b
-8dd
-8ff}
+=9	=9
+{16ee	gdzieś
+16cc	wianek
+8ee	.
+8gg	dzia-
+=10	=10
+16g	-ła,
+16b	da
+8dd	działa.
+8cc	.
+=11	=11
+16ee	gdzieś
+16cc	wianek
+8ee	.
+8gg	dzia-
+=12	=12
+16g	-ła,
+16b	da
+8dd/L	działa.
+8ff/J}	.
 !!LO:LB:g=esac
-=13
-{8ee
-8ee
-16ee
-16gg
-=14
-16g
-16b
-8dd
-8ff
-=15
-8ee
-16ee
-16g
-16ee
-16gg
-=16
-16g
-16b
-8dd
-8cc}
+=13	=13
+{8ee	I
+8ee	ty
+16ee/L	będziesz
+16gg/J	.
+=14	=14
+16g	mój
+16b/	chło-
+8dd	-pa-
+8ff	-ku,
+=15	=15
+8ee	i
+16eeL	ty
+16g/J	.
+16ee/L	będziesz
+16gg/J	.
+=16	=16
+16g	wuł
+16b	da
+8dd	i
+8cc}	wuł,
 !!LO:LB:g=esac
-=17
-{16ee
-16cc
-8ee
-8gg
-=18
-16gg
-16gg
-8.aa
-16ff
-=19
-16ee
-16cc
-8ee
-8gg
-=20
-16gg
-16gg
-8.aa
-16ff}
+=17	=17
+{16ee	i-
+16cc	-no
+8ee	zajdziesz
+8gg	.
+=18	=18
+16gg	na
+8ff#q	.
+16gg	to
+8.aa	miej-
+16ff	-sce
+=19	=19
+16ee	i-
+16cc	-no
+8ee	zajdziesz
+8gg	.
+=20	=20
+16gg	na
+8ff#q	.
+16gg	to
+8.aa	miej-
+16ff}	-sce
 !!LO:LB:g=esac
-=21
-{16ee
-16cc
-8ee
-8gg
-=22
-16g
-16b
-8dd
-8cc
-=23
-16ee
-16cc
-8ee
-8gg
-=24
-16g
-16b
-8dd
-8ff}
-==
-*-
+=21	=21
+{16ee	gdzieś
+16cc	mi
+8ee	wia-
+8gg	-nek
+=22	=22
+16g	wzión,
+16b	da
+8dd	i
+8cc	wzión
+=23	=23
+16ee	gdzieś
+16cc	mi
+8ee	wia-
+8gg	-nek
+=24	=24
+16g	wzión,
+16b	da
+8ddL/	i
+8ffJ/}	wzión.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Będziesz płakała dziewulo,
+!!będziesz płakała, płakała,
+!!ino zajdziesz na to miejsce
+!!gdzieś wianek działa, da działa.
+!!@VERSE:
+!!2. I ty będziesz mój chłopaku,
+!!i ty będziesz wuł da i wuł,
+!!ino zajdziesz na to miejsce
+!!gdzieś mi wianek wzión, da i wzión.
+!!@@END: VERSES
+!!!role-singer: Lover, Mistress
+!!!role-listener: Mistress, Lover
+!!!singer-sex: male, femle
 !!!ONB: Partia wokalna
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=128 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 104} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 104}
 !!!page: 104
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-04

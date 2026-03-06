@@ -3,56 +3,72 @@
 !!!source: DWOK13
 !!!id: 13229
 !!!signature: 1322900000
-**kern
-*clefG2
-*k[f#]
-*e:
-*M3/8
-=1
-{16g
-16a
-8.b
-16e
-=2
-16b
-16b
-8e
-8f#
-=3
-16g
-16a
-8.b
-16e
-=4
-16g
-16f#
-8d#
-8e}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*e:	*
+*M3/8	*
+=1	=1
+{16g	Czego
+16a	.
+8.b	płacze-
+16e	.
+=2	=2
+16b	-cie
+16b	o-
+8e	-czuszki,
+8f#	.
+=3	=3
+16g	czego
+16a	.
+8.b	pła-
+16e	-cze-
+=4	=4
+16g	-cie,
+16f#	pła-
+8d#	-cze-
+8e}	-cie,
 !!LO:LB:g=esac
-=5
-{16g
-16a
-8.b
-16b
-=6
-16ee
-16ee
-8b
-8a
-=7
-16dd
-16dd
-8.b
-16e
-=8
-16g
-16f#
-8d#
-8e}
-==
-*-
+=5	=5
+{16g	a
+16a	mam-
+8.b	-ci
+16b	ja
+=6	=6
+16ee	ko-
+16ee	-chaneczka
+8b	.
+8a\	.
+=7	=7
+16dd	w_da-
+16dd	-le-
+8.b	-kim
+16e	świe-
+=8	=8
+16g	-cie,
+16f#	da
+8d#	świecie.
+8e}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Czego płaczecie oczuszki,
+!!czego płaczecie, płaczecie,
+!!a mamci ja kochaneczka
+!!w dalekim świecie, da świecie.
+!!@VERSE:
+!!2. Tobie się cieszę kochanku,
+!!tobie się cieszę, da cieszę,
+!!a jak mi cię matka nie da,
+!!to się obieszę (obwieszę).
+!!@@END: VERSES
+!!!role-singer: Mistress
+!!!role-listener: Lover 
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=136 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 112} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 112}
 !!!page: 112
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-06

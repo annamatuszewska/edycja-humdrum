@@ -3,57 +3,74 @@
 !!!source: DWOK13
 !!!id: 13202
 !!!signature: 1320200000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16e
-8g
-8b
-=2
-16dd
-16ee
-8cc
-8a
-=3
-16g
-16e
-8g
-8b
-=4
-16dd
-16ee
-8cc
-8a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Weselna.	!
+{16g	Do
+16e	cie-
+8g	-bie
+8b	ja-
+=2	=2
+16dd	-dę
+16ee	je-
+8cc	-dy-
+8a	-na,
+=3	=3
+16g	do
+16e	cie-
+8g	-bie
+8b	ja-
+=4	=4
+16dd	-dę
+16ee	da
+8cc	ja-
+8a}	-dę,
 !!LO:LB:g=esac
-=5
-{16g
-16e
-8g
-8b
-=6
-16b
-16a
-8cc
-8a
-=7
-16g
-16e
-8g
-8b
-=8
-16b
-16a
-8cc
-8a}
-==
-*-
+=5	=5
+{16g	oj-
+16e	-cu,
+8g	mat-
+8b	-ce,
+=6	=6
+16b	na
+16a\	u-
+8cc	-cie-
+8a	-chę!
+=7	=7
+16g	to-
+16e	-bie
+8g	na
+8b	zdra-
+=8	=8
+16b	-dę
+16a\	na
+8cc	zdra-
+8a}	-dę.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Do ciebie jadę jedyna,
+!!do ciebie jadę da jadę,
+!!ojcu, matce, na uciechę!
+!!tobie na zdradę na zdradę.
+!!@VERSE:
+!!2. Nie bój się ty, dziewcze moje,
+!!nie bój zdradziny, zdradziny;
+!!bo choćbym ja cie nie zdradził,
+!!zdradzi cie inny, da inny.
+!!@@END: VERSES
+!!!role-singer: Bridegroom
+!!!role-listener: Bride
+!!!singer-sex: male
 !!!ONB: Weselna
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=127 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 103} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 103}
 !!!page: 103
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-04

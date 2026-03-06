@@ -3,91 +3,111 @@
 !!!source: DWOK13
 !!!id: 13199
 !!!signature: 1319900000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{8cc
-8ee
-16ee
-16dd
-=2
-16cc
-16ee
-8gg
-16ff
-16ee
-=3
-8dd
-8ff
-16ff
-16ee
-=4
-16ff
-16ff
-8aa
-16ff
-16dd}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{8ccL	.
+8eeJ	.
+16eeL	.
+16ddJ	.
+=2	=2
+16ccL	.
+16eeJ	.
+8gg	.
+(16ffL	.
+16eeJ)	.
+=3	=3
+8ddL	.
+8ffJ	.
+16ffL	.
+16eeJ	.
+=4	=4
+16ffL	.
+16ffJ	.
+8aaL	.
+16ff	.
+16ddJ}	.
 !!LO:LB:g=esac
-=5
-{8cc
-8ee
-16ee
-16dd
-=6
-16cc
-16ee
-8gg
-16ff
-16ee
-=7
-8dd
-8ff
-8aa
-=8
-16ff
-16dd
-8b
-8cc}
+=5	=5
+{8ccL	.
+8eeJ	.
+16eeL	.
+16ddJ	.
+=6	=6
+16ccL	.
+16eeJ	.
+8gg	.
+(16ffL	.
+16eeJ)	.
+=7	=7
+8dd/L	.
+8ff/	.
+8aa/J	.
+=8	=8
+16ffL	.
+16ddJ	.
+8bL	.
+8ccJ}	.
 !!LO:LB:g=esac
-=9
-{8ee
-16cc
-16b
-8g
-=10
-16.ff
-32dd
-8b
-8cc
-=
-8ee
-24cc
-24b
-24a
-8g
-=11
-16.ff
-32dd
-8b
-8cc}
+=9	=9
+{8ee	.
+16ccL	.
+16bJ	.
+8g	.
+=10	=10
+8eeq	.
+16.fLf	.
+32ddJ	.
+8bL	.
+8ccJ	.
+=	=
+*Xtuplet	*
+8ee	.
+24cc/L	.
+24b/	.
+24aJ	.
+8g	.
+=11	=11
+8eeq	.
+16.ffL	.
+32ddJ	.
+8bL	.
+8ccJ}	.
 !!LO:LB:g=esac
-=12
-{8cc
-8ee
-16ee
-16dd
-=13
-16ff
-16dd
-8b
-8cc}
-==
-*-
+=12	=12
+{8ccL	.
+8eeJ	.
+8ffq	.
+16eeL	.
+16ddJ	.
+=13	=13
+16ffL	.
+16ddJ	.
+8bL	.
+8ccJ}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Niedaleko wieś ode wsi
+!!ino bez łąki, bez łąki, —
+!!a cóż to tu za chłopiska,
+!!same kałdónki, kałdónki.
+!!@VERSE:
+!!2. Niedaleko wieś ode wsi
+!!ino bez ławy, bez ławy, —
+!!a cóż to tu za chłopiska,
+!!każdy szudławy, szudławy.
+!!@@END: VERSES
+!!!role-singer: Complex
+!!!role-listener: Complex
+!!!singer-sex: Complex
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=126 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 102} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 102}
 !!!page: 102
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-03

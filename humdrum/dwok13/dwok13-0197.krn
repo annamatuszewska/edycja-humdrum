@@ -3,81 +3,99 @@
 !!!source: DWOK13
 !!!id: 13197
 !!!signature: 1319700000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16f#
-16g
-8a
-8cc
-=2
-16b
-16dd
-8ee
-8a
-=3
-16cc
-16ee
-8.dd
-16a
-=4
-16f#
-16d
-8c
-8d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16f#	Wszyscy
+16g	.
+8a	po-
+8cc	-snę-
+=2	=2
+16b	-li,
+16dd	po-
+8ee	-snę-
+8a	-li,
+=3	=3
+16cc	wszyscy
+16ee	.
+8.dd	po-
+16a	-snę-
+=4	=4
+8gq	.
+16f#	-li,
+16d	po-
+8c	-snę-
+8d}	-li,
 !!LO:LB:g=esac
-=5
-{16f#
-16a
-8.g
-16d
-=
-24e
-24f#
-24g
-8cc
-8a
-=6
-16f#
-16a
-8.g
-16d
-=
-24g
-24f#
-24d
-8c
-8d}
+=5	=5
+{16f#	a-
+16a	-by
+8.g	mo-
+16d	-ja
+=	=
+(<24eL	.
+24f#J	ko-
+24g)	-cha-
+8cc	-neczka
+8a	.
+=6	=6
+16f#	chodzi
+16a	.
+8.g	po
+16d	sie-
+=	=
+(<24gL	.
+24f#J	-ni,
+24d)	po
+8c	sieni.
+8d}	.
 !!LO:LB:g=esac
-=7
-{16f#
-16a
-8.g
-16d
-=
-24e
-24f#
-24g
-8cc
-8a
-=8
-16f#
-16a
-8.g
-16d
-=
-24g
-24f#
-24d
-8c
-8d}
-==
-*-
+=7	=7
+{16f#	a-
+16a	-by
+8.g	mo-
+16d	-ja
+=	=
+(<24eL	ko-
+24f#J	.
+24g)	.
+8cc	-cha-
+8a	-neczka
+=8	=8
+16f#	chodzi
+16a	.
+8.g	po
+16d	sie-
+=	=
+(<24gL	.
+24f#J	-ni
+24d)	po
+8c	sieni.
+8d}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Wszyscy posnęli, posnęli,
+!!wszyscy posnęli, posnęli,
+!!aby moja kochaneczka
+!!chodzi po sieni, po sieni.
+!!@VERSE:
+!!2. Upłakane moje oczki,
+!!nie spały my cały nocki,
+!!i nie spały i nie będą,
+!!póki ciebie nie zdobędą.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Mistress 
+!!!singer-sex: male
+!!!RDF**kern: <= above
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=125 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 101} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 101}
 !!!page: 101
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-03
