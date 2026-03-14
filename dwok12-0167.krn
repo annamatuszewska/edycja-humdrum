@@ -1,0 +1,108 @@
+!!!!SEGMENT: DWOK1216700000-wysoki_zameczek_jeszcze_wyzsza_fara.krn
+!!!OTL: Wysoki zameczek, jeszcze wyższa fara
+!!!source: DWOK12
+!!!id: 12167
+!!!signature: 1216700000
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*g:	*
+*M2/4	*
+=1	=1
+!!LO:TX:a:t=Weselna.
+{4dd	Wyso-
+8ffL	.
+8eeJ	.
+=2	=2
+8dd	-ki
+8cc	zameczek,
+8a	.
+8f	.
+=3	=3
+8a\	jeszcze
+8cc	.
+8cc	wyższa
+8ee	.
+=4	=4
+4dd	fara,
+4dd}	.
+!!LO:LB:g=esac
+=5	=5
+{4dd	powiedz-
+8ffL	.
+8eeJ	.
+=6	=6
+8dd	-ty
+8cc	mi
+8a	dziewcze,
+8f	.
+=7	=7
+8a\	skimeś
+8cc	.
+8cc	dzisiaj
+8b-	.
+=8	=8
+4g	spała.
+4g}	.
+!!LO:LB:g=esac
+=9	=9
+{4b-	Żeli
+4dd	.
+=10	=10
+8dd	ze
+8cc	staruszkiem,
+8a	.
+8f	.
+=11	=11
+8a	to
+8cc	cię
+8cc	Pan
+8cc	Bóg
+=12	=12
+4dd	skarze,
+4g}	.
+!!LO:LB:g=esac
+=13	=13
+{4b-	żeli
+4dd	.
+=14	=14
+8dd	z_młodzieniaszkiem,
+8cc	.
+8a	.
+8f	.
+=15	=15
+8a	to
+8cc	ci
+8cc	dopo-
+8b-	.
+=16	=16
+4g	-może.
+4g}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Mistress
+!!!role-listener: Mistress
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:1. Wysoki zameczek, jeszcze wyższa fara,
+!!powiedz ty mi dziewcze,
+!!skimeś dzisiaj spała.
+!!Żeli ze staruszkiem, to cię Pan Bóg skarze,
+!!żeli z młodzieniaszkiem,
+!!to ci dopomoże.
+!!@VERSE:2. Siekiereczka tonie,
+!!toporzysko brodzi, —
+!!powiedz mi ty dziewcze,
+!!kto do ciebie chodzi?
+!!@VERSE:3. Niechaj chodzi kto chce,
+!!co komu do tego,
+!!ja się wyrachuje
+!!Panu Bogu z tego.
+!!@@END: VERSES
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=101 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 85} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 85}
+!!!page: 85
+!!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-02-25

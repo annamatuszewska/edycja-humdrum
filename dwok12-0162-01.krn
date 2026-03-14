@@ -1,0 +1,99 @@
+!!!!SEGMENT: DWOK1216200001-al_bez_uwagi_maz_zone_bije.krn
+!!!OTL: Żal bez uwagi mąż żonę bije
+!!!source: DWOK12
+!!!id: 12162
+!!!signature: 1216200001
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8dd	Żal
+16dd	bez
+16ee	u-
+16ddL	-wa-
+16ccJ	.
+=2	=2
+4.b	-gi
+=3	=3
+8dd	mąż
+16ddL	żonę
+16ccJ	.
+16a	.
+16f#	bi-
+=4	=4
+4.g}	-je.
+!!LO:LB:g=esac
+=5	=5
+{8dd	żadna
+16dd	.
+16ee	rodzi-
+16ddL	.
+16ccJ	.
+=6	=6
+4.b	-na
+=7	=7
+8dd	nie
+16ddL	po-
+16ccJ	.
+16a	-żału-
+16f#	.
+=8	=8
+4.g}	-je.
+!!LO:LB:g=esac
+=9	=9
+{16a	Przyjedź,
+16a	.
+8a	przyjedź
+8cc	.
+=10	=10
+16bL	ta-
+8ccq	.
+16ddJ	.
+8b	-tynku,
+8g	.
+=11	=11
+16a\	przyjedź,
+16f#\	.
+8a\	przyjedź
+8cc	.
+=12	=12
+16b	serce
+16dd	.
+8b	moje,
+8g}	.
+!!LO:LB:g=esac
+=13	=13
+{8dd	a
+8eeq	.
+16ddL	po-
+16ccJ	.
+16a	-ża-
+16f#	-łuj
+=14	=14
+4.g}	mnie.
+==	==
+*-	*-
+!!!role-singer: Wife, Husband
+!!!role-listener: Father, Wife
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:1. Żal bez uwagi mąż żonę bije.
+!!żadna rodzina nie pożałuje.
+!!Przyjedź, przyjedź tatynku,
+!!przyjedź, przyjedź serce moje,
+!!a pożałuj mnie.
+!!@VERSE:2. Żono kochana, proś swego brata,
+!!by mnie nie gubił tu z tego Świata.
+!!A ja ci téż podprzysięgę,
+!!jak'em cię bił, — bić cię będę,
+!!aż cię zabiję.
+!!@@END: VERSES
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=98 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 82} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 82}
+!!!page: 82
+!!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-02-25

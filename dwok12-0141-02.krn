@@ -1,0 +1,90 @@
+!!!!SEGMENT: DWOK1214100002-przylecial_gawron_przed_rybaczki.krn
+!!!OTL: Przyleciał gawron przed rybaczki
+!!!source: DWOK12
+!!!id: 12141
+!!!signature: 1214100002
+**kern	**text
+*clefG2	*
+*k[]	*
+*A:	*
+*M3/4	*
+=1	=1
+{8g#	Przyle-
+8a	.
+(4b	-ciał
+4dd#)	.
+=2	=2
+8eeL	ga-
+8dd#J	.
+2b	-wron
+=	=
+8dd#	przed
+8ff#	ry-
+4gg#	-baczki
+12ff#L	.
+12ee	.
+12dd#J/	.
+=3	=3
+2.dd}	dom.
+!!LO:LB:g=esac
+=4	=4
+{8bL	U-
+8dd#J	.
+(4ee	-siad
+4ee)	.
+=5	=5
+4.ee	w okieneczku
+8ddn	.
+8cc	.
+8a	.
+=6	=6
+8a	w rucianym
+8dd	.
+4cc	.
+8bL	wia-
+8aJ	.
+=7	=7
+4g#	-neczku,
+2e}	.
+!!LO:LB:g=esac
+=8	=8
+{8g#	roz-
+8b	-to-
+(4dd	-czył
+4ee)	.
+=9	=9
+2.a}	ogon.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:1. Przyleciał gawron
+!!przed rybaczki dom.
+!!Usiad(ł) w okieneczku
+!!w rucianym wianeczku,
+!!roztoczył ogon.
+!!@VERSE:2. Frąsineczka miła,
+!!Jasineczek woła,
+!!byś do niego wyszła,
+!!byś nie była pyszna,
+!!sama jedyna.
+!!@VERSE:3. Ona nie wyszła,
+!!wysłała posła:
+!!a mój miły pośle,
+!!spraw-że mnie tu włośnie
+!!jakby ja sama.
+!!@VERSE:4. A poseł poszedł
+!!długo się zabawił.
+!!A bodaj cię były
+!!kamienie zabiły,
+!!mój pośle miły!
+!!@@END: VERSES
+!!!ONB: U Kolberga w t. 4 wartość 4__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=86 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 70} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 70}
+!!!page: 70
+!!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-02-25

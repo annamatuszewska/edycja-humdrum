@@ -1,0 +1,118 @@
+!!!!SEGMENT: DWOK1214400000-pod_zielonem_debem.krn
+!!!OTL: Pod zielonem dębem
+!!!source: DWOK12
+!!!id: 12144
+!!!signature: 1214400000
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M3/4	*
+=1	=1
+!!LO:TX:a:t=Do czepin.
+{8gn	Pod
+8a	zie-
+4cc#	-lo-
+4eeM	-ném
+=2	=2
+8ddL	dę-
+16cc#	.
+16bJ	.
+2a	-bem
+=3	=3
+8cc#	stoji
+8cc#	.
+4ee	kuń
+16ff#L	ko-
+8.ddJ	.
+=4	=4
+2b	-wany;
+16g#L	.
+8.eJ}	.
+!!LO:LB:g=esac
+=5	=5
+{8g#	wywi-
+8a	.
+4cc#	-jo,
+4ee	wy-
+=6	=6
+8ddL	-wi-
+16cc#	.
+16bJ	.
+2a	-jo
+=7	=7
+8fnZ	mój
+8f#	Jasio
+4a	.
+16bL	ko-
+8.g#J	.
+=8	=8
+2e	-chany.
+4e}	.
+==	==
+*-	*-
+!!!RDF**kern: Z = editorial accidental
+!!!role-singer: Mistress, Lover
+!!!role-listener: Lover, Mistress
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:1. Pod zielonym dębem
+!!stoji kuń kowany;
+!!wywijo, wywijo
+!!mój Jasio kochany.
+!!@VERSE:2. Wywijo, wywijo,
+!!drobne listy pise,
+!!gdzie moja kochanka
+!!dzieciątko kołyse.
+!!@VERSE:3. Kołyse, kołyse
+!!i poceła płakać,
+!!Jasio wróć mi wionek
+!!(h)albo mi go zápłać.
+!!@VERSE:4. Wionka ci nie wröcę,
+!!płacić ci nie myślę,
+!!siádam na kónika
+!!pojadę za Wisłę.
+!!@VERSE:5. Jasiö mój kochany
+!!nie jezdzaj tamtędy,
+!!bobyś mi połumał
+!!po lewendą grzędy.
+!!@VERSE:6. Grzędy mi połómies,
+!!rozmaryn podepces,
+!!umiáłeś mnie zdredzić,
+!!a teraz mnie nie chceś,
+!!@VERSE:7. Nie zdredzę ja ciebie,
+!!samaś się zdredziła,
+!!i ta ciemna nocka
+!!coś po nij chodziła,
+!!@VERSE:8. Nie ta ciemná nocka,
+!!ino gorzáłecka,
+!!codześ ją pijoła
+!!jak nie panienecka.
+!!@VERSE:9. Nie kázała mi się
+!!matka dugo bawić,
+!!gorzáłeckę wypić,
+!!kielisek postawić.
+!!@VERSE:10. Bodej ciebie Jasiu
+!!sónecko spaliło.
+!!kie'ś mnie ni miáł pojąć
+!!nie zdredzać mnie böło.
+!!@VERSE:11. Bodej ciebie Jasiu,
+!!pieruny zatrzasły,
+!!töć na mojim lickü
+!!jagody zagasły.
+!!@VERSE:12. Niech biją piöruny,
+!!biją bez üstankü,
+!!w te co będzie stojać
+!!przy mojim kochankü.
+!!@VERSE:13. Ta chtóra go bédzie
+!!scérze całowała,
+!!ziemio rozstąp-ze się
+!!gdzie bedzie ś nim stała.
+!!@@END: VERSES
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=87 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 71} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 71}
+!!!page: 71
+!!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-02-25

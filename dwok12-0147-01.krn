@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK1214700001-na_zielonym_gaju.krn
+!!!OTL: Na zielonym gaju
+!!!source: DWOK12
+!!!id: 12147
+!!!signature: 1214700001
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M2/4	*
+=1	=1
+!!LO:TX:a:t=Krakowiak.
+{8cc	Na
+8ee	zielo-
+4ee	.
+=2	=2
+8eeq	.
+8dd	-nym
+4b	ga-
+8b	-ju
+=3	=3
+8e	sto-
+8g#	-ji
+4g#	koń
+=4	=4
+8a\	kowany.
+4cc	.
+16eeL	.
+16ccJ}	.
+!!LO:LB:g=esac
+=5	=5
+{8a\	Wywi-
+8cc	.
+4ee	-ja,
+=6	=6
+8b	wywi-
+16ddL	.
+16ccJ	.
+4b	-ja
+=7	=7
+8e	Jasinek
+8g#	.
+4b	.
+=8	=8
+8a\	kocha-
+16ccL	.
+16bJ	.
+4a\}	-ny.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:1. Na zielonym gaju stoji koń kowany.
+!!Wywija, wywija Jasinek kochany.
+!!@@END: VERSES
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=89 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 73} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 73}
+!!!page: 73
+!!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-02-25
