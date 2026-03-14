@@ -3,103 +3,120 @@
 !!!source: DWOK13
 !!!id: 13127b
 !!!signature: 13127b0000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16g
-16g
-8a
-8g
-=2
-16g
-16g
-8a
-8g
-=3
-16g
-16ff
-8ee
-16dd
-16b
-=4
-8cc
-16dd
-16cc
-16b
-16a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16g	Ra-
+16g	-źno
+8a	chłopki,
+8g	.
+=2	=2
+16g	hej
+16g	pa-
+8a	-robki,
+8g	.
+=3	=3
+16g	hej
+16ff	dziewczęta
+8ee	.
+16ddL	.
+16bJ	.
+=4	=4
+8cc	zwijaj-
+16ddL	.
+16ccJ	.
+16b	-ta
+16a}\	się,
 !!LO:LB:g=esac
-=5
-{16g
-16g
-8a
-8g
-=6
-16g
-16g
-8a
-8g
-=7
-16g
-16ff
-8ee
-16dd
-16b
-=8
-16cc
-16cc
-8ee
-8cc}
+=5	=5
+{16g	Ra-
+16g	-źno
+8a	chłopki,
+8g	.
+=6	=6
+16g	hej
+16g	pa-
+8a	-robki,
+8g	.
+=7	=7
+16g	hej
+16ff	dziewczęta
+8ee	.
+16ddL	.
+16bJ	.
+=8	=8
+16cc	zwijaj-
+16cc	.
+8ee	-ta
+8cc}	się,
 !!LO:LB:g=esac
-=9
-{16ee
-16ff
-8gg
-8gg
-=10
-16aa
-16ff
-8.dd
-16b
-=11
-16g
-16ff
-8ee
-16dd
-16b
-=12
-16cc
-16dd
-8ee
-8gg}
+=9	=9
+{16ee	Gospodyni
+16ff	.
+8gg	.
+8gg	.
+=10	=10
+16aa	dobądź
+8ggq	.
+16ff	.
+8.dd	z_skrzyni
+16b	.
+=11	=11
+16g	półkwartowe
+16ff	.
+8ee	.
+16ddL	.
+16bJ	.
+=12	=12
+16cc	na
+16dd	stół
+8ee	szklanki.
+8gg}	.
 !!LO:LB:g=esac
-=13
-{16ee
-16ff
-8gg
-8ccc
-=14
-16aa
-16ff
-8.dd
-16b
-=15
-16g
-16ff
-8ee
-16dd
-16b
-=16
-16cc
-16cc
-8ee
-8cc}
-==
-*-
+=13	=13
+{16ee	Gospodyni
+16ff	.
+8gg/L	.
+8ccc/J	.
+=14	=14
+16aa	dobądź
+8ggq	.
+16ff	.
+8.dd	z_skrzyni
+16b	.
+=15	=15
+16g	półkwartowe
+16ff	.
+8ee	.
+16ddL	.
+16bJ	.
+=16	=16
+16cc	kochanki.
+8bq	.
+16cc	.
+8ee	.
+8cc}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Raźno chłopki, hej parobki,
+!!hej dziewczęta zwijajta się,
+!!Raźno chłopki, hej parobki,
+!!hej dziewczęta zwijajta się,
+!!Gospodyni dobądź z skrzyni
+!!półkwartowe na stół szklanki.
+!!Gospodyni dobądź z skrzyni
+!!półkwartowe kochanki.
+!!@@END: VERSES
+!!!role-listener: Group
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=98 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 74} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 74}
 !!!page: 74
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-20

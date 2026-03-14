@@ -3,79 +3,98 @@
 !!!source: DWOK13
 !!!id: 13099
 !!!signature: 1309900000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16f
-16a
-8cc
-8cc
-=2
-16f
-16a
-8cc
-8cc
-=3
-16cc
-16ee
-8gg
-8gg
-=4
-8ff
-4cc
-=5
-16cc
-16ee
-8gg
-8gg
-=6
-8ff
-4cc}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16f	Jam
+16a	Ku-
+8cc	-ja-
+8cc	-wiak
+=2	=2
+16f\	od
+16a\	Kruszwicy
+8cc	.
+8cc	.
+=3	=3
+16cc	nie
+16ee	darmo
+8gg	.
+8gg	jém
+=4	=4
+8eeq	.
+8ff	ka-
+4cc	-szę,
+=5	=5
+16cc	nie
+16ee	darmo
+8gg	.
+8gg	jém
+=6	=6
+8eeq	.
+8ff	kaszę,
+4cc}	.
 !!LO:LB:g=esac
-=7
-{16cc
-16dd
-8b-
-8b-
-=8
-16a
-16a
-8f
-8f
-=9
-16c
-16e
-8g
-8g
-=10
-8a
-4cc}
+=7	=7
+{16cc	zajdźmamy
+16dd	.
+8b-	.
+8b-	się,
+=8	=8
+16a	spy-
+8b-q	.
+16a	-taj-
+8f	-my
+8f	się
+=9	=9
+16c	gdzie
+16e	są
+8g	kra-
+8g	-je
+=10	=10
+8a	na-
+4cc}	-sze,
 !!LO:LB:g=esac
-=11
-{16cc
-16dd
-8b-
-8b-
-=12
-16a
-16a
-8f
-8f
-=13
-16c
-16e
-8g
-8g
-=14
-8a
-4f}
-==
-*-
+=11	=11
+{16cc	zajdźmamy
+16dd	.
+8b-	.
+8b-	się,
+=12	=12
+16a	spy-
+8b-q	.
+16a	-taj-
+8f	-my
+8f	się
+=13	=13
+16c	gdzie
+16e	są
+8g	kra-
+8g	-je
+=14	=14
+8fq	.
+8a	nasze.
+4f}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Jam Kujawiak od Kruszwicy
+!!nie darmo jém kaszę,
+!!nie darmo jém kaszę,
+!!zajdźmamy się, spytajmy się
+!!gdzie są kraje nasze,
+!!zajdźmamy się, spytajmy się
+!!gdzie są kraje nasze.
+!!@@END: VERSES
+!!!role-singer: Complex
+!!!role-listener: Complex
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=81 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 57-58} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, pp. 57-58}
 !!!page: 57-58
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-16

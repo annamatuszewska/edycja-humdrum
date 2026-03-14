@@ -3,80 +3,96 @@
 !!!source: DWOK13
 !!!id: 13133
 !!!signature: 1313300000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{4cc
-8cc
-8g
-8cc
-8ee
-=2
-8aa
-8gg
-4ff
-4ee
-=3
-8dd
-8ff#
-4dd
-8ff#
-8aa
-=4
-8gg
-8ff#
-4.gg
-8ff}
+**kern	**text	**text
+*clefG2	*	*
+*k[]	*	*
+*C:	*	*
+*M3/4	*	*
+=1	=1	=1
+{4cc	1.Oj	2.Oj
+8cc	u-	u-
+8g	-bo-	-bo-
+8cc	-ga	-ga
+8ee	ja	ja
+=2	=2	=2
+8aa	sie-	sie-
+8gg	-ro-	-ro-
+4ff	-teczka,	-teczka,
+4ee	.	.
+=3	=3	=3
+8dd	niémam	niémam
+8ff#	.	.
+4dd	ko-	pie-
+8ff#L	-ra-	-rzy-
+8aaJ	.	-ny
+=4	=4	=4
+8gg	-li,	pie-
+8ff#	ko-	-rzy-
+4.gg	-ra-	-ny,
+8ff}	-li,	.
 !!LO:LB:g=esac
-=5
-{4ee
-4ee
-8ee
-8dd
-=6
-8ee
-8dd
-4cc
-4b
-=7
-8a
-8g#
-4a
-4dd
-=8
-8g
-8b
-4cc
-4cc}
+=5	=5	=5
+{4ee	moja	oj
+4ee	.	już
+8ee	mat-	ja
+8dd	-ka	się
+=6	=6	=6
+8ee	wy-	nie
+8dd	-ro-	o-
+4cc	-bni-	-że-
+4b	-ca	-nię,
+=7	=7	=7
+8a	nie	Bo-
+8g#	sie-	-żeż
+4a	-je	je-
+4dd	ro-	-dy
+=8	=8	=8
+8gn	-li,	-ny,
+8b	da	je-
+4cc	ro-	-dy-
+4cc}	-li.	-ny.
 !!LO:LB:g=esac
-=9
-{4ee
-8ee
-8dd
-8ee
-8dd
-=10
-8ee
-8dd
-4cc
-4b
-=11
-8a
-8g#
-4a
-4dd
-=12
-8g
-8b
-4cc
-4dd}
-==
-*-
+=9	=9	=9
+{4ee	mo-	oj
+8ee/L	ja	już
+8dd/J	-bo-	.
+8ee	-mat-	ja
+8dd	-ka	się
+=10	=10	=10
+8ee	wy-	nie
+8dd	-ro-	o-
+4cc	-bni-	-że-
+4b	-ca	-nię,
+=11	=11	=11
+8a	nie	Bo-
+8g#	sie-	-żeż-
+4a	-je	je-
+4dd	ro-	-dy
+=12	=12	=12
+8gn	-li,	-ny,
+8b	da-	je-
+4cc/	-ro-	-dy-
+4dd/}	-li.	-ny.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj uboga ja sieroteczka,
+!!niémam korali, korali,
+!!moja matka wyrobnica
+!!nie sieje roli, da roli.
+!!@VERSE:
+!!2. Oj uboga ja sieroteczka
+!!niémam pierzyny, pierzyny,
+!!oj już ja się nie ożenię,
+!!Bożeż jedyny, jedyny.
+!!@@END: VERSES
+!!!role-singer: Orphan
+!!!role-listener:Group
+!!!singer-sex:female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=103 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 79} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 79}
 !!!page: 79
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-21

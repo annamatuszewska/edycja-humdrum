@@ -3,87 +3,157 @@
 !!!source: DWOK13
 !!!id: 13110
 !!!signature: 1311000000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{4b
-4b
-8cc
-8ee
-=2
-8dd
-8cc
-4a
-4dd
-=3
-4b
-4b
-8cc
-8ee
-=4
-8dd
-8cc
-4a
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+!LO:TX:a:t=Kujawiak.	!
+{4b	Kaj
+4b	się
+8cc	działy
+8ee	.
+=2	=2
+8dd	o-
+8cc	-ne
+4a	la-
+4dd	-ta
+=3	=3
+4b	co
+4b	człek
+8cc	na
+8ee	nich
+=4	=4
+8dd	u-
+8cc	-żył
+4a	świa-
+4g}	-ta,
 !!LO:LB:g=esac
-=5
-{4b
-4b
-8cc
-8a
-=6
-4b
-4b
-8cc
-8a
-=7
-4b
-4b
-8cc
-8ee
-=8
-8dd
-8cc
-4a
-4g}
+=5	=5
+{4b	ja-
+4b	-dał,
+8cc	pi-
+8a	-jał,
+=6	=6
+4b	wy-
+4b	-śpie-
+8cc	-wy-
+8a	-wał,
+=7	=7
+4b	co
+4b	nie-
+8cc	-dziela
+8ee	.
+=8	=8
+8dd	w_karty
+8cc	gry-
+4a	-wał,
+4g}	.
 !!LO:LB:g=esac
-=9
-{4b
-8b
-8a
-8cc
-8a
-=10
-4b
-8b
-8a
-8cc
-8a
-=11
-4b
-8b
-8a
-4gg}
+=9	=9
+{4b	oj
+8b	jo-
+8a\	-dy
+8cc	jo-
+8a\	-dy
+=10	=10
+4b	oj
+8b	jo-
+8a\	-dy
+8cc	jo-
+8a\	-dy
+=11	=11
+4b	tod
+8b	jo-
+8a\	-dy
+4gg}	hu,
 !!LO:LB:g=esac
-=12
-{4b
-8b
-8a
-8cc
-8ee
-=13
-8dd
-8cc
-4a
-4g}
-==
-*-
+=12	=12
+{4b	oj
+8b	jo-
+8a\	-dy
+8cc	jo-
+8ee	-dy
+=13	=13
+8dd	to-
+8cc	-dio
+4a	to-
+4g}	-tom.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Kaj się działy one lata
+!!co człek na nich użył świata,
+!!jadał, pijał, wyśpiewywał,
+!!co niedziela w karty grywał,
+!!oj jody jody oj jody jody
+!!tod jody hu,
+!!oj jody jody todio totom.
+!!@VERSE:
+!!2. Krzesał ogień podkówkami,
+!!wywijał lalą (laską) nade łbami,
+!!ze słoniną jagły jadał
+!!i z ludziami się nagadał.
+!!@VERSE:
+!!3. Pojechałem do Łowicza
+!!i kupiłem śtukę bicza;
+!!toż-em trzaskał, toż-em hukał,
+!!bom dziewuli ładnéj szukał.
+!!@VERSE:
+!!4. Pojechałem do Krakowa,
+!!kupić sukna wał da i wał,
+!!ćtéry łokcie po złotemu,
+!!jakiegoś żywnie chciał da chciał.
+!!@VERSE:
+!!5. Powracam z nim od Krakowa,
+!!krawczyki siedzą, da siedzą,
+!!jedno jaje dwóch ich kraje
+!!a ćtérech jedzą da jedzą.
+!!@VERSE:
+!!6. Pojdżta do nas krawcykowie,
+!!zróbta sukmanę ta dana,
+!!ani krótsą ani dłuzsą,
+!!ćtéry cale pod kolana!
+!!@VERSE:
+!!7. Z hafteczkami, z guziczkami,
+!!kutasiki, żywy każdy;
+!!niech się mienią, niech się świécą
+!!kieby miesiąc, kieby gwiazdy.
+!!@VERSE:
+!!8. Wychodzę w święto z kościoła
+!!w nowém odzieniu, odzieniu,
+!!ludzie mi się wypytują:
+!!zkądeś młodzieniu, młodzieniu?
+!!@VERSE:
+!!9. Mamy dla cię gospodarkę,
+!!i dziewulę, istny kwiatek;
+!!ożeńże się i to u nas,
+!!doczekasz się ślicznych dziatek.
+!!@VERSE:
+!!10. Będziem razem tańcowali
+!!na weselu czy na chrzcinach,
+!!to u kmotra to u kuma
+!!na Bachusa oględzinach.
+!!@VERSE:
+!!11. Kochałem się dwie niedzieli,
+!!ludzie o tém nie wiedzieli;
+!!jak się ludzie dowiedzieli,
+!!ojcu, matce powiedzieli.
+!!@VERSE:
+!!12. Tak to było na mém wzrostku,
+!!teraz jakoś na wspak idzie;
+!!jeżli się Bóg nie zlituje,
+!!żywy człek nie ujdzie biédzie.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Group
+!!!singer-sex: male
 !!!ONB: Kujawiak
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=87 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 63} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 63}
 !!!page: 63
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-18

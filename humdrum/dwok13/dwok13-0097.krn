@@ -3,95 +3,152 @@
 !!!source: DWOK13
 !!!id: 13097
 !!!signature: 1309700000
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M2/4
-=1
-{8dd
-8cc#
-8dd
-8a
-=2
-8b
-8a
-8f#
-8d
-=3
-8e
-8f#
-8g
-8b
-=4
-8b
-8a
-4a}
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M2/4	*
+=1	=1
+!LO:TX:a:t=Pieśń rekruta p. N. B. z G., z muzyką A. H.	!
+{8dd	Da-
+8cc#	-léj
+8dd	chłopcy,
+8a\	.
+=2	=2
+8b	da-
+8a	-léj
+8f#	żwa-
+8d	-wo,
+=3	=3
+8e	a
+8f#	da-
+8g	-léj
+8b	z_o-
+=4	=4
+8bL	.
+8a\J	-cho-
+4a\}	-tą,
 !!LO:LB:g=esac
-=5
-{8dd
-8cc#
-8dd
-8a
-=6
-8b
-8a
-8f#
-8d
-=7
-8e
-8f#
-8g
-8c#
-=8
-8e
-8d
-4d}
+=5	=5
+{8dd	o-
+8cc#	-cho-
+8dd	-czemu
+8a\	.
+=6	=6
+8b	wszystko
+8a	.
+8f#	ła-
+8d	-two
+=7	=7
+8e	by-
+8f#	-le
+8g	zo-
+8c#	-stał
+=8	=8
+8eL	z_cno-
+8dJ	.
+4d}	-tą.
 !!LO:LB:g=esac
-=9
-{8e
-8f#
-8g
-8c#
-=10
-8d
-8f#
-8a
-8dd
-=11
-8cc#
-8b
-8a
-8g
-=12
-8f#
-8a
-8b
-8a}
+=9	=9
+{8e	I-
+8f#	-dziem
+8g	prawda
+8c#	.
+=10	=10
+8d	gdzieś
+8f#	da-
+8a	-le-
+8dd	-ko
+=11	=11
+8cc#	przecież
+8b	.
+8a	nie
+8g	za
+=12	=12
+8f#L	mo-
+8aJ	.
+8b/L	-rza
+8a}J	.
 !!LO:LB:g=esac
-=13
-{8e
-8f#
-8g
-8c#
-=14
-8d
-8f#
-8a
-8dd
-=15
-8cc#
-8b
-8a
-8c#
-=16
-4e
-4d}
-==
-*-
+=13	=13
+{8e	wszakże
+8f#	.
+8g	i
+8c#	tam
+=14	=14
+8d	poczci-
+8f#	.
+8a	-we-
+8dd	-mu
+=15	=15
+8cc#	ja-
+8b	-sne
+8a\	wschodzi
+8c#	.
+=16	=16
+4e\	zo-
+4d}	-rze.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Daléj chłopcy, daléj żwawo,
+!!a daléj z ochotą,
+!!ochoczemu wszystko łatwo
+!!byle został z cnotą.
+!!@VERSE:
+!!2. Idziem prawda gdzieś daleko
+!!przecież nie za morza
+!!Wszakże i tam poczciwemu
+!!jasne wschodzi zorze.
+!!@VERSE:
+!!3. Wszakże i tam żyją ludzie
+!!co nas powitają,
+!!wszakże i tam róże wonne
+!!zapachy wydają.
+!!@VERSE:
+!!4. Choć nas matki nauczyły,
+!!jak chodzić bezpiecznie;
+!!ale tam się wyćwiczymy,
+!!jak to stąpać grzecznie.
+!!@VERSE:
+!!5. Na komendę w oka mgnieniu
+!!zmieniać swą postawę;
+!!na koń skakać, szablą siekać,
+!!na szturm wznosić wrzawę.
+!!@VERSE:
+!!6. Nauczymy się językiem
+!!tam inaczéj władać;
+!!dzisiaj jednym, potém będziem
+!!językami gadać.
+!!@VERSE:
+!!7. Wszak trzy roczki, to nie wieki,
+!!przecież wieki płyną;
+!!toć zapewne te trzy lata
+!!nam tém prędzéj miną.
+!!@VERSE:
+!!8. Za trzy lata wojsko swoim
+!!każdego z nas wyda,
+!!a com się ta nauczyli,
+!!zawsze nam się przyda.
+!!@VERSE:
+!!9. Za trzy lata wróci każdy
+!!w objęcia dziewczyny,
+!!wróci, wróci doświadczeńszy
+!!do swojéj rodziny.
+!!@VERSE:
+!!10. Daléj chłopcy, daléj żwawo,
+!!a daléj z ochotą —
+!!ochoczemu wszystko łatwo,
+!!byle został z cnotą.
+!!@@END: VERSES
+!!!role-singer: Soldier
+!!!role-listener: Soldiers
+!!!singer-sex: male
 !!!ONB: zapisana melodia dwóch zwrotek
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=80 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 56} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 56}
 !!!page: 56
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-15

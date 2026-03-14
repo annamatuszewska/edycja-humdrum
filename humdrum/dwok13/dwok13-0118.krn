@@ -3,90 +3,106 @@
 !!!source: DWOK13
 !!!id: 13118
 !!!signature: 1311800000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16b
-16b
-8.dd
-16b
-=2
-16a
-16b
-8.cc
-16a
-=3
-16g
-16a
-8b
-8b
-=4
-8a
-4d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16b	Da-
+16b	-léj
+8.dd	bra-
+16b	-cia
+=2	=2
+16a\	za
+16b	pu-
+8.cc	-ha-
+16a	-ry,
+=3	=3
+16g	wysu-
+16a	.
+8b	-szaj-
+8b	-my
+=4	=4
+8a	dzbanki,
+4d}	.
 !!LO:LB:g=esac
-=5
-{16b
-16b
-8.dd
-16b
-=6
-16a
-16b
-8.cc
-16a
-=7
-16g
-16b
-8a
-8a
-=8
-8g
-4g}
+=5	=5
+{16b	nie-
+16b	-chaj
+8.dd	ży-
+16b	-je
+=6	=6
+16a\	Bachus
+16b	.
+8.cc	stary
+16a	.
+=7	=7
+16g	i
+16b	na-
+8a	-sze
+8a	ko-
+=8	=8
+8g	-chanki.
+4g}	.
 !!LO:LB:g=esac
-=9
-{16a
-16a
-8b
-8cc#
-=10
-16dd
-16dd
-8cc#
-8dd
-=11
-16ee
-16ee
-8ee
-8a
-=12
-8ff#
-4dd}
+=9	=9
+{16a	Młode
+16a	.
+8b	dziewki,
+8cc#	.
+=10	=10
+16dd	sta-
+16dd	-re
+8cc#	wi-
+8dd	-no,
+=11	=11
+16ee	dla
+16ee	nich
+8ee	tylko
+8a	.
+=12	=12
+8ff#	żyj-
+4dd}	-my
 !!LO:LB:g=esac
-=13
-{16b
-16b
-8.dd
-16b
-=14
-16a
-16b
-8.cc
-16a
-=15
-16g
-16b
-8a
-8a
-=16
-8g
-4g}
-==
-*-
+=13	=13
+{16b	przy
+16b	nich
+8.dd	słodko
+16b	.
+=14	=14
+16a\	chwi-
+16b	-le
+8.cc	pły-
+16a	-ną,
+=15	=15
+16g	ko-
+16b/	-chajmy
+8a	.
+8a	i
+=16	=16
+8g	pij-
+4g}	-my.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Daléj bracia za puhary,
+!!wysuszajmy dzbanki,
+!!niechaj żyje Bachus stary
+!!i nasze kochanki.
+!!Młode dziewki,
+!!stare wino,
+!!dla nich tylko żyjmy
+!!przy nich słodko chwile płyną,
+!!kochajmy i pijmy.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Group
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=92 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 68} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 68}
 !!!page: 68
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-19

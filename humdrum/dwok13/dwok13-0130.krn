@@ -3,99 +3,133 @@
 !!!source: DWOK13
 !!!id: 13130
 !!!signature: 1313000000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{4g
-4g
-8g
-8b
-=2
-4cc
-8g
-8f#
-4f#
-=3
-8a
-8a
-4ee
-8dd
-8cc
-=4
-8cc
-8cc
-4cc
-4b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{4g	Co
+4g	te-
+8gL	-ra
+8b/J	.
+=2	=2
+4cc	za
+8g	ze
+8f#	mnie
+4f#	kiep,
+=3	=3
+8a	gdy
+8a	już
+4ee	wszystko
+8ddL	.
+8ccJ	.
+=4	=4
+8cc	przechu-
+8cc	.
+4cc	-la-
+4b}	-łem,
 !!LO:LB:g=esac
-=5
-{4g
-4g
-8g
-8b
-=6
-8cc
-8g
-8g
-8f#
-4f#
-=7
-8a
-8a
-4cc
-8b
-8a
-=8
-8a
-8f#
-4g}
-4r
+=5	=5
+{4g	for-
+4g	-tó-
+8gL	-na
+8b/J	.
+=6	=6
+8cc/L	moja
+8gJ	.
+8g	wzięła
+8f#	w_łeb
+4f#	.
+=7	=7
+8a	go-
+8a	-ły
+4cc	jak bi-
+8b/	-zon-
+8a	-zo
+=8	=8
+8aL	-sta-
+8f#J	.
+4g}	-łem.
+4r	.
 !!LO:LB:g=esac
-=9
-{8dd
-8dd
-4dd
-8gg
-8ff#
-=10
-8ee
-8ee
-2a
-=11
-8dd
-8dd
-4dd
-4g
-=12
-8b
-8dd
-2dd}
+=9	=9
+{8dd	Je-
+8dd	-no
+4dd	je-
+8ggL	-den
+8ff#J	.
+=10	=10
+8ee	surdut
+8ee	.
+2a	mam,
+=11	=11
+8dd	na
+8dd	nim
+4dd	peł-
+4g	-no
+=12	=12
+8b	dziur
+8dd	i
+2dd}	plam,
 !!LO:LB:g=esac
-=13
-{4g
-4g
-4b
-=14
-8dd
-8g
-4g
-4f#
-=15
-8a
-8a
-4.cc
-8b
-=16
-8a
-8a
-4g}
-4r
-==
-*-
+=13	=13
+{4g	ach
+4g	gierom,
+4b	.
+=14	=14
+8dd/L	ach
+8gJ	.
+4g	gierom
+4f#	.
+=15	=15
+8a	i
+8a	ni-
+4.cc	-ko-
+8b	-mu
+=16	=16
+8a	dac
+8a	rerom.
+4g}	.
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Co tera za ze mnie kiep,
+!!gdy już wszystko
+!!przechulałem
+!!fortóna moja wzięła w łeb
+!!goły jak bizon zostałem.
+!!Jeno jeden surdut mam,
+!!na nim pełno dziur i plam,
+!!ach gierom, ach gierom
+!!i nikomu dac rerom.
+!!@VERSE:
+!!2. Stancyi moji taki stan,
+!!że gdym meble już wyprzedał,
+!!pajęczę mam z gołych ścian,
+!!groszby mi nikt za nic nie dał.
+!!Dla złych dziewcząt, win i kart,
+!!stracić zdrowie, to nie żart,
+!!ach gierom, gierom,
+!!i nikomu dać rerom.
+!!@VERSE:
+!!3. Nie wiedzący co msza, post,
+!!chciałem na gospodzie siedzieć,
+!!tam mnie szukał każdy gość
+!!chcący się o mnie dowiedzieć.
+!!Tam z religii’m sobie drwił,
+!!jak ancykryst w grzechach żył,
+!!ach gierom, gierom,
+!!i nikomu dać rerom.
+!!@@END: VERSES
+!!!role-singer: Complex
+!!!role-listener: Complex
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=99 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 75} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 75}
 !!!page: 75
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-20

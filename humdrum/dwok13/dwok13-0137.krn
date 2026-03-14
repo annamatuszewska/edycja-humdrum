@@ -3,56 +3,67 @@
 !!!source: DWOK13
 !!!id: 13137
 !!!signature: 1313700000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8cc
-8cc
-16dd
-16b
-=2
-16dd
-16ff#
-8gg
-8ee
-=3
-8cc
-8cc
-16dd
-16b
-=4
-16a
-16a
-8b
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8cc	Co
+8cc	ja
+16dd	to-
+16b	-bie
+=2	=2
+16dd/L	o-
+16ff#/J	-bie-
+8gg/L	-ca-
+8ee/J	-ła
+=3	=3
+8cc	to
+8cc	ja
+16dd	to-
+16b	-bie
+=4	=4
+16a\	dam
+16a\	da
+8b	i
+8g}	dam.
 !!LO:LB:g=esac
-=5
-{8g
-8a
-16a
-16g
-=6
-16dd
-16cc
-8ee
-8ff#
-=7
-8dd
-8dd
-16ee
-16cc
-=8
-16a
-16a
-8b
-8g}
-==
-*-
+=5	=5
+{8g\	w_far-
+8a\	-tu-
+16a\	-szeczek
+16g\	.
+=6	=6
+16dd/L	ja-
+16cc/J	-błu-
+8ee/L	-sze-
+8ff#/J	-czek
+=7	=7
+8dd/L	tyl-
+8dd/J	-ko
+16ee/L	na-
+16cc/J	-zbié-
+=8	=8
+16a\	-ram
+16a\	na-
+8b\	-zbié-
+8g\	-ram.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Co ja tobie obiecała
+!!to ja tobie dam da i dam.
+!!w artuszeczek jabłuszeczek
+!!tylko nazbiéram nazbiéram.
+!!@@END: VERSES
+!!!role-singer: Mistress
+!!!role-listener: Lover
+!!!singer-sex: female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=104 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 80} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 80}
 !!!page: 80
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-21

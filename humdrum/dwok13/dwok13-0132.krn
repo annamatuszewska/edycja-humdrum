@@ -3,82 +3,111 @@
 !!!source: DWOK13
 !!!id: 13132
 !!!signature: 1313200000
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/8
-=1
-{8cc#
-4cc#
-=2
-8b
-8b
-8ee
-=3
-8cc#
-4cc#
-=4
-8b
-8b
-8a}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M3/8	*
+=1	=1
+{8cc#	Szedł
+4cc#	Bu-
+=2	=2
+8b	-ry
+8b	z_miasta
+8ee	.
+=3	=3
+8cc#	pod-
+4cc#	-piw-
+=4	=4
+8b	-szy
+8b	so-
+8a}	-bie,
 !!LO:LB:g=esac
-=5
-{16cc#
-16a
-8cc#
-8ee
-=6
-8b
-8b
-8ee
-=7
-16cc#
-16a
-8cc#
-8ee
-=8
-8b
-8b
-8a}
+=5	=5
+{16cc#/L	li-
+16aJ	.
+8cc#/L	-ra-
+8ee/J	.
+=6	=6
+8b	-ły
+8b	mu
+8ee	się
+=7	=7
+16cc#/OL	no-
+16aJ	.
+8cc#/L	-ży-
+8ee/J	.
+=8	=8
+8b	-ska
+8b	.
+8a}	obie,
 !!LO:LB:g=esac
-=9
-{16g#
-16b
-4dd
-=10
-8cc#
-8cc#
-8ee
-=11
-16g#
-16b
-4dd
-=12
-8cc#
-8cc#
-8a}
+=9	=9
+{16g#L	to
+16b/J	na
+4dd	tę,
+=10	=10
+8cc#	to
+8cc#	na
+8ee	tę,
+=11	=11
+16g#L	to
+16b/J	na
+4dd	o-
+=12	=12
+8cc#	-wą
+8cc#	stronę,
+8a}	.
 !!LO:LB:g=esac
-=13
-{16g#
-16b
-4dd
-=14
-8cc#
-8cc#
-8ee
-=15
-16g#
-16b
-4dd
-=16
-8cc#
-8cc#
-8a}
-==
-*-
+=13	=13
+{16g#L	a
+16b/J	śpiewał-
+4dd	.
+=14	=14
+8cc#	-ci
+8cc#	sobie
+8ee	.
+=15	=15
+16g#L	tę
+16b/J	.
+4dd	pio-
+=16	=16
+8cc#	-sneczkę
+8cc#	.
+8a}	one:
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Szedł Bury z miasta podpiwszy sobie,
+!!lirały mu się nożyska obie,
+!!to na tę, to na tę, to na ową stronę,
+!!a śpiewał-ci sobie tę piosneczkę onę:
+!!tu da da! tu da da!
+!!@VERSE:
+!!2. Przyszedł do domu, usiadł na łóżko,
+!!żona go się pyta: a co ci to duszko?
+!!Ach ach ach, ach ach ach, moja miła żono,
+!!po wnętrzu mnie gryzie, zaniemogę pono:
+!!tu da da, tu da da!
+!!@VERSE:
+!!3. Wierci się, wierci, nogami grzebie,
+!!a już na dobre obrzydza siebie,
+!!uhę, uhę, uhę! — zwalił się w śmieciska,
+!!kędy niedaleko trzy były świniska:
+!!tu da da! tu da da!
+!!@VERSE:
+!!4. Świnie poczuły Burego ubranie,
+!!daléj, czemprędzéj: rach, rach, rach, na nie;
+!!ach ty nasz, ach ty nasz, tak go całowały,
+!!że z ubrania jego płaty się zostały:
+!!tu dana! tu dana!
+!!@@END: VERSES
+!!!role-listener: Group
+!!!singer-sex: Complex
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=100 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 76} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 76}
 !!!page: 76
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-21

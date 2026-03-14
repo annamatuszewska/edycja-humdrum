@@ -3,101 +3,133 @@
 !!!source: DWOK13
 !!!id: 13123
 !!!signature: 1312300000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16cc
-16a
-8cc
-16ee
-16f#
-=2
-8g
-8b
-16g
-16e
-=3
-16d
-16d
-8f#
-8a
-=4
-16cc
-16cc
-8cc
-8dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Mazur.	!
+{16cc	Gdy
+16a\	mi
+8cc	Ma-
+16eeL	-zur
+16f#J	.
+=2	=2
+8g	zabrzmi
+8b	.
+16g\	w_uszy,
+16e\	.
+=3	=3
+16d	ja
+16d	z_mą
+8f#	lu-
+8a	-bą
+=4	=4
+16cc	sta-
+16cc	-nę
+8cc	w_kole,
+8dd}	.
 !!LO:LB:g=esac
-=5
-{16ee
-16a
-8cc
-16ee
-16f#
-=6
-16g
-16a
-16b
-16g
-16f#
-16e
-=7
-16d
-16d
-8f#
-8a
-=8
-16cc
-16cc
-8b
-8g}
+=5	=5
+{16ee/L	niemasz
+16a/J	.
+8cc	nieszczęść
+16eeL	.
+16f#J	dla
+=6	=6
+16gL	méj
+16aJ	.
+16b/L	duszy,
+16g	.
+16f#	.
+16eJ	.
+=7	=7
+16d	radość
+16d	.
+8f#	zagłu-
+8a	.
+=8	=8
+16cc	-sza
+9ddq	.
+16cc	niedolę.
+8b	.
+8g}	.
 !!LO:LB:g=esac
-=9
-{4a
-8a
-=10
-16a
-16cc
-16a
-16f#
-16g
-16a
-=11
-4b
-8b
-=12
-16b
-16dd
-16cc
-16b
-16a
-16g}
+=9	=9
+{4a	Da-
+8a	-na
+=10	=10
+16a	mo-
+16cc	-ja
+16aL	da-
+16f#J	.
+16gL	-na,
+16aJ	.
+=11	=11
+4b	Kasiu
+8b	.
+=12	=12
+16b	u-
+16dd	-ko-
+16ccL	-cha-
+16bJ	.
+16aL	-na.
+16g}J	.
 !!LO:LB:g=esac
-=13
-{8a
-8a
-8a
-=14
-16a
-16a
-8cc
-8a
-=15
-4d
-16f#
-16a
-=16
-16cc
-16cc
-8b
-8g}
-==
-*-
+=13	=13
+{8a	hop
+8a	da-
+8a	-na
+=14	=14
+16a	mo-
+16a	-ja
+8cc	da-
+8a\	-na,
+=15	=15
+4d	Ka-
+16f#L	-siu
+16aJ	.
+=16	=16
+16cc	u-
+8ddq	.
+16cc	-ko-
+8b	-cha-
+8g}	-na.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Gdy mi Mazur zabrzmi w uszy,
+!!ja z mą lubą stanę w kole,
+!!niemasz nieszczęść dla méj duszy,
+!!radość zagłusza niedolę.
+!!Dana moja dana,
+!!Kasiu ukochana.
+!!hop dana moja dana,
+!!Kasiu ukochana.
+!!@VERSE:
+!!2. Gdy rękoma mémi mile
+!!otoczona jéj figurka,
+!!latamy jak dwa motyle,
+!!których lekkie noszą piórka.
+!!Dana moja dana,
+!!Kasiu ukochana.
+!!@VERSE:
+!!3. Niech tam, jakich niema w kraju
+!!wszystkie szczęścia nieba mają.
+!!I tych niechcę (v. niechcę nieba), niechcę raju,
+!!bo (v. gdy) tam Mazura nie grają.
+!!Dana moja dana,
+!!Kasiu ukochana.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: male
 !!!ONB: Mazur
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=95 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 71} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 71}
 !!!page: 71
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-20

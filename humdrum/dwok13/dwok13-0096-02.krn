@@ -3,103 +3,142 @@
 !!!source: DWOK13
 !!!id: 13096
 !!!signature: 1309600002
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M6/8
-=1
-{4dd
-8cc
-4b-
-8f
-=2
-4ee-
-8dd
-4cc
-8f
-=3
-4dd
-8cc
-4b-
-8dd
-=4
-4cc
-8ff
-4ee-
-8cc}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M6/8	*
+=1	=1
+!LO:TX:a:t=Kowal.	!
+{4dd	Rze-
+8cc	-śko
+4b-	żwa-
+8f	-wo,
+=2	=2
+4ee-	sztu-
+8dd	-ku
+4cc	pu-
+8f	-ku,
+=3	=3
+4dd	tak
+8cc	do
+4b-	pra-
+8dd	-cy
+=4	=4
+4cc	dzie-
+8ff	-ci
+4ee-	wzywa
+8cc}	.
 !!LO:LB:g=esac
-=5
-{4dd
-8cc
-4b-
-8f
-=6
-4ee-
-8dd
-4dd
-8cc
-=7
-4dd
-8ee-
-4ff
-8b-
-=8
-4dd
-8cc
-8b-
-8b-}
-8r
+=5	=5
+{4dd	i
+8cc	przy
+4b-	gło-
+8f	-śnym
+=6	=6
+4ee-	mło-
+8dd	-tów
+8ee-q	.
+4dd	hu-
+8cc	-ku
+=7	=7
+4dd	sta-
+8ee-	-ry
+4ff	ko-
+8b-	-wal
+=8	=8
+4dd	pieśń
+8cc	tę
+8b-	śpiewa.
+8b-}	.
+8r	.
 !!LO:LB:g=esac
-=9
-{4dd
-8ee-
-4ff
-8b-
-=10
-4dd
-8ee-
-4ff
-8b-
-=11
-4dd
-8ee-
-4ff
-8ff
-=12
-8ff
-8gg
-8ff
-8ee-
-8dd
-8cc}
+=9	=9
+{4dd	Kierujcie
+8ee-	.
+4ff	.
+8b-	się
+=10	=10
+4dd	jak
+8ee-	mo-
+4ff	-że-
+8b-	-cie,
+=11	=11
+4dd	a-
+8ee-	-le
+4ff	pa-
+8ff	-mię-
+=12	=12
+8ff/L	-taj-
+8gg/	.
+8ff/J	-cie
+8ee-/L	o
+8dd/	tém
+8cc}/J	.
 !!LO:LB:g=esac
-=13
-{4dd
-8cc
-4b-
-8f
-=14
-4ee-
-8dd
-4dd
-8cc
-=15
-4dd
-8ee-
-4ff
-8b-
-=16
-4dd
-8cc
-8b-
-8b-}
-8r
-==
-*-
+=13	=13
+{4dd	że
+8cc	każdy
+4b-	.
+8f	mu-
+=14	=14
+4ee-	-si
+8dd	na
+8ee-q	.
+4dd	świecie
+8cc	.
+=15	=15
+4dd	być
+8ee-	ko-
+4ff	-wa-
+8b-	-dłem
+=16	=16
+4dd	al-
+8cc	-bo
+8b-	mło-
+8b-}	-tem.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Rześko żwawo, sztuku, puku,
+!!tak do pracy dzieci wzywa
+!!i przy głośnym młotów huku
+!!kowal pieśń tę śpiewa.
+!!@VERSE:
+!!2. Kierujcie się jak możecie,
+!!ale pamietajcie o tém,
+!!Że każdy musi na świecie
+!!Być kowadłem albo młotem.
+!!@VERSE:
+!!3. Błyszczy stal w ogniu, oczęta
+!!lubój błyszczą miléj jeszcze;
+!!lecz biada, kogo ponęta
+!!w złéj kobiety poda kleszcze.
+!!@VERSE:
+!!4. Dzieci, wierzcie kowalowi,
+!!diabeł wichrzy takiém stadłem,
+!!gdzie na przekór rozumowi
+!!żona młotem, mąż kowadłem.
+!!@VERSE:
+!!5. Jak bez ognia nasze miechy
+!!w kuźni węgli nie rozżarzą,
+!!tak bez cnót niémasz pociechy,
+!!bo swobodą cnoty darzą.
+!!@VERSE:
+!!6. Póki pogardzając złotem,
+!!samienie miała żwierciadłem,
+!!dzielna Polska była młotem,
+!!dziś niestety jest kowadłem.
+!!@@END: VERSES
+!!!role-singer: Complex
+!!!role-listener: Group
+!!!singer-sex: complex
 !!!ONB: zapisana melodia dwóch zwrotek
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=79 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 55} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 55}
 !!!page: 55
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-15

@@ -3,149 +3,199 @@
 !!!source: DWOK13
 !!!id: 13116
 !!!signature: 1311600000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8d
-8f#
-4g
-4b
-=2
-8dd
-8a
-4cc
-8b
-8g
-=3
-8d
-8f#
-4g
-4b
-=4
-8dd
-8a
-4cc
-8b
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+!LO:TX:a:t=Kasiuleńka i Ojczyzna.	!
+{8d	Da
+8f#	śliczna
+4g	.
+4b	w_po-
+=2	=2
+8dd	-lu
+8a\	li-
+4cc	-li-
+8b/L	-ja,
+8gJ	.
+=3	=3
+8d	śliczniejsza
+8f#	.
+4g	.
+4b	ró-
+=4	=4
+8dd	-ża
+8a	da
+4cc/	da-
+16eeqL	.
+16ccqJ	.
+8b/L	-na
+8gJ}	.
 !!LO:LB:g=esac
-=5
-{8g
-8b
-4dd
-4dd#
-=6
-4.ff#
-8ee
-8dd
-8cc
-=7
-8a
-8b
-4cc
-4cc#
-=8
-4.ee
-8dd
-8cc#
-8dd}
+=5	=5
+{8g	od
+8b	ró-
+4dd	-życz-
+4dd#	-ki
+=6	=6
+4.ff#	da
+8ee	śliczniejsza
+8dd	.
+8cc	.
+=7	=7
+8a\	Kasiu-
+8b	.
+4cc	-leń-
+4cc#	-ka
+=8	=8
+4.ee	u-
+8dd	-ko-
+8cc#	-chana,
+8dd}	.
 !!LO:LB:g=esac
-=9
-{8g
-8b
-4dd
-4dd#
-=10
-4.ff#
-8ee
-8dd
-8cc
-=11
-8b
-8a
-4cc
-4f#
-=12
-8a
-8g
-4b
-4g}
+=9	=9
+{8g	od
+8b	ró-
+4dd	-życz-
+4dd#	-ki
+=10	=10
+4.ff#	da
+8ee	śliczniejsza
+8dd	.
+8cc	.
+=11	=11
+8b	Kasiu-
+8a\	.
+4cc	-leń-
+4f#	-ko
+=12	=12
+8a	u-
+8g	-ko-
+4b	-chana.
+4g}	.
 !!LO:LB:g=esac
-=13
-{8e
-8g
-4b
-4ee
-=14
-4dd
-8cc
-8a
-8f#
-8d#
-=15
-8e
-8g
-4b
-4ee
-=16
-4dd
-8cc
-8a
-8f#
-8d#}
+=13	=13
+{8e	Śli-
+8g	-czna
+4b	ró-
+4ee	-ży-
+=14	=14
+4dd	-czka
+16eeqL	.
+16ddqJ	.
+8ccL	czer-
+8a\J	.
+8f#	-wona
+8d#	.
+=15	=15
+8e	Kasiń-
+8g	.
+4b	-ka
+4ee	da
+=16	=16
+4dd	i
+16eeqL	.
+16ddqJ	.
+8cc	śli-
+8a	.
+8f#	-czniejsza
+8d#}	.
 !!LO:LB:g=esac
-=17
-{8e
-8g
-4b
-4ee
-=18
-4dd
-8cc
-8a
-8f#
-8e-
-=19
-8d
-8f#
-4a
-4ee
-=20
-4dd
-8cc
-8a
-8f#
-8e-}
+=17	=17
+{8e	najśliczniejsza
+8g	.
+4b	.
+4ee	.
+=18	=18
+4ddn	da
+16eeqL	.
+16ddqJ	.
+8ccL	oj-
+8a\J	.
+8f#	-czy-
+8e-	-zna
+=19	=19
+8d	da
+8f#	ojczyzna
+4a	.
+4ee	.
+=20	=20
+4dd	najmi-
+16eeqL	.
+16ddqJ	.
+8ccL	.
+8a\J	.
+8f#	-lejsza,
+8e-}	.
 !!LO:LB:g=esac
-=21
-{8e
-8g
-4b
-4ee
-=22
-4dd
-8cc
-8a
-8f#
-8e-
-=23
-8d
-8f#
-4a
-4ee
-=24
-4dd
-8cc
-8a
-8f#
-8e-}
-==
-*-
+=21	=21
+{8e	najśliczniejsza
+8g	.
+4b	.
+4ee	.
+=22	=22
+4ddn	da
+16eeqL	.
+16ddqJ	.
+8ccL	oj-
+8a\J	.
+8f#	-czy-
+8e-	-zna
+=23	=23
+8d	da
+8f#	ojczyzna
+4a	.
+4ee	.
+=24	=24
+4dd	najmi-
+16eeqL	.
+16ddqJ	.
+8cc/L	.
+8aJ	.
+8f#	-lejsza.
+8e-}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Da śliczna w polu lilija,
+!!śliczniejsza róża da dana,
+!!od różyczki da śliczniejsza
+!!Kasiuleńka ukochana,
+!!od różyczki da śliczniejsza
+!!Kasiuleńka ukochana.
+!!Śliczna różyczka czerwona,
+!!Kasińka da i śliczniejsza
+!!najśliczniejsza da ojczyzna,
+!!da ojczyzna najmilejsza.
+!!@VERSE:
+!!2. Nuci ptaszek pieśń w gęstwinie,
+!!leszczyna słucha da słucha;
+!!oj milejsze piosnki Kasi,
+!!milejże ma Kasia grucha.
+!!Śliczne są piosnki słowika,
+!!śliczniejsze da Kasiuleńki,
+!!najmilejszy głos ojczyzny,
+!!da ojczyzny matuleńki.
+!!@VERSE:
+!!3. Za różyczkę dam trzy grosze,
+!!za słowika sześć da dana,
+!!za ciebie dam serce, duszę,
+!!Kasiuleńku ukochana.
+!!Ze słowika huk groszyka,
+!!za Kasińkę da i siebie;
+!!za ojczyznę, Kasiuleńko,
+!!za nią dam siebie i ciebie.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: male
 !!!ONB: Kasiuleńka i Ojczyzna, muz. Aut. Wojkowskiego
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=90 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 66-67} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, pp. 66-67}
 !!!page: 66-67
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-19

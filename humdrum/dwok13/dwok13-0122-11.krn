@@ -3,58 +3,88 @@
 !!!source: DWOK13
 !!!id: 13122
 !!!signature: 1312200011
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{8.cc
-16g
-16ee
-16g
-=2
-16cc
-16a
-8a
-8a
-=3
-8.g
-16g
-16b
-16dd
-=4
-16g
-16b
-8cc
-8ee}
+!!!EFL:1312200011/1
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Okrągły.	!
+{8.cc	Kto
+16g	chce
+16ee	tę-
+16g	-gi
+=2	=2
+16cc	haust
+16a	wy-
+8a\	-chy-
+8ccq	.
+8a\	-lić,
+=3	=3
+8.g	kto
+16g	chce
+16b	ży-
+16dd	-cie
+=4	=4
+16g	swe
+16b	u-
+8cc	-mi-
+8ee}	-lić
 !!LO:LB:g=esac
-=5
-{8.cc
-16g
-16ee
-16g
-=6
-16cc
-16a
-8a
-8a
-=7
-8.g
-16a
-16b
-16dd
-=8
-16cc
-16a
-16g
-16b
-8cc}
-==
-*-
+=5	=5
+{8.cc	niech
+16g	ta-
+16ee	-ki
+16g	kie-
+=6	=6
+16cc	-lich
+16a	po-
+8a\	-dwo-
+8a\	-ji
+=7	=7
+8.g	na
+16a	zdrowie
+16b	.
+16dd	swo-
+=8	=8
+16cc	-jéj
+16a	dziewo-
+16gL	.
+16b/J	.
+8cc}	-ji.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Kto chce tęgi haust wychylić,
+!!kto chce życie swe umilić
+!!niech taki kielich podwoji
+!!na zdrowie swojéj dziewoji.
+!!Tram tram tram łyktus łyktus łyk,
+!!łyktus benedyktus benedyktus łyk
+!!benedyktus łuk łyk łyk, łyk łyk, łyk.
+!!@VERSE:
+!!2. Wyrzuć chłopcze czapkę w górę,
+!!pozarzucąj w tył wyloty,
+!!zsuniéj z czoła smutku chmurę,
+!!gdy doznasz kobiet pieszczoty.
+!!Tram, tram, tram, łyktus, łyktus łyk,
+!!łyktus benedyktus, benedyktus łyk.
+!!@VERSE:
+!!3. Serce kobiet cnót siedliskiem,
+!!a gdzie dlań szacunek gaśnie,
+!!tam cnota tylko igrzyskiem,
+!!niech taki kraj piorun trzaśnie.
+!!Tram, tram, tram, łyktus, łyktus łyk,
+!!łyktus benedyktus, benedyktus łyk.
+!!@@END: VERSES
+!!!role-listener: Group
+!!!singer-sex: male
 !!!ONB: Fragment w C
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=94 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 70} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 70}
 !!!page: 70
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-20

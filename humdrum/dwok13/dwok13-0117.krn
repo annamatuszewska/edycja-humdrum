@@ -3,93 +3,123 @@
 !!!source: DWOK13
 !!!id: 13117
 !!!signature: 1311700000
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M2/4
-=1
-{8cc#
-8ee
-16ee
-16dd
-16dd
-16cc#
-=2
-8cc#
-8ee
-16ee
-16dd
-16dd
-16cc#}
+**kern	**text	**text
+*clefG2	*	*
+*k[f#c#g#]	*	*
+*A:	*	*
+*M2/4	*	*
+=1	=1	=1
+!LO:TX:a:t=Wiwat przyjacielski.	!	!
+{8cc#	1.Niemasz	2.Kto
+8ee	.	go
+(16eeL	w_świecie	ko-
+16ddJ)	.	.
+(16ddL	.	-cha,
+16cc#J)	.	.
+=2	=2	=2
+8cc#	nic	kto
+8ee	mil-	mu
+(16eeL	-sze-	sprzy-
+16ddJ)	.	.
+(16ddL	-go,	-ja,
+16cc#J)}	.	.
 !!LO:LB:g=esac
-=3
-{4.ff#
-8dd
-=4
-4.b
-8g#
-=5
-8a
-8a
-8cc#
-8a}
+=3	=3	=3
+{(4.ff#	hej,	hej,
+8dd)	.	.
+=4	=4	=4
+(4.b	hej,	hej,
+8g#)	.	.
+=5	=5	=5
+8a	nic	kto
+8a	mil-	mu
+8cc#	-szego,	sprzyja
+8a\}	.	.
 !!LO:LB:g=esac
-=6
-{4.ff#
-8dd
-=7
-4.b
-8g#
-=8
-8a
-8a
-8cc#
-8ee}
+=6	=6	=6
+{(4.ff#	hej,	hej,
+8dd)	.	.
+=7	=7	=7
+(4.b	hej,	hej,
+8g#)	.	.
+=8	=8	=8
+8a	nic	kto
+8a	mil-	mu
+8cc#/L	-szego,	sprzyja
+8ee/J}	.	.
 !!LO:LB:g=esac
-=9
-{8.e
-16g#
-16g#
-16b
-16b
-16dd
-=10
-8a
-8a
-8cc#
-8ee}
+=9	=9	=9
+{8.eL	jak	dusz-
+16g#J	.	.
+16g#L	kto	-kiem
+16bJ	ma	.
+16bL	przyja-	zdrowie
+16ddJ	.	.
+=10	=10	=10
+8aL	-ciela	niech
+8aJ	.	.
+8cc#L	swego	wypija
+8ee}J	.	.
 !!LO:LB:g=esac
-=11
-{4.dd
-8b
-=12
-4.g#
-8e
-=13
-8a
-16g#
-16a
-8cc#
-8a}
+=11	=11	=11
+{(4.dd	hej,	hej,
+8b)	.	.
+=12	=12	=12
+(<4.g#	przyja-	hej,
+8e)	.	.
+=13	=13	=13
+8aL	-ciela	niech
+16g#	.	wy-
+16aJ	.	.
+8cc#L	swego	-pi-
+8a\J}	.	-ja.
 !!LO:LB:g=esac
-=14
-{4.dd
-8b
-=15
-4.b
-8g#
-=16
-8a
-16g#
-16a
-8cc#
-8ee}
-==
-*-
+=14	=14	=14
+{(4.dd	hej,	hej,
+8b)	.	.
+=15	=15	=15
+(4.b	przyja-	hej,
+8g#)	.	.
+=16	=16	=16
+8aL	-ciela	niech
+16g#	.	wy-
+16aJ	.	.
+8cc#/L	swego.	-pi-
+8ee/}J	.	-ja.
+==	==	==
+!!!RDF**kern: <=above	**text
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. Niemasz w świecie nic milszego,
+!!hej, hej, nic milszego,
+!!jak kto ma przyjaciela swego
+!!hej, przyjaciela swego.
+!!@VERSE:
+!!2. Kto go kocha,
+!!kto mu sprzyja,
+!!hej, hej, kto mu sprzyja
+!!duszkiem zdrowie niech wypija
+!!hej, hej niech wypija
+!!hej, hej niech wypija.
+!!@VERSE:
+!!Na tę nutę śpiewają (skracając drugi wiersz)
+!!Aby kufel stał przede mną, hej itd.
+!!i przyjaciel wypił ze mną,
+!!a tymczasem robotnicy
+!!pieczą mieli o winnicy.
+!!To wszystko moje staranie,
+!!to skarb cały i zabawa,
+!!ani dbam o kasztelana
+!!trzymając się mocno dzbana.
+!!@@END: VERSES
+!!!role-singer: Friend
+!!!role-listener: Friends
+!!!singer-sex: Complex
 !!!ONB: Wiwat przyjacielski
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=91 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 67} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 67}
 !!!page: 67
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-19

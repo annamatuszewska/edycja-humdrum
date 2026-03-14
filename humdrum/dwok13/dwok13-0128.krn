@@ -3,78 +3,99 @@
 !!!source: DWOK13
 !!!id: 13128
 !!!signature: 1312800000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8.gg
-16dd
-16b
-16g
-=2
-16a
-16a
-8f#
-8g
-=3
-16d
-16d
-8.g
-16b
-=4
-16a
-16a
-8f#
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Obertas.	!
+{8.gg	Hej
+16dd	o-
+16b	-be-
+16g	-rek,
+=2	=2
+16a	o-
+16a	-be-
+8f#	-reczek,
+8g	.
+=3	=3
+16d	ra-
+16d	-źno
+8.g	chłopcy
+16b	.
+=4	=4
+16a	do
+16a	dzieweczek,
+8f#	.
+8g}	.
 !!LO:LB:g=esac
-=5
-{16d
-16d
-8.g
-16b
-=6
-16a
-16a
-8cc
-8ee
-=7
-8.dd
-16dd
-16b
-16g
-=8
-16a
-16a
-8f#
-8g}
+=5	=5
+{16d	ra-
+16d	-źno
+8.g	chłopcy
+16b	.
+=6	=6
+16a	w_lewo
+16a	.
+8cc	w_prawo,
+8ee	.
+=7	=7
+8.dd	krzeszcie
+16dd	.
+16b	ognia
+16g	.
+=8	=8
+16a	i-
+16a	-no
+8f#	żwawo.
+8g}	.
 !!LO:LB:g=esac
-=9
-{16d
-16d
-8.g
-16b
-=10
-16a
-16a
-8cc
-8ee
-=11
-8.dd
-16dd
-16b
-16g
-=12
-16a
-16a
-8f#
-8g}
-==
-*-
+=9	=9
+{16d	ra-
+16d	-źno
+8.g	chłopcy
+16b	.
+=10	=10
+16a	w_lewo
+16a	.
+8cc	w_prawo,
+8ee	.
+=11	=11
+8.dd	krzeszcie
+16dd	.
+16b	ognia
+16g	.
+=12	=12
+16a	i-
+16a	-no
+8f#	żwawo.
+8g}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Hej oberek, obereczek,
+!!raźno chłopcy do dzieweczek,
+!!raźno chłopcy w lewo w prawo,
+!!krzeszcie ognia ino żwawo.
+!!@VERSE:
+!!2. Maciek opuścił wąsiska,
+!!kieby jastrząb dwa skrzydiiska;
+!!ale kiej sporego łyknął:
+!!hej oberek! raźno krzyknął.
+!!@VERSE:
+!!3. Skrzypicielu, rznij od ucha,
+!!boć to ogień nie dziewucha;
+!!aó i ja téż pod ochotę
+!!diabła pod obcasem zgniotę.
+!!@@END: VERSES
+!!!role-listener: Group
+!!!singer-sex: Complex
 !!!ONB: Obertas
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=98 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 74} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 74}
 !!!page: 74
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-20

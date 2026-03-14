@@ -3,57 +3,72 @@
 !!!source: DWOK13
 !!!id: 13127a
 !!!signature: 13127a0010
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8b
-8b
-16b
-16b
-=2
-16b
-16b
-8g
-8b
-=3
-16b
-16b
-8g
-8ee
-=4
-16dd
-16dd
-8dd
-8dd}
+!!!EFL:13127a0010/1
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8b	Ra-
+8b	-źne
+16b	chłopcy,
+16b	.
+=2	=2
+16b	hej
+16b	pa-
+8g	-rob-
+8b	-cy,
+=3	=3
+16b	hej
+16b	dziewczęta
+8g	.
+8ee	.
+=4	=4
+16dd	zwi-
+16dd	-jaj-
+8dd	-ta
+8dd}	się,
 !!LO:LB:g=esac
-=5
-{8b
-8b
-16b
-16b
-=6
-16b
-16b
-8g
-8b
-=7
-16a
-16a
-8a
-8a
-=8
-16g
-16a
-8b
-8g}
-==
-*-
+=5	=5
+{8b	Maciek
+8b	.
+16b	Ba-
+16b	-się,
+=6	=6
+16b	An-
+16b	-tek
+8g\	Ka-
+8b	-się,
+=7	=7
+16a	hej-
+16a	-że
+8a	da-
+8a	-léj
+=8	=8
+16g	zwi-
+16a	-jaj-
+8b/	-ta
+8g}	się.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Raźne chłopcy, hej parobcy,
+!!hej dziewczęta zwijajta się,
+!!Maciek Basię, Antek Kasię,
+!!hejże daléj zwijajta się.
+!!Lecz półkwartą pić nie warto,
+!!gospodyni dobądź dzbana,
+!!dana, dana, dana dana,
+!!będziem hulać aż do rana.
+!!@@END: VERSES
+!!!role-listener: Group
+!!!singer-sex: male
 !!!ONB: Fragment w G
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=97 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 73} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 73}
 !!!page: 73
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-20

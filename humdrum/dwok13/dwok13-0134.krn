@@ -3,57 +3,90 @@
 !!!source: DWOK13
 !!!id: 13134
 !!!signature: 1313400000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{8cc
-8cc
-16cc
-16ee
-=2
-16dd
-16cc
-8a
-8g
-=3
-8.cc
-16d
-16f
-16a
-=4
-16g
-16e
-8d
-8c}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{8cc	Pod-
+8cc	-kó-
+16cc	-weczki
+16ee	.
+=2	=2
+16dd	nie
+16cc	sta-
+8a	-lo-
+8g	-ne,
+=3	=3
+8.cc	krzesać
+16d	.
+16f	nie
+16a	mo-
+=4	=4
+16g	-gą,
+16e	nie
+8d	mogą.
+8c}	.
 !!LO:LB:g=esac
-=5
-{16c
-16e
-8g
-8g
-=6
-16g
-16cc
-8.a
-16f
-=7
-8d
-16d
-16c
-16d
-16a
-=8
-16g
-16e
-8d
-8c}
-==
-*-
+=5	=5
+{16c	Dziewcze
+16e	.
+8g	mi
+8g\	się
+=6	=6
+16g	roz-
+16cc	-gnie-
+8.a	-wa-
+16f	-ło,
+=7	=7
+8d	po-
+16dL	-sło
+16cJ	.
+16d	mi
+16a\	do
+=8	=8
+16g	dom
+8fq	.
+16e	da
+8d	da
+8c}	dom.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Podkóweczki nie stalone,
+!!krzesać nie mogą, nie mogą.
+!!Dziewcze mi sięrozgniewało,
+!!poszło mi do dom da da dom.
+!!@VERSE:
+!!2. Podkóweczki już stalone,
+!!toć krzesają jak szalone.
+!!Podkóweczki z saméj stali,
+!!do Marysi daléj, daléj.
+!!@VERSE:
+!!3. Podkóweczki dajcie (w) ognia,
+!!bo Marysia tego godna.
+!!A czy godna, czy niegodna,
+!!podkóweczki dajcie (w) ognia.
+!!@VERSE:
+!!Od Wyrzyska, Nakla (nuta nr 145):
+!!4. Podkóweczki ognia!
+!!czemu nie krzeszecie?
+!!Wy Kunowskie panny.
+!!czemu mnie nie chcecie?
+!!@VERSE:
+!!5. Mybyśmy cię chciały,
+!!gdybyś miał talary.
+!!Myszy- kieszeń zjadły,
+!!talary wypadły.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Girls
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=103 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 79} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 79}
 !!!page: 79
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-21

@@ -3,61 +3,76 @@
 !!!source: DWOK13
 !!!id: 13135
 !!!signature: 1313500002
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16cc
-16cc
-8dd
-8ee
-=2
-16dd
-32cc
-32b
-8a
-8g
-=3
-16cc
-16cc
-8b
-8cc
-=4
-16g
-32f
-32e
-8d
-8c}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16cc	Objadłam
+16cc	.
+8dd	.
+8ee	się
+=2	=2
+16dd	kłu-
+32ccL	-sek
+32bJ	.
+8a	z_wo-
+8g	-dą,
+=3	=3
+16cc	te-
+16cc	-raz
+8b	mnie
+8cc	po
+=4	=4
+16g	brzuchu
+32fL	.
+32eJ	.
+8d	bo-
+8c}	-dą.
 !!LO:LB:g=esac
-=5
-{16e
-16d
-8e
-16e
-16f
-=6
-16e
-16d
-8f
-8a
-=7
-16g
-32a
-32b
-8cc
-8e
-=8
-16g
-32f
-32e
-8d
-8c}
-==
-*-
+=5	=5
+{16eL	Nie
+16dJ	tak
+8eL	kluski,
+16e	.
+16fJ	.
+=6	=6
+16e	nie
+16d	tak
+8f	wo-
+8a	-da,
+=7	=7
+16g	mo-
+32a\L	-dre
+32bJ	.
+8cc	o-
+8e	-czki,
+=8	=8
+16g	czar-
+32fL	-na
+32eJ	.
+8d	bro-
+8c}	-da.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Objadłam się kłusek z odą,
+!!teraz mnie po brzuchu bodą.
+!!Nie tak kluski, nie tak woda,
+!!modre oczki, czarna broda.
+!!@VERSE:
+!!2. Oj jag'em się ji zalécał,
+!!smażyła my rżane kluski;
+!!teraz'em sie z nią ożeniuł,
+!!i mam w brzuchu same pustki.
+!!@@END: VERSES
+!!!role-singer: Mistress,Lover
+!!!singer-sex: female, male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=104 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 80} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 80}
 !!!page: 80
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-21

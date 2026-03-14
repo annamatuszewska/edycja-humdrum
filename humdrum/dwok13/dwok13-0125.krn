@@ -3,151 +3,189 @@
 !!!source: DWOK13
 !!!id: 13125
 !!!signature: 1312500000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8.dd
-16b
-16cc
-16a
-=2
-16g
-16b
-4d
-=3
-8.dd
-16b
-16cc
-16a
-=4
-16g
-16b
-4d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Mazur.	!
+{8.dd	Hej
+16b	Ma-
+16cc	-zu-
+16a	-ry,
+=2	=2
+16g	hej-
+16b	-że
+4d	ha,
+=3	=3
+8.dd	pó-
+16b	-ki
+16cc	ży-
+16a	-cia
+=4	=4
+16g	wiosna
+16b	.
+4d}	trwa.
 !!LO:LB:g=esac
-=5
-{8d
-8cc
-8cc
-=6
-16b
-16dd
-8g
-8dd
-=7
-16d
-16cc
-8d
-8cc
-=8
-16b
-16dd
-8g
-8dd}
+=5	=5
+{16dL	Pó-
+16cc/J	-ki
+8cc	ser-
+8cc	-ce
+=6	=6
+16b	ży-
+16dd	-wo
+8g\	bi-
+8dd	-je,
+=7	=7
+16d	póty
+16cc	.
+8d\	człek
+8cc	szczę-
+=8	=8
+16b	-ścia
+16dd	u-
+8g\	-żyje,
+8dd}	.
 !!LO:LB:g=esac
-=9
-{16d
-16d
-8.cc
-16a
-=10
-16g
-16g
-8.ee
-16dd
-=11
-16dd
-16dd
-8cc
-8f#
-=12
-4g}
-8r
+=9	=9
+{16d	hej
+16d	że
+8.cc	w_hopki,
+16a	.
+=10	=10
+16g\	hej
+\16g	.
+8.ee	parob-
+16dd	-ki,
+=11	=11
+8bq	.
+16dd	gdy
+16dd	muzy-
+8cc	.
+8f#	-ka
+=12	=12
+4g}	gra.
+8r	.
 !!LO:LB:g=esac
-=13
-{16g
-16f#
-8g
-8a
-=14
-16b
-16a
-4g
-=15
-8.dd
-16f#
-16g
-16a
-=16
-16b
-16a
-4g}
+=13	=13
+{16g	Już
+16f#	nam
+8g	szumny
+8a	.
+=14	=14
+16b/	zabrzmiał
+16a	.
+4g	bas,
+=15	=15
+8.dd	nu-
+16f#	-że
+16g	bra-
+16a	-cia
+=16	=16
+16b/	da-
+16a	-léj
+4g}	wraz,
 !!LO:LB:g=esac
-=17
-{16.g
-32f#
-8g
-8a
-=18
-16b
-16a
-4g
-=19
-16g
-16dd
-8dd
-8dd
-=20
-16cc#
-16a
-4dd}
+=17	=17
+{16.g	al-
+32f#	-boż
+8g	my
+8a	nie
+=18	=18
+16b/	w_chłopa
+16a	.
+4g	chłop,
+=19	=19
+16g	ty
+16dd	bracie
+8dd	.
+8dd	w_pod-
+=20	=20
+16cc#	-ków-
+16a	-ki
+4dd;}	hop.
 !!LO:LB:g=esac
-=21
-{16d
-16cc
-8cc
-8cc
-=22
-16b
-16dd
-8b
-8dd
-=23
-16d
-16cc
-8cc
-8cc
-=24
-16b
-16dd
-8ee
-8dd}
+=21	=21
+{8d\	Hej
+8cc	da-
+8cc	-léj,
+=22	=22
+16b	da-
+16dd	-léj,
+8b/L	daléj,
+8dd/J	.
+=23	=23
+16d	patrzcie
+16cc	.
+8cc/L	jak
+8cc/J	się
+=24	=24
+16b	Ma-
+16dd	-zur
+8ee/L	wali,
+8dd/J}	.
 !!LO:LB:g=esac
-=25
-{16d
-16d
-8.cc
-16a
-=26
-16g
-16b
-8.ee
-16dd
-=27
-16dd
-16dd
-8cc
-8f#
-=28
-4g}
-8r
-==
-*-
+=25	=25
+{16d	bo
+16d	Mazu-
+8.cc	.
+16a	-ry
+=26	=26
+16gL	krzyczą
+16b/J	.
+8.ee	z_góry,
+16dd	.
+=27	=27
+8bq	.
+16dd	nasza
+16dd	.
+8cc	zie-
+8f#	-mia
+=28	=28
+4g}	raj.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Hej Mazury, hejże ha,
+!!póki życia wiosna trwa.
+!!póki serce żywo bije,
+!!póty człek szczęścia użyje,
+!!hej że w hopki, hej parobki,
+!!gdy muzyka gra.
+!!Już nam szumny zabrzmiał bas,
+!!nuże bracia daléj wraz,
+!!alboż my nie w chłopa chłop,
+!!ty bracie w podkówki hop.
+!!Hej daléj, daléj, daléj,
+!!patrzcie jak się Mazur wali,
+!!bo Mazury krzyczą z góry,
+!!nasza ziemia raj.
+!!@VERSE:
+!!2. To mi ziemia, to mi kraj,
+!!w to mi Maćku, w to mi graj
+!!Są tam chłopcy, chléb i kasza,
+!!wielka, żyzna Polska nasza;
+!!hejże! chłopcy, hej parobcy,
+!!bo muzyka gra.
+!!Miło nam w tym kraju żyć,
+!!milo w podkoweczki bić;
+!!a ktoby nam przerwał pląs,
+!!na bok z brodą, wara wąs!
+!!Daléj, daléj, daléj, daléj,
+!!patrzcie jak się Mazur wali,
+!!bo Mazury, biją z góry,
+!!okropny ich dąs!
+!!@@END: VERSES
+!!!role-listener: Group
+!!!singer-sex: male
 !!!ONB: Mazur
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=96 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 72} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 72}
 !!!page: 72
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-20
