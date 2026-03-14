@@ -15,7 +15,7 @@
 8dd	.
 =2	=2
 (8.b	-dy-
-16a)	.
+16a\)	.
 16f#L	-szek,
 16bJ	.
 =3	=3
@@ -56,27 +56,33 @@
 !!!role-singer: Mistress, Narrator
 !!!singer-sex: female, male
 !!@@BEGIN: VERSES
-!!@VERSE:1. Ten tu ogródyszek,
+!!@VERSE:
+!!1. Ten tu ogródyszek,
 !!stoji malowany.
 !!Chtóż mi go malował?
 !!Jasio mój kochany.
-!!@VERSE:2. W tém tu ogródyszku
+!!@VERSE:
+!!2. W tém tu ogródyszku
 !!czerwone goździki —
 !!zakładaj, zaprzęgaj
 !!te brone koniki.
-!!@VERSE:3. Jakże je zakładać
+!!@VERSE:
+!!3. Jakże je zakładać
 !!kiedy się targają,
 !!ciężki żal kochance,
 !!kiej ij ślub dawają.
-!!@VERSE:4. Poszła do kościoła
+!!@VERSE:
+!!4. Poszła do kościoła
 !!siadła za ławami,
 !!co na Jasia spójźdrzy,
 !!zaleje się łzami.
-!!@VERSE:5. Wyszła-ci z kościoła:
+!!@VERSE:
+!!5. Wyszła-ci z kościoła:
 !!już'em nie dziéweczka,
 !!cięży mi na główce
 !!ta złota czapeczka.
-!!@VERSE:6. Wyszła-ci z kościoła
+!!@VERSE:
+!!6. Wyszła-ci z kościoła
 !!podparła się płota:
 !!co ja sobie pocznę
 !!uboga sierota!
@@ -88,3 +94,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-02-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-08

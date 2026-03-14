@@ -64,15 +64,20 @@
 !!!role-singer: Lover
 !!!singer-sex: male
 !!@@BEGIN: VERSES
-!!@VERSE:1. Dziewula moja, w Kaliszu służy,
+!!@VERSE:
+!!1. Dziewula moja, w Kaliszu służy,
 !!óna nie wielczka, ma brzuszek duży.
-!!@VERSE:2. Jaka za soby, taka przed soby,
+!!@VERSE:
+!!2. Jaka za soby, taka przed soby,
 !!Nie widzieliśmy takiéj osoby.
-!!@VERSE:3. Takij osoby, takij takowy,
+!!@VERSE:
+!!3. Takij osoby, takij takowy,
 !!żeby chodziła w sukni makowyj
-!!@VERSE:4. Suknia makowa, biały obrąbek,
+!!@VERSE:
+!!4. Suknia makowa, biały obrąbek,
 !!dziewula moja gdyby gołąbek.
-!!@VERSE:5. Gdyby gołąbek, gdyby jaskółka,
+!!@VERSE:
+!!5. Gdyby gołąbek, gdyby jaskółka,
 !!nie żadna k.... tylko ślachcionka.
 !!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
@@ -82,3 +87,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-02-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-09

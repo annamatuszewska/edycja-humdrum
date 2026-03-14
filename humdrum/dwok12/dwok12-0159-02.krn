@@ -80,34 +80,40 @@
 !!!role-listener: Family, Husband, Wife
 !!!singer-sex: female, male
 !!@@BEGIN: VERSES
-!!@VERSE:1. Jezu, Maryja, już mnie mąż bije,
+!!@VERSE:
+!!1. Jezu, Maryja, już mnie mąż bije,
 !!nie ma takiego, co pożałuje.
 !!Oj i przyjedź matuleńku,
 !!oj i przyjedź najkochańsza,
 !!pożałuj mnie ty!
-!!@VERSE:2. Matusia jedzie, ciśnie we wrota,
+!!@VERSE:
+!!2. Matusia jedzie, ciśnie we wrota,
 !!sukienka na ni z samego złota:
 !!Oj i bijże zięciu dobrze,
 !!aż się skóra na ni podrze,
 !!bo to ladaco.
 !!(W ten sposób przechodzą: ojca, brata starszego, na którym ka-
 !!pelusz, laseczka z samego złota, siostrę u którćj fartuszek ze złota,
-!!kończą :)
-!!@VERSE:7. Jezu Maryja, już mnie mąż bije,
+!!kończą:)
+!!@VERSE:
+!!7. Jezu Maryja, już mnie mąż bije,
 !!nie ma takiego, co pożałuje.
 !!Oj przyjedź bracie, przyjedź,
 !!oj przyjedź ty najmłodszy,
 !!pożałuj mnie ty!
-!!@VERSE:8. Braciszek jedzie, ciśnie we wrota,
+!!@VERSE:
+!!8. Braciszek jedzie, ciśnie we wrota,
 !!szabelka przy boku z samego złota.
 !!Oj nie bij szwagrze siostry,
 !!boś ty jeszcze niedorosły,
 !!ze świata zginiesz.
-!!@VERSE:9. Tędy, owędy, niéma którędy,
+!!@VERSE:
+!!9. Tędy, owędy, niéma którędy,
 !!ani drzwiami, ni oknami,
 !!wszędzie stoją z szabelkami,
 !!ze świata zginę!
-!!@VERSE:10. Żono kochana, uproś brata swego,
+!!@VERSE:
+!!10. Żono kochana, uproś brata swego,
 !!niech ja nie ginę z tego świata mego,
 !!a już tobie podprzysięgę,
 !!że już ciebie bić nie będę,
@@ -120,3 +126,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-02-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-09

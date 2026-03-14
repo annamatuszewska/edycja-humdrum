@@ -180,9 +180,9 @@
 *-	*-
 !!!RDF**kern: > = above
 !!!role-singer: Narrator
-!!!singer-sex: female, male
 !!@@BEGIN: VERSES
-!!@VERSE:1. Dolina, dolina kędy woda chodzi,
+!!@VERSE:
+!!1. Dolina, dolina kędy woda chodzi,
 !!żadna to synowa matce nie dogodzi.
 !!Nie wygodzi ona żydowskiej macierzy choć ją głowa
 !!boli ona nie uwierzy.
@@ -196,3 +196,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-02-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-09

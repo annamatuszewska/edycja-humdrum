@@ -35,7 +35,7 @@
 =6	=6
 8g	wianek
 8b	.
-4.dd	z ruty
+4.dd	z_ruty
 8ee	.
 =7	=7
 8a	panno
@@ -47,27 +47,32 @@
 4r	.
 ==	==
 *-	*-
-!!!role-singer: Narrator
-!!!role-listener: Mistress
+!!!role-singer: Narrator, Bird
+!!!role-listener: Mistress, Nature
 !!!singer-sex: female, male
 !!@@BEGIN: VERSES
-!!@VERSE:1. Przede wroty — kamień złoty,
+!!@VERSE:
+!!1. Przede wroty — kamień złoty,
 !!na nim lelija, —
 !!uwij-że my wiánek z ruty
 !!panno Zofija.
-!!@VERSE:2. Nie daj-że go dworakowi,
+!!@VERSE:
+!!2. Nie daj-że go dworakowi,
 !!bo go nie godzien,
 !!jéno go zdéjm ze swéj główki,
 !!wrzuć go na ogień.
-!!@VERSE:3. A niech ci się twój wianeczek
+!!@VERSE:
+!!3. A niech ci się twój wianeczek
 !!płomieniem pali,
 !!a niech się to dworaczysko
 !!z wionkiem nie chwali.
-!!@VERSE:4. A ty ptaszku skowronyszku,
+!!@VERSE:
+!!4. A ty ptaszku skowronyszku,
 !!wysoko latasz,
 !!powiédz-że my nowineczkę
 !!kej w nocy siadasz.
-!!@VERSE:5. Powiem ja ci nowineczkę
+!!@VERSE:
+!!5. Powiem ja ci nowineczkę
 !!nie bardzo dobrą,
 !!jużci twoją kochaneczkę
 !!do ślubu wiozą. i t. d.
@@ -79,3 +84,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-02-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-08

@@ -26,7 +26,7 @@
 =4	=4
 4g	pożałuje?
 8a	.
-8b-	.
+8b-/	.
 8d}	.
 8r	.
 !!LO:LB:g=esac
@@ -48,41 +48,49 @@
 =8	=8
 4g	pożałuj
 8a	.
-8b-	.
+8b-/	.
 8d}	mnie!
 8r	.
 ==	==
 *-	*-
-!!!role-singer: Wife, Brother
+!!!role-singer: Wife, Brother, Narrator
 !!!role-listener: Family, Husband
 !!!singer-sex: female, male
 !!@@BEGIN: VERSES
-!!@VERSE:1. Już, już, już, już, mąż mnie bije,
+!!@VERSE:
+!!1. Już, już, już, już, mąż mnie bije,
 !!któż mnie terá pożałuje?
 !!Moja matko, przyjedź do mnie,
 !!moja matko, pożałuj mnie!
-!!@VERSE:2. Matka do ni przyjechała,
+!!@VERSE:
+!!2. Matka do ni przyjechała,
 !!gospodarstwo oglądała:
 !!zięciu, zięciu, bijże dobrze,
 !!aż sie skóra na ni podrze,
 !!bo to ladaco!
-!!@VERSE:3. Już, już, już, już, mąż mnie bije,
+!!@VERSE:
+!!3. Już, już, już, już, mąż mnie bije,
 !!któż mnie terá pożałuje?
 !!Ojcze, ojcze, przyjedź do mnie,
 !!ojcze, ojcze, pożałuj mnie!
-!!@VERSE:4. Ojciec do ni przyjechawszy,
+!!@VERSE:
+!!4. Ojciec do ni przyjechawszy,
 !!gospodarstwo oglądawszy:
 !!zięciu, zięcia bijże dobrze,
 !!aż sie skóra na ni podrze,
 !!bo to ladaco!
-!!@VERSE:5. Już, już, i t. d.
+!!@VERSE:
+!!5. Już, już, i t. d.
 !!Starsza siostro przyjedź do mnie,
 !!starsza siostro pożałuj mnie!
-!!@VERSE:6. Starsza siostra przyjechała i t. d.
-!!@VERSE:7. Już, już, i t. d.
+!!@VERSE:
+!!6. Starsza siostra przyjechała i t. d.
+!!@VERSE:
+!!7. Już, już, i t. d.
 !!Młodszy bracie przyjedź do mnie,
 !!młodszy bracie pożałuj mnie!
-!!@VERSE:8. Młodszy brat i przyjechawszy,
+!!@VERSE:
+!!8. Młodszy brat i przyjechawszy,
 !!gospodarstwo oglądawszy:
 !!śwagrze, śwagrze nie bij siostry,
 !!bo mam na cię mieczyk ostry —
@@ -96,3 +104,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-02-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-09

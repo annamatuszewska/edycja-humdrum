@@ -84,17 +84,20 @@
 !!!role-listener: Mistress
 !!!singer-sex: female, male
 !!@@BEGIN: VERSES
-!!@VERSE:1. Wysoki zameczek, jeszcze wyższa fara,
+!!@VERSE:
+!!1. Wysoki zameczek, jeszcze wyższa fara,
 !!powiedz ty mi dziewcze,
 !!skimeś dzisiaj spała.
 !!Żeli ze staruszkiem, to cię Pan Bóg skarze,
 !!żeli z młodzieniaszkiem,
 !!to ci dopomoże.
-!!@VERSE:2. Siekiereczka tonie,
+!!@VERSE:
+!!2. Siekiereczka tonie,
 !!toporzysko brodzi, —
 !!powiedz mi ty dziewcze,
 !!kto do ciebie chodzi?
-!!@VERSE:3. Niechaj chodzi kto chce,
+!!@VERSE:
+!!3. Niechaj chodzi kto chce,
 !!co komu do tego,
 !!ja się wyrachuje
 !!Panu Bogu z tego.
@@ -106,3 +109,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-02-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-09

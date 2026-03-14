@@ -16,7 +16,7 @@
 8dd	.
 8ee	.
 =2	=2
-8cc	Wstaj
+8cc	wstaj
 8b	i-
 8g	-no
 8b	synowa
@@ -61,11 +61,12 @@
 !!!role-listener: Daughter-In-Law, Mother-In-Law
 !!!singer-sex: female
 !!@@BEGIN: VERSES
-!!@VERSE:1. Wstaj ino synowa (:)
+!!1. Wstaj ino synöwa (:)
 !!jużeś sie dość wyspała;
 !!idź te krówki dojić,
 !!cóześ je tu nagnała.
-!!@VERSE:2. Nie potrzeba matko
+!!@VERSE:
+!!2. Nie potrzeba matko
 !!mi tego zadawać,
 !!ja böła siérota,
 !!nimioł mi ich chto dawać.
@@ -73,11 +74,13 @@
 !!ześ ty siérota böła,
 !!po cóżeś sie dałá
 !!do mojego syna.
-!!@VERSE:4. A myślis ty matko (:)
+!!@VERSE:
+!!4. A myślis ty matko (:)
 !!ze twój sön panem bedzie,
 !!weźnie kij i thorby,
 !!dziadów zwodzić bedzie.
-!!@VERSE:5. Pocekaj synowa,
+!!@VERSE:
+!!5. Pocekaj synowa,
 !!pohamuj ty gęby,
 !!boć wezne kaminia,
 !!wybije ci zęby.
@@ -93,3 +96,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-02-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-09

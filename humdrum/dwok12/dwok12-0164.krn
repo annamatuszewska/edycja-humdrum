@@ -75,31 +75,35 @@
 ==	==
 *-	*-
 !!!role-singer: Mistress, Lover
-!!!role-listener: Mistress
+!!!role-listener: Complex, Mistress
 !!!singer-sex: female, male
 !!@@BEGIN: VERSES
-!!@VERSE:1. Ach Boże, mój mocny Boże,
+!!@VERSE:
+!!1. Ach Boże, mój mocny Boże,
 !!dziś pochmurny dzień;
 !!nie widziałam Jasia mego
 !!już drugi tydzień.
 !!Czarne oczki upłakałam,
 !!i głowusię sfrasowałam,
 !!wszystko dla niego.
-!!@VERSE:2. W ogródeczku przy ziółeczku,
+!!@VERSE:
+!!2. W ogródeczku przy ziółeczku,
 !!tam mię najdziecie;
 !!jak przyjdziecie do matuli,
 !!to mię weźniecie.
 !!Będę wam się ociągała;
 !!gdybym z wamy iść nie chciała,
 !!gwałtem mię bierzcie.
-!!@VERSE:3. A w kościele przy ołtarzu
+!!@VERSE:
+!!3. A w kościele przy ołtarzu
 !!będę ślubować,
 !!i swojemu Jasieńkowi
 !!rączkę podawać.
 !!Dopomóżcie wszyscy Święci,
 !!być mu wierną aż do śmierci,
 !!umrzéć w żałości.
-!!@VERSE:4. Jeźli mi umrzesz, maluśka,
+!!@VERSE:
+!!4. Jeźli mi umrzesz, maluśka,
 !!umrzesz w żałości,
 !!to ja dam cię téż pochować
 !!według twych kości.
@@ -114,3 +118,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-02-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-09

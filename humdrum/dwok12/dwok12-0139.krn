@@ -10,7 +10,7 @@
 *M2/4	*
 =1	=1
 !!LO:TX:a:t=Weselna.
-{8b	W tém
+{8b	W_tém
 8dd	sadeczku
 8dd	.
 8cc	.
@@ -46,30 +46,37 @@
 2g}	-ja.
 ==	==
 *-	*-
-!!!role-singer: Narrator
+!!!role-singer: Narrator, Lover
+!!!role-listener: Complex, Mistress
 !!!singer-sex: female, male
 !!@@BEGIN: VERSES
-!!@VERSE:1. W tem sadeczku na ogrodzie
+!!@VERSE:
+!!1. W tem sadeczku na ogrodzie
 !!rośnie lelija, —
 !!tam gdzie to się najmilejsza
 !!moja uwija.
-!!@VERSE:2. Idzie-ć ona przez pokojik
+!!@VERSE:
+!!2. Idzie-ć ona przez pokojik
 !!czyniąc się panią,
 !!a Jasińka oczka bolą
 !!patrzając na nią.
-!!@VERSE:3. Idzie-ć ona do kościoła
+!!@VERSE:
+!!3. Idzie-ć ona do kościoła
 !!jako lelija, —
 !!a Jasinek na koniku
 !!przed nią wywija.
-!!@VERSE:4. I usiadła w pierwszéj ławce
+!!@VERSE:
+!!4. I usiadła w pierwszéj ławce
 !!między damami,
 !!najśliczniejszy dyjamencik
 !!między perłami.
-!!@VERSE:5. Przyklęknęła do ołtarza
+!!@VERSE:
+!!5. Przyklęknęła do ołtarza
 !!jak różany kwiat,
 !!czarne oczy zapłakały,
 !!zmienił jéj się świat.
-!!@VERSE:6. Na! chusteczki, otrzéj oczki
+!!@VERSE:
+!!6. Na! chusteczki, otrzéj oczki
 !!kochanko moja;
 !!niech-że ci się świat nie mieni,
 !!uroda twoja.
@@ -81,3 +88,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-02-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-08

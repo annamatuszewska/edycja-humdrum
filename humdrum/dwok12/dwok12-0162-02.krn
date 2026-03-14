@@ -75,16 +75,18 @@
 4.g}	mnie.
 ==	==
 *-	*-
-!!!role-singer: Wife, Husband
+!!!role-singer: Narrator, Wife, Husband
 !!!role-listener: Father, Wife
 !!!singer-sex: female, male
 !!@@BEGIN: VERSES
-!!@VERSE:1. Żal bez uwagi mąż żonę bije.
+!!@VERSE:
+!!1. Żal bez uwagi mąż żonę bije.
 !!żadna rodzina nie pożałuje.
 !!Przyjedź, przyjedź tatynku,
 !!przyjedź, przyjedź serce moje,
 !!a pożałuj mnie.
-!!@VERSE:2. Żono kochana, proś swego brata,
+!!@VERSE:
+!!2. Żono kochana, proś swego brata,
 !!by mnie nie gubił tu z tego Świata.
 !!A ja ci téż podprzysięgę,
 !!jak'em cię bił, — bić cię będę,

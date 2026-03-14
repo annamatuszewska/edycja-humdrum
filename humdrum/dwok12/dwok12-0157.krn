@@ -70,52 +70,62 @@
 2b}	mnie.
 ==	==
 *-	*-
-!!!role-singer: Wife, Brother, Husband
-!!!role-listener: Family, Husband, Wife
+!!!role-singer: Wife, Brother, Husband, Narrator
+!!!role-listener: Family, Husband, Wife, Father
 !!!singer-sex: male, female
 !!@@BEGIN: VERSES
-!!@VERSE:1. Przez (bez) uwagi, mąż żonę bije,
+!!@VERSE:
+!!1. Przez (bez) uwagi, mąż żonę bije,
 !!nie masz takiego, co pożałuje:
 !!przyjedź, przyjedź, tatusieńku,
 !!przyjedź, przyjedź serce moje,
 !!pożałujże mnie.
-!!@VERSE:2. Tatusiek jedzie w cisowe wrota,
+!!@VERSE:
+!!2. Tatusiek jedzie w cisowe wrota,
 !!czapka na uchu błyszczy od złota.
 !!A mój zięciu bijże dobrze,
 !!aż się skóra na niéj podrze,
 !!córka ladaco.
-!!@VERSE:3. Bez uwagi mąż żonę bije,
+!!@VERSE:
+!!3. Bez uwagi mąż żonę bije,
 !!nie masz takiego, co pożałuje:
 !!przyjedź, przyjedź matusieńku,
 !!przyjedź, przyjedź serce moje,
 !!pożałujże mnie.
-!!@VERSE:4. Matusia jedzie w cisowe wrota,
+!!@VERSE:
+!!4. Matusia jedzie w cisowe wrota,
 !!chustka na szyji z samego złota:
 !!bijże zięciu, bijże dobrze,
 !!aż się skóra na niéj podrze,
 !!córka ladaco.
-!!@VERSE:5. Bez uwagi mąż żonę bije, i t. d.
+!!@VERSE:
+!!5. Bez uwagi mąż żonę bije, i t. d.
 !!przyjedź, przyjedź siostruleńku,
 !!przyjedź, przyjedź serce moje,
 !!pożałujże mnie.
-!!@VERSE:6. Siostrula jedzie w cisowe wrota,
+!!@VERSE:
+!!6. Siostrula jedzie w cisowe wrota,
 !!fartuszek u pasa z samego złota:
 !!bijże szwagrze, bijże dobrze,
 !!aż się skóra na niéj podrze,
 !!córka ladaco,
-!!@VERSE:7. Bez uwagi mąż żonę bije, i t. d.
+!!@VERSE:
+!!7. Bez uwagi mąż żonę bije, i t. d.
 !!przyjedź, przyjedź bratulińku,
 !!przyjedź, przyjedź serce moje,
 !!pożałujże mnie.
-!!@VERSE:8. Braciszek jedzie w cisowe wrota,
+!!@VERSE:
+!!8. Braciszek jedzie w cisowe wrota,
 !!szabla u pasa z samego złota,
 !!A mój szwagrze niedorosły,
 !!nie bij-że mi mojéj siostry,
 !!ty zginąć musisz.
-!!@VERSE:9. Tędy, owędy — niema którędy,
+!!@VERSE:
+!!9. Tędy, owędy — niema którędy,
 !!ani oknem ani drzwiami,
 !!wszędy stoją z szabelkami.
-!!@VERSE:10. Ej żono, żono, pokłoń się bratu,
+!!@VERSE:
+!!10. Ej żono, żono, pokłoń się bratu,
 !!żebym nie zginął z tego tu światu,
 !!a ja tobie poprzysięgę,
 !!jak'em cię bił, tak nie będę,
@@ -128,3 +138,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-02-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-09

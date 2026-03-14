@@ -68,43 +68,52 @@
 4e}	.
 ==	==
 *-	*-
-!!!role-singer: Narrator, Mistress
+!!!role-singer: Narrator, Mistress, Cooper's Son
 !!!role-listener: Lover
 !!!singer-sex: female
 !!@@BEGIN: VERSES
-!!@VERSE:1. Poszła panna na jagody,
+!!@VERSE:
+!!1. Poszła panna na jagody,
 !!zabłądziła w lesie,
 !!natrafiła bednarczyka,
 !!co obręcze niesie.
-!!@VERSE:2. A ty miły bednarczyku,
+!!@VERSE:
+!!2. A ty miły bednarczyku,
 !!o co ja cie proszę,
 !!pobij-że mi koneweczke
 !!co w nij wodę noszę.
-!!@VERSE:3. Pobij-że mi koneweczkę,
+!!@VERSE:
+!!3. Pobij-że mi koneweczkę,
 !!pobij-że mi dziéżę,
 !!dam ci drzewa co potrzeba
 !!i obręcze świéże.
-!!@VERSE:4. Tak się bednarczyk zabiera
+!!@VERSE:
+!!4. Tak się bednarczyk zabiera
 !!do swego rzemiesła,
 !!i pobija komewusię
 !!aż ją frébra trzęsła.
-!!@VERSE:5. Jak pobija, tak pobija,
+!!@VERSE:
+!!5. Jak pobija, tak pobija,
 !!aż ją frybra trzésie,
 !!ta robota, ta nic-pota,
 !!nie podoba mi sie.
-!!@VERSE:6. Wędrowało trzech żołnierzy,
+!!@VERSE:
+!!6. Wędrowało trzech żołnierzy,
 !!wszyscy pod piórami,
 !!darowali naszéj Kasi
 !!chustkę z talarami.
-!!@VERSE:7. A jakże ij nie darować,
+!!@VERSE:
+!!7. A jakże ij nie darować,
 !!kiedy szelma ładna,
 !!suknia na nij jak na pani
 !!chusteczka jedwabna.
-!!@VERSE:8. Kołnierz złoty swéj roboty
+!!@VERSE:
+!!8. Kołnierz złoty swéj roboty
 !!spodnik okolisty;
 !!nie będę-ć ja do nij chodził,
 !!ani pisał listy.
-!!@VERSE:9. Jeszczem listu nie napisał,
+!!@VERSE:
+!!9. Jeszczem listu nie napisał,
 !!już mie nocka naszła,
 !!pióra mi się połamały,
 !!świczka mi zagasła.
@@ -116,3 +125,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-02-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-09
