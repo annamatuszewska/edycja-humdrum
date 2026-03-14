@@ -9,11 +9,11 @@
 *F:
 *M3/8
 =1
-{16f\
+{16f\L
 16a\
 16cc
 16ee
-8ff
+8ffJ
 =2
 16ee/L
 16gg/
@@ -66,3 +66,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-01
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-05
