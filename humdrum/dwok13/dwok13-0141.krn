@@ -3,100 +3,116 @@
 !!!source: DWOK13
 !!!id: 13141
 !!!signature: 1314100000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16g
-8a
-8a
-=2
-16cc
-16ee
-8.dd
-16cc
-=3
-16b
-16b
-8a
-8a
-=4
-16g
-16g
-8b
-8d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	A
+16g	z_kądżeś
+8a	.
+8a	ty
+=2	=2
+16cc	chłopie
+16ee	.
+8.dd	chamie?
+16cc	.
+=3	=3
+16b	Od
+16b	Pozna-
+8a	.
+8a	-nia
+=4	=4
+16g\	mo-
+16g\	-ści
+8b	pa-
+8d}\	-nie.
 !!LO:LB:g=esac
-=5
-{16g
-16g
-8a
-8a
-=6
-16b
-16b
-8.dd
-16g
-=7
-16b
-16b
-8a
-8a
-=8
-16g
-16g
-8b
-8d}
+=5	=5
+{16g	W_to-
+16g	-bie
+8a	chłopie
+8a	.
+=6	=6
+16b	har-
+16b	-da
+8.dd	du-
+16g	-sza,
+=7	=7
+16b	nie
+16b	u-
+8a	-chylisz
+8a	.
+=8	=8
+16g	ka-
+16g	-pe-
+8b	-lu-
+8d}\	-sza.
 !!LO:LB:g=esac
-=9
-{16g
-16g
-8a
-8a
-=10
-16cc
-16ee
-8.dd
-16cc
-=11
-16b
-16b
-8a
-8a
-=
-24g
-24b
-24dd
-16ff#
-16ee
-8d}
+=9	=9
+{16g	A
+16g	hardziejsza
+8a	.
+8a	.
+=10	=10
+16cc	w_to-
+16ee	-bie
+8.dd	pa-
+16cc	-nie,
+=11	=11
+16b	bo
+16b	mi
+8a	mówisz
+8a	.
+=	=
+*Xtuplet	*
+24gL	chło-
+24b/	.
+24dd/J	-pie
+16ff#/L	cha-
+16ee/	.
+8d}/J	-mie.
 !!LO:LB:g=esac
-=12
-{16g
-16g
-8a
-8a
-=13
-16b
-16b
-8.dd
-16g
-=14
-16b
-16b
-8a
-8a
-=15
-16g
-16g
-8b
-8g}
-==
-*-
+=12	=12
+{16g	W_to-
+16g	-bie
+8a	chłopie
+8a	.
+=13	=13
+16b	har-
+16b	-da
+8.dd	du-
+16g	-sza,
+=14	=14
+16b	nie
+16b	u-
+8a	-chylisz
+8a	.
+=15	=15
+16g	ka-
+16g	-pe-
+8b	-lu-
+8g}	-sza.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A z ądżeś ty chłopie chamie?
+!!Od Poznania mości panie.
+!!W obie chłopie harda dusza,
+!!nie uchylisz kapelusza.
+!!A hardziejsza w obie panie,
+!!bo mi mówisz chłopie chamie.
+!!W obie chłopie harda dusza,
+!!nie uchylisz kapelusza.
+!!@@END: VERSES
+!!!role-singer: Landlord, peasant
+!!!role-listener: Landlord, peasant
+!!!singer-sex: male, male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=105 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 81} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 81}
 !!!page: 81
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-21

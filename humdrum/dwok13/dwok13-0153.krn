@@ -3,71 +3,87 @@
 !!!source: DWOK13
 !!!id: 13153
 !!!signature: 1315300000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{8.a
-16b
-8cc
-8dd
-4ee
-=2
-8ee
-8ee
-8dd#
-8ee
-8gg
-8ee
-=3
-8ee
-8ee
-8dd#
-8ee
-8gg
-8ee}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+!LO:TX:a:t=Polski.	!
+{8.a\	Oj
+16b	jé-
+8cc	-no
+8dd	ja
+4ee	tąpnę,
+=2	=2
+8ee	podkó-
+8ee	.
+8dd#	-weczką
+8ee	.
+8gg	brząknę,
+8ee	.
+=3	=3
+8ee	podkó-
+8ee	.
+8dd#	-weczką
+8ee	.
+8gg	brząknę,
+8ee}	.
 !!LO:LB:g=esac
-=4
-{8.dd
-16dd
-4cc
-4b
-=5
-8b
-8g#
-2a}
+=4	=4
+{8.dd	da
+16dd	w
+4cc	tym
+4b	nowym
+=5	=5
+8b	go-
+8g#	-ściń-
+2a}	-cu;
 !!LO:LB:g=esac
-=6
-{8.a
-16b
-8cc
-8cc
-8dd
-8b
-=7
-8.a
-16b
-8cc
-8cc
-8dd
-8b}
+=6	=6
+{8.a\	ser-
+16b	-ce
+8cc	mi
+8cc	się
+8dd	kraje,
+8b	.
+=7	=7
+8.a\	płacz
+16b	mi
+8cc	się
+8cc	u-
+8dd	-da-
+8b}	-je,
 !!LO:LB:g=esac
-=8
-{8b
-8dd
-4cc
-4b
-=9
-8b
-8g#
-2a}
-==
-*-
+=8	=8
+{8b	o
+8dd	tém
+4cc	mojém
+4b	.
+=9	=9
+8b	dziewczęciu.
+8g#	.
+2a}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oj jéno ja tąpnę.
+!!podkóweczką brząknę,
+!!podkóweczką brząknę,
+!!da w tym nowym gościńcu;
+!!serce mi się kraje,
+!!płacz mi się udaje,
+!!o tém mojém dziewczęciu.
+!!@@END: VERSES
+!!!role-singer: 
+!!!role-listener: 
+!!!singer-sex: 
 !!!ONB: Polski
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=109 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 85} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 85}
 !!!page: 85
 !!!ONB: Converted on 2024/12/26 with esac2hum
+
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-23

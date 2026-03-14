@@ -3,58 +3,79 @@
 !!!source: DWOK13
 !!!id: 13173
 !!!signature: 1317300000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16a
-16cc
-8ee
-8ee
-=2
-16dd
-16dd
-8b
-8dd
-=3
-16dd
-16cc
-16a
-16g#
-8a
-=4
-16b
-16g#
-8e
-8g#}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{16a\	Oj
+16cc	a
+8ee/L	z_téj
+8ee/J	ta
+=2	=2
+16dd/L	strony
+16dd/J	.
+8b/L	wody,
+8dd/J	.
+=3	=3
+16dd/L	rozsu-
+16cc/J	.
+16aL	-ły
+16g#J	.
+8a	mi
+=4	=4
+16b	sie
+16g#	ja-
+8e	-go-
+8g#}	-dy,
 !!LO:LB:g=esac
-=5
-{16a
-16cc
-8a
-8a
-=6
-16b
-16g#
-8b
-8dd
-=7
-16a
-16cc
-16a
-16g#
-8a
-=8
-16b
-16g#
-8e
-8g#}
-==
-*-
+=5	=5
+{16a\	któż
+16cc	mi
+8a\	ich
+8a\	te-
+=6	=6
+16b	-raz
+16g\#	po-
+8b	-zbiéra,
+8dd	.
+=7	=7
+16a\	kiéj
+16cc	mi
+16aL	chło-
+16g#J	.
+8a	-pa-
+=8	=8
+16b	-lek
+16g#	u-
+8e	-miera.
+8g#}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj a ztéj ta strony wody,
+!!rozsuły mi sie jagody,
+!!któż mi ich teraz pozbiéra,
+!!kiéj mi chłopalek umiera.
+!!@VERSE:
+!!2. Bieda, bieda pańskiéj dziéwce,
+!!szłáby za mąż, nikt ji nie chce.
+!!Jeszcze większa fornalowi,
+!!niéma co dać konikowi.
+!!@VERSE:
+!!3. Oj i przedać konia, przedać,
+!!da bo już mu niéma co dać.
+!!Bo już siano woda wzięła,
+!!a i słoma w polu zgniła.
+!!@@END: VERSES
+!!!role-singer: Complex
+!!!role-listener: Complex
+!!!singer-sex: female, male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=117 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 93} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 93}
 !!!page: 93
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-27

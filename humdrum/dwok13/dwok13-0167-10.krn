@@ -3,78 +3,95 @@
 !!!source: DWOK13
 !!!id: 13167
 !!!signature: 1316700010
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16g
-16g
-8b
-8dd
-=2
-16g
-16cc
-4ee
-=3
-16ff
-16ee
-8dd
-16ee
-16ff
-=4
-16gg
-16gg
-4ee}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Mazur.	!
+{16g	U
+16g	Bomba-
+8b	.
+8dd	-sia
+=2	=2
+16g	do-
+16cc	-brze
+4ee	żyć,
+=3	=3
+16ff	ka-
+16ee	-zał
+8dd	gro-
+16eeL	-chu
+16ffJ	.
+=4	=4
+16gg	na-
+16gg	-warzyć.
+4ee}	.
 !!LO:LB:g=esac
-=5
-{16ee
-16dd
-8b
-8cc
-=6
-8f
-8a
-16a
-16b
-=7
-16g
-16g
-8b
-8dd
-=8
-16g
-16cc
-4ee}
+=5	=5
+{16ee	W_każdym
+16dd	.
+8b	garnku
+8cc	.
+=6	=6
+8f\	po
+8a\	ziar-
+16a\L	-ku,
+16bJ	.
+=7	=7
+16g	a
+16g	na
+8b	mi-
+8dd	-sie
+=8	=8
+16g	nié-
+16cc	-ma
+4ee}	nic.
 !!LO:LB:g=esac
-=9
-{16ff
-16dd
-8b
-16cc
-16a
-=10
-16f
-16f
-8a
-16a
-16b
-=11
-16g
-16g
-8b
-16dd
-16b
-=12
-16g
-16b
-4cc}
-==
-*-
+=9	=9
+{16ff/L	W_każdym
+16dd/J	.
+8b	garnku
+16cc/L	.
+16aJ	.
+=10	=10
+16fL	po
+16fJ	.
+8a\	ziar-
+16a\L	-ku,
+16bJ	.
+=11	=11
+16g	a
+16g	na
+8b	mi-
+16ddL/	-sie
+16b/J	.
+=12	=12
+16g	nié-
+16b	-ma
+4cc}	nic.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. U Bombasia dobrze żyć,
+!!kazał grochu nawarzyć.
+!!W każdym garku po ziarku,
+!!a na misie niéma nic.
+!!@VERSE:
+!!2. Sierota ja, sierota,
+!!da sierotą się rządzę,
+!!do kościoła drogi nie wiem,
+!!do gościńca nie zbłądzę.
+!!@@END: VERSES
+!!!role-singer: Orphan
+!!!role-listener: Complex
+!!!singer-sex: Complex
 !!!ONB: Mazur
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=114 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 90} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 90}
 !!!page: 90
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-27

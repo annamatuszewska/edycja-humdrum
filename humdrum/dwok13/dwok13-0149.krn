@@ -3,59 +3,69 @@
 !!!source: DWOK13
 !!!id: 13149
 !!!signature: 1314900000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8.g
-16a
-16b
-16cc
-=2
-16dd
-16dd
-8ee
-8dd
-=3
-16dd
-16dd
-8ee
-8dd
-=4
-16dd
-16dd
-8ee
-8dd
-=5
-16dd
-16dd
-8ee
-8dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8.g	A-
+16a	-że-
+16b	-by
+16cc	ja
+=2	=2
+16dd	do-
+16dd	-brze
+8ee	ja-
+8dd	-dła,
+=3	=3
+16dd	do-
+16dd	-brze
+8ee	pi-
+8dd	-ła.
+=4	=4
+16dd	dłu-
+16dd	-go
+8ee	spa-
+8dd	-ła
+=5	=5
+16dd	nie
+16dd	ro-
+8ee	-bi-
+8dd}	-ła,
 !!LO:LB:g=esac
-=6
-{8b
-8g
-8dd
-=7
-16cc
-16a
-8a
-8cc
-=8
-8b
-8g
-8dd
-=9
-16cc
-16a
-8a
-8g}
-==
-*-
+=6	=6
+{8b	oj
+8g	rosła
+8dd	.
+=7	=7
+16cc	by
+16a	ja
+8a	ro-
+8cc	-sła,
+=8	=8
+8b	da
+8g	jak
+8dd	na
+=9	=9
+16cc	bo-
+16a	-ru
+8a	so-
+8g}	-sna.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Ażeby ja dobrze jadła, dobrze piła.
+!!długo spała, nie robiła,
+!!oj rosła by ja rosła,
+!!da jak na boru sosna.
+!!@@END: VERSES
+!!!role-singer: Complex
+!!!singer-sex: female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=108 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 84} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 84}
 !!!page: 84
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-23

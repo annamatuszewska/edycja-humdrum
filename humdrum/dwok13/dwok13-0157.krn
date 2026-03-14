@@ -3,81 +3,112 @@
 !!!source: DWOK13
 !!!id: 13157
 !!!signature: 1315700000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8g
-8b
-8cc
-=2
-16b
-16dd
-8gg
-8ff#
-=3
-16ee
-16ff#
-16dd
-16b
-8cc
-=4
-16b
-16g
-16a
-16b
-16a
-16f}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=W tańcu.	!
+{8g\	Stuk,
+8b	stuk
+8cc	stuk
+=2	=2
+16b	po
+16dd	po-
+8gg	-dłodze,
+8ff#i	.
+=3	=3
+16ee	u-
+16ff#i	-my-
+16ddL	-kaj
+16bJ	.
+8cc	się
+=4	=4
+16b	nóż-
+16g	-ka
+16aL	no-
+16bJ	.
+16aL	-dze.
+16f}J	.
 !!LO:LB:g=esac
-=5
-{8g
-16g
-16b
-8cc
-=6
-16b
-16dd
-8cc
-8ee
-=7
-8dd
-16dd
-16b
-8cc
-=8
-16b
-16g
-8a
-8f#}
+=5	=5
+{8g\	a
+16gL	kory-
+16bJ	-szek
+8cc	.
+=6	=6
+16b	ko-
+16dd	-ryszko-
+8cc	.
+8ee	-wi,
+=7	=7
+8dd	a
+16ddL	dziewula
+16bJ	.
+8cc	.
+=8	=8
+16b	chłopyszko-
+16g	.
+8a	.
+8f#}	-wi.
 !!LO:LB:g=esac
-=9
-{16g
-16g
-16g
-16b
-8cc
-=10
-16b
-16dd
-8cc
-8ee
-=11
-16dd
-16dd
-16dd
-16b
-8cc
-=12
-16b
-16g
-8a
-8f#}
-==
-*-
+=9	=9
+{16gL	a
+16gJ	.
+16gL	kory-
+16bJ	.
+8cc	-szek
+=10	=10
+16b	ko-
+16dd	-ryszko-
+8cc	.
+8ee	-wi,
+=11	=11
+16dd/L	a
+16dd/J	.
+16ddL	dziewula
+16bJ	.
+8cc	.
+=12	=12
+16b	chłopyszko-
+16g	.
+8a	.
+8f#}	-wi.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Stuk, stuk stuk po podłodze,
+!!umykaj się nóżka nodze.
+!!a koryszek koryszkowi,
+!!a dziewula chłopyszkowi.
+!!@VERSE:
+!!2. Po podłodze smyk, smyk, smyk,
+!!już mi się też podar(ł) trzewik.
+!!Trzeba gąbki szewczykowi,
+!!aż poradzi trzewikowi.
+!!@VERSE:
+!!Od Koźmina:
+!!3. Ciuch, ciuch, ciuch po podłodze,
+!!ślizgała się noga nodze.
+!!A trzewiczek bucikowi
+!!a dziewula chłopczykowi.
+!!@VERSE:
+!!Od Gniezna (Myszki):
+!!4. Tąpnij nóżką, tąpnij nogą,
+!!są pieniądze pod podłogą.
+!!Choćbym tąpnął i obiema,
+!!tobym przysiąg że ich niema.
+!!(vel: nie wyletą, bo ich niema).
+!!@@END: VERSES
+!!!role-singer: Complex
+!!!role-listener: Complex
+!!!singer-sex: female
+!!!RDF**kern: i = editorial accidental
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=110 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 86} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 86}
 !!!page: 86
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-26

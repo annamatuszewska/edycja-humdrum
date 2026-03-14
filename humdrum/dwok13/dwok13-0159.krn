@@ -3,56 +3,74 @@
 !!!source: DWOK13
 !!!id: 13159
 !!!signature: 1315900000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16b
-8b
-8b
-=2
-16dd
-16ee
-8a
-8cc
-=3
-16a
-16a
-8f#
-8d
-=4
-16f#
-16a
-8cc
-8dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Krzywo
+16b	.
+8b	o-
+(8ddq	.
+8b)	-rze-
+=2	=2
+16dd	-cie
+16ee	pa-
+8a	-rob-
+8cc	-cy,
+=3	=3
+16a	krzywo
+16a	.
+8f#	o-
+8d	-rze-
+=4	=4
+16f#	-cie,
+16a	o-
+8cc/L	-rzecie,
+8dd/J}	.
 !!LO:LB:g=esac
-=5
-{16g
-16b
-8b
-8b
-=6
-16dd
-16ee
-8a
-8cc
-=7
-16a
-16a
-8f#
-8d
-=8
-16f#
-16a
-8cc
-8g}
-==
-*-
+=5	=5
+{16g	popraw-
+16b	.
+8b	-cie
+(8ddq	.
+8b)	się
+=6	=6
+16dd	na
+16ee	wygoń-
+8a	.
+8cc	-ce,
+=7	=7
+16a	u-
+16a	-da-
+8f#	-cie
+8d	się
+=8	=8
+16f#	Dę-
+16a	-bi-
+8cc	-czonce.
+8g}\	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Krzywo orzecie parobcy,
+!!krzywo orzecie, orzecie,
+!!poprawcie się na wygońce,
+!!udacie się Dębiczonce.
+!!@VERSE:
+!!2. Dębiczanka rychło wstaje,
+!!rosę otrząsa, otrząsa;
+!!Brzeziczánka w piecu siada,
+!!jeszcze się dąsa da dąsa.
+!!@@END: VERSES
+!!!role-singer: Complex
+!!!role-listener: Complex
+!!!singer-sex: Complex
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=111 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 87} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 87}
 !!!page: 87
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-26

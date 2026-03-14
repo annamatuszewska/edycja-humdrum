@@ -3,60 +3,89 @@
 !!!source: DWOK13
 !!!id: 13166
 !!!signature: 1316600000
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M3/8
-=1
-{8d
-8f#
-8a
-=2
-4dd
-8a
-=3
-8b
-8a
-8a
-=4
-8b
-8a
-8a}
+**kern	**text	**text
+*clefG2	*	*
+*k[f#c#]	*	*
+*D:	*	*
+*M3/8	*	*
+=1	=1	=1
+{8d	A	Jak
+8f#	ta	się
+8a	dziew-	z_chło-
+=2	=2	=2
+4dd	-czy-	-pa-
+8a	-na	-kiem
+=3	=3	=3
+8b	podści-	spotkać
+8a	.	.
+8a	-wa,	ma,
+=4	=4	=4
+8b	podści-	spotkać
+8a	.	.
+8a}	wa,	ma,
 !!LO:LB:g=esac
-=5
-{8dd
-8cc#
-8b
-=6
-4a
-8e
-=7
-8g
-8f#
-8f#
-=8
-8g
-8f#
-8f#}
+=5	=5	=5
+{8dd	co	za-
+8cc#	z_chłopa-	-czerwie-
+8b	.	.
+=6	=6	=6
+4a\	-ka-	-ni
+8e	-mi	się
+=7	=7	=7
+8g	nie	jak
+8f#	by-	ró-
+8f#	-wa,	-ża,
+=8	=8	=8
+8g	nie	jak
+8f#	by-	ró-
+8f#}	-wa,	-ża,
 !!LO:LB:g=esac
-=9
-{8d
-8f#
-8a
-=10
-4dd
-8ff#
-=11
-4ee
-8cc#
-=12
-4dd}
-8r
-==
-*-
+=9	=9	=9
+{8d	co	za-
+8f#	z_chłopa-	-czerwie-
+8a	.	.
+=10	=10	=10
+4dd	-ka-	-ni
+8ff#	-mi	się
+=11	=11	=11
+4ee	nie	jak
+8cc#	by-	ró-
+=12	=12	=12
+4dd}	-wa.	-ża.
+8r	.	.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. A ta dziewczyna podściwa, podściwa,
+!!co z chłopakami nie bywa, nie bywa,
+!!co z chłopakami nie bywa.
+!!@VERSE:
+!!2. Jak się z chłopakiem spotkać ma, spotkać ma,
+!!zaczerwieni się jak róża, jak róża,
+!!zaczerwieni się jak róża.
+!!@VERSE:
+!!3. Oj jeno, jeno,
+!!moja Heleno,
+!!com ci obiecał,
+!!to mi zginęło.
+!!@VERSE:
+!!4. Obiecałem ci
+!!kulawe prosie,
+!!poszło do wody,
+!!utopiło się.
+!!@VERSE:
+!!5. Obiecałem ci
+!!kurę z skrzydłami,
+!!ta mi uciekła
+!!między nogami.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener:Mistress
+!!!singer-sex:male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=114 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 90} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 90}
 !!!page: 90
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-27

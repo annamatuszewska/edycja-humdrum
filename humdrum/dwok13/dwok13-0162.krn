@@ -3,56 +3,73 @@
 !!!source: DWOK13
 !!!id: 13162
 !!!signature: 1316200000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16a
-16cc
-8.ee
-16cc
-=2
-16b
-16dd
-8dd
-8ff
-=3
-16a
-16cc
-8.ee
-16cc
-=4
-16b
-16dd
-8dd
-8e}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{16a\	Zatchnij
+16cc	.
+8.ee	płużek,
+16cc	.
+=2	=2
+16b	zat-
+16dd	-niej
+8dd	woł-
+8ff	-ki,
+=3	=3
+16a\	nie
+16cc	u-
+8.ee	-ważaj
+16cc	.
+=4	=4
+16b	choć
+16dd	są
+8dd	doł-
+8e}	-ki.
 !!LO:LB:g=esac
-=5
-{16a
-16cc
-8.ee
-16e
-=6
-16e
-16g#
-8b
-8ee
-=7
-16ee
-16ff
-8.ee
-16cc
-=8
-16b
-16dd
-8dd
-8e}
-==
-*-
+=5	=5
+{16a\	Za-
+16cc	-tchnij
+8.ee	płużek
+16e	.
+=6	=6
+16e	i
+16g#	jedź
+8b	da-
+8ee	-léj
+=7	=7
+16ee	bym
+16ff	sie
+8.ee	ludziom
+16cc	.
+=8	=8
+16b	spodo-
+16dd	.
+8dd	-ba-
+8e}	-li.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Zatchnij płużek,
+!!zatniej wołki,
+!!nie uważaj choć są dołki.
+!!Zatchnij płużek i jedź daléj
+!!bym sie ludziom spodobali.
+!!@VERSE:
+!!2. A pojadę ja do Wrześni,
+!!kupię sobie pług da i pług;
+!!będę orał i przeorał
+!!kochance odłóg, da odłóg.
+!!@@END: VERSES
+!!!role-singer: Complex
+!!!role-listener: Complex
+!!!singer-sex: female, male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=112 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 88-89} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, pp. 88-89}
 !!!page: 88-89
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-26

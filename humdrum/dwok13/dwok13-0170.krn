@@ -3,56 +3,72 @@
 !!!source: DWOK13
 !!!id: 13170
 !!!signature: 1317000000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16b
-8b
-8dd
-=2
-16cc
-16a
-8a
-8g
-=3
-16g
-16b
-8b
-8dd
-=4
-16cc
-16a
-8f#
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	A
+16b	pod
+8b	miedzą
+8dd	.
+=2	=2
+16cc	ko-
+16a\	-nie
+8aL	je-
+8gJ	-dzą,
+=3	=3
+16g	si-
+16b	-wy
+8b	koń
+8dd	da
+=4	=4
+16cc	i
+16a\	koby-
+8f#\	.
+8g}\	-ła,
 !!LO:LB:g=esac
-=5
-{16b
-16g
-8f#
-8d
-=6
-16cc
-16a
-8a
-8g
-=7
-16b
-16g
-8f#
-8d
-=8
-16e
-16d
-8f#
-8g}
-==
-*-
+=5	=5
+{16b	Matka
+16g	.
+8f#	mi
+8d	cie
+=6	=6
+16cc/L	o-
+16aJ	-bie-
+8aL	-ca-
+8gJ	-ła,
+=7	=7
+16b	maluśka’ś
+16g	.
+8f#	.
+8d	by-
+=8	=8
+16e\	-ła
+16d\	da
+8f#\	by-
+8g}\	-ła.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A pod miedzą konie jedzą,
+!!siwy koń da i kobyła,
+!!Matka mi cie obiecała,
+!!maluśka’ś była da była.
+!!@VERSE:
+!!2. Jeszcze'ści była w powiciu,
+!!matka mówiła: mój zięciu!
+!!Jeszcze'ści była w posłanka,
+!!matka mówiła: kochanku!
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=116 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 92} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 92}
 !!!page: 92
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-27
