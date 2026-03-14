@@ -31,7 +31,7 @@
 =5	=5
 {16d	pó-
 16b	-ki
-8a#	ser-
+8a#\	ser-
 8b	-ce
 =6	=6
 16b	ży-
@@ -104,7 +104,7 @@
 =20	=20
 16dd	z_góry
 16cc#	.
-4dd}	wal.
+4dd;}	wal.
 !!LO:LB:g=esac
 =21	=21
 {16d	Daléj,
@@ -165,7 +165,8 @@
 !!bo Mazury biją z_góry,
 !!aż patrzeć nie żal.
 !!@@END: VERSES
-!!!role-listener: Group
+!!!role-singer: Group Leader
+!!!role-listener: Group (Young men)
 !!!singer-sex: male
 !!!ONB: Mazur
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
@@ -175,3 +176,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-20
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-27

@@ -39,8 +39,8 @@
 8ee/J	.
 =8	=8
 8b	-ska
-8b	.
-8a}	obie,
+8b	obie,
+8a}	.
 !!LO:LB:g=esac
 =9	=9
 {16g#L	to
@@ -102,8 +102,7 @@
 !!że z ubrania jego płaty się zostały:
 !!tu dana! tu dana!
 !!@@END: VERSES
-!!!role-listener: Group
-!!!singer-sex: Complex
+!!!role-siner: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=100 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 76} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 76}
@@ -111,3 +110,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-21
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-02

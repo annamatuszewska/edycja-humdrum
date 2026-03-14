@@ -12,8 +12,8 @@
 !LO:TX:a:t=Wiwat przyjacielski.	!	!
 {8cc#	1.Niemasz	2.Kto
 8ee	.	go
-(16eeL	w_świecie	ko-
-16ddJ)	.	.
+(16eeL	w_świe-	ko-
+16ddJ)	-cie	.
 (16ddL	.	-cha,
 16cc#J)	.	.
 =2	=2	=2
@@ -87,8 +87,8 @@
 8cc#/L	swego.	-pi-
 8ee/}J	.	-ja.
 ==	==	==
-!!!RDF**kern: <=above	**text
 *-	*-	*-
+!!!RDF**kern: <=above	**text
 !!@@BEGIN: VERSES
 !!1. Niemasz w świecie nic milszego,
 !!hej, hej, nic milszego,
@@ -112,9 +112,7 @@
 !!ani dbam o kasztelana
 !!trzymając się mocno dzbana.
 !!@@END: VERSES
-!!!role-singer: Friend
-!!!role-listener: Friends
-!!!singer-sex: Complex
+!!!role-singer: Narrator
 !!!ONB: Wiwat przyjacielski
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -123,3 +121,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-19
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-27

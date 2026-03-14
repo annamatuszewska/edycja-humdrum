@@ -13,10 +13,11 @@
 {16cc	Gdy
 16a\	mi
 8cc	Ma-
+!LO:TX:t=P:problem=mixed beam	!
 16eeL	-zur
 16f#J	.
 =2	=2
-8g	zabrzmi
+8g\	zabrzmi
 8b	.
 16g\	w_uszy,
 16e\	.
@@ -35,8 +36,9 @@
 {16ee/L	niemasz
 16a/J	.
 8cc	nieszczęść
-16eeL	.
-16f#J	dla
+!LO:TX:t=P:problem=mixed beam	!
+16ee\L	.
+16f#/J	dla
 =6	=6
 16gL	méj
 16aJ	.
@@ -133,3 +135,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-20
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-27

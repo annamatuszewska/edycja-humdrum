@@ -8,10 +8,10 @@
 *k[f#]	*
 *G:	*
 *M6/8	*
+!LO:TX:a:t=Kawalerski stan.	!
 {16d	Kiedy
 16d	.
 =1	=1
-!LO:TX:a:t=Kawalerski stan.	!
 4g	chcę
 8g	to
 8b/L	mo-
@@ -61,7 +61,7 @@
 =9	=9
 {4g	chcę
 8g	to
-8.g\	mo-
+8.g\L	mo-
 16f#\J	.
 8g	-gę
 =10	=10
@@ -85,7 +85,7 @@
 =13	=13
 {8b/L	to
 8g	ka-
-8b/J 	-wa-
+8b/J	-wa-
 8b	-ler-
 8g	.
 8b	-ski
@@ -146,7 +146,7 @@
 !!Bodaj to kawalerski stan,
 !!człek sobie żyje jak pan.
 !!@@END: VERSES
-!!!role-singer: Man
+!!!role-singer: Bachelor
 !!!role-listener: Group
 !!!singer-sex: male
 !!!ONB: Kawalerski stan
@@ -157,3 +157,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-19
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-27

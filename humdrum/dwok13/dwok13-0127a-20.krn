@@ -6,8 +6,8 @@
 !!!EFL:13127a0020/2
 **kern	**text
 *clefG2	*
-*k[f#c#]	*
-*D:	*
+*k[f#]	*
+*G:	*
 *M3/8	*
 =1	=1
 {16a	Lecz
@@ -62,7 +62,7 @@
 !!dana, dana, dana dana,
 !!będziem hulać aż do rana.
 !!@@END: VERSES
-!!!role-listener: Group
+!!!role-listener: Group, Landlady
 !!!singer-sex: male
 !!!ONB: Fragment w D
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
@@ -72,3 +72,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-20
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-02

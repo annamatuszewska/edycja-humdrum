@@ -75,7 +75,7 @@
 =15	=15
 16.f	ro-
 32f	-bi
-8ee-q	.
+8ee-qq	.
 8g	żar-
 8a	-ty
 =16	=16
@@ -129,8 +129,7 @@
 !!aż odebrał swą zapłatę
 !!sowicie jak łotr.
 !!@@END: VERSES
-!!!role-singer: Complex
-!!!role-listener: Group
+!!!role-singer: Narrator
 !!!singer-sex: male
 !!!ONB: Karty
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
@@ -140,3 +139,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-20
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-02

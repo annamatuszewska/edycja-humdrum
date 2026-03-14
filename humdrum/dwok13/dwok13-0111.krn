@@ -32,10 +32,10 @@
 8g}J	.
 !!LO:LB:g=esac
 =5	=5
-{4.b	ja-
-8a	-dał,
-8cc	pi-
-8a	-jał,
+{4.b\	ja-
+8a\	-dał,
+8cc\	pi-
+8a\	-jał,
 =6	=6
 4.b	w_karczmie
 8a\	.
@@ -95,9 +95,7 @@
 !!oj jedy jedy oj jedy jedy,
 !!oj jedy ja, oj jedy jedy oj da tom.
 !!@@END: VERSES
-!!!role-singer: Complex
-!!!role-listener: Complex
-!!!singer-sex: Complex
+!!!singer-sex: man
 !!!ONB: Kujawiak
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition

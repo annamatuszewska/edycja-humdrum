@@ -220,9 +220,9 @@
 !!a gdy zbiorą się grosze,
 !!sypcie biednym po trosze.
 !!@@END: VERSES
-!!!role-singer: Workers
-!!!role-listener: Group
-!!!singer-sex: Complex
+!!!role-singer: Harvesters
+!!!role-listener: God, Landowners
+!!!singer-sex: man
 !!!ONB: Wieńcowa
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -231,3 +231,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-18
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-24

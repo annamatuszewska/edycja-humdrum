@@ -179,7 +179,8 @@
 !!bo Mazury, biją z góry,
 !!okropny ich dąs!
 !!@@END: VERSES
-!!!role-listener: Group
+!!!role-singer: Group Leader
+!!!role-listener: Group (Young men)
 !!!singer-sex: male
 !!!ONB: Mazur
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
@@ -189,3 +190,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-20
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-27

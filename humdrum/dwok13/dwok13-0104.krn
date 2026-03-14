@@ -108,8 +108,8 @@
 !!teraz będzie plon bogaty,
 !!hej! od siebie, ho! srokaty.
 !!@@END: VERSES
-!!!role-singer: Worker
-!!!role-listener: Group
+!!!role-singer: Farmer
+!!!role-listener: Nature (oxen)
 !!!singer-sex: male
 !!!ONB: muz. T. Klonowskiego
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
@@ -119,3 +119,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-18
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-24

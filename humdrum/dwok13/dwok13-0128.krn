@@ -78,7 +78,6 @@
 !!raźno chłopcy do dzieweczek,
 !!raźno chłopcy w lewo w prawo,
 !!krzeszcie ognia ino żwawo.
-!!@VERSE:
 !!2. Maciek opuścił wąsiska,
 !!kieby jastrząb dwa skrzydiiska;
 !!ale kiej sporego łyknął:
@@ -86,11 +85,10 @@
 !!@VERSE:
 !!3. Skrzypicielu, rznij od ucha,
 !!boć to ogień nie dziewucha;
-!!aó i ja téż pod ochotę
+!!a-ć i ja téż pod ochotę
 !!diabła pod obcasem zgniotę.
 !!@@END: VERSES
-!!!role-listener: Group
-!!!singer-sex: Complex
+!!!role-listener: Girls, Boys, Fiddler
 !!!ONB: Obertas
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -99,3 +97,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-20
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-02
