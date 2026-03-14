@@ -3,88 +3,99 @@
 !!!source: DWOK13
 !!!id: 13211
 !!!signature: 1321100010
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16b
-16cc
-8dd
-8dd
-=2
-16dd
-16ee
-8dd
-16cc
-16a
-=3
-4g
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16b	U-
+16cc	-cie-
+8dd	-kła
+8dd	mi
+=2	=2
+16dd	trzepie-
+16ee	.
+8dd	-reczka
+16ccL	.
+16a\J	.
+=3	=3
+4g	w_proso,
+8g}	.
 !!LO:LB:g=esac
-=4
-{16g
-16a
-8b
-8b
-=5
-16a
-16b
-8a
-8f#
-=6
-4d
-8d}
+=4	=4
+{16g	a
+16a	ja
+8b	za
+8b	nią
+=5	=5
+16a\	nie-
+16b	-bo-
+8a	-ra-
+8f#	-czek
+=6	=6
+4d	bo-
+8d}	-so.
 !!LO:LB:g=esac
-=7
-{16f#
-16a
-8cc
-16cc
-16b
-=8
-16a
-16a
-8cc
-8b
-=9
-4g
-8g}
+=7	=7
+{16f#	Trzebno
+16a	.
+8cc	mi
+16ccL	się
+16bJ	.
+=8	=8
+16a	téj
+16a	ma-
+8cc	-tu-
+8b	-li
+=9	=9
+4g	py-
+8g}	-tać,
 !!LO:LB:g=esac
-=10
-{16g
-16a
-8b
-8b
-=11
-16a
-16b
-8a
-8f#
-=12
-4d
-8d}
+=10	=10
+{16g	że-
+16a	-li
+8b	mo-
+8b	-żna
+=11	=11
+16a\	trzepie-
+16b	.
+8a	-reń-
+8f#	-ke
+=12	=12
+4d	chwy-
+8d}	-tać.
 !!LO:LB:g=esac
-=13
-{16f#
-16a
-8cc
-16cc
-16b
-=14
-16a
-16a
-8cc
-8b
-=15
-4g
-8g}
-==
-*-
+=13	=13
+{16f#	Trzebno
+16a	.
+8cc	mi
+16ccL	się
+16bJ	.
+=14	=14
+16a	téj
+16a	ma-
+8cc	-tu-
+8b	-li
+=15	=15
+4g	py-
+8g}	-tać,
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Uciekła mi trzepiereczka w proso,
+!!a ja za nią nieboraczek boso.
+!!Trzebno mi się téj matuli pytać,
+!!żeli można trzepiereńke chwytać.
+!!@@END: VERSES
+!!!role-singer: Young man
+!!!role-listener: Girl’s mother
+!!!singer-sex: male
 !!!ONB: Przepiórka-partia wokalna
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=129 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 105} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 105}
 !!!page: 105
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-05

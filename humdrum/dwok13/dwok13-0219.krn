@@ -3,82 +3,97 @@
 !!!source: DWOK13
 !!!id: 13219
 !!!signature: 1321900000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16b
-16dd
-8dd
-16cc
-16a
-=2
-8.dd
-16b
-16b
-16g
-=3
-16b
-16dd
-8dd
-16cc
-16a
-=4
-8.dd
-16b
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16b	A
+16dd	mu-
+8dd	-ra-
+16ccL	-wa
+16a\J	.
+=2	=2
+(8.dd	mu-
+16b)	-ra-
+16b/L	-wa,
+16gJ	.
+=3	=3
+16b	na
+16dd	mu-
+8dd	-ra-
+16ccL	-wie
+16a\J	.
+=4	=4
+(8.dd	ko-
+16b)	.
+8g}	-ściół
 !!LO:LB:g=esac
-=5
-{16f#
-16a
-8a
-16f#
-16d
-=6
-8.g
-16b
-16b
-16dd
-=7
-16dd
-32dd
-32cc
-8a
-16a
-16cc
-=8
-8.dd
-16b
-8g}
+=5	=5
+{16f#	pro-
+16a	-si-
+8a	-ła
+16f#L	mnie
+16dJ	.
+=6	=6
+(8.g	Ka-
+16b)	-siń-
+16bL	-ka
+16ddJ	.
+=7	=7
+16dd	że-
+32ddL	-bym
+32ccJ	.
+8a	za
+16a\L	nią
+16ccJ	.
+=8	=8
+(8.dd	po-
+16b)	.
+8g}	-ścił.
 !!LO:LB:g=esac
-=9
-{16f#
-16a
-8a
-16f#
-16d
-=10
-8.g
-16b
-16b
-16dd
-=11
-16dd
-32dd
-32cc
-8a
-16a
-16cc
-=12
-8.dd
-16b
-8g}
-==
-*-
+=9	=9
+{16f#	pro-
+16a	-si-
+8a	-ła
+16f#L	mnie
+16dJ	.
+=10	=10
+(8.g	Ka-
+16b)	-siń-
+16bL	-ka
+16ddJ	.
+=11	=11
+16dd	że-
+32ddL	-bym
+32ccJ	.
+8a	za
+16a\L	nią
+16ccJ	.
+=12	=12
+(8.dd	po-
+16b)	.
+8g}	-ścił.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A murawa murawa,
+!!na murawie kościół
+!!prosiła mnie Kasińka
+!!żebym za nią pościł.
+!!@VERSE:
+!!2. A jam pościł piątki,
+!!pościłem soboty,
+!!żeby była panienka
+!!zdatna do roboty.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=133 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 109} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 109}
 !!!page: 109
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-05

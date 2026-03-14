@@ -3,46 +3,57 @@
 !!!source: DWOK13
 !!!id: 13233
 !!!signature: 1323300001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{4dd
-8b
-=2
-8g
-4d
-=3
-4cc
-8a
-=4
-8a
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{4dd	Hej
+8b	ma-
+=2	=2
+8g	-tu-
+4d	-siu!
+=3	=3
+4cc	Co
+8a\	có-
+=4	=4
+8a\	-ru-
+4g}	-sio?
 !!LO:LB:g=esac
-=5
-{16g
-16a
-8b
-8dd
-=6
-16a
-16a
-8f#
-8d
-=7
-4cc
-16a
-16f#
-=8
-16a
-16b
-4g}
-==
-*-
+=5	=5
+{16g	Ca-
+16a	-ło-
+8b	-wał
+8dd	mnie
+=6	=6
+16a	smoli-
+16a	.
+8f#	-d..ka
+8d	.
+=7	=7
+4cc	do-
+16aL	-pi-
+16f#J	.
+=8	=8
+16a\L	-ru-
+16bJ	.
+4g}	-sio.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Hej matusiu!
+!!Co córusio?
+!!Całował mnie smolid..ka
+!!dopirusio.
+!!@@END: VERSES
+!!!role-singer: Daughter
+!!!role-listener: Mother
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=138 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 114} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 114}
 !!!page: 114
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-06

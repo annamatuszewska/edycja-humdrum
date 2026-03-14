@@ -3,49 +3,67 @@
 !!!source: DWOK13
 !!!id: 13224
 !!!signature: 1322400010
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16e
-16g
-8g
-8cc
-=2
-8a
-4f
-=3
-16f
-16a
-8a
-8cc
-=4
-8g
-4e}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16e	U
+16g	na-
+8g	-sze-
+8cc	-go
+=2	=2
+8a	Pa-
+4f	-wła
+=3	=3
+16fL	sto-
+16aJ	-do-
+8aL	-ła
+8ccJ/	za-
+=4	=4
+8g	-pa-
+4e}	-dła,
 !!LO:LB:g=esac
-=5
-{16e
-16g
-8g
-8cc
-=6
-8a
-4f
-=7
-16d
-16f
-8a
-8g
-=8
-8e
-4c}
-==
-*-
+=5	=5
+{16e	krowa
+16g	.
+8g	mu
+8cc	się
+=6	=6
+8a	ocieliła,
+4f	.
+=7	=7
+16d\	mucha
+16f\	.
+8a\	cielę
+8g\	.
+=8	=8
+8e\	zjadła.
+4c}\	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. U naszego Pawła stodoła zapadła,
+!!krowa mu się ocieliła,
+!!mucha cielę zjadła.
+!!@VERSE:
+!!2. A takci to, tak ci,
+!!nima baba papci;
+!!jéno stare chodaje,
+!!jeszcze sobie dodaje.
+!!@VERSE:
+!!3. Dziwują się ludzie
+!!za co fornal pije ?
+!!Za wczorajsze baty,
+!!za dzisiejsze kije.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!ONB: Partia wokalna
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=134 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 110} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 110}
 !!!page: 110
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-06

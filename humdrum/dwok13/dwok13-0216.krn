@@ -3,65 +3,81 @@
 !!!source: DWOK13
 !!!id: 13216
 !!!signature: 1321600000
-**kern
-*clefG2
-*k[f#]
-*e:
-*M3/8
-=1
-{16g
-16a
-8b
-8ee
-=2
-4.dd
-=3
-16g
-16a
-8b
-8ee
-=4
-4.dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*e:	*
+*M3/8	*
+=1	=1
+{16g	A
+16a	ka-
+8b	-zał
+8ee	mi
+=2	=2
+4.dd	ksiądz
+=3	=3
+16g	ta-
+16a	-ta-
+8b	-reczkę
+8ee	.
+=4	=4
+4.dd}	żąć;
+8aq	.
 !!LO:LB:g=esac
-=5
-{16g
-16a
-8b
-8b
-=6
-8e
-8a
-16g
-16e
-=7
-16g
-16a
-8b
-8b
-=8
-4.e}
+=5	=5
+{16g	a
+16a	ja
+8b	sta-
+8b	-ry
+=6	=6
+8e	przygę-
+8a	.
+16g	-ża-
+16e	-ły
+=7	=7
+16g	niémo-
+16a	.
+8b	-gę
+8b	się
+=8	=8
+4.e	zgiąć.
+8aq}	.
 !!LO:LB:g=esac
-=9
-{16g
-16a
-8b
-8b
-=10
-8e
-8a
-16g
-16e
-=11
-16g
-16a
-8b
-8b
-=12
-4.e}
-==
-*-
+=9	=9
+{16g	a
+16a	ja
+8b	sta-
+8b	-ry
+=10	=10
+8e	przygę-
+8a	.
+16g	-ża-
+16e	-ły
+=11	=11
+16g	niémo-
+16a	.
+8b	-gę
+8b	się
+=12	=12
+4.e	zgiąć.
+8aq}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A kazał mi ksiądz tatareczkę żąć;
+!!a ja stary przygężąły niémoge się zgiąć.
+!!@VERSE:
+!!Pod Bukiem:
+!!2. Kazał mi ksiądz
+!!taterkę żąć.
+!!A ja mała ogęziała,
+!!nimogę sie zgiąć.
+!!@@END: VERSES
+!!!singer-sex: male, female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=132 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 108} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 108}
 !!!page: 108
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-05

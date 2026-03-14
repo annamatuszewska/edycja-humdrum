@@ -3,56 +3,76 @@
 !!!source: DWOK13
 !!!id: 13198
 !!!signature: 1319800000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8.g
-16b
-16b
-16dd
-=2
-16cc
-16b
-8a
-8cc
-=3
-8.d
-16d
-16d
-16f#
-=4
-16a
-16g
-8b
-8dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8.g	Chodźma
+16b	.
+16b/L	do
+16dd/J	do-
+=2	=2
+16cc	-mu
+16b	Jó-
+8a\	-zin-
+8aq	.
+8cc	-ku,
+=3	=3
+8.d	chodźma
+16d	.
+16d\	do
+16f#\	do-
+=4	=4
+16a	-mu,
+16g	do
+8b/L	do-
+8bq	.
+8dd/J}	-mu,
 !!LO:LB:g=esac
-=5
-{8.g
-16b
-16b
-16b
-=6
-16cc
-16b
-8a
-8cc
-=7
-8.d
-16d
-16f#
-16a
-=8
-16a
-16g
-8b
-8g}
-==
-*-
+=5	=5
+{8.g	o-
+16b	-sta-
+16b	-wilim
+16b	.
+=6	=6
+16cc	gospo-
+16b	.
+8a\	-dar-
+8aq	.
+8cc	-stwo
+=7	=7
+8.d	sa-
+16d	-mi
+16f#L	nie
+16aJ	wie-
+=8	=8
+16a	-ma
+16g	da
+8b	ko-
+8bq	.
+8g}\	-mu.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Chodźma do domu Józinku,
+!!chodźma do domu, do domu,
+!!ostawilim gospodarstwo
+!!sami nie wiema da komu.
+!!@VERSE:
+!!2. Hej kumotrze idź do domu,
+!!tylko nie rusz nic nikomu.
+!!A kumoter fitu, fitu,
+!!szuka szczęścia i tu i tu.
+!!@@END: VERSES
+!!!role-singer: Complex
+!!!role-listener: Complex 
+!!!singer-sex: Complex
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=126 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 102} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 102}
 !!!page: 102
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-03

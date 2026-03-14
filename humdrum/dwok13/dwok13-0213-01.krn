@@ -3,57 +3,77 @@
 !!!source: DWOK13
 !!!id: 13213
 !!!signature: 1321300001
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16cc
-16dd
-8ee
-8ee
-=2
-16dd
-16b
-8g
-8g
-=3
-16g
-16b
-8dd
-8ff
-=4
-16dd
-16cc
-8gg
-8dd}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16cc	.
+16dd	.
+8ee	.
+8ee	.
+=2	=2
+16dd	.
+16b	.
+8g\	.
+8g\	.
+=3	=3
+16g	.
+16b	.
+8dd	.
+8ff	.
+=4	=4
+16dd	.
+16cc	.
+8gg	.
+8dd}	.
 !!LO:LB:g=esac
-=5
-{16cc
-16dd
-8ee
-8ee
-=6
-16dd
-16b
-16g
-16a
-8g
-=7
-16g
-16b
-8dd
-8ff
-=8
-16dd
-16ee
-8cc
-8g}
-==
-*-
+=5	=5
+{16cc	.
+16dd	.
+8ee	.
+8ee	.
+=6	=6
+16dd	.
+16b	.
+16gL	.
+16a	.
+8gJ	.
+=7	=7
+16g	.
+16b	.
+8dd	.
+8ff	.
+=8	=8
+16ddL	.
+16eeJ	.
+8cc	.
+8g\}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A gdzież mi się to podziały
+!!te po mojim ojcu dobra:
+!!pistolecik i flincisko
+!!da i ta skórzana torba.
+!!@VERSE:
+!!2. Takie to moje fertuny
+!!te tu na łbie dwa kółtuny,
+!!i te stare kożuszysko,
+!!co sie muszę szudrać wszystko.
+!!@VERSE:
+!!3. Nie stoję ja o fertónę,
+!!byle ja miał ładną żonę.
+!!Z fertóny mi mało przyjdzie,
+!!żonka ładna za mną pójdzie.
+!!@@END: VERSES
+!!!role-singer: Young Man
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=130 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 106} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 106}
 !!!page: 106
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-05

@@ -3,65 +3,76 @@
 !!!source: DWOK13
 !!!id: 13225
 !!!signature: 1322500002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{4b
-8dd
-8b
-8dd
-8ee
-=2
-8ee
-8dd
-8cc#
-4ee
-8dd
-=3
-8a
-8cc
-4ee
-8ee
-8dd#
-=4
-16b
-8.a
-16g
-8.f#
-4d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+!LO:TX:a:t=Kujawiak.	!
+{4b	Siko-
+8/ddL	.
+8b/J	.
+8dd	-recz-
+8ee	-ka
+=2	=2
+8ee	mały
+8dd	.
+8cc#/	pta-
+4ee/	.
+8dd/	-szek,
+=3	=3
+8a\L	od-
+8ccnJ	.
+4ee	-je-
+8ff#q	.
+8ee	-chał
+8dd#	nas
+=4	=4
+16b/L	Ma-
+8.aJ	.
+16gL	-tyja-
+8.f#J	.
+4d}	-szek.
 !!LO:LB:g=esac
-=5
-{4.d
-8e
-8f#
-8a
-=6
-8g
-8f#
-8g
-8a
-8b
-8b
-=7
-8a
-8cc
-8ee
-8ff#
-8ee
-8dd#
-=8
-16b
-8.a
-16g
-8.f#
-4d}
-==
-*-
+=5	=5
+{4.d	Jak
+8e	odjechał,
+8f#L	.
+8aJ	.
+=6	=6
+8g	tak
+8f#	przyje-
+8gL	.
+8aJ	.
+8b/L	-dzie,
+8b/J	.
+=7	=7
+8a\L	jak
+8ccJ	.
+8eeL	nas
+8ff#J	.
+8eeL	kochał
+8dd#J	.
+=8	=8
+16b/L	tak
+8.aJ	.
+16gL	i
+8.f#J	bedzie.
+4d}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Sikoreczka mały ptaszek,
+!!odjechał nas Matyjaszek.
+!!Jak odjechał, tak przyjedzie,
+!!jak nas kochał tak i bedzie.
+!!@@END: VERSES
+!!!role-singer: Complex
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=135 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 111} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 111}
 !!!page: 111
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-06

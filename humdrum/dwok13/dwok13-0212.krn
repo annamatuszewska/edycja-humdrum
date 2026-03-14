@@ -3,113 +3,135 @@
 !!!source: DWOK13
 !!!id: 13212
 !!!signature: 1321200000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16cc
-16dd
-8ee
-8ee
-=2
-16dd
-16ee
-8dd
-8b
-=3
-16cc
-16dd
-16ff
-16ee
-8dd
-=4
-16cc
-16b
-16a
-16g#
-8e}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{16cc	A
+16dd	cóż
+8ee	nam
+8ee	tu
+=2	=2
+16dd	po
+16ee	tych
+8dd	babach,
+8b	.
+=3	=3
+16cc	co
+16dd	tu
+16ffL	siedzą
+16eeJ	.
+8dd	.
+=4	=4
+16cc	na
+16b	tych
+16aL	ła-
+16g#J	.
+8e}	-wach,
 !!LO:LB:g=esac
-=5
-{16e
-16g#
-8a
-8cc
-=6
-16b
-16a
-16dd
-16cc
-8b
-=
-16b
-16dd
-16cc#
-16dd
-24ff
-24ee
-24dd
-=7
-16cc
-16b
-16a
-16g#
-8e}
+=5	=5
+{16e	bo
+16g#	nie
+8a	pi-
+8cc	-ją,
+=6	=6
+16b	nie
+16a\	tań-
+16ddL	-cu-
+16ccJ	.
+8b	-ją.
+=	=
+*Xtuplet	*
+16b	tylko
+16dd	.
+16cc#L	mło-
+16ddJ	.
+24ffL	-dych
+24ee	.
+24ddJ	.
+=7	=7
+16cc	podglę-
+16b	.
+16aL	-du-
+16g#J	.
+8e}	-ją.
 !!LO:LB:g=esac
-=8
-{16cc
-16dd
-8ee
-8ee
-=9
-16dd
-16ee
-16dd
-16cc
-8b
-=10
-16cc
-16dd
-16ff
-16ee
-8dd
-=11
-16cc
-16b
-16a
-16g#
-8e}
+=8	=8
+{16cc	A
+16dd	cóż
+8ee	nam
+8ee	tu
+=9	=9
+16dd	po
+16ee	tych
+16dd/L	babach,
+16cc/	.
+8b/J	.
+=10	=10
+16cc	co
+16dd	tu
+16ffL	siedzą
+16eeJ	.
+8dd	.
+=11	=11
+16cc	na
+16b	tych
+16aL	ła-
+16g#J	.
+8e}	-wach,
 !!LO:LB:g=esac
-=12
-{16e
-16g#
-8a
-8cc
-=13
-16b
-16a
-16dd
-16cc
-8b
-=
-16b
-16dd
-16cc#
-16dd
-24ff
-24ee
-24dd
-=14
-16cc
-16b
-16a
-16g#
-8e}
-==
-*-
+=12	=12
+{16e	bo
+16g#	nie
+8a	pi-
+8cc	-ją,
+=13	=13
+16b	nie
+16a\	tań-
+16ddL	-cu-
+16ccJ	.
+8b	-ją.
+=	=
+16b	tylko
+16dd	.
+16cc#L	mło-
+16ddJ	.
+24ffL	-dych
+24ee	.
+24ddJ	.
+=14	=14
+16cc	podglę-
+16b	.
+16aL	-du-
+16g#J	.
+8e}	-ją.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A cóż nam tu po tych babach,
+!!co tu siedzą na tych ławach,
+!!bo nie piją, nie tańcują.
+!!tylko młodych podględują.
+!!@VERSE:
+!!2. Ty gościnna, weź kijiska,
+!!zapądź baby do chliwiska.
+!!Zamkni je na klucz żelazny,
+!!żeby baby nie wylazły.
+!!@VERSE:
+!!3. I zanieś im snopek słomy,
+!!niechaj legną baby-chromy.
+!!I zanieś im snopek siana,
+!!niech żrą baby aż do rana.
+!!@@END: VERSES
+!!!role-singer: Complex
+!!!role-listener: Woman
+!!!singer-sex: female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=130 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 106} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 106}
 !!!page: 106
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-05
