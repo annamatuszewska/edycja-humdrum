@@ -3,59 +3,76 @@
 !!!source: DWOK13
 !!!id: 13192
 !!!signature: 1319200000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16b
-16cc
-8ee
-8gg
-=2
-16gg
-16ff
-8dd
-8gg
-=3
-16b
-16cc
-8ee
-16b
-16cc
-=4
-16gg
-16ff
-8dd
-8g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Zalotny.	!
+{16b	Przed
+16cc	szołtysem
+8ee/L	.
+8gg/J	.
+=2	=2
+16gg	bio-
+16ff	-ły
+8dd/L	kamień,
+8gg/J	.
+=3	=3
+16b	deszcz
+16cc	go
+8ee	po-
+16bL	-ro-
+16ccJ	.
+=4	=4
+16gg	-sił,
+16ff	po-
+8dd	-rosił,
+8g}\	.
 !!LO:LB:g=esac
-=5
-{16b
-16cc
-8ee
-8cc
-=6
-16g
-16b
-8dd
-8ff
-=7
-16dd
-16cc
-8ee
-16cc
-16b
-=8
-16g
-16b
-8dd
-8g}
-==
-*-
+=5	=5
+{16b	nie
+16cc	będe
+8ee	.
+8cc	ja
+=6	=6
+16g	tę
+16b	szołci-
+8dd/L	.
+8ff/J	-nę
+=7	=7
+16dd/L	o
+16cc/J	córkę
+8ee	.
+16ccL/	pro-
+16b/J	.
+=8	=8
+16g	-sił
+16b	da
+8dd	prosił.
+8g}\	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Przed szołtysem bioły kamień,
+!!deszcz go porosił, porosił,
+!!nie będe ja tę szołcinę
+!!o córkę prosił da prosił.
+!!@VERSE:
+!!2. Bo szołcina nie hrabina,
+!!córa nie pani, nie pani,
+!!nie będę ja do nij jeżdżał,
+!!siedmiu koniami, koniami.
+!!@@END: VERSES
+!!!role-singer: Single man
+!!!role-listener: Complex
+!!!singer-sex: male
 !!!ONB: Zalotny
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=124 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 100} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 100}
 !!!page: 100
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-02

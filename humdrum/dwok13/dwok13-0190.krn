@@ -3,96 +3,107 @@
 !!!source: DWOK13
 !!!id: 13190
 !!!signature: 1319000000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16b
-16dd
-4ee
-=2
-8dd
-8dd
-8g
-=3
-16dd
-16ff#
-8ee
-8a
-=4
-8cc#
-8dd
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16b	Szanuj-
+16dd	.
+4ee	-że
+=2	=2
+8dd	mnie
+8dd	szanuj,
+8g\	.
+=3	=3
+16dd	za
+16ff#	wiany-
+8eeL	.
+8a\J	.
+=4	=4
+8cc#	-szek
+8dd	za
+8g}	mój,
 !!LO:LB:g=esac
-=5
-{16b
-16dd
-16cc#
-16dd
-16cc
-16a
-=6
-16d
-16f#
-4g
-=7
-16a
-16cc#
-4dd}
+=5	=5
+{16b	a
+16dd	ja
+16cc#L	cie-
+16ddJ	.
+16ccL	-bie
+16aJ	.
+=6	=6
+16dL	téż
+16f#J	.
+4g	tak
+=7	=7
+16a\L	bę-
+16cc#J	.
+4dd}	-dę
 !!LO:LB:g=esac
-=8
-{16ee
-16dd
-16cc#
-16dd
-16cc
-16a
-=9
-16d
-16f#
-4g
-=10
-16a
-16b
-4g}
+=8	=8
+{16ee	za
+16dd	zie-
+16cc#L	-lo-
+16ddJ	.
+16ccL	-ną
+16aJ	.
+=9	=9
+16dL	wstę-
+16f#J	.
+4g	-gę,
+=10	=10
+16a\L	wstę-
+16bJ	.
+4g}	-gę.
 !!LO:LB:g=esac
-=11
-{16b
-16dd
-16cc#
-16dd
-16cc
-16a
-=12
-16d
-16f#
-4g
-=13
-16a
-16cc#
-4dd}
+=11	=11
+{16b	a
+16dd	ja
+16ccL#	cie-
+16ddJ	.
+16ccL	-bie
+16aJ	.
+=12	=12
+16dL	téż
+16f#J	.
+4g	tak
+=13	=13
+16a\L	bę-
+16cc#J	.
+4dd}	-dę
 !!LO:LB:g=esac
-=14
-{16ee
-16dd
-16cc#
-16dd
-16cc
-16a
-=15
-16d
-16f#
-4g
-=16
-16a
-16b
-4d}
-==
-*-
+=14	=14
+{16ee	za
+16dd	zie-
+16cc#L	-lo-
+16ddJ	.
+16ccL	-ną
+16a\J	.
+=15	=15
+16dL	wstę-
+16f#J	.
+4g	-gę,
+=16	=16
+16a\L	wstę-
+16bJ	.
+4d}\	-gę.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Szanujże mnie szanuj,
+!!za wianyszek za mój,
+!!a ja ciebie téż tak będę
+!!za zieloną wstęgę, wstęgę.
+!!@@END: VERSES
+!!!role-singer: Bride
+!!!role-listener: Bridegroom
+!!!singer-sex: female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=123 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 99} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 99}
 !!!page: 99
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-02

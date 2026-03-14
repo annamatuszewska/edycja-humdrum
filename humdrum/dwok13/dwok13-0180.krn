@@ -3,56 +3,68 @@
 !!!source: DWOK13
 !!!id: 13180
 !!!signature: 1318000000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16dd
-16dd
-8dd
-8ee
-=2
-16cc
-16a
-8f#
-8d
-=3
-16g
-16b
-8dd
-8ee
-=4
-16cc
-16a
-8f#
-8d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16ddL/	Kto
+16dd/J	wywi-
+8dd	.
+8ee	-ja
+=2	=2
+16cc	to
+16a\	wy-
+8f#	-wi-
+8d	-ja,
+=3	=3
+16g\	a
+16b	to
+8dd	na-
+8ee	-sza
+=4	=4
+16cc	fa-
+16a\	-mu-
+8f#	-li-
+8d}	-ja.
 !!LO:LB:g=esac
-=5
-{16e
-16e
-8e
-8a
-=6
-16a
-16f#
-8g
-8b
-=7
-16e
-16e
-8e
-8a
-=8
-16d
-16f#
-8g
-8d}
-==
-*-
+=5	=5
+{16e	A
+16e	kto
+8e	skacze,
+8a\	.
+=6	=6
+16aL	a
+16f#J	to
+8gL	ska-
+8b/J	-cze,
+=7	=7
+16e	Łagiewnic-
+16e	.
+8e	.
+8a\	-cy
+=8	=8
+16d\	to
+16f#\	smarka-
+8g\	.
+8d}\	-cze.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Kto wywija to wywija,
+!!a to nasza famulija.
+!!A kto skacze,
+!!a to skacze,
+!!Łagiewniccy to smarkacze.
+!!@@END: VERSES
+!!!role-singer: Complex
+!!!role-listener: Complex
+!!!singer-sex: Complex
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=119 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 95} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 95}
 !!!page: 95
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-01

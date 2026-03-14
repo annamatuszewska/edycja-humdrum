@@ -3,69 +3,104 @@
 !!!source: DWOK13
 !!!id: 13189
 !!!signature: 1318900010
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8g
-8b
-16cc
-16a
-=2
-16cc
-16ee
-8.dd
-16b
-=3
-8g
-8b
-16cc
-16a
-=4
-8g
-16g
-16f#
-8d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8g\	Bodaj-
+8b	.
+16cc	-żeś
+16a\	ty
+=2	=2
+16cc	ka-
+16ee	-ta
+8.dd	zja-
+16b}	-dła
 !!LO:LB:g=esac
-=5
-{8g
-8dd
-16cc
-16a
-=6
-16cc
-16ee
-8.dd
-16b
-=7
-8g
-8dd
-16cc
-16a
-=8
-16cc
-16ee
-8.dd
-16b}
+=3	=3
+{8g\	bodaj-
+8b	.
+16cc	-żeś
+16a\	ty
+=4	=4
+16cc	ka-
+16ee	-ta
+8.dd	zja-
+16b}	-dła
 !!LO:LB:g=esac
-=9
-{8g
-8dd
-16cc
-16a
-=10
-16g
-16b
-16g
-16f#
-8d}
-==
-*-
+=5	=5
+{8g\	z_swoją
+8b	.
+16cc	u-
+16a	-ro-
+=6	=6
+8g\	-dą,
+16gL	u-
+16f#J	-ro-
+8d}	-dą
+!!LO:LB:g=esac
+=7	=7
+{8gL	nawiąza-
+8dd/J	.
+16cc	.
+16a\	-łaś
+=8	=8
+16cc	ko-
+16ee	-ra-
+8.dd	-li-
+16b	-ków
+=9	=9
+8gL	i
+8ddJ/	wstąże-
+16cc	.
+16a\	-czek
+=10	=10
+16cc	u
+16ee	trzewi-
+8.dd	.
+16b}	-ków
+!!LO:LB:g=esac
+=11	=11
+{8gL	czynisz
+8dd/J	.
+16cc	się
+16a	mło-
+=12	=12
+16gL	-dą,
+16b/J	da
+16gL	młodą.
+16f#J	.
+8d}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Bodajżeś ty kata zjadła
+!!bodajżeś ty kata zjadła
+!!z swoja urodą, urodą, urodą,
+!!nawiązałaś koralików
+!!i wstążeczek u trzewików
+!!czynisz się młodą, da młodą.
+!!@VERSE:
+!!2. Ojże zasie, chłopie zasie,
+!!oj nie pójdę ja za cię.
+!!Portek nimasz, brzuch ci wylaz,
+!!musiałabym robić na cię.
+!!@VERSE:
+!!3. A spodziewałam ja się
+!!njedwabny podwiązki,
+!!a ón nimiał i. portczysków
+!!da ino same rząski.
+!!@@END: VERSES
+!!!role-singer: Lover, Mistress
+!!!role-listener: Mistress, Lover
+!!!singer-sex: male, female
 !!!ONB: Partia wokalna
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=123 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 99} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 99}
 !!!page: 99
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-02
