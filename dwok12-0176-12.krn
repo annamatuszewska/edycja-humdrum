@@ -1,0 +1,86 @@
+!!!!SEGMENT: DWOK1217600012-a_mam_ci_ja_ogrodeczek.krn
+!!!OTL: A mam ci ja ogródeczek
+!!!source: DWOK12
+!!!id: 12176
+!!!signature: 1217600012
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16d	A
+16d	mam
+8f#	ci
+8a	ja
+=2	=2
+16cc	ogródeczek
+16cc	.
+8b	.
+8g	.
+=3	=3
+16bL	ogrodzony
+16ddJ/	.
+8eeL	.
+8eeJ/	.
+=4	=4
+8aq	.
+4cc	cisem,
+16bL	.
+16gJ}	.
+!!LO:LB:g=esac
+=5	=5
+{16d	opatrzże
+16d	.
+8f#	.
+8a	mnie,
+=6	=6
+16a	a
+16g	mój
+8b	Jezu,
+16gL	.
+16f#J	.
+=7	=7
+16d	dobrym
+16d	.
+8f#	towa-
+8a	.
+=8	=8
+8eq	.
+4g	-rzyszem.
+16f#L	.
+16dJ}	.
+==	==
+*-	*-
+!!!role-singer: Maiden, Lover
+!!!role-listener: God, Maiden
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:1. A mam-ci ja ogródeczek
+!!ogrodzony cisem,
+!!opatrz-że mnie, o mój Jezu,
+!!dobrym towarzyszem.
+!!@VERSE:2. Ażeby ón mnie nie bijał,
+!!gorzałki nie pijał,
+!!do gościńca mi nie chodził,
+!!za łeb mnie nie wodził.
+!!@VERSE:3. Nie kłopoc(z) się, moje dziewczę
+!!nie będę cię bijał,
+!!a ino téż za mną nie chodź,
+!!gdzie ja będę pijał.
+!!@VERSE:4. A mijał-że ja cię, mijał
+!!borami, lasami,
+!!a nimogem-że cię minąć
+!!z czarnemi oczami.
+!!@VERSE:5. A mijał-że ja cię, mijał,
+!!nie mog'em cię minąć,
+!!a boś mi się obracała
+!!jak okrągły piniądz.
+!!@@END: VERSES
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=105 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 89} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 89}
+!!!page: 89
+!!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-02-25

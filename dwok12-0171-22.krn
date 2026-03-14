@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK1217100022-oj_chodzily_dwie_marysie.krn
+!!!OTL: Oj chodziły dwie Marysie
+!!!source: DWOK12
+!!!id: 12171
+!!!signature: 1217100022
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+!!LO:TX:a:t=Mazur.
+{16bL
+8ccq
+16bJ
+8gL
+8bJ
+=2
+16ddL
+16ccJ
+8.aL
+16gJ
+=3
+16f#L
+16aJ
+16dL
+16f#
+16a
+16ccJ
+=4
+16eeL
+16ddJ
+8.bL
+16gJ/}
+!!LO:LB:g=esac
+=5
+{16bL
+8ccq
+16bJ
+8gL
+8bJ
+=6
+16ddL
+16ccJ
+8.aL
+16gJ
+=7
+16f#L
+16aJ
+16dL
+16f#
+16a
+16ccJ
+=8
+8b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=103 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 87} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 87}
+!!!page: 87
+!!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-02-25
