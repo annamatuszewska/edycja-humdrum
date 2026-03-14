@@ -51,27 +51,32 @@
 8d}	.
 ==	==
 *-	*-
-!!!role-singer: Mistress
+!!!role-singer: Mistress, Narrator
 !!!role-listener: Lover
 !!!singer-sex: female
 !!@@BEGIN: VERSES
-!!@VERSE:1. A mój miły bednarczyku,
+!!@VERSE:
+!!1. A mój miły bednarczyku,
 !!pobij-że mi szkopiec;
 !!bo ja jestem ładne dziewcze,
 !!ty téż ładny chłopiec.
-!!@VERSE:2. A mój miły bednarczyku,
+!!@VERSE:
+!!2. A mój miły bednarczyku,
 !!pobij-że mi faskę;
 !!dam ci drzewa co potrzeba
 !!i gorzałki flaszkę.
-!!@VERSE:3. A mój miły bednarczyku,
+!!@VERSE:
+!!3. A mój miły bednarczyku,
 !!pobij-że mi dziéżę;
 !!daj dębowe, nie brzozowe,
 !!obręcze nie świéże.
-!!@VERSE:4. A mój miły bednarczyku,
+!!@VERSE:
+!!4. A mój miły bednarczyku,
 !!pobij-że mi ćwierci;
 !!dam ci tak mocnéj tabaki,
 !!aż ci nos rozwierci.
-!!@VERSE:5. Tak się bednarczyk zabiera,
+!!@VERSE:
+!!5. Tak się bednarczyk zabiera,
 !!do swego rzemiesła;
 !!i pobijał wszystkie statki
 !!aż je febra trzęsła.
@@ -83,3 +88,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-02-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-09

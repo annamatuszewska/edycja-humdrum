@@ -50,15 +50,18 @@
 !!!role-listener: Mistress, Lover
 !!!singer-sex: male, female
 !!@@BEGIN: VERSES
-!!@VERSE:1. Widzisz ty dziewucho
+!!@VERSE:
+!!1. Widzisz ty dziewucho
 !!ten kamień nad wodą,
 !!jak on pójdzie z wodą,
 !!ożenię się z tobą.
-!!@VERSE:2. Widziałeś, kochanku,
+!!@VERSE:
+!!2. Widziałeś, kochanku,
 !!żeby kamień pływał?
 !!kto cię o to prosi durniu
 !!żebyś u mnie bywał.
-!!@VERSE:3. Widzisz ty dziewucho
+!!@VERSE:
+!!3. Widzisz ty dziewucho
 !!tę suchą topolę,
 !!jak ona rozkwitnie, Kasiu,
 !!ożenię się z tobą.
@@ -70,3 +73,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-02-27
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-09

@@ -13,7 +13,7 @@
 {8g	Siano
 8g	.
 8g	czerpała
-8b	.
+8b/	.
 4dd	.
 =2	=2
 8dd	wodę
@@ -38,7 +38,7 @@
 {8g	Ona
 8g	.
 8g	mówiła,
-8b	.
+8b/	.
 4dd	.
 =6	=6
 8dd	będzie
@@ -112,7 +112,6 @@
 ==	==
 *-	*-
 !!!role-singer: Narrator
-!!!singer-sex: female, male
 !!@@BEGIN: VERSES
 !!@VERSE:1. Siano czerpała wodę wiązała,
 !!po téj robocie tydzień leżała.
@@ -128,3 +127,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-02-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-09

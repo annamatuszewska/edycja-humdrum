@@ -56,23 +56,27 @@
 !!!role-listener: God, Maiden
 !!!singer-sex: female, male
 !!@@BEGIN: VERSES
-!!@VERSE:1. A mam-ci ja ogródeczek
+!!1. A mam-ci ja ogródeczek
 !!ogrodzony cisem,
 !!opatrz-że mnie, o mój Jezu,
 !!dobrym towarzyszem.
-!!@VERSE:2. Ażeby ón mnie nie bijał,
+!!@VERSE:
+!!2. Ażeby ón mnie nie bijał,
 !!gorzałki nie pijał,
 !!do gościńca mi nie chodził,
 !!za łeb mnie nie wodził.
-!!@VERSE:3. Nie kłopoc(z) się, moje dziewczę
+!!@VERSE:
+!!3. Nie kłopoc(z) się, moje dziewczę
 !!nie będę cię bijał,
 !!a ino téż za mną nie chodź,
 !!gdzie ja będę pijał.
-!!@VERSE:4. A mijał-że ja cię, mijał
+!!@VERSE:
+!!4. A mijał-że ja cię, mijał
 !!borami, lasami,
 !!a nimogem-że cię minąć
 !!z czarnemi oczami.
-!!@VERSE:5. A mijał-że ja cię, mijał,
+!!@VERSE:
+!!5. A mijał-że ja cię, mijał,
 !!nie mog'em cię minąć,
 !!a boś mi się obracała
 !!jak okrągły piniądz.
@@ -84,3 +88,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-02-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-09
