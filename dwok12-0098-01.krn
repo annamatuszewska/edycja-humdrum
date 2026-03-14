@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK1209800001-idzie_woda_od_ogroda.krn
+!!!OTL: Idzie woda od ogroda
+!!!source: DWOK12
+!!!id: 12098
+!!!signature: 1209800001
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+!!LO:TX:a:t=Obertas.
+{16g	Idzie
+16cc	.
+8ee	wo-
+8dd	-da
+=2	=2
+16ff	od
+16aa	ogroda,
+8ee	.
+8gg	.
+=3	=3
+16ee	od
+16gg	mego
+8ee	.
+8dd	zie-
+=4	=4
+16ff	-la
+16dd	da
+8dd	ziela,
+8cc}	.
+!!LO:LB:g=esac
+=5	=5
+{16g	nie
+16cc	doczekasz
+8ee	.
+8dd	.
+=6	=6
+8ddM	matu-
+16ddL	.
+16ccJ	.
+16ee	-sieńku
+16gg	.
+=7	=7
+16gg	da
+16ff	i
+8ee	mo-
+8dd	-je-
+=8	=8
+16ff	-go
+16dd	wese-
+8dd	.
+8cc}	-la.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!role-listener: Mother
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:1. Idzie woda od ogroda,
+!!od mego ziela da ziela,
+!!nie doczekasz matusieńku
+!!da i mojego wesela.
+!!@VERSE:2. Ja dworaka nie kochała,
+!!kochać nie będę, nie będę,
+!!ja się grzeczną panieneczką
+!!nabędę da i nabędę.
+!!@@END: VERSES
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=63 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 47-48} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 47-48}
+!!!page: 47-48
+!!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-02-25

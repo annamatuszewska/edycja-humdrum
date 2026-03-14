@@ -1,0 +1,85 @@
+!!!!SEGMENT: DWOK1211100002-zasialam_ja_rozmarynek.krn
+!!!OTL: Zasiałam ja rozmarynek
+!!!source: DWOK12
+!!!id: 12111
+!!!signature: 1211100002
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16f	Za-
+32gL	-sia-
+32aJ	.
+8cc	łam
+8cc	ja
+=2	=2
+16ee	rozmarynek,
+16gg	.
+8ff	.
+8ff	.
+=3	=3
+8dd	on
+8cc	mi
+16b-	nie
+16a\	wscho-
+=4	=4
+16cc	-dzi,
+32b-L	nie
+32aJ	.
+8g	wschodzi,
+8f}	.
+!!LO:LB:g=esac
+=5	=5
+{16f	po-
+32gL	-słałam
+32aJ	.
+8cc	.
+8cc	ja
+=6	=6
+16cc	po
+32b-L	Jasieńka,
+32aJ	.
+8g	.
+8ff	.
+=7	=7
+8ee	on
+8dd	nie
+16b-	przycho-
+16g	.
+=8	=8
+16cc	-dzi,
+32b-L	przychodzi.
+32aJ	.
+8g	.
+8f}	.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:1. Zasiałam ja rozmarynek,
+!!on mi nie wschodzi, nie wschodzi,
+!!posłałam ja po Jasieńka,
+!!on nie przychodzi, przychodzi.
+!!@VERSE:2. Czy on przyjdzie, czy nieprzyjdzie
+!!rozmarynek ładnie idzie,
+!!bardzo zielony da, da, da,
+!!— bardzo zielony, zielony.
+!!@VERSE:3. Tyś mi niemiły, chłopaku,
+!!tyś mi nie miły, niemiły,
+!!zębiska ci opleśniały,
+!!— wąsy ogniły, ogniły.
+!!@VERSE:4. Tyś mi miluśki, chłopaku,
+!!tyś mi miluśki, miluśki,
+!!oczka ci się połyskują,
+!!— sam'eś raźniuśki, raźniuśki.
+!!@@END: VERSES
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=71 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 55} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 55}
+!!!page: 55
+!!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-02-25
