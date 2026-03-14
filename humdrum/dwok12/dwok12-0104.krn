@@ -59,19 +59,23 @@
 !!!role-listener: Mother, Maiden
 !!!singer-sex: female
 !!@@BEGIN: VERSES
-!!@VERSE:1. Matko, matko, matulu moja!
+!!@VERSE:
+!!1. Matko, matko, matulu moja!
 !!wydajcie mnie między ludzi,
 !!a bo już mi świat nie służy,
 !!matulu moja!
-!!@VERSE:2. Córko, córko, córulu moja!
+!!@VERSE:
+!!2. Córko, córko, córulu moja!
 !!będziesz ci ty chłopka syta,
 !!dziewięć razy o dzień bita,
 !!córulu moja!
-!!@VERSE:3. Matko, matko, matulu moja!
+!!@VERSE:
+!!3. Matko, matko, matulu moja!
 !!zabawi się chłop z chłopami,
 !!nie znajdzie kija za drzwiami,
 !!matulu moja!
-!!@VERSE:4. Córko, córko, córulu moja!
+!!@VERSE:
+!!4. Córko, córko, córulu moja!
 !!nie będzie-ć on kija szukał,
 !!tylko pistyką (pięścią, pięstką) wypukał,
 !!córulu moja!
@@ -84,3 +88,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-02-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-07

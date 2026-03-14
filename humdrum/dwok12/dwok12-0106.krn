@@ -15,7 +15,7 @@
 =2	=2
 16aL	do-
 16f#J	.
-4a\	la!
+4a\	-la!
 =3	=3
 16g	za
 16a	mąż
@@ -33,8 +33,8 @@
 =6	=6
 16ccL	w_la-
 16aJ	.
-8f\	.
-8cc	-ta
+(<8f\	.
+8cc\)	-ta
 =7	=7
 16g	nic
 16a	względu
@@ -52,7 +52,7 @@
 =10	=10
 16aL	do-
 16f#J	.
-16aL	la!
+16aL	-la!
 16f#	.
 8dJ	.
 =11	=11
@@ -86,71 +86,88 @@
 4a}	.
 ==	==
 *-	*-
-!!!role-singer: Mistress
-!!!role-listener: Mother, Lover
+!!!RDF**kern: <= below
+!!!role-singer: Mistress, Mother
+!!!role-listener: Mother, Daughter, Lover
 !!!singer-sex: female
 !!@@BEGIN: VERSES
-!!@VERSE:1. Nieszczęsna dola!
+!!@VERSE:
+!!1. Nieszczęsna dola!
 !!za mąż zabraniają;
 !!jużem zaszła w lata,
 !!nic względu niemają.
-!!@VERSE:2. Ja sama miarkuję,
+!!@VERSE:
+!!2. Ja sama miarkuję,
 !!że ja się tém truję;
 !!że bez męża żyję,
 !!a kiedyż utyję?
-!!@VERSE:3. Moja pani matko,
+!!@VERSE:
+!!3. Moja pani matko,
 !!Bóg was ciężko skarze
 !!że ja jeszcze dla was
 !!s kim nie żyję w parze.
-!!@VERSE:4. Ja już wolę miała,
+!!@VERSE:
+!!4. Ja już wolę miała,
 !!matka mi nie dała;
 !!trafiali się różni,
 !!swoi i podróżni.
-!!@VERSE:5. Moja pani matko,
+!!@VERSE:
+!!5. Moja pani matko,
 !!co wy to czynicie?
 !!czy tak na wędzonkę
 !!chować mnie myślicie?
-!!@VERSE:6. Mnie zakazujecie,
+!!@VERSE:
+!!6. Mnie zakazujecie,
 !!sami tańcujecie;
 !!mnie męża bronicie,
 !!a sami się gzicie,
-!!@VERSE:7. Oj moja córuniu,
+!!@VERSE:
+!!7. Oj moja córuniu,
 !!abyś statkowała,
 !!żebyś na niedolę
 !!potém nie płakała.
-!!@VERSE:8. Ciężkie to kłopoty,
+!!@VERSE:
+!!8. Ciężkie to kłopoty,
 !!mieć z męża zgryzoty;
 !!i urodę stracisz,
 !!i skórą przypłacisz.
-!!@VERSE:9. Nie wierzę ja temu,
+!!@VERSE:
+!!9. Nie wierzę ja temu,
 !!co wy powiadacie;
 !!wyście męża mieli, —
 !!całą skórę macie.
-!!@VERSE:10. Ja mam w zdrowiu szkodę,
+!!@VERSE:
+!!10. Ja mam w zdrowiu szkodę,
 !!i tracę urodę;
 !!coś natura czuje,
 !!twarzyczka się psuje.
-!!@VERSE:11. Już mi się doprawdy
+!!@VERSE:
+!!11. Już mi się doprawdy
 !!panieństwo sprzykrzyło;
 !!już wolę iść za mąż,
 !!gdyby się zdarzyło,
-!!@VERSE:12. Pierwej na mnie warli
+!!@VERSE:
+!!12. Pierwej na mnie warli
 !!ledwie mnie nie zżarli;
 !!wolę Jasia mego,
 !!niż czekać inszego.
-!!@VERSE:13. O mój Jasineczku,
+!!@VERSE:
+!!13. O mój Jasineczku,
 !!dej na zapowiedzi,
 !!u mojéj matuli
 !!kaduk nie wysiedzi.
-!!@VERSE:14. Byleś mnie wybawił,
+!!@VERSE:
+!!14. Byleś mnie wybawił,
 !!na słowo się stawił;
 !!bo mi przykre życie,
 !!tak się gryzę skrycie.
-!!@VERSE:15. Oj nie będę nigdy
+!!@VERSE:
+!!15. Oj nie będę nigdy
 !!Jasińka gniéwała,
 !!czego on będzie chciał
 !!i ja będę chciała.
-!!@VERSE:16. Jeść mu ugotuję;
+!!@VERSE:
+!!16. Jeść mu ugotuję;
 !!oczki pocałuje,
 !!pościelę łóżeczko,
 !!jak pieścidełeczko
@@ -163,3 +180,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-02-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-07

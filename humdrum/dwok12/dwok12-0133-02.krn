@@ -9,6 +9,7 @@
 *g:	*
 *M3/4	*
 =1	=1
+!!LO:TX:a:t=Owczarska.
 {8g	A
 8g	ty
 4b	ptaszku
@@ -72,7 +73,8 @@
 !!!role-singer: Narrator
 !!!singer-sex: female, male
 !!@@BEGIN: VERSES
-!!@VERSE:1. A ty ptaszku krekulaszku wysoko latasz, da latasz, wysoko latasz,
+!!@VERSE:
+!!1. A ty ptaszku krekulaszku wysoko latasz, da latasz, wysoko latasz,
 !!powiédz my ty nowineczkę tam gdzie ty siadasz, da siadasz, tam gdzie ty siadasz.
 !!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
@@ -82,3 +84,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-02-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-07

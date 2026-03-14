@@ -11,7 +11,7 @@
 =1	=1
 {4b	Liście
 4b	.
-4cc#	w ogro-
+4cc#	w_ogro-
 4b	.
 =2	=2
 8g#	-dzie,
@@ -57,7 +57,7 @@
 4g#	.
 =8	=8
 8b	nie
-8a/	po
+8a\	po
 8f#	mojej
 8f#	.
 4g#	woli.
@@ -67,54 +67,64 @@
 !!!role-singer: Maiden
 !!!singer-sex: female
 !!@@BEGIN: VERSES
-!!@VERSE:1. Liście w ogrodzie, liście padają;
+!!@VERSE:
+!!1. Liście w ogrodzie, liście padają;
 !!tego kowala, tego mi dają.
 !!Kowal bije młotem,
 !!zaléwa się potém;
 !!niechcę, nie pójdę,
 !!nie po mojéj woli.
-!!@VERSE:2. Liście w ogrodzie, liście padają;
+!!@VERSE:
+!!2. Liście w ogrodzie, liście padają;
 !!tego rymarza, tego mi dają.
 !!Rymarz ciągnie skóry,
 !!zębami do góry:
 !!nie chcę, i t. d.
-!!@VERSE:3. Liście w ogrodzie, liście padają;
+!!@VERSE:
+!!3. Liście w ogrodzie, liście padają;
 !!tego stolarza, tego mi dają.
 !!Stolarz robi skrzynki,
 !!rad kocha panienki;
 !!nie chcę, i t. d.
-!!@VERSE:4. Liście w ogrodzie, liście padają;
+!!@VERSE:4. 
+!!Liście w ogrodzie, liście padają;
 !!tego skotarza, tego mi dają.
 !!Skotarz pędzi krowy,
 !!rad on kocha wdowy;
 !!nie chcę, i t. d.
-!!@VERSE:5. Liście w ogrodzie, liście padają;
+!!@VERSE:
+!!5. Liście w ogrodzie, liście padają;
 !!tego garcarza, tego mi dają.
 !!Garcarz robi garki,
 !!rad on kocha starki;
 !!nie chcę, i t. d.
-!!@VERSE:6. Liście w ogrodzie, liście padają;
+!!@VERSE:
+!!6. Liście w ogrodzie, liście padają;
 !!tego owczarza, tego mi dają.
 !!Owcarz pędzi owce,
 !!obije go kto chce;
 !!nie chcę, i t. d.
-!!@VERSE:7. Liście w ogrodzie, liście padają;
+!!@VERSE:
+!!7. Liście w ogrodzie, liście padają;
 !!tego świniarza, tego mi dają.
 !!Świniarz pędzi świnie,
 !!owala się w glinie;
 !!nie chcę, i t. d.
-!!@VERSE:8. Liście w ogrodzie, liście padają;
+!!@VERSE:
+!!8. Liście w ogrodzie, liście padają;
 !!tego ślusarza, tego mi dają.
 !!Ślusarz robi klucze,
 !!i łeb sobie tłucze:
 !!inni: (Ślusarz robi kłodki,
 !!to ma rozum krótki;) nie chcę.
-!!@VERSE:9. Liście w ogrodzie, liście padają;
+!!@VERSE:
+!!9. Liście w ogrodzie, liście padają;
 !!tego muzykanta, tego mi dają.
 !!Muzykant rychło wstaje,
 !!na dzień dobry graje;
 !!nie chcę, i t. d.
-!!@VERSE:10. Liście w ogrodzie, liście padają;
+!!@VERSE:
+!!10. Liście w ogrodzie, liście padają;
 !!tego młynarza, tego mi dają,
 !!Młynarz mele mączki,
 !!rada jadam pączki;
@@ -128,3 +138,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-02-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-06

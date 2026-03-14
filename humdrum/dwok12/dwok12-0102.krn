@@ -33,12 +33,12 @@
 8.dd	-ler
 16b	pier-
 =6	=6
-4.g}	szy.
+4.g}	-szy.
 !!LO:LB:g=esac
 =7	=7
 {16g	A
-16b	ten
-8.b	pierszy,
+16b/	ten
+8.b/	pierszy,
 16g	.
 =8	=8
 16a\	robi
@@ -101,3 +101,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-02-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-07

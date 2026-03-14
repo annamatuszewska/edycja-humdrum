@@ -1,13 +1,14 @@
-!!!!SEGMENT: DWOK1212000002-oj_jada_jada_uzary.krn
+!!!!SEGMENT: DWOK1212000001-oj_jada_jada_uzary.krn
 !!!OTL: Oj jadą, jadą uzary
 !!!source: DWOK12
 !!!id: 12120
-!!!signature: 1212000002
+!!!signature: 1212000001
 **kern	**text
 *clefG2	*
 *k[]	*
 *C:	*
 *M2/4	*
+*met(c)	*
 =1	=1
 {8cc	Oj
 8cc	jadą,
@@ -19,27 +20,27 @@
 8ee	uza-
 8ee	.
 8ff	-ry
-8dd	z gó-
+8dd	z_gó-
 =4	=4
 2cc}	-ry.
 !!LO:LB:g=esac
 =5	=5
-{8ccL	Oj
-8eeJ/	.
-8cc	jedzie.
-8ee	mój
+{8cc/L	Oj
+8eeJ	.
+8cc	jedzie
+8ee	.
 =6	=6
+8dd	mój
 8dd	Jasieniek
 8dd	.
-8dd	.
-8b	wiezie
+8b	.
 =7	=7
+8g	wiezie
 8g	.
 8g	mi
-8g	wia-
-8b	-nek.
+8b	wia-
 =8	=8
-2cc}	.
+2cc}	-nek.
 ==	==
 *-	*-
 !!!role-singer: Mistress
@@ -56,3 +57,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-02-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-07

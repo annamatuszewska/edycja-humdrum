@@ -80,8 +80,7 @@
 ==	==
 *-	*-
 !!!role-singer: Narrator
-!!!role-listener: Lover
-!!!singer-sex: female, male
+!!!role-listener: Bachelor
 !!@@BEGIN: VERSES
 !!@VERSE:1. Jak się będziesz żenił,
 !!doradzę ja tobie,
@@ -104,6 +103,9 @@
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=60 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 44} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 44}
 !!!page: 44
+!!!ONB@texture: Only voice or instrument is playing at a time
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-02-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-06

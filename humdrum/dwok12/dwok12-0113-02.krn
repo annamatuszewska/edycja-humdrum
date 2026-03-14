@@ -1,8 +1,8 @@
-!!!!SEGMENT: DWOK1211300002-jasio_moj_jasienku.krn
+!!!!SEGMENT: DWOK1211300001-jasio_moj_jasienku.krn
 !!!OTL: Jasio mój Jasieńku
 !!!source: DWOK12
 !!!id: 12113
-!!!signature: 1211300002
+!!!signature: 1211300001
 **kern	**text
 *clefG2	*
 *k[b-]	*
@@ -15,10 +15,10 @@
 4cc	mój,
 4a\	Ja-
 =2	=2
-(4.f	-sień-
+(>4.f	-sień-
 8g)	.
-8aL	-ku,
-8ccJ/	.
+8a/L	-ku,
+8ccJ\	.
 =3	=3
 8cc	nie
 16b-L	jedź
@@ -27,7 +27,7 @@
 8ccL	to
 8aJ	.
 =4	=4
-(4.f	tę-
+(>4.f	tę-
 8g)	.
 8aL	-dy,
 8fJ}	.
@@ -38,7 +38,7 @@
 8ddq	.
 4cc	po-
 8b-L	-o-
-8aJ	.
+8aJ\	.
 =6	=6
 4b-	-balasz
 4b-	.
@@ -58,31 +58,37 @@
 8fJ}	.
 ==	==
 *-	*-
+!!!RDF**kern: >= above
 !!!role-singer: Mistress, Lover
 !!!role-listener: Lover, Mistress
 !!!singer-sex: female, male
 !!@@BEGIN: VERSES
-!!@VERSE:1. Jasio mój, Jasieńku,
+!!1. Jasio mój, Jasieńku,
 !!nie jedź mi to tędy,
 !!bo mi poobalasz
 !!od lewendy rzędy.
-!!@VERSE:2. Rzędy poobalasz,
+!!@VERSE:
+!!2. Rzędy poobalasz,
 !!rozmaryn podepczesz,
 !!a jak-eś mnie uwiód(ł)
 !!a teraz mnie nie chcesz.
-!!@VERSE:3. A chtóż ciebie uwiód,
+!!@VERSE:
+!!3. A chtóż ciebie uwiód,
 !!tylko gorzałeczka,
 !!hulałaś, pijałaś
 !!jak nie panieneczka.
-!!@VERSE:4. A wieleż tam było,
+!!@VERSE:
+!!4. A wieleż tam było,
 !!hulania mojego,
 !!godzina z wieczora,
 !!aż do dnia białego.
-!!@VERSE:5. Nie kazała ci się,
+!!@VERSE:
+!!5. Nie kazała ci się,
 !!matulińka bawić;
 !!gorzałeczkę wypić,
 !!kieliszek postawić.
-!!@VERSE:6. Bodaj ta szynkarka
+!!@VERSE:
+!!6. Bodaj ta szynkarka
 !!z piekła nie wyźrzała,
 !!dwa złote'm napiła,
 !!cztéry napisała.
@@ -95,3 +101,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-02-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-07

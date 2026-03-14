@@ -107,27 +107,33 @@
 !!!role-listener: Lover
 !!!singer-sex: female, male
 !!@@BEGIN: VERSES
-!!@VERSE:1. A mój ptaszku, krogulaszku,
+!!@VERSE:
+!!1. A mój ptaszku, krogulaszku,
 !!wysoko latasz,
 !!powiedz-że mi nowineczkę,
 !!gdzie się obracasz.
-!!@VERSE:2. Powiem ja ci nowineczkę
+!!@VERSE:
+!!2. Powiem ja ci nowineczkę
 !!nie bardzo dobrą,
 !!że ci twoją kochaneczkę
 !!do ślubu wiodą.
-!!@VERSE:3. A niech wiodą, niech prowadzą,
+!!@VERSE:
+!!3. A niech wiodą, niech prowadzą,
 !!będę ja jéj grał,
 !!jeśli-ć mi ją Bóg naznaczył,
 !!będę ja ją miał.
-!!@VERSE:4. I przyjechał, i przyjechał,
+!!@VERSE:
+!!4. I przyjechał, i przyjechał,
 !!stanął za drzwiami,
 !!i spojrzawszy na Kasiulę,
 !!zalał się łzami.
-!!@VERSE:5. Ona idzie do ołtarza,
+!!@VERSE:
+!!5. Ona idzie do ołtarza,
 !!drobno stąpając,
 !!a jemu się serce kraje,
 !!na nią patrzając.
-!!@VERSE:6. Ona idzie od ołtarza,
+!!@VERSE:
+!!6. Ona idzie od ołtarza,
 !!gdyby modry kwiat,
 !!i stanęła, zapłakała,
 !!zmienił ij się świat.
@@ -139,3 +145,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-02-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-07

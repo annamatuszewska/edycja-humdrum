@@ -27,8 +27,8 @@
 {8dd	Puk,
 4ff	puk
 =6	=6
-16ff	w okieneczko,
-16dd	.
+16ff	w
+16dd	okieneczko,
 8gg	.
 8ee	.
 =7	=7
@@ -53,55 +53,66 @@
 !!!role-listener: Mistress, Soldiers
 !!!singer-sex: male, female
 !!@@BEGIN: VERSES
-!!@VERSE:1. Na szklanéj górze stoją żołnirze.
+!!@VERSE:
+!!1. Na szklanéj górze stoją żołnirze.
 !!Puk, puk w okieneczko,
 !!wstaj, wstaj kochaneczko,
 !!koniom wody daj.
-!!@VERSE:2. Jakżeż ja mam wstać
+!!@VERSE:
+!!2. Jakżeż ja mam wstać
 !!koniom wody dać;
 !!zimna rosa, a ja bosa
 !!nie mogę wytrwać.
-!!@VERSE:3. Na-ści chusteczki,
+!!@VERSE:
+!!3. Na-ści chusteczki,
 !!owiń nożeczki,
 !!a jak mnie Pan Bóg wspomoże,
 !!kupię-ć trzewiczki.
+!!@VERSE:
 !!(4. Kupisz, nie kupisz,
 !!nie będę chodzić,
 !!a mam ci ja taką panią,
 !!co trzewiczki kupi zaro,
 !!i będę chodzić.)
-!!@VERSE:5. Nie pójdę ja wstać,
+!!@VERSE:
+!!5. Nie pójdę ja wstać,
 !!koniom wody dać.
 !!Mamula mi przykazała,
 !!żebym s tobą nie gadała.
 !!mamuli się boję.
-!!@VERSE:6. Mamuli się nie bój,
+!!@VERSE:
+!!6. Mamuli się nie bój,
 !!siadaj na koń mój;
 !!pojedziemy w cudze kraje,
 !!zobaczemy obyczaje,
 !!malowany dwór.
-!!@VERSE:7. Jadą, jadą,
+!!@VERSE:
+!!7. Jadą, jadą,
 !!jadą bes wieś;
 !!siodmi sługów za nią,
 !!jak za jaką panią,
 !!teroz moją będzie.
 !!dodają:
-!!@VERSE:8. Przez wieś jechali.
+!!@VERSE:
+!!8. Przez wieś jechali.
 !!ludzie patrzali (v. glądali)
 !!co to za jedyna,
 !!co to za dziewczyna
 !!s panami jedzie.
-!!@VERSE:9. Oj jedzie, jedzie
+!!@VERSE:
+!!9. Oj jedzie, jedzie
 !!w złotym ubiorze.
 !!Sto par koni za nią,
 !!jak za jaką panią, —
 !!ta moją będzie.
-!!@VERSE:10. Bez pola jadą,
+!!@VERSE:
+!!10. Bez pola jadą,
 !!natrafili krám.
 !!Powiedz ty dziewczyno,
 !!powiedz ty jedyna,
 !!co ci kupić mám?
-!!@VERSE:11. Nie kupuj wieńca,
+!!@VERSE:
+!!11. Nie kupuj wieńca,
 !!z złota piestrzeńca (pierścienia),
 !!Dla mnie kup czepyszek
 !!na mój złoty wierzchołyszek,
@@ -115,3 +126,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-02-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-07

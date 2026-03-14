@@ -38,9 +38,9 @@
 8e	.
 8e	.
 =6	=6
-8fq	.
+8f#q	.
 8g	obmó-
-8fq	.
+8f#q	.
 8g	.
 16b	-wiska
 16e	.
@@ -84,9 +84,9 @@
 8e	.
 8e	.
 =14	=14
-8fq	.
+8f#q	.
 8g	obmó-
-8fq	.
+8f#q	.
 8g	.
 16b	-wiska
 16e	.
@@ -103,19 +103,22 @@
 8d}	.
 ==	==
 *-	*-
-!!!!role-singer: Mistress
+!!!role-singer: Mistress
 !!!role-listener: Lover
 !!!singer-sex: female
 !!@@BEGIN: VERSES
-!!@VERSE:1. Da wszak ja tobie powiadała
+!!@VERSE:
+!!1. Da wszak ja tobie powiadała
 !!da powiadać będę da będę,
 !!dla ludzkiego obmówiska
 !!twoją nie będę, nie będę.
-!!@VERSE:2. Wszak ja tobie powiadała,
+!!@VERSE:
+!!2. Wszak ja tobie powiadała,
 !!siejący rutkę da rutkę,
 !!nie pójdę ja za oracza,
 !!tylko za dutkę, za dutkę. *)
-!!@VERSE:3. U oracza dość kołacza,
+!!@VERSE:
+!!3. U oracza dość kołacza,
 !!a dzieci płaczą da płáczą.
 !!A u dudki chléb malutki
 !!da dzieci skaczą da skaczą.
@@ -127,3 +130,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-02-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-07

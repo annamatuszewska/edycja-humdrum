@@ -88,14 +88,16 @@
 !!!role-singer: Maiden
 !!!singer-sex: female
 !!@@BEGIN: VERSES
-!!@VERSE:1. Zasiała ja rozmaryniek,
+!!@VERSE:
+!!1. Zasiała ja rozmaryniek,
 !!on ładnie wschodzi,
 !!pisała ja do kochanka,
 !!on nie przychodzi.
 !!A czy przydzie, czy nie przydzie,
 !!rozmaryniek ładnie idzie,
 !!a ładnie idzie (wschodzi).
-!!@VERSE:2. Rozmaryniek dla panienek,
+!!@VERSE:
+!!2. Rozmaryniek dla panienek,
 !!dla mężatków kwiatki,
 !!a dla wdowów pindyrynda (bella-donna)
 !!dla babek żabki.
@@ -110,3 +112,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-02-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-07

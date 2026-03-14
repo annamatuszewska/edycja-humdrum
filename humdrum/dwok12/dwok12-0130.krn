@@ -11,14 +11,14 @@
 =1	=1
 {8dd;	Oj
 8cc	na
-8b	mojej
+8b	mojéj
 8a\	.
 8b	roli,
 8cc	.
 =2	=2
 8dd	oj
 8cc	na
-8b	mojej
+8b	mojéj
 8a\	.
 8b	roli
 8cc	.
@@ -28,8 +28,8 @@
 4ee	.
 4ee	.
 =4	=4
-8dd	stoji,
-8ee	.
+8ddL	stoji,
+8eeJ	.
 2dd;}	.
 !!LO:LB:g=esac
 =5	=5
@@ -54,7 +54,7 @@
 2d}	-ji,
 !!LO:LB:g=esac
 =9	=9
-{4b	da
+{4b/	da
 8bL	kto
 8ccJ/	.
 8dd	jedzie,
@@ -76,7 +76,7 @@
 2d}	-ji.
 ==	==
 *-	*-
-!!!role-singer: Mistress
+!!!role-singer: Girl
 !!!singer-sex: female
 !!@@BEGIN: VERSES
 !!@VERSE:1. Oj na mojéj roli, oj na mojéj roli studzieneczka stoji,
@@ -89,3 +89,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-02-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-07

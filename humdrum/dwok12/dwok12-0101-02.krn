@@ -50,7 +50,8 @@
 !!!role-singer: Maiden
 !!!singer-sex: female
 !!@@BEGIN: VERSES
-!!@VERSE:1. Dawała mnie pani matka pirszego, pirszego,
+!!@VERSE:
+!!1. Dawała mnie pani matka pirszego, pirszego,
 !!a ten pirszy bardzo długi nie chcę go, nie chcę go.
 !!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
@@ -60,3 +61,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-02-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-07
