@@ -3,98 +3,141 @@
 !!!source: DWOK12
 !!!id: 12105
 !!!signature: 1210500000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8g
-4g
-=2
-8cc
-4gg
-=3
-8ee
-4cc
-=4
-16ff
-16ee
-8dd
-16cc
-16b
-=5
-8a
-4cc
-=6
-8b
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8g	O
+4g	ma-
+=2	=2
+8cc	-tulu
+4gg	.
+=3	=3
+8ee	moja,
+4cc	.
+=4	=4
+16ff#	Wydajcież
+16ee	.
+8dd	.
+16ccL	mnie
+16bJ	.
+=5	=5
+8a\	wczas
+4cc	do
+=6	=6
+8b	ludzi,
+4g}	.
 !!LO:LB:g=esac
-=7
-{16cc
-16dd
-8ee
-8dd
-=8
-16ff
-16ee
-8dd
-16cc
-16b
-=9
-16a
-16f#
-8a
-8cc
-=10
-8b
-4g}
+=7	=7
+{16cc	niechże
+16dd	.
+8ee	mi
+8dd	się
+=8	=8
+16ff#	świat
+16ee	nie
+8dd	trudzi,
+16ccL	.
+16bJ	.
+=9	=9
+16a	matu-
+16f#	.
+8a	-lu
+8cc	mo-
+=10	=10
+(8b	-ja!
+4g)}	.
 !!LO:LB:g=esac
-=11
-{8g
-4g
-=12
-8cc
-4gg
-=13
-8ee
-4cc
-=14
-16ff
-16ee
-8dd
-16cc
-16b
-=15
-8a
-4cc
-=16
-8b
-4g}
+=11	=11
+{8g	O
+4g	ma-
+=12	=12
+8cc	-tulu
+4gg	.
+=13	=13
+8ee	moja,
+4cc	.
+=14	=14
+16ff#	Wydajcież
+16ee	.
+8dd	.
+16ccL	mnie
+16bJ	.
+=15	=15
+8a\	wczas
+4cc	do
+=16	=16
+8b	ludzi,
+4g}	.
 !!LO:LB:g=esac
-=17
-{16cc
-16dd
-8ee
-8dd
-=18
-16ff
-16ee
-8dd
-16cc
-16b
-=19
-16a
-16f
-8a
-8cc
-=20
-8b
-4g}
-==
-*-
+=17	=17
+{16cc	niechże
+16dd	.
+8ee	mi
+8dd	się
+=18	=18
+16ff#	świat
+16ee	nie
+8dd	trudzi,
+16ccL	.
+16bJ	.
+=19	=19
+16a	matu-
+16f#	.
+8a	-lu
+8cc	mo-
+=20	=20
+(8b	-ja!
+4g)}	.
+==	==
+*-	*-
+!!!role-singer: Maiden, Mother
+!!!role-listener: Mother, Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:1. O matulu moja!
+!!Wydajcie mię wczas do ludzi,
+!!niechże mi się świat nie trudzi,
+!!matusiu moja!
+!!@VERSE:2. O córusiu moja!
+!!Kiedyś ty (jest) bardzo młoda,
+!!jeszcze cię za chłopa szkoda,
+!!córusiu moja!
+!!@VERSE:3. O matusiu moja!
+!!Jak to dobrze matce z ojcem,
+!!także mnie téż z młodym chłopcem,
+!!matusiu moja!
+!!@VERSE:4. O córusiu moja!
+!!Będziesz-ci ty chłopa syta,
+!!dziewięć razy na dzień bita,
+!!córusiu moja!
+!!@VERSE:5. O matusiu moja!
+!!Jak mnie będzie bardzo bijał,
+!!nie będzie mię w domu widział,
+!!umknę do ludzi.
+!!@VERSE:6. O córusiu moja!
+!!Weźmie-ci on kija z sobą,
+!!przypędzi cię nazad do dom,
+!!córusiu moja!
+!!@VERSE:7. O matusiu moja!
+!!Wy się o to nie pytajcie,
+!!a mnie posag wydawajcie,
+!!we świat wędruję.
+!!@VERSE:8. O córusiu moja!
+!!Jak ty będziesz wędrowała,
+!!z tobą będę umierała,
+!!córusiu moja!
+!!@VERSE:9. O matusiu moja!
+!!Wy ta sami umiérajcie,
+!!a mnie posag wydawajcie,
+!!matusiu moja!
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=67 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 51-52} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 51-52}
 !!!page: 51-52
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-02-25

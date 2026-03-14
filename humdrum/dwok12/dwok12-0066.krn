@@ -3,73 +3,85 @@
 !!!source: DWOK12
 !!!id: 12066
 !!!signature: 1206600000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{8g
-8b
-8cc
-=2
-4ff
-8ee
-=3
-8gg
-8aa
-8gg
-=4
-4ff
-8ee
-=5
-8gg
-8aa
-8gg
-=6
-4ff
-8ee}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{8g	A
+8b	na
+8cc	téj
+=2	=2
+4ff	łące,
+8ee	.
+=3	=3
+8gg	na
+8aa	téj
+8gg	zie-
+=4	=4
+4ff	-lonéj,
+8ee	.
+=5	=5
+8gg	na
+8aa	téj
+8gg	zie-
+=6	=6
+4ff	-lonéj,
+8ee}	.
 !!LO:LB:g=esac
-=7
-{8dd
-16ee
-16dd
-16cc
-16b
-=8
-4g
-8f
-=9
-8g
-8b
-8cc
-=10
-4ff
-8ee}
+=7	=7
+{8dd	leżał
+16eeL	.
+16ddJ	.
+16ccL	tam
+16bJ	.
+=8	=8
+4g	Jasio
+8f	.
+=9	=9
+8g	.
+8b	bardzo
+8cc	.
+=10	=10
+4ff	zra-
+8ee}	-niony.
 !!LO:LB:g=esac
-=11
-{8dd
-16ee
-16dd
-16cc
-16b
-=12
-8g
-8a
-8f
-=13
-8g
-8b
-8dd
-=14
-8cc
-8b
-8g}
-==
-*-
+=11	=11
+{8dd	.
+16eeL	leżał
+16ddJ	.
+16ccL	.
+16bJ	tam
+=12	=12
+8gL	.
+8aJ	Jasio
+8f	.
+=13	=13
+8g	bardzo
+8b	.
+8dd	zra-
+=14	=14
+8ccL	-niony.
+8bJ	.
+8g}	.
+==	==
+*-	*-
+!!@@BEGIN:
+!!@COMMENTARY: od Środy (Dębicz).
+!!@@END:
+!!!role-singer: Singer
+!!!role-listener: Group
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:A na téj łące, na téj zielonéj,
+!!leżał tam Jasio bardzo zraniony.
+!!@@END: VERSES
 !!!ONB: Moze zapisac od G?
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=45 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 29-30} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 29-30}
 !!!page: 29-30
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-21-02

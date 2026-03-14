@@ -3,100 +3,130 @@
 !!!source: DWOK12
 !!!id: 12007
 !!!signature: 1200700000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8cc
-8cc
-4ee
-4cc
-=2
-8dd
-8b
-4g
-4b
-=3
-8cc
-8a
-4f
-4f
-=4
-8g
-8f
-4e
-4d}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8cc	Do
+8cc	ciebie
+4ee	.
+4cc	ja-
+=2	=2
+8dd	dę
+8b	da
+4g	jadę,
+4b	.
+=3	=3
+8ddq	.
+8cc	do
+8a	ciebie
+4f	.
+8eq	.
+4f	ja-
+=4	=4
+8g	dę
+8f	da
+4e	jadę,
+4d}	.
 !!LO:LB:g=esac
-=5
-{8f
-8f
-4a
-4f
-=6
-8g
-8e
-4c
-4e
-=7
-8f
-8f
-4a
-4f
-=8
-8g
-8f
-4e
-4d}
+=5	=5
+{8f	da
+8f	jak
+4a	mi
+4f	cię
+=6	=6
+8g	matuś
+8e	.
+4c	nie
+4e	da
+=7	=7
+8f	to
+8f	cię
+4a	ukra-
+4f	.
+=8	=8
+8g	dę,
+8f	ukradę.
+4e	.
+4d}	.
 !!LO:LB:g=esac
-=9
-{8cc
-8cc
-4ee
-4cc
-=10
-8dd
-8b
-4g
-4b
-=11
-8cc
-8a
-4f
-4f
-=12
-8g
-8f
-4e
-4d}
+=9	=9
+{8cc	Do
+8cc	ciebie
+4ee	.
+4cc	ja-
+=10	=10
+8dd	dę
+8b	da
+4g	jadę,
+4b	.
+=11	=11
+8ddq	.
+8cc	do
+8a	ciebie
+4f	.
+8eq	.
+4f	ja-
+=12	=12
+8g	dę
+8f	da
+4e	jadę,
+4d}	.
 !!LO:LB:g=esac
-=13
-{8f
-8f
-4a
-4f
-=14
-8g
-8e
-4c
-8e
-8g
-=15
-8f
-8f
-4a
-8f
-8d
-=16
-8g
-8f
-4e
-4d}
-==
-*-
+=13	=13
+{8f	da
+8f	jak
+4a	mi
+4f	cię
+=14	=14
+8g	matuś
+8e	.
+4c	nie
+8eL	da
+8gJ	.
+=15	=15
+8f	to
+8f	cię
+4a	ukra-
+8fL	.
+8dJ	.
+=16	=16
+8g	dę,
+8f	ukradę.
+4e	.
+4d}	.
+==	==
+*-	*-
+!!@@BEGIN:
+!! @COMMENTARY: od Środy (Dębica).
+!!@@END:
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:Do ciebie jadę da jadę, 
+!!do ciebie jadę da jadę,
+!!da jak mi cię matuś nie da 
+!!to cię ukradę, ukradę.
+!!@VERSE:Nie trzebno mię kraść, da i kraść,
+!!nie trzebno mię kraść, da i kraść,
+!!ino trzebno ojcu, matce,
+!!do nóżków upaść, da upaść.
+!!@VERSE:Oj i dadzą ci mi dadzą,
+!!da i jeszcze odprowadzą,
+!!ino przyjdzie ten czas da i czas,
+!!ino przyjdzie ten czas.
+!!@VERSE:Przez te bory, przez te lasy,
+!!przez tę laszczynę, laszczynę —
+!!a żeli-ć mnie Bóg naznaczył,
+!!to cię nie minę, nie minę.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=21 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 5} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 5}
 !!!page: 5
-!!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ONB: Converted on 2024/12/26 with es
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-11-02

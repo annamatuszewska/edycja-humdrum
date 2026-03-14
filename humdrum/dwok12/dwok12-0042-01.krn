@@ -3,51 +3,73 @@
 !!!source: DWOK12
 !!!id: 12042
 !!!signature: 1204200001
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{8g
-8b
-4dd
-=2
-8ff
-8b
-4dd
-=3
-8ee
-16ee
-16dd
-8g
-8b
-=4
-4f
-4e}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+=1	=1
+{8g	Konik
+8b	.
+4dd	zmók,
+=2	=2
+8ff	i
+8b	ja
+4dd	zmók,
+=3	=3
+8ee	i
+16eeL	kul-
+16ddJ	.
+8g	baka
+8b	.
+=4	=4
+4f	zmokła,
+4e}	.
 !!LO:LB:g=esac
-=5
-{8d
-8f
-4f
-=6
-8g
-8b
-4dd
-=7
-8ff
-16ee
-16dd
-16a
-16g
-8b
-=8
-4dd
-4cc}
-==
-*-
+=5	=5
+{8d	dla
+8f	ciebie
+4f	.
+=6	=6
+8g	Kasieńku
+8b	.
+4dd	.
+=7	=7
+8ff	stoją-
+16eeL	.
+16ddJ	.
+16aL	cy
+16gJ	.
+8b	u
+=8	=8
+4dd	o-
+4cc}	kna.
+==	==
+*-	*-
+!!@@BEGIN:
+!!@COMMENTARY: od Poznania (Jeżyce).
+!!@@END:
+!!!role-singer: Lover, Mistress
+!!!role-listener: Mistress, Lover
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:Konik zmók, i ja zmók, 
+!!i kulbaka zmokła,
+!!dla ciebie Kasieńku 
+!!stojący u okna.
+!!@VERSE:Wołałem, pukałem —
+!!nie chciałaś otworzyć;
+!!musiałem głowiczkę
+!!na progu położyć.
+!!@VERSE:Widzi-Bóg, dalibóg,
+!!żem cię nie poznała;
+!!(w)stałabym otworzyć,
+!!albobym kazała.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=36 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 20} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 20}
 !!!page: 20
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-19-02

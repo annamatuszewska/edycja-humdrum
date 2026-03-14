@@ -3,66 +3,103 @@
 !!!source: DWOK12
 !!!id: 12072
 !!!signature: 1207200000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16b
-16cc
-8dd
-8dd
-=2
-16b
-16cc
-8dd
-8dd
-=3
-16dd
-16ee
-8dd
-8a
-=4
-8cc
-4b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16b	Z tamtéj
+16cc	.
+8dd	strony
+8dd	.
+=2	=2
+16b	Z tamtéj
+16cc	.
+8dd	strony
+8dd	.
+=3	=3
+16dd	ziele-
+16ee	.
+8dd	-ni
+8a	się
+=4	=4
+8cc	trawa;
+4b}	.
 !!LO:LB:g=esac
-=5
-{4dd
-8gg
-=6
-4ee
-8cc
-=7
-16b
-16cc
-8.dd
-16f#
-=8
-8a
-8g}
-8r
+=5	=5
+{4dd	pasła
+8gg	.
+=6	=6
+4ee	panna,
+8cc	.
+=7	=7
+16b	prześlicznego
+16cc	.
+8.dd	.
+16f#	.
+=8	=8
+8a	pawia.
+8g}	.
+8r	.
 !!LO:LB:g=esac
-=9
-{4dd
-8gg
-=10
-4ee
-16dd
-16cc
-=11
-16b
-16cc
-8.dd
-16f#
-=12
-8a
-8g}
-8r
-==
-*-
+=9	=9
+{4dd	pasła
+8gg	.
+=10	=10
+4ee/	panna,
+16ddL	.
+16ccJ/	.
+=11	=11
+16b	prześlicznego
+16cc	.
+8.dd	.
+16f#	.
+=12	=12
+8a	pawia.
+8g}	.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN:
+!!@COMMENTARY: od Gniezna.
+!!@@END:
+!!!role-singer: Group
+!!!role-listener: Group
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:Ztamtéj strony (:) zieleni się trawa;
+!!pasała panna,
+!!prześlicznego pawia.
+!!@VERSE:Napasła go, (:) do domu go gnała,
+!!całą dróżkę,
+!!s pawiem rozmawiała.
+!!@VERSE:Wyciena go przez nóżkę niechcący,
+!!pawik uciek, pawik uciek
+!!do domu krzycący.
+!!@VERSE:Ona za nim szybko poleciała,
+!!wpadła w rzeczkę, wpadła w rzeczkę,
+!!nóżki zamaczała.
+!!@VERSE:Zacząn i (jéj) się bardzo pięknie prosić,
+!!by mu dała, by mu dała
+!!swoją łączkę posiéc.
+!!@VERSE:Wedle łączki bystra woda ciecze,
+!!moją łąkę, moją łąkę
+!!nie lada kiep siecze.
+!!@VERSE:Moja łąka przy niskiéj dolinie,
+!!można ją siéc, można ją siéc
+!!tak w lecie, jak w zimie.
+!!@VERSE:Kto będzie chciał moją łączkę posiéc,
+!!musi mi się, musi mi się
+!!bardzo pięknie prosić.
+!!@VERSE:Nie dam, nie dam, pokoszę ją sama;
+!!będę miała, będę miała
+!!czterdzieści fur siana.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=48 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 32} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 32}
 !!!page: 32
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-21-02

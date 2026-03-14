@@ -3,81 +3,91 @@
 !!!source: DWOK12
 !!!id: 12057
 !!!signature: 1205700010
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16a
-8b
-8cc
-=2
-16b
-16a
-8g
-8g
-=3
-16b
-16dd
-8dd
-16ee
-16cc
-=4
-8a
-8a
-8a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Jedzie
+16a	.
+8b	Jasio
+8cc	.
+=2	=2
+16b	od
+16a\	Warszawy
+8g\	.
+8g\	.
+=3	=3
+16b	pędzi
+16dd	.
+8dd	gąsio-
+16eeL	.
+16ccJ	.
+=4	=4
+8a	-ry
+8a	ha
+8a}	ha,
 !!LO:LB:g=esac
-=5
-{16a
-16cc
-8cc
-16dd
-16b
-=6
-8g
-8g
-8g}
+=5	=5
+{16a	pędzi
+16cc	.
+8cc	gąsio-
+16ddL	.
+16bJ	.
+=6	=6
+8g	-ry
+8g	ha
+8g}	ha.
 !!LO:LB:g=esac
-=7
-{16g
-16a
-8b
-8cc
-=8
-16b
-16a
-16g
-16f#
-16g
-16b
-=9
-16b
-16dd
-16dd
-16cc
-16ee
-16cc
-=10
-8a
-8a
-8a}
+=7	=7
+{16g	Wygląda
+16a	.
+8b	.
+8cc	go
+=8	=8
+16b	Kasine-
+16a\	.
+16gL	.
+16f#	.
+16g	-cka
+16bJ	.
+=9	=9
+16b	z_nowy
+16dd	.
+16ddL	komo-
+16ccJ/	.
+16eeL	.
+16ccJ	.
+=10	=10
+8a	ry
+8a	ha
+8a}	ha,
 !!LO:LB:g=esac
-=11
-{16a
-16cc
-8cc
-16dd
-16b
-=12
-8g
-8g
-8g}
-==
-*-
+=11	=11
+{16a	z_nowy
+16cc	.
+8cc	komo-
+16ddL	.
+16bJ	.
+=12	=12
+8g	ry
+8g	ha
+8g}	ha.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:1. Jedzie Jasio od Warszawy pędzi gąsiory ha ha,
+!!pędzi gąsiory ha ha,
+!!Wyglada go Kasinecka z nowy komory ha ha,
+!!z nowy komory ha ha.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=41 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 25} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 25}
 !!!page: 25
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-20-02

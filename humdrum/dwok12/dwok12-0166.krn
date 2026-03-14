@@ -3,100 +3,131 @@
 !!!source: DWOK12
 !!!id: 12166
 !!!signature: 1216600000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{8g
-8ff
-16ff
-16ff
-=2
-16dd
-16ff
-8gg
-8ee
-=3
-16ee
-16ee
-8gg
-8ff
-=4
-8dd
-16b
-16g}
-8r
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{8g^	Powiedziałoś,
+8ff^	.
+16ff	.
+16ff	.
+=2	=2
+16dd	dziewczę
+16ff	.
+8gg	moje,
+8ee	.
+=3	=3
+16ee	żem
+16ee	ci
+8gg	wionek
+8ff	.
+=4	=4
+8dd	ukrod,
+16bL	.
+16gJ}	.
+8r	.
 !!LO:LB:g=esac
-=5
-{8g
-8ff
-16ff
-16dd
-=6
-16b
-16cc
-8ee
-16cc
-16b
-=7
-16cc
-16dd
-8ee
-8cc
-=8
-8dd
-16b
-16g}
-8r
+=5	=5
+{8g	a
+8ff^	tyś
+16ff	wodę
+16dd	.
+=6	=6
+16b	nabié-
+16cc	.
+8ee	-rało,
+16ccL	.
+16bJ	.
+=7	=7
+16cc	w_studzienkę
+16dd	.
+8ee	.
+8cc	ci
+=8	=8
+8dd	ci
+16bL	upad.
+16gJ}	.
+8r	.
 !!LO:LB:g=esac
-=9
-{8g
-8ff
-16ff
-16ff
-=10
-16dd
-16ff
-8gg
-8ee
-=11
-16ee
-16ee
-8gg
-8ff
-=12
-8dd
-16b
-16g}
-8r
+=9	=9
+{8g^	.
+8ff^	powiedziałoś,
+16ff	.
+16ff	.
+=10	=10
+16dd	.
+16ff	dziewczę
+8gg	.
+8ee	moje,
+=11	=11
+16ee	.
+16ee	żem
+8gg	ci
+8ff	wionek
+=12	=12
+8dd	.
+16bL	ukrod,
+16gJ}	.
+8r	.
 !!LO:LB:g=esac
-=13
-{8g
-8ff
-16ff
-16dd
-=14
-16b
-16cc
-8ee
-16cc
-16b
-=15
-16cc
-16dd
-8ee
-8cc
-=16
-8dd
-16b
-16g}
-8r
-==
-*-
+=13	=13
+{8g	.
+8ff^	a
+16ff	tyś
+16dd	wodę
+=14	=14
+16b	.
+16cc	nabié-
+8ee	.
+16ccL	-rało,
+16bJ	.
+=15	=15
+16cc	.
+16dd	w_studzienkę
+8ee	.
+8cc	.
+=16	=16
+8dd	ci
+16bL	upad.
+16gJ}	.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Lover, Mistress
+!!!role-listener: Mistress, Lover
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:1. Powiedziałoś, dziewcze moje,
+!!żem ci wionek ukrod, —
+!!a tyś wodę nabiérało,
+!!w stódzienkę ci upod.
+!!@VERSE:2. Dosiągnij go, dosiągnij go
+!!prawą rączką do dna;
+!!a bo jak ty go dosiągniesz,
+!!to go bedziesz godna.
+!!@VERSE:3. Dosiągnęłam, dosiągnęłam,
+!!ale już nie cały,
+!!śtyry rózgi rozmarynu
+!!w stódzience ostały.
+!!@VERSE:4. A wzioneś mi ten wioneczek
+!!pod zieloną miedzą;
+!!ociec, matka o tém nie wié,
+!!ale ludzie wiedzą.
+!!@VERSE:5. Oj nie płaczże, dziewcze, nie płacz,
+!!sierotą nie będziesz,
+!!boć ja się tak staroł béde,
+!!co ty moją będziesz.
+!!@VERSE:6. Jak ja jadę, tak i jadę,
+!!ćtéry (mile) osieczyny;
+!!jak nie widać, tak nie widać
+!!tyj moji dziewczyny.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=100 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 84} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 84}
 !!!page: 84
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-02-25

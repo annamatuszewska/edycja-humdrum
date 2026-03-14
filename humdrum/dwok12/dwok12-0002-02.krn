@@ -3,70 +3,89 @@
 !!!source: DWOK12
 !!!id: 12002
 !!!signature: 1200200002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{4dd
-8ee
-8cc
-8a
-8f#
-=2
-8g
-8b
-8dd
-8ff#
-8gg
-8ee
-=3
-8dd
-8dd
-8ee
-8cc
-8a
-8f#
-=4
-8g
-8b
-8a
-8f#
-8d
-8d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{4dd	A
+8eeL	cóż
+8ccJ	.
+8a	mi
+8f#	to
+=2	=2
+8g	po
+8b	téj
+8dd	rumianości,
+8ff#	.
+8ggL>	.
+8eeJ	.
+=3	=3
+8ddL>	kie-
+8ddJ	.
+8eeL	dy
+8ccJ	.
+8a	niemam
+8f#	.
+=4	=4
+8g	do
+8b	ciebie
+8a	.
+8f#	wolności.
+8dL	.
+8dJ}	.
 !!LO:LB:g=esac
-=5
-{4b
-8cc
-8a
-8f#
-8d
-=6
-8g
-8b
-8dd
-8ee
-8cc
-8a
-=7
-4dd
-8ee
-8cc
-8a
-8f#
-=8
-8g
-8b
-8dd
-8f#
-8g
-8g}
-==
-*-
+=5	=5
+{4b	U-
+8ccL	pa-
+8aJ	.
+8f#	dnijże
+8d	.
+=6	=6
+8g	ojcu
+8b	.
+8dd	matce
+8ee	.
+8cc	do
+8a	nóg,
+=7	=7
+4dd	będziesz
+8eeL	.
+8ccJ	.
+8a	ty
+8f#	miał
+=8	=8
+8g	wolność
+8b	hej
+8dd	dalibóg.
+8f#	.
+8gL	.
+8gJ}	.
+==	==
+*-	*-
+!!!RDF**kern: > = above
+!!@@BEGIN:
+!! @COMMENTARY:od Szamotuł.
+!!@@END:
+!!!role-singer: Mistress
+!!!role-listener: Lover
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:Kiedy będzie słońce i pogoda,
+!!pójdźże Jasiu do mego ogroda,
+!!nawąchać się  ziółka pachnącego,
+!!napatrzyć się  liczka czerwonego.
+!!@VERSE:A cóż mi to po téj rumianości, 
+!!kiedy niemam do ciebie wolności.
+!!Upadnijże ojcu matce do nóg, 
+!!będziesz ty miał wolność hej dalibóg.
+!!@@END: VERSES
 !!!ONB: Druga zwrotka pieśni
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=19 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 3} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 3}
 !!!page: 3
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-02

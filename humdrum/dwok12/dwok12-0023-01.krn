@@ -3,50 +3,76 @@
 !!!source: DWOK12
 !!!id: 12023
 !!!signature: 1202300001
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16g
-16g
-8cc
-8g
-=2
-16cc
-16ee
-8gg
-8cc
-=3
-16dd
-16ff
-8ee
-8dd
-=4
-4.cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16g	A
+16g	ja
+8cc	ciebie
+8g	.
+=2	=2
+16cc	panno
+16ee	.
+8gg	niechcę,
+8cc	.
+=3	=3
+16dd	szpetną
+16ff	.
+8ee	głowę
+8dd	.
+=4	=4
+4.cc}	masz,
 !!LO:LB:g=esac
-=5
-{16g
-16g
-8cc
-8b
-=6
-16a
-16a
-8dd
-8dd
-=7
-16a
-16cc
-8b
-8a
-=8
-4.g}
-==
-*-
+=5	=5
+{16g	a
+16g	ja
+8cc	ciebie
+8b	.
+=6	=6
+16a	téż
+16a	nie
+8dd	wolę
+8dd	.
+=7	=7
+16a	bo
+16cc	rad
+8b	w karty
+8a	.
+=8	=8
+4.g}	grasz.
+==	==
+*-	*-
+!!@@BEGIN:
+!!@COMMENTARY: od Krotoszyna (Rozdrażewo).
+!!@@END:
+!!!role-singer: Mistress, Lover
+!!!role-listener: Mistress, Lover
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:A ja ciebie panno niechcę,
+!!szpetną głowę masz, 
+!!a ja ciebie téż nie wolę
+!!bo rad w karty grasz.
+!!@VERSE:A co tobie, psie hultaju 
+!!do cudzéj głowy,
+!!tyś konika okulbaczył,
+!!jadziesz do wdowy.
+!!@VERSE:Nie przysięgam żadnéj wdowie,
+!!żadnéj mężatce,
+!!pierwsze moje pokochanie
+!!w tobie kochance.
+!!@VERSE:Oj wyjeżdżaj, oj wyjeżdżaj
+!!z podwórza mego,
+!!nie ciebie'm się spodziéwała,
+!!kogo inkszego.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=29 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 13} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 13}
 !!!page: 13
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-13-02

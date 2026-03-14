@@ -3,54 +3,74 @@
 !!!source: DWOK12
 !!!id: 12138
 !!!signature: 1213800002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8d
-8f#
-4a
-4a
-=2
-8a
-8b
-8g
-8f#
-4d
-=3
-8g
-8b
-16b
-8.a
-4cc
-=4
-2.a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8d	A
+8f#	ty
+4a	ptasku
+4a	.
+=2	=2
+8a	skowrona-
+8b/	.
+8gL	.
+8f#J	.
+4d	-sku
+=3	=3
+8g	wyso-
+8b	.
+16bL	-ko
+8.aJ\	.
+4cc	la-
+=4	=4
+2.a}	-tas,
 !!LO:LB:g=esac
-=5
-{4.cc
-8b
-8dd
-8cc
-=6
-8a
-8b
-8g
-8f#
-4d
-=7
-8.f#
-16a
-16a
-8.g
-4b
-=8
-2.g}
-==
-*-
+=5	=5
+{8aq	.
+4.cc	powiedzże
+8b	.
+8ddL	.
+8ccJ/	mi
+=6	=6
+8a\	nowi-
+8b	.
+8gL	-nec-
+8f#J	.
+4d	-kę
+=7	=7
+8.f#	gdzie
+16a	nockę
+16aL	.
+8.gJ	.
+4b	sia-
+=8	=8
+2.g}	-das.
+==	==
+*-	*-
+!!!role-singer: Narrator, Lover
+!!!role-listener: Lover
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:1. A ty ptasku skowronasku
+!!wysoko latas,
+!!powiedzże mi nowineckę
+!!gdzie nockę siadas.
+!!@VERSE:2. Niechże wiozą, niechże wiozą.
+!!pójdę ja za nią
+!!a gdy wéjdę do kościoła,
+!!za te drzwi stanę.
+!!@VERSE:3. Ona idzie od ółtarza
+!!jako róży kwiat,
+!!upłakane jeji ocka,
+!!zawiązany świat.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=84 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 68} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 68}
 !!!page: 68
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-02-25

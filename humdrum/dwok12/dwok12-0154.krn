@@ -3,76 +3,87 @@
 !!!source: DWOK12
 !!!id: 12154
 !!!signature: 1215400000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M4/4
-=1
-{8dd
-8cc
-8b
-8cc
-4dd
-4dd
-=2
-4dd
-8a
-8b
-4.cc
-8a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M4/4	*
+=1	=1
+{8dd	Synowa,
+8cc	.
+8b	.
+8cc	synowa,
+4dd	.
+4dd	.
+=2	=2
+4dd	tylkoby
+8a\	.
+8b	.
+4.cc	leżeć,
+8a}	.
 !!LO:LB:g=esac
-=3
-{8g
-8a
-8b
-8cc
-4dd
-8cc
-8b
-=4
-8a
-8g
-8f#
-8g
-4a
-4d}
+=3	=3
+{8g	są
+8a	posadne
+8b	.
+8cc	.
+4dd	krowy
+8ccL	.
+8bJ	.
+=4	=4
+8a	trzebaby
+8g	.
+8f#	.
+8g	wydojić.
+4a	.
+4d}	.
 !!LO:LB:g=esac
-=5
-{8g
-8f#
-8g
-8a
-4b
-8a
-8g
-=6
-8b
-8a
-8b
-8cc
-4.dd
-8a}
+=5	=5
+{8g	Moja
+8f#	.
+8g	pani
+8a	.
+4b	matko
+8aL	.
+8gJ	.
+=6	=6
+8b	krów
+8a\	mi
+8b	nie
+8cc	wymawiaj,
+4.dd	.
+8a}	.
 !!LO:LB:g=esac
-=7
-{8b
-8a
-8b
-8cc
-4dd
-8cc
-8b
-=8
-8a
-8g
-8f#
-8g
-4a
-4g}
-==
-*-
+=7	=7
+{8b	ja
+8a\	sierota
+8b	.
+8cc	.
+4dd	by-
+8ccL	-ła,
+8bJ	.
+=8	=8
+8a	nimiał
+8g	.
+8f#	mi
+8g	ich
+4a	kto
+4g}	dać.
+==	==
+*-	*-
+!!!role-singer: Mother-In-Law, Daughter-In-Law
+!!!role-listener: Daughter-In-Law, Mother-In-Law
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:1. Synowa, synowa, tylkoby leżeć,
+!!są posadne krowy trzebaby wydojić.
+!!Moja pani matko krów mi nie wymawiaj,
+!!ja sierota była, nimiał mi ich kto dać.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=93 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 77} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 77}
 !!!page: 77
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-02-25

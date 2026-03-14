@@ -3,64 +3,82 @@
 !!!source: DWOK12
 !!!id: 12168
 !!!signature: 1216800001
-**kern
-*clefG2
-*k[f#]
-*e:
-*M3/4
-=1
-{8g
-8a
-8b
-8dd
-4ee
-=2
-8cc
-8ee
-8dd
-8b
-4a
-=3
-8dd
-8dd
-8cc
-8a
-4b
-=4
-8g
-8f#
-8a
-8f#
-4e}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*e:	*
+*M3/4	*
+=1	=1
+!!LO:TX:a:t=Weselna.
+{8g	Dziewula
+8a	.
+8b	.
+8dd	moja,
+4ee	.
+=2	=2
+8bq	.
+8cc	w_Kaliszu
+8ee	.
+8dd	.
+8b	służy,
+4a	.
+=3	=3
+8dd	óna
+8dd	.
+8cc	nie
+8a	wielczka,
+4b	.
+=4	=4
+8g	ma
+8f#	brzuszek
+8a\	.
+8f#\	duży.
+4e}	.
 !!LO:LB:g=esac
-=5
-{8g
-8f#
-8a
-8f#
-4e
-=6
-8g
-8a
-8b
-8cc
-4a
-=7
-8dd
-8dd
-8cc
-8a
-4b
-=8
-8g
-8f#
-8a
-8f#
-4e}
-==
-*-
+=5	=5
+{8g	Jaka
+8f#	.
+8a	za
+8f#	soby,
+4e	.
+=6	=6
+8g	taka
+8a	.
+8b	przed
+8cc	soby,
+4a	.
+=7	=7
+8dd	Nie
+8dd	widzieliśmy
+8cc	.
+8a\	.
+4b	.
+=8	=8
+8g	takiej
+8f#	.
+8a\	o-
+8f#\	-so-
+4e}	-by.
+==	==
+*-	*-
+!!!role-singer: Lover
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:1. Dziewula moja, w Kaliszu służy,
+!!óna nie wielczka, ma brzuszek duży.
+!!@VERSE:2. Jaka za soby, taka przed soby,
+!!Nie widzieliśmy takiéj osoby.
+!!@VERSE:3. Takij osoby, takij takowy,
+!!żeby chodziła w sukni makowyj
+!!@VERSE:4. Suknia makowa, biały obrąbek,
+!!dziewula moja gdyby gołąbek.
+!!@VERSE:5. Gdyby gołąbek, gdyby jaskółka,
+!!nie żadna k.... tylko ślachcionka.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=101 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 85} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 85}
 !!!page: 85
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-02-25

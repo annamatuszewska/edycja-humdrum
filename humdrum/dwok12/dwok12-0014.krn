@@ -3,75 +3,105 @@
 !!!source: DWOK12
 !!!id: 12014
 !!!signature: 1201400000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8dd
-4dd
-=2
-8ff#
-4ee
-=3
-16dd
-16cc
-8b
-8a
-=4
-8dd
-4b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8dd	Wyje-
+4dd	.
+=2	=2
+8ff#	chali
+4ee	.
+=3	=3
+16dd	Mazurowie
+16cc	.
+8b	.
+8a	.
+=4	=4
+8dd	zpola,
+4b}	.
 !!LO:LB:g=esac
-=5
-{8dd
-4dd
-=6
-8ff#
-4ee
-=7
-16dd
-16cc
-8b
-8a
-=8
-16g
-16f#
-4e}
+=5	=5
+{8dd	pyta-
+4dd	.
+=6	=6
+8ff#	ją
+4ee	się
+=7	=7
+16dd	gdzie
+16cc	dziewula
+8b	.
+8a	.
+=8	=8
+16g	moja.
+16f#	.
+4e}	.
 !!LO:LB:g=esac
-=9
-{16g
-16a
-8b
-8ee
-=10
-16dd
-16cc
-8b
-8a
-=11
-8dd
-4dd}
+=9	=9
+{16g	A
+16a	czyście
+8cc	.
+8ee	ją
+=10	=10
+16dd	nie
+16cc	widzieli
+8b	.
+8a	.
+=11	=11
+8dd	wpolu,
+4dd}	.
 !!LO:LB:g=esac
-=12
-{8b
-4a
-=13
-8cc
-4ee
-=14
-16dd
-16cc
-8b
-8a
-=15
-16g
-16f#
-4e}
-==
-*-
+=12	=12
+{8b	wybie-
+4a	.
+=13	=13
+8cc	ra
+4ee	tam
+=14	=14
+16dd	pszeniczkę
+16cc	.
+8b	.
+8a	wką-
+=15	=15
+16gL	kolu.
+16f#J	.
+4e}	.
+==	==
+*-	*-
+!!@@BEGIN:
+!!@COMMENTARY: od Rawicza (Pakosław, Golejewko).
+!!@@END:
+!!!role-singer: Group
+!!!role-listener: Mistress
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:Wyjechali Mazurowie z pola, 
+!!pytają się gdzie dziewula moja.
+!!@VERSE:A czyście ją nie widzieli w polu,
+!!wybiera tam pszeniczkę w kąkolu.
+!!@VERSE:A czy óna o weselu myśli,
+!!a że óna tę pszeniczkę czyści.
+!!@VERSE:I wybrała półtora zagona,
+!!nie będzie je(j) na południe doma.
+!!@VERSE:I jechali bez wszystkie zagony,
+!!zajachali aż do saméj onéj.
+!!@VERSE:A óna ich mile przywitała,
+!!i każdemu podaronek dała.
+!!@VERSE:A pierwszemu parchy i świerzbiączkę,
+!!a drugiemu miłości gorączkę.
+!!@VERSE:A trzeciemu z kija pomazanie,
+!!bo nie wiedział dziewczęcia kochanie.
+!!@VERSE:A czwartemu jeleniowe rogi,
+!!bo za-niemóg(ł) trzy lata na nogi.
+!!@VERSE:1A piątemu z rozmaryniu wieniec,
+!!a bo to był jeji polubieniec.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=24 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 8} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 8}
 !!!page: 8
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-11-02

@@ -3,68 +3,99 @@
 !!!source: DWOK12
 !!!id: 12145
 !!!signature: 1214500001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8dd
-8b
-8dd
-8ee
-=2
-4cc
-4a
-=3
-8cc
-8ee
-8ee
-8ee
-=4
-4.dd
-8b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8dd	Zielo-
+8b	.
+8dd	-ny
+8ee	la-
+=2	=2
+4cc	-seczek,
+4a\	.
+=3	=3
+8cc	zielono
+8ee	.
+8ee	.
+8ee	rą-
+=4	=4
+4.dd	-bany,
+8b}	.
 !!LO:LB:g=esac
-=5
-{8dd
-8b
-8dd
-8ee
-=6
-4cc
-8a
-8f#
-=7
-8d
-8f#
-8a
-8b
-=8
-8g
-8f#
-4d}
+=5	=5
+{8dd	komuż
+8b	.
+8dd	mnie
+8ee	zo-
+=6	=6
+4cc	-stawiasz?
+8aL	.
+8f#J	.
+=7	=7
+8d	Jasińku
+8f#	.
+8a	.
+8b	ko-
+=8	=8
+8gL	-chany.
+8f#J	.
+4d}	.
 !!LO:LB:g=esac
-=9
-{8d
-8f#
-8a
-8b
-=10
-4cc
-8a
-8f#
-=11
-8d
-8f#
-8a
-8b
-=12
-4g
-4g}
-==
-*-
+=9	=9
+{8d	komuż
+8f#	.
+8a\	mnie
+8b	zo-
+=10	=10
+4cc	-stawiasz?
+8aL	.
+8f#J	.
+=11	=11
+8d	Jasieńko
+8f#	.
+8a	.
+8b	ko-
+=12	=12
+4g	-chany.
+4g}	.
+==	==
+*-	*-
+!!!role-singer: Mistress, Lover
+!!!role-listener: Lover, Mistress
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:1. Zielony laseczek,
+!!zielono rąbany, —
+!!komuż mnie zostawiasz?
+!!Jasieńku kochany.
+!!@VERSE:2. Zostawię ja ciebie
+!!temu co jest w niebie,
+!!za roczek, za drugi
+!!powrócę do ciebie.
+!!@VERSE:3. Jeźli nie powrócę,
+!!będę listy pisał,
+!!ty będziesz płakała
+!!ja nie będę słyszał.
+!!@VERSE:4. Nie płacz Kasiu, nie płacz,
+!!ja o tobie myślę,
+!!wsiądę na konika,
+!!pojadę za Wisłę.
+!!@VERSE:5. Lądem Jasia, lądem,
+!!ja za tobą Wisłą,
+!!powiadają ludzie,
+!!że ty kochasz inszą.
+!!@VERSE:6. Bodaj mnie Bóg skarał,
+!!ten co mieszka w niebie,
+!!jeźli inną kocham,
+!!nie Marysiu ciebie.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=88 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 72} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 72}
 !!!page: 72
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-02-25

@@ -3,81 +3,98 @@
 !!!source: DWOK12
 !!!id: 12086
 !!!signature: 1208600000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M2/4
-=1
-{4.cc
-8cc
-=2
-8cc
-8cc
-4ff
-=3
-8cc
-8cc
-8a
-8a
-=4
-4b-
-4g}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M2/4	*
+=1	=1
+!LO:TX:a:t=Wiwat.	!
+{4.cc	Dziewcze
+8cc	.
+=2	=2
+8cc	z murawy,
+8cc	.
+4ff	.
+=3	=3
+8cc	masz
+8cc	fartuch
+8a	.
+8a	dziu-
+=4	=4
+8ccq	.
+4b-	-rawy.
+4g}	.
 !!LO:LB:g=esac
-=5
-{8f
-8f
-4a
-=6
-8g
-8b-
-4dd
-=7
-8cc
-8cc
-8a
-8a
-=8
-4b-
-4g}
+=5	=5
+{8f	Chtóż
+8f	ci
+4a	go
+=6	=6
+8g	dziurawił,
+8b-	.
+4dd	.
+=7	=7
+8cc	kiéj
+8cc	ja
+8a	tu
+8a	nie
+=8	=8
+8ccq	.
+4b-	bawił.
+4g}	.
 !!LO:LB:g=esac
-=9
-{4.cc
-8cc
-=10
-8cc
-8cc
-8ff
-8ff
-=11
-8cc
-8cc
-8a
-8a
-=12
-4b-
-4g}
+=9	=9
+{4.cc	Dziewcze
+8cc	.
+=10	=10
+8cc	z murawy,
+8cc	.
+8ffL	.
+8ffJ	.
+=11	=11
+8cc	masz
+8cc	fartuch
+8a	.
+8a	dziu-
+=12	=12
+8ccq	.
+4b-	-rawy.
+4g}	.
 !!LO:LB:g=esac
-=13
-{8f
-8f
-4a
-=14
-8g
-8b-
-4dd
-=15
-8cc
-8cc
-8a
-8a
-=16
-4b-
-4g}
-==
-*-
+=13	=13
+{8f	.
+8f	Chtóż
+4a	ci
+=14	=14
+8g	go
+8b-	dziurawił,
+4dd	.
+=15	=15
+8cc	.
+8cc	kiéj
+8a	ja
+8a	tu
+=16	=16
+8ccq	nie
+4b-	.
+4g}	bawił.
+==	==
+*-	*-
+!!@@BEGIN:
+!!@COMMENTARY: od Wronek, (Biezdrowo).
+!!@@END:
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:Dziewcze z murawy, masz fartuch dziurawy.
+!!Chtóż ci go dziurawił, kiéj ja tu nie bawił.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=55 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 39-40} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 39-40}
 !!!page: 39-40
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-21-02

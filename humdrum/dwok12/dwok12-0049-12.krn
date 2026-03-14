@@ -3,65 +3,79 @@
 !!!source: DWOK12
 !!!id: 12049
 !!!signature: 1204900012
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8g
-8b
-4dd
-4dd
-=2
-8dd
-8ff#
-4ee
-4cc
-=3
-8a
-8cc
-4cc
-8cc
-8a
-=4
-8cc
-8ee
-8dd
-8cc
-8b
-8a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8g	Świeci
+8b	.
+4dd	miesiąc
+4dd	.
+=2	=2
+8dd	a
+8ff#	nie
+4ee	grzeje,
+4cc	.
+=3	=3
+8a	do
+8cc	kochania
+4cc	.
+8ccL	.
+8aJ/	.
+=4	=4
+8cc	serce
+8ee	.
+8ddL	mgleje,
+8ccJ/	.
+8bL	.
+8a}J/	.
 !!LO:LB:g=esac
-=5
-{8g
-8b
-4b
-8g
-8f#
-=6
-8g
-8b
-8dd
-8cc
-8a
-8f#
-=7
-8f#
-8a
-4cc
-8cc
-8a
-=8
-8cc
-8ee
-8dd
-8cc
-8b
-8a}
-==
-*-
+=5	=5
+{8g	zaprzągajcie
+8b	.
+4b	.
+8gL	.
+8f#J	.
+=6	=6
+8g	sześci
+8b	.
+8ddL	koni,
+8ccJ	.
+8aL	.
+8f#J	.
+=7	=7
+8f#	poje-
+8a	.
+4cc	-dziemy
+8ccL	.
+8aJ	.
+=8	=8
+8cc	prędzy
+8ee	.
+8ddL	do
+8ccJ	.
+8bL	nij.
+8a}J	.
+==	==
+*-	*-
+!!!role-singer: Lover
+!!!role-listener: Servants
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:Świeci miesiąc a nie grzeje,
+!!do kochania serce mgleje,
+!!zaprzągajcie sześci koni,
+!!pojedziemy prędzy do nij.
+!!(Na tęż nutę:
+!!Żebyś ty mnie ma dziewula chciała,
+!!usiekłbym ci cztery fury siana.)
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=38 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 22} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 22}
 !!!page: 22
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-19-02

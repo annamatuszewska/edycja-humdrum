@@ -3,87 +3,128 @@
 !!!source: DWOK12
 !!!id: 12090
 !!!signature: 1209000001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{4b
-8cc
-=2
-16dd
-16b
-8g
-8g
-=3
-16a
-16g
-8f#
-8a
-=4
-8cc
-4b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{4b	Daj
+8cc	mnie
+=2	=2
+16dd	Panie
+16b	.
+8g	Jezu,
+8g	.
+=3	=3
+16a	żonkę
+16g	.
+8f#	jak
+8a	naj-
+=4	=4
+8cc	-prędzy,
+4b}	.
 !!LO:LB:g=esac
-=5
-{4b
-8cc
-=6
-16dd
-16b
-8g
-8g
-=7
-16cc
-16cc
-8cc
-8cc
-=8
-8cc
-4b}
+=5	=5
+{4b	żebym
+8cc	.
+=6	=6
+16dd	ja
+16b	już
+8g	dłuży
+8g	.
+=7	=7
+16ccL	nie
+16ccJ	cierpiał
+8ccL	.
+8ccJ	téj
+=8	=8
+8cc	nędzy.
+4b}	.
 !!LO:LB:g=esac
-=9
-{16b
-16a
-8f#
-8d
-=10
-16d
-16g
-8b
-8dd
-=11
-16b
-16a
-8f#
-8d
-=12
-16d
-16g
-8b
-8g}
+=9	=9
+{16b	Bo
+16a	się
+8f#	muszę
+8d	.
+=10	=10
+16d	poniewiérać,
+16g	.
+8b	.
+8dd	.
+=11	=11
+8cc#q	.
+16b	i
+16a	ludzkie
+8f#	.
+8d	ką-
+=12	=12
+16d	-ty
+16g	wyciérać,
+8b	.
+8g}	.
 !!LO:LB:g=esac
-=13
-{16cc
-16ee
-8ee
-8ee
-=14
-4dd
-8b
-=15
-16cc
-16a
-8f#
-8f#
-=16
-8g
-8g}
-8r
-==
-*-
+=13	=13
+{16cc	i
+16ee	nigdzie
+8ee	.
+8ee	nie
+=14	=14
+4dd	bywać,
+8b	.
+=15	=15
+16cc	ludzi
+16a	.
+8f#	nie
+8f#	roz-
+=16	=16
+8g	-gniéwać.
+8g}	.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN:
+!!@COMMENTARY: od Czempina (Brodnica).
+!!@@END:
+!!!role-singer: Lover
+!!!role-listener: God
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:Daj mnie Panie Jezu, żonkę jak najprędzy,
+!!żebym ja już dłużéj nie cierpiał téj nędzy.
+!!Bo się muszę poniewiérać,
+!!a ludzkie kąty wyciérać,
+!!i nigdzie nie bywać,
+!!ludzi nie rozgniéwać.
+!!@VERSE:Daj mnie Panie Jezu żonkę jak najlepszą,
+!!skrzętną gospodynię, towarzyszkę piérwszą ;
+!!że-dź-by się na wszystkiém znała,
+!!mnie też jak męża kochała,
+!!niech się wola, Panie,
+!!Twoja ze mną stanie!
+!!@VERSE:Miejskiéj panny mie chcę, boby mnie zdradziła,
+!!jeszcze leży w łóżku, jużby kawę piła.
+!!Tylko w źwierciedle chce siedzieć,
+!!w gospodarstwie nic nie wiedzieć ;
+!!zguba to domowi,
+!!i gospodarzowi.
+!!@VERSE:I młodéj téż nie chcę, boby miała gości,
+!!panów i doktorów i księży proboszczy.
+!!A ja z swemi kłopotami,
+!!stojałbym jak kiep za drzwiami;
+!!niech się wola Panie,
+!!Twoja ze mną stanie!
+!!@VERSE:I wdowy też nie chcę, zachowaj mnie Panie!
+!!choćby miała tysiąc, — w gardle mi on stanie!
+!!Jak mi zacznie głowę suszyć,
+!!nieboszczyka z grobu ruszyć;
+!!a te poślubięta,
+!!gorsze niż diablęta!
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=57 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 41-42} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 41-42}
 !!!page: 41-42
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-21-02

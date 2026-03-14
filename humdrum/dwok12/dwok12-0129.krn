@@ -3,88 +3,192 @@
 !!!source: DWOK12
 !!!id: 12129
 !!!signature: 1212900000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16d
-16f#
-8a
-8a
-=2
-8a
-4dd
-=3
-16dd
-16ee
-8dd
-16cc
-16a
-=4
-8g
-4b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16d	A
+16f#	na
+8a	mojém
+8a	.
+=2	=2
+8a	polu,
+4dd	.
+=3	=3
+16dd	studzieneczka
+16ee	.
+8dd	.
+16ccL	.
+16aJ	.
+=4	=4
+8g	stoji,
+4b}	.
 !!LO:LB:g=esac
-=5
-{16f#
-16a
-8g
-16f#
-16d
-=6
-8c
-4e
-=7
-16d
-16f#
-8e
-16g
-16e
-=8
-4d
-8d}
+=5	=5
+{16f#	kto
+16a	kole
+8g	.
+16f#L	niej
+16dJ	.
+=6	=6
+8c	jedzie
+4e	.
+=7	=7
+16d\	to
+16f#\	ko-
+8e\	-ni-
+8g\	-ki
+=8	=8
+4d	poji.
+8d}	.
 !!LO:LB:g=esac
-=9
-{16d
-16f#
-8a
-8a
-=10
-8a
-4dd
-=11
-16dd
-16ee
-8dd
-16cc
-16a
-=12
-8g
-4b}
+=9	=9
+{16d	A
+16f#	na
+8a	mojém
+8a	.
+=10	=10
+8a	polu,
+4dd	.
+=11	=11
+16dd	studzieneczka
+16ee	.
+8dd	.
+16ccL	.
+16aJ	.
+=12	=12
+8g	stoji,
+4b}	.
 !!LO:LB:g=esac
-=13
-{16f#
-16a
-8g
-16f#
-16d
-=14
-8c
-4e
-=
-24d
-24f#
-24a
-8e
-8g
-=15
-4d
-8d}
-==
-*-
+=13	=13
+{16f#	kto
+16a	kole
+8g	.
+16f#L	niej
+16dJ	.
+=14	=14
+8c	jedzie
+4e	.
+=	=
+24dL	to
+24f#	ko-
+24aJ	.
+8eL	-ni-
+16g	-ki
+16eJ	.
+=15	=15
+4d	poji.
+8d}	.
+==	==
+*-	*-
+!!!!SEGMENT: DWOK1213000000-oj_na_mojej_roli.krn
+!!!OTL: Oj na mojej roli
+!!!source: DWOK12
+!!!id: 12130
+!!!signature: 1213000000
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8dd;	Oj
+8cc	na
+8b	mojej
+8a\	.
+8b	roli,
+8cc	.
+=2	=2
+8dd	oj
+8cc	na
+8b	mojej
+8a\	.
+8b	roli
+8cc	.
+=3	=3
+8dd	studzieneczka
+8dd	.
+4ee	.
+4ee	.
+=4	=4
+8dd	stoji,
+8ee	.
+2dd;}	.
+!!LO:LB:g=esac
+=5	=5
+{4b	da
+4cc	kto
+8dd	jedzie,
+8cc	.
+=6	=6
+4b	da
+4f#	to
+8g	jedzie,
+8b	.
+=7	=7
+4.a	to
+8f#	kóni-
+8g	.
+8ccq	.
+8b/	-ki
+=8	=8
+8aL	po-
+8f#J	.
+2d}	-ji,
+!!LO:LB:g=esac
+=9	=9
+{4b	da
+8bL	kto
+8ccJ/	.
+8dd	jedzie,
+8cc	.
+=10	=10
+4b	da
+4f#	to
+8g	jedzie,
+8b	.
+=11	=11
+4.a	to
+8f#	kóni-
+8g	.
+8ccq	.
+8b/	-ki
+=12	=12
+8aL	po-
+8f#J	.
+2d}	-ji.
+==	==
+*-	*-
+!!!role-singer: Mistress
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:1. Oj na mojéj roli, oj na mojéj roli studzieneczka stoji,
+!!da kto jedzie, da to jedzie, to kóniki poji.
+!!@@END: VERSES
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=79 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 63} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 63}
+!!!page: 63
+!!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-02-25
+
+!!@@BEGIN: VERSES
+!!@VERSE:1. A na mojém polu,
+!!studzieneczka stoji,
+!!kto kole niej jedzie
+!!to koniki poji.
+!!@VERSE:2. Jasio konie pojił,
+!!Kasia wodę brała,
+!!Jasio se zaśpiewał,
+!!Kasia zapłakała.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=78 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 62} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 62}
 !!!page: 62
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-02-25

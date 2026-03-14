@@ -3,63 +3,86 @@
 !!!source: DWOK12
 !!!id: 12112
 !!!signature: 1211200000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8ee
-4gg
-8ff#
-8gg
-8ee
-=2
-8dd
-4ff
-8gg
-8ee
-8cc
-=3
-8dd
-4b
-8g
-8b
-8cc
-=4
-8dd
-4b
-8b
-4cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8ee	Po-
+(4gg	-có-
+8ff#)	.
+8ggL	-żeś
+8eeJ	.
+=2	=2
+8dd	cho-
+(4ff	-dzi-
+8gg)	.
+8eeL	-ła
+8ccJ	.
+=3	=3
+8dd	przez
+(4b	las
+8g)	.
+8bL	do
+8ccJ	.
+=4	=4
+8dd	kościo-
+(4b	.
+8b)	.
+4cc}	-ła,
 !!LO:LB:g=esac
-=5
-{8cc
-4ee
-8dd
-8ee
-8cc
-=6
-16b
-16dd
-4ff
-8gg
-8ee
-8cc
-=7
-8dd
-4b
-8g
-8b
-8cc
-=8
-8dd
-4b
-8b
-4cc}
-==
-*-
+=5	=5
+{8cc	nie
+(4ee^	by-
+8dd)	.
+8eeL	-ła-
+8ccJ	.
+=6	=6
+16bL	-byś
+16ddJ	.
+(4ff^	mia-
+8gg)	.
+8eeL	-ła
+8ccJ	.
+=7	=7
+8dd	na
+(4b	rę-
+8g)	.
+8bL	-ku
+8ccJ	.
+=8	=8
+8dd	so-
+(4b^	-ko-
+8b)	.
+4cc}	ła.
+==	==
+*-	*-
+!!!role-singer: Narrator, Mistress
+!!!role-listener: Mistress, Narrator
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:1. Pocó'żeś chodziła
+!!przez las do kościoła,
+!!nie byłabyś miała
+!!na ręce sokoła.
+!!@VERSE:2. Bo ja to na rączkę
+!!sokoła dostała;
+!!na zielonéj łączce
+!!gdzie'm wołki pasała.
+!!@VERSE:3. A było-ć to pasać,
+!!ale wiedziéć jako,
+!!o staje, o dwoje
+!!od Jasia daleko.
+!!@VERSE:4. A ja odganiała
+!!o staje, o dwoje,
+!!a on chustką wiewał:
+!!pójdź-sam dziwcze moje!
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=71 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 55-56} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 55-56}
 !!!page: 55-56
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-02-25

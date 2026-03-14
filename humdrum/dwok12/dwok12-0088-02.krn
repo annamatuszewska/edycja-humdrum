@@ -3,68 +3,101 @@
 !!!source: DWOK12
 !!!id: 12088
 !!!signature: 1208800002
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{8g
-8g
-8g
-=2
-8ee
-4cc
-=3
-16g
-16g
-8g
-8g
-=4
-8ee
-4cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Mazur.	!
+{8g	Ach
+8g	żebym
+8g	.
+=2	=2
+8ee	ja
+4cc	miał,
+=3	=3
+16g	żonę
+16g	.
+8g	jak
+8g	naj-
+=4	=4
+8ee	-prędzy,
+4cc}	.
 !!LO:LB:g=esac
-=5
-{8ee
-8ee
-8cc
-=6
-8a
-8cc
-16b
-16a
-=7
-16g
-16g
-8a
-8b
-=8
-16cc
-16ee
-8.gg
-16ff}
+=5	=5
+{8ee	tobym
+8ee	.
+8cc	już
+=6	=6
+8a	nie
+8cc	cierpiał
+16bL	.
+16aJ	.
+=7	=7
+16g	dłużéj
+16g	.
+8a	taki
+8b	.
+=8	=8
+16ccL	nę-
+16eeJ	.
+8.ggL	-dzy.
+16ff}J	.
 !!LO:LB:g=esac
-=9
-{8gg
-8ee
-8cc
-=10
-8a
-8cc
-16b
-16a
-=11
-16g
-16g
-8a
-8b
-=12
-8dd
-4cc}
-==
-*-
+=9	=9
+{8ggL	Ach
+8eeJ	mój
+8cc	mo-
+=10	=10
+8a	-cny
+8cc	Boże,
+16bL	.
+16aJ\	.
+=11	=11
+16g	któż
+16g	mnie
+8a	więc
+8b	wspo-
+=12	=12
+8dd	-może.
+4cc}	.
+==	==
+*-	*-
+!!@@BEGIN:
+!!@COMMENTARY: od Kościana.
+!!@@END:
+!!!role-singer: Lover
+!!!role-listener: God
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:Ach żebym to ja miał,
+!!żonę jak najprędzéj,
+!!tobym już nie cierpiał
+!!dłużéj takiéj nędzy.
+!!Ach, mój mocny Boże,
+!!któż mnie więc wspomoże!
+!!@VERSE:Dworskiéj panny nie chcę,
+!!boby mnie zgubiła,
+!!jeszcze leży w łóżku,
+!!jużby kawę piła.
+!!Zawsze u niéj nowe mody,
+!!to pałace, to ogrody.
+!!@VERSE:To assamble, etykiety,
+!!to reduty i bankiety.
+!!Ach, mój mocny Boże,
+!!któż mnie więc wspomoże!
+!!@VERSE:Bogatéj téż nie chce,
+!!boby wymawiała:
+!!a cóż-eś miał chłystku?
+!!jam ci wszystko dała,
+!!Ach, mój mocny Boże,
+!!któż mnie więc wspomoże!
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=56 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 40} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 40}
 !!!page: 40
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-21-02

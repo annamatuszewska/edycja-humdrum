@@ -3,55 +3,106 @@
 !!!source: DWOK12
 !!!id: 12119
 !!!signature: 1211900001
-**kern
-*clefG2
-*k[b-]
-*F:
-*M4/4
-=1
-{8f
-8g
-8a
-8b-
-2cc
-=2
-8ff
-8cc
-8cc
-8b-
-2a}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*met(c)	*
+=1	=1
+{8f	Na
+8g	nowy
+8a\	.
+8b-\	górze,
+2cc	.
+=2	=2
+8ff	jadą
+8cc	.
+8cc	żołnirze,
+8b-	.
+2a}	.
 !!LO:LB:g=esac
-=3
-{8ff
-8cc
-8cc
-8b-
-2a
-=4
-4a
-4a
-8a
-8cc
-8b-
-8a}
+=3	=3
+{8ff	jadą
+8cc	.
+8cc	żołnirze.
+8b-	.
+2a	.
+=4	=4
+4a	Puk,
+4a	puk
+8a	w_okienecko,
+8cc	.
+8b-	.
+8a}	.
 !!LO:LB:g=esac
-=5
-{4g
-4g
-8g
-8b-
-8a
-8g
-=6
-8a
-8b-
-8cc
-8a
-2f}
-==
-*-
+=5	=5
+{4g\	wstaj,
+4g\	wstaj
+8g	kochaneczko,
+8b-/	.
+8a	.
+8g	.
+=6	=6
+8a\	koniom
+8b-	.
+8cc	wody
+8a\	.
+2f}	dać.
+==	==
+*-	*-
+!!!role-singer: Soldiers, Mistress
+!!!role-listener: Mistress, Soldiers
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:1. Na nowéj górze,
+!!jadą żołnirze;
+!!puk, puk, w okieneczko,
+!!wstaj, wstaj kochaneczko,
+!!koniom wody dać.
+!!@VERSE:2. Jakżeż ja mam wstać
+!!koniom wody dać;
+!!zimna rosa, a ja bosa
+!!nie mogę wytrwać.
+!!@VERSE:3. Na-ści chusteczki,
+!!owiń nożeczki,
+!!a jak mnie Pan Bóg wspomoże,
+!!kupię-ć trzewiczki.
+!!(4. Kupisz, nie kupisz,
+!!nie będę chodzić,
+!!a mam ci ja taką panią,
+!!co trzewiczki kupi zaro,
+!!i będę chodzić.)
+!!@VERSE:5. Nie pójdę ja wstać,
+!!koniom wody dać.
+!!Mamula mi przykazała,
+!!żebym s tobą nie gadała.
+!!mamuli się boję.
+!!@VERSE:6. Mamuli się nie bój,
+!!siadaj na koń mój;
+!!pojedziemy w cudze kraje,
+!!zobaczemy obyczaje,
+!!malowany dwór.
+!!@VERSE:7. Jadą, jadą,
+!!jadą bes wieś;
+!!siodmi sługów za nią,
+!!jak za jaką panią,
+!!teroz moją będzie.
+!!dodają:
+!!@VERSE:8. Przez wieś jechali.
+!!ludzie patrzali (v. glądali)
+!!co to za jedyna,
+!!co to za dziewczyna
+!!s panami jedzie.
+!!@VERSE:9. Oj jedzie, jedzie,
+!!w złocistym rzędzie.
+!!Sześć par koni za nią
+!!jak za jaką panią,
+!!już i (jéj) nie widać!
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=74 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 58} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 58}
 !!!page: 58
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-02-25

@@ -3,181 +3,196 @@
 !!!source: DWOK12
 !!!id: 12155
 !!!signature: 1215500000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{4.cc
-8a
-8cc
-8ee
-=2
-8b
-8a
-4r
-4r
-=3
-8cc
-4b
-8g
-8b
-8a
-=4
-8cc
-8ee}
-4r
-4r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{4.cc	Doli-
+8a	.
+8cc	-na,
+8ee	do-
+=2	=2
+8b	-li-
+8bq	.
+8a\	-na
+4r	.
+4r	.
+=3	=3
+8cc	kę-
+(4b	.
+8g)	-dy
+8b	woda
+8a\	.
+=4	=4
+8cc	chodzi,
+8ee}	.
+4r	.
+4r	.
 !!LO:LB:g=esac
-=5
-{4.cc
-8a
-8cc
-8ee
-=6
-8b
-8a
-4r
-4r
-=7
-8cc
-4b
-8g
-8b
-8a
-=8
-8f#
-8d}
-4r
-4r
+=5	=5
+{4.cc	żadna
+8a	.
+8cc	to
+8ee	sy-
+=6	=6
+8b	-nowa
+8a\	.
+4r	.
+4r	.
+=7	=7
+8cc	mat-
+(4b	-ce
+8g)	.
+8b	nie
+8a	do-
+=8	=8
+8f#	-godzi.
+8d}	.
+4r	.
+4r	.
 !!LO:LB:g=esac
-=9
-{8g
-4f#
-8d
-8f#
-8g
-=10
-8b
-8a
-8cc
-4a
-8g
-=11
-8b
-4a
-8cc
-8dd
-8r
-=12
-8g
-4f#
-8d
-8f#
-8g}
+=9	=9
+{8g	Nie
+(>4f#	wy-
+8d)	.
+8f#	-go-
+8g	-dzi
+=10	=10
+8b	o-
+8a\	-na
+8cc	żydowskiej
+4a	.
+8g	.
+=11	=11
+8b	macie-
+4a	.
+(8cc	.
+8dd)	-rzy
+8r	.
+=12	=12
+8g	choć
+(4f#	ją
+8d)	.
+8f#	głowa
+8g}	.
 !!LO:LB:g=esac
-=13
-{8b
-8a
-8cc
-4b
-8g
-=14
-8b
-4a
-8f#
-8d}
-8r
+=13	=13
+{8b	boli
+8a\	.
+8cc	ona
+4b	.
+8g	nie
+=14	=14
+8b	u-
+(4a	-wie-
+8f#)	.
+8d}	-rzy.
+8r	.
 !!LO:LB:g=esac
-=15
-{4.cc
-8a
-8cc
-8ee
-=16
-8b
-8a
-4r
-4r
-=17
-8cc
-4b
-8g
-8b
-8a
-=18
-8cc
-8ee}
-4r
-4r
+=15	=15
+{4.cc	Dębi-
+8a	.
+8cc	-no,
+8ee	dę-
+=16	=16
+8b	-bi-
+8bq	.
+8a	-no,
+4r	.
+4r	.
+=17	=17
+8cc	czemuś
+(4b	.
+8g)	.
+8b	nie
+8a\	ro-
+=18	=18
+8cc	-dziła?
+8ee}	.
+4r	.
+4r	.
 !!LO:LB:g=esac
-=19
-{4.cc
-8a
-8cc
-8ee
-=20
-8b
-16b
-16a
-4r
-4r
-=21
-8cc
-4b
-8g
-8b
-8a
-=22
-8f#
-8d}
-4r
-4r
+=19	=19
+{4.cc	Ciężkie
+8a	.
+8cc	mrozy
+8ee	.
+=20	=20
+8bL	były,
+16b	.
+16aJ/	.
+4r	.
+4r	.
+=21	=21
+8cc	kwiatkim
+(4b	.
+8g)	.
+8b	pomro-
+8a\	.
+=22	=22
+8f#	-ziła,
+8d}	.
+4r	.
+4r	.
 !!LO:LB:g=esac
-=23
-{8g
-4f#
-8d
-8f#
-8g
-=24
-8b
-16b
-16a
-8cc
-4a
-8g
-=25
-8b
-4a
-8cc
-8dd
-8r
-=26
-8g
-4f#
-8d
-8f#
-8g}
+=23	=23
+{8g	Nie
+(>4f#	wy-
+8d)	-go-
+8f#	.
+8g	-dzi
+=24	=24
+8bL	o-
+16b	-na
+16aJ/	żydowskiej
+8cc	.
+4a	.
+8g	.
+=25	=25
+8b	macie-
+4a	.
+(8cc	.
+8dd)	-rzy
+8r	.
+=26	=26
+8g	choć
+(4f#	ją
+8d)	.
+8f#	głowa
+8g}	.
 !!LO:LB:g=esac
-=27
-{8b
-16b
-16a
-8cc
-4b
-8g
-=28
-8b
-4a
-8f#
-8d}
-8r
-==
-*-
+=27	=27
+{8bL	boli
+16b	.
+16aJ/	.
+8cc	ona
+4b	.
+8g	nie
+=28	=28
+8b	u-
+(4a	-wie-
+8f#)	.
+8d}	-rzy.
+8r	.
+==	==
+*-	*-
+!!!RDF**kern: > = above
+!!!role-singer: Narrator
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:1. Dolina, dolina kędy woda chodzi,
+!!żadna to synowa matce nie dogodzi.
+!!Nie wygodzi ona żydowskiej macierzy choć ją głowa
+!!boli ona nie uwierzy.
+!!Dębino, dębino, czemuś nie rodziła?
+!!Ciężkie mrozy były, kwiatkim pomroziła.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=93 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 77-78} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 77-78}
 !!!page: 77-78
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-02-25

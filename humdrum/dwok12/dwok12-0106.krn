@@ -3,91 +3,163 @@
 !!!source: DWOK12
 !!!id: 12106
 !!!signature: 1210600000
-**kern
-*clefG2
-*k[b-e-]
-*g:
-*M3/8
-=1
-{8g
-8b-
-8dd
-=2
-16a
-16f#
-4a
-=3
-16g
-16a
-8b-
-8dd
-=4
-8b-
-4a}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*g:	*
+*M3/8	*
+=1	=1
+{8g\	Nieszczęsna
+8b-	.
+8dd	.
+=2	=2
+16aL	do-
+16f#J	.
+4a\	la!
+=3	=3
+16g	za
+16a	mąż
+8b-	zabra-
+8dd	.
+=4	=4
+8b-	-niają,
+4a\}	.
 !!LO:LB:g=esac
-=5
-{16b-
-16dd
-8b-
-8ff
-=6
-16cc
-16a
-8f
-8cc
-=7
-16g
-16a
-8b-
-8dd
-=8
-8b-
-4a}
+=5	=5
+{16b-	.
+16dd	jużem
+8b-	.
+8ff	zaszła
+=6	=6
+16ccL	w_la-
+16aJ	.
+8f\	.
+8cc	-ta
+=7	=7
+16g	nic
+16a	względu
+8b-	.
+8dd	.
+=8	=8
+8b-	nie
+4a}	mają.
 !!LO:LB:g=esac
-=9
-{16g
-16a
-8b-
-8dd
-=10
-16a
-16f#
-16a
-16f#
-8d
-=11
-16g
-16a
-8b-
-8dd
-=12
-8b-
-4a}
+=9	=9
+{16gL	Nieszczęsna
+16a	.
+8b-J	.
+8dd	.
+=10	=10
+16aL	do-
+16f#J	.
+16aL	la!
+16f#	.
+8dJ	.
+=11	=11
+16g	za
+16a	mąż
+8b-	zabra-
+8dd	.
+=12	=12
+8b-	-niają,
+4a\}	.
 !!LO:LB:g=esac
-=13
-{16b-
-16dd
-16b-
-16dd
-8ff
-=14
-16cc
-16a
-16f
-16a
-8cc
-=15
-16g
-16a
-8b-
-8dd
-=16
-8b-
-4a}
-==
-*-
+=13	=13
+{16b-	jużem
+16dd	.
+16b-L	zaszła
+16ddJ/	.
+8ff	.
+=14	=14
+16ccL	w_la-
+16aJ	.
+16fL	.
+16aJ	.
+8cc	-ta
+=15	=15
+16g	nic
+16a	względu
+8b-	.
+8dd	nie
+=16	=16
+8b-	mają.
+4a}	.
+==	==
+*-	*-
+!!!role-singer: Mistress
+!!!role-listener: Mother, Lover
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:1. Nieszczęsna dola!
+!!za mąż zabraniają;
+!!jużem zaszła w lata,
+!!nic względu niemają.
+!!@VERSE:2. Ja sama miarkuję,
+!!że ja się tém truję;
+!!że bez męża żyję,
+!!a kiedyż utyję?
+!!@VERSE:3. Moja pani matko,
+!!Bóg was ciężko skarze
+!!że ja jeszcze dla was
+!!s kim nie żyję w parze.
+!!@VERSE:4. Ja już wolę miała,
+!!matka mi nie dała;
+!!trafiali się różni,
+!!swoi i podróżni.
+!!@VERSE:5. Moja pani matko,
+!!co wy to czynicie?
+!!czy tak na wędzonkę
+!!chować mnie myślicie?
+!!@VERSE:6. Mnie zakazujecie,
+!!sami tańcujecie;
+!!mnie męża bronicie,
+!!a sami się gzicie,
+!!@VERSE:7. Oj moja córuniu,
+!!abyś statkowała,
+!!żebyś na niedolę
+!!potém nie płakała.
+!!@VERSE:8. Ciężkie to kłopoty,
+!!mieć z męża zgryzoty;
+!!i urodę stracisz,
+!!i skórą przypłacisz.
+!!@VERSE:9. Nie wierzę ja temu,
+!!co wy powiadacie;
+!!wyście męża mieli, —
+!!całą skórę macie.
+!!@VERSE:10. Ja mam w zdrowiu szkodę,
+!!i tracę urodę;
+!!coś natura czuje,
+!!twarzyczka się psuje.
+!!@VERSE:11. Już mi się doprawdy
+!!panieństwo sprzykrzyło;
+!!już wolę iść za mąż,
+!!gdyby się zdarzyło,
+!!@VERSE:12. Pierwej na mnie warli
+!!ledwie mnie nie zżarli;
+!!wolę Jasia mego,
+!!niż czekać inszego.
+!!@VERSE:13. O mój Jasineczku,
+!!dej na zapowiedzi,
+!!u mojéj matuli
+!!kaduk nie wysiedzi.
+!!@VERSE:14. Byleś mnie wybawił,
+!!na słowo się stawił;
+!!bo mi przykre życie,
+!!tak się gryzę skrycie.
+!!@VERSE:15. Oj nie będę nigdy
+!!Jasińka gniéwała,
+!!czego on będzie chciał
+!!i ja będę chciała.
+!!@VERSE:16. Jeść mu ugotuję;
+!!oczki pocałuje,
+!!pościelę łóżeczko,
+!!jak pieścidełeczko
+!!(v. jak źwierciadełeczko)
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=68 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 52} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 52}
 !!!page: 52
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-02-25

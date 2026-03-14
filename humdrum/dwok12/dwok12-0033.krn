@@ -3,167 +3,225 @@
 !!!source: DWOK12
 !!!id: 12033
 !!!signature: 1203300000
-**kern
-*clefG2
-*k[]
-*a:
-*M2/4
-=1
-{8ee
-8ee
-8dd
-8dd
-=2
-8cc
-8cc
-8.b
-16g#
-=3
-8a
-8b
-8cc
-8dd
-=4
-4ee
-4b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M2/4	*
+=1	=1
+{8ee	Wyńdzi
+8ee	.
+8dd	ino
+8dd	.
+=2	=2
+8cc	pacholiku
+8cc	.
+8.b	.
+16g#	.
+=3	=3
+8a	chto
+8b	to
+8cc	tam
+8dd	przy-
+=4	=4
+4ee	jechał,
+4b}	.
 !!LO:LB:g=esac
-=5
-{8ee
-8ee
-8dd
-8dd
-=6
-8cc
-8cc
-8.b
-16g#
-=7
-8e
-8g#
-8g#
-8g#
-=8
-4a
-4b}
+=5	=5
+{8ee	a
+8ee	ten
+8dd	ci
+8dd	to
+=6	=6
+8cc	sam
+8cc	kawaler
+8.b	.
+16g#	.
+=7	=7
+8e	co
+8g#	wczoraj
+8g#	.
+8g#	od-
+=8	=8
+4a	jechał.
+4b}	.
 !!LO:LB:g=esac
-=9
-{8e
-8g#
-8a
-8b
-=10
-8dd
-8cc
-8.b
-16g#
-=11
-8e
-8g#
-8a
-8cc
-=12
-4ee
-4b}
+=9	=9
+{8e	Wyjrzyj
+8g#	.
+8a	ino
+8b	.
+=10	=10
+8dd	na
+8cc	konika
+8.b	.
+16g#	.
+=11	=11
+8e	jeże-
+8g#	.
+8a	li
+8cc	o-
+=12	=12
+4ee	chotny
+4b}	.
 !!LO:LB:g=esac
-=13
-{8a
-8g#
-8a
-8b
-=14
-8dd
-8cc
-8.b
-16g#
-=15
-8e
-8g#
-8g#
-8g#
-=16
-4a
-4b}
+=13	=13
+{8a	i
+8g#	na
+8a	niego
+8b	.
+=14	=14
+8dd	na
+8cc	same-
+8.b	.
+16g#	go
+=15	=15
+8e	je-
+8g#	że-
+8g#	li
+8g#	u-
+=16	=16
+4a	rodny.
+4b}	.
 !!LO:LB:g=esac
-=17
-{8ee
-8ee
-8dd
-8dd
-=18
-8cc
-8cc
-8.b
-16g#
-=19
-8a
-8b
-8cc
-8dd
-=20
-4ee
-4b}
+=17	=17
+{8ee	.
+8ee	.
+8dd	.
+8dd	.
+=18	=18
+8cc	.
+8cc	.
+8.b	.
+16g#	.
+=19	=19
+8a	.
+8b	.
+8cc	.
+8dd	.
+=20	=20
+4ee	.
+4b}	.
 !!LO:LB:g=esac
-=21
-{8ee
-8ee
-8dd
-8dd
-=22
-8cc
-8cc
-8.b
-16g#
-=23
-8e
-8g#
-8g#
-8g#
-=24
-4a
-4b}
+=21	=21
+{8ee	.
+8ee	.
+8dd	.
+8dd	.
+=22	=22
+8cc	.
+8cc	.
+8.b	.
+16g#	.
+=23	=23
+8e	.
+8g#	.
+8g#	.
+8g#	.
+=24	=24
+4a	.
+4b}	.
 !!LO:LB:g=esac
-=25
-{8e
-8g#
-8a
-8b
-=26
-8dd
-8cc
-8.b
-16g#
-=27
-8e
-8g#
-8a
-8cc
-=28
-4ee
-4b}
+=25	=25
+{8e	.
+8g#	.
+8a	.
+8b	.
+=26	=26
+8dd	.
+8cc	.
+8.b	.
+16g#	.
+=27	=27
+8e	.
+8g#	.
+8a	.
+8cc	.
+=28	=28
+4ee	.
+4b}	.
 !!LO:LB:g=esac
-=29
-{8a
-8g#
-8a
-8b
-=30
-8dd
-8cc
-8.b
-16g#
-=31
-8e
-8g#
-8g#
-8g#
-=32
-4a
-4b}
-==
-*-
+=29	=29
+{8a	.
+8g#	.
+8a	.
+8b	.
+=30	=30
+8dd	.
+8cc	.
+8.b	.
+16g#	.
+=31	=31
+8e	.
+8g#	.
+8g#	.
+8g#	.
+=32	=32
+4a	.
+4b}	.
+==	==
+*-	*-
+!!@@BEGIN:
+!!@COMMENTARY: od Gołańczy (Czeszewo).
+!!@@END:
+!!!role-singer: Mistress
+!!!role-listener: Lover
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:Wyńdzi ino  pacholiku
+!!chto to tam przyjechał, 
+!!a ten ci to sam kawaler
+!!co wczoraj odjechał. 
+!!@VERSE:Wyjrzyj ino na konika
+!!jeżeli ochotny
+!!i na niego na samego
+!!jeżeli urodny.
+!!@VERSE:A urodny-ć on urodny
+!!jak koniczek jego,
+!!jeszczem ja téż nie widziała
+!!chłopczyka takiego.
+!!@VERSE:Głowusińka okrągluśka 
+!!a gdyby u śledzia,
+!!gębusińka drobniusińka
+!!gdyby u niedźwiedzia
+!!@VERSE:Czoło ładnie uczesane 
+!!gdyby u prosięcia,
+!!a jeszczem-ci nie widziała
+!!takiego panięcia.
+!!@VERSE:A wyjeżdżaj-że wyjeżdżaj 
+!!z podwyrza mojego,
+!!nie ciebiem się spodziewała
+!!takiego grzecznego.
+!!@VERSE:Spodziewałam-ci ja się tu 
+!!jeszcze grzeczniejszego,
+!!ażeby mi był przyjemny
+!!i do serca mego.
+!!@VERSE:A wyjeżdżaj-że, wyjeżdżaj,
+!!byś ty o tém wiedział,
+!!a te krzesła powyrzucam,
+!!coś ty na nich siedział.
+!!@VERSE:I wyjechał-ci za wroty;
+!!zaczął dészczyk kropić,
+!!miał suknisko pożyczane,
+!!musiał je przewrócić.
+!!@VERSE:I zajachał-ci w komendy,
+!!tam gdzie ładnie grają,
+!!jako pana niedo-gana (?)
+!!do tańca wołają.
+!!@VERSE:Poszed, poszed do taneczka
+!!ramionamy wstrząsa,
+!!czy od pychy, czy od miny,
+!!czy go weszka kąsa.
+!!@VERSE:Ni od pychy, ni od miny,
+!!tylko od parady,
+!!co pożyczył kożuszyszka
+!!da od stary baby.
+!!@@END: VERSES
 !!!ONB: Zapis obejmuje dwie zwrotki piesni
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=33 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 17} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 17}
 !!!page: 17
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-13-02

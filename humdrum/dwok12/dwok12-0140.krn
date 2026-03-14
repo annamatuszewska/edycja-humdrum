@@ -3,52 +3,79 @@
 !!!source: DWOK12
 !!!id: 12140
 !!!signature: 1214000000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8g
-8b
-4dd
-4dd
-=2
-8dd
-8ff#
-4.gg
-8dd
-=3
-8cc
-8a
-4cc
-4b
-=4
-2g}
-4r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8g	Przede
+8b	.
+4dd	wroty
+4dd	.
+=2	=2
+8dd	kamień
+8ff#	.
+4.gg	złoty,
+8dd	.
+=3	=3
+8cc	na
+8a\	nim
+4cc	leli-
+4b	.
+=4	=4
+2g}	-ja,
+4r	.
 !!LO:LB:g=esac
-=5
-{8cc
-8a
-4f#
-4d
-=6
-8g
-8b
-4.dd
-8ee
-=7
-8a
-8a
-4cc
-4b
-=8
-2g}
-4r
-==
-*-
+=5	=5
+{8cc	uwij-
+8a	.
+4f#	-że
+4d	my
+=6	=6
+8g	wianek
+8b	.
+4.dd	z ruty
+8ee	.
+=7	=7
+8a	panno
+8a	.
+4cc	Zo-
+4b	.
+=8	=8
+2g}	-fija.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!!role-listener: Mistress
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:1. Przede wroty — kamień złoty,
+!!na nim lelija, —
+!!uwij-że my wiánek z ruty
+!!panno Zofija.
+!!@VERSE:2. Nie daj-że go dworakowi,
+!!bo go nie godzien,
+!!jéno go zdéjm ze swéj główki,
+!!wrzuć go na ogień.
+!!@VERSE:3. A niech ci się twój wianeczek
+!!płomieniem pali,
+!!a niech się to dworaczysko
+!!z wionkiem nie chwali.
+!!@VERSE:4. A ty ptaszku skowronyszku,
+!!wysoko latasz,
+!!powiédz-że my nowineczkę
+!!kej w nocy siadasz.
+!!@VERSE:5. Powiem ja ci nowineczkę
+!!nie bardzo dobrą,
+!!jużci twoją kochaneczkę
+!!do ślubu wiozą. i t. d.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=85 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 69} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 69}
 !!!page: 69
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-02-25
