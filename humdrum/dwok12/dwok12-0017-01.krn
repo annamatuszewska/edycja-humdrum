@@ -10,21 +10,21 @@
 *M3/8	*
 =1	=1
 {16g	A
-16g	wPoznaniu,
+16g	w_Poznaniu,
 8cc	.
 8b	.
 =2	=2
-16cc	aw
+16cc	a_w
 16ee	Poznaniu
 8.gg	.
 16dd	.
 =3	=3
-16ff	wty
+16ff	w_ty
 16ff	kamieni-
 8ee	.
 8dd	.
 =4	=4
-4.cc}	cy,
+4.cc}	-cy,
 !!LO:LB:g=esac
 =5	=5
 {16g	tańcują
@@ -42,16 +42,12 @@
 8b	.
 8a	.
 =8	=8
-4g}	cy.
+4g}	-cy.
 8r	.
 ==	==
 *-	*-
-!!@@BEGIN:
-!!@COMMENTARY: od Kobylina (Targoszyce).
-!!@@END:
-!!!role-singer: Group
-!!!role-listener: Group
-!!!singer-sex: female, male
+!!!role-singer: Narrator
+!!!role-listener: Group, Girl
 !!@@BEGIN: VERSES
 !!@VERSE:A w Poznaniu, a w Poznaniu w ty kamienicy,
 !!tańcują tam miejskie panny i rzemieślnicy.
@@ -76,3 +72,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-13-02
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

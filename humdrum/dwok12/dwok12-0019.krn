@@ -17,7 +17,7 @@
 8dd	pacho-
 16ccL	.
 16bJ	.
-4a	liku
+4a	-liku
 16bL	.
 8.ccJ	.
 =3	=3
@@ -26,8 +26,8 @@
 4dd	nowy
 4ee	.
 =4	=4
-2cc	dwór,
-4b}	.
+(<2cc/	dwór,
+4b/)}	.
 !!LO:LB:g=esac
 =5	=5
 {8g	nie
@@ -38,7 +38,7 @@
 8dd	Jasi-
 16ccL	.
 16bJ	.
-4a	neczek
+4a	-neczek
 4ee	.
 =7	=7
 8dd	kochaneczek
@@ -50,11 +50,9 @@
 2.g}	.
 ==	==
 *-	*-
-!!@@BEGIN:
-!!@COMMENTARY: od Gołańczy (Czeszewo).
-!!@@END:
+!!!RDF**kern: <= below
 !!!role-singer: Mistress
-!!!role-listener: Servant
+!!!role-listener: Servant, Lover
 !!!singer-sex: female
 !!@@BEGIN: VERSES
 !!@VERSE:Wyjrzyj ino pacholiku za ten nowy dwór,
@@ -107,3 +105,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-13-02
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

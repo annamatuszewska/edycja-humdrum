@@ -18,9 +18,9 @@
 8a	słońce
 8cc	.
 8ee	i
-8ee	pogoda,
-8dd	.
-8b}	.
+8ee	po-
+8dd	-go-
+8b}	-da,
 !!LO:LB:g=esac
 =3	=3
 {8a	przyjdziesz
@@ -33,42 +33,39 @@
 8cc	mnie
 8ee	do
 8ee	o-
-8ddL	gro-
+8dd/L	gro-
 16cc	da.
-16bJ}	Oj
+16bJ}	.
 !!LO:LB:g=esac
 =5	=5
-{8a	dam
-8cc	ja
-8b	tobie
-8g#	.
-4e	ziela
+{8a\	Oj
+8cc\	dam
+8b	ja
+8g#	tobie
+4e	.
 =6	=6
+8e	ziela
 8e	.
-8e	zielo-
-8g#	.
-8b	nego,
-8dd	.
+8g#	zielo-
+8b	.
+8dd	-nego,
 16ccL	.
-16bJ}	i
+16bJ}	.
 !!LO:LB:g=esac
 =7	=7
-{8a	rumia-
-8cc	.
-8b	necku
-8g#	.
-4e	jesce
-=8	=8
-8e	.
-8e	pachniącego.
-8g#	.
+{8a	i
+8cc	rumia-
 8b	.
-4a}	.
+8g#	-necku
+4e	.
+=8	=8
+8e	jesce
+8e	.
+8g#	pachniącego.
+8b	.
+4an}	.
 ==	==
 *-	*-
-!!@@BEGIN:
-!! @COMMENTARY: od Wielenia (Rosko).
-!!@@END:
 !!!role-singer: Mistress
 !!!role-listener: Lover
 !!!singer-sex: female
@@ -92,3 +89,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-05-02
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

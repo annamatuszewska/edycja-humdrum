@@ -13,7 +13,7 @@
 4gg	wyjeż-
 4gg	.
 =2	=2
-8gg	dżaj,
+8gg	-dżaj,
 8gg	wyjeżdżaj
 4dd	.
 8ffL	.
@@ -21,11 +21,11 @@
 =3	=3
 4cc	z
 8bq	.
-4cc	podwó-
-8ee	.
-8gg	.
+(4cc	podwó-
+8eeL)	.
+8ggJ	.
 =4	=4
-8dd	rza
+8dd	-rza
 8eeq	.
 8dd	mojego,
 4b	.
@@ -74,10 +74,7 @@
 4g}	.
 ==	==
 *-	*-
-!!@@BEGIN:
-!!@COMMENTARY: od Kościana.
-!!@@END:
-!!!role-singer: Mistress, Lover
+!!!role-singer: Mistress, Lover, Narrator
 !!!role-listener: Miistress, Lover
 !!!singer-sex: female, male
 !!@@BEGIN: VERSES
@@ -103,3 +100,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-13-02
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

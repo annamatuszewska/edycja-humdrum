@@ -10,27 +10,27 @@
 *M3/8	*
 =1	=1
 {16e	A
-16e	w niedzielę
+16e	w_niedzie-
 8g#	.
-8a	.
+8a	-lę
 =2	=2
 16b	raniusieńko
 16dd	.
 8cc	.
 8a	.
 =3	=3
-16b	deszczyk
+16b	dészczyk
 16dd	.
 8cc#	pora-
 8dd	.
 =4	=4
-4.b}	nia,
+4.b}	-nia,
 !!LO:LB:g=esac
 =5	=5
 {16b	jużci
 16dd	.
 8cc	moja
-8a	.
+8a\	.
 =6	=6
 16b	kochaneczka
 8aq	.
@@ -39,17 +39,14 @@
 8d	.
 =7	=7
 16e	gą-
-16g#	ski
+16g#	-ski
 8a	wyga-
 8g#	.
 =8	=8
-4.e}	nia.
+4.e}	-nia.
 ==	==
 *-	*-
-!!@@BEGIN:
-!!@COMMENTARY: od Gołańczy (Czeszewo).
-!!@@END:
-!!!role-singer: Mistress, Lover
+!!!role-singer: Mistress, Lover, Narrator, Complex
 !!!role-listener: Mistress, Lover
 !!!singer-sex: female, male
 !!@@BEGIN: VERSES
@@ -78,3 +75,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-13-02
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

@@ -3,12 +3,14 @@
 !!!source: DWOK12
 !!!id: 12004
 !!!signature: 1200400011
+!!!EFL: 1200400011/1
 **kern	**text
 *clefG2	*
 *k[]	*
 *C:	*
 *M3/4	*
 =1	=1
+!LO:TX:a:t=Chodzony (po wypiciu gorzałki z miłą w gościńcu).	!
 {4g	.
 4g	.
 4g	.
@@ -28,8 +30,8 @@
 8cc	i
 16ddL	po-
 16eeJ	.
-8ff	go-
-8ee}	da,
+8ff	-go-
+8ee}	-da,
 !!LO:LB:g=esac
 =5	=5
 {8gg	przychodź
@@ -42,8 +44,8 @@
 8cc	.
 16ddL	o-
 16eeJ	.
-8ff	gro-
-8ee}	da.
+8ff	-gro-
+8ee}	-da.
 !!LO:LB:g=esac
 =7	=7
 {8dd	nawąchasz
@@ -72,12 +74,10 @@
 4cc}	.
 ==	==
 *-	*-
-!!@@BEGIN:
-!! @COMMENTARY: Miłosław.
-!!@@END:
 !!!role-singer: Mistress
 !!!role-listener: Lover
 !!!singer-sex: female
+!!!ONB@texture: Only voice or instrument is playing at a time 
 !!@@BEGIN: VERSES
 !!@VERSE:Kiedy będzie słońce i pogoda,
 !!przychodź Jasiu do mego ogroda,
@@ -91,3 +91,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-11-02
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

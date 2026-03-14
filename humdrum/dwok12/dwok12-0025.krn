@@ -10,8 +10,8 @@
 *M3/8	*
 =1	=1
 {16gL	A
-16bJ	w niedzielę
-8.dd	.
+16bJ	w
+8.dd	niedzielę
 16g	.
 =2	=2
 16b	raniusieńko
@@ -49,9 +49,9 @@
 4.g}	len.
 !!LO:LB:g=esac
 =9	=9
-{16g	A
-16b	w niedzielę
-8.dd	.
+{16gL	A
+16bJ	w
+8.dd	niedzielę
 16g	.
 =10	=10
 16b	raniusieńko
@@ -89,10 +89,7 @@
 4.g}	len.
 ==	==
 *-	*-
-!!@@BEGIN:
-!!@COMMENTARY: od Szmigla (Morownica).
-!!@@END:
-!!!role-singer: Mistress, Lover
+!!!role-singer: Narrator, Mistress, Lover
 !!!role-listener: Mistress, Lover
 !!!singer-sex: female, male
 !!@@BEGIN: VERSES
@@ -124,3 +121,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-13-02
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

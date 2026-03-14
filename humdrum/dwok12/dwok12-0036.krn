@@ -9,7 +9,7 @@
 *e:	*
 *M2/4	*
 =1	=1
-{8g	W Morownicy
+{8g	W_Morownicy
 8b	.
 8b	.
 8b	.
@@ -28,71 +28,66 @@
 4e}	.
 !!LO:LB:g=esac
 =5	=5
-{8g	W Morownicy
+{8g	trzech
+8b	groszy
 8b	.
-8b	.
-8b	.
+8b	w_kie-
 =6	=6
-8b	parobeczki
+8b	-szeni
 8cc#	.
-8dd	.
+8dd	nima,
 8b	.
 =7	=7
-8a	to
-8a	są
-8a	bardzo
-8g	.
+8a	a
+8a	żenić
+8a	.
+8g	się
 =8	=8
-4b	pyszni,
+4b	myśli.
 4e}	.
 !!LO:LB:g=esac
 =9	=9
-{8e	trzech
-8b	groszy
-8a	.
-8g	w kie-
-=10	=10
-8f#	szeni
-8d	.
-8f#	nima,
-8a	.
-=11	=11
-8e	a
-8e	żenić
-8e	.
-8g	się
-=12	=12
-4e	myśli.
-4e}	.
-!!LO:LB:g=esac
-=13	=13
 {8e	Oj
 8b	myśli
 8a	.
 8g	on
-=14	=14
+=10	=10
 8f#	myśli
 8d	.
 8f#	sobie,
 8a	.
-=15	=15
+=11	=11
 8e	o
 8e	téj
 8e	ładnéj
 8g	.
+=12	=12
+4e	damie,
+4e}	.
+!!LO:LB:g=esac
+=13	=13
+{8e	a
+8b	onego
+8a\	.
+8g	.
+=14	=14
+8f#	niebo-
+8d	.
+8f#	-raka,
+8a	.
+=15	=15
+8e	na
+8e	buty
+8e	.
+8g	nie
 =16	=16
-4b	damie,
+4b/	stanié.
 4e}	.
 ==	==
 *-	*-
-!!@@BEGIN:
-!!@COMMENTARY: od Szmigla (Morownica).
-!!@@END:
-!!!role-singer: Group
-!!!role-listener: Group
-!!!singer-sex: female, male
+!!!role-singer: Narrator
 !!@@BEGIN: VERSES
-!!@VERSE:W Morownicy parobeczki
+!!@VERSE:1. W Morownicy parobeczki
 !!to są bardzo pyszni,
 !!trzech groszy w kieszeni nima,
 !!a żenić się myśli.
@@ -100,7 +95,7 @@
 !!o téj ładnéj damie,
 !!a onego nieboraka,
 !!na buty nie stanié.
-!!@VERSE:Zajńdzie sobie do szynkfasa,
+!!@VERSE:2. Zajńdzie sobie do szynkfasa,
 !!a na nią pogląda,
 !!potrząsa próżno kieszenią,
 !!nic mu tam nie brząka,
@@ -116,3 +111,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-13-02
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-24

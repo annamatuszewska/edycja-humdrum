@@ -16,9 +16,9 @@
 =2	=2
 8g	Mazu-
 8b	.
-8dd	rowie
+8dd	-rowie
 8ee	.
-8cc	zpola,
+8cc	z_pola,
 8a	.
 =3	=3
 8g	pytają
@@ -28,15 +28,15 @@
 =4	=4
 8d	gdzie
 8f#	Kasinka
-8aL	.
+8aL/	.
 8ccJ	.
-8eeL	moja,
+8ee/L	moja,
 8ddJ}	.
 !!LO:LB:g=esac
 =5	=5
 {8g	pyta-
 8b	.
-4dd	ją
+4dd	-ją
 4d	się
 =6	=6
 8d	gdzie
@@ -47,12 +47,7 @@
 8g}	.
 ==	==
 *-	*-
-!!@@BEGIN:
-!!@COMMENTARY: z okolic Wrześni i Gniezna.
-!!@@END:
-!!!role-singer: Group
-!!!role-listener: Group
-!!!singer-sex: female, male
+!!!role-singer: Narrator
 !!@@BEGIN: VERSES
 !!@VERSE:Przyjechali Mazurowie z pola,
 !!pytają się gdzie Kasinka moja, 
@@ -82,3 +77,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-11-02
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

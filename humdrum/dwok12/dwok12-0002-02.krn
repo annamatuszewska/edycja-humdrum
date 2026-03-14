@@ -9,65 +9,61 @@
 *G:	*
 *M3/4	*
 =1	=1
-{4dd	A
-8eeL	cóż
+{4dd	Kiedy
+8eeL	.
 8ccJ	.
-8a	mi
-8f#	to
+8a	będzie
+8f#	.
 =2	=2
-8g	po
-8b	téj
-8dd	rumianości,
-8ff#	.
-8ggL>	.
+8g	słońce
+8b	.
+8dd	i
+8ff#	pogoda,
+8gg/L	.
 8eeJ	.
 =3	=3
-8ddL>	kie-
+8dd/L	pójdźże
 8ddJ	.
-8eeL	dy
+8eeL	.
 8ccJ	.
-8a	niemam
+8a	Jasiu
 8f#	.
 =4	=4
 8g	do
-8b	ciebie
+8b/	mego
 8a	.
-8f#	wolności.
+8f#	ogroda,
 8dL	.
 8dJ}	.
 !!LO:LB:g=esac
 =5	=5
-{4b	U-
-8ccL	pa-
+{4b	nawąchać
+8ccL	.
 8aJ	.
-8f#	dnijże
-8d	.
+8f#	.
+8d	się
 =6	=6
-8g	ojcu
+8g	ziółka
 8b	.
-8dd	matce
+8dd	pachnącego,
 8ee	.
-8cc	do
-8a	nóg,
+8cc	.
+8a	.
 =7	=7
-4dd	będziesz
+4dd	napatrzyć
 8eeL	.
 8ccJ	.
-8a	ty
-8f#	miał
+8a	.
+8f#	się
 =8	=8
-8g	wolność
-8b	hej
-8dd	dalibóg.
+8g	liczka
+8b	.
+8dd	czerwonego.
 8f#	.
 8gL	.
 8gJ}	.
 ==	==
 *-	*-
-!!!RDF**kern: > = above
-!!@@BEGIN:
-!! @COMMENTARY:od Szamotuł.
-!!@@END:
 !!!role-singer: Mistress
 !!!role-listener: Lover
 !!!singer-sex: female
@@ -89,3 +85,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-05-02
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-24

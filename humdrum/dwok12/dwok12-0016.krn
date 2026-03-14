@@ -17,13 +17,13 @@
 8ff	kochan-
 8eeq	.
 8dd	.
-4cc#	kowi
+4cc#	-kowi
 4a	.
 =3	=3
 8gL	sze-
 8aJ	.
-4b-	ro-
-4g	ko
+(4b-\	-ro-
+4g)	-ko
 =4	=4
 4f#	wrota,
 2d}	.
@@ -39,8 +39,8 @@
 4dd	.
 4a	koń
 =7	=7
-8g	nie
-8a	otrząsnął
+8gL	nie
+8aJ	otrząsnął
 8cc#q	.
 4b-	.
 4g	.
@@ -57,14 +57,14 @@
 8ff	kochan-
 8eeq	.
 8dd	.
-4cc#	kowi
+4cc#	-kowi
 4a	.
 =11	=11
 8gL	sze-
 8aJ	.
-8b-L	ro-
+(>8b-L	-ro-
 8aJ	.
-4g	ko
+4g)	-ko
 =12	=12
 4f#	wrota,
 2d}	.
@@ -77,7 +77,7 @@
 =14	=14
 8f#	ten
 8a	wrony
-8ddL	.
+8dd/L	.
 8cc#J	.
 4a	koń
 =15	=15
@@ -92,12 +92,10 @@
 2d}	.
 ==	==
 *-	*-
-!!@@BEGIN:
-!!@COMMENTARY: od Gniezna.
-!!@@END:
 !!!role-singer: Mistress
-!!!role-listener: Lover
+!!!role-listener: Group
 !!!singer-sex: female
+!!!RDF**kern: >= above
 !!@@BEGIN: VERSES
 !!@VERSE:O otwórzcie kochankowi
 !!szeroko wrota,
@@ -127,3 +125,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-11-02
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

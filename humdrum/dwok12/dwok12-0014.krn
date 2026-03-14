@@ -12,7 +12,7 @@
 {8dd	Wyje-
 4dd	.
 =2	=2
-8ff#	chali
+8ff#	-chali
 4ee	.
 =3	=3
 16dd	Mazurowie
@@ -20,14 +20,14 @@
 8b	.
 8a	.
 =4	=4
-8dd	zpola,
+8dd	z_pola,
 4b}	.
 !!LO:LB:g=esac
 =5	=5
 {8dd	pyta-
 4dd	.
 =6	=6
-8ff#	ją
+8ff#	-ją
 4ee	się
 =7	=7
 16dd	gdzie
@@ -35,8 +35,8 @@
 8b	.
 8a	.
 =8	=8
-16g	moja.
-16f#	.
+16gL	moja.
+16f#J	.
 4e}	.
 !!LO:LB:g=esac
 =9	=9
@@ -50,32 +50,27 @@
 8b	.
 8a	.
 =11	=11
-8dd	wpolu,
+8dd	w_polu,
 4dd}	.
 !!LO:LB:g=esac
 =12	=12
 {8b	wybie-
 4a	.
 =13	=13
-8cc	ra
+8cc	-ra
 4ee	tam
 =14	=14
 16dd	pszeniczkę
 16cc	.
 8b	.
-8a	wką-
+8a	w_ką-
 =15	=15
-16gL	kolu.
+16gL	-kolu.
 16f#J	.
 4e}	.
 ==	==
 *-	*-
-!!@@BEGIN:
-!!@COMMENTARY: od Rawicza (Pakosław, Golejewko).
-!!@@END:
-!!!role-singer: Group
-!!!role-listener: Mistress
-!!!singer-sex: male
+!!!role-singer: Narrator
 !!@@BEGIN: VERSES
 !!@VERSE:Wyjechali Mazurowie z pola, 
 !!pytają się gdzie dziewula moja.
@@ -105,3 +100,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-11-02
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

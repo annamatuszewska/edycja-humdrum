@@ -30,41 +30,38 @@
 8dd#	cię
 8ee	mu-
 =5	=5
-4.b	szę,
+4.b	-szę,
 =6	=6
-16ee	moja
+16ee	wykraść
 16ee	.
-8dd#	Kasiu
-8ee	.
+8dd#	cię
+8ee	mu-
 =7	=7
-4.b}	moja
+4.b}	-szę,
 !!LO:LB:g=esac
 =8	=8
-{16ee	.
-16ee	droga,
-8dd#	.
-8ee	moja
+{16ee	boć
+16ee	cię
+8dd#	kocham,
+8ee	.
 =9	=9
-16cc	.
-16cc	droga,
-8b	.
-8a	wykraść
+16cc	boć
+16cc	cię
+8b	lubię,
+8a	.
 =10	=10
-16b	.
-16b	cię
-8a	mu-
-16g#L	szę,
-16f#J	boć
+16b	nad
+16b	moją
+8a	.
+16g#L	du-
+16f#J	.
 =11	=11
-4.e}	cię
+4.e}	-szę.
 ==	==
 *-	*-
-!!@@BEGIN:
-!!@COMMENTARY: od Kostrzyna (Iwno).
-!!@@END:
-!!!role-singer: Lover
-!!!role-listener: Mistress
-!!!singer-sex: male
+!!!role-singer: Lover, Mistress
+!!!role-listener: Mistress, Lover
+!!!singer-sex: male, female
 !!@@BEGIN: VERSES
 !!@VERSE:Moja Kasiu moja droga, moja droga, 
 !!wykraść cię muszę,
@@ -87,3 +84,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-11-02
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

@@ -15,9 +15,9 @@
 8eeJ	.
 4cc	.
 =2	=2
-8ccL	zciso-
-8eeJ	.
-8gg	wego
+8cc	z_ciso-
+8ee	.
+8gg	-wego
 8aa	.
 8ff	drzewa,
 8g	.
@@ -28,8 +28,8 @@
 8eeJ	.
 4cc	tu
 =4	=4
-8aL	kawalerów
-8aJ	.
+8a	kawalerów
+8a	.
 8cc	.
 8dd	.
 8b	trzeba.
@@ -42,7 +42,7 @@
 8eeJ	.
 4cc	.
 =6	=6
-8eeL	co
+8ee/L	co
 8eeJ	pieniążki
 8gg	.
 8aa	.
@@ -55,7 +55,7 @@
 8eeJ	.
 4cc	.
 =8	=8
-8ccL	na
+8cc/L	na
 8aJ	trzewicki
 8cc	.
 8dd	.
@@ -63,12 +63,9 @@
 8g}	.
 ==	==
 *-	*-
-!!@@BEGIN:
-!! @COMMENTARY: Wieleń. Czarnków.
-!!@@END:
-!!!role-singer: Mistress
-!!!role-listener: Lover
-!!!singer-sex: female
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: male
 !!@@BEGIN: VERSES
 !!@VERSE:Moja  izba z cisowego drzewa,  
 !!nie takich tu kawalerów trzeba.
@@ -90,3 +87,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-11-02
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

@@ -29,7 +29,7 @@
 8cc	.
 8a	mło-
 =6	=6
-4b	dzieniec
+4b	-dzieniec
 8e	.
 =7	=7
 16g#	niż
@@ -62,23 +62,23 @@
 8cc	.
 8a	dzie-
 =14	=14
-4b	wucho
+4b	-wucho
 8e	.
 =15	=15
 16g#	ze
 16b	mną
-4dd	w świat,
+4dd	w_świat,
 =16	=16
 16cc	ze
 16b	mną
-4a}	w świat.
+4a}	w_świat.
 !!LO:LB:g=esac
 =17	=17
 {8ee	Dawno
 8dd#	.
 8ee	się
 =18	=18
-8ccL	ludzie
+8cc/L	ludzie
 8b	.
 8aJ	.
 =19	=19
@@ -88,9 +88,9 @@
 =20	=20
 16ffL	dzi-
 16eeJ/	.
-16ddL	wu-
+16ddL	-wu-
 16ccJ/	.
-16bL	ją,
+16bL	-ją,
 16a}J	.
 !!LO:LB:g=esac
 =21	=21
@@ -98,25 +98,22 @@
 8g#	dwa
 8bJ/	mło-
 =22	=22
-8a	dzieniaszki
+8a\	-dzieniaszki
 8cc	.
-8ee	.
+8ee\	.
 =23	=23
 8g#	wędrują,
 8b	.
 8dd	.
 =24	=24
-8cc	wędrują.
-8b	.
-8a}	.
+8cc\	wędrują.
+8b\	.
+8a\}	.
 ==	==
 *-	*-
-!!@@BEGIN:
-!!@COMMENTARY: Morownica.
-!!@@END:
-!!!role-singer: Maiden
-!!!role-listener: Group
-!!!singer-sex: female
+!!!role-singer: Jung Boy
+!!!role-listener: Maiden
+!!!singer-sex: male
 !!@@BEGIN: VERSES
 !!@VERSE:Zielona lipka jałowiec, jałowiec,
 !!lepszy młodzieniec niż wdowiec, niż wdowiec.
@@ -132,3 +129,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-19-02
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

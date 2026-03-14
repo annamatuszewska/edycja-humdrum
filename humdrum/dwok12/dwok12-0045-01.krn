@@ -24,12 +24,12 @@
 8ee	.
 8cc	Ka-
 =5	=5
-4dd	sieńku
+4dd	-sieńku
 8b	.
 =6	=6
 16g	ze
 16b	mną
-4cc}	w świat.
+4cc}	w_świat.
 !!LO:LB:g=esac
 =7	=7
 {8cc	A
@@ -55,9 +55,6 @@
 4cc}	.
 ==	==
 *-	*-
-!!@@BEGIN:
-!!@COMMENTARY: Kurnik.
-!!@@END:
 !!!role-singer: Lover
 !!!role-listener: Mistress
 !!!singer-sex: male
@@ -74,3 +71,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-19-02
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-25

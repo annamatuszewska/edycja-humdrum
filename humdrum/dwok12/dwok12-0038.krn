@@ -12,10 +12,10 @@
 {4dd	Brodni-
 8dd	.
 =2	=2
-16ee	ckie
+16ee	-ckie
 16dd	parobki
 8cc	.
-8a	.
+8a\	.
 =3	=3
 4g	bardzo
 8aq	.
@@ -40,7 +40,7 @@
 8aq	.
 8b	.
 =8	=8
-16a	dzy
+16a	-dzy
 16g	nie
 8f#	mieli,
 8d}	.
@@ -54,13 +54,13 @@
 16b	miał
 16a	aby
 8cc	.
-8a	grosz,
+8a\	grosz,
 =11	=11
 16g	wyżéj
 16f#	.
 16gL	no-
 16bJ	.
-16eeL	sił
+16eeL	-sił
 16ddJ	.
 =12	=12
 16a	brodę
@@ -82,7 +82,7 @@
 =15	=15
 16g	aż
 16f#	go-
-16gL	ścinny
+16gL	-ścinny
 16bJ	.
 16eeL	.
 16ddJ	.
@@ -93,12 +93,8 @@
 8d}	.
 ==	==
 *-	*-
-!!@@BEGIN:
-!!@COMMENTARY: od Czempina (Brodnica).
-!!@@END:
-!!!role-singer: Group
+!!!role-singer: Narrator
 !!!role-listener: Group
-!!!singer-sex: female, male
 !!@@BEGIN: VERSES
 !!@VERSE:Brodnickie parobki bardzo poharnieli,
 !!zaszli do gościńca pieniędzy nie mieli,
@@ -114,3 +110,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-13-02
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

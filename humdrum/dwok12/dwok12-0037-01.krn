@@ -9,6 +9,7 @@
 *C:	*
 *M3/8	*
 =1	=1
+!LO:TX:a:t=Weselna.	!
 {8b	Coś
 8.dd	ty
 16ee	za
@@ -51,8 +52,8 @@
 8.ee	płaszczy-
 16dd	.
 =12	=12
-16bL	sko,
-16g}J	.
+(>16bL	-sko,
+16g)}J	.
 4r	.
 !!LO:LB:g=esac
 =13	=13
@@ -61,24 +62,22 @@
 16ddL	.
 16bJ	.
 =14	=14
-4g	sko,
-8b	.
+(4g	-sko,
+8b)	.
 =15	=15
 8cc	cne
 8ee	łaci-
 16ddL	.
 16bJ	.
 =16	=16
-4cc}	sko.
+4cc}	-sko.
 8r	.
 ==	==
 *-	*-
-!!@@BEGIN:
-!!@COMMENTARY: od Poznania.
-!!@@END:
 !!!role-singer: Mistress
 !!!role-listener:Lover
 !!!singer-sex: female
+!!!RDF**kern: >= above
 !!@@BEGIN: VERSES
 !!@VERSE:Coś ty za pan co gardzisz mną,
 !!wzdyć wszystek twój,
@@ -100,3 +99,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-13-02
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

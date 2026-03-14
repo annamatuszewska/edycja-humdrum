@@ -14,7 +14,7 @@
 4ee	.
 4cc	ja-
 =2	=2
-8dd	dę
+8dd	-dę
 8b	da
 4g	jadę,
 4b	.
@@ -26,7 +26,7 @@
 8eq	.
 4f	ja-
 =4	=4
-8g	dę
+8g	-dę
 8f	da
 4e	jadę,
 4d}	.
@@ -40,14 +40,14 @@
 8g	matuś
 8e	.
 4c	nie
-4e	da
+4e\	da
 =7	=7
 8f	to
 8f	cię
 4a	ukra-
 4f	.
 =8	=8
-8g	dę,
+8g	-dę,
 8f	ukradę.
 4e	.
 4d}	.
@@ -58,7 +58,7 @@
 4ee	.
 4cc	ja-
 =10	=10
-8dd	dę
+8dd	-dę
 8b	da
 4g	jadę,
 4b	.
@@ -70,7 +70,7 @@
 8eq	.
 4f	ja-
 =12	=12
-8g	dę
+8g	-dę
 8f	da
 4e	jadę,
 4d}	.
@@ -93,15 +93,12 @@
 8fL	.
 8dJ	.
 =16	=16
-8g	dę,
+8g	-dę,
 8f	ukradę.
 4e	.
 4d}	.
 ==	==
 *-	*-
-!!@@BEGIN:
-!! @COMMENTARY: od Środy (Dębica).
-!!@@END:
 !!!role-singer: Lover
 !!!role-listener: Mistress
 !!!singer-sex: male
@@ -130,3 +127,5 @@
 !!!ONB: Converted on 2024/12/26 with es
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-11-02
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

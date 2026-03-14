@@ -39,7 +39,7 @@
 8g	.
 8g	ogro-
 8b	.
-8dd}	da,
+8dd}	-da,
 !!LO:LB:g=esac
 =6	=6
 {8cc	przychodź
@@ -56,36 +56,33 @@
 8d}	.
 !!LO:LB:g=esac
 =8	=8
-{8cc	.
+{8cc	przychodź
 8cc	.
-4a	.
+4a	Jasiu
 4f	.
 =9	=9
-8e	.
+8e	do
+8g	mego
 8g	.
-8g	.
-8g	.
+8g	ogro-
 8b	.
-8dd}	.
+8dd}	-da,
 !!LO:LB:g=esac
 =10	=10
-{8cc	.
+{8cc	przychodź
 8ddq	.
 8cc	.
-4a	.
+4a	Jasiu
 4f	.
 =11	=11
-8e	.
+8e	do
+8g	mego
 8g	.
-8g	.
-8g	.
+8g	ogroda
 8f	.
 8d}	.
 ==	==
 *-	*-
-!!@@BEGIN:
-!! @COMMENTARY: od Szmigla (Morownica).
-!!@@END:
 !!!role-singer: Mistress
 !!!role-listener: Lover
 !!!singer-sex: female
@@ -101,3 +98,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-11-02
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

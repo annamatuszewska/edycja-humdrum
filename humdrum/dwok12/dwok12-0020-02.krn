@@ -17,13 +17,13 @@
 8ee	.
 4dd	.
 =3	=3
-8ee	z podwórza
+8ee	z_podwórza
 8ee	.
 8cc	.
 8b	mo-
 =4	=4
-4dd	jego,
-8ddL	.
+4dd	-jego,
+8dd/L	.
 8a}J	.
 !!LO:LB:g=esac
 =5	=5
@@ -43,8 +43,8 @@
 16bL	.
 16cc#J	.
 =8	=8
-4dd	szego,
-8ddL	.
+4dd	-szego,
+8dd/L	.
 8a}J	.
 !!LO:LB:g=esac
 =9	=9
@@ -64,13 +64,10 @@
 16eL	.
 16f#J	.
 =12	=12
-4g	szego.
+4g	-szego.
 4g}	.
 ==	==
 *-	*-
-!!@@BEGIN:
-!!@COMMENTARY: od Kobylina (Targoszyce).
-!!@@END:
 !!!role-singer: Mistress
 !!!role-listener: Lover
 !!!singer-sex: female
@@ -86,3 +83,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-13-02
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

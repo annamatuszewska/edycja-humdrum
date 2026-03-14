@@ -24,7 +24,7 @@
 8cc	tam
 8dd	przy-
 =4	=4
-4ee	jechał,
+4ee	-jechał,
 4b}	.
 !!LO:LB:g=esac
 =5	=5
@@ -43,7 +43,7 @@
 8g#	.
 8g#	od-
 =8	=8
-4a	jechał.
+4a	-jechał.
 4b}	.
 !!LO:LB:g=esac
 =9	=9
@@ -59,10 +59,10 @@
 =11	=11
 8e	jeże-
 8g#	.
-8a	li
+8a	-li
 8cc	o-
 =12	=12
-4ee	chotny
+4ee	-chotny
 4b}	.
 !!LO:LB:g=esac
 =13	=13
@@ -74,98 +74,20 @@
 8dd	na
 8cc	same-
 8.b	.
-16g#	go
+16g#	-go
 =15	=15
 8e	je-
-8g#	że-
-8g#	li
+8g#	-że-
+8g#	-li
 8g#	u-
 =16	=16
-4a	rodny.
+4a	-rodny.
 4b}	.
 !!LO:LB:g=esac
-=17	=17
-{8ee	.
-8ee	.
-8dd	.
-8dd	.
-=18	=18
-8cc	.
-8cc	.
-8.b	.
-16g#	.
-=19	=19
-8a	.
-8b	.
-8cc	.
-8dd	.
-=20	=20
-4ee	.
-4b}	.
-!!LO:LB:g=esac
-=21	=21
-{8ee	.
-8ee	.
-8dd	.
-8dd	.
-=22	=22
-8cc	.
-8cc	.
-8.b	.
-16g#	.
-=23	=23
-8e	.
-8g#	.
-8g#	.
-8g#	.
-=24	=24
-4a	.
-4b}	.
-!!LO:LB:g=esac
-=25	=25
-{8e	.
-8g#	.
-8a	.
-8b	.
-=26	=26
-8dd	.
-8cc	.
-8.b	.
-16g#	.
-=27	=27
-8e	.
-8g#	.
-8a	.
-8cc	.
-=28	=28
-4ee	.
-4b}	.
-!!LO:LB:g=esac
-=29	=29
-{8a	.
-8g#	.
-8a	.
-8b	.
-=30	=30
-8dd	.
-8cc	.
-8.b	.
-16g#	.
-=31	=31
-8e	.
-8g#	.
-8g#	.
-8g#	.
-=32	=32
-4a	.
-4b}	.
 ==	==
 *-	*-
-!!@@BEGIN:
-!!@COMMENTARY: od Gołańczy (Czeszewo).
-!!@@END:
-!!!role-singer: Mistress
-!!!role-listener: Lover
+!!!role-singer: Mistress, Servant, Narrator
+!!!role-listener: Lover, Servant
 !!!singer-sex: female
 !!@@BEGIN: VERSES
 !!@VERSE:Wyńdzi ino  pacholiku
@@ -225,3 +147,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-13-02
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

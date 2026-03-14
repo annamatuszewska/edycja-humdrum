@@ -11,12 +11,12 @@
 =1	=1
 {16g	A
 16g	ja
-8cc	ciebie
-8cc	.
+8cc/L	ciebie
+8ccJ	.
 =2	=2
 16cc	panno
 16ee	.
-8ggL	niechcę,
+8gg/L	niechcę,
 8ggJ	.
 =3	=3
 16dd	szpetną
@@ -45,9 +45,6 @@
 4.g}	grasz.
 ==	==
 *-	*-
-!!@@BEGIN:
-!!@COMMENTARY: od Krotoszyna (Rozdrażewo).
-!!@@END:
 !!!role-singer: Mistress, Lover
 !!!role-listener: Mistress, Lover
 !!!singer-sex: female, male
@@ -76,3 +73,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-13-02
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

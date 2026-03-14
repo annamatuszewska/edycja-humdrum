@@ -20,7 +20,7 @@
 8ee	i
 16eeL	kul-
 16ddJ	.
-16aL	baka
+16aL	-baka
 16g	.
 8bJ	.
 =4	=4
@@ -41,18 +41,15 @@
 8ff	stoją-
 16eeL	.
 16ddJ	.
-16aL	cy
+16aL	-cy
 16gJ	.
 8b	u
 =8	=8
-8ddL	o-
+8dd/L	o-
 8eeJ	.
-4cc}	kna.
+4cc}	-kna.
 ==	==
 *-	*-
-!!@@BEGIN:
-!!@COMMENTARY: od Poznania (Jeżyce).
-!!@@END:
 !!!role-singer: Lover, Mistress
 !!!role-listener: Mistress, Lover
 !!!singer-sex: male, female
@@ -77,3 +74,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-19-02
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

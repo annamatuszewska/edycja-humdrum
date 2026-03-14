@@ -16,12 +16,12 @@
 =2	=2
 8.b	pietru-
 16a	.
-16g	szeczka,
+16g	-szeczka,
 16b	.
 =3	=3
 16a	ziele-
 16f#	.
-8d	ni
+8d	-ni
 8d	się
 =4	=4
 8.g	ślaz
@@ -47,7 +47,7 @@
 =8	=8
 8.g	wlaz
 16a	da
-16b	i
+16b/	i
 16g}	wlaz,
 !!LO:LB:g=esac
 =9	=9
@@ -68,15 +68,11 @@
 =12	=12
 8.g	wlaz
 16a	da
-16b	i
+16b/	i
 16g}	wlaz.
 ==	==
 *-	*-
-!!@@BEGIN:
-!!@COMMENTARY: od Gniezna.
-!!@@END:
 !!!role-singer: Lover
-!!!role-listener: Group
 !!!singer-sex: male
 !!@@BEGIN: VERSES
 !!@VERSE:Zieleni się pietruszeczka,
@@ -95,3 +91,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-19-02
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

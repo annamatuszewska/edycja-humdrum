@@ -26,11 +26,11 @@
 =4	=4
 8ee	serce
 8dd	.
-4dd	mgleje,
+4dd\	mgleje,
 4cc}	.
 !!LO:LB:g=esac
 =5	=5
-{8a	zaprzągajcie
+{8a\	zaprzągajcie
 8cc	.
 4.ff	.
 8g	.
@@ -51,9 +51,6 @@
 4f}	nij.
 ==	==
 *-	*-
-!!@@BEGIN:
-!!@COMMENTARY: od Pleszewa (Kotlin).
-!!@@END:
 !!!role-singer: Lover
 !!!role-listener: Servants
 !!!singer-sex: male
@@ -70,3 +67,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-19-02
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

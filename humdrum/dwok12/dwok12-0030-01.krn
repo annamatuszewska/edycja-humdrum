@@ -10,13 +10,13 @@
 *M3/4	*
 =1	=1
 {8d	A
-8f#	w niedzielę
-4a	.
+8f#	w
+4a	niedzielę
 4cc#	.
 =2	=2
 8eeq	.
-8ddL	raniusieńko
-8bJ/	.
+8dd\	raniusieńko
+8b\	.
 4g	.
 4e	.
 =3	=3
@@ -25,7 +25,7 @@
 4dd	po-
 4ee	.
 =4	=4
-4a	ronia,
+4a	-ronia,
 8f#q	.
 4d}	.
 4r	.
@@ -37,9 +37,9 @@
 4cc#	.
 =6	=6
 8eeq	.
-8ddL	najmi-
-8bJ/	.
-4g	lejsa
+8dd\	najmi-
+8b\	.
+4g	-lejsa
 4e	.
 =7	=7
 8c	owiecki
@@ -47,15 +47,11 @@
 4g	.
 4a	wy-
 =8	=8
-4f#	gánia.
+4f#	-gánia.
 2d}	.
 ==	==
 *-	*-
-!!@@BEGIN:
-!!@COMMENTARY: od Wronek (Biezdrowo).
-!!@@END:
 !!!role-singer: Lover
-!!!role-listener: Mistress
 !!!singer-sex: male
 !!@@BEGIN: VERSES
 !!@VERSE:A w niedzielę raniusieńko descyk poronia,
@@ -68,3 +64,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-13-02
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

@@ -10,14 +10,14 @@
 *M3/4	*
 =1	=1
 {8g	A
-8b	w niedzielę
+8b	w_niedzielę
 4dd	.
 4dd	.
 =2	=2
 8dd	raniu-
 16eeL	.
 16ddJ	.
-8ccL	sieńko
+8ccL	-sieńko
 8bJ	.
 8aL	.
 8gJ	.
@@ -28,7 +28,7 @@
 16bL	.
 8.ccJ	.
 =4	=4
-2.dd}	nia,
+2.dd}	-nia,
 !!LO:LB:g=esac
 =5	=5
 {8g	jużci
@@ -50,15 +50,12 @@
 16bL	.
 8.ccJ	.
 =8	=8
-2.g}	nia.
+2.g}	-nia.
 ==	==
 *-	*-
-!!@@BEGIN:
-!!@COMMENTARY: od Środy (Dębica).
-!!@@END:
-!!!role-singer: Lover
+!!!role-singer: Lover, Narrator
 !!!role-listener: Mistress
-!!!singer-sex: male
+!!!singer-sex: male, female
 !!@@BEGIN: VERSES
 !!@VERSE:A w niedzielę  raniusieńko
 !!deszczyk porania,
@@ -84,3 +81,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-13-02
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

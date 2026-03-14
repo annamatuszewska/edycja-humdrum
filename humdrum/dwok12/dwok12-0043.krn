@@ -36,7 +36,7 @@
 8g	.
 =6	=6
 8bq	.
-16cc	z Polski
+16cc	z_Polski
 16cc	.
 8ee	szlachcic,
 8gg	.
@@ -58,7 +58,7 @@
 8g	.
 =10	=10
 8bq	.
-16cc	z Polski
+16cc	z_Polski
 16cc	.
 8ee	szlachcic,
 8gg	.
@@ -74,11 +74,7 @@
 8cc}	.
 ==	==
 *-	*-
-!!@@BEGIN:
-!!@COMMENTARY: od Gembic.
-!!@@END:
 !!!role-singer: Noble man
-!!!role-listener: Group
 !!!singer-sex: male
 !!@@BEGIN: VERSES
 !!@VERSE:Powiedzieli, że ja Mazur,
@@ -93,3 +89,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-19-02
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23
