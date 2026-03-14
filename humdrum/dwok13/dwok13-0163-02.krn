@@ -14,7 +14,7 @@
 16cc#	boru
 4ee	.
 =2	=2
-*Xtuplet	.
+*Xtuplet	*
 24aL	nie
 24g#	.
 24bJ	pój-
@@ -73,7 +73,7 @@
 !!@@END: VERSES
 !!!role-singer: Lover
 !!!role-listener: Mistress
-!!!singer-sex: male 
+!!!singer-sex: male
 !!!ONB: Mazurek
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -82,3 +82,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-26
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-13

@@ -104,7 +104,7 @@
 !!3. Sierota'ś była maluśka,
 !!sierotaś była,
 !!a ja na to nie uważał,
-!!byłeś robiła.
+!!byleś robiła.
 !!@VERSE:
 !!4. Sierotom grajcie graczyki,
 !!sierotom grajcie,
@@ -116,9 +116,9 @@
 !!niech przejedzą swojaczanki,
 !!niech się nie boją.
 !!@@END: VERSES
-!!!role-singer: Complex
-!!!role-listener: Group
-!!!singer-sex: Complex
+!!!role-singer: Narrator
+!!!role-listener: Orphan Girl, Group
+!!!singer-sex: male
 !!!ONB: Chodzony
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -127,3 +127,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-23
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-13

@@ -1,68 +1,70 @@
-!!!!SEGMENT: DWOK1317700002-oj_nie_placz_mi_dziewcze.krn
+!!!!SEGMENT: DWOK1317700001-oj_nie_placz_mi_dziewcze.krn
 !!!OTL: Oj nie płacz mi dziewcze
 !!!source: DWOK13
 !!!id: 13177
-!!!signature: 1317700002
-**kern	**text	**text
-*clefG2	*	*
-*k[f#]	*	*
-*G:	*	*
-*M3/4	*	*
-=1	=1	=1
-{8g	Oj	.
-8b	nie	.
-4dd	płacz	.
-4ee	mi	.
-=2	=2	=2
-8dd	dziewcze	.
-8a\	.	.
-8cc/L	.	.
-8b/J	mo-	.
-4g	-je,	.
-=3	=3	=3
-8g	jak	.
-8e	ja	.
-4a	umrę,	.
-4f#	.	.
-=4	=4	=4
+!!!signature: 1317700001
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G	*
+*M3/4	*
+=1	=1
+{8g	Oj
+8b	nie
+4dd	płacz
+4ee	mi
+=2	=2
+8dd	dziewcze
+8a\	.
+8cc/L	.
+8b/J	mo-
+4g	-je,
+=3	=3
+8g	jak
+8e	ja
+4a	umrę,
+4f#	.
+=4	=4
+*	*^
 8d	wszystko	.
 8f#	.	.
 8gL	two-	(będzie);
 8f#J	.	.
 4d}	-je	.
+*	*v	*v
 !!LO:LB:g=esac
-=5	=5	=5
-{8g	i	.
-8g	to	.
-4.a	wszystko	.
-8f#	.	.
-=6	=6	=6
-8g	co_w	.
-8b	cha-	.
-8ccL	.	.
-8bJ	-łu-	.
-4g	-pie	.
-=7	=7	=7
-8gL	i	.
-8gJ	te	.
-4.a\	portki	.
-8f#	.	.
-=8	=8	=8
-8d	co	.
-8f#	na	.
-8gL	d...	.
-8f#J	.	.
-4d}	.	.
-==	==	==
-*-	*-	*-
+=5	=5
+{8g	i
+8g	to
+4.a	wszystko
+8f#	.
+=6	=6
+8g	co_w
+8b	cha-
+8ccL	.
+8bJ	-łu-
+4g	-pie
+=7	=7
+8gL	i
+8gJ	te
+4.a\	portki
+8f#	.
+=8	=8
+8d	co
+8f#	na
+8gL	d...
+8f#J	.
+4d}	.
+==	==
+*-	*-
 !!@@BEGIN: VERSES
 !!Oj nie płacz mi dziewcze moje,
 !!jak ja umrę, wszystko twoje (będzie):
 !!i to wszystko co w chałupie
 !!i te portki co na d...
 !!@@END: VERSES
-!!!role-singer: Complex
-!!!role-listener: Complex
+!!!role-singer: Husband or Father
+!!!role-listener: Girl
 !!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -71,3 +73,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-27
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-03

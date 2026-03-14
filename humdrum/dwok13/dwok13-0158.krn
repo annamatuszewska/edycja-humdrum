@@ -50,41 +50,80 @@
 8a}J	.
 !!LO:LB:g=esac
 =9	=9
+{16f	a
+16f	jak
+8a	ja
+8a	się
+=10	=10
+16a\	o-
+16cc	-że-
+8.dd	-ni-
+16b-	-łem,
+=11	=11
+16g	koł-
+16e	-tó-
+8g	-ny
+8b-	z_niéj
+=12	=12
+16b-/L	wi-
+16aJ	.
+8cc/L	-szą.
+8a}J	.
+!!LO:LB:g=esac
+=13	=13
 {16f	Ja-
 16f	-kem
 8a	ja
 8a	był
-=10	=10
+=14	=14
 16cc	ka-
 16cc	-wa-
 8.dd	-li-
 16b-	-rem,
-=11	=11
+=15	=15
 16ff/L	tom
 16ff/J	ja
 8ee/L	był
 8dd/J	bo-
-=12	=12
+=16	=16
 16dd/L	-ga-
 16cc/J	.
 4cc}	-ty,
 !!LO:LB:g=esac
-=13	=13
+=17	=17
 {16f	miał
 16f	kurci-
 8a	.
 8a	-cę
-=14	=14
+=18	=18
 16cc/L	po
 16ff/J	.
 8.dd	kola-
 16b-	-na,
-=15	=15
+=19	=19
 16g	o-
 16e	-go-
 8g	-nek
 8b-	ko-
-=16	=16
+=20	=20
+8a\	-sma-
+\4f}	-ty.
+=21	=21
+{16f	miał
+16f	kurci-
+8a	.
+8a	-cę
+=22	=22
+16cc/L	po
+16ff/J	.
+8.dd	kola-
+16b-	-na,
+=23	=23
+16g	o-
+16e	-go-
+8g	-nek
+8b-	ko-
+=24	=24
 8a\	-sma-
 \4f}	-ty.
 ==	==
@@ -111,7 +150,6 @@
 !!do siebie przytuli.
 !!@@END: VERSES
 !!!role-singer: Bridegroom, Bride
-!!!role-listener: Complex
 !!!singer-sex: male, female
 !!!ONB: zapis melodii dwóch zwrotek
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
@@ -121,3 +159,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-26
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-13
