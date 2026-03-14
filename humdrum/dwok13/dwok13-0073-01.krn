@@ -178,9 +178,9 @@
 !!przed majestatem uklękniem Boga,
 !!bośmy, ach bośmy dla siebie stworzeni!
 !!@@END: VERSES
-!!!role-singer: Lover
-!!!role-listener: Mistress
-!!!singer-sex: male
+!!!role-singer: Lover, Mistress
+!!!role-listener: Lover, Mistress
+!!!singer-sex: male, female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=66 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 42} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 42}
@@ -188,3 +188,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-13
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-24

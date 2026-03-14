@@ -51,7 +51,7 @@
 8b-}	.
 !!LO:LB:g=esac
 =9	=9
-{16a	ja
+{16a\	ja
 16b-	tam
 8cc	nie
 16ddL	dbam
@@ -62,9 +62,10 @@
 8.ee	.
 16g	sprzyjasz,
 =11	=11
-16gL	lecz
-16b-/	czegóż
-16dd/J	.
+*Xtuplet	*
+24gL	lecz
+24b-/	czegóż
+24dd/J	.
 8.cc	.
 16cc	mi
 =12	=12
@@ -137,3 +138,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-11
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-24

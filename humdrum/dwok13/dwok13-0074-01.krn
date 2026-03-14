@@ -19,7 +19,7 @@
 =3	=3
 16g	z_czarnemi
 16a	.
-8b-	.
+8b-/	.
 8dd	o-
 =4	=4
 8dd	-czyma,
@@ -39,7 +39,7 @@
 =7	=7
 16g	co
 16a	ci
-8b-	za
+8b-/	za
 8g	przy-
 =8	=8
 8g	-czyna?
@@ -96,7 +96,6 @@
 !!bo mi chora matka.
 !!@@END: VERSES
 !!!role-singer: Daughter
-!!!role-listener: Complex
 !!!singer-sex: female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -105,3 +104,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-13
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-24

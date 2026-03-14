@@ -26,7 +26,7 @@
 4a}	łza,
 !!LO:LB:g=esac
 =5	=5
-{16aL	dla
+{16a\L	dla
 16b-J	.
 8a\	ciebie
 8cc#	.
@@ -207,9 +207,12 @@
 !!lecz na twój jęk i głos,
 !!czyliż wierzyć mam?
 !!@@END: VERSES
-!!!role-singer: 
-!!!role-listener: 
-!!!singer-sex: 
+!!@@BEGIN:
+!! @COMMENTARY:Muzyka J. Nowakowskiego.
+!!@@END:
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: male?
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=58 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 34} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 34}
@@ -217,3 +220,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-11
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-24

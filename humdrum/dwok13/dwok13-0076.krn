@@ -3,106 +3,134 @@
 !!!source: DWOK13
 !!!id: 13076
 !!!signature: 1307600000
-**kern
-*clefG2
-*k[]
-*C:
-*M4/4
-{8g
-8g
-=1
-4.ee
-8dd
-8cc
-16dd
-16cc
-8b
-8a
-=2
-8a
-8g
-4g
-4r
-8g
-8g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*met(c)	*
+{8g	Nie,
+8g	ja
+=1	=1
+4.ee	dłużéj
+8dd	.
+8ccL	nie
+16dd	.
+16ccJ	.
+8b/L	za-
+8aJ	.
+=2	=2
+8aL	-pomnę,
+8gJ	.
+4g	.
+4r}	.
 !!LO:LB:g=esac
-=3
-{4.ff
-8dd
-4g
-8a
-8b
-=4
-4dd
-4cc
-4r
-8g
-8g}
+{8g	żeś
+8g	me
+=3	=3
+4.ff	serce
+8dd	.
+(>4g	zniewo-
+8a)	.
+8b/	.
+=4	=4
+4dd\	-liła;
+4cc\	.
+4r}	.
 !!LO:LB:g=esac
-=5
-{8ff
-8dd
-4dd
-4r
-8g
-8f
-=
-12e
-12g
-12cc
-4ee
-4r
-8g
-8g}
+{8g	Tylko
+8g	.
+=5	=5
+8ffL	w_mojéj
+8ddJ	.
+4dd	.
+4r	.
+8g	wyo-
+8f	.
+=	=
+(12eL	-bra-
+12g	.
+12ccJ)	.
+4ee	-źni,
+4r}	.
 !!LO:LB:g=esac
-=6
-{8ff
-8dd
-4dd
-4r
-8g
-8f
-=
-12e
-12g
-12cc
-4ee
-4r
-8g
-8g}
+{8g	jaką
+8g	.
+=6	=6
+8ffL	sobie
+8ddJ	.
+4dd	.
+4r	.
+8g	wysta-
+8f	.
+=	=
+(12eL	-wia-
+12g	.
+12ccJ)	.
+4ee	-łem,
+4r}	.
 !!LO:LB:g=esac
-=7
-{4.ee
-8dd
-8cc
-16b
-16cc
-16dd
-16cc
-16b
-16a
-=8
-8a
-8g
-4g
-4r
-8g
-8g}
+{8g	a_w_szczę-
+8g	.
+=7	=7
+4.ee	-śliwy
+8dd	.
+8ccL	.
+16b	dzień
+16ccJ	.
+16ddL	.
+16cc	.
+16b	przy-
+16aJ	.
+=8	=8
+8aL	-jaźni
+8gJ	.
+4g	.
+4r}	.
 !!LO:LB:g=esac
-=9
-{4.ff
-8dd
-4g
-8a
-8b
-=10
-4dd
-4cc}
-4r
-==
-*-
+{8g	czciłem
+8g	.
+=9	=9
+4.ff	bóstwo
+8dd	.
+(>4g	.
+8a)	to
+8b/	z_za-
+=10	=10
+4dd	-pa-
+4cc}	-łem.
+4r	.
+==	==
+*-	*-
+!!!RDF**kern: >= above
+!!@@BEGIN: VERSES
+!!1. Nie, ja dłużéj nie zapomnę,
+!!żeś me serce zniewoliła;
+!!i w tysiącu, mnie się zdaje,
+!!tobie równa by nie była.
+!!@VERSE:
+!!2. Taką w mojéj wyobraźni,
+!!tylko sobie wystawiałem,
+!!i w szczęśliwym dniu przyjaźni
+!!czciłem bóstwo to z zapałem.
+!!@VERSE:
+!!3. Ale łzy daremnie ronię,
+!!moja boleść cię nie wzruszy;
+!!serce próżno bije w łonie,
+!!próżne więc pragnienie duszy.
+!!@VERSE:
+!!4. Dnie najmilsze z tobą pędzę,
+!!ty mnie zawsze witasz zimnie;
+!!ach, nieczuła na mą nędzę,
+!!jak głaz zimny siedzisz przy mnie.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: male
+!!!RDF**kern: >=above
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=68 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 44} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 44}
 !!!page: 44
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-13

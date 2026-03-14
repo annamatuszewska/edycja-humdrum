@@ -34,8 +34,8 @@
 4cc	-pomnę
 8cc	.
 =7	=7
-16cc	to
-16ee	sobie
+16ee/L	to
+16eeJ	sobie
 8dd	.
 8a	za-
 =8	=8
@@ -51,10 +51,10 @@
 4gg	nieraz
 8gg	.
 =11	=11
-16gg	i
-16ff#	nie
-8ee	tysiąc
-8dd	.
+16bb/L	i
+16aaJ	nie
+8gg/L	tysiąc
+8ff#J	.
 =12	=12
 8ff#	razy,
 4ee}	.
@@ -65,8 +65,10 @@
 8ff#	.
 8ee	roz-
 =14	=14
-4dd	-pomnę
-8b	.
+16ee/L	-pomnę
+16dd/J	.
+8gg/L	.
+8b/J	.
 =15	=15
 16ee	kochanka
 16dd	.
@@ -122,3 +124,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-11
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-24
