@@ -1,0 +1,124 @@
+!!!!SEGMENT: DWOK1203500000-mialam_ci_ja_kawalera.krn
+!!!OTL: Miałam ci ja kawalera
+!!!source: DWOK12
+!!!id: 12035
+!!!signature: 1203500000
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8.b	Miałam
+16b	.
+4dd	ci
+4dd	ja
+=2	=2
+8b	kawa-
+8b	.
+8gL	lera
+8f#J	.
+4d	.
+=3	=3
+4.g	z bogatego
+8a	.
+8cc	.
+8ee	.
+=4	=4
+2dd	domu,
+4dd}	.
+!!LO:LB:g=esac
+=5	=5
+{8.dd	ale
+16ff#	.
+4ee	mi
+4dd	się
+=6	=6
+8a	nie
+8b	.
+8gL	podobał,
+8f#J	.
+4d	.
+=7	=7
+4d	ej
+8f#	sama
+8g	.
+8a	nie
+16ccL	wiem
+16bJ	.
+=8	=8
+2g	czemu?
+4g}	.
+!!LO:LB:g=esac
+=9	=9
+{8.b	Miałam
+16b	.
+4dd	ci
+4dd	ja
+=10	=10
+8bL	kawa-
+16a	.
+16bJ	.
+8gL	lera
+8f#J	.
+4d	.
+=11	=11
+4.g	z bogatego
+8a	.
+8cc	.
+8ee	.
+=12	=12
+2dd	domu,
+4dd}	.
+!!LO:LB:g=esac
+=13	=13
+{8.dd	ale
+16ff#	.
+4ee	mi
+8ddL	się
+8ccJ	.
+=14	=14
+8a	nie
+8b	.
+8gL	podobał,
+8f#J	.
+4d	.
+=15	=15
+4d	ej
+8f#	sama
+8g	.
+8a	nie
+16ccL	wiem
+16bJ	.
+=16	=16
+2g	czemu?
+4g}	.
+==	==
+*-	*-
+!!@@BEGIN:
+!!@COMMENTARY: od Środy (Dębicz).
+!!@@END:
+!!!role-singer: Mistress
+!!!role-listener: Group
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:Miałam ci ja kawalera
+!!z bogatego domu,
+!!ale mi się nie podobał,
+!!ej sama nie wiem czemu?
+!!@VERSE:Bo jak idzie do gościńca,
+!!to się wszystko śmieje,
+!!wargi grube, zęby długie,
+!!ej mnie się aż coś dzieje.
+!!@VERSE:Wargi chude, wąsy długie,
+!!głowa jakby cielca;
+!!nie słyszałam, nie widziałam
+!!takiego wisielca.
+!!@@END: VERSES
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=34 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 18} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 18}
+!!!page: 18
+!!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-13-02

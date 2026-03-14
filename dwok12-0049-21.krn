@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK1204900021-instrumentalna-wieci_miesiac_a_nie_grzeje.krn
+!!!OTL: Instrumentalna-Świeci miesiąc a nie grzeje
+!!!source: DWOK12
+!!!id: 12049
+!!!signature: 1204900021
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16aL
+16f#
+8dJ
+16ccL
+16eeJ
+=2
+16ddL
+8eeq
+16ddJ
+8bL
+8ddJ
+=3
+16aL
+16f#
+8dJ
+16ccL
+16eeJ
+=4
+16ddL
+8eeq
+16ddJ
+8bL
+8g}J
+!!LO:LB:g=esac
+=5
+{16aL
+16f#
+8dJ
+16ccL
+16aJ
+=6
+16f#L
+16gJ
+8bL
+8bJ
+=7
+16aL
+16f#
+8dJ
+16ccL
+16aJ
+=8
+16f#L
+16gJ
+8bL
+8g}J
+==
+*-
+!!!ONB: Mazur
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=38 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 22} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 22}
+!!!page: 22
+!!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-19-02

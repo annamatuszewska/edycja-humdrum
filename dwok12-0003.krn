@@ -1,0 +1,94 @@
+!!!!SEGMENT: DWOK1200300000-o_jeno_bedzie_slonce_i_pogoda.krn
+!!!OTL: O jeno będzie słońce i pogoda
+!!!source: DWOK12
+!!!id: 12003
+!!!signature: 1200300000
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+{8a	O
+8cc	jeno
+8b	.
+8g#	będzie
+4e	.
+=2	=2
+8a	słońce
+8cc	.
+8ee	i
+8ee	pogoda,
+8dd	.
+8b}	.
+!!LO:LB:g=esac
+=3	=3
+{8a	przyjdziesz
+8cc	.
+8b	mój
+8g#	Jasiu
+4e	.
+=4	=4
+8a	do
+8cc	mnie
+8ee	do
+8ee	o-
+8ddL	gro-
+16cc	da.
+16bJ}	Oj
+!!LO:LB:g=esac
+=5	=5
+{8a	dam
+8cc	ja
+8b	tobie
+8g#	.
+4e	ziela
+=6	=6
+8e	.
+8e	zielo-
+8g#	.
+8b	nego,
+8dd	.
+16ccL	.
+16bJ}	i
+!!LO:LB:g=esac
+=7	=7
+{8a	rumia-
+8cc	.
+8b	necku
+8g#	.
+4e	jesce
+=8	=8
+8e	.
+8e	pachniącego.
+8g#	.
+8b	.
+4a}	.
+==	==
+*-	*-
+!!@@BEGIN:
+!! @COMMENTARY: od Wielenia (Rosko).
+!!@@END:
+!!!role-singer: Mistress
+!!!role-listener: Lover
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:O jeno będzie słońce i pogoda,
+!!przyjdziesz mój Jasiu do mnie do ogroda.
+!!@VERSE:Oj dam ja tobie ziela zielonego,
+!!i rumiamecku jesce pachniącego.
+!!@VERSE:Co mi przydzie z twoji rumianości,
+!!kiedy ja nimam do ciebie wolności.
+!!@VERSE:Oj są téż tacy co wolności mają,
+!!co ii méj kochanki cęsto przebywają.
+!!@VERSE:Niech przebywają, niech się Boga boją,
+!!ja o to nie stoję, byleś była moją.
+!!@@END: VERSES
+!!!ONB: Wariant w zapisie nutowym w ostatnim takcie -5_-5_-7_2_1_1
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=20 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 4} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 4}
+!!!page: 4
+!!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-02

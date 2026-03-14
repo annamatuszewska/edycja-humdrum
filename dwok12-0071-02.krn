@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK1207100002-oj_spiewaja_slowicy.krn
+!!!OTL: Oj śpiewają słowicy
+!!!source: DWOK12
+!!!id: 12071
+!!!signature: 1207100002
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{2cc	Oj
+8cc	śpiewa-
+8g	.
+=2	=2
+8b	-ją
+8dd	słowicy
+4cc	.
+4g	.
+=3	=3
+4.a	oj
+8a	w ty
+8cc	jary
+8a	.
+=4	=4
+8a	pszenicy,
+8g	.
+4e	.
+4c}	.
+!!LO:LB:g=esac
+=5	=5
+{4.f	da
+8f	gdzie
+8d	mi
+8f	się
+=6	=6
+8e	obra-
+8g	.
+4b	-cają
+4dd	.
+=7	=7
+(4.cc	da
+8a)	ci
+8fL	moji
+8aJ	.
+=8	=8
+8a	zalotnicy?
+8g	.
+4e	.
+4c}	.
+==	==
+*-	*-
+!!!role-singer: Mistress
+!!!role-listener: Group
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:Oj śpiewają słowicy
+!!oj w ty jary pszenicy,
+!!da gdzie mi się obracają
+!!da ci moji zalotnicy ?
+!!@VERSE:Oj jeden poszed na ptaki,
+!!a ten drugi na zające,
+!!a ten trzeci pasie wołki
+!!na zielonéj łące.
+!!@@END: VERSES
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=48 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 32} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 32}
+!!!page: 32
+!!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-21-02

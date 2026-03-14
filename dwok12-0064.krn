@@ -1,0 +1,92 @@
+!!!!SEGMENT: DWOK1206400000-a_na_tej_lacce_na_tej_zielunej.krn
+!!!OTL: A na tej łącce, na tej zielunej
+!!!source: DWOK12
+!!!id: 12064
+!!!signature: 1206400000
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16gL	A
+16bJ	.
+8dd	na
+8ff	téj
+=2	=2
+4ee	łące,
+8cc	.
+=3	=3
+8ee	na
+8gg	téj
+8ff	zie-
+=4	=4
+16ddL	-lu-
+16bJ	.
+4g	-néj,
+=5	=5
+8ee	lezy
+8cc	.
+8cc}	tam
+!!LO:LB:g=esac
+=6	=6
+{8f	mój
+8a	Jasio
+8a	.
+=7	=7
+16f	zbity,
+16a	.
+8cc	zakrwa-
+8ee	.
+=8	=8
+16ddL	-wióny.
+16bJ	.
+4g	.
+=9	=9
+8ee	lezy
+8cc	.
+8cc	tam
+=10	=10
+8aL	mój
+8aJ	Jasio
+8a	.
+=11	=11
+16fL	zbity,
+16aJ\	.
+8cc	zakrwa-
+8ee	.
+=12	=12
+16ddL	-wióny.
+16bJ	.
+4g}	.
+==	==
+*-	*-
+!!@@BEGIN:
+!!@COMMENTARY: od Czarnkowa (Rosko).
+!!@@END:
+!!!role-singer: Mistress, Lover
+!!!role-listener: Family, Mistress, Lover
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:A na téj łące, na téj zielonéj,
+!!lezy tam mój Jasio zbity, zakrwawióny.
+!!@VERSE:Przysed do niego — tatusiek jego,
+!!płace go, krzycy go, załuje jego.
+!!@VERSE:O mój tatuśku, a idź prec ode mnie,
+!!boć moje serce rozsiądz sie chce we mnie,
+!!(przysed: braciszek, matusia, siostrzycka i t. d.)
+!!@VERSE:Przysła do niego — kochanka jego,
+!!płace go, krzycy go, załuje jego.
+!!@VERSE:Moja kochanko, przyjdź blizy do mnie,
+!!boć moje serce rozweseli się we mnie.
+!!@VERSE:Ty-ć mię pociesas, krewnych zasmücas,
+!!a z ciebie Jasińkö juz nic nie bedzie.
+!!@@END: VERSES
+!!!ONB: moze zapisac od G?
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=44 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 28} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 28}
+!!!page: 28
+!!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-21-02

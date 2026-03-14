@@ -1,0 +1,111 @@
+!!!!SEGMENT: DWOK120700000-po_polu_po_lesie_spiewaja_slowiki.krn
+!!!OTL: Po polu po lesie, śpiewają słowiki
+!!!source: DWOK12
+!!!id: 12070
+!!!signature: 120700000
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16f	Po
+16a	polu
+4cc	.
+=2	=2
+8ff	po
+8ff	lesie,
+16eeL	.
+16ddJ	.
+=3	=3
+16cc	śpiewają
+16dd	.
+4b-	.
+=4	=4
+8g	słowiki,
+8a	.
+8f}	.
+!!LO:LB:g=esac
+=5	=5
+{8eq	.
+16f	gdzie
+16a	się
+4cc	o-
+=6	=6
+8f	-bracają
+8a	.
+16aL	.
+16b-J	.
+=7	=7
+16cc	moje
+16dd	.
+4b-	za-
+=8	=8
+8g	-lotniki.
+8a	.
+8f}	.
+!!LO:LB:g=esac
+=9	=9
+{8eq	.
+16f	gdzie
+16a	się
+4cc	o-
+=10	=10
+8f	-bracają
+8a	.
+16aL	.
+16b-J	.
+=11	=11
+16cc	moje
+16dd	.
+8.b-L	za-
+16aJ	.
+=12	=12
+8g	-lotniki.
+8a	.
+8f}	.
+==	==
+*-	*-
+!!@@BEGIN:
+!!@COMMENTARY: Morownica, Machcin.
+!!@@END:
+!!!role-singer: Mistress, Lover
+!!!role-listener: Lover, Mistress
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:Po polu po lesie,
+!!śpiewają słowiki,
+!!gdzie się obracają
+!!moje zalotniki.
+!!@VERSE:Jeden szed na ryby,
+!!drugi na zające,
+!!trzeci pasie kónie
+!!na zielonéj łące.
+!!@VERSE:Uwiózał, uwiózał
+!!konia u jawora,
+!!poszed się zalécać
+!!do dziewuk do dwora.
+!!@VERSE:Uwiózał, uwiózał
+!!kóniki u kruszki,
+!!poszed się zalécać
+!!do dwora do Zuski.
+!!@VERSE:Siekiéreczka tónie,
+!!toporzysko pływa, —
+!!powiédz mi dziéwulo,
+!!chtóż u ciebie bywa?
+!!@VERSE:Nie powiem, nie powiem;
+!!o niczém ja nie wiem;
+!!o niczém wiedziała,
+!!zaczém cię poznała.
+!!@VERSE:Niepodobne rzeczy,
+!!żebyś nie wiedziała;
+!!musisz mi powiedzieć,
+!!komuś gęby dała?
+!!@@END: VERSES
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=47 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 31} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 31}
+!!!page: 31
+!!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-21-02

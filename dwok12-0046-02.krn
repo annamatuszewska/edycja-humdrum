@@ -1,0 +1,134 @@
+!!!!SEGMENT: DWOK1204600002-zielona_lipka_jalowiec_jalowiec.krn
+!!!OTL: Zielona lipka jałowiec, jałowiec
+!!!source: DWOK12
+!!!id: 12046
+!!!signature: 1204600002
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{8cc	Zielona
+8ee	.
+8ee	.
+=2	=2
+4ee	lipka
+8b	.
+=3	=3
+16g#	jałowiec,
+16b	.
+4dd	.
+=4	=4
+16cc	jałowiec,
+16b	.
+4a}	.
+!!LO:LB:g=esac
+=5	=5
+{8a	lepszy
+8cc	.
+8a	mło-
+=6	=6
+4b	dzieniec
+8e	.
+=7	=7
+16g#	niż
+16b	wdowiec,
+4dd	.
+=8	=8
+16cc	niż
+16b	wdowiec.
+4a}	.
+!!LO:LB:g=esac
+=9	=9
+{8cc	Zielona
+8ee	.
+16eeL	.
+16dd#J/	.
+=10	=10
+4ee	lipka
+8b	.
+=11	=11
+16g#	modry
+16b	.
+4dd	kwiat,
+=12	=12
+16ccL	modry
+16ccJ/	.
+4a}	kwiat,
+!!LO:LB:g=esac
+=13	=13
+{8a	wędruj
+8cc	.
+8a	dzie-
+=14	=14
+4b	wucho
+8e	.
+=15	=15
+16g#	ze
+16b	mną
+4dd	w świat,
+=16	=16
+16cc	ze
+16b	mną
+4a}	w świat.
+!!LO:LB:g=esac
+=17	=17
+{8ee	Dawno
+8dd#	.
+8ee	się
+=18	=18
+8ccL	ludzie
+8b	.
+8aJ	.
+=19	=19
+8ee	dziwują,
+8dd#	.
+8ee	.
+=20	=20
+16ffL	dzi-
+16eeJ/	.
+16ddL	wu-
+16ccJ/	.
+16bL	ją,
+16a}J	.
+!!LO:LB:g=esac
+=21	=21
+{8eL	że
+8g#	dwa
+8bJ/	mło-
+=22	=22
+8a	dzieniaszki
+8cc	.
+8ee	.
+=23	=23
+8g#	wędrują,
+8b	.
+8dd	.
+=24	=24
+8cc	wędrują.
+8b	.
+8a}	.
+==	==
+*-	*-
+!!@@BEGIN:
+!!@COMMENTARY: Morownica.
+!!@@END:
+!!!role-singer: Maiden
+!!!role-listener: Group
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:Zielona lipka jałowiec, jałowiec,
+!!lepszy młodzieniec niż wdowiec, niż wdowiec.
+!!Zielona lipka modry kwiat, modry kwiat,
+!!wędruj dziewucho ze mną w świat, ze mną w świat.
+!!Dawno się ludzie dziwują, dziwują,
+!!że dwa młodzieniaszki wędrują, wędrują.
+!!@@END: VERSES
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=37 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 21} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 21}
+!!!page: 21
+!!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-19-02

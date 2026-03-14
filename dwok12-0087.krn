@@ -1,0 +1,97 @@
+!!!!SEGMENT: DWOK1208700000-hej_na_gorze_debina.krn
+!!!OTL: Hej na górze dębina
+!!!source: DWOK12
+!!!id: 12087
+!!!signature: 1208700000
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16f	Hej
+16g	na
+8a	górze
+8a	.
+=2	=2
+8g	dębina,
+8e	.
+8c	.
+=3	=3
+16e	przy
+16g	dębinie
+8b-	.
+8b-	.
+=4	=4
+8a	dolina,
+8cc	.
+8cc}	.
+!!LO:LB:g=esac
+=5	=5
+{16a	przy
+16cc	dolinie
+8ff	.
+8ff	.
+=6	=6
+8dd	staweczek,
+8dd	.
+8b-	.
+=7	=7
+16g	przy
+16dd	staweczku
+8cc	.
+8e	.
+=8	=8
+8f	młyneczek,
+8a	.
+8cc}	.
+!!LO:LB:g=esac
+=9	=9
+{16a	przy
+16cc	dolinie
+8ff	.
+8ff	.
+=10	=10
+8dd	staweczek,
+8dd	.
+8b-	.
+=11	=11
+16g	przy
+16dd	staweczku
+8cc	.
+8e	.
+=12	=12
+8g	młyneczek.
+8a	.
+8f}	.
+==	==
+*-	*-
+!!@@BEGIN:
+!!@COMMENTARY: od Poznania.
+!!@@END:
+!!!role-singer: Group
+!!!role-listener: Group
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:Hej na górze dębina,
+!!przy dębinie dolina,
+!!przy dolinie staweczek,
+!!przy staweczku młyneczek, młyneczek.
+!!@VERSE:A w młyneczku młynarka,
+!!u młynarki cór parka.
+!!Jednéj imię Jagusia,
+!!drugiéj imię Hanusia,
+!!Hanusia, Hanusia,
+!!@VERSE:Téj smakował chléb miejski,
+!!a téj drugiéj chléb wiejski.
+!!Ta na miejskim nie hoża,
+!!ta na wiejskim jak róża,
+!!jak róża, jak róża.
+!!@@END: VERSES
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=56 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 40} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 40}
+!!!page: 40
+!!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-21-02
