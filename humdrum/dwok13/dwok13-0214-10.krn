@@ -15,8 +15,8 @@
 16ff/L	.
 16ee/J	.
 =	=
-24dd/L	to
-24ee/J	.
+(>24dd/L	to
+24ee/J)	.
 24dd/	dziewu-
 8cc/	.
 16ee/L	-lę,
@@ -52,6 +52,7 @@
 16gJ}\	.
 ==	==
 *-	*-
+!!!RDF**kern: >= above
 !!@@BEGIN: VERSES
 !!1. Oj poznać to dziewulę,
 !!która poćciwa, poćciwa,
@@ -72,3 +73,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-05
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-13

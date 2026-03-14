@@ -9,8 +9,8 @@
 *C:
 *M3/8
 =1
-{8g
-16eeL
+{8g`>
+(16eeL
 16g\
 16ee
 16ggJ
@@ -19,10 +19,10 @@
 16g\
 16ff
 16aa
-8ggJ
+8ggJ)
 =3
-8g
-16eeL
+8g`>
+(16eeL
 16g\
 16ee
 16ggJ
@@ -31,20 +31,22 @@
 16g\
 16ff
 16aa
-8gg}J
+8ggJ)}
 !!LO:LB:g=esac
 =5
-{8g
-16eeL
+{8g`>
+(16eeL
 16g\
 16ee
-16ggJ
+16ggJ)^<
 =6
-8ff
-8b/L
-8cc/J}
+8ff`>
+8b/L^
+8cc/J^}
 ==
 *-
+!!!RDF**kern: >= above
+!!!RDF**kern: <= below
 !!!ONB: Partia instrumentalna
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -53,3 +55,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-04
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-13
