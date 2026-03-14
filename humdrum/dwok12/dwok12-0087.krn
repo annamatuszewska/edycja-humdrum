@@ -23,12 +23,12 @@
 8b-	.
 8b-	.
 =4	=4
-8a	dolina,
+8a\	dolina,
 8cc	.
 8cc}	.
 !!LO:LB:g=esac
 =5	=5
-{16a	przy
+{16a\	przy
 16cc	dolinie
 8ff	.
 8ff	.
@@ -47,7 +47,7 @@
 8cc}	.
 !!LO:LB:g=esac
 =9	=9
-{16a	przy
+{16a\	przy
 16cc	dolinie
 8ff	.
 8ff	.
@@ -66,12 +66,7 @@
 8f}	.
 ==	==
 *-	*-
-!!@@BEGIN:
-!!@COMMENTARY: od Poznania.
-!!@@END:
-!!!role-singer: Group
-!!!role-listener: Group
-!!!singer-sex: female, male
+!!!role-singer: Narrator
 !!@@BEGIN: VERSES
 !!@VERSE:Hej na górze dębina,
 !!przy dębinie dolina,
@@ -94,4 +89,4 @@
 !!!page: 40
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
-!!!END: 2026-21-02
+!!!END: 2026-02-21

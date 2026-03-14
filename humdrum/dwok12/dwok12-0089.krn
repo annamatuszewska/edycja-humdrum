@@ -29,7 +29,7 @@
 =5	=5
 {8d	skorno
 8cc	.
-8cc	z łóżka
+8cc	z_łóżka
 8ee	.
 =6	=6
 4.dd	wstanie,
@@ -47,21 +47,21 @@
 {8d	Woli
 8cc	.
 8cc	we
-8a	źwier-
+8a\	źwier-
 =10	=10
 8b	-ciadle
 8b	.
 8dd	siedzieć,
 8b	.
 =11	=11
-8b	w domu
+8b	w_domu
 8a	.
 8a	ni
 8a	o
 =12	=12
 8g	cém
 8g	nie
-8b	wiedzieć,
+8b/	wiedzieć,
 8g}	.
 !!LO:LB:g=esac
 =13	=13
@@ -78,8 +78,8 @@
 8cc	-spoda-
 8cc	.
 =16	=16
-4b	-rzowi.
-4dd}	.
+4b/	-rzowi.
+4dd/}	.
 !!LO:LB:g=esac
 =17	=17
 {8a	.
@@ -90,18 +90,15 @@
 4d	.
 4g	.
 =19	=19
-8a	.
-8a	.
+8a\	.
+8a\	.
 8cc	.
 8f#	.
 =20	=20
-4g	.
-4g}	.
+4g\	.
+4g\}	.
 ==	==
 *-	*-
-!!@@BEGIN:
-!!@COMMENTARY: od Krotoszyna.
-!!@@END:
 !!!role-singer: Lover
 !!!role-listener: God
 !!!singer-sex: male
@@ -137,4 +134,6 @@
 !!!page: 41
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
-!!!END: 2026-21-02
+!!!END: 2026-02-21
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

@@ -10,7 +10,7 @@
 *M3/8	*
 =1	=1
 {16g	Z
-16b	téj
+16b/	téj
 8dd	tam
 8dd	strony
 =2	=2
@@ -27,7 +27,7 @@
 8a	.
 =5	=5
 4g	Kasia
-8b	.
+8b/	.
 =6	=6
 4dd	pasła
 8gg	.
@@ -45,7 +45,7 @@
 !!LO:LB:g=esac
 =10	=10
 {16g	Z
-16b	téj
+16b/	téj
 8dd	tam
 16ddL	strony
 16bJ/	.
@@ -62,8 +62,8 @@
 {4cc	pasła
 8a	.
 =14	=14
-4f#	Kasia
-8d	.
+4f#\	Kasia
+8d\	.
 =15	=15
 4dd	pasła
 8gg	.
@@ -80,9 +80,6 @@
 4g}	.
 ==	==
 *-	*-
-!!@@BEGIN:
-!!@COMMENTARY: od Rawicza (Pakosław).
-!!@@END:
 !!!role-singer: Group
 !!!role-listener: Group
 !!!singer-sex: female, male
@@ -102,4 +99,6 @@
 !!!page: 33
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
-!!!END: 2026-21-02
+!!!END: 2026-02-21
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

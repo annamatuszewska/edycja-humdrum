@@ -32,7 +32,7 @@
 =6	=6
 8a	nie
 8cc	cierpiał
-16bL	.
+16b\L	.
 16aJ	.
 =7	=7
 16g	dłużéj
@@ -44,27 +44,24 @@
 4gg}	-dzy.
 !!LO:LB:g=esac
 =9	=9
-{8ggL	Ach
+{8gg/L	Ach
 8eeJ	mój
 8cc	mo-
 =10	=10
-8a	-cny
+8a\	-cny
 8cc	Boże,
-16bL	.
+16b\L	.
 16aJ	.
 =11	=11
 16g	któż
 16g	mnie
-8a	więc
-8b	wspo-
+8a\	więc
+8b\	wspo-
 =12	=12
 8dd	-może.
 4cc}	.
 ==	==
 *-	*-
-!!@@BEGIN:
-!!@COMMENTARY: od Kościana.
-!!@@END:
 !!!role-singer: Lover
 !!!role-listener: God
 !!!singer-sex: male
@@ -98,4 +95,6 @@
 !!!page: 40
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
-!!!END: 2026-21-02
+!!!END: 2026-02-21
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

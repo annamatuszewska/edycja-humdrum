@@ -19,7 +19,7 @@
 4g	.
 =3	=3
 4.a	oj
-8a	w ty
+8a	w_ty
 8cc	jary
 8a	.
 =4	=4
@@ -41,8 +41,8 @@
 =7	=7
 (4.cc	da
 8a)	ci
-8d	moji
-8f	.
+8d\	moji
+8f\	.
 =8	=8
 8a	zalotnicy?
 8g	.
@@ -69,4 +69,6 @@
 !!!page: 32
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
-!!!END: 2026-21-02
+!!!END: 2026-02-21
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

@@ -17,10 +17,10 @@
 8g	Jezu,
 8g	.
 =3	=3
-16a	żonkę
-16g	.
-8f#	jak
-8a	naj-
+16a\	żonkę
+16g\	.
+8f#\	jak
+8a\	naj-
 =4	=4
 8cc	-prędzy,
 4b}	.
@@ -34,9 +34,9 @@
 8g	dłuży
 8g	.
 =7	=7
-16ccL	nie
+16cc/L	nie
 16ccJ	cierpiał
-8ccL	.
+8cc/L	.
 8ccJ	téj
 =8	=8
 8cc	nędzy.
@@ -61,7 +61,7 @@
 =12	=12
 16d	-ty
 16g	wyciérać,
-8bL	.
+8b/L	.
 8dd}J	.
 !!LO:LB:g=esac
 =13	=13
@@ -83,9 +83,6 @@
 8r	.
 ==	==
 *-	*-
-!!@@BEGIN:
-!!@COMMENTARY: od Czempina (Brodnica).
-!!@@END:
 !!!role-singer: Lover
 !!!role-listener: God
 !!!singer-sex: male
@@ -127,4 +124,6 @@
 !!!page: 41-42
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
-!!!END: 2026-21-02
+!!!END: 2026-02-21
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

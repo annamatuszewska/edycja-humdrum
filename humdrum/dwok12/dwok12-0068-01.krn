@@ -31,8 +31,8 @@
 =5	=5
 {8cc	jeże-
 8g	.
-16f	-li
-16d	wy
+16f\	-li
+16d\	wy
 =6	=6
 16e	mnie
 16f	kochacie,
@@ -41,8 +41,8 @@
 =7	=7
 16a	ojca,
 16a	.
-8a	matki
-8b	.
+8a\	matki
+8b\	.
 =8	=8
 8cc	proście.
 4g}	.
@@ -67,11 +67,8 @@
 4g}	.
 ==	==
 *-	*-
-!!@@BEGIN:
-!!@COMMENTARY: od Trzemeszna (Orchowo).
-!!@@END:
-!!!role-singer: Mistress
-!!!role-listener: Old Lover
+!!!role-singer: Mistress, Lover
+!!!role-listener: Old Lover, Complex
 !!!singer-sex: female
 !!@@BEGIN: VERSES
 !!@VERSE:Pocóżeście przyjechali
@@ -114,4 +111,6 @@
 !!!page: 30
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
-!!!END: 2026-21-02
+!!!END: 2026-02-21
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

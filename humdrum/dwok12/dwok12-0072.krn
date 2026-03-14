@@ -9,12 +9,12 @@
 *G:	*
 *M3/8	*
 =1	=1
-{16b	Z tamtéj
+{16b	Z_tamtéj
 16cc	.
 8dd	strony
 8dd	.
 =2	=2
-16b	Z tamtéj
+16b	z_tamtéj
 16cc	.
 8dd	strony
 8dd	.
@@ -61,12 +61,9 @@
 8r	.
 ==	==
 *-	*-
-!!@@BEGIN:
-!!@COMMENTARY: od Gniezna.
-!!@@END:
-!!!role-singer: Group
+!!!role-singer: Narrator, Young girl
 !!!role-listener: Group
-!!!singer-sex: female, male
+!!!singer-sex: female
 !!@@BEGIN: VERSES
 !!@VERSE:Ztamtéj strony (:) zieleni się trawa;
 !!pasała panna,
@@ -102,4 +99,6 @@
 !!!page: 32
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
-!!!END: 2026-21-02
+!!!END: 2026-02-21
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

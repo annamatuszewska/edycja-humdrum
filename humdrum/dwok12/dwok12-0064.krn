@@ -30,12 +30,12 @@
 8cc}	tam
 !!LO:LB:g=esac
 =6	=6
-{8f	mój
-8a	Jasio
-8a	.
+{8f\	mój
+8a\	Jasio
+8a\	.
 =7	=7
-16f	zbity,
-16a	.
+16f\L	zbity,
+16aJ	.
 8cc	zakrwa-
 8ee	.
 =8	=8
@@ -51,8 +51,8 @@
 8aJ	Jasio
 8a	.
 =11	=11
-16fL	zbity,
-16aJ\	.
+16f	zbity,
+16a	.
 8cc	zakrwa-
 8ee	.
 =12	=12
@@ -61,9 +61,6 @@
 4g}	.
 ==	==
 *-	*-
-!!@@BEGIN:
-!!@COMMENTARY: od Czarnkowa (Rosko).
-!!@@END:
 !!!role-singer: Mistress, Lover
 !!!role-listener: Family, Mistress, Lover
 !!!singer-sex: female, male
@@ -89,4 +86,6 @@
 !!!page: 28
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
-!!!END: 2026-21-02
+!!!END: 2026-02-21
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

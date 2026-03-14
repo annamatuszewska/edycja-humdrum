@@ -70,12 +70,8 @@
 4e}	.
 ==	==
 *-	*-
-!!@@BEGIN:
-!!@COMMENTARY: od Znina, Barcina.
-!!@@END:
 !!!role-singer: Group
-!!!role-listener: Group
-!!!singer-sex: female, male
+!!!role-listener: Enamoured
 !!@@BEGIN: VERSES
 !!@VERSE:Pocóżeście przyjechali
 !!kiedy my wam nie kazali,
@@ -100,4 +96,6 @@
 !!!page: 31
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
-!!!END: 2026-21-02
+!!!END: 2026-02-21
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

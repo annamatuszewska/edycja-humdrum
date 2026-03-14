@@ -21,8 +21,8 @@
 8gg	dana
 8aa	.
 =3	=3
-8g	dacie
-8g	.
+8g\	dacie
+8g\	.
 4ff	mi
 4ff	ją
 =4	=4
@@ -32,10 +32,10 @@
 4r	.
 !!LO:LB:g=esac
 =5	=5
-{8ddL	w tym
+{8ddL	w_tym
 8ddJ/	czerwonym
-4ff	.
-4aa	.
+4ff/	.
+4aa/	.
 =6	=6
 8gg	kabacie.
 8ee	.
@@ -88,12 +88,6 @@
 4r	.
 ==	==
 *-	*-
-!!@@BEGIN:
-!!@COMMENTARY: od Szmigla (Morownica).
-!!@@END:
-!!!role-singer: Lover
-!!!role-listener: Parents in law
-!!!singer-sex: male
 !!@@BEGIN: VERSES
 !!@VERSE:Dacie mi ją nie dacie,
 !!da dana dacie mi ją nie dacie,
@@ -108,4 +102,6 @@
 !!!page: 35
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
-!!!END: 2026-21-02
+!!!END: 2026-02-21
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

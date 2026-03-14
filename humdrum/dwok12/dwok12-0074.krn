@@ -43,7 +43,7 @@
 4g	panna
 8d	.
 =9	=9
-4a	pasła
+4a\	pasła
 8cc	.
 =10	=10
 4ee	panna
@@ -51,8 +51,8 @@
 =11	=11
 16dd	prześlicznego
 16cc	.
-8a	.
-8f#	.
+8a\	.
+8f#\	.
 =12	=12
 8g	pawa.
 4d}	.
@@ -64,8 +64,8 @@
 4g	panna
 8d	.
 =15	=15
-4a	pasła
-8cc	.
+4a\	pasła
+8cc\	.
 =16	=16
 4ee	panna
 8dd	.
@@ -79,12 +79,8 @@
 4g}	.
 ==	==
 *-	*-
-!!@@BEGIN:
-!!@COMMENTARY: od Szremu, Kościana.
-!!@@END:
-!!!role-singer: Group
-!!!role-listener: Group
-!!!singer-sex: female, male
+!!!role-singer: Narrator, Young Girl
+!!!singer-sex: female, complex
 !!@@BEGIN: VERSES
 !!@VERSE:Przede dworem — zieleni się trawa, (:)
 !!pasła panna — prześlicznego pawa. (:)
@@ -107,4 +103,6 @@
 !!!page: 34
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
-!!!END: 2026-21-02
+!!!END: 2026-02-21
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

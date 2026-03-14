@@ -47,7 +47,7 @@
 8g	.
 =8	=8
 8a	-nąć
-8b	nie
+8b/	nie
 4f#	mogę.
 4g}	.
 !!LO:LB:g=esac
@@ -64,18 +64,15 @@
 =11	=11
 (4.a	prze-
 8d)	.
-8f#	-pły-
-8g	.
+8f#L	-pły-
+8gJ	.
 =12	=12
 8a	-nąć
-8b	nie
+8b/	nie
 4f#	mogę.
 4g}	.
 ==	==
 *-	*-
-!!@@BEGIN:
-!!@COMMENTARY: od Gołańczy (Czeszewo).
-!!@@END:
 !!!role-singer: Lover, Mistress
 !!!role-listener: Mistress, Mistresses
 !!!singer-sex: male, female
@@ -107,4 +104,6 @@
 !!!page: 27
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
-!!!END: 2026-20-02
+!!!END: 2026-02-20
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

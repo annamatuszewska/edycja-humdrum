@@ -9,7 +9,7 @@
 *G:	*
 *M3/8	*
 =1	=1
-{16a	Kosniki
+{16a\	Kosniki
 16cc	.
 4ee	.
 =2	=2
@@ -53,9 +53,6 @@
 4.g}	ją.
 ==	==
 *-	*-
-!!@@BEGIN:
-!!@COMMENTARY: od Dolska.
-!!@@END:
 !!!role-singer: Lover
 !!!role-listener: Group
 !!!singer-sex: male
@@ -74,4 +71,6 @@
 !!!page: 34
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
-!!!END: 2026-21-02
+!!!END: 2026-02-21
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

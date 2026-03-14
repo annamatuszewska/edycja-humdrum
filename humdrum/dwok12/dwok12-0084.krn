@@ -24,7 +24,7 @@
 4a	.
 4f#	tu
 =4	=4
-8aL	goście.
+8a\L	goście.
 8bJ	.
 4g}	.
 4r	.
@@ -41,12 +41,12 @@
 =7	=7
 8bL	brat
 8ccJ	.
-4a	jego
+4a\	jego
 8ccq	.
-4b	.
+4b\	.
 =8	=8
-4g	w pośrodku,
-4b	.
+4g	w
+4b	pośrodku,
 4dd}	.
 !!LO:LB:g=esac
 =9	=9
@@ -62,15 +62,12 @@
 4a	na
 2f#	o-
 =12	=12
-8aL	.
+8a\L	.
 8bJ	-stat-
 4g}	.
 4r	-ku.
 ==	==
 *-	*-
-!!@@BEGIN:
-!!@COMMENTARY: od Kostrzyna (Nekla).
-!!@@END:
 !!!role-singer: Mistress
 !!!role-listener: Mother
 !!!singer-sex: female
@@ -109,4 +106,6 @@
 !!!page: 39
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
-!!!END: 2026-21-02
+!!!END: 2026-02-21
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

@@ -21,7 +21,7 @@
 =3	=3
 16cc	pojadę,
 16b	.
-4a}	.
+4a\}	.
 !!LO:LB:g=esac
 =4	=4
 {16d	a
@@ -30,18 +30,15 @@
 8a	ja
 =5	=5
 16a	na
-16b	koniki
+16b/	koniki
 8g	.
 8g	.
 =6	=6
-16b	na
+16b/	na
 16a	gniade.
 4g}	.
 ==	==
 *-	*-
-!!@@BEGIN:
-!!@COMMENTARY: od Kobylina (Ochla, Targoszyce).
-!!@@END:
 !!!role-singer: Lover, Mistresses
 !!!role-listener: Mistresses, Lover
 !!!singer-sex: male, female
@@ -63,4 +60,6 @@
 !!!page: 26
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
-!!!END: 2026-20-02
+!!!END: 2026-02-20
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

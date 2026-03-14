@@ -13,7 +13,7 @@
 8ee	na
 =2	=2
 4ff#	łące
-8ee	..
+8ee	.
 =3	=3
 8dd	a
 8dd	na
@@ -21,7 +21,7 @@
 =4	=4
 8.ccL	-lo-
 16bJ	.
-8a	-néj,
+8a\	-néj,
 =5	=5
 8b	leży
 8dd	.
@@ -33,7 +33,7 @@
 =7	=7
 8dd	bardzo
 8b	.
-8g#	zra-
+8g#\	zra-
 =8	=8
 4a	-niony.
 8a	.
@@ -42,16 +42,16 @@
 8b	.
 8dd	do
 =10	=10
-4cc	niego
-8a}	.
+4cc\	niego
+8a\}	.
 !!LO:LB:g=esac
 =11	=11
 {8b	Kasiula
 8b	.
 8dd	.
 =12	=12
-4cc	jego,
-8a	.
+4cc\	jego,
+8a\	.
 =13	=13
 8b	płacze,
 8dd	.
@@ -60,20 +60,14 @@
 4ee	-rzéka,
 8dd	.
 =15	=15
-8dd	i
-8b	ża-
-8g#	-łu-
+8dd\	i
+8b\	ża-
+8g#\	-łu-
 =16	=16
 4a	-je
 8a}	go.
 ==	==
 *-	*-
-!!@@BEGIN:
-!!@COMMENTARY: Morownica.
-!!@@END:
-!!!role-singer: Group
-!!!role-listener: Group
-!!!singer-sex: female, male
 !!@@BEGIN: VERSES
 !!@VERSE:Oj na tej łące a na zielonéj,
 !!leży tam Jasieńko bardzo zraniony.
@@ -86,4 +80,6 @@
 !!!page: 28
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
-!!!END: 2026-21-02
+!!!END: 2026-02-21
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

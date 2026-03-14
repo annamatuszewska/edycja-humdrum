@@ -25,7 +25,7 @@
 16b	dziewczynę
 8b	.
 8b	.
-8f#	w zielo-
+8f#	w_zielo-
 8f#	.
 =4	=4
 4a	-nym
@@ -68,7 +68,7 @@
 8ee	dacie,
 8cc#	.
 =10	=10
-8eeL	czy
+8ee/L	czy
 8eeJ	.
 8ee	nie
 8dd	dacie?
@@ -114,9 +114,6 @@
 4e}	.
 ==	==
 *-	*-
-!!@@BEGIN:
-!!@COMMENTARY: od Szremu, Czempina (Brodnica).
-!!@@END:
 !!!role-singer: Lover
 !!!role-listener: Parents in law
 !!!singer-sex: male
@@ -138,4 +135,6 @@
 !!!page: 35
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
-!!!END: 2026-21-02
+!!!END: 2026-02-21
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

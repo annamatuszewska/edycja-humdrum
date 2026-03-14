@@ -26,16 +26,16 @@
 =4	=4
 {16cc	wezmę
 16dd	.
-8ee	z sobą
+8ee	z_sobą
 8ee	.
 =5	=5
 8dd	pisto-
 8dd	.
-16b	-letek
+16b/	-letek
 16g	.
 =6	=6
 16a	i
-16b	sablę.
+16b/	sablę.
 4g}	.
 !!LO:LB:g=esac
 =7	=7
@@ -64,14 +64,11 @@
 16f#	.
 16d	.
 =12	=12
-16a	nakryją.
+16a\	nakryją.
 16b	.
 4g}	.
 ==	==
 *-	*-
-!!@@BEGIN:
-!!@COMMENTARY: od Ostrzeszowa.
-!!@@END:
 !!!role-singer: Lover, Mistresses
 !!!role-listener: Mistresses, Lover
 !!!singer-sex: male, female
@@ -94,4 +91,6 @@
 !!!page: 26
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
-!!!END: 2026-20-02
+!!!END: 2026-02-20
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

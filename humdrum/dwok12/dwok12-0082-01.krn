@@ -18,25 +18,25 @@
 4dd	matko
 8cc	.
 =3	=3
-8a	goście
-8a	.
-8b	ja-
+8a\	goście
+8a\	.
+8b\	ja-
 =4	=4
 4g}	-dą!
 8r	.
 !!LO:LB:g=esac
 =5	=5
-{8b	Murawiec
-8a	.
-8a	.
+{8b\	Murawiec
+8a\	.
+8a\	.
 =6	=6
 8ee	na
 8dd	przodku,
 8dd	.
 =7	=7
-8b	je-
-8a	-go
-8a	brat
+8b\	je-
+8a\	-go
+8a\	brat
 =8	=8
 8g	w pośrodku,
 8d	.
@@ -52,17 +52,14 @@
 4dd	-lejszy
 8cc	.
 =11	=11
-8a	na
-8a	o-
-8b	-stat-
+8a\	na
+8a\	o-
+8b\	-stat-
 =12	=12
 4g}	-ku.
 8r	.
 ==	==
 *-	*-
-!!@@BEGIN:
-!!@COMMENTARY: od Zerkowa.
-!!@@END:
 !!!role-singer: Mistress
 !!!role-listener: Mother
 !!!singer-sex: female
@@ -103,4 +100,6 @@
 !!!page: 37
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
-!!!END: 2026-21-02
+!!!END: 2026-02-21
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23
