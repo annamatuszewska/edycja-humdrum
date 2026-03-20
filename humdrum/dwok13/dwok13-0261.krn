@@ -3,56 +3,66 @@
 !!!source: DWOK13
 !!!id: 13261
 !!!signature: 1326100000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{8ff
-8ee
-8g
-=2
-16b
-16dd
-8cc
-8gg}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{8ff	Oj
+8ee	ga-
+8g	-da
+=2	=2
+16b	mo-
+16dd	-ja
+8cc/L	ga-
+8gg}/J	-da,
 !!LO:LB:g=esac
-=3
-{16ff
-16ff
-8ee
-8g
-=4
-16b
-16dd
-8b
-8cc}
+=3	=3
+{16ffL/	da
+16ff/J	.
+8ee	że
+8g	się
+=4	=4
+16b	nie
+16dd	na-
+8b	-ja-
+8cc}	-da.
 !!LO:LB:g=esac
-=5
-{8a
-8b
-8g
-=6
-16b
-16dd
-8cc
-8g}
+=5	=5
+{8a\	Oj
+8b	a
+8g	ja
+=6	=6
+16b	je-
+16dd	-ji
+8cc/L	da-
+8g}J	-ję
 !!LO:LB:g=esac
-=7
-{16a
-16a
-8b
-8g
-=8
-16b
-16dd
-8b
-8cc}
-==
-*-
+=7	=7
+{16aL	obiad,
+16aJ	.
+8b	wieczerz
+8g	.
+=8	=8
+16b	i
+16dd	śnia-
+8b	-da-
+8cc}	-nie.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oj gada moja gada,
+!!da że się nie najada.
+!!Oj a ja jeji daję
+!!obiad, wieczerz i śniadanie.
+!!@@END: VERSES
+!!!role-singer: Husband
+!!!singer-sex: male 
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=148 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 124} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 124}
 !!!page: 124
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-11

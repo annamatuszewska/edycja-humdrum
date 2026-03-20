@@ -3,56 +3,77 @@
 !!!source: DWOK13
 !!!id: 13235
 !!!signature: 1323500000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8.dd
-16b
-16b
-16a
-=2
-16cc
-16a
-8a
-8g
-=3
-8.b
-16d
-16f#
-16a
-=4
-16cc
-16a
-8a
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8.dd/	.
+16b/	.
+16b/	.
+16a	.
+=2	=2
+16cc	.
+16a	.
+8a	.
+8g	.
+=3	=3
+8.b	.
+16d\	.
+16f#\L	.
+16a\J	.
+=4	=4
+16cc	.
+16a	.
+8a	.
+8g}	.
 !!LO:LB:g=esac
-=5
-{8.b
-16d
-16f#
-16a
-=6
-16cc
-16ee
-8dd
-8dd
-=7
-8.b
-16d
-16f#
-16a
-=8
-16cc
-16a
-8a
-8g}
-==
-*-
+=5	=5
+{8.b	.
+16d	.
+16f#	.
+16a	.
+=6	=6
+16cc/L	.
+16ee/J	.
+8dd/L	.
+8eeq	.
+8dd/J	.
+=7	=7
+8.b	.
+16d	.
+16f#	.
+16a	.
+=8	=8
+16cc	.
+16a\	.
+8a\	.
+8g}\	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj i wszyskie konie dobre
+!!da i najlepszy mój kasztan,
+!!gdzie ja jadę, to ja jadę,
+!!to mi wszędzie mówią: waspan.
+!!@VERSE:
+!!2. Gdzie ja jadę to ja jadę,
+!!to mi wszędzie dziewki rade.
+!!Jeść mi dadzą, pić mi dadzą
+!!do łóżeczka odprowadzą.
+!!@VERSE:
+!!3. A łóżeczko malowane,
+!!poduszeczki sznurowane.
+!!A któż ci je usznurował?
+!!Ten kochanek co wędrował.
+!!@@END: VERSES
+!!!role-singer: Lover, Mistress
+!!!singer-sex: male, female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=138 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 114} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 114}
 !!!page: 114
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-09

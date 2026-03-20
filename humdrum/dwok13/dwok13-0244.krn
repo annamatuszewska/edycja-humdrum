@@ -3,76 +3,96 @@
 !!!source: DWOK13
 !!!id: 13244
 !!!signature: 1324400000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{4dd
-4b
-4dd
-=2
-8cc#
-8dd
-4ee
-4cc
-=3
-4dd
-4b
-4g
-=4
-8f#
-8g
-4a
-4d}
+**kern	**text	**text
+*clefG2	*	*
+*k[f#]	*	*
+*G:	*	*
+*M3/4	*	*
+=1	=1	=1
+{4dd	Oj	Oj
+4b	o-	o-
+4dd	-rać	-rze
+=2	=2	=2
+8cc#	chło-	Ja-
+8dd	-pku	-sio
+4ee	o-	o-
+4cc	-rać,	-rze
+=3	=3	=3
+4dd	da	na
+4b	nie	zie-
+4g	żon-	-lo-
+=4	=4	=4
+8f#	-ki	-nym
+8g	pil-	u-
+4a	-no-	-go-
+4d}	-wać,	-rze,
 !!LO:LB:g=esac
-=5
-{4g
-4d
-4g
-=6
-8b
-8dd
-4cc
-4a
-=7
-4g
-4d
-4g
-=8
-8b
-8dd
-4cc
-4a}
+=5	=5	=5
+8f#q	.	.
+{4g	bo	kół-
+4d	żon-	-ka(mu)
+8f#q	.	.
+4g	-ka	się
+=6	=6	=6
+8b	nie	po-
+8dd	u-	-ła-
+4cc	-cie-	-ma-
+4a	-cze,	-ły,
+=7	=7	=7
+8f#q	.	.
+4g	bo	i
+4d	żon-	ko-
+8f#q	.	-ni-
+4g	-ka	-ki
+=8	=8	=8
+8b	nie	po-
+8dd	u-	-sto-
+4cc	-cie-	-ja-
+4a}	-cze,	-ły,
 !!LO:LB:g=esac
-=9
-{8a
-8g
-8d
-8f#
-4g
-=10
-8b
-8g
-4a
-4d
-=11
-8a
-8g
-8d
-8f#
-4g
-=12
-8b
-8b
-4a
-4d}
-==
-*-
+=9	=9	=9
+{8aL	a	orać
+8gJ	.	.
+8dL	ro-	nie
+8f#J	.	.
+4g	-la	mo-
+=10	=10	=10
+8b	ci	-że,
+8g\	się	nie
+4a\	spie-	mo-
+4d	-cze.	-że,
+=11	=11	=11
+8aL	a	orać
+8gJ	.	.
+8dL	ro-	nie
+8f#J	.	.
+4g	-la	mo-
+=12	=12	=12
+8b/L	ci	-że,
+8b/J	się	nie
+4a	spie-	mo-
+4d}	-cze.	-że.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj orać chłopku orać,
+!!da nie żonki pilnować,
+!!bo żonka nie uciecze,
+!!a rola ci się spiecze.
+!!@VERSE:
+!!2. Oj orze Jasio orze
+!!na zielonym ugorze,
+!!kółka (mu) się połamały,
+!!i koniki postojały,
+!!orać nie może, nie może.
+!!@@END: VERSES
+!!!role-singer:Narrator
+!!!singer-sex:Complex
 !!!ONB: U Kolberga zapis w metrum 3/8, zapisano poprawnie na 3/4
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=141 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 117-118} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, pp. 117-118}
 !!!page: 117-118
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-09

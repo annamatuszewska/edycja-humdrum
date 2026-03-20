@@ -1,0 +1,79 @@
+!!!!SEGMENT: DWOK1326900010-dziewczyno_moje_mam_cie_znac.krn
+!!!OTL: Dziewczyno moje mam cie znać
+!!!source: DWOK13
+!!!id: 13269
+!!!signature: 1326900010
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+=1	=1
+!LO:TX:a:t=Chodzony na okrąż.	!
+{8dd	Dziewcze
+8b	.
+4g	mo-
+(8b	-je
+8dd)	.
+=2	=2
+*M2/4	*
+8ee	mám
+4cc	cie
+8a	znać,
+=3	=3
+*M3/4	*
+8dd	o-
+8b	-bie-
+4g	-ca-
+(<8e	.
+8g)	-łaś
+=4	=4
+*M2/4	*
+8a\	gę-
+4cc	-by
+8a}\	dać.
+!!LO:LB:g=esac
+=5	=5
+*M3/4	*
+{8dd	O-
+8b	-bie-
+4g	-ca-
+(<8e	.
+8g)	-łaś
+=6	=6
+*M2/4	*
+8b	a_nie
+8ddL	da-
+8eeJ	.
+8cc	-łaś,
+=7	=7
+*M3/4	*
+8dd	a_jesz-
+8b	.
+4g	-cze
+8e	mni
+8g	zwy-
+=8	=8
+8a	-my-
+(8cc	-śla-
+8cc)	.
+8a}	-łaś.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Dziewcze moje mám cie znać,
+!!obiecałaś gęby dać.
+!!Obiecałaś a nie dałaś,
+!!a jeszcze mni zwymyślałaś.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Single Girl
+!!!singer-sex: male
+!!!RDF**kern: <= above
+!!!ONB: Partia wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=150 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 126} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 126}
+!!!page: 126
+!!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-12
