@@ -1,0 +1,91 @@
+!!!!SEGMENT: DWOK1329800002-ozenil_sie_kuba_z_jagna.krn
+!!!OTL: Ożenił się Kuba z Jagną
+!!!source: DWOK13
+!!!id: 13298
+!!!signature: 1329800002
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16d	O-
+16g	-że-
+16b/L	-nił
+16dd/J	.
+16cc/L	się
+16aJ	.
+=2	=2
+16cc	Ku-
+16ee	-ba
+16dd/L	z_Ja-
+16cc#/J	.
+8dd}	-gną,
+!!LO:LB:g=esac
+=3	=3
+{16dd	miał
+16ee	ko-
+16ddL/	-bit-
+16cc/J	.
+16aL	-kę
+16b/J	.
+=4	=4
+16b	bar-
+16a\	-dzo
+8f#	ła-
+8g}	-dną.
+!!LO:LB:g=esac
+=5	=5
+{16d	O-
+16g	-na
+16b/L	bie-
+16dd/J	.
+16cc/L	-ży
+16aJ	.
+=6	=6
+16dd	ják
+32r	.
+32b	na-
+8g	-le-
+8a}	-ży,
+!!LO:LB:g=esac
+=7	=7
+{16d	a
+16g	ón
+16b/L	jesz-
+16dd/J	.
+16cc/L	-cze
+16aJ	.
+=8	=8
+16b	pła-
+16a\	-cze
+8f#	nad
+8g}	nią.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Ożenił się Kuba z Jagną,
+!!miał kobitkę bardzo ładną.
+!!Ona bieży ják należy,
+!!a ón jeszcze płacze nad nią.
+!!@VERSE:
+!!2. Wy mi Kuby nie zganicie
+!!kocham ja go należycie (v. nad me życie);
+!!co obłoci, to wykruszę,
+!!co obleje, to wysuszę.
+!!@VERSE:
+!!3. Co ja zrobił, to ja zrobił.
+!!że ja żonkę swoją obił.
+!!Teraz oczka za nią płaczą,
+!!że ją długo nie zobaczą.
+!!@@END: VERSES
+!!!role-singer: Speakers (Narrator, Wife, Husband)
+!!!role-listener: Complex
+!!!singer-sex: Female, Male
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=160 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 136} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 136}
+!!!page: 136
+!!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-18

@@ -3,57 +3,70 @@
 !!!source: DWOK13
 !!!id: 13289
 !!!signature: 1328900000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{8g
-8g
-8b
-=2
-4.cc
-=3
-8g
-8g
-8b
-=4
-4.cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Dyalog.	!
+{8g	Zkąd
+8g	jedziesz?
+8b	.
+=2	=2
+4.cc	Z_łąk.
+=3	=3
+8g	Co
+8g	wieziosz?
+8b	.
+=4	=4
+4.cc}	Drąg.
 !!LO:LB:g=esac
-=5
-{8cc
-8ee
-8gg
-=6
-8ff
-8ee
-8dd
-=7
-8cc
-8ee
-8gg
-=8
-8ff
-8ee
-8dd}
+=5	=5
+{8cc	A
+8ee	ja-
+8gg	-ki?
+=6	=6
+8ff	Dę-
+8ee	-bo-
+8dd	-wy,
+=7	=7
+8cc	na
+8ee	pan-
+8gg	-ny,
+=8	=8
+8ff	na
+8ee	wdo-
+8dd}	-wy,
 !!LO:LB:g=esac
-=9
-{8g
-8g
-8b
-=10
-4.cc
-=11
-8g
-8g
-8b
-=12
-4.cc}
-==
-*-
+=9	=9
+{8g	trze-
+8g	-ba
+8b	je
+=10	=10
+4.cc	giąć
+=11	=11
+8g	trze-
+8g	-ba
+8b	je
+=12	=12
+4.cc}	giąć.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Zkąd Jedziesz ? Z łąk.
+!!Co wieziosz? Drąg.
+!!A jaki? Dębowy,
+!!na panny,
+!!na wdowy,
+!!trzeba je giąć.
+!!@@END: VERSES
+!!!role-singer: Complex
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=157 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 133} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 133}
 !!!page: 133
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-18

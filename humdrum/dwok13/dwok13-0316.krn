@@ -3,59 +3,77 @@
 !!!source: DWOK13
 !!!id: 13316
 !!!signature: 1331600000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16.cc
-32a
-8b
-8g
-=2
-16f#
-16a
-16cc
-16ee
-8dd
-=3
-16cc
-16a
-8b
-8g
-=4
-16f#
-16d
-16e
-16f#
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16.cc	Sie-
+32a\	-dzi
+8b	szewczyk
+8g	.
+=2	=2
+16f#\	na
+16a\	warsta-
+16ccL	.
+16eeJ	.
+8dd	-cie,
+=3	=3
+8bq	.
+16cc	szy-
+16a\	-je
+8b	trze-
+8g	-wik
+=4	=4
+16f#	Mał-
+16d	-go-
+16eL	-rza-
+16f#J	.
+8g}	-cie.
 !!LO:LB:g=esac
-=5
-{16.cc
-32a
-8b
-8g
-=6
-16a
-16cc
-8ee
-8dd
-=7
-16cc
-16a
-8b
-8g
-=8
-16f#
-16d
-16e
-16f#
-8g}
-==
-*-
+=5	=5
+{16.cc	Sie-
+32a\	-dzi
+8b	szewczyk
+8g	.
+=6	=6
+16aL	na
+16cc/	warsta-
+8ee/J	.
+8dd	-cie,
+=7	=7
+8bq	.
+16cc	szy-
+16a\	-je
+8b	trze-
+8g	-wik
+=8	=8
+16f#	Mał-
+16d	-go-
+16eL	-rza-
+16f#J	.
+8g}	-cie.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Siedzi szewczyk na warstacie,
+!!szyje trzewik Małgorzacie.
+!!@VERSE:
+!!2. Małgorzata się raduje,
+!!bo nowy trzewik obuje.
+!!@VERSE:
+!!3. Małgorzato daj mi gęby,
+!!obszyję ci trzewik wszędy.
+!!@VERSE:
+!!4. I obszyję i podkuję,
+!!jak cię pięknie pocałuję.
+!!@@END: VERSES
+!!!role-singer: Narrator, Lover
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=166 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 142} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 142}
 !!!page: 142
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-20

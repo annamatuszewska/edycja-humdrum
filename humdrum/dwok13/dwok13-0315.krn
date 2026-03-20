@@ -3,50 +3,66 @@
 !!!source: DWOK13
 !!!id: 13315
 !!!signature: 1331500000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8a
-8cc
-8f#
-=2
-16e
-16g
-4a
-=3
-8a
-8cc
-8f#
-=4
-16e
-16g
-4a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8a\	Nie
+8cc	pa-
+8f#	-mię-
+=2	=2
+16e	-tasz
+16g	Sob-
+4a	-ku
+=3	=3
+8a\	coś
+8cc	to
+8f#	ro-
+=4	=4
+16e	-bił
+16g	w_sádku.
+4f#}	.
 !!LO:LB:g=esac
-=5
-{8d
-8f#
-8a
-=6
-16e
-16g
-4a
-=7
-8d
-16f#
-16g
-16a
-16cc
-=8
-16e
-16g
-4f#}
-==
-*-
+=5	=5
+{8d	W
+8f#\	oczkach‘ś
+8a\	.
+=6	=6
+16e	za-
+16g	-glą-
+4a	-dał
+=7	=7
+8d	a
+16f#L	po
+16gJ	.
+16aL	dyd-
+16cc/J	.
+=8	=8
+16e	-kach
+16g	bombał.
+4f#}\	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Nie pamiętasz Sobku
+!!coś to robił w sádku.
+!!W oczkach‘ś zaglądał
+!!a po dydkach bombał.
+!!@VERSE:
+!!2. Sobeczku Dąbroski
+!!kupie mi pończoszki.
+!!Kupże mi jedwabne,
+!!bo mim nóżki ładne.
+!!@@END: VERSES
+!!!role-singer: Mistress
+!!!role-listener: Lover
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=165 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 141} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 141}
 !!!page: 141
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-20

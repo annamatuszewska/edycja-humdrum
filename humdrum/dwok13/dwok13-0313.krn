@@ -3,62 +3,75 @@
 !!!source: DWOK13
 !!!id: 13313
 !!!signature: 1331300000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16a
-16a
-8b
-8g
-=2
-16b
-16dd
-16dd
-16ee
-16cc
-16b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16a	Sia-
+16a	-da
+8b	pszczółka
+8g	.
+=2	=2
+16b/L	na
+16dd/J	li-
+16dd/L	-li-
+16ee/J	.
+16ccL	-ją
+16b}J	.
 !!LO:LB:g=esac
-=3
-{16a
-16a
-8b
-8g
-=4
-16b
-16b
-8b
-8a}
+=3	=3
+{16a\	zła-
+16a\	-ma-
+8ccq	.
+8b	-ła
+8g	sie-
+=4	=4
+16b/L	-mię
+16b/J	da
+8b/L	siemię
+8aJ}	.
 !!LO:LB:g=esac
-=5
-{16a
-16a
-8b
-8g
-=6
-16b
-16b
-16b
-16a
-16cc
-16b}
+=5	=5
+{16a	nie-
+16a	-da-
+8b	-wno
+8g	mnie
+=6	=6
+16b	masz
+16b	je-
+16bL	-dy-
+16a\J	.
+16ccL	-na
+16b}J	.
 !!LO:LB:g=esac
-=7
-{16a
-16a
-8b
-8g
-=8
-16e
-16e
-8e
-8d}
-==
-*-
+=7	=7
+{16a\	wżeniesz
+16a\	mnie
+8ccq	.
+8b	w_zie-
+8g	.
+=8	=8
+16e\	-mię
+16e\	da
+8e\	w_ziemię.
+8d}\	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Siada pszczółka na liliją
+!!złamała siemię da siemię
+!!niedawno mnie masz jedyna
+!!wżeniesz mnie w ziemię da w ziemię.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=165 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 141} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 141}
 !!!page: 141
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-20

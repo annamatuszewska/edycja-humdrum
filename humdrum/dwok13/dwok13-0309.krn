@@ -3,58 +3,73 @@
 !!!source: DWOK13
 !!!id: 13309
 !!!signature: 1330900000
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M3/8
-=1
-{16f#
-16a
-8cc
-8b
-=2
-16cc
-16a
-8f#
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16f#	Po
+16a	za-
+8cc	-pło-
+8b	-ciu
+=2	=2
+16cc	Ma-
+16a\	-cioś
+8f#L	idzie,
+8g}J	.
 !!LO:LB:g=esac
-=3
-{16f#
-16a
-8cc
-8b
-=4
-16cc
-16a
-8f#
-8d}
+=3	=3
+{16f#	za-
+16a	-wo-
+8cc	-łać
+8b	go
+=4	=4
+16cc	nie
+16a\	ta
+8f#\	przyjdzie.
+8d}\	.
 !!LO:LB:g=esac
-=5
-{16f#
-16f#
-8e
-8g
-=6
-16f#
-16a
-8b
-8g}
+=5	=5
+{16f#	Za-
+16f#	-wo-
+8e	-łać
+8g	go,
+=6	=6
+16f#	niech
+16a	się
+8b/L	spieszy,
+8g}J	.
 !!LO:LB:g=esac
-=7
-{16f#
-16f#
-8e
-8g
-=8
-16f#
-16a
-8f#
-8d}
-==
-*-
+=7	=7
+{16f#	niech
+16f#	się
+8e	ze
+8g	mną
+=8	=8
+16f#	tu
+16a	u-
+8f#\	-cieszy.
+8d}\	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Po zapłociu Macioś idzie,
+!!zawołać go nie ta przyjdzie.
+!!Zawołać go, niech się spieszy,
+!!niech się ze mną tu ucieszy.
+!!@VERSE:
+!!2. Ty Popiołku odundały (z odętą wargą)
+!!nie będą cię dziéwki chciały.
+!!Będą, będą, będą, będą,
+!!oj poletą za mną gr(z)ędą.
+!!@@END: VERSES
+!!!role-singer: Complex
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=163 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 139} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 139}
 !!!page: 139
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-20

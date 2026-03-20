@@ -3,64 +3,75 @@
 !!!source: DWOK13
 !!!id: 13303
 !!!signature: 1330300000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{8g
-8dd
-16ff
-16dd
-=2
-16ee
-16ee
-8cc
-8cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{8g\	Ty
+8dd	ko-
+16ff	-ni-
+16dd	-ku
+=2	=2
+16ee	ty
+16ee	bu-
+8cc	-ła-
+8cc}	-ny,
 !!LO:LB:g=esac
-=3
-{16cc
-16dd
-16ee
-16ff
-16gg
-16ee
-=4
-16dd
-16dd
-8b
-8g}
+=3	=3
+{16cc/L	przeprowadź
+16dd/J	.
+16ee/L	.
+16ff/J	.
+16gg/L	mnie
+16ee/J	.
+=4	=4
+16dd	przez
+16dd	te
+8b	ła-
+8g}	-wy,
 !!LO:LB:g=esac
-=5
-{16g
-16b
-16dd
-16ee
-16ff
-16dd
-=6
-16ee
-16ee
-8cc
-8cc}
+=5	=5
+{16gL	przez
+16b/J	.
+16dd/L	te
+16ee/J	.
+16ff	ła-
+16dd	-wy,
+=6	=6
+16ee	przez
+16ee	te
+8cc	trzci-
+8cc}	-ny,
 !!LO:LB:g=esac
-=7
-{16cc
-16a
-8f
-16a
-16cc
-=8
-16dd
-16dd
-8b
-8g}
-==
-*-
+=7	=7
+{16ccL	do
+16a\J	.
+8f\	Ka-
+16a\L	-sińki
+16ccJ	.
+=8	=8
+16dd	do
+16dd	je-
+8b	-dy-
+8g}	-ny.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Ty koniku ty bułany,
+!!przeprowadź mnie przez te ławy,
+!!przez te ławy, przez te trzciny,
+!!do Kasińki do jedyny.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: Male
 !!!ONB: Alternatywnie możliwe kodowanie w G
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=161 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 137} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 137}
 !!!page: 137
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-19
