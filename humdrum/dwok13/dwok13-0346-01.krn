@@ -3,71 +3,86 @@
 !!!source: DWOK13
 !!!id: 13346
 !!!signature: 1334600001
-**kern
-*clefG2
-*k[f#c#g#d#]
-*E:
-*M3/8
-=1
-{8b
-8ee
-8dd#
-=2
-8.ee
-16cc#
-8cc#
-=3
-8b
-16ee
-16dd#
-16b
-16cc#
-=4
-8a
-8g#
-8b}
+**kern	**text	**text
+*clefG2	*	*
+*k[f#c#g#d#]	*	*
+*E:	*	*
+*M3/8	*	*
+=1	=1	=1
+!LO:TX:a:i:t=(E dur lub E moll).	!	!
+{(8g#q	.	.
+8b)	Kie-	.
+8ee	-dy-	.
+(8dd#q	.	.
+8dd#)	-by	.
+=2	=2	=2
+8.ee	kie-	.
+16cc#	-dy-	.
+8cc#	-by	.
+=3	=3	=3
+(8g#q	.	.
+8b)	z_Ka-	.
+16eeL	-siń-	.
+16dd#J	.	.
+16bL	-ką	.
+16ccJ#	.	.
+=4	=4	=4
+8.a\L	na	(v.
+16g#\J	ry-	na
+8b}	-by	grzyby)
 !!LO:LB:g=esac
-=5
-{16e
-16g#
-8b
-8g#
-=6
-16b
-16cc#
-16a
-16g#
-8e
-=7
-16b
-16cc#
-16a
-16g#
-8e
-=8
-16b
-16cc#
-16a
-16g#
-8e}
+=5	=5	=5
+{16e	oj	.
+16g#	kie-	.
+8b	-by	.
+8g#	chcia-	.
+=6	=6	=6
+16b	-ła	.
+16cc#	po-	.
+16aL	-ga-	.
+16g#J	.	.
+8e	-dać	.
+=7	=7	=7
+16b	da	.
+16cc#	po-	.
+16aL	-ga-	.
+16g#J	.	.
+8e	-dać,	.
+=8	=8	=8
+16b	da	.
+16cc#	po-	.
+16aL	-ga-	.
+16g#J	.	.
+8e}	-dać,	.
 !!LO:LB:g=esac
-=9
-{8b
-8b
-16ee
-16dd#
-=10
-16b
-16cc#
-4a
-=11
-8.a
-16g#
-8b}
-==
-*-
+=9	=9	=9
+{8b	oj	.
+8b	kie-	.
+16eeL	-by	.
+16dd#J	.	.
+=10	=10	=10
+16bL	chcia-	.
+16ccJ#	.	.
+4a\	-ła	.
+=11	=11	=11
+8.a\	gę-	.
+16g#\	-by	.
+8b}	dać.	.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!Kiedyby kiedyby
+!!z Kasińką na ryby (v. na grzyby)
+!!oj kieby chciała pogadać
+!!da pogadać, da pogadać,
+!!oj kieby chciała gęby dać.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=174 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 150-151} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, pp. 150-151}
 !!!page: 150-151
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-25

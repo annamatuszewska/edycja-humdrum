@@ -3,57 +3,72 @@
 !!!source: DWOK13
 !!!id: 13333
 !!!signature: 1333300000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8e
-8g
-4e
-8cc
-8b
-=2
-4.a
-8g#
-8e
-8d
-=3
-8e
-8g
-4e
-8cc
-8b
-=4
-4.a
-8g#
-8e
-8d}
+**kern	**text
+*clefG2	*
+*k[]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8e	W_Czewu-
+8g	.
+4e	-je-
+8ccL	-wie
+8bJ	.
+=2	=2
+4.a	kra-
+8g#	-ją
+8e	jar-
+8d	-muż
+=3	=3
+8e	W_Czewu-
+8g	.
+4e	-je-
+8ccL	-wie
+8bJ	.
+=4	=4
+4.a	kra-
+8g#	-ją
+8e	jar-
+8d}	-muż
 !!LO:LB:g=esac
-=5
-{8e
-8g
-4.a
-8c#
-=6
-4d
-8d
-8f
-8a
-8g
-=7
-8e
-8g
-4.a
-8c#
-=8
-2d}
-4r
-==
-*-
+=5	=5
+{8e	a
+8gn	w_Wał-
+4.a	-do-
+8c#	-wie
+=6	=6
+4d	wra
+8dL	wra
+8fJ	.
+8aL	wra.
+8gJ	.
+=7	=7
+8e	a
+8gn	w_Wał-
+4.a	-do-
+8c#	-wie
+=8	=8
+2d}	wra.
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. W Czewujewie krają jarmuż
+!!a w Wałdowie wra wra wra.
+!!Marysia go pokiwała,
+!!za Stefankiem wyglądała,
+!!kędy wołki gnał.
+!!@VERSE:
+!!2. Zagnałci je na dąbrowy,
+!!znalaz wiánek lewandowy,
+!!Marysi go dał [:]
+!!Marysi go dał.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=171 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 147} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 147}
 !!!page: 147
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-22

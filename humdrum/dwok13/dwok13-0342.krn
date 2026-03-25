@@ -3,83 +3,105 @@
 !!!source: DWOK13
 !!!id: 13342
 !!!signature: 1334200000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8a
-8cc
-16cc
-16b
-=2
-8a
-8dd
-8dd
-=3
-8b
-8g
-8b
-=4
-8cc
-4a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8a\	Od
+8cc	sęcz-
+16ccL	-ka
+16bJ	.
+=2	=2
+8a	do
+8dd	sęcz-
+8dd	-ka
+=3	=3
+8aq	.
+8b	cho-
+8g	-jen-
+8b	-ka
+=4	=4
+8bq	.
+8cc	ro-
+4a}	-śnie,
 !!LO:LB:g=esac
-=5
-{8a
-8cc
-16cc
-16b
-=6
-8a
-8f#
-8d
-=7
-8g
-8e
-8g
-=8
-8f#
-4d}
+=5	=5
+{8a	cze-
+8cc	-kaj
+16ccL	mnie
+16bJ	.
+=6	=6
+8a	dzie-
+8f#	-wu-
+8d	-lo
+=7	=7
+8g	aż
+8e	cię
+8g	do-
+=8	=8
+8eq	.
+8f#	-ro-
+4d}	-snę.
 !!LO:LB:g=esac
-=9
-{8a
-8cc
-16cc
-16b
-=10
-8a
-8dd
-8dd
-=11
-8b
-8g
-16b
-16dd
-=12
-8cc
-4a}
+=9	=9
+{8a\	Ja-
+8cc	-bym
+16ccL	cię
+16bJ	.
+=10	=10
+8a	cze-
+8dd	-ka-
+8dd	-ła
+=11	=11
+8aq	.
+8b	ro-
+8g	-czek,
+16b/L	pu-
+16dd/J	.
+=12	=12
+8bq	.
+8cc	-to-
+4a}	-ra,
 !!LO:LB:g=esac
-=13
-{8a
-8cc
-16cc
-16b
-=14
-8a
-8f#
-8d
-=15
-8g
-8e
-8g
-=16
-8f#
-4d}
-==
-*-
+=13	=13
+{8a	że-
+8cc	-bym
+16cLc	ja
+16bJ	.
+=14	=14
+8a	wie-
+8f#	-dzia-
+8d	-ła
+=15	=15
+8g	że
+8e	bę-
+8g	-dę
+=16	=16
+8eq	.
+8f#	two-
+4d}	-ja.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Od sęczka do sęczka
+!!chojenka rośnie,
+!!czekaj mnie dziewulo
+!!aż cię dorosnę.
+!!@VERSE:
+!!2. Jabym cię czekała
+!!roczek, putora, 
+!!żebym ja wiedziała
+!!że będę twoja.
+!!@@END: VERSES
+!!!role-singer: Lover, Single Girl
+!!!role-listener: Single Girl, Lover
+!!!singer-sex: Male, Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=173 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 149} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 149}
 !!!page: 149
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-23

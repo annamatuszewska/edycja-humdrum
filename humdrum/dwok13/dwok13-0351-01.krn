@@ -3,65 +3,82 @@
 !!!source: DWOK13
 !!!id: 13351
 !!!signature: 1335100001
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M3/4
-=1
-{8a
-8a
-4dd
-8a
-8cc#
-=2
-4.dd
-8cc#
-8a
-8f#
-=
-8a
-8cc#
-4dd
-12a
-12b
-12cc#
-=3
-8dd
-8ee
-8dd
-8cc#
-8a
-8f#}
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M3/4	*
+=1	=1
+{8a\	Dej
+8a\	.
+4dd	się
+8a\L	na-
+8cc#J	-mó-
+=2	=2
+4.dd	-wić
+8cc#	ko-
+8a	-chan-
+8f#	-ko,
+=3	=3
+*Xtuplet	*
+8aL	dej
+8c/Jc#	.
+4dd	się
+12aL	na-
+12b/	.
+12cc/#J	-mó-
+=4	=4
+8dd/L	-wić
+8ee/	.
+8dd/	.
+8cc#/J	na-
+8a	-mó-
+8f#}	-wić,
 !!LO:LB:g=esac
-=4
-{8d
-8f#
-8g
-[8e
-4e]
-=5
-8e
-8g
-4b
-8a
-8f#
-=6
-8d
-8f#
-8g
-[8e
-4e]
-=7
-8e
-8e
-8a
-8f#
-4d}
-==
-*-
+=5	=5
+{8d	bę-
+8f#	-dziesz
+8g	so-
+[8e	-bie
+4e]	.
+=6	=6
+8e\	go-
+8g\	-spo-
+4b	-dy-
+8a\L	-nią,
+8f#\J	.
+=7	=7
+8d	nie
+8f#	bę-
+8g	-dziesz
+[8e	słu-
+4e]	.
+=8	=8
+8e\	-żyć
+8e\	da
+8aL	słu-
+8f#J	.
+4d}	-żyć.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Dej się namówić kochanko,
+!!dej się namówić namówić,
+!!będziesz sobie gospodynią,
+!!nie będziesz służyć da służyć.
+!!@VERSE:
+!!2. Dej się na wolę kochanko,
+!!dej się na wolę, na wolę;
+!!nie bierę cię na komorne,
+!!ino na rolę, na rolę.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=176 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 152} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 152}
 !!!page: 152
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-25
