@@ -3,89 +3,108 @@
 !!!source: DWOK12
 !!!id: 12186
 !!!signature: 1218600000
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M3/8
-=1
-{16dd
-16cc#
-8.dd
-16cc#
-=2
-16e
-16g
-8b
-8a
-=3
-16dd
-16cc#
-8.dd
-16cc#
-=4
-16e
-16g
-8b
-8a}
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M3/8	*
+=1	=1
+{16dd	Z_téj
+16cc#	niedzieli
+(8.dd	.
+16cc#)	.
+=2	=2
+16e	na
+16g	to
+8b/	święto,
+8a	.
+=3	=3
+16dd	furmanowi
+16cc#	.
+8.dd	.
+16cc#	.
+=4	=4
+16e	konie
+16g	.
+8b	wzięto.
+8a\}	.
 !!LO:LB:g=esac
-=5
-{16f#
-16g
-8.a
-16b
-=6
-16a
-16a
-8g
-8e
-=7
-8f#
-4a
-=8
-16b
-16cc#
-8.dd
-16b
-=9
-16a
-16a
-8g
-8c#
-=10
-8e
-4d}
+=5	=5
+{16f#	Furma-
+16g	.
+8.a	-nowi
+16b/	.
+=6	=6
+16a	konie
+16a	.
+8g	ukra-
+8e	.
+=7	=7
+8f#	-dzono,
+4a	.
+=8	=8
+16b	som
+16cc#	nie
+8.dd	wiedział
+16b	.
+=9	=9
+16a	chtórą
+16a	.
+8g	dróżką
+8c#	.
+=10	=10
+8e	po
+4d}	nie.
 !!LO:LB:g=esac
-=11
-{16f#
-16g
-8.a
-16b
-=12
-16a
-16a
-8g
-8e
-=13
-8f#
-4a
-=14
-16b
-16cc#
-8.dd
-16b
-=15
-16a
-16a
-8g
-8c#
-=16
-8e
-4d}
-==
-*-
+=11	=11
+{16f#	Do
+16g	Krakowa,
+8.a	.
+16b/	.
+=12	=12
+16a	do
+16a	pięknego
+8g	.
+8e	.
+=13	=13
+8f#	miasta,
+4a	.
+=14	=14
+16b	tam
+16cc#	dziewöla
+8.dd	.
+16b	.
+=15	=15
+16a	mego
+16a	.
+8g	kunia
+8c#	.
+=16	=16
+8e	pasła.
+4d}	.
+==	==
+*- 	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Z téj niedzieli na to święto,
+!!furmanowi konie wzięto.
+!!Furmanowi konie ukradzono,
+!!som nie wiedźał chtórą dróżką po nie.
+!!Do Krakowa, do pięknego miasta,
+!!tam dziewöla mego kunia pasła.
+!!@VERSE:
+!!2. Oj pasła go nad wödą
+!!chwaliła się z ij urödą.
+!!Co to za tam ji uröda böła,
+!!w gołém polu séna porodzéła,
+!!Co to za tam ji uröda böła,
+!!w gołém polu séna porodzéła.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=110 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 94} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 94}
 !!!page: 94
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25

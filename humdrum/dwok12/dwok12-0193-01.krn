@@ -3,58 +3,108 @@
 !!!source: DWOK12
 !!!id: 12193
 !!!signature: 1219300001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8dd
-4dd
-8cc
-8b
-8g
-=2
-4cc
-8ee
-8dd
-8cc
-8b
-=3
-8dd
-4dd
-8cc
-8b
-8g
-=4
-4a
-8a
-8g
-8f#
-8d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8dd	Jeździłem,
+4dd^	.
+8cc	.
+8b	jeździł
+8g	.
+=2	=2
+4cc	we
+8ee	dnie
+8dd	i
+8cc	w_nocy,
+8b	.
+=3	=3
+8dd	ażem
+4dd^	.
+8cc	wyjeździł
+8b	.
+8g	.
+=4	=4
+4a	koniowi
+8a	.
+8g	.
+8f#	oczy,
+8d}	.
 !!LO:LB:g=esac
-=5
-{8f#
-8a
-4d
-4d
-=6
-8g
-8b
-2dd
-=7
-8dd
-8cc
-4b
-4g
-=8
-8cc
-8a
-2g}
-==
-*-
+=5	=5
+{8f#	a
+8a	ty
+4d	moją
+4d	.
+=6	=6
+8g	musisz
+8b	.
+2dd	być,
+=7	=7
+8eeq	.
+8dd	moją
+8cc	.
+4b	wolę
+4g	.
+=8	=8
+(16aqL	.
+16bqJ)	.
+8cc	uczynić.
+8a	.
+2g}	.
+==	==
+*- 	*-
+!!!role-singer: Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Jeździłem, jeździł we dnie i w nocy,
+!!ażem wyjeździł koniowi oczy,
+!!już ty moją musisz być,
+!!wolę moją uczynić.
+!!@VERSE:
+!!2. O stanę ja się drobną rybeczką,
+!!będę pływała bystrą wódeczką, —
+!!a już twoją nie będę,
+!!aż się panną nabędę.
+!!@VERSE:
+!!3. Mają rybacy takie siateczki,
+!!co wyłapują drobne rybeczki;
+!!a już moją musisz być,
+!!wolę moją uczynić.
+!!@VERSE:
+!!4. O stanę ja się dzikim kaczorem,
+!!będę ja pływał bystrym jęziorem, —
+!!już ty moją musisz być,
+!!wolę moją uczynić.
+!!@VERSE:
+!!5. Mają-ci strzelcy takie wystrzelby,
+!!co wystrzélają kaczorom we łby;
+!!a już moją musisz być,
+!!moją wolę uczynić.
+!!@VERSE:
+!!6. A stanę ja się gwiázdą na niebie,
+!!będę świeciła Bogu w potrzebie;
+!!a już twoją nie będę,
+!!aż się panną nabędę.
+!!@VERSE:
+!!7. A dam ja babie taką jałmużnę,
+!!co mi wyprosi gwiázdę podróżną;
+!!a już moją musisz być,
+!!wolę moją uczynić.
+!!@VERSE:
+!!8. Napieczcie chleba, pięknych kołaczy,
+!!niech się ten rakarz ze mną uraczy;
+!!bo już jego muszę być,
+!!wolę jego uczynić.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=114 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 98} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 98}
 !!!page: 98
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25

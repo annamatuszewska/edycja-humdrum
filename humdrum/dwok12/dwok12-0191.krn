@@ -3,50 +3,72 @@
 !!!source: DWOK12
 !!!id: 12191
 !!!signature: 1219100000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16b
-16cc
-8dd
-8dd
-=2
-16ee
-16cc#
-8dd
-8g
-=3
-16b
-16cc
-8dd
-8dd
-=4
-16ee
-16cc#
-8dd
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16b	Objechałam
+16cc	.
+8dd	.
+8dd	.
+=2	=2
+16ee	cztery
+16cc#	.
+8dd	miasta,
+8g\	.
+=3	=3
+16b	objechałam
+16cc	.
+8dd	.
+8dd	.
+=4	=4
+16ee	cztery
+16cc#	.
+8dd	miasta,
+8g}	.
 !!LO:LB:g=esac
-=5
-{8b
-4dd
-=6
-16cc
-16a
-8g
-8d
-=7
-8g
-4b
-=8
-4g}
-8r
-==
-*-
+=5	=5
+{8b	piątą
+4dd	.
+=6	=6
+16cc	wieś
+16a\	da
+8g	dana,
+8d	.
+=7	=7
+8g	piątą
+4b	.
+=8	=8
+4g}	wieś.
+8r	.
+==	==
+*- 	*-
+!!!role-singer: Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Objechałam cztery miasta,
+!!objechałam cztery miasta
+!!piątą wieś da dana, piątą wieś.
+!!@VERSE:
+!!2. I nie mogłam Jasineczka,
+!!i nie mogłam Jasineczka
+!!swego znajść da dana, swego znajść.
+!!@VERSE:
+!!3. I nalazłam go w gościńcu,
+!!i nalazłam go w gościńcu,
+!!jak się pas(ł) da dana, jak się pas(ł).
+!!@VERSE:
+!!4. Zjadł maślanki — trzy kierzenki,
+!!zjadł maślanki — trzy kierzenki,
+!!sto kiełbas da dana, sto kiełbas.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=113 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 97} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 97}
 !!!page: 97
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25

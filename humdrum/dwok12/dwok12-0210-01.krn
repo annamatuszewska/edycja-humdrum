@@ -3,77 +3,134 @@
 !!!source: DWOK12
 !!!id: 12210
 !!!signature: 1221000001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8.g
-16a
-16b
-16cc
-=2
-16dd
-16dd
-8ee
-8dd
-=3
-16dd
-16dd
-8ee
-8dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8.g	Cztery
+16a	.
+16b	lata
+16cc	.
+=2	=2
+16dd	wierniem
+16dd	.
+8ff#q	.
+8ee	służył,
+8dd	.
+=3	=3
+16dd	wierniem
+16dd	.
+8ff#q	.
+8ee	służył,
+8dd}	.
 !!LO:LB:g=esac
-=4
-{16dd
-16cc
-8a
-8f#
-=5
-8g
-8b
-8dd
-=6
-16dd
-16cc
-8a
-8b
-=7
-4g}
-8r
+=4	=4
+{16dd	gospodarzo-
+16cc	.
+8a\	.
+8f#\	.
+=5	=5
+8g	-wi
+8b	ha
+8dd	ha
+=6	=6
+16dd	gospodarzo-
+16cc	.
+8a\	.
+8b	.
+=7	=7
+4g}	-wi,
+8r	.
 !!LO:LB:g=esac
-=8
-{16g
-16f#
-8.a
-16f#
-=9
-16g
-16g
-8b
-8dd
-=10
-16dd
-16cc
-8a
-8f#
-=11
-8g
-8b
-8dd}
+=8	=8
+{16g	rano
+16f#	.
+8.a	wstajał,
+16f#	.
+=9	=9
+16g	sieczkę
+16g	.
+8b	krajał
+8dd	.
+=10	=10
+16dd	inwentarzo-
+16cc	.
+8a\	.
+8f#\	.
+=11	=11
+8g	-wi
+8b	ha
+8dd}	ha,
 !!LO:LB:g=esac
-=12
-{16dd
-16cc
-8a
-8b
-=13
-8g}
-4r
-==
-*-
+=12	=12
+{16dd	inwetarzo-
+16cc	.
+8a\	.
+8b	.
+=13	=13
+8g}	-wi.
+4r	.
+==	==
+*- 	*-
+!!!role-singer: Bachelor
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Cztery lata wierniem służył,
+!!wierniem służył,
+!!gospodarzowi ha ha,
+!!gospodarzowi,
+!!rano'm wstajał,
+!!sieczkę krajał,
+!!inwentarzowi ha ha,
+!!inwentarzowi.
+!!@VERSE:
+!!2. A to wszystko dla dziewuli,
+!!dla dziewuli,
+!!miło mi było ha ha,
+!!miło mi było,
+!!bo się serce jak żywica
+!!do ni(j) lepiło ha ha,
+!!do ni(j) lepiło.
+!!@VERSE:
+!!3. Cztery sznurki koralików,
+!!koralików,
+!!i pierścień złoty ha ha,
+!!i pierścień złoty,
+!!a kabatek sznurowany,
+!!cudné(j) roboty ha ha,
+!!cudné(j) roboty.
+!!@VERSE:
+!!4. Nie śmiałem i (jéj) się zapytać,
+!!się zapytać,
+!!czyby mnie chciała ha ha,
+!!czyby mnie chciała,
+!!bo dwa wołki, cztéry krówki,
+!!posagu miała ha ha,
+!!posagu miała.
+!!@VERSE:
+!!5. Przede dworem na kamyszku,
+!!na kamyszku,
+!!deszczyk porosił ha ha,
+!!deszczyk porosił,
+!!nie będę ja gospodyni,
+!!o córkę prosił ha ha,
+!!o córkę prosił.
+!!@VERSE:
+!!6. Gospodyni nie hrabina,
+!!nie hrabina,
+!!córka nie pani ha ha,
+!!córka nie pani,
+!!nie będę ja do nij jeździł,
+!!czterema kóńmi ha ha,
+!!czterema kóńmi.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=125 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 109} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 109}
 !!!page: 109
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25

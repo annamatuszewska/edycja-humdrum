@@ -3,99 +3,144 @@
 !!!source: DWOK12
 !!!id: 12189
 !!!signature: 1218900000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16g
-16b
-8cc
-8ee
-=2
-8ff
-4ee
-=3
-16cc
-16ee
-8ff
-16dd
-16ee
-=4
-16cc
-16b
-4g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+!!LO:TX:a:t=Weselna.
+{16g	Żebym
+16b	.
+8cc	ja
+8ee	wie-
+=2	=2
+8ggq	.
+8ff	-działa
+4ee	.
+=3	=3
+16cc	gdzie
+16ee	mój
+8ff	miły
+16ddL	.
+16eeJ	.
+=4	=4
+16ccL	o-
+16bJ	.
+4g}	-rze,
 !!LO:LB:g=esac
-=5
-{16g
-16b
-8cc
-8ee
-=6
-8ff
-4ee
-=7
-16cc
-16ee
-8ff
-16dd
-16ee
-=8
-16cc
-16b
-4g}
+=5	=5
+{16g	szłabym
+16b	.
+8cc	ja
+8ee	do
+=6	=6
+8ggq	.
+8ff	niego
+4ee	.
+=7	=7
+16cc	ścieżką
+16ee	.
+8ff	po
+16ddL	u-
+16eeJ	.
+=8	=8
+16ccL	-gorze.
+16bJ	.
+4g}	.
 !!LO:LB:g=esac
-=9
-{16g
-16b
-8cc
-16ee
-16cc
-=10
-16g
-16b
-8cc
-16ee
-16cc
-=11
-16dd
-16b
-8cc
-16dd
-16ee
-=12
-16cc
-16b
-4g}
+=9	=9
+{16g	Tóm
+16b	dana
+8cc	.
+16ee	dana,
+16cc	.
+=10	=10
+16g	tóm
+16b	dana
+8cc	.
+16ee	dana,
+16cc	.
+=11	=11
+16dd	ścieżką
+16b	.
+8cc	po
+16ddL	u-
+16eeJ	.
+=12	=12
+16ccL	-gorze.
+16bJ	.
+4g}	.
 !!LO:LB:g=esac
-=13
-{16g
-16b
-8cc
-16ee
-16cc
-=14
-16g
-16b
-8cc
-16ee
-16cc
-=15
-16dd
-16b
-8cc
-16dd
-16ee
-=16
-16cc
-16b
-4g}
-==
-*-
+=13	=13
+{16g	Tóm
+16b	dana
+8cc	.
+16ee	dana,
+16cc	.
+=14	=14
+16g	tóm
+16b	dana
+8cc	.
+16ee	dana,
+16cc	.
+=15	=15
+16dd	ścieżką
+16b	.
+8cc	po
+16ddL	u-
+16eeJ	.
+=16	=16
+16ccL	-gorze.
+16bJ	.
+4g}	.
+==	==
+*- 	*-
+!!!role-singer: Maiden
+!!!role-listener: Family, Friends
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Żebym ja wiedziała
+!!gdzie mój miły orze,
+!!szłabym ja do niego
+!!ścieżką po ugorze.
+!!Tóm dana dana, tóm dana dana, ścieżką po ugorze,
+!!Tóm dana dana, tóm dana dana, ścieżką po ugorze.
+!!@VERSE:
+!!2. Oj pije on pije —
+!!w tym nowym gościéńcu,
+!!w czerwonéj czapeczce,
+!!w lewendowym wieńcu.
+!!Tóm dana dana, tóm dana dana, w lewendowym wieńcu,
+!!Tóm dana dana, tóm dana dana, w lewendowym wieńcu.
+!!@VERSE:
+!!3. Rodzineczko moja,
+!!przyjaciele mili,
+!!żeście mnie wydali
+!!nie po mojéj woli.
+!!Tóm dana dana, tóm dana dana, nie po mojéj woli,
+!!Tóm dana dana, tóm dana dana, nie po mojéj woli.
+!!@VERSE:
+!!4. Ażebym ja była
+!!u matusi dłużéj,
+!!wyglądałabym ja
+!!jako kwiatek róży.
+!!Tóm dana dana, tóm dana dana, jako kwiatek róży,
+!!Tóm dana dana, tóm dana dana, jako kwiatek róży.
+!!@VERSE:
+!!5. A teraz wyglądam
+!!jak biała lelija,
+!!gdzie ja się obrócę,
+!!wiatrek mną powiéwa.
+!!Tóm dana dana, tóm dana dana, wiatrek mną powiéwa,
+!!Tóm dana dana, tóm dana dana, wiatrek mną powiéwa.
+!!@@END: VERSES
 !!!ONB: Alternatywnie można zakodować w G
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=112 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 96} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 96}
 !!!page: 96
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25

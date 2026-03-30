@@ -3,53 +3,82 @@
 !!!source: DWOK12
 !!!id: 12197
 !!!signature: 1219700000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8g
-8g
-8b
-8b
-=2
-8a
-8f#
-4g
-=3
-8a
-8cc
-8ee
-8ee
-=4
-8cc
-8b
-4dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+!!LO:TX:a:t=Wiwat weselny.
+{8g	Ziele-
+8g	.
+8ccq	.
+8b	-ni
+8b	się,
+=2	=2
+8a\	zieleni,
+8f#\	.
+4g\	.
+=3	=3
+8a	moje
+8cc	.
+8ee	żytko
+8ee	.
+=4	=4
+8cc	przy
+8b	ziemi.
+4dd}	.
 !!LO:LB:g=esac
-=5
-{8b
-8dd
-8cc
-8b
-=6
-8a
-8a
-8g
-8e
-=7
-8d
-8f#
-8a
-8a
-=8
-8e
-8f#
-4g}
-==
-*-
+=5	=5
+{8b	A
+8dd	któż
+8cc	mi
+8b	je
+=6	=6
+8a	będzie
+8a	.
+8g	żąn
+8e	.
+=7	=7
+8d	kiej
+8f#	mi
+8a	Pan
+8a	Bóg
+=8	=8
+8e	żonkę
+8f#	.
+4g}	wzion.
+==	==
+*- 	*-
+!!!role-singer: Widower
+!!!role-listener: God
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Zieleni się, zieleni,
+!!moje żytko przy ziemi.
+!!A któż mi je będzie żon (żął)
+!!kiej mi Pan Bóg żonkę wzi(ął)on.
+!!@VERSE:
+!!2. Nie kłopoć się o żonkę,
+!!dostanies ty ślachcionkę.
+!!Ślachcionka się ubierze,
+!!żytka z pola nie zbierze.
+!!@VERSE:
+!!3.Ślachcionka się ubrała,
+!!żytka z pola nie brała.
+!!O gałgańska ślachcionka,
+!!lepsza ze wsi wiochnionka.
+!!@VERSE:
+!!4.O mój Boże, mój Boże!
+!!kto mnie dzisiaj wspomoże.
+!!Żonka moja nie wstanie,
+!!żytko w polu (z)ostanie.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=118 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 102} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 102}
 !!!page: 102
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25

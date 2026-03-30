@@ -3,64 +3,92 @@
 !!!source: DWOK12
 !!!id: 12182
 !!!signature: 1218200002
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{4f
-8cc
-=2
-4dd
-8b-
-=3
-16a
-16cc
-4g
-=4
-4f
-8cc
-=5
-4dd
-8b-
-=6
-16g
-16e
-4f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{4f	A
+8cc	za-
+=2	=2
+4dd	-jęto,
+8b-	.
+=3	=3
+16a\	zaję-
+16cc	.
+4g	-to,
+=4	=4
+4f	z_ponie-
+8cc	.
+=5	=5
+4dd	-działku
+8b-	.
+=6	=6
+16g	na
+16e	święto,
+4f}	.
 !!LO:LB:g=esac
-=7
-{16f
-16g
-16a
-16b-
-8cc
-=8
-16dd
-16b-
-8a
-8cc
-=9
-8g
-4cc
-=10
-16f
-16g
-16a
-16b-
-8cc
-=11
-16dd
-16b-
-8a
-8f
-=12
-8g
-4f}
-==
-*-
+=7	=7
+{16f	a
+16g	zaję-
+16aL	.
+16b-	.
+8ccJ/	-to
+=8	=8
+16dd	Jasieńkowi
+16b-	.
+8aL	.
+8ccJ/	.
+=9	=9
+8g	konie,
+4cc	.
+=10	=10
+16f	nie
+16g	wiedział-ci
+16aL	.
+16b-	.
+8ccJ/	.
+=11	=11
+16dd	chtórą
+16b-	.
+8a	dróżką
+8f	.
+=12	=12
+8g	po
+4f}	nie.
+==	==
+*- 	*-
+!!!role-singer: Narrator
+!!!role-listener: Bachelor
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. A zajęto, zajęto,
+!!z poniedziałku na święto,
+!!a zajęto Jasieńkowi konie,
+!!nie wiedział-ci chtórą dróżką po nie.
+!!@VERSE:
+!!2. A nie pytaj, nie szukaj
+!!i do Sroczka zapukaj —
+!!a od Sroczka do nowego miasta,
+!!tam Kasińka stado koni pasła.
+!!@VERSE:
+!!3. Pasała je nad wodą
+!!chwaliła się z urodą.
+!!I na co ji ta uroda wyszła,
+!!kiedy sobie postąpiła z pyszna.
+!!@VERSE:
+!!4. Przedawała kobyły,
+!!po dwadzieścia po sztyry —
+!!A wałachy po bitym talarze,
+!!tam-ci Kasia pieniędzy nabierze.
+!!Żeby była po dukacie brała,
+!!była-ć by sto talarów zebrała.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=108 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 92-93} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 92-93}
 !!!page: 92-93
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25

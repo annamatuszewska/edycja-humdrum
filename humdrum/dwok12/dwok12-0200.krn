@@ -3,67 +3,107 @@
 !!!source: DWOK12
 !!!id: 12200
 !!!signature: 1220000000
-**kern
-*clefG2
-*k[]
-*a:
-*M4/4
-=1
-{4.e
-8g#
-4.b
-8b
-=2
-2.ee
-4dd
-=3
-2b
-4b
-4dd#
-=4
-2ee
-4dd#
-4ee
-=5
-2b
-4ee
-4ee}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M4/4	*
+*met(c)	*
+=1	=1
+!!LO:TX:a:t=Sielanka nadwiślańska.
+{4.e	Leć
+8g#	głosie
+4.b	.
+8b	po
+=2	=2
+(2.ee	ro-
+4dd)	.
+=3	=3
+2b;	-sie,
+4b	po
+4dd#	ni-
+=4	=4
+2ee	-skiéj
+4dd#	leszczy-
+4ee	.
+=5	=5
+2b;	-nie,
+4ee	idź
+4ee}	po-
 !!LO:LB:g=esac
-=6
-{4dd
-4b
-4cc
-8b
-8g#
-=7
-2e
-4g#
-4a
-=8
-4b
-4ee
-4.ee
-8dd
-=9
-2dd
-2dd#}
+=6	=6
+{4dd	-wiedz
+4b	.
+4cc	o-
+8bL	-de
+8g#J	.
+=7	=7
+2e;	mnie
+4g#	dobrą
+4a	.
+=8	=8
+4b	noc
+4ee	.
+(4.ee	dziew-
+8dd)	.
+=9	=9
+(2dd	-czy-
+2dd#)}	-nie,
 !!LO:LB:g=esac
-=10
-{4ee
-4ee
-4dd
-4b
-=11
-8cc
-8b
-8a
-8g#
-4a
-4aa}
-==
-*-
+=10	=10
+{4ee	dobrą
+4ee	.
+4ddn	noc
+4b	.
+=11	=11
+8ddq	.
+8ccL	dziewczy-
+8bJ	.
+8aL	.
+8g#J	.
+(4a	-nie.
+4aa)}	.
+==	==
+*- 	*-
+!!!role-singer: Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Leć głosie po rosie,
+!!po niskiéj leszczynie,
+!!idź powiedz ode mnie
+!!dobrą noc dziewczynie,
+!!dobrą noc dziewczynie.
+!!@VERSE:
+!!2. Dobra nocka, dobra,
+!!moja najmilejsza,
+!!pono już do ciebie
+!!dróżka ostatniejsza,
+!!dróżka ostatniejsza!
+!!@VERSE:
+!!3. Ach! nie ostatniejsza,
+!!broń-że tego, Panie!
+!!kto się w kim pokocha,
+!!ma ciężkie rozstanie,
+!!ma ciężkie rozstanie.
+!!@VERSE:
+!!4. Rozstań-że się, rozstań,
+!!kalino z jaworem,
+!!jak ja się rozstaję
+!!z kochaneczkiem moim,
+!!z kochaneczkiem moim.
+!!@VERSE:
+!!5. Kalina z jaworem
+!!rozstać się nie może;
+!!tak i ja z kochankiem,
+!!Broń-że tego Boże,
+!!Broń-że tego Boże!
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=119 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 103} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 103}
 !!!page: 103
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25

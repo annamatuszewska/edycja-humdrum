@@ -3,93 +3,159 @@
 !!!source: DWOK12
 !!!id: 12187
 !!!signature: 1218700000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8g
-8cc
-4ee
-4gg
-=2
-8ee
-8dd
-4cc
-4r
-=3
-8dd
-8ff
-4ee
-4dd
-=4
-8cc
-8a
-4g}
-4r
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8g	Żebym
+8cc	.
+4ee	ja
+4gg	wie-
+=2	=2
+8eeL	-dzia-
+8ddJ	.
+4cc	-ła,
+4r	.
+=3	=3
+8dd	gdzie
+8ff	mój
+4ee	Jasio
+4dd	.
+=4	=4
+8ccL	orze,
+8aJ	.
+4g}	.
+4r	.
 !!LO:LB:g=esac
-=5
-{8g
-8cc
-4ee
-4gg
-=6
-8ee
-8dd
-4cc
-4r
-=7
-8dd
-8ff
-4ee
-4dd
-=8
-8cc
-8a
-4g}
-4r
+=5	=5
+{8g	szłabym
+8cc	.
+4ee	ja
+4gg	do
+=6	=6
+8eeL	niego,
+8ddJ	.
+4cc	.
+4r	.
+=7	=7
+8dd	ścieżką
+8ff	.
+4ee	po
+4dd	u-
+=8	=8
+8ccL	-gorze.
+8aJ	.
+4g}	.
+4r	.
 !!LO:LB:g=esac
-=9
-{8g
-8b
-8cc
-8ff
-8dd
-8b
-=10
-4cc
-8g
-8b
-4cc
-=11
-8g
-8b
-8cc
-8ff
-8dd
-8b
-=12
-4cc
-8g
-8b
-4cc}
+=9	=9
+{8g	da
+8b	da
+8cc	da
+8ff	da
+8dd	dana
+8b	.
+=10	=10
+4cc	da
+8g	da
+8b/	dana,
+4cc	.
+=11	=11
+8g	da
+8b	da
+8cc	da
+8ff	da
+8dd	dana
+8b	.
+=12	=12
+4cc	da
+8g	da
+8b/	dana,
+4cc}	.
 !!LO:LB:g=esac
-=13
-{8dd
-8ff
-4ee
-4dd
-=14
-8cc
-8a
-4g}
-4r
-==
-*-
+=13	=13
+{8dd	ścieżką
+8ff	.
+4ee	po
+4dd	u-
+=14	=14
+8ccL	-gorze.
+8aJ	.
+4g}	.
+4r	.
+==	==
+*- 	*-
+!!!role-singer: Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Żebym ja wiedziała,
+!!gdzie mój Jasio orze,
+!!szłabym ja do niego,
+!!ścieżką po ugorze
+!!ścieżką po ugorze.
+!!da da da da dana da da dana,
+!!da da da da dana da da dana,
+!!ścieżką po ugorze
+!!ścieżką po ugorze.
+!!@VERSE:
+!!2. A orze on orze
+!!pod borem zielonem,
+!!jednym wołem burem,
+!!a drugiem czerwonem,
+!!a drugiem czerwonem.
+!!da da da da dana da da dana,
+!!da da da da dana da da dana,
+!!a drugiem czerwonem,
+!!a drugiem czerwonem.
+!!@VERSE:
+!!3. Żebym ja wiedziała,
+!!gdzie mój Jasio pije,
+!!szłabym ja do niego,
+!!chociaż o dwie mile,
+!!chociaż o dwie mile.
+!!da da da da dana da da dana,
+!!da da da da dana da da dana,
+!!chociaż o dwie mile,
+!!chociaż o dwie mile.
+!!@VERSE:
+!!4. A pije on pije,
+!!w tym nowym gościńcu,
+!!w zawijanéj czapce,
+!!w lewendowém wiéńcu,
+!!w lewendowém wiéńcu.
+!!da da da da dana da da dana,
+!!da da da da dana da da dana,
+!!w lewendowém wiéńcu,
+!!w lewendowém wiéńcu.
+!!@VERSE:
+!!5. Żebym ja wiedziała,
+!!gdzie mój Jasio pije,
+!!zaniosłabym ja mu
+!!z waseczką pomyje,
+!!z waseczką pomyje.
+!!da da da da dana da da dana,
+!!da da da da dana da da dana,
+!!z waseczką pomyje,
+!!z waseczką pomyje.
+!!@VERSE:
+!!6. Zaniosłabym ja mu
+!!jęczmianne otręby,
+!!żeby sobie wytar(ł)
+!!po gorzałce zęby,
+!!po gorzałce zęby.
+!!da da da da dana da da dana,
+!!da da da da dana da da dana,
+!!po gorzałce zęby,
+!!po gorzałce zęby.
+!!@@END: VERSES
 !!!ONB: Alternatywnie można zakodować w G
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=111 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 95} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 95}
 !!!page: 95
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25
