@@ -9,50 +9,49 @@
 *C:	*
 *M3/4	*
 =1	=1
-{4cc;	Widzisz
-(>4.g	.
-8f)	.
+{4cc	.
+4.g	.
+8f	.
 =	=
-8d	ty
-8f	dziewucho
+8d	.
+8f	.
 4a	.
-12gL	.
+12g	.
 12e	.
-12cJ	.
+12c	.
 =2	=2
-4e	ten
-(>4.g	ka-
-8a)	.
+4e	.
+4.g	.
+8a	.
 =	=
-8b	-mień
-8cc	nad
-4ee	wodą,
-12ddL	.
+8b	.
+8cc	.
+4ee	.
+12dd	.
 12b	.
-12gJ/}	.
+12g}	.
 !!LO:LB:g=esac
 =3	=3
-{2cc	jak
-4g	on
+{2cc	.
+4g	.
 =4	=4
-8g	pójdzie
+8g	.
 8b	.
-4dd	z_wodą,
+4dd	.
 4cc	.
 =5	=5
-2cc	oże-
+2cc	.
 4e	.
 =6	=6
-8g	-nię
-8f	się
-4d	z_tobą.
+8g	.
+8f	.
+4d	.
 4c}	.
 ==	==
 *-	*-
-!!!RDF**kern: > = above
-!!!role-singer: Lover, Mistress
-!!!role-listener: Mistress, Lover
-!!!singer-sex: male, female
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: male
 !!@@BEGIN: VERSES
 !!@VERSE:1. Widzisz ty dziewucho
 !!ten kamień nad wodą,
