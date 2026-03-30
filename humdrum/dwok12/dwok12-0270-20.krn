@@ -9,49 +9,49 @@
 *F:
 *M3/8
 =1
-{8.cc
-16ee
-16ff
-16ee
+{8.ccL
+16eeJ
+16ffL
+16eeJ
 =2
-16dd
-16b-
-16dd
+16ddL
+16b-J
+16ddL
 16ee
 16ff
-16dd
+16ddJ
 =3
-16cc
-16cc
-4a
+16ccL
+16ccJ
+4a\
 =4
-16dd
-16b-
-16dd
+16ddL
+16b-J
+16ddL
 16ee
 16ff
-16dd}
+16dd}J
 !!LO:LB:g=esac
 =5
-{16cc
+{16ccL
 16cc
-8a
-16a
-16f
+8aJ
+16aL
+16fJ
 =6
-16g
-16g
-8b-
-8dd
+16gL
+16gJ
+8b-L
+8ddJ
 =7
 4cc
-16a
-16f
+16aL
+16fJ
 =8
-16b-
-16g
-8b-
-8a}
+16b-L
+16gJ
+8b-L
+8aJ}
 ==
 *-
 !!!ONB: Partia instrumentalna
@@ -60,3 +60,5 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=160 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 144} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 144}
 !!!page: 144
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25

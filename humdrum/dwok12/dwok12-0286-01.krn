@@ -3,86 +3,143 @@
 !!!source: DWOK12
 !!!id: 12286
 !!!signature: 1228600001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8g
-8b
-8b
-=2
-8cc
-4a
-=3
-16a
-16f#
-8d
-8d
-=4
-8g
-4b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8g	Oj
+8b	już
+8b	ja
+=2	=2
+8bq	.
+8cc	sama
+4a\	nie_wiem
+=3	=3
+16a	co
+16f#	się
+8d	ze
+8d	mną
+=4	=4
+8g	dzieje
+4b}	.
 !!LO:LB:g=esac
-=5
-{16g
-16a
-8b
-8b
-=6
-16cc
-16b
-8a
-8b
-=7
-16a
-16f#
-8d
-8d
-=8
-8g
-4e}
+=5	=5
+{16g	głowiczka
+16a	.
+8b	.
+8b	mnie
+=6	=6
+8bq	.
+16ccL	bo-
+16bJ	.
+8aL	-li
+8bJ\	.
+=7	=7
+16a	i
+16f#	sama
+8d	.
+8d	się
+=8	=8
+8f#q	.
+8g	chwieję.
+4e}	.
 !!LO:LB:g=esac
-=9
-{16a
-16f#
-8d
-8d
-=10
-8e
-4g
-=11
-16a
-16f#
-8d
-8d
-=12
-8g
-4b}
+=9	=9
+{16a	Oj
+16f#	i
+8d	uwa-
+8d	.
+=10	=10
+8e/	-żaj
+4g/	hultaju
+=11	=11
+16a\	na
+16f#\	ten
+8d	matczy-
+8d	.
+=12	=12
+8g	-ny
+4b}	płacz,
 !!LO:LB:g=esac
-=13
-{16g
-16a
-8b
-8b
-=
-24cc
-24dd
-24b
-8a
-8b
-=14
-16a
-16f#
-8d
-8d
-=15
-8g
-4e}
-==
-*-
+=13	=13
+{16g	albo
+16a	.
+8b\	mi
+8b\	wia-
+=	=
+*Xtuplet	*
+24ccL	-nek
+24dd	.
+24bJ	.
+8aL	wróć,
+8bJ\	.
+=14	=14
+16a	albo
+16f#	.
+8d	mi
+8d	go
+=15	=15
+8f#q	.
+8g	zapłać.
+4e}	.
+==	==
+*- 	*-
+!!!role-singer: Maiden, Bachelor
+!!!role-listener: Bachelor, Maiden
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Oj już ja sama nie wiem
+!!co się ze mną dzieje —
+!!głowiczka mnie boli
+!!i sama się chwieję.
+!!@VERSE:
+!!2. Oj i uważaj hultaju
+!!na ten matczyny płacz,
+!!albo mi wianek wróć,
+!!albo mi go zapłać.
+!!@VERSE:
+!!3. Wianka ci nie wrócę,
+!!ale-ć go zapłacę,
+!!bo ja twego serca
+!!mocno nie zasmucę.
+!!@VERSE:
+!!4. Narachował onéj
+!!sto złotych na stole,
+!!pójdź jino Kasińku,
+!!czy stanie za twoje?
+!!@VERSE:
+!!5. Oj mało-ćto, mało,
+!!trzebnoć więcy przysuć,
+!!dać za wiánek sto talarów
+!!a za cnotę tysiąc.
+!!@VERSE:
+!!6. Zgarnęła Kasinka
+!!w jedwabny fartuszek,
+!!upłakala oczki,
+!!weżdrzala na brzuszek.
+!!@VERSE:
+!!7. Staniczku, staniczku,
+!!coś taki wysoczki,
+!!nie obstanie (mi) pasik
+!!ani ze sześć łokci.
+!!@VERSE:
+!!8. Mam ci ja braciszka
+!!w Poznaniu krawczyka,
+!!oj nadszyje ón mi
+!!sześć łokci pasika.
+!!@VERSE:
+!!9. Oj nadszyje ón mi
+!!zieloną wstążeczką,
+!!o bede ja jeszcze
+!!nadobną dzieweczką.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=169 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 153} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 153}
 !!!page: 153
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25

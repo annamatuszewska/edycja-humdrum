@@ -9,34 +9,65 @@
 *F:
 *M3/8
 =1
-{16cc
+{16f 16ccL
 32r
-32dd
-16ee
+32ddJ
+16eeL
 16cc
 16dd
-16cc
+16ccJ
 =2
-16b-
+16b-L
 16a
 16g
-16b-
-16dd
-16ee
+16b-J
+16ddL
+16eeJ
 =3
+16a 16ccL
+16ddJ
+16eeL
 16cc
 16dd
-16ee
-16cc
-16dd
-16cc
-=
-24b-
+16ccJ
+=4
+*Xtuplet
+24b-L
 24a
-24g
-8b-
+24gJ
+8b-L
 16b-
-16a}
+16aJ}
+=5
+{16f 16ccL
+32r
+32ddJ
+16eeL
+16cc
+16dd
+16ccJ
+=6
+16b-L
+16a
+16g
+16b-J
+16ddL
+16eeJ
+=7
+16a 16ccL
+16ddJ
+16eeL
+16cc
+16dd
+16ccJ
+=8
+*Xtuplet
+24b-L
+24a
+24gJ
+8b-L
+16b-
+16aJ}
 ==
 *-
 !!!ONB: Wariant t. 1: 1_0_67_5_6_5_; wariant t. 3: 3_6_7_5_6_5_
@@ -45,3 +76,5 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=153 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 137} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 137}
 !!!page: 137
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25

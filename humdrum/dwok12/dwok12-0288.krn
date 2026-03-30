@@ -3,69 +3,149 @@
 !!!source: DWOK12
 !!!id: 12288
 !!!signature: 1228800000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{4dd
-8dd
-=2
-16dd
-16b
-8dd
-8ee
-=3
-4cc
-8cc
-=4
-16b
-16g
-8a
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+!!LO:TX:a:t=Weselna.
+{4dd	Po
+8dd	mo-
+=2	=2
+16dd	-rzu,
+16b	po
+8dd	Wiśle
+8ee	.
+=3	=3
+4cc	pływa
+8cc	.
+=4	=4
+16b	céra-
+16g	.
+8a	-neczka,
+8g}	.
 !!LO:LB:g=esac
-=5
-{16g
-16a
-8f#
-8d
-=6
-16f#
-16g
-8b
-8dd
-=7
-4cc
-8cc
-=8
-16b
-16g
-8a
-8g}
+=5	=5
+{16g	pływa,
+16a	.
+8f#	pływa
+8d	.
+=6	=6
+16f#	miejska
+16g	.
+8b	panna,
+8dd	.
+=7	=7
+4cc	moja
+8cc	.
+(8ddq	.
+=8	=8
+16b)	kochaneczka,
+16g	.
+8a	.
+8g}	.
 !!LO:LB:g=esac
-=9
-{16g
-16a
-8f#
-8d
-=10
-16f#
-16g
-8b
-8dd
-=11
-4cc
-8cc
-=12
-16b
-16g
-8a
-8g}
-==
-*-
+=9	=9
+{16g	pływa,
+16a	.
+8f#	pływa
+8d	.
+=10	=10
+16f#	miejska
+16g	.
+8b	panna,
+8dd	.
+=11	=11
+4cc	moja
+8cc	.
+(8ddq	.
+=12	=12
+16b)	kochaneczka.
+16g	.
+8a	.
+8g}	.
+==	==
+*- 	*-
+!!!role-singer: Bachelor, Narrator, Mother, Maiden
+!!!role-listener: Maiden, Mother
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Po morzu, po Wiśle
+!!pływa céraneczka,
+!!pływa, pływa miejska panna,
+!!moja kochaneczka,
+!!pływa, pływa miejska panna,
+!!moja kochaneczka.
+!!@VERSE:
+!!2. Skorno do dom przyszła,
+!!do pokoju wpadła,
+!!i czém prędzy do zwierciadła
+!!żeli bardzo zbladła,
+!!i czém prędzy do zwierciadła
+!!żeli bardzo zbladła.
+!!@VERSE:
+!!3. Matka ji się pyta:
+!!coś tak bardzo zbladła?
+!!Miałam cukier w pudołeczku
+!!po spacerzem zjadła,
+!!Miałam cukier w pudołeczku
+!!po spacerzem zjadła.
+!!@VERSE:
+!!4. Co to tam za cukier,
+!!co za odór taki?
+!!co godzina, co momenta
+!!rumieniec inaki,
+!!co godzina, co momenta
+!!rumieniec inaki.
+!!@VERSE:
+!!5. Jużeś-ci nie moja,
+!!jużem cię spróbował,
+!!i pojadę już do innéj
+!!będę ji ślubował,
+!!i pojadę już do innéj
+!!będę ji ślubował.
+!!@VERSE:
+!!6. Jużeś-ci nie moja,
+!!już cię nie szanuję,
+!!twój wionyszek lewendowy
+!!koniem roztratuję,
+!!twój wionyszek lewendowy
+!!koniem roztratuję.
+!!@VERSE:
+!!7. Już mi liczko zbladło,
+!!wianyszek się ukłád,
+!!chodziłam nad uodą,
+!!w źródełko my upad,
+!!chodziłam nad uodą,
+!!w źródełko my upad.
+!!@VERSE:
+!!8. Sięgałam, sięgałam,
+!!dostać go nie mogę,
+!!bo-ć ty Jasineczku
+!!kładziesz nań swą nogę,
+!!bo-ć ty Jasineczku
+!!kładziesz nań swą nogę.
+!!@VERSE:
+!!9. Bywał-ci tu jeden,
+!!o saméj północy,
+!!a nimogę-ci go poznać,
+!!czy ma czarne oczy,
+!!a nimogę-ci go poznać,
+!!czy ma czarne oczy.
+!!@VERSE:
+!!10. Dopiérom-ci przyszła,
+!!dopiérom stanęła,
+!!abaczyłam Jasineczka
+!!z czarnemi oczyma,
+!!abaczyłam Jasineczka
+!!z czarnemi oczyma.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=170 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 154} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 154}
 !!!page: 154
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25

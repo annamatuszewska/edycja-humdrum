@@ -9,34 +9,50 @@
 *G:
 *M3/8
 =1
-{16f#
-16g
-16a
+{16f#L
+16gJ
+16aL
 16cc
 16ee
-[16ff#
+[16ff#J
 =2
-16ff#]
-8ee
-16e
-8g
+!LO:TX:t=P:problem=mixed beam
+16ff#L\]
+8ee\
+16e/
+8gJ/
 =3
-16f#
-16g
-16a
+16f#L
+16gJ
+16aL
 16cc
 16ee
-[16ff#
+[16ff#J
 =4
-16ff#]
-8ee
-16e
-8g}
+!LO:TX:t=P:problem=mixed beam
+16ff#\]L
+8ee\
+16e/
+8gJ/}
 ==
 *-
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Siwa gąska siwa
+!!po jęziorku pływa,
+!!kto się w kim zakochał
+!!rado nic nie bywa.
+!!@VERSE:
+!!2. Zakochał się Jasio
+!!i musi się rozstać,
+!!a było-ć to nigdy
+!!przyjazności nie znać.
+!!@@END: VERSES
 !!!ONB: Partia instrumentalna
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=156 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 140} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 140}
 !!!page: 140
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25

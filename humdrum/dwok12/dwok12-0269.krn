@@ -3,63 +3,97 @@
 !!!source: DWOK12
 !!!id: 12269
 !!!signature: 1226900000
-**kern
-*clefG2
-*k[f#]
-*G:
-=1
-*M4/4
-{4b
-8a
-8cc
-4dd
-4b
-=2
-8dd
-8cc
-8a
-8cc
-2b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+=1	=1
+*M4/4	*
+*met(c)	*
+{4b	Trębacze
+8a\	.
+8cc	.
+4dd	trąbią,
+4b	.
+=2	=2
+8dd	muzyka
+8cc	.
+8a\	.
+8cc	grała,
+2b}	.
 !!LO:LB:g=esac
-=3
-{4b
-8a
-8cc
-4dd
-4b
-=4
-8dd
-8cc
-8a
-8cc
-2b}
+=3	=3
+{4b	Jasio
+8a\	.
+8cc	wędrował,
+4dd	.
+4b	.
+=4	=4
+8dd	Kasia
+8cc	.
+8a\	płakała.
+8cc	.
+2b}	.
 !!LO:LB:g=esac
-=5
-*M3/4
-{8b
-8dd
-8dd
-8dd
-8ee
-8cc
-=6
-8a
-8cc
-8b
-8cc
-8dd
-8b
-=7
-*M4/4
-8g
-8a
-8b
-8cc
-2a}
-==
-*-
+=5	=5
+*M3/4	*
+{8bL	oj
+8ddJ	.
+8dd	trata
+8dd	.
+8ee	tata,
+8cc	.
+=6	=6
+8aL	oj
+8ccJ	.
+8b	trata
+8cc	.
+8dd	tata
+8b	.
+=7	=7
+*M4/4	*
+*met(c)	*
+8g	trata
+8a\	.
+8b	tata
+8cc	.
+2a}	ta.
+==	==
+*- 	*-
+!!!role-singer: Narrator, Maiden, Bachelor
+!!!role-listener: Bachelor, Maiden
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Trębacze trąbią, kapela grała,
+!!Jasio wędrował, Kasieńka spala.
+!!oj trata tata, oj trata tata
+!!trata tata ta.
+!!@VERSE:
+!!2. Żebyś dobry był, byłbyś mnie zbudził,
+!!a na rozłączenie słówko przemówił.
+!!oj trata tata, oj trata tata
+!!trata tata ta.
+!!@VERSE:
+!!3. Kasiu, Kasieńku, wędruj-że ze mną,
+!!a sprawię ja tobie suknię zieloną.
+!!oj trata tata, oj trata tata
+!!trata tata ta.
+!!@VERSE:
+!!4. Suknię zieloną, nie bardzo długą,
+!!abyś nie szargała, wędrujęcy ze mną.
+!!oj trata tata, oj trata tata
+!!trata tata ta.
+!!@VERSE:
+!!5. Sójka na dębie, gryzie żołędzie,
+!!Bóg tylko jeden wié, który mój będzie.
+!!oj trata tata, oj trata tata
+!!trata tata ta.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=159 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 143} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 143}
 !!!page: 143
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25
