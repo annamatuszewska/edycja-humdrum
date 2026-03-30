@@ -3,82 +3,107 @@
 !!!source: DWOK12
 !!!id: 12231
 !!!signature: 1223100000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{8f
-8.a
-16g
-=2
-8b-
-4a
-=3
-16cc
-16cc
-8.dd
-16g
-=4
-8b-
-4a}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{8f\	Piękne
+8.a	.
+16g	goź-
+=2	=2
+8b-/	-dziki,
+4a	.
+=3	=3
+16cc	śliczne
+16cc	.
+8.dd	tu-
+16g	-li-
+=4	=4
+8b-	-pany,
+4a}	.
 !!LO:LB:g=esac
-=5
-{8cc
-8ff
-16ee
-16dd
-=6
-4cc
-8a
-=7
-16g
-16b-
-8dd
-8cc
-=8
-8b-
-4a}
+=5	=5
+{8cc	gdzież
+(8ff	mi
+16eeL	się
+16ddJ)	.
+=6	=6
+4cc	podział
+8a\	.
+=7	=7
+16g	mój
+16b-/	Stasio
+8dd	.
+8cc	ko-
+=8	=8
+8b-	-chany.
+4a\}	.
 !!LO:LB:g=esac
-=9
-{8a
-8.a
-16g
-=10
-8b-
-4a
-=11
-16cc
-16cc
-8.dd
-16g
-=12
-8b-
-4a}
+=9	=9
+{8a	Piękne
+8.a	.
+16g	goź-
+=10	=10
+8b-/	-dziki,
+4a	.
+=11	=11
+16cc	śliczne
+16cc	.
+8.dd	tu-
+16g	-li-
+=12	=12
+8b-	-pany,
+4a}	.
 !!LO:LB:g=esac
-=13
-{16cc
-16a
-8ff
-16ee
-16dd
-=14
-4cc
-16b-
-16a
-=15
-16g
-16b-
-8dd
-8cc
-=16
-8a
-4f}
-==
-*-
+=13	=13
+{16ccL	gdzież
+16aJ/	.
+(8ff	mi
+16eeL	się
+16ddJ)	.
+=14	=14
+4cc	podział
+16b-L	.
+16aJ	.
+=15	=15
+16g	mój
+16b-/	Stasio
+8dd	.
+8cc	ko-
+=16	=16
+8a	-chany.
+4f}	.
+==	==
+*- 	*-
+!!!role-singer: Maiden
+!!!role-listener: Bachelor
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Piękne goździki, śliczne tulipany,
+!!gdzież mi się podział mój Stasio kochany?
+!!@VERSE:
+!!2. Może żegląrze wzięli go na morze,
+!!bo mi się serce ukojić nie może.
+!!@VERSE:
+!!3. Przybądź tu, przybądź, pocieszenie moje,
+!!jak nie przybędziesz, uschnie serce moje.
+!!@VERSE:
+!!4. Jak nie przybędziesz, ja umierać muszę,
+!!a jak ja umrę, to na twoją duszę!
+!!@VERSE:
+!!5. Astrologowie, co gwiazdy liczycie,
+!!czy wy o mojim kochanku nie wiécie?
+!!@VERSE:
+!!6. Albo mię życia mojego pozbawcie,
+!!albo, co kocham, w momencie postawcie.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=139 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 123} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 123}
 !!!page: 123
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25

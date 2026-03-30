@@ -3,56 +3,112 @@
 !!!source: DWOK12
 !!!id: 12222
 !!!signature: 1222200010
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16f#
-16g
-8.dd
-16dd
-=2
-16dd
-16ee
-8ff
-8dd
-=3
-16cc
-16ee
-8.dd
-16cc
-=4
-16a
-16b
-8g
-8a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16f#	Ugania
+16g	.
+8.dd	.
+16dd	się
+=2	=2
+16dd	Wisła
+16ee	.
+8ff	z_wodą,
+8dd	.
+=3	=3
+16cc	o
+16ee	Basińkę,
+8.dd	.
+16cc	.
+=4	=4
+16a\	o
+16b	nadobną.
+8g	.
+8a}	.
 !!LO:LB:g=esac
-=5
-{16f#
-16g
-8.dd
-16cc
-=6
-16a
-16b
-8dd
-8a
-=7
-16f#
-16g
-8.dd
-16cc
-=8
-16a
-16b
-8g
-8a}
-==
-*-
+=5	=5
+{16f#	Wisła
+16g	.
+8.dd	mówi:
+16cc	.
+=6	=6
+16a\	utopię
+16b	.
+8dd	.
+8a	ją,
+=7	=7
+16f#	rzeka
+16g	.
+8.dd	mówi:
+16cc	.
+=8	=8
+16a\	wyrzucę
+16b	.
+8g	.
+8a}	ją.
+==	==
+*- 	*-
+!!!role-singer: Bachelor, Mother, Maiden
+!!!role-listener: Mother, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Ugania się Wisła z wodą,
+!!o Basińkę, o nadobną.
+!!Wisła mówi: utopię ją,
+!!woda mówi: wyrzucę ją.
+!!@VERSE:
+!!2. Jasio mówi: weznę ja ją,
+!!dam matusi, wychowa ją,
+!!aż do roczku do ósmego,
+!!do powrotu do mojego.
+!!@VERSE:
+!!3. Ósmy roczek już nadchodzi,
+!!Basię za mąż wydać godzi.
+!!Wydajma ją za innego,
+!!za trębacza królewskiego.
+!!@VERSE:
+!!4. Moja matko, jak cię proszę,
+!!gdzieś podziała moją Basię?
+!!Wydaliśma za innego,
+!!za trębacza królewskiego.
+!!@VERSE:
+!!5. Moja matko daj piszczele,
+!!pójdę zagrać na wesele.
+!!Stanę cicho u podwoja,
+!!usłyszy mnie Basia moja.
+!!@VERSE:
+!!6. Nie chodź Jasiu, bo zawadzisz
+!!wesele i (jéj) rozprowadzisz.
+!!Nie uszkodzę, nie zawadzę,
+!!wesela nie rozprowadzę.
+!!@VERSE:
+!!7. Poszed, poszed, stanoł w sieni
+!!wszyscy przed nim czapki zdjęni
+!!Poszed, poszed, stanoł w progu
+!!i wygrawa Panu Bogu.
+!!@VERSE:
+!!8. I wygrawa, przytępuje,
+!!Basia mu się przypatruje.
+!!Jak się dobrze przypatrzyła,
+!!cztéry stoły przeskoczyła,
+!!a ten piąty obaliła,
+!!szyji mu się uchwyciła.
+!!@VERSE:
+!!9. O witaj-że, mój najmilszy,
+!!boś ty był mi mój nájpir(w)szy.
+!!Idź trębaczu w inną stronę,
+!!nie powiadaj, że masz żonę.
+!!Idź trębaczu, trąb i pukaj,
+!!innéj sobie żony szukaj.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=132 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 116} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 116}
 !!!page: 116
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25

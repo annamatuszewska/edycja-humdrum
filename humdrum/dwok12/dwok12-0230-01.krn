@@ -3,74 +3,162 @@
 !!!source: DWOK12
 !!!id: 12230
 !!!signature: 1223000001
-**kern
-*clefG2
-*k[b-]
-*F:
-*M4/4
-=1
-{4f
-8f
-8f
-4.ff
-8cc
-=2
-8dd
-8ee
-8ff
-8dd
-4cc
-4a}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M4/4	*
+*met(c)	*
+=1	=1
+{4f	Boże
+8f	.
+8f	mój
+4.ff	Boże,
+8cc	.
+=2	=2
+8dd	co
+8ee	my
+8ff	za
+8dd	radę
+4cc	.
+4a}	dasz,
 !!LO:LB:g=esac
-=3
-{8g
-8g
-8g
-8b-
-4dd
-8cc
-8b-
-=4
-8a
-8g
-8cc
-8e
-4f
-4f}
+=3	=3
+{8g	kogo
+8g	.
+8g	ja
+8b-/	kochała,
+(4dd	.
+8cc)	.
+8b-	.
+=4	=4
+8a	nima
+8g	.
+8cc	go
+8e	tu
+4f	teraz.
+4f}	.
 !!LO:LB:g=esac
-=5
-{4g
-8b-
-8e
-4.f
-8a
-=6
-8cc
-8cc
-8dd
-8cc
-4a
-4f}
+=5	=5
+{4g	Oj
+8b-	nima,
+8e	.
+4.f	nima
+8a	.
+=6	=6
+8cc	tego
+8cc	.
+8dd	mego
+8cc	.
+4a\	Jasia,
+4f\}	.
 !!LO:LB:g=esac
-=7
-{8g
-8g
-8g
-8b-
-4dd
-8cc
-8b-
-=8
-8a
-8g
-8cc
-8e
-4f
-4f}
-==
-*-
+=7	=7
+{8g	z_kim
+8g	będę
+8g	.
+8b-	ja-
+(4dd	-da-
+8cc)	.
+8b-	-ła
+=8	=8
+8a	rybeczkę
+8g	.
+8cc	.
+8e	kara-
+4f	.
+4f}	-sia.
+==	==
+*- 	*-
+!!!role-singer: Maiden, Bachelor, Narrator
+!!!role-listener: God, Maiden
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Boże mój Boże,
+!!co my za radę dasz,
+!!kogo ja kochała,
+!!nima go tu teraz.
+!!@VERSE:
+!!2. Oj nima, nima
+!!tego mego Jasia,
+!!z kim będę jadała
+!!rybeczkę karasia?
+!!@VERSE:
+!!3. Oj nima, nima
+!!moji jagódeczki,
+!!z kim będę jadała
+!!drobne okónieczki?
+!!@VERSE:
+!!4. Choć wyńdę przed dom,
+!!wszystko my niemiłe,
+!!boć moje serce
+!!od żalu umiéra.
+!!@VERSE:
+!!5. Choć wyńdę w pole
+!!i to my nie droga,
+!!płaczę i wyrzekam
+!!i wzdycham do Boga.
+!!@VERSE:
+!!6. Oj wiatry, wiatry
+!!wiatry nieszczęśliwe,
+!!gdzieście my zawiały
+!!kochanie teskliwe.
+!!@VERSE:
+!!7. Zawiały, zawiały
+!!za bory, za lasy,
+!!nie widzieli-ć my go
+!!w takie dawne czasy.
+!!@VERSE:
+!!8. A wy kaminie,
+!!co w morza leżycie,
+!!wy-ć (w)ó nim wiécie,
+!!a mnie nie powiécie.
+!!@VERSE:
+!!9. Jest ta-ć (w)ón, jest ta
+!!w sádzie cyprysewym,
+!!czesze głowusie
+!!grzebieniem perłewym.
+!!@VERSE:
+!!10. Po sádzie chodziła,
+!!litery résała,
+!!wiele je(st) dni w roku,
+!!to je opłakała.
+!!@VERSE:
+!!11. Kochaneczko moja,
+!!żeli ci się godzi,
+!!spójrzałaś swém oczkiem,
+!!sercu memu szkodzi.
+!!@VERSE:
+!!12. Spójrzałaś swém oczkiem,
+!!samaśmi się skryła,
+!!bodaj-ś mi się była
+!!na świat nie zrodziła.
+!!@VERSE:
+!!13. Wiela jest kroplów
+!!na szerokij wannie,
+!!tyla utciwości
+!!w kaździusińkiéj pannie.
+!!@VERSE:
+!!14. Wiela jest wełny
+!!na biały owieczce,
+!!tyla utciwości
+!!w każdy panieneczce.
+!!@VERSE:
+!!16. Wiela jest kłosów
+!!na jęczmiennym snopie,
+!!tyla fałszywości
+!!w kazdziusiéńkim chłopie.
+!!@VERSE:
+!!16. Chłop się rozstanie,
+!!popiół się rozsieje,
+!!a gdzie się obróci,
+!!z dziewczęcia się śmieje.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=138 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 122} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 122}
 !!!page: 122
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25

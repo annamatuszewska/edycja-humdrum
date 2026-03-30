@@ -3,86 +3,99 @@
 !!!source: DWOK12
 !!!id: 12249
 !!!signature: 1224900002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{4dd
-8cc
-8a
-8f#
-8a
-=2
-8cc
-8b
-2g
-=3
-4dd
-8a
-8g
-8f#
-8g
-=4
-8a
-8f#
-2d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{4dd	Pojmij
+8cc	.
+8a	mnie
+8f#	Jasiu
+8a	.
+=2	=2
+8cc	za
+8b	żonę,
+2g	.
+=3	=3
+4dd/	da
+8a	ci
+8g	matu-
+8f#	.
+8g	-la
+=4	=4
+8a	fortunę.
+8f#	.
+2d}	.
 !!LO:LB:g=esac
-=5
-{8d
-8f#
-8a
-8a
-8a
-8f#
-=6
-8d
-8g
-8b
-8b
-8b
-8g
-=7
-8d
-8f#
-8a
-8a
-8a
-8f#
-=8
-8d
-8g
-8b
-8b
-8b
-8g}
+=5	=5
+{8d	Skrzynię
+8f#	.
+8a	malowaną,
+8a	.
+8a	.
+8f#	.
+=6	=6
+8d	Kasię
+8g	.
+8b/	likowa-
+8b/	.
+8b/	.
+8g	-ną,
+=7	=7
+8d	poduszki
+8f#	.
+8a	.
+8a	kwapowe,
+8a	.
+8f#	.
+=8	=8
+8d	pierzynki
+8g	.
+8b/	.
+8b/	gotowe.
+8b/	.
+8g}	.
 !!LO:LB:g=esac
-=9
-{4b
-8cc
-8a
-8f#
-8a
-=10
-8cc
-8b
-4g
-4b
-=11
-4dd
-8cc
-8a
-8f#
-8a
-=12
-8cc
-8b
-2g}
-==
-*-
+=9	=9
+{4b	pojmij
+8cc	.
+8a	mnie
+8f#	Jasiu,
+8a	.
+=10	=10
+8cc	pojmij
+8b	.
+(4g	mnie,
+4b)	.
+=11	=11
+4dd	da
+8cc	ci
+8a	matu-
+8f#	.
+8a	-la
+=12	=12
+8cc	fortunę.
+8b	.
+2g}	.
+==	==
+*- 	*-
+!!!role-singer: Maiden
+!!!role-listener: Bachelor
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!Pojmij mnie Jasiu za żonę,
+!!da ci matula fortunę.
+!!Skrzynię malowaną, Kasię likowaną,
+!!poduszki kwapowe, pierzynki gotowe.
+!!pojmij mnie Jasiu, pojmij mnie,
+!!da ci matula fortunę.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=149 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 133} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 133}
 !!!page: 133
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25

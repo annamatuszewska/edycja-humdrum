@@ -3,71 +3,101 @@
 !!!source: DWOK12
 !!!id: 12239
 !!!signature: 1223900000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M4/4
-=1
-{4b
-8dd
-8dd
-4dd
-4g
-=2
-4cc
-8ee
-8ee
-4ee
-4dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M4/4	*
+=1	=1
+{4b	Płynę-
+8dd	.
+8dd	-ły
+4dd	gęsi
+4g	.
+=2	=2
+4cc	z_Litwy
+8ee	.
+8ee	do
+4ee	Rusi,
+4dd}	.
 !!LO:LB:g=esac
-=3
-{8b
-8dd
-8dd
-8dd
-4dd
-4g
-=4
-4cc
-8ee
-8ee
-8ee
-8dd
-4dd}
+=3	=3
+{8bL	zmą-
+8ddJ/	.
+8dd	-ciły
+8dd	.
+4dd	wodę
+4g	.
+=4	=4
+4cc	moji
+8ee	.
+8ee	Polusi.
+8eeL/	.
+8ddJ	.
+4dd}	.
 !!LO:LB:g=esac
-=5
-{4ee
-8cc
-8cc
-4.b
-8g
-=6
-4f#
-8a
-8a
-4g
-8g
-8dd}
+=5	=5
+{4ee	Mo-
+8cc	-ja
+8cc	Polusia
+4.b	.
+8g	.
+=6	=6
+4f#	chusteczki
+8a	.
+8a	.
+4g\	prała,
+8gL	.
+8ddJ/}	.
 !!LO:LB:g=esac
-=7
-{8ee
-8cc
-8cc
-8cc
-4.b
-8g
-=8
-8f#
-8a
-8a
-8a
-4g
-4g}
-==
-*-
+=7	=7
+{8ee	musiała
+8cc	.
+8cc	.
+8cc	zaczekać,
+4.b	.
+8g	aż
+=8	=8
+8f#	aż
+8a	.
+8a	woda
+8a	.
+4g	stała.
+4g}	.
+==	==
+*- 	*-
+!!!role-singer: Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Płynęły gęsi z Litwy do Rusi,
+!!zmąciły wodę moji Polusi.
+!!Moja Polusia chusteczki prała,
+!!musiała zaczekać, aż woda stała.
+!!@VERSE:
+!!2. Moja Połusiu, bądźmy jednéj myśli,
+!!pójdziemy do sadu, narwiemy wiśni.
+!!Narwiemy wiśni, narwiemy gruszek,
+!!nadamy Polusi pełen chfartuszek.
+!!@VERSE:
+!!3. Ja będę służył u księdza w klasztorze,
+!!a ty Polusiu za pannę we dworze.
+!!@VERSE:
+!!4. Będą ci się kłaniać wielcy panowie,
+!!książęta, panięta i senatorowie.
+!!Będą myśleli żeś ty wielka pani,
+!!a tyś-ci sierota nad sierotami.
+!!@VERSE:
+!!5. Kto idzie drogą, kopnie kamień nogą,
+!!także téż i mnie sierotę ubogą.
+!!Żeby te kaminie przy drogach nie béły,
+!!a my sieroty na świecie nie żyły.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=142 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 126} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 126}
 !!!page: 126
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25

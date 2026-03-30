@@ -3,91 +3,105 @@
 !!!source: DWOK12
 !!!id: 12248
 !!!signature: 1224800002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{4dd
-8dd
-8g
-8b
-8dd
-=2
-8cc
-8a
-4g
-4r
-=3
-4cc
-8b
-8d
-8f#
-8a
-=4
-8g
-16f#
-16e
-4d}
-4r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{4dd	Pojmij
+8dd	.
+8g	mnie
+8b	Jasiu
+8dd	.
+=2	=2
+8cc	pojmij
+8a\	.
+4g	mnie,
+4r	.
+=3	=3
+4cc	da
+8b	ci
+8d	matu-
+8f#	.
+8a	-la
+=4	=4
+8gL	pierzynę,
+16f#	.
+16eJ	.
+4d}	.
+4r	.
 !!LO:LB:g=esac
-=5
-{8d
-8g
-8f#
-8g
-8a
-8g
-=6
-8g
-8b
-8b
-8a
-8cc
-8b
-=7
-8d
-8g
-8f#
-8g
-8a
-8g
-=8
-8g
-8b
-8b
-8a
-8cc
-8b}
+=5	=5
+{8d	pierzynę
+8g	.
+8f#	.
+8g	kwapową,
+8a	.
+8g	.
+=6	=6
+8g	sto
+8b	złotych
+8b	.
+8a\	gotowo,
+8cc	.
+8b	.
+=7	=7
+8d	skrzynię
+8g	.
+8f#	malowaną
+8g	.
+8a	.
+8g	.
+=8	=8
+8g	i
+8b	żonę
+8b	.
+8a\	kochaną,
+8cc	.
+8b}	.
 !!LO:LB:g=esac
-=9
-{4dd
-8dd
-8g
-8b
-8dd
-=10
-8cc
-16b
-16a
-4g
-4r
-=11
-4cc
-8b
-8d
-8f#
-8a
-=12
-8g
-8f#
-4d}
-4r
-==
-*-
+=9	=9
+{4dd	pojmij
+8dd	.
+8g	mnie
+8b	Jasiu,
+8dd	.
+=10	=10
+8cc	pojmij
+16bL	.
+16aJ	.
+4g	mnie,
+4r	.
+=11	=11
+4cc	da
+8b	ci
+8d	matula
+8f#	.
+8a	.
+=12	=12
+8g	pierzynę.
+8f#m	.
+4d\}	.
+4r	.
+==	==
+*- 	*-
+!!!role-singer: Maiden
+!!!role-listener: Bachelor
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Pojmij mnie Jasiu pojmij mnie,
+!!da ci matula pierzynę,
+!!pierzynę kwapową, sto slotych gotowo,
+!!skrzynię malowaną i żonę kochaną,
+!!pojmij mnie Jasiu, pojmij mnie,
+!!da ci matula pierzynę.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=149 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 133} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 133}
 !!!page: 133
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25
