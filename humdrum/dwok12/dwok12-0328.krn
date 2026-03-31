@@ -3,75 +3,92 @@
 !!!source: DWOK12
 !!!id: 12328
 !!!signature: 1232800000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16g
-16g
-8b
-8cc
-=2
-16dd
-16dd
-8gg
-8gg
-=3
-16ee
-16dd
-8cc
-8ee
-=4
-8ff
-16ee
-16cc}
-8r
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16g	A
+16g	nie-
+8b	-zbedna
+8cc	.
+=2	=2
+16dd	stajeneczka
+16dd	.
+8gg	.
+8gg	.
+=3	=3
+16ee	co
+16dd	w_podwórzu
+8cc	.
+8ddq	.
+8ee	.
+=4	=4
+8ff	była,
+16eeL	.
+16ccJ}	.
+8r	.
 !!LO:LB:g=esac
-=5
-{16dd
-16ff
-8ee
-8g
-=6
-16b
-16dd
-8cc
-8cc
-=7
-16a
-16g
-8f
-8a
-=8
-4b-
-8g}
+=5	=5
+{16dd	co
+16ff	ja
+8ee	do
+8g\	ni
+=6	=6
+16b	kochaneczka
+16dd	.
+8cc	.
+8cc	.
+=7	=7
+16a	budzićem
+16g	.
+8f	.
+8a	cho-
+=8	=8
+4b-	-dzi-
+8g}	-ła,
 !!LO:LB:g=esac
-=9
-{16dd
-16ff
-8ee
-8cc
-=10
-16b
-16dd
-8cc
-8cc
-=11
-16a
-16g
-8f
-8a
-=12
-8.b-
-16a
-8g}
-==
-*-
+=9	=9
+{16dd	co
+16ff	ja
+8eeL	do
+8ccJ/	ni
+=10	=10
+16b	kochaneczka
+16dd	.
+8cc	.
+8cc	.
+=11	=11
+16a	budzićem
+16g	.
+8f	.
+8a	cho-
+=12	=12
+(8.b-L	-dzi-
+16aJ)	.
+8g}	-ła.
+==	==
+*- 	*-
+!!!role-singer: Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. A niezbedna stajeneczka
+!!co w podwórzu była,
+!!co ja do ni kochaneczka
+!!budzićem chodziła.
+!!@VERSE:
+!!2. A niezbedna stajeneczka
+!!a niezbedne spanie,
+!!co ja muszę opłakiwać
+!!aż do śmierci na nie.
+!!@@END: VERSES
 !!!ONB: Alternatywnie można zakodować w G
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=189 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 173} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 173}
 !!!page: 173
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-26

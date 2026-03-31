@@ -3,52 +3,117 @@
 !!!source: DWOK12
 !!!id: 12292
 !!!signature: 1229200011
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{4ff
-8ff
-=2
-16ee
-16ee
-8cc
-8ee
-=3
-8.ff
-16dd
-8ee
-=4
-16cc
-16cc
-8dd
-8b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{4ff	Gdzie
+8ff	pan-
+=2	=2
+16ee	-na
+16ee	waspanna,
+8cc	.
+8ee	.
+=3	=3
+8.ffL	gdzie
+16ddJ	.
+8ee	pan-
+=4	=4
+16cc	-na
+16cc	wędruje.
+8dd	.
+8b}	.
 !!LO:LB:g=esac
-=5
-{16g
-16b
-8.dd
-16b
-=6
-16cc
-16cc
-8ee
-8gg
-=7
-8.ff
-16dd
-8ee
-=8
-16ee
-16cc
-8dd
-8b}
-==
-*-
+=5	=5
+{16g	A
+16b	ja
+8.dd	i-
+16b	-dę
+=6	=6
+16cc	na
+16cc	jago-
+8ee	.
+8gg	-dy
+=7	=7
+8.ffL	gdzie
+16ddJ	.
+8ee	wa-
+=8	=8
+16ee	-san
+16cc	poluje.
+8dd	.
+8b}	.
+==	==
+*- 	*-
+!!!role-singer: Narrator, Maiden, Lord
+!!!role-listener: Maiden, Lord
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Gdzie panna waspanna,
+!!gdzie panna wędruje.
+!!A ja idę na jagody
+!!gdzie wasan poluje.
+!!@VERSE:
+!!2. Zbiéraj panna, zbiéraj,
+!!nie trzeba się spieszyć;
+!!a jak ja się powrócę,
+!!będziemy się cieszyć.
+!!@VERSE:
+!!3.Skorno on się wrócił,
+!!ona mu się skryła
+!!pod zieloną brzezineczkę,
+!!listkiem się przykryła.
+!!@VERSE:
+!!4. Skorno ją ta zoczył,
+!!zaraz s konia skoczył,
+!!i uściskał, ucałował,
+!!cieszyli się społem.
+!!@VERSE:
+!!5. Puść mnie wasan, puść mnie,
+!!bo słońce niziuśko;
+!!słońce nisko, a do domu
+!!i mamy daleczko.
+!!@VERSE:
+!!6. Nie puszczę ja panny,
+!!boby pobłądziła,
+!!każę zaprządz cztery konie,
+!!ażeby trafiła.
+!!@VERSE:
+!!7. O trafię ja sama,
+!!o i niegodna ja
+!!o i taki uczciwości,
+!!o i od takiego pana.
+!!@VERSE:
+!!8. Godnaś panno, godna,
+!!boś mi się udała.
+!!Co ja téż uczyniła,
+!!co ja gęby dała!
+!!@VERSE:
+!!9. Za szklenicę wina,
+!!i za chleba bułkę,
+!!będę teraz kołysała
+!!tę małą kukułkę.
+!!@VERSE:
+!!10. Lulaj, lulaj, lulaj,
+!!moja kukułeczko —
+!!a pierwy ci mi mówili:
+!!dzień dobry dzieweczko!
+!!@VERSE:
+!!11. Będą, będą mówić:
+!!dzień dobry, wasani!
+!!a kaj ja się to obrócę,
+!!zaleję się łzami.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY:Nuta ob. nr. 254.
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=172 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 156} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 156}
 !!!page: 156
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25

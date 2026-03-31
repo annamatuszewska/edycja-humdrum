@@ -3,83 +3,141 @@
 !!!source: DWOK12
 !!!id: 12315
 !!!signature: 1231500002
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16f
-16a
-8cc
-8ff
-=2
-16dd
-16cc
-8.b-
-16a
-=3
-16g
-16b-
-8dd
-8cc
-=4
-4f}
-8r
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16f	Posłu-
+16a	.
+8cc	-chajcie
+8ff	.
+=2	=2
+16dd	panie-
+16cc	.
+8.b-	-neczki
+16a	.
+=3	=3
+16g	co
+16b-	wam
+8dd	za-
+8bq	.
+8cc	-nu-
+=4	=4
+4f}	-cę,
+8r	.
 !!LO:LB:g=esac
-=5
-{16f
-16a
-8cc
-8ff
-=6
-16dd
-16cc
-8.b-
-16a
-=7
-16g
-16b-
-8dd
-8cc
-=8
-4f}
-8r
+=5	=5
+{16f	co
+16a	mi
+8cc	chłopcy
+8ff	.
+=6	=6
+16dd	wyrządzi-
+16cc	.
+8.b-	.
+16a	-li,
+=7	=7
+16g	teraz
+16b-	.
+8dd	się
+8bq	.
+8cc	smu-
+=8	=8
+4f}	-cę.
+8r	.
 !!LO:LB:g=esac
-=9
-{16g
-16e
-8g
-8b-
-=10
-16a
-16a
-8a
-8cc
-=11
-16g
-16e
-8g
-16b-
-16a
-=12
-16a
-16a
-8a
-8cc}
+=9	=9
+{16g	Mamula
+16e	.
+8g	.
+8b-	mi
+=10	=10
+16a	przykaza-
+16a	.
+8a	.
+8cc	-ła
+=11	=11
+16g	bym
+16e	z_chłopcami
+8g	.
+16b-L	.
+16aJ	.
+=12	=12
+16a	nie
+16a	gada-
+8a	.
+8cc}	-ła
 !!LO:LB:g=esac
-=13
-{16g
-16b-
-8dd
-8cc
-=14
-4f}
-8r
-==
-*-
+=13	=13
+{16g	ja
+16b-	nie
+8dd	słucha-
+8bq	.
+8cc	.
+=14	=14
+4f}	-ła.
+8r	.
+==	==
+*- 	*-
+!!!role-singer: Maiden
+!!!role-listener: Maidens
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Posłuchajcie panienieczki
+!!co wam zanucę,
+!!co mi chłopcy wyrządzili,
+!!teraz się smucę.
+!!Mamula mi przykazała
+!!był z chłopcami nie gadała
+!!ja nie słuchała.
+!!@VERSE:
+!!2. Żebym była tak słuchała
+!!jak mi mówiono,
+!!byłoby mi tego figla
+!!nie wyrządzono.
+!!Płochość moja taka była,
+!!chłopotu mi narobiła,
+!!teraz narzékam.
+!!@VERSE:
+!!3. Już mnie teraz chłopcy nie chcą,
+!!już mnie mijają,
+!!piérwéj o przyjaźń prosili,
+!!teraz nie dbają.
+!!Ni ja teraz przyjaciela,
+!!przedtém tego było wiela,
+!!teraz żadnego.
+!!@VERSE:
+!!4. Panienki się odwracają
+!!nie chcą nic gadać,
+!!w kompaniję nie przyjmują
+!!ze sobą siadać.
+!!Czapczarką mnie nazywają,
+!!do babów mnie wyganiają,
+!!a idź do babów!
+!!@VERSE:
+!!5. Boć to każdy chłop jak piesek,
+!!pięknie się łasi,
+!!jak upoji, uczęstuje,
+!!to się rozkwasi.
+!!A jak uźre, pomiarkuje,
+!!we świat sobie powędruje,
+!!idzie od spasi.
+!!@VERSE:
+!!6. Oj nie skaczcie wy panienki
+!!bo-ście w téj drodze,
+!!by wam się nie przytrafiło
+!!co mnie niebodze.
+!!Ja-ć téż przedtem za złe miała,
+!!gdy która nie statkowała,
+!!sprawę'm pokpiła.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=184 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 168} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 168}
 !!!page: 168
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25

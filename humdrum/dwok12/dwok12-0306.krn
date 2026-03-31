@@ -3,117 +3,143 @@
 !!!source: DWOK12
 !!!id: 12306
 !!!signature: 1230600000
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M3/8
-=1
-{16a
-16b
-8a
-16g
-16e
-=2
-8d
-16f#
-16e
-8r
-=3
-16g
-16b
-4dd
-=4
-16ff#
-16ee
-8dd#
-8ee}
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M3/8	*
+=1	=1
+{16a	Z_pola
+16b/	.
+8a	i-
+16gL	-no
+16eJ	.
+=2	=2
+8d	z_pola,
+16f#L	.
+16eJ	.
+8r	.
+=3	=3
+16g	ty
+16b	dziewu-
+4dd	.
+=4	=4
+16ff#L	-lo
+16eeJ	.
+8dd#	moja,
+8ee}	.
 !!LO:LB:g=esac
-=5
-{16a
-16b
-8a
-16g
-16e
-=6
-8d
-8.f#
-16e
-=7
-16g
-16b
-4dd
-=8
-16a
-16b
-8a
-16g
-16e
-=9
-16d
-16f#
-8.a
-16g
-=10
-4e}
-8r
+=5	=5
+{16a	czego
+16b/	.
+8a	my
+16gL	się
+16eJ	.
+=6	=6
+8d	oglądasz,
+8.f#	.
+16e	.
+=7	=7
+16g	oglądasz,
+16b	.
+4dd	.
+=8	=8
+16a	czego
+16b/	.
+8a	my
+16gL	się
+16eJ	.
+=9	=9
+16dL	o-
+16f#J	.
+8.aL	-glą-
+16gJ	.
+=10	=10
+4e}	-dasz.
+8r	.
 !!LO:LB:g=esac
-=11
-{16a
-16b
-8a
-16g
-16e
-=12
-8d
-16f#
-16e
-8r
-=13
-16g
-16b
-8.dd
-16ee
-=14
-16ff#
-16ee
-8dd#
-16ee
-16b}
+=11	=11
+{16a	Z_pola
+16b/	.
+8a	i-
+16gL	-no
+16eJ	.
+=12	=12
+8d	z_pola,
+16f#L	.
+16eJ	.
+8r	.
+=13	=13
+16g	ty
+16b	dziewu-
+8.ddL	.
+16eeJ/	.
+=14	=14
+16ff#L	-lo
+16eeJ	.
+8dd#	moja,
+16eeL	.
+16bJ/}	.
 !!LO:LB:g=esac
-=15
-{16a
-16b
-8a
-16g
-16e
-=16
-8d
-8.f#
-16e
-=17
-16g
-16b
-4dd
-=18
-16a
-16b
-8a
-16g
-16e
-=19
-16d
-16f#
-8.a
-16g
-=20
-4e}
-8r
-==
-*-
+=15	=15
+{16a	czego
+16b/	.
+8a	my
+16gL	się
+16eJ	.
+=16	=16
+8d	oglądasz,
+8.f#	.
+16e	.
+=17	=17
+16g	oglądasz,
+16b	.
+4dd	.
+=18	=18
+16a	czego
+16b/	.
+8a	my
+16gL	się
+16eJ	.
+=19	=19
+16dL	o-
+16f#J	.
+8.aL	-glą-
+16gJ	.
+=20	=20
+4e}	-dasz.
+8r	.
+==	==
+*- 	*-
+!!!role-singer: Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Z pola ino z pola,
+!!ty dziewulo moja,
+!!czego my się oglądasz, oglądasz,
+!!czego my się oglądasz.
+!!@VERSE:
+!!2. Zadałeś my zadał, 
+!!bodajeś przepadał, 
+!!zadałeś my rzewny płacz; 
+!!zadałeś my synka, 
+!!plażyła pierzynka 
+!!nie chcesz mu się ojcem zwać.
+!!@VERSE:
+!!3. Ino za dwa latka 
+!!gdy zawoła: tatka! 
+!!musisz-cić mn chleba dać, 
+!!a za cztery lata, 
+!!gdy zawoła: tata! 
+!!trzeba go do szkoły słać.
+!!@@END: VERSES
 !!!ONB: Alternatywnie można zakodować w E
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=180 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 164} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 164}
 !!!page: 164
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25

@@ -3,53 +3,76 @@
 !!!source: DWOK12
 !!!id: 12303
 !!!signature: 1230300010
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16cc
-16dd
-8ee
-8ee
-=2
-16ff
-16dd
-8b
-8b
-=3
-16g
-16b
-8dd
-8ff
-=4
-8gg
-8cc}
-8r
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16cc	Powiedziałeś
+16dd	.
+8ee	.
+8ee	.
+=2	=2
+16ff	że
+16dd	mnie
+8b	weźniesz,
+8b	.
+=3	=3
+16g	tylko
+16b	.
+8dd	z_pola
+8ff	.
+=4	=4
+8gg	zwieziesz.
+8cc}	.
+8r	.
 !!LO:LB:g=esac
-=5
-{16cc
-16dd
-8ee
-8ee
-=6
-16ff
-16dd
-8b
-8b
-=7
-16g
-16b
-8dd
-8ee
-=8
-4cc}
-8r
-==
-*-
+=5	=5
+{16cc	Tyś
+16dd	pozwoził
+8ee	.
+8ee	.
+=6	=6
+16ff	i
+16dd	powiązał,
+8b	.
+8b	.
+=7	=7
+16g	mnie
+16b	świat
+8dd	zawią-
+8ee	.
+=8	=8
+(8eeq	.
+4cc)}	-zał.
+8r	.
+==	==
+*- 	*-
+!!!role-singer: Maiden
+!!!role-listener: Bachelor
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Powiedziałeś że mnie weźniesz,
+!!tylko z pola zwieziesz.
+!!Tyś pozwoził i powiązał,
+!!mnie świat zawiązał.
+!!@VERSE:
+!!2. Jedno ziółko w ogródeczku,
+!!drugie w ostrowie, —
+!!zawiód-ci mnie ten pies hultaj.
+!!Pan Bóg go skarze.
+!!@VERSE:
+!!3. Powiedziałeś że dziecie mam,
+!!zkądbym je wziéna?
+!!jino przyńdzie ta godzina,
+!!będę cie kléna (klęła).
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=178 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 162} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 162}
 !!!page: 162
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25

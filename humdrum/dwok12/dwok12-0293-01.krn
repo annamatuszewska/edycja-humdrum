@@ -3,57 +3,99 @@
 !!!source: DWOK12
 !!!id: 12293
 !!!signature: 1229300001
-**kern
-*clefG2
-*k[]
-*a:
-*M2/4
-=1
-{8a
-8cc
-8b
-8a
-=2
-8g#
-4e
-8r
-=3
-8a
-8cc
-8ee
-16dd
-16cc
-=4
-8b
-4dd}
-8r
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M2/4	*
+=1	=1
+{8a	Poszed
+8cc	.
+8b	Jaś
+8a	do
+=2	=2
+8g#	lasa
+4e	.
+8r	.
+=3	=3
+8a\	dubeltówkę
+8cc	.
+8ee	.
+16ddL	.
+16ccJ	.
+=4	=4
+8b	niesie,
+4dd}	.
+8r	.
 !!LO:LB:g=esac
-=5
-{8cc
-8ee
-8ee
-16dd
-16cc
-=6
-8b
-8dd
-8dd
-16cc
-16b
-=7
-8a
-8cc
-8cc
-16b
-16a
-=8
-8g#
-4e}
-8r
-==
-*-
+=5	=5
+{8cc	poszła
+8ee	.
+8ee	panna
+16ddL	.
+16ccJ	.
+=6	=6
+8b	na
+8dd	jagody,
+8dd	.
+16ccL	.
+16bJ	.
+=7	=7
+8a	zabłą-
+8cc	.
+8cc	-dziła
+16bL	.
+16aJ\	.
+=8	=8
+8g#	w_lesie.
+4e}	.
+8r	.
+==	==
+*- 	*-
+!!!role-singer: Narrator, Lord
+!!!role-listener: Maiden
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Poszed Jaś do lasa
+!!dubeltówkę niesie,
+!!poszła panna na jagody,
+!!zabłądziła w lesie.
+!!@VERSE:
+!!2. A gdzież panna idzie,
+!!gdzież panna wędruje?
+!!A ja idę na jagody,
+!!gdzie waspan poluje.
+!!@VERSE:
+!!3. Możesz pomału rwać,
+!!możesz się nie spieszyć,
+!!a jak ja się nazad wrócę
+!!będziema się cieszyć.
+!!@VERSE:
+!!4. A jak ón się wrócił,
+!!óna mu się skryła,
+!!zielona ją leszczyneczka
+!!listkami nakryła.
+!!@VERSE:
+!!5. A ón ci ją złoczyl (zoczył)
+!!w lesie pod leszczynią,
+!!skoczył z konia, pocałował,
+!!cieszył się z dziewczynią.
+!!@VERSE:
+!!6. I wzion ci ją sobie
+!!pod paszki za obie,
+!!jak prowadzi, tak prowadzi
+!!do pokoju sobie.
+!!@VERSE:
+!!7. I posadził-ci ją
+!!na złotém na krześle,
+!!poczekaj-że panieneczko,
+!!aż po świcę poślę.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=173 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 157} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 157}
 !!!page: 157
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25

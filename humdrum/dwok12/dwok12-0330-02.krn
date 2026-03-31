@@ -3,102 +3,200 @@
 !!!source: DWOK12
 !!!id: 12330
 !!!signature: 1233000002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16f#
-16g
-8b
-8g
-=2
-16b
-16dd
-8cc
-8a
-=3
-8cc
-8ee
-8cc
-=4
-4dd
-16a
-16f#
-=5
-4g}
-8r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16f#	Niesczęśli-
+16g	.
+8b	.
+8g	-wy
+=2	=2
+16b	ten
+16dd	gane-
+8cc	.
+8a\	-czek,
+=3	=3
+8cc	ah
+8ee	ja
+8cc	ja
+=4	=4
+4dd	Bo-
+16aL	-że
+16f#J	.
+=5	=5
+4g}	mój,
+8r	.
 !!LO:LB:g=esac
-=6
-{16f#
-16g
-8b
-8g
-=7
-16b
-16dd
-16cc
-16b
-8a
-=8
-8cc
-16ee
-16dd
-16cc
-16b
-=9
-4dd
-16a
-16f#
-=10
-4g}
-8r
+=6	=6
+{16f#	gdziem
+16g	straci-
+8b	.
+8g	-ła
+=7	=7
+16b	mój
+16dd	wione-
+16ccL	.
+16bJ/	.
+8a\	-czek,
+=8	=8
+8cc	ah
+16eeL	ja
+16ddJ/	.
+16ccL	ja
+16bJ/	.
+=9	=9
+4dd	Jasiu
+16aL	.
+16f#J	.
+=10	=10
+4g}	mój.
+8r	.
 !!LO:LB:g=esac
-=11
-{16f#
-16g
-8b
-8g
-=
-24a
-24b
-24dd
-16cc
-16b
-8a
-=12
-4dd
-8a
-=13
-4g}
-8r
+=11	=11
+{16f#	Nie
+16g	by-
+8b	-ło
+8g	cho-
+=	=
+*Xtuplet	*
+24aL	-dzić
+24b	.
+24ddJ/	po
+16ccL	ganku
+16bJ/	.
+8a	.
+=12	=12
+4dd	ach
+8a	ciuch
+=13	=13
+4g}	ciuch,
+8r	.
 !!LO:LB:g=esac
-=14
-{16f#
-16g
-8b
-8g
-=15
-16b
-16dd
-16cc
-16b
-8a
-=16
-16b
-16cc
-8dd
-16a
-16f#
-=17
-4g}
-8r
-==
-*-
+=14	=14
+{16f#	była-
+16g	.
+8b	-byś
+8g	cho-
+=15	=15
+16b	-dziła
+16dd	.
+16ccL	w_wianku,
+16bJ/	.
+8a	.
+=16	=16
+16b	ram
+16cc	ta
+8dd	dia
+16aL	ta
+16f#J	.
+=17	=17
+4g}	da.
+8r	.
+==	==
+*- 	*-
+!!!role-singer: Maiden, Bachelor
+!!!role-listener: Bachelor, Maiden
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Niesczęśliwy ten ganeczek,
+!!ah ja ja Boże mój,
+!!gdziem straciła mój wioneczek,
+!!ah ja ja Jasiu mój.
+!!Nie było chodzić po ganku
+!!ach ciuch ciuch,
+!!byłabyś chodziła w wianku,
+!!ram ta dia ta da.
+!!@VERSE:
+!!2. Nieszczęśliwe te pokoje,
+!!ah Boże mój!
+!!nie było nas tylko dwoje,
+!!ah jaj ja!
+!!Niedopiero-ć to na świecie,
+!!gdzie jest dwoje tam i trzecie,
+!!ram ta dja da,
+!!dja da da da da.
+!!@VERSE:
+!!3. Nieszczęśliwe ach te ławy,
+!!ah Boże mój!
+!!były-ć to ta pierwsze sprawy.
+!!ah jaj ja!
+!!Było po ławach nie siadać,
+!!s kochankiem nic nie gadać.
+!!ram ta dja da,
+!!dja da da da da.
+!!@VERSE:
+!!4. Nieszczęśliwe to łóżeczko,
+!!ah Boże mój!
+!!zjadłam na nim jabłuszeczko! —
+!!ah jaj ja!
+!!Matuleńce dobre było,
+!!córóleńce zyzne było.
+!!ram ta dja da,
+!!dja da da da da.
+!!@VERSE:
+!!5. A jak mi się siostra dowie,
+!!ah Boże mój!
+!!cóż ona mi na to powié?
+!!ah jaj ja!
+!!Siostraby ci zazdrościła,
+!!boby sama rada była.
+!!ram ta dja da,
+!!dja da da da da.
+!!@VERSE:
+!!6. O jak mi się matka dowié,
+!!ah Boże mój!
+!!cóż ona mi na to powie?
+!!ah jaj ja!
+!!Twoja matka wielka fuka,
+!!będzie rada że ma wnuka.
+!!ram ta dja da,
+!!dja da da da da.
+!!@VERSE:
+!!7. Jak będziemy syna mieli,
+!!ah Boże mój!
+!!a gdzież my go podziejemy?
+!!ah jaj ja!
+!!A damy go do Krakowa,
+!!będzie z niego mądra głowa.
+!!ram ta dja da,
+!!dja da da da da.
+!!@VERSE:
+!!8. Odrzuć Jasiu gniew (v. żart) na stronę,
+!!ah Boże mój!
+!!pojmij mnie sobie za żonę.
+!!ah jaj ja!
+!!A gdzieżby ja ten rozum miał,
+!!żebym ciebie (v. taką) za żonę brał?
+!!ram ta dja da,
+!!dja da da da da.
+!!@VERSE:
+!!9. Jak ja będę córkę miała,
+!!ah Boże mój!
+!!w co ją będę powijała?
+!!ah jaj ja!
+!!Jest ta łopian na ogrodzie,
+!!powij-że ją w tym narodzie.
+!!ram ta dja da,
+!!dja da da da da.
+!!@VERSE:
+!!10. Jak ty będziesz synka miała,
+!!ah Boże mój!
+!!w cóż go będziesz powijała?
+!!ah jaj ja!
+!!A mam ci ja pas jedwabny,
+!!będzie powijaczek ładny.
+!!ram ta dja da,
+!!dja da da da da.
+!!@@END: VERSES
 !!!ONB: U Kolberga nie ma oznaczenia trioli w takcie 7, zapisano w układzie triolowym
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=190 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 174} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 174}
 !!!page: 174
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-26

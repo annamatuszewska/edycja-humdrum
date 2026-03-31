@@ -3,44 +3,76 @@
 !!!source: DWOK12
 !!!id: 12324
 !!!signature: 1232400000
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M4/4
-=1
-{8d
-8d
-8f#
-8a
-4.dd
-8dd
-=2
-8ee
-8ee
-8cc#
-8a
-4ff#
-4dd}
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M4/4	*
+*met(c)	*
+=1	=1
+{8d	Dzisiaj
+8d	.
+8f#	czeladź
+8a	.
+4.dd	pi-
+8dd	-je,
+=2	=2
+8ee	jutro
+8ee	.
+8cc#	precz
+8a	wędruje,
+4ff#	.
+4dd}	.
 !!LO:LB:g=esac
-=3
-{8.d
-16d
-8f#
-8a
-4.dd
-8dd
-=4
-8ee
-8ee
-8cc#
-8cc#
-4dd
-4dd}
-==
-*-
+=3	=3
+{8.d	nie
+16d	jedna
+8f#	.
+8a	panienka
+4.dd	.
+8dd	.
+=4	=4
+8ee	ręce
+8ee	.
+8cc#	zała-
+8cc#	.
+4dd	-muje.
+4dd}	.
+==	==
+*- 	*-
+!!!role-singer: Narrator, Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Dzisiaj czeladź pije,
+!!jutro precz wędruje,
+!!nie jedna panienka
+!!ręce załamuje.
+!!@VERSE:
+!!2. I druga panienka
+!!także go żałuje;
+!!a ta trzecia mówi:
+!!niech sobie wędruje.
+!!@VERSE:
+!!3. Wędruje, wędruje
+!!od miasta do miasta,
+!!szuka polepszenia
+!!i lepszego majstra.
+!!@VERSE:
+!!4. U starego majstra
+!!i majstrowy młodéj,
+!!jest tam dla czeladzi
+!!wszelakij wygody.
+!!@VERSE:
+!!5. Majstrowa wypierze,
+!!majstrowa ubierze,
+!!majstrowa buzi da,
+!!bo się czeladź przyda.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=187 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 171} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 171}
 !!!page: 171
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-26
