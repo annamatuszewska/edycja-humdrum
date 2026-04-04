@@ -3,105 +3,120 @@
 !!!source: DWOK13
 !!!id: 13384
 !!!signature: 1338400000
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/8
-=1
-{16a
-16cc#
-8e
-8a
-=2
-16cc#
-16ee
-8dd#
-8ee
-=3
-16b
-16dd
-8cc#
-8a
-=4
-16g#
-16b
-16a
-16g#
-16f#
-16e}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Mazur.	!
+{16a\	Na
+16cc#	Ku-
+8e	-ja-
+8a\	-wy
+=2	=2
+16cc#	patrz
+16ee	Ja-
+8dd#	-sień-
+8ee	-ku,
+=3	=3
+16b	na
+16dd	Ku-
+8cc#	-ja-
+8a\	-wy
+=4	=4
+16g#	patrz
+16b	da
+16aL	i
+16g#J	.
+16f#L	patrz,
+16e}J	.
 !!LO:LB:g=esac
-=5
-{16a
-16cc#
-8e
-8a
-=6
-16cc#
-16ee
-8dd#
-8ee
-=7
-16b
-16b
-8dd
-16cc#
-16a
-=8
-16g#
-16b
-16a
-16g#
-16f#
-16e}
+=5	=5
+{16a\	wy-
+16cc#	-patrzysz-
+8e	.
+8a\	-ci
+=6	=6
+16cc#	Ku-
+16ee	-ja-
+8dd#	-wian-
+8ee	-kę
+=7	=7
+16b/L	jak
+16b/J	.
+8dd/L	różowy
+16cc/#	.
+16aJ	.
+=8	=8
+16g#	kwiat
+16b	da
+16aL	i
+16g#J	.
+16f#L	kwiat.
+16e}J	.
 !!LO:LB:g=esac
-=9
-{16cc#
-16cc#
-8dd
-8cc#
-=10
-16b
-16ff#
-8.ee
-16dd
-=11
-16cc#
-16cc#
-8dd
-8cc#
-=12
-16g#
-16a
-8b
-8a}
+=9	=9
+{16cc#	Na
+16cc#	Ku-
+8dd	-ja-
+8cc#	-wach
+=10	=10
+16b/L	zimne
+16ff/J#	.
+8.ee/L	zdroje,
+16dd/J	.
+=11	=11
+16cc#	niech
+16cc#	tam
+8dd	i-
+8cc#	-dą
+=12	=12
+16g#\	konie
+16a\	.
+8b	twoje.
+8a}\	.
 !!LO:LB:g=esac
-=13
-{8e
-16f#
-16g#
-16a
-16cc#
-=14
-16dd
-16cc#
-8b
-8cc#
-=15
-8e
-16f#
-16g#
-16a
-16cc#
-=16
-16dd
-16b
-8cc#
-8a}
-==
-*-
+=13	=13
+{8e	Niech
+16f#L	tam
+16g#J	.
+16a	je-
+16cc#	-dzą
+=14	=14
+16dd/L	w_dzień
+16cc#/J	i
+8b/L	w_nocy,
+8cc/J#	.
+=15	=15
+8e	po-
+16f#L	-pa-
+16g#J	.
+16a	-są
+16cc#	je
+=16	=16
+16dd	czarne
+16b	.
+8cc#	oczy.
+8a}\	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Na Kujawy patrz Jasieńku,
+!!na Kujawy patrz da i patrz,
+!!wypatrzyszci Kujawiankę
+!!jak różowy kwiat da i kwiat.
+!!Na Kujawach zimne zdroje,
+!!niech tam idą konie twoje.
+!!Niech tam jedzą w dzień i w nocy,
+!!popasą je czarne oczy.
+!!@@END: VERSES
+!!!role-singer: Complex
+!!!role-listener: Man
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=186 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 162-163} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, pp. 162-163}
 !!!page: 162-163
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-03

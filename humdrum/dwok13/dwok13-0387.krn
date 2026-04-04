@@ -3,59 +3,71 @@
 !!!source: DWOK13
 !!!id: 13387
 !!!signature: 1338700000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16f
-16a
-8a
-8a
-=2
-16a
-16f
-8a
-8b-
-=3
-16g
-16e
-8c
-8e
-=4
-16g
-16cc
-8a
-8f}
+**kern	**text	**text
+*clefG2	*	*
+*k[b-]	*	*
+*F:	*	*
+*M3/8	*	*
+=1	=1	=1
+{16fL	Miała	.
+16aJ	.	.
+8a	mę-	.
+8a	-ża	.
+=2	=2	=2
+16a	nie	.
+16f	ru-	.
+8a	-cha-	.
+8b-M	-ja,	.
+=3	=3	=3
+16g	wsa-	.
+16e	-dzi-	.
+8c	-ła	.
+8e	go	.
+=4	=4	=4
+16g	w_gę-	.
+16cc	-sie	.
+8a	ja-	.
+8f}	-ja	.
 !!LO:LB:g=esac
-=5
-{16c
-16f
-8a
-16a
-16f
-=6
-16a
-16f
-8a
-8b-
-=7
-16g
-16g
-8cc
-16a
-16f
-=8
-16e
-16c
-16e
-16g
-8f}
-==
-*-
+=5	=5	=5
+{16c	siedźże	.
+16f	.	.
+8a	mi	.
+16aL	tam	.
+16fJ	.	.
+=6	=6	=6
+16a	nie-	.
+16f	-do-	.
+8a\	-łę-	.
+8b-	-go,	.
+=7	=7	=7
+16g	a	v. i
+16g	ja	wy-
+8cc	znąj-	-siądź
+16aL	-dę	my
+16fJ	.	.
+=8	=8	=8
+16e	se	je-
+16c	in-	-dno
+16eL	-ne-	gę-
+16gJ	.	.
+8f}	-go.	-go.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!Miała męża nie ruchaja,
+!!wsadziła go w gęsie jaja
+!!siedźże mi tam niedołęgo,
+!!a ja znąjdę se innego.
+!!v. i wysiądź my jedno gęgo.
+!!@@END: VERSES
+!!!role-singer: Narrator, Wife
+!!!role-listener: Husband
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=187 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 163} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 163}
 !!!page: 163
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-03
