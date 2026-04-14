@@ -3,100 +3,113 @@
 !!!source: DWOK41
 !!!id: 41205
 !!!signature: 4120500000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16.cc
-32ff
-8ee
-8cc
-=2
-16e
-16g
-8f
-8d
-=3
-16B
-16d
-16g
-16b
-16dd
-16b
-=4
-16cc
-16ff
-8ee
-8gg}
+**kern	**text	**dynam
+*clefG2	*	*
+*k[]	*	*
+*C:	*	*
+*M3/8	*	*
+=1	=1	=1
+!LO:TX:a:t=Mazur.	!	!
+{16.ccL	.	>
+32ffJ	.	.
+8eeL	.	.
+8ccJ	.	.
+=2	=2	=2
+16eL	.	.
+16gJ	.	.
+8fL	.	.
+8dJ	.	.
+=3	=3	=3
+16BL	.	.
+16d	.	.
+16g	.	.
+16b/J	.	.
+16ddL	.	.
+16bJ	.	.
+=4	=4	=4
+16ccL	.	.
+16ffJ	.	.
+8eeL	.	.
+8gg}J	.	.
 !!LO:LB:g=esac
-=5
-{16.cc
-32ff
-8ee
-8cc
-=6
-16e
-16g
-8f
-8d
-=7
-16B
-16d
-16g
-16b
-16dd
-16b
-=8
-8cc
-4cc}
+=5	=5	=5
+{16.cLc	.	.
+32ffJ	.	.
+8eeL	.	.
+8ccJ	.	.
+=6	=6	=6
+16eL	.	.
+16gJ	.	.
+8fL	.	.
+8dJ	.	.
+=7	=7	=7
+16BL	.	.
+16d	.	.
+16g	.	.
+16b/J	.	.
+16ddL	.	.
+16bJ	.	.
+=8	=8	=8
+8cc	.	.
+4cc}	.	.
 !!LO:LB:g=esac
-=9
-{16g
-16cc
-8ee
-8ee
-=10
-16ff
-16ee
-16dd
-16cc
-16b
-16a
-=11
-16g
-16cc
-8ee
-8ee
-=12
-16gg
-16ff#
-4dd}
+=9	=9	=9
+{16g\L	.	.
+16ccJ	.	.
+8eeL	.	.
+8eeJ	.	.
+=10	=10	=10
+(16ddqL	.	.
+16eeqJ	.	.
+16ff)L	.	.
+16ee	.	.
+16dd	.	.
+16cc	.	.
+16b	.	.
+16a\J	.	.
+=11	=11	=11
+16g\L	.	.
+16ccJ	.	.
+8eeL	.	.
+8eeJ	.	.
+=12	=12	=12
+16ggL	.	.
+16ff#J	.	.
+4dd}	.	.
 !!LO:LB:g=esac
-=13
-{8dd
-8dd
-8dd
-=14
-16dd
-16cc
-16b
-16a
-8g
-=15
-8g
-8g
-16g
-16d
-=16
-16f
-16e
-4c}
-==
-*-
+=13	=13	=13
+{(16gqL	.	.
+16bqJ	.	.
+8dd)L	.	.
+(16gqL	.	.
+16bqJ	.	.
+8dd)	.	.
+(16gqL	.	.
+16bqJ	.	.
+8dd)J	.	.
+=14	=14	=14
+(16gqL	.	.
+16bqJ	.	.
+16dd)L	.	.
+16cc	.	.
+16b	.	.
+16a\	.	.
+8g\J	.	.
+=15	=15	=15
+8gL	.	.
+8gJ	.	.
+16gL	.	.
+16dJ	.	.
+=16	=16	=16
+16fL	.	.
+16eJ	.	.
+4c}	.	.
+==	==	==
+*-	*-	*-
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=210 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 131} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 131}
 !!!page: 131
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-10
