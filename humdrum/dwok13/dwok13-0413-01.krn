@@ -3,56 +3,72 @@
 !!!source: DWOK13
 !!!id: 13413
 !!!signature: 1341300001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8.b
-16cc#
-8dd
-8dd
-=2
-8dd
-8dd
-8dd
-8b
-=3
-8b
-8dd
-8dd
-8dd
-=4
-8a
-16a
-16f#
-4d}
+**kern	**text	**text
+*clefG2	*	*
+*k[f#c#]	*	*
+*G:	*	*
+*M2/4	*	*
+=1	=1	=1
+!LO:TX:a:t=Krakowiak. Kwestarz (z Szopki).	!	!
+{8.b	U-	I
+16cc#	-bo-	pa-
+8dd	-gi	-cior-
+8dd	ja	-ki
+=2	=2	=2
+8dd	Ber-	ko-
+8dd	-na-	-ko-
+8dd	-dyn	-we
+8b	.	.
+=3	=3	=3
+8b	nié-	co
+8dd	-mam	u
+8dd	nic	pa-
+8dd	swo-	-sa
+=4	=4	=4
+8a	-je-	no-
+8bq	.	.
+16aL	-go,	-szę,
+16f#J	.	.
+4d}	.	.
 !!LO:LB:g=esac
-=5
-{8f#
-8a
-8e
-8e
-=6
-8f#
-8a
-4dd
-=7
-8f#
-8a
-8e
-8e
-=8
-8g
-16f#
-16e
-4d}
-==
-*-
+=5	=5	=5
+{8f#	jé-	a
+8a	-no	za
+8e\	trepki	ładne
+8e\	.	.
+=6	=6	=6
+8f#	na	dziewécz-
+8a\	no-	.
+4dd	-gach	-ki
+=7	=7	=7
+8f#	z_drzewa	Pa-
+8a	.	-na
+8e\	li-	Bo-
+8e\	-po-	-ga
+=8	=8	=8
+8gL	-we-	pro-
+16f#	.	.
+16eJ	.	.
+4d}	-go.	-szę.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!Ubogi ja Bernadyn
+!!niémam nic swojego,
+!!jéno trepki na nogach
+!!z drzewa lipowego.
+!!I paciorki kokowe
+!!co u pasa noszę,
+!!a ze ładne dziéweczki
+!!Pana Boga proszę.
+!!@@END: VERSES
+!!!role-singer: Religious
+!!!singer-sex: Male
 !!!ONB: Krakowiak Kwestarz (z szopki)
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=196 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 172} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 172}
 !!!page: 172
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-08

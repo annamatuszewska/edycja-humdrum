@@ -3,102 +3,161 @@
 !!!source: DWOK13
 !!!id: 13436
 !!!signature: 1343600001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8g
-8b
-16a
-16g
-=2
-16f#
-16g
-8a
-8f#
-=3
-8d
-8cc
-16b
-16a
-=4
-16g
-16a
-8b
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Mazur.	!
+{8g\	Je-
+8b	-stem
+16a\	chłopek
+16g\	.
+=2	=2
+16f#	i
+16g	wiem
+8a	o
+8f#	tem,
+=3	=3
+8d\	że
+8cc	u-
+16bL	-działem
+16a\J	.
+=4	=4
+16g	mo-
+16a	-jim
+8b/	pra-
+8g}	-ca,
 !!LO:LB:g=esac
-=5
-{8g
-8dd
-16cc
-16b
-=6
-16cc
-16dd
-4ee
-=7
-8dd
-8cc
-16a
-16f#
-=8
-16g
-16a
-8b
-8g}
+=5	=5
+{8g\	co
+8dd	za-
+16ccL	-ro-
+16bJ	-bię
+=6	=6
+16cc	z_czo-
+16dd	-ła
+4ee	po-tem
+=7	=7
+8dd	pan
+8cc	wszystko
+16a\	.
+16f#\	w_zby-
+=8	=8
+16g	-tki
+16a	o-
+8b/	-bra-
+8g}	-ca.
 !!LO:LB:g=esac
-=9
-{16g
-16b
-8dd
-16cc
-16b
-=10
-16cc
-16ee
-8gg
-16ff#
-16ee
-=11
-16dd
-16dd
-8cc
-16a
-16f#
-=12
-16g
-16a
-8b
-8g}
+=9	=9
+{16gL	co
+16b/J	.
+8dd	-za-
+16cc/	-ro-
+16b/	-bię
+=10	=10
+16cc/L	z_czo-
+16ee/	-ła
+8gg/MJ	po-
+16ff#L/	tem
+16ee/J	.
+=11	=11
+16dd/ML	pan
+16dd/J	wszystko
+8cc	.
+16aL	w
+16f#J	zby-
+=12	=12
+16g	-tki
+16a	o-
+8b/	-bra-
+8g}	-ca.
 !!LO:LB:g=esac
-=13
-{8d
-8d
-16g
-16b
-=14
-16g
-16b
-8dd
-8dd
-=15
-8d
-8d
-16f#
-16a
-=16
-16cc
-16b
-16f#
-16g
-8g}
-==
-*-
+=13	=13
+{8d	A
+8d	ja
+16g	za-
+16b	-wsze
+=14	=14
+16g\	w_swej
+16b	po-
+8dd	-ko-
+8dd	-rze,
+=15	=15
+8d	pa-
+8d	-nu
+16f#	sie-
+16a	-ję,
+=16	=16
+16cc	zbie-
+16b	-ram,
+16f#L	o-
+16gJ	.
+8g}	-rzę.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Jestem chłopek — i wiem o tem,
+!!że udziałem mojim praca,
+!!co zarobię z czoła potem
+!!pan wszystko w zbytki obraca.
+!!A ja zawsze w swej pokorze,
+!!panu sieję, zbieram, orzę.
+!!@VERSE:
+!!2. Gdy nadejdzie wiosna miła,
+!!orać muszę pańskie łany,
+!!nie wchodzą: czy starczy siła,
+!!nie wyjedziesz, — masz kajdany!
+!!A ja zawsze w swej pokorze,
+!!Panu sieję, zbieram, orzę.
+!!@VERSE:
+!!3. Latem gdy zboże dojrzewa,
+!!z siérpem w łany wyganiają;
+!!choć upał srogi dogrzewa,
+!!spocząć na chwilę nie dają.
+!!A ja zawsze i t. d.
+!!@VERSE:
+!!4. W jesieni siać muszę zboże,
+!!znów panu wyjeżdżać z pługiem,
+!!żadna prośba nie pomoże,
+!!bo znowu grożą kańczugiem.
+!!A ja zawsze i t. d.
+!!@VERSE:
+!!5. A gdy znów nadejdzie zima
+!!i w tej odpoczynku niema,
+!!to do lasu, to do gnoju,
+!!i człek nie odetchnie z znoju.
+!!A ja zawsze i t. d.
+!!@VERSE:
+!!6. Nie znam szczęścia ni wygody,
+!!siermięga moje okrycie,
+!!kawał chleba i dzban wody
+!!krzepią siły, zdrowie, życie.
+!!A ja zawsze i t. d.
+!!@VERSE:
+!!7. A gdy berło zagrożone
+!!dzielnej pomocy wymaga,
+!!rzucam dzieci, chatę, żonę,
+!!głośna jest moja odwaga.
+!!A wróciwszy, w swej pokorze
+!!znowu panu sieję, orzę.
+!!@VERSE:
+!!8. Po wysłużeniu się takiera,
+!!straciwszy zdrowie i siłę,
+!!staję się nędznym żebrakiem
+!!lub idę spocząć w mogiłę.
+!!I dopiero w tej to porze
+!!panu ni sieję, ni orzę.
+!!@@END: VERSES
+!!!role-singer: Worker
+!!!role-listener: Complex
+!!!singer-sex: Male
 !!!ONB: Mazur
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=217 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 193} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 193}
 !!!page: 193
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-10

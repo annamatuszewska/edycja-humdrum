@@ -3,67 +3,83 @@
 !!!source: DWOK13
 !!!id: 13403
 !!!signature: 1340300002
-**kern
-*clefG2
-*k[f#]
-*G:
-=1
-*M2/4
-{8g
-8a
-8b
-8cc
-=2
-8dd
-8ff#
-8ee
-8dd
-=3
-*M3/4
-16cc
-16b
-8a
-8cc
-8ee
-8.dd
-16cc
-=4
-4a
-8f#
-8e
-4d}
+**kern	**text	**text
+*clefG2	*	*
+*k[f#]	*	*
+*G:	*	*
+=1	=1	=1
+*M2/4	*	*
+!LO:TX:a:t=Weselna.	!	!
+{8g	Po-	Po
+8a	-wia-	-wia
+8b	-da-	-da-
+8cc	-li,	-li,
+=2	=2	=2
+8dd	po-	po-
+8ff#	-wia-	-wia-
+8ee	-da-	-da-
+8dd	-li,	-li,
+=3	=3	=3
+*M3/4	*	*
+16cc/L	je-	sie-
+16b/	.	.
+8aJ	-ziór-	-kier-
+8cc/L	-ko	-ką
+8ee/J	za-	nie
+8.dd	-marzło,	przetnę,
+16cc	.	.
+=4	=4	=4
+4a	za-	nie
+8f#L	-ma-	prze-
+8eJ	.	.
+4d};	-rzło.	-tnę.
 !!LO:LB:g=esac
-=5
-*M2/4
-{8dd
-8dd
-16cc
-16b
-8a
-=6
-16g
-16f#
-8g
-8g
-8a
-=7
-*M3/4
-8b
-8b
-8cc
-8ee
-8.dd
-16cc
-=8
-4a
-8f#
-8e
-4d}
-==
-*-
+=5	=5	=5
+*M2/4	*	*
+{8dd	A	A
+8dd	ja	ja
+16cc/L	tam	tam
+16b/	.	.
+8aJ	był,	był,
+=6	=6	=6
+16gL	a	a
+16f#J	.	.
+8g	ja	ja
+8g	tam	tam
+8a	był,	był,
+=7	=7	=7
+*M3/4	*	*
+8b	o	ko-
+8b	jeszcze	-ryszkiem
+8cc	.	przedepnę,
+8ee	nie	.
+8.dd	bar-	.
+16cc	-dzo,	.
+=8	=8	=8
+4a	nie	prze-
+8f#L	bar-	-de-
+8eJ	.	.
+4d};	-dzo.	pnę.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. Powiadali, powiadali,
+!!jeziórko zamarzło, zamarzło.
+!!A ja tam był, a ja tam był,
+!!o jeszcze nie bardzo, nie bardzo.
+!!@VERSE:
+!!2. Powiadali, powiadali,
+!!siekierką nie przetnę, nie przetnę.
+!!A ja tam był, a ja tam był,
+!!koryszkiem przedepnę, przedepnę.
+!!@@END: VERSES
+!!!role-singer: Complex
+!!!singer-sex: Male
 !!!ONB: Weselna
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=193 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 169} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 169}
 !!!page: 169
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-08

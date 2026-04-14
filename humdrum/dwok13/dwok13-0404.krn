@@ -3,55 +3,77 @@
 !!!source: DWOK13
 !!!id: 13404
 !!!signature: 1340400000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8g
-8g
-8a
-8cc
-=2
-8ee
-8dd
-8cc
-8a
-=3
-8g
-8g
-8a
-8cc
-=4
-8b
-8b
-8cc
-8a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+!LO:TX:a:t=Krakowiak.	!
+{8g	Po-
+8g	-ja-
+8a	-de
+8cc	ja
+=2	=2
+8ee/L	do
+8dd/J	Kra-
+8cc	-ko-
+8a	-wa,
+=3	=3
+8g	poj-
+8g	-mę
+8a	so-
+8cc	-bie
+=4	=4
+8b	Krakowian-
+8b	.
+8cc	.
+8a}	-kę,
 !!LO:LB:g=esac
-=5
-{16g
-16f#
-8g
-8a
-8cc
-=6
-8b
-4.d
-=7
-16g
-16f#
-8g
-8a
-8cc
-=8
-8b
-4.g}
-==
-*-
+=5	=5
+{16gL	po-
+16f#J	.
+8g	-ja-
+8a	-dę
+8cc	ja
+=6	=6
+8b	gó-
+4.d	-rą,
+=7	=7
+16gL	bę-
+16f#J	.
+8g	-de
+8a	wiedział
+8cc	.
+=8	=8
+8b	któ-
+4.g}	-rą.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Pojade ja do Krakowa,
+!!pojmę sobie Krakowiankę,
+!!pojadę ja górą,
+!!będe wiedział którą.
+!!@VERSE:
+!!2. A kupił mi Jasio wstążkę,
+!!jak był na odpuście,
+!!(a) ja téż rozumiała,
+!!żem jest w jego guście.
+!!Oj dydy, dydy, dana [:].
+!!@VERSE:
+!!3. Oj ty Kubo, wierny sługo, (drużbo)
+!!bądź jak dobry ojciec,
+!!a ty Kasiu kochaj Jasia,
+!!bo to dobry chłopiec.
+!!Oj dydy dydy dana [:].
+!!@@END: VERSES
+!!!role-singer: Complex
 !!!ONB: Krakowiak
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=193 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 169} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 169}
 !!!page: 169
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-08

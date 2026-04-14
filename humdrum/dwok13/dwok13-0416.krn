@@ -3,37 +3,58 @@
 !!!source: DWOK13
 !!!id: 13416
 !!!signature: 1341600000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8g
-8g
-8g
-8dd
-=2
-8cc
-8b
-16b
-16a
-8g
-=3
-8d
-8g
-8g
-8cc
-=4
-8b
-8a
-16a
-16g
-8g}
-==
-*-
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+!LO:TX:a:t=Przy weselu.	!
+{8g	Gdzie
+8g	to
+8g	i-
+8dd	-dziesz
+=2	=2
+8cc	o-
+8b	-pa-
+16b/L	-lo-
+16aJ	.
+8g	-ny?
+=3	=3
+8d	Do
+8g	War-
+8g	-sza-
+8cc	-wy
+=4	=4
+8b	szu-
+8a	-kać
+16aL	żo-
+16gJ	.
+8g}	-ny.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Gdzie to idziesz opalony?
+!!Do Warszawy szukać żony.
+!!@VERSE:
+!!2. Nie potrzeba żony szukać,
+!!ino po Machcinie pukać.
+!!@VERSE:
+!!3. Nie trzeba szukać daleko,
+!!do okna zapukać, letko.
+!!@VERSE:
+!!4. Jest tam Kasia na wydaniu,
+!!wszystek posag dają za nią:
+!!@VERSE:
+!!5. Sztery myszy, sztéry koty,
+!!i piąty pies do roboty.
+!!@@END: VERSES
+!!!role-singer: Complex
+!!!role-listener: Single Man
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=197 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 173} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 173}
 !!!page: 173
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-08
