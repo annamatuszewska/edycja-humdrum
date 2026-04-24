@@ -3,85 +3,96 @@
 !!!source: DWOK41
 !!!id: 41266
 !!!signature: 4126600000
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M3/4
-=
-{12cc
-12dd
-12ee
-4.ff
-8b-
-=1
-8dd
-8cc
-4.a
-8f
-=
-12g
-12a
-12b-
-4.g
-8e}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*B-:	*
+*M3/4	*
+=1	=1
+!LO:TUP:a	!
+{12ccL	Oj,
+12ddJ	.
+12ee	stu-
+4.ff	-dzien-
+8b-	-ka
+=2	=2
+8dd	cem-
+8cc	-bro-
+4.a	-wa-
+8f	-na,
+=3	=3
+12gL	wia-
+12aJ	.
+12b-	-der-
+4.g	-ko
+8e}	nad
 !!LO:LB:g=esac
-=2
-{8f
-8f
-4a
-4cc
-=3
-8a
-8cc
-4f
-8a
-8cc
-=4
-8ee-
-8dd
-4b-
-8dd
-8ee}
+=4	=4
+{8f	nią,
+8f	da,
+4a	nad
+4cc	nią.
+=5	=5
+8a	a
+8cc	daj-
+4f	-że
+8a\L	mi,
+8ccJ	.
+=6	=6
+8ee-	Pa-
+8dd	-nie
+4b-	Bo-
+8ddL	-że,
+8ee}J	.
 !!LO:LB:g=esac
-=5
-{8ff
-8ee-
-4cc
-8dd
-8ee-
-=6
-8gg
-8ff
-4dd
-4b-
-=7
-8a
-8cc
-4f
-8a
-8cc}
+=7	=7
+{8ff	dziew-
+8ee-	-czy-
+4cc	-nę
+8ddL	ła-
+8ee-J	.
+=8	=8
+8gg	-dną,
+8ff	da,
+4dd	ła-
+4b-	-dną,
+=9	=9
+8a	a
+8cc	daj-
+4f	-że
+8a\L	mi,
+8cc}J	.
 !!LO:LB:g=esac
-=8
-{8ee-
-8dd
-4b-
-8dd
-8ee
-=9
-8ff
-8ee-
-4.f
-8cc
-=10
-8ee-
-8dd
-4b-
-4b-}
-==
-*-
+=10	=10
+{8ee-	Pa-
+8dd	-nie
+4b-	Bo-
+8ddL	-że,
+8eeJ	.
+=11	=11
+8ff	dziew-
+8ee-	-czy-
+4.f	-nę
+8cc	ła-
+=12	=12
+8ee-	-dną,
+8dd	da,
+4b-	ła-
+4b-}	-dną.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oj, studzienka cembrowana,
+!!wiaderko nad nią, da, nad nią.
+!!a dajże mi, Panie Boże,
+!!dziewczynę ładną, da, ładną,
+!!@@END: VERSES
+!!!role-singer: Single Man
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=245 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 166} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 166}
 !!!page: 166
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-23

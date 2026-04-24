@@ -3,56 +3,65 @@
 !!!source: DWOK41
 !!!id: 41269
 !!!signature: 4126900000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8dd
-8dd
-4b
-4g
-=2
-8g
-8cc
-4ee
-4gg
-=3
-8ff
-8dd
-4b
-4g
-=4
-8g
-8g
-4f
-4e}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8dd	Da,
+8dd	i
+4b	tam
+4g	się
+=2	=2
+8g	pta-
+8cc	-szek
+4ee	ci-
+4gg	-śnie,
+=3	=3
+8ff	da,
+8dd	i
+4b	gdzie
+4g	są
+=4	=4
+8g	sło-
+8g	-dkie
+4f	wi-
+4e}	-śnie;
 !!LO:LB:g=esac
-=5
-{8g
-8ff
-4dd
-4b
-=6
-8g
-8cc
-4ee
-4ee
-=7
-8ff
-8dd
-4b
-4g
-=8
-8g
-8g
-4f
-4a}
-==
-*-
+=5	=5
+{8g	da,
+8ff	i
+4dd	ja
+4b	tam,
+=6	=6
+8g	ser-
+8cc	-ce
+4ee	dą-
+4ee	-żę,
+=7	=7
+8ff	da,
+8dd	i
+4b	g[dzie
+4g	mnie
+=8	=8
+8g	miłość
+8g	.
+4f	wią-
+4a}	-że].
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Da, i tam się ptaszek ciśnie,
+!!da, i gdzie są słodkie wiśnie;
+!!da, i ja tam, serce dążę,
+!!da, i g[dzie mnie miłość wiąże].
+!!@@END: VERSES
+!!!role-singer: Complex
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=246 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 167} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 167}
 !!!page: 167
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-23

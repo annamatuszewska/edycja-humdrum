@@ -3,59 +3,70 @@
 !!!source: DWOK41
 !!!id: 41275
 !!!signature: 4127500000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8b
-8dd
-4dd
-4b
-=2
-8cc
-8a
-4a
-4dd
-=3
-8a
-8b
-4cc
-8a
-8f#
-=4
-8a
-8f#
-4f#
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8b	A
+8dd	ja-
+4dd	-kem
+4b	ja
+=2	=2
+8cc	so-
+8a	-bie
+4a	gnał-
+4dd	-a,
+=3	=3
+8a	da,
+8b	przez
+4cc	po-
+8aL	-le
+8f#J	.
+=4	=4
+8a	by-
+8f#	-de-
+4f#	-łe-
+4g}	-czko,
 !!LO:LB:g=esac
-=5
-{8b
-8dd
-4dd
-4b
-=6
-8cc
-8a
-8b
-8a
-4dd
-=7
-8a
-8b
-4cc
-8a
-8f#
-=8
-8a
-8f#
-4f#
-4g}
-==
-*-
+=5	=5
+{8b	da,
+8dd	zas-
+(8eeq	.
+4dd)	-ta-
+4b	-wiał
+=6	=6
+8cc	ci
+8a	Ja-
+8b/L	-sie-
+8aJ	.
+4dd	-niek,
+=7	=7
+8a	da,
+8b	i
+4cc	na
+8aL	mnie
+8f#J	.
+=8	=8
+8a	si-
+8f#	-de-
+4f#	-łe-
+4g}	-czko.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A jakem ja sobie gnała,
+!!da, przez pole bydełeczko,
+!!da, zastawiał ci Jasieniek,
+!!da, i na mnie sidełeczko.
+!!@@END: VERSES
+!!!role-singer: Cattle herder
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=248 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 169-170} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 169-170}
 !!!page: 169-170
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-24

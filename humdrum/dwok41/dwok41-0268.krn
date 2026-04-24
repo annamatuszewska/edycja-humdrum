@@ -3,56 +3,66 @@
 !!!source: DWOK41
 !!!id: 41268
 !!!signature: 4126800000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16a
-16a
-8g
-16a
-16b
-=2
-8dd
-8.cc#
-16a
-=3
-8a
-8g
-16a
-16b
-=4
-16dd
-16dd
-8.cc#
-16a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16a	Oj,
+16a	do
+8g	tej,
+16aL	Ja-
+16b/J	.
+=2	=2
+8ddM	-siu,
+8.cc#m	do
+16a	tej,
+=3	=3
+8a	da,
+8g	co
+16aL	ma
+16b/J	.
+=4	=4
+16dd	pierś-
+16dd	-cień
+8.cc#	zło-
+16a}	-ty,
 !!LO:LB:g=esac
-=5
-{16a
-16a
-8g
-8b
-=6
-8d
-8c
-16e
-16g
-=7
-16a
-16a
-8g
-8b
-=8
-8d
-8c
-16e
-16g}
-==
-*-
+=5	=5
+{16a	oj,
+16a	nie
+8g	do
+8b	téj
+=6	=6
+8d	no-
+8c	-cu-
+16eL	-le,
+16gJ	.
+=7	=7
+16a	da,
+16a	co
+8g	ni
+8b	ma
+=8	=8
+8d	ko-
+8c	-siu-
+16eL	-le.
+16g}J	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oj, do tej, Jasiu, do tej,
+!!da, co ma pierścień złoty,
+!!oj, nie do téj nocule,
+!!da, co ni ma kosiule.
+!!@@END: VERSES
+!!!role-singer: Complex
+!!!role-listener: Single Man
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=245 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 166} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 166}
 !!!page: 166
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-23

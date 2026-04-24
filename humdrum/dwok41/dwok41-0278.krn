@@ -3,56 +3,65 @@
 !!!source: DWOK41
 !!!id: 41278
 !!!signature: 4127800000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{8a
-8cc
-4ee
-4ee
-=2
-8ee
-8gg
-4ff
-4ee
-=3
-8dd
-8ff
-4ee
-4cc
-=4
-8dd
-8dd
-4cc
-4a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+{8a	Da,
+8cc	i
+4ee	co
+4ee	to
+=2	=2
+8ee	za
+8gg	ry-
+4ff	-zy-
+4ee	-ka,
+=3	=3
+8dd	da,
+8ff	i
+4ee	ko-
+4cc	-chać
+=4	=4
+8ddM	po-
+8dd	-ru-
+4cc	-czni-
+4a}	-ka,
 !!LO:LB:g=esac
-=5
-{8g#
-8a
-4a
-4cc
-=6
-8dd
-8ff
-4ee
-4cc
-=7
-8dd
-8b
-4a
-4cc
-=8
-8dd
-8dd
-4cc
-4a}
-==
-*-
+=5	=5
+{8g#	da,
+8a	i
+4a	le-
+4cc	-piej
+=6	=6
+8dd	ka-
+8ff	-pi-
+4ee	-ta-
+4cc	-na,
+=7	=7
+8dd	da,
+8b	i
+4a	al-
+4cc	-bo
+=8	=8
+8ddM	puł-
+8dd	-ko-
+4cc	-wni-
+4a}	-ka.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Da, i co to za ryzyka,
+!!da, i kochać porucznika,
+!!da, i lepiej kapitana,
+!!da, i albo pułkownika.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=250 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 171} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 171}
 !!!page: 171
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-24

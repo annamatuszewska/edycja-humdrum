@@ -3,56 +3,65 @@
 !!!source: DWOK41
 !!!id: 41289
 !!!signature: 4128900000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{4dd
-4g
-4b
-=2
-8cc
-8cc
-4dd
-4ee
-=3
-4ff
-4g
-4b
-=4
-8cc
-8cc
-4ee
-4cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{4dd	Oj,
+4g	nie
+4b	prze-
+=2	=2
+8cc	-bie-
+8cc	-raj,
+4dd	Ma-
+4ee	-ryś,
+=3	=3
+4ff	da,
+4g	że-
+4b	-byś
+=4	=4
+8cc	nie
+8cc	prze-
+4ee	-bra-
+4cc}	-ła,
 !!LO:LB:g=esac
-=5
-{8cc
-8dd
-4g
-8a
-8b
-=6
-8cc
-8cc
-4dd
-4ee
-=7
-8ee
-8ff
-4g
-8a
-8b
-=8
-8cc
-8cc
-4ee
-4cc}
-==
-*-
+=5	=5
+{8ccL	oj,
+8ddJ	.
+4g	że-
+8aL	-byś
+8b/J	.
+=6	=6
+8cc	za
+8cc	ka-
+4dd	-nar-
+4ee	-ka,
+=7	=7
+8eeL	da,
+8ffJ	.
+4g	wró-
+8aL	-bla
+8b/J	.
+=8	=8
+8cc	nie
+8cc	dos-
+4ee	-ta-
+4cc}	-ła.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oj, nie przebieraj, Maryś,
+!!da, żebyś nie przebrała,
+!!oj, żebyś za kanarka,
+!!da, wróbla nie dostała.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=255 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 176} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 176}
 !!!page: 176
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-24
