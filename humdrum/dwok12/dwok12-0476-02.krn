@@ -3,90 +3,129 @@
 !!!source: DWOK12
 !!!id: 12476
 !!!signature: 1247600002
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M3/8
-=1
-{16f
-16f
-8dd
-8b-
-=2
-16b-
-16a
-4cc
-=3
-16f
-16f
-8a
-8cc
-=4
-16cc
-16dd
-4b-}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M3/8	*
+=1	=1
+{16f	Żono
+16f	.
+8dd	moja
+8b-	.
+=2	=2
+16b-	żono,
+16a	.
+4cc	.
+=3	=3
+16f	dodaj-
+16f	.
+8a	-że
+8cc	mi
+=4	=4
+16cc	rady,
+16dd	.
+4b-}	.
 !!LO:LB:g=esac
-=5
-{16f
-16f
-8dd
-8b-
-=6
-16b-
-16a
-4cc
-=7
-16f
-16f
-8g
-8a
-=8
-16cc
-16dd
-4b-}
+=5	=5
+{16f	bowiem
+16f	.
+8dd	będą
+8b-	.
+=6	=6
+16b-	w_domu
+16a	.
+4cc	.
+=7	=7
+16f	wielkie
+16f	.
+8g	kłótnie
+8a	.
+=8	=8
+16cc	zwady,
+16dd	.
+4b-}	.
 !!LO:LB:g=esac
-=9
-{16ee-
-16ee-
-8dd
-8cc
-=10
-16dd
-16ff
-4gg
-=11
-16ee-
-16ee-
-8dd
-8cc
-=12
-16dd
-16a
-4b-}
+=9	=9
+{16ee-	jak
+16ee-	nie
+8dd	będzie
+8cc	.
+=10	=10
+16dd	taba-
+16ff	.
+4gg	-ki,
+=11	=11
+16ee-	jak
+16ee-	nie
+8dd	będzie
+8cc	.
+=12	=12
+16dd	taba-
+16a	.
+4b-}	-ki,
 !!LO:LB:g=esac
-=13
-{16ee-
-16ee-
-8dd
-8cc
-=14
-16dd
-16ff
-4gg
-=15
-16ee-
-16ee-
-8dd
-8cc
-=16
-16dd
-16a
-4b-}
-==
-*-
+=13	=13
+{16ee-	jak
+16ee-	nie
+8dd	będzie
+8cc	.
+=14	=14
+16dd	taba-
+16ff	.
+4gg	-ki.
+=15	=15
+16ee-	.
+16ee-	.
+8dd	.
+8cc	.
+=16	=16
+16dd	.
+16a	.
+4b-}	.
+==	==
+*-	*-
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Żono moja żono, dodajże mi rady,
+!!bowiem będą w domu wielkie kłótnie zwady,
+!!jak nie będzie tabaki, jak nie będzie tabaki.
+!!@VERSE:
+!!2. Biegaj do komory i weż miskę grochu,
+!!pośpieszaj do miasta, przedaj po trojáku,
+!!przynieś funcik tabaki.
+!!@VERSE:
+!!3. Wszakżeż ci panowie, co w sądzie siadają,
+!!także swą tabaczkę przy sobie miewają,
+!!poda jeden drugiemu.
+!!@VERSE:
+!!4. Nawet i w kościele, gdy kazań słuchamy,
+!!częstokroć tabaczkę naszą zażywamy,
+!!poczęstujem sąsiada.
+!!@VERSE:
+!!5. Kochany ksiądz pleban na nas się nie gniéwa,
+!!bo i on tabaczkę holenderską miéwa,
+!!na ambonie zażyje.
+!!@VERSE:
+!!6. Jedni zażywają dobrą holenderkę,
+!!inni znów kawwoto, lub także szpanderkę (spanisch)
+!!ja zaś żółtą marengę.
+!!@VERSE:
+!!7. Jest téż wielu takich, którzy zażywają,
+!!z cudzéj tabakiery, bo swojéj nie mają,
+!!patrzą aż im kto poda.
+!!@VERSE:
+!!8. Temu daj raz, drugi, daj mu poraz trzeci,
+!!a za czwartą razą aż za drzwi wyleci,
+!!daj pięścią w nos aż kichnie.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=262 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 246} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 246}
 !!!page: 246
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29

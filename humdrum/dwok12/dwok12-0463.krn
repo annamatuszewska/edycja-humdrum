@@ -3,110 +3,133 @@
 !!!source: DWOK12
 !!!id: 12463
 !!!signature: 1246300000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8dd
-8ee
-8ff
-8dd
-8gg
-8ff
-=2
-8dd
-8ee
-8ff
-8dd
-8gg
-8ff
-=3
-8dd
-8ee
-4ff
-4dd
-=4
-8cc
-8b
-2g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8dd	Popędzę
+8ee	.
+8ff	.
+8dd	ja
+8gg	woły,
+8ff	.
+=2	=2
+8dd	na
+8ee	zielone
+8ff	.
+8dd	.
+8gg	doły
+8ff	.
+=3	=3
+8dd	będą
+8ee	.
+4ff	mi
+4dd	je
+=4	=4
+8cc	chłopcy
+(8ccq	.
+8b)	.
+2g}	paść,
 !!LO:LB:g=esac
-=5
-{8g
-8a
-8b
-8g
-8cc
-8b
-=6
-8g
-8a
-8b
-8g
-8cc
-8b
-=7
-8g
-8a
-4b
-4dd
-=8
-8cc
-8b
-2cc}
+=5	=5
+{8g	a
+8a	ja
+8b/	będę
+8g	.
+8cc	spała,
+8b	.
+=6	=6
+8g	póki
+8a	.
+8b/	będę
+8g	.
+8cc	chciała,
+8b	.
+=7	=7
+8g	aż
+8a	do
+4b	domu
+4dd	.
+=8	=8
+8cc	będzie
+8b	.
+2cc}	czas,
 !!LO:LB:g=esac
-=9
-{8dd
-8ee
-8ff
-8dd
-8gg
-8ff
-=10
-8dd
-8ee
-8ff
-8dd
-8gg
-8ff
-=11
-8dd
-8ee
-4ff
-4dd
-=12
-8cc
-8b
-2g}
+=9	=9
+{8dd	popędzę
+8ee	.
+8ff	.
+8dd	ja
+8gg	woły,
+8ff	.
+=10	=10
+8dd	na
+8ee	zielone
+8ff	.
+8dd	.
+8gg	doły
+8ff	.
+=11	=11
+8dd	będą
+8ee	.
+4ff	mi
+4dd	je
+=12	=12
+8cc	chłopcy
+(8ccq	.
+8b)	.
+2g}	paść,
 !!LO:LB:g=esac
-=13
-{8g
-8a
-8b
-8g
-8cc
-8b
-=14
-8g
-8a
-8b
-8g
-8cc
-8b
-=15
-8g
-8a
-4b
-4dd
-=16
-8cc
-8b
-2cc}
-==
-*-
+=13	=13
+{8g	a
+8a	ja
+8b/	będę
+8g	.
+8cc	spała,
+8b	.
+=14	=14
+8g	póki
+8a	.
+8b/	będę
+8g	.
+8cc	chciała,
+8b	.
+=15	=15
+8g	aż
+8a	do
+4b	domu
+4dd	.
+=16	=16
+8cc	będzie
+8b	.
+2cc}	czas.
+==	==
+*-	*-
+!!!role-singer: Maiden, Bachelors
+!!!role-listener: Bachelors
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Popędzę ja woły,
+!!na zielone doły
+!!będą mi je chłopcy paść,
+!!a ja będę spała,
+!!póki będę chciała,
+!!aż do domu bedzie czas.
+!!@VERSE:
+!!2. Co to za dzieweczka
+!!idzie do taneczka,
+!!i żwawo poskakuje.
+!!A ja sama widzę,
+!!że ja ładnie idę,
+!!każdy mi się dziwuje.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=255 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 239} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 239}
 !!!page: 239
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29

@@ -3,90 +3,123 @@
 !!!source: DWOK12
 !!!id: 12445
 !!!signature: 1244500010
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{8b-
-16b-
-16a
-16cc
-16a
-=2
-8b-
-16b-
-16a
-16cc
-16a
-=3
-16b-
-16a
-8g
-8cc
-=4
-8a
-4f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{8b-	Com
+16b-	zarobi-
+16a\	.
+16cc	.
+16a\	-ła
+=2	=2
+8b-	tom
+16b-	zarobi-
+16a\	.
+16cc	.
+16a\	-ła,
+=3	=3
+16b-	to-ć
+16a\	mi
+8g	Jasio
+8cc	.
+=4	=4
+8a	przepił,
+4f}	.
 !!LO:LB:g=esac
-=5
-{8b-
-16b-
-16a
-16cc
-16a
-=6
-8b-
-16b-
-16a
-16cc
-16a
-=7
-16b-
-16a
-8g
-8cc
-=8
-8a
-4f}
+=5	=5
+{8b-	com
+16b-	zarobi-
+16a\	.
+16cc	.
+16a\	-ła
+=6	=6
+8b-	tom
+16b-	zarobi-
+16a\	.
+16cc	.
+16a\	-ła,
+=7	=7
+16b-	to-ć
+16a\	mi
+8g	Jasio
+8cc	.
+=8	=8
+8a	przepił
+4f}	.
 !!LO:LB:g=esac
-=9
-{16g
-16f
-8a
-8cc
-=10
-8b-
-4dd
-=11
-16g
-16f
-8a
-8cc
-=12
-8b-
-4dd}
+=9	=9
+{16gL	Bił
+16fJ	.
+8a\	mnie
+8cc	na
+=10	=10
+8b-	dworze,
+4dd	.
+=11	=11
+16gL	bił
+16fJ	.
+8a\	mnie
+8cc	w_ko-
+=12	=12
+8b-	-morze,
+4dd}	.
 !!LO:LB:g=esac
-=13
-{16b-
-16a
-8g
-8cc
-=14
-8a
-4f
-=15
-16b-
-16a
-8g
-8cc
-=16
-8a
-4f}
-==
-*-
+=13	=13
+{16b-L	bił
+16aJ\	mnie
+8g	na
+8cc	o-
+=14	=14
+8a	-gnisku,
+4f	.
+=15	=15
+16b-L	bił
+16aJ\	mnie
+8g	na
+8cc	o-
+=16	=16
+8a	-gnisku.
+4f}	.
+==	==
+*-	*-
+!!!role-singer: Wife
+!!!role-listener: Husband
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Com zarobiła tom zarobiła,
+!!to-ć mi Jasio przepił;
+!!bił mnie na dworze,
+!!bił mnie w komorze,
+!!bił mnie na ognisku.
+!!@VERSE:
+!!1. Com zarobiła tom zarobiła,
+!!to-ć mi Jasio przepił;
+!!żebym mu była — nic nie mówiła,
+!!nie byłby mnie obił.
+!!@VERSE:
+!!2. Bił mnie na dworze — bił mnie w kómorze,
+!!bił mnie na ognisku,
+!!czépiec my podar — i łeb my odar (obdarł)
+!!wytrzaskał po pysku.
+!!@VERSE:
+!!3. Bij-że mnie doma — bom twója żona,
+!!nie bij mnie u ludzi,
+!!niech-że się moja i twoja rodzina
+!!oj za nas nie wstydzi.
+!!@VERSE:
+!!4. Bij-że mnie doma — bom twoja żona,
+!!abym nie chromała,
+!!przewracaj nogą, — poléwaj wodą,
+!!abym nie omglała.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=247 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 231} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 231}
 !!!page: 231
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29

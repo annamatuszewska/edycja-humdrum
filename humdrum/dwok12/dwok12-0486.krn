@@ -3,60 +3,86 @@
 !!!source: DWOK12
 !!!id: 12486
 !!!signature: 1248600000
-**kern
-*clefG2
-*k[]
-*C:
-*M4/4
-=1
-{4g
-8g
-8b
-4.dd
-8cc
-=2
-8b
-8cc
-8dd
-8b
-2cc
-=3
-4g
-8g
-8b
-4.dd
-8cc
-=4
-8b
-8cc
-8dd
-8b
-2cc
-=5
-8ee
-8cc
-8cc
-8cc
-4ee
-4ee}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M4/4	*
+=1	=1
+{4g	Jak'em
+8g	.
+8b	wędrował,
+4.dd	.
+8cc	.
+=2	=2
+8b	kape-
+8cc	.
+8dd	-la
+8b	grała,
+2cc	.
+=3	=3
+4g	jak'em
+8g	.
+8b	wędrował,
+4.dd	.
+8cc	.
+=4	=4
+8b	kape-
+8cc	.
+8dd	-la
+8b	grała,
+2cc	.
+=5	=5
+8ee	jag'em
+8cc	.
+8cc	masierował,
+8cc	.
+4ee	.
+4ee}	.
 !!LO:LB:g=esac
-=6
-{8dd
-8b
-8b
-8b
-4dd
-4dd
-=7
-8b
-8cc
-8dd
-8b
-2cc}
-==
-*-
+=6	=6
+{8dd	jag'em
+8b	.
+8b	masiero-
+8b	.
+4dd	.
+4dd	-wał,
+=7	=7
+8b	kochanka
+8cc	.
+8dd	.
+8b	spała.
+2cc}	.
+==	==
+*-	*-
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Jak'em wędrował, kapela grała,
+!!jag'em masierował,
+!!jag'em masierował,
+!!kochanka spała.
+!!@VERSE:
+!!2. Żebyś był dobry,
+!!byłbyś mnie budziuł,
+!!i na pożegnanie,
+!!i na rozłączenie,
+!!słówko przemówił.
+!!@VERSE:
+!!3. Kupię ci suknie,
+!!ciemno-zieloną,
+!!ciemno-zieloną
+!!nie bardzo długą.
+!!Byś była gotowa,
+!!byś była gotowa
+!!wędrować ze mną.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=268 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 252} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 252}
 !!!page: 252
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29

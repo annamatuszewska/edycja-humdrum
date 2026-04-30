@@ -3,88 +3,107 @@
 !!!source: DWOK12
 !!!id: 12471
 !!!signature: 1247100000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8b
-8dd
-4dd
-4cc
-=2
-4.ee
-8dd
-8ff
-8ee
-=3
-4.gg
-8dd
-8ff
-8ee
-=4
-4.gg
-8dd
-8b
-8cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8b	Jeno
+8dd	.
+4dd	pójdę
+4cc	.
+=2	=2
+4.ee	do
+8dd	gościńca,
+8ff	.
+8ee	.
+=3	=3
+4.gg	do
+8dd	gościńca,
+8ff	.
+8ee	.
+=4	=4
+4.gg	do
+8dd	gościńca,
+8b	.
+8cc}	.
 !!LO:LB:g=esac
-=5
-{4.gg
-8dd
-8ff
-8ee
-=6
-4.gg
-8dd
-8ff
-8ee}
+=5	=5
+{4.gg	do
+8dd	gościńca,
+8ff	.
+8ee	.
+=6	=6
+4.gg	do
+8dd	gościńca,
+8ffL	.
+8eeJ/}	.
 !!LO:LB:g=esac
-=7
-{8b
-8dd
-4dd
-4a
-=8
-4.g
-8b
-8cc
-8ee
-=9
-8b
-8dd
-4dd
-4a
-=10
-4.g
-8b
-8cc
-8a}
+=7	=7
+{8b	puknę
+8dd	.
+4dd	sobie
+4a	.
+=8	=8
+4.g	w_stół
+8b	da
+8cc	dana,
+8ee	.
+=9	=9
+8b	puknę
+8dd	.
+4dd	so-
+4a	-bie
+=10	=10
+4.g	w_stół
+8b	da
+8cc	dana.
+8a}	.
 !!LO:LB:g=esac
-=11
-{8b
-8dd
-4dd
-4a
-=12
-4.g
-8b
-8cc
-8ee
-=13
-8b
-8dd
-4dd
-4a
-=14
-4.g
-8b
-8cc
-8a}
-==
-*-
+=11	=11
+{8b	puknę
+8dd	.
+4dd	sobie
+4a	.
+=12	=12
+4.g	w_stół
+8b	da
+8cc	dana,
+8ee	.
+=13	=13
+8b	puknę
+8dd	.
+4dd	so-
+4a	-bie
+=14	=14
+4.g	w_stół
+8b	da
+8cc	dana.
+8a}	.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!role-listener: Alewife
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Jeno pójdę do gościńca,
+!!do gościńca, do gościńca,
+!!puknę sobie w stół da dana,
+!!puknę sobie w stół da dana.
+!!Ty gościnna, wléj-że piwa,
+!!będzie chłopak pił.
+!!@VERSE:
+!!2. Ty gościnna, ty gościnna,
+!!stawiaj piwa dzban,
+!!będzie chłopak pił wesoły,
+!!będzie pił jak pan.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=259 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 243} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 243}
 !!!page: 243
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29

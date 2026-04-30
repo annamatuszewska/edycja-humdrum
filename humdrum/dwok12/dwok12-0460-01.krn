@@ -3,50 +3,77 @@
 !!!source: DWOK12
 !!!id: 12460
 !!!signature: 1246000001
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{8g
-8b
-8cc
-8cc
-=2
-8b
-8dd
-4g
-=3
-8g
-8b
-8dd
-8ff
-=4
-8ee
-8gg
-4cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+=1	=1
+{8g	Chciała
+8b	.
+8cc	pani
+8cc	.
+=2	=2
+8b	winno
+8dd	.
+4g	pić,
+=3	=3
+8g	nimiał
+8b	.
+8dd	ji
+8ff	kto
+=4	=4
+8ee	uto-
+8gg	.
+4cc}	-czyć,
 !!LO:LB:g=esac
-=5
-{4ee
-4ff
-=6
-8dd
-8dd
-4ee
-=7
-8cc
-8cc
-8dd
-8b
-=8
-8g
-8a
-4cc}
-==
-*-
+=5	=5
+{4ee	hej
+4ff	hej,
+=6	=6
+8dd	hi
+8dd	ha
+4ee	ha
+=7	=7
+8cc	nimiał
+8cc	.
+8dd	ij
+8b	kto
+=8	=8
+8g	u-
+8a\	-to-
+4cc}	-czyć.
+==	==
+*-	*-
+!!!role-singer: Narrator, Husband, Wife
+!!!role-listener: Wife, Husband
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Chciała pani winno pić,
+!!nimiał ji kto utoczyć,
+!!hej hej, hi ha ha
+!!nimiał ij kto utoczyć.
+!!@VERSE:
+!!2. Pan z pokoju wyskoczył,
+!!pani winna utoczył.
+!!@VERSE:
+!!3. Zapytał się pan pani,
+!!co tak łóżko stargane?
+!!@VERSE:
+!!4. Kotka myszki łapała,
+!!i łóżeczko stargała.
+!!@VERSE:
+!!5. Zapytał się pan pani:
+!!co za ułan za drzwiami?
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Śpiewa się i na nutę nr 417.
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=254 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 238} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 238}
 !!!page: 238
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29

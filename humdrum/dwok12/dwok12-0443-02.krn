@@ -3,111 +3,157 @@
 !!!source: DWOK12
 !!!id: 12443
 !!!signature: 1244300002
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M4/4
-=1
-{4a
-8b
-8cc#
-4.dd
-8f#
-=2
-8a
-8a
-8g
-8g
-2f#
-=3
-4a
-8b
-8cc#
-2dd
-=4
-4a
-4g
-2f#}
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M4/4	*
+*met(c)	*
+=1	=1
+!!LO:TX:a:t=Żywo.
+{4a\	Oj
+8b	nieszczęśliwa
+8cc#	.
+4.dd	.
+8f#	.
+=2	=2
+8a	moja
+8a	.
+8g	podola,
+8g	.
+2f#	.
+=3	=3
+4a\	co
+8bL	to
+8cc#J	.
+2dd	za
+=4	=4
+4a	niewola!
+4g	.
+2f#}	.
 !!LO:LB:g=esac
-=5
-{8d
-8d
-8e
-8e
-8f#
-8f#
-8g
-8g
-=6
-8d
-8d
-8e
-8e
-8f#
-8f#
-8g
-8g
-=7
-4d
-4e
-8f#
-8f#
-8g
-8g
-=8
-4d
-4e
-8f#
-8f#
-8g
-8g
-=9
-8a
-8a
-8g
-8g
-2f#}
+=5	=5
+{8d	Cicho
+8d	.
+8e	babo
+8e	.
+8f#	czarowni-
+8f#	.
+8g	.
+8g	-co,
+=6	=6
+8d	szczekasz
+8d	.
+8e	babo
+8e	.
+8f#	nie
+8f#	wiesz
+8g	o
+8g	co,
+=7	=7
+4d	Ty
+4e	sam
+8f#	zczarowany,
+8f#	.
+8g	.
+8g	.
+=8	=8
+4d	boś
+4e	co
+8f#	dzień
+8f#	pija-
+8g	.
+8g	-ny.
+=9	=9
+8a	codzień
+8a	.
+8g	pijany,
+8g	.
+2f#}	.
 !!LO:LB:g=esac
-=10
-{4d
-4e
-8f#
-8f#
-8g
-8g
-=11
-8d
-8d
-8e
-8e
-8f#
-8f#
-8g
-8g
-=12
-4a
-4g
-2f#}
+=10	=10
+{4d	w_domu
+4e	.
+8f#	nie
+8f#	nocujesz,
+8g	.
+8g	.
+=11	=11
+8d	gospodarstwa
+8d	.
+8e	.
+8e	.
+8f#	nie
+8f#	pilnujesz,
+8g	.
+8g	.
+=12	=12
+4a	rujnujesz,
+4g	.
+2f#}	.
 !!LO:LB:g=esac
-=13
-{4a
-8b
-8cc#
-8dd
-8cc#
-8dd
-8ff#
-=14
-4a
-8b
-8cc#
-4dd}
-4r
-==
-*-
+=13	=13
+{4a\	rujnu-
+8bL	.
+8cc#J	.
+8ddL	-jesz,
+8cc#	.
+8dd	.
+8ff#J/	.
+=14	=14
+4a\	rujnu-
+8bL	.
+8cc#J	.
+4dd}	-jesz.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Wife, Husband
+!!!role-listener: Husband, Wife
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Oj nieszczęśliwa moja podola,
+!!co to za niewola!
+!!Cicho babo czarownico,
+!!szczekasz babo nie wiesz o co,
+!!Ty sam zczarowany,
+!!boś codzień pijany.
+!!codzień pijany,
+!!w domu nie nocujesz,
+!!gospodarstwa nie pilnujesz,
+!!rujnujesz, rujnujesz, rujnujesz.
+!!@VERSE:
+!!2. Nie masz-ci ty wielgiego strachu,
+!!choć na chałupie niémasz dachu,
+!!ni bydło obory,
+!!prowadź-że je do komory;
+!!ni żadnej czeladzi,
+!!wszystko-ć ci to zawadzi,
+!!wielga niecnoto!
+!!@VERSE:
+!!3. A gdzie mój fóndusz, gdzie moje fanki (fenigi),
+!!poszły do żydów na tranki (trunki).
+!!A gdzie mój sznórów (sznórówka),
+!!poszed dla bachurów;
+!!gdzię mój jest kabat,
+!!poszed do żydów na sabat.
+!!A gdzie mój pierzcień,
+!!gdzie mój jest dyjament?
+!!w garle twojim déstament.
+!!— Za twój pierzcień, dyjament,
+!!bodaj ten déstament
+!!w piekle się miénił.
+!!@VERSE:
+!!4. A toć mnie lepiéj poniechaj! —
+!!Cicho babo, nie szczekáj! —
+!!— A to się lepiéj rozwiedźmy ! —
+!!— Cicho babo, spać pódźmy! —
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=246 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 230} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 230}
 !!!page: 230
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
