@@ -3,54 +3,80 @@
 !!!source: DWOK41
 !!!id: 41246
 !!!signature: 4142600000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8d
-8d
-4b
-4g
-=2
-8f#
-8f#
-2g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8d	Jes-
+8d	-dem
+4b	so-
+4g	-bie
+=2	=2
+8f#	chło-
+8f#	-pak
+2g}	chwat,
 !!LO:LB:g=esac
-=3
-{8d
-8d
-4b
-4g
-=4
-8f#
-8f#
-2g}
+=3	=3
+{8d	do-
+8d	-pié-
+4b	-ro
+4g	mnie
+=4	=4
+8f#	kwi-
+8f#	-tnie
+2g}	świat,
 !!LO:LB:g=esac
-=5
-{8a
-8g
-4b
-4dd
-=6
-8cc
-8b
-2g}
+=5	=5
+{8a	a-
+8g	-le
+4b	za
+4dd	rok
+=6	=6
+8cc	al-
+8b	-bo
+2g}	dwa,
 !!LO:LB:g=esac
-=7
-{8a
-8cc
-4b
-4d
-=8
-8f#
-8f#
-2g}
-==
-*-
+=7	=7
+{8a	zdo-
+8cc	-lam
+4b	zdu-
+4d	-sić
+=8	=8
+8f#	smo-
+8f#	-ka,
+2g}	lwa.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Jesdem sobie chłopak chwat,
+!!dopiéro mnie kwitnie świat,
+!!ale za rok albo dwa, zdolam zdusić smoka, lwa.
+!!Raz mnie ciarach w droge wlaz,
+!!a ja z nim téz sedłem wraz;
+!!@VERSE:
+!!2. Raz mnie ciarach w drogę wlaz,
+!!a ja z nim tez sedłem wraz;
+!!mówił: chamie, reszpekt znaj,
+!!z ślachetką się nie brataj.
+!!@VERSE:
+!!3. Nuż mnie kańczug pod nos kłaść,
+!!a ja go téz wytnął w garść:
+!!piknie prosił płateg ów,
+!!by móg z dusą uciec zdrów.
+!!@VERSE:
+!!4. Nie jezdem ja grubijan.
+!!tylkoć takze jak i pan
+!!boską dusę w ciele mam,
+!!deptać po sobie nie dam.
+!!@@END: VERSES
+!!!role-singer: Young Man
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=313 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 230} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 230}
 !!!page: 230
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-15

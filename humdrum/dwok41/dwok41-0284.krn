@@ -3,60 +3,77 @@
 !!!source: DWOK41
 !!!id: 41284
 !!!signature: 4128400000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/4
-=1
-{4.f
-8a
-8cc
-8dd
-=2
-8b-
-8dd
-4ff
-4ee
-=3
-4.cc
-8a
-8cc
-8dd
-=4
-8b-
-8g
-4b-
-4a}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/4	*
+=1	=1
+{4.f	Da-
+8a	-ła-
+8cc	-bym
+8dd	ci
+=2	=2
+8b-	sé-
+8dd	-ra,
+4ffM	chle-
+4ee	-ba,
+=3	=3
+4.cc	ty
+8a	te-
+8cc	-go
+8dd	chcesz,
+=4	=4
+8b-	co
+8g	nie
+4b-	trze-
+4a}	-ba.
 !!LO:LB:g=esac
-=
-{12cc
-12dd
-12ee
-4ff
-4a
-=5
-8b-
-8dd
-4ff
-8ee
-8dd
-=
-12cc
-12dd
-12ee
-4ff
-4a
-=6
-8b-
-8g
-4b-
-8b-
-8a}
-==
-*-
+=5	=5
+{12ccL	Sé-
+12ddJ	.
+12ee	-ra,
+4ff	chle-
+4a	-ba
+=6	=6
+8b-	nie
+8dd	na-
+4ff	-jem
+8eeL	się,
+8ddJ	.
+=7	=7
+12ccL	a
+12ddJ	z_dziew-
+12ee	.
+4ff	-czy-
+4a	-ną
+=8	=8
+8b-	na-
+8g	-i-
+4b-	-gram
+(8ccq	.
+8b-)L	się.
+8a}\J	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Dałabym ci séra, chleba,
+!!ty tego chcesz, co nie trzeba.
+!!Séra, chleba nie najem się,
+!!a z dziewczyną naigram się.
+!!@VERSE:
+!!2. Nie chcę chleba, nie chcę séra,
+!!wolałabym kawaléra;
+!!sera, chleba nie najem się,
+!!z kawalérem naigram się.
+!!@@END: VERSES
+!!!role-singer: Lover, Mistress
+!!!role-listener: Mistress, Lover
+!!!singer-sex: Female, Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=253 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 174} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 174}
 !!!page: 174
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-24

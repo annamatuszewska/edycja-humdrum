@@ -3,77 +3,92 @@
 !!!source: DWOK41
 !!!id: 41276
 !!!signature: 4127600001
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M3/4
-=1
-{8a
-8a
-4b
-4a
-=2
-4.dd
-8f#
-8b
-8a
-=3
-8a
-8a
-4b
-4a
-=4
-4.dd
-8f#
-8b
-8a}
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M3/4	*
+=1	=1
+{8a	Śpie-
+8a	-wa
+4b	sło-
+4a	-wik
+=2	=2
+4.dd	na
+8f#	mo-
+8b	-gi-
+8a	-le,
+=3	=3
+8a	a
+8a	Ka-
+4b	-mi-
+4a	-lek
+=4	=4
+4.dd	spoj-
+8f#	-rzy
+8b	mi-
+8a}	-le;
 !!LO:LB:g=esac
-=5
-{4.a
-8cc#
-8ee
-8gg
-=6
-8ff#
-8ee
-4dd
-4a
-=7
-8a
-8a
-4b
-4c#
-=8
-8d
-8d
-4f#
-4a}
+=5	=5
+{4.a	już
+8cc#	śpie-
+8ee	-wa-
+8gg	-nia
+=6	=6
+8ff#	za-
+8ee	-po-
+4dd	-mi-
+4a	-na,
+=7	=7
+8a	Ka-
+8a	-mi-
+4b	-la
+4c#	ko-
+=8	=8
+8d	-chać
+8d	za-
+4f#	-czy-
+4a}	-na.
 !!LO:LB:g=esac
-=9
-{4.a
-8cc#
-8ee
-8gg
-=10
-8ff#
-8ee
-4dd
-4a
-=11
-8a
-8a
-4g
-4c#
-=12
-8d
-8d
-4f#
-4d}
-==
-*-
+=9	=9
+{4.a	już
+8cc#	śpie-
+8ee	-wa-
+8gg	-nia
+=10	=10
+8ff#	za-
+8ee	-po-
+4dd	-mi-
+4a	-na,
+=11	=11
+8a	Ka-
+8a	-mi-
+4g	-la
+4c#	ko-
+=12	=12
+8d	-chać
+8d	za-
+4f#	-czy-
+4d}	-na.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Śpiewa słowik na mogile,
+!!a Kamilek spojrzy mile;
+!!już śpiewania zapomina,
+!!Kamila kochać zaczyna.
+!!@VERSE:
+!!2. Bodaj tego Kamiluka,
+!!jakże we mnie serce puka,
+!!tak mnie przeląkł, ledwo stoję.
+!!kochałabym, lecz się boję.
+!!@@END: VERSES
+!!!role-singer: Girl
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=249 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 170} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 170}
 !!!page: 170
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-24

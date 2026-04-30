@@ -3,62 +3,92 @@
 !!!source: DWOK41
 !!!id: 41292
 !!!signature: 4129200001
-**kern
-*clefG2
-*k[b-]
-*F:
-*M4/4
-=1
-{4f
-8cc
-8a
-4b-
-4g
-=2
-4b-
-4a
-2f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M4/4	*
+=1	=1
+{4f	Zie-
+8cc	-lo-
+8a	-na
+4b-	ru-
+4g	-tka,
+=2	=2
+4b-	mo-
+(8b-q	.
+4a)	-dry
+2f}	kwiat,
 !!LO:LB:g=esac
-=3
-{8b-
-8a
-8b-
-8dd
-4ff
-4dd
-=4
-4ff
-4ee
-4cc
-4f}
+=3	=3
+{8b-/L	wę-
+8aJ	.
+8b-	-druj,
+8dd	dziew-
+4ff	-czy-
+4dd	-no,
+=4	=4
+4ff	he-
+4ee	-ciu
+4cc	pe-
+4f}	-ciu,
 !!LO:LB:g=esac
-=5
-{8f
-8a
-8cc
-8dd
-4b-
-4g
-=6
-4g
-8e
-8g
-2cc
-=7
-8f
-8a
-8cc
-8dd
-4b-
-4g
-=8
-4b-
-4a
-2f}
-==
-*-
+=5	=5
+{8f	dy-
+8a	-lu
+8cc	dy-
+8dd	-lu
+4b-	dy-
+4g	-lu,
+=6	=6
+4g	ze
+8eL	mną
+8gJ	.
+2cc	w_świat.
+=7	=7
+8f	dy-
+8a	-lu
+8cc	dy-
+8dd	-lu
+4b-	dy-
+4g	-lu,
+=8	=8
+4b-	ze
+4a	mną
+2f}	w_świat.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Zielona rutka, modry kwiat,
+!!wędruj, dziewczyno, heciu peciu,
+!!dylu dylu dylu, ze mną w świat.
+!!@VERSE:
+!!2. Hej, jakże [mam z tobą wędrować,
+!!będą się ludzie, heciu peciu,
+!!dylu dylu dylu, dziwować].
+!!@VERSE:
+!!3. I przywędrowali do miasta,
+!!przedaje wianek, heciu peciu,
+!![dylu dylu dylu], niewiasta.
+!!@VERSE:
+!!4. Zielona rutka, jałowiec
+!![lepsy kawaler niz wdowiec].
+!!@VERSE:
+!!5. Kupie sobie kurczęta,
+!!co wygrzebią dziecięta.
+!!@VERSE:
+!!6. Nasadze sobie kokoszkę,
+!!co wygrzebią niebożkę.
+!!@VERSE:
+!!7. Posadzę ją sobie w kąciku,
+!!całujże ją w buzię wdowczyku.
+!!@@END: VERSES
+!!!role-singer: Complex
+!!!singer-sex: Male, Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=256 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 177} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 177}
 !!!page: 177
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-24

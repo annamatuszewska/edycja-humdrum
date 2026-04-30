@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK4130000001-oj_zeby_nie_o_cie_nie_o_cie.krn
+!!!OTL: Oj, żeby nie o cię, nie o cię
+!!!source: DWOK41
+!!!id: 41300
+!!!signature: 4130000001
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{4.g;	Oj,
+=2	=2
+16a	że-
+16cc	-by
+8ee	nie
+8ee	o
+=3	=3
+16dd	cię,
+16ddM	nie
+8b	o
+8b}	cię,
+!!LO:LB:g=esac
+=4	=4
+{16a	że-
+16cc	-by
+8ee	nie
+8ee	o
+=5	=5
+16dd	cię,
+16dd	nie
+8b	o
+8bm	cię,
+=6	=6
+16g	nie
+16b	sto-
+8d	-jał-
+16f#L	-by
+16a}J	.
+!!LO:LB:g=esac
+=7	=7
+{16g	mój
+16b	ko-
+8dd	-ni-
+16ccL	-czek
+16a\J	.
+=8	=8
+16g	przy
+16b	two-
+8d	-im
+16f#L	pło-
+16aJ	.
+=9	=9
+16g	-cie,
+16b/	[da,
+8dd/	pło-
+16cc/L	-cie].
+16a}J	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj, żeby nie o cię, nie o cię,
+!!żeby nie o cię, nie o cię,
+!!nie stojałby mój koniczek
+!!przy twoim płocie, [da, płocie].
+!!@VERSE:
+!!2. Oj, żeby nie u téj, nie u téj.
+!!żeby nie u téj, nie u téj.
+!!nie stojałby mój koniczek
+!!jednej minuty, [minuty].
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Single Girl
+!!!singer-sex: Male
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=259 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 180} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 180}
+!!!page: 180
+!!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-24

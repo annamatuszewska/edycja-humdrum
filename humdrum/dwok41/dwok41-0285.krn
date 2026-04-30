@@ -1,0 +1,95 @@
+!!!!SEGMENT: DWOK4128500002-dalabym_ci_sera_chleba.krn
+!!!OTL: Dałabym ci sera, chleba
+!!!source: DWOK41
+!!!id: 41285
+!!!signature: 4128500002
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M3/8	*
+=1	=1
+{16d	Da-
+16f#	-ła-
+8a	-bym
+8cc#	ci
+=2	=2
+16dd	se-
+16b	-ra,
+8b	chle-
+16bL	-ba,
+16ddJ	.
+=3	=3
+16ee	ty
+16cc#	te-
+8a	-go
+16a\L	chcesz,
+16cc#J	.
+=4	=4
+16dd	co
+16b	nie
+8b	trze-
+16bL	-ba,
+16ddJ}	.
+!!LO:LB:g=esac
+=5	=5
+{16ee	ty
+16cc#	te-
+8a	-go
+16aL	chcesz,
+16f#J	.
+=6	=6
+16e	co
+16e	nie
+8g	trze-
+16gL	-ba.
+16f#J}	.
+!!LO:LB:g=esac
+=7	=7
+{16d	Se-
+16f#	-ra,
+8a	chle-
+16aL	-ba
+16f#J	.
+=8	=8
+16e	nie
+16e	na-
+8g	-jem
+16b/L	się,
+16gJ	.
+=9	=9
+16d	a
+16f#	z_dzie-
+16a\L	-wczy-
+16ddJ	.
+16aL	-ną
+16f#J	.
+=10	=10
+16e	na-
+16e	-i-
+8g	-gram
+16gL	się.
+16f#J}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Dałabym ci sera, chleba,
+!!ty tego chcesz, co nie trzeba,
+!!Sera, chleba nie najem się,
+!!a z dziewczyną naigram się.
+!!@VERSE:
+!!2. Nie chcę chleba, nie chcę séra,
+!!wolałabym kawalira;
+!!séra, chleba nie najém się.
+!!z kawalirem naigram się.
+!!@@END: VERSES
+!!!role-singer: Lover, Mistress
+!!!role-listener: Mistress, Lover
+!!!singer-sex: Male, Female
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=253 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 174} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 174}
+!!!page: 174
+!!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-24

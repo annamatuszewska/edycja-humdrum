@@ -3,60 +3,74 @@
 !!!source: DWOK41
 !!!id: 41283
 !!!signature: 4128300000
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M3/8
-=1
-{16a
-16ff#
-8ee
-16dd
-16cc#
-=2
-16a
-16ff#
-8ee
-16dd
-16cc#
-=3
-16a
-16ff#
-8ee
-16dd
-16cc#
-=4
-16a
-16g
-8f#
-8d}
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M3/8	*
+=1	=1
+{16a	A
+16ff#	bo-
+8ee	-daj
+16ddL	żeś
+16cc#J	.
+=2	=2
+16a	na-
+16ff#	-wy-
+8ee	-my-
+16ddL	-ślał,
+16cc#J	.
+=3	=3
+16a	da-
+16ff#	-ła-
+8ee	-bym
+16ddL	ci,
+16cc#J	.
+=4	=4
+16a	cze-
+16g	-go
+8f#	byś
+8d}	chciał.
 !!LO:LB:g=esac
-=5
-{8.g
-16f#
-16a
-16f#
-=6
-16g
-16g
-8f#
-8a
-=
-24g
-24a
-24b
-8cc
-8dd
-=7
-16a
-16g
-8f#
-8d}
-==
-*-
+=5	=5
+{8.g	da-
+16f#	-ła-
+16a	-bym
+16f#	ci
+=6	=6
+16g	klu-
+16g	-sek
+8f#	z_kwa-
+8a	-sem,
+=7	=7
+24gL	że-
+24aJ	.
+24b/	-byś
+8cc	przy-
+8dd	-szedł
+=8	=8
+16a	do
+16g	mnie
+8f#	cza-
+8d}	-sem.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A bodaj żeś nawymyślał,
+!!dałabym ci, czego byś chciał.
+!!dałabym ci klusek z kwasem,
+!!żebyś przyszedł do mnie czasem.
+!!@VERSE:
+!!2. Wsypałabym jeszcze pieprzu,
+!!żebyś leciał na powietrzu.
+!!@@END: VERSES
+!!!role-singer: Mistress
+!!!role-listener: Lover
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=252 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 173} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 173}
 !!!page: 173
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-24
