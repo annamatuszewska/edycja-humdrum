@@ -3,138 +3,171 @@
 !!!source: DWOK12
 !!!id: 12473
 !!!signature: 1247300000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16a
-16a
-8a
-8g
-=2
-16a
-16b-
-4cc
-=3
-16dd
-16dd
-8dd
-8cc
-=4
-16b-
-16dd
-4cc}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16a	Moja
+16a	.
+8a	kumo-
+8g	.
+=2	=2
+16aL	-siń-
+16b-J\	.
+4cc	-ko
+=3	=3
+16dd	zażyjma
+16dd	.
+8dd	.
+8cc	ta-
+=4	=4
+16b-L	-ba-
+16ddJ	.
+4cc}	-ki,
 !!LO:LB:g=esac
-=5
-{16a
-16a
-8a
-8g
-=6
-16a
-16b-
-4cc
-=7
-16g
-16a
-8b-
-8b-
-=8
-8a
-4f}
+=5	=5
+{16a	bo
+16a	nasz
+8a	kumo-
+8g	.
+=6	=6
+16aL	-te-
+16b-J\	.
+4cc	-rek
+=7	=7
+16g	nie
+16a	był
+8b-	nigdy
+8ccq	.
+8b-	.
+=8	=8
+8a\	ta-
+4f}	-ki.
 !!LO:LB:g=esac
-=9
-{16cc
-16b-
-8a
-16a
-16b-
-=10
-16cc
-16b-
-16a
-16g
-16a
-16b-
-=11
-16g
-16a
-16b-
-16dd
-8cc
-=12
-16a
-16g
-4f}
+=9	=9
+{16cc	Nie
+16b-	wiem
+8a\	co
+16aL	mu
+16b-J\	.
+=10	=10
+16cc	się
+16b-	stało
+16a\	.
+16g\	da
+16a\	dana,
+16b-	.
+=11	=11
+16g	nie
+16a	wiem
+16b-L	co
+16ddJ	.
+8cc	mu
+=12	=12
+16a	się
+16g	stało.
+4f}	.
 !!LO:LB:g=esac
-=13
-{16a
-16a
-8a
-8g
-=14
-16a
-16b-
-4cc
-=15
-16dd
-16dd
-8dd
-8cc
-=16
-16b-
-16dd
-4cc}
+=13	=13
+{16a	Moja
+16a	.
+8a	kumo-
+8g	.
+=14	=14
+16aL	-siń-
+16b-J\	.
+4cc	-ko
+=15	=15
+16dd	zażyjma
+16dd	.
+8dd	.
+8cc	ta-
+=16	=16
+16b-L	-ba-
+16ddJ	.
+4cc}	-ki,
 !!LO:LB:g=esac
-=17
-{16a
-16a
-8a
-8g
-=18
-16a
-16b-
-4cc
-=19
-16g
-16a
-8b-
-8b-
-=20
-16a
-16g
-4f}
+=17	=17
+{16a	bo
+16a	nasz
+8a	kumo-
+8g	.
+=18	=18
+16aL	-te-
+16b-J\	.
+4cc	-rek
+=19	=19
+16g	nie
+16a	był
+8b-	nigdy
+8ccq	.
+8b-	.
+=20	=20
+16aL	ta-
+16gJ	-ki.
+4f}	.
 !!LO:LB:g=esac
-=21
-{16cc
-16b-
-16a
-16g
-16a
-16b-
-=22
-16cc
-16dd
-16ee
-16ff
-16dd
-16b-
-=23
-16g
-16a
-16b-
-16dd
-8cc
-=24
-16a
-16g
-4f}
-==
-*-
+=21	=21
+{16cc	Nie
+16b-	wiem
+16aL	co
+16gJ/	.
+16aL	mu
+16b-J\	.
+=22	=22
+16ccL	się
+16dd	stało
+16ee	.
+16ffJ/	da
+16ddL	dana,
+16b-J/	.
+=23	=23
+16g	nie
+16a	wiem
+16b-L	co
+16ddJ	.
+8cc	mu
+=24	=24
+16a	się
+16g	stało.
+4f}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!!role-listener: Crone
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Moja kumosińko zażyjma tabaki,
+!!bo nasz kumoterek nie był nigdy taki.
+!!Nie wiem co mu się stało da dana,
+!!nie wiem co mu się stało.
+!!@VERSE:
+!!2. Kumoszka zażyła, raz i drugi, trzeci,
+!!Bóg wam wielki zapłać, bo mi z nosa leci.
+!!Co za wściekło tabaka, da dana,
+!!co za wściekło tabaka.
+!!@VERSE:
+!!3. Ksiądz na ambonie powiada kazanie,
+!!raz, drugi, trzeci, tabaki dostanie.
+!!Co za wściekło tabaka, da dana,
+!!co za wściekło tabaka.
+!!@VERSE:
+!!4. Książęta, panięta, sądy zasiadają,
+!!raz, drugi, trzeci, tabaki dostają.
+!!Co za wściekło tabaka, da dana,
+!!co za wściekło tabaka.
+!!@VERSE:
+!!5. Są téż tu i tacy, co się o nią proszą,
+!!radzi zażywają, a sami nie noszą.
+!!A muszą mieć tabakę, da dana,
+!!a muszą mieć tabakę.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=260 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 244} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 244}
 !!!page: 244
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29

@@ -3,65 +3,94 @@
 !!!source: DWOK12
 !!!id: 12465
 !!!signature: 1246500001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8.a
-16b
-8cc
-8cc
-8dd
-8cc
-=2
-8.b
-16dd
-8dd
-8dd
-8b
-8g
-=3
-8.a
-16b
-8cc
-8cc
-8dd
-8cc
-=4
-8.b
-16dd
-8dd
-8dd
-8b
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8.a\	W_karczmie
+16b	.
+8cc	naprzeciwko,
+8cc	.
+8dd	.
+8cc	.
+=2	=2
+8.b	jest
+16dd	tam
+8dd	dobre
+8dd	.
+8b	piwko,
+8g	.
+=3	=3
+8.a\	w_karczmie
+16b	.
+8cc	naprzeciwko,
+8cc	.
+8dd	.
+8cc	.
+=4	=4
+8.b	jest
+16dd	tam
+8dd	dobre
+8dd	.
+8b	piwko,
+8g}	.
 !!LO:LB:g=esac
-=5
-{8.a
-16b
-4cc
-4d
-=6
-4g
-4b
-4dd
-=7
-8.a
-16b
-8cc
-8ee
-8dd
-8f#
-=8
-4g
-4g
-8a
-8g}
-==
-*-
+=5	=5
+{8.a\	pójdźmy
+16b	.
+4cc	na
+4d\	nie
+=6	=6
+4g	dzieweczko,
+4b	.
+4dd	.
+=7	=7
+8.a\	pójdźmy
+16b	.
+8ccL	na
+8eeJ	.
+!LO:TX:t=P:problem=mixed beam	!
+8ddL\	nie
+8f#J/	.
+=8	=8
+4g	dzieweczko.
+4g	.
+8aL	.
+8gJ}	.
+==	==
+*-	*-
+!!!role-singer: Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. W karczmie naprzeciwko,
+!!jest tam dobre piwko,
+!!pójdźmy na nie dzieweczko.
+!!@VERSE:
+!!2. Nie pude (pójdę) ja sama,
+!!bo się boję pana,
+!!bo się boję nieszczęścia.
+!!@VERSE:
+!!3. Nie bój się, kochanie,
+!!nic ci się nie stanie;
+!!piwka się napijesz,
+!!ochoty zażyjesz,
+!!romta dana, dzieweczko.
+!!@VERSE:
+!!4. Pamiętasz to Sobku,
+!!coś to robił w sádku,
+!!kiedym wółki pasała;
+!!w oczkaś mi zaglądał,
+!!po liczku’ś mnie bombał,
+!!kiedym pod krzem siedziała.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=256 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 240} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 240}
 !!!page: 240
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29

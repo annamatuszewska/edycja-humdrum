@@ -3,97 +3,156 @@
 !!!source: DWOK12
 !!!id: 12481
 !!!signature: 1248100002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{4g
-8g
-=2
-16a
-16b
-8g
-8f#
-=3
-4d
-8d
-=4
-16f#
-16a
-16a
-16b
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{4g	W_Krako-
+8g	.
+=2	=2
+16a	-wie
+16b	nie
+8g	we
+8f#	wsi,
+=3	=3
+4d	był
+8d	tam
+=4	=4
+16f#	chłopek
+16a	.
+16a	Maciek,
+16b	.
+8g}	.
 !!LO:LB:g=esac
-=5
-{8d
-8.g
-16f#
-=6
-16g
-16b
-8g
-16f#
-16e
-=7
-8d
-8f#
-16f#
-16e
-=8
-16f#
-16a
-16a
-16b
-8g}
+=5	=5
+{8d	był
+8.g	ma-
+16f#	.
+=6	=6
+16g	-łe-
+16b	-go
+8g	wzrostu,
+16f#	.
+16e	.
+=7	=7
+8d	a
+8f#	wiel-
+8gq	.
+16f#	-ki
+16e	.
+=8	=8
+16f#	pi-
+16a	.
+16a	-ja-
+16b	.
+8g}	-czek.
 !!LO:LB:g=esac
-=9
-{16g
-16b
-8dd
-8cc#
-=10
-16dd
-16ee
-8.cc
-16b
-=11
-8a
-8a
-8a
-=12
-16d
-16f#
-16a
-16b
-8g}
+=9	=9
+{16g	Oj
+16b	.
+8dd	jak
+8cc#	to
+=10	=10
+16dd	wspomnieć
+16ee	.
+8.cc	miło,
+16b	.
+=11	=11
+8a	oj
+8a	jak
+8a	to
+=12	=12
+16d	z_Maćkiem
+16f#	.
+16a	było,
+16b	.
+8g}	.
 !!LO:LB:g=esac
-=13
-{16g
-16b
-8dd
-16dd
-16cc#
-=14
-16dd
-16ee
-8.cc
-16b
-=15
-8a
-8a
-8a
-=16
-16d
-16f#
-16a
-16b
-8g}
-==
-*-
+=13	=13
+{16g	oj
+16b	.
+8dd	jak
+16dd	to
+16cc#	.
+=14	=14
+16dd	wspomnieć
+16ee	.
+8.cc	miło,
+16b	.
+=15	=15
+8a	oj
+8a	jak
+8a	to
+=16	=16
+16d	z_Maćkiem
+16f#	.
+16a	było.
+16b	.
+8g}	.
+==	==
+*-	*-
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. W Krakowie nie we wsi,
+!!był tam chłopek Maciek,
+!!był małego wzrostu,
+!!a wielki pijaczek.
+!!Oj jak to wspomnieć miło,
+!!oj jak to z Maćkiem było.
+!!@VERSE:
+!!1. W Krakowie nie we wsi,
+!!był tam chłopek Maciek;
+!!takiego nazwiska,
+!!był dobry pijaczek.
+!!Oj jak to wspomnieć miło,
+!!oj jak to z Maćkiem było.
+!!@VERSE:
+!!2. Poszed do gościńca,
+!!wódki, piwa napił;
+!!okna, śklanki potłuk,
+!!to wszystko zapłacił.
+!!Oj karczmarz go żałuje,
+!!panu z karczmy dziękuje.
+!!@VERSE:
+!!3. Siad karczmarz w przypiecku,
+!!karczmarka w kominek,
+!!mówią ci za Maćka,
+!!wieczny odpoczynek.
+!!Cztery wieczory go nie stało
+!!jużci piwsko pokwaśniało.
+!!@VERSE:
+!!4. Idzie Maciek do dom,
+!!pałeczka za pasem,
+!!kto mu się nawinął,
+!!od pałeczki zginął.
+!!Oj panny go żałują,
+!!w ręce go, w nogi całują.
+!!@VERSE:
+!!5. Kazały go schować
+!!na zielony górze,
+!!kazały mu pisać
+!!litery na skórze.
+!!Oj był to Maciek pijak,
+!!miał-ci rękę jak bijak.
+!!Na tęż nutę śpiewają i Pieśń złodziejską:
+!!Karczmareczka nasza, dobrze sobie żyje,
+!!trzech złodzieji za ścianą, a ona z czwartym pije.
+!!Również pieśń: obacz: Ser. I, str. 285).
+!!Podkówko daj ognia, —
+!!bo dziewczyna tego godna i t. d.
+!!Śpiewana i na nutę nr 38.
+!!tekst Ser. IV, nr 364. a—o.
+!!mel Ser. VI, str. 259. (nr 474. przerobiona na Krakowiaka).
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=265 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 249} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 249}
 !!!page: 249
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29

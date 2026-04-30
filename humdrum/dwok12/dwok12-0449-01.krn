@@ -3,67 +3,94 @@
 !!!source: DWOK12
 !!!id: 12449
 !!!signature: 1244900001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8g
-8dd
-16dd
-16ee
-=2
-8dd
-8dd
-16a
-16f#
-=3
-8g
-8b
-16a
-16cc
-=4
-8b
-4d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8g	Źlem
+8dd	zrobi-
+16dd	.
+16ee	-ła
+=2	=2
+8dd	matko
+8dd	.
+16a	moja,
+16f#	.
+=3	=3
+8g	żem
+8b	za
+16a	lirę
+16cc	.
+=4	=4
+8aq	.
+8b	nie
+4d}	szła,
 !!LO:LB:g=esac
-=5
-{16f#
-16a
-8a
-16g
-16d
-=6
-16a
-16cc
-8a
-16g
-16b
-=7
-16f#
-16a
-8a
-16g
-16d
-=8
-16f#
-16a
-8a
-16g
-16b}
+=5	=5
+{16f#	lira
+16a	.
+8a\	by
+16gL	grał
+16dJ	.
+=6	=6
+16a	i
+16cc/	przebierał,
+8a	.
+16gL	.
+16bJ	.
+=7	=7
+16f#	lira
+16a	.
+8a\	by
+16gL	grał
+16dJ	.
+=8	=8
+16f#L	i
+16aJ\	przebierał,
+8a	.
+16gL	.
+16bJ}	.
 !!LO:LB:g=esac
-=9
-{8g
-8b
-16a
-16cc
-=10
-8b
-4d}
-==
-*-
+=9	=9
+{8g\	jakbym
+8b	.
+16a	lirę
+16cc	.
+=10	=10
+8aq	.
+8b	niesła.
+4d}	.
+==	==
+*-	*-
+!!!role-singer: Wife
+!!!role-listener: Mother
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Źlem zrobiła matko moja,
+!!żem za lirę nie szła,
+!!lira by grał i przebierał.
+!!jakbym lirę niesła.
+!!@VERSE:
+!!2. Oj dałaś mnie, matko moja,
+!!za tego łachmana;
+!!a myślałaś, matko moja,
+!!za wielgiego pana.
+!!@VERSE:
+!!3. Łachman graje i tańcuje,
+!!a mnie serce rani;
+!!a ta co z nim wyskakuje,
+!!myśli: wielga pani!
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Nuta nr 47.
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=249 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 233} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 233}
 !!!page: 233
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29

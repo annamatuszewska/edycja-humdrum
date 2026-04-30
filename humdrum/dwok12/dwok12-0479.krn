@@ -3,62 +3,91 @@
 !!!source: DWOK12
 !!!id: 12479
 !!!signature: 1247900000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16a
-16cc
-8ee
-16ff#
-16ee
-=2
-16dd
-16b
-8.ee
-16dd
-=3
-16.cc
-32b
-8a
-16b
-16g#
-=4
-16e
-16g#
-8a
-8e}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{16a	Kulbacz
+16cc	.
+8ee	ko-
+16ff#	-nia
+16ee	.
+=2	=2
+16dd	do
+16b	Toru-
+8.ee	.
+16dd	-nia
+=3	=3
+16.cc	po
+32b	mate-
+8a	.
+16b	-ry-
+16g#	.
+=4	=4
+16e	-ją
+16g#	dziewula,
+8a	.
+8e}	.
 !!LO:LB:g=esac
-=5
-{16.cc
-32b
-8a
-16b
-16g#
-=6
-16.e
-32g#
-8a
-16b
-16dd
-=7
-16cc
-16b
-16a
-16g#
-16a
-16b
-=8
-16e
-16g#
-8a
-8e}
-==
-*-
+=5	=5
+{16.cc	po
+32b	mate-
+8a	.
+16b	-ry-
+16g#	.
+=6	=6
+16.e	-ją
+32g#	da
+8a	da
+16b	da,
+16dd	.
+=7	=7
+16cc	po
+16b	ma-
+16a	-te-
+16g#	.
+16a	-ry-
+16b	-ją
+=8	=8
+16e	da
+16g#	da
+8a	da.
+8e}	.
+==	==
+*-	*-
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Kulbacz konia do Torunia
+!!po materyją dziewula,
+!!po materyją da da da,
+!!po materyją da da da.
+!!@VERSE:
+!!2. Do Poznania po krawczyków
+!!bo ładnie szyją da szyją,
+!!bo ładnie szyją da szyją,
+!!bo ładnie szyją da szyją.
+!!@VERSE:
+!!3. Widziałaś ty, dziewczę moje,
+!!da jaki ja był, da i był,
+!!w Poniedziałek i we Wtorek
+!!to ja zawsze pił, dziewula,
+!!to ja zawsze pił da i pił.
+!!@VERSE:
+!!4. A tyś dziewcze nic nie dbało
+!!żeś pijaczyska dostało.
+!!Pijak byłem, pijak będę,
+!!w krzywych butach chodzić będę,
+!!da chodzić będę da da da.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=263 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 247-248} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 247-248}
 !!!page: 247-248
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29

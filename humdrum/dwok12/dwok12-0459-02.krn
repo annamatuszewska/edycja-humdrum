@@ -3,52 +3,110 @@
 !!!source: DWOK12
 !!!id: 12459
 !!!signature: 1245900002
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{8g
-8cc
-8cc
-8cc
-=2
-8cc
-8a
-4g
-=3
-8a
-8a
-8a
-8cc
-=4
-8a
-16cc
-16a
-4g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+=1	=1
+{8g	Chciała
+8cc	.
+8cc	pani
+8cc	.
+=2	=2
+8cc	winno
+8a	.
+4g	pić,
+=3	=3
+8a	nimiał
+8a	.
+8a	ji
+8cc	chto
+=4	=4
+8a	u-
+16ccL	-toczyć,
+16aJ/	.
+4g}	.
 !!LO:LB:g=esac
-=5
-{4cc
-4dd
-=6
-8ee
-8ee
-4g
-=7
-8ff
-8ff
-8ff
-8dd
-=8
-8b
-16g
-16b
-4cc}
-==
-*-
+=5	=5
+{4cc	he
+4dd	he
+=6	=6
+8ee	ho
+8ee	ho
+4g	hop,
+=7	=7
+8ff	niemiał
+8ff	.
+8ff	ij
+8dd	chto
+=8	=8
+8b	u-
+16gL	-to-
+16bJ	.
+4cc}	-czyć.
+==	==
+*-	*-
+!!!role-singer: Narrator, Husband, Wife, Soldier
+!!!role-listener: Wife, Husband, Soldier
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Chciała pani winno pić,
+!!nimiał ji chto utoczyć,
+!!he he ho ho hop,
+!!niemiał ij chto utoczyć.
+!!@VERSE:
+!!2. Pan do sklepu poskoczył,
+!!pani winna utoczył.
+!!@VERSE:
+!!3. Pan ze sklepu powraca,
+!!żołnierz łóżko obraca.
+!!@VERSE:
+!!4. I pytał się pan pani:
+!!z kim gadała wasani?
+!!@VERSE:
+!!5. Świczka gorzéć nie chciała,
+!!i ja na nią łajała.
+!!@VERSE:
+!!6. I pytał się pan pani,
+!!co za mundur na ścianie?
+!!@VERSE:
+!!7. Był tu żołnierz z Warszawy,
+!!napił winna i kawy.
+!!@VERSE:
+!!8. I niémiał czém zapłacić,
+!!musiał mundur zastawić.
+!!@VERSE:
+!!9. I pytał się pan pani,
+!!co za żołnierz za drzwiami?
+!!@VERSE:
+!!10. Jest to żołnierz ubogi,
+!!połamał mu koń nogi.
+!!@VERSE:
+!!11. Trzeba nam się zlitować,
+!!dukata mu darować.
+!!@VERSE:
+!!12. Na-ści żołnierz dukata,
+!!idź sobie z tém do kata.
+!!@VERSE:
+!!13. Naści żołnierz i drugi,
+!!nie bywaj tu czas długi.
+!!@VERSE:
+!!14. Idzie żołnierz bez wieś,
+!!śpiewa sobie taką pieśń:
+!!@VERSE:
+!!15. Cztery nocki s panią spał,
+!!jeszcze mi pan dukat dał.
+!!Ja się pana nie boję,
+!!co mi pan dał, to moje.
+!!Ja się pana nie pytam,
+!!co mi pan dał, to trzymam. —
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=253 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 237} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 237}
 !!!page: 237
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29

@@ -3,60 +3,97 @@
 !!!source: DWOK12
 !!!id: 12488
 !!!signature: 1248800000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8cc
-8ee
-8ee
-8dd
-8ff
-8ee
-=2
-8dd
-8b
-4g
-4cc
-=3
-8ee
-8gg
-8gg
-8gg
-8aa
-8gg
-=4
-8ff
-8ff
-4dd
-4gg}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8cc	Koło
+8ee	.
+8ee	ogródeczka
+8dd	.
+8ff	.
+8ee	.
+=2	=2
+8dd	woda
+8b	.
+4g	ciekła,
+4cc	.
+=3	=3
+8ee	koło
+8gg	.
+8gg	ogró-
+8gg	.
+8aa	-deczka
+8gg	.
+=4	=4
+8ff	woda
+8ggq	.
+8ff	.
+4dd	ciekła,
+4gg}	.
 !!LO:LB:g=esac
-=5
-{4.ee
-8dd
-8ff
-8ee
-=6
-8dd
-8b
-4g
-4gg
-=7
-4.ee
-8dd
-8ff
-8ee
-=8
-8dd
-8b
-4g
-4cc}
-==
-*-
+=5	=5
+{4.ee	cóż
+8dd	.
+8ff	ci
+8ee	.
+=6	=6
+8dd	mój
+8b	syneczku,
+4g	.
+4gg	.
+=7	=7
+4.ee	cóż
+8dd	.
+8ff	ci
+8ee	.
+=8	=8
+8dd	matka
+8b	.
+4g	rzekła.
+4cc}	.
+==	==
+*-	*-
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Koło ogródeczka woda ciekła,
+!!koło ogródeczka woda ciekła,
+!!cóż ci mój syneczku,
+!!cóż ci matka rzekła.
+!!@VERSE:
+!!2. A choćby mi rzekła, nie boję się (:)
+!!werbują ułany,
+!!werbuję i ja się.
+!!@VERSE:
+!!3. Dostanę ja mondur z guzikami,
+!!i buciki ładne,
+!!da i z ostrogami.
+!!@VERSE:
+!!4. Koszuleczka czysta nie skropiona,
+!!ta dziewula moja
+!!już mi odmówiona.
+!!@VERSE:
+!!5. Odmówili mi ją dwa kamraci,
+!!bodaj jejich byli
+!!da pobrali kaci.
+!!@VERSE:
+!!6. Ki ją odmówili, niech ją mają,
+!!i niech się obadwa
+!!nie bijąc kochają.
+!!@VERSE:
+!!7. A niech się kochają w dzień i w nocy,
+!!żeby nie widziały
+!!moje czarne oczy.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=269 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 253} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 253}
 !!!page: 253
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29

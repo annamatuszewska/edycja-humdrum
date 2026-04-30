@@ -3,92 +3,128 @@
 !!!source: DWOK12
 !!!id: 12451
 !!!signature: 1245100000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{8f
-16f
-16g
-16a
-16b-
-=2
-8cc
-16cc
-16ff
-16ee
-16dd
-=3
-16cc
-16cc
-8ff
-8dd
-=4
-8cc
-16cc
-16ff
-16ee
-16dd}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{8f	Rada
+16f	.
+16g	nie
+16a	rada,
+16b-/	.
+=2	=2
+8cc	poszła
+16cc	.
+16ff	za
+16ee	dziada,
+16dd	.
+=3	=3
+16cc	a
+16cc	ja
+8ff	biedna
+8dd	.
+=4	=4
+8cc	poszła
+16cc	.
+16ff	za
+16ee	dziada,
+16dd}	.
 !!LO:LB:g=esac
-=5
-{16cc
-16cc
-8g
-8b-
-=6
-16b-
-16b-
-4a}
+=5	=5
+{16cc	co
+16cc	ja
+8g	będę
+8b-	.
+=6	=6
+16b-	robi-
+8ccq	.
+16b-	.
+4a}	-ła.
 !!LO:LB:g=esac
-=7
-{8b-
-16b-
-16dd
-16b-
-16g
-=8
-8cc
-16a
-16a
-16f
-16d
-=9
-16c
-16c
-8e
-8g
-=10
-16b-
-16b-
-4a}
+=7	=7
+{8b-	Ni
+16b-	dziada
+16dd	.
+16b-	sprzedać,
+16g	.
+=8	=8
+8cc	ni
+16a	go
+8b-q	.
+16a	wytmienić,
+16f	.
+16d	.
+=9	=9
+16c	jak
+16c	ja
+8e	będe
+8g	.
+=10	=10
+16b-	z_nim
+8ccq	.
+16b-	żyła,
+4a}	.
 !!LO:LB:g=esac
-=11
-{8b-
-16b-
-16dd
-16b-
-16g
-=12
-8cc
-16a
-16a
-16f
-16d
-=13
-16c
-16c
-8e
-8g
-=14
-16g
-16g
-4f}
-==
-*-
+=11	=11
+{8b-	ni
+16b-	dziada
+16dd	.
+16b-	sprzedać,
+16g	.
+=12	=12
+8cc	ni
+16a	go
+8b-q	.
+16a	wytmienić,
+16f	.
+16d	.
+=13	=13
+16c	jak
+16c	ja
+8e	będe
+8g	.
+=14	=14
+16g	z_nim
+16g	żyła.
+4f}	.
+==	==
+*-	*-
+!!!role-singer: Young Wife
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Rada nie rada,
+!!poszła za dziada,
+!!a ja biedna poszła za dziada,
+!!co ja bede robiła.
+!!Ni dziada sprzedać,
+!!ni go wytmienić,
+!!jak ja będę z nim żyła.
+!!@VERSE:
+!!2. Wąsy obielały,
+!!oczy w głowę wlazły,
+!!broda osiwiała,
+!!nie będę z nim siedziała.
+!!Jużbym dała i talara,
+!!żebym dziada zaprzedała,
+!!do szpitala go wkupiła,
+!!z młodym chłopcem sobie żyła.
+!!@VERSE:
+!!3. Dziad nieuroda,
+!!ogolił brodę,
+!!łeb wyszwercował,
+!!wąs wypucował,
+!!i łysinę przykrył.
+!!Wyszczérzył zęby,
+!!chciał ode mnie gęby,
+!!jak ta leśna sowa.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=250 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 234} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 234}
 !!!page: 234
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29

@@ -3,70 +3,98 @@
 !!!source: DWOK12
 !!!id: 12435
 !!!signature: 1243500000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{8ee
-8cc
-8dd
-=2
-4ee
-8g#
-=3
-16a
-16b
-8cc
-8g#
-=4
-4a}
-8r
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{8ee	Stała
+8cc	.
+8dd	się
+=2	=2
+(4ee	tu
+8g#)	.
+=3	=3
+16a\	o-
+16b\	.
+8cc	-głos-
+8g#	.
+=4	=4
+4a}	-ka,
+8r	.
 !!LO:LB:g=esac
-=5
-{8ee
-8cc
-8dd
-=6
-4ee
-8g#
-=7
-16a
-16b
-8cc
-8g#
-=8
-4a}
-8r
+=5	=5
+{8ee	stała
+8cc	.
+8dd	się
+=6	=6
+(4ee	tu
+8g#)	.
+=7	=7
+16aL	o-
+16bJ	.
+8cc	-głos-
+8g#	.
+=8	=8
+4a}	-ka,
+8r	.
 !!LO:LB:g=esac
-=9
-{16a
-16b
-4cc
-=10
-8cc
-8ee
-8dd
-=11
-8cc
-8.b
-16g#
-=12
-8b
-8dd
-8cc}
+=9	=9
+{16a\	wybi-
+16b	.
+4cc	-ła
+=10	=10
+8cc	męża
+8ee	.
+8dd	pani
+=11	=11
+8cc	.
+8.b	Twardow-
+16g#	.
+=12	=12
+8b	-ska.
+8dd	.
+8cc}	Wybi-
 !!LO:LB:g=esac
-=13
-{4b
-8g#
-=14
-4a}
-8r
-==
-*-
+=13	=13
+{4b	.
+8g#	-ła,
+=14	=14
+4a}	wygnała,
+8r	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Wife
+!!!role-listener: Husband
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Stała się tu ogłoska,
+!!wybiła męża pani Twardowska,
+!!Wybiła, wygnała,
+!!płakać mu nie dała,
+!!nie dała.
+!!@VERSE:
+!!2. Widzisz Twardowski
+!!że to nie żarty,
+!!pobrał na plecy
+!!swoje bękarty.
+!!@VERSE:
+!!3. Ugiun się do pasa,
+!!cup-cup-cup- do lasa
+!!z biedą się wróci!
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Być może jest to pieśń szlachecka.
+!!@@END:
+!!@@BEGIN: 
+!!@COMMENTARY: J. Lipiński robi uwagę, że jest to zdarzenie dzisiejsze, prawdziwe a nazwisko męża niezmyślone. Wszakże pieśń te ma kilkanaście wersyj po różnych nader oddalonych od siebie stronach kraju, a wszędzie zapewniają, jakoby zdarzenie to było miejscowém i niedawném.
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=242 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 226-227} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 226-227}
 !!!page: 226-227
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29

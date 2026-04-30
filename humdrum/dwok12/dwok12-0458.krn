@@ -3,53 +3,113 @@
 !!!source: DWOK12
 !!!id: 12458
 !!!signature: 1245800000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M2/4
-=1
-{8ff
-8ff
-8ee
-8cc
-=2
-8dd
-8dd
-4cc
-=3
-8b-
-8b-
-8a
-8f
-=4
-8g
-8g
-4f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M2/4	*
+=1	=1
+{8ff	Co
+8ff	się
+8ee	stało
+8cc	.
+=2	=2
+8dd	we
+8dd	dworze,
+4cc	.
+=3	=3
+8b-	nasza
+8gq	.
+8b-	.
+8a	pani
+8f	.
+=4	=4
+8g	nie
+8b-q	.
+8g	może.
+4f}	.
 !!LO:LB:g=esac
-=5
-{8g
-8b-
-8a
-8f
-=6
-8g
-8b-
-8.dd
-16cc
-=7
-8b-
-8b-
-8a
-8f
-=8
-8b-
-8g
-4f}
-==
-*-
+=5	=5
+{8g	Hojta,
+8b-	.
+8a	hojta,
+8f	.
+=6	=6
+8g	toj,
+8b-	toj
+8.ddL	ta,
+16ccJ	.
+=7	=7
+8b-	nasza
+8gq	.
+8b-	.
+8a	pani
+8f	.
+=8	=8
+8b-	nie
+8g	może.
+4f}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Husband, Wife, Soldier
+!!!role-listener: Wife, Husband, Soldier
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Co się stało we dworze,
+!!nasza pani nie może.
+!!Hojta, hojta, toj, toj ta,
+!!nasza pani nie może.
+!!@VERSE:
+!!2. Chciała pani winno pić,
+!!nie miał ij kto utoczyć.
+!!@VERSE:
+!!3. Pan do winnicy wkroczył,
+!!pani sługa doskoczył.
+!!@VERSE:
+!!4. Pan z winnicy powraca,
+!!pani piernat obraca.
+!!@VERSE:
+!!5. Kotka myszkę dusiła,
+!!i łóżeczko zniżyła.
+!!@VERSE:
+!!6. Co to ta jest to — pani,
+!!co ta stoji za drzwiami?
+!!@VERSE:
+!!7. Stoji żołnierz ubogi,
+!!połamał mu koń nogi.
+!!@VERSE:
+!!8. Naści żołnierz dukata,
+!!biegaj sobie do kata.
+!!@VERSE:
+!!9. Jeszczebym ci drugi dał,
+!!żebyś tutaj nie bywał.
+!!@VERSE:
+!!10. Idzie żołnierz bez wieś,
+!!śpiewa sobie taką pieśń:
+!!@VERSE:
+!!11. Śtery roczki s panią spał,
+!!jeszcze mi pan dukat dał.
+!!@VERSE:
+!!12. Pani oknem wyjrzała,
+!!na żołnierza kiwała:
+!!@VERSE:
+!!13. Cicho żołnierz, nie śpiéwaj,
+!!co ci pan dał, to trzymaj!
+!!@VERSE:
+!!14. Pan ci dukat odbierze,
+!!po pysku cię wypierze.
+!!@VERSE:
+!!15. Ja się tego nie boję,
+!!co ja dostał, to moje.
+!!@VERSE:
+!!16. Ja się o to nie pytam,
+!!bo mi kazał kapitan.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=252 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 236} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 236}
 !!!page: 236
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29

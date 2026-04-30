@@ -3,67 +3,129 @@
 !!!source: DWOK12
 !!!id: 12490
 !!!signature: 1249000000
-**kern
-*clefG2
-*k[b-e-]
-*g:
-*M3/4
-=1
-{8.f
-16f
-4dd
-4b-
-=2
-8dd
-4ff
-16r
-16ff
-8dd
-8b-
-=3
-8dd
-4ff
-16r
-16ff
-8dd
-8b-}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*g:	*
+*M3/4	*
+=1	=1
+{8.f	Idzie
+16f	.
+4dd	żołnierz
+4b-	.
+=2	=2
+8dd	bo-
+4ff	.
+16r	.
+16ff	-rem
+8dd	lasem,
+8b-	.
+=3	=3
+8dd	bo-
+4ff	.
+16r	.
+16ff	-rem
+8dd	lasem,
+8b-}	.
 !!LO:LB:g=esac
-=4
-{8cc
-8cc
-4dd
-4f#
-=5
-8g
-4dd
-16r
-16dd
-8cc
-8b-
-=6
-8b-
-4dd
-16r
-16dd
-8cc
-8b-}
+=4	=4
+{8cc	zamiera-
+8cc	.
+4dd	.
+4f#	-jąc
+=5	=5
+8g	gło-
+4dd	.
+16r	.
+16dd	-du
+8cc	czasem,
+8b-	.
+=6	=6
+8b-	gło-
+4dd	.
+16r	.
+16dd	-du
+8cc	czasem,
+8b-}	.
 !!LO:LB:g=esac
-=7
-{8cc
-8cc
-4dd
-4f#
-=8
-8g
-4b-
-16r
-16b-
-8a
-8g}
-==
-*-
+=7	=7
+{8cc	zamie-
+8cc	.
+4dd	-rając
+4f#	.
+=8	=8
+8g	gło-
+4b-	.
+16r	.
+16b-	-du
+8a	czasem.
+8g}	.
+==	==
+*-	*-
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Idzie żołnierz borem lasem,
+!!zamierając głodu czasem.
+!!Chleba, soli nie żałować,
+!!trza żołnierza poratować.
+!!@VERSE:
+!!2. Suknia na nim poblakuje,
+!!wiatr dziurami przelatuje.
+!!Jadą, jadą, wywijają,
+!!na wojenkę wyséłają.
+!!@VERSE:
+!!3. I ja-ć bym téż z wami jechał,
+!!kieby mi kto konia siodłał.
+!!Starsza siostra wyskoczyła,
+!!konika mu kulbaczyła.
+!!@VERSE:
+!!4. A ta średnia list (v. mundur) podaje
+!!a ta młodsza krzyczy, łaje.
+!!Wy nie płaczcie siostry brata,
+!!wróci nam się za trzy lata.
+!!@VERSE:
+!!5. Tu nadchodzi rok, półtora,
+!!huzarowie jadą z pola:
+!!Witajcie wy huzarowie,
+!!daleko tam brat na wojnie?
+!!@VERSE:
+!!6. My z wojenki téż jedziemy,
+!!twego brata nie wieziemy.
+!!Leży-ć on tam na Wołyniu,
+!!trzyma głowę na kamieniu.
+!!@VERSE:
+!!7. Konik jego kole niego,
+!!grzebie nogą, żałuje go.
+!!Już wygrzebał pod kolana,
+!!chce zachować swego pana.
+!!@VERSE:
+!!8. Póki-ś ty był panie zdrowy,
+!!jadał-ci ja owies goły,
+!!teraz niémam rzanéj słomy,
+!!rozwleką cię kruki, wrony.
+!!@VERSE:
+!!9. Kruki, wrony oblatują,
+!!i oczy mu wydzióbują.
+!!Lepsza w domu groch, kapusta,
+!!niż na wojnie kura tłusta.
+!!@VERSE:
+!!10. Lepsza w domu kapuścina,
+!!niż na wojnie cielęcina.
+!!Wolałby ja łąkę kosić,
+!!niż na wojnie szablę nosić.
+!!@VERSE:
+!!11. Lepiéj w domu pługiem orać,
+!!niż na wojnie szablą dołać.
+!!Bo na wojnie szable kruszą,
+!!niejeden się żegna z duszą.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=270 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 254} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 254}
 !!!page: 254
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29

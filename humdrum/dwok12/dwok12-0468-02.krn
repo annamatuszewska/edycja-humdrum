@@ -3,58 +3,91 @@
 !!!source: DWOK12
 !!!id: 12468
 !!!signature: 1246800002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8g
-8b
-4dd
-4cc#
-=2
-8a
-8b
-4g
-4g
-=3
-4.dd
-8ee
-8ee
-8dd
-=4
-8b
-8dd
-4ee
-8cc
-8a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8g	Ubo-
+8b	.
+4dd	-gi
+4cc#	ja
+=2	=2
+8a\	pi-
+8b	-ja-
+4g	-nica
+4g	.
+=3	=3
+4.dd	i-
+8ee	-dę
+8ee	z_karczmy
+8dd	.
+=4	=4
+8b	do
+8dd	gościń-
+4ee	.
+8cc#iL	-ca,
+8aJ}	.
 !!LO:LB:g=esac
-=5
-{8g
-8b
-4dd
-4cc#
-=6
-8a
-8b
-4g
-8e
-8c
-=7
-4.e
-8f#
-8f#
-8e
-=8
-8d
-8f#
-4a
-4g}
-==
-*-
+=5	=5
+{8g	minę
+8b	.
+4dd	jednę,
+4cc#	.
+=6	=6
+8a\	minę
+8b	.
+4g	drugą,
+8eL	.
+8cJ	.
+=7	=7
+4.e	do
+8f#	téj
+8f#	trzeciej
+8e	.
+=8	=8
+8d	prosto
+8f#	.
+4a	drogą.
+4g}	.
+==	==
+*-	*-
+!!!RDF**kern: i = editorial accidental
+!!!role-singer: Drunkard
+!!!role-listener: Mother
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Ubogi ja pijanica
+!!idę z karczmy do gościńca,
+!!minę jednę, minę drugą,
+!!do téj trzeciéj prosto drogą.
+!!@VERSE:
+!!2. Oj nie pij Jasiu wody,
+!!da napijesz się piwka, —
+!!oj i lepsza na wsi świnia,
+!!niż we dworze dworska dziéwka.
+!!@VERSE:
+!!3. O co to tu za wieś taka,
+!!co tu za ludzie, za ludzie,
+!!nie dadzą się piwka napić
+!!drożnemu słudze, da słudze.
+!!@VERSE:
+!!4. Oj mamulu, da mamulu,
+!!oj i zabijcie tę klempę,
+!!bo óna wam mlika nie da,
+!!jeszcze nawala na rękę.
+!!@VERSE:
+!!5. Oj mamulu, da mamulu,
+!!oj i zabijcie tę krowę,
+!!bo ona wam mlika nie da,
+!!jeszcze nawala na głowę.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=257 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 241-242} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 241-242}
 !!!page: 241-242
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29

@@ -3,75 +3,103 @@
 !!!source: DWOK12
 !!!id: 12495
 !!!signature: 1249500002
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16ff
-16ff
-8cc
-16dd
-16cc
-=2
-16g
-16g
-8b-
-8dd
-=3
-16dd
-16dd
-8g
-16b-
-16g
-=4
-8f
-4a}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{8ccq	.
+16ff	Wszyscy
+16ff	.
+8cc	się
+16dd	że-
+16cc	.
+=2	=2
+16g	-ni-
+16g	.
+8b-	-cie,
+8dd	.
+=3	=3
+16dd	wojny
+16dd	.
+8g	się
+16b-	bo-
+16g	.
+=4	=4
+8f	-jicie,
+4a}	.
 !!LO:LB:g=esac
-=5
-{16a
-16a
-8.g
-16e
-=6
-16c
-16c
-8f
-8a
-=7
-16cc
-16cc
-8g
-32b-
-16.g
-=8
-8f
-4a}
+=5	=5
+{16a	a
+16a	ja
+8.g	nie-
+16e	.
+=6	=6
+16c	-bo-
+16c	.
+8f	-raczek
+8a	.
+=7	=7
+16cc	muszę
+16cc	.
+8g	być
+32b-	wo-
+16.g	.
+=8	=8
+8f	-jaczek,
+4a}	.
 !!LO:LB:g=esac
-=9
-{16a
-16a
-8.g
-16e
-=10
-16c
-16f
-8a
-8cc
-=11
-16cc
-16cc
-8g
-32b-
-16.g
-=12
-8f
-4a}
-==
-*-
+=9	=9
+{16a	a
+16a	ja
+8.g	nie-
+16e	.
+=10	=10
+16c	-bo-
+16f	.
+8a	-raczek
+8cc	.
+=11	=11
+16cc	muszę
+16cc	.
+8g	być
+32b-	wo-
+16.g	.
+=12	=12
+8f	-jaczek.
+4a}	.
+==	==
+*-	*-
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Wszyscy się żenicie,
+!!wojny się bojicie,
+!!a ja nieboraczek
+!!muszę być wojaczek.
+!!@VERSE:
+!!2. Nie masz-ci to, nie masz,
+!!jako na wojence,
+!!pałasik przy boku,
+!!karabinek w ręce.
+!!@VERSE:
+!!3. Mondur ze szlifami,
+!!zajął serce moje,
+!!teraz o dziewczęta
+!!już wcale nie stoję.
+!!@VERSE:
+!!4. Nie płaczcie dziewczęta,
+!!choć w wojnie chłopczęta;
+!!po skończonéj wojnie,
+!!każda swego pojmie.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=272 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 256} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 256}
 !!!page: 256
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29

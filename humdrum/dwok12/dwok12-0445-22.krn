@@ -9,23 +9,23 @@
 *B-:
 *M3/8
 =1
-{8b-
+{8b-L
 8.f
-16d
+16dJ
 =2
-16e-
-16c
-8a
-8cc
+16e-L
+16cJ
+8aL
+8ccJ
 =3
 8b-
-8.f
-16d
+8.fL
+16dJ\
 =4
-16e-
-16c
-8d
-8B-}
+16e-L
+16cJ
+8dL
+8B-J}
 ==
 *-
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
@@ -33,3 +33,5 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=247 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 231} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 231}
 !!!page: 231
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
