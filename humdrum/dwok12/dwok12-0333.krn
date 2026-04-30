@@ -3,65 +3,100 @@
 !!!source: DWOK12
 !!!id: 12333
 !!!signature: 1233300000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{8ee
-8ee
-8ee
-8dd#
-4ee
-=2
-8b
-8cc
-8dd
-8b
-4a
-=3
-8a
-8b
-8cc
-8a
-4ee
-=4
-8b
-8b
-8b
-8g#
-4e}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+{8ee	A
+8ee	lecie
+8ee	.
+8dd#	lecie
+4ee	.
+=2	=2
+8b	słońce
+8cc	.
+8dd	gorące,
+8b	.
+4a\	.
+=3	=3
+8a\	pasła
+8b	.
+8cc	Kasińka
+8a	.
+4ee	.
+=4	=4
+8b	gąski
+8b	.
+8b	na
+8g#	łące.
+4e}	.
 !!LO:LB:g=esac
-=5
-{8e
-8e
-8a
-8g#
-4a
-=6
-8b
-8cc
-8dd
-8b
-4a
-=7
-8a
-8b
-8cc
-8a
-4ee
-=8
-8b
-8b
-8b
-8g#
-4a}
-==
-*-
+=5	=5
+{8e	Przyjachał
+8e	.
+8a	.
+8g#	do
+4a	nij
+=6	=6
+8b	na
+8cc	siwym
+8dd	.
+8b	koniu,
+4a\	.
+=7	=7
+8a\	zajmij
+8b	.
+8cc	Kasińko
+8a	.
+4ee	.
+=8	=8
+8b	gąski
+8b	.
+8ccq	.
+8b	do
+8g#	domu.
+4a}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. A lecie lecie
+!!słońce gorące,
+!!pasła Kasińka
+!!gąski na łące.
+!!@VERSE:
+!!2. Przyjachał do nij
+!!na siwym koniu,
+!!zajmij Kasińko
+!!gąski do domu.
+!!@VERSE:
+!!3. Jak ja mam zająć,
+!!nie nazartö są (nie nażarły się).
+!!Zapądź do wody,
+!!napiją-ci się.
+!!@VERSE:
+!!4. Oj gnała, gnała,
+!!aż do wieczora,
+!!przöjleciał wilczek
+!!wzion ji gąsiora.
+!!@VERSE:
+!!5. Oj Jezu, Jezu,
+!!co to za zwiérze;
+!!bierze gąsiora,
+!!z gąsiora pierze.
+!!@@END: VERSES
 !!!ONB: Zapisana melodia dwóch zwrotek
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=192 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 176} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 176}
 !!!page: 176
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-29
