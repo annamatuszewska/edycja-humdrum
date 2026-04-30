@@ -3,60 +3,80 @@
 !!!source: DWOK13
 !!!id: 13287
 !!!signature: 1328700000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{8g
-16b
-16cc
-16dd
-16ee
-=2
-16cc
-16b
-8dd
-8ff}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{8g	Oj
+16b	krzywo
+16cc	.
+16dd/L	orze-
+16ee/J	.
+=2	=2
+16cc	-cie
+16b	pa-
+8dd/L	-robcy,
+8ff}/J	.
 !!LO:LB:g=esac
-=3
-{16ff
-16aa
-8.gg
-16ee
-=4
-16cc
-16b
-8dd
-8cc}
+=3	=3
+{16ffL/	krzywo
+16aa/J	.
+8.gg/L	o-
+16ee/J	-rze-
+=4	=4
+16cc	-cie
+16b	o-
+8dd	-rze-
+8cc}	-cie,
 !!LO:LB:g=esac
-=5
-{8g
-16b
-16cc
-16dd
-16b
-=6
-16cc
-16b
-8g
-8b}
+=5	=5
+{8g	a
+16b	bo
+16cc	się
+16dd	jeno
+16b	.
+=6	=6
+16cc	po
+16b	dziewczętach
+8g\	.
+8b}	.
 !!LO:LB:g=esac
-=7
-{16ff
-16ee
-8.cc
-16ee
-=8
-16cc
-16b
-8dd
-8cc}
-==
-*-
+=7	=7
+{16ff	o-
+16ee	-glę-
+8.cc	-du-
+16ee	-je-
+=8	=8
+16cc	-cie,
+16b	bo-
+8dd	-dej-
+8cc}	-ście!
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj krzywo orzecie parobcy,
+!!krzywo orzecie orzecie,
+!!a bo się jeno po dziewczętach
+!!oględujecie, bodejście!
+!!@VERSE:
+!!2. Czemu nie orzesz, fornalu.
+!!czemu nie orzesz, nie orzesz?
+!!Czy ci konie postanęły,
+!!czy sam nie możesz, nie możesz.
+!!@VERSE:
+!!3. Koniki mi nie ustały,
+!!ale ja ustał da ustał;
+!!całą nockę tańcowałem,
+!!tom się nie wyspał, dla dziewuch.
+!!@@END: VERSES
+!!!role-singer: Complex
+!!!role-listener: Complex
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=156 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 132} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 132}
 !!!page: 132
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-18

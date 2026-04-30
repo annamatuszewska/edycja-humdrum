@@ -3,100 +3,116 @@
 !!!source: DWOK13
 !!!id: 13308
 !!!signature: 1330800000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16e
-16g#
-8b
-8dd
-=2
-16dd
-16b
-8cc
-8a
-=3
-16a
-16e
-8a
-8cc
-=4
-16cc
-16cc
-8.ee
-16dd}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:i:t=(A mol lub A dur)	!
+{16e	Co-
+16g#	-byś
+8b	wo-
+8dd	-la-
+=2	=2
+16dd	-ła,
+16b	wo-
+8cc	-la-
+8a\	-ła,
+=3	=3
+16a	co-
+16e	-byś
+8a	wo-
+8cc	-la-
+=4	=4
+16cc	-ła
+16cc	dzie-
+8.ee	-weczko,
+16dd}	.
 !!LO:LB:g=esac
-=5
-{16b
-16g#
-8b
-8dd
-=6
-16dd
-16b
-8cc
-8a
-=7
-16e
-16g#
-8a
-8cc
-=8
-16a
-16a
-8b
-8g#}
+=5	=5
+{16b	czy
+16g#\	chu-
+8b	-steczkę
+8dd	.
+=6	=6
+16dd	wy-
+16b	-szy-
+8cc	-wa-
+8a\	-ną
+=7	=7
+16e	czy
+16g#	Tar-
+8a	-go-
+8cc	-sza-
+=8	=8
+16a\	-na
+16a\	da
+8b	da-
+8g#}	-na.
 !!LO:LB:g=esac
-=9
-{16e
-16g#
-8b
-8dd
-=10
-16dd
-16b
-8cc
-8a
-=11
-16a
-16e
-8a
-8cc
-=12
-16ee
-16ee
-8.ff
-16dd}
+=9	=9
+{16e	Wo-
+16g#	-la-
+8b	-ła-
+8dd	-bym
+=10	=10
+16dd	Tar-
+16b	-go-
+8cc	-sza-
+8a\	-na,
+=11	=11
+16a	bo
+16e	ła-
+8a	-dnie
+8cc	o-
+=12	=12
+16ee/L	-rze
+16ee/J	da
+8.ff/L	orze,
+16dd}/J	.
 !!LO:LB:g=esac
-=13
-{16b
-16b
-8b
-8dd
-=14
-16dd
-16b
-16cc
-16b
-16a
-16g#
-=15
-16e
-16g#
-8a
-8cc
-=16
-16cc
-16a
-8b
-8g#}
-==
-*-
+=13	=13
+{16b/L	a
+16b/J	ta
+8b	chustka
+8dd	.
+=14	=14
+16dd	wy-
+16b	-szy-
+16cc/L	-wa-
+16b/	.
+16a	-na
+16g#J	.
+=15	=15
+16e	hnet
+16g#	mi
+8a	się
+8cc	po-
+=16	=16
+16cc/L	-drze
+16aJ	da
+8b;	po-
+8g#}	-drze.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Cobyś wolała, wolała,
+!!cobyś wolała dzieweczko,
+!!czy chusteczkę wyszywaną
+!!czy Targoszana da dana.
+!!Wolałabym Targoszana,
+!!bo ładnie orze da orze,
+!!a ta chustka wyszywana
+!!hnet mi się podrze da podrze.
+!!@@END: VERSES
+!!!role-singer: Complex
+!!!role-listener: Single Girl
+!!!singer-sex: Complex
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=163 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 139} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 139}
 !!!page: 139
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-20

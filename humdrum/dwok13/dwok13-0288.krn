@@ -3,127 +3,140 @@
 !!!source: DWOK13
 !!!id: 13288
 !!!signature: 1328800000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{8e
-8g#
-8a
-8cc
-4ee
-=2
-8ee
-8dd#
-4b
-8ee
-8dd#
-=3
-8e
-8g#
-8a
-8cc
-4ee
-=4
-8b
-8e
-4cc
-8a
-8g#}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+!LO:TX:a:t=Okrągły v. Polski.	!
+{8e	A
+8g#	jak-
+8a\L	-że-
+8ccJ	-ż
+8dd#q	.
+4ee	tam
+=2	=2
+8ee	do
+8dd#	nij
+4b	do
+8eeL	nij,
+8dd#J	.
+=3	=3
+8e	kie-
+8g#	-dy
+8a	tam
+8cc	ku-
+4ee	-rza-
+=4	=4
+8b	-wa
+8e\	ku-
+4cc	-rza-
+8aL	-wa.
+8g#J}	.
 !!LO:LB:g=esac
-=5
-{8e
-8g#
-8a
-8cc
-4b
-=6
-4b
-8g#
-8e
-8g#
-8g#
-=7
-8e
-8g#
-8a
-8cc
-4b
-=8
-4ee
-8dd#
-16cc
-16b
-16a
-16g#
-8e}
+=5	=5
+{8e	A
+8g#	jak-
+8a\L	-że-
+8b	-ż
+8ccJ	.
+4b	tam
+=6	=6
+4b	nie
+8g#L\	iść
+8e\J	.
+8g#\	nie
+8g#\	iść,
+=7	=7
+8e	kie-
+8g#	-dy
+8a\L	mi
+8ccJ	.
+4b	ka-
+=8	=8
+4ee	-za-
+8dd#	-ła,
+16ccL	ka-
+16bJ	.
+16aL	-za-
+16g#	.
+8e}J	-ła.
 !!LO:LB:g=esac
-=9
-{8e
-8g#
-8a
-8cc
-8ee
-8ff#
-=10
-8ee
-8dd#
-16b
-16cc
-8b
-8ee
-8dd#
-=11
-8e
-8g#
-8a
-8cc
-8ee
-8b
-=12
-8b
-8dd
-8cc
-8b
-8a
-8g#}
+=9	=9
+{8e	A
+8g#	jak-
+8a\L	-że-
+8ccJ	-ż
+8ddq	.
+8ee/L	tam
+8ff#/J	.
+=10	=10
+8ee	do
+8dd#	nij
+16bL/	do
+16cc/	.
+8b/J	.
+8eeL	nij,
+8dd#J	.
+=11	=11
+8e	kie-
+8g#	-dy
+8a	tam
+8cc	ku-
+8eeL/	-rza-
+8b/J	.
+=12	=12
+8b/L	-wa
+8dd/J	ku-
+8cc/L	-rza-
+8b/J	.
+8aL	-wa.
+8g#J}	.
 !!LO:LB:g=esac
-=13
-{8e
-8g#
-16a
-16b
-8cc
-4b
-=14
-4b
-16a
-16g#
-8e
-16g#
-16f
-8g#
-=15
-8e
-8g#
-16a
-16b
-8cc
-4b
-=16
-4ee
-8dd#
-16cc
-16b
-16a
-16g#
-8e}
-==
-*-
+=13	=13
+{8e	A
+8g#	jak-
+16aL	-że-
+16b/	-ż
+8cc/J	tam
+4b	.
+=14	=14
+4b	nie
+16aL	iść
+16g#	.
+8eJ	.
+16gL#	nie
+16f	iść,
+8g#J	.
+=15	=15
+8e	kie-
+8g#	-dy
+16aL	mi
+16b/	.
+8cc/J	.
+4b	ka-
+=16	=16
+4ee	-za-
+8dd#	-ła,
+16ccL	ka-
+16bJ	.
+16aL	-za-
+16g#	.
+8e}J	-ła.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A jakżeż tam do nij do nij,
+!!kiedy tam kurzawa kurzawa.
+!!A jakżeż tam nie iść nie iść,
+!!kiedy mi kazała, kazała.
+!!@@END: VERSES
+!!!role-singer: Complex
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=157 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 133} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 133}
 !!!page: 133
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-18

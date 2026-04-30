@@ -3,102 +3,117 @@
 !!!source: DWOK13
 !!!id: 13300
 !!!signature: 1330000000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16d
-16f#
-8a
-8g
-=2
-8dd
-8dd
-8cc
-=3
-16b
-16b
-8cc
-16a
-16f#
-=4
-8g
-16f#
-16d
-8e}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16d	Ej
+16f#	ty
+8a	Ma-
+8g	-zur,
+=2	=2
+8dd	ja
+8eeq	.
+8dd	Pol-
+8cc	-ka,
+=3	=3
+16b	nie
+16b	się-
+8cc	-gaj
+16aL	mi
+16f#J	.
+=4	=4
+8g	do
+16f#L	gor-
+16dJ	.
+8e}	-sa,
 !!LO:LB:g=esac
-=5
-{16d
-16f#
-8a
-8d
-=6
-8g
-16b
-16g
-8cc
-=7
-16b
-16g
-8cc
-16a
-16f#
-=8
-16g
-16a
-16f#
-16d
-8e}
+=5	=5
+{16d	Bo
+16f#	mój
+8a	gor-
+8d	-set
+=6	=6
+8f#q	.
+8g	malo-
+16b/L	-wa-
+16gJ	.
+8cc	-ny,
+=7	=7
+16b	a
+16g	ty
+8cc	Ma-
+16aL	-zur
+16f#J	.
+=8	=8
+16gL	oszar-
+16aJ	.
+16f#L	-pa-
+16dJ	.
+8e}	-ny.
 !!LO:LB:g=esac
-=9
-{16d
-16f#
-8a
-8g
-=10
-8dd
-8dd
-8cc
-=11
-16b
-16b
-8cc
-16a
-16f#
-=12
-8g
-16f#
-16d
-8e}
+=9	=9
+{16d	Ej
+16f#	ty
+8a	Ma-
+8g	-zur,
+=10	=10
+8dd	ja
+8eeq	.
+8dd	Pol-
+8cc	-ka,
+=11	=11
+16b	nie
+16b	się-
+8cc	-gaj
+16aL	mi
+16f#J	.
+=12	=12
+8g	do
+16f#L	gor-
+16dJ	.
+8e}	-sa,
 !!LO:LB:g=esac
-=13
-{16d
-16f#
-8a
-8d
-=14
-8g
-16b
-16g
-8cc
-=15
-16b
-16g
-8cc
-16a
-16f#
-=16
-16g
-16a
-16f#
-16d
-8e}
-==
-*-
+=13	=13
+{16d	Bo
+16f#	mój
+8a	gor-
+8d	-set
+=14	=14
+8f#q	.
+8g	malo-
+16b/L	-wa-
+16gJ	.
+8cc	-ny,
+=15	=15
+16b	a
+16g	ty
+8cc	Ma-
+16aL	-zur
+16f#J	.
+=16	=16
+16gL	oszar-
+16aJ	.
+16f#L	-pa-
+16dJ	.
+8e}	-ny.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Ej ty Mazur, ja Polka,
+!!nie sięgaj mi do gorsa,
+!!Bo mój gorset malowany,
+!!a ty Mazur oszarpany.
+!!@@END: VERSES
+!!!role-singer: Polish woman
+!!!role-listener: Mazovian man
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=161 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 137} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 137}
 !!!page: 137
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-19

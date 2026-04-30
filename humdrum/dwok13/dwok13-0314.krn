@@ -3,61 +3,81 @@
 !!!source: DWOK13
 !!!id: 13314
 !!!signature: 1331400000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16.a
-32f#
-8a
-16cc
-16ee
-=2
-16dd
-16b
-8g
-16b
-16dd
-=3
-16a
-16f#
-8a
-16cc
-16ee
-=4
-16ee
-16dd
-8.b
-16g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16.a	Le-
+32f#	-ci
+8a	wo-
+16ccL	-da
+16eeJ	.
+=2	=2
+16dd	od
+16b	o-
+8g\	-gro-
+16bL	-da
+16ddJ	.
+=3	=3
+16a\	z_kamienia
+16f#\	.
+8a\	.
+16cLc	.
+16eeJ	się
+=4	=4
+16ee	skrzy
+16dd	da
+8.b	i
+16g}	skrzy,
 !!LO:LB:g=esac
-=5
-{16.a
-32f#
-8d
-16cc
-16b
-=6
-16g
-16g
-8b
-8dd
-=7
-16a
-16f#
-8d
-16cc
-16b
-=8
-16g
-16dd
-8.b
-16g}
-==
-*-
+=5	=5
+{16.a	le-
+32f#	-psza
+8d	je-
+16ccL	-dna
+16bJ	.
+=6	=6
+16g	Sie-
+16g	-kie-
+8b	-recz-
+8dd	-ka
+=7	=7
+16a	niż
+16f#	Ko-
+8d	-szu-
+16ccL	-ckie
+16bJ	.
+=8	=8
+16g	trzy
+16dd	da
+8.b	i
+16g}	trzy.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Leci woda od ogroda
+!!z kamienia się skrzy da i skrzy,
+!!lepsza jedna Siekiereczka
+!!niż Koszuckie trzy da i trzy.
+!!@VERSE:
+!!2. Siekierecka gdyby igła,
+!!ino się tak w tońcu migła,
+!!a Koszucka gdyby mietła,
+!!śpiąco się tak w tońcu wlekła.
+!!@VERSE:
+!!3. Od Gołańczy (Czeszewo).
+!!Ta Kasinka gdyby igła
+!!ino my sie w tońcu migła.
+!!A Jasinek gdyby zając,
+!!za Kasińką podrygając.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=165 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 141} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 141}
 !!!page: 141
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-20
