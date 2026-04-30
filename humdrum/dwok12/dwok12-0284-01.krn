@@ -47,9 +47,9 @@
 8bL	.
 8gJ}	.
 ==	==
-*- 	*-
-!!!role-singer: Narrator, Lord, Maiden
-!!!role-listener: Lord
+*-	*-
+!!!role-singer: Narrator, Land Lord, Maiden
+!!!role-listener: Land Lord
 !!!singer-sex: male, female
 !!@@BEGIN: VERSES
 !!@VERSE:
@@ -83,3 +83,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

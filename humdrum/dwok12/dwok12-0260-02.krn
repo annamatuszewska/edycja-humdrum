@@ -20,18 +20,18 @@
 8g	.
 =3	=3
 8g	oj
-8a	..
-16f	i
-16d	zielo-
+8a	i
+16f	zielo-
+16d	.
 =4	=4
-16c	.
-16e	-no
-8g	rąba-
-8cc}	.
+16c	-no
+16e	rąba-
+8g	.
+8cc}	-ny,
 !!LO:LB:g=esac
 =5	=5
-{16bL	-ny,
-16ddJ/	oj
+{16bL	oj
+16ddJ/	.
 8g	komuż
 16aL	.
 16bJ	.
@@ -51,7 +51,7 @@
 8g	.
 8c}	.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Maiden, Bachelor
 !!!role-listener: Bachelor, Maiden
 !!!singer-sex: female, male
@@ -100,3 +100,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

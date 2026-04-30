@@ -90,8 +90,8 @@
 8g	zapłać.
 4e}	.
 ==	==
-*- 	*-
-!!!role-singer: Maiden, Bachelor
+*-	*-
+!!!role-singer: Maiden, Bachelor, Narrator
 !!!role-listener: Bachelor, Maiden
 !!!singer-sex: female, male
 !!@@BEGIN: VERSES
@@ -148,3 +148,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

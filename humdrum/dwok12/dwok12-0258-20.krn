@@ -9,7 +9,7 @@
 *F:
 *M3/8
 =1
-{16f 16ccL
+{16cc/L
 32r
 32ddJ
 16eeL
@@ -24,7 +24,7 @@
 16ddL
 16eeJ
 =3
-16a 16ccL
+16ccL
 16ddJ
 16eeL
 16cc
@@ -39,7 +39,7 @@
 16b-
 16aJ}
 =5
-{16f 16ccL
+{16cc/L
 32r
 32ddJ
 16eeL
@@ -54,7 +54,7 @@
 16ddL
 16eeJ
 =7
-16a 16ccL
+16ccL
 16ddJ
 16eeL
 16cc
@@ -78,3 +78,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

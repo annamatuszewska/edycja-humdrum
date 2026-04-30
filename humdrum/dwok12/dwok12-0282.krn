@@ -83,9 +83,9 @@
 8g	panna.
 4f}	.
 ==	==
-*- 	*-
-!!!role-singer: Maiden, Narrator, Lord
-!!!role-listener: Maiden, Lord
+*-	*-
+!!!role-singer: Maiden, Narrator, Bachelor
+!!!role-listener: Maiden, Bachelor
 !!!singer-sex: female, male
 !!@@BEGIN: VERSES
 !!@VERSE:
@@ -141,3 +141,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

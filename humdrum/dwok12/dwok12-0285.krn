@@ -46,7 +46,7 @@
 8g	siedzieć.
 4f}	.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Narrator, Maiden
 !!!role-listener: Servant
 !!!singer-sex: female
@@ -57,12 +57,12 @@
 !!a ona go pięknie prosi
 !!na łożeńko siedzieć.
 !!@VERSE:
-!!2. Zawołała na służącą:
+!!8. Zawołała na służącą:
 !!podej mi zwierciadło,
 !!będę-ć ja się przezierała
 !!czy mi liczko zbladło.
 !!@VERSE:
-!!3. Kupię ja se sznuróweczkę
+!!10. Kupię ja se sznuróweczkę
 !!i (w)stążkę jedwabną,
 !!będę ja się sznurowała,
 !!będę jeszcze panną.
@@ -74,3 +74,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

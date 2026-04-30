@@ -37,7 +37,7 @@
 8.a\	.
 16cc	.
 =7	=7
-16b	wié
+16b	wie
 16g	go
 16f#L	Pan
 16gJ	.
@@ -47,9 +47,9 @@
 8dd	który.
 4cc}	.
 ==	==
-*- 	*-
-!!!role-singer: Narrator, Wife
-!!!role-listener: Husband
+*-	*-
+!!!role-singer: Narrator, Maiden
+!!!role-listener: Bachelor
 !!!singer-sex: female
 !!@@BEGIN: VERSES
 !!@VERSE:
@@ -97,3 +97,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

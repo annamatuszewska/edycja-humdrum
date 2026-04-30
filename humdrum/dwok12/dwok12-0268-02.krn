@@ -8,6 +8,7 @@
 *k[b-]	*
 *F:	*
 *M4/4	*
+*met(c)	*
 =1	=1
 {4a\	Żebyście
 8a\	.
@@ -95,9 +96,9 @@
 4f}	.
 4r	.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Bachelor, Maiden
-!!!role-listener: Maiden, Bachelor
+!!!role-listener: Male Friends, Maiden, Bachelor
 !!!singer-sex: male, female
 !!@@BEGIN: VERSES
 !!@VERSE:
@@ -150,3 +151,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

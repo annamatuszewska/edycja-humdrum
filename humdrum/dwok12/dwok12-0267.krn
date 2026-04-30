@@ -81,8 +81,8 @@
 8b	.
 8g}	.
 ==	==
-*- 	*-
-!!!role-singer: Lover
+*-	*-
+!!!role-singer: Lover, Narrator
 !!!singer-sex: male
 !!@@BEGIN: VERSES
 !!@VERSE:
@@ -142,3 +142,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14
