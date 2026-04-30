@@ -24,40 +24,40 @@
 8b	Wrzészczynie
 4dd	.
 8ddL	.
-8ccJ/	na
+8ccJ/	.
 =4	=4
-4.ee	końcu
-8dd	.
+4.ee	na
+8dd	końcu
 16ddL	.
-16cc	wsi,
-8bJ/}	jest
+16cc	.
+8bJ/}	wsi,
 !!LO:LB:g=esac
 =5	=5
-{8cc	tam
-8b	jedna,
-4a\	.
-4ee	o
-=6	=6
-4.dd	mnie
-8cc	myśli,
-8b	.
-8a\	jest
-=7	=7
+{8cc	jest
 8b	tam
-8d	jedna,
-4g	.
-4b	o
+4a\	jedna,
+4ee	.
+=6	=6
+4.dd	o
+8cc	mnie
+8b	myśli,
+8a\	.
+=7	=7
+8b	jest
+8d	tam
+4g	jedna,
+4b	.
 =8	=8
-8b	mnie
-8g	myśli.
-8aL	.
+8b	o
+8g	mnie
+8aL	myśli.
 8f#J	.
 4g;}	.
 ==	==
-*- 	*-
-!!!role-singer: Bachelor
-!!!role-listener: Maiden
-!!!singer-sex: male
+*-	*-
+!!!role-singer: Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
 !!@@BEGIN: VERSES
 !!@VERSE:
 !!1. We Wrzészczynie na końcu wsi,
@@ -103,3 +103,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

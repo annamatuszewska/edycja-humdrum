@@ -49,7 +49,7 @@
 {8f	kochaj
 8f	.
 16aL	kochaj,
-16f#J	.
+16fJ	.
 8a	.
 =10	=10
 8cc	kawalerze,
@@ -66,9 +66,9 @@
 4ff	-dliwie.
 4ff}	.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Narrator, Bachelor
-!!!role-listener: Maiden
+!!!role-listener: Maiden, Group od Maidens
 !!!singer-sex: male
 !!@@BEGIN: VERSES
 !!@VERSE:
@@ -128,3 +128,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

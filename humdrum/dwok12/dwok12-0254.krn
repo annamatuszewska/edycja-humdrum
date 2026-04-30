@@ -6,7 +6,7 @@
 **kern	**text
 *clefG2	*
 *k[]	*
-*G:	*
+*C:	*
 *M3/8	*
 =1	=1
 {4gg	Cztery
@@ -84,8 +84,8 @@
 8b	Kasiu.
 8g}	.
 ==	==
-*- 	*-
-!!!role-singer: Bachelor, Maiden
+*-	*-
+!!!role-singer: Bachelor, Narrator, Maiden
 !!!role-listener: Maiden, Bachelor
 !!!singer-sex: male, female
 !!@@BEGIN: VERSES
@@ -142,3 +142,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

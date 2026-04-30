@@ -8,32 +8,32 @@
 *k[f#]
 *G:
 *M3/8
+=1
 *Xtuplet
-=
 {24dL
 24f#
 24gJ
 8.ddL
 16ccJ
-=
+=2
 24aL
 24b
 24ddJ
 8aL
 8f#J
-=
+=3
 24dL
 24f#
 24gJ
 8.ddL
 16ccJ
-=1
+=4
 16.aL
 32bJ
 8gL
 8aJ}
 ==
-*- 
+*-
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=132 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 116} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 116}
@@ -41,3 +41,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

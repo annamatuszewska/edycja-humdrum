@@ -73,9 +73,9 @@
 8f#	.
 4.g}	.
 ==	==
-*- 	*-
-!!!role-singer: Maiden, Baichelor
-!!!role-listener: Bachelor, maiden
+*-	*-
+!!!role-singer: Maiden, Bachelor
+!!!role-listener: Mother-in-law, Bachelor
 !!!singer-sex: female, male
 !!@@BEGIN: VERSES
 !!@VERSE:
@@ -114,3 +114,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

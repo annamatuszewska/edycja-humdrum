@@ -70,10 +70,10 @@
 4g	.
 4dd/}	.
 ==	==
-*- 	*-
-!!!role-singer: Lover
-!!!role-listener: Mistress
-!!!singer-sex: male
+*-	*-
+!!!role-singer: Narrator, Mistress, Lover
+!!!role-listener: Lover, Mistress
+!!!singer-sex: female, male
 !!@@BEGIN: 
 !! @COMMENTARY:Czasami melodya ta idzie w takcie 3/4 i wówczas dwie tu naznaczone ćwierciowe nuty, ścieśniają się na dwie raz-wiązane.
 !!@@END:
@@ -126,3 +126,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

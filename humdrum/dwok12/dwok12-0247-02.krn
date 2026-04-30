@@ -1,8 +1,8 @@
-!!!!SEGMENT: DWOK1224700002-chcij_mnie_moj_jasiu.krn
+!!!!SEGMENT: DWOK1224700001-chcij_mnie_moj_jasiu.krn
 !!!OTL: Chcij mnie mój Jasiu
 !!!source: DWOK12
 !!!id: 12247
-!!!signature: 1224700002
+!!!signature: 1224700001
 **kern	**text
 *clefG2	*
 *k[f#]	*
@@ -19,8 +19,8 @@
 8dd	.
 2g	mnie,
 =3	=3
-8bL	ma
-8ddJ/	.
+8b/L	ma
+8ddJ	.
 8cc	matka
 8b	.
 8a	moja
@@ -70,7 +70,7 @@
 8a	.
 2g}	mnie.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Maiden, Bachelor
 !!!role-listener: Bachelor, Maiden
 !!!singer-sex: female, male
@@ -110,3 +110,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13
