@@ -3,59 +3,108 @@
 !!!source: DWOK12
 !!!id: 12224
 !!!signature: 1222400000
-**kern
-*clefG2
-*k[f#]
-*e:
-*M3/4
-=1
-{4.g
-8e
-8g
-8b
-=2
-8dd#
-8ee
-4b
-4e
-=3
-4.g
-8b
-8a
-8b
-=4
-8g
-8e
-4d#
-4e}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*e:	*
+*M3/4	*
+=1	=1
+{4.g	Oże-
+8e	.
+8g	-nił
+8b	się
+=2	=2
+8dd#	Alwastynek,
+8ee	.
+4b	.
+4e	.
+=3	=3
+4.g	było
+8b	.
+8a\	dziecko,
+8b	.
+=4	=4
+8g	ładny
+8e	.
+4d#	synek,
+4e}	.
 !!LO:LB:g=esac
-=5
-{4g
-8e
-8d#
-8e
-8f#
-=6
-8g
-8f#
-4d#
-4e
-=7
-4g
-16f#
-16g
-8b
-8a
-8b
-=8
-8g
-8e
-4d#
-4e}
-==
-*-
+=5	=5
+{(4g	o-
+8e)	.
+8d#	-że-
+8e	-nił
+8f#	się
+=6	=6
+8g	z_Kasi-
+8f#	.
+4d#	-neczką,
+4e	.
+=7	=7
+4g	w_piątym
+16f#L	.
+16g	.
+8bJ	.
+8a	roku
+8b	.
+=8	=8
+8g\	panieneczką.
+8e\	.
+4d#	.
+4e}	.
+==	==
+*- 	*-
+!!!role-singer: Narrator, Bachelor, Parents, Maiden
+!!!role-listener: Mistress, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Ożenił się Alwastynek,
+!!było dziecko, ładny synek.
+!!@VERSE:
+!!2. Ożenił się z Kasineczką,
+!!w piątym roku z panieneczką.
+!!@VERSE:
+!!3. Jeszcze-ci z nią noc nie przespał,
+!!król na wojnę zawerbował.
+!!@VERSE:
+!!4. Oddám wom ją w ręce wasze,
+!!chowajcie ją sześć lat jeszcze.
+!!@VERSE:
+!!5. Szósty roczek oli schodzi,
+!!kięży Maciek do ni chodzi.
+!!@VERSE:
+!!6. Siódmy roczek oli nadszed,
+!!Alwastynek z wojny przyszed.
+!!@VERSE:
+!!7. Ojcowie go obaczyli,
+!!tak go mile przywitali:
+!!@VERSE:
+!!8. O witaj-że Alwastynek!
+!!było dziecko, ładny synek.
+!!@VERSE:
+!!9. A Kasia go nie widziała,
+!!toć go jeszcze nie witała.
+!!@VERSE:
+!!10. Podajcie my skrzypce moje,
+!!zagraję ja Kasi swoje.
+!!@VERSE:
+!!11. Podajcie mi skrzypce, basy,
+!!zagraję za wszystkie czasy.
+!!@VERSE:
+!!12. Jak go Kasia obaczyła,
+!!przez trzy stoły przeskoczyła.
+!!@VERSE:
+!!13.A witaj-że mój najmilszy!
+!!a boś-ci ty mój najpir(w)szy.
+!!@VERSE:
+!!14. A ty Maćku z cudzy strony,
+!!biegaj sobie, szukaj żony.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=134 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 118} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 118}
 !!!page: 118
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25

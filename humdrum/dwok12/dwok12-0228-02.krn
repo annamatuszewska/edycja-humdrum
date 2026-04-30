@@ -3,52 +3,89 @@
 !!!source: DWOK12
 !!!id: 12228
 !!!signature: 1222800002
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{8g
-8b
-8dd
-8dd
-=2
-8dd
-8ff
-8aa
-8aa
-=3
-8gg
-8ee
-8ee
-8ee
-=4
-4ff
-4dd}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+=1	=1
+{8g	Rosa
+8b	.
+8ddL	pada
+8ddJ/	.
+=2	=2
+8dd	na
+8ff	koń
+8aa	siada,
+8aa	.
+=3	=3
+8gg	na
+8ee	białéj
+8eeL	.
+8eeJ/	brze-
+=4	=4
+4ff	-zinie,
+4dd}	.
 !!LO:LB:g=esac
-=5
-{8ff
-8ee
-8cc
-8dd
-=6
-8b
-8g
-8f
-8f
-=7
-8a
-8cc
-8b
-8dd
-=8
-4g
-4g}
-==
-*-
+=5	=5
+{8ff	kochajże
+8ee	.
+8cc	.
+8dd	mnie
+=6	=6
+8b	kawalerze
+8g	.
+8f	.
+8f	.
+=7	=7
+8a	a-
+8cc	-le
+8b	nie
+8dd	zdra-
+=8	=8
+4g	-dliwie.
+4g}	.
+==	==
+*- 	*-
+!!!role-singer: Maiden, Bachelor, Narrator
+!!!role-listener: Bachelor, Maiden
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Rosa pada na koń siada,
+!!na białéj brzezinie,
+!!kochajże mnie kawalerze
+!!ale nie zdradliwie.
+!!@VERSE:
+!!2. Kocham, kocham, grzeczna damo
+!!nie zdradzę ja ciebie,
+!!bodajbym ja szyję złámał
+!!jadęcy od ciebie.
+!!@VERSE:
+!!3. I wyjechał, i wyjechał
+!!na rozstajne drogi, —
+!!i spad z konia, złómał szyję,
+!!konik pod nim nogi.
+!!@VERSE:
+!!4. Wszystko pannom i mężatkom,
+!!daje upomnienie,
+!!ażeby óne wiedziały
+!!mężczyzny sumienie.
+!!@VERSE:
+!!5. Tyla ości, tyla ości
+!!w tym jęczmiennym snopku,
+!!ila wiary i urody
+!!w każdziusieńkim chłopku.
+!!@VERSE:
+!!6. Tyla wełny i bawełny
+!!na biáłéj owieczce,
+!!ila cnoty i urody
+!!w każdéj panieneczce.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=136 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 120-121} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 120-121}
 !!!page: 120-121
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25

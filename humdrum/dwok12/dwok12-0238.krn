@@ -3,74 +3,126 @@
 !!!source: DWOK12
 !!!id: 12238
 !!!signature: 1223800000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M4/4
-=1
-{8b
-8dd
-8dd
-8cc#
-4dd
-4b
-=2
-8a
-8cc
-8a
-8f#
-4g
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M4/4	*
+*met(c)	*
+=1	=1
+!!LO:TX:a:t=Przy weselu.
+{8b	Chodziła
+8dd	.
+8dd	.
+8cc#	dziewula,
+4dd	.
+4b	.
+=2	=2
+8a	po
+8cc	olszowym
+8a	.
+8f#	.
+4g\	lasku,
+4g\}	Chodziła
 !!LO:LB:g=esac
-=3
-{8b
-8dd
-8dd
-8cc#
-4dd
-4b
-=4
-8a
-8cc
-8a
-8f#
-4g
-4b}
+=3	=3
+{8b	Chodziła
+8dd	.
+8dd	.
+8cc#	dziewula,
+4dd	.
+4b	.
+=4	=4
+8a	po
+8cc	olszowym
+8a	.
+8f#	.
+4g	lasku,
+4b/}	.
 !!LO:LB:g=esac
-=5
-{8d
-8g
-8g
-8f#
-4g
-4b
-=6
-8a
-8cc
-8a
-8f#
-4g
-4g}
+=5	=5
+{8d	a
+8g	Jasinek
+8g	.
+8f#	.
+4g	za
+4b	nią
+=6	=6
+8a\	w_żółtym
+8cc	.
+8a\	adamaszku,
+8f#	.
+4g\	.
+4g\}	.
 !!LO:LB:g=esac
-=7
-{8d
-8g
-8g
-8f#
-4g
-4b
-=8
-8a
-8cc
-8a
-8f#
-4g
-4dd}
-==
-*-
+=7	=7
+{8d	a
+8g	Jasinek
+8g	.
+8f#	.
+4g	za
+4b	nią
+=8	=8
+8a\	w_żółtym
+8cc	.
+8a\	adamaszku.
+8f#	.
+4g	.
+4dd/}	.
+==	==
+*- 	*-
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: male
+!!@@BEGIN: 
+!! @COMMENTARY:Czasami melodya ta idzie w takcie 3/4 i wówczas dwie tu naznaczone ćwierciowe nuty, ścieśniają się na dwie raz-wiązane.
+!!@@END:
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Chodziła dziewula, po olszowym lasku,
+!!Chodziła dziewula, po olszowym lasku,
+!!a Jasinek za nią, w żółtym adamaszku,
+!!a Jasinek za nią, w żółtym adamaszku.
+!!@VERSE:
+!!2. Powiesiła óna, swój wianek na płocie,
+!!Powiesiła óna, swój wianek na płocie,
+!!daj mi Jasiu pokój, ubogiéj sierocie,
+!!daj mi Jasiu pokój, ubogiéj sierocie.
+!!@VERSE:
+!!3. Ażebyś ty była, uboga sierota,
+!!Ażebyś ty była, uboga sierota,
+!!nie wiłabyś wianka, ze samego złota,
+!!nie wiłabyś wianka, ze samego złota.
+!!@VERSE:
+!!4. Inobyś go wiła, z drobnéj macierzanki,
+!!Inobyś go wiła, z drobnéj macierzanki,
+!!jak tutaj wijały, te Morowniczanki,
+!!jak tutaj wijały, te Morowniczanki.
+!!@VERSE:
+!!5. Albo byś go wiła, z téj drobnéj ruteczki,
+!!Albo byś go wiła, z téj drobnéj ruteczki,
+!!jak tutaj wijały, te nasze dzieweczki,
+!!jak tutaj wijały, te nasze dzieweczki.
+!!@VERSE:
+!!6. Dał Kasi sto złotych, ten jeji kochanek:
+!!Dał Kasi sto złotych, ten jeji kochanek:
+!!weź to Kasiu moja, jest to za twój wianek,
+!!weź to Kasiu moja, jest to za twój wianek.
+!!@VERSE:
+!!7. Weznę ja, nie weznę, bo to jeszcze mało,
+!!Weznę ja, nie weznę, bo to jeszcze mało,
+!!by to za mój wianek, tak ładny nie stało,
+!!by to za mój wianek, tak ładny nie stało.
+!!@VERSE:
+!!8. Te twoje sto złotych, w kieszeń mi się włożą,
+!!Te twoje sto złotych, w kieszeń mi się włożą,
+!!a mój śliczny wianek, sześciom końmi wożą,
+!!a mój śliczny wianek, sześciom końmi wożą.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=142 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 126} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 126}
 !!!page: 126
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25

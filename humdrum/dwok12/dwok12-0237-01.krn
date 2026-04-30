@@ -3,56 +3,68 @@
 !!!source: DWOK12
 !!!id: 12237
 !!!signature: 1223700001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{4b
-8dd
-8a
-8b
-8cc
-=2
-4dd
-4b
-4g
-=3
-4b
-8dd
-8a
-8cc
-8b
-=4
-4a
-4f#
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{4b	Moja
+8dd	.
+8a\	matusiu
+8b	.
+8cc	.
+=2	=2
+4dd	mówcie
+4b	.
+4g	mu,
+=3	=3
+4b	temu
+8dd	.
+8a\	syno-
+8cc	.
+8b	-wi
+=4	=4
+4a	waszemu,
+4f#	.
+4g}	.
 !!LO:LB:g=esac
-=5
-{4b
-8dd
-8a
-8b
-8cc
-=6
-4dd
-4ee
-4ff#
-=7
-4dd
-8ee
-8dd
-8cc
-8b
-=8
-4a
-4f#
-4g}
-==
-*-
+=5	=5
+{4b	a
+8dd	kiedy
+8a\	.
+8b	on
+8cc	jest
+=6	=6
+4dd	taki
+4ee	.
+4ff#	pan,
+=7	=7
+4dd	niech
+8ee	sobie
+8dd	.
+8cc	szuka
+8b	.
+=8	=8
+4a	jakiej
+4f#	.
+4g}	sam.
+==	==
+*- 	*-
+!!!role-singer: Maiden
+!!!role-listener: Would-Be Mother-In-Law
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Moja matusiu mówcie mu,
+!!temu synowi waszemu
+!!a kiedy on jest taki pan,
+!!niech sobie szuka jakiéj sam.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=141 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 125-126} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 125-126}
 !!!page: 125-126
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25

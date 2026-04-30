@@ -3,92 +3,146 @@
 !!!source: DWOK12
 !!!id: 12221
 !!!signature: 1222100002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8.g
-16g
-4b
-4dd
-=2
-16b
-16dd
-16cc
-16b
-4a
-4b
-=3
-8.d
-16d
-4f#
-4a
-=4
-16b
-16a
-16g
-16f#
-4e
-4d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+!!LO:TX:a:t=Chodzony.
+{8.g	Schodziła
+16g	.
+4b	.
+4dd	się
+=2	=2
+8dd	rzeka
+16ccL	.
+16bJ	.
+4a\	z_wodą
+8ccq	.
+4b	.
+=3	=3
+8.d	za
+16d	Zosińką,
+4f#	.
+4a	.
+=4	=4
+8a\	za
+16gL	nado-
+16f#J	.
+4e	.
+4d}	-bną.
 !!LO:LB:g=esac
-=5
-{8.g
-16g
-4b
-4dd
-=6
-16b
-16dd
-16cc
-16b
-4a
-4b
-=7
-8.d
-16d
-4f#
-4a
-=8
-16b
-16a
-16g
-16f#
-4e
-4d}
+=5	=5
+{8.g	Woda
+16g	.
+4b	mówi
+4dd	.
+=6	=6
+16bL	zabie-
+16ddJ/	.
+16ccL	.
+16bJ	.
+4a\	-rę
+8ccq	.
+4b	ją,
+=7	=7
+8.d	rzeka
+16d	.
+4f#	mówi
+4a	.
+=8	=8
+16bL	u-
+16aJ	.
+16gL	-topię
+16f#J	.
+4e	.
+4d}	ją.
 !!LO:LB:g=esac
-=9
-{8g
-8b
-4dd
-16ee
-16gg
-16ff#
-16ee
-=10
-8dd
-8b
-4g
-4g
-=11
-4a
-4cc
-16a
-16cc
-16b
-16a
-=12
-16b
-16a
-16g
-16f#
-4g
-4g}
-==
-*-
+=9	=9
+{8g	za-
+8b	-bierę
+4dd	.
+16eeL	ją
+16gg	.
+16ff#	.
+16eeJ/	.
+=10	=10
+8dd	w_cudze
+8b	.
+4g	kraje
+4g	.
+=11	=11
+4a	matusi
+4cc	.
+16aL	.
+16cc	.
+16b	na
+16aJ/	.
+=12	=12
+16bL	wycho-
+16aJ	.
+16gL	.
+16f#J	.
+4g	-wanie.
+4g}	.
+==	==
+*- 	*-
+!!!role-singer: Bachelor, Mother, Maiden
+!!!role-listener: Mother, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Schodziła się rzeka z wodą.
+!!za Zosińką, za nadobną.
+!!@VERSE:
+!!2. Woda mówi: zabierę ją,
+!!rzeka mówi: utopię ją,
+!!@VERSE:
+!!3. Zabierę ją w cudze kraje,
+!!matusi na wychowanie.
+!!@VERSE:
+!!4. Matusińku, jak was proszę,
+!!chowajcie mi pięknie Zosię.
+!!@VERSE:
+!!5. Do roczku i do siódmego,
+!!do przyjazdu, do mojego.
+!!@VERSE:
+!!6. Już siódmy roczek nadchodzi,
+!!Żosińce się za mąż godzi.
+!!@VERSE:
+!!7. Ósmy roczek następuje,
+!!Jaś do Żosi już wędruje.
+!!@VERSE:
+!!8. Moja matusiu najmilsza,
+!!gdzie Żosinka, gdzie najpirsza?
+!!@VERSE:
+!!9. Mój Jasińku, mój najmilszy,
+!!wydalam ją za mąż inszy.
+!!@VERSE:
+!!10. Wydalam ją za inszego,
+!!za dworaka, za łebskiego.
+!!@VERSE:
+!!11. Gdzie są skrzypce, gdzie są basy,
+!!pójdę zagrać Żosi naszéj.
+!!@VERSE:
+!!12. Jak jéj graje, przytępuje (przytupuje),
+!!Żosińka się przypatruje.
+!!@VERSE:
+!!13. Jak się dobrze przypatrzyła,
+!!siedem stołów przeskoczyła,
+!!na ósmym się zatrzymała.
+!!@VERSE:
+!!14. Witaj, witaj, mój najmilszy,
+!!boś ty jest mój mąż najpirszy.
+!!@VERSE:
+!!16. A ty inszy, idź na stronę,
+!!nie powiadaj, że masz żonę.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=131 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 115} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 115}
 !!!page: 115
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25

@@ -3,58 +3,114 @@
 !!!source: DWOK12
 !!!id: 12229
 !!!signature: 1222900000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M4/4
-=1
-{8g
-8a
-8b
-8cc
-4b
-4d
-=2
-8g
-8a
-8b
-8cc
-4b
-4d
-=3
-8g
-8a
-8b
-8cc
-4dd
-4ee
-=4
-8dd
-8cc
-8a
-8f#
-4g
-4d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M4/4	*
+*met(c)	*
+=1	=1
+{8g	Siwy
+8a	.
+8b	gołąbeczek
+8cc	.
+4b	.
+4d	.
+=2	=2
+8g	i
+8a	biała
+8b	.
+8cc	ptasyna,
+4b	.
+4d	.
+=3	=3
+8g	spodobała
+8a	.
+8b	.
+8cc	.
+4dd	mi
+4ee	się
+=4	=4
+8dd	w_Rusieji
+8cc	.
+8a	.
+8f#	dziewcyna,
+4g\	.
+4d\}	.
 !!LO:LB:g=esac
-=5
-{8g
-8a
-8b
-8cc
-4dd
-4ee
-=6
-8dd
-8cc
-8a
-8f#
-4g
-4g}
-==
-*-
+=5	=5
+{8g	spodobała
+8a	.
+8b	.
+8cc	.
+4dd	mi
+4ee	się
+=6	=6
+8dd	w_Rusieji
+8cc	.
+8a	.
+8f#	dziewcyna.
+4g	.
+4g}	.
+==	==
+*- 	*-
+!!!role-singer: Bachelor, Narrator, Maiden
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Siwy gołąbecek
+!!i biała ptasyna,
+!!spodobała mi się
+!!w Rusieji dziewcyna,
+!!spodobała mi się
+!!w Rusieji dziewcyna.
+!!@VERSE:
+!!2. Jaka ta dziewcyna,
+!!taki ten młodzieniec,
+!!zaprowadzili się
+!!na prawy gościeniec,
+!!zaprowadzili się
+!!na prawy gościeniec.
+!!@VERSE:
+!!3. Z prawego gościeńca
+!!na zieloną łącke,
+!!podej-ze mi dziewcę
+!!ostatni raz rącke,
+!!podej-ze mi dziewcę
+!!ostatni raz rącke.
+!!@VERSE:
+!!4. Rącke mu podała,
+!!trzy razy omglała,
+!!a bodaj-ze ja béła
+!!kochania nie znała,
+!!a bodaj-ze ja béła
+!!kochania nie znała.
+!!@VERSE:
+!!5. Chto kochania nie zna
+!!od Boga scęśliwy,
+!!ma nockę spokojną,
+!!dzionek nie teskliwy,
+!!ma nockę spokojną,
+!!dzionek nie teskliwy.
+!!@VERSE:
+!!6. A wolałaby ja
+!!w roli cierznie kopać,
+!!niżeli się z jakim
+!!łajdakiem zakochać,
+!!niżeli się z jakim
+!!łajdakiem zakochać.
+!!@VERSE:
+!!7. W roli ciérznie kopać,
+!!jestem sobie wolna,
+!!jak się z kim zakocham,
+!!nigdy nie spokojna,
+!!jak się z kim zakocham,
+!!nigdy nie spokojna.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=137 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 121} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 121}
 !!!page: 121
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25
