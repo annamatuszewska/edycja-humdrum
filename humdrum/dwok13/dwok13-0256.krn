@@ -67,12 +67,12 @@
 16a	.
 16dd/J	.
 =10	=10
-{16aL	.
+16aL	.
 16b/J	.
 16aL	.
 16g#	.
 16a	.
-16dd/J	.
+16dd/J}	.
 !!LO:LB:g=esac
 =11	=11
 {16aL	.
@@ -100,14 +100,15 @@
 !!Lepij byś sie uwaliła,
 !!kiedy nié masz kawalira.
 !!@@END: VERSES
-!!!role-singer: Narrator, Women
-!!!role-listener: Complex
-!!!singer-sex: Complex, female
+!!!role-singer: Narrator
 !!!ONB: Mazur
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=146 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 122} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 122}
 !!!page: 122
+!!!ONB@texture: Only voice or instrument is playing at a time 
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-11
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-23

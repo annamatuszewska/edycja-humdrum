@@ -5,12 +5,12 @@
 !!!signature: 1323600030
 **kern
 *clefG2
-*k[b-]
+*k[b-e-]
 *B-:
 *M3/8
 =1
 {16dL
-16e-J
+16e-XJ
 4f
 =2
 8en
@@ -24,17 +24,17 @@
 16fJ
 =4
 8f
-4e-}
+4e-X}
 !!LO:LB:g=esac
 =5
 {16cL
 16dJ
-8e-L
+8e-XL
 16f
 16e-J
 =6
 8dL
-8e-J
+8e-XJ
 16fL
 16e-J
 =7
@@ -50,7 +50,7 @@
 !!LO:LB:g=esac
 =9
 {16dL
-16e-J
+16e-XJ
 4f
 =10
 8en
@@ -64,17 +64,17 @@
 16fJ
 =12
 8f
-4e-}
+4e-X}
 !!LO:LB:g=esac
 =13
 {16cL
 16dJ
-8e-L
+8e-XL
 16f
 16e-J
 =14
 8dL
-8e-J
+8e-XJ
 16fL
 16e-J
 =15
@@ -97,3 +97,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-09
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-23

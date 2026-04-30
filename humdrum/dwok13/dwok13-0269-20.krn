@@ -9,53 +9,54 @@
 *C:
 *M3/8
 =1
-{16cc
+!LO:TX:a:t=Na okrąż.
+{16ccL
 16b
-8g
-16b
-16dd
+8g\J
+16bL
+16ddJ
 =2
-8ee
+8eeL
 16ee
-16cc
-16ff
-16ee
+16ccJ
+16ffL
+16eeJ
 =3
-16cc
-16b
-8g
-16b
-16a
+16ccL
+16bJ
+8gL
+16b/
+16aJ
 =4
-8f
+8fL
 16a
-16b
-8g}
+16b/
+8g}J
 !!LO:LB:g=esac
 =5
-{16cc
+{16cLc
 16b
-8g
-16b
-16dd
+8g\J
+16bL
+16ddJ
 =6
-16ee
-16ff
-16ee
-16gg
-16ff
-16ee
+16eeL/
+16ff/
+16ee/
+16gg/J
+16ffL
+16eeJ
 =7
-16cc
-16b
-8g
-16b
+16ccL
+16bJ
+8gL
+16b/
+16aJ
+=8/
+8fL
 16a
-=8
-8f
-16a
-16b
-8g}
+16b/
+8g}J
 ==
 *-
 !!!ONB: Partia instrumentalna
@@ -64,3 +65,7 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=151 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 127} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 127}
 !!!page: 127
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-12
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-23

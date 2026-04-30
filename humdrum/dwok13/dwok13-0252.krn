@@ -114,7 +114,8 @@
 !!wrzuciła go w ten stawyszek,
 !!poszed ji do dna, da do dna.
 !!@@END: VERSES
-!!!role-singer: Complex
+!!!role-singer: Narrator
+!!!role-listener: Man, Mother
 !!!ONB: Kujawiak
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -123,3 +124,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-11
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-23

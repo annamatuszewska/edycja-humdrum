@@ -9,7 +9,7 @@
 *A:	*
 *M3/8	*
 =1	=1
-!!LO:TX:b:i:t=Szlachcic.
+!LO:TX:b:i:t=Szlachcic.	!
 !LO:TX:a:t=Na Wieńcu (w tańcu po dożynkach), szydząc.	!
 {8ee	Oj
 8ee	kro-
@@ -32,6 +32,7 @@
 8a}	-pi.
 !!LO:LB:g=esac
 =5	=5
+!LO:TX:b:i:t=Za nim chłop.	!
 {8ee	Oj
 8ee	le-
 8ee	-je
@@ -59,7 +60,6 @@
 !!Oj leje kieby plachta,
 !!całujta mnie w ... ślachta.
 !!@@END: VERSES
-!!!role-singer: Complex
 !!!ONB: Na wieńcu (w tańcu po dożynkach) szydząc
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -68,3 +68,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-09
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-23

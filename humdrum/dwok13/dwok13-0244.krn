@@ -16,7 +16,7 @@
 8cc#	chło-	Ja-
 8dd	-pku	-sio
 4ee	o-	o-
-4cc	-rać,	-rze
+4cc#	-rać,	-rze
 =3	=3	=3
 4dd	da	na
 4b	nie	zie-
@@ -28,8 +28,8 @@
 4d}	-wać,	-rze,
 !!LO:LB:g=esac
 =5	=5	=5
-8f#q	.	.
-{4g	bo	kół-
+{8f#q	.	.
+4g	bo	kół-
 4d	żon-	-ka(mu)
 8f#q	.	.
 4g	-ka	się
@@ -87,7 +87,7 @@
 !!orać nie może, nie może.
 !!@@END: VERSES
 !!!role-singer:Narrator
-!!!singer-sex:Complex
+!!!role-listener:Boy
 !!!ONB: U Kolberga zapis w metrum 3/8, zapisano poprawnie na 3/4
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -96,3 +96,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-09
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-23
