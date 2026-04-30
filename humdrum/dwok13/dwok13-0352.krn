@@ -3,81 +3,93 @@
 !!!source: DWOK13
 !!!id: 13352
 !!!signature: 1335200000
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M3/8
-=1
-8r
-{16f#
-16g
-16a
-16a
-=2
-16.dd
-32cc#
-8ee
-8dd
-=3
-8r
-16f#
-16g
-16a
-16cc#
-=4
-16dd
-16f#
-8a
-8g}
+**kern	**text	**text
+*clefG2	*	*
+*k[f#]	*	*
+*D:	*	*
+*M3/8	*	*
+=1	=1	=1
+8r	.	.
+{16f#	Pa-	Ca-
+16g	-sła	-łuj
+16a\	owiecz-	mnie
+16a\	.	w_no
+=2	=2	=2
+16.dd	-ki	-gę
+32cc#	po-	i
+8ee	-de	z_pa-
+8dd	wsią,	-nem,
+=3	=3	=3
+8r	.	.
+16f#	por-	kie-
+16g	-wał	-dy
+16a	jej	ja
+16cc	wil-	w_le-
+=4	=4	=4
+16dd	-czek	-sie
+16f#	naj-	z_ba-
+8a	-le-	-ra-
+8g}	-pszą.	-nem.
 !!LO:LB:g=esac
-=5
-{16f#
-16f#
-8.dd
-16b
-=6
-16a
-16d
-8f#
-16g
-16f#
-=7
-16a
-16cc#
-8.dd
-16b
-=8
-16a
-16d
-8f#
-8g}
+=5	=5	=5
+{16a\	Oddaj	.
+16a\	.	.
+8.dd	mi	.
+16b	wil-	.
+=6	=6	=6
+16a\	-czku	.
+16d	ba-	.
+8f#	-ra-	.
+16gL	-na,	.
+16f#J	.	.
+=7	=7	=7
+16a	pój-	.
+16cc	-dę	.
+8.dd	na	.
+16b	skar-	.
+=8	=8	=8
+16a\	-gę	.
+16d	do	.
+8f#	pa-	.
+8g}	-na.	.
 !!LO:LB:g=esac
-=9
-{16f#
-16a
-8.dd
-16b
-=10
-16a
-16d
-8f#
-16g
-16f#
-=11
-16a
-16cc#
-8.dd
-16b
-=12
-16a
-16d
-8f#
-8g}
-==
-*-
+=9	=9	=9
+{16aL	Oddaj	.
+16cc/J	.	.
+8.dd	mi	.
+16b	wil-	.
+=10	=10	=10
+16a\	-czku	.
+16d	ba-	.
+8f#	-ra-	.
+16gL	-na,	.
+16f#J	.	.
+=11	=11	=11
+16a	pój-	.
+16cc	-dę	.
+8.dd	na	.
+16b	skar-	.
+=12	=12	=12
+16a\	-gę	.
+16d	do	.
+8f#	pa-	.
+8g}	-na.	.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!Pasła owieczki pode wsią,
+!!porwał jej wilczek najlepszą.
+!!Oddaj mi wilczku barana,
+!!pójdę na skargę do pana.
+!!Całuj mnie w nogę i z panem,
+!!kiedy ja w lesie z baranem.
+!!@@END: VERSES
+!!!role-singer: Shepherdess
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=176 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 152} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 152}
 !!!page: 152
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-25

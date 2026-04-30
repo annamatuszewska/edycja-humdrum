@@ -3,58 +3,73 @@
 !!!source: DWOK13
 !!!id: 13320
 !!!signature: 1332000000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16f#
-16a
-8.cc
-16ee
-=2
-16dd
-16b
-8b
-8dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16f#	O
+16a	nieszczęsna
+8.cc	.
+16ee	.
+=2	=2
+16dd	ta
+16b	go-
+8b	-dzi-
+8dd}	-na,
 !!LO:LB:g=esac
-=3
-{16cc
-16a
-8.f#
-16a
-=4
-16g
-16e
-8e
-8d}
+=3	=3
+{16cc	co
+16a	ja
+8.f#	po-
+16a	-szła
+=4	=4
+16g	za
+16e	Mar-
+8e	-ci-
+8d}	-na.
 !!LO:LB:g=esac
-=5
-{16f#
-16a
-8.e
-16f#
-=6
-16g
-16b
-8b
-8dd}
+=5	=5
+{16f#	U
+16a	Mar-
+8.e	-ci-
+16f#	-na
+=6	=6
+16g	si-
+16b	-wa
+8b	bro-
+8dd}	-da,
 !!LO:LB:g=esac
-=7
-{16cc
-16a
-8.e
-16f#
-=8
-16g
-16e
-8e
-8d}
-==
-*-
+=7	=7
+{16cc	a
+16a\	ja
+8.e\	dziewcze
+16f#\	.
+=8	=8
+16g	jak
+16e	ja-
+8e	-go-
+8d}	-da.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. O nieszczęsna ta godzina,
+!!co ja poszła za Marcina.
+!!U Marcina siwa broda,
+!!a ja dziewcze jak jagoda.
+!!@VERSE:
+!!2. Poradzę ja siwej brodzie,
+!!zamoczę ją w zimnej wodzie;
+!!i postawie na pół izby,
+!!wymoknie mi z téj siwizny.
+!!@@END: VERSES
+!!!role-singer: Wife, Husband
+!!!singer-sex: Female, Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=167 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 143} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 143}
 !!!page: 143
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-22

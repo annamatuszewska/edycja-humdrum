@@ -3,81 +3,98 @@
 !!!source: DWOK13
 !!!id: 13319
 !!!signature: 1331900000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{8b
-16b
-16b
-16b
-16dd
-=2
-16a
-16b
-8cc
-16cc
-16ee
-=3
-8b
-16b
-16b
-16b
-16dd
-=4
-16a
-16b
-8cc
-8cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{(8eeq	.
+8b)	Oj
+16b	szedbym
+16b	.
+16b	do
+16dd	dom,
+=2	=2
+16a\	szedbym
+16b	.
+8cc	do
+8bq	.
+16ccL	dom,
+16eeJ	.
+=3	=3
+8b	oj
+16b	a-
+16b	-le
+16b	nie
+16dd	śmiem,
+=4	=4
+16a\	przed
+16b	tą
+8cc	ba-
+8bq	.
+8cc}	-bą.
 !!LO:LB:g=esac
-=5
-{8.ee
-16dd
-16cc
-16b
-=6
-16a
-16cc
-8b
-8e
-=7
-16e
-16e
-8f#
-8e
-=8
-16b
-16cc
-8g#
-8a}
+=5	=5
+{8.ee	Bo
+16dd	mnie
+16cc	bi-
+16b	-je
+=6	=6
+16a\	szel-
+16cc	-ma
+8b	ba-
+8e	-bá,
+=7	=7
+16e	sta-
+16e	-rem
+(8gq	.
+8f)	garn-
+8e	-kiem
+=8	=8
+16b	pod
+16cc	ta
+8g#	ła-
+8a}	-wą.
 !!LO:LB:g=esac
-=9
-{8.ee
-16dd
-16cc
-16b
-=10
-32a
-32b
-16cc
-8b
-8e
-=11
-16e
-16e
-8f#
-8e
-=12
-16b
-16cc
-8g#
-8a}
-==
-*-
+=9	=9
+{8.ee	Bo
+16dd	mnie
+16cc	bi-
+16b	-je
+=10	=10
+32aL	szel-
+32b/	.
+16ccJ/	-ma
+8b	ba-
+8e	-bá,
+=11	=11
+16e	sta-
+16e	-rem
+8gq	.
+8f	garn-
+8e	-kiem
+=12	=12
+16b	pod
+16cc	ta
+8g#	ła-
+8a}	-wą.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oj szedbym do dom, szedbym do dom,
+!!oj ale nie śmiem, przed tą babą.
+!!Bo mnie bije szelma babá,
+!!starem garnkiem pod ta ławą.
+!!Bo mnie bije szelma babá,
+!!starem garnkiem pod ta ławą.
+!!@@END: VERSES
+!!!role-singer: Husband
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=167 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 143} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 143}
 !!!page: 143
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-22

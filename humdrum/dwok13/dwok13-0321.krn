@@ -3,62 +3,77 @@
 !!!source: DWOK13
 !!!id: 13321
 !!!signature: 1332100000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16a
-16cc
-8cc
-8ee
-=2
-16cc
-16a
-16a
-16b
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16a\	I-
+16cc	-no
+8cc	na
+8ee	u-
+=2	=2
+16cc	-dry
+16a\	pa-
+16a\L	-rob-
+16bJ	.
+8g}	-cy,
 !!LO:LB:g=esac
-=3
-{16a
-16cc
-8cc
-8ee
-=4
-16f#
-16g
-16a
-16b
-8g}
+=3	=3
+{16a\	i-
+16cc	-no
+8cc	na
+8ee	u-
+=4	=4
+16f#	-dry,
+16g	na
+16aL	u-
+16b/J	.
+8g}	-dry;
 !!LO:LB:g=esac
-=5
-{16d
-16d
-8f#
-8a
-=6
-16a
-16f#
-16a
-16b
-8g}
+=5	=5
+{16d	i-
+16d	-no
+8f#	mi
+8a	się
+=6	=6
+16a	rę-
+16f#	-ce
+16aL	trzę-
+16b/J	.
+8g}	-są
 !!LO:LB:g=esac
-=7
-{16d
-16d
-8f#
-8a
-=8
-16f#
-16g
-16a
-16b
-8g}
-==
-*-
+=7	=7
+{16d	na
+16d	wa-
+8f#	-sze
+8a	ku-
+=8	=8
+16f#	-dły,
+16g	da
+16aL	ku-
+16b/J	.
+8g}	-dły.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Ino na udry parobcy,
+!!ino na udry, na udry;
+!!ino mi się ręce trzęsą
+!!na wasze kudły, da kudły.
+!!@VERSE:
+!!Pod Ostrzeszowem:
+!!2. Daléj na udry, fornalu,
+!!daléj na udry, na udry;
+!!bo już mi sie łapa trzęsie
+!!na twoje kudły, da kudły.
+!!@@END: VERSES
+!!!role-singer: Complex
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=167 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 143} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 143}
 !!!page: 143
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-22

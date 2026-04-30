@@ -3,64 +3,74 @@
 !!!source: DWOK13
 !!!id: 13318
 !!!signature: 1331800000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{4b
-8dd
-8dd
-8b
-8dd
-=2
-8ee
-8dd
-4ee
-4ff#
-=3
-4b
-8dd
-8dd
-8b
-8dd
-=4
-8ee
-8dd
-4cc
-8b
-8g#}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+{4b	A
+8dd	na
+8dd	od-
+8b	-sib-
+8dd	-kę
+=2	=2
+8ee	na-
+8dd	-wró-
+4ee/	-ci-
+4ff#/	-ła
+=3	=3
+4b	Da
+8dd	i
+8dd	ko-
+8b	-la-
+8dd	-na
+=4	=4
+8ee	o-
+8dd	-ba
+4cc	zbi-
+8bL	-ła.
+8g#\J}	.
 !!LO:LB:g=esac
-=5
-{4e
-8g#
-8g#
-8e
-8g#
-=6
-8a
-8cc
-4b
-8cc
-8ee
-=7
-4e
-8g#
-8g#
-8e
-8g#
-=8
-8a
-8cc
-4b
-8b
-8g#}
-==
-*-
+=5	=5
+{4e	O
+8g#	już
+8g#	w_gościńcu
+8e	.
+8g#	.
+=6	=6
+8a\	nie
+8cc	po-
+4b/	-sto-
+8cc/L	-ję,
+8ee/J	.
+=7	=7
+4e	do-
+8g#	-pó-
+8g#	-ki
+8e	ko-
+8g#	-lan
+=8	=8
+8a\	nie
+8cc	wy-
+4b	-go-
+8bL	-ję.
+8g#\J}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A na odsibkę nawróciła
+!!Da i kolana oba zbiła.
+!!O już w gościńcu nie postoję,
+!!dopóki kolan nie wygoję.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!singer-sex: female
 !!!ONB: Kolberg podaje metrum 3/8, zapisano poprawnie na 3/4
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=166 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 142} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 142}
 !!!page: 142
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-22
