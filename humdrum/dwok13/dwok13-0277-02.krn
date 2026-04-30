@@ -52,7 +52,7 @@
 8cc}J	.
 !!LO:LB:g=esac
 =8	=8
-*Xtuplet	.
+*Xtuplet	*
 {16eeL	byle
 16ggJ	.
 24ff/L	kumosi
@@ -74,7 +74,6 @@
 !!byle kumosi dobrze życzyć.
 !!@@END: VERSES
 !!!role-singer: Man
-!!!role-listener: Complex
 !!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -83,3 +82,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-16
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-23

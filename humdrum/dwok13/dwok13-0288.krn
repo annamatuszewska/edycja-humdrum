@@ -132,7 +132,8 @@
 !!A jakżeż tam nie iść nie iść,
 !!kiedy mi kazała, kazała.
 !!@@END: VERSES
-!!!role-singer: Complex
+!!!role-singer: Lover
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=157 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 133} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 133}
@@ -140,3 +141,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-18
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-24
