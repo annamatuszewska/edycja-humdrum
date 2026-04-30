@@ -3,51 +3,53 @@
 !!!source: DWOK13
 !!!id: 13401
 !!!signature: 1340100000
-**kern	**text	**text
-*clefG2	*	*
-*k[b-]	*	*
-*F:	*	*
-*M2/4	*	*
-=1	=1	=1
-{8f	O	.
-8g	już	.
-8a\	ta-	.
-8b-	-ki	.
-=2	=2	=2
-2cc	był	.
-=3	=3	=3
-8ff	co	.
-8ff	się	.
-8ee	my-	.
-8dd	-szy	.
-=4	=4	=4
-2cc	bał,	.
-=5	=5	=5
-8ff	co	.
-8ff	się	.
-8ee	my-	.
-8dd	-szy	.
-=6	=6	=6
-2cc}	bał,	.
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M2/4	*
+=1	=1
+{8f	O
+8g	już
+8a\	ta-
+8b-	-ki
+=2	=2
+2cc	był
+=3	=3
+8ff	co
+8ff	się
+8ee	my-
+8dd	-szy
+=4	=4
+2cc	bał,
+=5	=5
+8ff	co
+8ff	się
+8ee	my-
+8dd	-szy
+=6	=6
+2cc}	bał,
 !!LO:LB:g=esac
-=7	=7	=7
-{4cc	a_jak	.
-8dd	cho-	.
-8b-	-dził	.
-=8	=8	=8
+=7	=7
+{4cc	a_jak
+8dd	cho-
+8b-	-dził
+=8	=8
+*	*^
 4a\	na_za-	.
 8b-	-le-	(zaloty)
 8g	-ty,	.
-=9	=9	=9
-8f	ko-	.
-8a	-la	.
-8g	z_so-	.
-8g	-bą	.
-=10	=10	=10
-4f}	brał.	.
-4r	.	.
-==	==	==
-*-	*-	*-
+*	*v	*v
+=9	=9
+8f	ko-
+8a	-la
+8g	z_so-
+8g	-bą
+=10	=10
+4f}	brał.
+4r	.
+==	==
+*-	*-
 !!@@BEGIN: VERSES
 !!1. O już taki był
 !!co się myszy bał,
@@ -67,3 +69,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-04-08
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-16

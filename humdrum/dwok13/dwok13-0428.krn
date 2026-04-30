@@ -9,7 +9,7 @@
 *D:
 *M2/4
 =1
-!LO:TX:a:t=Wiwatowy flisak.	
+!LO:TX:a:t=Wiwatowy flisak.
 {16aL
 16b/
 16a
@@ -26,8 +26,9 @@
 16a
 16g
 16f#J
-8eL
-8eeJ
+!LO:TX:t=P:problem=mixed beam
+8e/L
+8ee\J
 =4
 8a\L
 8cc#J
@@ -48,8 +49,9 @@
 16a
 16g
 16f#J
-8eL
-8eeJ
+!LO:TX:t=P:problem=mixed beam
+8e/L
+8ee\J
 =8
 8cc/L#
 8cc#/J
@@ -107,3 +109,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-04-09
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-16

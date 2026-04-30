@@ -110,7 +110,8 @@
 !!ale cóż mi po nich
 !!kiedy jeden krótki.
 !!@@END: VERSES
-!!!role-singer: Complex
+!!!role-singer: Enamoured, Maiden
+!!!role-listener: Enamoured, Maiden
 !!!singer-sex: Male, Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -119,3 +120,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-04-08
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-16

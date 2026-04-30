@@ -50,7 +50,7 @@
 =7	=7	=7
 *M3/4	*	*
 8b	o	ko-
-8b	jeszcze	-ryszkiem
+8b	jeszcze	-ryszkiem*)
 8cc	.	przedepnę,
 8ee	nie	.
 8.dd	bar-	.
@@ -73,7 +73,10 @@
 !!A ja tam był, a ja tam był,
 !!koryszkiem przedepnę, przedepnę.
 !!@@END: VERSES
-!!!role-singer: Complex
+!!@@BEGIN: 
+!! @COMMENTARY:*)korkiem, obcasem u buta.
+!!@@END:
+!!!role-singer: Narrator
 !!!singer-sex: Male
 !!!ONB: Weselna
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
@@ -83,3 +86,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-04-08
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-16
