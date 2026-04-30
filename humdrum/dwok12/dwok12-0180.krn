@@ -3,58 +3,88 @@
 !!!source: DWOK12
 !!!id: 12180
 !!!signature: 1218000000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16b
-8dd
-8b
-=2
-16a
-16b
-4a
-=3
-16g
-16b
-8dd
-8b
-=4
-16a
-16b
-4a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Siedzi
+16b	.
+8dd	kruczek
+8b	.
+=2	=2
+16a	nad
+16b/	wodą,
+4a	.
+=3	=3
+16g	przygląda
+16b	.
+8dd	.
+8b	się
+=4	=4
+16a	z_uro-
+16b/	.
+4a}	-dą.
 !!LO:LB:g=esac
-=5
-{16g
-16b
-8g
-8e
-=6
-16d
-16d
-16f#
-16a
-16d
-16cc
-=7
-16g
-16b
-8g
-8e
-=8
-16d
-16d
-16f#
-16a
-16d
-16g}
-==
-*-
+=5	=5
+{16g	A
+16b	ty
+8g	kruczku
+8e	.
+=6	=6
+16d	malowany,
+16d	.
+16f#	.
+16a	.
+16d	ładny,
+16cc	.
+=7	=7
+16g	po
+16b	czemu
+8g	.
+8e	ta
+=8	=8
+16d	w_Śląsku
+16d	.
+16f#	miejskie
+16a	.
+16d;	panny?
+16g;}	.
+==	==
+*- 	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Siedzi kruczek (pies) nad wodą,
+!!przygląda się z urodą.
+!!A ty kruczku malowany, ładny,
+!!po czemuż ta w Śląsku miejskie panny?
+!!@VERSE:
+!!2. Po dwadzieścia po cztery,
+!!jak w Rawiczu kobyły.
+!!A dla-Boga, tak bardzo zdrożały,
+!!po dwadzieścia zupełnie bywały.
+!!@VERSE:
+!!3. O zajęto, zajęto
+!!s poniedziałku na święto,
+!!o zajęto Jasińkowi konie,
+!!a on nie wie którą dróżką po nie.
+!!@VERSE:
+!!4. O dróżkę się nie pytaj,
+!!do pieca się przymykaj,
+!!od zapiecka do nowego-miasta,
+!!tam Kasińka stado koni pasła.
+!!@VERSE:
+!!5. I weście ją na rynek,
+!!i kupcie i (jej) bębenek.
+!!Ty bębenku ra, ra, ra, ra,
+!!daj mi gęby Barbara, Barbara.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=107 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 91} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 91}
 !!!page: 91
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25

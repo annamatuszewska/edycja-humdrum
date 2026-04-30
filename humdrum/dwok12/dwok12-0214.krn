@@ -3,50 +3,77 @@
 !!!source: DWOK12
 !!!id: 12214
 !!!signature: 1221400000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{8cc
-8dd
-16b-
-16a
-=2
-16g
-16g
-8e
-8c
-=3
-16e
-16f
-8a
-8b-
-=4
-4.cc}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{8cc	Rybka
+8dd	.
+16b-/	wodę
+16a	.
+=2	=2
+16g	zamą-
+16g	.
+8e	-ciła,
+8c	.
+=3	=3
+16e	konik
+16f	.
+8a\	mi
+8b-	się
+=4	=4
+4.cc}	zląk,
 !!LO:LB:g=esac
-=5
-{16.a
-32a
-8b-
-8a
-=6
-16g
-16g
-8e
-8c
-=7
-16.a
-32a
-8g
-8e
-=8
-4.f}
-==
-*-
+=5	=5
+{16.a\	o
+32a\	jużci
+8b-	.
+8a\	ja
+=6	=6
+16g	nie
+16g	wyjadę
+8e	.
+8c	.
+=7	=7
+16.a	z_tych
+32a	kotlińskich
+8g	.
+8e	.
+=8	=8
+4.f}	łąk.
+==	==
+*- 	*-
+!!!role-singer: Bachelor, Maiden
+!!!role-listener: Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Rybka wodę zamąciła,
+!!konik mi się zląk,
+!!o jużci ja nie wyjadę
+!!z tych kotlińskich łąk.
+!!@VERSE:
+!!2. Nie matka mnie wychowała,
+!!ni żaden ociec,
+!!tylko ja się sam wychował,
+!!maleńki chłopiec.
+!!@VERSE:
+!!3.Oj i dziwują się ludzie,
+!!gdzie się obracam?
+!!a ja sobie w tym Kotlinie
+!!kozły wywracam.
+!!@VERSE:
+!!4.Co ja tobie powiadała,
+!!powiadać będę,
+!!że ja ciebie pokochała,
+!!kochać cię będe.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=127 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 111} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 111}
 !!!page: 111
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25

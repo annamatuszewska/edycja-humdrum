@@ -3,77 +3,98 @@
 !!!source: DWOK12
 !!!id: 12196
 !!!signature: 1219600000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16cc
-16cc
-8b
-8dd
-=2
-8.cc
-16c
-16f
-16a
-=3
-16cc
-16ff
-8aa
-8gg
-=4
-8.ff
-16ee
-16dd
-16cc}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16cc	Ty
+16cc	będziesz
+8b	.
+8dd	mo-
+=2	=2
+8.cc	-ją
+16c\	Kasińku,
+16f	.
+16a	.
+=3	=3
+16cc	ty
+16ff	będziesz
+8aa	.
+8gg	mo-
+=4	=4
+8.ff	-ją
+16ee	da
+16dd	moją,
+16cc}	.
 !!LO:LB:g=esac
-=5
-{16ee
-16dd
-8g
-8b-
-=6
-8.dd
-16cc
-16a
-16f
-=7
-16c
-16e
-8g
-8a
-=8
-8.f
-16a
-16dd
-16cc}
+=5	=5
+{16ee	tylko
+16dd	.
+8g	mi
+8b-	się
+=6	=6
+8.dd	przysieweczki
+16cc	.
+16a	.
+16f	.
+=7	=7
+16c	w_polu
+16e\	.
+8g\	dosto-
+8a\	.
+=8	=8
+8.f\	-ją
+16a\	dostoją.
+16dd	.
+16cc}	.
 !!LO:LB:g=esac
-=9
-{16ee
-16dd
-8g
-8b-
-=10
-8.dd
-16cc
-16a
-16f
-=11
-16c
-16ee
-8ee
-8ee
-=12
-8.ff
-16ff
-16ee
-16ff}
-==
-*-
+=9	=9
+{16ee	tylko
+16dd	.
+8g	mi
+8b-	się
+=10	=10
+8.dd	przysieweczki
+16cc	.
+16a	.
+16f	.
+=11	=11
+16c	w_polu
+16ee/	.
+8eeL	dosto-
+8eeJ/	.
+=12	=12
+8.ff	-ją
+16ff	dostoją.
+16ee	.
+16ff}	.
+==	==
+*- 	*-
+!!!role-singer: Fiancé
+!!!role-listener: Fiancée
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Ty będziesz moją Kasińku,
+!!ty będziesz moją da moją,
+!!tylko mi się przysieweczki
+!!w polu dostoją,
+!!tylko mi się przysieweczki
+!!w polu dostoją.
+!!@VERSE:
+!!2. Przysieweczki z pola zerznę,
+!!czwartkę wymłócę, wymłócę,
+!!i zawiezę na zapowiedź
+!!do dom powrócę,
+!!i zawiezę na zapowiedź
+!!do dom powrócę.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=117 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 101-102} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 101-102}
 !!!page: 101-102
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25

@@ -3,77 +3,132 @@
 !!!source: DWOK12
 !!!id: 12209
 !!!signature: 1220900000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16.f
-32g
-8a
-8b-
-=2
-16.cc
-32cc
-8a
-8f
-=3
-16.cc
-32cc
-8a
-8f
-=4
-16.dd
-32dd
-8dd
-8dd
-=5
-4cc}
-8r
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16.f	Czterym
+32g	.
+8a	lata
+8b-	.
+=2	=2
+16.cc	wierniem
+32cc	.
+8a	służył
+8f	.
+=3	=3
+16.cc	wierniem
+32cc	.
+8a	służył
+8f	.
+=4	=4
+16.dd	gospodarzo-
+32dd	.
+8dd	.
+8dd	.
+=5	=5
+4cc}	-wi,
+8r	.
 !!LO:LB:g=esac
-=6
-{16.dd
-32dd
-8dd
-8dd
-=7
-4cc}
-8r
+=6	=6
+{16.dd	gospodarzo-
+32dd	.
+8dd	.
+8dd	.
+=7	=7
+4cc}	-wi,
+8r	.
 !!LO:LB:g=esac
-=8
-{16b-
-16b-
-8dd
-8b-
-=9
-16a
-16a
-8cc
-8a
-=10
-16g
-16g
-8b-
-8e
-=11
-16.f
-32f
-8a
-8cc}
+=8	=8
+{16b-	ranom
+16b-	.
+8dd	wstajał,
+8b-	.
+=9	=9
+16a	sieczkę
+16a	.
+8cc	żynał,
+8a	.
+=10	=10
+16g	niechaj
+16g	.
+8b-	sam
+8e	po-
+=11	=11
+16.f	-wie,
+32f	matu-
+8a	.
+8cc}	-lu,
 !!LO:LB:g=esac
-=12
-{16g
-16g
-8b-
-8e
-=13
-4f}
-8r
-==
-*-
+=12	=12
+{16g	niechaj
+16g	.
+8b-	sam
+8e	po-
+=13	=13
+4f}	-wie.
+8r	.
+==	==
+*- 	*-
+!!!role-singer: Farmhand
+!!!role-listener: Mother
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Cztery'm lata wierniem służył
+!!gospodarzowi, gospodarzowi,
+!!rano'm wstajał, sieczkęm żynał,
+!!niechaj sam powie,
+!!matulu, niechaj sam powie.
+!!@VERSE:
+!!2. A to wszystko dla dziewczęcia,
+!!miło mi było, miło mi było,
+!!bo mi serce jak żywiczka
+!!do ni przylgnéło.
+!!matulu, do ni przylgnéło.
+!!@VERSE:
+!!3. Nie śmiałem się i (jéj) zapytać,
+!!czyby mnie chciała, czyby mnie chciała,
+!!bo dwie krówki, cztéry wołki
+!!posagu miała.
+!!matulu, posagu miała.
+!!@VERSE:
+!!4. Paskę śrébrną, wyzłocaną
+!!i pierścień złoty, i pierścień złoty,
+!!i fartuszek śrébrem szyty
+!!cudny roboty.
+!!matulu, cudny roboty.
+!!@VERSE:
+!!5. Ale mi się nadarzyła
+!!dziewczęcia zguba; dziewczęcia zguba;
+!!a ja'm wtenczas wołki pasał
+!!s parobkiem Kubą (Jakób).
+!!matulu, s parobkiem Kubą (Jakób).
+!!@VERSE:
+!!6. Leci ona, zadyszona:
+!!„ratuj mnie Stachu!" „ratuj mnie Stachu!"
+!!wilk mi owce porozganiał,
+!!umrę od strachu!
+!!matulu, umrę od strachu!
+!!@VERSE:
+!!7. Pytałem się co dostanę
+!!od znaleźnego? od znaleźnego?
+!!powiedziała: dam ci siebie,
+!!jeśli chcesz tego.
+!!matulu, jeśli chcesz tego.
+!!@VERSE:
+!!8. I wioneczek z rozmarynu
+!!uli świeżuchny. uli świeżuchny.
+!!i czyż można więcy żądać
+!!od ty dziewuchny!
+!!matulu, od ty dziewuchny!
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=124 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 108} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 108}
 !!!page: 108
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25

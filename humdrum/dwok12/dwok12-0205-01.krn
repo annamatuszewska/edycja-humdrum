@@ -3,62 +3,96 @@
 !!!source: DWOK12
 !!!id: 12205
 !!!signature: 1220500001
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/4
-=1
-{8cc
-8a
-8f
-8a
-8cc
-8cc
-=2
-8b-
-8g
-8g
-8g
-8b-
-8a
-=3
-8cc
-8a
-8f
-8a
-8cc
-8cc
-=4
-8b-
-8g
-8g
-8g
-8b-
-8a}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/4	*
+=1	=1
+{8cc	Idzie
+8a	.
+8f	do
+8a	gościńca,
+8cc	.
+8cc	.
+=2	=2
+8b-	stoji
+8g	.
+8g	według
+8g	.
+8b-	proga,
+8a\	.
+=3	=3
+8cc	a
+8a	ja
+8f	za
+8a	nim
+8ccL	idę,
+8ddJ/	.
+=4	=4
+8b-	nie
+8g	boji
+8eL	.
+8gJ\	się
+8b-	Boga.
+8a\}	.
 !!LO:LB:g=esac
-=5
-{8f
-8f
-4f
-4ff
-=6
-8dd
-8dd
-2cc
-=7
-8dd
-8b-
-4a
-4cc
-=8
-8g
-8e
-2f}
-==
-*-
+=5	=5
+{8f	Nimam
+8f	.
+4f\	ja
+4ff	tu
+=6	=6
+8dd	ni-
+8eeq	.
+8dd	-kogo,
+2cc	.
+=7	=7
+8dd	tylko
+8b-	.
+4a\	Boga
+8aq	.
+4cc	.
+=8	=8
+8g	jedne-
+8gq	.
+8e	.
+2f}	go.
+==	==
+*- 	*-
+!!!role-singer: Maiden, Narrator
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Idzie do gościńca, stoji według proga,
+!!a ja za nim idę, nie boji się Boga.
+!!Nie mam ja tu nikogo,
+!!tylko Boga jednego.
+!!@VERSE:
+!!2. Idzie do szynkfasu, brząka kieliszkami,
+!!a ja za nim stoję, zalewam się łzami.
+!!Nie mam ja tu nikogo,
+!!tylko Boga jednego.
+!!@VERSE:
+!!3. I przyjdę do domu, sięde na łóżeczku,
+!!i rozpómne sobie o swym kochaneczku.
+!!A ón idzie, a woła:
+!!otwórz, otwórz ma miła!
+!!@VERSE:
+!!4. Ona stoji w oknie, a ón jéj podaje,
+!!chusteczkę jedwabną w wyszywane kraje (brzegi),
+!!A już ja jéj nie weznę,
+!!i na ciebie nie wejźdrzę.
+!!@VERSE:
+!!6. A ón jéj się prosi, żeby odebrała,
+!!za wianyszek, za dwa, to mnie będziesz miała,
+!!Za wianyszek — będę twój,
+!!tylko-że sie Boga bój!
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=122 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 106} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 106}
 !!!page: 106
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25

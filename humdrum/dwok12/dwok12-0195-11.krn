@@ -3,74 +3,139 @@
 !!!source: DWOK12
 !!!id: 12195
 !!!signature: 1219500011
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16dd
-16dd
-8cc#
-8ee
-=2
-8.dd
-16d
-16g
-16b
-=3
-16dd
-16dd
-8cc#
-8ee
-=4
-4.dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+!!LO:TX:a:t=Kujawiak.
+{16dd	O
+16dd	cóżeś
+8cc#	.
+8ee	się
+=2	=2
+8.dd	zadu-
+16d\	.
+16g\	-mała,
+16b\	.
+=3	=3
+16dd	dziewczyno
+16dd	.
+8cc#	.
+8ee	moja
+=4	=4
+4.dd}	da
+8ddq	moja.
 !!LO:LB:g=esac
-=5
-{16ee
-16dd
-8cc
-8cc
-=6
-8.b
-16a
-16b
-16cc
-=7
-16dd
-16dd
-8ee
-8f#
-=8
-8.g
-16gg
-16ff#
-16ee}
+=5	=5
+{16ee	O
+16dd	to'
+8ccn	em
+8cc	się
+=6	=6
+8.b	zadu-
+16a\	.
+16b	-mała,
+16cc	.
+=7	=7
+16dd	nie
+16dd	będę
+8ee	.
+8f#	two-
+=8	=8
+8.g	-ja
+16gg	da
+16ff#	two-
+16ee}	-ja.
 !!LO:LB:g=esac
-=9
-{16ee
-16dd
-8cc
-8cc
-=10
-8.b
-16a
-16b
-16cc
-=11
-16dd
-16dd
-8ee
-8f#
-=12
-8.g
-16b
-16a
-16g}
-==
-*-
+=9	=9
+{16ee	O
+16dd	to'
+8ccn	em
+8cc	się
+=10	=10
+8.b	zadu-
+16a\	.
+16b	-mała,
+16cc	.
+=11	=11
+16dd	nie
+16dd	będę
+8ee	.
+8f#	two-
+=12	=12
+8.g	-ja
+16b/	da
+16a	twoja.
+16g}	.
+==	==
+*- 	*-
+!!!role-singer: Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. O cóżeś się zadumała,
+!!dziewczyno moja da moja,
+!!O to'em się zadumała,
+!!nie będę twoja da twoja,
+!!O to'em się zadumała,
+!!nie będę twoja da twoja.
+!!@VERSE:
+!!2. Ty dziewczyno, ty jedyna,
+!!ty będziesz moją —
+!!tylko mi się przysieweczki
+!!w polu dostoją,
+!!tylko mi się przysieweczki
+!!w polu dostoją.
+!!@VERSE:
+!!3. Już się żytko zapłonęło,
+!!już się godzi żąć —
+!!obiecałeś mnie, mój Jasiu,
+!!tego roku wziąć,
+!!obiecałeś mnie, mój Jasiu,
+!!tego roku wziąć.
+!!@VERSE:
+!!4. A tyś Jasiu już posprzątał,
+!!wszystko wymłócił,
+!!a mnie biedną, nieszczęśliwą,
+!!tylko zasmucił,
+!!a mnie biedną, nieszczęśliwą,
+!!tylko zasmucił.
+!!@VERSE:
+!!5. Ty ze mnie szydzisz, chłopczyno,
+!!ty ze mnie szydzisz;
+!!ty mnie tylko wtedy kochasz,
+!!kiedy mnie widzisz,
+!!ty mnie tylko wtedy kochasz,
+!!kiedy mnie widzisz.
+!!@VERSE:
+!!6. Z ciebie nie szydzę, dziewczyno,
+!!z ciebie nie szydzę,
+!!ja cię zawsze równie kocham,
+!!choć cię nie widzę,
+!!ja cię zawsze równie kocham,
+!!choć cię nie widzę.
+!!@VERSE:
+!!7. Weź że mnie z sobą chłopczyno,
+!!weź-że mnie z sobą.
+!!Kiedy trudna poniewierka
+!!u ludzi z tobą,
+!!Kiedy trudna poniewierka
+!!u ludzi z tobą.
+!!@VERSE:
+!!8. Przez te bory, przez te lasy,
+!!przez tę dolinę —
+!!jeżli mi cię Bóg przeznaczył,
+!!to cię nie minę,
+!!jeżli mi cię Bóg przeznaczył,
+!!to cię nie minę.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=116 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 100-101} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 100-101}
 !!!page: 100-101
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25

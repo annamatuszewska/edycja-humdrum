@@ -3,57 +3,73 @@
 !!!source: DWOK12
 !!!id: 12203
 !!!signature: 1220300001
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/4
-=1
-{8f
-8a
-4cc
-4ff
-=2
-8ee
-8gg
-4.ff
-8cc
-=3
-8ee
-8gg
-4ff
-4cc
-=4
-8g
-8g
-4.a
-8f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/4	*
+=1	=1
+{8f	Słońce
+8a	.
+4cc	świeci
+4ff	.
+=2	=2
+8ee	a
+8gg	nie
+4.ff	grzeje,
+8cc	.
+=3	=3
+8ee	serce
+8gg	.
+4ff	mi
+4cc	od
+=4	=4
+8g	żalu
+8g	.
+4.a	mgleje,
+8f}	.
 !!LO:LB:g=esac
-=5
-{8f
-8g
-4a
-4cc
-=6
-8b-
-8dd
-4.cc
-8f
-=7
-8a
-8f
-4a
-8b-
-8a
-=8
-8g
-8g
-4a
-4f}
-==
-*-
+=5	=5
+{8f	bodaj
+8g	.
+4a	było
+4cc	.
+=6	=6
+8b-	roztopnia-
+8dd	.
+4.cc	.
+8f	-ło,
+=7	=7
+8a\	niż
+8f\	się
+4a\	w_tobie
+8b-L	.
+8aJ\	.
+=8	=8
+8g	zakochało.
+8g	.
+4a	.
+4f}	.
+==	==
+*- 	*-
+!!!role-singer: Enamoured
+!!!role-listener: Enamoured
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Słońce świeci a nie grzeje,
+!!serce mi od żalu mgleje,
+!!bodaj było roztopniało,
+!!niż się w tobie zakochało.
+!!@VERSE:
+!!2. Küpię ja ci podarónki,
+!!ino dwa siebrzne pierzciónki.
+!!A ja tobie pás niedwabny,
+!!choć niedrogi, bedzie ładny.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=121 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 105} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 105}
 !!!page: 105
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25

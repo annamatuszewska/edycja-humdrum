@@ -3,98 +3,134 @@
 !!!source: DWOK12
 !!!id: 12218
 !!!signature: 1221800000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8g
-8b
-4.cc
-8dd
-=2
-8ee
-8ee
-4dd
-4ff
-=3
-8dd
-8dd
-4.cc
-8g
-=4
-8b
-8dd
-4cc
-4a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8g	Tam
+8b	w_gaju
+4.cc	.
+8dd	śpie-
+=2	=2
+8ee	-wa
+8ee	ptaszyna
+4dd	.
+4ff	.
+=3	=3
+8dd	gdzie
+8dd	Kasińka
+4.cc	.
+8g	.
+=4	=4
+8b	trawkę
+8dd	.
+4cc	zżyna.
+8bq	.
+4a\}	.
 !!LO:LB:g=esac
-=5
-{8g
-8b
-4.cc
-8g
-=6
-8a
-8a
-4b
-4dd
-=7
-8g
-8b
-4.cc
-8g
-=8
-8b
-8dd
-4cc
-4a}
+=5	=5
+{8g	A
+8b	gdy
+4.cc	już
+8g	dość
+=6	=6
+8a	nazży-
+8a	.
+4b	-nała,
+4dd	.
+=7	=7
+8g	na
+8b	Jasińka
+4.cc	.
+8g	.
+=8	=8
+8b	zawo-
+8dd	.
+4cc	-ła-
+8bq	.
+4a\}	-ła.
 !!LO:LB:g=esac
-=9
-{8g
-8b
-4.cc
-8dd
-=10
-8ee
-8ee
-4dd
-4ff
-=11
-8dd
-8dd
-4.cc
-8g
-=12
-8b
-8dd
-4cc
-4a}
+=9	=9
+{8g	Tam
+8b	w_gaju
+4.cc	.
+8dd	śpie-
+=10	=10
+8ee	-wa
+8ee	ptaszyna
+4dd	.
+4ff	.
+=11	=11
+8dd	gdzie
+8dd	Kasińka
+4.cc	.
+8g	.
+=12	=12
+8b	trawkę
+8dd	.
+4cc	zżyna.
+8bq	.
+4a\}	.
 !!LO:LB:g=esac
-=13
-{8g
-8b
-4.cc
-8g
-=14
-8a
-8a
-4b
-4dd
-=15
-8g
-8b
-4.cc
-8g
-=16
-8b
-8dd
-4cc
-4a}
-==
-*-
+=13	=13
+{8g	A
+8b	gdy
+4.cc	już
+8g	dość
+=14	=14
+8a	nazży-
+8a	.
+4b	-nała,
+4dd	.
+=15	=15
+8g	na
+8b	Jasińka
+4.cc	.
+8g	.
+=16	=16
+8b	zawo-
+8dd	.
+4cc	-ła-
+8bq	.
+4a\}	-ła.
+==	==
+*- 	*-
+!!!role-singer: Maiden, Narrator
+!!!role-listener: Bachelor
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Tam w gaju śpiewa ptaszyna
+!!gdzie Kasińka trawkę zżyna.
+!!A gdy już dość nazżynała,
+!!na Jasińka zawołała.
+!!@VERSE:
+!!2. Pójdź mi Jasiu trawkę zadaj,
+!!ale ze mną nic nie gadaj.
+!!Bo mi matka przykazała,
+!!bym z chłopcami nie gadała.
+!!@VERSE:
+!!3. Kamienne by serce było,
+!!żeby nic nie przemówiło.
+!!Kamiennego ja nie miała,
+!!to téż z Jasiem pogadała.
+!!@VERSE:
+!!4. Jeszcze trawka nie zadana,
+!!już Kasińka jest skazana.
+!!Wnet się ludzie dowiedzieli,
+!!ojcu, matce powiedzieli.
+!!@VERSE:
+!!5. Moja matka jako lato,
+!!nie mówiła mi nic na to,
+!!ale ojciec jako zima,
+!!przypominał co godzina.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=129 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 113} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 113}
 !!!page: 113
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25
