@@ -3,52 +3,97 @@
 !!!source: DWOK12
 !!!id: 12265
 !!!signature: 1226500010
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16.ee
-32ee
-8dd#
-8ee
-=2
-8gg
-4ff
-=3
-16dd
-16dd
-8cc#
-8dd
-=4
-8ff
-4ee}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+!!LO:TX:a:t=Mazur.
+{16.ee	A
+32ee	lataj-
+8dd#	.
+8ee	-że
+=2	=2
+8gg	ptaszku
+4ff	.
+=3	=3
+16dd	od
+16dd	dołu
+8cc#	.
+8dd	do
+=4	=4
+8ff	góry,
+4ee}	.
 !!LO:LB:g=esac
-=5
-{16cc
-16cc
-8b
-8cc
-=6
-16ee
-16dd
-8.a
-16cc
-=7
-16b
-16g
-16f#
-16g
-16a
-16b
-=8
-8dd
-4cc}
-==
-*-
+=5	=5
+{16cc	o
+16cc	ten
+8b	ci
+8cc	to
+=6	=6
+16ee	kochaneczek,
+16dd	.
+8.a\	.
+16cc	.
+=7	=7
+16b	wié
+16g	go
+16f#L	Pan
+16gJ	.
+16aL	Bóg
+16bJ\	.
+=8	=8
+8dd	który.
+4cc}	.
+==	==
+*- 	*-
+!!!role-singer: Narrator, Wife
+!!!role-listener: Husband
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. A latajże ptaszku
+!!od dołu do góry,
+!!o ten ci to kochaneczek,
+!!wié go Pan Bóg miły.
+!!@VERSE:
+!!2. O lataj-że lataj,
+!!pamiętaj gdzie padniesz.
+!!Oj dawno, ptaszku, dawno
+!!mego wionka pragniesz.
+!!@VERSE:
+!!3. Pragniesz-ci ty, pragniesz
+!!na moje biołom roś (urodę?)
+!!o nie dałeś mi, nie dał
+!!u matusi uróść.
+!!@VERSE:
+!!4. Oj żeby ja była
+!!u matusi dłuży,
+!!o chodziłabym była,
+!!jako kwiatek róży.
+!!@VERSE:
+!!5. A jo teraz chodzę
+!!jak owa lelija,
+!!o jak wyńdę na poleczko,
+!!to mną wiatr powiéwa.
+!!@VERSE:
+!!6. O wiéwaj-że, wiéwaj
+!!wietrze wieczorowy,
+!!o wywiéwaj mi, wywiéwaj
+!!moje myśli z głowy.
+!!@VERSE:
+!!7. Oj z góry woda idzie,
+!!oj na dole się wraca,
+!!oj gdzie się mój kochanek
+!!oj na świecie obraca.
+!!Czy go woda zatopiła,
+!!czy go inna odmówiła?
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=156 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 140} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 140}
 !!!page: 140
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25

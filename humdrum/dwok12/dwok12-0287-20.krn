@@ -3,65 +3,107 @@
 !!!source: DWOK12
 !!!id: 12287
 !!!signature: 1228700020
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{4.g
-8b
-8a
-16g
-16f#
-=2
-8g
-8a
-4cc
-8dd
-16cc
-16b
-=3
-4.a
-8b
-8a
-8a
-=4
-8cc
-8ff#
-4ee
-4dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{4.g	W_ogródeczku
+8b	.
+8a	.
+16gL	.
+16f#J	.
+=2	=2
+8g	przy
+8a	ziółeczku
+4cc	.
+8ddL	.
+16cc	.
+16bJ/	.
+=3	=3
+4.a	w_nowéj
+8b	.
+8a	komo-
+8a	.
+=4	=4
+8cc	-rze,
+8ff#	komorze,
+4ee	.
+4dd}	.
 !!LO:LB:g=esac
-=5
-{4.g
-8b
-8a
-16g
-16f#
-=6
-8g
-8a
-4cc
-8dd
-16cc
-16b
-=7
-4.a
-16g
-16f#
-8e
-8d
-=8
-8d
-16e
-16f#
-4a
-4g}
-==
-*-
+=5	=5
+{4.g	obsta-
+8b	.
+8a	-ła
+16gL	mnie
+16f#J	.
+=6	=6
+8g	sznurówi-
+8a	.
+4cc	.
+8ddL	-sia
+16cc	.
+16bJ/	.
+=7	=7
+4.a	teraz
+16gL	.
+16f#J	.
+8e	nié
+8d	mo-
+=8	=8
+8d	-że
+16eL	nié
+16f#J	.
+4a	może.
+4g}	.
+==	==
+*- 	*-
+!!!role-singer: Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. U somsiada, trudna rada,
+!!bo-ć to może być da i być,
+!!powiédz-że my moja mała,
+!!kej się mamy zejść da i zejść.
+!!@VERSE:
+!!2. W ogródeczku, przy ziółeczku,
+!!w nowéj komorze, komorze,
+!!obstała mnie sznurówusia,
+!!teraz nié może, nié może.
+!!@VERSE:
+!!3. Kupię ja ci sznurówusię,
+!!zieloną wstęgę,
+!!będziesz my się uciągała,
+!!póki tu będę.
+!!@VERSE:
+!!4. Nie pomoże sznurówusia
+!!zielona wstęga da wstęga,
+!!a bo mi już Jasineczku
+!!bez ciebie tęga  (tęsknota).
+!!@VERSE:
+!!5.Podar’eś my sznurówuszkę
+!!podar'eś my ją;
+!!siadłaj kónia do Torunia
+!!po materyją.
+!!@VERSE:
+!!6. Do Krakowa po krawczyków
+!!boć ładnie szyją,
+!!boś my podar sznurówusię
+!!podar’eś my ją.
+!!@VERSE:
+!!7. Podar'eś my sznurówusię,
+!!podar'eś my szorc;
+!!a ja tobie porty podrę,
+!!ino przyjdzie hoc.
+!!@@END: VERSES
 !!!ONB: Melodia drugiej zwrotki
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=169 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 153-154} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 153-154}
 !!!page: 153-154
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25

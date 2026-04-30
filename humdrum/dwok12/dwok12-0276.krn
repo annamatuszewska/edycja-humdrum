@@ -3,176 +3,208 @@
 !!!source: DWOK12
 !!!id: 12276
 !!!signature: 1227600000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16a
-16g#
-8a
-8cc
-=2
-8.ee
-16dd
-8cc
-=3
-16b
-16dd
-8dd
-8dd
-=4
-8.ee
-16dd
-16cc
-16b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{16a	Na
+16g#	téj
+8a	mokrej
+8cc	.
+=2	=2
+8.eeL	rosie,
+16ddJ	.
+8cc	.
+=3	=3
+16b	Jasio
+16dd	.
+8dd	konia
+8dd	.
+=4	=4
+8.eeL	pasie,
+16ddJ	.
+16ccL	.
+16bJ}	.
 !!LO:LB:g=esac
-=5
-{16a
-16g#
-8a
-8cc
-=6
-16ee
-16dd#
-8ee
-8cc
-=7
-16b
-16dd
-8e
-8g#
-=8
-8.a
-16g#
-8e}
+=5	=5
+{16a	a
+16g#	ta
+8a	jego
+8cc	.
+=6	=6
+16eeL	dzie-
+16dd#J	.
+8ee	-wuszka
+8cc	.
+=7	=7
+16b	synoszka
+16dd	.
+8e	.
+8g#	mu
+=8	=8
+8.aL	niesie.
+16g#J	.
+8e}	.
 !!LO:LB:g=esac
-=9
-{16a
-16g#
-8a
-8cc
-=10
-16b
-16g#
-8e
-8e
-=11
-16a
-16g#
-8a
-8cc
-=12
-16b
-16g#
-8e
-8e}
+=9	=9
+{16aL	Oj
+16g#J	.
+8a	niesie
+8cc	.
+=10	=10
+16bL	mu
+16g#J	.
+8e	niesie
+8e	.
+=11	=11
+16aL	w_czerwonym
+16g#J	.
+8a	.
+8cc	.
+=12	=12
+16bL	o-
+16g#J	.
+8e	-bru-
+8e}	-sie,
 !!LO:LB:g=esac
-=13
-{16a
-16g#
-8a
-8cc
-=14
-16ee
-16dd#
-8.ee
-16cc
-=15
-16b
-16dd
-8e
-8g#
-=16
-8.a
-16g#
-8e}
+=13	=13
+{16a	na
+16g#	masz
+8a	Jasiu,
+8cc	.
+=14	=14
+16ee	swego
+16dd#	.
+8.ee	synka,
+16cc	.
+=15	=15
+16b	nie
+16dd	zapie-
+8e	.
+8g#	-raj
+=16	=16
+8.aL	mu
+16g#J	.
+8e}	się.
 !!LO:LB:g=esac
-=17
-{16a
-16g#
-8a
-8cc
-=18
-8.ee
-16dd
-8cc
-=19
-16b
-16dd
-8dd
-8dd
-=20
-8.ee
-16dd
-16cc
-16b}
+=17	=17
+{16a	Na
+16g#	téj
+8a	mokrej
+8cc	.
+=18	=18
+8.eeL	rosie,
+16ddJ	.
+8cc	.
+=19	=19
+16b	Jasio
+16dd	.
+8dd	konia
+8dd	.
+=20	=20
+8.eeL	pasie,
+16ddJ	.
+16ccL	.
+16bJ}	.
 !!LO:LB:g=esac
-=21
-{16a
-16g#
-8a
-8cc
-=22
-16ee
-16dd#
-8ee
-8cc
-=23
-16b
-16dd
-8e
-8g#
-=24
-8.a
-16g#
-8e}
+=21	=21
+{16a	a
+16g#	ta
+8a	jego
+8cc	.
+=22	=22
+16eeL	dzie-
+16dd#J	.
+8ee	-wuszka
+8cc	.
+=23	=23
+16b	synoszka
+16dd	.
+8e	.
+8g#	mu
+=24	=24
+8.aL	niesie.
+16g#J	.
+8e}	.
 !!LO:LB:g=esac
-=25
-{16a
-16g#
-8a
-8cc
-=26
-16b
-16g#
-8e
-8e
-=27
-16a
-16g#
-8a
-8cc
-=28
-16b
-16g#
-8e
-8e}
+=25	=25
+{16aL	Oj
+16g#J	.
+8a	niesie
+8cc	.
+=26	=26
+16bL	mu
+16g#J	.
+8e	niesie
+8e	.
+=27	=27
+16aL	w_czerwonym
+16g#J	.
+8a	.
+8cc	.
+=28	=28
+16bL	o-
+16g#J	.
+8e	-bru-
+8e}	-sie,
 !!LO:LB:g=esac
-=29
-{16a
-16g#
-8a
-8cc
-=30
-16ee
-16dd#
-8.ee
-16cc
-=31
-16b
-16dd
-8e
-8g#
-=32
-8.a
-16g#
-8e}
-==
-*-
+=29	=29
+{16a	na
+16g#	masz
+8a	Jasiu,
+8cc	.
+=30	=30
+16ee	swego
+16dd#	.
+8.ee	synka,
+16cc	.
+=31	=31
+16b	nie
+16dd	zapie-
+8e	.
+8g#	-raj
+=32	=32
+8.aL	mu
+16g#J	.
+8e}	się.
+==	==
+*- 	*-
+!!!role-singer: Narrator, Maiden, Bachelor
+!!!role-listener: Bachelor, Maiden
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Na téj mokrej rosie,
+!!Jasio konia pasie,
+!!a ta jego dziewuszka
+!!synoszka mu niesie.
+!!Oj niesie mu niesie
+!!w czerwonym obrusie,
+!!na masz Jasiu, swego synka,
+!!nie zapieraj mu się.
+!!@VERSE:
+!!2. Oj bodajżeś ty maluśka
+!!oj i zjadła kata!
+!!czemużeś ty nie zegnała
+!!choć na swego brata.
+!!Nie może być dziécię
+!!nie może być z bratem.
+!!Na masz Jasiu, swego synka,
+!!nie rób mi się katem.
+!!@VERSE:
+!!3. Idzie Jasio do gościńca,
+!!(w)zdryga ramionami, —
+!!idzie za nim ta maluśka
+!!zaléwa się łzami.
+!!Com uczynił, tom uczynił,
+!!to się będę z tobą żenił.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=163 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 147} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 147}
 !!!page: 147
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25

@@ -3,56 +3,83 @@
 !!!source: DWOK12
 !!!id: 12279
 !!!signature: 1227900000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16cc
-16dd
-8ee
-8cc
-=2
-8ff
-8dd
-8b
-=3
-16b
-16cc
-8dd
-16cc
-16b
-=4
-8ee
-16ee
-16dd#
-8ee}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{16cc	Za
+16dd	stodo-
+8ee	.
+8cc	-łą
+=2	=2
+8ff	béliczka,
+8dd	.
+8b	.
+=3	=3
+16b	za
+16cc	béliczką
+8dd	.
+16ccL	.
+16bJ	.
+=4	=4
+8ee	pszeniczka,
+16eeL	.
+16dd#J	.
+8ee}	.
 !!LO:LB:g=esac
-=5
-{16cc
-16b
-16a
-16g#
-16a
-16g#
-=6
-4a
-8ee
-=7
-8ee
-16cc
-16b
-16a
-16g#
-=8
-[8a
-16a]
-16g#
-8a}
-==
-*-
+=5	=5
+{16cc	Zęna-
+16b	.
+16aL	-ła
+16g#J	.
+16aL	ją
+16g#J	.
+=6	=6
+4a	Kasia,
+8ee	.
+=7	=7
+8ee	wyglą-
+16ccL	.
+16bJ	.
+16a	-da-
+16g#	-ła
+=8	=8
+[8aL	Ja-
+16a]	.
+16g#J	.
+8a}	-sia.
+==	==
+*- 	*-
+!!!role-singer: Narrator, Maiden, Bachelor
+!!!role-listener: Bachelor, Maiden
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Za stodołą béliczka,
+!!za béliczką pszeniczka,
+!!Zęnała ją Kasia,
+!!wyglądała Jasia.
+!!@VERSE:
+!!2. Jasio jedzie na koniu,
+!!Kasia idzie ku niemu:
+!!oglądaj się zdrajca,
+!!zdradziłeś mnie z wieńca.
+!!@VERSE:
+!!3. Wszystkie panny w tóneczku,
+!!w lewendowym wioneczku,
+!!a ja niebożątko,
+!!kolibię dzieciątko.
+!!@VERSE:
+!!4. A masz ci ty taką mać,
+!!może-ci je kolibać.
+!!Kolib-że je sobie,
+!!chciało go się tobie.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=165 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 149} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 149}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25

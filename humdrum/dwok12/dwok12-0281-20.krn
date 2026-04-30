@@ -8,27 +8,27 @@
 *k[f#]
 *G:
 *M3/8
-{16.b
-32dd
-8dd
+{16.bL
+32ddJ
+8ddL
 32b
-32g
+32gJ
 =1
-16.f#
-32a
-16cc
+16.f#L
+32aJ
+16ccL
 16ee
 16dd
-16cc
+16ccJ
 =2
-16b
-16dd
-8.gg
-16b
+16bL
+16ddJ
+8.ggL
+16bJ
 =3
 8dd
-16cc
-16a
+16ccL
+16aJ
 8g}
 ==
 *-
@@ -37,3 +37,5 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=166 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 150} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 150}
 !!!page: 150
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25

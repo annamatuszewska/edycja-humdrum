@@ -3,73 +3,119 @@
 !!!source: DWOK12
 !!!id: 12278
 !!!signature: 1227800002
-**kern
-*clefG2
-*k[f#]
-*e:
-*M3/4
-=1
-{4e
-4b
-8b
-8dd#
-=2
-8ee
-16cc
-16b
-4a
-8cc
-8b
-=3
-4g
-8b
-8g
-8b
-8dd#
-=4
-8ee
-16cc
-16b
-4a
-4e}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*e:	*
+*M3/4	*
+=1	=1
+{4e 4g	Za
+4b	stodo-
+8bL	.
+8dd#J/	.
+=2	=2
+8eeL	-łą
+16cc	pszeni-
+16bJ/	.
+4a	.
+8ccL	-ca,
+8bJ/	.
+=3	=3
+4g	za
+8bL	pszeni-
+8gJ	.
+8bL	.
+8dd#J/	.
+=4	=4
+8eeL	-cą
+16cc	by-
+16bJ/	.
+4a	-li-
+4e}	-ca.
 !!LO:LB:g=esac
-=5
-{4g
-2b
-=6
-8f#
-8f#
-4f#
-4a
-=7
-4g
-4g
-4e
-=8
-4B
-4d#
-4e}
+=5	=5
+{4g	hej
+2b	hej
+=6	=6
+8f#	romtadana
+8f#	.
+4f#	.
+4a	.
+=7	=7
+4g	da
+4g	da
+4e	da
+=8	=8
+4B	hej
+4d#	dana,
+4e}	.
 !!LO:LB:g=esac
-=9
-{4g
-2b
-=10
-8f#
-8f#
-4f#
-4a
-=11
-4g
-4g
-4e
-=12
-4B
-4d#
-4e}
-==
-*-
+=9	=9
+{4g	hej
+2b	hej
+=10	=10
+8f#	romtadana
+8f#	.
+4f#	.
+4a	.
+=11	=11
+4g	da
+4g	da
+4e	da
+=12	=12
+4B	hej
+4d#	dana.
+4e}	.
+==	==
+*- 	*-
+!!!role-singer: Narrator, Maiden
+!!!role-listener: Bachelor
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Za stodołą pszenica,
+!!za pszenicą bylica.
+!!hej hej romtadana
+!!da da da hej dana,
+!!hej hej romtadana
+!!da da da hej dana.
+!!Da żena ją ta (tam) ta Kasia,
+!!da zawołała na Jasia.
+!!hej hej romtadana
+!!da da da hej dana,
+!!hej hej romtadana
+!!da da da hej dana.
+!!@VERSE:
+!!2. Jasio jedzie na koniu,
+!!Kasince się ukłonił.
+!!hej hej romtadana
+!!da da da hej dana,
+!!hej hej romtadana
+!!da da da hej dana.
+!!Da witaj-że psie zdrajca,
+!!da coś mnie zdradził z wieńca.
+!!hej hej romtadana
+!!da da da hej dana,
+!!hej hej romtadana
+!!da da da hej dana.
+!!@VERSE:
+!!3. Wszystkie panny w tąneczku,
+!!w lewandowym wioneczku.
+!!hej hej romtadana
+!!da da da hej dana,
+!!hej hej romtadana
+!!da da da hej dana.
+!!Da a ja (sama) niebożątko,
+!!muszę kołysać dzieciątko.
+!!hej hej romtadana
+!!da da da hej dana,
+!!hej hej romtadana
+!!da da da hej dana.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=164 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 148} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 148}
 !!!page: 148
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25
