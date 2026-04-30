@@ -3,67 +3,123 @@
 !!!source: DWOK12
 !!!id: 12318
 !!!signature: 1231800001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8dd
-8cc
-8b
-8cc
-=2
-4dd
-4ee
-=3
-2dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8dd	A
+8cc	w_Krakowie
+8b	.
+8cc	.
+=2	=2
+4dd	w_u-
+4ee	-li-
+=3	=3
+2dd}	-cy,
 !!LO:LB:g=esac
-=4
-{8dd
-8cc
-8b
-8b
-=5
-4a
-8a
-8f#
-=6
-2g}
+=4	=4
+{8dd	wędrują
+8cc	.
+8b	.
+8b	rze-
+=5	=5
+4a	-mieślni-
+8aL	.
+8f#J	.
+=6	=6
+2g}	-cy.
 !!LO:LB:g=esac
-=7
-{8a
-8a
-8g
-8b
-=8
-4cc
-8b
-8dd
-=9
-8a
-8a
-8g
-8b
-=10
-4dd
-4ee}
+=7	=7
+{8a	Jedna
+8a	.
+8g	dama
+8b	.
+=8	=8
+8ddq	.
+4cc	wyźrała,
+8b	.
+8dd	.
+=9	=9
+8a	wędrownego
+8a	.
+8g	.
+8b	.
+=10	=10
+4dd	wołała,
+4ee}	.
 !!LO:LB:g=esac
-=11
-{8dd
-8cc
-8b
-8g
-=12
-4a
-8a
-8f#
-=13
-2g}
-==
-*-
+=11	=11
+{8dd	wędrownego
+8cc	.
+8b	.
+8g\	.
+=12	=12
+4a	wo-
+8aL	-ła-
+8f#J	.
+=13	=13
+2g}	-ła.
+==	==
+*- 	*-
+!!!role-singer: Narrator, Maiden, Bachelor
+!!!role-listener: Bachelor, Maiden
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. A w Krakowie w ulicy,
+!!wędrują rzemieślnicy.
+!!Jedna dama wyźrała,
+!!wędrownego wołała,
+!!wędrownego wołała.
+!!@VERSE:
+!!2. Witám, witám, wędrowni,
+!!kłaniám, kłaniám, szanowni.
+!!Zaporeczka niziuchno,
+!!otwórz sobie cichuchno.
+!!@VERSE:
+!!3. Jest tam pościel na dole,
+!!pójdziemy tam oboje.
+!!A któż nas tam obudzi?
+!!nas dwoje młodych ludzi.
+!!@VERSE:
+!!4. Jaskółeczka ranny ptok,
+!!obudzi nas czém widok.
+!!Jaskółeczka świergoli,
+!!wstań Jasińku, dzień biały.
+!!@VERSE:
+!!5. Byłbym ci-ć ja raniéj wstał,
+!!ale mi cię, dziewczę, żal.
+!!Czego ty mnie żałujesz,
+!!ty mnie nic nie darujesz.
+!!@VERSE:
+!!6. Dobył złoty, dobył sześć,
+!!kup ty Kasiu, co ty chcesz.
+!!Dał ji talar, dał ji sześć,
+!!kupże sobie, co ty chcesz.
+!!@VERSE:
+!!7. Dał ij dukat czerwony,
+!!kupże-ż wianek zielony.
+!!Kasia wianek targuje,
+!!Jasio z miasta wędruje.
+!!@VERSE:
+!!8. Trafili się na moście,
+!!mówią sobie po-proście:
+!!użar-eś mnie jako pies,
+!!teraz idziesz z miasta precz.
+!!@VERSE:
+!!9. Wcisnął czapkę na ucho,
+!!bywaj zdrowa dziewucho.
+!!Wcisnoł czapkę na obie:
+!!niechcę wiedzieć o tobie.
+!!Wcisnoł czapkę na klukę (łeb)
+!!całuj mnie dziewcze w d....
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=185 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 169} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 169}
 !!!page: 169
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-26

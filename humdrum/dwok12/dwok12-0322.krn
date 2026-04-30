@@ -3,55 +3,68 @@
 !!!source: DWOK12
 !!!id: 12322
 !!!signature: 1232200000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/4
-=1
-{8f
-8a
-4cc
-4ff
-=2
-8dd
-8dd
-2cc
-=3
-8f
-8a
-4cc
-4ff
-=4
-8dd
-8dd
-2cc}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/4	*
+=1	=1
+{8f	Świeci
+8a	.
+4cc	miesiąc
+4ff	.
+=2	=2
+8dd	na
+8dd	niebie,
+2cc	.
+=3	=3
+8f	wpuść
+8a	mnie
+4cc	Kasiu
+4ff	.
+=4	=4
+8dd	do
+8dd	siebie.
+2cc}	.
 !!LO:LB:g=esac
-=5
-{8a
-8a
-4cc
-4g
-=6
-8.cc
-16b-
-8a
-8cc
-8ff
-8a
-=7
-8a
-8a
-4cc
-4g
-=8
-8b-
-8b-
-2a}
-==
-*-
+=5	=5
+{8a	wpuść
+8a	mnie
+4cc	Kasiu,
+4g	.
+=6	=6
+8.cc	wpuść
+16b-	ha
+8a	ha
+8cc	ha
+8ff	ha
+8a\	ha,
+=7	=7
+8a	wpuść
+8a	mnie
+4cc	Kasiu
+4g	.
+=8	=8
+8b-	do
+8b-	siebie.
+2a}	.
+==	==
+*- 	*-
+!!!role-singer: Bachelor
+!!!role-listener: Maiden
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Świeci miesiąc na niebie,
+!!wpuść mnie Kasiu do siebie.
+!!wpuść mnie Kasiu,
+!!wpuść ha ha ha ha ha,
+!!wpuść mnie Kasiu do siebie.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=187 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 171} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 171}
 !!!page: 171
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-26

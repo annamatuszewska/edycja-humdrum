@@ -3,55 +3,93 @@
 !!!source: DWOK12
 !!!id: 12300
 !!!signature: 1230000001
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/8
-=1
-{16e
-16e
-8g#
-8a
-=2
-16b
-16dd
-8cc#
-8a
-=3
-16b
-16dd
-8cc#
-8a
-=4
-16cc#
-16ee
-8cc#
-8dd
-=5
-4.b}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M3/8	*
+=1	=1
+!!LO:TX:a:t=Owczarska.
+{16e	A
+16e	w_tém
+8g#	moim
+8a	.
+=2	=2
+16b	ogródeczku,
+16dd	.
+8cc#	.
+8a\	.
+=3	=3
+16b	w_ogródeczku
+16dd	.
+8cc#	.
+8a\	.
+=4	=4
+16cc#	w_drugim
+16ee	.
+8cc#	Wrocła-
+8dd	.
+=5	=5
+4.b}	-wiu,
 !!LO:LB:g=esac
-=6
-{8.dd
-16cc#
-16a
-16b
-=7
-16g#
-16e
-8f#
-8d
-=8
-16f#
-16f#
-8a
-8g#
-=9
-4.e}
-==
-*-
+=6	=6
+{(16bqL	.
+16cc#qJ	.
+8.dd)	pokochał
+16cc#	.
+16a	.
+16b/	mnie
+=7	=7
+16g#	mój
+16e	kochanek,
+8f#	.
+8d	.
+=8	=8
+16f#\	by
+16f#\	go
+8a	Bóg
+8g#	za-
+=9	=9
+4.e}	-bił.
+==	==
+*- 	*-
+!!!role-singer: Maiden, Bachelor
+!!!role-listener: Bachelor, Maiden
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. A w tém mojim ogródeczku,
+!!w ogródeczku w drugim Wrocławiu,
+!!pokochał mnie mój kochanek,
+!!by go Bóg zabił.
+!!@VERSE:
+!!2. A powiedział, że mám dziecię,
+!!zkądbym je wzięna?
+!!Jéno przyjdzie ta godzina,
+!!będę cię klina (klęła).
+!!@VERSE:
+!!3. Wiezą dziecię do kościoła
+!!w nowéj kolasie (v. kolesie),
+!!leży Kasia na łóżeczku,
+!!upłakała się.
+!!@VERSE:
+!!4. Oj nie płacz, Kasiu, nie płacz,
+!!nie dómaj sobie,
+!!żeli-ć będzie dziecię ładne,
+!!przysięgę tobie.
+!!@VERSE:
+!!5. A wej ładne dziecię, ładne,
+!!jak malowane, —
+!!jéno mi się ojcem obierz
+!!moje kochanie.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Śpiewana i na nutę n. 29. 138.
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=177 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 161} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 161}
 !!!page: 161
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25

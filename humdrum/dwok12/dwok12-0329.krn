@@ -3,56 +3,84 @@
 !!!source: DWOK12
 !!!id: 12329
 !!!signature: 1232900000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8f
-8a
-4cc
-4ee
-=2
-8ee
-8dd
-4b
-4g
-=3
-8g
-8b
-4dd
-8dd
-8cc
-=4
-4a
-4f}
-4r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8f#in	Niescęsna
+8a	.
+4cc	.
+4ee	to
+=2	=2
+8ee	stanieneczka
+8dd	.
+4b	.
+4g	.
+=3	=3
+8gL	po-
+8bJ	.
+4dd	-dworze
+8ddL	.
+8ccJ	.
+=4	=4
+4a	była,
+4f#in}	.
+4r	.
 !!LO:LB:g=esac
-=5
-{8a
-8f
-4d
-8a
-8b
-=6
-4.g
-8a
-8cc
-8a
-=7
-8a
-8f
-4d
-4a
-=8
-4g
-4e}
-4r
-==
-*-
+=5	=5
+{8a	samaześ
+8f#in	.
+4d	.
+8aL	ty
+8bJ	.
+=6	=6
+4.g	kochanec-
+8a	.
+8cc	.
+8a	-ko
+=7	=7
+8aL	do
+8f#Jin	.
+4d	mnie
+4a\	cho-
+=8	=8
+4g	-dziła.
+4e}	.
+4r	.
+==	==
+*- 	*-
+!!!RDF**kern: i = editorial accidental
+!!!role-singer: Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Niescęsna to stanieneczka
+!!podworze była,
+!!Samaześ ty kochanecko
+!!do mnie chodziła.
+!!@VERSE:
+!!2. Chodziłam já, chodziłam
+!!celątkom po siańko,
+!!a tyś mnie zawołał:
+!!chodź ino kochanko!
+!!@VERSE:
+!!3. Kiedyś ty widziała
+!!ze ja był pijany,
+!!mogłaś-ci ty się obrócić
+!!gębulą do ściany.
+!!@VERSE:
+!!4. Niescesnać to wiésieniecka (wiśnia)
+!!cozem ją zjadła,
+!!myślałam się zacerwienić
+!!a jà jesc'em zbladła.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=189 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 173} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 173}
 !!!page: 173
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-26

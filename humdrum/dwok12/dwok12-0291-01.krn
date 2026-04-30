@@ -3,51 +3,83 @@
 !!!source: DWOK12
 !!!id: 12291
 !!!signature: 1229100001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{4dd
-8dd
-=2
-16dd
-16dd
-8ee
-16b
-16a
-=3
-4cc
-8a
-=4
-16a
-16cc
-8a
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{4dd	Dziewczy-
+8dd	.
+=2	=2
+16dd	-no,
+16dd	dziewczyno,
+8ee	.
+16bL	.
+16aJ\	.
+=3	=3
+4cc	gdzie
+8a	pan-
+=4	=4
+16a\	-na
+16cc	wędruje?
+8a	.
+8g}	.
 !!LO:LB:g=esac
-=5
-{16g
-16f#
-8a
-8d
-=6
-16f#
-16g
-8b
-8g
-=7
-4cc
-8a
-=8
-16a
-16cc
-8a
-8g}
-==
-*-
+=5	=5
+{16g	Na
+16f#	jagody
+8a	.
+8d	.
+=6	=6
+16f#	ładny
+16g	.
+8b	Michoł
+8g\	.
+=7	=7
+4cc	gdzie
+8a	to
+=8	=8
+16a\	pan
+16cc	polu-
+8a	.
+8g}	-je.
+==	==
+*- 	*-
+!!!role-singer: Narrator, Lord
+!!!role-listener: Maiden
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Dziewczyno, dziewczyno,
+!!gdzie panna wędruje?
+!!Na jagody ładny Michoł
+!!Gdzie to pan poluje.
+!!@VERSE:
+!!2. Możesz ta dziewcze iść,
+!!możesz się nie spieszyć,
+!!nadjadę ja tu niedługo,
+!!możemy się cieszyć.
+!!@VERSE:
+!!3. Michoł-ci nadjechoł,
+!!Kasinka się skryła,
+!!przykryła się leszczyneczką
+!!zieloną dębiną.
+!!@VERSE:
+!!4. Dziewczyno, dziewczyno,
+!!i odezwij mi się,
+!!a mam-ci ja takie charty,
+!!znalezą ony cię.
+!!@VERSE:
+!!5. Charty ją znalazły
+!!w zielony dębinie;
+!!Michoł skoczył, ucałował,
+!!cieszył się dziewczynie.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=172 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 156} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 156}
 !!!page: 156
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25

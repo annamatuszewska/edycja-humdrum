@@ -3,57 +3,101 @@
 !!!source: DWOK12
 !!!id: 12310
 !!!signature: 1231000001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8e
-8g
-4a
-4b
-=2
-8e
-8d
-2e
-=3
-8g
-8b
-4dd
-4ff#
-=4
-8ee
-8dd
-2b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8e	Idzie
+8g	.
+4a\	konik
+4b	.
+=2	=2
+8eL	z_miasta
+8dJ	.
+2e	.
+=3	=3
+8g	cugle
+8b	.
+4dd	zadep-
+4ff#	.
+=4	=4
+8eeL	-tu-
+8ddJ	.
+2b}	-je,
 !!LO:LB:g=esac
-=5
-{8b
-8dd
-8dd
-8dd
-8ee
-8cc
-=6
-8a
-8g
-8a
-8b
-8e
-8d
-=7
-8e
-8g
-4a
-4b
-=8
-8e
-8d
-2e}
-==
-*-
+=5	=5
+{8b	jużcić
+8dd	.
+8dd	moja
+8dd	.
+8ee	mała,
+8cc	.
+=6	=6
+8a\	jużcić
+8g\	.
+8a\	moja
+8b	.
+8e	mała,
+8d	.
+=7	=7
+8e	rączki
+8g	.
+4a	zała-
+4b	.
+=8	=8
+8eL	-mu-
+8dJ	.
+2e}	-je.
+==	==
+*- 	*-
+!!!role-singer: Narrator, Maiden, Bachelor
+!!!role-listener: Bachelor, Maiden
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Idzie konik z miasta
+!!cugle zadeptuje,
+!!jużcić moja mała,
+!!jużcić moja mała,
+!!rączki załamuje.
+!!@VERSE:
+!!2. A co ja zrobiła,
+!!co ja uczyniła,
+!!już teraz nie będę
+!!już teraz nie będę
+!!w wianyszku chodziła.
+!!@VERSE:
+!!3. A ino-ć go będę,
+!!pod czepyszkiem miała, (v. pod głowami)
+!!na ciebie Jasieńku
+!!na ciebie Jasieńku
+!!będę narzekała.
+!!@VERSE:
+!!4. Nie narzékaj na mnie,
+!!ino sama na się,
+!!(w)szak ja mówił tobie,
+!!(w)szak ja mówił tobie,
+!!dajma pokój sobie,
+!!nie zalécajma się.
+!!@VERSE:
+!!5. A tyś mie się jęna
+!!jak uoda kamiénia,
+!!bodaj nam się była
+!!bodaj nam się była
+!!ziemia rozstąpiła.
+!!@VERSE:
+!!6. Rozstąp nom się ziemio,
+!!rozstąp się kamiéniu,
+!!pamiętaj maluśka
+!!pamiętaj maluśka
+!!o mojim imieniu.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=182 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 166} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 166}
 !!!page: 166
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25

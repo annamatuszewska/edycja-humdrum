@@ -3,59 +3,67 @@
 !!!source: DWOK12
 !!!id: 12305
 !!!signature: 1230500001
-**kern
-*clefG2
-*k[b-e-]
-*g:
-*M2/4
-=1
-{8ff
-8ff
-16ff
-16ee-
-8dd
-=2
-8cc
-8dd
-4b-
-=3
-8d
-8b-
-8g
-8f#
-=4
-4g
-8b-
-8g
-=5
-8b-
-8dd
-4ff}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*g:	*
+*M2/4	*
+=1	=1
+{8ff	Poszła
+8ff	.
+16ffL	Ka-
+16ee-J	.
+8dd	-sia
+=2	=2
+8cc	po
+8dd	uodę,
+4b-	.
+=3	=3
+8d	poszła
+8b-	.
+8g	Kasia
+8f#	.
+=4	=4
+4g	po
+8b-	uodę,
+8g	.
+=5	=5
+8b-L	hej
+8ddJ	.
+4ff}	hej
 !!LO:LB:g=esac
-=6
-{8ff
-8ff
-8gg
-8dd
-=7
-8ee-
-8cc
-16a
-16g
-8f#
-=8
-8d
-8b-
-8g
-8f#
-=9
-4g
-8b-
-8g}
-==
-*-
+=6	=6
+{8ff	wziena
+8ff	.
+8gg	wionek
+8dd	.
+=7	=7
+8ee-	lewen-
+8cc	.
+16aL	-do-
+16gJ	.
+8f#	-wy
+=8	=8
+8d	na
+8b-	gło-
+8gL	-wę,
+8f#J	.
+=9	=9
+4g	na
+8b-	głowę.
+8g}	.
+==	==
+*- 	*-
+!!!role-singer: Narrator
+!!BEGIN: VERSES
+!!VERSE:
+!!1. Poszła Kasia po uodę, poszła Kasia po uodę,
+!!hej hej wziena wionek lewendowy na głowę, na głowę.
+!!END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=180 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 164} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 164}
 !!!page: 164
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25

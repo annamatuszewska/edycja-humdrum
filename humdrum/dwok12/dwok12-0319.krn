@@ -3,52 +3,119 @@
 !!!source: DWOK12
 !!!id: 12319
 !!!signature: 1231900000
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{8e
-8g
-8g
-8e
-=2
-8f
-8a
-4a
-=3
-8g
-8b
-4b
-=4
-8g
-8cc
-4cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+=1	=1
+{8e	Na
+8g	poznańskiéj
+8g	.
+8e	.
+=2	=2
+8f	uli-
+8a	.
+4a	-cy,
+=3	=3
+8g	la
+8b	la
+4b	la,
+=4	=4
+8g	la
+8cc	la
+4cc}	la,
 !!LO:LB:g=esac
-=5
-{8e
-8g
-8g
-8e
-=6
-8f
-8a
-8a
-8a
-=7
-8g
-16b
-16dd
-8ff
-8dd
-=8
-4cc}
-4r
-==
-*-
+=5	=5
+{8e	wędrują
+8g	.
+8g	.
+8e	tam
+=6	=6
+8f	rzemieślnicy
+8a	.
+8a	.
+8a	.
+=7	=7
+8g	ra
+16b	ta
+16dd	ta,
+8ff	ta
+8dd	ta
+=8	=8
+4cc}	ta.
+4r	.
+==	==
+*- 	*-
+!!!role-singer: Narrator, Artisans, Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Na poznańskiéj ulicy,
+!!la la la, la la la,
+!!wędrują tam rzemieślnicy
+!!ra ta ta, ta ta ta.
+!!@VERSE:
+!!2. Grzeczna panna przechodzi,
+!!la la la, la la la,
+!!dziwują się ci młodzi.
+!!ra ta ta, ta ta ta.
+!!@VERSE:
+!!3. Otwórz panno lekuchno,
+!!la la la, la la la,
+!!będziem spali cichuchno.
+!!ra ta ta, ta ta ta.
+!!@VERSE:
+!!4. Złożył rzeczy na stole,
+!!la la la, la la la,
+!!będziem spali oboje.
+!!ra ta ta, ta ta ta.
+!!@VERSE:
+!!5. Dobył złoty, dobył sześć,
+!!la la la, la la la,
+!!kup ty panno, co ty chcesz.
+!!ra ta ta, ta ta ta.
+!!@VERSE:
+!!6. Dobył złoty czerwony,
+!!la la la, la la la,
+!!kup ty wianek zielony.
+!!ra ta ta, ta ta ta.
+!!@VERSE:
+!!7. Panna wianek targuje,
+!!la la la, la la la,
+!!Jasiek z miasta wędruje.
+!!ra ta ta, ta ta ta.
+!!@VERSE:
+!!8. Trafili się na moście,
+!!la la la, la la la,
+!!mówili tam po-proście.
+!!ra ta ta, ta ta ta.
+!!@VERSE:
+!!9. Użar-eś mnie jako pies,
+!!la la la, la la la,
+!!teraz idziesz z miasta precz.
+!!ra ta ta, ta ta ta.
+!!@VERSE:
+!!10. Wcisnął czapkę na ucho,
+!!la la la, la la la,
+!!bywaj zdrowa dziewucho.
+!!ra ta ta, ta ta ta.
+!!@VERSE:
+!!11. Wcisnoł czapkę na obie:
+!!la la la, la la la,
+!!niechcę wiedzieć o tobie.
+!!ra ta ta, ta ta ta.
+!!@VERSE:
+!!12. Wcisnoł czapkę na klukę (łeb)
+!!la la la, la la la,
+!!całuj mnie dziewcze w d....
+!!ra ta ta, ta ta ta.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=186 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 170} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 170}
 !!!page: 170
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-26
