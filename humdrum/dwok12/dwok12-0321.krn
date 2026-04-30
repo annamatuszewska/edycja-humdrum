@@ -18,7 +18,7 @@
 4cc	niebie,
 4a	.
 =3	=3
-8bq	.
+8bqq	.
 8cc	wpuść
 8ee	mnie
 4b	Kasiu
@@ -60,7 +60,7 @@
 4cc	niebie,
 4a	.
 =11	=11
-8bq	.
+8bqq	.
 8cc	wpuść
 8ee	mnie
 4b	Kasiu
@@ -85,19 +85,18 @@
 4cc	-ścić
 4a	mam,
 =15	=15
-8bq	.
 8f#	ja
 8g	siero-
 4dd	.
 8ccq	.
-8b	-ta
-8a	.
+8b\L	-ta
+8aJ	.
 =16	=16
 4g	a
 4f#	tyś
 4d}	pan.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Narrator, Bachelor, Maiden
 !!!role-listener: Maiden, Bachelor
 !!!singer-sex: male, female
@@ -131,3 +130,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-26
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

@@ -38,7 +38,7 @@
 =6	=6
 8cc	lewen-
 8cc	.
-!LO:TX:t=P:problem=mixed beam
+!LO:TX:t=P:problem=mixed beam	!
 16ddL\	.
 16gJ/	-dowy
 8f#	.
@@ -67,9 +67,9 @@
 8b-	głowę.
 8g;}	.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Narrator, Maiden
-!!!role-listener: Bachelor
+!!!role-listener: Bachelor, Son
 !!!singer-sex: female
 !!@@BEGIN: VERSES
 !!@VERSE:
@@ -169,3 +169,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

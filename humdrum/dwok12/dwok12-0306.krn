@@ -5,8 +5,8 @@
 !!!signature: 1230600000
 **kern	**text
 *clefG2	*
-*k[f#c#]	*
-*D:	*
+*k[f#]	*
+*G:	*
 *M3/8	*
 =1	=1
 {16a	Z_pola
@@ -110,7 +110,7 @@
 4e}	-dasz.
 8r	.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Bachelor, Maiden
 !!!role-listener: Maiden, Bachelor
 !!!singer-sex: male, female
@@ -125,7 +125,7 @@
 !!bodajeś przepadał, 
 !!zadałeś my rzewny płacz; 
 !!zadałeś my synka, 
-!!plażyła pierzynka 
+!!plażyła*) pierzynka 
 !!nie chcesz mu się ojcem zwać.
 !!@VERSE:
 !!3. Ino za dwa latka 
@@ -135,6 +135,9 @@
 !!gdy zawoła: tata! 
 !!trzeba go do szkoły słać.
 !!@@END: VERSES
+!!@@BEGIN: 
+!! @COMMENTARY:*)czasamy wymawiają: plaużyła, plążyła, (płużyła).
+!!@@END:
 !!!ONB: Alternatywnie można zakodować w E
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -143,3 +146,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

@@ -48,10 +48,10 @@
 16bL	.
 16gJ}	.
 ==	==
-*- 	*-
-!!!role-singer: Narrator, Maiden, Lord
-!!!role-listener: Maiden, Lord
-!!!singer-sex: male
+*-	*-
+!!!role-singer: Narrator, Maiden, Land Lord
+!!!role-listener: Maiden, Land Lord
+!!!singer-sex: male, female
 !!@@BEGIN: VERSES
 !!@VERSE:
 !!1. Gdzie panna waspanna,
@@ -119,3 +119,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14
