@@ -83,9 +83,9 @@
 !!2. Musiałbyś ci, mój Jasiéniu, rano wstać,
 !!żebyś ci miał tę dróżeczkę zajechać.
 !!@@END: VERSES
-!!!role-singer: Lover
-!!!role-listener: Mistress
-!!!singer-sex: Male
+!!!role-singer: Lover, Mistress
+!!!role-listener: Mistress, Lover
+!!!singer-sex: Male, Female
 !!!ONB: Niekiedy przy weselu
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -94,3 +94,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-04-24
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-28

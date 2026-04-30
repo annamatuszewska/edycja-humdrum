@@ -45,9 +45,12 @@
 !!@@BEGIN: VERSES
 !!Tańcujże ze mną,
 !!mam mączkę pszenną,
-!!nagotuje sałamachy,
+!!nagotuje sałamachy(1),
 !!będziesz jadł ze mną.
 !!@@END: VERSES
+!!@@BEGIN: 
+!! @COMMENTARY:(1)lemieszka, prażucha.
+!!@@END:
 !!!role-singer: Mistress
 !!!role-listener: Man
 !!!singer-sex: Female
@@ -58,3 +61,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-04-24
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-28

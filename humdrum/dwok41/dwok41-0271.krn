@@ -14,8 +14,8 @@
 4dd	-ne-
 4ee	-czek
 =2	=2
-8.dd	śpié-
-16b	.
+8.ddL	śpié-
+16bJ	.
 2g	-wa,
 =3	=3
 8.cc	dzień
@@ -84,7 +84,7 @@
 !!jeden sobie, drugi tobie,
 !!trzeci powiesiła.
 !!@@END: VERSES
-!!!role-singer: Narrator 
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=247 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 168} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 168}
@@ -92,3 +92,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-04-23
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-27
