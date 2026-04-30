@@ -3,88 +3,107 @@
 !!!source: DWOK13
 !!!id: 13243
 !!!signature: 1324300000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8dd
-8a
-8dd
-=2
-8b
-4dd
-=
-24d
-24e
-24g
-8a
-8dd
-=3
-8b
-4a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Dudy.	!
+{8dd	Szym-
+8a	-ku,
+8dd	Szy-
+=2	=2
+8b	-mo-
+4dd	-nie,
+=3	=3
+*Xtuplet	*
+24dL	myszy
+24e	.
+24gJ	.
+8aL	dudy
+8ddJ/	.
+=4	=4
+8b/	zjadły,
+4a}	.
 !!LO:LB:g=esac
-=4
-{8dd
-8a
-8dd
-=5
-8b
-4dd
-=
-24d
-24e
-24g
-8a
-8g
-=6
-8e
-4d}
+=5	=5
+{8dd	oj
+8a	zjadły,
+8dd	.
+=6	=6
+8b	zja-
+4dd	-dły,
+=7	=7
+24dL	a
+24e	bu-
+24gJ	-daj
+8a\	.
+8g\	prze-
+=8	=8
+8e\	-pa-
+4d}\	-dły.
 !!LO:LB:g=esac
-=7
-{8d
-16e
-16g
-16a
-16a
-=8
-16cc
-16cc
-8a
-8d
-=9
-16e
-16g
-8a
-8g
-=10
-8cc
-4a}
+=9	=9
+{8d	Za-
+16eL	-ła-
+16gJ	.
+16a	-taj,
+16a	za-
+=10	=10
+16cc	-ła-
+16cc	-taj.
+8a\	Czém,
+8d	czém?
+=11	=11
+16eL	Czém,
+16gJ	.
+8aL	tzém?
+8gJ	.
+=12	=12
+8cc/	czém,
+4a}	tém?
 !!LO:LB:g=esac
-=11
-{8d
-16e
-16g
-16a
-16a
-=12
-16cc
-16cc
-8a
-8d
-=13
-16e
-16g
-8a
-8g
-=14
-8e
-4d}
-==
-*-
+=13	=13
+{8d	by-
+16eL	-le
+16gJ	.
+16a	du-
+16a	-dy
+=14	=14
+16cc	do-
+16cc	-brze
+8a\	gra-
+8d	-ły
+=15	=15
+16eL	a
+16gJ	dziewki
+8aL	.
+8gJ	ska-
+=16	=16
+8e\	-ka-
+4d}\	-ły.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Szymku, Szymonie,
+!!myszy dudy zjadły,
+!!oj zjadły, zjadły,
+!!a budaj przepadły.
+!!Załataj, załataj.
+!!Czém, czém?
+!!Czém, tzém?
+!!czém, tém?
+!!byle dudy dobrze grały
+!!a dziewki skakały.
+!!@@END: VERSES
+!!!role-singer: Complex
+!!!role-listener: Complex
+!!!singer-sex: female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=141 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 117} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 117}
 !!!page: 117
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-09

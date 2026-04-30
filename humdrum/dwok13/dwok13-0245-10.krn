@@ -3,54 +3,64 @@
 !!!source: DWOK13
 !!!id: 13245
 !!!signature: 1324500010
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{8cc
-16a
-16b-
-16b
-16cc
-=2
-8dd
-8ee
-8dd
-=3
-8ee
-8ee
-8dd
-=4
-16dd
-16ee
-8ff}
-8r
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{8cc	Ł-oj!
+16a\	czté-
+16b-	-ry
+16b	kirz-
+16cc	-nie
+=2	=2
+8dd	ma-
+8ee	-ślo-
+8dd	-ny,
+=3	=3
+8ee	pią-
+8ee	-ta
+8dd	ćwierć,
+=4	=4
+16dd	pią-
+16ee	-ta
+8ff}	ćwierć,
+8r	.
 !!LO:LB:g=esac
-=5
-{8cc
-16a
-16b-
-16b
-16cc
-=6
-8dd
-8ee
-8dd
-=7
-8cc
-8cc
-8g
-=8
-16g
-16a
-8f}
-8r
-==
-*-
+=5	=5
+{8cc	ł-oj!
+16a\	ni-
+16b-	-ma
+16b	ta-
+16cc	-kij
+=6	=6
+8dd	dziewczy-
+8ee	.
+8dd	-ny
+=7	=7
+8cc	jak
+8cc	jo
+8g	jest,
+=8	=8
+16g	jak
+16a	jo
+8f}	jest.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Ł-oj! cztéry kirznie maślony, 
+!!piąta ćwierć, piąta ćwierć.
+!!ł-oj! nima takij dziewczyny 
+!!jak jo jest, jak jo jest.
+!!@@END: VERSES
+!!!role-singer: Girl
+!!!singer-sex: female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=142 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 118} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 118}
 !!!page: 118
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-09

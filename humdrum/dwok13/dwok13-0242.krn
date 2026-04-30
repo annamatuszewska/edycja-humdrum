@@ -3,60 +3,81 @@
 !!!source: DWOK13
 !!!id: 13242
 !!!signature: 1324200000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16dd
-16b
-8b
-8dd
-=2
-16dd
-16ee
-8cc
-16cc
-16b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16dd/	A
+16b/	już
+8b/	ci
+8dd/	ja
+=2	=2
+16dd/	sama
+16ee/	.
+8cc/	je-
+16ccL	-dna
+16b}J	.
 !!LO:LB:g=esac
-=3
-{16g
-16e
-8e
-8g
-=4
-16g
-16a
-8f#
-8d}
+=3	=3
+{16g	i-
+16e	-dę
+8e	do
+8g	do-
+=4	=4
+16g	-mu
+16a	do
+8f#	do-
+8d}	-mu,
 !!LO:LB:g=esac
-=5
-{16g
-16e
-8e
-8g
-=6
-16f#
-16a
-8a
-16cc
-16b}
+=5	=5
+{16Lg\	odprowadź
+16e\J	.
+8e\L	.
+8g\J	mię
+=6	=6
+16fL#\	mój
+16a\	Jasieńku,
+8a\J	.
+16ccL	.
+16b}J	.
 !!LO:LB:g=esac
-=7
-{16g
-16e
-8e
-8g
-=8
-16g
-16a
-8f#
-8d}
-==
-*-
+=7	=7
+{16g	i
+16e	po-
+8e	-każ
+8g	ko-
+=8	=8
+16g	-mu
+16a	da
+8f#	ko-
+8d}	-mu.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A już ci ja sama jedna
+!!idę do domu do domu,
+!!odprowadź mię mój Jasieńku,
+!!i pokaż komu da komu.
+!!@VERSE:
+!!2. Nie béde cie odprowadzał,
+!!bodajżeś się sama wlekła;
+!!nie podałaś mi chusteczki,
+!!chociaż ze mnie woda ciekła.
+!!@VERSE:
+!!3. Daj mi chusteczki, jedyna,
+!!daj mi chusteczki, kochana,
+!!a nie dawaj obrąbyszka
+!!od koszuleczki, da dana.
+!!@@END: VERSES
+!!!role-singer: Mistress, Lover
+!!!role-listener: Lover, Mistress
+!!!singer-sex: female , male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=141 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 117} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 117}
 !!!page: 117
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-09

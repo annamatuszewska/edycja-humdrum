@@ -3,61 +3,75 @@
 !!!source: DWOK13
 !!!id: 13246
 !!!signature: 1324600000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{8gg
-8gg
-16gg
-16ff
-=2
-16ee
-16cc
-8ee
-16cc
-16b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{8gg/L	Za-
+8gg/J	-ło-
+16gg/L	-żył
+16ff/J	się
+=2	=2
+16ee	so-
+16cc	-kół
+8ee	z_koniem
+16ccL	.
+16b}J	.
 !!LO:LB:g=esac
-=3
-{8g
-8dd
-16b
-16g
-=4
-16b
-16cc
-8ee
-8gg}
+=3	=3
+{8gL	oj
+8dd/J	i
+16b	w_da-
+16g	-le-
+=4	=4
+16b	-kie
+16cc	wy-
+8ee/L	-bie-
+8gg}/J	-gi,
 !!LO:LB:g=esac
-=5
-{8gg
-16ee
-16ff
-16gg
-16ff
-=6
-16ee
-16cc
-8ee
-16cc
-16b}
+=5	=5
+{8gg	oj
+16eeL	i
+16ffJ	.
+16gg	sokół
+16ff	.
+=6	=6
+16ee	na
+16cc	dwa
+8ee	skrzydła,
+16ccL	.
+16b}J	.
 !!LO:LB:g=esac
-=7
-{8g
-8g
-16b
-16g
-=8
-16g
-16cc
-8ee
-8cc}
-==
-*-
+=7	=7
+{8g\	i
+8g\	ko-
+16b	-nik
+16g	na
+=8	=8
+16b	czte-
+16cc	-ry
+8ee	nogi.
+8cc}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Założył się sokół z koniem
+!!oj i w dalekie wybiegi,
+!!oj i sokół na dwa skrzydła,
+!!i konik na cztery nogi.
+!!@VERSE:
+!!2. Oj leci sokół lasem,
+!!i krzyknie sobie czasem;
+!!oj jedzie konik dróżką,
+!!i tąpnie sobie nóżką.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=142 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 118} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 118}
 !!!page: 118
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-09

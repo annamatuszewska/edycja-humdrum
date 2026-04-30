@@ -3,93 +3,111 @@
 !!!source: DWOK13
 !!!id: 13256
 !!!signature: 1325600000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8dd
-8gg
-16dd
-16cc#
-=2
-16dd
-16gg
-8b
-8b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Mazur.	!
+{8dd/	Za
+8gg	sto-
+16dd	-do-
+16cc#	-łą
+=2	=2
+16dd	pa-
+16gg	-sła
+8b	by-
+8b}	-dło,
 !!LO:LB:g=esac
-=3
-{16d
-32f#
-32g
-8b
-16dd
-16b
-=4
-16cc
-16ee
-8a
-8a}
+=3	=3
+{16d	roz-
+32fL#	-ło-
+32gJ	.
+8b	-zy-
+16ddL	-ła
+16bJ	.
+=4	=4
+16cc	mo-
+16ee	-to-
+8a	-wi-
+8a}	-dło,
 !!LO:LB:g=esac
-=5
-{8g
-8b
-16g
-16e
-=6
-16d
-32f#
-32g
-8b
-16g
-16f#}
+=5	=5
+{8g	pójdźcie
+8b	.
+16g	chłopcy,
+16e	.
+=6	=6
+16d	mo-
+32f#L	-tać
+32gJ	.
+8b	ni-
+16gL	-ci,
+16f#J}	.
 !!LO:LB:g=esac
-=7
-{16d
-32f#
-32g
-8b
-16dd
-16b
-=8
-16cc
-16ee
-8f#
-8g}
+=7	=7
+{16d	bo
+32f#L	tak
+32gJ	.
+8b	mie-
+16ddL	-siąc
+16bJ	.
+=8	=8
+16cc	pięknie
+16ee	.
+8f#	świ-
+8g}	-ci.
 !!LO:LB:g=esac
-=9
-{16a
-16b
-16a
-16g
-16a
-16dd
-=10
-16a
-16b
-16a
-16g
-16a
-16dd}
+=9	=9
+{16aL	.
+16b/J	.
+16aL	.
+16g#	.
+16a	.
+16dd/J	.
+=10	=10
+{16aL	.
+16b/J	.
+16aL	.
+16g#	.
+16a	.
+16dd/J	.
 !!LO:LB:g=esac
-=11
-{16a
-16b
-16a
-16g
-16a
-16dd
-=12
-16a
-16cc
-8a
-8g}
-==
-*-
+=11	=11
+{16aL	.
+16b/J	.
+16aL	.
+16g#	.
+16a	.
+16dd/J	.
+=12	=12
+16aL	.
+16ccJ/	.
+8aL	.
+8g}J	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Za stodołą pasła bydło,
+!!rozłozyła motowidło,
+!!pójdźcie chłopcy, motać nici,
+!!bo tak miesiąc pięknie świci.
+!!@VERSE:
+!!Pod Mosiną:
+!!2. Po cóż idziesz do gościćńca.
+!!kiedy nié masz ulubiéńca.
+!!Lepij byś sie uwaliła,
+!!kiedy nié masz kawalira.
+!!@@END: VERSES
+!!!role-singer: Narrator, Women
+!!!role-listener: Complex
+!!!singer-sex: Complex, female
 !!!ONB: Mazur
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=146 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 122} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 122}
 !!!page: 122
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-11

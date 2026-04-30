@@ -3,60 +3,73 @@
 !!!source: DWOK13
 !!!id: 13237
 !!!signature: 1323700000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16dd
-16cc#
-8dd
-8a
-=2
-16f#
-16g
-8b
-8dd
-=3
-16dd
-16cc#
-16dd
-16cc#
-16a
-16f#
-=4
-16f#
-16g
-8b
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16dd	Ty
+16cc#	go-
+8dd	-ścin-
+8a	-na
+=2	=2
+16f#	z_krzywą
+16g	.
+8b/L	wicią,
+8dd/J	.
+=3	=3
+16dd	po-
+16cc#	-życz
+16dd/L	że
+16cc#/J	.
+16aL	mi
+16f#J	.
+=4	=4
+16f#	i-
+16g	-gły
+8bL	z_nicią,
+8g}J\	.
 !!LO:LB:g=esac
-=5
-{16g#
-16a
-8cc
-8d
-=6
-16f#
-16g
-16b
-16g
-16b
-16dd
-=7
-16g#
-16a
-8cc
-8d
-=8
-16f#
-16g
-8b
-8g}
-==
-*-
+=5	=5
+{16g#	bę-
+16a	-dę
+8cc	so-
+8d	-bie
+=6	=6
+16f#	su-
+16g	-knie
+16b/L	ła-
+16g	.
+16b/	-tał,
+16dd/J	.
+=7	=7
+16g#	a
+16a	na
+8cc	wie-
+8d	-czór
+=8	=8
+16f#	bę-
+16g	-dę
+8b	ska-
+8g}\	-kał.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Ty gościnna z krzywą wicią,
+!!pożycz że mi igły z nicią,
+!!będę sobie suknie łatał,
+!!a na wieczór będę skakał.
+!!@VERSE:
+!!2. Jadłem kluski, piłem rosół,
+!!mięsa'm nie jad, adym wesół.
+!!@@END: VERSES
+!!!role-singer: Complex
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=139 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 115} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 115}
 !!!page: 115
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-09

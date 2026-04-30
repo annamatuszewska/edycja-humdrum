@@ -3,60 +3,72 @@
 !!!source: DWOK13
 !!!id: 13267
 !!!signature: 1326700002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16dd
-16dd
-8cc
-8b
-=2
-16dd
-16a
-8g
-8b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16dd	Że-
+16dd	-byś
+8cc	by-
+8b	-ła
+=2	=2
+16dd	mo-
+16a	-ja
+8g	mi-
+8b}	-ła
 !!LO:LB:g=esac
-=3
-{16dd
-16dd
-8cc
-8b
-=4
-16b
-16a
-8f#
-8g}
+=3	=3
+{16dd	spra-
+16dd	-wił-
+8cc	-bym
+8b	ci
+=4	=4
+16b/L	takie
+16aJ	.
+8f#	manto,
+8g}	.
 !!LO:LB:g=esac
-=
-{24a
-24f#
-24a
-8cc
-8b
-=5
-16dd
-16a
-8g
-8b}
+=5	=5
+*Xtuplet	*
+{24aL	i
+24f#	.
+24aJ	na
+8cc	gło-
+8b	-wę
+=6	=6
+16dd	i
+16a	na
+8g	szy-
+8b}	-ję,
 !!LO:LB:g=esac
-=
-{24d
-24f#
-24a
-8cc
-8b
-=6
-16b
-16a
-8f#
-8g}
-==
-*-
+=7	=7
+{24dL	a-
+24f#	-byś
+24aJ	.
+8cc	cho-
+8b	-dzi-
+=8	=8
+16b	-ła
+16a\	ga-
+8f#	-lan-
+8g}	-to.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Żebyś była moja miła
+!!sprawiłbym ci takie manto,
+!!i na głowę i na szyję,
+!!abyś chodziła galanto.
+!!@@END: VERSES
+!!!role-singer: Man
+!!!role-listener: Woman
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=150 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 126} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 126}
 !!!page: 126
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-12

@@ -9,29 +9,31 @@
 *B-:
 *M3/8
 =1
-{8f
-8a
-16a
-16cc
+{8fn\
+8a\
+16a\L
+16ccJ
 =2
-16b-
-16a
-16b-
+8ccq
+16b-L
+16a\J
+16b-L
 16dd
-8ff
+8ffJ
 =3
-16ee-
+8ffq
+16eeL-
 16dd
 16ee-
-16cc
-16ee-
-16gg
+16ccJ
+16ee-L
+16ggJ
 =4
-16ff
-16ee-
-16dd
+16ffL
+16ee-J
+16ddL
 16cc
-8b-}
+8b-J}
 ==
 *-
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
@@ -39,3 +41,5 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=147 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 123} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 123}
 !!!page: 123
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-11
