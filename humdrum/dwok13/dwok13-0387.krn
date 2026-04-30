@@ -3,44 +3,45 @@
 !!!source: DWOK13
 !!!id: 13387
 !!!signature: 1338700000
-**kern	**text	**text
-*clefG2	*	*
-*k[b-]	*	*
-*F:	*	*
-*M3/8	*	*
-=1	=1	=1
-{16fL	Miała	.
-16aJ	.	.
-8a	mę-	.
-8a	-ża	.
-=2	=2	=2
-16a	nie	.
-16f	ru-	.
-8a	-cha-	.
-8b-M	-ja,	.
-=3	=3	=3
-16g	wsa-	.
-16e	-dzi-	.
-8c	-ła	.
-8e	go	.
-=4	=4	=4
-16g	w_gę-	.
-16cc	-sie	.
-8a	ja-	.
-8f}	-ja	.
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16fL	Miała
+16aJ	.
+8a	mę-
+8a	-ża
+=2	=2
+16a	nie
+16f	ru-
+8a	-cha-
+8b-M	-ja,
+=3	=3
+16g	wsa-
+16e	-dzi-
+8c	-ła
+8e	go
+=4	=4
+16g	w_gę-
+16cc	-sie
+8a	ja-
+8f}	-ja
 !!LO:LB:g=esac
-=5	=5	=5
-{16c	siedźże	.
-16f	.	.
-8a	mi	.
-16aL	tam	.
-16fJ	.	.
-=6	=6	=6
-16a	nie-	.
-16f	-do-	.
-8a\	-łę-	.
-8b-	-go,	.
-=7	=7	=7
+=5	=5
+{16c	siedźże
+16f	.
+8a	mi
+16aL	tam
+16fJ	.
+=6	=6
+16a	nie-
+16f	-do-
+8a\	-łę-
+8b-	-go,
+=7	=7
+*	*^
 16g	a	v. i
 16g	ja	wy-
 8cc	znąj-	-siądź
@@ -52,8 +53,9 @@
 16eL	-ne-	gę-
 16gJ	.	.
 8f}	-go.	-go.
-==	==	==
-*-	*-	*-
+*	*v	*v
+==	==
+*-	*-
 !!@@BEGIN: VERSES
 !!Miała męża nie ruchaja,
 !!wsadziła go w gęsie jaja
@@ -71,3 +73,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-04-03
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-15

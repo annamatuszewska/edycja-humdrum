@@ -6,7 +6,7 @@
 **kern
 *clefG2
 *k[f#]
-*D:
+*G:
 *M3/4
 =1
 *Xtuplet
@@ -72,7 +72,7 @@
 8f#J
 =10
 8e\
-8c#\J
+8c\J
 4e
 12gL
 12f#
@@ -102,3 +102,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-04-04
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-15

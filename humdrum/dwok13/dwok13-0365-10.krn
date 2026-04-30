@@ -43,8 +43,8 @@
 !!oj i tylko rutka moja,
 !!da com ji nasadziła.
 !!@@END: VERSES
-!!!role-singer:Women
-!!!singer-sex:Female
+!!!role-singer: Women
+!!!singer-sex: Female
 !!!ONB: Partia wokalna; alternatywnie możliwe kodowanie w G
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -53,3 +53,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-04-01
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-15

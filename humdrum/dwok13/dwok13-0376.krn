@@ -28,7 +28,7 @@
 16eLe/	na
 16dd/	Wy-
 8b/	-go-
-8g}J	-dy,
+8g}J	-dy*),
 !!LO:LB:g=esac
 =5	=5
 {16g	prze-
@@ -108,8 +108,11 @@
 !!Rada bym ja wykupiła,
 !!bym się ludzi nie wstydziła.
 !!@@END: VERSES
+!!@@BEGIN: 
+!! @COMMENTARY:*)Wygoda=Karczma
+!!@@END:
 !!!role-singer: Narrator, Lover
-!!!role-listener: Girl
+!!!role-listener: Maiden
 !!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -118,3 +121,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-04-02
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-15
