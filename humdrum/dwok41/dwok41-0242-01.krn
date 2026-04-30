@@ -1,8 +1,8 @@
-!!!!SEGMENT: DWOK4124100002-instrumentalna.krn
+!!!!SEGMENT: DWOK4124200001-instrumentalna.krn
 !!!OTL: Instrumentalna
 !!!source: DWOK41
 !!!id: 41241
-!!!signature: 4124100002
+!!!signature: 4124200001
 **kern
 *clefG2
 *k[b-e-]
@@ -44,8 +44,7 @@
 8gL
 8b-J/
 4cc
-8dd
-8a
+4dd
 =7
 8g\L
 8b-J
@@ -67,3 +66,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-04-14
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-17
