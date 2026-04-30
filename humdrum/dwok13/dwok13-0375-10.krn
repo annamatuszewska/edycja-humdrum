@@ -3,98 +3,107 @@
 !!!source: DWOK13
 !!!id: 13375
 !!!signature: 1337500010
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16a
-8b
-8cc
-=2
-8a
-8dd
-8b
-=3
-16g
-16a
-8b
-8f#
-=4
-8g
-8f#
-8d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Szła
+16a	dziewczyna
+8b	.
+8cc	.
+=2	=2
+8a	po
+8dd	le-
+8b	-sie,
+=3	=3
+16g	ja
+16a	się
+8b	pytam:
+8f#	.
+=4	=4
+8g	co
+8f#	nie
+8d}	sie?
 !!LO:LB:g=esac
-=5
-{8cc
-8b
-16a
-16f#
-=6
-16g
-16cc
-16b
-16g
-16a
-16f#
-=7
-16g
-16cc
-8b
-16a
-16f#
-=8
-8g
-8f#
-8d}
+=5	=5
+{8cc	Ko-
+8b	-szy-
+16aL	-czy-
+16f#J	.
+=6	=6
+16g	-nę
+16cc	pod-
+16b/L	-nie-
+16gJ	.
+16aL	-sła,
+16f#J	.
+=7	=7
+16g	da-
+16cc	-ła
+8b	jab-
+16aL	-ka
+16f#J	.
+=8	=8
+8g	co
+8f#\	niesła.
+8d}\	.
 !!LO:LB:g=esac
-=9
-{16g
-16a
-8b
-8cc
-=10
-8a
-8dd
-8b
-=11
-16g
-16a
-8b
-8f#
-=12
-8g
-8f#
-8d}
+=9	=9
+{16g	Szła
+16a	dziewczyna
+8b	.
+8cc	.
+=10	=10
+8a	po
+8dd	le-
+8b	-sie,
+=11	=11
+16g	ja
+16a	się
+8b	pytam:
+8f#	.
+=12	=12
+8g	co
+8f#	nie
+8d}	sie?
 !!LO:LB:g=esac
-=13
-{8cc
-8b
-16a
-16f#
-=14
-16g
-16cc
-16b
-16g
-16a
-16f#
-=15
-16g
-16cc
-8b
-16a
-16f#
-=16
-8g
-8f#
-8g}
-==
-*-
+=13	=13
+{8cc	Ko-
+8b	-szy-
+16aL	-czy-
+16f#J	.
+=14	=14
+16g	-nę
+16cc	pod-
+16b/L	-nie-
+16gJ	.
+16aL	-sła,
+16f#J	.
+=15	=15
+16g	da-
+16cc	-ła
+8b	jab-
+16aL	-ka
+16f#J	.
+=16	=16
+8g	co
+8f#L	niesła.
+8gJ}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Szła dziewczyna po lesie,
+!!ja się pytam: co nie sie?
+!!Koszyczynę podniesła,
+!!dała jabka co niesła.
+!!@@END: VERSES
+!!!role-singer: Complex
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=183 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 159} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 159}
 !!!page: 159
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-02

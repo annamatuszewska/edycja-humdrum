@@ -3,63 +3,78 @@
 !!!source: DWOK13
 !!!id: 13379
 !!!signature: 1337900020
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16a
-16a
-8ee
-16cc
-16a
-=2
-16dd
-16b
-8g
-16g
-16e
-=3
-16a
-16a
-8ee
-16cc
-16a
-=4
-16dd
-16b
-8g
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Obertas.	!
+{16a	Cu-
+8f#q	.
+16a	-dze
+8ee	pól-
+16ccL	-ka
+16a\J	.
+=2	=2
+8cc#q	.
+16dd	o-
+16b	-ga-
+8g	-nia-
+16gL	-my
+16eJ	.
+=3	=3
+16a	da
+8f#q	.
+16a	a
+8ee	na-
+16ccL	-sze
+16a\J	.
+=4	=4
+8cc#q	.
+16dd	pta-
+16b	-ki
+8g	je-
+8g}\	-dzą
 !!LO:LB:g=esac
-=5
-{16f#
-16a
-8a
-16a
-16cc
-=6
-16g
-16b
-8b
-16b
-16dd
-=
-16f#
-16a
-8a
-24a
-24b
-24cc
-=7
-16g
-16b
-8g
-8g}
-==
-*-
+=5	=5
+{16f#	cu-
+16a	-dze
+8a	pan-
+16a\L	-ny
+16ccJ	.
+=6	=6
+16g	ca-
+16b/	-łu-
+8b/L	-je-
+16b/	-my,
+16ddJ/	.
+=7	=7
+*Xtuplet	*
+16f#	da
+16a	a
+8a	na-
+24aL	-sze
+24b/	.
+24cc/J	.
+=8	=8
+16g	w_domu
+16b/	.
+8g\	sie-
+8g}\	-dzą.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Cudze pólka oganiamy
+!!da a nasze ptaki jedzą
+!!cudze panny całujemy,
+!!da a nasze w domu siedzą.
+!!@@END: VERSES
+!!!role-singer: Group
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=185 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 161} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 161}
 !!!page: 161
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-03

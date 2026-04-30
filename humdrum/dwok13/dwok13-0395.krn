@@ -3,101 +3,114 @@
 !!!source: DWOK13
 !!!id: 13395
 !!!signature: 1339500000
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/8
-=1
-{16a
-16cc#
-8ee
-8ff#
-=2
-16b
-16cc#
-16a
-16g#
-8b
-=3
-16a
-16cc#
-8ee
-8ff#
-=4
-16b
-16cc#
-16a
-16g#
-8e}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M3/8	*
+=1	=1
+{16a\	Mo-
+16cc#	-ja
+8ee	żo-
+8ff#	-na
+=2	=2
+16b	kie-
+16cc#	-cki
+16aL	ni-
+16g#J	.
+8b	-ma,
+=3	=3
+16a\	a-
+16cc#	-le-ć
+8ee	o-
+8ff#	-na
+=4	=4
+16b	bę-
+16cc#	-dzie
+16aL	mia-
+16g#J	.
+8e}	-ła,
 !!LO:LB:g=esac
-=5
-{16a
-16cc#
-16ee
-16dd
-8ff#
-=6
-16b
-16cc#
-16a
-16g#
-8b
-=7
-16a
-16cc#
-16ee
-16dd
-8ff#
-=8
-16b
-16cc#
-16a
-16g#
-8e}
+=5	=5
+{16a\	bo
+16cc#	na-
+16ee/L	-przę-
+16dd/J	.
+8ff#	-dła,
+=6	=6
+16b	na-
+16cc#	-mo-
+16aL	-ta-
+16g#J	.
+8b	-ła,
+=7	=7
+16a\	do
+16cc#	po-
+16ee/L	-to-
+16dd/J	.
+8ff#	-ku
+=8	=8
+16b	przę-
+16cc#	-dzę
+16aL	da-
+16g#J	.
+8e}	-ła.
 !!LO:LB:g=esac
-=9
-{4f#
-8e
-=10
-16a
-16cc#
-8a
-8b
-=11
-8f#
-8f#
-8e
-=12
-16b
-16cc#
-16a
-16g#
-8e}
+=9	=9
+{4f#	Tań-
+8e	-cu-
+=10	=10
+16a\	-je
+16cc#	cie-
+8a\	-szy
+8b	się,
+=11	=11
+8f#	bę-
+8f#	-dzie
+8e\	mia-
+=12	=12
+16b	-ła
+16cc#	kie-
+16aL	-cu-
+16g#J	.
+8e}	-się.
 !!LO:LB:g=esac
-=13
-{4f#
-8e
-=14
-16a
-16cc#
-8a
-8b
-=15
-8f#
-8f#
-16e
-16g#
-=16
-16b
-16cc#
-16a
-16g#
-8e}
-==
-*-
+=13	=13
+{4f#	Tań-
+8e	-cu-
+=14	=14
+16a\	-je
+16cc#	cie-
+8a\	-szy
+8b	się,
+=15	=15
+8f#	bę-
+8f#	-dzie
+16eL	mia-
+16g#J	.
+=16	=16
+16b	-ła
+16cc#	kie-
+16aL	-cu-
+16g#J	.
+8e}	-się.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Moja żona kiecki nima,
+!!aleć ona będzie miała,
+!!bo naprzędła, namotała,
+!!do potoku przędzę dała.
+!!Tańcuje cieszy się,
+!!będzie miała kiecusię.
+!!@@END: VERSES
+!!!role-singer: Husband
+!!!role-listener: Complex
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=189 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 165} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 165}
 !!!page: 165
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-03

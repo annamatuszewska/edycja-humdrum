@@ -3,62 +3,72 @@
 !!!source: DWOK13
 !!!id: 13391
 !!!signature: 1339100010
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16a
-16cc
-8ee
-16dd#
-16b
-=2
-16a
-16cc
-8ee
-8g#
-=3
-16a
-16cc
-8ee
-16dd
-16b
-=4
-16g#
-16g#
-8cc
-8a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Odsibka.	!
+{16a\	Mia-
+16cc	-ła
+8ee	ba-
+16dd#L	-ba
+16bJ	.
+=2	=2
+16a\	sta-
+16cc	-ro-
+8ee	-wi-
+8g#	-nę
+=3	=3
+16a\	wsa-
+16cc	-dzi-
+8ee	-ła
+16ddnL	go
+16bJ	.
+=4	=4
+16g#	w_miech
+16g#	da
+8cc	i
+8a}	miech,
 !!LO:LB:g=esac
-=5
-{16a
-16cc#
-8cc#
-16dd
-16b
-=6
-16a
-16cc
-8ee
-16b
-16g#
-=7
-16a
-16cc#
-8cc#
-16dd
-16b
-=8
-16g#
-16g#
-8cc
-8a}
-==
-*-
+=5	=5
+{16a	kar-
+16cc#	-mi-
+8cc#	-ła
+16ddL	go
+16bJ	.
+=6	=6
+16a\	su-
+16ccn	-chą
+8ee	rze-
+16b/L	-pą
+16g#J	.
+=7	=7
+16a	że-
+16cc#	-by
+8cc#	prę-
+16ddL	-dzy
+16bJ	.
+=8	=8
+16g#	zdech
+16g#	da
+8ccn	i
+8a}	zdech.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Miała baba starowinę
+!!wsadziła go w miech da i miech,
+!!karmiła go suchą rzepą
+!!żeby prędzy zdech da i zdech.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!ONB: Odsibka
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=188 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 164} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 164}
 !!!page: 164
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-03

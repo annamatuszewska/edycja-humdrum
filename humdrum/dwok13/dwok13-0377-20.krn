@@ -9,54 +9,57 @@
 *g:
 *M3/8
 =1
-{16d
-16d
-8f#
+{16dL
+16dJ
+8f#L
 16g
-16b-
+16b-J/
 =
-24a
+*Xtuplet
+24a\L
 24cc#
-24dd
-8g
-8f#
+24ddJ
+8g\L
+8f#\J
 =2
-16d
-16d
-8f#
+16d\L
+16d\J
+8f#L
 16g
-16b-
+16b-J/
 =3
-16d
+!LO:TX:a:t=Irregular beaming
+16dL
 16cc
-8b-
-16g
-16f#}
+8b-J
+16gL
+16f#J}
 !!LO:LB:g=esac
 =4
-{16d
-16d
-8f#
+{16dL
+16dJ
+8f#L
 16g
-16b-
+16b-/J
 =
-24a
+24a\L
 24cc#
-24dd
-8ee
-8a
+24ddJ
+8ee-/L
+8aJ
 =5
-16d
-16d
-8f#
+16d\L
+16d\J
+8f#L
 16g
-16b-
+16b-J/
 =6
-16d
+!LO:TX:a:t=Irregular beaming
+16dL
 16cc
-8b-
-16g
-16f#}
+8b-J
+16gL
+16f#J}
 ==
 *-
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
@@ -64,3 +67,5 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=184 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 160} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 160}
 !!!page: 160
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-02

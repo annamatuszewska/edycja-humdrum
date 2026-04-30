@@ -3,38 +3,53 @@
 !!!source: DWOK13
 !!!id: 13365
 !!!signature: 1336500010
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16cc
-16cc
-8dd
-8gg
-=2
-16ee
-16ee
-8dd
-8b
-=3
-16cc
-16cc
-16ee
-16dd
-16cc
-16b
-=4
-16a
-16a
-8.g
-16b}
-==
-*-
+**kern	**text	**text
+*clefG2	*	*
+*k[]	*	*
+*C:	*	*
+*M3/8	*	*
+=1	=1	=1
+{16cc	Tę-	ko-
+16cc	-dy	-ło
+8dd/L	nie	me-
+8gg/J	tę-	-go
+=2	=2	=2
+16ee/L	-dy	ogró-
+16ee/J	nie	.
+8ddL/	tędy,	-deczka
+8b/J	.	.
+=3	=3	=3
+16cc	tę-	ko-
+16cc	-dy	-le
+16eeL	nie	le-
+16ddJ	.	.
+16ccL	tę-	-wen-
+16bJ	.	.
+=4	=4	=4
+16a	-dy	-dy,
+16a	nie	le-
+8.g	tę-	-wendy.
+16b}	-dy.	.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. Tędy nie tędy nie tędy,
+!!tędy nie tędy nie tędy.
+!!koło mego ogródeczka
+!!kole lewendy, lewendy.
+!!@VERSE:
+!!2. Oj nie mój ogrodeczek,
+!!da bom go nie grodziła;
+!!oj i tylko rutka moja,
+!!da com ji nasadziła.
+!!@@END: VERSES
+!!!role-singer:Women
+!!!singer-sex:Female
 !!!ONB: Partia wokalna; alternatywnie możliwe kodowanie w G
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=180 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 156} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 156}
 !!!page: 156
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-01

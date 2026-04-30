@@ -3,69 +3,81 @@
 !!!source: DWOK13
 !!!id: 13366
 !!!signature: 1336600002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16g
-8a
-16b
-16cc
-=
-24a
-24cc
-24ee
-8ff#
-16dd
-16b
-=2
-16g
-16g
-8a
-16b
-16cc
-=3
-16a
-16a
-8cc
-8b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Ta-
+16g	-kie-
+8a	-go
+16bL	my
+16ccJ	.
+=2	=2
+*Xtuplet	*
+24aL	Mać-
+24cc/	.
+24ee/J	-ka
+8ff#	da-
+16ddL/	-li,
+16b/J	.
+=3	=3
+16g	co
+16g	mnie
+8a	jé-
+16bL	-no
+16ccJ	.
+=4	=4
+16a	cią-
+16a	-gle
+8cc	wa-
+8b}	-li.
 !!LO:LB:g=esac
-=
-{8a
-24g
-24f#
-24d
-16a
-16ee
-=4
-16dd
-16cc#
-8dd
-16cc
-16a
-=
-24d
-24e
-24f#
-24g
-24f#
-24d
-24ee
-24ff#
-24ee
-=5
-16dd
-16cc#
-8dd
-16cc
-16a}
-==
-*-
+=5	=5
+{8a	We
+24gL	dnie
+24f#	.
+24dJ	.
+16a\	wa-
+16ee	-li
+=6	=6
+8eeq	.
+16dd	w_no-
+16cc#	-cy
+8dd/L	wa-
+16cc#/	.
+16aJ	-li,
+=7	=7
+24dL	nie
+24e	.
+24f#J	wiem
+24gL	co
+24f#	.
+24dJ	.
+24ee/L	to
+24ff#/	.
+24ee/J	.
+=8	=8
+16dd	bę-
+16cc#	-dzie
+8dd/L	da-
+16cc#/	-léj.
+16aJ}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Takiego my Maćka dali,
+!!co mnie jéno ciągle wali.
+!!We dnie wali w nocy wali,
+!!nie wiem co to będzie daléj.
+!!@@END: VERSES
+!!!role-singer: Mistress
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=180 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 156} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 156}
 !!!page: 156
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-01
