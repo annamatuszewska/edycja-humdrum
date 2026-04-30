@@ -59,7 +59,7 @@
 16cc	.
 4ee	żon,
 =11	=11
-(8ggq	.
+(>8ggq	.
 8dd)	kiej
 8dd	mi
 16dd	dziewcze
@@ -69,7 +69,8 @@
 8dd	Bóg
 8cc}	wzion.
 ==	==
-*- 	*-
+*-	*-
+!!!RDF**kern: >= above
 !!!role-singer: Widower, Maiden
 !!!role-listener: Widower
 !!!singer-sex: male, female
@@ -99,3 +100,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

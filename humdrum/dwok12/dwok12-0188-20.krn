@@ -9,43 +9,43 @@
 *G:
 *M3/8
 =1
-{16d
+{16dL
 16f#
-8g
-16a
-16f#
+8gJ
+16aL
+16f#J
 =2
-16d
+16dL
 16f#
-8g
-16a
-16f#
+8gJ
+16aL
+16f#J
 =3
-16a
-16cc
-8b
-8g
+16a\L
+16ccJ
+8bL
+8gJ
 =4
 8f#
 4d}
 !!LO:LB:g=esac
 =5
-{16d
+{16dL
 16f#
-8g
-16a
-16f#
+8gJ
+16aL
+16f#J
 =6
-16d
+16dL
 16f#
-8g
-16a
-16f#
+8gJ
+16aL
+16f#J
 =7
-16a
-16cc
-8b
-8g
+16a\L
+16ccJ
+8b/L
+8gJ
 =8
 8f#
 4g}
@@ -55,4 +55,8 @@
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=111 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 95-96} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 95-96}
 !!!page: 95-96
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

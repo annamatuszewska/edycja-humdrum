@@ -71,10 +71,10 @@
 4f}	-wie.
 8r	.
 ==	==
-*- 	*-
-!!!role-singer: Farmhand
-!!!role-listener: Mother
-!!!singer-sex: male
+*-	*-
+!!!role-singer: Farmhand, Mistress
+!!!role-listener: Mistress, Farmhand
+!!!singer-sex: male, female
 !!@@BEGIN: VERSES
 !!@VERSE:
 !!1. Cztery'm lata wierniem służył
@@ -132,3 +132,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

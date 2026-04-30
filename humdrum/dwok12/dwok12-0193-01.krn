@@ -34,7 +34,7 @@
 8d}	.
 !!LO:LB:g=esac
 =5	=5
-{8f#	a
+{8f#	"a
 8a	ty
 4d	moją
 4d	.
@@ -51,11 +51,11 @@
 =8	=8
 (16aqL	.
 16bqJ)	.
-8cc	uczynić.
+8cc	uczynić."
 8a	.
 2g}	.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Bachelor, Maiden
 !!!role-listener: Maiden, Bachelor
 !!!singer-sex: male, female
@@ -108,3 +108,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

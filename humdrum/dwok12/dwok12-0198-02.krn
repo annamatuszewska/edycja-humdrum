@@ -8,7 +8,6 @@
 *k[]	*
 *C:	*
 *M3/8	*
-*Xtuplet	*
 =1	=1
 {16a	Oj
 16a	ziele-
@@ -47,7 +46,8 @@
 16ddJ/	.
 16ff	dziewczę
 16aa	.
-=	=
+=8	=8
+*Xtuplet	*
 16ggL	Pan
 16ggJ/	.
 8ff	Bóg
@@ -55,28 +55,29 @@
 24dd	.
 24ccJ/}	.
 !!LO:LB:g=esac
-=8	=8
+=9	=9
 {16g	hej
 16r	.
-4b	hej
-=9	=9
+4b/	hej
+=10	=10
 16cc/	będzie
 16cc	.
 4ee	żon,
-=10	=10
-(8ggq	.
+=11	=11
+(>8ggq	.
 8dd)	kiej
 16ddL	mi
 16bJ/	.
 16dd	dziewcze
 16ff	.
-=11	=11
+=12	=12
 16eeL	Pan
 16bJ/	.
 8dd	Bóg
 8cc}	wzion.
 ==	==
-*- 	*-
+*-	*-
+!!!RDF**kern: >= above
 !!!role-singer: Widower, Maiden
 !!!role-listener: Widower
 !!!singer-sex: male, female
@@ -106,3 +107,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

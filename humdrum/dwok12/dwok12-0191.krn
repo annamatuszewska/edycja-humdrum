@@ -49,21 +49,17 @@
 !!!singer-sex: female
 !!@@BEGIN: VERSES
 !!@VERSE:
-!!1. Objechałam cztery miasta,
-!!objechałam cztery miasta
-!!piątą wieś da dana, piątą wieś.
+!!1. Objechałam cztery miasta,(:)
+!!piątą wieś, (:)
 !!@VERSE:
-!!2. I nie mogłam Jasineczka,
-!!i nie mogłam Jasineczka
-!!swego znajść da dana, swego znajść.
+!!2. I nie mogłam Jasineczka(:)
+!!swego znajść(:).
 !!@VERSE:
-!!3. I nalazłam go w gościńcu,
-!!i nalazłam go w gościńcu,
-!!jak się pas(ł) da dana, jak się pas(ł).
+!!3. I nálázłam go w gościńcu,
+!!jak się pas(ł);
 !!@VERSE:
 !!4. Zjadł maślanki — trzy kierzenki,
-!!zjadł maślanki — trzy kierzenki,
-!!sto kiełbas da dana, sto kiełbas.
+!!sto kiełbas.
 !!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -72,3 +68,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13
