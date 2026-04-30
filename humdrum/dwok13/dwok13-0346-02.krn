@@ -3,81 +3,83 @@
 !!!source: DWOK13
 !!!id: 13346
 !!!signature: 1334600002
-**kern	**text	**text
-*clefG2	*	*
-*k[f#c#g#d#]	*	*
-*E:	*	*
-*M3/8	*	*
-=1	=1	=1
-!LO:TX:a:i:t=(E dur lub E moll).	!	!
-{(8g#q	.	.
-8b)	Kie-	.
-8ee	-dy-	.
-(8dd#q	.	.
-8dd#)	-by	.
-=2	=2	=2
-8.ee	kie-	.
-16cc#	-dy-	.
-8cc#	-by	.
-=3	=3	=3
-(8g#q	.	.
-8b)	z_Ka-	.
-16eeL	-siń-	.
-16dd#J	.	.
-16bL	-ką	.
-16ccJ#	.	.
-=4	=4	=4
+**kern	**text
+*clefG2	*
+*k[f#c#g#d#]	*
+*E:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:i:t=(E dur lub E moll).	!
+{(8g#q	.
+8b)	Kie-
+8ee	-dy-
+(8dd#q	.
+8dd#)	-by
+=2	=2
+8.ee	kie-
+16cc#	-dy-
+8cc#	-by
+=3	=3
+(8g#q	.
+8b)	z_Ka-
+16eeL	-siń-
+16dd#J	.
+16bL	-ką
+16ccJ#	.
+=4	=4
+*	*^
 16aL	na	(v.
 16a	.	na
 16a	.	.
 16g#	ry-	grzy-
 8b/J}	-by	-by)
+*	*v	*v
 !!LO:LB:g=esac
-=5	=5	=5
-{16e	oj	.
-16g#	kie-	.
-8b	-by	.
-8g#	chcia-	.
-=6	=6	=6
-16b	-ła	.
-16cc#	po-	.
-16aL	-ga-	.
-16g#J	.	.
-8e	-dać	.
-=7	=7	=7
-16b	da	.
-16cc#	po-	.
-16aL	-ga-	.
-16g#J	.	.
-8e	-dać,	.
-=8	=8	=8
-16b	da	.
-16cc#	po-	.
-16aL	-ga-	.
-16g#J	.	.
-8e}	-dać,	.
+=5	=5
+{16e	oj
+16g#	kie-
+8b	-by
+8g#	chcia-
+=6	=6
+16b	-ła
+16cc#	po-
+16aL	-ga-
+16g#J	.
+8e	-dać
+=7	=7
+16b	da
+16cc#	po-
+16aL	-ga-
+16g#J	.
+8e	-dać,
+=8	=8
+16b	da
+16cc#	po-
+16aL	-ga-
+16g#J	.
+8e}	-dać,
 !!LO:LB:g=esac
-=9	=9	=9
-{16b/L	oj	.
-16g#J	.	.
-8b	kie-	.
-16eeL	-by	.
-16dd#J	.	.
-=10	=10	=10
-16bL	chcia-	.
-16cc#J	.	.
-16aL	.	.
-16a	-ła	.
-16a	.	.
-16cc#/J	.	.
-=11	=11	=11
-16aL	gę-	.
-16a	.	.
-16a	.	.
-16g#	-by	.
-8b/J}	dać.	.
-==	==	==
-*-	*-	*-
+=9	=9
+{16b/L	oj
+16g#J	.
+8b	kie-
+16eeL	-by
+16dd#J	.
+=10	=10
+16bL	chcia-
+16cc#J	.
+16aL	.
+16a	-ła
+16a	.
+16cc#/J	.
+=11	=11
+16aL	gę-
+16a	.
+16a	.
+16g#	-by
+8b/J}	dać.
+==	==
+*-	*-
 !!@@BEGIN: VERSES
 !!Kiedyby kiedyby
 !!z Kasińką na ryby (v. na grzyby)
@@ -94,3 +96,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-26

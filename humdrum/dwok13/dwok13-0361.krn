@@ -6,7 +6,7 @@
 **kern
 *clefG2
 *k[]
-*G:
+*C:
 *M3/8
 =1
 *Xtuplet
@@ -39,10 +39,8 @@
 =5
 {16ccL
 16ccJ
-8bL
-24g\
-24a\
-24bJ
+8b/L
+8ddJ
 =6
 16ccL
 16a\J
@@ -120,3 +118,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-26

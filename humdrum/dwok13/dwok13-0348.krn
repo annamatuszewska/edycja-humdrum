@@ -10,8 +10,8 @@
 *M3/4	*	*
 =1	=1	=1
 !LO:TX:a:t=Przy weselu.	!	!
-{8b	Już	 Gdzie
-8dd	i-	ja	
+{8b	Już	Gdzie
+8dd	i-	ja
 4b	-dę	się
 8ddL	do	dzie-
 8ff#J	.	.
@@ -66,7 +66,6 @@
 !!skryję ja się pod fartuszek
 !!gdzie twoje ziele da ziele.
 !!@@END: VERSES
-!!!role-singer: Complex
 !!!role-listener: Friend
 !!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
@@ -76,3 +75,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-26
