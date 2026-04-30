@@ -3,60 +3,69 @@
 !!!source: DWOK41
 !!!id: 41363
 !!!signature: 4136300000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{8b
-8dd
-4ee
-8cc
-8a
-=2
-8cc
-8ee
-4dd
-4b
-=3
-8b
-8dd
-4ee
-8cc
-8a
-=4
-8b
-8a
-4g#
-4e}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+{8b	Da,
+8dd	wy-
+4ee	-so-
+8cc	-ki
+8a	las,
+=2	=2
+8cc	nis-
+8ee	-kie
+4dd	po-
+4b	-le,
+=3	=3
+8b	da,
+8dd	ja-
+4ee	-da-
+8cc	-ły
+8a	tam
+=4	=4
+8b	ko-
+8a	-nie
+4g#	mo-
+4e}	-je,
 !!LO:LB:g=esac
-=5
-{4e
-8g#
-8a
-8cc
-8a
-=6
-8cc
-8ee
-4dd
-4b
-=7
-4e
-8g#
-8a
-8cc
-8a
-=8
-8b
-8a
-4g#
-4e}
-==
-*-
+=5	=5
+{4e	[da],
+8g#	ja-
+8a	-da-
+8cc	-ły
+8a	tam
+=6	=6
+8cc	we
+8ee	dnie,
+4dd	w_no-
+4b	-cy,
+=7	=7
+4e	da,
+8g#	pa-
+8a	-sa-
+8cc	-ły
+8a	je
+=8	=8
+8b	mo-
+8a	-dre
+4g#	o-
+4e}	-czy.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Da, wysoki las, niskie pole,
+!!da, jadały tam konie moje.
+!![da], jadały tam we dnie, w nocy,
+!!da, pasały je modre oczy.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=285 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 206} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 206}
 !!!page: 206
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-30

@@ -3,54 +3,64 @@
 !!!source: DWOK41
 !!!id: 41360
 !!!signature: 4136000000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8dd
-8dd
-4dd
-4ff
-=2
-8ee
-8dd
-4.ee
-8g
-=3
-8b
-8cc
-4dd
-4ff
-=4
-8ee
-8dd
-4.ee
-8g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8dd	O
+8dd	dla-
+4dd	-bo-
+4ff	-ga,
+=2	=2
+8ee	co
+8dd	ta-
+4.ee	-kie-
+8g	-go,
+=3	=3
+8b	co
+8cc	nie
+4dd	wi-
+4ff	-dać
+=4	=4
+8ee	Ja-
+8dd	-sia
+4.ee	me-
+8g}	-go,
 !!LO:LB:g=esac
-=5
-{8g
-8b
-2dd
-=6
-8cc
-8ee
-4gg
-4g
-=7
-8g
-8b
-4dd
-4ff
-=8
-8ee
-8dd
-2ee}
-==
-*-
+=5	=5
+{8g	czy
+8b	wo-
+2dd	-da
+=6	=6
+8cc	za-
+8ee	-to-
+4gg	-pi-
+4g	-ła
+=7	=7
+8g	czy
+8b	in-
+4dd	-na
+4ff	od-
+=8	=8
+8ee	-mó-
+8dd	-wi-
+2ee}	-ła?
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!O dlaboga, co takiego,
+!!co nie widać Jasia mego,
+!!czy woda zatopila.
+!!czy inna odmówiła?
+!!@@END: VERSES
+!!!role-singer: Girl
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=283 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 204} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 204}
 !!!page: 204
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-30

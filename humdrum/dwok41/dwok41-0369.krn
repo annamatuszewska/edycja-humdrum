@@ -3,56 +3,70 @@
 !!!source: DWOK41
 !!!id: 41369
 !!!signature: 4136900000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8cc
-8cc
-4.dd
-8a
-=2
-8cc
-8cc
-4b
-4dd
-=3
-8cc
-8cc
-4.dd
-8a
-=4
-8cc
-8cc
-4b
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8cc	Cię-
+8cc	-żko
+4.dd	mi
+8a	też
+=2	=2
+8cc	żal,
+(8ddq	.
+8cc)	[da,
+4b	i
+4dd	żal],
+=3	=3
+8cc	cięż-
+8cc	-ko
+4.dd	u-
+8a	-bo-
+=4	=4
+8cc	-giej
+(8ddq	.
+8cc)	sie-
+4b	-ro-
+4g}	-cie,
 !!LO:LB:g=esac
-=5
-{8a
-8a
-4.f#
-8g
-=6
-8cc
-8cc
-4b
-4dd
-=7
-8a
-8a
-4.f#
-8g
-=8
-8cc
-8cc
-4b
-4g}
-==
-*-
+=5	=5
+{8a	da,
+8a	i
+4.f#	u-
+8g	-tra-
+=6	=6
+8cc	-ci-
+(8ddq	.
+8cc)	-łam
+4b	wia-
+4dd	-nek,
+=7	=7
+8a	da,
+8a	i
+4.f#	na
+8g	po-
+=8	=8
+8cc	-chy-
+(8ddq	.
+8cc)	-łym
+4b	pło-
+4g}	-cie.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Ciężko mi też żal, [da, i żal],
+!!ciężko ubogiej sierocie,
+!!da, i utraciłam wianek,
+!!da, i na pochyłym płocie.
+!!@@END: VERSES
+!!!role-singer: Orphan
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=287 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 208} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 208}
 !!!page: 208
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-30

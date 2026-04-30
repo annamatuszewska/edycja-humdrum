@@ -3,80 +3,98 @@
 !!!source: DWOK41
 !!!id: 41338
 !!!signature: 4133800000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8g
-8g
-4cc
-4cc
-=2
-8cc
-8cc
-4ee
-4gg
-=3
-8gg
-16ff
-16ee
-4dd
-4dd
-=4
-4ff
-2gg}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8g	Pa-
+8g	-sła,
+4cc	pa-
+4cc	-sła
+=2	=2
+8cc	pa-
+8cc	-stu-
+4ee	-re-
+4gg	-czka
+=3	=3
+8gg	w_po-
+16ffL	-lu
+16eeJ	.
+4dd	ja-
+4dd	-glą-
+=4	=4
+4ff	-te-
+2gg}	-czka,
 !!LO:LB:g=esac
-=5
-{8g
-8g
-4cc
-4cc
-=6
-8cc
-8cc
-4ee
-4gg
-=7
-8gg
-16ff
-16ee
-4dd
-4dd
-=8
-4ee
-2cc}
+=5	=5
+{8g	oj,
+8g	pa-
+4cc	-stu-
+4cc	-rek,
+=6	=6
+8cc	[oj],
+8cc	ją
+4ee	go-
+4gg	-ni,
+=7	=7
+8gg	o-
+16ffL	-na
+16eeJ	.
+4dd	mu
+4dd	się
+=8	=8
+4ee	chro-
+2cc}	-ni.
 !!LO:LB:g=esac
-=9
-{2ff
-4ee
-=10
-4ee
-2dd
-=11
-2b
-4cc
-=12
-4ee
-2gg}
+=9	=9
+{2ff	Cze-
+4ee	-kaj,
+=10	=10
+4ee	cze-
+2dd	-kaj,
+=11	=11
+2b	jak
+4cc	cię
+=12	=12
+4ee	pro-
+2gg}	-szę,
 !!LO:LB:g=esac
-=13
-{2ff
-4ee
-=14
-4ee
-2dd
-=15
-2b
-4cc
-=16
-4dd
-2cc}
-==
-*-
+=13	=13
+{2ff	a-
+4ee	-by
+=14	=14
+4ee	trzo-
+2dd	-dę
+=15	=15
+2b	z_po-
+4cc	-la
+=16	=16
+4dd	spło-
+2cc}	-szę.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Pasła, pasła pastureczka
+!!w polu jagląteczka,
+!!oj, pasturek, [oj], ją goni,
+!!ona mu się chroni.
+!!Czekaj, czekaj, jak cię proszę,
+!!aby trzodę z pola spłoszę.
+!!@VERSE:
+!!2. Oj, moja pastureczko,
+!!pomoge ci trzody,
+!!ale mi musisz dać
+!!gębuliny wprzódy.
+!!@@END: VERSES
+!!!role-singer: Narrator, Lover
+!!!role-listener: Herder
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=276 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 197} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 197}
 !!!page: 197
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-30

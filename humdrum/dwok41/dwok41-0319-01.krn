@@ -3,56 +3,67 @@
 !!!source: DWOK41
 !!!id: 41319
 !!!signature: 4131900001
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M3/4
-=1
-{8a
-8cc#
-4.dd
-8b
-=2
-8a
-8cc#
-4.dd
-8b
-=3
-8a
-8cc#
-4.dd
-8b
-=4
-8a
-8f#
-4g
-4e}
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M3/4	*
+=1	=1
+{8a	Le-
+8cc#	-ży
+4.dd	sta-
+8b	-ry
+=2	=2
+8a	na
+8cc#	pie-
+4.dd	-rzy-
+8b	-nie,
+=3	=3
+8a	trzą-
+8cc#	-sa
+4.dd	bro-
+8b	-dą
+=4	=4
+8a	ku
+8f#	dziewczynie,
+4g	.
+4e}	.
 !!LO:LB:g=esac
-=5
-{8d
-8f#
-4.a
-8g
-=6
-8e
-8g
-4a
-4g
-=7
-8d
-8f#
-4.a
-8g
-=8
-8e
-8c#
-4e
-4d}
-==
-*-
+=5	=5
+{8d	A
+8f#	mój
+4.aM	sta-
+8g	-ry,
+=6	=6
+8e	nie
+8g	trząś
+4b	bro-
+4a	-dą.
+=7	=7
+8d	nie
+8f#	bę-
+4.a	-dę
+8g	ja
+=8	=8
+8e	miesz-
+8c#	-kać
+4e	z_to-
+4d}	-bą.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Leży stary na pierzynie,
+!!trząsa brodą ku dziewczynie,
+!!A mój stary, nie trząś brodą.
+!!nie będę ja mieszkać z tobą.
+!!@@END: VERSES
+!!!role-singer: Narrator, Woman
+!!!role-listener: Man
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=269 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 190} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 190}
 !!!page: 190
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-27

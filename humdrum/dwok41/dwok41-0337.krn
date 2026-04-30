@@ -3,44 +3,59 @@
 !!!source: DWOK41
 !!!id: 41337
 !!!signature: 4133700000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{2dd
-4cc#
-=2
-4dd
-2a
-=3
-2b
-4cc
-=4
-4dd
-2a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{2dd	Spa-
+4cc#	-dła
+=2	=2
+4dd	z_wiś-
+2a	-ni,
+=3	=3
+2b	wi-
+4cc	-dzie-
+=4	=4
+4dd	-liś-
+2a}	-my,
 !!LO:LB:g=esac
-=5
-{8g
-8a
-4b
-4g
-=6
-8cc
-8b
-4a
-4g
-=7
-2a
-4g
-=8
-4a
-2d}
-==
-*-
+=5	=5
+{8g	i
+8a	roz-
+4b	-dar-
+4g	-ła
+=6	=6
+8cc	su-
+8b	-kie-
+4a	-ne-
+4g	-czkę,
+=7	=7
+2a	zszy-
+4g	-wa-
+=8	=8
+4a	-liś-
+2d}	-my.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Spadła z wiśni,
+!!widzieliśmy,
+!!i rozdarła sukieneczkę,
+!!zszywaliśmy.
+!!@VERSE:
+!!2. Jeden trzymał,
+!!drugi spruwał,
+!!a ten trzeci, a ten szelma,
+!!porozdzierał.
+!!@@END: VERSES
+!!!role-singer: Men's group
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=276 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 197} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 197}
 !!!page: 197
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-30

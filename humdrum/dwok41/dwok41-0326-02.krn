@@ -1,66 +1,76 @@
-!!!!SEGMENT: DWOK4132600002-dziwna_dziwna_dziwna_ja_matke_mam.krn
+!!!!SEGMENT: DWOK4132600001-dziwna_dziwna_dziwna_ja_matke_mam.krn
 !!!OTL: Dziwną, dziwną, dziwną ja matkę mam
 !!!source: DWOK41
 !!!id: 41326
 !!!signature: 4132600002
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{4g
-2cc
-=2
-8g
-8cc
-2cc
-=3
-8dd
-8ee
-8ff
-8ee
-8gg
-8ff
-=4
-8ee
-8dd
-2cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{4g	Dzi-
+2cc	-wną,
+=2	=2
+8g\L	dzi-
+8ccJ	.
+2cc	-wną,
+=3	=3
+8dd	dzi-
+8ee	-wną
+8ffL	ja
+8eeJ	.
+8ggL	ma-
+8ffJ	.
+=4	=4
+8eeL	-tkę
+8ddJ	.
+2cc}	mam,
 !!LO:LB:g=esac
-=5
-{8dd
-8ee
-8ff
-8ee
-4dd
-=6
-4ff
-2ee
-=7
-8gg
-8ff
-8ee
-8ee
-4ee
-=8
-4dd
-2g}
+=5	=5
+{8ddL	co
+8eeJ	.
+8ffL	o-
+8eeJ	.
+4dd	-na
+=6	=6
+(4ff	mnie
+2ee)	.
+=7	=7
+8gg	nie
+8ff	mo-
+8ee	-że
+8ee	wy-
+4ee	-ro-
+=8	=8
+4dd	-zu-
+2g}	-mieć,
 !!LO:LB:g=esac
-=
-{12g
-12b
-12cc
-8ee
-8dd
-4b
-=9
-8b
-8b
-2cc}
-==
-*-
+=9	=9
+{12g\L	cze-
+12b	.
+12ccJ	.
+8eeL	-go
+8ddJ	.
+4b	ja
+=10	=10
+8bL	nie
+8bJ	.
+2cc}	mam.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Dziwną, dziwną, dziwną ja matkę mam,
+!!co ona mnie nie może wyrozumieć,
+!!czego ja nie mam.
+!!@@END: VERSES
+!!!role-singer: Daughter
+!!!role-listener: Complex
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=272 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 193} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 193}
 !!!page: 193
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-27
