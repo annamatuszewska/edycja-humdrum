@@ -3,88 +3,102 @@
 !!!source: DWOK13
 !!!id: 13412
 !!!signature: 1341200000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8b
-8cc
-8dd
-8dd
-=2
-8dd
-8dd
-8.ee
-16dd
-=3
-8dd
-8dd
-8.cc
-16a
-=4
-8cc
-4b}
-8r
+**kern	**dynam	**text
+*clefG2	*	*
+*k[f#]	*	*
+*G:	*	*
+*M2/4	*	*
+=1	=1	=1
+{8b	.	Był
+8cc	.	tu
+8dd	.	Mo-
+8dd	.	-siek
+=2	=2	=2
+8dd	.	na
+8dd	.	ha-
+8.ee	.	-rę-
+16dd	.	-dzie,
+=3	=3	=3
+8dd	.	miał
+8dd	.	dziateczki
+8.cc	.	.
+16a\	.	.
+=4	=4	=4
+8cc	.	pá-
+4b}	.	-rę,
+8r	.	.
 !!LO:LB:g=esac
-=5
-{8b
-8cc
-8dd
-8dd
-=6
-8dd
-8dd
-8.ee
-16dd
-=7
-8dd
-8dd
-8.cc
-16a
-=8
-8g
-4g}
-8r
+=5	=5	=5
+{8b	.	cio-
+8cc	.	-rke
+8dd	.	sta-
+8dd	.	-re,
+=6	=6	=6
+8dd	.	ba-
+8dd	.	-bkę
+8.ee	.	stá-
+16dd	.	-re,
+=7	=7	=7
+8dd	.	i
+8dd	.	poć-
+8.cc	.	-ci-
+16a\	.	-we
+=8	=8	=8
+8g	.	Sá-
+4g}	.	-rę.
+8r	.	.
 !!LO:LB:g=esac
-=9
-{4dd
-4b
-=10
-8g
-8g
-4d
-=11
-8cc
-8cc
-8a
-8a
-=12
-8cc
-4b}
-8r
+=9	=9	=9
+{4dd	.	Aj
+4b	.	waj
+=10	=10	=10
+8g	.	bim
+8g	.	bim
+4d	.	bum,
+=11	=11	=11
+8cc	.	i
+8cc	.	poć-
+8a	.	ci-
+8a	.	-wę
+=12	=12	=12
+8cc	.	So-
+4b}	.	-rę,
+8r	.	.
 !!LO:LB:g=esac
-=13
-{4ee
-4ff#
-=14
-8gg
-8gg
-4r
-=15
-8g
-8g
-4r
-=16
-8G
-8G}
-4r
-==
-*-
+=13	=13	=13
+{4ee	.	bim
+4ff#	.	bam
+=14	=14	=14
+8gg	.	bum
+8gg	.	bum,
+4r;	.	.
+=15	=15	=15
+8g\	.	bum
+8g\	.	bum,
+4r;	.	.
+=16	=16	=16
+8G	p	bum
+!LO:TX:a:t=Echo.	!	!
+8G}	.	bum.
+4r;	.	.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!Był tu Mosiek na harędzie,
+!!miał dziateczki párę,
+!!ciorke stare, babke stáre,
+!!i poćciwe Sárę.
+!!Aj waj bim bim bum,
+!!i poćciwę Sorę,
+!!bim bam bum bum,
+!!bum bum, bum bum.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!ONB: Na Zydow
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=196 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 172} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 172}
 !!!page: 172
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-08

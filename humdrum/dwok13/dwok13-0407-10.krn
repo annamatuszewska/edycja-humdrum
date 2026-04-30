@@ -3,48 +3,65 @@
 !!!source: DWOK13
 !!!id: 13407
 !!!signature: 1340700010
-**kern
-*clefG2
-*k[b-]
-*F:
-*M2/4
-=1
-{8f
-8a
-4cc
-=2
-8a
-8b-
-4cc
-=3
-8dd
-8b-
-8g
-8g
-=4
-4cc
-4a}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M2/4	*
+=1	=1
+!LO:TX:a:t=Wiwat.	!
+{8f	Ma-
+8a	-ty-
+4cc	-jas,
+=2	=2
+8a\	co
+8b-	mi
+4cc	das,
+=3	=3
+8dd	na-
+8b-	-mó-
+8g	-wię
+8g	ci
+=4	=4
+4cc	Ka-
+4a}	-śkę,
 !!LO:LB:g=esac
-=5
-{8f
-8a
-4cc
-=6
-8a
-8b-
-4cc
-=7
-8dd
-8b-
-8g
-8g
-=8
-4a
-4f}
-==
-*-
+=5	=5
+{8f	o-
+8a	-cho-
+4cc	-tną
+=6	=6
+8a\	ro-
+8b-	-bo-
+4cc	-tną,
+=7	=7
+8dd	ma
+8b-	pie-
+8g	-nię-
+8g	-dzy
+=8	=8
+4a	waz-
+4f}	-kę.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Matyjas, co mi das,
+!!namówię ci Kaśkę,
+!!ochotną robotną,
+!!ma pieniędzy wazkę.
+!!Pod Rogożnem:
+!!@VERSE:
+!!2. Walanty, galanty,
+!!naprowadź my (mi) Kaśkę;
+!!dam ci gros, i półgros,
+!!i gorzałki flaszkę.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!role-listener: Single Man
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=194 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 170} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 170}
 !!!page: 170
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-08

@@ -3,103 +3,167 @@
 !!!source: DWOK13
 !!!id: 13437
 !!!signature: 1343700000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16a
-16a
-8cc
-8dd
-=2
-8ee
-4b
-=3
-16b
-16dd
-8cc
-8b
-=4
-8a
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Mazur.	!
+{16a\	Śnie-
+16a\	-żne
+8cc	le-
+8dd	-cą
+=2	=2
+8ee	pu-
+4b	-chy
+=3	=3
+16b	wciąż
+16dd	kra-
+8cc	-ka-
+8b	-ją
+=4	=4
+8a	wro-
+4g}	-ny,
 !!LO:LB:g=esac
-=5
-{16a
-16a
-8cc
-8dd
-=6
-8ee
-4dd
-=7
-16b
-16dd
-8a
-8g
-=8
-8b
-4g}
+=5	=5
+{16a\	nad
+16a\	bia-
+8cc	-łe
+8dd	za-
+=6	=6
+8ee	-go-
+4dd	-ny
+=7	=7
+16b	lśnią
+16dd	drze-
+8a	-wa
+8g	jak
+=8	=8
+8b	du-
+4g}	-chy.
 !!LO:LB:g=esac
-=9
-{16f#
-16a
-8f#
-8d
-=10
-8g
-4b
-=11
-16cc
-16ee
-8a
-16f#
-16d
-=12
-8g
-4b
-=13
-16d
-16d
-8f#
-8a
-=14
-8a
-4g}
+=9	=9
+{16f\#	Rozpię-
+16a\	.
+8f#	-ta
+8d	ko-
+=10	=10
+8g	-szu-
+4b	-la
+=11	=11
+16cc	po
+16ee	pier-
+8a	-siach
+16f#L	wiatr
+16dJ	.
+=12	=12
+8g	hu-
+4b	-la
+=13	=13
+16d	twarz
+16d	zdrowa
+8f#	.
+8a	choć
+=14	=14
+8a\	dym-
+4g}	-na.
 !!LO:LB:g=esac
-=15
-{16a
-16a
-8f#
-8d
-=16
-8g
-8.b
-16dd
-=17
-16cc
-16ee
-8a
-16f#
-16d
-=18
-8g
-8.b
-16g
-=19
-16f#
-16d
-8f#
-8a
-=20
-16a
-16b
-4g}
-==
-*-
+=15	=15
+{16La	Znać
+16aJ	chłopskie
+8f#	.
+8d	to
+=16	=16
+8g	dzie-
+8.b/L	-cie
+16dd/J	.
+=17	=17
+16cc	nie
+16ee	dmucha
+8a	.
+16f#L	on
+16dJ	.
+=18	=18
+8g	w_le-
+8.b/L	-cie
+16gJ	.
+=19	=19
+16f#	nie
+16d	chucha
+8f#	.
+8a	od
+=20	=20
+16aL	zi-
+16b/J	.
+4g}	-mna.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Śnieżne lecą puchy
+!!wciąż krakają wrony,
+!!nad białe zagony
+!!lśnią drzewa jak duchy.
+!!@VERSE:
+!!2. Gdzie wierzby, gdzie chata,
+!!drzwi stare skrzypnęły;
+!!skrzypnęły, stanęły,
+!!i chłopek wylata.
+!!@VERSE:
+!!3. Rozpięta koszula
+!!po piersiach wiatr hula,
+!!twarz zdrowa, choć dymna.
+!!Znać chłopskie to dziecie,
+!!nie dmucha on w lecie,
+!!nie chucha od zimna.
+!!@VERSE:
+!!4. A oczy jak tarki,
+!!a ręce jak raki;
+!!na wrogów to karki
+!!wyrosł-ci on taki.
+!!@VERSE:
+!!5. I czegóż i za czem
+!!śle okiem prostaczem;
+!!i kędyż niém ciska?
+!!Tam dalej za krzyżem,
+!!nad starym żołnierzem
+!!bagnet się połyska.
+!!@VERSE:
+!!6. Tam daléj muzyka
+!!marsz dzielny wygrywa,
+!!aż serce wyrywa,
+!!aż duszę przenika.
+!!@VERSE:
+!!7. I prześli, zniknęli —
+!!śnieg gęsty popruszył,
+!!choć prześli, minęli,
+!!chłopak się nie ruszył.
+!!@VERSE:
+!!8. Na czole usiadła
+!!chęć bójki zawzięta,
+!!po twarzy mu spadla
+!!kropla przeziębnięta.
+!!@VERSE:
+!!9. Czy mróz ją wygonił
+!!wędrować po świecie?
+!!czy z biedy łzę ronił?
+!!wy może zgadniecie.
+!!@VERSE:
+!!10. Jak zając spłoszony
+!!w lesiste mknie strony,
+!!tak chyżo przez wzgórek
+!!poleciał mazurek.
+!!@VERSE:
+!!11. Poleciał do chatki
+!!wychwalać wojaki,
+!!i prosić u matki
+!!o karabin taki.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=218 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 194} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 194}
 !!!page: 194
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-10
