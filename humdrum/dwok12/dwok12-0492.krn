@@ -58,18 +58,18 @@
 =10	=10
 8cc	przymiera-
 8ee	.
-8dd	.
-8b	-jąc
-4g	głodu
+8dd/L	.
+8bJ	.
+4g	-jąc
 =11	=11
-4cc	.
-4a	czasem.
-8a	.
+4cc	głodu
+4a	.
+8a	czasem.
 8g}	.
 ==	==
 *-	*-
-!!!role-singer: Lover
-!!!role-listener: Mistress
+!!!role-singer: Narrator, Soldier
+!!!role-listener: Sister
 !!!singer-sex: male
 !!@@BEGIN: VERSES
 !!@VERSE:
@@ -99,3 +99,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

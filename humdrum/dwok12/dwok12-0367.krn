@@ -3,116 +3,142 @@
 !!!source: DWOK12
 !!!id: 12367
 !!!signature: 1236700000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16b
-8dd
-8dd
-=2
-16dd
-16ee
-8cc
-8ee
-=3
-16dd
-16cc
-8b
-8g
-=4
-8a
-4d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Anu-
+16b	.
+8dd	-leńku,
+8dd	.
+=2	=2
+16dd	córko
+16ee	.
+8cc	moja
+8ee	.
+=3	=3
+16dd	co
+16cc	po
+8b	izbie
+8g	.
+=4	=4
+8a	stuka?
+4d}	.
 !!LO:LB:g=esac
-=5
-{16g
-16b
-8dd
-8dd
-=6
-16dd
-16ee
-8cc
-8ee
-=7
-16dd
-16cc
-8b
-8g
-=8
-8a
-4d}
+=5	=5
+{16g	Matu-
+16b	.
+8dd	-lińku,
+8dd	.
+=6	=6
+16dd	dobro-
+16ee	.
+8cc	-dzijko,
+8ee	.
+=7	=7
+16dd	kotek
+16cc	.
+8b	myszki
+8g	.
+=8	=8
+8a	szuka.
+4d}	.
 !!LO:LB:g=esac
-=9
-{4cc
-16a
-16cc
-=10
-16a
-16g
-8f#
-8g
-=11
-16a
-16g
-8f#
-8g
-=12
-8a
-4dd}
+=9	=9
+{4cc	Kot,
+16aL	kot,
+16ccJ	.
+=10	=10
+16a	matuliń-
+16g	.
+8f#	.
+8g	-ku
+=11	=11
+16a	dobro-
+16g	.
+8f#	-dziko,
+8g	.
+=12	=12
+8a	kot,
+4dd}	kot,
 !!LO:LB:g=esac
-=13
-{16cc
-16b
-8a
-8cc
-=14
-16b
-16a
-8g
-8g
-=15
-8a
-4d}
+=13	=13
+{16cc	narobił
+16b	.
+8a\	.
+8cc	mi
+=14	=14
+16b	w_poko-
+16a\	.
+8g	-jiku
+8g	.
+=15	=15
+8a	stukot.
+4d}	.
 !!LO:LB:g=esac
-=16
-{4cc
-16a
-16cc
-=17
-16a
-16g
-8f#
-8g
-=18
-16a
-16g
-8f#
-8g
-=19
-8a
-4dd}
+=16	=16
+{4cc	Kot,
+16aL	kot,
+16ccJ	.
+=17	=17
+16a	matuliń-
+16g	.
+8f#	.
+8g	-ku
+=18	=18
+16a	dobro-
+16g	.
+8f#	-dziko,
+8g	.
+=19	=19
+8a	kot,
+4dd}	kot,
 !!LO:LB:g=esac
-=20
-{16cc
-16b
-8a
-8cc
-=21
-16b
-16a
-8g
-8g
-=22
-8a
-4d}
-==
-*-
+=20	=20
+{16cc	narobił
+16b	.
+8a\	.
+8cc	mi
+=21	=21
+16b	w_poko-
+16a\	.
+8g	-jiku
+8g	.
+=22	=22
+8a	stukot.
+4d}	.
+==	==
+*-	*-
+!!!role-singer: Mother, Daughter
+!!!role-listener: Daughter, Mother
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Anuleńku, córko moja
+!!co po izbie stuka?
+!!Matulińku, dobrodziko,
+!!kotek myszki szuka.
+!!Kot, kot, matulińku dobrodziko,
+!!kot, kot, narobił mi w pokojiku stukot.
+!!@VERSE:
+!!2. Córuleńku, Anulińku,
+!!czemu suknia krótka?
+!!Matulińku dobrodziko,
+!!bo żyd sztuczkę ukrad.
+!!@VERSE:
+!!3. Córulinku, Anulinku,
+!!czyje dziecie krzycy?
+!!Matulińko, dobrodzijko
+!!naszéj komornicy.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=208 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 192} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 192}
 !!!page: 192
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

@@ -3,74 +3,94 @@
 !!!source: DWOK12
 !!!id: 12386
 !!!signature: 1238600000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16a
-16b
-8cc
-8dd
-=2
-16cc
-16ee
-8dd
-16cc
-16b
-=3
-4a
-16dd
-16cc
-=4
-16b
-16a
-8g#
-8e}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{16a\	A
+16b	jakże
+8cc	.
+8dd	tam
+=2	=2
+16cc	do
+16ee	waćpanny,
+8dd	.
+16ccL	.
+16bJ	.
+=3	=3
+4a\	kiedy
+16ddL	.
+16ccJ	.
+=4	=4
+16b	ojciec
+16a\	.
+8g#	patrzy,
+8e}	.
 !!LO:LB:g=esac
-=5
-{4a
-8cc
-=6
-16b
-16a
-8g#
-8e}
+=5	=5
+{4a	kiedy
+8ddq	.
+8cc	.
+=6	=6
+16b	ojciec
+16a\	.
+8g#\	patrzy.
+8e\}	.
 !!LO:LB:g=esac
-=7
-{16a
-16b
-8cc
-8dd
-=8
-16cc
-16ee
-8dd
-16cc
-16b
-=9
-4a
-16dd
-16cc
-=10
-16b
-16a
-8g#
-8e}
+=7	=7
+{16a\	Dać
+16b	tabaki,
+8cc	.
+8dd	.
+=8	=8
+16cc	on
+16ee	nie
+8dd	taki!
+16ccL	.
+16bJ	.
+=9	=9
+4a\	bywaj
+16ddL	.
+16ccJ	.
+=10	=10
+16b	wasan
+16a\	.
+8g#	u
+8e}	mnie,
 !!LO:LB:g=esac
-=11
-{4a
-8cc
-=12
-16b
-16a
-8g#
-8a}
-==
-*-
+=11	=11
+{4a	bywaj
+8ddq	.
+8cc	.
+=12	=12
+16b	wasan
+16a\	.
+8g#L	u
+8aJ}	mnie.
+==	==
+*-	*-
+!!!role-singer: Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!A jakże tam do waćpanny,
+!!kiedy ojciec patrzy,
+!!kiedy ojciec patrzy.
+!!Dać tabaki, on nie taki!
+!!bywaj wasan u mnie,
+!!bywaj wasan u mnie.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY:Pieśń szlachecka.
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=216 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 200} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 200}
 !!!page: 200
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

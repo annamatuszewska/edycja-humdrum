@@ -20,8 +20,8 @@
 8cc	-ba
 =3	=3
 8ee	gorza-
-8.ff	.
-16ee	.
+8.ff^L	.
+16eeJ	.
 =4	=4
 8dd	-ły,
 8dd	ły,
@@ -29,8 +29,8 @@
 !!LO:LB:g=esac
 =5	=5
 {8dd	go-
-8.ee	rza-
-16dd	.
+8.ee^L	rza-
+16ddJ	.
 =6	=6
 8cc	-ły,
 8cc	ły,
@@ -58,3 +58,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

@@ -3,70 +3,106 @@
 !!!source: DWOK12
 !!!id: 12392
 !!!signature: 1239200002
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{8a
-8g
-8a
-8b
-=2
-4cc
-16dd
-16cc
-8b
-=3
-2ee
-=4
-8cc
-8dd
-8ee
-8ff
-=5
-4ee
-16dd
-16cc
-8b
-=6
-2a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M2/4	*
+=1	=1
+{8a	Z_téj
+8g	ta
+8a	strony
+8b	.
+=2	=2
+4cc	przeo-
+16ddL	.
+16cc	.
+8bJ/	.
+=3	=3
+2ee/	-ry,
+=4	=4
+8cc	stoji
+8dd	.
+8ee	lipa
+8ff	.
+=5	=5
+4ee/	zielo-
+16ddL	.
+16cc	.
+8bJ/	.
+=6	=6
+2a}	-na.
 !!LO:LB:g=esac
-=7
-{4ee
-8dd
-8ff
-=8
-4ee
-8a
-8g
-=9
-8cc
-8b
-8dd
-16cc
-16b
-=10
-4a
-4g
-=11
-8a
-8b
-8cc
-8dd
-=12
-4ee
-16dd
-16cc
-8b
-=13
-2a}
-==
-*-
+=7	=7
+{4ee	Na
+8dd	ty
+8ff	li-
+=8	=8
+4ee	-pie,
+8aL	na
+8gJ	.
+=9	=9
+8ccL	ty
+8bJ//	zie-
+8ddL	-lony,
+16cc	.
+16bJ/	.
+=10	=10
+4a	śpiewa-
+4g	.
+=11	=11
+8a\	-ją
+8b	ta
+8cc	trzej
+8dd	.
+=12	=12
+4ee/	ptaszko-
+16ddL	.
+16cc	.
+8bJ/	.
+=13	=13
+2a}	-wie.
+==	==
+*-	*-
+!!!role-singer: Narrator, Bachelors, Maiden
+!!!role-listener: Maiden
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Z téj ta strony przeory,
+!!stoji lipa zielona.
+!!Na ty lipie, na ty zielony,
+!!śpiewają ta trzej ptaszkowie.
+!!@VERSE:
+!!2. Nie byli to ptaszkowie,
+!!tylko trzej kawalerowie.
+!!Oj zmawiali się o jedny panience
+!!któremu się dostanie.
+!!@VERSE:
+!!3. Jeden mówi: moja to!
+!!drugi mówi: jak Bóg da.
+!!A ten trzeci: moja najmilejsza,
+!!czego-żeś mi tak smutna?
+!!@VERSE:
+!!4. Jak ja smutna nie mam być!
+!!za starego każą iść.
+!!A ten stary, wielki nieruchawy,
+!!nie mogę się utulić.
+!!@VERSE:
+!!5. W ty komorze, zieleniuśkie łoże,
+!!kto ta będzie na nich spał?
+!!O, jak stary, wielki nieruchawy,
+!!żeby nigdy z nich nie wstał.
+!!A jeśli miody, śliczny urody,
+!!żeby mu Bóg zdrowie dał!
+!!@@END: VERSES
 !!!ONB: Alternatywnie można zakodować w A
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=219 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 203} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 203}
 !!!page: 203
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

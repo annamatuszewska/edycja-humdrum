@@ -3,60 +3,60 @@
 !!!source: DWOK12
 !!!id: 12479
 !!!signature: 1247900000
-**kern	**text
-*clefG2	*
-*k[]	*
-*a:	*
-*M3/8	*
-=1	=1
-{16a	Kulbacz
-16cc	.
-8ee	ko-
-16ff#	-nia
-16ee	.
-=2	=2
-16dd	do
-16b	Toru-
-8.ee	.
-16dd	-nia
-=3	=3
-16.cc	po
-32b	mate-
-8a	.
-16b	-ry-
-16g#	.
-=4	=4
-16e	-ją
-16g#	dziewula,
-8a	.
-8e}	.
+**kern	**text	**text
+*clefG2	*	*
+*k[]	*	*
+*a:	*	*
+*M3/8	*	*
+=1	=1	=1
+{16a\	1._Kulbacz	2._Do
+16cc	.	.Pozna-
+8ee	ko-	.
+16ff#L	-nia	-nia
+16eeJ	.	.
+=2	=2	=2
+16dd	do	po
+16b	Toru-	krawczyków
+8.ee	.	.
+16dd	-nia	.
+=3	=3	=3
+16.cc	po	bo
+32b	mate-	ładnie
+8a	.	.
+16bL	-ry-	szy-
+16g#J	.	.
+=4	=4	=4
+16e	-ją	-ją
+16g#	dziewula,	da
+8a	.	szyją,
+8e}	.	.
 !!LO:LB:g=esac
-=5	=5
-{16.cc	po
-32b	mate-
-8a	.
-16b	-ry-
-16g#	.
-=6	=6
-16.e	-ją
-32g#	da
-8a	da
-16b	da,
-16dd	.
-=7	=7
-16cc	po
-16b	ma-
-16a	-te-
-16g#	.
-16a	-ry-
-16b	-ją
-=8	=8
-16e	da
-16g#	da
-8a	da.
-8e}	.
-==	==
-*-	*-
+=5	=5	=5
+{16.cc	po	bo
+32b	mate-	ładnie
+8a	.	.
+16bL	-ry-	szy-
+16g#J	.	.
+=6	=6	=6
+16.e	-ją	-ją
+32g#	da	da
+8a	da	szy-
+16bL	da,	-ją,
+16ddJ	.	.
+=7	=7	=7
+16cc	po	bo
+16b	ma-	ła-
+16aL	-te-	-dnie
+16g#J	.	.
+16aL	-ry-	szy-
+16bJ	-ją	.
+=8	=8	=8
+16e	da	-ją
+16g#	da	da
+8a	da.	szyją.
+8e}	.	.
+==	==	==
+*-	*-	*-
 !!!role-singer: Lover
 !!!role-listener: Mistress
 !!!singer-sex: male
@@ -91,3 +91,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

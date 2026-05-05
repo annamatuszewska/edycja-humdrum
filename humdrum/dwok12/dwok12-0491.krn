@@ -17,13 +17,13 @@
 4ff	borem
 4ff	.
 8ff	lasem,
-16ee-	.
-16dd	.
+16ee-L	.
+16ddJ	.
 =3	=3
-8cc	borem
-8b-	.
-8cc	.
-8ee-	.
+8ccL	borem
+8b-J	.
+8ccL	.
+8ee-J	.
 8dd	lasem,
 8b-}	.
 !!LO:LB:g=esac
@@ -44,14 +44,14 @@
 4g	.
 =7	=7
 8cc	głodu
-16b-	.
-16a	.
+16b-\L	.
+16aJ	.
 4g	czasem.
 4g}	.
 ==	==
 *-	*-
-!!!role-singer: Lover
-!!!role-listener: Mistress
+!!!role-singer: Narrator, Brother
+!!!role-listener: Sister
 !!!singer-sex: male
 !!@@BEGIN: VERSES
 !!@VERSE:
@@ -111,3 +111,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

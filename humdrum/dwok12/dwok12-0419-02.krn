@@ -3,59 +3,169 @@
 !!!source: DWOK12
 !!!id: 12419
 !!!signature: 1241900002
-**kern
-*clefG2
-*k[]
-*C:
-*M4/4
-=1
-{8cc
-8g
-8e
-8g
-4.cc
-8ee
-=2
-8dd
-8b
-8cc
-8a
-4.g
-8g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M4/4	*
+*met(c)	*
+=1	=1
+{8cc	O
+8g	w_północy
+8e	.
+8g	.
+4.cc	siadam,
+8ee	.
+=2	=2
+8dd	o
+8b	w_północy
+8cc	.
+8a	.
+4.g	jadę,
+8g}	.
 !!LO:LB:g=esac
-=3
-{8e
-8g
-8g
-8cc
-4.a
-8f
-=4
-8a
-8f
-8a
-8cc
-4.g
-8g}
+=3	=3
+{8e	nie
+8g	mogę
+8gL	.
+8ccJ	téj
+4.a	nocki
+8f	.
+=4	=4
+8a	z_kochanką
+8f	.
+8a	.
+8cc	pogadać,
+4.g	.
+8g}	.
 !!LO:LB:g=esac
-=5
-{8g
-8b
-8dd
-8ee
-4.ff
-8dd
-=6
-8ee
-8cc
-8b
-8dd
-4cc
-4cc}
-==
-*-
+=5	=5
+{8g	nie
+8b	mogę
+8dd	.
+8ee	téj
+4.ff	nocki
+8dd	.
+=6	=6
+8ee	z_kochanką
+8cc	.
+8b	.
+8dd	pogadać.
+4cc	.
+4cc}	.
+==	==
+*-	*-
+!!!role-singer: Bachelor, Maiden, Mother
+!!!role-listener: Maiden, Bachelor, Son, Mother, Boys
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. O w północy siadam,
+!!o w północy jadę,
+!!nie mogę téj nocki
+!!z kochanką pogadać.
+!!@VERSE:
+!!2. O wpółnocy siadam,
+!!O piérwszy godzinie:
+!!wstoń-żeż Magdaleno,
+!!odprowadzisz-ci mię.
+!!@VERSE:
+!!3. Magdalena wstała,
+!!odprowadzić chciała;
+!!swoje czarne oczy
+!!sobie upłakała.
+!!@VERSE:
+!!4. Odprowadziła go
+!!do mostu wielkiego,
+!!jedź teraz Jasińku
+!!do domku swojego.
+!!@VERSE:
+!!5. Moja Magdaleno,
+!!odprowadź me dalij,
+!!bo my się już więcy,
+!!nie będziem widzieli.
+!!@VERSE:
+!!6. Odprowadziła go
+!!na drogi rozstajne;
+!!już cię tu zabiję,
+!!już cię nie zóstawię.
+!!@VERSE:
+!!7. Jasiulu kochany,
+!!nie zabij mię jeszcze,
+!!klęknę na kolana,
+!!pomodlę się jeszcze.
+!!@VERSE:
+!!8. Moja Magdaleno,
+!!tyj modlitwy dojsyć,
+!!już cię tu zabiję,
+!!nie dam ci się modlić.
+!!@VERSE:
+!!9. I tam-ci ją zabił,
+!!i tam ją pochował,
+!!pod zieloném drzewem,
+!!ten pogrzeb wyprawiał.
+!!@VERSE:
+!!10. Do domu przyjachał,
+!!oznajmia tę rzec,
+!!już-ci ja, téj nocy
+!!swé kochankę zabił.
+!!@VERSE:
+!!11. Ach synu mój, synu,
+!!dobrze-ś-ci ty zrobił,
+!!żeś tę niezbednicę,
+!!już raz, już raz zabił.
+!!@VERSE:
+!!12. Matko moja, matko,
+!!wy-ć dobrze mówicie,
+!!ale w mojém sercu
+!!żałości nie wiécie.
+!!@VERSE:
+!!13. Wy mnie téż nie sądźcie,
+!!ja się sam rozsądzę;
+!!ręce obetnijcie,
+!!i kój (kół) we mnie wbijcie,
+!!@VERSE:
+!!14. Leży ona, leży
+!!na boru pod drzewem,
+!!a ja będę leżał
+!!na polu pod niebem.
+!!@VERSE:
+!!15. Wy młode chłopczęta
+!!układ z tego bierzcie,
+!!z wielkiego kochania
+!!przyjdzie wam nieszczęście.
+!!@VERSE:
+!!16. Gdy-ć synogarlica
+!!swy pary pozbędzie,
+!!na zielonym kierzku
+!!nigdy nie usiądzie.
+!!@VERSE:
+!!17. Jino się téż błąka,
+!!po ony krzewinie,
+!!j-aż ją kto zabije,
+!!lub téż sama zginie.
+!!@VERSE:
+!!18. Ach! bodaj-że fala
+!!na morzu powstała,
+!!ach, żeby ja była
+!!kochania nie znała!
+!!@VERSE:
+!!19. Chto kochania nie zna,
+!!od Boga szczęśliwy,
+!!ma nockę spokojną
+!!i dzień niesmutliwy.
+!!@VERSE:
+!!20. Ach żyliśmy, żyli,
+!!jak dwa ptaszki w parze,
+!!chto nas zbałamęcił,
+!!Pan Jezus go skarze.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=232 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 216} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 216}
 !!!page: 216
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

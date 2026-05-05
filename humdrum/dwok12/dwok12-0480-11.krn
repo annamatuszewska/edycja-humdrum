@@ -14,8 +14,8 @@
 8dd	.
 8dd	do_sa-
 =2	=2
-4dd	-mego
-8a	.
+(4dd	-mego
+8a)	.
 =3	=3
 8b	końca,
 4g}	.
@@ -36,27 +36,27 @@
 !!LO:LB:g=esac
 =7	=7
 {8b	Rom
-16a	tadyda,
+16aL	tadyda,
 16f#	.
-8g	.
+8gJ	.
 =8	=8
 8b	rom
-16a	tadyda
+16aL	tadyda
 16f#	.
-8g	.
+8gJ	.
 =9	=9
 16b	tum
 16dd	da
 8.cc	dy-
 16g	-da
 =10	=10
-16b	da-
-16a	.
+16bL	da-
+16aJ	.
 4g}	-na.
 ==	==
 *-	*-
 !!!role-singer: Lover
-!!!role-listener: Mistress
+!!!role-listener: Mistress, Hostess
 !!!singer-sex: male
 !!@@BEGIN: VERSES
 !!@VERSE:
@@ -107,3 +107,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

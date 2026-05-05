@@ -3,63 +3,90 @@
 !!!source: DWOK12
 !!!id: 12409
 !!!signature: 1240900000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{4cc
-8dd
-=2
-4ee
-8cc
-=3
-8b
-4g
-=4
-8b
-4cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{4cc	Przede
+8dd	.
+=2	=2
+4ee	wroty
+8cc	.
+=3	=3
+8b	biały
+4g	.
+=4	=4
+8b	kamień,
+4cc}	.
 !!LO:LB:g=esac
-=5
-{4cc
-8dd
-=6
-4ee
-8cc
-=7
-8b
-4g
-=8
-8b
-4cc}
+=5	=5
+{4cc	Podo-
+8dd	.
+=6	=6
+4ee	-linka
+8cc	.
+=7	=7
+8b	siedzi
+4g	.
+=8	=8
+8b	na
+4cc}	niem;
 !!LO:LB:g=esac
-=9
-{8dd
-8b
-8g
-=10
-4ee
-8cc
-=11
-16dd
-16cc
-8b
-8cc
-=12
-4dd
-8cc}
+=9	=9
+{8dd	trojektum
+8b	.
+8g	.
+=10	=10
+4ee	trektum
+8cc	.
+=11	=11
+16dd	sewerektum
+16cc	.
+8b	.
+8cc	.
+=12	=12
+4dd	tektum
+8cc}	.
 !!LO:LB:g=esac
-=13
-{8b
-4g
-=14
-8b
-4cc}
-==
-*-
+=13	=13
+{8b	siedzi
+4g	.
+=14	=14
+8b	na
+4cc}	nim.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Przede wroty biały kamień,
+!!Podolinka siedzi na niém;
+!!trojektum trektum sewerektum
+!!tektum siedzi na nim.
+!!@VERSE:
+!!2. Przyszedł do ni Ślązaniniec,
+!!moja panno, daj mi winiec.
+!!@VERSE:
+!!3. Jakbym tobie winiec dała,
+!!bym się brata nie bojała.
+!!@VERSE:
+!!4. Otruj, otruj brata swego,
+!!będziesz miała mnie samego.
+!!@VERSE:
+!!5. Idź do sadu wiśniowego,
+!!wykop węża czerwonego.
+!!@VERSE:
+!!6. I namocz go w czarny jusze,
+!!na zbawienie brata dusze.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=227 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 211} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 211}
 !!!page: 211
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

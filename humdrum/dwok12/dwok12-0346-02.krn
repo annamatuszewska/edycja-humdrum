@@ -3,60 +3,81 @@
 !!!source: DWOK12
 !!!id: 12346
 !!!signature: 1234600002
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16g
-16g
-8ff
-8ff
-=2
-4ee
-8cc
-=3
-8ff
-4dd
-=4
-16b
-16g
-8ff
-8ff
-=5
-4ee
-8cc
-=6
-8ff
-4dd}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16g	Oj
+16g	siedzia-
+8ff	.
+8ff	-ła
+=2	=2
+4ee	w_ogró-
+8cc	.
+=3	=3
+8ff	-deczku
+4dd	.
+=4	=4
+16bL	i
+16gJ	woła-
+8ff	.
+8ff	-ła:
+=5	=5
+4ee	Jasi-
+8cc	.
+=6	=6
+8ff/	-neczku.
+4dd/}	.
 !!LO:LB:g=esac
-=7
-{16dd
-16cc
-8b
-8a
-=8
-4g
-8b
-=9
-8cc
-4ee
-=10
-16dd
-16cc
-8b
-8a
-=11
-4g
-8b
-=12
-8dd
-4cc}
-==
-*-
+=7	=7
+{16dd	Pójdź
+16cc	tu
+8b	Jasiu
+8a	.
+=8	=8
+4g	pójdź
+8b	tu
+=9	=9
+8cc	do
+4ee	mnie
+=10	=10
+16dd	i
+16cc	uściskaj
+8b	.
+8a	.
+=11	=11
+4g	poca-
+8b	.
+=12	=12
+8dd	-łuj
+4cc}	mnie.
+==	==
+*-	*-
+!!!role-singer: Narrator, Maiden
+!!!role-listener: Bachelor
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Oj siedziała w ogródeczku
+!!i wołała: Jasineczku.
+!!@VERSE:
+!!2. Pójdź tu Jasiu pójdź tu do mnie,
+!!i uściskaj, pocałuj mnie.
+!!@VERSE:
+!!3. Jasio leci jak szalony,
+!!bo on myśli że do żony.
+!!@VERSE:
+!!4. I ściska ją i całuje,
+!!i żenić się obiecuje.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=199 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 183} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 183}
 !!!page: 183
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

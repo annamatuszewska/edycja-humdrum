@@ -3,81 +3,94 @@
 !!!source: DWOK12
 !!!id: 12355
 !!!signature: 1235500001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8cc
-8dd
-4ee
-4ee
-=2
-8ee
-8dd#
-4ee
-8cc
-8b
-=3
-4dd
-4dd
-8dd
-8ee
-=4
-8dd
-16cc
-16b
-4a
-4dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8cc	Kąpa-
+8dd	.
+4ee	-ła
+4ee	się
+=2	=2
+8ee	Kasia
+8dd#	.
+4ee	w_morzu,
+8ccnL	.
+8bJ	.
+=3	=3
+4dd	pasła
+4dd	.
+8dd	koni-
+8ee	.
+=4	=4
+8dd	-ki
+16ccL	we
+16bJ	.
+4a\	zbożu,
+4dd}	.
 !!LO:LB:g=esac
-=5
-{4g
-4b
-4b
-=6
-8a
-8cc#
-4dd
-4f#
-=7
-4.g
-8a
-8cc
-8ee
-=8
-8dd
-16cc
-16b
-4a
-4g}
+=5	=5
+{4g	o
+8aq	ta
+4b	dyna,
+4b	.
+=6	=6
+8a\	o
+8cc#	ta
+4dd	dana,
+4f#	.
+=7	=7
+4.g	o
+8a	ta
+8cc	dyna,
+8ee	.
+=8	=8
+8dd	o
+16ccL	ta
+16bJ	.
+4a	dana,
+4g\}	.
 !!LO:LB:g=esac
-=9
-{4g
-4b
-8cc
-8b
-=10
-8a
-8cc#
-4dd
-4f#
-=11
-4.g
-8a
-8cc
-8ee
-=12
-8dd
-16cc
-16b
-4a
-8g
-8f#}
-==
-*-
+=9	=9
+{4g	o
+8aq	ta
+4b	dyna,
+8ccL	.
+8bJ/	.
+=10	=10
+8a\	o
+8cc#	ta
+4dd	dana,
+4f#	.
+=11	=11
+4.g	o
+8a	ta
+8cc	dyna,
+8ee	.
+=12	=12
+8dd	o
+16ccL	ta
+16bJ	.
+4a	dana.
+8gL	.
+8f#J}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!Kąpała się Kasia w morzu,
+!!pasła koniki we zbożu,
+!!o ta dyna, o ta dana,
+!!o ta dyna, o ta dana.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=203 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 187} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 187}
 !!!page: 187
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

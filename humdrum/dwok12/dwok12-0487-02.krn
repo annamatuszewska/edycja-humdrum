@@ -8,6 +8,7 @@
 *k[]	*
 *C:	*
 *M4/4	*
+*met(c)	*
 =1	=1
 {4cc	Ojcze,
 4g	.
@@ -38,16 +39,16 @@
 8gg	.
 8gg	.
 8gg	.
-8aa	młody
-8ee	.
+8aa/L	młody
+8eeJ	.
 4ff	wiek,
 =6	=6
 8dd	móg’em
 8ff	.
 8ff	dziewcze
 8ff	.
-8gg	ładne
-8dd	.
+8gg/L	ładne
+8ddJ	.
 4ee}	mieć
 !!LO:LB:g=esac
 =7	=7
@@ -58,14 +59,14 @@
 =8	=8
 8b	w_siedle
 8dd	.
-16dd	muszę
+16dd/L	muszę
 16cc	.
-8b	.
+8bJ	.
 2cc}	mieć.
 ==	==
 *-	*-
-!!!role-singer: Lover
-!!!role-listener: Mistress
+!!!role-singer: Son
+!!!role-listener: Father, Son, Girls
 !!!singer-sex: male
 !!@@BEGIN: VERSES
 !!@VERSE:
@@ -106,3 +107,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

@@ -3,49 +3,68 @@
 !!!source: DWOK12
 !!!id: 12425
 !!!signature: 1242500001
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16g
-16b
-8cc
-8ee
-=2
-4cc
-8b
-=3
-16a
-16b
-8cc
-8ee
-=4
-4dd
-8g}
+**kern	**text	**text
+*clefG2	*	*
+*k[]	*	*
+*C:	*	*
+*M3/8	*	*
+=1	=1	=1
+{16g	Zasie-	Uwi-
+16b	.	.
+8cc	-ję	-ję
+8ee	ja	ja
+=2	=2	=2
+4cc	rutkę	wianek
+8b	.	.
+=3	=3	=3
+16a\	w_swojim	puszczę
+16b	.	.
+8cc	ogro-	po
+8ee	.	wo-
+=4	=4	=4
+(4dd	-dzie,	-dzie,
+8g)}	.	.
 !!LO:LB:g=esac
-=5
-{8ee
-8gg
-16ff
-16ee
-=6
-4dd
-16cc
-16b
-=7
-16a
-16b
-8cc
-16a
-16f
-=8
-4.g}
-==
-*-
+=5	=5	=5
+{8ee	hej	hej
+8gg	hej	hej
+16ffL	mocny	mocny
+16eeJ	.	.
+=6	=6	=6
+4dd	Boże	Boże
+16ccL	.	.
+16bJ	.	.
+=7	=7	=7
+16a\	w_swojim	puszczę
+16b	.	.
+8cc	o-	po
+16aL	-gro-	wo-
+16fJ	.	.
+=8	=8	=8
+4.g}	-dzie.	-dzie.
+==	==	==
+*-	*-	*-
+!!!role-singer: Maiden
+!!!role-listener: God
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Zasieję ja rutkę
+!!w swojim ogrodzie,
+!!hej hej mocny Boże
+!!w swojim ogrodzie.
+!!@VERSE:
+!!2. Uwiję ja wianek
+!!puszczę po wodzie,
+!!hej hej mocny Boże
+!!puszczę po wodzie.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=236 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 220} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 220}
 !!!page: 220
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

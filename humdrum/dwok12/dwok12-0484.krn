@@ -8,6 +8,7 @@
 *k[f#]	*
 *G:	*
 *M4/4	*
+*met(c)	*
 =1	=1
 {4g	Grali,
 8g	.
@@ -60,7 +61,7 @@
 2g}	-ła.
 ==	==
 *-	*-
-!!!role-singer: Lover
+!!!role-singer: Narrator, Lover
 !!!role-listener: Mistress
 !!!singer-sex: male
 !!@@BEGIN: VERSES
@@ -92,3 +93,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

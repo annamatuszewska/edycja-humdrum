@@ -13,8 +13,8 @@
 16ff	Wszyscy
 16ff	.
 8cc	się
-16dd	że-
-16cc	.
+16ddL	że-
+16ccJ	.
 =2	=2
 8g	-ni-
 4b-	-cie,
@@ -22,8 +22,8 @@
 16dd	wojny
 16dd	.
 8g	się
-16b-	bo-
-16g	.
+16b-L	bo-
+16gJ	.
 =4	=4
 8f	-jicie,
 4a}	.
@@ -31,19 +31,19 @@
 =5	=5
 {16a	a
 16a	ja
-8.g	nie-
-16e	.
+8.gL	nie-
+16eJ	.
 =6	=6
-16c	-bo-
-16c	.
+16cL	-bo-
+16cJ	.
 8f	-raczek
 8a	.
 =7	=7
 16cc	muszę
 16cc	.
 8g	być
-32b-	wo-
-16.g	.
+32b-L	wo-
+16.gJ	.
 =8	=8
 8f	-jaczek,
 4a}	.
@@ -51,26 +51,26 @@
 =9	=9
 {16a	a
 16a	ja
-8.g	nie-
-16e	.
+8.gL	nie-
+16eJ	.
 =10	=10
-16c	-bo-
-16f	.
-8a	-raczek
-8cc	.
+16cL	-bo-
+16fJ	.
+8a/L	-raczek
+8ccJ	.
 =11	=11
 16cc	muszę
 16cc	.
 8g	być
-32b-	wo-
-16.g	.
+32b-L	wo-
+16.gJ	.
 =12	=12
 8f	-jaczek.
 4a}	.
 ==	==
 *-	*-
-!!!role-singer: Lover
-!!!role-listener: Mistress
+!!!role-singer: Soldier
+!!!role-listener: Group of Men, Maidens
 !!!singer-sex: male
 !!@@BEGIN: VERSES
 !!@VERSE:
@@ -101,3 +101,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

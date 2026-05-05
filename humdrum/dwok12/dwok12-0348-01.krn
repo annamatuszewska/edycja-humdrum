@@ -3,95 +3,114 @@
 !!!source: DWOK12
 !!!id: 12348
 !!!signature: 1234800001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8g
-8b
-8dd
-=2
-4gg
-8b
-=3
-8cc
-4a
-=4
-8a
-8cc
-8ee
-=5
-4dd
-8cc
-=6
-8cc
-4b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8g	Pod
+8b	borem
+8dd	.
+=2	=2
+4gg	na
+8b	mu-
+=3	=3
+8ddq	.
+8cc	-rawce,
+4a	.
+=4	=4
+8a	pasła
+8cc	.
+8ee	dziew-
+=5	=5
+4dd	-czyna
+8cc	.
+=6	=6
+8ddq	.
+8cc	owce.
+4b}	.
 !!LO:LB:g=esac
-=7
-{8g
-8b
-8dd
-=8
-4gg
-8b
-=9
-8cc
-4a
-=10
-8a
-8cc
-8ee
-=11
-4dd
-8cc
-=12
-16cc
-16b
-4b}
+=7	=7
+{8g	Przyszed
+8b	.
+8dd	do
+=8	=8
+4gg	nij
+8b	wo-
+=9	=9
+8ddq	.
+8cc	-łoszyn
+4a	.
+=10	=10
+8a	i
+8cc	owieczki
+8ee	.
+=11	=11
+4dd	ij
+8cc	roz-
+=12	=12
+8ddq	.
+16ccL	-płoszył,
+16bJ/	.
+4b}	.
 !!LO:LB:g=esac
-=13
-{8g
-8b
-8b
-=14
-8g
-8b
-8b
-=15
-8d
-8b
-16a
-16g
-=16
-8f#
-8a
-8d}
+=13	=13
+{8g\	taty-
+8b	.
+8b	-dy,
+=14	=14
+8g\	taty-
+8b	.
+8b	-dy,
+=15	=15
+8dL	taty-
+8bJ	.
+16aL	-dy
+16gJ	.
+=16	=16
+8f#	wołoszyn
+8a	.
+8d}	.
 !!LO:LB:g=esac
-=17
-{8d
-8f#
-16a
-16cc
-=18
-8.ee
-16f#
-16a
-16cc
-=19
-8ee
-16dd
-16cc
-16b
-16a
-=20
-4g}
-8r
-==
-*-
+=17	=17
+{8d	tady-
+8f#	.
+16aL	-na,
+16ccJ	.
+=18	=18
+!LO:TX:t=P:problem=mixed beam	!
+8.eeL\	dy-
+16f#J/	.
+16aL	-na
+16ccJ	.
+=19	=19
+8ee	rozpło-
+16ddL	.
+16cc	.
+16b	.
+16aJ	.
+=20	=20
+4g}	-szył.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!Pod borem na murawce,
+!!pasła dziewczyna owce.
+!!Przyszed do nij wołoszyn
+!!i owieczki ij rozproszył,
+!!tatydy, tatydy
+!!tatydy wołoszyn tadyna.
+!!dyna rozpłoszył.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=200 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 184} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 184}
 !!!page: 184
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

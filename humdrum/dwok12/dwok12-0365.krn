@@ -3,75 +3,140 @@
 !!!source: DWOK12
 !!!id: 12365
 !!!signature: 1236500000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16g
-16g
-8ff
-8dd
-=2
-16cc
-16cc
-8a
-8f
-=3
-16a
-16cc
-8b
-8dd
-=4
-8g
-4cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+!!LO:TX:a:t=Mazur.
+{16g	Hanu-
+16g	.
+8ff	-lińko,
+8dd	.
+=2	=2
+16cc	córko
+16cc	.
+8a	moja,
+8f	.
+=3	=3
+16a\	chto
+16cc	za
+8b	oknem
+8dd	.
+=4	=4
+8g	stoji?
+4cc}	.
 !!LO:LB:g=esac
-=5
-{16ee
-16gg
-8.dd
-16ff
-=6
-16ee
-16gg
-8.dd
-16b
-=7
-16g
-16b
-16a
-16cc
-16b
-16dd
-=8
-8g
-4cc}
+=5	=5
+{16ee	Matu-
+16gg	.
+8.dd	-lińko,
+16ff	.
+=6	=6
+16ee	dobrodzijko,
+16gg	.
+8.dd	.
+16b	.
+=7	=7
+16g	żołnierz
+16b	.
+16aL	kó-
+16ccJ	.
+16bL	-nia
+16ddJ	.
+=8	=8
+8g\	stroji,
+4cc}	.
 !!LO:LB:g=esac
-=9
-{16ee
-16gg
-8.dd
-16ff
-=10
-16ee
-16gg
-8.dd
-16b
-=11
-16g
-16b
-16a
-16cc
-16b
-16dd
-=12
-8cc
-4cc}
-==
-*-
+=9	=9
+{16ee	Matu-
+16gg	.
+8.dd	-lińko,
+16ff	.
+=10	=10
+16ee	dobrodzijko,
+16gg	.
+8.dd	.
+16b	.
+=11	=11
+16g	żołnierz
+16b	.
+16aL	kó-
+16ccJ	.
+16bL	-nia
+16ddJ	.
+=12	=12
+8cc/	stroji.
+4cc}	.
+==	==
+*-	*-
+!!!role-singer: Mother, Daughter
+!!!role-listener: Daughter, Mother
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Hanulińko, córko moja,
+!!chto za oknem stoi?
+!!Matulińko, dobrodzijko,
+!!żołnierz kónia stroji.
+!!@VERSE:
+!!2. Hanulińko, córko moja,
+!!ma ten żołnierz ocy?
+!!Matulińko, dobrodzijko,
+!!nie widziołby w nocy.
+!!@VERSE:
+!!3. Hanulińko, córko moja,
+!!ma ten zołnierz usy?
+!!Matulińko, dobrodzijko,
+!!by słysał chto (się) rusy.
+!!@VERSE:
+!!4. Hanulińko, córko moja,
+!!ma ten zołnierz ręce?
+!!Matulińko, dobrodzijko,
+!!ma złote pierścieńce.
+!!@VERSE:
+!!5. Hanulińko, córko moja,
+!!ma ten zołnierz nogi?
+!!Matulińko, dobrodzijko,
+!!ma złote ostrogi.
+!!@VERSE:
+!!6. Hanulińko, córko moja,
+!!co w kómorze püka?
+!!Matulińko, dobrodzijko,
+!!kotka myski süka.
+!!@VERSE:
+!!7. Hanulińko, córko moja,
+!!jak to łóżko trzescy!
+!!Matulińko, dobrodzijko,
+!!boć nie z jedny descki.
+!!@VERSE:
+!!8. Hanulińko, córko moja,
+!!jak to suma (słoma) chwaści!
+!!Matulińko, dobrodzijko,
+!!bo nie z jednéj garści.
+!!@VERSE:
+!!9. Hanulińko, córko moja,
+!!cyje dzielę krzycy?
+!!Matulińko, dobrodzijko,
+!!naséj kumornicy.
+!!@VERSE:
+!!10. Hanulińko, córko moja,
+!!by nie twoje böło!
+!!Matulińko, dobrodzijko,
+!!cóżby z tego böło?
+!!@VERSE:
+!!11. Hanulińko, córko moja,
+!!kijem bym cię biła.
+!!Matulińko, dobrodzijko,
+!!tyś nie lepsą była.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=207 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 191} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 191}
 !!!page: 191
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

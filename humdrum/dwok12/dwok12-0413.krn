@@ -3,56 +3,110 @@
 !!!source: DWOK12
 !!!id: 12413
 !!!signature: 1241300000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8g
-8g
-4ff
-4dd
-=2
-4cc
-4ee
-8dd
-8b
-=3
-8g
-8g
-4ff
-4dd
-=4
-4cc
-4dd
-8ee
-8cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8g	Nie
+8g	wiedziałam
+4ff	.
+4dd	.
+=2	=2
+4cc	co
+4ee	mam
+8dd	czynić,
+8b	.
+=3	=3
+8g	czy
+8g	wędrować,
+4ff	.
+4dd	.
+=4	=4
+4cc	czy
+4dd	się
+8ee	żenić;
+8cc}	.
 !!LO:LB:g=esac
-=5
-{8a
-8a
-4g
-4b
-=6
-4cc
-4ee
-8dd
-8b
-=7
-8a
-8a
-4g
-4b
-=8
-4cc
-4dd
-8ee
-8cc}
-==
-*-
+=5	=5
+{8a	wędrującéj
+8a	.
+4g	.
+4b	.
+=6	=6
+4cc	nóżki
+4ee	.
+8dd	bolą,
+8b	.
+=7	=7
+8a	oże-
+8a	.
+4g	-nić
+4b	się,
+=8	=8
+4cc	cierp
+4dd	niewolą.
+8ee	.
+8cc}	.
+==	==
+*-	*-
+!!!role-singer: Maiden, Narrator, Men, Wife
+!!!role-listener: Wife, Husband, Men
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Nie wiedziałam co mam czynić,
+!!czy wędrować, czy się żenić;
+!!wędrującéj nóżki bolą,
+!!ożenić się, cierp niewolą.
+!!@VERSE:
+!!2. Nasmarował podeszewki,
+!!i odjechał do Warszawy.
+!!Do Warszawy, do miasteczka,
+!!jest tam ładna szynkareczka.
+!!@VERSE:
+!!3. Szynkareczka wyskoczyła,
+!!miodu, wina natoczyła.
+!!Oni pili — nie płacili.
+!!grzeczną damę namówili.
+!!@VERSE:
+!!6. Dogonili ją we Lwowie,
+!!nasza Kasia w złotéj głowie.
+!!Kasiu, Kasiu, Kasiu nasza,
+!!gdzieś podziała szwagra Jasia?
+!!@VERSE:
+!!7. Idź-że Kasiu do piwnicy,
+!!przynieś wina dwie szklenicy.
+!!O Jasiu bym powiedziała,
+!!bym się zdrady nie bojała.
+!!@VERSE:
+!!8. Kłaniam, kłaniam, szwagrze młody
+!!napijma się krwi jak wody.
+!!Na to ja tutaj nie bywał,
+!!bym krew jako wodę spijał.
+!!@VERSE:
+!!9. Idźże Kasiu do szkatuły,
+!!przynieśże mi tysiąc wtóry (który).
+!!Cztery stoły przeskoczyła,
+!!srébro, złoto rozsypała.
+!!@VERSE:
+!!10. Srebro, złoto pozbierajcie,
+!!Jasińka mi nie siekajcie.
+!!Srébra, złoto pozbierali,
+!!i Jasińka posiekali.
+!!@VERSE:
+!!11. Idź-że Kasiu do komory,
+!!przynieś-że mi ręcznik biały.
+!!Na to ja ci go nie prała,
+!!żebym ci go krwawić dała.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=229 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 213} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 213}
 !!!page: 213
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

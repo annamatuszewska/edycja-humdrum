@@ -9,6 +9,7 @@
 *C:	*
 *M3/4	*
 =1	=1
+!LO:TX:a:t=Śpiewana i przy weselu	!
 {8g	Jaskółeczka
 8b	.
 4cc	.
@@ -78,8 +79,8 @@
 2cc}	.
 ==	==
 *-	*-
-!!!role-singer: Lover
-!!!role-listener: Mistress
+!!!role-singer: Narrator, Soldier, Maiden
+!!!role-listener: Maiden
 !!!singer-sex: male
 !!@@BEGIN: VERSES
 !!@VERSE:
@@ -127,3 +128,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

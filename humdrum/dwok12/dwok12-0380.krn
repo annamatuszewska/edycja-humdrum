@@ -3,59 +3,83 @@
 !!!source: DWOK12
 !!!id: 12380
 !!!signature: 1238000000
-**kern
-*clefG2
-*k[b-e-]
-*g:
-*M3/8
-=1
-{8gg
-8dd
-8cc
-=2
-4b-
-8g
-=3
-16b-
-16cc
-4dd
-=4
-16ff#
-16gg
-8dd
-8cc
-=5
-4b-
-8g
-=6
-16f#
-16a
-4g}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*g:	*
+*M3/8	*
+=1	=1
+{8ff#q	.
+8gg	A
+8dd	co
+8cc	się
+=2	=2
+4b-	stało
+8g	.
+=3	=3
+16b-	Jadwidze,
+16cc	.
+4dd	.
+=4	=4
+16ff#L	poszła
+16ggJ	.
+8dd	.
+8cc	do
+=5	=5
+4b-	bo-
+8aq	.
+8g	-ru
+=6	=6
+16f#	na
+16a	rydze.
+4g}	.
 !!LO:LB:g=esac
-=7
-{16d
-16cc
-8b-
-8a
-=8
-16g
-16f#
-8cc#
-8dd
-=9
-16d
-16cc
-8b-
-8a
-=10
-16g
-16f#
-8a
-8g}
-==
-*-
+=7	=7
+{16dL	Oj
+16ccJ	.
+8b-/	posła
+8a	.
+=8	=8
+16gL	da
+16f#J	.
+8cc#	dana,
+8dd	.
+=9	=9
+16dL	na
+16ccJ	.
+8b-/	rydze
+8a	.
+=10	=10
+16gL	da
+16f#J	.
+8a	dana.
+8g}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. A co się stało Jadwidze,
+!!poszła do boru na rydze.
+!!Oj posła da dana,
+!!na rydze da dana.
+!!@VERSE:
+!!2. Jeszcze do boru nie wlazła,
+!!już-ci rydzyka nalazła,
+!!oj już-ci da dana,
+!!oj już-ci da dana.
+!!3 A rydzu, rydzu, rydzu mój,
+!!spodobał mi się kolor twój.
+!!Spodobał mi się, albo nie,
+!!bo masz czerwone korzenie.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=214 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 198} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 198}
 !!!page: 198
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

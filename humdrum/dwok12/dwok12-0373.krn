@@ -3,71 +3,82 @@
 !!!source: DWOK12
 !!!id: 12373
 !!!signature: 1237300000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8g
-8g
-4b
-4cc
-=2
-4dd
-4gg
-4dd
-=3
-8gg
-8ff#
-4cc
-4ee
-=4
-4dd
-4a
-4dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8g	Mieszkał
+8g	.
+4b	młynarz
+4cc	.
+=2	=2
+4dd	nad
+4gg	wodą,
+4dd	.
+=3	=3
+8gg	miał
+8ff#	Kasińkę
+4cc	.
+4ee	.
+=4	=4
+4dd	urodną,
+4a	.
+4dd}	.
 !!LO:LB:g=esac
-=5
-{8g
-8g
-4b
-4ee
-=6
-4cc
-4a
-4dd
-=7
-8g
-8g
-4b
-4ee
-=8
-4cc
-4a
-4g}
+=5	=5
+{8g	tom
+8g	ta
+4b	dyna,
+4ee	.
+=6	=6
+4cc	oj
+4a	dyna
+4dd	.
+=7	=7
+8g	ratta
+8g	.
+4b	dyna,
+4ee	.
+=8	=8
+4cc	dy
+4a	dyna,
+4g}	.
 !!LO:LB:g=esac
-=9
-{8g
-8g
-4b
-4ee
-=10
-4cc
-4a
-4dd
-=11
-8g
-8g
-4b
-4ee
-=12
-4cc
-4a
-4g}
-==
-*-
+=9	=9
+{8g	tom
+8g	ta
+4b	dyna,
+4ee	.
+=10	=10
+4cc	oj
+4a	dyna
+4dd	.
+=11	=11
+8g	ratta
+8g	.
+4b	dyna,
+4ee	.
+=12	=12
+4cc	dy
+4a	dyna.
+4g}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!Mieszkał młynarz nad wodą,
+!!miał Kasińkę urodną,
+!!tom ta dyna, oj dyna
+!!ratta dyna, dy dyna.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=211 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 195} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 195}
 !!!page: 195
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

@@ -3,47 +3,81 @@
 !!!source: DWOK12
 !!!id: 12351
 !!!signature: 1235100002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8g
-8b
-8.dd
-16cc
-=2
-8b
-8dd
-4g
-=3
-8cc
-8b
-8a
-8f#
-=4
-16g
-16a
-8b
-16g
-16a
-8b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8g	Z_téj
+8b	ta
+8.dd	strony
+16cc	.
+=2	=2
+8b	zarzecza,
+8dd	.
+4g	.
+=3	=3
+8cc	pasła
+8b	.
+8a	panna
+8f#	.
+=4	=4
+16g	kacicza,
+16a	.
+8b	.
+16g	kacicza,
+16a	.
+8b}	.
 !!LO:LB:g=esac
-=5
-{8cc
-8b
-8a
-8dd
-=6
-16g
-16a
-8b
-4g}
-==
-*-
+=5	=5
+{8cc	pasła
+8b	.
+8aL	panna
+8ddJ/	.
+=6	=6
+16gL	kacicza.
+16a	.
+8bJ	.
+4g}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Z téj ta strony zarzecza,
+!!pasła panna kacicza, kacicza,
+!!pasła panna kacicza.
+!!@VERSE:
+!!2. Heruś, heruś, kacorze,
+!!zimna woda w jeziorze.
+!!@VERSE:
+!!3. Zimna woda gdyby lód,
+!!ta dziewucha gdyby miód.
+!!@VERSE:
+!!4. Jest w Rawiczu nowy kram,
+!!powiódz co ci kupić màm?
+!!@VERSE:
+!!5. Nie kupuj mi pierścionka,
+!!bo ja nie jest ślachcionka.
+!!@VERSE:
+!!6. Nie kupuj mi orzechów,
+!!nie rób ze mnie pośmiechów.
+!!@VERSE:
+!!7. Nakup-że mi wstążecki,
+!!powiąz-ze mi rączecki.
+!!@VERSE:
+!!8. Poduszecki bieluśkie,
+!!prześciéradła cieniuśkie.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=201 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 185} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 185}
 !!!page: 185
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

@@ -3,65 +3,134 @@
 !!!source: DWOK12
 !!!id: 12340
 !!!signature: 1234000000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M2/4
-=1
-{8f
-8a
-8a
-8cc
-=2
-8cc
-8b-
-4b-
-=3
-8e
-8g
-8g
-8b-
-=4
-8b-
-8a
-4a}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M2/4	*
+=1	=1
+{8f	Poszła
+8a	.
+8a	panna
+8cc	.
+=2	=2
+8cc	po
+8b-	wodę,
+4b-	.
+=3	=3
+8e	miała
+8g	.
+8g	piękną
+8b-	.
+=4	=4
+8b-	uro-
+8a\	.
+4a\}	-dę,
 !!LO:LB:g=esac
-=5
-{8f
-8ff
-8ff
-8ee
-=6
-2dd
-=7
-8cc
-8dd
-8cc
-8b-
-=8
-4a}
-4r
+=5	=5
+{8f	wyjechał
+8ff	.
+8ff	.
+8ee	ci
+=6	=6
+2dd	pan,
+=7	=7
+8cc	i
+8dd	stłukł
+8cc	ci
+8b-	jéj
+=8	=8
+4a}	dzban,
+4r	.
 !!LO:LB:g=esac
-=9
-{8f
-8a
-8a
-8cc
-=10
-2b-
-=11
-8e
-8g
-8g
-8b-
-=12
-4a}
-4r
-==
-*-
+=9	=9
+{8f	wyjechał
+8a	.
+8a	.
+8cc	ci
+=10	=10
+2b-	pan,
+=11	=11
+8e	i
+8g	stłukł
+8g	ci
+8b-/	jéj
+=12	=12
+4a}	dzban.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Lord, Narrator, Maiden
+!!!role-listener: Maiden, Lord
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Poszła panna po wodę,
+!!miała piękną urodę,
+!!wyjechał ci pan,
+!!i stłukł ci jéj dzban.
+!!@VERSE:
+!!1. Poszła dziewka po wodę,
+!!miała piękną urodę.
+!!Wziena zielony dzbon,
+!!stłuk-ci go pon.
+!!@VERSE:
+!!2. Moja panno, nie płacz-że,
+!!ja ci ten dzban zapłacę;
+!!talara ci dam,
+!!za zielony dzban.
+!!@VERSE:
+!!3. I talara nie chciała,
+!!tylko dzbana płakała:
+!!mój zielony dzban,
+!!co mi go stłukł pan!
+!!@VERSE:
+!!4. Moja panno, nie płacz-że,
+!!ja tobie dzban zapłacę;
+!!dukata ci dam,
+!!za zielony dzban!
+!!@VERSE:
+!!5. I dukata nie chciała,
+!!tylko dzbana płakała;
+!!mój zielony dzban,
+!!co mi go stłukł pan!
+!!@VERSE:
+!!6. Moja panno, nie płacz-że,
+!!ja ci ten dzban zapłacę;
+!!konika ci dam,
+!!za zielony dzban!
+!!@VERSE:
+!!7. I konika nie chciała,
+!!tylko dzbana płakała:
+!!mój zielony dzban,
+!!co mi go stłukł pan!
+!!@VERSE:
+!!8. Moja panno nie płacz-że,
+!!ja ci ten dzban zapłacę;
+!!forysia ci dam,
+!!za zielony dzban!
+!!@VERSE:
+!!9. I forysia nie chciała,
+!!tylko dzbana płakała:
+!!mój zielony dzban,
+!!co mi go stłukł pan!
+!!@VERSE:
+!!10. Moja panno, nie płacz-że,
+!!ja ci ten dzban zapłacę:
+!!sam ci się oddam,
+!!za zielony dzban!
+!!@VERSE:
+!!11. Wiwat, wiwat, wygrałam,
+!!za dzban pana dostałam;
+!!za zielony dzban,
+!!ja starostę mam.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=196 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 180} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 180}
 !!!page: 180
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

@@ -3,62 +3,100 @@
 !!!source: DWOK12
 !!!id: 12347
 !!!signature: 1234700002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8cc
-8cc
-8ee
-=2
-4dd
-16cc
-16b
-=3
-8a
-4dd
-=4
-8cc
-8cc
-8ee
-=5
-4dd
-16cc
-16b
-=6
-8a
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+!!LO:TX:a:t=Owczarska.
+{8cc	Pod
+8cc	borem
+8ee	.
+=2	=2
+4dd	na
+16ccL	mu-
+16bJ	.
+=3	=3
+8a	-rawce,
+4dd	.
+=4	=4
+8cc	pasła
+8cc	.
+8ee	dziew-
+=5	=5
+4dd	-czyna
+16ccL	.
+16bJ	.
+=6	=6
+8a	owce,
+4g}	.
 !!LO:LB:g=esac
-=7
-{8g
-8g
-8b
-=8
-4g
-16a
-16b
-=9
-16cc
-16b
-4a
-=10
-8d
-16f#
-16d
-16f#
-16a
-=11
-4g
-8e
-=12
-8e
-4d}
-==
-*-
+=7	=7
+{8g	pasła
+8g	.
+8b/	dziew-
+=8	=8
+4g	-czyna
+16aL	.
+16bJ	.
+=9	=9
+16ccL	owce,
+16bJ	.
+4a	.
+=10	=10
+8d	tom
+16f#L	to-
+16dJ	.
+16f#L	-dy
+16aJ	.
+=11	=11
+4g	dyna
+8e	.
+=12	=12
+8e	dona.
+4d}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Maiden
+!!!role-listener: Bachelor
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Pod borem na murawce,
+!!pasła dziewczyna owce,
+!!tom tody dyna dona.
+!!@VERSE:
+!!2. Przyszed ci syn wałaszy,
+!!i owce jij rozstraszy,
+!!@VERSE:
+!!3. Poczekaj wałaszanie,
+!!ino mi owca zginie.
+!!@VERSE:
+!!4. Nie zginęła-ć mi żadna,
+!!tylko maciorka jedna.
+!!@VERSE:
+!!5. Drzwiczki z byliczki miała,
+!!słomką je zapierała.
+!!@VERSE:
+!!6. Głupi dworacy byli,
+!!że się tam nie dobyli.
+!!@VERSE:
+!!7. Tylko się jeden dobył,
+!!zaraz ji figla zrobił.
+!!@VERSE:
+!!8. Dał jij dwie czwartki maku,
+!!żeby nie było znaku.
+!!@VERSE:
+!!9. Dał jij dwie czwartki owsa,
+!!spądź na wiejskiego chłopca!
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=199 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 183} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 183}
 !!!page: 183
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

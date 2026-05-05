@@ -3,66 +3,88 @@
 !!!source: DWOK12
 !!!id: 12359
 !!!signature: 1235900001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16b
-16cc
-8.dd
-16g
-=2
-16cc
-16b
-4a
-=3
-16b
-16cc
-8.dd
-16g
-=4
-16cc
-16b
-8a
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+!!LO:TX:a:t=Mazur.
+{16b	Wyszła
+16cc	.
+8.dd	panna
+16g	.
+=2	=2
+16cc	przede
+16b	.
+4a\	wroty,
+=3	=3
+16b	upła-
+16cc	.
+8.dd	-kała
+16g	.
+=4	=4
+16cc	swoji
+16b	.
+8a	cnoty,
+8g}	.
 !!LO:LB:g=esac
-=5
-{16cc
-16b
-16a
-16g
-16f#
-16e
-=6
-16d
-16g
-8b
-8dd
-=7
-16a
-16b
-8.cc
-16a
-=8
-16dd
-16dd
-8b
-8dd}
+=5	=5
+{16cc	by
+16b	się
+16aL	cnota
+16gJ	.
+16f#L	.
+16eJ	.
+=6	=6
+16d	przywróciła,
+16g	.
+8b	.
+8dd	.
+=7	=7
+16a\	radabym
+16b	.
+8.cc	.
+16a\	ja
+=8	=8
+16dd	pozłoci-
+16dd	.
+8b	.
+8dd}	-ła,
 !!LO:LB:g=esac
-=9
-{16a
-16b
-8.cc
-16f#
-=10
-8a
-4g}
-==
-*-
+=9	=9
+{16a\	fałdy
+16b	.
+8.cc	rydy
+16f#	.
+=10	=10
+8a	hopsa.
+4g}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Maiden
+!!!role-listener: Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Wyszła panna przede wroty,
+!!upłakała swoji cnoty,
+!!by się cnota przywróciła,
+!!radabym ja pozłociła,
+!!fałdy rydy hopsa.
+!!@VERSE:
+!!2. Jéno córę będzies miała,
+!!w co ją będzies powijała?
+!!Jest tam łopión na ogrodzie,
+!!mojéj córze, psi narodzie,
+!!fałdyrydy hopsa.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=204 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 188} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 188}
 !!!page: 188
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

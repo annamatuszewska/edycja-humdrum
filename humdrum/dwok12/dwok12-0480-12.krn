@@ -12,14 +12,14 @@
 {16b	Dożynaj
 16cc	.
 8dd	.
-16dd	do
-16dd	sa-
+16dd/L	do
+16ddJ	sa-
 =2	=2
-4dd	-mego
-8a	.
+(4dd	-mego
+8a)	.
 =3	=3
-16b	końca,
-16a	.
+16bL	końca,
+16aJ	.
 4g}	bo
 !!LO:LB:g=esac
 =4	=4
@@ -29,38 +29,38 @@
 16ee	z_go-
 8cc#	-ścinną
 =5	=5
+16dd/L	.
 16dd	.
-16dd	.
-8dd	do
+8ddJ	do
 8a	tońca.
 =6	=6
-16b	.
-16a	.
+16bL	.
+16aJ	.
 4g}	Rom
 !!LO:LB:g=esac
 =7	=7
 {8b	tadyda,
-16a	.
+16aL	.
 16f#	.
-8g	rom
+8gJ	rom
 =8	=8
 8b	tadyda
-16a	.
+16aL	.
 16f#	.
-8g	tum
+8gJ	tum
 =9	=9
 16b	da
 16dd	dy-
 8.cc	-da
 16g	da-
 =10	=10
-16b	.
-16a	-na.
+16bL	.
+16aJ	-na.
 4g}	.
 ==	==
 *-	*-
 !!!role-singer: Lover
-!!!role-listener: Mistress
+!!!role-listener: Mistress, Hostess
 !!!singer-sex: male
 !!@@BEGIN: VERSES
 !!@VERSE:
@@ -111,3 +111,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

@@ -3,65 +3,82 @@
 !!!source: DWOK12
 !!!id: 12395
 !!!signature: 1239500002
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{8g
-8g
-8a
-8b
-=2
-4cc
-4g
-=3
-2cc
-=4
-8dd
-8dd
-8dd
-8gg
-=5
-8ff
-8ee
-8dd
-8b
-=6
-2cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+=1	=1
+{8g	Z_tamtéj
+8g	.
+8a\	strony
+8b	.
+=2	=2
+4cc	jezio-
+4g	.
+=3	=3
+2cc	-ra,
+=4	=4
+8dd	stoji
+8dd	.
+8dd	lipka
+8gg	.
+=5	=5
+8ffL	zie-
+8eeJ/	.
+8ddL	-lo-
+8bJ/	.
+=6	=6
+2cc}	-na,
 !!LO:LB:g=esac
-=7
-{8ff
-8ee
-8dd
-8ff
-=8
-4ee
-4g
-=9
-8cc
-8b
-8dd
-16cc
-16b
-=10
-4a
-4g
-=11
-8a
-8g
-8a
-8b
-=12
-4cc
-4g
-=13
-2cc}
-==
-*-
+=7	=7
+*	*^
+{8ffL	a	a
+8eeJ/	.	.
+8dd	na	jeśli
+8ff	téj	.
+=8	=8	=8
+4ee	lipce	stary,
+4g	.	.
+=9	=9	=9
+8ccL	na	dziad
+8bJ/	.	.
+8dd	téj	o-
+16ccL	zie-	-si-
+16bJ	.	.
+=10	=10	=10
+4a	-lonéj,	-wiały,
+4g	.	.
+=11	=11	=11
+8aL	trzej	bodajże
+8gJ	ptaszkowie	.
+8a\	.	.
+8b	.	on
+=12	=12	=12
+4cc	śpiewa-	kark
+4g	.	zło-
+=13	=13	=13
+2cc}	-ją.	-mał.
+*	*v	*v
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Z tamtéj strony jeziora,
+!!stoji lipka zielona,
+!!a na téj lipce,
+!!na tej zielonéj,
+!!trzej ptaszkowie śpiewają.
+!!a jeśli stary, dziad osiwiały,
+!!bodajże on kark złomał.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=220 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 204} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 204}
 !!!page: 204
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

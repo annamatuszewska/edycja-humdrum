@@ -3,57 +3,90 @@
 !!!source: DWOK12
 !!!id: 12405
 !!!signature: 1240500002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M4/4
-=1
-{8b
-8b
-4b
-4cc
-4b
-=2
-4a
-4cc
-2b
-=3
-8g
-8b
-4dd
-4gg
-4dd
-=4
-8ff#
-8gg
-4ee
-2dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M4/4	*
+*met(c)	*
+=1	=1
+{8b	U
+8b	mojéj
+4b	.
+4cc	matki
+4b	.
+=2	=2
+4a	rodzony,
+4cc	.
+2b	.
+=3	=3
+8g	stoji
+8b	.
+4dd	tam
+4gg	jawór
+4dd	.
+=4	=4
+8ff#L	zie-
+8ggJ	.
+4ee	-lony.
+2dd}	.
 !!LO:LB:g=esac
-=5
-{8ee
-8cc
-4ee
-4dd
-4b
-=6
-4cc
-4ee
-2dd
-=7
-8ee
-8cc
-4ee
-4dd
-4b
-=8
-4cc
-4a
-2g}
-==
-*-
+=5	=5
+{8ee	Pod
+8cc	tym
+4ee	jaworem
+4dd	.
+4b	.
+=6	=6
+4cc/	łóżeczko,
+4ee/	.
+2dd	.
+=7	=7
+8ee	leży
+8cc	.
+4ee	tam
+4dd	na
+4b	niém
+=8	=8
+4cc	Jasieczko.
+4a	.
+2g}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. U mojéj matki rodzony,
+!!stoji tam jawór zielony.
+!!Pod tym jaworem łóżeczko,
+!!leży tam na niém Jasieczko.
+!!@VERSE:
+!!2. Jasieczko leży, choruje
+!!i na Kasieńkę wskazuje.
+!!Idźże ty Kasiu do gaju,
+!!przynieś mi rószczkę rozmaju.
+!!@VERSE:
+!!3. Jeszcze do gaja nie doszła,
+!!jużci za Kasią trzy poszło:
+!!Wróć-że się Kasia do domu,
+!!bo już Jasienko na koniu.
+!!@VERSE:
+!!4. Ja o cię, Jasiu, nie stoję,
+!!jéno my ty wróć co moje.
+!!A cóżeś my ty nadała,
+!!coś my ty wracać kazała.
+!!@VERSE:
+!!5. A dałam ci chustek sześć,
+!!wybierz-że sobie chtórną chcesz.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=225 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 209} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 209}
 !!!page: 209
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

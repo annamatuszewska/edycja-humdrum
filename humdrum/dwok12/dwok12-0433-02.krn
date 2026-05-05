@@ -1,8 +1,8 @@
-!!!!SEGMENT: DWOK1243300002-niedaleko_wioska_wioski.krn
+!!!!SEGMENT: DWOK1243300001-niedaleko_wioska_wioski.krn
 !!!OTL: Niedaleko wioska wioski
 !!!source: DWOK12
 !!!id: 12433
-!!!signature: 1243300002
+!!!signature: 1243300001
 **kern	**text
 *clefG2	*
 *k[f#]	*
@@ -34,41 +34,43 @@
 4.g}	-dą,
 !!LO:LB:g=esac
 =7	=7
-{16f#	na
-16a	pięcie'm
-8d	.
-8d	.
-=8	=8
-16f#	się
-16g	wykręcała
-8.b	.
-16dd	.
-=9	=9
-16f#	z_kawalerów
-16a	.
-8d	.
-8d	.
-=10	=10
-16f#	prześmiewała,
-16g	.
-8.b	.
-16g}	.
+*	*^
+{16f#	wychowa-	na
+16a	.	pięcie'm
+8d	.	.
+8d	-ła	.
+=8	=8	=8
+16f#	mnie	się
+16g	mamu-	wykręcała
+8.b	.	.
+16dd	-la,	.
+=9	=9	=9
+16f#	wychowała	z
+16a	.	kawalerów
+8d	.	.
+8d	.	.
+=10	=10	=10
+16f#	mnie	prześmiewała
+16g	mamu-	.
+8.b	.	.
+16g}	-la,	.
 !!LO:LB:g=esac
-=11	=11
-{16f#	oj
-16a	dana
-8cc	.
-8g	da-
-=12	=12
-(4b	-na,
-8dd)	.
-=13	=13
-16cc	dostanę
-16f#	.
-8aL	.
-8ddJ	pa-
-=14	=14
-4.g}	-na.
+=11	=11	=11
+{16f#	gdyby	oj
+16a	.	dana
+8cc	jago-	.
+8g	.	da-
+=12	=12	=12
+(4b	-dę,	na,
+8dd)	.	.
+=13	=13	=13
+16cc	gdyby	dostanę
+16f#	.	.
+8a/L	jago-	pa-
+8ddJ	.	.
+=14	=14	=14
+4.g}	-dę.	-na.
+*	*v	*v
 ==	==
 *-	*-
 !!!role-singer: Maiden
@@ -84,7 +86,7 @@
 !!na pięcie'm się wykręcała
 !!z kawalerów prześmiewała,
 !!oj dana dana,
-!!dostanę pana.
+!!dostanę pana.            
 !!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -93,3 +95,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

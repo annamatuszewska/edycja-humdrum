@@ -8,6 +8,7 @@
 *k[]	*
 *C:	*
 *M4/4	*
+*met(c)	*
 =1	=1
 {4cc	Ojcze,
 4g	.
@@ -63,8 +64,8 @@
 2cc}	mieć.
 ==	==
 *-	*-
-!!!role-singer: Lover
-!!!role-listener: Mistress
+!!!role-singer: Son
+!!!role-listener: Father, Son, Girls
 !!!singer-sex: male
 !!@@BEGIN: VERSES
 !!@VERSE:
@@ -105,3 +106,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

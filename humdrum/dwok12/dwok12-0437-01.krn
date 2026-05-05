@@ -51,9 +51,9 @@
 4cc}	po_nie.
 ==	==
 *-	*-
-!!!role-singer: Maiden
-!!!role-listener: Bachelor
-!!!singer-sex: female
+!!!role-singer: Maiden, Bachelor
+!!!role-listener: Bachelor, Maiden
+!!!singer-sex: female, male
 !!@@BEGIN: VERSES
 !!@VERSE:
 !!1.O co mnie bijesz Jasiu,
@@ -78,3 +78,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

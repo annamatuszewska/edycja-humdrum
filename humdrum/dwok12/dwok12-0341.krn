@@ -3,53 +3,87 @@
 !!!source: DWOK12
 !!!id: 12341
 !!!signature: 1234100000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16g
-8b
-8cc
-=2
-8dd
-8dd
-8b
-=3
-8dd
-8dd
-8b
-=4
-16b
-16dd
-8dd
-8ee
-=5
-8a
-8a
-8f#}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Szła
+16g	Kasińka
+8b	.
+8cc	.
+=2	=2
+8dd	po
+8eeq	.
+8dd	wodę,
+8b	.
+=3	=3
+8dd	po
+8eeq	.
+8dd	wodę,
+8b	.
+=4	=4
+16b	miała
+16dd	.
+8dd	ładną
+8ee	.
+=5	=5
+8a	u-
+8bq	.
+8a	-ro-
+8f#}	-dę,
 !!LO:LB:g=esac
-=6
-{16d
-16d
-8f#
-8a
-=7
-4.cc
-=8
-16cc
-16a
-8f#
-8a
-=9
-4g}
-8r
-==
-*-
+=6	=6
+{16d	natrafił
+16d	.
+8f#	.
+8a	ją
+=7	=7
+4.cc	pan,
+=8	=8
+16cc	i
+16a	stłukł
+8f#	ci
+8a\	jéj
+=9	=9
+4g}	dzban.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Lord, Maiden
+!!!role-listener: Maiden, Lord
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Szła Kasińka po wodę, po wodę,
+!!miała ładną urodę,
+!!natrafił ją pan,
+!!i stłukł ci jéj dzban.
+!!@VERSE:
+!!2. Moja panno niepłacz-że niepłacz-że
+!!ja ci ten dzban zapłacę,
+!!sto talarów dam,
+!!za stłuczony dzban.
+!!@VERSE:
+!!3. Sto talarów nie chciała,
+!!ino dzbana płakała:
+!!mój roskoszny dzban,
+!!co mi go stłuk pan.
+!!@VERSE:
+!!4. Chwała Bogu z wysokości,
+!!żem dostała jegomości, —
+!!za dziurawy dzban
+!!dostał mi się pan.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=197 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 181} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 181}
 !!!page: 181
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
