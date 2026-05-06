@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1223800000-chodzila_dziewula_po_olszowym_lasku.krn
+﻿!!!!SEGMENT: DWOK1223800000-chodzila_dziewula_po_olszowym_lasku.krn
 !!!OTL: Chodziła dziewula po olszowym lasku
+!!!FKT: Pieśni i Dumy. Skarga. Niechęć. Rozstanie
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Szmigla (Morownica)
+!!!AR1: wielkopolskie ; kościański ; Śmigiel-obszar wiejski
+!!!GE1: 51.989996 , 16.475680
 !!!source: DWOK12
 !!!id: 12238
 !!!signature: 1223800000
@@ -123,6 +128,7 @@
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=142 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 126} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 126}
 !!!page: 126
+!!!BEM: Przy weselu
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25

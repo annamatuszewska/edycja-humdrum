@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1325600000-za_stodola_pasla_bydlo.krn
-!!!OTL: Za stodołą pasła bydło
+﻿!!!!SEGMENT: DWOK1325600000-za_stodola_pasla_bydlo.krn
+!!!OTL: Za stodołą pasła bydło. Mazur
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Poznania (Wyry, Spławie)
+!!!AR1: wielkopolskie ; poznański ; Komorniki-gmina wiejska
+!!!GE1: 52.321086 , 16.853628
+!!!AR2: wielkopolskie ; m. Poznań ; Poznań-gmina miejska
+!!!GE2: 52.350785 , 17.025783
 !!!source: DWOK13
 !!!id: 13256
 !!!signature: 1325600000
@@ -101,11 +108,11 @@
 !!kiedy nié masz kawalira.
 !!@@END: VERSES
 !!!role-singer: Narrator
-!!!ONB: Mazur
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=146 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 122} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 122}
 !!!page: 122
+!!!BEM: Mazur
 !!!ONB@texture: Only voice or instrument is playing at a time 
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz

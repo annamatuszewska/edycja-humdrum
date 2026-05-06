@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1238800000-a_na_boru_jagody_sa.krn
+﻿!!!!SEGMENT: DWOK1238800000-a_na_boru_jagody_sa.krn
 !!!OTL: A na boru jagody są
+!!!FKT: Pieśni i Dumy. Igraszka. Swawola
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kostrzyna (Siekierki)
+!!!AR1: NIE ; NIE ; NIE
+!!!GE1: 52.383122 , 17.155401
 !!!source: DWOK12
 !!!id: 12388
 !!!signature: 1238800000
@@ -96,6 +101,7 @@
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=217 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 201} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 201}
 !!!page: 201
+!!!BEM: Śpiewana niegdyś przy obchodzie z Szopką
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29

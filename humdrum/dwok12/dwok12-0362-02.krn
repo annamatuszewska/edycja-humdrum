@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1236200002-wyszla_kasia_miedzy_wroty.krn
+﻿!!!!SEGMENT: DWOK1236200002-wyszla_kasia_miedzy_wroty.krn
 !!!OTL: Wyszła Kasia między wroty
+!!!FKT: Pieśni i Dumy. Igraszka. Swawola
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Rogowa (Izdebno)
+!!!AR1: kujawsko-pomorskie ; żniński ; Rogowo-gmina wiejska
+!!!GE1: 52.755920 , 17.638203
 !!!source: DWOK12
 !!!id: 12362
 !!!signature: 1236200002
@@ -107,11 +112,11 @@
 !!ucałuję malowanie,
 !!ciesz mnie, ciesz mnie w mojim stanie!
 !!@@END: VERSES
-!!!ONB: Kolberg podaje metrum 3/4 zapisano poprawnie na 3/8
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=206 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 190} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 190}
 !!!page: 190
+!!!BEM: Kolberg podaje metrum 3/4 zapisano poprawnie na 3/8
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29

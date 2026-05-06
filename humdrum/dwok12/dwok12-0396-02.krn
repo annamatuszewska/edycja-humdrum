@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1239600002-z_tej_tam_strony.krn
+﻿!!!!SEGMENT: DWOK1239600002-z_tej_tam_strony.krn
 !!!OTL: Z tej tam strony
+!!!FKT: Pieśni i Dumy. Smutek. Strapienie. Stary
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Pleszewa, Zerkowa
+!!!AR1: wielkopolskie ; pleszewski ; Pleszew-miasto
+!!!GE1: 51.896272 , 17.785733
+!!!AR2: wielkopolskie ; jarociński ; Żerków-miasto
+!!!GE2: 52.068386 , 17.563327
 !!!source: DWOK12
 !!!id: 12396
 !!!signature: 1239600002
@@ -83,11 +90,11 @@
 !!a to łóżeczko, w ślicznym kolorze,
 !!chtery (który) na nim spać może?
 !!@@END: VERSES
-!!!ONB: Alternatywnie można zakodować w G
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=221 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 205} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 205}
 !!!page: 205
+!!!BEM: Alternatywnie można zakodować w G
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29

@@ -1,5 +1,7 @@
-!!!!SEGMENT: DWOK1248200000-wzialem_po_ojcu_posagu_wiele.krn
+﻿!!!!SEGMENT: DWOK1248200000-wzialem_po_ojcu_posagu_wiele.krn
 !!!OTL: Wziąłem po ojcu posagu wiele
+!!!FKT: Pieśni i Dumy. Zabawa. Karczma. Tańce. Hulanka
+!!!REG: Wielkie Księstwo Poznańskie
 !!!source: DWOK12
 !!!id: 12482
 !!!signature: 1248200000
@@ -110,11 +112,11 @@
 !!i weźmie nieraz po pysku,
 !!sam nie wié za co.
 !!@@END: VERSES
-!!!ONB: Wariant w takcie piątym 2_222-7
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=265 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 249-250} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 249-250}
 !!!page: 249-250
+!!!BEM: Wariant w takcie piątym 2_222-7
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29

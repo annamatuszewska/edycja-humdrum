@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1228200000-i_wyjechal_pan_starosta.krn
+﻿!!!!SEGMENT: DWOK1228200000-i_wyjechal_pan_starosta.krn
 !!!OTL: I wyjechał pan starosta
+!!!FKT: Pieśni i Dumy. Strata wianka. Żale
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kurnika, Mosiny
+!!!AR1: wielkopolskie ; poznański ; Kórnik-miasto
+!!!GE1: 52.248594 , 17.089676
+!!!AR2: wielkopolskie ; poznański ; Mosina-miasto
+!!!GE2: 52.244550 , 16.850615
 !!!source: DWOK12
 !!!id: 12282
 !!!signature: 1228200000
@@ -133,11 +140,11 @@
 !!pojadę ja po wianuszek
 !!do gustu twojego.
 !!@@END: VERSES
-!!!ONB: U Kolberga podane metrum 3/4 zapisano poprawnie 3/8
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=167 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 151} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 151}
 !!!page: 151
+!!!BEM: U Kolberga podane metrum 3/4 zapisano poprawnie 3/8
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25

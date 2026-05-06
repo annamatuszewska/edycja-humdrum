@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1326200000-moja_matka_dobra_byla.krn
+﻿!!!!SEGMENT: DWOK1326200000-moja_matka_dobra_byla.krn
 !!!OTL: Moja matka dobra była
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Książa, Jaraczewa
+!!!AR1: wielkopolskie ; śremski ; Książ Wielkopolski-miasto
+!!!GE1: 52.062403 , 17.239231
+!!!AR2: wielkopolskie ; jarociński ; Jaraczewo-miasto
+!!!GE2: 51.968797 , 17.297292
 !!!source: DWOK13
 !!!id: 13262
 !!!signature: 1326200000
@@ -124,11 +131,11 @@
 !!@@END: VERSES
 !!!role-singer: Lover
 !!!singer-sex: male
-!!!ONB: Kolberg podaje metrum 3/8, zapisano poprawnie na 3/4, melodia dwóch zwrotek
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=148 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 124} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 124}
 !!!page: 124
+!!!BEM: Kolberg podaje metrum 3/8, zapisano poprawnie na 3/4, melodia dwóch zwrotek
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-25

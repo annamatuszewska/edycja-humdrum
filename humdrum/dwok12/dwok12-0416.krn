@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1241600000-a_w_poznaniu_w_kamienicy.krn
+﻿!!!!SEGMENT: DWOK1241600000-a_w_poznaniu_w_kamienicy.krn
 !!!OTL: A w Poznaniu w kamienicy
+!!!FKT: Pieśni i Dumy. Dumy. Zdrada. Zabójstwo
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gołańczy (Czeszewo)
+!!!AR1: wielkopolskie ; wągrowiecki ; Gołańcz-obszar wiejski
+!!!GE1: 52.908722 , 17.382633
 !!!source: DWOK12
 !!!id: 12416
 !!!signature: 1241600000
@@ -176,11 +181,11 @@
 !!O dla Boga, co mam czynić?
 !!czy wędrować, czy się żenić itd.
 !!@@END: VERSES
-!!!ONB: Alternatywnie można zakodować w G
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=230 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 214} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 214}
 !!!page: 214
+!!!BEM: Alternatywnie można zakodować w G
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29

@@ -1,5 +1,7 @@
-!!!!SEGMENT: DWOK1343700000-niezne_leca_puchy.krn
+﻿!!!!SEGMENT: DWOK1343700000-niezne_leca_puchy.krn
 !!!OTL: Śnieżne lecą puchy
+!!!FKT: Pieśni. Chłopek
+!!!REG: Wielkie Księstwo Poznańskie
 !!!source: DWOK13
 !!!id: 13437
 !!!signature: 1343700000
@@ -164,6 +166,7 @@
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=218 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 194} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 194}
 !!!page: 194
+!!!BEM: ]AR1[wielkopolskie ; NIE ; NIE
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-04-10

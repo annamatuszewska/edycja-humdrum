@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1342300002-wiwant_bratu_memu.krn
-!!!OTL: Wiwant bratu memu
+﻿!!!!SEGMENT: DWOK1342300002-wiwant_bratu_memu.krn
+!!!OTL: Wiwant bratu memu. Wiwat
+!!!FKT: Śpiewki i Tańce. Wiwaty, Tańce i Piosenki 2/4
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Szmigla, Kościana
+!!!AR1: wielkopolskie ; kościański ; Śmigiel-miasto
+!!!GE1: 52.012099 , 16.525216
+!!!AR2: wielkopolskie ; kościański ; Kościan-gmina miejska
+!!!GE2: 52.085881 , 16.644239
 !!!source: DWOK13
 !!!id: 13423
 !!!signature: 1342300002
@@ -93,11 +100,11 @@
 !!!role-singer: Brother, Braid
 !!!role-listener: Group
 !!!singer-sex: male, female
-!!!ONB: Wiwat weselny
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=200 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 176} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 176}
 !!!page: 176
+!!!BEM: Wiwat weselny
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-04-08

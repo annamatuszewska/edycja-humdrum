@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1240000012-usiad_stary_kolo_pieca.krn
-!!!OTL: Usiad stary koło pieca
+﻿!!!!SEGMENT: DWOK1240000012-usiad_stary_kolo_pieca.krn
+!!!OTL: Usiad stary koło pieca. Mazur
+!!!FKT: Pieśni i Dumy. Smutek. Strapienie. Stary
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Międzychodu, Sierakowa
+!!!AR1: wielkopolskie ; międzychodzki ; Międzychód-miasto
+!!!GE1: 52.604463 , 15.899490
+!!!AR2: wielkopolskie ; międzychodzki ; Sieraków-miasto
+!!!GE2: 52.649634 , 16.082200
 !!!source: DWOK12
 !!!id: 12400
 !!!signature: 1240000012
@@ -62,11 +69,11 @@
 !!bo ni nóżki
 !!do taneczka zadrgały.
 !!@@END: VERSES
-!!!ONB: Fragment w C
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=222 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 206-207} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 206-207}
 !!!page: 206-207
+!!!BEM: Mazur. Fragment w C
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29

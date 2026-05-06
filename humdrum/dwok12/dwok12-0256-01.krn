@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1225600001-a_ja_sobie_wolny_jako_ptaszek_polny.krn
-!!!OTL: A ja sobie wolny jako ptaszek polny
+﻿!!!!SEGMENT: DWOK1225600001-a_ja_sobie_wolny_jako_ptaszek_polny.krn
+!!!OTL: A ja sobie wolny jako ptaszek polny. Wiwat
+!!!FKT: Pieśni i Dumy. Skarga. Niechęć. Rozstanie
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Ostrowa, Krotoszyna
+!!!AR1: wielkopolskie ; ostrowski ; Ostrów Wielkopolski-gmina miejska
+!!!GE1: 51.649540 , 17.816730
+!!!AR2: wielkopolskie ; krotoszyński ; Krotoszyn-miasto
+!!!GE2: 51.695729 , 17.437623
 !!!source: DWOK12
 !!!id: 12256
 !!!signature: 1225600001
@@ -107,6 +114,7 @@
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=152 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 136} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 136}
 !!!page: 136
+!!!BEM: Wiwat, żwawo
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25

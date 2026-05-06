@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1222500000-deszczyk_pada_pokrapuje.krn
+﻿!!!!SEGMENT: DWOK1222500000-deszczyk_pada_pokrapuje.krn
 !!!OTL: Deszczyk pada pokrapuje
+!!!FKT: Pieśni i Dumy. Skarga. Niechęć. Rozstanie
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Czarnkowa (Rosko)
+!!!AR1: wielkopolskie ; czarnkowsko-trzcianecki ; Wieleń-obszar wiejski
+!!!GE1: 52.874326 , 16.316247
 !!!source: DWOK12
 !!!id: 12225
 !!!signature: 1222500000
@@ -103,6 +108,7 @@
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=135 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 119} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 119}
 !!!page: 119
+!!!BEM: W tańcu
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ONB@texture: Only voice or instrument is playing at a time
 !!!ENC: Klara Amelia Zienkiewicz

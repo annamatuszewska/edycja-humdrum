@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1246700000-jak_ja_jachal.krn
-!!!OTL: Jak ja jachał
+﻿!!!!SEGMENT: DWOK1246700000-jak_ja_jachal.krn
+!!!OTL: Jak ja jachał. Kujawiak
+!!!FKT: Pieśni i Dumy. Zabawa. Karczma. Tańce. Hulanka
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: Miłosław
+!!!AR1: wielkopolskie ; wrzesiński ; Miłosław-miasto
+!!!GE1: 52.202819 , 17.488615
 !!!source: DWOK12
 !!!id: 12467
 !!!signature: 1246700000
@@ -128,6 +133,7 @@
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=257 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 241} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 241}
 !!!page: 241
+!!!BEM: Kujawiak
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29

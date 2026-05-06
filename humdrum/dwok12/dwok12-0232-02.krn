@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1223200002-gdzie_mi_sie_podzialy_kwiaty.krn
+﻿!!!!SEGMENT: DWOK1223200002-gdzie_mi_sie_podzialy_kwiaty.krn
 !!!OTL: Gdzie mi się podziały kwiaty
+!!!FKT: Pieśni i Dumy. Skarga. Niechęć. Rozstanie
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Szremu
+!!!AR1: wielkopolskie ; śremski ; Śrem-miasto
+!!!GE1: 52.095371 , 17.020534
 !!!source: DWOK12
 !!!id: 12232
 !!!signature: 1223200002
@@ -102,11 +107,11 @@
 !!nadobny Jasio
 !!niech do mnie pospieszy!
 !!@@END: VERSES
-!!!ONB: Zapis melodii dla dwóch zwrotek
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=139 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 123} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 123}
 !!!page: 123
+!!!BEM: Zapis melodii dla dwóch zwrotek
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25

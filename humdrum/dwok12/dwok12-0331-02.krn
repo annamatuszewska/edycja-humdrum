@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1233100002-lato_lato_lato_lato_gorace.krn
+﻿!!!!SEGMENT: DWOK1233100002-lato_lato_lato_lato_gorace.krn
 !!!OTL: Lato, lato lato lato gorące
+!!!FKT: Pieśni i Dumy. Igraszka. Swawola
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Miłosławia, Środy
+!!!AR1: wielkopolskie ; wrzesiński ; Miłosław-miasto
+!!!GE1: 52.202819 , 17.488615
+!!!AR2: wielkopolskie ; średzki ; Środa Wielkopolska-miasto
+!!!GE2: 52.229003 , 17.275115
 !!!source: DWOK12
 !!!id: 12331
 !!!signature: 1233100002
@@ -100,11 +107,11 @@
 !!Przyjachał do nij na siwym koniu:
 !!pądź-że Kasińku, gąski do domu.
 !!@@END: VERSES
-!!!ONB: Wersja melodii zakodowana w C
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=191 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 175} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 175}
 !!!page: 175
+!!!BEM: Przy weselu. Wersja melodii zakodowana w C
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-28

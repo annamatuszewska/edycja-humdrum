@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1248300000-moja_kurka_jarzebatka.krn
+﻿!!!!SEGMENT: DWOK1248300000-moja_kurka_jarzebatka.krn
 !!!OTL: Moja kurka jarzębatka
+!!!FKT: Pieśni i Dumy. Zabawa. Karczma. Tańce. Hulanka
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kiszkowa (Węgorzewo)
+!!!AR1: wielkopolskie ; gnieźnieński ; Kiszkowo-gmina wiejska
+!!!GE1: 52.574409 , 17.284716
 !!!source: DWOK12
 !!!id: 12483
 !!!signature: 1248300000
@@ -94,11 +99,11 @@
 !!Bóg ci zapłać matko za nią,
 !!mam ci ja już kupca nia nią.
 !!@@END: VERSES
-!!!ONB: Alternatywnie można zakodować w G
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=266 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 250} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 250}
 !!!page: 250
+!!!BEM: Alternatywnie można zakodować w G
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29

@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1334700000-tancowala_przede_dworem.krn
+﻿!!!!SEGMENT: DWOK1334700000-tancowala_przede_dworem.krn
 !!!OTL: Tańcowała przede dworem
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Krotoszyna
+!!!AR1: wielkopolskie ; krotoszyński ; Krotoszyn-miasto
+!!!GE1: 51.695729 , 17.437623
 !!!source: DWOK13
 !!!id: 13347
 !!!signature: 1334700000
@@ -78,6 +83,7 @@
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=175 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 151} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 151}
 !!!page: 151
+!!!BEM: Po wieńcu
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-25

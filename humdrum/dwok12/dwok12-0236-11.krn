@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1223600011-a_matusinku_mowcie_mu.krn
+﻿!!!!SEGMENT: DWOK1223600011-a_matusinku_mowcie_mu.krn
 !!!OTL: A matusińku mówcie mu
+!!!FKT: Pieśni i Dumy. Skarga. Niechęć. Rozstanie
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Swarzędza, (Usarzewo)
+!!!AR1: wielkopolskie ; poznański ; Swarzędz-obszar wiejski
+!!!GE1: 52.452263 , 17.124825
 !!!source: DWOK12
 !!!id: 12236
 !!!signature: 1223600011
@@ -67,11 +72,11 @@
 !!A niech ón szuka jak ón sam,
 !!bo ja sierota a ón pan.
 !!@@END: VERSES
-!!!ONB: Partia wokalna
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=141 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 125} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 125}
 !!!page: 125
+!!!BEM: Partia wokalna
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25

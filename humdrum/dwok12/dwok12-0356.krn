@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1235600000-kapala_sie_kasia_w_morzu.krn
+﻿!!!!SEGMENT: DWOK1235600000-kapala_sie_kasia_w_morzu.krn
 !!!OTL: Kąpała się Kasia w morzu
+!!!FKT: Pieśni i Dumy. Igraszka. Swawola
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Leszna (Machcin)
+!!!AR1: wielkopolskie ; kościański ; Śmigiel-obszar wiejski
+!!!GE1: 51.962163 , 16.437410
 !!!source: DWOK12
 !!!id: 12356
 !!!signature: 1235600000
@@ -57,11 +62,11 @@
 !!koniki zajął do dwora,
 !!zajął koniki do dwora.
 !!@@END: VERSES
-!!!ONB: wariant w takcie szóstym 2__5__
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=203 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 187} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 187}
 !!!page: 187
+!!!BEM: wariant w takcie szóstym 2__5__
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29

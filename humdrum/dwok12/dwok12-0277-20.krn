@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1227700020-instrumentalna-oj_i_za_stodole_wyszla.krn
-!!!OTL: Instrumentalna-Oj i za stodołę wyszła
+﻿!!!!SEGMENT: DWOK1227700020-instrumentalna-oj_i_za_stodole_wyszla.krn
+!!!OTL: Oj i za stodołę wyszła. Kujawiak. Instrumentalna
+!!!FKT: Pieśni i Dumy. Strata wianka. Żale
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Mielżyna
+!!!AR1: wielkopolskie ; gnieźnieński ; Witkowo-obszar wiejski
+!!!GE1: 52.382352 , 17.771550
 !!!source: DWOK12
 !!!id: 12277
 !!!signature: 1227700020
@@ -59,6 +64,7 @@
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=164 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 148} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 148}
 !!!page: 148
+!!!BEM: Kujawiak
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25

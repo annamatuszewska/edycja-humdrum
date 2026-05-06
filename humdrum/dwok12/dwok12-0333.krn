@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1233300000-a_lecie_lecie_slonce_gorace.krn
+﻿!!!!SEGMENT: DWOK1233300000-a_lecie_lecie_slonce_gorace.krn
 !!!OTL: A lecie lecie słońce gorące
+!!!FKT: Pieśni i Dumy. Igraszka. Swawola
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Czarnkowa (Rosko)
+!!!AR1: wielkopolskie ; czarnkowsko-trzcianecki ; Wieleń-obszar wiejski
+!!!GE1: 52.874326 , 16.316247
 !!!source: DWOK12
 !!!id: 12333
 !!!signature: 1233300000
@@ -90,11 +95,11 @@
 !!bierze gąsiora,
 !!z gąsiora pierze.
 !!@@END: VERSES
-!!!ONB: Zapisana melodia dwóch zwrotek
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=192 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 176} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 176}
 !!!page: 176
+!!!BEM: Zapisana melodia dwóch zwrotek
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29

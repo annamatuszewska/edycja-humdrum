@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1228800000-po_morzu_po_wisle_plywa.krn
+﻿!!!!SEGMENT: DWOK1228800000-po_morzu_po_wisle_plywa.krn
 !!!OTL: Po morzu, po Wiśle pływa
+!!!FKT: Pieśni i Dumy. Strata wianka. Żale
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gołańczy (Czeszewo)
+!!!AR1: wielkopolskie ; wągrowiecki ; Gołańcz-obszar wiejski
+!!!GE1: 52.908722 , 17.382633
 !!!source: DWOK12
 !!!id: 12288
 !!!signature: 1228800000
@@ -147,6 +152,7 @@
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=170 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 154} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 154}
 !!!page: 154
+!!!BEM: Weselna
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25

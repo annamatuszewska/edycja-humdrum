@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1247900000-kulbacz_konia_do_torunia.krn
+﻿!!!!SEGMENT: DWOK1247900000-kulbacz_konia_do_torunia.krn
 !!!OTL: Kulbacz konia do Torunia
+!!!FKT: Pieśni i Dumy. Zabawa. Karczma. Tańce. Hulanka
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Wrześni
+!!!AR1: wielkopolskie ; wrzesiński ; Września-miasto
+!!!GE1: 52.325822 , 17.565352
 !!!source: DWOK12
 !!!id: 12479
 !!!signature: 1247900000
@@ -88,6 +93,7 @@
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=263 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 247-248} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 247-248}
 !!!page: 247-248
+!!!BEM: Przy weselu
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29

@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1233400001-cyli_pod_lescyna.krn
-!!!OTL: Cyli pod lescyną
+﻿!!!!SEGMENT: DWOK1233400001-cyli_pod_lescyna.krn
+!!!OTL: Cyli pod lescyną. Mazurek
+!!!FKT: Pieśni i Dumy. Igraszka. Swawola
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Odolanowa
+!!!AR1: wielkopolskie ; ostrowski ; Odolanów-miasto
+!!!GE1: 51.574052 , 17.673646
 !!!source: DWOK12
 !!!id: 12334
 !!!signature: 1233400001
@@ -101,6 +106,7 @@
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=192 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 176} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 176}
 !!!page: 176
+!!!BEM: Mazurek
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29

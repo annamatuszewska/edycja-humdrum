@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1245400002-coz_ja_poczne_z_taka_zona.krn
-!!!OTL: Cóż ja pocznę z taką żoną
+﻿!!!!SEGMENT: DWOK1245400002-coz_ja_poczne_z_taka_zona.krn
+!!!OTL: Cóż ja pocznę z taką żoną. Obertas
+!!!FKT: Pieśni i Dumy. Małżeństwo. Kłótnia. Zgoda
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: Odolanów
+!!!AR1: wielkopolskie ; ostrowski ; Odolanów-miasto
+!!!GE1: 51.574052 , 17.673646
 !!!source: DWOK12
 !!!id: 12454
 !!!signature: 1245400002
@@ -85,11 +90,11 @@
 !!co zagrodzę to rozgrodzą,
 !!ciągle za nią chłopcy chodzą.
 !!@@END: VERSES
-!!!ONB: Podane metrum 3/4 zapisano poprawnie 3/8
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=251 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 235} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 235}
 !!!page: 235
+!!!BEM: Obertas. Podane metrum 3/4 zapisano poprawnie 3/8
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29

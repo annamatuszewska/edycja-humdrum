@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1243800002-a_jakes_mi_mawial.krn
+﻿!!!!SEGMENT: DWOK1243800002-a_jakes_mi_mawial.krn
 !!!OTL: A jakeś mi mawiał
+!!!FKT: Pieśni i Dumy. Małżeństwo. Kłótnia. Zgoda
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Zaniemyśla
+!!!AR1: wielkopolskie ; średzki ; Zaniemyśl-gmina wiejska
+!!!GE1: 52.156121 , 17.164291
 !!!source: DWOK12
 !!!id: 12438
 !!!signature: 1243800002
@@ -113,6 +118,7 @@
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=244 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 228} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 228}
 !!!page: 228
+!!!BEM: Vivace
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29

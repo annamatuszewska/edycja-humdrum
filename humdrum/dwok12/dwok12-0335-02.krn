@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1233500002-jednego_czasu_w_gesty_krzewinie.krn
-!!!OTL: Jednego czasu w gęsty krzewinie
+﻿!!!!SEGMENT: DWOK1233500002-jednego_czasu_w_gesty_krzewinie.krn
+!!!OTL: Jednego czasu w gęsty krzewinie. Mazur
+!!!FKT: Pieśni i Dumy. Igraszka. Swawola
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kurnika
+!!!AR1: wielkopolskie ; poznański ; Kórnik-miasto
+!!!GE1: 52.248594 , 17.089676
 !!!source: DWOK12
 !!!id: 12335
 !!!signature: 1233500002
@@ -141,11 +146,11 @@
 !!byle się s tobą
 !!natańcowała.
 !!@@END: VERSES
-!!!ONB: Zapisane dwie zwrotki melodii
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=193 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 177} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 177}
 !!!page: 177
+!!!BEM: Mazur. Zapisane dwie zwrotki melodii
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29

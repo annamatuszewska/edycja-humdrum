@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1246900000-bodaj_te_szynkarki.krn
-!!!OTL: Bodaj te szynkarki
+﻿!!!!SEGMENT: DWOK1246900000-bodaj_te_szynkarki.krn
+!!!OTL: Bodaj te szynkarki. Wiwat
+!!!FKT: Pieśni i Dumy. Zabawa. Karczma. Tańce. Hulanka
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Poznania (Górczyn)
+!!!AR1: wielkopolskie ; m. Poznań ; Poznań-gmina miejska
+!!!GE1: 52.383495 , 16.876515
 !!!source: DWOK12
 !!!id: 12469
 !!!signature: 1246900000
@@ -111,6 +116,7 @@
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=258 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 242} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 242}
 !!!page: 242
+!!!BEM: Wiwat
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29

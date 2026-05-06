@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1326900010-dziewczyno_moje_mam_cie_znac.krn
-!!!OTL: Dziewczyno moje mam cie znać
+﻿!!!!SEGMENT: DWOK1326900010-dziewczyno_moje_mam_cie_znac.krn
+!!!OTL: Dziewczyno moje mam cie znać. Chodzony
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kempna, Baranowa
+!!!AR1: wielkopolskie ; kępiński ; Kępno-miasto
+!!!GE1: 51.279128 , 17.983453
+!!!AR2: wielkopolskie ; kępiński ; Baranów-gmina wiejska
+!!!GE2: 51.267404 , 18.002462
 !!!source: DWOK13
 !!!id: 13269
 !!!signature: 1326900010
@@ -70,11 +77,11 @@
 !!!role-listener: Single Girl
 !!!singer-sex: male
 !!!RDF**kern: <= above
-!!!ONB: Partia wokalna
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=150 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 126} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 126}
 !!!page: 126
+!!!BEM: Partia wokalna
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-12

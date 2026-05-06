@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1239200002-z_tej_ta_strony_przeory.krn
+﻿!!!!SEGMENT: DWOK1239200002-z_tej_ta_strony_przeory.krn
 !!!OTL: Z tej ta strony przeory
+!!!FKT: Pieśni i Dumy. Smutek. Strapienie. Stary
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Jaraczewa
+!!!AR1: wielkopolskie ; jarociński ; Jaraczewo-miasto
+!!!GE1: 51.968797 , 17.297292
 !!!source: DWOK12
 !!!id: 12392
 !!!signature: 1239200002
@@ -96,11 +101,11 @@
 !!A jeśli miody, śliczny urody,
 !!żeby mu Bóg zdrowie dał!
 !!@@END: VERSES
-!!!ONB: Alternatywnie można zakodować w A
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=219 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 203} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 203}
 !!!page: 203
+!!!BEM: Alternatywnie można zakodować w A
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29

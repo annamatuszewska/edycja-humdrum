@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1232800000-a_niezbedna_stajeneczka.krn
+﻿!!!!SEGMENT: DWOK1232800000-a_niezbedna_stajeneczka.krn
 !!!OTL: A niezbedna stajeneczka
+!!!FKT: Pieśni i Dumy. Strata wianka. Żale
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kobylina (Targoszyce)
+!!!AR1: wielkopolskie ; krotoszyński ; Kobylin-obszar wiejski
+!!!GE1: 51.762910 , 17.270700
 !!!source: DWOK12
 !!!id: 12328
 !!!signature: 1232800000
@@ -84,11 +89,11 @@
 !!co ja muszę opłakiwać
 !!aż do śmierci na nie.
 !!@@END: VERSES
-!!!ONB: Alternatywnie można zakodować w G
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=189 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 173} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 173}
 !!!page: 173
+!!!BEM: Alternatywnie można zakodować w G
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-26

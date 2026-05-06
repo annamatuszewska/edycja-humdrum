@@ -1,5 +1,14 @@
-!!!!SEGMENT: DWOK1248100001-w_krakowie_nie_we_wsi.krn
-!!!OTL: W Krakowie nie we wsi
+﻿!!!!SEGMENT: DWOK1248100001-w_krakowie_nie_we_wsi.krn
+!!!OTL: W Krakowie nie we wsi. Mazur
+!!!FKT: Pieśni i Dumy. Zabawa. Karczma. Tańce. Hulanka
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Baranowa, Kempna, Częstochowy
+!!!AR1: wielkopolskie ; kępiński ; Baranów-gmina wiejska
+!!!GE1: 51.267404 , 18.002462
+!!!AR2: wielkopolskie ; kępiński ; Kępno-miasto
+!!!GE2: 51.279128 , 17.983453
+!!!AR3: śląskie ; m. Częstochowa ; Częstochowa-gmina miejska
+!!!GE3: 50.808333 , 19.127222
 !!!source: DWOK12
 !!!id: 12481
 !!!signature: 1248100001
@@ -145,6 +154,7 @@
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=265 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 249} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 249}
 !!!page: 249
+!!!BEM: Mazur
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29

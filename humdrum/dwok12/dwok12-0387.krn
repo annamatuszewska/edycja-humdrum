@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1238700000-szed_klecha_po_grobli.krn
-!!!OTL: Szed klecha po grobli
+﻿!!!!SEGMENT: DWOK1238700000-szed_klecha_po_grobli.krn
+!!!OTL: Szed klecha po grobli. Mazur
+!!!FKT: Pieśni i Dumy. Igraszka. Swawola
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Krotoszyna
+!!!AR1: wielkopolskie ; krotoszyński ; Krotoszyn-miasto
+!!!GE1: 51.695729 , 17.437623
 !!!source: DWOK12
 !!!id: 12387
 !!!signature: 1238700000
@@ -162,6 +167,7 @@
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=217 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 201} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 201}
 !!!page: 201
+!!!BEM: Mazur
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29

@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1227000011-przeprosze_mnie_jasiu_przepros.krn
+﻿!!!!SEGMENT: DWOK1227000011-przeprosze_mnie_jasiu_przepros.krn
 !!!OTL: Przeprośże mnie Jasiu przeproś
+!!!FKT: Pieśni i Dumy. Skarga. Niechęć. Rozstanie
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Obrzycka
+!!!AR1: wielkopolskie ; szamotulski ; Obrzycko-gmina miejska
+!!!GE1: 52.708119 , 16.526826
 !!!source: DWOK12
 !!!id: 12270
 !!!signature: 1227000011
@@ -64,11 +69,11 @@
 !!oj a ciebie Kasińku
 !!da przebłagać nie mogę.
 !!@@END: VERSES
-!!!ONB: Partia wokalna
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=160 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 144} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 144}
 !!!page: 144
+!!!BEM: Partia wokalna
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25

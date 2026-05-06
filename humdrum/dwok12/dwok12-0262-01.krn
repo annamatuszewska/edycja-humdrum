@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1226200001-wysoko_daleko_listek_na_jaworze.krn
-!!!OTL: Wysoko daleko listek na jaworze
+﻿!!!!SEGMENT: DWOK1226200001-wysoko_daleko_listek_na_jaworze.krn
+!!!OTL: Wysoko daleko listek na jaworze. Mazur
+!!!FKT: Pieśni i Dumy. Skarga. Niechęć. Rozstanie
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Powidza, Witkowa
+!!!AR1: wielkopolskie ; słupecki ; Powidz-gmina wiejska
+!!!GE1: 52.413049 , 17.914935
+!!!AR2: wielkopolskie ; gnieźnieński ; Witkowo-miasto
+!!!GE2: 52.440061 , 17.772717
 !!!source: DWOK12
 !!!id: 12262
 !!!signature: 1226200001
@@ -101,6 +108,7 @@
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=155 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 139} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 139}
 !!!page: 139
+!!!BEM: Mazur
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25

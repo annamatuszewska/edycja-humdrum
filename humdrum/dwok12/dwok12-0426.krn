@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1242600000-da_robilo_dwoch_rybakow.krn
+﻿!!!!SEGMENT: DWOK1242600000-da_robilo_dwoch_rybakow.krn
 !!!OTL: Da robiło dwóch rybaków
+!!!FKT: Pieśni i Dumy. Dumy. Zdrada. Zabójstwo
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Środy (Dębicz)
+!!!AR1: wielkopolskie ; średzki ; Środa Wielkopolska-obszar wiejski
+!!!GE1: 52.265702 , 17.311801
 !!!source: DWOK12
 !!!id: 12426
 !!!signature: 1242600000
@@ -148,11 +153,11 @@
 !!@COMMENTARY: Obacz także: Serya I (Pieśni ludu, 1857 r.) str. 162.— gdzie
 !!od strofki 9, śpiewają pod Wrześnią:
 !!@@END:
-!!!ONB: Alternatywnie można zakodować w G - jako heksachord g-e
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=236 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 220} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 220}
 !!!page: 220
+!!!BEM: Alternatywnie można zakodować w G - jako heksachord g-e
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29

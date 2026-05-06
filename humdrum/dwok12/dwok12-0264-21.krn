@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1226400021-siwa_gaska_siwa.krn
-!!!OTL: Siwa gąska siwa
+﻿!!!!SEGMENT: DWOK1226400021-siwa_gaska_siwa.krn
+!!!OTL: Siwa gąska siwa. Kujawiak
+!!!FKT: Pieśni i Dumy. Skarga. Niechęć. Rozstanie
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Pakości
+!!!AR1: kujawsko-pomorskie ; inowrocławski ; Pakość-miasto
+!!!GE1: 52.807005 , 18.087691
 !!!source: DWOK12
 !!!id: 12264
 !!!signature: 1226400021
@@ -65,11 +70,11 @@
 !!a było-ć to nigdy
 !!przyjazności nie znać.
 !!@@END: VERSES
-!!!ONB: Partia wokalna
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=156 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 140} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 140}
 !!!page: 140
+!!!BEM: Partia wokalna. Kujawiak
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25

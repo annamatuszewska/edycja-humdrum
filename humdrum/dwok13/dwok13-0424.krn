@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1342400000-przyszed_niemiec_do_polaka.krn
+﻿!!!!SEGMENT: DWOK1342400000-przyszed_niemiec_do_polaka.krn
 !!!OTL: Przyszed Niemiec do Polaka
+!!!FKT: Śpiewki i Tańce. Wiwaty, Tańce i Piosenki 2/4
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Szmigla (Morownica)
+!!!AR1: wielkopolskie ; kościański ; Śmigiel-obszar wiejski
+!!!GE1: 51.989996 , 16.475680
 !!!source: DWOK13
 !!!id: 13424
 !!!signature: 1342400000
@@ -77,11 +82,11 @@
 !!@@END: VERSES
 !!!role-singer: Narrator, Complex
 !!!singer-sex: male
-!!!ONB: Kołyskowa
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=200 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 176} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 176}
 !!!page: 176
+!!!BEM: Kołyskowa
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-04-08

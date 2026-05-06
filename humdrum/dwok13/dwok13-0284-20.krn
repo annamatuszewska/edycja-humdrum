@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1328400020-instrumentalna.krn
-!!!OTL: Instrumentalna
+﻿!!!!SEGMENT: DWOK1328400020-instrumentalna.krn
+!!!OTL: Po zapłociu Jasio jedzie. Instrumentalna
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kórnika
+!!!AR1: wielkopolskie ; poznański ; Kórnik-miasto
+!!!GE1: 52.248594 , 17.089676
 !!!source: DWOK13
 !!!id: 13284
 !!!signature: 1328400020
@@ -60,11 +65,11 @@
 8gJ}
 ==
 *-
-!!!ONB: Alternatywnie możliwe kodowanie w G
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=156 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 132} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 132}
 !!!page: 132
+!!!BEM: Alternatywnie możliwe kodowanie w G
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-18

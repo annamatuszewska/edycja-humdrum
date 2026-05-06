@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1340400000-pojade_ja_do_krakowa.krn
-!!!OTL: Pojadę ja do Krakowa
+﻿!!!!SEGMENT: DWOK1340400000-pojade_ja_do_krakowa.krn
+!!!OTL: Pojadę ja do Krakowa. Krakowiak
+!!!FKT: Śpiewki i Tańce. Wiwaty, Tańce i Piosenki 2/4
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Rawicza (Pakosław)
+!!!AR1: wielkopolskie ; rawicki ; Pakosław-gmina wiejska
+!!!GE1: 51.611323 , 17.058539
 !!!source: DWOK13
 !!!id: 13404
 !!!signature: 1340400000
@@ -71,11 +76,11 @@
 !!!role-singer: Narrator, Bachelor, Maiden
 !!!role-listener: Servant, Maiden
 !!!singer-sex: male, female
-!!!ONB: Krakowiak
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=193 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 169} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 169}
 !!!page: 169
+!!!BEM: Krakowiak
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-04-08

@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1217300000-siano_czerpala_wode_wiazala.krn
+﻿!!!!SEGMENT: DWOK1217300000-siano_czerpala_wode_wiazala.krn
 !!!OTL: Siano czerpała, wodę wiązała
+!!!FKT: Pieśni i Dumy. Pieśni przed Weselem i wśród Wesela śpiewane
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Leszna (Machcin)
+!!!AR1: wielkopolskie ; kościański ; Śmigiel-obszar wiejski
+!!!GE1: 51.962163 , 16.437410
 !!!source: DWOK12
 !!!id: 12173
 !!!signature: 1217300000
@@ -124,6 +129,7 @@
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=104 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 88} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 88}
 !!!page: 88
+!!!BEM: Przy weselu
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-02-25

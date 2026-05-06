@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1330200000-eby_matka_nie_brojila.krn
+﻿!!!!SEGMENT: DWOK1330200000-eby_matka_nie_brojila.krn
 !!!OTL: Żeby matka nie brojiła
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Mogilna
+!!!AR1: kujawsko-pomorskie ; mogileński ; Mogilno-miasto
+!!!GE1: 52.657733 , 17.949932
 !!!source: DWOK13
 !!!id: 13302
 !!!signature: 1330200000
@@ -65,11 +70,11 @@
 !!@@END: VERSES
 !!!role-singer: Daughter
 !!!singer-sex: female
-!!!ONB: Alternatywnie możliwe kodowanie w G
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=161 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 137} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 137}
 !!!page: 137
+!!!BEM: Alternatywnie możliwe kodowanie w G
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-19

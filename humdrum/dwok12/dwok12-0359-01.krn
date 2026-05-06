@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1235900001-wyszla_panna_przede_wroty.krn
-!!!OTL: Wyszła panna przede wroty
+﻿!!!!SEGMENT: DWOK1235900001-wyszla_panna_przede_wroty.krn
+!!!OTL: Wyszła panna przede wroty. Mazur
+!!!FKT: Pieśni i Dumy. Igraszka. Swawola
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Międzychodu
+!!!AR1: wielkopolskie ; międzychodzki ; Międzychód-miasto
+!!!GE1: 52.604463 , 15.899490
 !!!source: DWOK12
 !!!id: 12359
 !!!signature: 1235900001
@@ -83,6 +88,7 @@
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=204 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 188} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 188}
 !!!page: 188
+!!!BEM: Mazur
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29

@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1236500000-hanulinko_corko_moja.krn
-!!!OTL: Hanulińko córko moja
+﻿!!!!SEGMENT: DWOK1236500000-hanulinko_corko_moja.krn
+!!!OTL: Hanulińko córko moja. Mazur
+!!!FKT: Pieśni i Dumy. Igraszka. Swawola
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Wielenia (Drasko)
+!!!AR1: wielkopolskie ; czarnkowsko-trzcianecki ; Drawsko-gmina wiejska
+!!!GE1: 52.853841 , 16.029826
 !!!source: DWOK12
 !!!id: 12365
 !!!signature: 1236500000
@@ -135,6 +140,7 @@
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=207 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 191} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 191}
 !!!page: 191
+!!!BEM: Mazur
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29

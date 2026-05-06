@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1206100000-oj_jeno_ja_na_wojenke_pojade.krn
+﻿!!!!SEGMENT: DWOK1206100000-oj_jeno_ja_na_wojenke_pojade.krn
 !!!OTL: Oj jeno ja na wojenkę pojadę
+!!!FKT: Pieśni i Dumy. Miłość. Pieśni zalotne
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Wielenia (Drasko, Pęchowo)
+!!!AR1: wielkopolskie ; czarnkowsko-trzcianecki ; Drawsko-gmina wiejska
+!!!GE1: 52.853841 , 16.029826
+!!!AR2: wielkopolskie ; czarnkowsko-trzcianecki ; Drawsko-gmina wiejska
+!!!GE2: 52.836550 , 16.087214
 !!!source: DWOK12
 !!!id: 12061
 !!!signature: 1206100000
@@ -72,11 +79,11 @@
 !!@VERSE:Nie będziemy gö, nas bracie — płaciły,
 !!boć my go z tobą, bracisku — nie piły.
 !!@@END: VERSES
-!!!ONB: Melodia z piszczałką
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=43 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 27} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 27}
 !!!page: 27
+!!!BEM: Melodia z piszczałką
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-02-20

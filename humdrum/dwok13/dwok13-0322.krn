@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1332200000-a_dajcie_mi_matko_bicza.krn
+﻿!!!!SEGMENT: DWOK1332200000-a_dajcie_mi_matko_bicza.krn
 !!!OTL: A dajcie mi matko bicza
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Rawicza (Pakosław)
+!!!AR1: wielkopolskie ; rawicki ; Pakosław-gmina wiejska
+!!!GE1: 51.611323 , 17.058539
 !!!source: DWOK13
 !!!id: 13322
 !!!signature: 1332200000
@@ -66,11 +71,11 @@
 !!!role-singer: Daughter
 !!!role-listener: Mother
 !!!singer-sex: female
-!!!ONB: W t. 1 skorygowano błąd rytmiczny; alternatywnie możliwe kodowanie w G
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=168 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 144} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 144}
 !!!page: 144
+!!!BEM: W t. 1 skorygowano błąd rytmiczny; alternatywnie możliwe kodowanie w G
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-22

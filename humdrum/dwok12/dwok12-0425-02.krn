@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1242500001-zasieje_ja_rutke.krn
+﻿!!!!SEGMENT: DWOK1242500001-zasieje_ja_rutke.krn
 !!!OTL: Zasieję ja rutkę
+!!!FKT: Pieśni i Dumy. Dumy. Zdrada. Zabójstwo
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Ostrzeszowa, Baranowa
+!!!AR1: wielkopolskie ; ostrzeszowski ; Ostrzeszów-miasto
+!!!GE1: 51.423652 , 17.931476
+!!!AR2: wielkopolskie ; kępiński ; Baranów-gmina wiejska
+!!!GE2: 51.267404 , 18.002462
 !!!source: DWOK12
 !!!id: 12425
 !!!signature: 1242500002
@@ -64,6 +71,7 @@
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=236 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 220} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 220}
 !!!page: 220
+!!!BEM: Alternatywnie można zakodować w G
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29
