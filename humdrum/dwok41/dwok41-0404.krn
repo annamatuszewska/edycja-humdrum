@@ -3,56 +3,66 @@
 !!!source: DWOK41
 !!!id: 41404
 !!!signature: 4140400000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16b
-16dd
-8cc
-8a
-=2
-16dd
-16ee
-8a
-8g
-=3
-16b
-16dd
-8cc
-8a
-=4
-16dd
-16a
-8f#
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16b	Da,
+16dd	i
+8cc	wol-
+8b	-nyć
+=2	=2
+16dd	ja
+16ee	też,
+8a	wol-
+8g	-ny,
+=3	=3
+16b	da,
+16dd	i
+8cc	jak
+8b	pta-
+=4	=4
+16dd	-sze-
+16a	-czek
+8f#	pol-
+8g}	-ny,
 !!LO:LB:g=esac
-=5
-{16b
-16dd
-8b
-8g
-=6
-16f#
-16f#
-8a
-8cc
-=7
-16b
-16dd
-8cc
-8a
-=8
-16dd
-16a
-8f#
-8g}
-==
-*-
+=5	=5
+{16b	da,
+16dd	wsią-
+8b	-dę
+8g	ja
+=6	=6
+16f#	na
+16f#	ko-
+8a	-ni-
+8cc	-ka,
+=7	=7
+16b	da,
+16dd	i
+8cc	po-
+8b	-ja-
+=8	=8
+16dd	-dę
+16a	do
+8f#	woj-
+8g}	-ny.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Da, i wolnyć ja też, wolny,
+!!da, i jak ptaszeczek polny,
+!!da, wsiądę ja na konika,
+!!da, i pojadę do wojny.
+!!@@END: VERSES
+!!!role-singer: Man
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=302 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 221} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 221}
 !!!page: 221
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-14

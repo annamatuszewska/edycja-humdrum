@@ -3,53 +3,79 @@
 !!!source: DWOK41
 !!!id: 41390
 !!!signature: 4139000000
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/4
-=1
-{4cc#
-4ee
-4ee
-=2
-8ff#
-8dd
-4b
-4e
-=3
-4g#
-4b
-4dd
-=
-12ff#
-12gg#
-12ff#
-4ee
-4cc#}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M3/4	*
+=1	=1
+{4cc#	Oj,
+4ee	że-
+4ee	-by
+=2	=2
+8ff#L	ja
+8ddJ	.
+4b	by-
+4e	-ła,
+=3	=3
+4g#	da,
+4b	u
+4dd	swéj
+=4	=4
+12ffL#	ma-
+12gg#J	.
+12ff#	-tki
+4ee	dłu-
+4cc#}	-żej,
 !!LO:LB:g=esac
-=4
-{4a
-4cc#
-4cc#
-=5
-8a
-8cc#
-4ee
-4dd
-=6
-4b
-4dd
-4dd
-=7
-8dd
-8dd
-4ee
-4a}
-==
-*-
+=5	=5
+{4a	oj,
+4cc#	cho-
+4cc#	-dzi-
+=6	=6
+8a	-ła-
+8cc#	-bym
+4ee	by-
+4dd	-ła,
+=7	=7
+4b	da,
+4dd	jak
+4dd	kwia-
+=8	=8
+8dd	-te-
+8dd	-czek
+4ee	ró-
+4a}	-ży.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj, żeby ja była.
+!!da, u swéj matki dłużej,
+!!oj, chodziłabym była,
+!!da, jak kwiateczek róży.
+!!@VERSE:
+!!2. Oj, a ja teraz chodzę,
+!!da, jak biała lilija,
+!!a wyjdę na poleczko,
+!!da, każdy mnie omija.
+!!@VERSE:
+!!3. O, Boże mój, Boże,
+!!da, czyjaż ja też teraz,
+!!oj, wianeczku ruciany,
+!!da, zapłaczę cię nieraz.
+!!@VERSE:
+!!4. Oj, nie raz, oj, i nie dwa,
+!!oj, i nie tysiąc razy,
+!!co ja sobie tylko wspomnę,
+!!zalewam się łzami.
+!!@@END: VERSES
+!!!role-singer: Girl
+!!!role-listener: Complex
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=297 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 216} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 216}
 !!!page: 216
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-14

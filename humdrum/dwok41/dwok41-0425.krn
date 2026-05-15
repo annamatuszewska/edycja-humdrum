@@ -3,62 +3,73 @@
 !!!source: DWOK41
 !!!id: 41425
 !!!signature: 4142500000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16g
-16e
-8f
-16a
-16ee
-=2
-16ff
-16ee
-8ff
-8b-}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{(8aq	.
+16g)	Jesz-
+16e	-cze
+8f	nie
+16a\L	do
+16eeJ	.
+=2	=2
+16ff	dom,
+16ee	Ja-
+8ff	-sień-
+8b-}	-ku,
 !!LO:LB:g=esac
-=3
-{16a
-16e
-8f
-16g
-16a
-=4
-16b-
-16b-
-8a
-8f}
+=3	=3
+{16a	jesz-
+16e	-cze
+8f	nie
+16gL	do
+16aJ	.
+=4	=4
+16b-	dom,
+16b-	nie
+8a	do
+8f}	dom,
 !!LO:LB:g=esac
-=5
-{16g
-16e
-8f
-16g
-16a
-=6
-16b-
-16b-
-8a
-8cc}
+=5	=5
+{16g	jesz-
+16e	-cze
+8f	wó-
+16gL	-dka
+16aJ	.
+=6	=6
+16b-	nie
+16b-	skwaś-
+8a	-nia-
+8cc}	-ła,
 !!LO:LB:g=esac
-=7
-{16g
-16e
-8f
-16g
-16a
-=8
-16b-
-16b-
-8a
-8f}
-==
-*-
+=7	=7
+{16g	da,
+16e	i
+8f	kar-
+16gL	-czma
+16aJ	.
+=8	=8
+16b-	jesz-
+16b-	-cze
+8a	ca-
+8f}	-ła.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Jeszcze nie do dom, Jasieńku,
+!!jeszcze nie do dom, nie do dom,
+!!jeszcze wódka nie skwaśniała,
+!!da, i karczma jeszcze cała.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!role-listener: Man
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=312 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 229-230} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 229-230}
 !!!page: 229-230
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-14

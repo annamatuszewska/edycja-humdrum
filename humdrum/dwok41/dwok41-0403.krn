@@ -3,62 +3,71 @@
 !!!source: DWOK41
 !!!id: 41403
 !!!signature: 4140300000
-**kern
-*clefG2
-*k[]
-*C:
-*M4/4
-=1
-{4ff
-4aa
-8gg
-8ff
-8ee
-8dd
-=2
-4cc
-4ee
-8g
-8a
-8b
-8g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M4/4	*
+=1	=1
+{4ff	Gdzie
+4aa	to
+8gg	[je-
+8ff	-dziesz],
+8ee	Ja-
+8dd	-sio?
+=2	=2
+4cc	Na
+4ee	wo-
+8g	-jen-
+8a	-ke,
+8b	[Ka-
+8g}	-siu].
 !!LO:LB:g=esac
-=3
-{4g
-4b
-4cc
-4ee
-=4
-4a
-4a
-4g
-4r
-=5
-8a
-8a
-8a
-8b
-4g
-4a}
+=3	=3
+{4g	.
+4b	.
+4cc	.
+4ee	.
+=4	=4
+4a	.
+4a	.
+4g	.
+4r	.
+=5	=5
+8aL	.
+8a	.
+8a	.
+8b/J	.
+4g	.
+4a}	.
 !!LO:LB:g=esac
-=6
-{8b
-8g
-8a
-8b
-4cc
-4g
-=
-12a
-12a
-12b
-4cc
-4dd
-4g}
-==
-*-
+=6	=6
+{8b/L	.
+8g	.
+8a	.
+8b/J	.
+4cc	.
+4g	.
+=7	=7
+12aL	.
+12a	.
+12b/J	.
+4cc	.
+4dd	.
+4g}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Gdzie to [jedziesz], Jasio?
+!!Na wojenke, [Kasiu].
+!!@@END: VERSES
+!!!role-singer: Girl, Boy
+!!!role-listener: Boy, Girl
+!!!singer-sex: Female, Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=302 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 221} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 221}
 !!!page: 221
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-14
