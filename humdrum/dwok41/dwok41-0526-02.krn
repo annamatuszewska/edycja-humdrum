@@ -1,53 +1,77 @@
-!!!!SEGMENT: DWOK4152600002-piekna_bogini_wszelakiej_milosci.krn
+!!!!SEGMENT: DWOK4152600001-piekna_bogini_wszelakiej_milosci.krn
 !!!OTL: Piękna bogini wszelakiej miłości
 !!!source: DWOK41
 !!!id: 41526
 !!!signature: 4152600002
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8g
-8g
-4cc
-4cc
-=2
-8dd
-8cc
-2b
-=3
-8g
-8b
-4dd
-4dd
-=4
-8ff
-8ee
-2ee}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8g\L	Pię-
+8g\J	.
+4cc	-kna
+4cc	bo-
+=2	=2
+8ddL	-gi-
+8ccJ	.
+2b	-ni
+=3	=3
+8g	wsze-
+8b	-la-
+4dd	-kiej
+4dd	mi-
+=4	=4
+8ffL	-ło-
+8eeJ	.
+2ee}	-ści,
 !!LO:LB:g=esac
-=5
-{8ff
-8ee
-2dd
-=6
-8ee
-8dd
-2cc
-=7
-8b
-8b
-4g
-4b
-=8
-8dd
-8cc
-2cc}
-==
-*-
+=5	=5
+{8ffL	daj-
+8eeJ	.
+2dd	-że
+=6	=6
+8ee	mi
+8dd	u-
+2cc	-żyć
+=7	=7
+8b	swo-
+8b	-jej
+4g	ży-
+4b	-czli-
+=8	=8
+8ddL	-wo-
+8ccJ	.
+2cc}	-ści.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Piękna bogini wszelakiej miłości,
+!!dajże mi użyć swojej życzliwości.
+!!@VERSE:
+!!2. Chociaż nie dla mnie, dla mojej miłości,
+!!bo ja umieram z takiej tęskliwosci.
+!!Ona mówiąc: Ktoż ci każe?
+!!@VERSE:
+!!3. Nikt mi nie każe, ani też miłuje,
+!!lecz samo serce kochać rozkazuje.
+!!Ona mówiąc: Męski swyczaj.
+!!@VERSE:
+!!4. Bodaj cię zraniły Kupida postrzały,
+!!bodaj cię, bodaj nieszczęscia spotkały.
+!!Ona mówiąc: Nic mi nie będzie.
+!!@VERSE:
+!!5. Już ja cię teraz kwituję z przyjaśni,
+!!niech się moje serce twojem już nie draśni.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Woman
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=354 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 271} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 271}
 !!!page: 271
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-20

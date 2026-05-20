@@ -3,71 +3,104 @@
 !!!source: DWOK41
 !!!id: 41517
 !!!signature: 4151700000
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M3/8
-=1
-{16f#
-16g
-8a
-8a
-=2
-16a
-16a
-8a
-8a
-=3
-16a
-16dd
-8.ff#
-16ee
-=4
-8dd
-4cc#}
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Szlachecki.	!
+{16f#	Ku-
+16g	-ka-
+8a	-we-
+8a	-czka
+=2	=2
+16a	w_le-
+16a	-sie
+8a	ku-
+8a	-ka,
+=3	=3
+16a	gdy
+16dd	po-
+8.ff#	-ra-
+16ee	-nek
+=4	=4
+8dd	czu-
+4cc#}	-je,
 !!LO:LB:g=esac
-=5
-{16e
-16f#
-8g
-8g
-=6
-16g
-16g
-8g
-8g
-=7
-16g
-16b
-8.a
-16e
-=8
-8g
-4f#}
+=5	=5
+{16e	dzię-
+16f#	-cio-
+8g	-łe-
+8g	-czek
+=6	=6
+16g	w_drze-
+16g	-wo
+8g	ku-
+8g	-je,
+=7	=7
+16g	sło-
+16b	-wik
+8.a	wyś-
+16e	-pie-
+=8	=8
+8g	-wu-
+4f#}	-je,
 !!LO:LB:g=esac
-=9
-{8a
-8.ff#
-16ee
-=10
-16dd
-16cc#
-8ee
-8ee
-=11
-16f#
-16b
-8.a
-16g
-=12
-8g
-4f#}
-==
-*-
+=9	=9
+{8a	oj,
+8.ff#	da-
+16ee	-na,
+=10	=10
+16dd	mo-
+16cc#	-ja
+8ee	da-
+8ee	-na,
+=11	=11
+16f#	sło-
+16b	-wik
+8.a	wyś-
+16g	-pie-
+=12	=12
+8g	-wu-
+4f#}	-je.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Kukaweczka w lesie kuka,
+!!gdy poranek czuje,
+!!dzięciołeczek w drzewo kuje,
+!!słowik wyśpiewuje,
+!!oj, dana, moja dana,
+!!słowik wyśpiewuje.
+!!@VERSE:
+!!2. Gdzie pasterki oczy świecą,
+!!tam serce zachciewa,
+!!mało serce nie wyskoczy,
+!!tak się do niéj zrywa,
+!![oj, dana, moja dana,
+!!tak się do niéj zrywa].
+!!@VERSE:
+!!3. Nie kładź głowy do poduszki,
+!!nic to nie pomoże:
+!!kiedy ciężkie masz serduszko,
+!!nie zaśniesz, nieboże,
+!![oj, dana, moja dana,
+!!nie zaśniesz, nieboże].
+!!@VERSE:
+!!4. Sciśnij mnie, rybko pieszczona,
+!!ścisnę cię wzajemnie,
+!!zbliży się łono do łona,
+!!rozmawiać tajemnie.
+!![oj, dana, moja dana,
+!!rozmawiać tajemnie].
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!ONB: Szlachecki
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=347 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 264} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 264}
 !!!page: 264
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-19

@@ -3,60 +3,71 @@
 !!!source: DWOK41
 !!!id: 41470
 !!!signature: 4147000000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8a
-16cc
-16ee
-16ff#
-16ee
-=2
-16dd
-16cc#
-8a
-8dd
-=3
-8a
-16cc
-16ee
-16ff#
-16ee
-=4
-16dd
-16cc#
-8a
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8a	Oj,
+16cc	cho-
+16ee	-dził
+16ff#	Frą-
+16ee	-czek
+=2	=2
+16dd	ko-
+16cc#	-le
+8a	łą-
+8dd	-czek,
+=3	=3
+8a	da,
+16cc	za-
+16ee	-bił
+16ff#	be-
+16ee	-ka-
+=4	=4
+16dd	-sa,
+16cc#	be-
+8a	-ka-
+8g}	-sa;
 !!LO:LB:g=esac
-=5
-{16a
-16cc
-8d
-16g
-16b
-=6
-16b
-16a
-8cc#
-8dd
-=7
-16a
-16cc
-8d
-16g
-16b
-=8
-16dd
-16cc#
-8a
-8g}
-==
-*-
+=5	=5
+{16a	nie
+16cc	fra-
+8d	-suj
+16g\L	się,
+16bJ	.
+=6	=6
+16b	mo-
+16a	-ja
+8cc#	żo-
+8dd	-no,
+=7	=7
+16a	bę-
+16cc	-dzie
+8d	o-
+16g\L	-kra-
+16bJ	.
+=8	=8
+16dd	-sa,
+16cc#	o-
+8a	-kra-
+8g}	-sa.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oj, chodził Frączek kole łączek,
+!!da, zabił bekasa, bekasa;
+!!nie frasuj się, moja żono,
+!!będzie okrasa, okrasa.
+!!@@END: VERSES
+!!!role-singer:  Narrator, Husband
+!!!role-listener: Wife
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=332 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 249-250} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 249-250}
 !!!page: 249-250
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-18

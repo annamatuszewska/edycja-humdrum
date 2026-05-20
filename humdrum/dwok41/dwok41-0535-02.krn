@@ -1,58 +1,104 @@
-!!!!SEGMENT: DWOK4153500002-kiedym_cie_nad_zycie_kochal.krn
+!!!!SEGMENT: DWOK4153500001-kiedym_cie_nad_zycie_kochal.krn
 !!!OTL: Kiedym cię nad życie kochał
 !!!source: DWOK41
 !!!id: 41535
 !!!signature: 4153500002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8g
-8b
-4dd
-4dd
-=2
-8dd
-8dd
-4ee
-4dd
-=3
-8cc
-8b
-4cc
-4ee
-=4
-8dd
-8dd
-4.dd
-8b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8g	Kie-
+8b	-dym
+4dd	cię
+4dd	nad
+=2	=2
+8dd	ży-
+8dd	-cie
+4ee	ko-
+4dd	-chał,
+=3	=3
+8cc	ko-
+8b	-cha-
+4cc	-łem
+4ee	si-
+=4	=4
+8dd/	-ły
+8dd/	ca-
+4.dd/	-łe-
+8b/}	-mi,
 !!LO:LB:g=esac
-=5
-{8g
-8a
-4b
-4b
-=6
-8b
-8dd
-4cc
-4a
-=7
-8a
-8a
-4a
-4a
-=8
-8a
-8cc
-4b
-4g}
-==
-*-
+=5	=5
+{8g	kie-
+8a	-dym
+4b	u
+4b	nóg
+=6	=6
+8b/	two-
+8dd/	-ich
+4cc	szlo-
+4a	-chał,
+=7	=7
+8a	po-
+8a	-wie-
+4a	-dzia-
+4a	-łaś:
+=8	=8
+8a	zo-
+8cc	-ba-
+4b	-cze-
+4g}	-my.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Kiedym cię nad życie kochał,
+!!kochałem siły całemi,
+!!kiedym u nóg twoich szlochał,
+!!powiedziałaś: zobaczemy.
+!!@VERSE:
+!!2. Prosiłem cię o wejrzenie,
+!!o jedno słowko na ziemi,
+!!zmiękczyło cię me cierpienie,
+!!powiedziałaś: zobaczemy.
+!!@VERSE:
+!!3. Teraz widzę, że mnie nie kochasz.
+!!ślidzysz mnie oczyma swemi.
+!!ja z twej miłosci nie ślidzę,
+!!lecz powtarzam: zobaczemy.
+!!@VERSE:
+!!4. Jam cię szczerze nie kochała,
+!!jam ci słówka nie dawała;
+!!znudzona nudy twojemi
+!!powiedziałam: zobaczemy.
+!!@VERSE:
+!!5. Cofnij swoj wyrok okrutny,
+!!los cię spotkać może smutny,
+!!jeden roczek zaczekajmy,
+!!a szczerze się pokochajmy.
+!!@VERSE:
+!!6. Jam cię szczerze nie kochała,
+!!jam ci słówka nie dawała,
+!!zundzona nudy twojemi
+!![powiedziałam: zobaczemy].
+!!@VERSE:
+!!7. A chochyś mi bez wiek cały
+!!i wynurzał swe zapały,
+!!żegnam cię słowy temi,
+!!ze się już nie zobaczemy.
+!!@VERSE:
+!!8. Jak uklękniesz na kobiercu,
+!!ciężko będzie twemu sercu,
+!!innemu będziesz ślubowała.
+!!a mnie będziesz żałowała.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Single Girl
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=360 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 277} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 277}
 !!!page: 277
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-20
