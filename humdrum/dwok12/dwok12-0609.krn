@@ -3,74 +3,99 @@
 !!!source: DWOK12
 !!!id: 12609
 !!!signature: 1260900000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{4dd
-16cc
-16a
-=2
-8g
-4b
-=3
-4dd
-16cc
-16a
-=4
-8g
-16f#
-16d}
-8r
+**kern	**text	**text
+*clefG2	*	*
+*k[f#]	*	*
+*G:	*	*
+*M3/8	*	*
+=1	=1	=1
+!!LO:TX:a:t=Dzieciom (kołyskowa).
+{4dd	Gu-	gu-
+16cc	-lik	-lik
+16a	.	(kulik)
+=2	=2	=2
+8g	w_le-	pła-
+4b	-sie,	-cze
+=3	=3	=3
+4dd	jaj-	czaj-
+16cc	-ka	-ka
+16a	.	.
+=4	=4	=4
+8g	nie-	ska-
+16f#	-sie.	-cze.
+16d}	.	.
+8r	.	.
 !!LO:LB:g=esac
-=5
-{16f#
-16g
-8b
-8dd
-=6
-8a
-4cc
-=7
-16g
-16a
-8b
-8dd
-=8
-8a
-16f#
-16d}
-8r
+=5	=5	=5
+{16f#	przy-	.
+16g	-le-	.
+8b	-cia-	.
+8dd	-ła	.
+=6	=6	=6
+8a	czaj-	.
+4cc	-ka,	.
+=7	=7	=7
+16g	wy-	.
+16a	-pi-	.
+8b	-ła	.
+8dd	mu	.
+=8	=8	=8
+8a	jaj-	.
+16f#	-ka.	.
+16d}	.	.
+8r	.	.
 !!LO:LB:g=esac
-=9
-{16f#
-16g
-8b
-8dd
-=10
-16a
-16a
-8cc
-16a
-16f#
-=11
-16g
-16a
-8b
-8dd
-=12
-16a
-16a
-8a
-16f#
-16d}
-==
-*-
+=9	=9	=9
+{16f#	przy-	.
+16g	-le-	.
+8b	-cia-	.
+8dd	-ła	.
+=10	=10	=10
+16a	czaj-	.
+16a	.	.
+8cc	-ka,	.
+16a	.	.
+16f#	.	.
+=11	=11	=11
+16g	wy-	.
+16a	-pi-	.
+8b	-ła	.
+8dd	mu	.
+=12	=12	=12
+16a	jaj-	.
+16a	.	.
+8a	-ka.	.
+16f#	.	.
+16d}	.	.
+==	==	==
+*-	*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Gulik (kulik) w lesie,
+!!jajka niesie.
+!!Przyleciała czajka,
+!!wypiła mu jajka.
+!!Gulik płacze
+!!czajka skacze.
+!!@VERSE:
+!!2. Gulik płacze,
+!!czajka skacze.
+!!Przyleciał-ci skowronyszek,
+!!wyrwał czajce ogonyszek;
+!!czajka płacze,
+!!gulik skacze.
+!!@VERSE:
+!!Pod Kościanem:
+!!Słowik w lesie — jajka niesie,
+!!Przyszła czajka — (wy)piła jajka.
+!!Słowik płacze — czajka skacze.
+!!@@END: VERSES
 !!!ONB: w takcie czwartym zapisu jest błąd, zapisano poprawnie
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=323 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 307} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 307}
 !!!page: 307
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

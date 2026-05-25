@@ -3,54 +3,71 @@
 !!!source: DWOK12
 !!!id: 12573
 !!!signature: 1257300012
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16a
-16cc
-8.ee
-16dd
-=2
-16a
-16b
-8g
-8a
-=3
-16g
-16b
-4a
-=4
-8f#
-8g
-8b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16a\	Nie
+16cc	wy-
+8.ee	-ga-
+16dd	-niaj
+=2	=2
+16a\	ow-
+16b	-cza-
+8g	-rysz-
+8a	-ku,
+=3	=3
+16gL	o-
+16bJ	.
+4a	-wiec
+=4	=4
+8f#	na
+8g	błonie,
+8b/}	.
 !!LO:LB:g=esac
-=5
-{16a
-16cc
-8.ee
-16dd
-=
-24a
-24cc
-24b
-8g
-8a
-=
-24b
-24g
-24b
-4a
-=6
-8f#
-8g
-8g}
-==
-*-
+=5	=5
+{16a\	bo
+8bq	.
+16cc	ja
+8.ee	za
+16dd	to-
+=6	=6
+*Xtuplet	*
+24aL	-bą
+24cc	.
+24bJ/	za
+8g	to-
+8a	-bą
+=7	=7
+24bL	owieczki
+24g	.
+24bJ	.
+4a	wy-
+=8	=8
+8f#	-go-
+8g	-nię.
+8g}	.
+==	==
+*-	*-
+!!!role-listener: Shepherd
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Nie wyganiaj owczaryszku,
+!!owiec na rosę,
+!!bo jak pójdę z gościńca do dom
+!!to ci je rozpłoszę.
+!!@VERSE:
+!!2. Nie wyganiaj owczaryszku,
+!!owiec na błonie,
+!!bo ja za tobą za tobą
+!!owieczki wygonię.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=306 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 290} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 290}
 !!!page: 290
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

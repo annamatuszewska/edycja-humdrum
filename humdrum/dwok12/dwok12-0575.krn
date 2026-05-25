@@ -3,50 +3,69 @@
 !!!source: DWOK12
 !!!id: 12575
 !!!signature: 1257500000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8g
-8b
-8b
-=2
-16dd
-16cc
-4a
-=3
-8a
-8cc
-8cc
-=4
-16ee
-16dd
-4b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8g	Kro-
+8b	-wy
+8b	wy-
+=2	=2
+16ddL	-gna-
+16ccJ	.
+4a	-li
+=3	=3
+8a	ko-
+8cc	-zy
+8cc	zo-
+=4	=4
+16eeL	-sta-
+16ddJ	.
+4b}	-ły
 !!LO:LB:g=esac
-=5
-{8.dd
-16b
-16b
-16b
-=6
-16a
-16cc
-8a
-8f#
-=7
-16d
-16f#
-8a
-8b
-=8
-4g}
-8r
-==
-*-
+=5	=5
+{8.dd	prze-
+16b	-de
+16b	dworem
+16b	.
+=6	=6
+16a\	wielki
+16cc	.
+8a\	o-
+8f#	-gród
+=7	=7
+16d	tam
+16f#	ci
+8a	skaka-
+8b/	.
+=8	=8
+4g}	-ły.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Krowy wygnali kozy zostały
+!!przede dworem wielki ogród
+!!tam ci skakały.
+!!@VERSE:
+!!2. Kto je wyganio?
+!!— Ta Antosia, ta,
+!!Ta to grzeczna Łętosia
+!!ta je wyganio.
+!!@VERSE:
+!!3. Kto jéj pomogo?
+!!— Ten Waloszek kłoszek,
+!!ten to grzeczny Łętoszek
+!!ten i (jéj) pomago.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=307 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 291} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 291}
 !!!page: 291
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

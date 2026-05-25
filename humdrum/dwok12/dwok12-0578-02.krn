@@ -3,77 +3,102 @@
 !!!source: DWOK12
 !!!id: 12578
 !!!signature: 1257800002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{4dd
-16dd
-16cc#
-=2
-16a
-32b
-32cc#
-8dd
-8ff#
-=3
-4dd
-16dd
-16cc#
-=4
-16a
-32f#
-32g
-8b
-16g
-16d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{4dd	Tyś
+16ddL	się
+16cc#J	.
+=2	=2
+16aL	Ja-
+32b	-siu
+32cc#J/	.
+8dd	u-
+8eeq	.
+8ff#	-pił,
+=3	=3
+4dd	ja
+16ddL	się
+16cc#J	.
+=4	=4
+16a	nie
+32f#L	u-
+32gJ	.
+8b	-pi-
+16gL	-ła,
+16dJ}	.
 !!LO:LB:g=esac
-=5
-{4g
-16g
-16f#
-=6
-16a
-16cc
-8a
-8dd
-=7
-4g
-16g
-16f#
-=8
-16a
-16cc
-16a
-16b
-8g}
+=5	=5
+{4g	tyś
+16gL	swą
+16f#J	.
+=6	=6
+16a\	kóz-
+8bq	.
+16cc	-kę
+8a\	prze-
+8dd	-pił,
+=7	=7
+4g\	ja
+16gL	ją
+16f#J	.
+=8	=8
+16a'	wy-
+8bq	.
+16cc	-ku-
+16aL	-pi-
+16bJ\	.
+8g}	-ła,
 !!LO:LB:g=esac
-=9
-{4g
-16g
-16f#
-=10
-16a
-16cc
-8a
-8dd
-=11
-8g
-8g
-16g
-16f#
-=12
-16a
-16cc
-16a
-16b
-8g}
-==
-*-
+=9	=9
+{4g	tyś
+16gL	swą
+16f#J	.
+=10	=10
+16a\	kóz-
+8bq	.
+16cc	-kę
+8a\	prze-
+8dd	-pił,
+=11	=11
+8gL	ja
+8gJ	.
+16gL	ją
+16f#J	.
+=12	=12
+16a\	wy-
+8bq	.
+16cc	-ku-
+16aL	-pi-
+16bJ\	.
+8g}	-ła.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!role-listener: Shepherd
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Tyś się Jasiu upił,
+!!ja się nie upiła,
+!!tyś swą kózkę przepił,
+!!ja ją wykupiła.
+!!@VERSE:
+!!2. Kozaryszku Gudła
+!!kózéczka ci schudła.
+!!Dajcie kozie siana
+!!bo koza kochana.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Jak owczarz jest pasterzem owiec, tak kozarz v. koziarz pasterzem kóz.
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=308 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 292} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 292}
 !!!page: 292
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

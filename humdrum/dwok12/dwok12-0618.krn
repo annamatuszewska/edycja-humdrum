@@ -3,116 +3,166 @@
 !!!source: DWOK12
 !!!id: 12618
 !!!signature: 1261800000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/4
-=1
-{8c
-8e
-4.f
-8g
-=2
-8a
-8a
-4.cc
-8cc
-=3
-8cc
-8b-
-4g
-4cc
-=4
-4f}
-4r
-4r
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/4	*
+=1	=1
+{8c	A
+8e	cze-
+4.f	-muś
+8g	mnie
+=2	=2
+8a	ma-
+8a	-tu-
+8aq	.
+4.cc	-sień-
+8cc	-ko
+=3	=3
+8cc	za
+8b-	mąż
+4g	wy-
+4cc	-da-
+=4	=4
+4f}	-ła
+4r	.
+4r	.
 !!LO:LB:g=esac
-=5
-{8c
-8e
-4.f
-8g
-=6
-8a
-8a
-4.cc
-8cc
-=7
-8cc
-8b-
-4g
-4cc
-=8
-4f}
-4r
-4r
+=5	=5
+{8c	jeszcze
+8e	.
+4.f	żem
+8g	sie
+=6	=6
+8a	w_go-
+8a	-spo-
+8aq	.
+4.cc	-darstwie
+8cc	.
+=7	=7
+8cc	nie
+8b-	ro-
+4g	-ze-
+4cc	-zna-
+=8	=8
+4f}	-ła.
+4r	.
+4r	.
 !!LO:LB:g=esac
-=9
-{8a
-8cc
-4.b-
-8a
-=10
-8g
-8e
-4d
-4f
-=11
-4.g
-8c
-8d
-8e
-=12
-8f
-8g
-4a
-4cc}
+=9	=9
+{8a	W_go-
+8aq	.
+8cc	-spo-
+4.b-	-dar-
+8a	-stwie
+=10	=10
+8g	trze-
+8e	-ba
+4d	ro-
+8dQ	.
+4f	-bić,
+=11	=11
+4.g	pod
+8c	strudno-
+8d	.
+8e	-ścią
+=12	=12
+8f	ła-
+8g	-dnie
+4a	cho-
+8aq	.
+4cc}	-dzić
 !!LO:LB:g=esac
-=13
-{8cc
-8b-
-4g
-4cc
-=14
-4f}
-4r
-4r
+=13	=13
+{8cc	ma-
+8b-	-tu-
+4g	-sia
+4cc	mo-
+=14	=14
+4f}	-ja.
+4r	.
+4r	.
 !!LO:LB:g=esac
-=15
-{8a
-8cc
-4.b-
-8a
-=16
-8g
-8e
-4d
-4f
-=17
-4.g
-8c
-8d
-8e
-=18
-8f
-8g
-4a
-4cc}
+=15	=15
+{8a	W_go-
+8aq	.
+8cc	-spo-
+4.b-	-dar-
+8a	-stwie
+=16	=16
+8g	trze-
+8e	-ba
+4d	ro-
+8dQ	.
+4f	-bić,
+=17	=17
+4.g	pod
+8c	strudno-
+8d	.
+8e	-ścią
+=18	=18
+8f	ła-
+8g	-dnie
+4a	cho-
+8aq	.
+4cc}	-dzić
 !!LO:LB:g=esac
-=19
-{8cc
-8b-
-4g
-4cc
-=20
-4f}
-4r
-4r
-==
-*-
+=19	=19
+{8cc	ma-
+8b-	-tu-
+4g	-sia
+4cc	mo-
+=20	=20
+4f}	-ja.
+4r	.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Wife
+!!!role-listener: Mother, Father
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!A czemuś mnie matusieńko za mąż wydała
+!!jeszcze żem sie w gospodarstwie nie rozeznała.
+!!W gospodarstwie trzeba robić,
+!!pod strudnością ładnie chodzić
+!!matusia moja.
+!!@VERSE:
+!!2. Dobrze było u matusi słuchać muzyki,
+!!wygrywali pod okienkiem, gdyby słowiki.
+!!A teraz już wam nie miło,
+!!za mąż mnie wydać nie było,
+!!matusiu moja.
+!!@VERSE:
+!!3. Dobrze było u matusi słuchać muzyki,
+!!wygrywali pod okienkiem gdyby słowiki.
+!!A teraz mnie w téj niewoli
+!!od kłopotu głowa boli,
+!!matusiu moja!
+!!@VERSE:
+!!4. Zaprzęgajcie cztery konie do téj kolasy.
+!!co pojadę i zobaczę jego pałacy.
+!!Zaprzęgajcie i czem-prędzéj,
+!!niech nie robię smutku więcej
+!!matusi mojej.
+!!@VERSE:
+!!5. Zajeżdżają w cztery konie — wszystkie siwosze,
+!!więc rodzice ucałuję, gdy się wynoszę.
+!!Już do nóżek upaduję,
+!!za wychowanie dziękuję
+!!matusi mojéj.
+!!@VERSE:
+!!6. Dziękuję téż, pani matko, za wychowanie,
+!!i tobie téż, panie ojcze, za wykaranie,
+!!Karałeś mnie bez przyczyny,
+!!dostał mi się mój jedyny,
+!!Jasineczek mój.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=339 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 323} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 323}
 !!!page: 323
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

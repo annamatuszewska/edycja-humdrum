@@ -3,69 +3,91 @@
 !!!source: DWOK12
 !!!id: 12608
 !!!signature: 1260800002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-{8b
-=1
-8dd
-4cc
-=2
-8a
-4g
-=3
-8b
-4a
-=4
-8d
-8r
-8g
-=5
-8dd
-4cc
-=6
-8a
-4g
-=7
-8b
-4a
-=8
-8d
-8r
-8b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+!!LO:TX:a:t=Dzieciom przy kołysce.
+{8b	U
+=1	=1
+8dd	ka-
+4cc	-czusz-
+=2	=2
+8a	-ki
+4g	zło-
+=3	=3
+8b	-te
+4a\	nóż-
+=4	=4
+8d	-ki
+8r	.
+8b/	u
+=5	=5
+8dd	ka-
+4cc	-czo-
+=6	=6
+8a	-ra
+4g	zło-
+=7	=7
+8b	-te
+4a\	pió-
+=8	=8
+8d	-ra,
+8r	.
+8g\}	lu-
 !!LO:LB:g=esac
-=9
-{8b
-4a
-=10
-8cc
-4b
-=11
-8dd
-4cc
-=12
-8ee
-8r
-8b
-=13
-8dd
-4cc
-=14
-8a
-4cc
-=15
-8e
-4f#
-=16
-8g}
-4r
-==
-*-
+=9	=9
+{8b	-laj
+4a\	dzie-
+=10	=10
+8cc	-cię
+4b	oj-
+=11	=11
+8dd	-ca
+4cc	ni-
+=12	=12
+8ee	-ma,
+8r	.
+8b	u-
+=13	=13
+8dd	-zuł
+4cc	mie-
+=14	=14
+8a\	-chy
+4cc	wzión
+=15	=15
+8e	do
+4f#	mły-
+=16	=16
+8g}	-na.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!!role-listener: Child
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. U kaczuszki złote nóżki
+!!u kaczora złote pióra,
+!!lulaj dziecię
+!!ojca nima,
+!!uzuł miechy wzión do młyna.
+!!Pod Trzemesznem śpiewają:
+!!@VERSE:
+!!1. Lulaj dziecie do wieczora,
+!!aż mamulka przyjdzie z pola,
+!!przyniesie ci kaczuszkę i kaczora.
+!!@VERSE:
+!!2. U kaczuszki — złote nóżki,
+!!u kaczora — złote pióra,
+!!lulaj dziecie do wieczora.
+!!@@END: VERSES
 !!!ONB: Druga wersja w rytmie ósemka ćwierćnuta
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=322 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 306-307} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 306-307}
 !!!page: 306-307
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

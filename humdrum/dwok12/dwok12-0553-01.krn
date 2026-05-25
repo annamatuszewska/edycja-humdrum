@@ -3,64 +3,87 @@
 !!!source: DWOK12
 !!!id: 12553
 !!!signature: 1255300001
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{4a
-4ee
-4dd#
-=2
-4.ee
-8dd
-8cc
-8cc
-=3
-4b
-4.e
-8dd
-=4
-8cc
-8b
-2a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+{4a\	Ow-
+(4ee	-cza-
+4dd#)	.
+=2	=2
+(4.ee	-ry-
+8ddn)	.
+8cc	-szkowie
+8cc	.
+=3	=3
+4b	skur-
+4.e	-wysy-
+8dd	.
+=4	=4
+8ccL	-nowie,
+8bJ	.
+2a;}	.
 !!LO:LB:g=esac
-=5
-{8e
-8g#
-4b
-4cc
-=6
-4b
-8a
-8g
-4e
-=7
-8e
-8g#
-4b
-4a#
-=8
-4b
-8a
-8g
-4e}
+=5	=5
+{8e	wy-
+8g#	.
+4b/	-gna-
+4cc/	-li
+=6	=6
+4b	owiecz-
+8anL	.
+8gnJ	.
+4e	-ki
+=7	=7
+8eL	wy-
+8g#J	.
+4b\	-gna-
+4a#\	-li
+=8	=8
+4b	owiecz-
+8anL	.
+8gnJ	.
+4e}	-ki
 !!LO:LB:g=esac
-=9
-{8e
-8g#
-8b
-8dd
-4ee
-=10
-8cc
-8b
-2a}
-==
-*-
+=9	=9
+{8eL	na
+8g#J	.
+(8bL	cu-
+8ddJ	.
+4ee)	-dze
+=10	=10
+8ccL	pole.
+8bJ	.
+2a;}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!!role-listener: Maiden
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Owczaryszkowie
+!!skurwysynowie,
+!!wygnali owieczki
+!!na cudze pole.
+!!@VERSE:
+!!2. Oj pędzą, pędzą:
+!!zwonki brząkają:
+!!uciekaj dziewula,
+!!uciekaj jedyna,
+!!bo cię szukają.
+!!@VERSE:
+!!3. Dogonili ją,
+!!dopędzili ją;
+!!i dali w fartuszek
+!!i dali w zielony,
+!!jabłek i kruszek.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=299 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 283} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 283}
 !!!page: 283
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

@@ -3,82 +3,101 @@
 !!!source: DWOK12
 !!!id: 12569
 !!!signature: 1256900001
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8g
-8g
-4b
-4cc
-=2
-8dd
-8ff
-4ee
-4cc
-=3
-8dd
-8ff
-4ee
-4cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8g	Nie
+8g	wyganiaj
+4b	.
+4cc	.
+=2	=2
+8dd	owcza-
+8ff	.
+4ee	-ryszku,
+4cc	.
+=3	=3
+8dd	owczaryszku
+8ff	.
+4ee	.
+4cc}	.
 !!LO:LB:g=esac
-=4
-{8dd
-8ff
-4dd
-8gg
-8ff
-=5
-8ee-
-8dd
-4cc
-4dd
-=6
-8dd
-8ff
-4dd
-8gg
-8ff
-=7
-2.dd}
+=4	=4
+{8dd	owiec
+8ff	.
+4dd	na
+8ggL	ro-
+8ffJ	.
+=5	=5
+8ee-	-sę
+8dd	na
+4cc	ro-
+4dd	-sę,
+=6	=6
+8dd	owiec
+8ff	.
+4dd	na
+8ggL	ro-
+8ffJ	.
+=7	=7
+2.dd}	-sę.
 !!LO:LB:g=esac
-=8
-{4g
-8g
-8b
-8dd
-8cc
-=9
-8g
-8b-
-4a
-4f
-=10
-4g
-8g
-8b
-8dd
-8cc
-=11
-8g
-8b-
-4a
-4f}
+=8	=8
+{4g	Bom
+8gL	wianeczka
+8bJ\	.
+8dd	.
+8cc	.
+=9	=9
+8g	nie
+8b-/	uwi-
+4a	.
+4f	-ła
+=10	=10
+4g	i
+*Xtuplet	*
+12gL	chustecz-
+12a	.
+12bJ	.
+8dd	.
+8cc	.
+=11	=11
+8g	-ki
+8b-/	nie
+4a	wyszyła,
+4f}	.
 !!LO:LB:g=esac
-=12
-{8g
-8b
-4g
-8cc
-8b
-=13
-2.g}
-==
-*-
+=12	=12
+{8gL	cóż
+8bJ\	.
+4g	ci
+8ccL	ponio-
+8bJ	.
+=13	=13
+2.g}	-sę.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!role-listener: Shepherd
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Nie wyganiaj owczaryszku, owczaryszku
+!!owiec na rosę na rosę,
+!!owiec na rosę.
+!!Bom wianeczka nie uwiła
+!!i chusteczki nie wyszyła,
+!!cóż ci poniosę.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY:Nuta nr 133 i 300.
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=304 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 288} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 288}
 !!!page: 288
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

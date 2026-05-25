@@ -3,56 +3,78 @@
 !!!source: DWOK12
 !!!id: 12555
 !!!signature: 1255500001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8dd
-8dd
-16a
-16cc
-=2
-16dd
-16b
-8g
-8b
-=3
-8dd
-8dd
-16a
-16cc
-=4
-16d
-16f#
-8g
-8b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8dd	Wczoraj
+8dd	.
+16a\	była
+16cc	.
+=2	=2
+16dd	niedziołecz-
+16b	.
+8g	.
+8b	-ka
+=3	=3
+8dd	dziś
+8dd	poniedzia-
+16a\	.
+16cc	.
+=4	=4
+16d	-łek
+16f#	da
+8g	działek,
+8ccq	.
+8b}	.
 !!LO:LB:g=esac
-=5
-{8a
-8a
-16a
-16cc
-=6
-16d
-16f#
-8g
-8dd
-=7
-8a
-8a
-16a
-16cc
-=8
-16d
-16f#
-8g
-8b}
-==
-*-
+=5	=5
+{8a	żaden
+8a	.
+16a	mi
+16cc	się
+=6	=6
+16d	nie
+16f#	spodobał
+8g	.
+8dd	.
+=7	=7
+8a	tylko
+8a	.
+16a	o-
+16cc	-wcza-
+=8	=8
+16d	-rek,
+16f#	owcza-
+8g	.
+8ccq	.
+8b}	-rek.
+==	==
+*-	*-
+!!!role-singer: Shepherdess, Shepherd
+!!!role-listener: Shepherdess
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Wczoraj była niedziołeczka
+!!dziś poniedziałek da działek,
+!!żaden mi się nie spodobał
+!!tylko owczarek, owczarek.
+!!@VERSE:
+!!2. Nawróć bydła od moczydła
+!!bo tam szkoda jest da i jest —
+!!od Kotlina nie nawracaj
+!!bo tam moja jest da i jest.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Nuta ob. nr 263.
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=300 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 284} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 284}
 !!!page: 284
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

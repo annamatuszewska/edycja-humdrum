@@ -3,73 +3,107 @@
 !!!source: DWOK12
 !!!id: 12613
 !!!signature: 1261300000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8dd
-4dd
-=2
-8b
-4b
-=3
-8g
-8b
-8a
-=4
-4g
-8r
-=5
-8dd
-8dd
-8cc
-=6
-8b
-8b
-8a
-=7
-8g
-8b
-8a
-=8
-4g}
-8r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8dd	A
+4dd	w_nie-
+=2	=2
+8b	-dzie-
+4b	-lę
+=3	=3
+8g	po
+8b	o-
+8a	-bie-
+=4	=4
+4g	-dzie
+8r	.
+=5	=5
+8dd	szed
+8ddL	pan
+8ccJ/	.
+=6	=6
+8b	Je-
+8bL	-zus
+8aJ/	.
+=7	=7
+8g	po
+8b	ko-
+8a	-lę-
+=8	=8
+4g}	-dzie,
+8r	.
 !!LO:LB:g=esac
-=9
-{8g
-4g
-=10
-8dd
-8cc
-8b
-=11
-8b
-8b
-8cc
-=12
-4a
-8r
-=13
-8g
-8g
-8b
-=14
-8dd
-8cc
-8b
-=15
-8b
-8b
-8a
-=16
-4g}
-8r
-==
-*-
+=9	=9
+{8g	a
+4g\	szed-
+=10	=10
+8ddL	-ci
+8ccJ	.
+8b	on
+=11	=11
+8b	pro-
+8b	-sto
+8cc	dro-
+=12	=12
+4a	-gą
+8r	.
+=13	=13
+8g	na-
+8gL	-tra-
+8bJ	.
+=14	=14
+8ddL	-fił
+8ccJ	.
+8b	ci
+=15	=15
+8b	dziwkę
+8b	.
+8a	z_wo-
+=16	=16
+4g}	-dą.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Jesus
+!!!role-listener: Maiden
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!A w niedzielę po obiedzie
+!!szed pan Jezus po kolędzie,
+!!a szed ci on prosto drogą
+!!natrafił ci dziwkę z wodą.
+!!@VERSE:
+!!2. Dziwko, dziwko, daj mi wody,
+!!dla duszyczków do ochłody.
+!!Jabym rada uody dała,
+!!z drzewa liścia napadało.
+!!@VERSE:
+!!3. Dziéwko, dziwko, uoda czysta,
+!!ale żeś ty bardzo grzészna,
+!!siedmi synów porodziłaś,
+!!w tyj uodzie'ś ich potopiła.
+!!@VERSE:
+!!4. Czyś ty prorok, czyś ty sam Bóg!
+!!upadła mu krzyżem do nóg.
+!!@VERSE:
+!!5. Dziwko, dziwko, nie lękaj się,
+!!idż do kościoła, spowiadaj się;
+!!do kościoła tutejszego,
+!!spowiadaj się z grzéchu swego.
+!!@VERSE:
+!!6. Do kościoła wstępowała,
+!!na sto sążni ziemia drzała;
+!!tak się długo spowiadała,
+!!aż się w próchno rozsypała.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=629 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 613} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 613}
 !!!page: 613
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

@@ -3,98 +3,108 @@
 !!!source: DWOK12
 !!!id: 12558
 !!!signature: 1255800000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{8gg
-8gg
-16ff
-16dd
-=2
-16ee
-16ee
-8cc
-8a
-=3
-16cc
-16cc
-8ee
-16dd
-16b
-=4
-4g}
-8r
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{8gg	Z_tamtéj
+8gg	.
+16ff	strony
+16dd	.
+=2	=2
+16ee	jeziorecz-
+16ee	.
+8cc	.
+8a	-ka
+=3	=3
+16cc	pasie
+16cc	.
+8ee	owcza-
+16ddL	.
+16bJ	.
+=4	=4
+4g}	-rek,
+8r	.
 !!LO:LB:g=esac
-=5
-{16g
-16b
-8b
-16dd
-16ee
-=6
-16ff
-16ff
-8dd
-8b
-=7
-16cc
-16ee
-8ee
-16dd
-16b
-=8
-4g}
-8r
+=5	=5
+{16g	wszystkie
+16b	.
+8b	owce
+16ddL	.
+16eeJ	.
+=6	=6
+16ff	miały
+16ff	.
+8dd	dzwonki,
+8b	.
+=7	=7
+16cc	a
+16ee	on
+8ee	ze-
+16ddL	.
+16bJ	.
+=8	=8
+4g}	-ga-
+8r	.
 !!LO:LB:g=esac
-=9
-{8gg
-8gg
-16ff
-16dd
-=10
-16ee
-16ee
-8cc
-8a
-=11
-16cc
-16cc
-8ee
-16dd
-16b
-=12
-4g}
-8r
+=9	=9
+{8gg	-rek.
+8gg	.
+16ff	Z_tamtéj
+16dd	.
+=10	=10
+16ee	strony
+16ee	.
+8cc	jeziorecz-
+8a	.
+=11	=11
+16cc	.
+16cc	-ka
+8ee	pasie
+16ddL	.
+16bJ	owcza-
+=12	=12
+4g}	.
+8r	.
 !!LO:LB:g=esac
-=13
-{16g
-16b
-8b
-16dd
-16ee
-=14
-16ff
-16ff
-8dd
-8b
-=15
-16cc
-16ee
-16ff
-16ee
-16dd
-16b
-=16
-4g}
-8r
-==
-*-
+=13	=13
+{16g	-rek,
+16b	.
+8b	wszystkie
+16ddL	.
+16eeJ	owce
+=14	=14
+16ff	.
+16ff	.
+8dd	miały
+8b	.
+=15	=15
+16cc	dzwonki,
+16ee	.
+16ffL	a
+16eeJ/	on
+16ddL	ze-
+16bJ	.
+=16	=16
+4g}	.
+8r	-ga-
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Z tamtéj strony jezioreczka
+!!pasie owczarek,
+!!wszystkie owce miały dzwonki,
+!!a on zegarek.
+!!@@END: VERSES
 !!!ONB: Kolberg zapisał w metrum 3/4 zapisano poprawnie na 3/8; alternatywnie można zakodować w G
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=301 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 285} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 285}
 !!!page: 285
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

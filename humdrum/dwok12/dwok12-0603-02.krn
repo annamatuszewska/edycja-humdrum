@@ -3,75 +3,95 @@
 !!!source: DWOK12
 !!!id: 12603
 !!!signature: 1260300002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8g
-8a
-8b
-8cc
-=2
-4.dd
-8cc
-=3
-8b
-8b
-8cc
-8a
-=4
-4g}
-4r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8g	O
+8a	pój-
+8b	-dę
+8cc	ja
+=2	=2
+4.dd	pój-
+8cc	-dę
+=3	=3
+8b	ra-
+8b	-no
+8cc	do
+8a	la-
+=4	=4
+4g}	-sa,
+4r	.
 !!LO:LB:g=esac
-=5
-{8g
-8a
-8b
-8cc
-=6
-4.dd
-8cc
-=7
-8b
-8b
-8cc
-8a
-=8
-4g}
-4r
+=5	=5
+{8g	i
+8a	wez-
+8b	-mę
+8cc	ja
+=6	=6
+4.dd	z_so-
+8cc	-bą
+=7	=7
+8b	to-
+8b	-pór
+8cc	do
+8a	pa-
+=8	=8
+4g}	-sa,
+4r	.
 !!LO:LB:g=esac
-=9
-{8b
-8dd
-8a
-8cc
-=10
-8b
-8dd
-4a
-=11
-8b
-8dd
-8a
-8cc
-=12
-8b
-8b
-4a
-=13
-8b
-8b
-8cc
-8a
-=14
-4g}
-4r
-==
-*-
+=9	=9
+{8b	wyrwi
+8dd	.
+8a\	to-
+8cc	-pór
+=10	=10
+8bL	wyrwider
+8ddJ/	.
+4a	.
+=11	=11
+8b	ko-
+8dd	-pro-
+8a\	-wi-
+8cc	-der
+=12	=12
+8bL	komi-
+8bJ/	.
+4a	-der
+=13	=13
+8b	to-
+8b	-pór
+8cc	do
+8a	pa-
+=14	=14
+4g}	-sa.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. O pójdę ja pójdę rano do lasa,
+!!i wezmę ja z sobą topór do pasa,
+!!wyrwi topór wyrwider
+!!koprowider komider
+!!topór do pasa.
+!!@VERSE:
+!!2. I naścinam sobie chruściu różnego
+!!i uplotę sobie wianeczek z niego;
+!!wyrwi topor i t. d.
+!!@VERSE:
+!!3. I położę sobie na czele swojem,
+!!będzie leżał wianek na czele mojém,
+!!wyrwi topor i t. d.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=619 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 603} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 603}
 !!!page: 603
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

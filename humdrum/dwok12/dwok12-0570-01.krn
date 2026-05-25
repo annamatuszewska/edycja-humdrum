@@ -3,70 +3,94 @@
 !!!source: DWOK12
 !!!id: 12570
 !!!signature: 1257000001
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/4
-=1
-{8f
-16a
-16b-
-4cc
-8ff
-8ee
-=2
-8cc
-8ee
-4.ff
-8cc
-=3
-8ff
-8aa
-4gg
-8ff
-8ee
-=4
-8cc
-8ee
-4.ff
-8cc}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/4	*
+=1	=1
+{8f	Nie
+16aL	wy-
+16b-J	.
+4cc	-ga-
+8ffL	-niaj
+8eeJ	.
+=2	=2
+8cc	owcza-
+8ee	.
+4.ff	-ryszku,
+8cc	.
+=3	=3
+8ff	o-
+8aa	-wiec
+4gg	na
+8ffL	ro-
+8eeJ	.
+=4	=4
+8cc	-sę
+8ee	na
+4.ff	ro-
+8cc}	-sę,
 !!LO:LB:g=esac
-=5
-{8cc
-16b-
-16a
-4g
-4c
-=6
-4.f
-8a
-8b-
-8dd
-=7
-8cc
-16b-
-16a
-4g
-4cc
-=8
-4.f
-8a
-8b-
-8dd}
+=5	=5
+{8cc	bo
+16b-L	ci
+16aJ\	.
+4g\	ow-
+4c\	-ce
+=6	=6
+4.f\	po-
+8a\	-par-
+8b-	-sze-
+8dd	-ją,
+=7	=7
+8cc	bo
+16b-L	ci
+16aJ	.
+4g	ow-
+4cc/	-ce
+=8	=8
+4.f	po-
+8a\	-par-
+8b-	-sze-
+8dd}	-ją,
 !!LO:LB:g=esac
-=9
-{8cc
-16b-
-16a
-4g
-4cc
-=10
-2.f}
-==
-*-
+=9	=9
+{8cc	cie-
+16b-L	-bie
+16aJ	.
+4g	ob-
+4cc	-wie-
+=10	=10
+2.f}	-szą.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!!role-listener: Shepherd
+!!@@BEGIN: VERSES
+!!Nie wyganiaj owczaryszku,
+!!owiec na rosę na rosę,
+!!bo ci owce poparszeją,
+!!ciebie obwieszą.
+!!@VERSE:
+!!2. Nie wyganiaj owczaryszku
+!!owiec na liją
+!!bo ci owce pomarnieją,
+!!ciebie obiją.
+!!@VERSE:
+!!3. Ku borowi gnał owczarek,
+!!ku borowi gnał;
+!!a ja za nim ze śniadaniem,
+!!nie wiem gdzie się dział?
+!!@VERSE:
+!!4. Siedzi sobie na granicy,
+!!wiszcze sobie w rękawicy,
+!!i pchły se chrzusta.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=305 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 289} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 289}
 !!!page: 289
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

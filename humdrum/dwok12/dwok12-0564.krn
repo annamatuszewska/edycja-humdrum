@@ -3,102 +3,133 @@
 !!!source: DWOK12
 !!!id: 12564
 !!!signature: 1256400000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16g
-16b
-8cc
-8ee
-=2
-16gg
-16ee
-8dd
-8ff
-=3
-8aa
-8aa
-16cc
-16ee
-=4
-16gg
-16ee
-8dd
-8ff
-=5
-8aa
-8aa
-16cc
-16ee}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16g	Nie
+16b	pójdę
+8cc	.
+8ee	ja
+=2	=2
+16gg	za
+8ffq	.
+16ee	owczar-
+8dd	.
+8eeq	.
+8ff	-ka
+=3	=3
+8aa	za
+8aa	kpa
+16ccL	da,
+16eeJ	.
+=4	=4
+16gg	za
+8ffq	.
+16ee	owczar-
+8dd	.
+8eeq	.
+8ff	-ka
+=5	=5
+8aa	za
+8aa	kpa
+16ccL	da,
+16eeJ}	.
 !!LO:LB:g=esac
-=6
-{16gg
-16ee
-8dd
-16ff
-16ee
-=7
-8gg
-8dd
-16b
-16g
-=8
-16gg
-32ff
-32ee
-8dd
-16b
-16g}
+=6	=6
+{16gg	bo
+8ffq	.
+16ee	mu
+8dd	śmierdzi
+16ffL	.
+16eeJ	.
+=7	=7
+16gg	bo
+8ffq	.
+16ee	mu
+8dd	śmierdzi
+16ffL	.
+16eeJ	.
+=8	=8
+8gg	sa-
+8dd	-kwa
+16bL	da,
+16gJ	.
+=8	=8
+16ggL	sa-
+32ff	.
+32eeJ/	.
+8dd	-kwa
+16bL	da,
+16gJ}	.
 !!LO:LB:g=esac
-=9
-{16a
-16a
-8f
-16a
-16cc
-=10
-16dd
-16ff
-8dd
-8b-
-=11
-16a
-16a
-8f
-16a
-16cc
-=12
-16dd
-16ff
-8dd
-8b-}
+=9	=9
+{16a	a-
+8b-q	.
+16a	-le
+8f	pójdę
+16aL	.
+16ccJ	.
+=10	=10
+16dd	za
+8eeq	.
+16ff	Jasień-
+8dd	.
+8b-	-ka
+=11	=11
+16a	a-
+8b-q	.
+16a	-le
+8f	pójdę
+16aL	.
+16ccJ	.
+=12	=12
+16dd	za
+8eeq	.
+16ff	Jasień-
+8dd	.
+8b-}	-ka
 !!LO:LB:g=esac
-=13
-{16a
-16a
-8f
-16a
-16cc
-=14
-8g
-8g
-16b-
-16dd
-=15
-16a
-16a
-8f
-16a
-16cc
-=16
-4.g}
-==
-*-
+=13	=13
+{16a\	bo
+8b-q	.
+16a\	mu
+8f	pachnie
+16aL	.
+16ccJ	.
+=14	=14
+8g	koszu-
+8g	.
+8aq	.
+16b-	-leńka
+16dd	.
+=15	=15
+16a\	bo
+8b-q	.
+16a\	mu
+8f	pachnie
+16aL	.
+16ccJ	.
+=16	=16
+4.g;}	da.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Nie pójdę ja za owczarka za kpa da,
+!!bo mu śmierdzi sakwa da,
+!!ale pójdę za Jasieńka
+!!bo mu pachnie koszuleńka
+!!bo mu pachnie da.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=303 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 287} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 287}
 !!!page: 287
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

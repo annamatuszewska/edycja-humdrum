@@ -3,100 +3,126 @@
 !!!source: DWOK12
 !!!id: 12566
 !!!signature: 1256600000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16a
-16cc
-8ee
-8aa
-=2
-16gg
-16gg
-8ee
-8cc
-=3
-8.b
-16dd
-16b
-16g
-=4
-16cc
-16cc
-8ee
-8a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16a\	Czego
+8bq	.
+16cc	.
+8ee	be-
+8aa	-czy-
+=2	=2
+16gg	-cie
+8aaq	.
+16gg	owiecz-
+8ee	.
+8bq	.
+8cc	-ki,
+=3	=3
+8.b	czego
+16dd	.
+16b	beczy-
+16g	.
+=4	=4
+16cc	-cie,
+8bq	.
+16cc	beczycie,
+8ee	.
+8a\}	.
 !!LO:LB:g=esac
-=5
-{16a
-16cc
-16ee
-16aa
-16bb
-16aa
-=6
-16gg
-16gg
-8ee
-8cc
-=7
-8.b
-16dd
-16b
-16g
-=8
-16cc
-16cc
-8ee
-8aa}
+=5	=5
+{16a\	czego
+8bq	.
+16cc	.
+16eeL	be-
+16aa	.
+16bb	-czy-
+16aaJ/	.
+=6	=6
+16gg	-cie
+8aaq	.
+16gg	owiecz-
+8ee	.
+8bq	.
+8cc	-ki,
+=7	=7
+8.b	czego
+16dd	.
+16b	beczy-
+16g	.
+=8	=8
+16cc	-cie,
+8bq	.
+16cc	beczycie,
+8eeL	.
+8aaJ/}	.
 !!LO:LB:g=esac
-=9
-{8.dd
-16ff#
-16ff#
-16dd
-=10
-16gg
-16gg
-8ee
-8cc
-=11
-8.b
-16dd
-16b
-16g
-=12
-16cc
-16cc
-8ee
-8a}
+=9	=9
+{8.dd	owcza-
+16ff#	.
+16ff#	-ryszek
+16dd	.
+=10	=10
+16gg	w_gościńcu
+8aaq	.
+16gg	.
+8ee	.
+8aq	.
+8cc	pije,
+=11	=11
+8.b	a
+16dd	wy
+16b	nie
+16g	wié-
+=12	=12
+16cc	-cie,
+8aq	.
+16cc	nie
+8ee	wiecie,
+8a\}	.
 !!LO:LB:g=esac
-=13
-{8.dd
-16ff#
-16ff#
-16dd
-=14
-16gg
-16gg
-8ee
-8cc
-=15
-8.b
-16dd
-16b
-16g
-=16
-16cc
-16cc
-8ee
-8aa}
-==
-*-
+=13	=13
+{8.dd	owcza-
+16ff#	.
+16ff#	-ryszek
+16dd	.
+=14	=14
+16gg	w_gościńcu
+8aaq	.
+16gg	.
+8ee	.
+8aq	.
+8cc	pije,
+=15	=15
+8.b	a
+16dd	wy
+16b	nie
+16g	wié-
+=16	=16
+16cc	-cie,
+8aq	.
+16cc	nie
+8eeL	wiécie.
+8aaJ/}	.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!role-listener: Shepherdess
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Czego beczycie owieczki,
+!!czego beczycie, beczycie,
+!!owczaryszek w gościńcu pije,
+!!a wy nie wiécie, nie wiécie.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=303 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 287-288} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 287-288}
 !!!page: 287-288
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

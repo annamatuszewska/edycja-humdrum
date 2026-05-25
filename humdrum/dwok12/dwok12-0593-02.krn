@@ -3,53 +3,102 @@
 !!!source: DWOK12
 !!!id: 12593
 !!!signature: 1259300002
-**kern
-*clefG2
-*k[b-]
-*F:
-*M2/4
-=1
-{8cc
-8ff
-8ff
-8ff
-=2
-8ff
-8dd
-4cc
-=3
-8cc
-8cc
-8cc
-8ff
-=4
-8dd
-4cc}
-8r
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M2/4	*
+=1	=1
+{8cc	Poszła
+8ff	.
+8ff	mucha
+8ff	.
+=2	=2
+8ff	po
+8dd	wo-
+4cc	-dę
+=3	=3
+8cc	do
+8cc	zi-
+8cc	-mne-
+8ff	-go
+=4	=4
+8dd	zdro-
+4cc}	-ju,
+8r	.
 !!LO:LB:g=esac
-=5
-{8cc
-8cc
-8cc
-8dd
-=6
-8b-
-8b-
-8b-
-8cc
-=7
-8a
-8a
-8a
-8b-
-=8
-8g
-4f}
-8r
-==
-*-
+=5	=5
+{8ccL	na-
+8ccJ/	-pot-
+8cc	-kał
+8dd	ją
+=6	=6
+8b-L	komar
+8b-J/	.
+8b-	w_drodze,
+8cc	.
+=7	=7
+8a	niedał
+8a	.
+8a	ji
+8b-	po-
+=8	=8
+8g	-ko-
+4f}	-ju.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Fly, Mosquito
+!!!role-listener: Mosquito, Fly
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Poszła mucha po wodę
+!!do zimnego zdroju,
+!!napotkał ją komar w drodze,
+!!niedał ji pokoju.
+!!@VERSE:
+!!2. A kumorze, kumorze,
+!!czego mi zastąpiasz,
+!!co ja se spokojnie ide
+!!pu téj zimnéj wodzie.
+!!@VERSE:
+!!3. A pamiętasz ty mucho,
+!!kiedym był młodzieńcem,
+!!jaki'm to miał kapelusik
+!!(v. dwa piórka miał za czapeczką)
+!!z lewendowym wieńcem.
+!!@VERSE:
+!!4. Pamiętasz ty komarze,
+!!kiedym była panną,
+!!jacy to kawalerowie
+!!czapkowali za mną.
+!!(v. oj niejeden czapkę trzymał
+!!a stojący za mną).
+!!@VERSE:
+!!5. A cóż to tam stukło
+!!co na boru hukło?
+!!Oto komar z dębu spad
+!!złamał sobie w zadku gnat.
+!!@VERSE:
+!!6. Jak się mucha dowiedziała,
+!!zaraz przyleciała,
+!!i wszystkich doktorów
+!!z Poznania wezwała.
+!!@VERSE:
+!!7. Nie trzeba tu doktora,
+!!ale księdza z klasztora;
+!!zaśpiewajcie wilije,
+!!bo już komar nie żyje.
+!!lub: A grajcie mu rachwije (requiem)
+!!już komar nie żyje,
+!!a bo komar z dębu spad,
+!!wybił sobie w zadku gnat.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=315 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 299} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 299}
 !!!page: 299
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

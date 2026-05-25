@@ -3,65 +3,80 @@
 !!!source: DWOK12
 !!!id: 12571
 !!!signature: 1257100002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-{2d
-=1
-8f#
-8g
-4a
-4cc
-=2
-8b
-8dd
-4.ee
-8a
-=
-8cc
-8ee
-4dd
-12cc
-12a
-12b
-=3
-8g
-8d
-4.c
-8d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+{2d;	.
+=1	=1
+8f#	A
+8g	wéj
+4a	go
+4cc	tam!
+=2	=2
+8b	jest
+8dd	ma-
+4.gg	-tu-
+8a	-siu,
+=	=
+8cc	a
+8ee	wej
+4dd	go
+*Xtuplet	*
+12ccL	tam!
+12a	.
+12bJ/	.
+=3	=3
+8g	jest
+8d	da
+4.e	i
+8d}	jest.
 !!LO:LB:g=esac
-=4
-{8d
-8a
-4g
-8f#
-16d
-16c
-=5
-8d
-16f#
-16g
-4a
-8dd
-8a
-=6
-8d
-8a
-4g
-8f#
-16d
-16c
-=7
-8d
-8d
-4.c
-8d}
-==
-*-
+=4	=4
+{8d	Pozna-
+8a	.
+4g	-łam
+8f#L	o-
+16d	.
+16cJ	.
+=5	=5
+8d	-wiecz-
+16f#L	-ki
+16gJ	.
+4a	je-
+8ddL	-go,
+8aJ	.
+=6	=6
+8d	szczekał
+8a	.
+4g	jego
+8f#L	.
+16d	.
+16cJ	.
+=7	=7
+8gL	pies
+8dJ	da
+4.e	i
+8d}	pies.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!role-listener: Miother
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!A wéj go tam!
+!!jest matusiu,
+!!a wej go tam!
+!!jest da i jest.
+!!Poznałam owieczki jego,
+!!szczekał jego pies da i pies.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=305 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 289} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 289}
 !!!page: 289
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

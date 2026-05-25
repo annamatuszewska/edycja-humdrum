@@ -3,56 +3,96 @@
 !!!source: DWOK12
 !!!id: 12580
 !!!signature: 1258000001
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{8f
-8cc
-8cc
-=2
-4cc
-8cc
-=3
-16ee
-16ee
-8ff
-16dd
-16b
-=4
-4cc
-8dd
-=5
-16ee
-16dd
-8ff
-16dd
-16b
-=6
-4cc
-8cc}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{8f	Oj
+8cc	da-
+8cc	-na
+=2	=2
+4cc	da-
+8cc	-na
+=3	=3
+16ee	słu-
+16ee	-ży-
+8ff	-łem
+16ddL	u
+16bJ	.
+=4	=4
+4cc	pa-
+8dd	-na
+=5	=5
+16ee	słu-
+16dd	-ży-
+8ff	-łem
+16ddL	u
+16bJ	.
+=6	=6
+4cc	pa-
+8cc}	-na,
 !!LO:LB:g=esac
-=7
-{8a
-8cc
-8cc
-=8
-4g
-8b-
-=9
-16a
-16g
-8a
-8a
-=10
-4f
-8f}
-==
-*-
+=7	=7
+{8a	oj
+8cc	da-
+8cc	-na
+=8	=8
+4g	da-
+8b-X	-ta
+=9	=9
+16a	nie-
+16g	-le-
+8a	-dwie
+8a	trzy
+=10	=10
+4f	la-
+8f}	-ta.
+==	==
+*-	*-
+!!!role-singer: Swineherd, Lord
+!!!role-listener: Swineherd, Lord
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Oj dana dana służyłem u pana służyłem u pana,
+!!oj dana data nieledwie trzy lata.
+!!@VERSE:
+!!2. Oj dana dynie — i pasałem świnie,
+!!oj dana dasa — pognałem do łasa,
+!!@VERSE:
+!!3. Oj dana dyńkiem — usnąłem pod pieńkiem,
+!!oj dana dylcy — przylecieli wilcy.
+!!@VERSE:
+!!4. Oj dana dusą — porwali mi kusą,
+!!oj dana dudnię — pędzę na południe.
+!!@VERSE:
+!!5. Oj dana dynie — pan rachuje świnie,
+!!oj dana dusą — gdzieżeś podział kusą?
+!!@VERSE:
+!!6. Oj dana dyńkiem — usnąłem pod pieńkiem
+!!oj dana dylcy — przylecieli wilcy.
+!!@VERSE:
+!!7. Oj dana dusą — porwali mi kusą,
+!!oj dana data — pan idzie do bata.
+!!@VERSE:
+!!8. Oj dana dyńca — pójdę do gościńca,
+!!oj dana dylki — i były tam dziéwki.
+!!@VERSE:
+!!9. Oj dana dońca — poszed'em do tońca,
+!!oj dana dana — tańczyłem do rana.
+!!@VERSE:
+!!10. Oj dana dana — przeproszę ja pana,
+!!oj dana dynie — i popędzę świnie.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Śpiew się i na nutę nr. 298. - Ser. VI. nr 254.
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=309 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 293} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 293}
 !!!page: 293
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

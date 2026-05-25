@@ -3,92 +3,148 @@
 !!!source: DWOK12
 !!!id: 12612
 !!!signature: 1261200000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8g
-8b
-4a
-4e
-=2
-4g
-4f#
-4d
-=3
-8f#
-8a
-4cc
-4ee
-=4
-4dd
-4b
-4dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8g	Wielkio
+8b	.
+4a\	dez-
+4e	-dzy
+=2	=2
+8eq	.
+4g	spa-
+4f#	-da-
+4d	-ły
+=3	=3
+8f#	wsy-
+8a	-skie
+4cc	łąc-
+4ee	-ki
+=4	=4
+4dd	za-
+4b	-la-
+4dd}	-ły
 !!LO:LB:g=esac
-=5
-{8cc
-8b
-4g
-4e
-=6
-4f#
-4a
-4g
-=7
-8cc
-8b
-4g
-4e
-=8
-4g
-4f#
-4d}
+=5	=5
+{8cc	ino
+8b	.
+4g	je-
+4e	-dna
+=6	=6
+4f#	zo-
+8f#q	.
+4a	-sta-
+4g	-ła
+=7	=7
+8cc	Kasia
+8b	.
+4g	na
+4e	ni
+=8	=8
+8eq	.
+4g	pa-
+4f#	-sa-
+4d}	-ła.
 !!LO:LB:g=esac
-=9
-{8g
-8b
-4a
-4e
-=10
-4g
-4f#
-4d
-=11
-8f#
-8a
-4cc
-4ee
-=12
-4dd
-4b
-4dd}
+=9	=9
+{8g	Wielkio
+8b	.
+4a\	dez-
+4e	-dzy
+=10	=10
+8eq	.
+4g	spa-
+4f#	-da-
+4d	-ły
+=11	=11
+8f#	wsy-
+8a	-skie
+4cc	łąc-
+4ee	-ki
+=12	=12
+4dd	za-
+4b	-la-
+4dd}	-ły
 !!LO:LB:g=esac
-=13
-{8cc
-16a
-16b
-4g
-4e
-=14
-4f#
-4a
-4g
-=15
-8cc
-16a
-16b
-4g
-4e
-=16
-4g
-4f#
-4d}
-==
-*-
+=13	=13
+{8ccL	ino
+16a	.
+16bJ/	.
+4g	je-
+4e	-dna
+=14	=14
+4f#	zo-
+8f#q	.
+4a	-sta-
+4g	-ła
+=15	=15
+8ccL	Kasia
+16a	.
+16bJ/	.
+4g	na
+4e	ni
+=16	=16
+8eq	.
+4g	pa-
+4f#	-sa-
+4d}	-ła.
+==	==
+*-	*-
+!!!role-singer: Turks, Maiden
+!!!role-listener: Maiden, Turks
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Wielkio dezdzy spadały
+!!wsyskie łącki zalały
+!!ino jedna została
+!!Kasia na ni pasała.
+!!@VERSE:
+!!2. Przyjechali panowie,
+!!ino cami (sami) türkowie:
+!!siadaj Kasinko s nami,
+!!jak z wiernemi panami.
+!!@VERSE:
+!!3. Pocekajcie na chwilę,
+!!az ja wionka dowiję.
+!!A óni ij nie ckali,
+!!cémprędzy jóm porwali.
+!!@VERSE:
+!!4. A la Boga, panowie,
+!!a co wy to robicie;
+!!Bozą mękę mijacie,
+!!ani sie nie zegnacie.
+!!@VERSE:
+!!5. Przyjachali przed wrota,
+!!zapükali na brata:
+!!otwórz wrota wrotnikü
+!!wieziem panią w złotnikü (złotogłów).
+!!@VERSE:
+!!6. A co óna działała,
+!!co się do nas dostała:
+!!Troje dzieci straciła,
+!!we wionkü sie nosiła.
+!!@VERSE:
+!!7. Jedno lezy pod kröską (gruszą)
+!!nakrywała podöską.
+!!A tö drugie pod wiśnią,
+!!ludzie o niem nie myślą.
+!!@VERSE:
+!!8. A tö trzecie pod progiem,
+!!nakrywała bórłogiem.
+!!Teraz siądzie na stolcu (tronie)
+!!będzie z namy pić smolcu.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Na tę nutę śpiewają téż pieśń nr 373 (lub 372).
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=324 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 308} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 308}
 !!!page: 308
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

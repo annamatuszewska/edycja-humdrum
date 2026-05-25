@@ -3,58 +3,80 @@
 !!!source: DWOK12
 !!!id: 12565
 !!!signature: 1256500000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8b
-8dd
-8ee
-8cc
-=2
-8a
-8dd
-8b
-8b
-=3
-8b
-8dd
-8ee
-8cc
-=4
-8a
-8dd
-8b
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8b	Nie
+8dd	pójdę
+8ee	.
+8cc	ja
+=2	=2
+8a	za
+8dd	owczarka,
+8bL	.
+8bJ/	.
+=3	=3
+8b	bo
+8dd	mi
+8ee	go
+8cc	ga-
+=4	=4
+8a	-nią
+8dd	a
+8b	ganią,
+8g\}	.
 !!LO:LB:g=esac
-=5
-{8a
-16g
-16f#
-8e
-8g
-=6
-8a
-8dd
-8b
-8b
-=7
-8a
-16g
-16f#
-8e
-8g
-=8
-8a
-8dd
-8b
-8g}
-==
-*-
+=5	=5
+{8a	bo-
+16gL	-by
+16f#J	.
+8e	mnie
+8g	bił
+=6	=6
+8a	owczą
+8dd	.
+8bL	girą_(nogą)
+8bJ/	.
+=7	=7
+8a	al-
+16gL	-bo
+16f#J	.
+8e	ba-
+8g	-ra-
+=8	=8
+8a	-nią,
+8dd	ba-
+8b	-ra-
+8g\}	-nią.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!role-listener: Bachelor
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Nie pójdę ja za owczarka,
+!!bo mi go ganią a ganią,
+!!boby mnie bił owczą girą (nogą)
+!!albo baranią, baranią.
+!!@VERSE:
+!!2. Czego płaczecie, oczuszka,
+!!czego płaczecie, płaczecie,
+!!a mám-ci ja kochaneczka
+!!w dalekim świecie, da świecie,
+!!@VERSE:
+!!3. Tobie się cieszę, kochanku,
+!!tobie się cieszę, da cieszę;
+!!a jak mi cię matka nie da,
+!!to się ob(w)ieszę, obieszę.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=303 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 287} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 287}
 !!!page: 287
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

@@ -3,47 +3,76 @@
 !!!source: DWOK12
 !!!id: 12615
 !!!signature: 1261500001
-**kern
-*clefG2
-*k[]
-*a:
-*M2/4
-=1
-{4a
-4a
-=2
-2ee
-=3
-8dd
-8dd
-8dd
-8dd
-=4
-8.ee
-16cc
-4b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M2/4	*
+=1	=1
+!!LO:TX:a:t=Dziadowska.
+{4a	Gdzieżeś_to
+4a\	.
+=2	=2
+2ee	był,
+8eeq	.
+=3	=3
+8dd	prze-
+8dd	-klę-
+8dd	-ty
+8dd	sza-
+=4	=4
+8.eeL	-ta-
+16ccJ	.
+4b}	-nie.
 !!LO:LB:g=esac
-=5
-{4dd
-8dd
-8dd
-=6
-4ee
-4a
-=
-12a
-12b
-12cc
-8.dd
-16cc
-=7
-8b
-4a}
-8r
-==
-*-
+=5	=5
+{4dd	Świat
+8dd	żem
+8dd	zwia-
+=6	=6
+4ee	-sto-
+4a	-wał_(przeglądał,
+=7	=7
+8eq	obchodził)
+(12aL	.
+12b	naj-
+12ccJ)	.
+8.dd	.
+16cc	-mil-
+=8	=8
+8b	-szy
+4a\}	Pa-
+8r	-nie.
+==	==
+*-	*-
+!!!role-singer: God, Devil
+!!!role-listener: Devil, God
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Gdzieżeś-to był, przeklęty szatanie?
+!!Świat-żem zwiastował (przeglądał, obchodził)
+!!najmilszy Panie?
+!!@VERSE:
+!!2. A czemu żeś go tak prędko zwiastował?
+!!Gdy każesz, to zwolna będę go turbował.
+!!@VERSE:
+!!3. Nie widział-żeś tam Jopa świętego?
+!!@VERSE:
+!!4. Widział-żem ci go', przepuść mnie na niego.
+!!Na ciało puszczę, ale na duszę nie.
+!!Kazałeś Panie, niechaj-że się stanie.
+!!@VERSE:
+!!5. Jak-ci go się jón (jął) swemi pazurami,
+!!obsypał go ode łba do dołu wrzodami.
+!!@VERSE:
+!!6. Już-ci święty Jop w brzydkiém błocie leży,
+!!żrą go robaki, jako wiercimaki.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=326 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 310} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 310}
 !!!page: 310
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

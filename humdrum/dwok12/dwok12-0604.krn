@@ -3,111 +3,142 @@
 !!!source: DWOK12
 !!!id: 12604
 !!!signature: 1260400000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16b
-8dd
-8dd
-=2
-16ee
-16cc
-4a
-=3
-16g
-16b
-8cc
-16a
-16f#
-=4
-4.d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	By-
+16b	-łem
+8dd	ci
+8dd	ja
+=2	=2
+16ee	go-
+16cc	-spo-
+4a\	-darzem
+=3	=3
+16g	dość
+16b	dłu-
+8cc	-go
+16aL	hoj-
+16f#J	.
+=4	=4
+4.d}	-nym,
 !!LO:LB:g=esac
-=5
-{16g
-16b
-8dd
-8dd
-=6
-16ee
-16cc
-8a
-8a
-=7
-16g
-16b
-8cc
-16a
-16f#
-=8
-4.d}
+=5	=5
+{16g	by-
+16b	-łem
+8dd	ci
+8dd	ja
+=6	=6
+16ee	go-
+16cc	-spo-
+8aL	-darzem
+8aJ	.
+=7	=7
+16g	dość
+16b	dłu-
+8cc	-go
+16aL	hoj-
+16f#J	.
+=8	=8
+4.d}	-nym,
 !!LO:LB:g=esac
-=9
-{16g
-16e
-8.d
-16f#
-=10
-16f#
-16a
-8cc
-8b
-=11
-16g
-16e
-8.d
-16f#
-=12
-16f#
-16a
-8cc
-8b}
+=9	=9
+{16g	Słu-
+16e	-py
+8.dL	by-
+16f#J	-ły
+=10	=10
+16f#	ze
+16a	trzci-
+8cc	-ny,
+8b	drzwi
+=11	=11
+16g	by-
+16e	-ły
+8.dL	.
+16f#J	z_pa-
+=12	=12
+16f#	-ję-
+16a	-czy-
+8cc	-ny,
+8b}	a
 !!LO:LB:g=esac
-=13
-{16g
-16b
-8cc
-16a
-16f#
-=14
-16a
-16cc
-4ee
-=15
-16dd
-16b
-8cc
-16a
-16f#
-=16
-4.d}
+=13	=13
+{16g	o-
+16b	-kna
+8cc	z_lo-
+16aL	.
+16f#J	-du
+=14	=14
+16a	da
+16cc	z_lodu,
+4ee	a
+=15	=15
+16dd	o-
+16b	-kna
+8cc	z_lo-
+16aL	.
+16f#J	-du,
+=16	=16
+4.d}	a
 !!LO:LB:g=esac
-=17
-{16g
-16b
-8cc
-16a
-16f#
-=18
-16a
-16cc
-8ee
-8ee
-=19
-16dd
-16b
-8cc
-16a
-16f#
-=20
-4.d}
-==
-*-
+=17	=17
+{16g	o-
+16b	-kna
+8cc	z_lo-
+16aL	.
+16f#J	-du
+=18	=18
+16a	da
+16cc	z_lodu,
+8eeL	.
+8eeJ/	a
+=19	=19
+16dd	o-
+16b	-kna
+8cc	z_lo-
+16aL	.
+16f#J	-du.
+=20	=20
+4.d}	.
+==	==
+*-	*-
+!!!role-singer: Farmer
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Byłem-ci ja gospodarzem
+!!dość długo hojnym,
+!!miałem-ci ja chałupeczkę
+!!dosyć przystojną.
+!!Słupy były ze trzciny,
+!!drzwi były z pajęczyny,
+!!a okna z lodu da z lodu, a okna z lodu.
+!!@VERSE:
+!!2. Miałem-ci ja stodołeczkę
+!!z dwiema ścianami,
+!!có-żem woził do nij zboże
+!!dwiema świniami.
+!!Psy młóciły pazurami,
+!!koty wiały ogonami,
+!!ptaki mierzyły pyskami,
+!!ptaki mierzyły.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: 1) Na tchórzów.
+!!Czapka sobola tchórzem podszyta,
+!!szabla przy oku, nigdy nie dobyta.
+!!Boże, bądź miłości(w)!
+!!Dokąd droga? - Do Pakości.
+!!Jest tam kościół murowany i t. d.
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=321 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 305} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 305}
 !!!page: 305
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

@@ -3,74 +3,85 @@
 !!!source: DWOK12
 !!!id: 12562
 !!!signature: 1256200000
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M3/8
-=1
-{16cc
-16ee-
-8.gg
-16dd
-=2
-16ff
-16ff
-8ee-
-8dd
-=3
-16cc
-16ee-
-4ff}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M3/8	*
+=1	=1
+{16cc	Nie
+16ee-	pójdę
+8.gg	.
+16dd	ja
+=2	=2
+16ff	za
+16ff	owczarka
+8ee-	.
+8dd	.
+=3	=3
+16ccL	za
+16ee-J	.
+4ff}	psa,
 !!LO:LB:g=esac
-=4
-{16cc
-16ee-
-8.gg
-16dd
-=5
-16ff
-16ff
-8ee-
-8dd
-=6
-16cc
-16a
-4b-}
+=4	=4
+{16cc	bo
+16ee-	mu
+8.gg	śmierdzi
+16dd	.
+=5	=5
+16ff	chaba-
+16ff	.
+8ee-	-ni-
+8dd	-ną
+=6	=6
+16ccL	kabza.
+16aJ	.
+4b-}	.
 !!LO:LB:g=esac
-=7
-{16f
-16a
-8.b-
-16dd
-=8
-16ff
-16ff
-8ee-
-8dd
-=9
-16cc
-16ee-
-4ff}
+=7	=7
+{16f	I-
+16a	-no
+8.b-	pójdę
+16dd	.
+=8	=8
+16ff	za
+16ff	miejskiego
+8ee-	.
+8dd	.
+=9	=9
+16ccL	sy-
+16ee-J	.
+4ff}	-na,
 !!LO:LB:g=esac
-=10
-{16f
-16a
-8.b-
-16dd
-=11
-16ff
-16ff
-8ee-
-8dd
-=12
-16cc
-16a
-4b-}
-==
-*-
+=10	=10
+{16f	bo
+16a	mi
+8.b-	pachnie
+16dd	.
+=11	=11
+16ff	z_ta-
+16ff	-la-
+8ee-	-rami
+8dd	.
+=12	=12
+16ccL	skrzynia.
+16aJ	.
+4b-}	.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Nie pójdę ja za owczarka za psa,
+!!bo mu śmierdzi chabaniną kabza.
+!!Ino pójdę za miejskiego syna,
+!!bo mi pachnie z talarami skrzynia.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=302 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 286} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 286}
 !!!page: 286
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11
