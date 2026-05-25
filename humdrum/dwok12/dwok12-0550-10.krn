@@ -3,54 +3,73 @@
 !!!source: DWOK12
 !!!id: 12550
 !!!signature: 1255000010
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16g
-16b
-8cc
-8dd
-=2
-16ff
-16ff
-8gg
-8ee
-=3
-16ee
-16ee
-8dd
-16ee
-16ff
-=4
-8.gg
-16ee
-8gg}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+!!LO:TX:a:t=Owczarz.
+{16g	W_sieni
+16b	.
+8cc	obe-
+8dd	.
+=2	=2
+16ff	-rek
+16ff	matusiu,
+8gg	.
+8ee	.
+=3	=3
+16eem	w_sieni
+16ee	.
+8dd	o-
+16eeL	-be-
+16ffJ	.
+=4	=4
+8.gg	-rek,
+(16ee	.
+8gg)}	.
 !!LO:LB:g=esac
-=5
-{16dd
-16dd
-8cc
-8b
-=6
-16g
-16b
-8dd
-8dd
-=7
-16dd
-16dd
-8a
-16cc
-16b
-=8
-4.g}
-==
-*-
+=5	=5
+{16dd	żaden
+16dd	.
+8cc	mi
+8b	się
+=6	=6
+16g	nie
+16b	podo-
+8dd	.
+8dd	-ba
+=7	=7
+16dd	tylko
+16dd	.
+8a	Ksawe-
+16ccL	.
+16bJ	.
+=8	=8
+4g	-rek.
+8r-}	.
+==	==
+*-	*-
+!!!role-singer: Maiden, Bachelor
+!!!role-listener: Mother
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. W sieni oberek matusiu,
+!!w sieni oberek,
+!!żaden mi się nie podoba
+!!tylko Ksawerek.
+!!@VERSE:
+!!2. Wysoki las, niskie pole,
+!!oberek, życie moje.
+!!Choćbym strzelił to się boję,
+!!bobym zabił Baśkę moje.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=298 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 282} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 282}
 !!!page: 282
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

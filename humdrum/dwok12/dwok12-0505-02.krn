@@ -3,64 +3,74 @@
 !!!source: DWOK12
 !!!id: 12505
 !!!signature: 1250500002
-**kern
-*clefG2
-*k[]
-*C:
-*M6/8
-=1
-{8cc
-8cc
-8cc
-4ff
-8dd
-=2
-8b
-8cc
-8a
-4g
-8f
-=3
-8d
-8e
-8f
-4a
-8g
-=4
-8e
-8f
-8d
-4e
-8c}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M6/8	*
+=1	=1
+{8cc	Kieby
+8cc	.
+8cc	mak
+4ff	kwitnie
+8dd	.
+=2	=2
+8b	pięknie
+8cc	.
+8a	w_ogrodzie,
+4g	.
+8f	.
+=3	=3
+8d	tak
+8e	téż
+8f	żołnierze
+4a	.
+8g	.
+=4	=4
+8e	stoją
+8f	.
+8d	w_paradzie.
+4e	.
+8c}	.
 !!LO:LB:g=esac
-=5
-{8e
-8e
-8e
-4g
-8e
-=6
-8d
-8e
-8f
-4a
-8g
-=7
-8g
-8ff
-8dd
-4cc
-8ee
-=8
-8b
-8b
-8dd
-4dd
-8cc}
-==
-*-
+=5	=5
+{8e	Boć
+8e	to
+8e	żołnirze,
+4g	.
+8e	.
+=6	=6
+8d	wielcy
+8e	.
+8f	woi-
+4a	.
+8g	-że,
+=7	=7
+8g	nie
+8ff	jedny
+8dd	.
+4cc	matki,
+8ee	.
+=8	=8
+8bL	by
+8b	żywe
+8ddJ/	.
+4dd	kwiatki.
+8cc}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Kieby mak kwitnie pięknie w ogrodzie,
+!!tak téż żołnierze stoją w paradzie.
+!!Boć to żołnirze, wielcy woiże,
+!!nie jedny matki, by żywe kwiatki.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=278 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 262} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 262}
 !!!page: 262
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

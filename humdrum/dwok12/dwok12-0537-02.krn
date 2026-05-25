@@ -3,69 +3,81 @@
 !!!source: DWOK12
 !!!id: 12537
 !!!signature: 1253700002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-32a
-32b
-8dd
-16ff#
-16ee
-=2
-16a
-16ee
-8dd
-8cc
-=3
-16g
-32cc
-32b
-8dd
-16ff#
-16ee
-=4
-16a
-16ee
-8dd
-8cc}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+!!LO:TX:a:t=Pasterska.
+{16gL	U-
+32a	-liń
+32bJ	.
+8dd	mi
+16ff#XL	się
+16eeJ	.
+=2	=2
+16a\	piszczałeczko,
+16ee	.
+8dd	.
+8cc	.
+=3	=3
+16gL	da
+32cc	.
+32bJ	.
+8dd	bo
+16ff#XL	cię
+16eeJ	.
+=4	=4
+16a\	wyćpię
+16ee	.
+8dd	za
+8cc}	płot,
 !!LO:LB:g=esac
-=5
-{16g
-16a
-16g
-32f
-32e
-16d
-32e
-[32f
-=6
-16f]
-16a
-8dd
-8cc
-=7
-16g
-16a
-16g
-32f
-32e
-16d
-32e
-[32f
-=8
-16f]
-16a
-16cc
-16b
-8g}
-==
-*-
+=5	=5
+{16g	po-
+16a	-dep-
+16gL	-ce
+32f	.
+32eJ	.
+16dL	cię
+32e	.
+[32fJ	.
+=6	=6
+16f]	stara
+16a	.
+8dd	ba-
+8cc	-ba,
+=7	=7
+16g	da
+16a	i
+16gL	czu-
+32f	.
+32eJ	.
+16dL	-ba-
+32e	.
+[32fJ	.
+=8	=8
+16f]	-ty
+16a	.
+16ccL	kokot.
+16bJ	.
+8g}	.
+==	==
+*-	*-
+!!!role-singer: Pipemaker
+!!!role-listener: Pipe
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Uliń mi się piszczałeczko,
+!!da bo cię wyćpię za płot,
+!!podepce cię stara baba,
+!!da i czubaty kokot.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=293 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 277-278} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 277-278}
 !!!page: 277-278
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

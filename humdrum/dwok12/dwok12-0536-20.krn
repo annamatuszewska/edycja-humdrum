@@ -9,38 +9,38 @@
 *G:
 *M3/8
 =1
-{16d
+{16dL
+16f#J
+16aL\
 16f#
-8a
-16f#
-16g
+8gJ
 =2
-16b
+16bL
 16dd
-8cc
-16b
-16g
+8ccJ
+16bL
+16gJ
 =3
-16f#
-16a
-4dd
+16f#L
+16aJ
+4g\
 =4
-16d
-16f#
-8a
+16dL
+16f#J
+8aL
 16cc
-16dd
+16ddJ/
 =5
-16b
-16dd
-16cc
-16a
-16b
-16g
+16bL
+16ddJ
+16ccL
+16aJ/
+16bL
+16gJ
 =6
-16f#
-16a
-4g}
+16f#L
+16aJ
+4dd/}
 ==
 *-
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
@@ -48,3 +48,5 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=293 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 277} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 277}
 !!!page: 277
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

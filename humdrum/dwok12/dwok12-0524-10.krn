@@ -3,60 +3,82 @@
 !!!source: DWOK12
 !!!id: 12524
 !!!signature: 1252400010
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8g
-8b
-4.dd
-8cc#
-=2
-8a
-8ee
-4.dd
-8b
-=3
-8g
-16g
-16b
-4.dd
-8cc
-=4
-8a
-16a
-16b
-4.g
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8g	Chłopek
+8b	.
+4.dd	ja
+8cc#	nie
+=2	=2
+8a	lada
+8ee	.
+4.dd	chłopek,
+8b	.
+=3	=3
+8g	mam
+16gL	stary
+16bJ	.
+4.dd	.
+8cc	grosz
+=4	=4
+8a	mam
+16aL	i
+16bJ	.
+4.g	snopek.
+8g}	.
 !!LO:LB:g=esac
-=5
-{8f#
-8a
-4.cc
-8f#
-=6
-8g
-16a
-16b
-4.g
-8d
-=7
-8f#
-8a
-4.cc
-8f#
-=8
-8g
-16a
-16b
-4g
-4g}
-==
-*-
+=5	=5
+{8f#	Mam
+8a	koni-
+4.cc	.
+8f#	-ki
+=6	=6
+8g	mam
+16aL	i
+16bJ	.
+4.g	woły,
+8d	.
+=7	=7
+8f#	mam
+8a	owieczki
+4.cc	.
+8f#	.
+=8	=8
+8g	mam
+16aL	i
+16bJ	.
+4g	pszczoły.
+4g}	.
+==	==
+*-	*-
+!!!role-singer: Peasant
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Chłopek ja nie lada chłopek,
+!!mam stary grosz mam i snopek.
+!!Mam koniki mam i woły,
+!!mam owieczki mam i pszczoły.
+!!@VERSE:
+!!2. Mam sukmanę, mam kożuszek,
+!!Zofka bety, sześć poduszek.
+!!Siwy baran u méj czapki,
+!!wierzch jaśnisty, pas ze siatki.
+!!@VERSE:
+!!3. Kocham Zofkę, boć wej żona,
+!!uściskam ją, a mnie ona!
+!!A wieczorem na oktawce (pozytywce),
+!!zawsze brzdąkam mojéj Zofce.
+!!(tu przygrywka).
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=287 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 271-272} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 271-272}
 !!!page: 271-272
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

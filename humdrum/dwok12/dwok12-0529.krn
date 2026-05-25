@@ -3,76 +3,117 @@
 !!!source: DWOK12
 !!!id: 12529
 !!!signature: 1252900000
-**kern
-*clefG2
-*k[]
-*C:
-*M4/4
-=1
-{8cc
-8b
-8cc
-8dd
-4.ee
-8cc
-=2
-8b
-8cc
-8dd
-8b
-4cc
-4g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M4/4	*
+*met(c)	*
+=1	=1
+{8cc	O
+8b	jakie
+8cc	.
+8dd	to
+4.ee	ciężkie
+8cc	.
+=2	=2
+8b	wtrącenie
+8cc	.
+8dd	.
+8b	do
+4cc	więźnia,
+4g\}	.
 !!LO:LB:g=esac
-=3
-{8dd
-8dd
-8dd
-8ee
-4.ff
-8ee
-=4
-8dd
-8dd
-8ee
-8dd
-4dd
-4cc}
+=3	=3
+{8dd	dadzą
+8dd	.
+8dd	pościółecz-
+8ee	.
+4.ff	.
+8ee	-kę
+=4	=4
+8dd	z_półsnopeczka
+8dd	.
+8ee	.
+8dd	.
+4dd	sło-
+4cc}	-my.
 !!LO:LB:g=esac
-=5
-{8cc
-8b
-8cc
-8dd
-4.ee
-8ee
-=6
-8gg
-8gg
-8ff
-8ee
-8ee
-8ff
-4dd}
+=5	=5
+{8cc	O
+8b	jakie
+8cc	.
+8dd	to
+4.ee/	ciężkie
+8ee/	.
+=6	=6
+8ggL	wtrącenie
+8gg	.
+8ff	.
+8eeJ/	do
+8eeL	więźnia,
+8ffJ/	.
+4dd/}	.
 !!LO:LB:g=esac
-=7
-{8dd
-8dd
-8dd
-8ee
-4.ff
-8ee
-=8
-8dd
-8dd
-8ee
-8dd
-8dd
-8b
-4cc}
-==
-*-
+=7	=7
+{8dd	dadzą
+8dd	.
+8dd	pościółecz-
+8ee	.
+4.ff	.
+8ee	-kę
+=8	=8
+8dd	z_półsnopeczka
+8dd	.
+8ee	.
+8dd	.
+8ddL	sło-
+8bJ/	.
+4cc}	-my.
+==	==
+*-	*-
+!!!role-singer: Prisoner
+!!!role-listener: Brother, Sister
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. O jakie to ciężkie
+!!wtrącenie do więźnia,
+!!dadzą pościółeczkę
+!!z półsnopeczka słomy.
+!!@VERSE:
+!!2. Traktamentu na dzień
+!!fójnt chleba dostanę,
+!!nędzne życie moje,
+!!nędzne, opłakane.
+!!@VERSE:
+!!3. Mówiła-ć mi matka
+!!i ojciec kochany,
+!!że się będą pastkwić
+!!nade mną tyrany.
+!!@VERSE:
+!!4. Jam nie słuchał ojca,
+!!ni przestrady brata;
+!!teraz muszę nędzić
+!!moje młode lata.
+!!@VERSE:
+!!5. O bracie mój, bracie
+!!żebym cię był słuchał,
+!!nie byłbym ja teraz
+!!ketami (kajdany) pobrzunkał.
+!!@VERSE:
+!!6. O siostro, siostro,
+!!serca kamiónnego,
+!!masz brata we więźniu,
+!!nie wspomnisz na niego.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: przestrada, przésprada = przestroga.
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=289 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 273} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 273}
 !!!page: 273
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

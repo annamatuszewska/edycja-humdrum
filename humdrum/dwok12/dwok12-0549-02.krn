@@ -3,51 +3,65 @@
 !!!source: DWOK12
 !!!id: 12549
 !!!signature: 1254900002
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{8cc
-8ee
-16ee
-16cc
-=2
-4ee
-16dd
-16b
-=3
-8g#
-8b
-8dd
-=4
-32b
-16.cc
-4a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{8cc	Tyl-
+8ee	-ko
+16eeL	tak
+16ccJ/	.
+=2	=2
+4ee	powiedz
+16ddnL	.
+16bJ	.
+=3	=3
+8g#	żeś
+8b	wydo-
+8dd	.
+=4	=4
+32bL	-ji-
+16.ccJ	.
+4a}	-ła,
 !!LO:LB:g=esac
-=5
-{8a
-32cc
-16.a
-32cc
-16.a
-=6
-4b
-8g#
-=7
-8e
-8g#
-32b
-16.dd
-=8
-32b
-16.cc
-4a}
-==
-*-
+=5	=5
+{8a	przyszła
+32ccL	.
+16.aJ/	.
+32ccL	ko-
+16.aJ/	.
+=6	=6
+4b	-tecz-
+8g#	-ka
+=7	=7
+8e	mli-
+8g#	-ko
+32bL	wy-
+16.ddJ	.
+=8	=8
+32bL	-pi-
+16.ccJ	.
+4a}	-ła.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!!role-listener: Shepherdess
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Nie powiadajże przed owczarczykiem,
+!!a żeś wygnała owieczki z mlikiem.
+!!Tylko tak powiedz żeś wydojiła,
+!!przyszła koteczka mliko wypiła.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: Nuta nr 76.
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=298 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 282} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 282}
 !!!page: 282
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

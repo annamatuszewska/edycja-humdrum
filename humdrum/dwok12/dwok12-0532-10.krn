@@ -3,79 +3,95 @@
 !!!source: DWOK12
 !!!id: 12532
 !!!signature: 1253200010
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{4a
-8cc
-8ee
-8gg
-8ee
-=2
-8dd
-8b
-4g
-4b
-=3
-4dd
-4cc
-4ee}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{4a	Jakżem
+8cc	.
+8ee	pojechał
+8gg	.
+8ee	.
+=2	=2
+8dd	taterczy-
+8b	.
+4g	.
+4b	-sko
+=3	=3
+4dd	odwracać
+4cc	.
+4ee}	.
 !!LO:LB:g=esac
-=4
-{4a
-8cc
-8ee
-8gg
-8ee
-=5
-8dd
-8b
-4g
-4b
-=6
-4dd
-4cc
-4a}
+=4	=4
+{4a	nie
+8cc	chciał
+8ee	.
+8gg	mi
+8ee	się
+=5	=5
+8dd	gniady
+8b	.
+4g	konik
+4b	.
+=6	=6
+4dd	nawracać.
+4cc	.
+4a}	.
 !!LO:LB:g=esac
-=7
-{4g
-8b
-8a
-8cc
-8ee
-=8
-8dd
-8b
-4g
-4b
-=9
-4dd
-4cc
-4ee}
+=7	=7
+{4g\	Oj
+8b\	trze-
+8a\	.
+8cc	-ba-
+8ee	-by
+=8	=8
+8dd	dziewcząteczka
+8b	.
+4g	.
+4b	.
+=9	=9
+4dd	dobrego,
+4cc	.
+4ee}	.
 !!LO:LB:g=esac
-=10
-{8b
-8cc
-8b
-8a
-8cc
-8ee
-=11
-8dd
-8b
-4g
-4b
-=12
-4dd
-4cc
-4a}
-==
-*-
+=10	=10
+{8bL	oj
+8ccJ/	.
+8bL	co
+8aJ	nawró-
+8cc	.
+8ee	-ci
+=11	=11
+8dd	tego
+8b	.
+4g	mego
+4b	.
+=12	=12
+4dd	gniadego.
+4cc	.
+4a}	.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Jakżem pojechał taterczysko odwracać
+!!nie chciał mi się gniady konik nawracać.
+!!Oj trzebaby dziewcząteczka dobrego,
+!!oj co nawróci tego mego gniadego.
+!!@VERSE:
+!!2. Niedaleko Biskupice Kotłowa,
+!!odpadła mi konikowi podkowa.
+!!Trzebaby się w tym Kotłowie zabawić,
+!!konikowi podkóweczkę przyprawić.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=291 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 275} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 275}
 !!!page: 275
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

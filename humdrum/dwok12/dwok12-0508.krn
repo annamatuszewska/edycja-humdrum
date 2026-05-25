@@ -3,95 +3,178 @@
 !!!source: DWOK12
 !!!id: 12508
 !!!signature: 1250800000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{4ee
-4ee
-4ee
-=2
-8ee
-8ee
-4dd
-8b
-8e
-=3
-8g#
-8b
-4dd
-8cc
-8b
-=4
-4a
-2e}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+{4ee	Tam
+4ee	z_ty
+4ee	stróny
+=2	=2
+8ee	jezio-
+8ee	.
+4dd	-reczka
+8ccq	.
+8bL	.
+8eJ\	.
+=3	=3
+8g#	stoji
+8b	.
+4dd	kóń
+8ccL	bu-
+8bJ	.
+=4	=4
+4a\	-ławy,
+2e}	.
 !!LO:LB:g=esac
-=5
-{8g#
-8g#
-4b
-4e
-=6
-8g#
-8b
-4dd
-4e
-=7
-8g#
-8b
-4dd
-8cc
-8b
-=8
-4a
-2e}
+=5	=5
+{8g#	oj
+8g#	wy-
+4b	-wija,
+4e	.
+=6	=6
+8g#	oj
+8b	wy-
+4dd	-wija
+4e	.
+=7	=7
+8g#	Jasio
+8b	.
+4dd	mój
+8ccL	ko-
+8bJ	.
+=8	=8
+4a\	-chany.
+2e}	.
 !!LO:LB:g=esac
-=9
-{4ee
-4ee
-8ee
-8ee
-=10
-8ee
-8ee
-4dd
-8b
-8a
-=11
-8g#
-8b
-4dd
-8cc
-8b
-=12
-4a
-2e}
+=9	=9
+{4ee	Tam
+4ee	z_ty
+8eeL	stróny
+8eeJ	.
+=10	=10
+8ee	jezio-
+8ee	.
+4dd/	-reczka
+8ccq	.
+8bL	.
+8aJ	.
+=11	=11
+8g#	stoji
+8b	.
+4dd	kóń
+8ccL	bu-
+8bJ	.
+=12	=12
+4a\	-ławy,
+2e}	.
 !!LO:LB:g=esac
-=13
-{8g#
-8g#
-4b
-4e
-=14
-8g#
-8b
-4dd
-4e
-=15
-8g#
-8b
-4dd
-8cc
-8b
-=16
-4a
-2e}
-==
-*-
+=13	=13
+{8g#	oj
+8g#	wy-
+4b	-wija,
+4e	.
+=14	=14
+8g#	oj
+8b	wy-
+4dd	-wija
+4e	.
+=15	=15
+8g#	Jasio
+8b	.
+4dd	mój
+8ccL	ko-
+8bJ	.
+=16	=16
+4a\	-chany.
+2e}	.
+==	==
+*-	*-
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Tam z ty stróny jezioreczka
+!!stoi kóń buławy,
+!!oj wywija, oj wywija
+!!Jasio mój kochany.
+!!@VERSE:
+!!2. Jak wywija, tak wywija,
+!!szablą wymachuje,
+!!a kónicek pod Jasinkiem
+!!sobie wyskakuje.
+!!@VERSE:
+!!3.Kasia na górecce stała,
+!!na Jasia patrzała:
+!!cóż ón téż tam na wojence,
+!!cóż ón tam zeskóra!
+!!@VERSE:
+!!4. A ón ci-k téz nic nie skórał,
+!!tylko ze bić dostał (został zbity),
+!!kunikowi doda śporów (Sporn)
+!!i ucieka ostro.
+!!@VERSE:
+!!5. Uciékaj-ze Jasinecku,
+!!uciékaj z wojenki;
+!!poginęli tam Polacy,
+!!a nie wszescy Niemcy.
+!!@VERSE:
+!!6. Nia bój się ty Kasinecku,
+!!nie bedzie nic tobie;
+!!tyś nie była na wojence,
+!!a ja żołniérz sobie.
+!!@VERSE:
+!!7. Bywa(ł)-ć ja ci na wojence
+!!dzień i nockę w ogniu,
+!!rzucili się wszéscy na mnie,
+!!jak na ptaska w pölu.
+!!@VERSE:
+!!8. A jam się téz tak uwijał
+!!z tą sabelką moją,
+!!i tak sobie jo pomyślą,
+!!musę zginąć w pölu.
+!!@VERSE:
+!!9. Kónikowi doda śporów,
+!!i ucieka ostro,
+!!tam z ty strony o rowiku (za rowem?)
+!!stoji grób Polaków.
+!!@VERSE:
+!!10. Jak sie wséscy o rzucili,
+!!wséstkich poranili,
+!!az do jednego Niemiaska,
+!!a wielu zabili.
+!!@VERSE:
+!!11. Przysed z góry, przysed Pan Bóg,
+!!przysed ón-ci-k z nieba,
+!!pyta go się: mój zołmierzu,
+!!co ci to potrzeba?
+!!@VERSE:
+!!12. Mówi on mu: mój zołmierzu,
+!!wróć ty się do domü,
+!!suz (złóż) ty główkę Kasinecce,
+!!suz ty jéj na łonü.
+!!@VERSE:
+!!13. Pyta Kasia Jasinecka:
+!!co ci to brakuje?
+!!cy ja się nie spodobała,
+!!nic ci nie smakuje.
+!!@VERSE:
+!!14. Nie widzis ty Kasinecko,
+!!jak'em poraniony;
+!!bywa(ł)-ć ja-ci na wojence,
+!!jescem nie stracony.
+!!@@END: VERSES
+!!!ONB@texture: Only voice or instrument is playing at a time
+!!@@BEGIN: 
+!!@COMMENTARY: [Niemcy:] czasami: Miemcy, Miemiaski
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=279 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 263} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 263}
 !!!page: 263
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

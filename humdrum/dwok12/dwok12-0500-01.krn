@@ -3,72 +3,102 @@
 !!!source: DWOK12
 !!!id: 12500
 !!!signature: 1250000001
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M4/4
-=1
-{4f
-4b-
-4b-
-4b-
-=2
-4b-
-8a
-8b-
-4cc
-4a}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M4/4	*
+*met(c)	*
+=1	=1
+{4f	A
+4b-	kto
+4b-	chce
+4b-	ros-
+=2	=2
+4b-	-koszy
+8aL	.
+8b-J\	.
+4cc	u-
+4a\}	-żyć,
 !!LO:LB:g=esac
-=3
-{4f
-4a
-4cc
-4cc
-=4
-4ff
-4ee-
-8ee-
-8dd
-4dd}
+=3	=3
+{4f	niech
+4a	i-
+4cc	-dzie
+4cc	do
+=4	=4
+4ff	wojska
+4ee-	.
+8ee-L	słu-
+8ddJ	.
+4dd}	-żyć.
 !!LO:LB:g=esac
-=5
-{4dd
-4dd
-8dd
-8cc
-4cc
-=6
-4cc
-4b-
-4dd
-4dd}
+=5	=5
+{4dd	Tam
+4dd	się
+8ddL	na-
+8ccJ	.
+4cc	-je
+=6	=6
+4cc	i
+4b-	napi-
+4dd	.
+4dd}	-je,
 !!LO:LB:g=esac
-=7
-{4dd
-4cc
-8cc
-8b-
-4b-
-=8
-4b-
-4a
-4cc
-4a}
+=7	=7
+{4dd	tam
+4cc	on
+8ccL	roz-
+8b-J	.
+4b-	-ko-
+=8	=8
+4b-	-szy
+4a\	uży-
+4cc	.
+4a\}	-je
 !!LO:LB:g=esac
-=9
-{2dd
-4.dd
-8cc
-=10
-4.a
-8b-
-4b-}
-4r
-==
-*-
+=9	=9
+{2dd	gorzkich
+4.dd	.
+8cc	łez
+=10	=10
+(4.a\	je-
+8b-)	.
+4b-}	-go.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. A kto chce roskoszy użyć,
+!!niech idzie do wojska służyć.
+!!Tam się naje i napije,
+!!tam on rozkoszy użyje
+!!gorzkich łez jego.
+!!@VERSE:
+!!1. A kto chce żołnierzem być,
+!!niech idzie do wojska służyć.
+!!Tam się najé i napije,
+!!tam on rozkoszy użyje,
+!!gorzkich łez jego. 
+!!@VERSE:
+!!2. A gdy na drugi dzień wstaje,
+!!już żołnierzom z trąb zagrają.
+!!Trzy trojaki na dzień dają,
+!!jeszcze nam ich ubierają (z nich potrącają)
+!!biednym żołnierzom.
+!!@VERSE:
+!!3. Gdy który z nich z konia spadnie,
+!!lub téż lanca im upadnie,
+!!koledzy ich nie ratują,
+!!jeszcze końmi ich tratują,
+!!biednych żołnierzy.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=276 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 260} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 260}
 !!!page: 260
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

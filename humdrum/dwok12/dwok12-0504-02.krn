@@ -3,89 +3,114 @@
 !!!source: DWOK12
 !!!id: 12504
 !!!signature: 1250400002
-**kern
-*clefG2
-*k[]
-*C:
-*M6/8
-=1
-{8g
-8g
-8g
-4cc
-8g
-=2
-8g
-8e
-8g
-4cc
-8g
-=3
-8g
-8ee
-8ee
-4ee
-8cc
-=4
-8b
-8a
-8b
-4cc
-8g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M6/8	*
+=1	=1
+{8g	Na
+8g	naszém
+8g	.
+4cc	polu
+8g	.
+=2	=2
+8g	piękny
+8e	.
+8g	przysiewek,
+4cc/	.
+8g	.
+=3	=3
+8g	wielem
+8ee	.
+8ee	natrafił
+4ee	.
+8cc	.
+=4	=4
+8b	przystojnych
+8a\	.
+8b	.
+4cc	dziéwek.
+8g}	.
 !!LO:LB:g=esac
-=5
-{8g
-8ee
-8ee
-4ee
-8cc
-=6
-8a
-8a
-8a
-4a
-8f
-=7
-8f
-8a
-8a
-4g
-8b
-=8
-8b
-8a
-8b
-4cc
-8cc}
+=5	=5
+{8g	Pierwsza
+8ee	.
+8ee	dziewczyna
+4ee	.
+8cc	.
+=6	=6
+8a\	miła
+8a	.
+8a	mi
+4a	była,
+8f	.
+=7	=7
+8fL	poszła
+8a	.
+8aJ	na
+4g\	spacer
+8b	.
+=8	=8
+8b	sama
+8a\	.
+8b	usnęła,
+4cc	.
+8cc}	.
 !!LO:LB:g=esac
-=9
-{8g
-8ee
-8ee
-4ee
-8cc
-=10
-8a
-8a
-8a
-4a
-8f
-=11
-8f
-8a
-8a
-4dd
-8b
-=12
-8b
-8a
-8b
-4cc
-8cc}
-==
-*-
+=9	=9
+{8g	Pierwsza
+8ee	.
+8ee	dziewczyna
+4ee	.
+8cc	.
+=10	=10
+8a	miła
+8a	.
+8a	mi
+4a	była,
+8f	.
+=11	=11
+8fL	poszła
+8a	.
+8aJ	na
+4dd/	spacer
+8b	.
+=12	=12
+8b	sama
+8a\	.
+8b	usnęła.
+4cc/	.
+8cc}	.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!role-listener: Maidens
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Na naszém polu piękny przysiewek,
+!!wielem natrafił przystojnych dziéwek.
+!!@VERSE:
+!!2. Pierwsza dziewczyna miła mi była,
+!!poszła na spacer sama usnęła.
+!!@VERSE:
+!!3. Sama usnęła, nie sama spała,
+!!bo za nią żołnierz; żołnierza miała.
+!!@VERSE:
+!!4. Głupieście były, żeście tam spały,
+!!żołnierz odjechał, wyście zostały.
+!!@VERSE:
+!!5. A te żołnierze, nie jednéj matki,
+!!jak się postroją, jak w polu kwiatki.
+!!@VERSE:
+!!6. Gdzie się żołnierze po trzy dni bawią,
+!!niejedne pannę k.... zostawią.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=278 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 262} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 262}
 !!!page: 262
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

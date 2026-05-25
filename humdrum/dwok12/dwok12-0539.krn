@@ -3,245 +3,264 @@
 !!!source: DWOK12
 !!!id: 12539
 !!!signature: 1253900000
-**kern
-*clefG2
-*k[f#]
-*G:
-=1
-{4.dd
-8b
-8b
-8cc
-=2
-*M3/4
-4.dd
-8ee
-8dd
-8cc
-=3
-8b
-8a
-8g
-8f#
-4d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+=1	=1
+!!LO:TX:a:t=Pasterka śpiewa:
+{8bq	.
+4.dd;	Losa
+8b	.
+8b	bysiu
+8cc	.
+=2	=2
+*M3/4	*
+4.dd	losa
+8ee	.
+8dd	lo
+8cc	lo
+=3	=3
+8bL	lo
+8aJ\	.
+8gL	lo
+8f#J	.
+4d;}	lo
 !!LO:LB:g=esac
-=4
-{8g
-8a
-4b
-4cc
-=5
-8b
-8a
-4cc
-4ee
-=6
-4.dd
-8ee
-8dd
-8cc
-=7
-8a
-8f#
-2g
-=8
-2.B}
+=4	=4
+{8g	ho
+8a	lo
+4b	lo
+4cc	lo
+=5	=5
+8b	bysiu
+8a\	.
+4cc	lo
+4ee	lo
+=6	=6
+4.dd	ho
+8ee	lo
+8ddL	lo
+8ccJ	.
+=7	=7
+8aL	lo
+8f#J	.
+2g;	lo
+=8	=8
+!!LO:TX:a:t=Byk czarny (v. parobek).
+2.B;}	bu!
 !!LO:LB:g=esac
-=9
-{8b
-8cc
-2b
-=10
-8a
-8g
-8b
-8a
-4g
-=
+=9	=9
+!!LO:TX:a:t=Ona.
+{8b	ho
+8cc	lo
+2b	lo
+=10	=10
+8a	bysiu
+8g	.
+8bL	ho
+8aJ	.
+4g;	lo,
+=	=
 !!UNCATEGORIZED MEASURE
-2d}
+!!LO:TX:a:t=Byk.
+2d}	bu!
 !!LO:LB:g=esac
-=
+=	=
 !!UNCATEGORIZED MEASURE
-{16b
-16cc
-4b
-16dd
-16cc#
-=11
-*M3/8
-16a
-16g
-8.ee
-16dd
-=12
-16b
-16cc
-8b
-16dd
-16cc#
-=13
-16a
-16g
-16b
-16a
-8g}
+!!LO:TX:a:t=Ona (żwawiéj głosem).
+*M3/8	*
+{16bL	.
+16cc	.
+8bJ	.
+16ddL	.
+16cc#J	.
+=11	=11
+16aL	.
+16gJ	.
+8.eeL	.
+16ddJ	.
+=12	=12
+16bL	.
+16cc	.
+8bJ	.
+16ddL	.
+16cc#J	.
+=13	=13
+16aL	.
+16gJ	.
+16bL	.
+16a	.
+8gJ}	.
 !!LO:LB:g=esac
-=14
-{16b
-16cc
-8b
-16a
-16g
-=15
-16b
-16a
-8.dd
-16g
-=16
-16b
-16cc
-8b
-16a
-16g
-=17
-16a
-16g
-16b
-16a
-8g
-=
+=14	=14
+{16bL	.
+16cc	.
+8bJ	.
+16aL	.
+16gJ	.
+=15	=15
+16bL	.
+16aJ\	.
+8.dd;L	.
+16gJ	.
+=16	=16
+16bL	.
+16cc	.
+8bJ	.
+16aL	.
+16gJ	.
+=17	=17
+16aL	.
+16gJ	.
+16bL	.
+16a	.
+8g;J	.
+=	=
 !!UNCATEGORIZED MEASURE
-2d}
+2d}	bu,
 !!LO:LB:g=esac
-=
+=	=
 !!UNCATEGORIZED MEASURE
-{4g
-4g
-4g
-=18
-*M3/8
-8g
-8g
-8g
-=19
-8g
-8g
-8g}
+{4g	bu
+4g	bu
+4g;	bu
+=18	=18
+*M3/8	*
+8g	bu
+8g	bu
+8g	bu
+=19	=19
+8g	bu
+8g	bu
+8g}	bu
 !!LO:LB:g=esac
-=20
-{16g
-16b
-16g
-16b
-16g
-16b
-=21
-16cc
-16b
-16g
-16f#
-8d
-=22
-16d
-16e
-16f#
-16d
-16f#
-16a
-=23
-16a
-16b
-16cc#
-[16dd}
-8dd]
+=20	=20
+!!LO:TX:a:t=Ona. (Presto)
+{16gL	.
+16bJ	.
+16gL	.
+16bJ	.
+16gL	.
+16bJ	.
+=21	=21
+16ccL	.
+16bJ	.
+16gL	.
+16f#	.
+8dJ	.
+=22	=22
+16dL	.
+16eJ	.
+16f#L	.
+16d	.
+16f#	.
+16aJ	.
+=23	=23
+16aL	.
+16bJ	.
+16cc#L	.
+[16dd}	.
+8ddJ]	.
 !!LO:LB:g=esac
-=24
-{16g
-16b
-16g
-16b
-16g
-16b
-=25
-16cc
-16b
-16g
-16f#
-8d
-=26
-16d
-16e
-16f#
-16d
-16f#
-16a
-=27
-16b
-16a
-8g
-8g}
+=24	=24
+{16gL	.
+16bJ	.
+16gL	.
+16bJ	.
+16gL	.
+16bJ	.
+=25	=25
+16ccL	.
+16bJ	.
+16gL	.
+16f#	.
+8dJ	.
+=26	=26
+16dL	.
+16eJ	.
+16f#L	.
+16d	.
+16f#	.
+16aJ	.
+=27	=27
+16bmL	.
+16aJ	.
+8gL	.
+8gJ}	.
 !!LO:LB:g=esac
-=28
-8r
-{16g
-16g
-16f#
-16e
-=
+=28	=28
+8r	.
+{16gL	.
+16gMJ	.
+16f#L	.
+16eJ	.
+=	=
 !!UNCATEGORIZED MEASURE
-16.d
-32e
-32f#
-16a
-16g
-16b
-=29
-*M3/8
-8r
-16g
-16g
-16f#
-16e
-=30
-16d
-16e
-16f#
-16a
-16f#
-16d}
+16.dL	.
+32eJ	.
+16f#L	.
+16aJ	.
+16gL	.
+16bJ	.
+=29	=29
+*M3/8	*
+8r	.
+16gL	.
+16gMJ	.
+16f#L	.
+16eJ	.
+=30	=30
+16dL	.
+16eJ	.
+16f#L	.
+16a	.
+16f#	.
+16d}J	.
 !!LO:LB:g=esac
-=31
-8r
-{16g
-16g
-16f#
-16e
-=32
-16.d
-32e
-16f#
-16a
-16g
-16b
-=33
-8r
-16g
-16g
-16f#
-16e
-=34
-16d
-16e
-16f#
-16a
-16f#
-32d}
-==
-*-
+=31	=31
+8r	.
+{16gL	.
+16gMJ	.
+16f#L	.
+16eJ	.
+=32	=32
+16.dL	.
+32eJ	.
+16f#L	.
+16aJ	.
+16gL	.
+16bJ	.
+=33	=33
+8r	.
+16gL	.
+16gMJ	.
+16f#L	.
+16eJ	.
+=34	=34
+16dL	.
+16eJ	.
+16f#L	.
+16a	.
+16f#	.
+16d}J	.
+==	==
+*-	*-
+!!!role-singer: Shepherdess
+!!!role-listener: Bull (Farmhand)
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!Losa bysiu losa
+!!lo lo lo lo lo
+!!ho lo lo lo bysiu lo lo
+!!ho lo lo lo lo bu!
+!!ho lo lo bysiu ho lo, bu!
+!!@@END: VERSES
 !!!ONB: Forma dialogowana
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=294 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 278-279} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 278-279}
 !!!page: 278-279
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11
