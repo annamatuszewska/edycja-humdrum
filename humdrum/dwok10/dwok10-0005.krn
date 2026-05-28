@@ -3,58 +3,70 @@
 !!!source: DWOK10
 !!!id: 10005
 !!!signature: 1000500000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{4dd
-8cc#
-=2
-8dd
-4b
-=3
-4g
-16a
-16b
-=4
-16g
-16f#
-8d}
-8r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{4dd	Gospo-
+8cc#	.
+=2	=2
+8dd	-darzu
+4b	.
+=3	=3
+4g	te-
+16aL	-go
+16bJ	.
+=4	=4
+16gL	domu,
+16f#J	.
+8d}	.
+8r	.
 !!LO:LB:g=esac
-=5
-{16f#
-16g
-8a
-8dd
-=6
-16a
-16g
-8f#
-8d
-=7
-16f#
-16g
-8a
-8dd
-=8
-16a
-16g
-8f#
-8d}
+=5	=5
+{16f#	wychowałeś
+16g	.
+8a	.
+8dd	.
+=6	=6
+16a	córulinkę
+16g	.
+8f#	.
+8d	.
+=7	=7
+16f#	wychowałeś
+16g	.
+8a	.
+8dd	.
+=8	=8
+16a	córulinkę
+16g	.
+8f#	.
+8d}	.
 !!LO:LB:g=esac
-=9
-{4cc
-8a
-=10
-8b
-4g}
-==
-*-
+=9	=9
+{4cc	nie
+8a	wiesz
+=10	=10
+8aq	.
+8b	komu.
+4g}	.
+==	==
+*-	*-
+!!!role-listener: Farmer
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Gospodarzu tego domu, wychowałeś
+!!córulinkę nie wiesz komu.
+!!@VERSE:
+!!2. Czy krawczykom, czy szewczykom, czyli téż tym
+!!sk-synom żołnierzykom.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=80 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 64} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 64}
 !!!page: 64
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-28

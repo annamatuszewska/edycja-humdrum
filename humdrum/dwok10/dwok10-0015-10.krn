@@ -3,103 +3,114 @@
 !!!source: DWOK10
 !!!id: 10015
 !!!signature: 1001500010
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8a
-8cc
-8ee
-16ee
-16dd
-8dd
-8b
-=2
-8b
-8g
-16a
-16cc
-8b
-8b
-8g
-=3
-4a
-8g
-8b
-4dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8aL	Nie
+8ccJ	.
+8eeL	chciała
+16ee	.
+16ddJ	.
+8ddL	maku
+8bJ	.
+=2	=2
+8bL	ni
+8gJ	.
+16aL	pasternaku
+16cc	.
+8bJ	.
+8bL	.
+8gJ	.
+=3	=3
+4a	z_olejem,
+8gL	.
+8bJ	.
+4dd}	.
 !!LO:LB:g=esac
-=4
-{8a
-8cc
-8ee
-16ee
-16dd
-8dd
-8b
-=5
-8b
-8g
-16a
-16cc
-8b
-8b
-8g
-=6
-4a
-8f#
-8g
-4g}
+=4	=4
+{8aL	wolała
+8ccJ	.
+8eeL	.
+16ee	.
+16ddJ	.
+8ddL	spaci
+8bJ	.
+=5	=5
+8bL	do
+8gJ	.
+16aL	swojéj
+16cc	.
+8bJ	.
+8bL	chaci
+8gJ	.
+=6	=6
+4a	z_Maciejem.
+8f#L	.
+8gJ	.
+4g}	.
 !!LO:LB:g=esac
-=7
-{8d
-8f#
-8g
-8b
-8dd
-8dd
-=8
-8b
-8g
-16a
-16cc
-8b
-8b
-8g
-=9
-4a
-8g
-8b
-4dd}
+=7	=7
+{8dL	Maciej
+8f#J	.
+8gL	nie
+8bJ	.
+8ddL	może
+8ddJ	.
+=8	=8
+8bL	mój
+8gJ	.
+16aL	miły
+16cc	.
+8bJ	.
+8bL	Boże,
+8gJ	.
+=9	=9
+4a	ja
+8gL	rada
+8bJ	.
+4dd}	.
 !!LO:LB:g=esac
-=10
-{8d
-8f#
-8g
-8b
-16dd
-16ee
-16dd
-16cc
-=11
-8b
-8g
-16a
-16cc
-8b
-8b
-8g
-=12
-4a
-8f#
-8g
-4g}
-==
-*-
+=10	=10
+{8dL	wyskoczyłabym,
+8f#J	.
+8gL	.
+8bJ	.
+16ddL	.
+16ee	.
+16dd	.
+16ccJ/	.
+=11	=11
+8bL	zaśpiewałabym
+8gJ	.
+16aL	.
+16cc	.
+8bJ	.
+8bL	.
+8gJ	.
+=12	=12
+4a	oj
+8f#L	da
+8gJ	.
+4g}	da.
+==	==
+*-	*-
+!!!role-singer: Narrator, Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Nie chciała maku ni pasternaku z olejem,
+!!wolała spaci do swojéj chaci z Maciejem.
+!!Maciej nie może mój miły Boże, ja rada
+!!wykoczyłabym, zaśpiewałabym oj da da.
+!!@@END: VERSES
 !!!ONB: Fragment melodii na 3/4
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=102 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 86-87} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, pp. 86-87}
 !!!page: 86-87
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-28

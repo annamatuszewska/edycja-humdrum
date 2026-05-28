@@ -3,65 +3,78 @@
 !!!source: DWOK10
 !!!id: 10007
 !!!signature: 1000700000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8g
-8a
-4b
-4cc
-=2
-2.dd
-=3
-8a
-8f#
-4a
-4b
-=4
-2.g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8g	Przynieśliśmy
+8a	.
+4b	.
+4cc	.
+=2	=2
+2.dd	plon
+4ddQ	.
+4aQ	.
+=3	=3
+8a	jegomości
+8f#	.
+4a	.
+4b	.
+=4	=4
+2.g}	w_dom,
 !!LO:LB:g=esac
-=5
-{8a
-8f#
-4a
-4b
-=6
-8g
-8g
-4.cc
-8b
-=7
-8a
-8f#
-4a
-4b
-=8
-8g
-8g
-4.cc
-8b}
+=5	=5
+{8a	żeby
+8f#	.
+4a	dobrze
+4b	.
+=6	=6
+8g	plono-
+8g	.
+4.cc	-wało
+8b	.
+=7	=7
+8a	i
+8f#	wirteli
+4a	.
+4b	.
+=8	=8
+8g	dużo
+8g	.
+4.cc	dało,
+8b}	.
 !!LO:LB:g=esac
-=9
-{8a
-8f#
-4a
-4b
-=10
-2.g
-=11
-8a
-8f#
-4a
-4b
-=12
-2.g}
-==
-*-
+=9	=9
+{8a	daj
+8f#	Panie
+4a\	.
+4b	Bo-
+=10	=10
+2.g	-że,
+=11	=11
+8a	daj
+8f#	Panie
+4a\	.
+4b	Bo-
+=12	=12
+2.g}	-że.
+==	==
+*-	*-
+!!!role-singer: Peasants
+!!!role-listener: Lord
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Przynieśliśmy plon jegomości w dom,
+!!żeby dobrze plonowało
+!!i wirteli dużo dało, daj Panie Boże.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=86 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 70-71} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, pp. 70-71}
 !!!page: 70-71
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-28
