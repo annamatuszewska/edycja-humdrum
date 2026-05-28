@@ -3,75 +3,95 @@
 !!!source: DWOK09
 !!!id: 09112
 !!!signature: 0911200001
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/4
-=1
-{4cc
-4ff
-8dd
-8dd
-=2
-8ff
-8gg
-4ee
-4cc
-=3
-4cc
-4ff
-8dd
-8g
-=4
-8g
-8g
-4b-
-4a}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/4	*
+=1	=1
+{4cc	Leci
+4ff	.
+8dd	woda
+8dd	.
+=2	=2
+8ff	od
+8gg	ogroda,
+4ee-i	.
+4cc	.
+=3	=3
+4cc	od
+4ff	mego
+8dd	.
+8g	zie-
+=4	=4
+8g	-la
+8g	da
+4b-	ziela,
+8b-q	.
+4a/}	.
 !!LO:LB:g=esac
-=5
-{4cc
-4dd
-4dd
-=6
-8dd
-8cc
-4ee
-4a
-=7
-4cc
-4ff
-8dd
-8g
-=8
-8g
-8g
-4b-
-4a}
+=5	=5
+{4cc	niedoczeka
+4dd	.
+4dd	.
+=6	=6
+8dd	ojciec
+8cc	.
+4ee-i	matka
+8ccq	.
+4a	.
+=7	=7
+4cc	mego
+4ff	.
+8dd	wese-
+8b-q	.
+8g	.
+=8	=8
+8g	-la,
+8g	wesela,
+4b-	.
+8b-q	.
+4a\}	.
 !!LO:LB:g=esac
-=9
-{4cc
-4dd
-4dd
-=10
-8dd
-8cc
-4ee
-4a
-=11
-4cc
-4ff
-8dd
-8g
-=12
-8g
-8g
-4b-
-4a}
-==
-*-
+=9	=9
+{4cc	niedoczeka
+4dd	.
+8ddL	.
+8b-J/	.
+=10	=10
+8dd	ojciec
+8cc	.
+4ee-i	matka
+8ccq	.
+4a	.
+=11	=11
+4cc	mego
+4ff	.
+8dd	wese-
+8b-q	.
+8g	.
+=12	=12
+8g	-la,
+8g	wesela.
+4b-	.
+8b-q	.
+4a\}	.
+==	==
+*-	*-
+!!!RDF**kern: i = editorial accidental
+!!!role-singer: Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Leci woda od ogroda,
+!!od mego ziela da ziela,
+!!niedoczeka ojciec matka
+!!mego wesela.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=272 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 248} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, p. 248}
 !!!page: 248
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-26

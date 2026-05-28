@@ -3,83 +3,95 @@
 !!!source: DWOK09
 !!!id: 09100
 !!!signature: 0910000001
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16b
-16cc
-8ee
-8ff
-=2
-16ee
-16dd
-16cc
-16b
-8dd
-=3
-8cc
-16cc
-16b
-8dd}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16b	A
+16cc	gdzie
+8ee	jedziesz
+8ff	.
+=2	=2
+16ee	Jasineczku,
+16dd	.
+16ccL	.
+16bJ	.
+8dd	.
+=3	=3
+8cc	gdzie
+16ccL	jedziesz?
+16bJ	.
+8dd}	.
 !!LO:LB:g=esac
-=4
-{16b
-16cc
-8ee
-8ff
-=5
-16ee
-16dd
-16cc
-16b
-8dd
-=6
-8cc
-16cc
-16b
-8g}
+=4	=4
+{16b	kiedy
+16cc	.
+8ee	z_sobą
+8ff	.
+=5	=5
+16ee	siodełeczka
+16dd	.
+16ccL	.
+16bJ	.
+8dd	.
+=6	=6
+8cc	nie
+16ccL	wieziesz.
+16bJ	.
+8g}	.
 !!LO:LB:g=esac
-=7
-{16b
-16cc
-8ee
-8ff
-=8
-16ee
-16dd
-16gg
-16ff
-8dd
-=9
-8gg
-16gg
-16ff
-8dd}
+=7	=7
+{16b	A
+16cc	wiezę
+8ee	.
+8ff	ja
+=8	=8
+16ee	siodełeczko
+16dd	.
+16ggL	.
+16ffJ	.
+8dd	.
+=9	=9
+8gg	czerwone,
+16ggL	.
+16ffJ	.
+8dd}	.
 !!LO:LB:g=esac
-=10
-{16b
-16cc
-8ee
-16ee
-16ff
-=11
-16ee
-16dd
-16cc
-16b
-8dd
-=12
-8cc
-16cc
-16b
-8g}
-==
-*-
+=10	=10
+{16b	pojadę
+16cc	.
+8ee	.
+16eeL	ja
+16ffJ	.
+=11	=11
+16ee	na
+16dd	Brzeziny
+16ccL	.
+16bJ	.
+8dd	.
+=12	=12
+8cc	po
+16ccL	żonę.
+16bJ	.
+8g}	.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!role-listener: Bachelor
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!A gdzie jedziesz Jasineczku, gdzie jedziesz?
+!!kiedy z sobą siodełeczka nie wieziesz.
+!!A wiezę ja siodełeczko czerwone,
+!!pojadę ja na Brzeziny po żonę.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=264 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 240} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, p. 240}
 !!!page: 240
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-26

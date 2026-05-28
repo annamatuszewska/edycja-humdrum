@@ -3,98 +3,109 @@
 !!!source: DWOK09
 !!!id: 09096
 !!!signature: 0909600001
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/8
-=1
-{16g#
-16a
-8cc#
-8ee
-=2
-16ff#
-16ee
-8dd
-8ee
-=3
-8cc#
-8cc#
-16b
-16dd
-=4
-16cc#
-16a
-8g#
-8e}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M3/8	*
+=1	=1
+{16g#	Żagrajcie
+16a	.
+8cc#	.
+8ee	mi
+=2	=2
+16ff#	jaką
+16ee	.
+8dd	smutną,
+8ee	.
+=3	=3
+8cc#	bo
+8cc#	mi
+16b	dzisiaj
+16dd	.
+=4	=4
+16cc#	warkocz
+16a	.
+8g#	utną,
+8e}	.
 !!LO:LB:g=esac
-=5
-{16g#
-16a
-8dd
-8a
-=6
-16cc#
-16ee
-8dd
-8a
-=7
-8cc#
-8cc#
-16b
-16dd
-=8
-16cc#
-16a
-8g#
-8e}
+=5	=5
+{16g#	zagrajcie
+16a	.
+8dd	.
+8a	mi
+=6	=6
+16cc#	jaką
+16ee	.
+8dd	taką,
+8a	.
+=7	=7
+8cc#	pójdę
+8cc#	.
+16b	w_taniec
+16dd	.
+=8	=8
+16cc#	z_Małgorzatą,
+16a	.
+8g#	.
+8e}	.
 !!LO:LB:g=esac
-=9
-{16g#
-16a
-8cc#
-8ee
-=10
-16ff#
-16ee
-8dd
-8ee
-=11
-8cc#
-8cc#
-16b
-16dd
-=12
-16cc#
-16a
-8g#
-8e}
+=9	=9
+{16g#	Żagrajcie
+16a	.
+8cc#	.
+8ee	mi
+=10	=10
+16ff#	.
+16ee	jaką
+8dd	.
+8ee	smutną,
+=11	=11
+8cc#	.
+8cc#	.
+16b	bo
+16dd	mi
+=12	=12
+16cc#	dzisiaj
+16a	.
+8g#	warkocz
+8e}	.
 !!LO:LB:g=esac
-=13
-{16g#
-16a
-8dd
-8a
-=14
-16cc#
-16ee
-8dd
-8a
-=15
-8cc#
-8cc#
-16b
-16dd
-=16
-16cc#
-16a
-8g#
-8e}
-==
-*-
+=13	=13
+{16g#	.
+16a	utną,
+8dd	.
+8a	zagrajcie
+=14	=14
+16cc#	.
+16ee	.
+8dd	mi
+8a	jaką
+=15	=15
+8cc#	.
+8cc#	taką,
+16b	.
+16dd	pójdę
+=16	=16
+16cc#	.
+16a	w_taniec
+8g#	.
+8e}	z_Małgorzatą.
+==	==
+*-	*-
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!Żagrajcie mi jaką smutną,
+!!bo mi dzisiaj warkocz utną,
+!!zagrajcie mi jaką taką,
+!!pójdę w taniec z Małgorzatą.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=262 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 238} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, p. 238}
 !!!page: 238
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-26

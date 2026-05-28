@@ -3,64 +3,72 @@
 !!!source: DWOK09
 !!!id: 09090
 !!!signature: 0909000000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16b
-8cc
-8b
-=2
-4cc
-8dd
-=3
-16ee
-16ee
-8cc
-8cc
-=4
-4a
-8a
-=5
-16dd
-16dd
-8b
-8b
-=6
-4g
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	A
+16b	pod
+8cc	tą
+8b	ja-
+=2	=2
+4cc	-błonią
+8dd	.
+=3	=3
+16ee	stoji
+16ee	.
+8cc	koń
+8cc	ko-
+=4	=4
+4a	-wany,
+8a	.
+=5	=5
+16dd	stoji
+16dd	.
+8b	koń
+8b	ko-
+=6	=6
+4g	-wany,
+8g}	.
 !!LO:LB:g=esac
-=7
-{16g
-16b
-8cc
-8b
-=8
-4cc
-8dd
-=9
-16ee
-16ee
-8cc
-8cc
-=10
-4a
-8a
-=11
-16dd
-16dd
-8b
-8b
-=12
-4g
-8g}
-==
-*-
+=7	=7
+{16g	kto
+16b	na
+8cc	nim
+8b	wy-
+=8	=8
+4cc	-wije?
+8dd	.
+=9	=9
+16ee	Jasieńko
+16ee	.
+8cc	.
+8cc	ko-
+=10	=10
+4a	-chany,
+8a	.
+=11	=11
+16dd	Jasieńko
+16dd	.
+8b	.
+8b	ko-
+=12	=12
+4g	-chany.
+8g}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!A pod tą jabłonią stoji koń kowany, stiji koń kowany,
+!!kto na nim wywije? Jasieńko kochany, Jasieńko kochany.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=259 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 235} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, p. 235}
 !!!page: 235
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-26

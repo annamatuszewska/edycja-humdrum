@@ -3,71 +3,98 @@
 !!!source: DWOK09
 !!!id: 09099
 !!!signature: 0909900001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8g
-8g
-8f#
-=2
-16g
-16b
-8dd
-8b
-=3
-8a
-8a
-8f#
-=4
-16g
-16a
-8b
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8g	Kulało
+8g	.
+8f#	.
+=2	=2
+16g	się
+16b/	kulało
+8dd	.
+8b	.
+=3	=3
+8a\	da
+8a	jabko
+8f#	.
+=4	=4
+16g	po
+16a	ulicy,
+8bL	.
+8gJ\}	.
 !!LO:LB:g=esac
-=5
-{8d
-8d
-8f#
-=6
-16e
-16e
-8d
-8f#
-=7
-8a
-8a
-8f#
-=8
-16g
-16a
-8b
-8g}
+=5	=5
+{8d	a
+8d	gdzie
+8f#	mi
+=6	=6
+16e	się
+16e	podzieli
+8dL	.
+8f#J	.
+=7	=7
+8a\	da
+8a\	moji
+8f#	.
+=8	=8
+16g	zalotnicy,
+16a	.
+8b	.
+8g\}	.
 !!LO:LB:g=esac
-=9
-{8d
-8d
-8f#
-=10
-16e
-16e
-8d
-8f#
-=11
-8a
-8a
-8f#
-=12
-16g
-16a
-8b
-8g}
-==
-*-
+=9	=9
+{8d	a
+8d	gdzie
+8f#	mi
+=10	=10
+16e	się
+16e	podzieli
+4d\	.
+=11	=11
+8a\	da
+8a\	moji
+8f#	.
+=12	=12
+16g	zalotnicy.
+16a	.
+16bL	.
+16f#	.
+8gJ}	.
+==	==
+*-	*-
+!!!role-singer: Maiden, Narrator
+!!!role-listener: Bachelor
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Kulało się kulało
+!!da jabko po ulicy,
+!!A gdzie mi się podzieli
+!!da moji zalotnicy.
+!!@VERSE:
+!!2. Jeden poszed na ryby,
+!!drugi na zające,
+!!a ten trzeci pasie wołki
+!!na zielonéj łące.
+!!@VERSE:
+!!3. Na zielonéj łące,
+!!na zielonym lesie,
+!!Jasiu, Jasiu, Jasineczku,
+!!Kasia dziecię niesie.
+!!@VERSE:
+!!4. O niesie je, o niesie
+!!w zielonym obrusie;
+!!na-że! na-że (na masz) Jasineczku,
+!!nie zapiéraj go się.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=263 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 239} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, p. 239}
 !!!page: 239
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-26

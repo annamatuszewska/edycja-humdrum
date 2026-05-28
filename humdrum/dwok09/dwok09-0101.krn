@@ -3,70 +3,98 @@
 !!!source: DWOK09
 !!!id: 09101
 !!!signature: 0910100000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8dd
-8dd
-4ff#
-4ee
-=2
-8a
-8a
-8g
-16a
-16b
-8cc
-8b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8dd	A
+8dd	boś
+4ff#	mnie
+4ee	ty
+=2	=2
+8a	na
+8a	dróżeczce
+8g	.
+16aL	.
+16bJ	.
+8cc	naloz,
+8b}	.
 !!LO:LB:g=esac
-=3
-{8dd
-8dd
-4ff#
-4ee
-=4
-8a
-8a
-8g
-16a
-16b
-8cc
-8b}
+=3	=3
+{8dd	co
+8dd	mnie
+4ff#	będziesz
+4ee	.
+=4	=4
+8a	poniewierał
+8a	.
+8g	.
+16aL	.
+16bJ	.
+8cc	zaroz.
+8b}	.
 !!LO:LB:g=esac
-=5
-{8a
-8g
-4dd
-4g
-=6
-8a
-8a
-8g
-16a
-16b
-8cc
-8b}
+=5	=5
+{8a	Naloześ
+8g	.
+4dd	.
+4g	mnie
+=6	=6
+8a	u
+8a	matusi
+8g	.
+16aL	.
+16bJ	.
+8cc	w_domku,
+8b}	.
 !!LO:LB:g=esac
-=7
-{8a
-8g
-4dd
-4g
-=8
-8a
-8a
-8g
-16a
-16b
-8cc
-8b}
-==
-*-
+=7	=7
+{8a	co
+8g	chodziłam
+4dd	.
+4g	.
+=8	=8
+8a	w_tym
+8a	rucianym
+8g	.
+16aL	.
+16bJ	.
+8cc	wianku.
+8b}	.
+==	==
+*-	*-
+!!!role-singer: Wife, Husband
+!!!role-listener: Husband, Wife
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. A boś mnie ty na dróżeczce naloz,
+!!co mnie będziesz poniewierał zaroz.
+!!@VERSE:
+!!2. Naloześ mnie u matusi w domku,
+!!co chodziłam w tym rucianym wianku.
+!!@VERSE:
+!!3. Wszystko’ś ci mi o małżeństwie prawił,
+!!jaześ ci mię na mamkę wystawił.
+!!@VERSE:
+!!4. Zerwałeś mi ten kwiatyszek róży,
+!!ni mogę być już panienką dłużéj.
+!!@VERSE:
+!!5. Będzie jutro słońce i pogoda,
+!!pójdzież ze mną dziewcze do ogroda.
+!!@VERSE:
+!!6. Urwiesz sobie ziela czerwonego,
+!!będziesz miała rumieńca swojego.
+!!@VERSE:
+!!7. Cóż mi przyjdzie z mojéj rumienności,
+!!ni mogę mieć panieńskiéj wolności.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=264 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 240} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, p. 240}
 !!!page: 240
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-26

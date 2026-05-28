@@ -3,114 +3,182 @@
 !!!source: DWOK09
 !!!id: 09083
 !!!signature: 0908300001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{4dd
-8cc
-8b
-=2
-4a
-8cc
-8ee
-=3
-8b
-8dd
-8dd
-16cc
-16b
-=4
-4a}
-4r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{4dd	Oj
+16eeqL	.
+16ddqJ	.
+8cc	siadaj
+8b	.
+=2	=2
+4a	oj
+8cc	siadaj
+8ee	.
+=3	=3
+8b	kochanie
+8dd	.
+8dd	.
+16ccL	mo-
+16bJ	.
+=4	=4
+4a}	-je.
+4r	.
 !!LO:LB:g=esac
-=5
-{4dd
-8cc
-8b
-=6
-4a
-8cc
-8ee
-=7
-8b
-8dd
-8dd
-16cc
-16b
-=8
-4a}
-4r
+=5	=5
+{4dd	Oj
+16eeqL	.
+16ddqJ	.
+8cc	siadaj
+8b	.
+=6	=6
+4a	oj
+8cc	siadaj
+8ee	.
+=7	=7
+8b	kochanie
+8dd	.
+8dd	.
+16ccL	mo-
+16bJ	.
+=8	=8
+4a}	-je.
+4r	.
 !!LO:LB:g=esac
-=9
-{8b
-8dd
-8dd
-16cc
-16b
-=10
-8a
-8b
-8cc
-8a
-=11
-8g
-8b
-8dd
-16cc
-16b
-=12
-8a
-8b
-8cc
-8a}
+=9	=9
+{8b	Nic
+8dd	nie
+8dd	nada
+16ccL	.
+16bJ	.
+=10	=10
+8a\	nie
+8b	pomoże,
+8cc	.
+8a\	.
+=11	=11
+8g\	już
+8b	koniki
+8dd	.
+16ccL	.
+16bJ	.
+=12	=12
+8a\	są
+8b	w_powozie
+8cc	.
+8a}	.
 !!LO:LB:g=esac
-=13
-{8g
-8b
-8a
-8f#
-=14
-4g}
-4r
+=13	=13
+{8g	już
+8b	zaprzężo-
+8a\	.
+8f#\	.
+=14	=14
+4g}	-ne,
+4r	.
 !!LO:LB:g=esac
-=15
-{8b
-8dd
-8dd
-16cc
-16b
-=16
-8a
-8b
-8cc
-8a
-=17
-8g
-8b
-8dd
-16cc
-16b
-=18
-8a
-8b
-8cc
-8a}
+=15	=15
+{8b	Nic
+8dd	nie
+8dd	nada
+16ccL	.
+16bJ	.
+=16	=16
+8a\	nie
+8b	pomoże,
+8ccL	.
+8eeJ/	.
+=17	=17
+8bL	już
+8ddJ/	koniki
+8dd	.
+16ccL	.
+16bJ	.
+=18	=18
+8a\	są
+8b	w_powozie
+8cc	.
+8a}	.
 !!LO:LB:g=esac
-=19
-{8g
-8b
-8a
-8f#
-=20
-4g}
-4r
-==
-*-
+=19	=19
+{8g	już
+8b	zaprzężo-
+8aL	.
+16f#	.
+16dJ	.
+=20	=20
+4g}	-ne.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Groom, Bride
+!!!role-listener: Bride, Groom
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!Oj siadaj oj siadaj kochanie moje.
+!!Nic nie nada nie pomoże, już koniki są w powozie już zaprzężone.
+!!@VERSE:
+!!2. Jakże-ż ja, jakże, będę siadała,
+!!kiedym się z ojcem nie pożegnała.
+!!Ostaj z Bogiem, o mój ojcze,
+!!bywały tu krowy, wolce,
+!!teraz nie będą.
+!!@VERSE:
+!!3. Oj siadaj, oj siadaj i t. d.
+!!@VERSE:
+!!4. Jakże-ć ja, jakże, będę siadała,
+!!kiedym się z matką nie pożegnała.
+!!Ostaj z Bogiem, moja matko,
+!!bywało tu za mnie gładko,
+!!teraz nie będzie.
+!!@VERSE:
+!!5. Oj siadaj, siadaj i t. d.
+!!@VERSE:
+!!6. Jakżeż ja, jakże, będę siadała,
+!!kiedym się z siostrą nie pożegnała.
+!!Ostaj z Bogiem, moja siostro,
+!!bywało tu za mnie ostro,
+!!teraz nie będzie.
+!!@VERSE:
+!!7. Oj siadaj, siadaj i t. d.
+!!@VERSE:
+!!8. Jakżeż ja, jakże, będę siadała,
+!!kiedym się z bratem nie pożegnała.
+!!Ostaj z Bogiem, ty obwiesie,
+!!teraz z ciebie naśmieję się,
+!!potém nie będę.
+!!@VERSE:
+!!9. Oj siadaj, siadaj i t. d.
+!!@VERSE:
+!!10. Jakżeż ja, jakże, będę siadała,
+!!z kołyszkami się nie pożegnała.
+!!Z Bogiem, wy moje kołyszki (kołki),
+!!com zawieszała moje garnyszki,
+!!teraz nie będę.
+!!@VERSE:
+!!11. Oj siadaj, siadaj i t. d.
+!!@VERSE:
+!!12. Jakżeż ja, jakże, będę siadała,
+!!z miskami ja się nie pożegnała.
+!!Z Bogiem łyżki, z Bogiem miski,
+!!żérały tu różne pyski,
+!!teraz nie będą.
+!!@VERSE:
+!!13. Oj siadaj, siadaj i t. d.
+!!@VERSE:
+!!14. Jakżeż ja, jakże, będę siadała,
+!!kiedym się z progiem nie pożegnała.
+!!z Bogiem, z Bogiem, moje progi,
+!!chodziły tu różne nogi,
+!!teraz nie będą.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=255 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 231} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, p. 231}
 !!!page: 231
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-26

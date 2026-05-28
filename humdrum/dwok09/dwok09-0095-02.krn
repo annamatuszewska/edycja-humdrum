@@ -3,76 +3,91 @@
 !!!source: DWOK09
 !!!id: 09095
 !!!signature: 0909500002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8g
-8b
-8dd
-=2
-8ff#
-4dd
-=3
-16dd
-16dd
-16b
-16a
-8g
-=4
-4.a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8g	Oj
+8b	chmielu,
+8dd	.
+=2	=2
+8eeq	.
+8ff#	chmielu,
+4dd	.
+=3	=3
+16dd	ty
+16dd	rozbójni-
+16b	.
+16a	.
+8g	-ku,
+=4	=4
+4.a}	rozbiłeś
 !!LO:LB:g=esac
-=5
-{8g
-8b
-8dd
-=6
-8ff#
-4dd
-=7
-16dd
-16dd
-16b
-16a
-8g
-=8
-4.a}
+=5	=5
+{8g	.
+8b	.
+8dd	.
+=6	=6
+8eeq	dziewcze
+8ff#	.
+4dd	na
+=7	=7
+16dd	pastowni-
+16dd	.
+16b	.
+16a	.
+8g	-ku.
+=8	=8
+4.a}	.
 !!LO:LB:g=esac
-=9
-{8b
-8g
-8a
-=10
-16b
-16dd
-16b
-16a
-8g
-=11
-8b
-8g
-8a
-=12
-16b
-16dd
-16b
-16a
-8g}
+=9	=9
+{8aq	O
+8b	chmielu,
+8g	.
+8a	o
+=10	=10
+16b	nieboże,
+16dd	.
+16b	.
+16a	.
+8g	o
+=11	=11
+8aq	chmielu,
+8b	.
+8g	o
+8a	nieboże,
+=12	=12
+16b	.
+16dd	.
+16b	.
+16a	co
+8g}	na
 !!LO:LB:g=esac
-=13
-{16b
-16dd
-16b
-16a
-8g
-=14
-4.a}
-==
-*-
+=13	=13
+{16b	dół
+16dd	to
+16b	w_komorze,
+16a	.
+8g	.
+=14	=14
+4.a}	chmielu
+==	==
+*-	*-
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!Oj chmielu, chmielu, ty rozbójniku,
+!!rozbiłeś dziewcze na pastowniku.
+!!O chmielu, o nieboże,
+!!co na dół to w komorze, chmielu nieboże.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=261 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 237-238} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, pp. 237-238}
 !!!page: 237-238
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-26
