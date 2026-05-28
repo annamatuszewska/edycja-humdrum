@@ -3,86 +3,114 @@
 !!!source: DWOK09
 !!!id: 09073
 !!!signature: 0907300001
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M2/4
-=1
-{8b-
-4dd
-8dd
-=2
-8cc
-8cc
-4b-
-=3
-8b-
-8dd
-8b-
-8dd
-=4
-8ee-
-4cc}
-8r
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M2/4	*
+=1	=1
+!!LO:TX:a:t=Krakowiak.
+{8b-	Płynie
+4dd	.
+8dd	łód-
+=2	=2
+8cc	-ka,
+8ddq	.
+8cc	płynie,
+4b-	.
+=3	=3
+8aq	.
+8b-	po
+8dd	kamyszkach
+8aq	.
+8b-	.
+8dd	.
+=4	=4
+8ee-	huczy,
+4cc}	.
+8r	.
 !!LO:LB:g=esac
-=5
-{8b-
-4dd
-8dd
-=6
-8cc
-8cc
-4b-
-=7
-8b-
-8dd
-8dd
-8ee-
-=8
-8cc
-4b-}
-8r
+=5	=5
+{8b-	kto
+4dd	kochać
+8dd	.
+=6	=6
+8cc	nie
+8ddq	.
+8cc	umie,
+4b-	.
+=7	=7
+8aq	.
+8b-	miłość
+8dd	.
+8dd	go
+8ee-	na-
+=8	=8
+8cc	-uczy.
+4b-}	.
+8r	.
 !!LO:LB:g=esac
-=9
-{8b-
-4dd
-8dd
-=10
-8cc
-8cc
-4b-
-=11
-8b-
-8dd
-8b-
-8dd
-=12
-8ee-
-4cc}
-8r
+=9	=9
+{8b-	Murawa,
+4dd	.
+8dd	.
+=10	=10
+8cc	murawa,
+8ddq	.
+8cc	.
+4b-	.
+=11	=11
+8aq	.
+8b-	na
+8dd	murawie
+8aq	.
+8ddL	.
+8ddJ/	.
+=12	=12
+8ee-	trawa,
+4cc}	.
+8r	.
 !!LO:LB:g=esac
-=13
-{8b-
-4dd
-8dd
-=14
-8cc
-8cc
-4b-
-=15
-8b-
-8dd
-8dd
-8ee-
-=16
-8cc
-4b-}
-8r
-==
-*-
+=13	=13
+{8b-	najmilsza
+4dd	.
+8dd	.
+=14	=14
+8cc	mi
+8ddq	.
+8cc	z_tobą
+4b-	.
+=15	=15
+8aq	.
+8b-	żoneczko
+8dd	.
+8dd	.
+8ee-	za-
+=16	=16
+8cc	-bawa.
+4b-}	.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Husband
+!!!role-listener: Wife
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Płynie łódka, płynie,
+!!po kamyszkach huczy,
+!!kto kochać nie umie,
+!!miłość go nauczy.
+!!@VERSE:
+!!2. Murawa, murawa,
+!!na murawie trawa,
+!!najmilsza mi z tobą
+!!żoneczko zabawa.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=243 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 219} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, p. 219}
 !!!page: 219
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-26

@@ -3,71 +3,131 @@
 !!!source: DWOK09
 !!!id: 09021
 !!!signature: 0902100002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8b
-8dd
-8cc
-8b
-8cc
-8a
-=2
-8f#
-8g
-4b
-4b
-=3
-8b
-8dd
-4.cc
-8a
-=4
-8f#
-8g
-4b
-4b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8b	Przede
+8dd	.
+8ccL	dworem
+8b	.
+8cc	.
+8aJ/	.
+=2	=2
+8f#	wielka
+8g	.
+4b	burza,
+4b	.
+=3	=3
+8b	nasza
+8dd	.
+4.cc/	pani
+8a	.
+=4	=4
+8f#	gdyby
+8g	.
+4b	róża.
+4b}	.
 !!LO:LB:g=esac
-=5
-{8f#
-8g
-4b
-4cc
-=6
-2dd
-4d
-=7
-8cc
-8b
-4a
-4f#
-=8
-2g
-8f#
-8d}
+=5	=5
+{8f#	Przenieśliśma
+8g	.
+4b	.
+4cc	.
+=6	=6
+(2dd	plon
+4d)	.
+=7	=7
+8cc	jegomości
+8b	.
+4a	.
+4f#	.
+=8	=8
+(>2g	w_dom,
+8f#L	.
+8dJ)}	.
 !!LO:LB:g=esac
-=9
-{8f#
-8g
-4b
-4cc
-=10
-2.dd
-=11
-8cc
-8b
-4a
-4f#
-=12
-2g}
-4r
-==
-*-
+=9	=9
+{8f#	przenieśliśma
+8g	.
+4b	.
+4cc	.
+=10	=10
+2.dd	plon
+=11	=11
+8cc	jegomości
+8b	.
+4a	.
+4f#	.
+=12	=12
+2g}	w_dom.
+4r	.
+==	==
+*-	*-
+!!!RDF**kern: > = above
+!!!role-singer: Peasants
+!!!role-listener: Lady, Lord
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!2.Przede dworem wielka burza,
+!!nasza pani gdyby róża.
+!!Przenieśliśma plon jegomości w dom,
+!!przenieśliśma plon jegomości w dom,
+!!@VERSE:
+!!3. Przede dworem mielka woda, –
+!!nasza pani jak jagoda.
+!!@VERSE:
+!!4. Przede dworem wielkie błoto, –
+!!nasza pani gdyby złoto.
+!!@VERSE:
+!!5. Przed dworem stoji świerczyna (świerk),
+!!nasza pani jak jędzyna.
+!!@VERSE:
+!!6. Przede dworem wiszą klucze, –
+!!nasza pani dziéwki tłucze.
+!!@VERSE:
+!!7. Przede dworem kaczki w cebrze, –
+!!nasz jegomość po wsi żebrze.
+!!@VERSE:
+!!8. Przede dworem leży kamień, –
+!!nasz jegomość siedzi na nim.
+!!@VERSE:
+!!9. A pani mu na kolanie,
+!!co po chwyli (co chwila) buzi daje.
+!!@VERSE:
+!!10. Przede dworem wisi kosa, –
+!!nasz ekonom gdyby osa.
+!!@VERSE:
+!!11. Gdyby osa, gdyby źmija,
+!!co po chwyli bierze kija.
+!!@VERSE:
+!!12. A my go się tak bojemy,
+!!gdzie zajdemy, to stojemy.
+!!@VERSE:
+!!13. U naszego jegomości – krótka koszula;
+!!bo mu taką pani dała,
+!!żeby mu się nie szargała.
+!!@VERSE:
+!!14. U naszego jegomości – len się nie darzy;
+!!gospodyni pończoch niema, – pan boso łazi.
+!!Słózma (złóżmy) mu się po złotemu,
+!!kupma buty panu swemu.
+!!@VERSE:
+!!15. U naszego jegomości – groch się nie darzy;
+!!dziéwki mu się popsowały, – sam ledwie łazi.
+!!@VERSE:
+!!16. U naszego jegomości – roli dwa składy;
+!!a nima‘ć on fornalisków, – ino dwa dziady.
+!!@VERSE:
+!!17. U naszego jegomości – przecie’ć rozsądek;
+!!wystawił nam beczkę piwa, – gorzałki sądek.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=183 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 159} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, p. 159}
 !!!page: 159
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-26

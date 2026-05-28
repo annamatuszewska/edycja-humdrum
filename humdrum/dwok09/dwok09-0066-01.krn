@@ -3,69 +3,85 @@
 !!!source: DWOK09
 !!!id: 09066
 !!!signature: 0906600001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8g
-8b
-8b
-8b
-8a
-8f#
-=2
-8g
-8b
-8dd
-8ee
-4cc}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8g	A
+8b	Maćkowa
+8b	.
+8b	.
+8a	grusza
+8f#	.
+=2	=2
+8g	stoi
+8b	.
+8dd	w_potoku,
+8ee	.
+4cc}	.
 !!LO:LB:g=esac
-=3
-{8g
-8b
-8b
-8b
-8a
-8f#
-=4
-8g
-8b
-8dd
-8ee
-4cc}
+=3	=3
+{8g	zaczekaj
+8b	.
+8b	.
+8b	mnie
+8a	dziewcze
+8f#	.
+=4	=4
+8g	choćby
+8b	.
+8dd	pół
+8ee	roku.
+8ccL/	.
+8aJ}	.
 !!LO:LB:g=esac
-=5
-{8g
-8b
-8b
-8b
-4a
-=6
-8d
-8f#
-8a
-8a
-4cc}
+=5	=5
+{8g	Coś
+8b	mi
+8b	ty
+8b	za
+4a\	pan,
+=6	=6
+8d	co
+8f#	cię
+8a	czekać
+8a	.
+4cc}	mam,
 !!LO:LB:g=esac
-=7
-{8g
-8b
-8b
-8b
-8a
-8f#
-=8
-8d
-8f#
-8a
-8b
-4g}
-==
-*-
+=7	=7
+{8g	cały
+8b	.
+8b	twój
+8b	majątek
+8a	.
+8f#	.
+=8	=8
+8d	ten
+8f#	modry
+8a\	.
+8b	żupan.
+4g}	.
+==	==
+*-	*-
+!!!role-singer: Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!A Maćkowa grusza stoi w potoku,
+!!zaczekaj mnie dziewcze choćby pół roku.
+!!Coś mi ty za pan, co cię czekać mam,
+!!cały twój majątek ten modry żupan.
+!!@VERSE:
+!!Tyś też nie pani — co gardzisz nami,
+!!całe twe bogactwo — wieniec ruciany.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=235 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 211} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, p. 211}
 !!!page: 211
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-26

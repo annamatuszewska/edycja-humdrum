@@ -3,69 +3,81 @@
 !!!source: DWOK09
 !!!id: 09069
 !!!signature: 0906900001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16b
-16dd
-16ff#
-16ee
-16cc
-16a
-=2
-16f#
-16a
-8cc
-8b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16b	Ty
+16dd	bestyja,
+16ff#L	.
+16eeJ	.
+16ccL	.
+16aJ	.
+=2	=2
+16f#	ty
+16a	psiajucho,
+8cc	.
+8b}	.
 !!LO:LB:g=esac
-=3
-{16b
-16dd
-8ee
-16cc
-16a
-=4
-16e
-16d
-8f#
-8g}
+=3	=3
+{16b	zjadłeś
+16dd	.
+8ee	ty
+16ccL	mi
+16aJ	.
+=4	=4
+16e	świńskie
+16d	.
+8f#\	ucho,
+8g}	.
 !!LO:LB:g=esac
-=5
-{16a
-16cc
-8a
-8cc
-=6
-16dd
-16b
-8.g
-16b
-=7
-16dd
-16cc
-4a}
+=5	=5
+{16a\	a
+16cc	mnie
+8a\	dałeś
+8cc	.
+=6	=6
+16dd	chleba
+16b	.
+8.g	sucho,
+16b	.
+=7	=7
+16dd	bez
+16cc	masła;
+4a;}	.
 !!LO:LB:g=esac
-=8
-{16a
-16cc
-8a
-8cc
-=9
-16dd
-16b
-8.g
-16b
-=10
-16g
-16f#
-4d}
-==
-*-
+=8	=8
+{16a\	a
+16cc	mnie
+8a\	dałeś
+8cc	.
+=9	=9
+16dd	chleba
+16b	.
+8.g	sucho,
+16b	.
+=10	=10
+16g	bez
+16f#	masła.
+4d}	.
+==	==
+*-	*-
+!!!role-singer: Matchmakeress
+!!!role-listener: Bachelor
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Ty bestyja, ty psiajucho,
+!!zjadłeś ty mi świńskie ucho.
+!!a mnie dałeś chleba sucho, bez masła;
+!!a mnie dałeś chleba sucho, bez masła.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=239 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 215} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, p. 215}
 !!!page: 215
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-26

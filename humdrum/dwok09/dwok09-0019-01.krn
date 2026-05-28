@@ -3,58 +3,76 @@
 !!!source: DWOK09
 !!!id: 09019
 !!!signature: 0901900001
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{8dd
-8b-
-16b-
-16dd
-=2
-16cc
-16cc
-8a
-8ff}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{8dd	Ryczy
+8b-	.
+16b-	krówka
+16dd	.
+=2	=2
+16cc	od
+8ddq	.
+16cc	podwórza,
+8a\	.
+8ff}	.
 !!LO:LB:g=esac
-=3
-{8dd
-8g
-16g
-16b-
-=4
-16dd
-16cc
-8a
-8f}
+=3	=3
+{8dd	nasza
+8g\	.
+16g\	jejmość
+16b-	.
+=4	=4
+16dd	niby
+16cc	.
+8a	róża.
+8f}	.
 !!LO:LB:g=esac
-=5
-{8e
-8c
-16d
-16e
-=6
-16f
-16f
-8a
-8cc}
+=5	=5
+{8e	Nasza
+8c	.
+16d	jejmość
+16e	.
+=6	=6
+16f	jak
+16f	jagoda,
+8a	.
+8cc}	.
 !!LO:LB:g=esac
-=7
-{8b-
-8g
-16b-
-16dd
-=8
-16cc
-16cc
-8a
-8f}
-==
-*-
+=7	=7
+{8b-	i
+8g	prześliczna
+16b-	.
+16dd	.
+=8	=8
+16cc	jéj
+8ddq	.
+16cc	uroda.
+8a	.
+8f}	.
+==	==
+*-	*-
+!!!role-singer: Peasants
+!!!role-listener: Lady
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Ryczy krówka od podwórza,
+!!nasza jejmość niby róża.
+!!Nasza jejmość jak jagoda,
+!!i prześliczna jéj uroda.
+!!@VERSE:
+!!2. Ryczy krówka od połatek, –
+!!nasza jéjmość niby kwiatek.
+!!Nasza jéjmość jak jagoda, –
+!!juźci zdrowa, jużci młoda.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=180 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 156} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, p. 156}
 !!!page: 156
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-26

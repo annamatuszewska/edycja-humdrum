@@ -3,58 +3,70 @@
 !!!source: DWOK09
 !!!id: 09060
 !!!signature: 0906000010
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{4dd
-4dd
-8dd
-8a
-=2
-8cc
-8ee
-4.dd
-8a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{4dd	Nieszczęśliwe
+4dd	.
+8dd	.
+8a	.
+=2	=2
+8cc	białegłowy,
+8ee	.
+4.dd	.
+8a}	.
 !!LO:LB:g=esac
-=3
-{4dd
-4dd
-8dd
-8a
-=4
-8cc
-8b
-4g
-4a}
+=3	=3
+{4dd	co
+4dd	mnie
+8dd	wzięny
+8a	.
+=4	=4
+8cc	do
+8b	komory.
+4g	.
+4a}	.
 !!LO:LB:g=esac
-=5
-{4g
-4g
-8a
-8cc
-=6
-8b
-8b
-4a
-4dd}
+=5	=5
+{4g	Jak
+4g	mnie
+8a	wzięny
+8cc	.
+=6	=6
+8b	tak
+8b	mnie
+4a	wzięny,
+4dd}	.
 !!LO:LB:g=esac
-=7
-{4g
-4g
-8a
-8cc
-=8
-8b
-8g
-4a
-4d}
-==
-*-
+=7	=7
+{4g	czépyszek
+4g	.
+8a	.
+8cc	mi
+=8	=8
+*	*^	*^
+8b	z_głowy	.
+8g	.	.
+4a	zjény.	(zdjęły).
+4d}	.	.
+*v	*v	*v
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Nieszczęśliwe białegłowy, co mnie wzięny do komory.
+!!Zawdziały mi to czépczysko, muszę kochać to chłopisko.
+!!Jak mnie wzięny tak mnie wzięny, czépyszek mi z głowy zjeny (zdjęły).
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=226 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 202} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, p. 202}
 !!!page: 202
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-26

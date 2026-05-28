@@ -11,46 +11,46 @@
 =1
 {4g
 4dd
-8dd
-8a
+8ddL
+8aJ
 =2
-8cc
-8ee
+8ccL
+8eeJ
 4.dd
-8a}
+8a\}
 !!LO:LB:g=esac
 =3
 {4b
 4dd
-8dd
-8a
+8ddL
+8aJ
 =4
-8cc
-8b
+8ccL
+8bJ\
 4b
 8a
-8f#}
+4a\}
 !!LO:LB:g=esac
 =5
 {4g
 4g
-8a
-8cc
+8aL
+8ccJ
 =6
-8b
-8b
-4a
+8bL
+8bJ\
+4a\
 4dd}
 !!LO:LB:g=esac
 =7
 {4g
-8g
-8a
-8cc
-8b
+8gL
+8aJ
+8ccL
+8bJ
 =8
-8b
-8g
+8bL
+8gJ
 4a
 4d}
 ==
@@ -60,3 +60,5 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=226 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 202} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, p. 202}
 !!!page: 202
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-26

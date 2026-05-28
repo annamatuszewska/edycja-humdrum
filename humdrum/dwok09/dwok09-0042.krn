@@ -3,50 +3,75 @@
 !!!source: DWOK09
 !!!id: 09042
 !!!signature: 0904200000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16a
-16a
-8f
-16a
-16cc
-=2
-16dd
-16ff
-8.dd
-16b-}
+**kern	**text	**text
+*clefG2	*	*
+*k[b-]	*	*
+*F:	*	*
+*M3/8	*	*
+=1	=1	=1
+{16a	Pieje	Pójdż
+16a	.	do
+8f	kokot,	domu
+16aL	.	.
+16ccJ	.	.
+=2	=2	=2
+16dd	pieje	nocka
+16ff	.	.
+8.dd	kuraś,	długa,
+16b-}	.	.
 !!LO:LB:g=esac
-=3
-{16a
-16a
-8f
-16a
-16cc
-=4
-16g
-16b-
-8.dd
-16b-}
+=3	=3	=3
+{16a	pójdź	nie
+16a	do	będzie
+8f	domu,	.
+16aL	.	ta,
+16ccJ	.	.
+=4	=4	=4
+16g	nic	będzie
+16b-	nie	.
+8.dd	wskórasz.	druga.
+16b-}	.	.
 !!LO:LB:g=esac
-=5
-{16a
-16a
-8f
-16a
-16cc
-=6
-16g
-16b-
-8.dd
-16b-}
-==
-*-
+=5	=5	=5
+{16a	Pieje	Pójdź
+16a	.	do
+8f	kokot,	domu
+16aL	.	.
+16ccJ	.	.
+=6	=6	=6
+16dd	pieje	nocka
+16ff	.	.
+8.dd	kuraś,	długa,
+16b-}	.	.
+!!LO:LB:g=esac
+=7	=7	=7
+{16a	pójdź	nie
+16a	do	będzie
+8f	domu,	.
+16aL	.	ta,
+16ccJ	.	.
+=8	=8	=8
+16g	nic	będzie
+16b-	nie	.
+8.dd	wskórasz.	druga.
+16b-}	.	.
+==	==	==
+*-	*-	*-
+!!!role-singer: Narrator, Bachelor
+!!!role-listener: Bachelor, Narrator
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Pieje kokot, pieje kuraś,
+!!pójdź do domu, nic nie wskórasz.
+!!@VERSE:
+!!2. Pójdź do domu, nocka długa,
+!!nie będzie ta, będzie druga.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=210 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 186} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, p. 186}
 !!!page: 186
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-26

@@ -3,57 +3,70 @@
 !!!source: DWOK09
 !!!id: 09022
 !!!signature: 0902200002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16a
-8b
-8cc
-=2
-4.dd
-=3
-16dd
-16ee
-8cc#
-8a
-=4
-4.dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Przynosimy
+16a	.
+8b	.
+8cc	.
+=2	=2
+4.dd	plon
+=3	=3
+16dd	jegomości
+16ee	.
+8cc#	.
+8a	.
+=4	=4
+4.dd}	w_dom,
 !!LO:LB:g=esac
-=5
-{16b
-16dd
-8.cc
-16b
-=6
-16b
-16g
-8a
-8g
-=7
-16b
-16dd
-8.cc
-16b
-=8
-16g
-16a
-8f#
-8d
-=9
-16d
-16f#
-8a
-8b
-=10
-4.g}
-==
-*-
+=5	=5
+{16b	żeby
+16dd	.
+8ddq	.
+8.cc	dobrze
+16b	.
+=6	=6
+16b/	plonowało,
+16g	.
+8a	.
+8g	.
+=7	=7
+16b	po
+16dd	sto
+8ddq	.
+8.cc	garncy
+16b	.
+=8	=8
+16gL	z_mendla
+16aJ\	.
+8f#	dało
+8d	.
+=9	=9
+16d	naszemu
+16f#	.
+8a	.
+8b	pa-
+=10	=10
+4.g}	-nu.
+==	==
+*-	*-
+!!!role-singer: Peasants
+!!!role-listener: Lord
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!2. Przynosimy plon jegomości w dom,
+!!żeby dobrze plonowało,
+!!po sto garncy z mendla dało
+!!naszemu panu.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=184 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 160} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, p. 160}
 !!!page: 160
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-26
