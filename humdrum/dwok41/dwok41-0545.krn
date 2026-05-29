@@ -3,61 +3,98 @@
 !!!source: DWOK41
 !!!id: 41545
 !!!signature: 4154500000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16.b
-32dd
-8dd
-8gg
-=2
-16.cc
-32ee
-8ee
-8dd
-=3
-16.b
-32dd
-16cc#
-16dd
-16b
-16g
-=4
-16.cc
-32a
-8f#
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Szlachecka	!
+{16.b	Czy
+32dd	ja
+8dd	czło-
+8gg	-wiek
+=2	=2
+16.cc	nie-
+32ee	-szczę-
+8ee	-śli-
+8dd	-wy,
+=3	=3
+16.b	co
+32dd	ja
+16cc#L	po-
+16ddJ	.
+16b/L	-cznę,
+16gJ	.
+=4	=4
+16.cc	przez
+32a	Bóg
+8f#	ży-
+8g}	-wy;
 !!LO:LB:g=esac
-=5
-{16a
-16d
-8d
-8f#
-=6
-16.a
-32cc
-8cc
-8b
-=7
-16g
-16b
-16cc#
-16dd
-16b
-16g
-=8
-16.cc
-32a
-8f#
-8g}
-==
-*-
+=5	=5
+{16a	je-
+16d	-dni
+8d	mó-
+8f#	-wią,
+=6	=6
+16.a	żem
+32cc	nie-
+8cc	-ła-
+8b	-dny,
+=7	=7
+16g	żem
+16b	nie
+16ccL#	czło-
+16ddJ	.
+16b/L	-wiek
+16gJ	.
+=8	=8
+16.cc	dó-
+32a	-syć
+8f#	skła-
+8g}	-dny.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Czy ja człowiek nieszczęśliwy, 
+!!co ja pocznę, przez Bóg żywy;
+!!jedni mówią, żem nieładny,
+!!żem nie człowiek dósyć składny.
+!!@VERSE:
+!!2. Drudzy mówią, że ja sknéra,
+!!te nagany są niewinne,
+!!bo ja sobie żyje hojnie,
+!!jem, napije, chodzę strojnie.
+!!@VERSE:
+!!3. Mam sukmane ułataną,
+!!pasy bogate, skórzane,
+!!czapka z barana koziego,
+!!czy nic dosyć stroju mego?
+!!@VERSE:
+!!4. Jak się moge, zakazuje,
+!!podarunki im kupuję,
+!!to tasiemek, to tabaki,
+!!to kukiełek, to gorzałki.
+!!@VERSE:
+!!5. One tego za nic mają,
+!!tylko ze mnie przekpiwają.
+!!jak ci ja sobie doradzę,
+!!na gorzałkę je sprowadzę.
+!!@VERSE:
+!!6. Jak ci one się popiją.
+!!to się kole mnie pobiją
+!!i będę uszczęśliwiony,
+!!co dostanę dobrej żony.
+!!@@END: VERSES
+!!!role-singer: Single Man
+!!!role-listener: Complex
+!!!singer-sex: Male
 !!!ONB: szlachecka
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=367 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 284} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 284}
 !!!page: 284
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-27

@@ -3,134 +3,148 @@
 !!!source: DWOK41
 !!!id: 41544
 !!!signature: 4154400000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/4
-=1
-{8f
-8f
-8f
-8f
-8f
-8f
-=2
-8.e
-16g
-2g
-=3
-8g
-8g
-8g
-8g
-8g
-8g
-=4
-8.f
-16a
-2a}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/4	*
+=1	=1
+!LO:TX:a:t=Wiwat	!
+{8f	Czy
+8f	na
+8f	miej-
+8f	-scu,
+8f	czy
+8f	w_po-
+=2	=2
+8.eL	-dró-
+16gJ	.
+2g	-ży,
+=3	=3
+8g	ran-
+8g	-na,
+8g	czy
+8g	wie-
+8g	-czor-
+8g	-na
+=4	=4
+8.fL	po-
+16aJ	.
+2a}	-ra,
 !!LO:LB:g=esac
-=5
-{8a
-8a
-8a
-8a
-16b-
-16a
-16g
-16a
-=6
-8.cc
-16b-
-4b-
-8.b-
-16g
-=7
-4.f
-8a
-8g
-8e
-=8
-4g
-4f}
-4r
+=5	=5
+{8a	za-
+8a	-wsze
+8a	wi-
+8a	-no
+16b-/L	zdro-
+16aJ	.
+16gL	-wiu
+16aJ	.
+=6	=6
+8.ccL	słu-
+16b-J	.
+4b-	-ży,
+8.b-	to
+16g	sły-
+=7	=7
+4.f	-sza-
+8a	-łem
+8g	od
+8e	do-
+=8	=8
+4g	-kto-
+4f}	-ra.
+4r	.
 !!LO:LB:g=esac
-=9
-{8g
-8g
-8g
-8g
-8.g
-16f
-=10
-8.e
-16g
-2g
-=11
-8g
-8g
-8g
-8g
-8.g
-16f
-=12
-8.e
-16g
-2g}
+=9	=9
+{8g	Wi-
+8g	-no
+8g	dow-
+8g	-cip
+8.g	two-
+16f	-rzy
+=10	=10
+8.eL	no-
+16gJ	.
+2g	-wy,
+=11	=11
+8g	po-
+8g	-dno-
+8g	-si
+8g	du-
+8.g	-szy
+16f	za-
+=12	=12
+8.eL	-le-
+16gJ	.
+2g}	-ty,
 !!LO:LB:g=esac
-=13
-{8a
-8a
-8a
-8a
-16b-
-16a
-16g
-16a
-=14
-8.cc
-16b-
-2b-
-=15
-8g
-8g
-8g
-8g
-8g
-8g
-=16
-8.b-
-16a
-2a}
+=13	=13
+{8a	po-
+8a	-pę-
+8a	-dza
+8a	ro-
+16b-/L	-zum
+16aJ	.
+16gL	do
+16aJ	.
+=14	=14
+8.ccL	gło-
+16b-J	.
+2b-	-wy,
+=15	=15
+8g	to
+8g	sły-
+8g	-sza-
+8g	-łem
+8g	od
+8g	po-
+=16	=16
+8.b-/L	-e-
+16aJ	.
+2a}	-ty,
 !!LO:LB:g=esac
-=17
-{8f
-8f
-8f
-8f
-8g
-8a
-=18
-8.cc
-16b-
-4b-
-8b-
-8g
-=19
-4.f
-8a
-8g
-8e
-=20
-4g
-4f}
-4r
-==
-*-
+=17	=17
+{8f	po-
+8f	-pę-
+8f	-dza
+8f	ro-
+8g	-zum
+8a	do
+=18	=18
+8.ccL	gło-
+16b-J	.
+4b-;	-wy,
+8b-	to
+8g	sły-
+=19	=19
+4.f	-sza-
+8a	-łem
+8g	od
+8e	po-
+=20	=20
+4g	-e-
+4f}	-ty.
+4r	_
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Czy na miejscu, czy w podróży,
+!!ranna, czy wieczorna pora,
+!!zawsze wino zdrowiu służy,
+!!to słyszałem od doktora.
+!!Wino dowcip tworzy nowy,
+!!podnosi duszy zalety,
+!!|:popędza rozum do głowy,
+!!to słyszałem od poety:|.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!ONB: Wiwat
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=366 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 283} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 283}
 !!!page: 283
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-27
