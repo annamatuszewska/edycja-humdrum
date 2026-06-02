@@ -9,7 +9,8 @@
 *C:
 *M3/4
 =1
-{4cc
+{(8gq
+4cc)
 4b
 4g
 =2
@@ -17,8 +18,8 @@
 4b
 4g
 =3
-8cc
-8ee
+8ccL
+8eeJ
 4gg
 4g}
 !!LO:LB:g=esac
@@ -31,28 +32,30 @@
 4b
 4g
 =6
-8b
-8dd
+8bL
+8ddJ
 4a
 4g}
 !!LO:LB:g=esac
 =7
-{4cc
+{(8aq
+4cc)
 4b
 4b
 =8
-8a
-8a
+8aL
+8aJ
 4g
-8b
-8dd
+8bL
+8ddJ
 =9
-4cc
+(8aq
+4cc)
 4b
 4g
 =10
-8b
-8dd
+8bL
+8ddJ
 4a
 4g}
 ==
@@ -62,3 +65,5 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=390 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 305} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 305}
 !!!page: 305
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-29
