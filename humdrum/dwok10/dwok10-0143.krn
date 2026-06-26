@@ -3,74 +3,108 @@
 !!!source: DWOK10
 !!!id: 10143
 !!!signature: 1014300000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16f
-16a
-8cc
-8cc
-=2
-16cc
-16ff
-8dd
-8dd
-=3
-16g
-16b-
-8dd
-8cc
-=4
-4.f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16f	Jak
+16a	pojedziem
+8cc	.
+8cc	.
+=2	=2
+16cc	do
+16ff	kościoła,
+8dd	.
+8dd	.
+=3	=3
+16g	to
+16b-	będziesz
+8dd	.
+8cc	mo-
+=4	=4
+4.f}	-ja,
 !!LO:LB:g=esac
-=5
-{16f
-16a
-8cc
-8cc
-=6
-16cc
-16ff
-8dd
-8dd
-=7
-16g
-16b-
-8dd
-8cc
-=8
-4.f}
+=5	=5
+{16f	jak
+16a	pojedziem
+8cc	.
+8cc	.
+=6	=6
+16cc	do
+16ff	kościoła,
+8dd	.
+8dd	.
+=7	=7
+16g	to
+16b-	będziesz
+8dd	.
+8cc	mo-
+=8	=8
+4.f}	-ja.
 !!LO:LB:g=esac
-=9
-{4a
-8cc
-=10
-16b-
-16a
-8g
-8f
-=11
-4a
-8cc
-=12
-16b-
-16a
-8g
-8f
-=13
-16e
-16f
-8g
-8a
-=14
-4.f}
-==
-*-
+=9	=9
+{4a	Jeszczem
+8cc	.
+=10	=10
+16b-	jest
+16a\	nie
+8g	twoja,
+8f	.
+=11	=11
+4a	samam
+8cc	.
+=12	=12
+16b-	sobie
+16a\	.
+8g	wolna
+8f	.
+=13	=13
+16e	między
+16f	.
+8g	panna-
+8a	.
+=14	=14
+4.f}	-mi.
+==	==
+*-	*-
+!!!role-singer: Groom, Bride
+!!!role-listener: Bride, Groom
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Jak pojedziem do kościoła,
+!!to będziesz moja.
+!!Jeszczem jest nie twoja,
+!!samam sobie wolna między pannami.
+!!@VERSE:
+!!2. Jak pójdziemy do ołtarza,
+!!to będziesz moja.
+!!Jeszczem i t. d.
+!!@VERSE:
+!!3. Jak przyjdziemy tu do domu
+!!to będziesz moja.
+!!Jeszczem i t. d.
+!!@VERSE:
+!!4. Jak cię wezmą do komory
+!!to będziesz moja.
+!!Jeszczem i t. d.
+!!@VERSE:
+!!5. Jak wyprowadzą z komory
+!!to będziesz moja.
+!!Jeszczem i t. d.
+!!@VERSE:
+!!6. Jak usiądziem tu na łóżku,
+!!to będziesz moja.
+!!Już ci teraz wierzę,
+!!bo już z tobą siedzę,
+!!już jestem twoja.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=303 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 287} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 287}
 !!!page: 287
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-11

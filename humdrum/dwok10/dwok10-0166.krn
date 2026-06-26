@@ -3,94 +3,109 @@
 !!!source: DWOK10
 !!!id: 10166
 !!!signature: 1016600000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/4
-=1
-{4a
-2b-
-=2
-4a
-2g
-=3
-4g
-2a
-=4
-4g
-2f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/4	*
+=1	=1
+{4a	Przeza-
+2b-/	.
+=2	=2
+4a	-cna
+2g	księ-
+=3	=3
+4g	-żna
+2a	dzie-
+=4	=4
+4g	-wica
+2f}	.
 !!LO:LB:g=esac
-=5
-{4a
-2b-
-=6
-4a
-2g
-=7
-4g
-2a
-=8
-4g
-2f}
+=5	=5
+{4a	Roza-
+2b-/	.
+=6	=6
+4a	-lija
+2g	.
+=7	=7
+4g	pustel-
+2a	.
+=8	=8
+4g	-nica.
+2f}	.
 !!LO:LB:g=esac
-=9
-{4a
-4a
-4b-
-=10
-2cc
-4b-
-=11
-4a
-2b-
-=12
-2.g}
+=9	=9
+{4a	Ze
+4a	krwi
+4b-	Ka-
+=10	=10
+2cc	-rola
+4b-	.
+=11	=11
+4a\	Wielkie-
+2b-	.
+=12	=12
+2.g}	-go,
 !!LO:LB:g=esac
-=13
-{4a
-4a
-4b-
-=14
-2cc
-4b-
-=15
-4a
-2g
-=16
-2f}
-4r
+=13	=13
+{4a	Cesarza
+4a	.
+4b-	.
+=14	=14
+2cc	chrześci-
+4b-	.
+=15	=15
+4a	-jańskie-
+2g	.
+=16	=16
+2f}	-go,
+4r	.
 !!LO:LB:g=esac
-=17
-{4a
-4a
-4b-
-=18
-2cc
-4b-
-=19
-4a
-2b-
-=20
-2.g}
+=17	=17
+{4a	ze
+4a	krwi
+4b-	Ka-
+=18	=18
+2cc	-rola
+4b-	.
+=19	=19
+4a\	Wielkie-
+2b-	.
+=20	=20
+2.g}	-go,
 !!LO:LB:g=esac
-=21
-{4a
-4a
-4b-
-=22
-2cc
-4b-
-=23
-4a
-2g
-=24
-2f}
-4r
-==
-*-
+=21	=21
+{4a	Cesarza
+4a	.
+4b-	.
+=22	=22
+2cc	chrześci-
+4b-	.
+=23	=23
+4a	-jańskie-
+2g	.
+=24	=24
+2f}	-go.
+4r	.
+==	==
+*-	*-
+!!!role-listener: Rosalia
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Przezacna księżna dziewica
+!!Rozalija pustelnica.
+!!Ze krwi Karola Wielkiego,
+!!Cesarza chrześcijańskiego.
+!!@VERSE:
+!!2. Pogardziłaś dostatkami,
+!!dworem, państwem, pieszczotami.
+!!Na pustynią-ś się udała,
+!!mieszkaniem Twém była skała. i t. d.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=392 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 376} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 376}
 !!!page: 376
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-11

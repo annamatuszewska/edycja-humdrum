@@ -3,70 +3,100 @@
 !!!source: DWOK10
 !!!id: 10161
 !!!signature: 1016100012
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16b
-16cc
-8dd
-8dd
-=2
-16dd
-16dd
-8b
-8g
-=3
-8cc
-4ee}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+!!LO:TX:a:t=Czasami po oczepinach i po udawaniu kulawéj.
+!!LO:TX:a:t=Przepiórka.
+{16b	Ucie-
+16cc	.
+8dd	-kała
+8dd	.
+=2	=2
+16dd	przepióreczka
+16dd	.
+8b	.
+8g	.
+=3	=3
+8cc	w_proso
+4ee}	.
 !!LO:LB:g=esac
-=4
-{16a
-16b
-8cc
-8cc
-=5
-16cc
-16cc
-8a
-8f#
-=6
-8dd
-4b}
+=4	=4
+{16a\	a
+16b	ja
+8cc	za
+8cc	nią
+=5	=5
+16cc	nieboraczek
+16cc	.
+8a	.
+8f#	.
+=6	=6
+8dd	boso.
+4b}	.
 !!LO:LB:g=esac
-=7
-{16g
-16a
-8b
-8b
-=8
-16b
-16b
-8a
-8g
-=9
-8a
-4cc}
+=7	=7
+{16g	Trzeba
+16a	.
+8b	mi
+8b	się
+=8	=8
+16b	mamulińki
+16b	.
+8a	.
+8g	.
+=9	=9
+8a	spytać,
+4cc/}	.
 !!LO:LB:g=esac
-=10
-{16d
-16f#
-8a
-8a
-=11
-16a
-16a
-8f#
-8d
-=12
-8b
-4g}
-==
-*-
+=10	=10
+{16d	żeli
+16f#	.
+8a	wolno
+8a	.
+=11	=11
+16a	przepiórenkę
+16a	.
+8f#	.
+8d	.
+=12	=12
+8b	chwytać.
+4g}	.
+==	==
+
+*-	*-
+!!!role-singer: Son, Mother
+!!!role-listener: Partridge
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Uciekała przepióreczka w proso,
+!!a ja za nią nieboraczek boso.
+!!Trzeba mi się mamulińki spytać,
+!!żeli wolno przepiórenkę chwytać.
+!!@VERSE:
+!!2. A chwytaj-że, mój syneczku chwytaj,
+!!tylko jéj się piórénków nie tykaj.
+!!A jak-żeż ją, mamulinku, chwytać,
+!!kiedy jéj się piórénków nie tykać?
+!!@VERSE:
+!!3. Uciekała przepiórka po rowie,
+!!i lecieli za nią dwaj panowie.
+!!I wołali: przepiórko, nie bój się!
+!!weź tu swoje trzewiczki, obuj się!
+!!@VERSE:
+!!4. Przepióreńka drobne piórka miała,
+!!coraz wyżéj w górę uciekała.
+!!Przepiórenko, przepiórenko, letko!
+!!skrzydełénka opadną ci prędko.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=331 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 315} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 315}
 !!!page: 315
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-11

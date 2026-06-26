@@ -3,82 +3,105 @@
 !!!source: DWOK10
 !!!id: 10148
 !!!signature: 1014800000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8dd
-8.b
-16cc
-=2
-8dd
-4ee
-=3
-8cc
-8.a
-16b
-=4
-16cc
-16b
-8a
-8f#}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8dd	O
+8.b	wianku,
+16cc	.
+=2	=2
+8dd	wianku,
+4ee	.
+=3	=3
+8cc	wianku
+8.a\	.
+16b	.
+=4	=4
+16cc	ruciany,
+16b/	.
+8a	.
+8f#}	.
 !!LO:LB:g=esac
-=5
-{8dd
-8.b
-16cc
-=6
-8dd
-4ee
-=7
-8cc
-8.a
-16dd
-=8
-16cc
-16b
-8a
-8f#}
+=5	=5
+{8dd	o
+8.b	wianku,
+16cc	.
+=6	=6
+8dd	wianku,
+4ee	.
+=7	=7
+8cc	wianku
+8.a\	.
+16dd/	.
+=8	=8
+16cc	ruciany
+16b/	.
+8a	.
+8f#}	.
 !!LO:LB:g=esac
-=9
-{8d
-4f#
-=10
-16g
-16a
-8b
-8dd
-=11
-8d
-4f#
-=12
-16g
-16a
-8b
-8g}
+=9	=9
+{8d	którym
+4f#	.
+=10	=10
+16g	cię
+16a	nosiła
+8b	.
+8dd	.
+=11	=11
+8d	na
+4f#	gło-
+=12	=12
+16g	-wie
+16a	kochanej,
+8b	.
+8g}	.
 !!LO:LB:g=esac
-=13
-{8d
-4f#
-=14
-16g
-16a
-8b
-8dd
-=15
-8d
-4f#
-=16
-16g
-16a
-8b
-8g}
-==
-*-
+=13	=13
+{8d	którym
+4f#	.
+=14	=14
+16g	cię
+16a	nosiła
+8b	.
+8dd	.
+=15	=15
+8d	na
+4f#	gło-
+=16	=16
+16g	-wie
+16a	kochanéj.
+8b	.
+8g}	.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!role-listener: Garland
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. O wianku, wianku, wianku ruciany
+!!którym cię nosiła na głowie kochanéj.
+!!@VERSE:
+!!2. Com cię nosiła lat kilkanaście,
+!!żebyś mi posłużył, aby roczek jeszcze.
+!!@VERSE:
+!!3. O wianku, wianku! rozmarynowy,
+!!nie spadajże z mojéj, nie spadaj mi z głowy,
+!!bo jak mi spadniesz, już cię nie wsadzę,
+!!teraz jestem panną, a zaś będę babą.
+!!@VERSE:
+!!4. O wianku, wianku! dla Boga-ć proszę,
+!!niech cię szczęśliwie do kościoła doniosę,
+!!jak z kościoła przyjdę, oddam cię drugi(éj),
+!!jak mi cię nie weźmie, to jéj ćpie pod nogi.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=323 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 307} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 307}
 !!!page: 307
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-11

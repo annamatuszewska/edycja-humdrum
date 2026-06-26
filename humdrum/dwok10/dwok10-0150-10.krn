@@ -3,63 +3,76 @@
 !!!source: DWOK10
 !!!id: 10150
 !!!signature: 1015000010
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8a
-4a
-8cc
-4ee
-=2
-8dd
-4b
-8g
-8cc
-8b
-=3
-8a
-4a
-8cc
-4ee
-=4
-8dd
-4b
-8g
-8a
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+!!LO:TX:a:t=Polonez weselny.
+{8a	Moja
+4a	.
+8cc	Maryś
+4ee	.
+=2	=2
+8dd	jużeś
+4b	.
+8g	niewiasta,
+8cc	.
+8b	.
+=3	=3
+8a	weźmiesz
+4a	.
+8cc	koszyk,
+4ee	.
+=4	=4
+8dd	pójdziesz
+4b	.
+8g	do
+8a	miasta.
+8g}	.
 !!LO:LB:g=esac
-=5
-{8a
-4a
-8g
-8b
-8cc
-=6
-8a
-4b
-8g
-8cc
-8b
-=7
-8a
-4a
-8g
-8b
-8cc
-=8
-8a
-4b
-8g
-8a
-8g}
-==
-*-
+=5	=5
+{8a	Weźmiesz
+4a	.
+8g	koszyk,
+8bL	.
+8ccJ	.
+=6	=6
+8a\	weźmiesz
+4b	.
+8g	i
+8cc	kurę
+8b	.
+=7	=7
+8a	i
+4a	kupisz
+8g	.
+8bL	se
+8ccJ	.
+=8	=8
+8a\	batóg
+4b	.
+8g	na
+8a	skórę.
+8g}	.
+==	==
+*-	*-
+!!!role-listener: Young Wife
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Moja Maryś jużeś niewiasta,
+!!weźmiesz koszyk,
+!!pójdziesz do miasta.
+!!Weźmiesz koszyk,
+!!weźmiesz i kurę
+!!i kupisz se batóg na skórę.
+!!@@END: VERSES
 !!!ONB: Polonez weselny
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=326 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 310} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 310}
 !!!page: 310
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-11

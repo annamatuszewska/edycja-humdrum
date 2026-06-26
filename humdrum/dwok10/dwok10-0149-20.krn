@@ -9,41 +9,41 @@
 *C:
 *M2/4
 =1
-{8cc
-8cc
+{8ccL
+8ccJ
 4a
 =2
-8g
-8g
+8gL
+8gJ
 4e
 =3
 4g
-16f
+16fL
 16e
 16d
-16e
+16eJ
 =4
-8c
-8e
+8cL
+8eJ
 4g}
 !!LO:LB:g=esac
 =5
-{8cc
-8cc
+{8ccL
+8ccJ
 4a
 =6
-8g
-8g
+8gL
+8gJ
 4e
 =7
 4g
-16f
+16fL
 16e
 16d
-16e
+16eJ
 =8
-8c
-8e
+8cL
+8eJ
 4c}
 ==
 *-
@@ -52,3 +52,5 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=324 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 308} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 308}
 !!!page: 308
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-11

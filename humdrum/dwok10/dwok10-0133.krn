@@ -3,162 +3,181 @@
 !!!source: DWOK10
 !!!id: 10133
 !!!signature: 1013300000
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M3/8
-=1
-{4dd
-8ee
-=2
-8ff
-4dd
-=3
-4cc
-8a
-=4
-8dd
-4a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*D:	*
+*M3/8	*
+=1	=1
+{4dd	Rozma-
+8ee	.
+=2	=2
+8ff	-rynku
+4dd	.
+=3	=3
+4cc	ty
+8a	zie-
+=4	=4
+8dd	-lony,
+4a}	.
 !!LO:LB:g=esac
-=5
-{4dd
-8ee
-=6
-8ff
-4dd
-=7
-4cc
-8a
-=8
-8g
-4a}
+=5	=5
+{4dd	w_kolu-
+8ee	.
+=6	=6
+8ff	-sinko
+4dd	.
+=7	=7
+4cc	obgo-
+8a	.
+=8	=8
+8g	-lony,
+4a}	.
 !!LO:LB:g=esac
-=9
-{16g
-16a
-8b
-8dd
-=10
-4cc
-8a
-=11
-8dd
-4a
-=12
-16g
-16a
-8b
-8dd
-=13
-4cc
-8a
-=14
-8g
-4a}
+=9	=9
+{16g	niechże
+16a	.
+8b	będzie
+8dd	.
+=10	=10
+4cc	obsy-
+8a\	.
+=11	=11
+8dd	-pany
+4a	.
+=12	=12
+16g	od
+16a	Tomaszka
+8b	.
+8dd	.
+=13	=13
+4cc	ta-
+8b-qi	.
+8a	-la-
+=14	=14
+8g	-rami.
+4a}	.
 !!LO:LB:g=esac
-=15
-{16g
-16a
-8b
-8dd
-=16
-16cc
-16b
-16dd
-16ee
-16cc
-16a
-=17
-16g
-16a
-8b
-8dd
-=18
-16cc
-32b
-32a
-8g
-8a}
+=15	=15
+{16gL	.
+16aJ	.
+8bL	.
+8ddJ	.
+=16	=16
+16ccL	.
+16bJ	.
+(16ddL	.
+16eeJ)	.
+(16ccL	.
+16aJ)	.
+=17	=17
+16gL	.
+16aJ	.
+8bL	.
+8ddJ	.
+=18	=18
+16ccL	.
+32b-i	.
+32aJ	.
+8gL	.
+8aJ}	.
 !!LO:LB:g=esac
-=19
-{4dd
-8ee
-=20
-8ff
-4dd
-=21
-4cc
-8a
-=22
-8dd
-4a}
+=19	=19
+{4dd	Rozma-
+8ee	.
+=20	=20
+8ff	-rynku
+4dd	.
+=21	=21
+4cc	ty
+8a	zie-
+=22	=22
+8dd	-lony,
+4a}	.
 !!LO:LB:g=esac
-=23
-{4dd
-8ee
-=24
-8ff
-4dd
-=25
-4cc
-8a
-=26
-8g
-4a}
+=23	=23
+{4dd	w_kolu-
+8ee	.
+=24	=24
+8ff	-sinko
+4dd	.
+=25	=25
+4cc	obgo-
+8a	.
+=26	=26
+8g	-lony,
+4a}	.
 !!LO:LB:g=esac
-=27
-{16g
-16a
-8b
-8dd
-=28
-4cc
-8cc
-=29
-8ee
-8dd
-16cc
-16a
-=30
-16g
-16a
-8b
-8dd
-=31
-4cc
-8a
-=32
-8g
-4a}
+=27	=27
+{16g	niechże
+16a	.
+8b	będzie
+8dd	.
+=28	=28
+4cc/	obsy-
+8cc/	.
+=29	=29
+8eeL	-pany
+8dd	.
+16cc	.
+16aJ/	.
+=30	=30
+16g	od
+16a	Tomaszka
+8b	.
+8dd	.
+=31	=31
+4cc	ta-
+8b-qi	.
+8a	-la-
+=32	=32
+8g	-rami.
+4a}	.
 !!LO:LB:g=esac
-=33
-{16g
-16a
-8b
-8dd
-=34
-16cc
-16b
-16dd
-16ee
-16cc
-16a
-=35
-16g
-16a
-8b
-8dd
-=36
-16cc
-32b
-32a
-8g
-8a}
-==
-*-
+=33	=33
+{16gL	.
+16aJ	.
+8bL	.
+8ddJ	.
+=34	=34
+16ccL	.
+16bJ	.
+(16ddL	.
+16eeJ)	.
+(16ccL	.
+16aJ)	.
+=35	=35
+16gL	.
+16aJ	.
+8bL	.
+8ddJ	.
+=36	=36
+16ccL	.
+32b-i	.
+32aJ	.
+8gL	.
+8aJ}	.
+==	==
+*-	*-
+!!!RDF**kern: i = editorial accidental
+!!!role-listener: Rosemary, Groom
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Rozmarynku ty zielony,
+!!w kolusinko obgolony,
+!!niechże będzie obsypany
+!!od Tomaszka talarami.
+!!@VERSE:
+!!2. Oj nie wiesz ty młody-panie,
+!!co się dzisiaj z tobą stanie.
+!!Młodą-pannę oczepiemy,
+!!ciebie panie ob(w)ieszemy.
+!!@@END: VERSES
+!!!ONB@texture: Only voice or instrument is playing at a time
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=295 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 279-280} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, pp. 279-280}
 !!!page: 279-280
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-11

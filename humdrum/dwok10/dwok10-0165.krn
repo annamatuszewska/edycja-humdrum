@@ -3,113 +3,126 @@
 !!!source: DWOK10
 !!!id: 10165
 !!!signature: 1016500000
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{8.g
-16b
-8cc
-8ee
-=2
-8.gg
-16ee
-8ff
-8dd
-=3
-8ee
-8cc
-8dd
-8g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+=1	=1
+!!LO:TX:a:t=Przy czepieniu.
+{8.g	Ty
+16b	wianeczku
+8cc	.
+8ee	.
+=2	=2
+8.gg	lewandowy,
+16ee	.
+8ff	.
+8dd	.
+=3	=3
+8ee	lewandowy,
+8cc	.
+8dd	.
+8g}	.
 !!LO:LB:g=esac
-=4
-{8g
-8b
-8cc
-8ee
-=5
-8.gg
-16ee
-8ff
-8dd
-=6
-8ee
-8cc
-8b
-8g}
+=4	=4
+{8g	zdejmują
+8b	.
+8cc	.
+8ee	cię
+=5	=5
+8.gg	z_mojéj
+16ee	.
+8ff	głowy,
+8dd	.
+=6	=6
+8ee	z_mojéj
+8cc	.
+8b	głowy.
+8g}	.
 !!LO:LB:g=esac
-=7
-{8.g
-16cc
-8b
-8a
-=8
-4dd
-4dd
-=9
-8g
-16a
-16b
-4cc
-=10
-4cc
-4cc}
+=7	=7
+{8.gL	.
+16ccJ\	.
+8bL	.
+8aJ\	.
+=8	=8
+4dd	.
+4dd	.
+=9	=9
+8gL	.
+16a	.
+16bJ	.
+4cc	.
+=10	=10
+4cc	.
+4cc}	.
 !!LO:LB:g=esac
-=11
-{8.g
-16b
-8cc
-8ee
-=12
-8.gg
-16ee
-8ff
-8dd
-=13
-8ee
-8cc
-8dd
-8g}
+=11	=11
+{8.g	A
+16b	czapczysko
+8cc	.
+8ee	.
+=12	=12
+8.gg	zawdziewają,
+16ee	.
+8ff	.
+8dd	.
+=13	=13
+8ee	zawdziewają,
+8cc	.
+8dd	.
+8g}	.
 !!LO:LB:g=esac
-=14
-{8g
-8b
-8cc
-8ee
-=15
-8.gg
-16ee
-8ff
-8dd
-=16
-8ee
-8cc
-8b
-8g}
+=14	=14
+{8g	a
+8b	wstążeczki
+8cc	.
+8ee	.
+=15	=15
+8.gg	odpinają,
+16ee	.
+8ff	.
+8dd	.
+=16	=16
+8ee	odpinają.
+8cc	.
+8b	.
+8g}	.
 !!LO:LB:g=esac
-=17
-{8.g
-16cc
-8b
-8a
-=18
-4dd
-4dd
-=19
-8g
-16a
-16b
-4cc
-=20
-4cc
-4cc}
-==
-*-
+=17	=17
+{8.gL	.
+16ccJ\	.
+8bL	.
+8aJ\	.
+=18	=18
+4dd	.
+4dd	.
+=19	=19
+8gL	.
+16a	.
+16bJ	.
+4cc	.
+=20	=20
+4cc	.
+4cc}	.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!role-listener: Garland
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Ty wianeczku lewandowy, lewandowy,
+!!zdejmują cię z mojéj głowy, z mojéj głowy.
+!!A czapczysko zawdziewają, zawdziewają,
+!!a wstążeczki odpinają, odpinają.
+!!@@END: VERSES
 !!!ONB: Przy czepieniu
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=376 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 360} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 360}
 !!!page: 360
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-11

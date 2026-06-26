@@ -3,54 +3,65 @@
 !!!source: DWOK10
 !!!id: 10139
 !!!signature: 1013900000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{4cc
-8b
-=2
-16cc
-16dd
-8ee
-8ee
-=3
-4cc
-8b
-=4
-16a
-16a
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{4cc	To
+8b	z_nią
+=2	=2
+16cc	do
+16dd	pszeniczki,
+8ee	.
+8ee	.
+=3	=3
+4cc	to
+8b	z_nią
+=4	=4
+16a	do
+16a	żyta,
+4g}	.
 !!LO:LB:g=esac
-=5
-{4cc
-8b
-=6
-16a
-16a
-8b
-8g
-=7
-4cc
-8b
-=8
-16a
-16a
-8b
-8dd
-=9
-4cc
-8b
-=10
-16a
-16a
-4g}
-==
-*-
+=5	=5
+{4cc	wczoraj
+8b	.
+=6	=6
+16a	była
+16a	.
+8b	panną,
+8g\	.
+=7	=7
+4cc	wczoraj
+8b	.
+=8	=8
+16a	uro-
+16a	.
+8bL	-dliwą
+8ddJ/	.
+=9	=9
+4cc	a
+8b	dziś
+=10	=10
+16a	kobieta.
+16a	.
+4g}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!To z nią do pszeniczki,
+!!to z nią do żyta,
+!!wczoraj była panną,
+!!wczoraj urodliwą
+!!a dziś kobieta.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=297 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 281-282} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, pp. 281-282}
 !!!page: 281-282
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-11

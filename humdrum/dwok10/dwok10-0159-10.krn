@@ -3,70 +3,80 @@
 !!!source: DWOK10
 !!!id: 10159
 !!!signature: 1015900010
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16b
-16cc
-8dd
-8dd
-=2
-16dd
-16dd
-8b
-8dd
-=3
-8cc
-4a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16b	Uciekała
+16cc	.
+8dd	.
+8dd	.
+=2	=2
+16dd	przepióreczka
+16dd	.
+8b	.
+8dd	.
+=3	=3
+8cc	w_proso,
+4a}	.
 !!LO:LB:g=esac
-=4
-{16f#
-16a
-8cc
-8cc
-=5
-16cc
-16cc
-8a
-8cc
-=6
-8b
-4g}
+=4	=4
+{16f#	a
+16a	ja
+8cc	za
+8cc	nią
+=5	=5
+16cc	nieboraczek
+16cc	.
+8a\	.
+8cc	.
+=6	=6
+8b	boso.
+4g}	.
 !!LO:LB:g=esac
-=7
-{16g
-16a
-8b
-8b
-=8
-16b
-16b
-8g
-8b
-=9
-8a
-4d}
+=7	=7
+{16g	Przepióreczka
+16a	.
+8b	.
+8b	.
+=8	=8
+16b	drobne
+16b	.
+8g	piórka
+8b	.
+=9	=9
+8a	miała,
+4d}	.
 !!LO:LB:g=esac
-=10
-{16f#
-16a
-8cc
-8cc
-=11
-16cc
-16cc
-8a
-8dd
-=12
-8b
-4g}
-==
-*-
+=10	=10
+{16f#	jeszcze
+16a	.
+8cc	bardziej
+8cc	.
+=11	=11
+16cc	w_proso
+16cc	.
+8a	ucie-
+8dd	.
+=12	=12
+8b	-kała.
+4g}	.
+==	==
+*-	*-
+!!!role-singer: Narrator/Agens
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Uciekała przepióreczka w proso,
+!!a ja za nią nieboraczek boso.
+!!Przepióreczka drobne piórka miała,
+!!Jeszcze bardziéj w proso uciekała.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=329 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 313-314} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, pp. 313-314}
 !!!page: 313-314
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-11

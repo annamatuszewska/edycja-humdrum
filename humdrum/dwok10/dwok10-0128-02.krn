@@ -3,54 +3,65 @@
 !!!source: DWOK10
 !!!id: 10128
 !!!signature: 1012800002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8dd
-8dd
-4ee
-4ee
-=2
-8dd
-8dd
-4.cc
-8a
-=3
-8b
-16cc
-16dd
-4ee
-4ee
-=4
-2.dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8dd	Gdzieś
+8dd	działa
+4ee	.
+4ee	wień-
+=2	=2
+8dd	-ce
+8dd	dziewczyno,
+4.cc	.
+8a	.
+=3	=3
+8bL	gdzieś
+16cc	działa
+16ddJ/	.
+4ee	.
+4ee	wień-
+=4	=4
+2.dd}	-ce?
 !!LO:LB:g=esac
-=5
-{8dd
-8b
-4g
-8a
-8f#
-=6
-8g
-16a
-16b
-4.cc
-8a
-=7
-8b
-8g
-4f#
-8a
-8f#
-=8
-2.g}
-==
-*-
+=5	=5
+{8dd	Powiesiłam
+8b	.
+4g	.
+8aL	.
+8f#J	.
+=6	=6
+8gL	je
+16a	w_Kotlinie
+16bJ	.
+4.cc	.
+8a	.
+=7	=7
+8b	na
+8g	Bożéj
+4f#	.
+8aL	mę-
+8f#J	.
+=8	=8
+2.g}	-ce.
+==	==
+*-	*-
+!!!role-singer: Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Gdzieś działa wieńce dziewczyno,
+!!gdzieś działa wieńce?
+!!Powiesiłam je w Kotlinie na Bożéj męce.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=292 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 276} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 276}
 !!!page: 276
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-11

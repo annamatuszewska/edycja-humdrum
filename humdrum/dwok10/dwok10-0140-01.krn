@@ -3,66 +3,78 @@
 !!!source: DWOK10
 !!!id: 10140
 !!!signature: 1014000001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8dd
-8dd
-8dd
-8dd
-4dd
-=2
-8dd
-8ff#
-8ee
-8cc
-4a
-=3
-8cc
-8cc
-8dd
-8cc
-8b
-8g
-=4
-8a
-8a
-8a
-8f#
-4d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8dd	Maćkowa
+8dd	.
+8dd	.
+8dd	grusza
+4dd	.
+=2	=2
+8dd	stoji
+8ff#	.
+8ee	w_otoku,
+8cc	.
+4a	.
+=3	=3
+8cc	czekaj
+8cc	.
+8dd	mnie
+8cc	malućka
+8b	.
+8g	.
+=4	=4
+8a	aby
+8a	.
+8a	do
+8f#	roku.
+4d}	.
 !!LO:LB:g=esac
-=5
-{8g
-8g
-8g
-8g
-4g
-=6
-8.g
-16b
-8b
-8cc
-4a
-=7
-8a
-8cc
-8dd
-8cc
-8b
-8g
-=8
-8a
-8a
-8a
-8f#
-4d}
-==
-*-
+=5	=5
+{8g	Czekałabym
+8g	.
+8g	.
+8g	.
+4g	cię
+=6	=6
+8.g	rok
+16b	i
+8b	półtora,
+8cc	.
+4a	.
+=7	=7
+8a\	żebym
+8cc	.
+8dd	wiedziała
+8cc	.
+8b	.
+8g	.
+=8	=8
+8a	że
+8a	bę-
+8a	-dę
+8f#	twoja.
+4d}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Maćkowa grusza stoji w otoku,
+!!czekaj mnie malućka aby do roku.
+!!Czekałabym cię rok i półtora,
+!!żebym wiedziała że będę twoja.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=298 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 282} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 282}
 !!!page: 282
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-11

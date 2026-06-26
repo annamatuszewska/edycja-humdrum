@@ -3,115 +3,131 @@
 !!!source: DWOK10
 !!!id: 10106
 !!!signature: 1010600000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8g
-8b
-8cc
-8a
-4g
-=2
-8a
-8cc
-8ee
-8ee
-4a
-=3
-8g
-8b
-8cc
-8a
-4g
-=4
-4cc
-8g
-8b
-4a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*G:	*
+*M3/4	*
+=1	=1
+!!LO:TX:a:t=Chodzony.
+{8g	Jaka
+8b	.
+8cc	przed
+8a\	soby
+4g	.
+=2	=2
+8a	taka
+8bq	.
+8cc	.
+8ee	za
+8ee	soby
+4a	.
+=3	=3
+8g	jescem
+8b	.
+8cc	nie
+8a\	widział
+4g	.
+=4	=4
+4cc	takij
+8g	.
+8b/	osoby.
+4a}	.
 !!LO:LB:g=esac
-=5
-{8g
-8b
-8cc
-8ee
-4ff
-=6
-8dd
-8ee
-8dd
-8cc
-4a
-=7
-8g
-8b
-8cc
-8ee
-4ff
-=8
-8dd
-8ee
-8dd
-8cc
-4a}
+=5	=5
+{8g	Takij
+8b	.
+8cc	takowéj,
+8ee	.
+4ff	.
+=6	=6
+8dd	takij
+8ee	.
+8dd	takowéj
+8cc	.
+4a	.
+=7	=7
+8g	zeby
+8b	.
+8cc	chodziła
+8ee	.
+4ff	.
+=8	=8
+8dd	w_sukni
+8ee	.
+8dd	makowéj.
+8cc	.
+4a}	.
 !!LO:LB:g=esac
-=9
-{8g
-8b
-8cc
-8a
-4g
-=10
-8a
-8cc
-8ee
-8ee
-4a
-=11
-8g
-8b
-8cc
-16dd
-16a
-4g
-=12
-4cc
-8g
-8b
-4a}
+=9	=9
+{8g	Suknia
+8b	.
+8cc	makowa,
+8a\	.
+4g	.
+=10	=10
+8a	biały
+8bq	.
+8cc	.
+8ee	obrąbek,
+8ee	.
+4a	.
+=11	=11
+8g	ta
+8b	młoda
+8ccL	.
+16dd	pani
+16aJ/	.
+4g	.
+=12	=12
+4cc	żeby
+8g	.
+8b/	gołąbek.
+4a}	.
 !!LO:LB:g=esac
-=13
-{8g
-8b
-16cc
-16dd
-8ee
-4ff
-=14
-8dd
-8ee
-8dd
-8cc
-4a
-=15
-8g
-8b
-8cc
-8ee
-4ff
-=16
-8dd
-8ee
-8dd
-8cc
-4a}
-==
-*-
+=13	=13
+{8g	Takij
+8b	.
+8ccL	takowéj,
+16dd	.
+16eeJ/	.
+4ff	.
+=14	=14
+8dd	takij
+8ee	.
+8dd	takowéj
+8cc	.
+4a	.
+=15	=15
+8g	zeby
+8b	.
+8cc	chodziła
+8ee	.
+4ff	.
+=16	=16
+8dd	w_sukni
+8ee	.
+8dd	makowéj.
+8cc	.
+4a}	.
+==	==
+*-	*-
+!!!role-singer: Groomsman
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Jaka przed soby taka za soby
+!!jescem nie widział takij osoby.
+!!Takij takowéj, takij takowéj
+!!zeby chodziła w sukni makowéj.
+!!Suknia makowa, biały obrąbek,
+!!ta młoda pani zeby gołąbek.
+!!@@END: VERSES
 !!!ONB: Chodzony
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=277 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 261} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 261}
 !!!page: 261
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-11

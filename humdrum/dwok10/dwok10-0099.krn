@@ -3,105 +3,153 @@
 !!!source: DWOK10
 !!!id: 10099
 !!!signature: 1009900000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16dd
-16dd
-8cc
-8cc
-=2
-8b
-4b
-=3
-16f#
-16g
-8a
-8b
-=4
-4.g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16dd	A
+16dd	weźże
+8cc	.
+8cc	mnie
+=2	=2
+8b	weź
+4b	.
+=3	=3
+16f#	od
+16g	matki
+8a	.
+8b	mo-
+=4	=4
+4.g}	-jij,
 !!LO:LB:g=esac
-=5
-{16dd
-16dd
-8cc
-8cc
-=6
-16b
-16a
-4b
-=7
-16f#
-16g
-8a
-8b
-=8
-4.g}
+=5	=5
+{16dd	a
+16dd	bo
+8cc	ja
+8cc	się
+=6	=6
+16bL	nacierpiała
+16aJ/	.
+4b	.
+=7	=7
+16f#	ciężkiéj
+16g	.
+8a	niewo-
+8b	.
+=8	=8
+4.g}	-li,
 !!LO:LB:g=esac
-=9
-{16dd
-16dd
-8ee
-8ee
-=10
-16dd
-16cc#
-8.dd
-16cc
-=11
-16.ee
-32dd
-8cc
-8cc
-=12
-16b
-16a
-8.cc
-16b}
+=9	=9
+{16dd	A
+16dd	co
+8ee	ci
+8ee	to
+=10	=10
+16dd	za
+16cc#	niewola
+8.dd	.
+16cc	.
+=11	=11
+16.ee	u
+32dd	matki
+8cc	.
+8cc	by-
+=12	=12
+16b	-ła
+16a\	da
+8.cc	była,
+16b}	.
 !!LO:LB:g=esac
-=13
-{16f#
-16g
-8a
-8b
-=14
-4.g}
+=13	=13
+{16f#	u
+16g	matki
+8a	.
+8b	by-
+=14	=14
+4.g}	-ła,
 !!LO:LB:g=esac
-=15
-{16dd
-16dd
-8ee
-8ee
-=16
-16dd
-16cc#
-8.dd
-16cc
-=17
-16.ee
-32dd
-8cc
-8cc
-=18
-16b
-16a
-8.cc
-16b}
+=15	=15
+{16dd	a
+16dd	bo
+8ee	cię
+8ee	to
+=16	=16
+16dd	ta
+16cc#	matula
+8.dd	.
+16cc	.
+=17	=17
+16.ee	dzień
+32dd	na
+8cc	dzień
+8cc	bi-
+=18	=18
+16b	-ła
+16a\	da
+8.cc	biła,
+16b}	.
 !!LO:LB:g=esac
-=19
-{16f#
-16g
-8a
-8b
-=20
-4.g}
-==
-*-
+=19	=19
+{16f#	dzień
+16g	na
+8a	dzień
+8b	bi-
+=20	=20
+4.g}	-ła.
+==	==
+*-	*-
+!!!role-singer: Maiden, Bachelor
+!!!role-listener: Bachelor, maiden
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!A weźże mnie weź
+!!od matki mojij,
+!!a bo ja się nacierpiała
+!!ciężkiéj niewoli,
+!!A co ci to za niewola
+!!u matki była da była,
+!!u matki była,
+!!a bo cię to ta matula
+!!dzień na dzień biła da biła,
+!!dzień na dzień biła.
+!!@VERSE:
+!!3. Biła, biła, zabijała,
+!!do roboty zaganiała,
+!!dobrze robiła matusia,
+!!dobrze robiła.
+!!@VERSE:
+!!4. Dobrą matkę mas Marysiu,
+!!dobrą matkę mas,
+!!gdybym ja cię odprowadził,
+!!pobiłaby nas.
+!!@VERSE:
+!!5. A weźże mnie weź
+!!od matki moi,
+!!bo ja jej się narobiłam,
+!!jakby wół w roli.
+!!@VERSE:
+!!6. Oczki cię zdobią Marychna,
+!!oczki cię zdobią,
+!!ale ręce kata zjadły,
+!!nie rade robią.
+!!@VERSE:
+!!7. Przyganeś mi dał Stasinku,
+!!przyganeś mi dał,
+!!jak się moja matka dowie,
+!!nie będzies mnie miał.
+!!@VERSE:
+!!8. Jakąześ mi chustkę dała,
+!!z pacesną łatką,
+!!co się z nią nieśmiem pokazać
+!!przed moją matką.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=274 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 258} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 258}
 !!!page: 258
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-11

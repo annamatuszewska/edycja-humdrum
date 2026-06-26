@@ -3,86 +3,103 @@
 !!!source: DWOK10
 !!!id: 10156
 !!!signature: 1015600000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8dd
-8dd
-8dd
-=2
-4cc
-8dd
-=3
-16ee
-16ee
-8ee
-8dd
-=4
-4cc
-8cc}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8dd	Oj
+8dd	gody,
+8dd	.
+=2	=2
+4cc	gody,
+8dd	.
+=3	=3
+16ee	to
+16ee	moje
+8ee	.
+8dd	we-
+=4	=4
+4cc	-sele,
+8cc}	.
 !!LO:LB:g=esac
-=5
-{16g
-16a
-8b
-8cc
-=6
-16a
-16g
-8a
-8a
-=7
-16dd
-16dd
-8dd
-8dd
-=8
-4g
-8g}
+=5	=5
+{16g	ni
+16a	ja
+8b	ojca,
+8cc	.
+=6	=6
+16a	ni
+16g	ja
+8a	matki,
+8a	.
+=7	=7
+16dd	gdzie
+16dd	ja
+8dd	się
+8dd	po-
+=8	=8
+4g	-dzieję.
+8g}	.
 !!LO:LB:g=esac
-=9
-{8dd
-8dd
-8dd
-=10
-4cc
-8dd
-=11
-16ee
-16ee
-8ee
-8dd
-=12
-4cc
-16cc
-16a}
+=9	=9
+{8dd	Oj
+8dd	matko,
+8dd	.
+=10	=10
+4cc	matko,
+8dd	.
+=11	=11
+16ee	chowałaś
+16ee	.
+8ee	.
+8dd	mnie
+=12	=12
+4cc	gładko,
+16ccL	.
+16aJ/}	.
 !!LO:LB:g=esac
-=13
-{16g
-16a
-8b
-16cc
-16b
-=14
-16a
-16g
-8a
-8a
-=15
-16dd
-16dd
-8dd
-8dd
-=16
-4g
-8g}
-==
-*-
+=13	=13
+{16g	od
+16a	niedzieli,
+8b	.
+16ccL	.
+16bJ/	.
+=14	=14
+16a	od
+16g	niedzieli,
+8a	.
+8a	.
+=15	=15
+16dd	jak
+16dd	czerwone
+8dd	.
+8dd	.
+=16	=16
+4g	jabłko.
+8g}	.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!role-listener: Mother
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Oj gody, gody,
+!!to moje wesele,
+!!ni ja ojca, ni ja matki,
+!!gdzie ja się podzieję.
+!!@VERSE:
+!!2. Oj matko, matko,
+!!chowałaś mnie gładko,
+!!od niedzieli, od niedzieli,
+!!jak czerwone jabłko.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=329 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 313} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 313}
 !!!page: 313
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-11

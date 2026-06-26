@@ -3,64 +3,87 @@
 !!!source: DWOK10
 !!!id: 10154
 !!!signature: 1015400000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{8ee
-4ee
-=2
-16gg
-16ff#
-4ee
-=3
-8dd#
-4a
-=4
-8cc
-4b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+!!LO:TX:a:t=Do oczepin.
+{8ee	Ty
+4ee	wia-
+=2	=2
+16ggL	-neczku
+16ff#J	.
+4ee	.
+=3	=3
+8dd#	lewan-
+4a	.
+=4	=4
+8cc	-dowy,
+4b}	.
 !!LO:LB:g=esac
-=5
-{8ee
-4ee
-=6
-16gg
-16ff#
-4ee
-=7
-8dd#
-4a
-=8
-8cc
-4b}
+=5	=5
+{8ee	nie
+4ee	spa-
+=6	=6
+16ggL	-daj
+16ff#J	.
+4ee	mi
+=7	=7
+8dd#	z_moji
+4a	.
+=8	=8
+8cc	głowy.
+4b}	.
 !!LO:LB:g=esac
-=9
-{16g#
-16a
-8b
-8ee
-=10
-16dd
-16a
-8cc
-8b
-=11
-16g#
-16a
-8b
-8ee
-=12
-16dd
-16a
-8cc
-8b}
-==
-*-
+=9	=9
+{16g#	com
+16a	cię
+8b	jeszcze
+8ee;	.
+=10	=10
+16dd	przedtém
+16a\	.
+8cc	wiła,
+8b;	.
+=11	=11
+16g#	jak
+16a	żem
+8b	sobie
+8ee	.
+=12	=12
+16dd	panną
+16a\	.
+8cc	była.
+8b}	.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!role-listener: Garland
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Ty wianeczku lewandowy,
+!!nie spadaj mi z moji głowy.
+!!com cię jeszcze przedtém wiła,
+!!jak żem sobie panną była.
+!!@VERSE:
+!!2. Teraz już cię wić nie będę,
+!!bo już teraz za mąż idę;
+!!ale jeszcze się tak boję,
+!!ledwie na swych nogach stoję.
+!!@VERSE:
+!!3. Żeli-ś dobra, nie bój-że się,
+!!a żeli-ś zła, wystrzegaj się,
+!!a zamykaj drzwi za sobą,
+!!bo wyleci kij za tobą.
+!!@@END: VERSES
 !!!ONB: Do oczepin, znana i pod Szremem.
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=328 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 312} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 312}
 !!!page: 312
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-11
