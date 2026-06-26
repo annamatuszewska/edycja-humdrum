@@ -3,70 +3,92 @@
 !!!source: DWOK10
 !!!id: 10035
 !!!signature: 1003500000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16a
-8b
-8cc
-=2
-16dd
-16b
-8g
-16a
-16b
-=3
-16g
-16f#
-8d}
-8r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Czyliś
+16a	.
+8b	mnie
+8cc	ty
+=2	=2
+16dd	kole
+16b	.
+8g	dróżki
+16aL	.
+16bJ	.
+=3	=3
+16gL	zna-
+16f#J	.
+8d}	-laz,
+8r	.
 !!LO:LB:g=esac
-=4
-{16g
-16a
-8b
-8cc
-=5
-16dd
-16b
-8g
-16a
-16b
-=6
-16g
-16f#
-8d}
-8r
+=4	=4
+{16g	czyliś
+16a	.
+8b	mnie
+8cc	ty
+=5	=5
+16dd	kole
+16b	.
+8g	dróżki
+16aL	.
+16bJ	.
+=6	=6
+16gL	zna-
+16f#J	.
+8d}	-laz,
+8r	.
 !!LO:LB:g=esac
-=7
-{16e
-16d
-8e
-8c
-=8
-16e
-16d
-8e
-8c
-=9
-16e
-16f#
-8g
-16a
-16b
-=10
-16g
-16f#
-8d}
-8r
-==
-*-
+=7	=7
+{16e	żebyś
+16d	.
+8e	mnie
+8c	ty
+=8	=8
+16e	żebyś
+16d	.
+8e	mnie
+8c	ty
+=9	=9
+16e	sponiewierał
+16f#	.
+8g	.
+16aL	.
+16bJ\	.
+=10	=10
+16gL	zaraz.
+16f#J	.
+8d}	.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!role-listener: Bachelor
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Czyliś mnie ty kole dróżki znalaz,
+!!żebyś mnie ty żebyś mnie ty sponiewierał zaraz.
+!!@VERSE:
+!!2. A wzioneś mnie od ojca, od matki,
+!!wzioneś se mno (ze mną) wszelakie dostatki.
+!!@VERSE:
+!!3. Wzioneś se mno, krowe, jałowice,
+!!wzioneś se mno roli połowice.
+!!@VERSE:
+!!4. Wzioneś se mno świnię z prosiętami,
+!!wzioneś se mno skrzynię z talarami.
+!!@VERSE:
+!!5. Pani matka to dobrze poczuje,
+!!a pan ojciec talary rachuje.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=124 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 108} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 108}
 !!!page: 108
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-11

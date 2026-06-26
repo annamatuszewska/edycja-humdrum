@@ -3,66 +3,155 @@
 !!!source: DWOK10
 !!!id: 10055
 !!!signature: 1005500000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M4/4
-=1
-{8b
-8a
-8b
-8cc
-4dd
-4b
-=2
-4dd
-8a
-8cc
-4b
-4g
-=3
-8b
-8a
-8b
-8cc
-4dd
-4b
-=4
-4dd
-8a
-8cc
-8b
-8a
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M4/4	*
+*met(c)	*
+=1	=1
+{8bL	Do
+8aJ\	tego
+8bL	.
+8ccJ	tu
+4dd	domu
+4b	.
+=2	=2
+4dd	wstępujemy i t. d.
+(8aL	.
+8ccJ)	.
+4b	.
+4g	.
+=3	=3
+8bL	.
+8aJ\	.
+8bL	.
+8ccJ	.
+4dd	.
+4b	.
+=4	=4
+4dd	.
+(8aL	.
+8ccJ)	.
+8bL	.
+8aJ	.
+4g}	.
 !!LO:LB:g=esac
-=5
-{4b
-4b
-4.a
-8g
-=6
-8cc
-8b
-8cc
-8ee
-4dd
-4cc
-=7
-4b
-4b
-4.a
-8g
-=8
-4cc
-8a
-8b
-4g
-4g}
-==
-*-
+=5	=5
+{4b	.
+4b	.
+(>4.a	.
+8g)	.
+=6	=6
+8ccL	.
+8bJ	.
+8ccL	.
+8eeJ	.
+(4dd	.
+4cc)	.
+=7	=7
+4b	.
+4b	.
+4.a	.
+8g	.
+=8	=8
+8bq	.
+4cc	.
+8aL	.
+8bJ\	.
+4g	.
+4g}	.
+==	==
+*-	*-
+!!!RDF**kern: > = above
+!!!role-singer: New-Summer Singers, Narrator, Farmer
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Do tego tu domu wstępujemy
+!!szczęścia, zdrowia winszujemy,
+!!na ten tu nowy rok,
+!!co nam go Pan Bóg dał.
+!!@VERSE:
+!!2. Śnieg się wije po płocinie,
+!!a pszeniczka po rolinie,
+!!traweczka po lesie,
+!!dzieweczka ją niesie.
+!!@VERSE:
+!!3. A niesie-ć ją niesie
+!!prościutko do chlewa;
+!!parobeczek za nią
+!!z koneweczką piwą,
+!!żeby się napiła,
+!!traweczkę nosiła.
+!!@VERSE:
+!!4. Jedzie gospodarz z pola,
+!!pyta się, gdzie gosposia moja?
+!!Ona stoji w okieneczku,
+!!w rąbkowym czépeczku.
+!!@VERSE:
+!!5. A on jeji się
+!!zdaleka przygląda,
+!!jeżeli (czy) mu się
+!!w tym czépeczku uda (podoba).
+!!Ona mu się udała,
+!!rączkę mu podała.
+!!@VERSE:
+!!6. I wziął-ci ją
+!!za bielutką rączkę,
+!!i zawiódł ją
+!!na łączkę.
+!!@VERSE:
+!!7. Tam się całowali,
+!!tam się darowali.
+!!Ona mu darowała
+!!chustkę w kieszeń;
+!!a ón jéj darował
+!!złoty pierścień.
+!!@VERSE:
+!!8. Ona mu darowała
+!!kierzek rutki;
+!!a ón jéj darował
+!!sznurowane butki.
+!!@VERSE:
+!!9. Nasz gajik zielony,
+!!pięknie ustrojony;
+!!bo nam tu tak chodzi,
+!!bo mu się tak godzi.
+!!@VERSE:
+!!10. Pani gospodyni
+!!siedzi w rogu stoła,
+!!i ma sukienkę
+!!w same złote koła.
+!!@VERSE:
+!!11. Same złote koła,
+!!same złote kraje (brzegi),
+!!a nam-ci to, nam-ci
+!!podarunki daje.
+!!Żeby je dawała,
+!!roczka doczekała.
+!!@VERSE:
+!!12. A gospodyni-ć to
+!!bo kluczami brząka,
+!!dla nas-ci to, dla nas
+!!podarunku szuka.
+!!Żeby go szukała,
+!!nam go darowała.
+!!@VERSE:
+!!13. A dajcie nam, dajcie
+!!macie go nam dać;
+!!nie dajcie, nie dajcie
+!!nam tu długo ziorać (czekać).
+!!@VERSE:
+!!14. Bo nam dzień krótnieje,
+!!wiatr nam Maj rozwieje.
+!!My idziemy od was,
+!!a (sam) Pan Jezus do was.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=213 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 197} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 197}
 !!!page: 197
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-11

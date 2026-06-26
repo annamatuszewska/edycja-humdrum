@@ -9,42 +9,45 @@
 *C:
 *M2/4
 =1
-{8ee
+!!LO:TX:a:t=Trio.
+{8eeL
 16ee
-16ee
-8ee
-8ff
+16eeJ
+8eeL
+8ffJ
 =2
-8aa
-8gg
-8gg
-8ee
+8aaL
+8ggJ
+8ggL
+8eeJ
 =3
-8gg
-8ff
-8ff
-8dd
+8ggL
+8ffJ
+8ffL
+8ddJ
 =4
-8ff
-8ee
-4ee}
+8ffL
+8eeJ
+!LO:TX:t=P:problem=mixed beam
+8eeL\
+8gJ/}
 !!LO:LB:g=esac
 =5
-{8ee
+{8eeL
 16ee
-16ee
-8ee
-8ff
+16eeJ
+8eeL
+8ffJ
 =6
-8aa
-8gg
-8gg
-8ee
+8aaL
+8ggJ
+8ggL
+8eeJ
 =7
-8gg
-8ff
-8ff
-8dd
+8ggL
+8ffJ
+8ffL
+8ddJ
 =8
 4cc
 4cc}
@@ -56,3 +59,5 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=220 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 204} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 204}
 !!!page: 204
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-11

@@ -3,59 +3,67 @@
 !!!source: DWOK10
 !!!id: 10047
 !!!signature: 1004700002
-**kern
-*clefG2
-*k[]
-*C:
-*M6/8
-=1
-{8ee
-8ee
-8dd
-4cc
-8g
-=2
-4ff
-8ee
-4.dd
-=3
-8ee
-8ee
-8dd
-4cc
-8g
-=4
-8a
-8a
-8b
-4.cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M6/8	*
+=1	=1
+{8eeL	Wesele
+8ee	.
+8ddJ/	.
+4cc	jedzie
+8g	.
+=2	=2
+4ff	z_Wąsowa
+8ee	.
+4.dd	.
+=3	=3
+8eeL	młodego
+8ee	.
+8ddJ/	.
+4cc	pana
+8g	.
+=4	=4
+8aL	boli
+8a	.
+8bJ	głowa.
+4.cc}	.
 !!LO:LB:g=esac
-=5
-{8e
-8e
-8g
-4cc
-8ee
-=6
-4dd
-8b
-8cc
-8cc
-8gg
-=7
-8e
-8e
-8g
-4cc
-8ee
-=8
-4dd
-8b
-4.cc}
-==
-*-
+=5	=5
+{8eL	.
+8e	.
+8gJ	.
+4cc	.
+8ee	.
+=6	=6
+4dd	.
+8b	.
+8ccL	.
+8cc	.
+8ggJ/	.
+=7	=7
+8eL	.
+8e	.
+8gJ	.
+4cc	.
+8ee	.
+=8	=8
+4dd	.
+8b	.
+4.cc}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Wesele jedzie z Wąsowa, młodego pana boli głowa.
+!!@@END: VERSES
+!!!ONB@texture: Only voice or instrument is playing at a time
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=135 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 119-120} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, pp. 119-120}
 !!!page: 119-120
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-11

@@ -3,61 +3,74 @@
 !!!source: DWOK10
 !!!id: 10068
 !!!signature: 1006800002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8a
-8cc
-8a
-8g
-8b
-8cc
-=2
-4dd
-8b
-8ee
-8dd
-8cc
-=3
-8a
-8cc
-8a
-8g
-8b
-8f#
-=4
-2.g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8a\	Dałcie
+8cc	.
+8a	mi
+8g	ją
+8b	nie
+8cc	dał-
+=2	=2
+4dd	-cie
+8b	matulu,
+8ee	.
+8ddL	.
+8ccJ/	.
+=3	=3
+8a	dałcie
+8cc	.
+8a	mi
+8g	ją
+8b	nie
+8f#	dał-
+=4	=4
+2.g}	-cie.
 !!LO:LB:g=esac
-=5
-{8a
-8cc
-8a
-8g
-8b
-8a
-=6
-8g
-8f#
-8g
-8b
-8dd
-8cc
-=7
-8a
-8cc
-8a
-8g
-8b
-8f#
-=8
-2.g}
-==
-*-
+=5	=5
+{8a\	Pójdę
+8cc	.
+8a	ja
+8g	do
+8b/	pana,
+8a	.
+=6	=6
+8g	padnę
+8f#	.
+8g	na
+8b	kolana,
+8dd	.
+8cc	.
+=7	=7
+8a	cóż
+8cc	wy
+8a	ze
+8g	mną
+8b/	wskórał-
+8f#	.
+=8	=8
+2.g}	-cie.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!role-listener: Mother-In-Law
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Dałcie mi ją nie dałcie matulu,
+!!dałcie mi ją nie dałcie.
+!!Pójdę ja do pana,
+!!padnę na kolana,
+!!cóż wy ze mną wskórałcie.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=239 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 223} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 223}
 !!!page: 223
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-11

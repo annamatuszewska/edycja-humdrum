@@ -3,62 +3,80 @@
 !!!source: DWOK10
 !!!id: 10078
 !!!signature: 1007800000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8g
-4dd
-=2
-8b
-4g
-=3
-8cc
-4ee
-=4
-[4cc}
-8cc]
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+!!LO:TX:a:t=Śpiew druchny
+{8g	A
+4dd	wia-
+=2	=2
+8b	-nyszek
+4g	.
+=3	=3
+8cc	ładny
+4ee	.
+=4	=4
+[4cc}	był,
+8cc]	.
 !!LO:LB:g=esac
-=5
-{16b
-16dd
-8b
-8g
-=6
-16a
-16a
-8f#
-8d
-=7
-8g
-4dd
-=8
-[4cc}
-8cc]
+=5	=5
+{16b	obsypany
+16dd	.
+8b	.
+8g	.
+=6	=6
+16a	talarami
+16a	.
+8f#	.
+8d	.
+=7	=7
+8g	ładny
+4dd	.
+=8	=8
+[4cc}	był
+8cc]	.
 !!LO:LB:g=esac
-=9
-{16b
-16dd
-8b
-8g
-=10
-16a
-16a
-8f#
-8d
-=11
-8g
-4b
-=12
-[4g}
-8g]
-==
-*-
+=9	=9
+{16b	obsypany
+16dd	.
+8b	.
+8g	.
+=10	=10
+16a	dukatami
+16a	.
+8f#	.
+8d	.
+=11	=11
+8g	ładny
+4b	.
+=12	=12
+[>4g}	był.
+8g]	.
+==	==
+*-	*-
+!!!RDF**kern: > = above
+!!!role-singer: Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. A wianyszek ładny był,
+!!obsypany talarami ładny był
+!!obsypany dukatami ładny był.
+!!@VERSE:
+!!2. Wianyszka nie ubędzie,
+!!a wianecek, a wianecek
+!!ładny będzie,
+!!a wianecek, a wianecek
+!!ładny będzie.
+!!@@END: VERSES
 !!!ONB: Śpiew druchny
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=249 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 233} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 233}
 !!!page: 233
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-11

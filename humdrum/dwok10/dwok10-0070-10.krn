@@ -3,70 +3,100 @@
 !!!source: DWOK10
 !!!id: 10070
 !!!signature: 1007000010
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16f#
-16a
-8a
-8g
-=2
-8b
-4g
-=3
-16b
-16dd
-8dd
-8cc
-=4
-8ee
-4cc}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16f#	Ty
+16a	moja
+8a	.
+8g	Ma-
+=2	=2
+8b	-rynko
+4g	.
+=3	=3
+16b	otwórz
+16dd	.
+8dd	mi
+8cc	o-
+=4	=4
+8ee	-kienko.
+4cc}	.
 !!LO:LB:g=esac
-=5
-{8.b
-16g
-16a
-16f#
-=6
-16d
-16f#
-8e
-8c
-=7
-16d
-16d
-8f#
-8g
-=8
-8b
-4cc}
+=5	=5
+{8.bL	O-
+16gJ	.
+16aL	-na
+16f#J	.
+=6	=6
+16d	otwo-
+16f#	.
+8e	-rzyła,
+8c	.
+=7	=7
+16d	rączki
+16d	.
+8f#	zało-
+8g	.
+=8	=8
+8b	-żyła,
+4cc}	.
 !!LO:LB:g=esac
-=9
-{8.b
-16g
-16a
-16f#
-=10
-16d
-16f#
-8e
-8c
-=11
-16d
-16d
-8f#
-8g
-=12
-8b
-4g}
-==
-*-
+=9	=9
+{8.bL	a
+16gJ	.
+16aL	mój
+16f#J	.
+=10	=10
+16d	mocny
+16f#	.
+8e	Boże
+8c	.
+=11	=11
+16d	co
+16d	ja
+8f#	uczy-
+8g	.
+=12	=12
+8b	-niła?
+4g}	.
+==	==
+*-	*-
+!!!role-singer: Bachelor, Narrator, Maiden
+!!!role-listener: Maiden, God, Mother
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!Ty moja Marynko otwórz mi okienko.
+!!Ona otworzyła, rączki założyła,
+!!a mój mocny Boże co ja uczyniła?
+!!@VERSE:
+!!2. W ogródeczku była
+!!trzy wianeczki wiła.
+!!Jeden sobie, drugi tobie
+!!trzeci powiesiła.
+!!@VERSE:
+!!3. A moja matulu,
+!!nie róbcie mi tego,
+!!boście pili i jadali
+!!za pieniążki jego.
+!!@VERSE:
+!!4. Mam-ci ja nadzieję
+!!w tém mojém kochaniu,
+!!że mi wianek, ten wianyszek
+!!przed ołtarzem stanie.
+!!@VERSE:
+!!5. Niespadnie mi w domu,
+!!ani na ulicy,
+!!ino w kościele, w kościółku
+!!przy jarzącéj świécy.
+!!@@END: VERSES
 !!!ONB: Partia wokalna
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=244 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 228} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 228}
 !!!page: 228
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-11

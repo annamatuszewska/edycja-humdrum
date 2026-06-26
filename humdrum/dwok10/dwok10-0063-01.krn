@@ -3,68 +3,101 @@
 !!!source: DWOK10
 !!!id: 10063
 !!!signature: 1006300001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16a
-8b
-8cc
-=2
-4.dd
-=3
-16dd
-16cc
-8b
-8a
-=4
-4.g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Odnosimy
+16a	.
+8b	.
+8cc	.
+=2	=2
+4.dd	plon
+=3	=3
+16dd	jegomości
+16cc	.
+8b	.
+8a\	.
+=4	=4
+4.g}	w_dom,
 !!LO:LB:g=esac
-=5
-{16b
-16cc
-8.dd
-16ee
-=6
-16dd
-16b
-8ee
-8dd
-=7
-16b
-16cc
-8.dd
-16ee
-=8
-16dd
-16b
-8ee
-8dd}
+=5	=5
+{16b	żeby
+16cc	.
+8.dd	pięknie
+16ee	.
+=6	=6
+16dd	plonowało,
+16b	.
+8ee	.
+8dd	.
+=7	=7
+16b	po
+16cc	sto
+8.dd	korcy
+16ee	.
+=8	=8
+16dd	z_mendla
+16b	.
+8ee	dało
+8dd}	.
 !!LO:LB:g=esac
-=9
-{16b
-16cc
-8dd
-8b
-=10
-8dd
-8dd
-8b
-=11
-16dd
-16cc
-8b
-8a
-=12
-4.g}
-==
-*-
+=9	=9
+{16b	naszemu
+16cc	.
+8dd	.
+8b	pa-
+=10	=10
+8dd	-nu
+8dd	panu,
+8b	.
+=11	=11
+16dd	naszemu
+16cc	.
+8b	.
+8a\	pa-
+=12	=12
+4.g}	-nu.
+==	==
+*-	*-
+!!!role-singer: Reapers
+!!!role-listener: Lord
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Odnosimy plon jegomości w dom,
+!!żeby pięknie plonowało,
+!!po sto korcy z mendla dało
+!!naszemu panu panu, naszemu panu.
+!!@VERSE:
+!!2. Niechże nam się otwierają, széroko wrota,
+!!abo nam się uskromiła w polu robota.
+!!A bądźże nam rad jegomość, a bądźże nam rad,
+!!zabij wieprza na śniadanie, wołu na obiad.
+!!Odnosimy plon
+!!jegomości w dom;
+!!żeby pięknie plonowało,
+!!po sto korcy z mendla dało
+!!naszemu panu.
+!!@VERSE:
+!!3. Nie dziwuj nam się jegomość, choć nas dość idzie,
+!!bo-ć nam ręce pozmagały, na tęgiem życie.
+!!Nie dziwuj nam się jegomość, choć my się zeszli,
+!!bo my z pola posprzątali, i potraw zwieźli.
+!!Odnosimy plon i t.d.
+!!@VERSE:
+!!4. Woły na łące, maluśka, woły na łące,
+!!a jedzie nasz wielkorządca, to nas potłucze.
+!!Nie bój ma go się, dziewucho, nie bój-ma go się,
+!!weź chusteczkę, ją czapeczkę, ukłoń-ma mu się.
+!!Odnosimy plon i t.d.
+!!@@END: VERSES
 !!!ONB: W t. 6 jest o jedną 16. za dużo); zakodowano poprawnie
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=226 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 210} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 210}
 !!!page: 210
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-11

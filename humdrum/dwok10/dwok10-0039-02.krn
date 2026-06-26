@@ -3,60 +3,74 @@
 !!!source: DWOK10
 !!!id: 10039
 !!!signature: 1003900002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{4cc
-8ee
-=
-24cc
-24b
-24g
-8b
-8dd
-=2
-8cc
-8cc
-8ee
-=
-24cc
-24b
-24g
-8a
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{4cc	Jużeś
+8ee	.
+=2	=2
+(>24ccL	moja
+24b	.
+24gJ)	.
+8b	jużeć,
+8dd	.
+=3	=3
+8ccL	będziem
+8ccJ/	.
+8ee	.
+=4	=4
+(24ccL	oba
+24bJ	.
+24g)	.
+8a	służyć,
+8g}	.
 !!LO:LB:g=esac
-=3
-{8a
-8cc
-16cc
-16a
-=
-24b
-24cc
-24dd
-8b
-16b
-16dd
-=4
-8a
-8cc
-16cc
-16a
-=
-24b
-24cc
-24dd
-8b
-16b
-16g}
-==
-*-
+=5	=5
+{8a	posłuże-
+8cc	.
+16ccL	.
+16aJ	.
+=6	=6
+*Xtuplet	*
+24bL	-my
+24cc	.
+24ddJ	.
+8b	sobie
+16bL	.
+16ddJ	.
+=7	=7
+8a	oj
+8cc	ty
+16ccL	mnie
+16aJ	.
+=8	=8
+24bL	a
+24cc	ja
+24ddJ	.
+8b	tobie.
+16bL	.
+16gJ}	.
+==	==
+*-	*-
+!!!RDF**kern: > = above
+!!!role-singer: Bachelor
+!!!role-listener: Maiden
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Jużeś moja jużeć,
+!!będziem oba służyć,
+!!posłużemy sobie
+!!oj ty mnie a ja tobie.
+!!@@END: VERSES
 !!!ONB: w dwoch taktach brak zapisu trioli u OK,takty zakodowano z zapisem triolowym
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=126 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 110} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 110}
 !!!page: 110
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-11

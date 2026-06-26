@@ -3,47 +3,66 @@
 !!!source: DWOK10
 !!!id: 10032
 !!!signature: 1003200002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16d
-16f#
-8a
-8b
-=2
-4.g
-=3
-16b
-16dd
-8ee
-8cc
-=4
-4.a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16d	Na
+16f#	coś
+8a\	ty
+8ccq	.
+8b	mnie
+=2	=2
+4.g	brał
+=3	=3
+16b	kiedyś
+16dd	.
+8ddq	.
+8ee	ty
+8cc	mnie
+=4	=4
+4.a}	znał,
 !!LO:LB:g=esac
-=5
-{16cc
-16ee
-8dd
-8b
-=6
-16g
-16g
-8e
-8c
-=7
-16e
-16g
-8a
-8f#
-=8
-4.d}
-==
-*-
+=5	=5
+{16ccL	a
+16eeJ/	ja
+8dd	miała
+8b	.
+=6	=6
+16g	mająteczek
+16g	.
+8e	.
+8c	.
+=7	=7
+16e	tyś
+16g	też
+8gq	.
+8a	nic
+8f#	nie
+=8	=8
+4.d}	miał.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!role-listener: Bachelor
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Na coś ty mnie brał kiedyś ty mnie znał,
+!!a ja miała mająteczek tyś też nic nie miał.
+!!@VERSE:
+!!2. Jéno portczyska same łaciska,
+!!a ja sobie w mideraczku jako szołtyska.
+!!@VERSE:
+!!3. Na mideraczku organki grają,
+!!na twoich portcyskach wszonki biegają.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=123 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 107} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 107}
 !!!page: 107
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-11

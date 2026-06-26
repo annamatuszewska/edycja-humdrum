@@ -3,70 +3,92 @@
 !!!source: DWOK10
 !!!id: 10074
 !!!signature: 1007400000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8g
-8g
-8b
-8b
-=2
-8a
-16a
-16f#
-4g
-=3
-8cc
-8cc
-8ee
-8ee
-=4
-8cc
-16cc
-16b
-4dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+!!LO:TX:a:t=Wiwat
+{8g	Przyjechał
+8g	.
+8b	.
+8b	po-
+=2	=2
+8a	-de
+16aL	drwota
+16f#J	.
+4g	.
+=3	=3
+8cc	deszczek
+8cc	.
+8ee	pada
+8ee	.
+=4	=4
+8cc	i
+16ccL	pada,
+16bJ	.
+4dd}	.
 !!LO:LB:g=esac
-=5
-{8b
-8b
-4dd
-=6
-8a
-8a
-4cc
-=7
-16a
-16g
-16f#
-16a
-8g}
-8r
+=5	=5
+{8b	przyjechał
+8b	.
+4dd	.
+=6	=6
+8a\	mój
+8a\	miły
+4cc	.
+=7	=7
+16a	i
+16g	nie
+16f#L	gada,
+16aJ	.
+8g}	.
+8r	.
 !!LO:LB:g=esac
-=8
-{8b
-8b
-8dd
-8dd
-=9
-8a
-8a
-8cc
-8b
-=10
-16a
-16g
-16f#
-16a
-8g}
-8r
-==
-*-
+=8	=8
+{8b	przyjechał
+8b	.
+8ddL	.
+8ddJ/	.
+=9	=9
+8a\	mój
+8a\	miły
+8ccL	.
+8bJ/	.
+=10	=10
+16a	i
+16g	nie
+16f#L	gada.
+16aJ	.
+8g}	.
+8r	(wrota)
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!role-listener: Bachelor
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Przyjechał pode drwota (wrota)
+!!deszczek pada i pada,
+!!przyjechał mój miły i nie gada.
+!!@VERSE:
+!!2. I musiał się wrócić,
+!!i musiał się wrócić,
+!!bo miał suknię pożyczaną,
+!!i cudzy śpic (koronkową chustkę).
+!!@VERSE:
+!!3. Wyjeżdżajże z podwórza,
+!!z podwórza mojego,
+!!a bo ja się spodziéwam
+!!ładniejszego.
+!!@@END: VERSES
 !!!ONB: Wiwat
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=247 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 231} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 231}
 !!!page: 231
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-11

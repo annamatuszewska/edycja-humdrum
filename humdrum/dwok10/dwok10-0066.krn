@@ -3,57 +3,84 @@
 !!!source: DWOK10
 !!!id: 10066
 !!!signature: 1006600000
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M3/4
-=1
-{8a
-8cc
-8ee-
-8gg
-8ff
-8ee-
-=2
-8dd
-8dd
-4ff
-4f
-=3
-8a
-8cc
-4.ee-
-8cc
-=4
-8b-
-8b-
-4a
-4f}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M3/4	*
+=1	=1
+{8a\	Jak
+8cc	się
+8ee-L	kuma
+8ggJ	.
+8ffL	.
+8ee-J	.
+=2	=2
+8dd	z_kumą
+8dd	.
+4ff	zejdzie,
+4f	.
+=3	=3
+8a\	kwaterką
+8cc	.
+4.ee-	.
+8cc	się
+=4	=4
+8b-	nie
+8b-	obejdzie.
+4a	.
+4f}	.
 !!LO:LB:g=esac
-=5
-{8a
-8cc
-4.ee-
-8cc
-=6
-8dd
-8dd
-4ff
-4f
-=7
-8a
-8cc
-4.ee-
-8cc
-=8
-4b-
-4a
-4f}
-==
-*-
+=5	=5
+{8aL	.
+8ccJ	.
+4.ee-	.
+8cc	.
+=6	=6
+8ddL	.
+8ddJ	.
+4ff	.
+4f	.
+=7	=7
+8aL	.
+8ccJ	.
+4.ee-	.
+8cc	.
+=8	=8
+4b-	.
+4a\	.
+4f}	.
+==	==
+*-	*-
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Jak się kuma z kumą zejdzie,
+!!kwaterką się nie obejdzie.
+!!Nie kwaterką, ani dwiema,
+!!a będzies ty kumoś w doma.
+!!@VERSE:
+!!2. Napijma się wej kumecku,
+!!bo nimamy nic w cubecku.
+!!Jak się téż baby popiły,
+!!o mężów się wej cwarzyły.
+!!@VERSE:
+!!3. Jedna drugiéj wymawiała:
+!!tyś się do mojego śmiała.
+!!A ta znowu téj mówiła:
+!!po coś do mojego piła?
+!!@VERSE:
+!!4. Nie frasuj-ze się kumecka,
+!!jesce wódki cała becka.
+!!Zaczém beckę wypijema,
+!!to się kumo przeprosima.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=231 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 215} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 215}
 !!!page: 215
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-11

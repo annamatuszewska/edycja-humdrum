@@ -3,71 +3,84 @@
 !!!source: DWOK10
 !!!id: 10082
 !!!signature: 1008200000
-**kern
-*clefG2
-*k[b-e-]
-*g:
-*M3/8
-=1
-{8g
-4dd
-=2
-8ee
-4dd
-=3
-8cc
-8b-
-8g
-=4
-4.a}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*g:	*
+*M3/8	*
+=1	=1
+{8g	Witiaj,
+4dd	.
+=2	=2
+8ee	witiaj
+4dd	.
+=3	=3
+8cc	panno
+8b-	z_komo-
+8g	.
+=4	=4
+4.a}	-ry,
 !!LO:LB:g=esac
-=5
-{8g
-4dd
-=6
-8ee
-4dd
-=7
-16cc
-16cc
-8b-
-8g
-=8
-4.a}
+=5	=5
+{8g	gdzieś
+4dd	po-
+=6	=6
+8ee	-działa
+4dd	.
+=7	=7
+16ccL	wianek
+16ccJ/	.
+8b-	.
+8g	z_gło-
+=8	=8
+4.a}	-wy.
 !!LO:LB:g=esac
-=9
-{8.cc
-16g
-16a
-16b-
-=10
-16cc
-16b-
-8g
-8a
-=11
-8.cc
-16g
-16a
-16b-
-=12
-16cc
-16b-
-8g
-8a}
+=9	=9
+{8.cc	W_komóreczce
+16g	.
+16a	.
+16b-	.
+=10	=10
+16cc	zostawiła,
+16b-	.
+8g	.
+8a	.
+=11	=11
+8.cc	na
+16g	kołyszek
+16a	.
+16b-	.
+=12	=12
+16cc	powiesiła,
+16b-	.
+8g	.
+8a}	.
 !!LO:LB:g=esac
-=13
-{16a
-16dd
-16cc
-16b-
-8g
-=14
-4.a}
-==
-*-
+=13	=13
+{16a	oj
+16dd	powiesi-
+16ccL	.
+16b-J	.
+8g	.
+=14	=14
+4.a}	-ła.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!role-listener: Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Witiaj, witiaj panno z komory,
+!!gdzieś podziała wianek z głowy.
+!!W komóreczce zostawiła,
+!!na kołyszek powiesiła,
+!!oj powiesiła.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=251 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 235} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 235}
 !!!page: 235
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-11

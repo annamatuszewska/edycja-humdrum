@@ -3,50 +3,74 @@
 !!!source: DWOK10
 !!!id: 10033
 !!!signature: 1003300002
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M4/4
-=1
-{4g
-4e
-8e
-8f#
-4d
-=2
-4d
-4f#
-4a
-4dd}
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M4/4	*
+*met(c)	*
+=1	=1
+{4g	Dwaj
+4e	kapłonia,
+8eL	.
+8f#J	.
+4d;	.
+=2	=2
+4d	dwaj
+4f#	kapłonia
+4a	.
+8cc#q	.
+4dd}	.
 !!LO:LB:g=esac
-=3
-{8cc#
-8ee
-8dd
-8b
-4a
-4dd
-=4
-8cc#
-8ee
-8dd
-8b
-4a
-4dd}
+=3	=3
+{8cc#	w_stodole
+8ee	.
+8dd	.
+8b	młócili,
+4a	.
+8cc#q	.
+4dd	.
+=4	=4
+8cc#	w_stodole
+8ee	.
+8dd	.
+8b	młócili
+4a\	.
+8cc#q	.
+4dd}	.
 !!LO:LB:g=esac
-=5
-{8e
-8g
-8e
-8g
-8e
-8f#
-4d}
-==
-*-
+=5	=5
+{8eL	hej
+8g	.
+8e	młó-
+8gJ	.
+8eL	-cili.
+8f#J	.
+4d;}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Dwaj kapłonia, dwaj kapłonia
+!!w stodole młócili, w stodole młócili hej młócili.
+!!@VERSE:
+!!2. Gęś siodłata,
+!!chlebu piec umiata.
+!!@VERSE:
+!!3. Myszka wsadza (chléb),
+!!kot się na nią skrada.
+!!@VERSE:
+!!4. Czapla liczy:
+!!jest chlib na policy?
+!!@VERSE:
+!!5. Kaczka dzika
+!!chlib na górę smyka.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=123 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 107-108} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, pp. 107-108}
 !!!page: 107-108
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-11

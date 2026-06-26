@@ -3,46 +3,54 @@
 !!!source: DWOK10
 !!!id: 10073
 !!!signature: 1007300012
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8g
-8g
-8a
-=2
-8b
-4g
-=3
-8cc
-8cc
-8dd
-=4
-8ee
-4dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8g	Wesele
+8g	.
+8a	.
+=2	=2
+8b	jedzie,
+4g	.
+=3	=3
+8cc	kapusta
+8cc	.
+8dd	.
+=4	=4
+8ee	w_kłodzie,
+4dd}	.
 !!LO:LB:g=esac
-=5
-{8dd
-8dd
-8ee
-=6
-8ee
-8.cc
-16b
-=7
-8a
-8a
-8dd
-=8
-8dd
-4g}
-==
-*-
+=5	=5
+{8dd	pod
+8dd	ławą
+8ee	.
+=6	=6
+8ee	łyżki,
+8.ccL	.
+16bJ/	.
+=7	=7
+8a	w_popiele
+8a	.
+8dd	.
+=8	=8
+8dd	miski.
+4g}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Wesele jedzie, kapusta w kłodzie,
+!!pod ławą łyżki, w popiele miski.
+!!@@END: VERSES
 !!!ONB: Partia wokalna-wariant
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=244 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 228} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 228}
 !!!page: 228
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-11

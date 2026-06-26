@@ -3,76 +3,107 @@
 !!!source: DWOK10
 !!!id: 10034
 !!!signature: 1003400000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16cc
-16b
-8cc
-8dd
-=2
-16ee
-16cc
-8.dd
-16cc
-=3
-16ee
-16cc
-8.dd
-16cc
-=4
-16.cc
-32ee
-8ff
-8ee
-=5
-4.dd}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16cc	Spadła
+16b	.
+8cc	z_góry
+8dd	.
+=2	=2
+16ee	do
+16cc	komory,
+8.dd	.
+16cc	.
+=3	=3
+16ee	do
+16cc	komory
+8.dd	.
+16cc	.
+=4	=4
+16.cc	stłukła
+32ee	.
+8eeq	.
+8ff	sobie
+8ee	.
+=5	=5
+4.dd}	brzuch,
 !!LO:LB:g=esac
-=6
-{16dd
-16ee
-8ff
-16ee
-16ff
-=7
-16gg
-16ff
-8.ee
-16cc
-=8
-16dd
-16cc
-8b
-8dd
-=9
-4.cc}
+=6	=6
+{16dd	a
+16ee	widzicie
+8ff	.
+16eeL	.
+16ffJ	.
+=7	=7
+16gg	wy
+16ff	matulu
+8.ee	.
+16cc	.
+=8	=8
+16dd	o
+16cc	jak
+8b	mi
+8dd	to
+=9	=9
+4.cc}	spuch,
 !!LO:LB:g=esac
-=10
-{16dd
-16ee
-8ff
-16ee
-16ff
-=11
-16gg
-16ff
-8.ee
-16cc
-=12
-16dd
-16cc
-8b
-8dd
-=13
-4.cc}
-==
-*-
+=10	=10
+{16dd	a
+16ee	widzicie
+8ff	.
+16eeL	.
+16ffJ	.
+=11	=11
+16gg	wy
+16ff	matulu
+8.ee	.
+16cc	.
+=12	=12
+16dd	o
+16cc	jak
+8b	mi
+8dd	to
+=13	=13
+4.cc}	spuch.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!role-listener: Mother
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!Spadła z góry do komory
+!!stłukła sobie brzuch,
+!!a widzicie wy matulu o jak mi to spuch.
+!!@VERSE:
+!!2. Zabijcie mi, wy matulu
+!!wołu ruskiego,
+!!babie nogi, księdzu rogi
+!!ja zjęm całego.
+!!@VERSE:
+!!3. Zabijcie mi, wy matulu
+!!kur dziesięcioro,
+!!babie jedna, księdzu druga,
+!!ja zjém ośmioro.
+!!@VERSE:
+!!4. Poślijcie mi, wy matulu
+!!po kwartę kaszy,
+!!a ta kwarta, niech zabiera (zawiera)
+!!pięćdziesiąt garcy.
+!!@VERSE:
+!!5. Poślijcie mi, wy matulu
+!!po kwartę piwa,
+!!a ta kwarta niech zabiera
+!!pół waru piwa.
+!!@@END: VERSES
 !!!ONB: U Kolberga metrum błędnie oznaczone jako 3/4
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=124 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 108} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 108}
 !!!page: 108
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-11
