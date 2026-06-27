@@ -3,73 +3,95 @@
 !!!source: DWOK11
 !!!id: 11050
 !!!signature: 1105000000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M4/4
-=1
-{4cc
-4b
-4b
-4g
-=2
-1a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M4/4	*
+*met(c)	*
+=1	=1
+{4cc	Plon
+4b	niesiemy
+4b	.
+4g	.
+=2	=2
+1a}	plon
 !!LO:LB:g=esac
-=3
-{4cc
-4b
-4b
-4g
-=4
-1a}
+=3	=3
+{4cc	jegomości
+4b	.
+4b	.
+4g	.
+=4	=4
+1a}	w_dom.
 !!LO:LB:g=esac
-=5
-{4b
-4b
-4b
-4g
-=6
-4dd
-4dd
-4ee
-16ee
-8.dd}
+=5	=5
+{8ccq	.
+4b	Dajże
+4b	.
+4b	Boże
+4g	.
+=6	=6
+4dd	plonowało
+4dd	.
+4ee	.
+16eeL	.
+8.dd;J}	.
 !!LO:LB:g=esac
-=7
-{4b
-4b
-4b
-4g
-=8
-4dd
-4dd
-4ee
-16ee
-8.dd}
+=7	=7
+{8ccq	.
+4b	po
+4b	sto
+4b	korcy
+4g	.
+=8	=8
+4dd	z_mendla
+4dd	.
+4ee	dało,
+16eeL	.
+8.dd;J}	.
 !!LO:LB:g=esac
-=9
-{4b
-8b
-8a
-4b
-4g
-=10
-1a}
+=9	=9
+{4b	plon
+8bL	niesiemy
+8aJ\	.
+4b	.
+4g	.
+=10	=10
+1a}	plon
 !!LO:LB:g=esac
-=11
-{8cc
-8b
-8b
-8a
-4b
-4g
-=12
-1a}
-==
-*-
+=11	=11
+{8ccL	je-
+8bJ/	.
+8bL	-go-
+8aJ\	.
+4b	-mości
+4g	.
+=12	=12
+1a}	w_dom.
+==	==
+*-	*-
+!!!role-singer: Peasants
+!!!role-listener: Lord
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Plon niesiemy plon
+!!jegomości w dom.
+!!Dajże Boże plonowało
+!!po sto korcy z mendla dało,
+!!plon niesiemy plon
+!!jegomości w dom.
+!!Przede dworem wielka rosa,
+!!nasz ekonom gdyby osa.
+!!Plon niesiemy i t. d.
+!!Przede dworem płyną kaczki,
+!!nasz ekonom lubi flaczki.
+!!Plon niesiemy i t, d.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/011dwok.pdf#page=170 @PL{Oskar Kolberg Dzieła Wszystkie 11: W. Ks. Poznańskie III, s. 152} @EN{Oskar Kolberg Complete Works 11: Grand Duchy of Poznań III, p. 152}
 !!!page: 152
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-27

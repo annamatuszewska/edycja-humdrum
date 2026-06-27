@@ -9,54 +9,54 @@
 *C:
 *M3/8
 =1
-{8f
+{8fL
 16a
 16e
 16f
-16a
+16aJ\
 =2
-16cc
+16ccL
 16dd
 16cc
-16b
-16dd
-16g
+16bJ
+16ddL
+16gJ
 =3
 8cc
-16ee
+16eeL
 16dd
 16cc
-16a
+16aJ
 =4
-16f
-16a
-8b
-8g}
+16fL
+16aJ
+8bL
+8gJ}
 !!LO:LB:g=esac
 =5
-{8cc
+{8ccL
 16ee
 16dd
 16cc
-16a
+16aJ/
 =6
-16cc
+16ccL
 16dd
 16cc
-16b
-16dd
-16g
+16bJ
+16ddL
+16gJ
 =7
 8cc
-16ee
+16eeL
 16dd
 16cc
-16a
+16aJ
 =8
-16f
-16a
-8b
-8g}
+16fL
+16aJ
+8bL
+8gJ}
 ==
 *-
 !!!ONB: Partia instrumentalna Inna: (mel. Obacz Lud, Ser. III, str. 260. Nr 24).
@@ -65,3 +65,5 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/011dwok.pdf#page=78 @PL{Oskar Kolberg Dzieła Wszystkie 11: W. Ks. Poznańskie III, s. 60} @EN{Oskar Kolberg Complete Works 11: Grand Duchy of Poznań III, p. 60}
 !!!page: 60
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-27

@@ -3,61 +3,79 @@
 !!!source: DWOK11
 !!!id: 11063
 !!!signature: 1106300011
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8b
-8dd
-8dd
-8b
-4dd
-=2
-4ee
-8cc
-8b
-4g
-=3
-8b
-8dd
-8dd
-8b
-4dd
-=4
-4ee
-8cc
-8b
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8b	Rozgniewała
+8dd	.
+8dd	.
+8b	.
+4dd	się
+=2	=2
+4ee	żona
+8ddq	.
+8cc	na
+8b	męża,
+4g	.
+=3	=3
+8b	wzięła
+8dd	.
+8dd	pieniążki,
+8b	.
+4dd	.
+=4	=4
+4ee	poszła
+8cc	do
+8b	księdza.
+4g}	.
 !!LO:LB:g=esac
-=5
-{8d
-8f#
-8a
-8a
-4g
-=6
-8b
-8a
-8cc
-8b
-4g
-=7
-8d
-8f#
-8a
-8a
-4g
-=8
-4a
-8cc
-8b
-4g}
-==
-*-
+=5	=5
+{8d	Księże
+8f#	.
+8a	proboszczu
+8a	.
+4g\	.
+=6	=6
+8b	poradźże
+8a\	.
+8cc	.
+8b	temu,
+4g	.
+=7	=7
+8d	co
+8f#	ja
+8a	mam
+8a	czynić
+4g\	.
+=8	=8
+4a\	mężowi
+8cc	.
+8b	swemu?
+4g}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Wife, Parish Priest
+!!!role-listener: Parish Priest, Wife
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Rozgniewała się żona na męża,
+!!wzięła pieniążki, poszła do księdza.
+!!Księże proboszczu poradźże temu,
+!!co ja mam czynić mężowi swemu?
+!!@VERSE:
+!!2. Przeprowadź-że go przez cztery progi,
+!!niechże połamie ręce i nogi.
+!!A weź-że świeczki, wypal mu oczy,
+!!pójdziesz gdzie zechcesz we dnie i w nocy.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/011dwok.pdf#page=197 @PL{Oskar Kolberg Dzieła Wszystkie 11: W. Ks. Poznańskie III, s. 179} @EN{Oskar Kolberg Complete Works 11: Grand Duchy of Poznań III, p. 179}
 !!!page: 179
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-27

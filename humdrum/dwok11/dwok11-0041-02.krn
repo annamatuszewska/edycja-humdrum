@@ -3,48 +3,59 @@
 !!!source: DWOK11
 !!!id: 11041
 !!!signature: 1104100002
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/8
-=1
-{16a
-16a
-8ee
-8ee
-=2
-16ee
-16cc#
-8dd
-16b
-16a
-=3
-4ee
-32ee
-16.dd}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M3/8	*
+=1	=1
+{16a	Chociaż
+16a	.
+8ee	ci
+8ee	ja
+=2	=2
+16ee	pani
+16cc#	.
+8dd	matko
+16bL	.
+16aJ\	.
+=3	=3
+4ee	cygan,
+32eeL	.
+16.ddJ}	.
 !!LO:LB:g=esac
-=4
-{16.cc#
-32a
-8ee
-16ee
-16dd
-=5
-16cc#
-16a
-8dd
-16b
-16g#
-=6
-4a
-32cc#
-16.a}
-==
-*-
+=4	=4
+{16.cc#	jednak
+32a	.
+8ee	ja
+16eeL	się
+16ddJ/	.
+=5	=5
+16cc#	twojéj
+16a\	.
+8cc#q	.
+8dd	córce
+16bL	.
+16g#J	.
+=6	=6
+4a	przydam.
+32cc#L	.
+16.aJ}	.
+==	==
+*-	*-
+!!!role-singer: Gypsy
+!!!role-listener: Mother-in-Law
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Chociaż ci ja pani matko cygan,
+!!jednak ja się twojéj córce przydam.
+!!@@END: VERSES
 !!!ONB: U Kolberga jest metrum 3/4 zapisano na 3/8
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/011dwok.pdf#page=112 @PL{Oskar Kolberg Dzieła Wszystkie 11: W. Ks. Poznańskie III, s. 94} @EN{Oskar Kolberg Complete Works 11: Grand Duchy of Poznań III, p. 94}
 !!!page: 94
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-27

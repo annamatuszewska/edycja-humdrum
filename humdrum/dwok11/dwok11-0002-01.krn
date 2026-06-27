@@ -3,97 +3,88 @@
 !!!source: DWOK11
 !!!id: 11002
 !!!signature: 1100200001
-**kern
-*clefG2
-*k[b-]
-*F:
-*M4/4
-=1
-{4f
-4a
-4g
-4b-
-=2
-4a
-4cc
-8dd
-8cc
-8b-
-8a
-=3
-4f
-4a
-4g
-4b-
-=4
-4a
-4g
-2f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M4/4	*
+*met(c)	*
+=1	=1
+*	*^
+{4f	Bóg	tu
+4a	się	z_darami,
+4g	rodzi,	.
+4b-/	.	.
+=2	=2	=2
+4a	gwiazda	o-
+4cc	.	-fia-
+8ddL	wschodzi,	-ra-
+8ccJ	.	.
+8b-L	.	-mi
+8aJ\	.	.
+=3	=3	=3
+4f	trzej	każdy
+4a	Królowie	.
+4g	.	swego
+4b-/	.	.
+=4	=4	=4
+4a	od	narodu.
+4g	Wschodu	.
+2f}	.	.
+*	*v	*v
 !!LO:LB:g=esac
-=5
-{4f
-4a
-4g
-4b-
-=6
-4a
-4cc
-8dd
-8cc
-8b-
-8a
-=7
-4f
-4a
-4g
-4b-
-=8
-4a
-4g
-2f}
+=5	=5
+{4dd	Do
+4b-	Be-
+4cc	-tle-
+4a\	-jem
+=6	=6
+4b-	gdzie
+4g\	zło-
+8fL	-żo-
+8aJ	.
+4cc	-ny
+=7	=7
+8ddL	z_Panny
+8ccJ	.
+8b-L	.
+8aJ\	.
+8ccL	Chrystus
+8b-J	.
+8aL	.
+8gJ	.
+=8	=8
+8b-L	narodzony
+8aJ\	.
+8gL	.
+8fJ	.
+4f	.
+4f}	.
 !!LO:LB:g=esac
-=9
-{4dd
-4b-
-4cc
-4a
-=10
-4b-
-4g
-8f
-8a
-4cc
-=11
-8dd
-8cc
-8b-
-8a
-8cc
-8b-
-8a
-8g
-=12
-8b-
-8a
-8g
-8f
-4f
-4f}
-!!LO:LB:g=esac
-=13
-{4f
-4a
-4g
-4b-
-=14
-4a
-4g
-2f}
-==
-*-
+=9	=9
+{4f	jadą
+4a	.
+4g	z_liczne-
+4b-/	.
+=10	=10
+4a	-mi
+4g	dwory.
+2f}	.
+==	==
+*-	*-
+!!!role-singer: Caroler/Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Bóg się rodzi, gwiazda wschodzi, trzej Królowie od Wschodu
+!!tu z darami, ofiarami każdy swego narodu.
+!!Do Betlejem gdzie złożony z Panny Chrystus narodzony
+!!jadą z licznemi dwory.
+!!@@END: VERSES
 !!!ONB: Hymni Breviarii romani Jos. Pauly, 1868, str. 17, 18. Zbiór Pieśni nabożn. (X. Kellera). Pelplin 1871, str.214. 
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/011dwok.pdf#page=57 @PL{Oskar Kolberg Dzieła Wszystkie 11: W. Ks. Poznańskie III, s. 39-40} @EN{Oskar Kolberg Complete Works 11: Grand Duchy of Poznań III, pp. 39-40}
 !!!page: 39-40
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-27

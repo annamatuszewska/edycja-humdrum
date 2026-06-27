@@ -3,59 +3,70 @@
 !!!source: DWOK11
 !!!id: 11028
 !!!signature: 1102800010
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8ee
-8r
-16a
-16cc
-=2
-16ee
-16dd
-8b
-8dd
-=3
-8.ee
-16ee
-16a
-16cc
-=4
-16ee
-16dd
-8b
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+!!LO:TX:a:t=Mazur.
+{8ee/	Oj
+8r	.
+16a\	umrzyj,
+16cc	.
+=2	=2
+16ee	Jasiu
+16dd	.
+8b	umrzyj,
+8dd	.
+=3	=3
+8.ee	bo
+16ee	mi
+16a	młody
+16cc	.
+=4	=4
+16ee	stoji
+16dd	.
+8b	u
+8g}	drzwi.
 !!LO:LB:g=esac
-=5
-{8a
-16r
-16a
-16cc
-16b
-=6
-16g
-16d
-8g
-16b
-16dd
-=7
-8.a
-16cc
-16a
-16cc
-=8
-16ee
-16dd
-8b
-8g}
-==
-*-
+=5	=5
+{8a	Jeszcze
+16r	.
+16a\	.
+16cc	stary
+16b	.
+=6	=6
+16g	nie
+16d	umiéra,
+8g	.
+16bL	.
+16ddJ	.
+=7	=7
+8.a\	jużci
+16cc	.
+16a\	młody
+16cc	.
+=8	=8
+16ee	drzwi
+16dd	otwiera.
+8b	.
+8g}	.
+==	==
+*-	*-
+!!!role-singer: Wife, Narrator
+!!!role-listener: Husband
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Oj umrzyj, Jasiu umrzyj, bo mi młody stoji u drzwi.
+!!Jeszcze stary nie umiéra, jużci młody drzwi otwiera.
+!!@@END: VERSES
 !!!ONB: Mazur-partia wokalna
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/011dwok.pdf#page=81 @PL{Oskar Kolberg Dzieła Wszystkie 11: W. Ks. Poznańskie III, s. 63} @EN{Oskar Kolberg Complete Works 11: Grand Duchy of Poznań III, p. 63}
 !!!page: 63
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-27

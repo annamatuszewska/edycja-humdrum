@@ -3,84 +3,108 @@
 !!!source: DWOK11
 !!!id: 11007
 !!!signature: 1100700002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16a
-8b
-8cc
-=2
-8ee
-4dd
-=3
-16cc
-16g#
-8a
-8cc
-=4
-8ee
-4dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	A
+16a	u
+8b	naszej
+8cc	.
+=2	=2
+8ee	pani
+4dd	.
+=3	=3
+8bq	.
+16cc	jest
+16g#	wielki
+8a\	.
+8cc	pod-
+=4	=4
+8ee	-wyrzec,
+4dd}	.
 !!LO:LB:g=esac
-=5
-{16g
-16a
-8b
-8cc
-=6
-8ee
-4dd
-=7
-16cc
-16g#
-8a
-8cc
-=8
-8ee
-4dd}
+=5	=5
+{16g	a
+16a	u
+8b	naszej
+8cc	.
+=6	=6
+8ee	pani
+4dd	.
+=7	=7
+8bq	.
+16cc	jest
+16g#	wielki
+8a\	.
+8cc	pod-
+=8	=8
+8ee	-wyrzec,
+4dd}	.
 !!LO:LB:g=esac
-=9
-{16cc
-16b
-8a
-8b
-=10
-8g
-4d
-=11
-16f#
-16g
-8a
-8f#
-=12
-8g
-16dd
-16ee
-8dd}
+=9	=9
+{8bq	.
+16cc	z_tegorocznych
+16b	.
+8a\	.
+8b	.
+=10	=10
+8g	plonów
+8eq	.
+4d	.
+=11	=11
+16f#	będzie
+16g	.
+8a	złota
+8f#	.
+=12	=12
+8g	ko-
+8bq	.
+16ddL	-rzec,
+16ee	.
+8ddJ/}	.
 !!LO:LB:g=esac
-=13
-{16cc
-16b
-8a
-8b
-=14
-8g
-4d
-=15
-16f#
-16g
-8a
-8f#
-=16
-8g
-4g}
-==
-*-
+=13	=13
+{8bq	.
+16cc	z_tegorocznych
+16b	.
+8a\	.
+8b	.
+=14	=14
+8g	plonów
+8eq	.
+4d	.
+=15	=15
+16f#	będzie
+16g	.
+8a	złota
+8f#	.
+=16	=16
+8g	korzec.
+4g}	.
+==	==
+*-	*-
+!!!role-singer: Peasants
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. A u naszéj pani — jest wielki podwyrzec,
+!!z tegorocznych plonów — będzie złota korzec.
+!!@VERSE:
+!!2. A u naszéj pani — stoji lipa w polu,
+!!nie będzie tam nigdy — w pszenicy kąkolu.
+!!@VERSE:
+!!3. A do naszéj pani — zajechał pan-młody,
+!!a pani mu rada — prosi nas na gody.
+!!@VERSE:
+!!4. A ta nasza pani — nam tu wieniec sprawi,
+!!niechaj młodéj parze — Pan Bóg błogosławi.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/011dwok.pdf#page=64 @PL{Oskar Kolberg Dzieła Wszystkie 11: W. Ks. Poznańskie III, s. 46} @EN{Oskar Kolberg Complete Works 11: Grand Duchy of Poznań III, p. 46}
 !!!page: 46
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-27

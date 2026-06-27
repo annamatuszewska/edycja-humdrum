@@ -3,127 +3,140 @@
 !!!source: DWOK11
 !!!id: 11055
 !!!signature: 1105500000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{8g
-8.cc
-16b
-=2
-8cc
-4g
-=3
-8a
-8a
-8a
-=4
-16a
-16g
-4g
-=5
-8b
-8cc
-8dd}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+!!LO:TX:a:t=Spór czarta z Aniołem o duszę.
+{8g	Jużeś
+8.cc	.
+16b	zgi-
+=2	=2
+8cc	-niony,
+4g	.
+=3	=3
+8a	już
+8a	potę-
+8a	.
+=4	=4
+16aL	-pio-
+16gJ	.
+4g	-ny,
+=5	=5
+8b	bluźniłeś
+8cc	.
+8dd}	.
 !!LO:LB:g=esac
-=6
-{16cc
-16b
-4cc
-=7
-8cc
-8ee
-8ee
-=8
-8ee
-4cc
-=9
-16ff
-16dd
-8cc
-8b
-=10
-4.cc}
+=6	=6
+{16ddL	Bogu
+16ccJ	.
+4cc	.
+=7	=7
+8cc	jużeś
+8ee	.
+8ee	u
+=8	=8
+8ee	progów
+4cc	.
+=9	=9
+8eeq	.
+16ffL	pie-
+16ddJ	.
+8ccL	-kiel-
+8bJ	.
+=10	=10
+4.cc;}	-nych.
 !!LO:LB:g=esac
-=11
-{8ee
-4gg
-=12
-8aa
-4gg
-=13
-16ee
-16ff
-4d
-=14
-16dd
-16ee
-4cc
-=15
-8a
-4b
-=16
-4g}
-8r
+=11	=11
+{8ee	Jeszcze
+4gg	.
+=12	=12
+8aa	nadzie-
+4gg	.
+=13	=13
+(16eeL	-ja,
+16ffJ)	.
+4dd	.
+=14	=14
+16ddL	nie
+16eeJ	.
+4cc	trać
+=15	=15
+8a\	zbawie-
+4b	.
+=16	=16
+4g;}	-nia
+8r	.
 !!LO:LB:g=esac
-=17
-{8g
-8.cc
-16b
-=18
-8cc
-4ee
-=19
-16ff
-16dd
-8cc
-8b
-=20
-4.cc}
+=17	=17
+{8g	tylko
+8.cc	.
+16b	grze-
+=18	=18
+8cc	-szniku
+4ee	.
+=19	=19
+16ff	popraw
+16dd	.
+8cc	sumie-
+8b	.
+=20	=20
+4.cc;}	-nia,
 !!LO:LB:g=esac
-=21
-{8ee
-4gg
-=22
-8aa
-8gg
-8ff
-=23
-16ee
-16ff
-4dd
-=24
-16dd
-16ee
-4cc
-=25
-8a
-4b
-=26
-4g}
-8r
+=21	=21
+{8ee	jeszcze
+4gg	.
+=22	=22
+8aa	nadzie-
+8ggL	.
+8ffJ/	.
+=23	=23
+(16eeL	-ja,
+16ffJ)	.
+4dd	.
+=24	=24
+16ddL	nie
+16eeJ	.
+4cc	trać
+=25	=25
+8a\	zbawie-
+4b	.
+=26	=26
+4g;}	-nia
+8r	.
 !!LO:LB:g=esac
-=27
-{8g
-8.cc
-16b
-=28
-8cc
-4ee
-=29
-16ff
-16dd
-8cc
-8b
-=30
-4.cc}
-==
-*-
+=27	=27
+{8g	tylko
+8.cc	.
+16b	grze-
+=28	=28
+8cc	-szniku
+4ee	.
+=29	=29
+16ff	popraw
+16dd	.
+8cc	sumie-
+8b	.
+=30	=30
+4.cc;}	-nia.
+==	==
+*-	*-
+!!!role-singer: Devil, Angel
+!!!role-listener: Soul
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Jużeś zginiony, już potępiony,
+!!bluźniłeś Bogu jużeś u progów piekielnych.
+!!Jeszcze nadzieja, nie trać zbawienia
+!!tylko grzeszniku popraw sumienia.
+!!@@END: VERSES
 !!!ONB: Spór czarta z aniołem o duszę
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/011dwok.pdf#page=182 @PL{Oskar Kolberg Dzieła Wszystkie 11: W. Ks. Poznańskie III, s. 164} @EN{Oskar Kolberg Complete Works 11: Grand Duchy of Poznań III, p. 164}
 !!!page: 164
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-27
