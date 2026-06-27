@@ -3,92 +3,123 @@
 !!!source: DWOK11
 !!!id: 11071
 !!!signature: 1107100000
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/8
-=1
-{16ee
-16ff#
-8dd#
-8ee
-=2
-16b
-16dd#
-8.ee
-16dd
-=3
-16b
-16cc
-4a
-=4
-16f#
-16g#
-4e}
+**kern	**text
+*clefG2	*
+*k[]	*
+*A:	*
+*M3/8	*
+=1	=1
+{16ee	A
+16ff#	już
+8dd#	to
+8ee	precz,
+=2	=2
+16b	moje
+16dd#	.
+8.ee	dziewcze,
+16dd	.
+=3	=3
+16b	już
+16cc	to
+4a\	precz,
+=4	=4
+16f#	już
+16g#	to
+4e}	precz,
 !!LO:LB:g=esac
-=5
-{16g#
-16a
-8b
-8b
-=6
-16b
-16dd#
-8.ee
-16dd
-=7
-16b
-16cc
-4a
-=8
-16f#
-16g#
-4e}
+=5	=5
+{16g#	przedałem
+16a	.
+8b	.
+8b	ci
+=6	=6
+16b	cztery
+16dd#	.
+8.ee	woły
+16dd	.
+=7	=7
+16b	na
+16cc	czepiec,
+4a	.
+=8	=8
+16f#	na
+16g#	czepiec.
+4e}	.
 !!LO:LB:g=esac
-=9
-{16ee
-16ff#
-8dd#
-16ee
-16dd#
-=10
-16b
-16dd#
-8.ee
-16dd
-=11
-16b
-16cc
-4a
-=12
-16f#
-16g#
-4e}
+=9	=9
+{16ee	A
+16ff#	już
+8dd#	to
+16eeL	precz,
+16dd#J/	.
+=10	=10
+16b	moje
+16dd#	.
+8.ee	dziewcze,
+16dd	.
+=11	=11
+16b	już
+16cc	to
+4a\	precz,
+=12	=12
+16f#	już
+16g#	to
+4e}	precz,
 !!LO:LB:g=esac
-=13
-{16g#
-16a
-8b
-8b
-=14
-16b
-16dd#
-8.ee
-16dd
-=15
-16b
-16cc
-4a
-=16
-16f#
-16g#
-4e}
-==
-*-
+=13	=13
+{16g#	przedałem
+16a	.
+8b	.
+8b	ci
+=14	=14
+16b	cztery
+16dd#	.
+8.ee	woły
+16dd	.
+=15	=15
+16b	na
+16cc	czepiec,
+4a	.
+=16	=16
+16f#	na
+16g#	czepiec.
+4e}	.
+==	==
+*-	*-
+!!!role-singer: Husband
+!!!role-listener: Wife
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!A już to precz, moje dziewcze,
+!!już to precz, już to precz,
+!!przedałem ci cztery woły na czepiec, na czepiec.
+!!@VERSE:
+!!2. Przedalem-ci cztery woły
+!!i konie —
+!!niechże sobie Kasineczkę
+!!wygonię.
+!!@VERSE:
+!!3. Zobaczysz-ci, moje dziewczę,
+!!swywoli, —
+!!ino na cię zawołają:
+!!kup soli!
+!!@VERSE:
+!!4. Zobaczysz-ci, moje dziewczę,
+!!wszystkiego, —
+!!ino na cię zawołają:
+!!pańskiego!
+!!@VERSE:
+!!5. Zabaczysz-ci, moje dziewczę
+!!urody, —
+!!ino pójdziesz z pieluszkamy
+!!do wody.
+!!@@END: VERSES
 !!!ONB: w takcie 6 po ósemce z kropką jest ósemka, zapisano szesnastkę
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/011dwok.pdf#page=201 @PL{Oskar Kolberg Dzieła Wszystkie 11: W. Ks. Poznańskie III, s. 183} @EN{Oskar Kolberg Complete Works 11: Grand Duchy of Poznań III, p. 183}
 !!!page: 183
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-27

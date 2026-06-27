@@ -3,79 +3,90 @@
 !!!source: DWOK11
 !!!id: 11064
 !!!signature: 1106400002
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{8g
-8cc
-8dd
-=2
-16ee-
-16dd
-4cc
-=3
-16b
-16cc
-16b
-16g
-8f
-=4
-4.g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*F:	*
+*M3/8	*
+=1	=1
+{8g	Żebyś
+8cc	.
+8dd	ty
+=2	=2
+16ee-L	chmielu
+16ddJ	.
+4cc	.
+=3	=3
+16b	na
+16cc	tyczki
+16bL	.
+16gJ	.
+8f	nie
+=4	=4
+4.g}	laz,
 !!LO:LB:g=esac
-=5
-{8g
-8cc
-8dd
-=6
-16ee-
-16dd
-4cc
-=7
-16b
-16cc
-16b
-16g
-8f
-=8
-4.g}
+=5	=5
+{8g	nie
+8cc	robił-
+8dd	.
+=6	=6
+16ee-L	-byś
+16ddJ	.
+4cc	ty
+=7	=7
+16b	z_panienek
+16cc	.
+16bL	.
+16gJ	.
+8f	nie-
+=8	=8
+4.g}	-wiast.
 !!LO:LB:g=esac
-=9
-{8b-
-8f
-16g
-16a
-=10
-16b-
-16b-
-8f
-8g
-=11
-8b-
-8f
-16g
-16a
-=12
-16b-
-16b-
-8f
-8g}
+=9	=9
+{8b-	Oj
+8f	chmielu,
+16gL	.
+16aJ	.
+=10	=10
+16b-	ty
+16b-	nieboże,
+8f	.
+8g	.
+=11	=11
+8b-	co
+8f	na
+16gL	dół,
+16aJ	.
+=12	=12
+16b-	to
+16b-	ku
+8f	górze,
+8g}	.
 !!LO:LB:g=esac
-=13
-{16g
-16cc
-16b
-16g
-8f
-=14
-4.g}
-==
-*-
+=13	=13
+{16g	chmielu
+16cc	.
+16bnL	nie-
+16gJ	.
+16fL	-bo-
+16b-J	.
+=14	=14
+4.g}	-że.
+==	==
+*-	*-
+!!!role-listener: Hop
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Żebyś ty chmielu na tyczki nie laz,
+!!nie robiłbyś ty z panienek niewiast.
+!!Oj chmielu, ty nieboże,
+!!co na dół, to ku górze, chmielu nieboże.
+!!@@END: VERSES
 !!!ONB: Alternatywnie można zakodować jako pentatonikę od F
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/011dwok.pdf#page=198 @PL{Oskar Kolberg Dzieła Wszystkie 11: W. Ks. Poznańskie III, s. 180} @EN{Oskar Kolberg Complete Works 11: Grand Duchy of Poznań III, p. 180}
 !!!page: 180
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-27

@@ -3,43 +3,52 @@
 !!!source: DWOK11
 !!!id: 11072
 !!!signature: 1107200002
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16g#
-16a
-8b
-8ee
-=2
-16dd
-16b
-16cc
-16b
-8a
-=3
-16g#
-16g#
-8e
-8cc
-=4
-8a
-8a
-8b
-=5
-16g#
-16g#
-8e
-8cc
-=6
-4a}
-8r
-==
-*-
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{16g#	Jedzie
+16a	.
+8b	Jasio
+8ee	.
+=2	=2
+16dd	od
+16b	Toru-
+16ccL	.
+16bJ/	.
+8a	-nia
+=3	=3
+16g#	czarny
+16g#	.
+8e	wąsik
+8cc	.
+=4	=4
+8a	ma
+8a	hę
+8b	hę,
+=5	=5
+16g#	czarny
+16g#	.
+8e	wąsik
+8cc	.
+=6	=6
+4a}	ma.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Jedzie Jasio od Torunia
+!!czarny wąsik ma hę hę,
+!!czarny wąsik ma.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/011dwok.pdf#page=202 @PL{Oskar Kolberg Dzieła Wszystkie 11: W. Ks. Poznańskie III, s. 184} @EN{Oskar Kolberg Complete Works 11: Grand Duchy of Poznań III, p. 184}
 !!!page: 184
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-27

@@ -3,76 +3,104 @@
 !!!source: DWOK11
 !!!id: 11069
 !!!signature: 1106900000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{4b
-8ee
-=2
-16ee
-16dd#
-8ee
-16dd
-16b
-=3
-4b
-8dd
-=4
-16dd
-16cc
-8b
-8a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{4b	Oj
+8ee	chcia-
+=2	=2
+16ee	-ły
+16dd#	szwachniczki
+8ee	.
+16ddL	.
+16bJ	.
+=3	=3
+4b	żebym
+8dd	.
+=4	=4
+16dd	z_niemy
+16cc	.
+8b	spała,
+8a}	.
 !!LO:LB:g=esac
-=5
-{4b
-8ee
-=6
-16ee
-16dd#
-8ee
-16dd
-16b
-=7
-4g
-16b
-16dd
-=8
-16dd
-16cc
-8b
-8a}
+=5	=5
+{4b	Jasio
+8ee	.
+=6	=6
+16ee	ko-
+16dd#	-le
+8ee	łóż-
+16ddL	-ka,
+16bJ	.
+=7	=7
+4g	ja
+16bL	téż
+16ddJ	.
+=8	=8
+16dd	tak
+16cc	nie
+8b	chciała,
+8a}	.
 !!LO:LB:g=esac
-=9
-{16a
-16g#
-16a
-16b
-16cc
-16b
-=10
-16a
-16g#
-16a
-16b
-16cc
-16b
-=11
-8g
-8g
-16b
-16dd
-=12
-16dd
-16cc
-8b
-8a}
-==
-*-
+=9	=9
+{16a	tomda
+16g#	.
+16a	rady
+16b	.
+16cc	rady,
+16b	.
+=10	=10
+16a	tada
+16g#	.
+16a	rady
+16b	.
+16cc	rady
+16b	.
+=11	=11
+8gnL	tom
+8gJ	.
+16bL	da
+16ddJ	.
+=12	=12
+16dd	data
+16cc	.
+8b	dana.
+8a}	.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Oj chciały szwachniczki
+!!żebym z niemy spała,
+!!Jasio kole łóżka,
+!!ja téż tak nie chciała,
+!!tomda rady rady, tada rady rady
+!!tom da data dana.
+!!@VERSE:
+!!2. Pościelcie za piecem,
+!!byli dobrze było,
+!!będziecie się pytać,
+!!o czém my (mi) się śniło.
+!!@VERSE:
+!!3. Oj czy o wianyszku,
+!!com go utraciła,
+!!czy téz o Jasińku,
+!!com go ulubiła.
+!!@VERSE:
+!!4. Oj nie o wianyszku,
+!!co go już tu nima;
+!!ino o Jasińku,
+!!co mnie mocno trzyma.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/011dwok.pdf#page=200 @PL{Oskar Kolberg Dzieła Wszystkie 11: W. Ks. Poznańskie III, s. 182} @EN{Oskar Kolberg Complete Works 11: Grand Duchy of Poznań III, p. 182}
 !!!page: 182
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-27

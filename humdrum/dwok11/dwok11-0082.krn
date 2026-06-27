@@ -3,52 +3,75 @@
 !!!source: DWOK11
 !!!id: 11082
 !!!signature: 1108200000
-**kern
-*clefG2
-*k[f#]
-*e:
-*M3/4
-=1
-{8e
-8e
-4.g
-8a
-=2
-8b
-8cc#
-4dd
-4b
-=3
-8dd
-8cc#
-4a
-4dd
-=4
-2.b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*e:	*
+*M3/4	*
+=1	=1
+{8e	Przede
+8e	.
+4.g	wroty
+8a	.
+=2	=2
+8b	kamiń
+8cc#i	.
+4dd	złoty,
+4b	.
+=3	=3
+8dd	biała
+8cc#i	.
+4a	li-
+4dd	-li-
+=4	=4
+2.b}	-ja,
 !!LO:LB:g=esac
-=5
-{8e
-8e
-4.g
-8e
-=6
-8g
-8a
-4.b
-8b
-=7
-8e
-8g
-4f#
-16a
-8.f#
-=8
-2.e}
-==
-*-
+=5	=5
+{8e	u-
+8e	-wij-
+4.g	-że
+8e	mi
+=6	=6
+8g	wionek
+8a	.
+4.b	z_mertu
+8b	.
+=7	=7
+8e	panno
+8g	.
+4f#	Ma-
+16aL	-ry-
+8.f#J	.
+=8	=8
+2.e}	-ja.
+==	==
+*-	*-
+!!!RDF**kern: i = editorial accidental
+!!!role-singer: Maiden, Advider
+!!!role-listener: Holy Mary, Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Przede wroty kamiń złoty,
+!!biała lilija,
+!!uwijże mi wionek z mertu
+!!panno Maryja.
+!!@VERSE:
+!!2. Nie dej-ze gö chopku w ręke,
+!!boć gö nie godzien,
+!!a weź-ze gö z kómórecki,
+!!w(ł)óz gö na ögień.
+!!@VERSE:
+!!3. A weź-ze gö z tego ögnia,
+!!niech nie wiednieje;
+!!a włóz-ze gö w zimną wöde,
+!!niech orzewnieje (orzeźwieje).
+!!@@END: VERSES
 !!!ONB: w oryginalnym zapisie t. 8: 1__ 
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/011dwok.pdf#page=213 @PL{Oskar Kolberg Dzieła Wszystkie 11: W. Ks. Poznańskie III, s. 195} @EN{Oskar Kolberg Complete Works 11: Grand Duchy of Poznań III, p. 195}
 !!!page: 195
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-27
