@@ -3,50 +3,63 @@
 !!!source: DWOK16
 !!!id: 16185
 !!!signature: 1618500002
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M2/4
-=1
-{8ee
-8ee
-8ee
-8b
-=2
-4ee
-8b
-8a
-=3
-2b
-=4
-4b
-4dd
-=5
-2ee}
+**kern	**text
+*clefG2	*
+*k[]	*
+*A:	*
+*M2/4	*
+=1	=1
+{8ee	Hej
+8ee	kropiaste
+8ee	.
+8b	.
+=2	=2
+4ee	ziołeń-
+8bL	.
+8aJ	.
+=3	=3
+2b	-ko,
+8aq	.
+=4	=4
+4b	kalina.
+4dd	.
+=5	=5
+2ee;}	.
 !!LO:LB:g=esac
-=6
-{8ff#
-8ee
-8ee
-8b
-=7
-8dd
-8ee
-8b
-8a
-=8
-2b
-=9
-8cc
-8a
-8b
-8g#
-=10
-2a}
-==
-*-
+=6	=6
+{8ff#	W_poćciwości
+8ee	.
+8ee	.
+8b	.
+=7	=7
+8dd	się
+8ee	Mary-
+8bL	.
+8aJ	.
+=8	=8
+2b	-sia
+8aq	.
+=9	=9
+8bq	.
+8ccL	nosi-
+8aJ	.
+8bL	.
+8g#J	.
+=10	=10
+2a;}	-ła.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Hej kropiaste ziołeńko, kalina.
+!!W poćciwości się Marysia nosiła.
+!!W poćciwości się Marysia nosiła;
+!!za słoneńka grzecznych ludzi sprosiła.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=215 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 195} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 195}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-30

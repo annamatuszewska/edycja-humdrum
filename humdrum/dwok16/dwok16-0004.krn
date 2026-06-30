@@ -3,97 +3,119 @@
 !!!source: DWOK16
 !!!id: 16004
 !!!signature: 1600400000
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/4
-=1
-{4e
-8a
-8e
-8a
-8cc#
-=2
-4b
-8b
-8g#
-8b
-8dd
-=3
-8cc#
-8cc#
-8a
-8f#
-8d
-8f#
-=4
-8a
-8g#
-2e}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M3/4	*
+=1	=1
+{4e	W_Betlejem
+8a	.
+8e	.
+8a	sławnem,
+8cc#	.
+=2	=2
+4b	czasem
+8b	.
+8g#	niedawnym,
+8b	.
+8dd	.
+=3	=3
+8cc#	Kuba
+8cc#	.
+8aL	bracie
+8f#J	.
+8dL	.
+8f#J	.
+=4	=4
+8aL	miły,
+8g#J	.
+2e}	.
 !!LO:LB:g=esac
-=5
-{4e
-8a
-8e
-8a
-8cc#
-=6
-4b
-8b
-8g#
-8b
-8dd
-=7
-8cc#
-8cc#
-8a
-8f#
-8d
-8f#
-=8
-8a
-8g#
-2e}
+=5	=5
+{4e	Gdym
+8a	w_budzie
+8e	.
+8a	siedział,
+8cc#	.
+=6	=6
+4b	Anioł
+8b	.
+8g#	powiedział:
+8b	.
+8dd	.
+=7	=7
+8cc#	cuda
+8cc#	.
+8aL	się
+8f#J	.
+8dL	zja-
+8f#J	.
+=8	=8
+8aL	-wiły.
+8g#J	.
+2e}	.
 !!LO:LB:g=esac
-=9
-{8cc#
-8cc#
-4a
-8b
-8cc#
-=10
-4.dd
-8cc#
-8ee
-8dd
-=11
-8cc#
-16b
-16cc#
-4a
-8b
-8cc#
-=12
-4.dd
-8ff#
-8ee
-8dd}
+=9	=9
+{8cc#	I
+8cc#	innych
+4a\	.
+8bL	a-
+8cc#J	.
+=10	=10
+4.dd	-niołów
+8cc#	.
+8ee	siła
+8dd	.
+=11	=11
+8cc#L	że
+16b	Panna
+16cc#J/	.
+4a\	.
+8bL	Sy-
+8cc#J	.
+=12	=12
+4.dd	-na
+8ff#/	powiła,
+8eeL	.
+8ddJ/}	.
 !!LO:LB:g=esac
-=13
-{8cc#
-8cc#
-8a
-8f#
-8d
-8f#
-=14
-8a
-8g#
-2e}
-==
-*-
+=13	=13
+{8cc#	wesoło
+8cc#	.
+8aL	.
+8f#J	.
+8dL	gło-
+8f#J	.
+=14	=14
+8aL	-sili.
+8g#J	.
+2e}	.
+==	==
+*-	*-
+!!!role-singer: Shepherd
+!!!role-listener: Shepherd
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!W Betlejem sławnem, czasem niedawnym,
+!!Kuba bracie miły,
+!!Gdym w budzie siedział, Anioł powiedział:
+!!cuda się zjawiły.
+!!I innych aniołów siła
+!!że Panna Syna powiła,
+!!wesoło głosili.
+!!Strofa 7a: Napił się wina – stary dziadowina,
+!!i tak mocno zasnął.
+!!Zasnął na żłobie – zaśpiewał sobie
+!!aż się Jezus rozśmiał.
+!!Panna woła: stójcie, stójcie,
+!!a przecie się Boga bójcie,
+!!dziadka nie mordujcie!
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=127 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 107} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 107}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-30

@@ -3,58 +3,68 @@
 !!!source: DWOK16
 !!!id: 16163a
 !!!signature: 1616300001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8b
-8dd
-8cc
-=2
-8dd
-4b
-=3
-8dd
-8dd
-8dd
-=4
-8dd
-8dd
-8cc
-=5
-8b
-4g
-=6
-8f#
-8d}
-8r
+**kern	**text	**text
+*clefG2	*	*
+*k[f#]	*	*
+*G:	*	*
+*M3/8	*	*
+=1	=1	=1
+{8b	Ej	A
+8dd	przyjechali	pan
+8cc	.	drużebka
+=2	=2	=2
+8dd	.	.
+4b	.	.
+=3	=3	=3
+8dd	swatkowie	śniadaniczeńko
+8dd	.	.
+8dd	.	.
+=4	=4	=4
+8dd	nasi	.
+8ddL	.	.
+8ccJ	.	.
+=5	=5	=5
+8b	z_przydania,	już
+4g	.	daje,
+=6	=6	=6
+8f#L	.	.
+8dJ}	.	.
+8r	.	.
 !!LO:LB:g=esac
-=7
-{8f#
-4g
-=8
-16a
-16g
-4b
-=9
-16b
-16cc
-8dd
-8b
-=10
-8cc
-4b
-=11
-8g
-4f#
-=12
-4g}
-8r
-==
-*-
+=7	=7	=7
+{8f#	spodziwali	ej
+4g	.	i
+=8	=8	=8
+16aL	.	jeszcze
+16gJ\	.	.
+4b	się	ich
+=9	=9	=9
+16b	u	na
+16cc	pana	drugi
+8dd	.	.
+8b	drużebki	truneczek
+=10	=10	=10
+8cc	.	.
+4b	.	.
+=11	=11	=11
+8g	śniadania.	przyjmuje.
+4f#	.	.
+=12	=12	=12
+4g}	.	.
+8r	.	.
+==	==	==
+*-	*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Ej przyjechali swatkowie nasi z przydania,
+!!spodziwali się u pana drużebki śniadania.
+!!A pan drużebka śniadaniczeńko już daje,
+!!ej i jeszcze ich na drugi truneczek przyjmaje.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=207 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 187} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 187}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-30

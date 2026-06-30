@@ -3,99 +3,123 @@
 !!!source: DWOK16
 !!!id: 16001
 !!!signature: 1600100000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/4
-=1
-{8f
-8a
-8cc
-8cc
-8cc
-8dd
-=2
-8cc
-8a
-8cc
-8cc
-8cc
-8dd
-=3
-8cc
-8a
-4b-
-8cc
-8b-
-=4
-8a
-8g
-4f}
-4r
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/4	*
+=1	=1
+!!LO:TX:a:t=Kolęda.
+{8f	Pasterze
+8a	.
+8cc	.
+8cc	bieżeli
+8cc	.
+8dd	.
+=2	=2
+8cc	gdy
+8a	głos
+8cc	usłyszeli,
+8cc	.
+8cc	.
+8dd	.
+=3	=3
+8cc	śpiewania
+8a\	.
+4b-	.
+8ccL	a-
+8b-J	.
+=4	=4
+8a	-nielskiego.
+8g	.
+4f}	.
+4r	.
 !!LO:LB:g=esac
-=5
-{8f
-8a
-8cc
-8cc
-8cc
-8dd
-=6
-8cc
-8a
-8cc
-8cc
-8cc
-8dd
-=7
-8cc
-8a
-4b-
-8cc
-8b-
-=8
-8a
-8g
-4f}
-4r
+=5	=5
+{8f	Znaleźli
+8a	.
+8cc	.
+8cc	w_żłobeczku,
+8cc	.
+8dd	.
+=6	=6
+8cc	w_Betlejem
+8a	.
+8cc	.
+8cc	miasteczku,
+8cc	.
+8dd	.
+=7	=7
+8cc	Jezusa
+8a\	.
+4b-	.
+8ccL	ma-
+8b-J	.
+=8	=8
+8a	-leńkiego.
+8g	.
+4f}	.
+4r	.
 !!LO:LB:g=esac
-=9
-{4a
-4a
-4a
-=10
-8a
-8cc
-8cc
-8a
-8b-
-8g
-=11
-4a
-4a
-4a
-=12
-8a
-8cc
-8cc
-8a
-8b-
-8cc
-=13
-8dd
-8cc
-4b-
-8cc
-8b-
-=14
-8a
-8g
-4f}
-4r
-==
-*-
+=9	=9
+{4a	Osioł
+4a	.
+4a	mu
+=10	=10
+8a	z_wołem
+8cc	.
+8cc	usługują,
+8a	.
+8b-/	.
+8g	.
+=11	=11
+4a	klękając,
+4a	.
+4a	.
+=12	=12
+8a	znając
+8cc	.
+8cc	adorują,
+8a	.
+8b-	.
+8cc	.
+=13	=13
+8dd	Stworzyciela
+8cc	.
+4b-	.
+8ccL	.
+8b-J	.
+=14	=14
+8a	swego.
+8g	.
+4f}	.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Caroler/Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Pasterze bieżeli
+!!gdy głos usłyszeli,
+!!śpiewania anielskiego.
+!!Znaleźli w żłobeczku,
+!!w Betlejem miasteczku,
+!!Jezusa maleńkiego.
+!!Osioł mu z wołem usługują,
+!!klękając, znając adorują,
+!!Stworzyciela swego.
+!!Po zwrotce 5tej atoli, dodać jeszcze należy:
+!!Oddawszy ukłony, – nastroili strony,
+!!i wesoło zagrali.
+!!Na basach, skrzypeczkach, – dudkach, multaneczkach,
+!!a drudzy tańcowali.
+!!Inni zaś owcze masło, owcze sérki
+!!miód, bryndze, kiełbasy i szperki,
+!!na prezent oddawali.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=125 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 105} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 105}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-30

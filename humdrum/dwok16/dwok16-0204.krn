@@ -3,46 +3,59 @@
 !!!source: DWOK16
 !!!id: 16204
 !!!signature: 1620400000
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/8
-=1
-{8ff#
-8ee
-8ee
-=2
-4ee
-8b
-=3
-8ee
-8a}
-8r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*A:	*
+*M3/8	*
+=1	=1
+{8ff#m	Pośrataj
+8ee	.
+8ee	.
+=2	=2
+(4ee	Bo-
+8b)	.
+=3	=3
+8eeL	-że,
+8aJ}	.
+8r	.
 !!LO:LB:g=esac
-=4
-{8a
-8b
-8dd
-=5
-4ee
-8b
-=6
-8ee
-8a}
-8r
+=4	=4
+{8a\	te
+8b	goście
+8dd	.
+=5	=5
+(4ee	na-
+8b)	.
+=6	=6
+(8eeL	-sze,
+8aJ)}	.
+8r	.
 !!LO:LB:g=esac
-=7
-{8a
-8b
-8g
-=8
-4a
-8a}
-==
-*-
+=7	=7
+{8a	Łado,
+8bL	.
+8gJ	.
+=8	=8
+4a;	Łado.
+8a}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!!role-listener: God
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Pośrataj Boże,
+!!te goście nasze,
+!!Łado, Łado.
+!!Posratała ich,
+!!matuleńka ich,
+!!Łado, Łado!
+!!@@END: VERSES
 !!!ONB: U Kolberga błąd w zapisie rytmu, t. 8
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=221 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 201} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 201}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-30

@@ -3,63 +3,112 @@
 !!!source: DWOK16
 !!!id: 16008
 !!!signature: 1600800000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16a
-16b
-8cc
-8cc
-=2
-8dd
-4ee
-=3
-8cc
-4b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{16a\	Kiej
+16b	Maryja
+8cc	.
+8cc	.
+=2	=2
+8dd	wędro-
+4ee	.
+=3	=3
+8cc	-wała,
+4b}	.
 !!LO:LB:g=esac
-=4
-{16b
-16cc
-8dd
-8dd
-=5
-4ee
-8cc
-=6
-8b
-4a}
+=4	=4
+{16b	do
+16cc	miasteczka
+8dd	.
+8dd	.
+=5	=5
+4ee	podą-
+8cc	.
+=6	=6
+8b	-żała.
+4a\}	.
 !!LO:LB:g=esac
-=7
-{16a
-16b
-8cc
-8ee
-=8
-8dd
-8ee
-8dd
-=9
-8cc
-4b}
+=7	=7
+{16a\	Kiej
+16b	Maryja
+8ccL	.
+8eeJ/	.
+=8	=8
+8dd	wędro-
+8eeL	.
+8ddJ/	.
+=9	=9
+8cc	-wała,
+4b}	.
 !!LO:LB:g=esac
-=10
-{16b
-16cc
-8dd
-8dd
-=11
-8ee
-8dd
-8cc
-=12
-8b
-4a}
-==
-*-
+=10	=10
+{16b	do
+16cc	miasteczka
+8dd	.
+8dd	.
+=11	=11
+8eeL	podą-
+8ddJ/	.
+8cc	.
+=12	=12
+8b	-żała.
+4a\}	.
+==	==
+*-	*-
+!!!role-singer: Holy Mary, Gardener
+!!!role-listener: Gardener, Holy Mary
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Kiej Maryja wędrowała,
+!!do miasteczka podążała.
+!!@VERSE:
+!!2. W miasteczku ją nie przyjęto,
+!!jeszcze ją psami wyszczuto.
+!!@VERSE:
+!!3. Wyszła w pole, w szczere pole,
+!!w szczere pole, na podole.
+!!@VERSE:
+!!4. Obaczyła ogrodniczka,
+!!w szczerém polu komorniczka.
+!!@VERSE:
+!!5. „Ogrodniczku, przenocuj mnie!“
+!!„A ja bym rad przenocował,
+!!@VERSE:
+!!6. ale mi urząd przykazał,
+!!żebym nikogo nie nocował.
+!!@VERSE:
+!!7. Idź Maryja, do tej szopy,
+!!będziesz miała nocleg dobry.
+!!@VERSE:
+!!8. Będziesz sobie spoczywała,
+!!swoim nóżkom folgowała.
+!!@VERSE:
+!!9. A nie wyszła i godzina,
+!!straszna jasność oświeciła.
+!!@VERSE:
+!!10. Ogrodniczek zrozumiawszy,
+!!na kolana uklęknąwszy:
+!!@VERSE:
+!!11. Żeby ja był wiedział o tem,
+!!leżałbym był sam pod płotm.
+!!@VERSE:
+!!12. I kazałbym łoże wysłać,
+!!Maryi się na niem ukłaść.
+!!@VERSE:
+!!13. A dziękuję ci, miły Panie (Boże),
+!!a za Twoje nawiedzanie.
+!!@VERSE:
+!!14. Coś nawiedzić tu mnie raczył,
+!!coś ty o mnie nie zahaczył.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=129 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 109} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 109}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-30

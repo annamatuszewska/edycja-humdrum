@@ -3,68 +3,78 @@
 !!!source: DWOK16
 !!!id: 16183
 !!!signature: 1618300002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8a
-8cc
-8b
-=2
-8f#
-4g
-=3
-8a
-4cc
-=4
-8b
-4g}
+**kern	**text	**text
+*clefG2	*	*
+*k[f#]	*	*
+*G:	*	*
+*M3/8	*	*
+=1	=1	=1
+{8aL	Wiła	Jedna
+8ccJ/	.	.
+8b	Marysia	ruteńkę
+=2	=2	=2
+8f#	.	.
+4g	.	.
+=3	=3	=3
+(8a\	wianeczek,	łoma-
+4cc)	.	.
+=4	=4	=4
+(8b	.	-ła,
+4g)}	.	.
 !!LO:LB:g=esac
-=5
-{8a
-8a
-8b
-=6
-8cc
-4b
-=7
-8a
-4g
-=8
-8f#
-8d}
-8r
+=5	=5	=5
+{8a\	z_drobnej	druga
+8a\	.	.
+8b	ruteńki	rumianki
+=6	=6	=6
+8cc	.	.
+4b	.	.
+=7	=7	=7
+8a	serdeczek.	scypa-
+4g	.	.
+=8	=8	=8
+8f#L	.	-ła
+8dJ}	.	.
+8r	.	.
 !!LO:LB:g=esac
-=9
-{4.a
-=10
-8b
-8f#
-8g
-=11
-4.cc
-=12
-8b
-4g}
+=9	=9	=9
+{4.a	I	To-
+=10	=10	=10
+8b	wiła	-cyła
+8f#	.	.
+8g	go	go
+=11	=11	=11
+4.cc	wi-	to-
+=12	=12	=12
+(8b	-ła,	-cyła,
+4g)}	.	.
 !!LO:LB:g=esac
-=13
-{4a
-8a
-=14
-8b
-8f#
-8g
-=15
-4a
-8f#
-=16
-4g}
-8r
-==
-*-
+=13	=13	=13
+{4a	ze	do
+8a	dwie-	matu-
+=14	=14	=14
+8b	-ma	.
+8f#	druchni-	-li
+8g	.	w_u-
+=15	=15	=15
+4a	-czko-	-kło-
+8f#	.	.
+=16	=16	=16
+4g}	-ma.	-nie.
+8r	.	.
+==	==	==
+*-	*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Wiła Marysia wianeczek, z drobnej ruteńki serdeczek.
+!!I wiła go wiła, ze dwiema druchniczkoma.
+!!Jedna ruteńkę łomała, druga rumianki scypała.
+!!Tocyła go tocyła, do matuli w ukłonie.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=214 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 194} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 194}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-30

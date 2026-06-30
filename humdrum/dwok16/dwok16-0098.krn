@@ -3,108 +3,133 @@
 !!!source: DWOK16
 !!!id: 16098
 !!!signature: 1609800000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16a
-16b
-16cc
-8dd
-=2
-16dd
-16ee
-8dd
-8dd
-=3
-16g
-16b
-8dd
-8cc
-=4
-8dd
-8dd
-8dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	A
+16a	gdzie
+16bL	jedziesz
+16ccJ	.
+8dd	.
+=2	=2
+16dd	osmolony?
+16ee	.
+8dd	.
+8dd	.
+=3	=3
+16g	Do
+16b	Krakowa
+8dd	.
+8cc	.
+=4	=4
+8dd	szukać
+8dd	.
+8dd}	żony.
 !!LO:LB:g=esac
-=5
-{16g
-16b
-8dd
-16a
-16f#
-=6
-16g
-16b
-8a
-8d
-=7
-16g
-16b
-8dd
-16a
-16b
-=8
-8g
-8g
-16g
-16d}
+=5	=5
+{16g	Niedaleko
+16b	.
+8dd	.
+16aL	.
+16f#J	.
+=6	=6
+16g	żony
+16b	.
+8a\	szukać,
+8d	.
+=7	=7
+16g\)	u
+16b	naszej
+8dd	.
+16aL	pani
+16bJ\	.
+=8	=8
+8g	w_okno
+8g	.
+16g	pukać.
+16d}	.
 !!LO:LB:g=esac
-=9
-{16g
-16a
-16b
-16cc
-16dd
-16cc#
-=10
-16dd
-16ee
-8dd
-16dd
-16b
-=11
-16g
-16b
-16dd
-16cc#
-16a
-16cc#
-=12
-8dd
-8dd
-16dd
-16b}
+=9	=9
+{16g	A
+16a	gdzie
+16bL	jedziesz
+16ccJ	.
+16ddL	.
+16cc#J/	.
+=10	=10
+16dd	osmolony?
+16ee	.
+8dd	.
+16ddL	.
+16bJ/	.
+=11	=11
+16g	Do
+16b	Krakowa
+16ddL	.
+16cc#	.
+16a	.
+16cc#J/	.
+=12	=12
+8dd	szukać
+8dd	.
+16ddL	żony.
+16bJ/}	.
 !!LO:LB:g=esac
-=13
-{16g
-16b
-16dd
-16cc#
-16a
-16f#
-=14
-16g
-16b
-16a
-16f#
-8d
-=15
-16g
-16b
-8dd
-16a
-16b
-=16
-8g
-8g
-16g
-16d}
-==
-*-
+=13	=13
+{16g	Niedaleko
+16b	.
+16ddL	.
+16cc#J/	.
+16aL	.
+16f#J	.
+=14	=14
+16g	żony
+16b	.
+16aL	szukać,
+16f#J	.
+8d	.
+=15	=15
+16gL	u
+16bJ	naszej
+8dd	.
+16a	pani
+16b/	.
+=16	=16
+8g	w_okno
+8g	.
+16g	pukać.
+16d}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Bachelor
+!!!role-listener: Bachelor
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. A gdzie jedziesz osmolony?
+!!Do Krakowa szukać żony.
+!!@VERSE:
+!!2. Niedaleko żony szukać,
+!!u naszej pani w okno pukać.
+!!@VERSE:
+!!3. Jest dziewczyna do wydania,
+!!wielgie za nią wiano dają.
+!!@VERSE:
+!!4. Cztery myszy, cztery koty,
+!!dziewiąty pies do roboty.
+!!@VERSE:
+!!5. Jeśli ci się krzywda widzi,
+!!jest tam suka co nie widzi.
+!!@VERSE:
+!!6. Jest tam suka bez ogona
+!!co niebywa nigdy doma.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=182 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 162} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 162}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-30

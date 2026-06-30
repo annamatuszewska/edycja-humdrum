@@ -3,50 +3,78 @@
 !!!source: DWOK16
 !!!id: 16192a
 !!!signature: 1619200001
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M4/4
-=1
-2r
-{8ff#
-8ee
-8ee
-8b
-=2
-8dd#
-8ee
-4b
-4b
-4a
-=3
-8b
-8b
-4dd#
-2ee}
+**kern	**text
+*clefG2	*
+*k[]	*
+*A:	*
+*M4/4	*
+*met(c)	*
+=1	=1
+2r	.
+{8ff#	Rozplitajcie
+8ee	.
+8ee	.
+8b	.
+=2	=2
+8dd#	bracia
+8ee	.
+4b	.
+(4b	siostrę
+4a\)	.
+=3	=3
+8b	jak
+8b	najprę-
+4dd#	.
+2ee}	-cej,
 !!LO:LB:g=esac
-=4
-2r
-{8ff#
-8ee
-8ee
-8b
-=5
-8dd#
-8ee
-4b
-4b
-4a
-=6
-8b
-8a
-8b
-8g#
-2a}
-==
-*-
+=4	=4
+2r	.
+{8ff#	nie
+[8ee	zadajcie
+8ee]	.
+8b	.
+=5	=5
+8dd#	matce
+8ee	.
+4b	ża-
+(4b	-lu
+4a\)	.
+=6	=6
+8b	jak
+8a	najwię-
+8bL	.
+8g#J	.
+2a}	-cej.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!role-listener: Brothers, Groom
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Rozplitajcie bracia siostrę
+!!jak najpręcej,
+!!nie zadajcie matce żalu
+!!jak najwięcej.
+!!@VERSE:
+!!2. Rozplitaj-że bracie siostrę
+!!nie targaj,
+!!a dostaniesz za warkoczyk
+!!bity talar.
+!!@VERSE:
+!!3. Oj nie będziesz mój Jasieńku
+!!rozplitał,
+!!boś się o to matuleńki
+!!nie pytał.
+!!@VERSE:
+!!4. Popytaj się matuleńki
+!!cy pozwoli,
+!!a rozpleciesz i rozczeszesz
+!!po swej woli.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=218 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 198} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 198}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-30

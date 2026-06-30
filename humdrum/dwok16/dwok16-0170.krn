@@ -3,73 +3,83 @@
 !!!source: DWOK16
 !!!id: 16170
 !!!signature: 1617000000
-**kern
-*clefG2
-*k[]
-*a:
-*M2/4
-=1
-{4dd
-8cc
-8a
-=2
-4b
-4ee
-=3
-4dd
-4ee
-=4
-4b
-4a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M2/4	*
+=1	=1
+{4dd	Hej
+8cc	zaści-
+8a	.
+=2	=2
+4b	-lajcie
+4ee	.
+=3	=3
+4dd	stoły,
+4ee	.
+=4	=4
+4b	ławy,
+4a}	.
 !!LO:LB:g=esac
-=5
-{4dd
-8cc
-8a
-=6
-4b
-4cc
-=7
-4dd
-4b
-=8
-4a
-4a}
+=5	=5
+{4dd	hej
+8cc	boć
+8a\	tu
+=6	=6
+4b	idzie
+4cc	.
+=7	=7
+4dd	Pan
+4b	Bóg
+=8	=8
+4a	z_nami.
+4a}	.
 !!LO:LB:g=esac
-=9
-{4dd
-8cc
-8a
-=10
-4b
-4ee
-=11
-8dd
-8cc
-8ee
-8a
-=12
-4b
-4a}
+=9	=9
+{4dd	E
+8cc	Pan
+8a	Bóg
+=10	=10
+4b	z_nami
+4ee	.
+=11	=11
+8ddL	z_janio-
+8ccJ/	.
+8eeL	.
+8aJ/	.
+=12	=12
+4b	-łami,
+4a}	.
 !!LO:LB:g=esac
-=13
-{4dd
-8cc
-8a
-=14
-4b
-4cc
-=15
-8dd
-8cc
-8b
-8g
-=16
-4a
-4a}
-==
-*-
+=13	=13
+{4dd	pani
+8cc	.
+8a\	staro-
+=14	=14
+4b	-ścina
+4cc	.
+=15	=15
+8ddL	z_druchniczkami.
+8ccJ/	.
+8bL	.
+8gJ/	.
+=16	=16
+4a	.
+4a}	.
+==	==
+*-	*-
+!!!role-singer: Wedding Guests
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Hej zaścilajcie stoły, ławy,
+!!hej boć tu idzie Pan Bóg z nami.
+!!E Pan Bóg z nami z janiołami,
+!!pani starościna z druchniczkami.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=209 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 189} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 189}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-30

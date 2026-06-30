@@ -3,84 +3,106 @@
 !!!source: DWOK16
 !!!id: 16079a
 !!!signature: 1607900001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8g
-16b
-16cc
-8dd
-8dd
-=2
-8dd
-16dd
-16cc#
-8a
-8a
-=3
-8dd
-16dd
-16cc#
-8a
-8a
-=4
-8dd
-16dd
-16cc#
-8.a
-16g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8g	Ej
+16b	prosili
+16cc	.
+8dd	.
+8dd	mnie
+=2	=2
+8dd	na
+16ddL	zaloty,
+16cc#J	.
+8a	.
+8a	.
+=3	=3
+8dd	na
+16ddL	zaloty,
+16cc#J	.
+8a	.
+8a	.
+=4	=4
+8dd	na
+16ddL	zaloty,
+16cc#J	.
+8.a	.
+16g}	.
 !!LO:LB:g=esac
-=5
-{8b
-8dd
-8dd
-16cc
-16b
-=6
-8.a
-16f#
-8g}
-8r
+=5	=5
+{8b	jak
+8dd	na
+8dd	jakie
+16ccL	.
+16bJ	.
+=6	=6
+8.aL	dziwy,
+16f#J	.
+8g}	.
+8r	.
 !!LO:LB:g=esac
-=7
-{8d
-16g
-16a
-8b
-16b
-16a
-=8
-8cc
-16cc
-16b
-8a
-8a
-=9
-8cc
-16cc
-16b
-16a
-16f#
-8g}
+=7	=7
+{8d	pani
+16gL	.
+16aJ	.
+8b	młoda
+16bL	.
+16aJ\	.
+=8	=8
+8cc	młodziusieńka
+16ccL	.
+16bJ	.
+8a	.
+8a	.
+=9	=9
+8cc	młodziusieńka,
+16ccL	.
+16bJ	.
+16aL	.
+16f#J	.
+8g}	.
 !!LO:LB:g=esac
-=10
-{16b
-16dd
-8dd
-8dd
-16cc
-16b
-=11
-8.a
-16f#
-8g}
-8r
-==
-*-
+=10	=10
+{16bL	a
+16ddJ	.
+8dd	pan
+8dd	młody
+16ccL	.
+16bJ	.
+=11	=11
+8.aL	siwy.
+16f#J	.
+8g}	.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!role-listener: Guests
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Ej prosili mnie na zaloty, na zaloty,
+!!jak na jakie dziwy,
+!!pani młoda młodziusieńka młodziusieńka,
+!!a pan młody siwy.
+!!@VERSE:
+!!2. Ej kiedy do mnie przyjedziecie
+!!moje lube goście,
+!!jeśli’m się wam spodobała,
+!!ojca, matki proście.
+!!@VERSE:
+!!3. Ej kiedy do mnie przyjedziecie,
+!!ja za piecem będę;
+!!będę krzyczyć, będę płakać,
+!!sama rada będe.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=173 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 153} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 153}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-30

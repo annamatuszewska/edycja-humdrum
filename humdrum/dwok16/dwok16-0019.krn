@@ -3,70 +3,133 @@
 !!!source: DWOK16
 !!!id: 16019
 !!!signature: 1601900000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{4b
-8b
-8cc
-=2
-4.dd
-8cc#
-=3
-4dd
-4ee
-=4
-4cc
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{4b	Oj
+8b	będzie-
+8cc	.
+=2	=2
+(4.dd	-my
+8cc#)	się
+=3	=3
+4dd	krąży-
+4ee	.
+=4	=4
+(4ccn	-li,
+4g)}	.
 !!LO:LB:g=esac
-=5
-{8b
-8b
-8b
-8cc
-=6
-4dd
-4dd
-=7
-4cc
-4b
-=8
-2g}
+=5	=5
+{8b	kiedyśmy
+8b	.
+8b	.
+8cc	pszenicki
+=6	=6
+4dd	.
+4dd	.
+=7	=7
+4cc	do-
+4b	-że-
+=8	=8
+2g}	-ni.
 !!LO:LB:g=esac
-=9
-{4b
-8b
-8cc
-=10
-4.dd
-8cc#
-=11
-4dd
-4ee
-=12
-4cc
-4g}
+=9	=9
+{4b	Oj
+8b	będzie-
+8cc	.
+=10	=10
+(4.dd	-my
+8cc#)	się
+=11	=11
+4dd	krąży-
+4ee	.
+=12	=12
+(4ccn	-li,
+4g)}	.
 !!LO:LB:g=esac
-=13
-{8b
-8b
-8b
-8cc
-=14
-4dd
-4dd
-=15
-4cc
-8a
-8b
-=16
-2g}
-==
-*-
+=13	=13
+{8b	kiedyśmy
+8b	.
+8b	.
+8cc	pszenicki
+=14	=14
+4dd	.
+4dd	.
+=15	=15
+4cc	do-
+8aL	-że-
+8bJ	.
+=16	=16
+2g}	-ni.
+==	==
+*-	*-
+!!!role-singer: Peasants
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Oj będziemy się krążyli,
+!!kiedyśmy pszenicki dożęni.
+!!@VERSE:
+!!2. Oj dorznęła go dziéwecka,
+!!a za jasnego słonecka.
+!!@VERSE:
+!!3. Oj i dorznąwsy nosiła,
+!!sto kopecek wam złożyła.
+!!@VERSE:
+!!4. Oj dorznął ci jej młodzieniec,
+!!oj uwiliśmy wam wieniec.
+!!@VERSE:
+!!5. W około, wianku, w około!
+!!gdzie była pszenicka, tam goło.
+!!@VERSE:
+!!6. Oj toć to plon, oj toć to plon,
+!!nie uciągnie go żaden koń.
+!!@VERSE:
+!!7. Oj ale para (koni), to rusy,
+!!oj ale ćtery, to musi.
+!!@VERSE:
+!!8. Oj sąsiedni pan leniwy,
+!!stoi pszenicki dwie niwy.
+!!@VERSE:
+!!9. U nasego pana kopy licą,
+!!a w Ponętowie świnie kwicą.
+!!@VERSE:
+!!10. A nasa pani, wyjdź do nas.
+!!kup se wianecek, kup od nas.
+!!@VERSE:
+!!11. Oj nas wianecek nie drogi,
+!!cerwony złoty, nie srogi (nie
+!!wielki pieniądz)
+!!@VERSE:
+!!12. Oj chodzi pani po sieni,
+!!trzyma juz rącki w kiesieni.
+!!@VERSE:
+!!13. Oj i piéniązki rachuje,
+!!nam za wianecek dziękuje.
+!!@VERSE:
+!!14. Oj da pieczcie nam pirogi,
+!!mieliśmy na polu przyłogi.
+!!@VERSE:
+!!15. Oj zabijcie nam jałowice,
+!!damy scernice (przodownicy) połowicę.
+!!@VERSE:
+!!16. Oj włodarzowi damy rogi,
+!!boć to jest cłowiek ubogi.
+!!@VERSE:
+!!17. Oj karbowemu damy flaki,
+!!boć to cłowiek ladajaki.
+!!@VERSE:
+!!18. Oj gorzelnikowi ogon,
+!!bo nas nierychło puścał do dom.
+!!@VERSE:
+!!18. Oj okonomowi kolana,
+!!bo on nas dobrze doganiał.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=148 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 128} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 128}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-30

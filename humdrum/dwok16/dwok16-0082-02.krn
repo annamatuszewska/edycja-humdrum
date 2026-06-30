@@ -3,106 +3,120 @@
 !!!source: DWOK16
 !!!id: 16082
 !!!signature: 1608200002
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{8ee
-8dd#
-[8ee
-=2
-8ee]
-16cc
-16b
-[8ee
-=3
-8ee]
-8ee
-16cc
-16b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{8ee	Terema
+8dd#	.
+[8ee	.
+=2	=2
+8ee]	.
+16ccL	do
+16bJ	.
+[8ee	te-
+=3	=3
+8ee]	.
+8ee	-rema,
+16ccL	.
+16bJ}	.
 !!LO:LB:g=esac
-=4
-{8ee
-8dd#
-[8ee
-=5
-8ee]
-16cc
-16b
-8a
-=6
-4.b
-=7
-8b}
-4r
+=4	=4
+{8ee	mali
+8dd#	.
+[8ee	pta-
+=5	=5
+8ee]	.
+16ccL	-szkowie
+16b	.
+8aJ	.
+=6	=6
+4.b;	ma-
+=7	=7
+8b}	-li,
+4r	mali
 !!LO:LB:g=esac
-=8
-{8b
-8ee
-8ee
-=9
-8dd#
-8ee
-8ee
-=10
-16cc
-16b
-4a}
+=8	=8
+{8b	mali
+8ee	.
+8ee	pta-
+=9	=9
+8dd#q	.
+8ee	-szkowie
+8ee	.
+=10	=10
+16ccL	mali,
+16bJ	.
+4a\}	.
 !!LO:LB:g=esac
-=11
-{8b
-8ee
-8ee
-=12
-8dd#
-8ee
-8ee
-=
-24b
-24cc
-24b
-4a}
+=11	=11
+{8b	po
+8ee	podla-
+8ee	.
+=12	=12
+8dd#q	.
+8ee	-siu
+8ee	la-
+=13	=13
+*Xtuplet	*
+24bL	-tali,
+24cc	.
+24bJ/	.
+4a\}	.
 !!LO:LB:g=esac
-=13
-{8b
-8ee
-8ee
-=14
-8ee
-4b
-=15
-8dd#
-4ee}
+=14	=14
+{8b	kalinecz-
+8eeL	.
+8eeJ/	.
+=15	=15
+8ee	-kę
+4b	ło-
+=16	=16
+8dd#	-mali,
+4ee}	.
 !!LO:LB:g=esac
-=16
-{8ee
-16cc
-16b
-8ee
-=17
-16cc
-16b
-4g#
-=18
-4.a
-=19
-8a}
-4r
+=17	=17
+{8ee	korowaj
+16ccL	.
+16bJ/	.
+8ee'	.
+=18	=18
+16ccL	ubie-
+16bJ	.
+4g#	.
+=19	=19
+4.a;	-ra-
+=20	=20
+8a}	-li.
+4r	.
 !!LO:LB:g=esac
-=20
-{8cc#
-8b
-8ee
-=21
-8cc#
-4b
-=22
-4.a}
-==
-*-
+=21	=21
+!!LO:TX:a:t=Skrzypce.
+{8ccL	.
+8b	.
+8eeJ	.
+=22	=22
+8cc#	.
+4b	.
+=23	=23
+4.a;}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Terema do terema,
+!!mali ptaszkowie mali,
+!!mali ptaszkowie mali,
+!!po podlasiu latali,
+!!kalineczkę łomali,
+!!korowaj ubierali.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=174 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 154} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 154}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-30

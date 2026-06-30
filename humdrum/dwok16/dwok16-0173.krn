@@ -3,74 +3,87 @@
 !!!source: DWOK16
 !!!id: 16173
 !!!signature: 1617300000
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M2/4
-=1
-{4dd
-8dd
-8ff
-=2
-4ee
-4dd
-=3
-8cc
-8a
-8cc
-8g
-=4
-2a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*D:	*
+*M2/4	*
+=1	=1
+{4dd	Ej
+8dd	chmilu
+8ff	.
+=2	=2
+4ee	chmilu,
+4dd	.
+=3	=3
+8cc	na
+8a\	tobie
+8cc	.
+8g\	o-
+=4	=4
+2a}	-ści,
 !!LO:LB:g=esac
-=5
-{4dd
-8dd
-8ff
-=6
-4ee
-8ee
-8dd
-=7
-8cc
-8dd
-8cc
-16b-
-16g
-=8
-2a}
+=5	=5
+{4dd	naprowadziłeś
+8dd	.
+8ff	.
+=6	=6
+4ee	.
+8eeL	.
+8ddJ/	.
+=7	=7
+8ccL	do
+8ddJ/	domu
+8ccL	.
+16b-	go-
+16gJ	.
+=8	=8
+2a}	-ści.
 !!LO:LB:g=esac
-=9
-{4cc
-8b
-8b
-=10
-8cc
-8cc
-8b
-8b
-=11
-4cc
-8g
-16a
-16b
-=12
-8cc
-8cc
-8g
-16a
-16b
-=13
-8cc
-8dd
-8cc
-16b-
-16g
-=14
-2a}
-==
-*-
+=9	=9
+{4cc	Ej
+8bn	chmilu
+8aq	.
+8b	.
+=10	=10
+8cc	ty
+8cc	nieboże,
+8b	.
+8aq	.
+8b	.
+=11	=11
+4cc	to
+8g	na
+16aL	dół
+16bJ	.
+=12	=12
+8cc	to
+8cc	ku
+8g	górze,
+16aL	.
+16bJ	.
+=13	=13
+8cc	chmilu
+8dd	.
+8cc	niebo-
+16b-L	.
+16gJ	.
+=14	=14
+2a}	-że.
+==	==
+*-	*-
+!!!role-listener: Hop
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Ej chmilu chmilu, na tobie ości,
+!!naprowadziłeś do domu gości.
+!!Ej chmilu ty nieboże,
+!!to na dół to ku górze,
+!!chmilu nieboże.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=209 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 189} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 189}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-30
