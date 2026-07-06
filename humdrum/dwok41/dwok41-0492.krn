@@ -3,62 +3,72 @@
 !!!source: DWOK41
 !!!id: 41492
 !!!signature: 4149200000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/4
-=1
-{8cc
-8cc
-4cc
-8b-
-8a
-=2
-8g
-8a
-4b-
-4dd}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/4	*
+=1	=1
+{8cc	A
+8cc	u
+4cc	na-
+8b-/L	-szej
+8aJ	.
+=2	=2
+8g	Mał-
+8a	-go-
+4b-	-rza-
+4dd}	-tу
 !!LO:LB:g=esac
-=3
-{8cc
-8cc
-4cc
-8b-
-8a
-=4
-8g
-8e
-4g
-4f}
+=3	=3
+{8cc	do
+8cc	po-
+4cc	-ło-
+8b-/L	-wу
+8aJ	.
+=4	=4
+8g	po-
+8e	-pie-
+4g	-la-
+4f}	-tу,
 !!LO:LB:g=esac
-=5
-{8c
-16d
-16e
-4f
-4a
-=6
-8g
-8e
-4f
-4a}
+=5	=5
+{8c	od
+16dL	po-
+16eJ	.
+4f	-ło-
+4a	-wу
+=6	=6
+8g	sza-
+8e	-rу,
+4f	bu-
+4a}	-rу,
 !!LO:LB:g=esac
-=7
-{8c
-16d
-16e
-4f
-4a
-=8
-8g
-8e
-4g
-4f}
-==
-*-
+=7	=7
+{8c	Mał-
+16dL	-go-
+16eJ	.
+4f	-rza-
+4a	-to,
+=8	=8
+8g	da-
+8e	-waj
+4g	ku-
+4f}	-rу
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A u naszej Małgorzatу
+!!do połowу popielatу,
+!!od połowу szarу, burу,
+!!Małgorzato, dawaj kurу
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!role-listener: Woman
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=338 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 255} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 255}
 !!!page: 255
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-18

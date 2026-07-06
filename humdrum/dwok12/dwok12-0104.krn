@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1210400000-matko_matko_matulu_moja.krn
+﻿!!!!SEGMENT: DWOK1210400000-matko_matko_matulu_moja.krn
 !!!OTL: Matko, matko, matulu moja
+!!!FKT: Pieśni i Dumy. Chęć ożenku. Wymówka
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Szmigla (Morownica)
+!!!AR1: wielkopolskie ; kościański ; Śmigiel-obszar wiejski
+!!!GE1: 51.989996 , 16.475680
 !!!source: DWOK12
 !!!id: 12104
 !!!signature: 1210400000
@@ -80,11 +85,11 @@
 !!tylko pistyką (pięścią, pięstką) wypukał,
 !!córulu moja!
 !!@@END: VERSES
-!!!ONB: Moze zapisac od G?
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=67 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 51} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 51}
 !!!page: 51
+!!!BEM: Moze zapisac od G?
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-02-25

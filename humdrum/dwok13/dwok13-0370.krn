@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1337000000-instrumentalna-kujawiak_dreptany.krn
-!!!OTL: Instrumentalna-Kujawiak dreptany
+﻿!!!!SEGMENT: DWOK1337000000-instrumentalna-kujawiak_dreptany.krn
+!!!OTL: Instrumentalna. Kujawiak dreptany
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gniewkowa
+!!!AR1: kujawsko-pomorskie ; inowrocławski ; Gniewkowo-miasto
+!!!GE1: 52.892787 , 18.408568
 !!!source: DWOK13
 !!!id: 13370
 !!!signature: 1337000000
@@ -9,86 +14,93 @@
 *G:
 *M3/8
 =1
-{16g
-16a
-16b
-16cc
-16b
-16cc
+!LO:TX:a:t=Kujawiak dreptany.
+{16gL'>
+16aJ'>
+16bL'>
+16cc'>
+16b'>
+16ccJ'>
 =2
-16dd
-16ee
-16ff#
-16ee
-16dd
-16cc
+16ddL'>
+16ee'>
+16ff#'>
+16ee'>
+16dd'>
+16ccJ'>
 =3
-16b
-16cc
-16b
-16cc
-16b
-16g
-=
-16d
-16e
-16f#
-16g
-24a
-24g
-24f#}
-!!LO:LB:g=esac
+16bL'>
+16cc'>
+16b'>
+16ccJ'>
+16b/L'>
+16gJ'>
 =4
-{16a
-16a
-8g
-16b
-16cc
-=5
-16a
-16d
-8b
-8g
-=6
-16a
-16a
-8g
-16b
-16cc
-=7
-16a
-16f#
-8d
-8g}
+*Xtuplet
+16dL'>
+16e'>
+16f#'>
+16gJ'>
+(24aL
+24g
+24f#J)}
 !!LO:LB:g=esac
+=5
+{16aL
+16a
+8gJ
+16bL
+16ccJ
+=6
+16aL\
+16dJ\
+8bL
+8g\J
+=7
+16aL
+16a
+8gJ
+16bL
+16ccJ
 =8
-{16a
-16a
-8g
-16b
-16cc
-=9
-16a
-16dd
-8b
-16g
-16e
-=10
-16a
-16a
-8g
-16b
-16cc
-=11
-16a
+16aL
 16f#
-8d
+8dJ
+8g}\
+!!LO:LB:g=esac
+=9
+{16aL
+16a
+8gJ
+16bL
+16ccJ
+=10
+16aL
+16ddJ/
+8b/L
 16g
-16e}
+16eJ
+=11
+16aL
+16a
+8gJ
+16bL
+16ccJ
+=12
+16aL
+16f#
+8dJ
+16gL
+16e}J
 ==
 *-
+!!!RDF**kern: >= above
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=181 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 157} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 157}
 !!!page: 157
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-01
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-15

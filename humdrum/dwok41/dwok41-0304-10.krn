@@ -3,45 +3,53 @@
 !!!source: DWOK41
 !!!id: 41304
 !!!signature: 4130400010
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8g
-8b
-4dd
-4dd
-=2
-8dd
-8ff#
-4gg
-8ee
-8cc
-=3
-8a
-8f#
-4d
-8a
-8b
-=4
-4g
-4g
-4b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8g	Je-
+8b	-dzie
+4dd	Ja-
+4dd	-sio
+=2	=2
+8dd	od
+8ff#	To-
+4gg	-ru-
+8eeL	-nia,
+8ccJ	.
+=3	=3
+8a	pę-
+8f#	-dzi
+4d	gą-
+8aL	-sio-
+8b/J	.
+=4	=4
+4g	-ry,
+4g	[ry
+4b}	ry,
 !!LO:LB:g=esac
-=5
-{8a
-8f#
-4d
-4a
-=6
-2.g}
-==
-*-
+=5	=5
+{8a	pę-
+8f#	-dzi
+4d	gą-
+4a	-sio-
+=6	=6
+2.g}	-ry].
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Jedzie Jasio od Torunia,
+!!pędzi gąsiory, [ry ry,
+!!pędzi gąsiory].
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!ONB: Partia wokalna
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=261 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 182} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 182}
 !!!page: 182
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-25

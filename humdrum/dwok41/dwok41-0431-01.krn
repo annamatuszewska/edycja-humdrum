@@ -3,56 +3,65 @@
 !!!source: DWOK41
 !!!id: 41431
 !!!signature: 4143100001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8g
-8b
-4dd
-8dd
-8cc
-=2
-4ee
-4b
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8g	Oj,
+8b	za
+4dd	nic
+8ddL	mi
+8ccJ	.
+=2	=2
+4ee	to,
+4b	za
+4g}	nic,
 !!LO:LB:g=esac
-=3
-{8g
-8b
-4dd
-8dd
-8cc
-=4
-4a
-4b
-4g}
+=3	=3
+{8g	oj,
+8b	krom-
+4dd	-no-
+8ddL	-wian-
+8ccJ	.
+=4	=4
+4a	-ki,
+4b	za
+4g}	nic,
 !!LO:LB:g=esac
-=5
-{8g
-8b
-4dd
-4dd
-=6
-4ee
-4b
-4g}
+=5	=5
+{8g	oj,
+8b	bo
+4dd	ja
+4dd	so-
+=6	=6
+4ee	-bie
+4b	poj-
+4g}\	-mę,
 !!LO:LB:g=esac
-=7
-{4b
-4dd
-8dd
-8cc
-=8
-4a
-4b
-4g}
-==
-*-
+=7	=7
+{4b	oj,
+4dd	od
+8dd	kra-
+8cc	-kow-
+=8	=8
+4a	-skich
+4b	gra-
+4g}	-nic.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oj, za nic mi to, za nic,
+!!oj, kromnowianki, za nic,
+!!oj, bo ja sobie pojmę,
+!!oj, od krakowskich granic.
+!!@@END: VERSES
+!!!role-singer: Complex
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=315 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 232} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 232}
 !!!page: 232
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-14

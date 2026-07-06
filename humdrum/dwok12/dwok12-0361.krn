@@ -1,83 +1,134 @@
-!!!!SEGMENT: DWOK1236100000-poszla_kasia_miedzy_wroty.krn
+﻿!!!!SEGMENT: DWOK1236100000-poszla_kasia_miedzy_wroty.krn
 !!!OTL: Poszła Kasia między wroty
+!!!FKT: Pieśni i Dumy. Igraszka. Swawola
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: Miłosław
+!!!AR1: wielkopolskie ; wrzesiński ; Miłosław-miasto
+!!!GE1: 52.202819 , 17.488615
 !!!source: DWOK12
 !!!id: 12361
 !!!signature: 1236100000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16cc
-16ee
-8ff
-8cc
-=2
-16cc
-16cc
-8dd
-8b-
-=3
-8f
-8.b-
-16a
-=4
-4f}
-8r
+**kern	**text
+*clefG2	*
+*k[b-,e-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16cc	Poszła
+16ee	.
+8ff	Kasia
+8cc	.
+=2	=2
+16cc	między
+16cc	.
+8ee-Xq	.
+8dd	wroty,
+8b-	.
+=3	=3
+8f	ach
+8.b-	joj,
+16a\	joj,
+=4	=4
+4f}	joj,
+8r	.
 !!LO:LB:g=esac
-=5
-{16cc
-16ee
-8ff
-8cc
-=6
-16cc
-16cc
-8dd
-8b-
-=7
-8f
-8.b-
-16a
-=8
-4f}
-8r
+=5	=5
+{16cc	zapła-
+16ee	.
+8ff	-ka-
+8cc	-ła
+=6	=6
+16cc	swoji
+16cc	.
+8ee-Xq	.
+8dd	cnoty,
+8b-	.
+=7	=7
+8f	ach
+8.b-	Boże
+16a\	.
+=8	=8
+4f}	mój
+8r	.
 !!LO:LB:g=esac
-=9
-{16cc
-16a
-8f
-8f
-=10
-16ee-
-16ee-
-8.ee-
-16dd
-=11
-16cc
-16a
-8f
-8f
-=12
-16ee-
-16ee-
-8.ee-
-16dd}
+=9	=9
+{16cc	Było
+16a\	.
+8f	po
+8f	gan-
+=10	=10
+16ee-	-ku
+16ee-	nie
+8.ee-	chodzić,
+16dd	.
+=11	=11
+16cc	z_kawa-
+16a\	.
+8f	-lera-
+8f	.
+=12	=12
+16ee-	-mi
+16ee-	nie
+8.ee-	wodzić,
+16dd}	.
 !!LO:LB:g=esac
-=13
-{16cc
-16a
-8f
-8f
-=14
-16cc
-16a
-4f}
-==
-*-
+=13	=13
+{16cc	hołdy
+16a\	.
+8f	rołdy
+8f	.
+=14	=14
+16cc	hobasa.
+16a\	.
+4f}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Maiden, Bachelor
+!!!role-listener: Bachelor, Maiden
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Poszła Kasia między wroty,
+!!ach joj, joj, joj.
+!!zapłakała swoji cnoty,
+!!ach Boże mój
+!!Było po ganku nie chodzić,
+!!z kawalerami nie wodzić,
+!!hołdy rołdy hobasa.
+!!@VERSE:
+!!2. Jak ja będę córkę miała,
+!!ach joj, joj, joj!
+!!cóż ji będę jeść dawała?
+!!ach Boże mój!
+!!Masz-ci łopian we wogrodzie,
+!!a zjédzże go ty narodzie,
+!!hołdy rołdy, hobasa!
+!!@VERSE:
+!!3. Jak ja będę syna miała,
+!!ach joj, joj, joj!
+!!cóż ja będę z nim jadała?
+!!ach joj, joj, joj!
+!!Masz ty Kasiu wazkę masła,
+!!będziesz ty mi syna pasła,
+!!hołdy rołdy, hobasa!
+!!@VERSE:
+!!4. Jak się rodzice dowiedzą,
+!!ach joj, joj, joj!
+!!co oni na to powiedzą?
+!!ach joj, joj, joj!
+!!Powiedzą żeś przeskoczyła,
+!!nimeś moją żonką była,
+!!hołdy rołdy, hopsasa!
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY:(ob. n. 330.)
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=205 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 189} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 189}
 !!!page: 189
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1231800002-a_w_krakowie_w_ulicy.krn
+﻿!!!!SEGMENT: DWOK1231800002-a_w_krakowie_w_ulicy.krn
 !!!OTL: A w Krakowie w ulicy
+!!!FKT: Pieśni i Dumy. Strata wianka. Żale
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: Targoszyce
+!!!AR1: wielkopolskie ; krotoszyński ; Kobylin-obszar wiejski
+!!!GE1: 51.762910 , 17.270700
 !!!source: DWOK12
 !!!id: 12318
 !!!signature: 1231800002
@@ -63,7 +68,7 @@
 =13	=13
 2g}	-ła.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Narrator, Maiden, Bachelor
 !!!role-listener: Bachelor, Maiden
 !!!singer-sex: female, male
@@ -124,3 +129,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-26
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

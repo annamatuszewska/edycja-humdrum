@@ -1,64 +1,76 @@
-!!!!SEGMENT: DWOK4143000002-na_kujawach_powiadaja.krn
+!!!!SEGMENT: DWOK4143000001-na_kujawach_powiadaja.krn
 !!!OTL: Na Kujawach powiadają
 !!!source: DWOK41
 !!!id: 41430
 !!!signature: 4143000002
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8dd
-8ee
-4.cc
-8dd
-=2
-8ff
-8aa
-4.gg
-8cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8dd	Na
+8ee	Ku-
+4.ccM	-ja-
+8dd	-wach
+=2	=2
+(8eeq	.
+8ff)	po-
+8aa	-wia-
+4.gg	-da-
+8cc}	-ją,
 !!LO:LB:g=esac
-=3
-{8dd
-8ee
-8cc
-8b
-4g
-=4
-8a
-8g
-8a
-8b
-4cc}
+=3	=3
+{8dd	że
+8ee	tam
+8ccL	do-
+8bJ	.
+4g	-bry
+=4	=4
+8a	po-
+8g	-sag
+8aL	da-
+8b/J	.
+4cc}	-ją;
 !!LO:LB:g=esac
-=5
-{8dd
-8ee
-4.cc
-8dd
-=
-12ee
-12dd
-12ee
-4ff
-4ee}
+=5	=5
+{8dd	ka-
+8ee	-wał
+4.cc	chle-
+8dd	-ba,
+=6	=6
+(8ffq	.
+!LO:TUP:a	!
+12ee)L	dzban
+12ddJ	.
+12ee	ma-
+4ff	-ślan-
+4ee}	-ki,
 !!LO:LB:g=esac
-=6
-{8dd
-8ee
-8cc
-8b
-4g
-=7
-8a
-8a
-4b
-4cc}
-==
-*-
+=7	=7
+{8dd	ca-
+8ee	-ły
+8cc/L	po-
+8b/J	.
+4g	-sag
+=8	=8
+8a	Ku-
+8a	-ja-
+4b	-wian-
+4cc}	-ki.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Na Kujawach powiadają,
+!!że tam dobry posag dają;
+!!kawał chleba, dzban maślanki,
+!!cały posag Kujawianki.
+!!@@END: VERSES
+!!!role-singer: Narrator 
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
-!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=314 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 231-232} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 231-232}
-!!!page: 231-232
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=314 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 231} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 231}
+!!!page: 231
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-14

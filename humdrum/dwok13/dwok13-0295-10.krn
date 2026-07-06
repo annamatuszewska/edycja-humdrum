@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1329500010-instrumentalna-chodzony_v._polski.krn
-!!!OTL: Instrumentalna-Chodzony v. Polski
+﻿!!!!SEGMENT: DWOK1329500010-instrumentalna-chodzony_v._polski.krn
+!!!OTL: A wy Niemcy wy nie wiecie. Chodzony v. Polski. Instrumentalna
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Szremu, Środy
+!!!AR1: wielkopolskie ; śremski ; Śrem-miasto
+!!!GE1: 52.095371 , 17.020534
+!!!AR2: wielkopolskie ; średzki ; Środa Wielkopolska-miasto
+!!!GE2: 52.229003 , 17.275115
 !!!source: DWOK13
 !!!id: 13295
 !!!signature: 1329500010
@@ -9,48 +16,49 @@
 *C:
 *M3/4
 =1
+!LO:TX:a:t=Chodzony v. Polski.
 {4g
-8cc
-8ee
+8ccL
+8eeJ
 4gg
 =2
-8ff
-8gg
+8ffL
+8ggJ
 4ee
-8ff
-8ee
+8ffL
+8eeJ
 =3
 4g
-8b
-8dd
+8bL
+8ddJ
 4ff
 =4
-8ff
-8gg
+8ffL
+8ggJ
 4ee
 4cc}
 !!LO:LB:g=esac
 =5
 {4g
-8cc
-8ee
+8ccL
+8eeJ
 4ee
 =6
-8ff
-8ff
+8ffL
+8ffJ
 4ee
-8ff
-8ee
+8ffL
+8eeJ
 =7
 4g
-8b
-8dd
+8bL
+8ddJ
 4ff
 =8
-8cc
-8ee
-8ee
-8dd
+8ccL
+8eeJ
+8eeL
+8ddJ
 4cc}
 ==
 *-
@@ -59,3 +67,7 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=159 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 135} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 135}
 !!!page: 135
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-18
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-24

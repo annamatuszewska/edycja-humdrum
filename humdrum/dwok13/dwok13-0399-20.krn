@@ -1,0 +1,132 @@
+﻿!!!!SEGMENT: DWOK1339900002-a_daj_daj_panne_mloda.krn
+!!!OTL: A daj daj pannę młodą
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gniewkowa, Nieszawy
+!!!AR1: kujawsko-pomorskie ; inowrocławski ; Gniewkowo-miasto
+!!!GE1: 52.892787 , 18.408568
+!!!AR2: kujawsko-pomorskie ; aleksandrowski ; Nieszawa-gmina miejska
+!!!GE2: 52.834090 , 18.902363
+!!!source: DWOK13
+!!!id: 13399
+!!!signature: 1339900002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16bL
+16a\
+16b
+16cc
+8ddJ
+=2
+16ccL
+16ccJ
+8ddL
+16cc
+16a\J
+=3
+*Xtuplet
+16bL
+16a\
+16b
+16ccJ
+24ddL/
+24cc/
+24b/J
+=4
+16cc/L
+16b/
+16cc/
+16ee/
+16dd/
+16cc/J}
+!!LO:LB:g=esac
+=5
+{16.aL
+32a
+8gJ
+16bL
+16ddJ
+=6
+16cc
+8eeL
+16ccJ
+16b/L
+16gJ
+=7
+16.aL
+32a
+8gJ
+16bL
+16ddJ
+=8
+16ee/L
+8ee/
+16cc/J
+16b/L
+16g}J
+!!LO:LB:g=esac
+=9
+{16.dL
+32a
+8gJ
+16bL
+16ddJ
+=10
+16ccL
+16a\
+8bJ
+8dd
+=11
+16.Ld
+32a
+8gJ
+16bL
+16ddJ
+=12
+16b
+8ddL
+16ccJ
+16b/L
+16g}J
+!!LO:LB:g=esac
+=13
+{16.dL
+32a
+8gJ
+16bL
+16ddJ
+=14
+16cc
+16a\
+8bJ
+24d/Ld
+24cc/
+24b/J
+=15
+16.dL
+32a
+8gJ
+16bL
+16ddJ
+=16
+16b
+8ddL
+16ccJ
+16b/L
+16g}J
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=191 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 167} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 167}
+!!!page: 167
+!!!BEM: W t. 11 i 15 skorygowano rytm; alternatywnie możliwe kodowanie w G
+!!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-04
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-15

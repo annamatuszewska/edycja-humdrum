@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1224800002-pojmnij_mnie_jasiu.krn
+﻿!!!!SEGMENT: DWOK1224800002-pojmnij_mnie_jasiu.krn
 !!!OTL: Pojmnij mnie Jasiu
+!!!FKT: Pieśni i Dumy. Skarga. Niechęć. Rozstanie
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kościana, Leszna
+!!!AR1: wielkopolskie ; kościański ; Kościan-gmina miejska
+!!!GE1: 52.085881 , 16.644239
+!!!AR2: wielkopolskie ; m. Leszno ; Leszno-gmina miejska
+!!!GE2: 51.843312 , 16.574423
 !!!source: DWOK12
 !!!id: 12248
 !!!signature: 1224800002
@@ -85,7 +92,7 @@
 4d\}	.
 4r	.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Maiden
 !!!role-listener: Bachelor
 !!!singer-sex: female
@@ -105,3 +112,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

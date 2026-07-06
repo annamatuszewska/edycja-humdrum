@@ -1,62 +1,85 @@
-!!!!SEGMENT: DWOK1334800000-juz_ide_do_dom_kumotrze.krn
+﻿!!!!SEGMENT: DWOK1334800000-juz_ide_do_dom_kumotrze.krn
 !!!OTL: Już idę do dom kumotrze
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gembicy (Orchowo)
+!!!AR1: wielkopolskie ; słupecki ; Orchowo-gmina wiejska
+!!!GE1: 52.508458 , 18.016109
 !!!source: DWOK13
 !!!id: 13348
 !!!signature: 1334800000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8b
-8dd
-4b
-8dd
-8ff#
-=2
-8ee
-8dd
-4b
-4g
-=3
-8e
-8g
-4b
-8a
-8f#
-=4
-8d
-8d
-4e
-4c}
+**kern	**text	**text
+*clefG2	*	*
+*k[f#]	*	*
+*G:	*	*
+*M3/4	*	*
+=1	=1	=1
+!LO:TX:a:t=Przy weselu.	!	!
+{8b	Już	Gdzie
+8dd	i-	ja
+4b	-dę	się
+8ddL	do	dzie-
+8ff#J	.	.
+=2	=2	=2
+8ee	dom	-ję
+8dd	ku-	ku-
+4b	-mo-	-mo-
+4g	-trze,	-lu,
+=3	=3	=3
+8e	już	gdzie
+8g	i-	ja
+4b	-dę,	się
+8aL	do	dzie-
+8f#J	.	.
+=4	=4	=4
+8d	dom	-ję
+8d	da	da
+4e	do	dzie-
+4c}	dom,	ję?
 !!LO:LB:g=esac
-=5
-{8e
-8g
-4b
-8a
-8f#
-=6
-8d
-8f#
-4a
-4b
-=7
-8e
-8g
-4b
-8a
-8f#
-=8
-8d
-8d
-4e
-4c}
-==
-*-
+=5	=5	=5
+{8e	mam	skry-
+8g	ci	-ję
+4b	kur-	ja
+8aL	-kę	się
+8f#J	.	.
+=6	=6	=6
+8d	we	pod
+8f#	far-	far-
+4a\	-tusz-	-tu-
+4b	-ku,	-szek
+=7	=7	=7
+8e	wi-	gdzie
+8g	-dać	two-
+4b	ji	-je
+8aL	wo-	zie-
+8f#J	.	.
+=8	=8	=8
+8d	-gon	-le
+8d	da	da
+4e	(w)ogon.	zie-
+4c}	.	-le.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!Już idę do dom kumotrze,
+!!już idę, do dom da do dom,
+!!mam ci kurkę we fartuszku,
+!!widać ji wogon da (w)ogon.
+!!Gdzie ja się dzieję kumolu,
+!!gdzie ja się dzieję, da dzieje?
+!!skryję ja się pod fartuszek
+!!gdzie twoje ziele da ziele.
+!!@@END: VERSES
+!!!role-listener: Friend
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=175 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 151} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 151}
 !!!page: 151
+!!!BEM: Przy weselu
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-26

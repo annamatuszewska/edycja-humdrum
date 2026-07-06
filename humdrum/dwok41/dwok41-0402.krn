@@ -3,68 +3,79 @@
 !!!source: DWOK41
 !!!id: 41402
 !!!signature: 4140200000
-**kern
-*clefG2
-*k[b-e-]
-*g:
-*M2/4
-=1
-{8g
-8f#
-8g
-8a
-=2
-4f#
-4d
-=3
-8cc
-8cc
-8cc
-8cc
-=4
-4.dd
-16b-
-16a}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*g:	*
+*M2/4	*
+=1	=1
+{8g	W_zie-
+8f#	-lo-
+8g	-nym
+8a	ga-
+=2	=2
+4f#	-i-
+4d	-ku
+=3	=3
+8cc	pta-
+8cc	-szę-
+8cc	-ta
+8cc	śpie-
+=4	=4
+4.dd	-wa-
+16b-/L	-ją,
+16a}J	.
 !!LO:LB:g=esac
-=5
-{8g
-8g
-8g
-8a
-=6
-4f#
-4d
-=7
-16d
-16f#
-8f#
-8f#
-8f#
-=8
-4.g
-8a}
+=5	=5
+{8g	już
+8g	me-
+8g	-go
+8a	Ja-
+=6	=6
+4f#	-siń-
+4d	-ka
+=7	=7
+16dL	na
+16f#J	.
+8f#	woj-
+8f#	-nę
+8f#	wo-
+=8	=8
+4.g	-ła-
+8a}	-ją.
 !!LO:LB:g=esac
-=9
-{4g
-8a
-8cc
-=10
-8a
-8f#
-4d
-=11
-16d
-16f#
-8f#
-8f#
-8f#
-=12
-4.g
-8g}
-==
-*-
+=9	=9
+{4g	już
+8a	me-
+8cc	-go
+=10	=10
+(8b-q	.
+8a)	Ja-
+8f#	-siń-
+4d	-ka
+=11	=11
+16dL	na
+16f#J	.
+8f#	woj-
+8f#	-nę
+8f#	wo-
+=12	=12
+4.g	-ła-
+8g}	-ją.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!W zielonym gaiku
+!!ptaszęta śpiewają,
+!!|:już mego Jasińka
+!!na wojnę wołają:|.
+!!@@END: VERSES
+!!!role-singer: Woman
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=301 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 220-221} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 220-221}
 !!!page: 220-221
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-14

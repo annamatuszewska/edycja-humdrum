@@ -3,59 +3,70 @@
 !!!source: DWOK41
 !!!id: 41424
 !!!signature: 4142400000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8.a
-16b
-16cc
-16ff#
-=2
-16ee
-16cc
-8ff#
-16dd
-16b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8.a	Da,
+16b	i
+16cc	tyś
+16ff#m	się,
+=2	=2
+16ee	Ja-
+16cc	-siu,
+8ff#	u-
+16ddL	-pił,
+16b}J	.
 !!LO:LB:g=esac
-=3
-{8.a
-16b
-16cc
-16ff#
-=4
-16ee
-16dd
-8a
-8g}
+=3	=3
+{8.a	da,
+16b	i
+16cc	ja
+16ff#	się
+=4	=4
+16ee	nie
+16dd	u-
+8a	-pi-
+8g}	-ła,
 !!LO:LB:g=esac
-=5
-{8.a
-16b
-16cc
-16cc
-=6
-16a
-16b
-8a
-8b}
+=5	=5
+{8.a	da,
+16b	i
+16cc	tyś
+16cc	ko-
+=6	=6
+16a	-ni-
+16b	-ka
+8a	prze-
+8b}	-pił,
 !!LO:LB:g=esac
-=7
-{8.a
-16b
-16cc
-16cc
-=8
-16a
-16dd
-8a
-8g}
-==
-*-
+=7	=7
+{8.a	da,
+16b	i
+16cc	ja
+16ccM	go
+=8	=8
+16a	wy-
+16dd	-ku-
+8a	-pi-
+8g}	-ła.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Da, i tyś się, Jasiu, upił,
+!!da, i ja się nie upiła,
+!!da, i tyś konika przepił,
+!!da, i ja go wykupiła.
+!!@@END: VERSES
+!!!role-singer: Woman 
+!!!role-listener: Man
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=312 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 229} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 229}
 !!!page: 229
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-14

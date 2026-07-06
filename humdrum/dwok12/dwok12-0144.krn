@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1214400000-pod_zielonem_debem.krn
+﻿!!!!SEGMENT: DWOK1214400000-pod_zielonem_debem.krn
 !!!OTL: Pod zielonem dębem
+!!!FKT: Pieśni i Dumy. Pieśni przed Weselem i wśród Wesela śpiewane
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Wielenia (Drasko)
+!!!AR1: wielkopolskie ; czarnkowsko-trzcianecki ; Drawsko-gmina wiejska
+!!!GE1: 52.853841 , 16.029826
 !!!source: DWOK12
 !!!id: 12144
 !!!signature: 1214400000
@@ -126,6 +131,7 @@
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=87 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 71} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 71}
 !!!page: 71
+!!!BEM: Do czepin
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-02-25

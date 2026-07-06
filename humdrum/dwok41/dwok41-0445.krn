@@ -3,63 +3,82 @@
 !!!source: DWOK41
 !!!id: 41445
 !!!signature: 4144500000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{4b
-8b
-8a
-8cc
-8ee
-=2
-8dd
-8ff
-4gg
-4ee}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{4b	Da,
+8b	nie
+8a	wy-
+8cc	-ga-
+8ee	-niaj,
+=2	=2
+8dd	ow-
+8ff	-cza-
+4gg	-re-
+4ee}	-czku,
 !!LO:LB:g=esac
-=3
-{4dd
-8b
-8a
-8cc
-8ee
-=4
-8dd
-8b
-4a
-4g}
+=3	=3
+{4dd	[da],
+8b	o-
+8a	-wiec
+8cc	na
+8ee	ro-
+=4	=4
+8dd	-sę,
+8b	na
+4a	ro-
+4g}	-sę,
 !!LO:LB:g=esac
-=5
-{4b
-8b
-8a
-8cc
-8ee
-=6
-4dd
-8cc
-8b
-8a
-8dd}
+=5	=5
+{4b	[da],
+8b	bo
+8a	jak
+8cc	poj-
+8ee	-de
+=6	=6
+4dd	z_kar-
+8ccL	-czmy
+8bJ	.
+8a	do
+8dd}	dom,
 !!LO:LB:g=esac
-=7
-{4b
-8b
-8a
-8cc
-8ee
-=8
-8dd
-8b
-4a
-4g}
-==
-*-
+=7	=7
+{4b	[da],
+8b	to
+8a	cię
+8cc	ob-
+8ee	-wie-
+=8	=8
+8dd	-sę,
+8b	[ob-
+4a	-wie-
+4g}	-sę].
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Da, nie wyganiaj, owczareczku,
+!![da], owiec na rosę, na rosę,
+!![da], bo jak pojde z karczmy do dom,
+!![da], to cię obwiesę, [obwiesę].
+!!@VERSE:
+!!2. Da, nie wyganiaj, owczareczku,
+!![da], owiec na liją, na liją1,
+!![da], bo ci owce pozdychają,
+!![da], ciebie wybiją, [wybiją].
+!!@@END: VERSES
+!!@@BEGIN:
+!!COMMENTARY: 1.[w czasie ulewy]
+!!@@END:
+!!!role-singer: Woman
+!!!role-listener: Shepherd
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=322 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 239} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 239}
 !!!page: 239
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-15

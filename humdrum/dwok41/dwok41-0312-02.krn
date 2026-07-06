@@ -1,57 +1,68 @@
-!!!!SEGMENT: DWOK4131200002-oj_dyna_moja_dyna.krn
+!!!!SEGMENT: DWOK4131200001-oj_dyna_moja_dyna.krn
 !!!OTL: Oj, dyna, moja dyna
 !!!source: DWOK41
 !!!id: 41312
-!!!signature: 4131200002
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{8g
-8a
-4cc
-4ee
-=2
-8ff
-8ee
-4dd
-4cc
-=3
-8b
-8dd
-4ee
-4ee
-=4
-4b
-4a
-4g}
+!!!signature: 4131200001
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+{8gL	Oj,
+8aJ	.
+4cc	dy-
+4ee	-na,
+=2	=2
+8ff	mo-
+8ee	-ja
+4dd	dy-
+4cc	-na,
+=3	=3
+8b	jesz-
+8dd	-cze
+4ee	i
+4ee	dy-
+=4	=4
+4b/	-na-
+(4a	-czka,
+4g)}	.
 !!LO:LB:g=esac
-=5
-{4e
-4g#
-8a
-8g#
-=6
-8b
-8dd
-4ee
-4ee
-=7
-8dd
-8cc
-4b
-4a
-=8
-4b
-4a
-8g#
-8e}
-==
-*-
+=5	=5
+{4e	oj,
+4g#	nie-
+8a\L	-go-
+8g#\J	.
+=6	=6
+8b	-dzie-
+8dd	-neś,
+4ee	Ja-
+4eem	-siu,
+=7	=7
+8dd	da,
+8cc	mo-
+4b	-je-
+4a	-go
+=8	=8
+4b	wia-
+(4a	-ne-
+8g#)L	.
+8e}J	-czka.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oj, dyna, moja dyna,
+!!jeszcze i dynaczka,
+!!oj, niegodzieneś, Jasiu,
+!!da, mojego wianeczka.
+!!@@END: VERSES
+!!!role-singer: Single Girl
+!!!role-listener: Single Boy
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=265 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 186} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 186}
 !!!page: 186
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-25

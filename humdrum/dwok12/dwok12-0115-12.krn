@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1211500012-jasio_moj_kochany.krn
-!!!OTL: Jasio mój kochany
+﻿!!!!SEGMENT: DWOK1211500012-jasio_moj_kochany.krn
+!!!OTL: Jasio mój kochany. Mazur
+!!!FKT: Pieśni i Dumy. Pieśni przed Weselem i wśród Wesela śpiewane
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Wyrzyska
+!!!AR1: wielkopolskie ; pilski ; Wyrzysk-miasto
+!!!GE1: 53.153248 , 17.267019
 !!!source: DWOK12
 !!!id: 12115
 !!!signature: 1211500012
@@ -55,6 +60,7 @@
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=72 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 56-57} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 56-57}
 !!!page: 56-57
+!!!BEM: Mazur
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-02-25

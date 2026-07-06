@@ -3,68 +3,137 @@
 !!!source: DWOK41
 !!!id: 41536
 !!!signature: 4153600000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16.cc
-32cc
-8g
-8g
-=2
-8a
-8a
-8g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=szlachecka.	!
+{16.cc	Po
+32cc	tak
+8g	mi-
+8g	-łej
+=2	=2
+8a	za-
+(8bq	.
+8a)	-ba-
+8g}	-wie
 !!LO:LB:g=esac
-=3
-{16.a
-32a
-8g
-8b
-=4
-8cc
-8ee
-8cc}
+=3	=3
+{16.a	o-
+32a	-sta-
+8g	-wię
+8b	cię
+=4	=4
+8cc	w_War-
+8ee	-sza-
+8cc}	-wie,
 !!LO:LB:g=esac
-=5
-{8dd
-4b
-=6
-8cc
-4g
-=7
-16f
-16f
-8d
-8d
-=8
-8g
-8g
-8g}
+=5	=5
+{8dd	hej,
+4b	hej,
+=6	=6
+8cc	hej,
+4g	hej,
+=7	=7
+16f	o-
+16f	-sta-
+8d	-wię
+8d	cię
+=8	=8
+8g	w_War-
+8g	-sza-
+8g}	-wie,
 !!LO:LB:g=esac
-=9
-{8dd
-4b
-=10
-8cc
-4g
-=11
-16b
-16b
-8g
-16b
-16dd
-=12
-8cc
-8cc
-8cc}
-==
-*-
+=9	=9
+{8dd	hej,
+4b	hej,
+=10	=10
+8cc	hej,
+4g	hej,
+=11	=11
+16b	o-
+16b	-sta-
+8g	-wię
+16bL	cię
+16ddJ	.
+=12	=12
+8cc	w_War-
+8cc	-sza-
+8cc}	-wie.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Po tak miłej zabawie
+!!ostawię cię w Warszawie,
+!!hej, hej, hej, hej,
+!!ostawię cię w Warszawie,
+!!hej, hej, hej, hej,
+!!ostawię cię w Warszawie.
+!!@VERSE:
+!!2. A sam jadę w Kujawy
+!!do swéj panny łaskawéj,
+!!|:hej, hej, hej, hej.
+!!do swej panny łaskawéj:|.
+!!@VERSE:
+!!3. Nie uważam na gadanie
+!!i przedziwne szemranie,
+!!|: hej, hej, hej, hej,
+!!i przedziwne szemranie:|.
+!!@VERSE:
+!!4. Ale gorsza, nie skrycie,
+!!że cię kocham nad życie,
+!!|: hej, hej, hej, hej,
+!!że cię kocham nad życie:|.
+!!@VERSE:
+!!5. Pewno się to tak skończy,
+!!że nas z sobą Bóg złączy,
+!!|: hej, hej, hej, hej,
+!!że nas z sobą Bóg złączy:|.
+!!@VERSE:
+!!6. A złączywszy, pozwoli
+!!cieszyć nam się do woli,
+!!|:hej, hej, hej, hej,
+!!cieszyć nam się do woli:|.
+!!@VERSE:
+!!7. Szukaj szczęścia, popraw sobie.
+!!zaniechałam o twej dobie,
+!!|:hej, hej, hej, hej,
+!!zaniechałam o twej dobie:|.
+!!@VERSE:
+!!8. Bom ja w sercu umyśliła.
+!!żem innego polubiła,
+!!|: hej, hej, hej, hej,
+!!żem innego polubiła:|.
+!!@VERSE:
+!!9. Ufałam ku twej szczerości,
+!!zawiodłam się na stałości,
+!!|:hej hej, hej, hej,
+!!zawiodłam się na stałości:|.
+!!@VERSE:
+!!10. Przecie sobie spomnij na to,
+!!że cię Pan Bóg skarze za to,
+!!|: hej, hej, hej, hej,
+!!że cię Pan Bóg skarze za to:|.
+!!@VERSE:
+!!11. Jak ja będę na kobiercu,
+!!ciężko będzie twemu sercu,
+!!|: hej, hej, hej, hej,
+!!ciężko będzie twemu sercu:|.
+!!@VERSE:
+!!12. Z innym będę ślubowała,
+!!a z ciebie się naśmiewała,
+!!|:hej, hej, hej, hej,
+!!a z ciebie się naśmiewała:|.
+!!@@END: VERSES
+!!!role-singer: Multiple speakers
+!!!role-listener: Multiple listeners
 !!!ONB: szlachecka
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=361 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 278} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 278}
 !!!page: 278
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-20

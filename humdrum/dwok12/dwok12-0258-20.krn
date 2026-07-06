@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1225800020-instrumentalne.krn
-!!!OTL: Instrumentalne
+﻿!!!!SEGMENT: DWOK1225800020-instrumentalne.krn
+!!!OTL: Nie pójdę ja bez las. Instrumentalna
+!!!FKT: Pieśni i Dumy. Skarga. Niechęć. Rozstanie
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Mogilna, Kruszwicy
+!!!AR1: kujawsko-pomorskie ; mogileński ; Mogilno-miasto
+!!!GE1: 52.657733 , 17.949932
+!!!AR2: kujawsko-pomorskie ; inowrocławski ; Kruszwica-miasto
+!!!GE2: 52.676219 , 18.323047
 !!!source: DWOK12
 !!!id: 12258
 !!!signature: 1225800020
@@ -9,7 +16,7 @@
 *F:
 *M3/8
 =1
-{16f 16ccL
+{16cc/L
 32r
 32ddJ
 16eeL
@@ -24,7 +31,7 @@
 16ddL
 16eeJ
 =3
-16a 16ccL
+16ccL
 16ddJ
 16eeL
 16cc
@@ -39,7 +46,7 @@
 16b-
 16aJ}
 =5
-{16f 16ccL
+{16cc/L
 32r
 32ddJ
 16eeL
@@ -54,7 +61,7 @@
 16ddL
 16eeJ
 =7
-16a 16ccL
+16ccL
 16ddJ
 16eeL
 16cc
@@ -70,11 +77,13 @@
 16aJ}
 ==
 *-
-!!!ONB: Wariant t. 1: 1_0_67_5_6_5_; wariant t. 3: 3_6_7_5_6_5_
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=153 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 137} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 137}
 !!!page: 137
+!!!BEM: Wariant t. 1: 1_0_67_5_6_5_; wariant t. 3: 3_6_7_5_6_5_
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

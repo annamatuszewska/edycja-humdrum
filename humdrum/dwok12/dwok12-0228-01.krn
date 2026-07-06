@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1222800001-rosa_pada_na_kon_siada.krn
-!!!OTL: Rosa pada na koń siada
+﻿!!!!SEGMENT: DWOK1222800001-rosa_pada_na_kon_siada.krn
+!!!OTL: Rosa pada na koä siada
+!!!FKT: Pieśni i Dumy. Skarga. Niechęć. Rozstanie
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Środy (Bagrowo)
+!!!AR1: wielkopolskie ; średzki ; Dominowo-gmina wiejska
+!!!GE1: 52.287385 , 17.316166
 !!!source: DWOK12
 !!!id: 12228
 !!!signature: 1222800001
@@ -46,7 +51,7 @@
 4g\	-dliwie.
 4g\}	.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Maiden, Bachelor, Narrator
 !!!role-listener: Bachelor, Maiden
 !!!singer-sex: female, male
@@ -89,3 +94,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

@@ -3,57 +3,66 @@
 !!!source: DWOK41
 !!!id: 41482
 !!!signature: 4148200000
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M3/4
-=1
-{8.ee-
-16ee-
-4dd
-4b-
-=2
-8dd
-8ff
-4gg
-8gg
-8cc
-=3
-8.ee-
-16ee-
-4dd
-4b-
-=4
-8a
-8cc
-4a
-4b-}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*B-:	*
+*M3/4	*
+=1	=1
+{8.ee-	Oj,
+16ee-	da,
+4dd	gdzie
+4b-	u-
+=2	=2
+8dd	-ro-
+8ff	-dy
+4gg	do-
+8ggL	-syć,
+8ccJ	.
+=3	=3
+8.ee	oj,
+16ee	da,
+4dd	bie-
+4b-	-lu-
+=4	=4
+8a	-sień-
+8cc	-kie
+4a	cia-
+4b-}	-ło,
 !!LO:LB:g=esac
-=5
-{8a
-8cc
-4a
-4cc
-=6
-8b-
-8g
-4e-
-4cc
-=7
-8a
-8cc
-4a
-4cc
-=8
-8b-
-8g
-4e-
-4f}
-==
-*-
+=5	=5
+{8a	oj,
+8cc	da,
+4a	sa-
+4cc	-ma
+=6	=6
+8b-	praw-
+8g	-dę
+4e	przy-
+4cc	-znaj,
+=7	=7
+8a	oj,
+8cc	da,
+4a	pocz-
+4cc	-ci-
+=8	=8
+8b-	-woś-
+8g	-ci
+4e	ma-
+4f}	-ło.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oj, da, gdzie urody dosyć,
+!!oj, da, bielusieńkie ciało,
+!!oj, da, sama prawdę przyznaj,
+!!oj, da, poczciwości mało.
+!!@@END: VERSES
+!!!role-singer: Complex
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=336 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 253} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 253}
 !!!page: 253
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-18

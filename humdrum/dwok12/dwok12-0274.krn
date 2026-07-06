@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1227400000-cigali_sie_dwoje.krn
+﻿!!!!SEGMENT: DWOK1227400000-cigali_sie_dwoje.krn
 !!!OTL: Ścigali się dwoje
+!!!FKT: Pieśni i Dumy. Strata wianka. Żale
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Szremu (Daleszyn)
+!!!AR1: wielkopolskie ; gostyński ; Gostyń-obszar wiejski
+!!!GE1: 51.914522 , 16.968166
 !!!source: DWOK12
 !!!id: 12274
 !!!signature: 1227400000
@@ -63,7 +68,7 @@
 8b	dziéwka.
 4cc}	.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Narrator
 !!!role-listener: Maiden
 !!@@BEGIN: VERSES
@@ -117,3 +122,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

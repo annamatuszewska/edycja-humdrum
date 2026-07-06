@@ -1,83 +1,127 @@
-!!!!SEGMENT: DWOK1242000000-kapala_sie_kasia.krn
+﻿!!!!SEGMENT: DWOK1242000000-kapala_sie_kasia.krn
 !!!OTL: Kąpała się Kasia
+!!!FKT: Pieśni i Dumy. Dumy. Zdrada. Zabójstwo
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Szmigla (Morownica)
+!!!AR1: wielkopolskie ; kościański ; Śmigiel-obszar wiejski
+!!!GE1: 51.989996 , 16.475680
 !!!source: DWOK12
 !!!id: 12420
 !!!signature: 1242000000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8g
-8g
-4g
-4a
-=2
-8cc
-8b
-2g
-=3
-8dd
-8dd
-4ee
-4dd
-=4
-8cc
-8b
-2g
-=5
-8dd
-8dd
-4ee
-4dd
-=6
-8cc
-8b
-2g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8g	Kąpała
+8g	.
+4g	.
+4a	się
+=2	=2
+8ccL	Kasia,
+8bJ	.
+2g	.
+=3	=3
+8dd	w_jeziorze
+8dd	.
+4ee	.
+4dd	ksią-
+=4	=4
+8ccL	-żęcym,
+8bJ	.
+2g	.
+=5	=5
+8dd	w_jeziorze
+8dd	.
+4ee	.
+4dd	ksią-
+=6	=6
+8ccL	-żęcym,
+8bJ	.
+2g}	.
 !!LO:LB:g=esac
-=7
-{8b
-8dd
-4cc
-4b
-=8
-8g
-8e
-4.d
-8f
-=9
-8a
-8a
-4a
-4g
-=10
-4e
-2d}
+=7	=7
+{8b	i
+8dd	utonął
+4cc	.
+4b	.
+=8	=8
+8g	jéj
+8e	Jasinek
+4.d	.
+8f	.
+=9	=9
+8a	we
+8a	wodzie
+4a	.
+4g	bie-
+=10	=10
+4e\	-żą-
+2d}	-cy,
 !!LO:LB:g=esac
-=11
-{8b
-8dd
-4cc
-4b
-=12
-8g
-8e
-4.d
-8f
-=13
-8a
-8a
-4a
-4g
-=14
-8e
-8f
-2d}
-==
-*-
+=11	=11
+{8b	i
+8dd	utonął
+4cc	.
+4b	.
+=12	=12
+8g	jéj
+8e	Jasinek
+4.d	.
+8f	.
+=13	=13
+8a	we
+8a	wodzie
+4a	.
+4g	bie-
+=14	=14
+8eL	-żą-
+8fJ	.
+2d}	-cy.
+==	==
+*-	*-
+!!!role-singer: Narrator, Maiden, Fishermen
+!!!role-listener: Fishermen, Bachelor
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Kąpała się Kasia,
+!!w jeziorze książęcym,
+!!i utonął jéj Jasinek
+!!we wodzie bieżęcy.
+!!@VERSE:
+!!2. A jak jij utonął
+!!i chusteczkę zgubił,
+!!na ten znaczek téj kochanki,
+!!bo ją bardzo lubił.
+!!@VERSE:
+!!3. Pyta się rybaka,
+!!pyta się drugiego,
+!!jeźli-ście tu nie widzieli
+!!Jasinka mojego.
+!!@VERSE:
+!!4. Widzieli-ć widzieli,
+!!ale nieżywego,
+!!o leży tam na pomorzu,
+!!mieczem zabitego.
+!!@VERSE:
+!!5. Skoczyła Kasińka
+!!z mostu wysokiego,
+!!i wyciągła ten miecz ostry
+!!z Jasieńka swojego.
+!!@VERSE:
+!!6. A jak go wyciągła,
+!!sama się przebiła,
+!!umiérasz ty mój Jasieńku,
+!!to obaj umrzéjma.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=233 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 217-218} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 217-218}
 !!!page: 217-218
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

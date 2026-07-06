@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1302200000-oj_z_kamienia_na_kamien.krn
-!!!OTL: Oj z kamienia na kamień
+﻿!!!!SEGMENT: DWOK1302200000-oj_z_kamienia_na_kamien.krn
+!!!OTL: Oj z kamienia na kamień. Mazur
+!!!FKT: Pieśni. Miasta i Dwory. Miłość. Tęsknota
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Poznania, znany i w Warszawie
+!!!AR1: wielkopolskie ; m. Poznań ; Poznań-gmina miejska
+!!!GE1: 52.407918 , 16.933467
 !!!source: DWOK13
 !!!id: 13022
 !!!signature: 1302200000
@@ -135,11 +140,11 @@
 !!!role-singer: unmarried woman, complex
 !!!role-listener:unmarried man
 !!!singer-sex: female, complex
-!!!ONB: Mazur
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=39 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 15} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 15}
 !!!page: 15
+!!!BEM: Mazur
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-03

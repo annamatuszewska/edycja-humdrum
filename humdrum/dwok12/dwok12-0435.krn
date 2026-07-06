@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1243500000-stala_sie_tu_ogloska.krn
+﻿!!!!SEGMENT: DWOK1243500000-stala_sie_tu_ogloska.krn
 !!!OTL: Stała się tu ogłoska
+!!!FKT: Pieśni i Dumy. Małżeństwo. Kłótnia. Zgoda
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Pakości, Kruszwicy
+!!!AR1: kujawsko-pomorskie ; inowrocławski ; Pakość-miasto
+!!!GE1: 52.807005 , 18.087691
+!!!AR2: kujawsko-pomorskie ; inowrocławski ; Kruszwica-miasto
+!!!GE2: 52.676219 , 18.323047
 !!!source: DWOK12
 !!!id: 12435
 !!!signature: 1243500000
@@ -25,43 +32,43 @@
 8r	.
 !!LO:LB:g=esac
 =5	=5
-{8ee	stała
+{8ee	wybi-
 8cc	.
-8dd	się
+8dd	-ła
 =6	=6
-(4ee	tu
+(4ee	męża
 8g#)	.
 =7	=7
-16aL	o-
+16aL	pani
 16bJ	.
-8cc	-głos-
+8cc	Twardow-
 8g#	.
 =8	=8
-4a}	-ka,
+4a}	-ska.
 8r	.
 !!LO:LB:g=esac
 =9	=9
-{16a\	wybi-
+{16a\	Wybi-
 16b	.
 4cc	-ła
 =10	=10
-8cc	męża
+8cc	wygnała,
 8ee	.
-8dd	pani
-=11	=11
-8cc	.
-8.b	Twardow-
-16g#	.
-=12	=12
-8b	-ska.
 8dd	.
-8cc}	Wybi-
+=11	=11
+8cc	płakać
+8.b	.
+16g#	mu
+=12	=12
+8b	nie
+8dd	dała,
+8cc}	.
 !!LO:LB:g=esac
 =13	=13
-{4b	.
-8g#	-ła,
+{4b	nie
+8g#	da-
 =14	=14
-4a}	wygnała,
+4a}	-ła.
 8r	.
 ==	==
 *-	*-
@@ -98,3 +105,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

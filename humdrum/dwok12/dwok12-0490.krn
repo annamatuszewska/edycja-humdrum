@@ -1,5 +1,7 @@
-!!!!SEGMENT: DWOK1249000000-idzie_zolnierz_borem_lasem.krn
+﻿!!!!SEGMENT: DWOK1249000000-idzie_zolnierz_borem_lasem.krn
 !!!OTL: Idzie żołnierz borem lasem
+!!!FKT: Pieśni i Dumy. Wojsko. Łowy
+!!!REG: Wielkie Księstwo Poznańskie
 !!!source: DWOK12
 !!!id: 12490
 !!!signature: 1249000000
@@ -14,15 +16,15 @@
 4dd	żołnierz
 4b-	.
 =2	=2
-8dd	bo-
-4ff	.
+(8dd	bo-
+4ff)	.
 16r	.
 16ff	-rem
 8dd	lasem,
 8b-	.
 =3	=3
-8dd	bo-
-4ff	.
+(8dd	bo-
+4ff)	.
 16r	.
 16ff	-rem
 8dd	lasem,
@@ -34,15 +36,15 @@
 4dd	.
 4f#	-jąc
 =5	=5
-8g	gło-
-4dd	.
+(8g	gło-
+4dd)	.
 16r	.
 16dd	-du
 8cc	czasem,
 8b-	.
 =6	=6
-8b-	gło-
-4dd	.
+(8b-	gło-
+4dd)	.
 16r	.
 16dd	-du
 8cc	czasem,
@@ -54,16 +56,16 @@
 4dd	-rając
 4f#	.
 =8	=8
-8g	gło-
-4b-	.
+(8g	gło-
+4b-/)	.
 16r	.
-16b-	-du
+16b-/	-du
 8a	czasem.
 8g}	.
 ==	==
 *-	*-
-!!!role-singer: Lover
-!!!role-listener: Mistress
+!!!role-singer: Narrator, Brother
+!!!role-listener: Sister
 !!!singer-sex: male
 !!@@BEGIN: VERSES
 !!@VERSE:
@@ -129,3 +131,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

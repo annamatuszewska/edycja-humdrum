@@ -1,61 +1,83 @@
-!!!!SEGMENT: DWOK1332200000-a_dajcie_mi_matko_bicza.krn
+﻿!!!!SEGMENT: DWOK1332200000-a_dajcie_mi_matko_bicza.krn
 !!!OTL: A dajcie mi matko bicza
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Rawicza (Pakosław)
+!!!AR1: wielkopolskie ; rawicki ; Pakosław-gmina wiejska
+!!!GE1: 51.611323 , 17.058539
 !!!source: DWOK13
 !!!id: 13322
 !!!signature: 1332200000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16g
-16b-
-8dd
-8dd
-=2
-16cc
-16cc
-8b-
-8a
-=3
-8g
-8g
-16a
-16cc
-=4
-16cc
-16b-
-8g
-8f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16g	A
+16b-	daj-
+8dd/L	-cie
+8dd/J	mi
+=2	=2
+16ccL/	ma-
+16cc/J	-tko
+8b-/L	bi-
+8aJ	-cza
+=3	=3
+8g	co
+8g	po-
+16a	-ja-
+16cc	-dę
+=4	=4
+16cc	do
+16b-	Ra-
+8g	-wi-
+8f}	-cza.
 !!LO:LB:g=esac
-=5
-{16g
-16b-
-8a
-8f
-=6
-32g
-32a
-16b-
-8a
-8f
-=7
-8g
-8g
-16a
-16cc
-=8
-16cc
-32b-
-32a
-8g
-8f}
-==
-*-
-!!!ONB: W t. 1 skorygowano błąd rytmiczny; alternatywnie możliwe kodowanie w G
+=5	=5
+{16g	Bo
+16b-	w_Ra-
+8a\	-wiczu
+8f\	.
+=6	=6
+32g\L	pię-
+32a\J	.
+16b-	-knie
+8a\	gra-
+8f\	-ją.
+=7	=7
+8g	sa-
+8g	-me
+16a	nóż-
+16cc	-ki
+=8	=8
+16cc	po-
+32b/L-	-dry-
+32aJ	.
+8g	-ga-
+8f}	-ją.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A dajcie mi matko bicza
+!!co pojadę do Rawicza.
+!!@VERSE:
+!!2. Bo w Rawiczu pięknie grają.
+!!same nóżki podrygają.
+!!@VERSE:
+!!3. A w Toruniu jeszcze lepij,
+!!bo latają jakby ślepi.
+!!@@END: VERSES
+!!!role-singer: Daughter
+!!!role-listener: Mother
+!!!singer-sex: female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=168 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 144} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 144}
 !!!page: 144
+!!!BEM: W t. 1 skorygowano błąd rytmiczny; alternatywnie możliwe kodowanie w G
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-22
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-26

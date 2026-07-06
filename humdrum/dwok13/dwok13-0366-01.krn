@@ -1,63 +1,83 @@
-!!!!SEGMENT: DWOK1336600001-takiego_my_macka_dali.krn
+﻿!!!!SEGMENT: DWOK1336600001-takiego_my_macka_dali.krn
 !!!OTL: Takiego my Maćka dali
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gniewkowa, Służewa
+!!!AR1: kujawsko-pomorskie ; inowrocławski ; Gniewkowo-miasto
+!!!GE1: 52.892787 , 18.408568
+!!!AR2: kujawsko-pomorskie ; aleksandrowski ; Aleksandrów Kujawski-gmina wiejska
+!!!GE2: 52.856188 , 18.645535
 !!!source: DWOK13
 !!!id: 13366
 !!!signature: 1336600001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16g
-8a
-16b
-16cc
-=2
-16a
-16ee
-8ff#
-8dd
-=3
-16g
-16g
-8a
-16b
-16cc
-=4
-16a
-16a
-8cc
-8b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Ta-
+16g	-kie-
+8a	-go
+16bL	my
+16ccJ	.
+=2	=2
+16a\	Mać-
+16ee	-ka
+8ff#	da-
+8dd	-li,
+=3	=3
+16g	co
+16g	mnie
+8a	jé-
+16bL	-no
+16ccJ	.
+=4	=4
+16a	cią-
+16a	-gle
+8cc	wa-
+8b}	-li.
 !!LO:LB:g=esac
-=5
-{8a
-16g
-16f#
-16a
-16ee
-=6
-16dd
-16cc#
-8dd
-8a
-=7
-16d
-16f#
-16g
-16f#
-16a
-16ee
-=8
-16dd
-16cc#
-8dd
-8a}
-==
-*-
+=5	=5
+{8a	We
+16g\L	dnie
+16f#\J	.
+16a\	wa-
+16ee	-li
+=6	=6
+8eeq	.
+16dd	w_no-
+16cc#	-cy
+8dd	wa-
+8a\	-li,
+=7	=7
+16d\	nie
+16f#\	wiem
+16g\L	co
+16f#\J	.
+16a\	to
+16ee	.
+=8	=8
+16dd	bę-
+16cc#	-dzie
+8dd	da-
+8a}\	-léj.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Takiego my Maćka dali,
+!!co mnie jéno ciągle wali.
+!!We dnie wali w nocy wali,
+!!nie wiem co to będzie daléj.
+!!@@END: VERSES
+!!!role-singer: Mistress
+!!!singer-sex: female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=180 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 156} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 156}
 !!!page: 156
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-01
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-15

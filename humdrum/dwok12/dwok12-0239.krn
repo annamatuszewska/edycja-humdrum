@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1223900000-plynely_gesi_z_litwy_do_rusi.krn
+﻿!!!!SEGMENT: DWOK1223900000-plynely_gesi_z_litwy_do_rusi.krn
 !!!OTL: Płynęły gęsi z Litwy do Rusi
+!!!FKT: Pieśni i Dumy. Skarga. Niechęć. Rozstanie
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Margonina
+!!!AR1: wielkopolskie ; chodzieski ; Margonin-miasto
+!!!GE1: 52.973387 , 17.094417
 !!!source: DWOK12
 !!!id: 12239
 !!!signature: 1223900000
@@ -65,7 +70,7 @@
 4g	stała.
 4g}	.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Bachelor, Maiden
 !!!role-listener: Maiden, Bachelor
 !!!singer-sex: male, female
@@ -101,3 +106,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

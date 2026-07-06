@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1218600000-z_tej_niedzieli_na_to_swieto.krn
+﻿!!!!SEGMENT: DWOK1218600000-z_tej_niedzieli_na_to_swieto.krn
 !!!OTL: Z tej niedzieli na to święto
+!!!FKT: Pieśni i Dumy. Pieśni przed Weselem i wśród Wesela śpiewane
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Czarnkowa (Rosko)
+!!!AR1: wielkopolskie ; czarnkowsko-trzcianecki ; Wieleń-obszar wiejski
+!!!GE1: 52.874326 , 16.316247
 !!!source: DWOK12
 !!!id: 12186
 !!!signature: 1218600000
@@ -26,7 +31,7 @@
 =4	=4
 16e	konie
 16g	.
-8b	wzięto.
+8b/	wzięto.
 8a\}	.
 !!LO:LB:g=esac
 =5	=5
@@ -108,3 +113,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

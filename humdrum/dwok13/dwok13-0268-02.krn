@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1326800002-instrumentalna.krn
+﻿!!!!SEGMENT: DWOK1326800002-instrumentalna.krn
 !!!OTL: Instrumentalna
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kruszwicy (Szarlej, Góra)
+!!!AR1: kujawsko-pomorskie ; inowrocławski ; Kruszwica-obszar wiejski
+!!!GE1: 52.715108 , 18.318009
+!!!AR2: kujawsko-pomorskie ; inowrocławski ; Inowrocław-gmina wiejska
+!!!GE2: 52.748752 , 18.360459
 !!!source: DWOK13
 !!!id: 13268
 !!!signature: 1326800002
@@ -9,110 +16,114 @@
 *C:
 *M3/8
 =1
-{16ff
-16cc
-8ee
+{16ffL
+16ccJ
+8eeL
+9ffq
 16ee
-16dd
-=
-24gg
-24bb
-24aa
-8gg
-8dd
+16ddJ
 =2
-16ff
-16cc
-8ee
-16ee
-16dd
-=
-24cc
-24b
-24g
-16a
-16b
-8cc}
-!!LO:LB:g=esac
+*Xtuplet
+24gg/L
+24bb/
+24aa/J
+8ggL
+8ddJ
 =3
-{16dd
-16ff
-16gg
-16ff
+16ffL
+16ccJ
+8eeL
+8ffq
 16ee
-16dd
+16ddJ
 =4
-16cc
-16b
-16dd
-16b
-16cc
-16ee
+24ccL/
+24b/
+24gJ
+16aL
+16b/
+8cc}J/
+!!LO:LB:g=esac
 =5
-16dd
+{16ddL
+16ffJ
+16ggL
 16ff
 16ee
-16dd
-16ee
-16cc
+16ddJ
 =6
-16dd
+16ccL
+16bJ
+16ddL
 16b
-16g
-16b
-8cc}
-!!LO:LB:g=esac
+16cc
+16eeJ
 =7
-{16dd
+16ddL
 16ff
 16ee
-16dd
-16ee
-16ff
+16ddJ
+16eeL
+16ccJ
 =8
-16gg
-16gg
-8aa
-8gg
-=9
-16dd
-16ff
-16ee
-16dd
-16ee
-16ff
-=10
-16gg
-16gg
-8aa
-8gg}
+16ddL
+16bJ
+16gL
+16b/
+8cc}J/
 !!LO:LB:g=esac
+=9
+{16ddL
+16ff
+16ee
+16ddJ
+16eeL
+16ffJ
+=10
+16ggL
+16ggJ
+8aaL
+8ggJ
 =11
-{16dd
+16ddL
 16ff
 16ee
-16dd
-8ee
-=
-24cc
-24b
-24g
-16a
-16b
-8gg
+16ddJ
+16eeL
+16ffJ
 =12
-16dd
+16ggL
+16ggJ
+8aaL
+8gg}J
+!!LO:LB:g=esac
+=13
+{16ddL
 16ff
 16ee
 16dd
-8ee
-=
-24cc
+8eeJ
+=14
+24ccL
 24b
-24g
-16a
+24g\J
+16a\L
 16b
-8cc}
+8ccq
+8ggJ
+=15
+16ddL
+16ff
+16ee
+16dd
+8eeJ
+=16
+24ccL
+24b
+24g\J
+16a\L
+16b
+8cc}J
 ==
 *-
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
@@ -120,3 +131,7 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=150 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 126} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 126}
 !!!page: 126
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-12
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-23

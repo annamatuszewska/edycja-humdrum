@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1232900000-niescesna_to_stanienecka.krn
+﻿!!!!SEGMENT: DWOK1232900000-niescesna_to_stanienecka.krn
 !!!OTL: Niescęsna to stanienecka
+!!!FKT: Pieśni i Dumy. Strata wianka. Żale
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Wielenia (Drasko)
+!!!AR1: wielkopolskie ; czarnkowsko-trzcianecki ; Drawsko-gmina wiejska
+!!!GE1: 52.853841 , 16.029826
 !!!source: DWOK12
 !!!id: 12329
 !!!signature: 1232900000
@@ -9,7 +14,7 @@
 *C:	*
 *M3/4	*
 =1	=1
-{8f#in	Niescęsna
+{8fni	Niescęsna
 8a	.
 4cc	.
 4ee	to
@@ -26,12 +31,12 @@
 8ccJ	.
 =4	=4
 4a	była,
-4f#in}	.
+4fni}	.
 4r	.
 !!LO:LB:g=esac
 =5	=5
 {8a	samaześ
-8f#in	.
+8fni	.
 4d	.
 8aL	ty
 8bJ	.
@@ -42,7 +47,7 @@
 8a	-ko
 =7	=7
 8aL	do
-8f#Jin	.
+8fniJ	.
 4d	mnie
 4a\	cho-
 =8	=8
@@ -50,7 +55,7 @@
 4e}	.
 4r	.
 ==	==
-*- 	*-
+*-	*-
 !!!RDF**kern: i = editorial accidental
 !!!role-singer: Bachelor, Maiden
 !!!role-listener: Maiden, Bachelor
@@ -84,3 +89,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-26
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

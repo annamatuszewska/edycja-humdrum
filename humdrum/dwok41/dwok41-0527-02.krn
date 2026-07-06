@@ -1,59 +1,101 @@
-!!!!SEGMENT: DWOK4152700002-hej_hi_ha_hi_ptaszek_nad_krzewina.krn
+!!!!SEGMENT: DWOK4152700001-hej_hi_ha_hi_ptaszek_nad_krzewina.krn
 !!!OTL: Hej, hi, ha, hi ptaszek nad krzewiną
 !!!source: DWOK41
 !!!id: 41527
 !!!signature: 4152700002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{2a
-=2
-2a
-=3
-2a
-=4
-2a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*G:	*
+*M2/4	*
+=1	=1
+{2a	Hej,
+=2	=2
+2a	hi,
+=3	=3
+2a	ha,
+=4	=4
+2a}	hi,
 !!LO:LB:g=esac
-=5
-{8dd
-8dd
-8a
-8a
-=6
-8cc
-4.a
-=7
-8dd
-8dd
-8.d
-16d
-=8
-8e
-4.d}
+=5	=5
+{(16bqL	.
+16ccqJ	.
+8dd)	pta-
+8dd	-szek
+8a	nad
+8a	krze-
+=6	=6
+8cc/	-wi-
+4.a	-ną,
+=7	=7
+8dd	[pta-
+8dd	-szek
+8.d	nad
+16d	krze-
+=8	=8
+8e	-wi-
+4.d}	-ną],
 !!LO:LB:g=esac
-=9
-{8d
-8d
-8.e
-16f#
-=10
-8g
-4.b
-=11
-8dd
-8dd
-8.d
-16d
-=12
-8e
-4.d}
-==
-*-
+=9	=9
+{8d	i
+8d	ja
+8.e	pod
+16f#	krze-
+=10	=10
+8g	-wi-
+4.b/	-ną
+=11	=11
+8dd	u-
+8dd	-siadł
+8.d	z_mą
+16d	dziw-
+=12	=12
+8e	-czy-
+4.d}	-ną.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Hej, hi, ha, hi,
+!!|:ptaszek nad krzewiną:|,
+!!i ja pod krzewiną
+!!usiadł z mą dziwczyną.
+!!@VERSE:
+!!2. Hej, hi, ha, hi,
+!!skrzydełkami trzepnął
+!!z wielkim zapałem.
+!!i ja też z zapałem.
+!!bo swoją kochałem.
+!!@VERSE:
+!!3. Hej, hi. ha, hi,
+!!na samiczkę skoczył
+!!i niby całuje,
+!!i ja też całuje,
+!!bo w tem rozkosz czuję.
+!!@VERSE:
+!!4. Hej, hi, ha. hi,
+!!skrzydełkami trzepnął,
+!!lecz już bez zapału,
+!!i ja bez zapału
+!!zlazł z swojej pomału.
+!!@VERSE:
+!!5. Hej, hi, ha, hi.
+!!skrzydełkami trzepnął
+!!i dalej w las leci.
+!!Gdzie to ptaszek leci?
+!!Słać gniazdko dla dzieci.
+!!@VERSE:
+!!6. Hej, hi. ha, hi.
+!!ja inaczej zrobił
+!!z moją ulubioną:
+!!rzekłem: bywaj zdrowa,
+!!idźmy inną stroną.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=354 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 271-272} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 271-272}
 !!!page: 271-272
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-20

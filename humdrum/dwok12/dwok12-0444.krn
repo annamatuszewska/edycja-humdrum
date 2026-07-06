@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1244400000-com_zarobila_tom_zarobila.krn
+﻿!!!!SEGMENT: DWOK1244400000-com_zarobila_tom_zarobila.krn
 !!!OTL: Com zarobiła tom zarobiła
+!!!FKT: Pieśni i Dumy. Małżeństwo. Kłótnia. Zgoda
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Buku, Opalenicy
+!!!AR1: wielkopolskie ; poznański ; Buk-miasto
+!!!GE1: 52.355394 , 16.519710
+!!!AR2: wielkopolskie ; nowotomyski ; Opalenica-miasto
+!!!GE2: 52.307491 , 16.413073
 !!!source: DWOK12
 !!!id: 12444
 !!!signature: 1244400000
@@ -123,3 +130,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

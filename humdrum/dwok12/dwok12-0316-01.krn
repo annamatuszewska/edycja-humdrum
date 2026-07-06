@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1231600001-posluchajcie_panny_siostry.krn
+﻿!!!!SEGMENT: DWOK1231600001-posluchajcie_panny_siostry.krn
 !!!OTL: Posłuchajcie panny siostry
+!!!FKT: Pieśni i Dumy. Strata wianka. Żale
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gołańczy (Czeszewo)
+!!!AR1: wielkopolskie ; wągrowiecki ; Gołańcz-obszar wiejski
+!!!GE1: 52.908722 , 17.382633
 !!!source: DWOK12
 !!!id: 12316
 !!!signature: 1231600001
@@ -75,7 +80,7 @@
 4g}	-ła.
 8r	.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Maiden
 !!!role-listener: Maidens
 !!!singer-sex: female
@@ -107,3 +112,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-26
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

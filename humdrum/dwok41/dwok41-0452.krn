@@ -3,58 +3,69 @@
 !!!source: DWOK41
 !!!id: 41452
 !!!signature: 4145200000
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M3/4
-=1
-{8f
-8a
-4b-
-8dd
-8ff
-=2
-8gg
-8ee-
-4cc
-4cc
-=3
-8b-
-8dd
-4ff
-4ff
-=4
-8gg
-8ee-
-4cc
-4f}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M3/4	*
+=1	=1
+{8f	Cze-
+8a	-mu
+4b-	nie
+8ddL	o-
+8ffJ	.
+=2	=2
+8gg	-rzesz,
+8ee-	chło-
+4cc	-pa-
+4cc	-ku,
+=3	=3
+8b-	cze-
+8dd	-mu
+4ff	nie
+4ff	o-
+=4	=4
+8gg	-rzesz,
+8ee-	nie
+4cc	o-
+4f}	-rzesz.
 !!LO:LB:g=esac
-=5
-{8f
-8a
-4b-
-8dd
-8ff
-=6
-8ee-
-8ee-
-4cc
-4f
-=7
-8f
-8dd
-4b-
-4b-
-=8
-8b-
-8dd
-4cc
-4f}
-==
-*-
+=5	=5
+{8f	Czy
+8a	ci
+4b-	woł-
+8ddL	-ki
+8ffJ	.
+=6	=6
+8ee-	po-
+8ee-	-pa-
+4cc	-da-
+4f	-ły,
+=7	=7
+8f	czy
+8dd	sam
+4b-	nie
+4b-	mo-
+=8	=8
+8b-	-żesz,
+8dd	nie
+4cc	mo-
+4f}	-żesz?
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Czemu nie orzesz, chłopaku,
+!!czemu nie orzesz, nie orzesz.
+!!Czy ci wołki popadały,
+!!czy sam nie możesz, nie możesz?
+!!@@END: VERSES
+!!!role-singer: Mistress
+!!!role-listener: Lover
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=325 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 242-243} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 242-243}
 !!!page: 242-243
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-18

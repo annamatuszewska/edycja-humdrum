@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1220400001-zebys_ty_wiedziala_kochaneczko_moja.krn
-!!!OTL: żebyś ty wiedziała kochaneczko moja
+﻿!!!!SEGMENT: DWOK1220400001-zebys_ty_wiedziala_kochaneczko_moja.krn
+!!!OTL: żebyś ty wiedziała kochaneczko moja. Przodek
+!!!FKT: Pieśni i Dumy. Stałość. Życzliwość. Wymówka
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Margonina
+!!!AR1: wielkopolskie ; chodzieski ; Margonin-miasto
+!!!GE1: 52.973387 , 17.094417
 !!!source: DWOK12
 !!!id: 12204
 !!!signature: 1220400001
@@ -9,7 +14,7 @@
 *a:	*
 *M3/4	*
 =1	=1
-!!LO:TX:a:t=Przodek.
+!!LO:TX:a:t=Przodek*).
 {8e	Żebyś
 8ee	.
 8ee	ty
@@ -104,27 +109,19 @@
 4a	.
 4cc/}	.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Bachelor, Maiden
 !!!role-listener: Maiden, Bachelor
 !!!singer-sex: male, female
-!!!ONB@texture: Only voice or instrument is playing at a time
-!!@@BEGIN: 
-!! @COMMENTARY:Śpiewana w czasie tańca, gdy w jednéj parze tancerzy chłop idzie z dziewką, a ta mu się około głowy obwija.
-!!@@END:
 !!@@BEGIN: VERSES
 !!@VERSE:
 !!1. Żebyś ty wiedziała, kochaneczko moja,
 !!com ja tobie nie powiedział,
 !!jakie moje serce wtenczas smutne było,
-!!kiedym kole ciebie siedział,
-!!jakie moje serce wtenczas smutne było,
 !!kiedym kole ciebie siedział.
 !!@VERSE:
 !!2. Da przy tobiem siedział, — i do ciebiem gadał,
 !!tyś się do mnie nie rozśmiała, —
-!!rączke'ś mi swą sjena (zjęła). móją'ś mi strząsnęła,
-!!a z inszemi'ś rozmawiała,
 !!rączke'ś mi swą sjena (zjęła). móją'ś mi strząsnęła,
 !!a z inszemi'ś rozmawiała.
 !!@VERSE:
@@ -137,10 +134,17 @@
 !!Powiadam ci szczerze, że już mię chęć bierze,
 !!i kocham cię nad swe życie.
 !!@@END: VERSES
+!!@@BEGIN: 
+!! @COMMENTARY:*)Śpiewana w czasie tańca, gdy w jednéj parze tancerzy chłop idzie z dziewką, a ta mu się około głowy obwija.
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=121 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 105} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 105}
 !!!page: 105
+!!!BEM: Przodek
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ONB@texture: Only voice or instrument is playing at a time
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

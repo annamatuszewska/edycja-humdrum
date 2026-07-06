@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1231500002-posluchajcie_panieneczki.krn
+﻿!!!!SEGMENT: DWOK1231500002-posluchajcie_panieneczki.krn
 !!!OTL: Posłuchajcie panieneczki
+!!!FKT: Pieśni i Dumy. Strata wianka. Żale
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Pleszewa (Kotlin)
+!!!AR1: wielkopolskie ; jarociński ; Kotlin-gmina wiejska
+!!!GE1: 51.919594 , 17.644602
 !!!source: DWOK12
 !!!id: 12315
 !!!signature: 1231500002
@@ -80,7 +85,7 @@
 4f}	-ła.
 8r	.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Maiden
 !!!role-listener: Maidens
 !!!singer-sex: female
@@ -141,3 +146,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

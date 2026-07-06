@@ -3,97 +3,113 @@
 !!!source: DWOK41
 !!!id: 41472
 !!!signature: 4147200000
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M3/4
-=1
-{8ee-
-8gg
-4gg
-8gg
-8ff
-=2
-8gg
-8ff
-8gg
-8ff
-8dd
-8cc
-=3
-8b-
-8dd
-4ff
-4gg
-=4
-4cc
-2f}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M3/4	*
+=1	=1
+{8ee-	Oj,
+8gg	mia-
+4gg	-łam
+8ggL	ja
+8ffJ	.
+=2	=2
+8gg	ko-
+8ff	-cha-
+8ggL	-ne-
+8ffJ	.
+(8ee-q	.
+8dd)L	-czka,
+8ccJ	.
+=3	=3
+8b-	u-
+8dd	-to-
+4ff	-nął
+4gg	mi
+=4	=4
+4cc	w_stu-
+2f}	-dni,
 !!LO:LB:g=esac
-=5
-{8ee-
-8gg
-4gg
-8gg
-8ff
-=6
-8gg
-8ff
-8gg
-8ff
-8dd
-8cc
-=7
-8dd
-8dd
-4cc
-4b-
-=8
-4cc
-2f}
+=5	=5
+{8ee-	[oj],
+8gg	ja
+4gg	po
+8ggL	nim
+8ffJ	.
+=6	=6
+8ggL	w_ża-
+8ffJ	.
+8ggL	-ło-
+8ffJ	.
+(8ee-q	.
+8dd)L	-bie
+8ccJ	.
+=7	=7
+8dd	aż
+8dd	kar-
+4cc	-czmis-
+4b-	-ko
+=8	=8
+4cc	du-
+2f}	-dni.
 !!LO:LB:g=esac
-=9
-{8f
-8ee-
-4ee-
-4ee-
-=10
-8dd
-8cc
-4b-
-8b-
-8a
-=11
-8b-
-8dd
-4ff
-4gg
-=12
-4cc
-2f}
+=9	=9
+{8f	.
+8ee-	.
+4ee-	.
+(8ffq	.
+4ee-)	.
+=10	=10
+8dd	.
+8cc	.
+4b-	.
+(8ccq	.
+8b-)L	.
+8a\J	.
+=11	=11
+8b-	.
+8dd	.
+4ff	.
+4gg	.
+=12	=12
+4cc	.
+2f}	.
 !!LO:LB:g=esac
-=13
-{8f
-8ee-
-4ee-
-4ee-
-=14
-8ff
-8dd
-4cc
-4b-
-=15
-8f
-8a
-4b-
-4dd
-=16
-4cc
-2f}
-==
-*-
+=13	=13
+{8f	.
+8ee-	.
+4ee-	.
+4ee-	.
+=14	=14
+8ff	.
+8dd	.
+4cc	.
+4b-	.
+=15	=15
+8f	.
+8a	.
+4b-	.
+4dd	.
+=16	=16
+4cc	.
+2f}	.
+==	==
+*-	*-
+!!!ONB@texture: Only voice or instrument is playing at a time
+!!@@BEGIN: VERSES
+!!Oj, miałam ja kochaneczka,
+!!utonął mi w studni,
+!![oj], ja po nim w żałobie,
+!!aż karczmisko dudni.
+!!@@END: VERSES
+!!!role-singer: Woman
+!!!role-listener: Complex 
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=333 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 250} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 250}
 !!!page: 250
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-18

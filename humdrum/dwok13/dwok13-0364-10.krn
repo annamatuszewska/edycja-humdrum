@@ -1,63 +1,80 @@
-!!!!SEGMENT: DWOK1336400010-siedem_rzeczy_w_swiecie.krn
+﻿!!!!SEGMENT: DWOK1336400010-siedem_rzeczy_w_swiecie.krn
 !!!OTL: Siedem rzeczy w świecie
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kruszwicy, Piotrkowa ż.
+!!!AR1: kujawsko-pomorskie ; inowrocławski ; Kruszwica-miasto
+!!!GE1: 52.676219 , 18.323047
+!!!AR2: kujawsko-pomorskie ; radziejowski ; Piotrków Kujawski-miasto
+!!!GE2: 52.551118 , 18.497561
 !!!source: DWOK13
 !!!id: 13364
 !!!signature: 1336400010
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16f
-16f
-8a
-8a
-=2
-16g
-16a
-8b-
-32dd
-16.ee
-=3
-16dd
-16cc
-8a
-8a
-=4
-16g
-16f
-8e
-32d
-16.e}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16f	Sie-
+16f	-dem
+8a	rze-
+8a	-czy
+=2	=2
+16g	w_świe-
+16a	-cie
+8b-	sły-
+32ddL	-nie,
+16.eeJ	.
+=3	=3
+16dd	jab-
+16cc	-ka,
+8a	kru-
+8a	-szki,
+=4	=4
+16g	zło-
+16f	-to-
+8e	-dy-
+32dL	-nie,
+16.eJ}	.
 !!LO:LB:g=esac
-=5
-{16f
-16f
-8a
-8a
-=6
-16g
-16a
-8b-
-32dd
-16.ee
-=7
-16dd
-16cc
-8a
-8a
-=8
-16g
-16f
-8e
-32d
-16.e}
-==
-*-
-!!!ONB: Partia wokalna
+=5	=5
+{16f	chleb
+16f	wy-
+8a	-pie-
+8a	-kły,
+=6	=6
+16g	świ-
+16a	-ca
+8b-	ja-
+32ddL	-sna,
+16.eeJ	.
+=7	=7
+16dd	dęb-
+16cc	-czak
+8a	twardy,
+8a	.
+=8	=8
+16g	su-
+16f	-knia
+8e	cia-
+32dL	-sna.
+16.eJ}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Siedem rzeczy w świecie słynie,
+!!jabka, kruszki, złotodynie,
+!!chleb wypiekły, świca jasna,
+!!dębczak twardy, suknia ciasna.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=180 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 156} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 156}
 !!!page: 156
+!!!BEM: Partia wokalna
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-01
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-15

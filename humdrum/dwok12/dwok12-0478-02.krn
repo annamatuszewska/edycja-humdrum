@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1247800002-napila_sie_stara_baba_gorzaly.krn
+﻿!!!!SEGMENT: DWOK1247800002-napila_sie_stara_baba_gorzaly.krn
 !!!OTL: Napiła się stara baba gorzały
+!!!FKT: Pieśni i Dumy. Zabawa. Karczma. Tańce. Hulanka
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Czempina (Konojad)
+!!!AR1: wielkopolskie ; grodziski ; Kamieniec-gmina wiejska
+!!!GE1: 52.163014 , 16.533862
 !!!source: DWOK12
 !!!id: 12478
 !!!signature: 1247800002
@@ -9,11 +14,12 @@
 *C:	*
 *M3/8	*
 =1	=1
+!LO:TX:a:t=Chłopek o babie.	!
 {16cc	Napi-
 16dd	.
 8ee	-ła
-16ee	się
-16gg	.
+16ee/L	się
+16ggJ	.
 =2	=2
 16ee	stara
 16dd	.
@@ -21,8 +27,8 @@
 8cc	-ba
 =3	=3
 8ee	gorza-
-8.ff	.
-16ee	.
+8.ff^L	.
+16eeJ	.
 =4	=4
 8dd	-ły,
 8dd	ły,
@@ -30,8 +36,8 @@
 !!LO:LB:g=esac
 =5	=5
 {8dd	go-
-8.ee	rza-
-16dd	.
+8.ee^L	rza-
+16ddJ	.
 =6	=6
 8cc	-ły,
 8cc	ły,
@@ -56,6 +62,9 @@
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=263 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 247} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 247}
 !!!page: 247
+!!!BEM: Chłopek o babie
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

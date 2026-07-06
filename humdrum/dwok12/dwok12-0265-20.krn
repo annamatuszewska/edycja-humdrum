@@ -1,5 +1,7 @@
-!!!!SEGMENT: DWOK1226500020-instrumentalna-a_latajze_ptaszku.krn
-!!!OTL: Instrumentalna-A latajże ptaszku
+﻿!!!!SEGMENT: DWOK1226500020-instrumentalna-a_latajze_ptaszku.krn
+!!!OTL: A latajże ptaszku. Mazur. Instrumentalna
+!!!FKT: Pieśni i Dumy. Skarga. Niechęć. Rozstanie
+!!!REG: Wielkie Księstwo Poznańskie
 !!!source: DWOK12
 !!!id: 12265
 !!!signature: 1226500020
@@ -53,6 +55,9 @@
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=156 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 140} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 140}
 !!!page: 140
+!!!BEM: Mazur
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

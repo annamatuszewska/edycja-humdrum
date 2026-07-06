@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1228900000-szumiala_olszyna_plakala_dziewczyna.krn
+﻿!!!!SEGMENT: DWOK1228900000-szumiala_olszyna_plakala_dziewczyna.krn
 !!!OTL: Szumiała olszyna, płakała dziewczyna
+!!!FKT: Pieśni i Dumy. Strata wianka. Żale
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Pleszewa (Kotlin)
+!!!AR1: wielkopolskie ; jarociński ; Kotlin-gmina wiejska
+!!!GE1: 51.919594 , 17.644602
 !!!source: DWOK12
 !!!id: 12289
 !!!signature: 1228900000
@@ -42,7 +47,7 @@
 8b	.
 8g}	.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Narrator, Maiden
 !!!role-listener: Blacksmith
 !!!singer-sex: female
@@ -75,3 +80,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

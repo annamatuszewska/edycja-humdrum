@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1217200020-instrumentalne_-_mazur.krn
-!!!OTL: Instrumentalne - Mazur
+﻿!!!!SEGMENT: DWOK1217200020-instrumentalne_-_mazur.krn
+!!!OTL: A mój miły bednarczyku. Mazur. Instrumentalna
+!!!FKT: Pieśni i Dumy. Pieśni przed Weselem i wśród Wesela śpiewane
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Rakoniewic (Łąkie, Gościeszyn)
+!!!AR1: wielkopolskie ; grodziski ; Rakoniewice-obszar wiejski
+!!!GE1: 52.102799 , 16.228626
+!!!AR2: wielkopolskie ; wolsztyński ; Wolsztyn-obszar wiejski
+!!!GE2: 52.093491 , 16.204667
 !!!source: DWOK12
 !!!id: 12172
 !!!signature: 1217200020
@@ -57,6 +64,7 @@
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=103 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 87} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 87}
 !!!page: 87
+!!!BEM: Mazur
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-02-25

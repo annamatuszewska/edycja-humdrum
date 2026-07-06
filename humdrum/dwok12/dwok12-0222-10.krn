@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1222200010-ugania_sie_wisla_z_woda.krn
+﻿!!!!SEGMENT: DWOK1222200010-ugania_sie_wisla_z_woda.krn
 !!!OTL: Ugania się Wisła z wodą
+!!!FKT: Pieśni i Dumy. Stałość. Życzliwość. Wymówka
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Książa, Jarocina
+!!!AR1: wielkopolskie ; śremski ; Książ Wielkopolski-miasto
+!!!GE1: 52.062403 , 17.239231
+!!!AR2: wielkopolskie ; jarociński ; Jarocin-miasto
+!!!GE2: 51.972384 , 17.501630
 !!!source: DWOK12
 !!!id: 12222
 !!!signature: 1222200010
@@ -50,8 +57,8 @@
 8g	.
 8a}	ją.
 ==	==
-*- 	*-
-!!!role-singer: Bachelor, Mother, Maiden
+*-	*-
+!!!role-singer: Narrator, Bachelor, Nature, Mother, Maiden
 !!!role-listener: Mother, Bachelor
 !!!singer-sex: male, female
 !!@@BEGIN: VERSES
@@ -112,3 +119,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

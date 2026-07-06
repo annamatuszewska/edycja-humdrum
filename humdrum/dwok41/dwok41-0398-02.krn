@@ -1,84 +1,95 @@
-!!!!SEGMENT: DWOK4139800002-a_kto_chce_rozkoszy_uzyc.krn
+!!!!SEGMENT: DWOK4139800001-a_kto_chce_rozkoszy_uzyc.krn
 !!!OTL: A kto chce rozkoszy użyć
 !!!source: DWOK41
 !!!id: 41398
 !!!signature: 4139800002
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8.cc
-16dd
-4ee
-4cc
-=2
-8dd
-8ee
-4ff
-4dd}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8.cc	A
+16dd	kto
+4ee	chce
+4cc	roz-
+=2	=2
+8dd	-ko-
+8ee	-szy
+4ff	u-
+4dd}	-żyć,
 !!LO:LB:g=esac
-=3
-{8ee
-8gg
-4ee
-4cc
-=4
-8g
-8b
-4dd
-4dd}
+=3	=3
+{8ee	nie-
+8gg	-chaj
+4ee	i-
+4cc	-dzie
+=4	=4
+8g\L	w_woj-
+8b\J	-sku
+4dd	słu-
+4dd}	-żyć.
 !!LO:LB:g=esac
-=5
-{8.cc
-16dd
-4ee
-4cc
-=6
-8dd
-8ee
-4ff
-4dd}
+=5	=5
+{8.cc	Tam
+16dd	to
+4ee	roz-
+4cc	-ko-
+=6	=6
+8dd	-szy
+8ee	u-
+4ff	-ży-
+4dd}	-je.
 !!LO:LB:g=esac
-=7
-{8ee
-8gg
-4ee
-4dd
-=8
-8cc
-8g
-4cc
-4cc}
+=7	=7
+{8ee	na-
+8gg	-je
+4ee	się
+4dd	do-
+=8	=8
+8cc	-brze,
+8g	na-
+4cc	-pi-
+4cc}	-je,
 !!LO:LB:g=esac
-=9
-{8gg
-8cc
-4b
-4g
-=10
-8.cc
-16dd
-4ee
-4cc}
+=9	=9
+{8gg	oj,
+8cc	na-
+4b	-pi-
+4g	-je
+=10	=10
+8.cc	się
+16dd	łez
+4ee	gorz-
+4cc}	-kich,
 !!LO:LB:g=esac
-=11
-{8gg
-8gg
-8gg
-8ee
-8dd
-8b
-=12
-8cc
-8g
-4cc
-4cc}
-==
-*-
+=11	=11
+{8gg	oj,
+8gg	na-
+8ggL	-pi-
+8eeJ	.
+8ddL	-je
+8bJ	.
+=12	=12
+8cc	się
+8g	łez
+4cc	gorz-
+4cc}	-kich,
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A kto chce rozkoszy użyć,
+!!niechaj idzie w wojsku służyć.
+!!Tam to rozkoszy użyje.
+!!naje się dobrze, napije,
+!!oj, napije się łez gorzkich,
+!!oj, napije się łez gorzkich,
+!!@@END: VERSES
+!!!role-singer: Narrator 
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=300 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 219} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 219}
 !!!page: 219
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-14

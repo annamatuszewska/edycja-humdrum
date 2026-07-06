@@ -9,59 +9,59 @@
 *a:
 *M3/4
 =1
-{8e
-8g#
+{8e\L
+8g#\
 8b
 8dd#
 8ff#
-8ee
+8eeJ
 =2
-8dd
+8ddL
 8cc
 8b
-8a
+8a\
 8b
-8dd
+8ddJ
 =3
-8cc
-8g#
+8bL
+8g\#
 8b
 8dd#
 8ff#
-8ee
+8eeJ
 =4
-8dd
+8ddL
 8cc
 8b
-8a
+8a\
 8b
-8g#}
+8g#\J}
 !!LO:LB:g=esac
 =5
-{8e
-8g#
+{8e\L
+8g#\
 8b
 8dd#
 8ee
-8g#
+8g#\J
 =6
-8a
-8cc
-8b
+8aL
+8cc/
+8b/
 8a
 8g#
-8e
+8eJ
 =7
-8e
-8g#
+8e\L
+8g#\
 8b
 8dd#
 8ee
-8g#
+8g#\J
 =8
 4a
-8a
-8g#
+8aL
+8g#J
 4e}
 ==
 *-
@@ -70,3 +70,7 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=221 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 142} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 142}
 !!!page: 142
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-15
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-27

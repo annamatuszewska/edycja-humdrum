@@ -1,80 +1,124 @@
-!!!!SEGMENT: DWOK1236200001-wyszla_kasia_miedzy_wroty.krn
+﻿!!!!SEGMENT: DWOK1236200001-wyszla_kasia_miedzy_wroty.krn
 !!!OTL: Wyszła Kasia między wroty
+!!!FKT: Pieśni i Dumy. Igraszka. Swawola
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Rogowa (Izdebno)
+!!!AR1: kujawsko-pomorskie ; żniński ; Rogowo-gmina wiejska
+!!!GE1: 52.755920 , 17.638203
 !!!source: DWOK12
 !!!id: 12362
 !!!signature: 1236200001
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16b
-16dd
-8ee
-8cc
-=2
-16cc
-16ee
-8ff#
-8dd
-=3
-16b
-16dd
-8ee
-8cc
-=4
-16cc
-16ee
-8g
-8f}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16b	Wyszła
+16dd	.
+8ee	Kasia
+8cc	.
+=2	=2
+16cc	między
+16ee	.
+8ff#	wroty,
+8dd	.
+=3	=3
+16b	zapłaka-
+16dd	.
+8ee	.
+8cc	-ła
+=4	=4
+16cc	swoji
+16ee	.
+8g	cnoty.
+8f}	.
 !!LO:LB:g=esac
-=5
-{16e
-16g
-8.cc
-16e
-=6
-16d
-16f
-8a
-8f
-=7
-16e
-16g
-8.g
-16b
-=8
-16b
-16dd
-8ee
-8cc}
+=5	=5
+{16e	Nie
+16g	płacz
+8.cc	Kasiu,
+16e\	.
+=6	=6
+16d\	nie
+16f\	frasuj
+8a\	.
+8f	się,
+=7	=7
+16e	kupię
+16g	.
+8.g	farby
+16b	.
+=8	=8
+16b	umaluj
+16dd	.
+8ee	.
+8cc}	się.
 !!LO:LB:g=esac
-=9
-{16e
-16g
-8.cc
-16g
-=10
-16a
-16a
-8a
-8f
-=11
-16e
-16g
-8.g
-16b
-=12
-16dd
-16dd
-8ee
-8cc}
-==
-*-
-!!!ONB: Kolberg podaje metrum 3/4 zapisano poprawnie na 3/8
+=9	=9
+{16e	Nie
+16g	płacz
+8.ccL	Kasiu,
+16gJ	.
+=10	=10
+16aL	nie
+16aJ	frasuj
+8a\	.
+8f	się,
+=11	=11
+16e	kupię
+16g	.
+8.g	farby
+16b	.
+=12	=12
+16ddL	umaluj
+16ddJ/	.
+8ee	.
+8cc}	się.
+==	==
+*-	*-
+!!!role-singer: Narrator, Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Wyszła Kasia między wroty,
+!!zapłakała swoji cnoty.
+!!Nie płacz Kasiu, nie frasuj się,
+!!kupię farby umaluj się.
+!!@VERSE:
+!!2. Nic nie nada odmalować,
+!!dałam gęby pocałować.
+!!Za stoliczek-ci usiadła,
+!!jak najbiélsza chusta zbladła.
+!!@VERSE:
+!!3. Trafiół mi się mój kawaler,
+!!nie bardzo-ci był podciwy,
+!!darował-ci mi obrazik,
+!!obrazik żywy, da żywy.
+!!@VERSE:
+!!4. A ja biédna opuszczona,
+!!co ja czynić mám, da i mám?
+!!już ja dla tego obrázka,
+!!miesca nimám, miesca nimám!
+!!@VERSE:
+!!5. A włożę-ci go w książeczkę,
+!!nie zmieści mi się, w książeczce,
+!!a włożę go do skrzyneczki,
+!!zadusi mi się, w skrzyneczce.
+!!@VERSE:
+!!6. Ej przytulę go do siebie,
+!!rozśmieje mi się, rozśmieje,
+!!ucałuję malowanie,
+!!ciesz mnie, ciesz mnie w mojim stanie!
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=206 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 190} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 190}
 !!!page: 190
+!!!BEM: Kolberg podaje metrum 3/4 zapisano poprawnie na 3/8
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

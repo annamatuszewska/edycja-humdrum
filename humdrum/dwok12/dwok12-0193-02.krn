@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1219300002-jezdzilem_jezdzil_we_dnie_i_w_nocy.krn
+﻿!!!!SEGMENT: DWOK1219300002-jezdzilem_jezdzil_we_dnie_i_w_nocy.krn
 !!!OTL: Jeździłem jeździł we dnie i w nocy
+!!!FKT: Pieśni i Dumy. Stałość. Życzliwość. Wymówka
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Dolska, Krobi
+!!!AR1: wielkopolskie ; śremski ; Dolsk-miasto
+!!!GE1: 51.987105 , 17.063780
+!!!AR2: wielkopolskie ; gostyński ; Krobia-miasto
+!!!GE2: 51.774178 , 16.984630
 !!!source: DWOK12
 !!!id: 12193
 !!!signature: 1219300002
@@ -34,7 +41,7 @@
 8d}	.
 !!LO:LB:g=esac
 =5	=5
-{8f#	a
+{8f#	"a
 8a	ty
 4d	moją
 4d	.
@@ -51,7 +58,7 @@
 =8	=8
 (16aqL	.
 16bqJ)	.
-8cc	uczynić.
+8cc	uczynić."
 8a	.
 2g}	.
 ==	==
@@ -108,3 +115,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

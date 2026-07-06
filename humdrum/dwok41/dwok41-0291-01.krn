@@ -3,56 +3,68 @@
 !!!source: DWOK41
 !!!id: 41291
 !!!signature: 4129100001
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8dd
-8b
-4g
-4ff
-=2
-8ff
-8aa
-4gg
-4ee
-=3
-8dd
-8b
-4g
-4ff
-=4
-8dd
-8b
-4.cc
-8ee}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8dd	Da,
+8b	ja
+4g	swo-
+4ff	-jej
+=2	=2
+8ff	ko-
+8aa	-cha-
+4gg	-necz-
+4ee	-ce
+=3	=3
+8dd	zro-
+8b	-bię
+4g	u-
+4ff	-cie-
+=4	=4
+8dd	-chę,
+8b	u-
+4.cc	-cie-
+8ee}	-chę,
 !!LO:LB:g=esac
-=5
-{8dd
-8b
-4g
-4ff
-=6
-8dd
-8b
-4cc
-4ee
-=7
-8dd
-8b
-4g
-4ff
-=8
-8dd
-8b
-4.cc
-8ee}
-==
-*-
+=5	=5
+{8dd	zro-
+8b	-bię
+4g	chło-
+4ff	-pca
+=6	=6
+8dd	i
+8b	dziew-
+4cc	-czy-
+4ee/	-nę,
+=7	=7
+8dd	z_re-
+8b	-sztą
+4g	u-
+4ff	-cie-
+=8	=8
+8dd	-kę,
+8b	u-
+4.cc	-cie-
+8ee}	-kę.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Da, ja swojej kochaneczce
+!!zrobię uciechę, uciechę,
+!!zrobię chłopca i dziewczynę,
+!!z resztą uciekę, uciekę.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=256 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 177} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 177}
 !!!page: 177
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-24
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-28

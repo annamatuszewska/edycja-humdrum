@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1322900000-czego_placzecie_oczuszki.krn
+﻿!!!!SEGMENT: DWOK1322900000-czego_placzecie_oczuszki.krn
 !!!OTL: Czego płaczecie oczuszki
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kostrzyna (Nekla.)
+!!!AR1: wielkopolskie ; wrzesiński ; Nekla-miasto
+!!!GE1: 52.364437 , 17.412397
 !!!source: DWOK13
 !!!id: 13229
 !!!signature: 1322900000
@@ -64,7 +69,7 @@
 !!@@END: VERSES
 !!!role-singer: Mistress
 !!!role-listener: Lover
-!!!singer-sex: Female
+!!!singer-sex: female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=136 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 112} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 112}

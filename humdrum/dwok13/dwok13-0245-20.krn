@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1324500020-instrumentalna-radowaczka_mazur.krn
-!!!OTL: Instrumentalna-Radowaczka (Mazur)
+﻿!!!!SEGMENT: DWOK1324500020-instrumentalna-radowaczka_mazur.krn
+!!!OTL: Łoj cztery kirznie. Instrumentalna. Mazur
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Obornik (Ocieszyn)
+!!!AR1: wielkopolskie ; obornicki ; Oborniki-obszar wiejski
+!!!GE1: 52.599771 , 16.817424
 !!!source: DWOK13
 !!!id: 13245
 !!!signature: 1324500020
@@ -9,46 +14,50 @@
 *F:
 *M3/8
 =1
-{16cc
-16a
-8f
-8f
+!LO:TX:a:t=Radowaczka-Mazur.
+{8bq
+16cLc
+16a\J
+8fL
+8fJ
 =2
-16g
-16e
-8c
-8c
+8f#q
+16gL
+16eJ
+8cL
+8cJ
 =3
-16cc
-16a
-8f
-8f
+8bq
+16ccL
+16a\J
+8fL
+8fJ
 =4
-16g
-16e
+16gL
+16eJ
 4c}
 !!LO:LB:g=esac
 =5
-{8c
+{8cL
 16e
 16c
 16e
-16g
+16gJ
 =6
-8f
+8fL
 16a
 16f
 16a
-16cc
+16c/Jc
 =7
-8c
+8cL
 16e
 16c
 16e
-16g
+16gJ
 =8
-16b-
-16a
+16b-L
+16a\J
 4f}
 ==
 *-
@@ -56,4 +65,9 @@
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=142 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 118} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 118}
 !!!page: 118
+!!!BEM: Radowaczka-Mazur
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-09
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-23

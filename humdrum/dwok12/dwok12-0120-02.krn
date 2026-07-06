@@ -1,8 +1,13 @@
-!!!!SEGMENT: DWOK1212000001-oj_jada_jada_uzary.krn
+﻿!!!!SEGMENT: DWOK1212000001-oj_jada_jada_uzary.krn
 !!!OTL: Oj jadą, jadą uzary
+!!!FKT: Pieśni i Dumy. Pieśni przed Weselem i wśród Wesela śpiewane
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Poznania
+!!!AR1: wielkopolskie ; m. Poznań ; Poznań-gmina miejska
+!!!GE1: 52.407918 , 16.933467
 !!!source: DWOK12
 !!!id: 12120
-!!!signature: 1212000001
+!!!signature: 1212000002
 **kern	**text
 *clefG2	*
 *k[]	*
@@ -49,11 +54,11 @@
 !!@VERSE:1. Oj jadą, jadą uzary z góry.
 !!Oj jedzie mój Jasieniek wiezie mi wianek.
 !!@@END: VERSES
-!!!ONB: Kolberg podaje metrum 4/4
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=75 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 59} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 59}
 !!!page: 59
+!!!BEM: Kolberg podaje metrum 4/4
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-02-25

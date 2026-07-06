@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1221300000-od_jeziorka_jasne_kolka.krn
+﻿!!!!SEGMENT: DWOK1221300000-od_jeziorka_jasne_kolka.krn
 !!!OTL: Od jęziórka jasne kółka
+!!!FKT: Pieśni i Dumy. Stałość. Życzliwość. Wymówka
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Wielenia
+!!!AR1: wielkopolskie ; czarnkowsko-trzcianecki ; Wieleń-miasto
+!!!GE1: 52.888563 , 16.167865
 !!!source: DWOK12
 !!!id: 12213
 !!!signature: 1221300000
@@ -50,8 +55,8 @@
 4a	strzeże.
 4g}	.
 ==	==
-*- 	*-
-!!!role-singer: Maiden,Bachelor
+*-	*-
+!!!role-singer: Maiden, Bachelor
 !!!role-listener: Maiden
 !!!singer-sex: female, male
 !!@@BEGIN: VERSES
@@ -93,3 +98,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

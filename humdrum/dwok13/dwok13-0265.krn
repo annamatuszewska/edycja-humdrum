@@ -1,63 +1,83 @@
-!!!!SEGMENT: DWOK1326500000-a_czyje_to_wolki_byly.krn
+﻿!!!!SEGMENT: DWOK1326500000-a_czyje_to_wolki_byly.krn
 !!!OTL: A czyje to wołki były
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Czerniejewa
+!!!AR1: wielkopolskie ; gnieźnieński ; Czerniejewo-miasto
+!!!GE1: 52.426676 , 17.489312
 !!!source: DWOK13
 !!!id: 13265
 !!!signature: 1326500000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16f
-16ff
-8ee
-8ff
-=2
-16dd
-16dd
-8.cc
-16a}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16f	A
+16ff	czy-
+8ee	-je
+8ff	to
+=2	=2
+16dd	woł-
+8eeq	.
+16dd	-ki
+8.cc	by-
+16a}	-ły,
 !!LO:LB:g=esac
-=3
-{16f
-16ff
-8ee
-8ff
-=4
-16dd
-16dd
-8.cc
-16a}
+=3	=3
+{16f	co
+16ff	bez
+8ee	rze-
+8ff	-kę
+=4	=4
+16dd	prze-
+8eeq	.
+16dd	-pły-
+8.cc	-né-
+16a}	-ły.
 !!LO:LB:g=esac
-=5
-{16g
-16b-
-8dd
-8e
-=6
-16f
-16a
-16g
-16a
-8cc}
+=5	=5
+{16g	Je-
+8aq	.
+16b-	-den
+8dd	si-
+8e\	-wy,
+=6	=6
+16f	dru-
+16a	-gi
+16gL	bu-
+16aJ	.
+8cc/	-ry,
 !!LO:LB:g=esac
-=7
-{16g
-16b-
-8dd
-16b-
-16g
-=8
-16f
-16a
-16g
-16a
-8f}
-==
-*-
+=7	=7
+{16g	po-
+8aq	.
+16b-	-ro-
+8dd	-bi-
+16b-/L	-ły
+16gJ	.
+=8	=8
+16f	w_płotach
+16a	.
+16gL	du-
+16aJ	.
+8f}\	-ry.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A czyje to wołki były,
+!!co bez rzekę przepłynéły.
+!!Jeden siwy, drugi bury,
+!!porobiły w płotach dury.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=149 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 125} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 125}
 !!!page: 125
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-11
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-23

@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1214700001-na_zielonym_gaju.krn
-!!!OTL: Na zielonym gaju
+﻿!!!!SEGMENT: DWOK1214700001-na_zielonym_gaju.krn
+!!!OTL: Na zielonym gaju. Krakowiak
+!!!FKT: Pieśni i Dumy. Pieśni przed Weselem i wśród Wesela śpiewane
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Zerkowa
+!!!AR1: wielkopolskie ; jarociński ; Żerków-miasto
+!!!GE1: 52.068386 , 17.563327
 !!!source: DWOK12
 !!!id: 12147
 !!!signature: 1214700001
@@ -57,6 +62,7 @@
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=89 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 73} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 73}
 !!!page: 73
+!!!BEM: Krakowiak
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-02-25

@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1232400000-dzisiaj_czeladz_pije.krn
+﻿!!!!SEGMENT: DWOK1232400000-dzisiaj_czeladz_pije.krn
 !!!OTL: Dzisiaj czeladź pije
+!!!FKT: Pieśni i Dumy. Strata wianka. Żale
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: Kościan
+!!!AR1: wielkopolskie ; kościański ; Kościan-gmina miejska
+!!!GE1: 52.085881 , 16.644239
 !!!source: DWOK12
 !!!id: 12324
 !!!signature: 1232400000
@@ -39,7 +44,7 @@
 4dd	-muje.
 4dd}	.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Narrator, Maiden
 !!!singer-sex: female
 !!@@BEGIN: VERSES
@@ -76,3 +81,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-26
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

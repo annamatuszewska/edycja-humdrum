@@ -1,87 +1,117 @@
-!!!!SEGMENT: DWOK1324900002-a_poszlam_ja_za_dziada.krn
+﻿!!!!SEGMENT: DWOK1324900002-a_poszlam_ja_za_dziada.krn
 !!!OTL: A poszłam ja za dziada
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Krobi
+!!!AR1: wielkopolskie ; gostyński ; Krobia-miasto
+!!!GE1: 51.774178 , 16.984630
 !!!source: DWOK13
 !!!id: 13249
 !!!signature: 1324900002
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{8ee
-8ee
-16ee
-16cc
-=2
-16dd
-16dd
-16ee
-16cc
-8a
-=3
-8ee
-8ee
-16cc
-16b
-=4
-16a
-16b
-16cc
-16b
-8a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{8ee	A
+8ee	po-
+16ee/L	-szłam
+16cc/J	.
+=2	=2
+16dd	ja
+16dd	za
+16eeL/	dziada,
+16cc/	.
+8aJ	.
+=3	=3
+8ee	oj
+8ee	wiel-
+16cc/L	-ka
+16b/J	.
+=4	=4
+16a\	na
+16b	mnie
+16cc/L	bia-
+16b/J	.
+8a}\	-da;
 !!LO:LB:g=esac
-=5
-{8e
-8e
-16g#
-16a
-=6
-16b
-16dd
-16cc
-16b
-8a
-=7
-16b
-16g#
-8e
-16f#
-16g#
-=8
-16a
-16b
-16cc
-16b
-8a}
+=5	=5
+{8e	skróć
+8e	mi
+16g#	Bo-
+16a	-że
+=6	=6
+16b	te
+16dd	mo-
+16cc/L	-men-
+16b/J	.
+8a\	-ta,
+=7	=7
+16b	bo
+16g#	ja
+8e	z_dzia-
+16f#L	-da
+16g#J	.
+=8	=8
+16a\	nie-
+16b	-kon-
+16cc/L	-ten-
+16b/J	.
+8a}\	-ta,
 !!LO:LB:g=esac
-=9
-{8e
-8e
-16g#
-16a
-=10
-16b
-16dd
-16cc
-16b
-8a
-=11
-16b
-16g#
-8e
-16f#
-16g#
-=12
-16a
-16b
-16cc
-16b
-8a}
-==
-*-
+=9	=9
+{8e	jak-
+8e	-bym
+16g#	da-
+16a	-ła
+=10	=10
+16b	pół
+16dd	ta-
+16cc/L	-la-
+16b/J	.
+8a\	-ra,
+=11	=11
+16b	że-
+16g#	-bym
+8e	dzia-
+16f#L	-da
+16g#J	.
+=12	=12
+16a\	gdzie
+16b	po-
+16cc/L	-dzia-
+16b/J	.
+8a}\	-ła.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A poszłam ja za dziada,
+!!oj wielka na mnie biada;
+!!skróć mi Boże te momenta,
+!!bo ja z dziada niekontenta,
+!!jabym dała pół talara,
+!!żebym dziada gdzie podziała.
+!!@VERSE:
+!!2. Dobijcież mnie, zabijcież mnie,
+!!za starego nie dajcie mnie.
+!!U starego siwa broda,
+!!u młodego jak jagoda.
+!!@VERSE:
+!!3. Moja matko, co màm robić?
+!!czy màm mego Maćka dobić.
+!!Bo mój Maciek bardzo łebski,
+!!jen u niego rozum kiepski.
+!!@@END: VERSES
+!!!role-singer: Wife
+!!!role-listener: Group, Mother
+!!!singer-sex: female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=143 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 119-120} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, pp. 119-120}
 !!!page: 119-120
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-09
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-23

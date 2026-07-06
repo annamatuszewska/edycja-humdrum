@@ -1,109 +1,135 @@
-!!!!SEGMENT: DWOK1325200000-trzebac_wiedzic.krn
-!!!OTL: Trzebać wiedzić
+﻿!!!!SEGMENT: DWOK1325200000-trzebac_wiedzic.krn
+!!!OTL: Trzebać wiedzić. Kujawiak
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kruszwicy, Radziejowa
+!!!AR1: kujawsko-pomorskie ; inowrocławski ; Kruszwica-miasto
+!!!GE1: 52.676219 , 18.323047
+!!!AR2: kujawsko-pomorskie ; radziejowski ; Radziejów-gmina miejska
+!!!GE2: 52.623008 , 18.527170
 !!!source: DWOK13
 !!!id: 13252
 !!!signature: 1325200000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8dd
-8dd
-8dd
-=2
-16dd
-16ee
-8dd
-8cc}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8dd	Trzebać
+8dd	.
+8dd	wiedzić
+=2	=2
+16dd	pa-
+16ee	-nie
+8dd	Jó-
+8cc}	-nie,
 !!LO:LB:g=esac
-=3
-{8b
-8b
-16ee
-16dd
-=4
-16cc
-16b
-8g
-8a}
+=3	=3
+{8b	trze-
+8b	-bać
+16ee	wiedzić
+16dd	.
+=4	=4
+16cc	i
+16b	Ma-
+8g	-tu-
+8a\}	-szu,
 !!LO:LB:g=esac
-=5
-{8d
-8f#
-8a
-=6
-16b
-16b
-8dd
-8cc}
+=5	=5
+{8d	że
+8f#	ku-
+8a\	-ja-
+=6	=6
+16b	-wiak
+16b	w_ki-
+8dd	-reji,
+8cc}	.
 !!LO:LB:g=esac
-=7
-{16b
-16b
-8ee
-8dd
-=8
-16cc
-16b
-8g
-8a}
+=7	=7
+{16b	da
+16b	to
+8ee	ślachcic
+8dd	.
+=8	=8
+8ddq	.
+16cc	da
+16b	w_kon-
+8g	-tu-
+8a}\	-szu.
 !!LO:LB:g=esac
-=9
-{8dd
-8dd
-16dd
-16b
-=10
-16dd
-16ee
-8dd
-16cc
-16a}
+=9	=9
+{8dd	Trzebać
+8dd	.
+16dd/L	wiedzić
+16b/J	.
+=10	=10
+16dd	pa-
+16ee	-nie
+8dd	Jó-
+16cc/L	-nie,
+16a}J	.
 !!LO:LB:g=esac
-=11
-{8b
-8b
-16ee
-16dd
-=12
-16cc
-16b
-8g
-16a
-16f#}
+=11	=11
+{8b	trze-
+8b	-bać
+16ee	wiedzić
+16dd	.
+=12	=12
+16cc	i
+16b	Ma-
+8g	-tu-
+16aL	-szu,
+16f#J}	.
 !!LO:LB:g=esac
-=13
-{8d
-8f#
-16a
-16cc
-=14
-16b
-32a
-32b
-8dd
-16cc
-16a}
+=13	=13
+{8d	że
+8f#	ku-
+16aL	-ja-
+16ccJ/	.
+=14	=14
+16b/L	-wiak
+32a	.
+32b/J	.
+8dd	w_ki-
+16cc/L	-reji,
+16a}J	.
 !!LO:LB:g=esac
-=15
-{16b
-32a
-32b
-8ee
-8dd
-=16
-16cc
-16b
-8g
-16a
-16f#}
-==
-*-
-!!!ONB: Kujawiak
+=15	=15
+{16b/L	da
+32a	.
+32b/J	to
+8ee	ślachcic
+8dd	.
+=16	=16
+8ddq	.
+16cc	da
+16b	w_kon-
+8g	-tu-
+16aL	-szu.
+16f#J}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Trzebać wiedzić panie Jónie,
+!!trzebać wiedzić i Matuszu,
+!!że kujawiak w kireji,
+!!da to ślachcic da w kontuszu.
+!!@VERSE:
+!!2. Kujawianka nima wiánka,
+!!bo go niegodna, niegodna;
+!!wrzuciła go w ten stawyszek,
+!!poszed ji do dna, da do dna.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!role-listener: Man, Mother
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=145 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 121} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 121}
 !!!page: 121
+!!!BEM: Kujawiak
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-11
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-23

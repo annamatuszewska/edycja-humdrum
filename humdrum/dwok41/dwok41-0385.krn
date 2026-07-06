@@ -3,56 +3,71 @@
 !!!source: DWOK41
 !!!id: 41385
 !!!signature: 4138500000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16b
-8cc
-8b
-=2
-16g
-16b
-8cc
-8ee
-=3
-16g
-16b
-8cc
-8b
-=4
-16g
-16b
-8f#
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Za-
+16b	-ku-
+8cc	-ka-
+8b	-ła
+=2	=2
+16g	ku-
+16b	-ka-
+8cc	-we-
+8ee	-czka
+=3	=3
+16g	w_po-
+16b	-lu
+8cc	na
+8b	gło-
+=4	=4
+16g	-gu,
+16b	na
+8f#	gło-
+8g}	-gu,
 !!LO:LB:g=esac
-=5
-{16g
-16b
-8cc
-8ee
-=6
-16dd
-16b
-8cc
-8b
-=7
-16g
-16b
-8cc
-8b
-=8
-16g
-16g
-8f#
-8g}
-==
-*-
+=5	=5
+{16g	już
+16b	to
+8cc	mo-
+8ee	-ja
+=6	=6
+16dd	mi-
+16b	-ła
+8cc	żon-
+8b	-ka
+=7	=7
+16g	le-
+16b	-ży
+8cc	w_po-
+8b	-ło-
+=8	=8
+16g	-gu,
+16g	w_po-
+8f#	-ło-
+8g}	-gu.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Zakukała kukaweczka
+!!w polu na głogu, na głogu,
+!!już to moja miła żonka
+!!leży w połogu, w połogu.
+!!@VERSE:
+!!2. Zukukala kukaweczka
+!!w polu na olszy, na olszy,
+!!już to moja mila żonka
+!!dzieciątko nosi, da, nosi.
+!!@@END: VERSES
+!!!role-singer: Husband
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=295 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 214} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 214}
 !!!page: 214
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-01

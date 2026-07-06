@@ -3,62 +3,72 @@
 !!!source: DWOK41
 !!!id: 41355
 !!!signature: 4135500000
-**kern
-*clefG2
-*k[]
-*a:
-*M2/4
-=1
-{8a
-8a
-8a
-8g
-=2
-4cc
-4dd
-=3
-2ee}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M2/4	*
+=1	=1
+{8a	U
+8a	mo-
+8a	-jej
+8g	ma-
+=2	=2
+4cc	-tki
+4dd	w_sie-
+=3	=3
+2ee}	-ni,
 !!LO:LB:g=esac
-=4
-{8dd
-8ee
-8ff
-8ee
-=5
-4dd
-4ee
-=6
-2a}
+=4	=4
+{8dd	tam
+8ee	się
+8ff	li-
+8ee	-pka
+=5	=5
+4dd	zie-
+4ee	-le-
+=6	=6
+2a}	-ni.
 !!LO:LB:g=esac
-=7
-{4ee
-8cc
-8ee
-=8
-4dd
-4a
-=9
-4cc
-8b
-8dd
-=10
-4a
-4g}
+=7	=7
+{4ee	Hej,
+8cc	na
+8ee	tej
+=8	=8
+4dd	li-
+4a	-pce,
+=9	=9
+4cc	hej,
+8b	na
+8dd	zie-
+=10	=10
+4a	-lo-
+4g}	-nej,
 !!LO:LB:g=esac
-=11
-{8cc
-8cc
-8cc
-8dd
-=12
-4ee
-4cc
-=13
-2a}
-==
-*-
+=11	=11
+{8cc	trzej
+8cc	ptasz-
+8cc	-ko-
+8dd	-wie
+=12	=12
+4ee	sie-
+4cc	-dzi-
+=13	=13
+2a}	-eli.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!U mojej matki w sieni,
+!!tam się lipka zieleni.
+!!Hej, na tej lipce,
+!!hej, na zielonej,
+!!trzej ptaszkowie siedzieli.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=281 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 202-203} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 202-203}
 !!!page: 202-203
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-30

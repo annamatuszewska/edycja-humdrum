@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1221200000-wielkie_kola_u_jeziora.krn
+﻿!!!!SEGMENT: DWOK1221200000-wielkie_kola_u_jeziora.krn
 !!!OTL: Wielkie koła u jeziora
+!!!FKT: Pieśni i Dumy. Stałość. Życzliwość. Wymówka
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Koźmina
+!!!AR1: wielkopolskie ; krotoszyński ; Koźmin Wielkopolski-miasto
+!!!GE1: 51.827192 , 17.452901
 !!!source: DWOK12
 !!!id: 12212
 !!!signature: 1221200000
@@ -112,3 +117,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

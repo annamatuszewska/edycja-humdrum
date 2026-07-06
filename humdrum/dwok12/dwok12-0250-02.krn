@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1225000002-nie_kce_cie_dziwce.krn
+﻿!!!!SEGMENT: DWOK1225000002-nie_kce_cie_dziwce.krn
 !!!OTL: Nie kcę cię dziwce
+!!!FKT: Pieśni i Dumy. Skarga. Niechęć. Rozstanie
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Wielenia
+!!!AR1: wielkopolskie ; czarnkowsko-trzcianecki ; Wieleń-miasto
+!!!GE1: 52.888563 , 16.167865
 !!!source: DWOK12
 !!!id: 12250
 !!!signature: 1225000002
@@ -71,7 +76,7 @@
 4g}	cię.
 4r	.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Bachelor
 !!!role-listener: Maiden
 !!!singer-sex: male
@@ -92,3 +97,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

@@ -3,73 +3,94 @@
 !!!source: DWOK41
 !!!id: 41271
 !!!signature: 4127100000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8g
-8b
-4dd
-4ee
-=2
-8.dd
-16b
-2g
-=3
-8.cc
-16ee
-4cc
-4ee
-=4
-8.dd
-16b
-2g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8g	Sko-
+8b	-wro-
+4dd	-ne-
+4ee	-czek
+=2	=2
+8.ddL	śpié-
+16bJ	.
+2g	-wa,
+=3	=3
+8.cc	dzień
+16ee	się
+4cc	roz-
+4ee	-wi-
+=4	=4
+8.ddL	-dni-
+16bJ	.
+2g}	-wa,
 !!LO:LB:g=esac
-=5
-{8b
-8dd
-4b
-4dd
-=6
-8cc
-8a
-4f#
-4d
-=7
-8.a
-16a
-4cc
-8a
-8f#
-=8
-4g
-2dd}
+=5	=5
+{8b	sto-
+8dd	-i
+4b	Ka-
+4dd	-sia
+=6	=6
+8cc	w_o-
+8a	-kie-
+4f#	-ne-
+4d	-czku,
+=7	=7
+8.a	goś-
+16a	-ci
+4cc	się
+8aL	spo-
+8f#J	.
+=8	=8
+4g	-dzie-
+2dd}	-wa.
 !!LO:LB:g=esac
-=9
-{8b
-8dd
-4b
-4dd
-=10
-8cc
-8a
-4f#
-4d
-=11
-8.a
-16a
-4cc
-8a
-8f#
-=12
-4g
-2g}
-==
-*-
+=9	=9
+{8b	sto-
+8dd	-i
+4b	Ka-
+4dd	-sia
+=10	=10
+8cc	w_o-
+8a	-kie-
+4f#	-ne-
+4d	-czku,
+=11	=11
+8.a	goś-
+16a	-ci
+4cc	się
+8aL	spo-
+8f#J	.
+=12	=12
+4g	-dzie-
+2g}	-wa.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Skowroneczek śpiéwa,
+!!dzień się rozwidniwa,
+!!stoi Kasia w okieneczku,
+!!gości się spodziewa.
+!!@VERSE:
+!!2. A po małej chwili
+!!jedzie Jasio miły,
+!!jedzie, jedzie na koniku
+!!do swojej jedynéj.
+!!@VERSE:
+!!3. Siedziała w ogrodku,
+!!trzy wianeczki wiła,
+!!jeden sobie, drugi tobie,
+!!trzeci powiesiła.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=247 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 168} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 168}
 !!!page: 168
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-23
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-27

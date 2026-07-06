@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1225900000-odjezdzasz_odjade._co_mi_dasz_za_rade.krn
+﻿!!!!SEGMENT: DWOK1225900000-odjezdzasz_odjade._co_mi_dasz_za_rade.krn
 !!!OTL: Odjeżdżasz? Odjadę. Co mi dasz za radę
+!!!FKT: Pieśni i Dumy. Skarga. Niechęć. Rozstanie
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Zerkowa
+!!!AR1: wielkopolskie ; jarociński ; Żerków-miasto
+!!!GE1: 52.068386 , 17.563327
 !!!source: DWOK12
 !!!id: 12259
 !!!signature: 1225900000
@@ -76,7 +81,7 @@
 8e	.
 8c}	.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Maiden, Bachelor
 !!!role-listener: Bachelor, Maiden
 !!!singer-sex: female, male
@@ -94,3 +99,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

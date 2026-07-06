@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1224700001-chcij_mnie_moj_jasiu.krn
+﻿!!!!SEGMENT: DWOK1224700001-chcij_mnie_moj_jasiu.krn
 !!!OTL: Chcij mnie mój Jasiu
+!!!FKT: Pieśni i Dumy. Skarga. Niechęć. Rozstanie
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Szremu (Brodnica)
+!!!AR1: wielkopolskie ; śremski ; Brodnica-gmina wiejska
+!!!GE1: 52.141042 , 16.892250
 !!!source: DWOK12
 !!!id: 12247
 !!!signature: 1224700001
@@ -69,7 +74,7 @@
 8a	.
 2g}	mnie.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Maiden, Bachelor
 !!!role-listener: Bachelor, Maiden
 !!!singer-sex: female, male
@@ -109,3 +114,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

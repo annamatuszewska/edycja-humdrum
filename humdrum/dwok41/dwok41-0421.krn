@@ -3,56 +3,65 @@
 !!!source: DWOK41
 !!!id: 41421
 !!!signature: 4142100000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8g
-8b
-4cc
-4ee
-=2
-4.dd
-8b
-8ee
-8a
-=3
-8g
-8b
-4cc
-4ee
-=4
-4.dd
-8b
-8a
-8g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8g	Pi-
+8b	-ła
+4cc	piw-
+4ee	-ko
+=2	=2
+4.dd	na-
+8b	-prze-
+8ee	-ciw-
+8a	-ko,
+=3	=3
+8g	nie
+8b	u-
+4cc	-pi-
+4ee	-ła
+=4	=4
+4.dd	się,
+8b	da,
+8a	i
+8g}	się;
 !!LO:LB:g=esac
-=5
-{8g
-8b
-4cc
-4a
-=6
-4.dd
-8b
-8a
-8g
-=7
-8g
-8b
-4cc
-4a
-=8
-4.b
-8a
-8cc
-8g}
-==
-*-
+=5	=5
+{8g	da-
+8b	-ła
+4cc	bu-
+4a	-zi
+=6	=6
+4.dd	dwo-
+8b	-ra-
+8a	-ko-
+8g	-wi,
+=7	=7
+8g	nie
+8b	skur-
+4cc	-wi-
+4a	-ła
+=8	=8
+4.b	się,
+8a	da,
+8cc	i
+8g}	się.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Piła piwko naprzeciwko,
+!!nie upiła się, da, i się;
+!!dała buzi dworakowi,
+!!nie skurwiła się, da, i się.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=311 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 228} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 228}
 !!!page: 228
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-14

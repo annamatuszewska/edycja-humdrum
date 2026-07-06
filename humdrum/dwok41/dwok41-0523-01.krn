@@ -3,60 +3,95 @@
 !!!source: DWOK41
 !!!id: 41523
 !!!signature: 4152300001
-**kern
-*clefG2
-*k[b-e-]
-*g:
-*M3/8
-=1
-{16g
-16b-
-8.dd
-16ee-
-=2
-16dd
-16a
-16dd
-16b-
-8g}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*g:	*
+*M3/8	*
+=1	=1
+{16g	O
+16b-	mój
+8.dd	Bo-
+16ee-	-że,
+=2	=2
+16dd	co
+16a	za
+16ddL	bie-
+16b-J	.
+8g}	-da!
 !!LO:LB:g=esac
-=3
-{16g
-16b-
-8.dd
-16ee-
-=4
-16dd
-16a
-8dd
-8b-}
+=3	=3
+{16g	Fran-
+(8aq	.
+16b-)	-si
+8.dd	za
+16ee-	mnie
+=4	=4
+16dd	Ku-
+16a	-ba
+8dd	nie
+8b-}	da!
 !!LO:LB:g=esac
-=5
-{16g
-16b-
-8.g
-16a
-=6
-16f#
-16a
-8cc
-16ee-
-16dd}
+=5	=5
+{16g	Nie
+16b-	da
+8.g	Fran-
+16a	-si,
+=6	=6
+16f#	choć-
+16a	-bym
+8cc	zgi-
+16ee-L	-nął,
+16dd}J	.
 !!LO:LB:g=esac
-=7
-{16b-
-16b-
-8a
-8g
-=8
-16d
-16f#
-8a
-8g}
-==
-*-
+=7	=7
+{16b-	choć-
+16b-	-bym
+8a	śmier-
+8g	-ci
+=8	=8
+16d	nie
+16f#	o-
+8a	-mi-
+8g}	-nął.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. O mój Boże, co za bieda!
+!!Fransi za mnie Kuba nie da!
+!!Nie da Fransi, choćbym zginął, choćbym śmierci nie ominął.
+!!@VERSE:
+!!2. Mocny Boże, co za szkoda,
+!!Fransia młoda jak jagoda,
+!!mówiła mi, że mnie kocha,
+!!płacze, narzéka i szlocha.
+!!@VERSE:
+!!3. Mocny Boże, co ja pocznę?
+!!Straciłem zasługi roczne,
+!!a choćbym się i zadłużył,
+!!bobym z Fransią swiata użył.
+!!@VERSE:
+!!4. O Najswiętsza Matko Boska
+!!Miedniewicka, Częstochowska,
+!!sprawże cudów swoich siłą,
+!!aby nam tęskno nie było.
+!!@VERSE:
+!!5. Bo przysięgam, nie przeżyję.
+!!jutro zginę, dziś się spiję.
+!!Wszak od biédy ten ratunek:
+!!twoje cuda, śmierć i trunek.
+!!@VERSE:
+!!6. Bo pan Jędrzej tak powiedział.
+!!a on dobrze o tém wiedział,
+!!bo go Fransia nauczyła,
+!!i kochała, i zdradziła.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=351 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 268} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 268}
 !!!page: 268
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-20

@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1247600001-ono_moja_zono.krn
+﻿!!!!SEGMENT: DWOK1247600001-ono_moja_zono.krn
 !!!OTL: Żono moja żono
+!!!FKT: Pieśni i Dumy. Zabawa. Karczma. Tańce. Hulanka
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kostrzyna
+!!!AR1: wielkopolskie ; poznański ; Kostrzyn-miasto
+!!!GE1: 52.397266 , 17.225518
 !!!source: DWOK12
 !!!id: 12476
 !!!signature: 1247600001
@@ -31,8 +36,8 @@
 8dd	będą
 8b-	.
 =6	=6
-16b-	w_domu
-16a	.
+16b-\L	w_domu
+16aJ	.
 4cc	.
 =7	=7
 16f	wielkie
@@ -59,7 +64,7 @@
 8cc	.
 =12	=12
 16dd	taba-
-16a	.
+16a\	.
 4b-}	-ki,
 !!LO:LB:g=esac
 =13	=13
@@ -78,12 +83,12 @@
 8cc	.
 =16	=16
 16dd	.
-16a	.
+16a\	.
 4b-}	.
 ==	==
 *-	*-
-!!!role-singer: Lover
-!!!role-listener: Mistress
+!!!role-singer: Husband
+!!!role-listener: Wife
 !!!singer-sex: male
 !!@@BEGIN: VERSES
 !!@VERSE:
@@ -126,3 +131,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

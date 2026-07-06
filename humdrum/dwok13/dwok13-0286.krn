@@ -1,64 +1,84 @@
-!!!!SEGMENT: DWOK1328600000-pijala_ja_gorzaleczke.krn
+﻿!!!!SEGMENT: DWOK1328600000-pijala_ja_gorzaleczke.krn
 !!!OTL: Pijała ja gorzałeczkę
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Swarzędza, Kostrzyna
+!!!AR1: wielkopolskie ; poznański ; Swarzędz-miasto
+!!!GE1: 52.410075 , 17.077380
+!!!AR2: wielkopolskie ; poznański ; Kostrzyn-miasto
+!!!GE2: 52.397266 , 17.225518
 !!!source: DWOK13
 !!!id: 13286
 !!!signature: 1328600000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8d
-16f#
-16g
-16b
-16g
-=2
-16ee
-16ee
-8a
-8cc}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8d	Pi-
+16f#L	-jała
+16gJ	.
+16b	ja
+16g\	.
+=2	=2
+16ee/L	gorzałecz-
+16ee/	.
+8aJ	.
+8cc}	-kę,
 !!LO:LB:g=esac
-=3
-{16ee
-16ee
-8dd
-8g
-=4
-16a
-16f#
-16d
-16f#
-8g}
+=3	=3
+{16ee/L	pi-
+16ee/	-ja-
+8dd/J	-ła
+8g	ja
+=4	=4
+16a	miód
+16f#	da
+16dL	i
+16f#J	.
+8g}	miód,
 !!LO:LB:g=esac
-=5
-{8d
-16f#
-16g
-16b
-16dd
-=6
-16a
-16f#
-8a
-8cc}
+=5	=5
+{8d	a
+16f#L	teraz
+16gJ	.
+16b/L	mi
+16dd/J	.
+=6	=6
+16a\	wody
+16f#\	.
+8a\	nie
+8cc}	dasz,
 !!LO:LB:g=esac
-=7
-{16b
-16b
-8dd
-8g
-=8
-16a
-16f#
-16d
-16f#
-8g}
-==
-*-
+=7	=7
+{16b	jakeś
+16b	.
+8dd	mnie
+8g	u-
+=8	=8
+16a	-wiód
+16f#	da
+16dL	u-
+16f#J	.
+8g}	-wiód.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Pijała ja gorzałeczkę,
+!!pijała ja miód da i miód,
+!!a teraz mi wody nie dasz,
+!!jakeś mnie uwiód da uwiód.
+!!@@END: VERSES
+!!!role-singer: Mistress
+!!!role-listener: Lover
+!!!singer-sex: female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=156 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 132} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 132}
 !!!page: 132
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-18
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-24

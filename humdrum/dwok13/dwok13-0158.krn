@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1315800000-jakem_ja_byl_kawalirem.krn
-!!!OTL: Jakem ja był kawalirem
+﻿!!!!SEGMENT: DWOK1315800000-jakem_ja_byl_kawalirem.krn
+!!!OTL: Jakem ja był kawalirem. Mazur
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gniezna, Kalisza
+!!!AR1: wielkopolskie ; gnieźnieński ; Gniezno-gmina miejska
+!!!GE1: 52.533333 , 17.601388
+!!!AR2: wielkopolskie ; m. Kalisz ; Kalisz-gmina miejska
+!!!GE2: 51.761140 , 18.086914
 !!!source: DWOK13
 !!!id: 13158
 !!!signature: 1315800000
@@ -151,11 +158,11 @@
 !!@@END: VERSES
 !!!role-singer: Bridegroom, Bride
 !!!singer-sex: male, female
-!!!ONB: zapis melodii dwóch zwrotek
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=111 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 87} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 87}
 !!!page: 87
+!!!BEM: zapis melodii dwóch zwrotek
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-26

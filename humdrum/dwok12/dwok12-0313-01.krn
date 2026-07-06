@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1231300001-idzie_konik_z_miasta.krn
+﻿!!!!SEGMENT: DWOK1231300001-idzie_konik_z_miasta.krn
 !!!OTL: Idzie konik z miasta
+!!!FKT: Pieśni i Dumy. Strata wianka. Żale
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Czempina (Brodnica)
+!!!AR1: wielkopolskie ; śremski ; Brodnica-gmina wiejska
+!!!GE1: 52.141042 , 16.892250
 !!!source: DWOK12
 !!!id: 12313
 !!!signature: 1231300001
@@ -53,7 +58,7 @@
 4g}	.
 4r	.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Bachelor, Maiden
 !!!role-listener: Maiden, Bachelor
 !!!singer-sex: male, female
@@ -72,3 +77,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

@@ -1,46 +1,72 @@
-!!!!SEGMENT: DWOK1233600010-czy_to_pod_olszyna.krn
+﻿!!!!SEGMENT: DWOK1233600010-czy_to_pod_olszyna.krn
 !!!OTL: Czy to pod olszyną
+!!!FKT: Pieśni i Dumy. Igraszka. Swawola
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Zaniemyśla, Książa
+!!!AR1: wielkopolskie ; średzki ; Zaniemyśl-gmina wiejska
+!!!GE1: 52.156121 , 17.164291
+!!!AR2: wielkopolskie ; śremski ; Książ Wielkopolski-miasto
+!!!GE2: 52.062403 , 17.239231
 !!!source: DWOK12
 !!!id: 12336
 !!!signature: 1233600010
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M3/8
-=1
-{16.d
-32f#
-16a
-16g
-16f#
-16e
-=2
-16.d
-32f#
-16a
-16dd
-16cc#
-16b
-=3
-16.a
-32b
-16cc#
-16a
-16b
-16cc#
-=4
-16.dd
-32cc#
-16ee
-16dd
-16cc#
-16dd}
-==
-*-
-!!!ONB: Fragment melodii w D
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M3/8	*
+=1	=1
+{16.d	Czy
+32f#	to
+16a	pod
+16g	olszyną,
+16f#	.
+16e	.
+=2	=2
+16.d	czy
+32f#	to
+16a\	pod
+16dd	laszczyną,
+16cc#	.
+16b	.
+=3	=3
+16.a\	pasła
+32b	.
+16cc#	pastereczka
+16a\	.
+16b	.
+16cc#	.
+=4	=4
+16.dd	młode
+32cc#	.
+16ee	jagniąteczka.
+16dd	.
+16cc#	.
+16dd}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Maiden
+!!!role-listener: Bachelor
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Czy to pod olszyną,
+!!czy to pod laszczyną,
+!!pasła pastereczka
+!!młode jagniąteczka.
+!!@VERSE:
+!!2. Daj mi pokój
+!!ja cię proszę,
+!!niech ja swoją
+!!trzodę pasę.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=194 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 178} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 178}
 !!!page: 178
+!!!BEM: Fragment melodii w D
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

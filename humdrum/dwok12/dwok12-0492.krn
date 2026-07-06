@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1249200000-idzie_zolnierz_borem_lasem.krn
+﻿!!!!SEGMENT: DWOK1249200000-idzie_zolnierz_borem_lasem.krn
 !!!OTL: Idzie żołnierz borem lasem
+!!!FKT: Pieśni i Dumy. Wojsko. Łowy
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gostynia, Krobi
+!!!AR1: wielkopolskie ; gostyński ; Gostyń-miasto
+!!!GE1: 51.882066 , 17.012312
+!!!AR2: wielkopolskie ; gostyński ; Krobia-miasto
+!!!GE2: 51.774178 , 16.984630
 !!!source: DWOK12
 !!!id: 12492
 !!!signature: 1249200000
@@ -58,18 +65,18 @@
 =10	=10
 8cc	przymiera-
 8ee	.
-8dd	.
-8b	-jąc
-4g	głodu
+8dd/L	.
+8bJ	.
+4g	-jąc
 =11	=11
-4cc	.
-4a	czasem.
-8a	.
+4cc	głodu
+4a	.
+8a	czasem.
 8g}	.
 ==	==
 *-	*-
-!!!role-singer: Lover
-!!!role-listener: Mistress
+!!!role-singer: Narrator, Soldier
+!!!role-listener: Sister
 !!!singer-sex: male
 !!@@BEGIN: VERSES
 !!@VERSE:
@@ -99,3 +106,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

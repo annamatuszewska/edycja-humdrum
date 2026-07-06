@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1244700002-ozenil_sie_szalamaja.krn
+﻿!!!!SEGMENT: DWOK1244700002-ozenil_sie_szalamaja.krn
 !!!OTL: Ożenił się szałamaja
+!!!FKT: Pieśni i Dumy. Małżeństwo. Kłótnia. Zgoda
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kcyni, Znina
+!!!AR1: kujawsko-pomorskie ; nakielski ; Kcynia-miasto
+!!!GE1: 52.991733 , 17.487238
+!!!AR2: kujawsko-pomorskie ; żniński ; Żnin-miasto
+!!!GE2: 52.849622 , 17.720835
 !!!source: DWOK12
 !!!id: 12447
 !!!signature: 1244700002
@@ -118,3 +125,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

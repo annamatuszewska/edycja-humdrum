@@ -3,62 +3,75 @@
 !!!source: DWOK41
 !!!id: 41279
 !!!signature: 4127900000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16ee
-16ff
-8gg
-16ee
-16gg
-=2
-16ff
-16dd
-16ff#
-16gg
-16ee
-16cc
-=3
-16ee
-16ff
-8gg
-8ee
-=4
-16ff
-16dd
-8b
-8cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16ee	Ja
+16ff	do
+8gg	Ka-
+16eeL	-sie,
+16ggJ	.
+=2	=2
+16ff	ty
+16dd	do
+16ff#L	Ka-
+16ggJ	.
+16eeL	-sie,
+16ccJ	.
+=3	=3
+16ee	na
+16ff	po-
+8gg	-rę-
+8ee	-bach
+=4	=4
+16ff	woł-
+16dd	-ki
+8b	pa-
+8cc}	-sie:
 !!LO:LB:g=esac
-=5
-{16b
-16dd
-8dd
-16g
-16b
-=6
-16cc
-16a
-16f#
-16a
-16cc
-16a
-=7
-16b
-16cc
-8dd
-8g
-=8
-16cc
-16a
-8f#
-8g}
-==
-*-
+=5	=5
+{16b	ja
+16dd	do
+8dd	Ka-
+16gL	-sie
+16b/J	.
+=6	=6
+16cc	na
+16a	po-
+16f#L	-rę-
+16aJ	.
+16cc/L	-by:
+16aJ	.
+=7	=7
+16b	Mo-
+16cc	-ja
+8dd	Ka-
+8g	-siu,
+=8	=8
+16cc	daj
+16a	mi
+8f#	gę-
+8g}	-by.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Ja do Kasie, ty do Kasie,
+!!na porębach wołki pasie:
+!!ja do Kasie na poręby:
+!!Moja Kasiu, daj mi gęby.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Girl
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=250 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 171} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 171}
 !!!page: 171
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-24
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-27

@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1232600001-ach_boze_moj_boze.krn
+﻿!!!!SEGMENT: DWOK1232600001-ach_boze_moj_boze.krn
 !!!OTL: Ach Boże mój, Boże
+!!!FKT: Pieśni i Dumy. Strata wianka. Żale
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gołańczy (Czeszewo)
+!!!AR1: wielkopolskie ; wągrowiecki ; Gołańcz-obszar wiejski
+!!!GE1: 52.908722 , 17.382633
 !!!source: DWOK12
 !!!id: 12326
 !!!signature: 1232600001
@@ -76,7 +81,7 @@
 8f}	.
 8r	.
 ==	==
-*- 	*-
+*-	*-
 !!!RDF**kern: <= below
 !!!role-singer: Maiden, Narrator
 !!!role-listener: God, Narrator
@@ -115,3 +120,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-26
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14
