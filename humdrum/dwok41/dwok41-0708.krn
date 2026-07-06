@@ -10,43 +10,46 @@
 *M3/4
 =1
 {8ff
-8ff
-4ff
+(8eeq
+8ff)
+(8eeq
+4ff)
 4gg
 =2
 8ee
 8ee
 4dd
 4cc
-=
+=3
 4ff
-12gg
+12ggL
 12ff
-12ee
+12eeJ
 8ff
 8gg
-=3
+=4
 8ee
 8ee
 4dd
 4cc}
 !!LO:LB:g=esac
-=4
+=5
 {4gg
 4dd
 8cc
 8a
-=5
-8b
+=6
+(8aq
+8b)
 8dd
 4dd
 4dd
-=6
+=7
 4gg
 4dd
 8cc
 8a
-=7
+=8
 8a
 8dd
 4b
@@ -58,3 +61,5 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=424 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 337} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 337}
 !!!page: 337
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-06-14

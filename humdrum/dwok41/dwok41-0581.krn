@@ -3,82 +3,88 @@
 !!!source: DWOK41
 !!!id: 41581
 !!!signature: 4158100000
-**kern
-*clefG2
-*k[]
-*a:
-*M4/4
-=1
-{8a
-8cc
-8ee
-8ee
-4.ee
-8dd
-=2
-8cc
-8b
-8dd
-16cc
-16b
-4a
-4a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M4/4	*
+=1	=1
+{8a	Przy-
+8cc	-je-
+8ee	-cha-
+8ee	-li[...]
+4.ee	.
+8dd	.
+=2	=2
+8ccL	.
+8bJ	.
+8ddL	.
+16cc	.
+16bJ	.
+4a	.
+4a}	.
 !!LO:LB:g=esac
-=3
-{8a
-8cc
-8ee
-8ee
-4.gg
-8ff
-=4
-8ee
-8dd
-8gg
-8ff
-8ee
-8dd
-4dd}
+=3	=3
+{8a\L	.
+8ccJ	.
+8eeL	.
+8eeJ	.
+4.gg	.
+8ff	.
+=4	=4
+8eeL	.
+8ddJ	.
+8ggL	.
+8ffJ	.
+8eeL	.
+8ddJ	.
+4dd}	.
 !!LO:LB:g=esac
-=5
-{8ff
-8ee
-8dd
-8dd
-8ee
-8cc
-8b
-8g#
-=6
-8a
-8cc
-8ee
-8g#
-8a
-8cc
-8ee
-8cc}
+=5	=5
+{8ffL	.
+8eeJ	.
+8ddL	.
+8ddJ	.
+8eeL	.
+8cc	.
+8b	.
+8g#\J	.
+=6	=6
+8a\L	.
+8cc	.
+8ee	.
+8g#\J	.
+8a\L	.
+8ccJ	.
+8eeL	.
+8cc}J	.
 !!LO:LB:g=esac
-=7
-{8ff
-8ee
-8dd
-8dd
-8ee
-8cc
-8b
-8g#
-=8
-8a
-8cc
-8ee
-8g#
-4a
-4a}
-==
-*-
+=7	=7
+{8ffL	.
+8eeJ	.
+8ddL	.
+8ddJ	.
+8eeL	.
+8cc	.
+8b	.
+8g#\J	.
+=8	=8
+8a\L	.
+8cc	.
+8ee	.
+8g#\J	.
+4a	.
+4a}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Przyjechali[...]
+!!@@END: VERSES
+!!!role-singer: Complex
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=385 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 302} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 302}
 !!!page: 302
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-28

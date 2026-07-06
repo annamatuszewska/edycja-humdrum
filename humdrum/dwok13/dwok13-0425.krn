@@ -1,55 +1,93 @@
-!!!!SEGMENT: DWOK1342500000-oj_pojedz_jasiu.krn
-!!!OTL: Oj pojedź Jasiu
+﻿!!!!SEGMENT: DWOK1342500000-oj_pojedz_jasiu.krn
+!!!OTL: Oj pojedź Jasiu. Krakowiak
+!!!FKT: Śpiewki i Tańce. Wiwaty, Tańce i Piosenki 2/4
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Środy (Dębicz)
+!!!AR1: wielkopolskie ; średzki ; Środa Wielkopolska-obszar wiejski
+!!!GE1: 52.265702 , 17.311801
 !!!source: DWOK13
 !!!id: 13425
 !!!signature: 1342500000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8dd
-4dd
-8cc
-=2
-8ee
-8ee
-8dd
-8a
-=3
-8g
-4dd
-8a
-=4
-8b
-8a
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+!LO:TX:a:t=Krakowiak.	!
+8bq	.
+{8dd	Oj
+(4dd	po-
+8cc)	-jedź,
+=2	=2
+8ee	Ja-
+8ee	-siu
+8dd	po-
+8a	-jedź,
+=3	=3
+8g	nie
+(8bq	.
+4dd)	daj
+8a\	ko-
+=4	=4
+8ccq	.
+8b	-niom
+8a	sto-
+4g}	-jeć,
 !!LO:LB:g=esac
-=5
-{8a
-8a
-8.b
-16g
-=6
-8a
-8a
-8.b
-16g
-=7
-8a
-8a
-8b
-8dd
-=8
-8b
-8a
-4g}
-==
-*-
-!!!ONB: Krakowiak
+=5	=5
+{8a	na-
+8a	-sto-
+8.b/L	-ją
+16gJ	.
+=6	=6
+8a	się
+8a	w_zi-
+8.b/L	-mie,
+16gJ	.
+=7	=7
+8a	i-
+8a	-no
+8b	traw-
+8dd	.
+=8	=8
+8ccq	.
+8b	-ka
+8a	zgi-
+4g}	-nie.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj pojedź, Jasiu pojedź,
+!!nie daj koniom stojeć,
+!!nastoją się w zimie,
+!!ino trawka zginie.
+!!@VERSE:
+!!2. Czerwone jabłuszko,
+!!nie urwałam jego, —
+!!kochałam Jasinka,
+!!nieposzłam za niego.
+!!@VERSE:
+!!3. Cztery konie siwe,
+!!piąty mój kasztanek, —
+!!pamiętaj Jasinku,
+!!żeś ty mój kochanek.
+!!@VERSE:
+!!4. Skowroneczek orze,
+!!sikorka pogania, —
+!!nie opuszczaj Jasiu,
+!!szczerego kóchania.
+!!@@END: VERSES
+!!!role-singer: Mistress
+!!!role-listener: Lover
+!!!singer-sex: female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=201 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 177} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 177}
 !!!page: 177
+!!!BEM: Krakowiak
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-08
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-16

@@ -3,43 +3,85 @@
 !!!source: DWOK41
 !!!id: 41549
 !!!signature: 4154900020
-**kern
-*clefG2
-*k[f#]
-*G:
-*M6/8
-=1
-{8dd
-8cc
-8a
-8b
-8g
-8g
-=2
-8.ee
-16dd
-16cc
-16a
-8.b
-16dd
-16ee
-16dd
-=3
-8dd
-8cc
-8a
-8b
-8g
-8g
-=4
-8ee
-8f#
-8f#
-4.g}
-==
-*-
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M6/8	*
+=1	=1
+{8dd	la
+8cc	la
+8a	la
+8b	[la
+8g	la
+8g	la
+=2	=2
+8.ee	la
+16dd	la
+16cc	la
+16a	la
+8.b	la
+16dd	la
+16ee	la
+16dd	la
+=3	=3
+8dd	la
+8cc	la
+8a	la
+8b	la
+8g	la
+8g	la
+=4	=4
+8ee	la
+8f#	la
+8f#	la
+4.g}	la].
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Czarny kolor naszym miastom
+!!znaczy zawsze pierwszą modę,
+!!czy mężczyznom, czy niewiastom
+!!czyni zaszczyt i wygodę,
+!!la la la [la la la
+!!la la la la la la la la
+!!la la la la la la la la la la].
+!!@VERSE:
+!!2. Czarno stroją się galowie,
+!!czarno stroją wielkie pany,
+!!czarno matrony, sędziowie,
+!!czarno i duchowne stany,
+!!la la itd.
+!!@VERSE:
+!!3. Czarno stroi się kokietka,
+!!gdy chce ułowić młodzika,
+!!czarny frak ma szerepetka,
+!!gdy się w pańskie domy wmyka,
+!!la la itd.
+!!@VERSE:
+!!4. Czarna ziemia się obrodzi,
+!!czarny włos bywa ozdobą.
+!!czarne oczko chłopca zwodzi,
+!!czarny strój wabi za sobą.
+!!la la itd.
+!!@VERSE:
+!!5. To nie dosyć, że w ozdobie
+!!czarny kolor tak wygrywa,
+!!kto ma czarną duszę w sobie,
+!!ten szczęśliwym często bywa,
+!!la la itd.
+!!@VERSE:
+!!6. Słowem, ten kolor przyjemny
+!!jest u nas oznaką chwały,
+!!ale ja, sługa nikczemny,
+!!wolę zawsze zostać biały,
+!!la la itd.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=369 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 286-287} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 286-287}
 !!!page: 286-287
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-27

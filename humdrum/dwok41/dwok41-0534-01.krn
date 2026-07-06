@@ -3,72 +3,129 @@
 !!!source: DWOK41
 !!!id: 41534
 !!!signature: 4153400001
-**kern
-*clefG2
-*k[b-]
-*F:
-*M4/4
-=1
-{4f
-8a
-8cc
-4.ff
-8ee
-=2
-8dd
-8cc
-8b-
-8a
-4cc
-4b-}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M4/4	*
+=1	=1
+{4f	Ty
+8a	pta-
+8cc	-szku
+4.ff	w_la-
+8ee	-sku,
+=2	=2
+8dd	wszy-
+8cc	-stkich
+8b-	roz-
+8a	-we-
+4cc	-se-
+4b-}	-lasz,
 !!LO:LB:g=esac
-=3
-{4g
-8b-
-8ee
-4.gg
-8ff
-=4
-8ee
-8dd
-8cc
-8b-
-4b-
-8a}
-8r
+=3	=3
+{4g	a
+8b-	mnie
+8ee	bie-
+4.gg	-dne-
+8ff	-go
+=4	=4
+8ee	go-
+8dd	-ry-
+8cc	-czą
+8b-	na-
+4b-	-pa-
+8a}	-wasz.
+8r	.
 !!LO:LB:g=esac
-=5
-{4a
-8a
-8a
-4.dd
-8ee
-=6
-8ff
-8ee
-8dd
-8cc
-4cc
-4cc}
+=5	=5
+{4a	Pier-
+8a	-wszy
+8a	mi
+4.dd	smu-
+8ee	-tek
+=6	=6
+8ff	ma-
+8ee	-mu-
+8dd	-la
+8cc	za-
+4cc	-da-
+4cc}	-ła,
 !!LO:LB:g=esac
-=7
-{4ff
-8gg
-8gg
-4aa
-4cc
-=8
-8dd
-8cc
-8b-
-8e
-4g
-8f}
-8r
-==
-*-
+=7	=7
+{4ff	że
+8gg	mi
+8gg	się
+4aa	z_lu-
+4cc	-bą
+=8	=8
+8dd	że-
+8cc	-nić
+8b-	nie
+8e	poz-
+4g	-wa-
+8f}	-la.
+8r	_
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Ty ptaszku w lasku, wszystkich rozweselasz,
+!!a mnie biednego goryczą napawasz.
+!!Pierwszy mi smutek mamula zadała,
+!!że mi się z lubą żenić nie pozwala.
+!!@VERSE:
+!!2. Lecz ona moją koniecznie być musi.
+!!Tyś mém posłaniem, tyś moją poduszką,
+!!tyś mém kochaniem, tyś moje serduszko.
+!!@VERSE:
+!!3. O luba, luba! Jakieś pożegnanie,
+!!jakież to będzie z nami to rozstanie.
+!!A gdy ja umrę, gdy mnie już nie będzie,
+!!któż cię, sierotę, rozwesełać będzie?
+!!@VERSE:
+!!4. Pochowajcież mnie w tym nowym ogrodzie
+!!przy rozłożystych pomarańczach, w chłodzie.
+!!A w nogach mojich lilije posadźcie.
+!!a w głowach mojich strumień rozprowadźcie.
+!!@VERSE:
+!!5. Gdy moja mama po sadzie chodziła
+!!i usłyszała jęk swojego syna:
+!!O synu, synu! Cięży ci mogiła,
+!!czyliż ci deska grobowa niemiła?
+!!@VERSE:
+!!6. Ani mnie, mamo, cięży ta mogiła,
+!!ani mi deska grobowa niemiła,
+!!ale mi żal jest tej kochanki mojéj.
+!!@VERSE:
+!!7. Jak ona płacze, w grobie mnie porusza.
+!!jak ona płacze, to drzy we mnie dusza.
+!!Jak ona płacze, w grobie mnie przeklina.
+!!wtenczas drzy, matko, ciało twego syna.
+!!@VERSE:
+!!8. Gdy te ostatnie słowa usłyszała,
+!!padła na ziemię i zaraz zemglała.
+!!O synu, synu! Gdybym to wiedziała,
+!!nigdy bym ci sie żenić nie wzbraniała.
+!!@VERSE:
+!!9. Już moment nadszedł, ta chwila rozstania,
+!!wtenczas kochanka nad grobem stanęła,
+!!rzewnemi łzami grób jego zlewała.
+!!@VERSE:
+!!10. O luba, luba! Cięży mi grobowiec.
+!!mego ciężaru nikomu nie powiédz.
+!!O Jasiu, Jasiu! Weś mnie w grób do siebie,
+!!niech tu nie żyję na świecie bez ciebie.
+!!@VERSE:
+!!11. Gdy te ostatnie słowa wymawiała,
+!!padła na ziemię i ducha oddała.
+!!O matko, matko! Bodajś nie pożyła,
+!!żeś nas obojga ze światu zgładziła.
+!!@@END: VERSES
+!!!role-singer: Multiple speakers
+!!!role-listener: Multiple listeners
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=358 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 275-276} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 275-276}
 !!!page: 275-276
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-20

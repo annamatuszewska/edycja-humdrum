@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1326400001-instrumentalna-walc_weselny.krn
-!!!OTL: Instrumentalna-Walc weselny
+﻿!!!!SEGMENT: DWOK1326400001-instrumentalna-walc_weselny.krn
+!!!OTL: Instrumentalna. Walc weselny
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Buku, Zbąszyna
+!!!AR1: wielkopolskie ; poznański ; Buk-miasto
+!!!GE1: 52.355394 , 16.519710
+!!!AR2: wielkopolskie ; nowotomyski ; Zbąszyń-miasto
+!!!GE2: 52.253205 , 15.918846
 !!!source: DWOK13
 !!!id: 13264
 !!!signature: 1326400001
@@ -9,103 +16,108 @@
 *G:
 *M3/8
 =1
-{8.dd
+!LO:TX:a:t=Walc weselny
+{8.ddL
 16ee
-8dd
+8ddJ
 =2
 4b
 8g
 =3
-8g
-8b
-8dd
+8gL
+8b/
+8ddJ
 =4
-8gg
+8ggL
 8ff#
-8ee}
+8ee}J
 !!LO:LB:g=esac
 =5
-{8.cc
+{8.ccL
 16dd
-8cc
+8ccJ
 =6
 4a
 8a
 =7
-4ff#
-8ff#
+4ff#/
+8ff#/
 =8
-8aa
-16aa
-16ff#
-8gg}
+8aa/L
+16aa/
+16ff#/
+8gg}/J
 !!LO:LB:g=esac
 =9
-{8.b
+{8.bL
 16dd
-8gg
+8ggJ
 =10
-8gg
+8ggL
 8ff#
-8ff#
+8ff#J
 =11
-8.a
+8.a\L
 16cc
-8ee
+8eeJ
 =12
-8ee
+8eeL
 8dd
-8dd}
+8dd}J
 !!LO:LB:g=esac
 =13
-{8g
-8b
-8dd
+{8gL
+8b/
+8dd/J
 =14
-8ee
-8ee
-8f#
+!LO:TX:t=P:problem=mixed beam
+8ee\L
+8ee\
+8f#/J
 =15
-8f#
+8f#L
 8a
-8cc
+8cc/J
 =16
-8dd
-8dd
+8bq
+8ddL
+8ddJ
 8g}
 !!LO:LB:g=esac
 =17
-{8.b
+{8.bL
 16dd
-8gg
+8ggJ
 =18
-8gg
+8ggL
 8ff#
-8ff#
+8ff#J
 =19
-8.a
+8.aL
 16cc
-8ee
+8eeJ
 =20
-8ee
+8eeL
 8dd
-8dd}
+8dd}J
 !!LO:LB:g=esac
 =21
-{8g
-8b
-8dd
+{8gL
+8b/
+8dd/J
 =22
-8ee
-8ee
-8f#
+!LO:TX:t=P:problem=mixed beam
+8ee\L
+8ee\
+8f#/J
 =23
-8f#
+8f#L
 8a
-8cc
+8cc/J
 =24
-8dd
-8dd
+8bq
+8ddL
+8ddJ
 8g}
 ==
 *-
@@ -114,3 +126,7 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=149 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 125} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 125}
 !!!page: 125
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-11
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-23

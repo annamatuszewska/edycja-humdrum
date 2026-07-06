@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1220900000-czterym_lata_wierniem_sluzyl.krn
+﻿!!!!SEGMENT: DWOK1220900000-czterym_lata_wierniem_sluzyl.krn
 !!!OTL: Czterym lata wierniem służył
+!!!FKT: Pieśni i Dumy. Stałość. Życzliwość. Wymówka
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gniezna
+!!!AR1: wielkopolskie ; gnieźnieński ; Gniezno-gmina miejska
+!!!GE1: 52.533333 , 17.601388
 !!!source: DWOK12
 !!!id: 12209
 !!!signature: 1220900000
@@ -71,10 +76,10 @@
 4f}	-wie.
 8r	.
 ==	==
-*- 	*-
-!!!role-singer: Farmhand
-!!!role-listener: Mother
-!!!singer-sex: male
+*-	*-
+!!!role-singer: Farmhand, Mistress
+!!!role-listener: Mistress, Farmhand
+!!!singer-sex: male, female
 !!@@BEGIN: VERSES
 !!@VERSE:
 !!1. Cztery'm lata wierniem służył
@@ -132,3 +137,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

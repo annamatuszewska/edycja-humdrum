@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1219800001-oj_zieleni_sie_zieleni.krn
+﻿!!!!SEGMENT: DWOK1219800001-oj_zieleni_sie_zieleni.krn
 !!!OTL: Oj zieleni się zieleni
+!!!FKT: Pieśni i Dumy. Stałość. Życzliwość. Wymówka
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Szremu
+!!!AR1: wielkopolskie ; śremski ; Śrem-miasto
+!!!GE1: 52.095371 , 17.020534
 !!!source: DWOK12
 !!!id: 12198
 !!!signature: 1219800001
@@ -59,7 +64,7 @@
 16cc	.
 4ee	żon,
 =11	=11
-(8ggq	.
+(>8ggq	.
 8dd)	kiej
 8dd	mi
 16dd	dziewcze
@@ -69,7 +74,8 @@
 8dd	Bóg
 8cc}	wzion.
 ==	==
-*- 	*-
+*-	*-
+!!!RDF**kern: >= above
 !!!role-singer: Widower, Maiden
 !!!role-listener: Widower
 !!!singer-sex: male, female
@@ -99,3 +105,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

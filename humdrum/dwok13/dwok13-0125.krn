@@ -1,5 +1,8 @@
-!!!!SEGMENT: DWOK1312500000-hej_mazury.krn
-!!!OTL: Hej Mazury
+﻿!!!!SEGMENT: DWOK1312500000-hej_mazury.krn
+!!!OTL: Hej Mazury hejże ha. Mazur
+!!!FKT: Pieśni. Miasta i Dwory. Wiwaty. Karczma. Taniec
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: z Kaliskiego i Łęczyck.
 !!!source: DWOK13
 !!!id: 13125
 !!!signature: 1312500000
@@ -182,11 +185,11 @@
 !!!role-singer: Group Leader
 !!!role-listener: Group (Young men)
 !!!singer-sex: male
-!!!ONB: Mazur
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=96 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 72} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 72}
 !!!page: 72
+!!!BEM: Mazur
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-20

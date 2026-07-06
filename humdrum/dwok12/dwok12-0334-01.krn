@@ -1,76 +1,114 @@
-!!!!SEGMENT: DWOK1233400001-cyli_pod_lescyna.krn
-!!!OTL: Cyli pod lescyną
+﻿!!!!SEGMENT: DWOK1233400001-cyli_pod_lescyna.krn
+!!!OTL: Cyli pod lescyną. Mazurek
+!!!FKT: Pieśni i Dumy. Igraszka. Swawola
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Odolanowa
+!!!AR1: wielkopolskie ; ostrowski ; Odolanów-miasto
+!!!GE1: 51.574052 , 17.673646
 !!!source: DWOK12
 !!!id: 12334
 !!!signature: 1233400001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16d
-16g
-8b
-8dd
-=2
-8ee
-4dd
-=3
-16dd
-16cc
-8a
-8cc
-=4
-8ee
-4dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+!!LO:TX:a:t=Morawianka. Mazurek.
+{16d	Cyli
+16g	.
+8b	pod
+8dd	le-
+=2	=2
+8ee	-scyną,
+4dd	.
+=3	=3
+16dd	cyli
+16cc	.
+8a\	pod
+8cc	ol-
+=4	=4
+8ee	-syną
+4dd}	.
 !!LO:LB:g=esac
-=5
-{16b
-16f#
-8g
-8b
-=6
-8ee
-4dd
-=7
-16dd
-16cc
-8a
-8f#
-=8
-8a
-4g}
+=5	=5
+{16b	idzie
+16f#	.
+8g	paste-
+8b	.
+=6	=6
+8ee	-recka,
+4dd	.
+=7	=7
+16dd	gdyby
+16cc	.
+8a	przepió-
+8f#	.
+=8	=8
+8a	-recka.
+4g}	.
 !!LO:LB:g=esac
-=9
-{4f#
-8g
-=10
-8b
-4g
-=11
-4e
-8a
-=12
-8g#
-4a}
+=9	=9
+{4f#	Dejze
+8g	.
+=10	=10
+8b	pokój
+4g	.
+=11	=11
+4e	jak
+8a	cię
+=12	=12
+8g#	prosę,
+4a}	.
 !!LO:LB:g=esac
-=13
-{4f#
-8g
-=14
-8b
-4g
-=15
-4e
-8a
-=16
-8f#
-4d}
-==
-*-
+=13	=13
+{4f#\	i-
+8g\n	-no
+=14	=14
+8b	trzodę
+4g	.
+=15	=15
+4e	z_pola
+8a	.
+=16	=16
+8f#	spłoszę.
+4d}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Bachelor
+!!!role-listener: Maiden
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Czyli pod lescyną,
+!!czyli pod olsyną
+!!idzie pasterecka,
+!!gdyby przepiórecka.
+!!Za rąckę ją chwytam,
+!!gdzie ty idziesz? pytam.
+!!"Dej-że pokój
+!!jak cię prosę,
+!!ino trzodę
+!!z pola spłosę."
+!!@VERSE:
+!!2. A moja dziewcyno
+!!nawrócę ci trzody,
+!!dać mi musis ino
+!!buzuleńki przódy.
+!!Cózci z mojéj buzi przyjdzie?
+!!od morawki ktoś tam idzie.
+!!Jego się nie boję,
+!!ino owszem pragnę,
+!!jak mi nie dasz buzuleńki
+!!wianek ci ukradnę.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=192 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 176} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 176}
 !!!page: 176
+!!!BEM: Mazurek
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-29

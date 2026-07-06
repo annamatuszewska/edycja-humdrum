@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1229700000-przylecialy_gesi_do_polski.krn
+﻿!!!!SEGMENT: DWOK1229700000-przylecialy_gesi_do_polski.krn
 !!!OTL: Przyleciały gęsi do Polski
+!!!FKT: Pieśni i Dumy. Strata wianka. Żale
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kobylina (Targoszyce, Ochla)
+!!!AR1: wielkopolskie ; krotoszyński ; Kobylin-obszar wiejski
+!!!GE1: 51.762910 , 17.270700
+!!!AR2: wielkopolskie ; gostyński ; Pogorzela-obszar wiejski
+!!!GE2: 51.778660 , 17.240811
 !!!source: DWOK12
 !!!id: 12297
 !!!signature: 1229700000
@@ -69,7 +76,7 @@
 8gJ	.
 4g}	.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Narrator, Bachelor
 !!!role-listener: Maiden
 !!!singer-sex: male
@@ -115,6 +122,9 @@
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=175 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 159-160} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 159-160}
 !!!page: 159-160
+!!!BEM: Przy weselu
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

@@ -1,8 +1,13 @@
-!!!!SEGMENT: DWOK1221500001-a_szumialy_bory_lasy.krn
+﻿!!!!SEGMENT: DWOK1221500002-a_szumialy_bory_lasy.krn
 !!!OTL: A szumiały bory lasy
+!!!FKT: Pieśni i Dumy. Stałość. Życzliwość. Wymówka
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gołańczy (Czeszewo)
+!!!AR1: wielkopolskie ; wągrowiecki ; Gołańcz-obszar wiejski
+!!!GE1: 52.908722 , 17.382633
 !!!source: DWOK12
 !!!id: 12215
-!!!signature: 1221500001
+!!!signature: 1221500002
 **kern	**text
 *clefG2	*
 *k[]	*
@@ -58,8 +63,8 @@
 =10	=10
 8cc	i
 8cc	laszczyna,
-4b/	.
-4ee/	.
+4b\	.
+4b\	.
 =11	=11
 8dd	zapłaka-
 8b	.
@@ -71,7 +76,7 @@
 4g#	.
 4a}	.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Bachelor
 !!!role-listener: Maiden
 !!!singer-sex: male
@@ -80,35 +85,25 @@
 !!1. A szumiały bory, lasy,
 !!kiej ja jachał do swyj Kasi;
 !!a szumiała i laszczyna,
-!!zapłakała ta dziewczyna,
-!!a szumiała i laszczyna,
 !!zapłakała ta dziewczyna.
 !!@VERSE:
 !!2. Sztery mile tego lasu,
 !!jak ja jachał bez popasu;
-!!sztery mile i brzeziny,
-!!jak ja jachał do dziewczyny,
 !!sztery mile i brzeziny,
 !!jak ja jachał do dziewczyny.
 !!@VERSE:
 !!3. Sztery mile tego pola.
 !!ty dziewczyno będziesz moja.
 !!Ty dziewczyno, spodziéwaj się,
-!!będziesz moja, wybieraj się,
-!!Ty dziewczyno, spodziéwaj się,
 !!będziesz moja, wybieraj się.
 !!@VERSE:
 !!4. Hasał-ci ja, hasał, hasał,
 !!już nie będę z wami hasał;
 !!śmiały'ś-cie się ze mnie, panny,
-!!żem się, panny, źle opasał,
-!!śmiały'ś-cie się ze mnie, panny,
 !!żem się, panny, źle opasał.
 !!@VERSE:
 !!5. Bywał-ci ja, bywał, bywał,
 !!już nie będę z wami bywał;
-!!śmiały'ś-cie się ze mnie, panny,
-!!żem się, panny, źle umywał,
 !!śmiały'ś-cie się ze mnie, panny,
 !!żem się, panny, źle umywał.
 !!@@END: VERSES
@@ -119,3 +114,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1248500000-trebace_trabia_kapela_graje.krn
+﻿!!!!SEGMENT: DWOK1248500000-trebace_trabia_kapela_graje.krn
 !!!OTL: Trębace trąbią, kapela graje
+!!!FKT: Pieśni i Dumy. Wojsko. Łowy
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Czarnkowa (Rosko)
+!!!AR1: wielkopolskie ; czarnkowsko-trzcianecki ; Wieleń-obszar wiejski
+!!!GE1: 52.874326 , 16.316247
 !!!source: DWOK12
 !!!id: 12485
 !!!signature: 1248500000
@@ -8,6 +13,7 @@
 *k[f#]	*
 *G:	*
 *M4/4	*
+*met(c)	*
 =1	=1
 {4d	Trębace
 8g	.
@@ -26,15 +32,15 @@
 8b	ja
 8g	wędrował,
 4g	.
-8ee	.
-8dd	.
+8eeL	.
+8ddJ	.
 =4	=4
 4cc	gdy
 8a	ja
 8f#	wędrował,
 4d	.
-8cc	.
-8a	.
+(8ccL	.
+8aJ)	.
 =5	=5
 8b	kochanka
 8cc	.
@@ -71,3 +77,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

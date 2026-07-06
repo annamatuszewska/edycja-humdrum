@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1337900010-instrumentalna-chodzony_na_ksebke.krn
-!!!OTL: Instrumentalna-Chodzony na ksebkę
+﻿!!!!SEGMENT: DWOK1337900010-instrumentalna-chodzony_na_ksebke.krn
+!!!OTL: Cudze pólka ogarniamy. Instrumentalna. Chodzony na ksebkę
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Radziejowa (Płowce)
+!!!AR1: kujawsko-pomorskie ; radziejowski ; Radziejów-gmina wiejska
+!!!GE1: 52.616748 , 18.643990
 !!!source: DWOK13
 !!!id: 13379
 !!!signature: 1337900010
@@ -9,92 +14,105 @@
 *G:
 *M3/4
 =1
-{8g
+!LO:TX:a:t=Chodzony na ksebkę (idąc tupią nogami).
+{8gL
 16r
-16b
-16a
+16b/J
+16aL
 16f#
 16a
-16cc
-8b
-8b
+16cc/J
+8b/
+8b/
 =2
 4a
+8g#q
 4a
+8g#q
 4a
 =3
-8g
+{8gL
 16r
-16b
-16a
+16b/J
+16aL
 16f#
 16a
-16cc
-8b
-8b
+16cc/J
+8b/
+8b/
 =4
 4a
+8g#q
 4a
+8g#q
 4a}
 !!LO:LB:g=esac
 =5
-{8.b
-16cc
-8dd
+{8.bL
+16ccJ
+8ddL
 16ee
-16dd
-8b
+16ddJ
+8b/L
 16g
-16g
+16gJ
 =6
-8f#
-8a
-8a
-8a
-8a
-8a
+8f#L
+8aJ
+8g#q
+8aL
+8aJ
+8g#q
+8aL
+8aJ
 =7
-8.a
+8.a\L
+16bJ
+8ccL
+8eeJ
+16ddL
 16b
-8cc
-8ee
-16dd
-16b
-16g
-16b
+16g\
+16bJ
 =8
 4a
+8g#q
 4a
+8g#q
 4a}
 !!LO:LB:g=esac
 =9
-{8.b
-16cc
-8dd
+{8.bL
+16ccJ
+8ddL
 16ee
-16dd
-8b
+16ddJ
+8b/L
 16g
-16g
+16gJ
 =10
-8f#
-8a
-8a
-8a
-8a
-8a
+8f#L
+8aJ
+8g#q
+8aL
+8aJ
+8g#q
+8aL
+8aJ
 =11
-8.a
+8.a\L
+16bJ
+8ccL
+8eeJ
+16ddL
 16b
-8cc
-8ee
-16dd
-16b
-16g
-16b
+16g\
+16bJ
 =12
 4a
+8g#q
 4a
+8g#q
 4a}
 ==
 *-
@@ -103,3 +121,7 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=185 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 161} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 161}
 !!!page: 161
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-03
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-15

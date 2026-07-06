@@ -1,67 +1,98 @@
-!!!!SEGMENT: DWOK1239600001-z_tej_tam_strony.krn
+﻿!!!!SEGMENT: DWOK1239600001-z_tej_tam_strony.krn
 !!!OTL: Z tej tam strony
+!!!FKT: Pieśni i Dumy. Smutek. Strapienie. Stary
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Pleszewa, Zerkowa
+!!!AR1: wielkopolskie ; pleszewski ; Pleszew-miasto
+!!!GE1: 51.896272 , 17.785733
+!!!AR2: wielkopolskie ; jarociński ; Żerków-miasto
+!!!GE2: 52.068386 , 17.563327
 !!!source: DWOK12
 !!!id: 12396
 !!!signature: 1239600001
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{8g
-8a
-8b
-8g
-=2
-4cc
-4dd
-=3
-2ee
-=4
-8ee
-8cc
-8ee
-8gg
-=5
-4ee
-8cc
-8b
-=6
-2g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+=1	=1
+{8g	Z_téj
+8a	tam
+8b/	strony
+8g	.
+=2	=2
+4cc	jezio-
+4dd	.
+=3	=3
+2ee	-ra,
+=4	=4
+8ee	stoji
+8cc	.
+8ee	lipka
+8gg	.
+=5	=5
+4ee	zie-
+(8ccL	-lo-
+8bJ)	.
+=6	=6
+2g}	-na,
 !!LO:LB:g=esac
-=7
-{8ff
-8ee
-8cc
-8dd
-=8
-8b
-8g
-4f
-=9
-8a
-8cc
-8dd
-8b
-=10
-4g
-4g
-=11
-8b
-8cc
-8dd
-8cc
-=12
-4ee
-8cc
-8b
-=13
-2g}
-==
-*-
+=7	=7
+{8ffL	oj
+8eeJ	.
+8cc	na
+8dd	téj
+=8	=8
+(8bL	lip-
+8gJ)	.
+4f	-ce
+=9	=9
+8aL	na
+8ccJ	.
+8dd	téj
+8b	zie-
+=10	=10
+4g	-lonéj,
+4g	.
+=11	=11
+8b	trzyj
+8cc	ptaszkowie
+8dd	.
+8cc	.
+=12	=12
+4ee	śpiewa-
+(8ccL	.
+8bJ)	.
+=13	=13
+2g}	-ją.
+==	==
+*-	*-
+!!!role-singer: Narrator, Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Z téj tam strony jeziora,
+!!stoji lipka zielona,
+!!oj na téj lipce
+!!na téj zielonéj,
+!!trzyj ptaszkowie śpiewają.
+!!@VERSE:
+!!4. Jak ja nimam smutno być,
+!!za starego każą iść.
+!!Oj stary, stary, bardzo nieruchawy,
+!!do kogo się utulić?
+!!@VERSE:
+!!7. Przy łóżeczku stojała,
+!!poduszki sznórowała:
+!!a to łóżeczko, w ślicznym kolorze,
+!!chtery (który) na nim spać może?
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=221 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 205} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 205}
 !!!page: 205
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

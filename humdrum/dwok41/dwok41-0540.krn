@@ -3,85 +3,114 @@
 !!!source: DWOK41
 !!!id: 41540
 !!!signature: 4154000000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{4g
-4.b
-8cc
-=2
-8ee
-8dd
-2dd
-=3
-8dd
-8dd
-4.cc
-8a
-=4
-8cc
-8b
-2b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{4g	Maj-
+4.b	-tek
+8cc	u-
+=2	=2
+8eeL	-bo-
+8ddJ	.
+2dd	-gi
+=3	=3
+8dd	puś-
+8dd	-cił
+4.cc	się
+8a	na
+=4	=4
+8ccL	mo-
+8bJ	.
+2b}	-rze,
 !!LO:LB:g=esac
-=5
-{4g
-4.b
-8cc
-=6
-8ee
-8dd
-2dd
-=7
-8dd
-8dd
-4.cc
-8f#
-=8
-8a
-8g
-2g}
+=5	=5
+{4g	zo-
+4.b	-sta-
+8cc	-wił
+=6	=6
+8eeL	żon-
+8ddJ	.
+2dd	-kę
+=7	=7
+8dd	pię-
+8dd	-knie-
+4.cc	-jszą
+8f#	nad
+=8	=8
+8aL	zo-
+8gJ	.
+2g}	-rze.
 !!LO:LB:g=esac
-=9
-{4dd
-4.cc
-8a
-=10
-4cc
-2b
-=11
-8dd
-8dd
-4.cc
-8a
-=12
-8cc
-8b
-2b}
+=9	=9
+{4dd	Maj-
+4.cc	-tek
+8a	u-
+=10	=10
+4cc	-bo-
+2b	-gi,
+=11	=11
+8dd	chcąc
+8dd	prze-
+4.cc	-wi-
+8a	-dzieć
+=12	=12
+8ccL	świa-
+8bJ	.
+2b}	-ta,
 !!LO:LB:g=esac
-=13
-{4g
-4.b
-8cc
-=14
-8ee
-8dd
-2dd
-=15
-8dd
-8dd
-4.cc
-8f#
-=16
-8a
-8g
-2g}
-==
-*-
+=13	=13
+{4g	a
+4.b	nie
+8cc	u-
+=14	=14
+8ee	-ska-
+8dd	-rzy-
+2dd	-wszy,
+=15	=15
+8dd	wra-
+8dd	-ca
+4.cc	za
+8f#	trzy
+=16	=16
+8aL	la-
+8gJ	.
+2g}	-ta.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Majtek ubogi puścił się na morze,
+!!zostawił żonkę piękniejszą nad zorze.
+!!Majtek ubogi, chcąc przewidzieć świata,
+!!a nie uskarzywszy, wraca za trzy lata.
+!!@VERSE:
+!!2. Majtek powraca z miłoscią gorąca,
+!!zastaje swą żonę przed domem stojącą.
+!!Sciska i całuje, i mówi te słowa:
+!!jakże mi się miewasz i czy jesteś zdrowa?
+!!@VERSE:
+!!3. Czyjże ten dworek, majtek żony pyta.
+!!Opatrzność boska dała nam okwita.
+!!Czyjeż to te łoża, stoły i kobierce,
+!!zaspokojże mnie, proszę, moje serce.
+!!@VERSE:
+!!4. Wszystkoć to mamy z opatrzności ręki,
+!!poklęknijmy, mężu, złożmy Bogu dzięki.
+!!Majtek ukleknął, składa Bogu dary,
+!!a wtem mamka wchodzi, syn pół roku stary.
+!!@VERSE:
+!!5. Czyjeż to dziecko, majtek żony pyta,
+!!Opatrzność boska dała nam okwita.
+!!Ach, żono, żono, wyznam ci to smiele,
+!!co się Pan Bóg rozporządził mym domkiem za wiele.
+!!@@END: VERSES
+!!!role-singer: Narrator, Husband, Wife
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=363 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 280-281} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 280-281}
 !!!page: 280-281
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-20

@@ -1,5 +1,7 @@
-!!!!SEGMENT: DWOK1248200000-wzialem_po_ojcu_posagu_wiele.krn
+﻿!!!!SEGMENT: DWOK1248200000-wzialem_po_ojcu_posagu_wiele.krn
 !!!OTL: Wziąłem po ojcu posagu wiele
+!!!FKT: Pieśni i Dumy. Zabawa. Karczma. Tańce. Hulanka
+!!!REG: Wielkie Księstwo Poznańskie
 !!!source: DWOK12
 !!!id: 12482
 !!!signature: 1248200000
@@ -26,57 +28,57 @@
 8r	.
 !!LO:LB:g=esac
 =5	=5
-{16b	zziąłem
-16dd	.
-8dd	po
-8ee	oj-
+{16b	bu-
+16dd	-re-
+8dd	-go
+8ee	wo-
 =6	=6
-4.cc	-cu
+4.cc	-łu
 8aq	.
 =7	=7
-16d	posa-
-16d	.
-8a	-gu
-8b	wie-
+16d\L	i
+16dJ	bestre
+8a\	.
+8b	cie-
 =8	=8
-4g}	-le,
+4g}	-le.
 8r	.
 !!LO:LB:g=esac
 =9	=9
-{8a	burego
+{8a	Za
 8a	wołu
-16a	i
-16f#	bestre
+16a	wziołem
+16f#	.
 =10	=10
-16g	ciele.
-16g	Za
-8b	wołu
-8dd	.
+16g	dwa
+16g	tala-
+8b	.
+8dd	-ry,
 =11	=11
-8a	wziołem
-8cc	.
-16a	dwa
-16f#	tala-
+8a	a
+8ccM	za
+16a	ciele
+16f#	.
 =12	=12
-16d	.
-16f#	-ry,
-8g	a
-8d}	za
+16d	kożuch
+16f#	.
+8g	stary
+8d}	.
 !!LO:LB:g=esac
 =13	=13
-{8a	ciele
-8.a	.
-16f#	kożuch
+{8a\	i
+8.a\	tom
+16f#	już
 =14	=14
-8g	.
-4d	stary
+8g	przepił,
+4d	.
 =15	=15
-16d	.
 16d	i
-8a	tom
-8b	już
+16d	tom
+8a	już
+8b	prze-
 =16	=16
-4g}	przepił
+4g}	-pił
 8r	.
 ==	==
 *-	*-
@@ -110,11 +112,13 @@
 !!i weźmie nieraz po pysku,
 !!sam nie wié za co.
 !!@@END: VERSES
-!!!ONB: Wariant w takcie piątym 2_222-7
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=265 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 249-250} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 249-250}
 !!!page: 249-250
+!!!BEM: Wariant w takcie piątym 2_222-7
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

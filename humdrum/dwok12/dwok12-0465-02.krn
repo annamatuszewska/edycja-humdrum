@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1246500002-w_karczmie_naprzeciwko_jest_tam_dobre_piwko.krn
+﻿!!!!SEGMENT: DWOK1246500002-w_karczmie_naprzeciwko_jest_tam_dobre_piwko.krn
 !!!OTL: W karczmie naprzeciwko jest tam dobre piwko
+!!!FKT: Pieśni i Dumy. Zabawa. Karczma. Tańce. Hulanka
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kościana (Czacz)
+!!!AR1: wielkopolskie ; kościański ; Śmigiel-obszar wiejski
+!!!GE1: 52.032837 , 16.552666
 !!!source: DWOK12
 !!!id: 12465
 !!!signature: 1246500002
@@ -48,18 +53,18 @@
 4g	dzieweczko,
 4b	.
 8ddL	.
-8bJ/	pójdźmy
+8bJ/	.
 =7	=7
-8.a\	.
-16b	na
+8.a\	pójdźmy
+16b	.
 8ccL	.
 8eeJ	.
 !LO:TX:t=P:problem=mixed beam	!
-8ddL\	nie
-8f#J/	.
-8f#	dzieweczko.
+8ddL\	.
+8f#J/	na
+8f#	nie
 =8	=8
-4g	.
+4g	dzieweczko.
 4g	.
 8aL	.
 8gJ}	.
@@ -98,3 +103,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

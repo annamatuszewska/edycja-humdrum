@@ -3,62 +3,71 @@
 !!!source: DWOK41
 !!!id: 41432
 !!!signature: 4143200000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8g
-8b
-4cc
-8dd#
-8ee
-=2
-8cc
-8cc
-4dd#
-4ee}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8g	Ku-
+8b	-ja-
+4cc	-wia-
+8dd#L	-nie,
+8eeJ	.
+=2	=2
+8cc	Ku-
+8cc	-ja-
+4dd#	-wia-
+4ee}	-nie,
 !!LO:LB:g=esac
-=3
-{8cc
-8dd#
-4ee
-8cc
-8b
-=4
-8b
-8a
-4f#
-4d}
+=3	=3
+{8ccL	da,
+8dd#J	.
+4ee	je-
+8ccL	-dzą
+8bJ	.
+=4	=4
+8b	sa-
+8a	-me
+4f#	ba-
+4d}	-nie,
 !!LO:LB:g=esac
-=5
-{8f#
-8a
-4b
-8g
-8e
-=6
-8d
-8d
-4f#
-4a}
+=5	=5
+{8f#	je-
+8a	-dzą
+4b	ba-
+8gL	-nie,
+8eJ	.
+=6	=6
+8d	pi-
+8d	-ją
+4f#	wo-
+4a}	-dę
 !!LO:LB:g=esac
-=7
-{8f#
-8a
-4b
-8g
-8e
-=8
-8e
-8e
-4f#
-4d}
-==
-*-
+=7	=7
+{8f#	i
+8a	ko-
+4b	-cha-
+8gL	-ją
+8eJ	.
+=8	=8
+8e	dziw-
+8e	-ki
+4f#	mło-
+4d}	-de.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Kujawianie, Kujawianie,
+!!da, jedzą same banie,
+!!jedzą banie, piją wodę
+!!i kochają dziwki młode.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=315 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 232-233} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 232-233}
 !!!page: 232-233
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-15

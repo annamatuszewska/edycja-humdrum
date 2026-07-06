@@ -1,55 +1,74 @@
-!!!!SEGMENT: DWOK1325300001-hej_graluchna_z_lipki.krn
+﻿!!!!SEGMENT: DWOK1325300001-hej_graluchna_z_lipki.krn
 !!!OTL: Hej graluchna z Lipki
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Środy (Dębicz)
+!!!AR1: wielkopolskie ; średzki ; Środa Wielkopolska-obszar wiejski
+!!!GE1: 52.265702 , 17.311801
 !!!source: DWOK13
 !!!id: 13253
 !!!signature: 1325300001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{4dd
-4dd
-4ee
-=2
-4dd
-4dd
-4ee
-=3
-4dd
-4dd
-4ee
-=4
-4a
-4a
-4b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{4dd	Hej
+4dd	gra-
+4ee	-luch-
+=2	=2
+4dd	-na
+4dd	z_Lipki,
+4ee	.
+=3	=3
+8bq	.
+4dd	masz
+4dd	na
+4ee	rącz-
+=4	=4
+4a\	-ce
+4a\	skrzy-
+4b}	-pki,
 !!LO:LB:g=esac
-=5
-{4b
-4b
-4ee
-=6
-4a
-8a
-8cc
-8ee
-8dd
-=7
-4b
-4b
-4ee
-=8
-4a
-8a
-8cc
-8b
-8g}
-==
-*-
-!!!ONB: U Kolberga melodia w metrum 3/8, zapisano poprawnie na 3/4
+=5	=5
+{4b	a
+4b	ja
+4ee	rze-
+=6	=6
+4a\	-mieś-
+8a\L	-ni-
+8ccJ	.
+8eeL	-czek,
+8ddJ	.
+=7	=7
+4b	mam
+4b	w_kieszon-
+4ee	.
+=8	=8
+4a\	-ce
+8a\L	smy-
+8ccJ	.
+8bL	-czek.
+8g}J\	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Hej graluchna z Lipki,
+!!masz na rączce skrzypki,
+!!a ja rzemieśniczek,
+!!mam w kieszonce smyczek.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=145 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 121} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 121}
 !!!page: 121
+!!!BEM: U Kolberga melodia w metrum 3/8, zapisano poprawnie na 3/4
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-11
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-23

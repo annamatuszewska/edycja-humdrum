@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1311100000-gdzie_sie_dzialy_one_lata.krn
-!!!OTL: Gdzie się działy one lata
+﻿!!!!SEGMENT: DWOK1311100000-gdzie_sie_dzialy_one_lata.krn
+!!!OTL: Gdzie się działy one lata. Kujawiak
+!!!FKT: Pieśni. Miasta i Dwory. Stany. Rody
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Poznania, Wągrowca
+!!!AR1: wielkopolskie ; m. Poznań ; Poznań-gmina miejska
+!!!GE1: 52.407918 , 16.933467
+!!!AR2: wielkopolskie ; wągrowiecki ; Wągrowiec-gmina miejska
+!!!GE2: 52.806786 , 17.200557
 !!!source: DWOK13
 !!!id: 13111
 !!!signature: 1311100000
@@ -96,11 +103,11 @@
 !!oj jedy ja, oj jedy jedy oj da tom.
 !!@@END: VERSES
 !!!singer-sex: man
-!!!ONB: Kujawiak
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=88 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 64} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 64}
 !!!page: 64
+!!!BEM: Kujawiak
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-19

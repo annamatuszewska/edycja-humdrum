@@ -3,74 +3,84 @@
 !!!source: DWOK41
 !!!id: 41533
 !!!signature: 4153300000
-**kern
-*clefG2
-*k[]
-*C:
-*M4/4
-=1
-{4g
-8cc
-8b
-4.cc
-8g
-=2
-8e
-8g
-8cc
-8cc
-8cc
-8b
-4b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M4/4	*
+=1	=1
+{4g	Ach,
+8cc	pta-
+8b	-sku
+4.cc	w_la-
+8g	-sku,
+=2	=2
+8eL	wsy-
+8gJ	.
+8cc	-stko
+8cc	sta-
+8ccL	-no-
+8bJ	.
+4b}	-wis,
 !!LO:LB:g=esac
-=3
-{4g
-8dd
-8dd
-4.dd
-8cc
-=4
-8b
-8a
-8g
-8g
-8g
-8cc
-4cc}
+=3	=3
+{4g	mnie
+8dd	nies-
+8dd	-cę-
+4.dd	-sne-
+8cc	-go
+=4	=4
+8b	go-
+8a	-ry-
+8g	-ca-
+8g	-mi
+8g\L	po-
+8ccJ	.
+4cc}	-jis.
 !!LO:LB:g=esac
-=5
-{4cc
-8cc
-8dd
-4.ee
-8cc
-=6
-8dd
-8cc
-8b
-8a
-8a
-8g
-4g}
+=5	=5
+{4cc	Tę
+8cc	pir-
+8dd	-są
+4.ee	bo-
+8cc	-leść,
+=6	=6
+8dd	co
+8cc	mi
+8b	ma-
+8a	-ma
+8aL	da-
+8gJ	.
+4g}	-ła,
 !!LO:LB:g=esac
-=7
-{4g
-8g
-8g
-4.a
-8a
-=8
-8g
-8b
-8dd
-8b
-8b
-8cc
-4cc}
-==
-*-
+=7	=7
+{4g	co
+8g	mi
+8g	się
+4.a	z_lu-
+8a	-bą
+=8	=8
+8g	ze-
+8b	-nić
+8dd	za-
+8b	-bra-
+8bL	-nia-
+8ccJ	.
+4cc}	-ła.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Ach, ptasku w lasku, wsystko stanowis,
+!!mnie niescęsnego gorycami pojis.
+!!Tę pirsą boleść, co mi mama dała,
+!!co mi się z lubą zenić zabraniała.
+!!@@END: VERSES
+!!!role-singer: Son
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=358 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 275} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 275}
 !!!page: 275
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-20

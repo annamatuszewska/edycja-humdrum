@@ -1,80 +1,191 @@
-!!!!SEGMENT: DWOK1241600000-a_w_poznaniu_w_kamienicy.krn
+﻿!!!!SEGMENT: DWOK1241600000-a_w_poznaniu_w_kamienicy.krn
 !!!OTL: A w Poznaniu w kamienicy
+!!!FKT: Pieśni i Dumy. Dumy. Zdrada. Zabójstwo
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gołańczy (Czeszewo)
+!!!AR1: wielkopolskie ; wągrowiecki ; Gołańcz-obszar wiejski
+!!!GE1: 52.908722 , 17.382633
 !!!source: DWOK12
 !!!id: 12416
 !!!signature: 1241600000
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{8cc
-8b
-4a
-=2
-8g
-4.g
-=3
-4cc
-4gg
-=4
-4ff
-8dd
-8cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+=1	=1
+{(16aqL	.
+16bqJ)	.
+8ccL	A
+8bJ	.
+4a	w_Po-
+=2	=2
+8g	-znaniu
+4.g	.
+=3	=3
+4cc	w_kamie-
+4gg	.
+=4	=4
+4ff	-ni-
+8ddL	-cy,
+8ccJ}	.
 !!LO:LB:g=esac
-=5
-{8cc
-8b
-4a
-=6
-8g
-4.g
-=7
-4f
-8d
-8f
-=8
-8g
-4.g}
+=5	=5
+{(16aqL	.
+16bqJ)	.
+8ccL	pi-
+8bJ	.
+4a	-li
+=6	=6
+8g	winko
+4.g	.
+=7	=7
+4f\	rzemie-
+8dL	.
+8fJ\	.
+=8	=8
+8g	-śnicy,
+4.g}	.
 !!LO:LB:g=esac
-=9
-{8cc
-8b
-4a
-=10
-8g
-4.g
-=11
-4cc
-4gg
-=12
-8ff
-8ee
-8dd
-8cc}
+=9	=9
+{(16aqL	.
+16bqJ)	.
+8ccL	a
+8bJ	.
+4a	w_Po-
+=10	=10
+8g	-znaniu
+4.g	.
+=11	=11
+4cc	w_kamie-
+4gg	.
+=12	=12
+8ffL	-ni-
+8eeJ/	.
+8ddL	-cy,
+8ccJ}	.
 !!LO:LB:g=esac
-=13
-{8cc
-8b
-4a
-=14
-8g
-4.g
-=15
-8f
-8e
-16d
-16e
-8f
-=16
-8g
-4.g}
-==
-*-
-!!!ONB: Alternatywnie można zakodować w G
+=13	=13
+{(16aqL	.
+16bqJ)	.
+8ccL	pi-
+8bJ	.
+4a	-li
+=14	=14
+8g	winko
+4.g	.
+=15	=15
+8fL	rzemie-
+8eJ	.
+16dL	.
+16e	.
+8fJ	.
+=16	=16
+8g	-śnicy.
+4.g}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Mother, Sons, Husband
+!!!role-listener: Sons, Brother-in-law, Wife
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. A w Poznaniu w kamienicy,
+!!pili winko rzemieśnicy;
+!!wszystko pili, nie płacili,
+!!grzeczną pannę namówili.
+!!@VERSE:
+!!2. A skorno ją namówili,
+!!do karyty ją wsadzili;
+!!że ta matka nie wiedziała,
+!!jak ta córka odjechała.
+!!@VERSE:
+!!3. Wstała matka do kądzieli,
+!!ni córeczki, ni pościeli:
+!!Wstajcie, wstajcie, syniá moji,
+!!góńcie, góńcie, siostry swoji.
+!!@VERSE:
+!!4. A skorno ją dogónicie,
+!!ręce, nogi obetnijcie.
+!!Dogonili ją we Lwowie,
+!!(v. w Elbowie)
+!!óna była w złotogłowie.
+!!@VERSE:
+!!5. (Ci) starsi bracia ij nie poznali,
+!!czapki przed nią pozdejmowali.
+!!A ten młodszy ją uznował,
+!!czapki przed nią nie zdyjmował.
+!!@VERSE:
+!!6. Kłaniám, kłaniám, siostro nasza,
+!!gdzieś podziała szwagra Jasia?
+!!O Jasiu bym powiedziała,
+!!gdybym się zdrady nie b(oj)ała.
+!!@VERSE:
+!!7. Nie bój ty się żadny zdrady,
+!!o Jasinku nam powiadáj.
+!!A szed-ci ón ku rynkowi,
+!!kupić siánka kónikowi.
+!!@VERSE:
+!!8. (Ci) starsi bracia go nie poznali
+!!czápki przed nim pozdem(ow)ali.
+!!A ten młodszy go uznował,
+!!czápki przed nim nie zdejmował.
+!!@VERSE:
+!!9. Kłániam, kłániam szwagrze młody
+!!napijem(y) się krwi jak wody.
+!!Ten młodszy brat się z nim wita,
+!!a ten średni za łeb chwyta.
+!!A ten starszy mieczem siecze,
+!!głowa zraniona, krew ciecze.
+!!@VERSE:
+!!10. Idź-że Kasia do komory,
+!!przynieś ręcznik muślinowy.
+!!Ob(w)iń-że my rany moje,
+!!rany moje, smutki twoje.
+!!@VERSE:
+!!11. Nie na tom go wypiérała,
+!!nie na tom go prasowała,
+!!bym go tobą skrwawić miała,
+!!tego smutku doczekała.
+!!@VERSE:
+!!12. Idź-że Kasia do piwnicy,
+!!utocz piwka trzy szklenice;
+!!poczęstuj-że bracia swojich,
+!!bracia swojich, kaciá mojich.
+!!@VERSE:
+!!13. Idź-że Kasia do szkatuły,
+!!narachuj-że tysiąc chtóry;
+!!a jak będziesz rachowała,
+!!to mię będziesz (w)spóminała.
+!!@VERSE:
+!!14. Idź-że Kasia do owczarni,
+!!wypędź sobie owiec stado;
+!!a jak będziesz wyganiała,
+!!to mię będziesz (w)spóminała.
+!!@VERSE:
+!!15. Idź-że Kasia do obory,
+!!wybierz sobie sztéry krowy ;
+!!a jak będziesz wybierała,
+!!to mię będziesz (w)spóminała.
+!!@VERSE:
+!!16. Idź-że Kasia do wozowni,
+!!wytocz sobie powóz ładny;
+!!a jak będziesz wytáczała,
+!!to mię będziesz (w)spóminała.
+!!@VERSE:
+!!17. Idź-że Kasia i do stájni,
+!!zaprząż sobie parę koni;
+!!a jak będziesz wyjeżdżała,
+!!to mię będziesz (w)spominała.
+!!Na tęż nutę:
+!!O dla Boga, co mam czynić?
+!!czy wędrować, czy się żenić itd.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=230 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 214} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 214}
 !!!page: 214
+!!!BEM: Alternatywnie można zakodować w G
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29

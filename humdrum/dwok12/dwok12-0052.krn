@@ -1,12 +1,17 @@
-!!!!SEGMENT: DWOK1205200000-czarna_kura_pieje.krn
+﻿!!!!SEGMENT: DWOK1205200000-czarna_kura_pieje.krn
 !!!OTL: Czarna kura pieje
+!!!FKT: Pieśni i Dumy. Miłość. Pieśni zalotne
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Dolska
+!!!AR1: wielkopolskie ; śremski ; Dolsk-miasto
+!!!GE1: 51.987105 , 17.063780
 !!!source: DWOK12
 !!!id: 12052
 !!!signature: 1205200000
 **kern	**text
 *clefG2	*
 *k[b-]	*
-*C:	*
+*F:	*
 *M2/4	*
 =1	=1
 {8f	Czarna
@@ -87,11 +92,11 @@
 !!ale nie swojemi,
 !!tylko pana ojcowemi.
 !!@@END: VERSES
-!!!ONB: Moze zapisac od F?
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=39 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 23} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 23}
 !!!page: 23
+!!!BEM: Moze zapisac od F?
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-02-20

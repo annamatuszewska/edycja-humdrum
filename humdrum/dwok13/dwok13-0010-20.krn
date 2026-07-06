@@ -1,5 +1,7 @@
-!!!!SEGMENT: DWOK1301000020-ach_moj_boze.krn
+﻿!!!!SEGMENT: DWOK1301000020-ach_moj_boze.krn
 !!!OTL: Ach mój Boże
+!!!FKT: Pieśni. Miasta i Dwory. Świat. Los
+!!!REG: Wielkie Księstwo Poznańskie
 !!!source: DWOK13
 !!!id: 13010
 !!!signature: 1301000020
@@ -78,11 +80,11 @@
 !!!role-singer: complex
 !!!role-listener: complex
 !!!singer-sex: complex
-!!!ONB: Fragment w G z tekstem W jasnym dworze
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=33 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 9} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 9}
 !!!page: 9
+!!!BEM: Fragment w G z tekstem W jasnym dworze
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-02

@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1244100001-w_lesie_ja_bywal_da_bywal.krn
+﻿!!!!SEGMENT: DWOK1244100001-w_lesie_ja_bywal_da_bywal.krn
 !!!OTL: W lesie ja bywał da bywał
+!!!FKT: Pieśni i Dumy. Małżeństwo. Kłótnia. Zgoda
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gniezna
+!!!AR1: wielkopolskie ; gnieźnieński ; Gniezno-gmina miejska
+!!!GE1: 52.533333 , 17.601388
 !!!source: DWOK12
 !!!id: 12441
 !!!signature: 1244100001
@@ -91,6 +96,7 @@
 !!@VERSE:
 !!3. Kabacisko mi pościele,
 !!a szorcem mie przyodzieje.
+!!(Die Schürtze, fartuch, spódnica).
 !!@@END: VERSES
 !!@@BEGIN: 
 !!@COMMENTARY: Mel. ob. nr 135.
@@ -102,3 +108,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

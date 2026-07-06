@@ -1,89 +1,123 @@
-!!!!SEGMENT: DWOK1342200000-ty_chlopaku_mlody.krn
+﻿!!!!SEGMENT: DWOK1342200000-ty_chlopaku_mlody.krn
 !!!OTL: Ty chłopaku młody
+!!!FKT: Śpiewki i Tańce. Wiwaty, Tańce i Piosenki 2/4
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Wrześni, Miłosławia
+!!!AR1: wielkopolskie ; wrzesiński ; Września-miasto
+!!!GE1: 52.325822 , 17.565352
+!!!AR2: wielkopolskie ; wrzesiński ; Miłosław-miasto
+!!!GE2: 52.202819 , 17.488615
 !!!source: DWOK13
 !!!id: 13422
 !!!signature: 1342200000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8dd
-8dd
-8cc
-8a
-=2
-4g
-4a
-=3
-8dd
-8dd
-8cc
-8a
-=4
-4g
-4d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8dd	Ty
+8dd	chło-
+8cc	-po-
+8a	-ku
+=2	=2
+4g	mło-
+4a	-dy,
+=3	=3
+8dd	trze-
+8dd	-ba
+8cc	ci
+8a	wy-
+=4	=4
+4g\	-go-
+4d}\	-dy.
 !!LO:LB:g=esac
-=5
-{8g
-8b
-8a
-8cc
-=6
-4g
-4a
-=7
-8g
-8b
-8a
-8cc
-=8
-4g
-4d}
+=5	=5
+{8g	Sto
+8b	na-
+8a	-ha-
+8cc	-jów
+=6	=6
+4g	w_skó-
+4a	-rę
+=7	=7
+8g	Pół-
+8b	-kwa-
+8a	-te-
+8cc	-rek
+=8	=8
+4g\	wo-
+4d\}	-dy.
 !!LO:LB:g=esac
-=9
-{8g
-8b
-8cc
-8a
-=10
-8b
-8a
-4cc
-=11
-8g
-8b
-8cc
-16b
-16a
-=12
-4g
-4b}
+=9	=9
+{8gL	.
+8b/J	.
+8cc	.
+8a\	.
+=10	=10
+8bL	.
+8a\J	.
+4cc	.
+=11	=11
+8gL	.
+8b/J	.
+8ccL	.
+16b	.
+16a\J	.
+=12	=12
+4g	.
+4a}/	.
 !!LO:LB:g=esac
-=13
-{8g
-8b
-8cc
-8a
-=14
-8b
-8a
-8cc
-8a
-=15
-8g
-8b
-8cc
-16b
-16a
-=16
-4g
-4d}
-==
-*-
+=13	=13
+{8gL	.
+8b/J	.
+8cc	.
+8a\	.
+=14	=14
+8bL	.
+8a\J	.
+8cc/L	.
+8aJ	.
+=15	=15
+8gL	.
+8b/J	.
+8ccL	.
+16b	.
+16a\J	.
+=16	=16
+4g\	.
+4d}\	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Ty chłopoku młody,
+!!trzeba ci wygody.
+!!Sto nahajów w skórę
+!!Półkwaterek wody.
+!!@VERSE:
+!!2. A sio! kury, a sio!
+!!na wysoką grzędę;
+!!kura jaje zgubiła,
+!!ja jéj paść nie będe.
+!!@VERSE:
+!!3. Wlazła na góreczkę,
+!!zawołała kaczek:
+!!pójdź sa mój Jasińku,
+!!dam ci z masłem placek.
+!!@VERSE:
+!!4. Weszła do ogródka
+!!i nasiała maku;
+!!ptaszki przyleciały,
+!!maczek wyzbierały.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=199 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 175} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 175}
 !!!page: 175
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ONB@texture: Only voice or instrument is playing at a time
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-08
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-16

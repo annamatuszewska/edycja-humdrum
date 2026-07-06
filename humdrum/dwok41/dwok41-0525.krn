@@ -3,90 +3,138 @@
 !!!source: DWOK41
 !!!id: 41525
 !!!signature: 4152500000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{2ee
-4ff
-=2
-8gg
-8ee
-4cc
-4cc
-=3
-8ff
-8dd
-4b
-4dd
-=4
-8ff
-8ee
-2ee}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{2ee	A
+4ff	daj-
+=2	=2
+8gg	-że
+8ee	mi,
+4cc	Bo-
+4cc	-że,
+=3	=3
+8ff	żon-
+8dd	-kę
+4b	jak
+4dd	naj-
+=4	=4
+8ffL	-prę-
+8eeJ	.
+2ee}	-dzej,
 !!LO:LB:g=esac
-=5
-{2ee
-4ff
-=6
-8gg
-8ee
-4cc
-4cc
-=7
-8ff
-8dd
-4b
-4dd
-=8
-8ff
-8ee
-2cc}
+=5	=5
+{2ee	że-
+4ff	-bym
+=6	=6
+8gg	ja
+8ee	nie
+4cc	cier-
+4cc	-piał
+=7	=7
+8ff	ta-
+8dd	-kiej
+4b	wiel-
+4dd	-kiej
+=8	=8
+8ffL	nę-
+8eeJ	.
+2cc}	-dzy,
 !!LO:LB:g=esac
-=9
-{8b
-8cc
-4dd
-4cc
-=10
-8b
-8cc
-4dd
-4cc}
+=9	=9
+{8b	bom
+8cc	się
+4dd	do-
+4cc	-syć
+=10	=10
+8b	po-
+8cc	-nie-
+4dd	-wie-
+4cc}	-rał,
 !!LO:LB:g=esac
-=11
-{8b
-8dd
-4cc
-4b
-=12
-8a
-8g
-4a
-4g}
+=11	=11
+{8b	maj-
+8dd	-strom
+4cc	ścia-
+4b	-ny
+=12	=12
+8a	na-
+8g	-wy-
+4a	-cie-
+4g}	-rał,
 !!LO:LB:g=esac
-=13
-{8cc
-8b
-4cc
-4dd
-=14
-4ee
-2cc}
+=13	=13
+{8cc	com
+8b	po-
+4cc	-my-
+4dd	-ślał
+=14	=14
+4ee	kę-
+2cc}	-dy,
 !!LO:LB:g=esac
-=15
-{8ff
-8dd
-4cc
-4b
-=16
-4cc
-2cc}
-==
-*-
+=15	=15
+{8ff	nie
+8dd	dos-
+4cc	-ta-
+4b	-łem
+=16	=16
+4cc	wszę-
+2cc/}	-dy.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A dajże mi, Boże, żonkę jak najprędzej,
+!!żebym ja nie cierpiał takiej wielkiej nędzy,
+!!bom się dosyć poniewierał,
+!!majstrom ściany nawycierał,
+!!com pomyślał kędy,
+!!nie dostałem wszędy.
+!!@VERSE:
+!!2. Dworskiej panny nie chcę, boby grymasiła,
+!!jeszcze w łożku leży, już by kawę piła,
+!![w lustrze by się przeglądała,
+!!gospodarstwa nie dojrzała,
+!!oj, bieda domowi
+!!i gospodarzowi].
+!!@VERSE:
+!!3. Zbyt bogatej nie chcę, boby wymawiała,
+!!cożeś, łajdaku, miał, jam ci wszystko dała.
+!![Pójdźże, chłopcze, z pokornością,
+!!trzymaj czapkę przed jejmością.
+!!a słuchaj nieboże,
+!!co pani rozkaże].
+!!@VERSE:
+!!4. Urodliwej nie chcę, bywaliby goście:
+!!panowie książęta i księża po kweście,
+!!a ja chodzę koło sciany,
+!!podpieram mury, parkany:
+!!coż mi z tego było,
+!!kiedy komu miło.
+!!@VERSE:
+!!5. I z prostactwa nie chcę, wychowaną w domu,
+!!ani sam nie biorę, ani życzę komu,
+!!ona w domu wychowana,
+!!poczeła się z grubijana,
+!!jak przyjdzie w kuntryki,
+!!nie zna polityki.
+!!@VERSE:
+!!6. A dajże mi, Boże, żonkę tak pomierną
+!!w ochocie, robocie, by mi była wierną,
+!!by się ludziom spodobała,
+!!a mnie za męża kochała,
+!!daj to, Chryste Panie,
+!!niechaj się tak stanie.
+!!@@END: VERSES
+!!!role-singer: Single Man
+!!!role-listener: God 
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=352 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 269-270} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 269-270}
 !!!page: 269-270
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-20

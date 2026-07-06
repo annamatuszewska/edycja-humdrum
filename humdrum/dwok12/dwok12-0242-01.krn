@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1224200001-pamietaj_ty_dziewucho.krn
+﻿!!!!SEGMENT: DWOK1224200001-pamietaj_ty_dziewucho.krn
 !!!OTL: Pamiętaj ty dziewucho
+!!!FKT: Pieśni i Dumy. Skarga. Niechęć. Rozstanie
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Pobiedzisk, Gniezna
+!!!AR1: wielkopolskie ; poznański ; Pobiedziska-miasto
+!!!GE1: 52.477371 , 17.284954
+!!!AR2: wielkopolskie ; gnieźnieński ; Gniezno-gmina miejska
+!!!GE2: 52.533333 , 17.601388
 !!!source: DWOK12
 !!!id: 12242
 !!!signature: 1224200001
@@ -80,7 +87,7 @@
 =16	=16
 4.g}	-chasz?
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Bachelor
 !!!role-listener: Maiden
 !!!singer-sex: male
@@ -138,3 +145,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

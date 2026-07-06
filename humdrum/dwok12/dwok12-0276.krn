@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1227600000-na_tej_mokrej_rosie.krn
+﻿!!!!SEGMENT: DWOK1227600000-na_tej_mokrej_rosie.krn
 !!!OTL: Na tej mokrej rosie
+!!!FKT: Pieśni i Dumy. Strata wianka. Żale
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Środy (Dębicz)
+!!!AR1: wielkopolskie ; średzki ; Środa Wielkopolska-obszar wiejski
+!!!GE1: 52.265702 , 17.311801
 !!!source: DWOK12
 !!!id: 12276
 !!!signature: 1227600000
@@ -170,7 +175,7 @@
 16g#J	.
 8e}	się.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Narrator, Maiden, Bachelor
 !!!role-listener: Bachelor, Maiden
 !!!singer-sex: female, male
@@ -208,3 +213,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

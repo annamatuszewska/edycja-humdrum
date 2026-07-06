@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1231000001-idzie_konik_z_miasta.krn
+﻿!!!!SEGMENT: DWOK1231000001-idzie_konik_z_miasta.krn
 !!!OTL: Idzie kónik z miasta
+!!!FKT: Pieśni i Dumy. Strata wianka. Żale
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gołańczy (Czeszewo)
+!!!AR1: wielkopolskie ; wągrowiecki ; Gołańcz-obszar wiejski
+!!!GE1: 52.908722 , 17.382633
 !!!source: DWOK12
 !!!id: 12310
 !!!signature: 1231000001
@@ -51,7 +56,7 @@
 8dJ	.
 2e}	-je.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Narrator, Maiden, Bachelor
 !!!role-listener: Bachelor, Maiden
 !!!singer-sex: female, male
@@ -101,3 +106,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

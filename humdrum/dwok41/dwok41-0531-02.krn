@@ -1,105 +1,115 @@
-!!!!SEGMENT: DWOK4153100002-przyszedl_jasio_do_kasiuni.krn
+!!!!SEGMENT: DWOK4153100001-przyszedl_jasio_do_kasiuni.krn
 !!!OTL: Przyszedł Jasio do Kasiuni
 !!!source: DWOK41
 !!!id: 41531
-!!!signature: 4153100002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16.b
-32b
-8.b
-16dd
-=2
-16dd
-16cc
-8.cc
-16f#
-=3
-16a
-16a
-8cc
-16dd
-16ee
-=4
-16ee
-16dd
-8dd}
-8r
+!!!signature: 4153100001
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16.b	Przy-
+32b	-szedł
+8.b	Ja-
+16dd	-sio
+=2	=2
+16dd	do
+16cc	Ka-
+8.cc	-siu-
+16f#	-ni
+=3	=3
+16a	do-
+16a	-bra-
+8cc	-noc
+16ddL	po-
+16eeJ	.
+=4	=4
+16eeL	-wie-
+16ddJ	.
+8dd}	-dzieć,
+8r	.
 !!LO:LB:g=esac
-=5
-{16dd
-16dd
-4cc
-=6
-16ee
-16dd
-8b
-8dd
-=
-24dd
-24ee
-24dd
-8cc
-16f#
-16a
-=7
-16a
-16g
-8g}
-8r
+=5	=5
+{16dd	a
+16dd	o-
+4cc	-na
+=6	=6
+16ee	go
+16dd	pro-
+8b/L	.
+8dd/J	-si
+=7	=7
+24ddL	na
+24eeJ	.
+24dd	łó-
+16f#\L	-że-
+16a\J	-czko
+=8	=8
+16aL	sie-
+16gJ	.
+8g}	-dzieć.
+8r	.
 !!LO:LB:g=esac
-=8
-{16a
-16a
-8a
-8dd
-=9
-16cc#
-16b
-8cc#
-8a
-=10
-16a
-16a
-8ff#
-16ee
-16ff#
-=11
-16gg
-16ee
-8cc
-8a}
+=9	=9
+{16a	.
+16a	.
+8a	.
+8dd	.
+=10	=10
+(8ddq	.
+16cc#)	.
+16b	.
+8cc#	.
+8a	.
+=11	=11
+16a	.
+16a	.
+8ff#	.
+16eeL	.
+16ff#J	.
+=12	=12
+16gg	.
+16ee	.
+8cc	.
+8a}	.
 !!LO:LB:g=esac
-=12
-{16a
-16a
-8dd
-8cc
-=13
-8b
-8ee
-8dd
-=14
-16dd
-16cc#
-16b
-16a
-16b
-16cc#
-=15
-8dd
-16ee
-16dd
-16cc
-16a}
-==
-*-
+=13	=13
+{16a	.
+16a	.
+8dd	.
+8cc	.
+=14	=14
+8b	.
+8ee	.
+8dd	.
+=15	=15
+16dd	.
+16cc#	.
+16bL	.
+16a\J	.
+16bL	.
+16ccJ#	.
+=16	=16
+8dd	.
+16eeL	.
+16ddJ	.
+16ccL	.
+16a}\J	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Przyszedł Jasio do Kasiuni
+!!dobranoc powiedzieć,
+!!a ona go prosi
+!!na łóżeczko siedzieć.
+!!@@END: VERSES
+!!!ONB@texture: Only voice or instrument is playing at a time 
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=357 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 274} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 274}
 !!!page: 274
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-20

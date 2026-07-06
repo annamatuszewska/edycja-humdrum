@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1224500000-nie_chce_cie_kasiu.krn
+﻿!!!!SEGMENT: DWOK1224500000-nie_chce_cie_kasiu.krn
 !!!OTL: Nie chcę cię Kasiu
+!!!FKT: Pieśni i Dumy. Skarga. Niechęć. Rozstanie
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Rogowa, Znina
+!!!AR1: kujawsko-pomorskie ; żniński ; Rogowo-gmina wiejska
+!!!GE1: 52.724954 , 17.650456
+!!!AR2: kujawsko-pomorskie ; żniński ; Żnin-miasto
+!!!GE2: 52.849622 , 17.720835
 !!!source: DWOK12
 !!!id: 12245
 !!!signature: 1224500000
@@ -86,7 +93,7 @@
 4a}	cię.
 4r	.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Maiden, Bachelor
 !!!role-listener: Bachelor, Maiden
 !!!singer-sex: female, male
@@ -131,3 +138,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

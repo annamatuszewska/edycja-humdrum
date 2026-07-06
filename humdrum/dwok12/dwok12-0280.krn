@@ -1,5 +1,7 @@
-!!!!SEGMENT: DWOK1228000000-matusienka_moja_jam_coreczka_twoja.krn
+﻿!!!!SEGMENT: DWOK1228000000-matusienka_moja_jam_coreczka_twoja.krn
 !!!OTL: Matusieńka moja, jam córeczka twoja
+!!!FKT: Pieśni i Dumy. Strata wianka. Żale
+!!!REG: Wielkie Księstwo Poznańskie
 !!!source: DWOK12
 !!!id: 12280
 !!!signature: 1228000000
@@ -14,7 +16,7 @@
 8cc	.
 8b	-ka
 =2	=2
-!LO:TX:t=P:problem=mixed beam
+!LO:TX:t=P:problem=mixed beam	!
 16ccL\	mo-
 16fJ/	.
 4f	-ja,
@@ -47,7 +49,7 @@
 8f}	.
 8r	.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Daughter, Narrator, Father, Mother
 !!!role-listener: Mother, Daughter
 !!!singer-sex: female
@@ -111,3 +113,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

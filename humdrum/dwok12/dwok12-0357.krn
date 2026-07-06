@@ -1,62 +1,79 @@
-!!!!SEGMENT: DWOK1235700000-kapala_sie_kasia_w_morzu.krn
+﻿!!!!SEGMENT: DWOK1235700000-kapala_sie_kasia_w_morzu.krn
 !!!OTL: Kąpała się Kasia w morzu
+!!!FKT: Pieśni i Dumy. Igraszka. Swawola
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Ostrzeszowa
+!!!AR1: wielkopolskie ; ostrzeszowski ; Ostrzeszów-miasto
+!!!GE1: 51.423652 , 17.931476
 !!!source: DWOK12
 !!!id: 12357
 !!!signature: 1235700000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16a
-8b
-8b
-=2
-4b
-8dd
-=3
-8cc
-4a
-=4
-16g
-16a
-8b
-8b
-=5
-4b
-8dd
-=6
-8cc
-4a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Kąpa-
+16a	.
+8b	-ła
+8b	się
+=2	=2
+4b	Kasia
+8dd	.
+=3	=3
+8cc	w_morzu,
+4a	.
+=4	=4
+16g	pasła
+16a	.
+8b	ko-
+8b	-ni-
+=5	=5
+4b	-ki
+8dd	we
+=6	=6
+8cc	zbożu,
+4a}	.
 !!LO:LB:g=esac
-=7
-{16a
-16f#
-8d
-8d
-=8
-4e
-8g
-=9
-8b
-4a
-=10
-16a
-16f#
-8d
-8d
-=11
-4e
-8g
-=12
-8f#
-4d}
-==
-*-
+=7	=7
+{16a	Pan
+16f#	starosta
+8d	.
+8d	.
+=8	=8
+4e	jechał
+8g	.
+=9	=9
+8b	z_pola,
+4a	.
+=10	=10
+16a	zajął
+16f#	.
+8d	koni-
+8d	.
+=11	=11
+4e	-ki
+8g	do
+=12	=12
+8f#	dwora.
+4d}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Kąpała się Kasia w morzu,
+!!pasła koniki we zbożu,
+!!Pan starosta jechał z pola,
+!!zajął koniki do dwora.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=203 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 187} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 187}
 !!!page: 187
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

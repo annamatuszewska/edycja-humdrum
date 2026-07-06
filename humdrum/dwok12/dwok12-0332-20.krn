@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1233200020-instrumentalna-oj_lato_lato_lato_gorace.krn
-!!!OTL: Instrumentalna-Oj lato lato lato gorące
+﻿!!!!SEGMENT: DWOK1233200020-instrumentalna-oj_lato_lato_lato_gorace.krn
+!!!OTL: Instrumentalna. Oj lato lato lato gorące
+!!!FKT: Pieśni i Dumy. Igraszka. Swawola
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kostrzyna (Siekierki)
+!!!AR1: NIE ; NIE ; NIE
+!!!GE1: 52.383122 , 17.155401
 !!!source: DWOK12
 !!!id: 12332
 !!!signature: 1233200020
@@ -9,29 +14,31 @@
 *G:
 *M3/4
 =1
-{8f#
-8a
-8cc
-8cc
+{8f#L
+8aJ
+8ccL
+8ddq
+8ccJ
 4a
 =2
-8d
-8f#
-8g
-8b
-4g
+8dL
+8f#J
+8gL
+8bJ
+4g\
 =3
-8f#
-8a
-8cc
-8cc
+8f#L
+8aJ
+8ccL
+8ddq
+8ccJ
 4a
 =4
-8d
-8f#
-8g
-8b
-4dd}
+8dL
+8f#J
+8gL
+8bJ
+4dd/}
 ==
 *-
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
@@ -39,3 +46,7 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=192 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 176} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 176}
 !!!page: 176
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-29

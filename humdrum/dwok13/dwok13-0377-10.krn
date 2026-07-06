@@ -1,58 +1,81 @@
-!!!!SEGMENT: DWOK1337700010-da_i_boze_moj.krn
+﻿!!!!SEGMENT: DWOK1337700010-da_i_boze_moj.krn
 !!!OTL: Da i Boże mój
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Strzelna, Sompolna
+!!!AR1: kujawsko-pomorskie ; mogileński ; Strzelno-miasto
+!!!GE1: 52.628026 , 18.172506
+!!!AR2: wielkopolskie ; koniński ; Sompolno-miasto
+!!!GE2: 52.388875 , 18.502749
 !!!source: DWOK13
 !!!id: 13377
 !!!signature: 1337700010
-**kern
-*clefG2
-*k[b-e-]
-*g:
-*M3/4
-=1
-{4.g
-8a
-8cc#
-8dd
-=2
-8cc#
-8g
-4b-
-4dd
-=3
-4.g
-8a
-8ee
-8dd
-=4
-8cc#
-8g
-4b-
-4a}
+**kern	**text	**text
+*clefG2	*	*
+*k[b-e-]	*	*
+*g:	*	*
+*M3/4	*	*
+=1	=1	=1
+{4.g	Da	Da
+8a	i	i
+8cc#	Bo-	z_tu-
+8dd	-że	-tej-
+=2	=2	=2
+8cc#	mój,	-szej
+8g	Bo-	dziedzi-
+4b-	-że	.
+4dd	mój,	-ny,
+=3	=3	=3
+4.g	da	da
+8a	i	i
+8ee	Bo-	z_tu-
+8dd	-że	-tej-
+=4	=4	=4
+8cc#	mój	-sze-
+8g	je-	-go
+4b-	-dy-	po-
+4a}\	-ny,	-la,
 !!LO:LB:g=esac
-=5
-{4.g
-8b-
-8dd
-8cc#
-=6
-8g
-8b-
-4a
-4cc#
-=7
-4.g
-8a
-8ee
-8dd
-=8
-8cc#
-8g
-4b-
-4a}
-==
-*-
+=5	=5	=5
+{4.g	da	za-
+8b-	i	-pro-
+8dd	wy-	-wadź
+8cc#	-pro-	me,
+=6	=6	=6
+8g	-wadź	Pa-
+8b-	me	-nie
+4a\	Bo-	Je-
+4cc#	-że,	-zu
+=7	=7	=7
+4.g	oj	da
+8a	i	i
+8ee	z_tu-	kę-
+8dd	-tej-	-dy
+=8	=8	=8
+8cc#	-szej	Two-
+8g	dziedzi-	-ja
+4b-	.	wo-
+4a}\	-ny.	-la.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!Da i Boże mój, Boże mój,
+!!da i Boże mój jedyny,
+!!da i wyprowadź me Boże,
+!!oj i z tutejszej dziedziny.
+!!Da i z tutejszej dziedziny,
+!!da i z tutejszego pola,
+!!zaprowadź me, Panie Jezu,
+!!da i kędy Twoja wola.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!role-listener: God
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=184 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 160} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 160}
 !!!page: 160
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-02
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-15

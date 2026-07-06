@@ -3,58 +3,69 @@
 !!!source: DWOK41
 !!!id: 41541
 !!!signature: 4154100001
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/4
-=1
-{8f
-8f
-4f
-4a
-=2
-8cc
-8cc
-4a
-4f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/4	*
+=1	=1
+{8f	Co
+8f	za
+4f	ka-
+4a	-ra
+=2	=2
+8cc/	Pa-
+8cc/	-na
+4a\	Bo-
+4f}\	-ga,
 !!LO:LB:g=esac
-=3
-{8cc
-8cc
-4.aa
-8gg
-=4
-8ff
-8ee
-4ff
-4a}
+=3	=3
+{8cc	[nie
+(8bq	.
+8cc)	u-
+4.aa	-wa-
+8gg/	-żasz,
+=4	=4
+8ff/	ze
+8ee/	zła
+4ff/	dro-
+4a}\	-ga,
 !!LO:LB:g=esac
-=5
-{8cc
-8cc
-4b-
-4e
-=6
-8f
-8f
-4a
-4cc}
+=5	=5
+{8cc	tyl-
+(8ddq	.
+8cc)	-ko
+4b-	jeź-
+4e	-dzisz
+=6	=6
+8f	na
+8f	ba-
+4a	-li-
+4cc}	-ki,
 !!LO:LB:g=esac
-=7
-{8cc
-8cc
-4b-
-4e
-=8
-8f
-8f
-4a
-4f}
-==
-*-
+=7	=7
+{8cc	siaz-
+8cc	-drzesz
+4b-	su-
+4e	-knie,
+=8	=8
+8f	drzesz
+8f	bu-
+4a	-ci-
+4f}	-ki].
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Co za kara Pana Boga,
+!![nie uważasz, ze zła droga,
+!!tylko jeździsz na baliki,
+!!siazdrzesz suknie, drzesz buciki].
+!!@@END: VERSES
+!!!role-singer: Complex
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=364 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 281-282} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 281-282}
 !!!page: 281-282
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-20

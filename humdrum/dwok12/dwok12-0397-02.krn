@@ -1,68 +1,101 @@
-!!!!SEGMENT: DWOK1239700002-z_tamtej_strony_jeziora.krn
+﻿!!!!SEGMENT: DWOK1239700002-z_tamtej_strony_jeziora.krn
 !!!OTL: Z tamtej strony jeziora
+!!!FKT: Pieśni i Dumy. Smutek. Strapienie. Stary
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Wielenia (Rosko)
+!!!AR1: wielkopolskie ; czarnkowsko-trzcianecki ; Wieleń-obszar wiejski
+!!!GE1: 52.874326 , 16.316247
 !!!source: DWOK12
 !!!id: 12397
 !!!signature: 1239700002
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{8a
-8cc
-8b
-8cc
-=2
-8a
-8b
-8cc
-8dd
-=3
-2ee
-=4
-8gg
-8ee
-8dd
-8ee
-=5
-8dd
-8cc
-8b
-8a
-=6
-2g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+=1	=1
+{8a\	Z_tamtéj
+8cc	.
+8b	strony
+8cc	.
+=2	=2
+8aL	jezio-
+8bJ	.
+8ccL	.
+8ddJ/	.
+=3	=3
+2ee;	-ra,
+=4	=4
+8gg	stoji
+8ee	.
+8dd	jawór
+8ee	.
+=5	=5
+8ddL	zielu-
+8ccJ/	.
+8bL	.
+8aJ	.
+=6	=6
+2g;}	-ny.
 !!LO:LB:g=esac
-=7
-{4ee
-8cc
-8ee
-=8
-4dd
-4g
-=9
-8a
-8a
-8cc
-8ee
-=10
-4a
-4g
-=11
-8a
-8a
-8cc
-8ee
-=12
-4dd
-4ee
-=13
-2a}
-==
-*-
-!!!ONB: Alternatywnie można zakodować w G
+=7	=7
+{4ee	Pod
+8cc	tym
+8ee	ja-
+=8	=8
+4dd	-worem,
+4g	.
+=9	=9
+8a	pod
+8a	tym
+8cc	zielu-
+8ee	.
+=10	=10
+4a	-nym
+4g	.
+=11	=11
+8a	trzej
+8a	ptaszkowie
+8cc	.
+8ee	.
+=12	=12
+4dd	śpiewa-
+4ee	.
+=13	=13
+2a;}	-ją.
+==	==
+*-	*-
+!!!role-singer: Narrator, Bachelors, Maiden
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Z tamtéj strony jeziora,
+!!stoji jawór zieluny.
+!!Pod tym jaworem, pod tym zielunym
+!!trzej ptaszkowie śpiewają.
+!!@VERSE:
+!!2. Nie béli-ć to ptaskowie,
+!!ino kawalirowie.
+!!Rajili sobie o jedny kochance
+!!chtóry chtórą pojąć mioł.
+!!@VERSE:
+!!3. Jeden mówi: moja to!
+!!a ten drugi: jak Bóg do!
+!!a ten trzeci: moja najmilejsa
+!!co-ć mi ją Bóg obiecoł.
+!!@VERSE:
+!!4. Jeźli będzie stary — to gö na mary,
+!!co-by jutra nie dockał;
+!!a jeźli muody — prześlicny urody,
+!!zeby mu Bóg zdrowie dał.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=221 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 205} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 205}
 !!!page: 205
+!!!BEM: Alternatywnie można zakodować w G
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

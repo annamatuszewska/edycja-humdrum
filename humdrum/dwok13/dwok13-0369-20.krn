@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1336900020-prosila_me_na_maslonke.krn
-!!!OTL: Prosiła me na maślonkę
+﻿!!!!SEGMENT: DWOK1336900020-prosila_me_na_maslonke.krn
+!!!OTL: Prosiła me na maślonkę. Instrumentalna
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gniewkowa, Służewa
+!!!AR1: kujawsko-pomorskie ; inowrocławski ; Gniewkowo-miasto
+!!!GE1: 52.892787 , 18.408568
+!!!AR2: kujawsko-pomorskie ; aleksandrowski ; Aleksandrów Kujawski-gmina wiejska
+!!!GE2: 52.856188 , 18.645535
 !!!source: DWOK13
 !!!id: 13369
 !!!signature: 1336900020
@@ -9,64 +16,69 @@
 *G:
 *M3/8
 =1
-{8.g
-16a
-16cc
-16b
+{8.gL
+16aJ
+16ccL
+16bJ
 =2
-16g
+16gL
 16f#
 16g
-16a
-16cc
-16b
+16aJ
+16ccL
+16bJ
 =3
-8.g
-16a
-16cc
-16b
+8.gL
+16aJ
+16ccL
+16bJ
 =4
-16ee
-16dd
-16cc
-16b
-16dd
-16b}
+16eeL
+16ddJ
+16ccL
+16bJ
+16ddL
+16b}J
 !!LO:LB:g=esac
-=
-{8.g
-16a
-24cc
-24b
-24a
-=
-16g
+=5
+*Xtuplet
+{8.gL
+16aJ
+24ccL/
+24b/
+24aJ
+=6
+16gL
 16f#
 16g
-16a
-24cc
-24b
-24a
-=
-8.g
-16a
-24cc
-24b
-24a
-=
-16ee
-16dd
-24cc
-24b
-24a
-24dd
-24cc
-24b}
+16aJ
+24ccL/
+24b/
+24aJ
+=7
+8.gL
+16aJ
+24ccL/
+24b/
+24aJ
+=8
+16eeL
+16ddJ
+24ccL/
+24b/
+24aJ
+24dd/L
+24cc/
+24b}/J
 ==
 *-
-!!!ONB: Partia instrumentalna
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=181 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 157} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 157}
 !!!page: 157
+!!!BEM: Partia instrumentalna
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-01
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-15

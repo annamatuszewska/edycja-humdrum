@@ -3,60 +3,74 @@
 !!!source: DWOK41
 !!!id: 41393
 !!!signature: 4139300000
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/4
-=1
-{8e
-8g#
-4a
-4cc#
-=2
-8ff#
-8ee
-4cc#
-4ee
-=3
-8e
-8g#
-4a
-4cc#
-=4
-8ff#
-8ee
-4cc#
-4a}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M3/4	*
+=1	=1
+{8e	Do-
+8g#	-brze
+4a	u
+4cc#	lu-
+=2	=2
+8ff#	-dzi,
+8ee	ma-
+4cc#	-tu-
+4ee	-lu,
+=3	=3
+8e	do-
+8g#	-brze
+4a	u
+4cc#	lu-
+=4	=4
+8ff#	-dzi,
+8ee	da,
+4cc#	lu-
+4a}	-dzi:
 !!LO:LB:g=esac
-=5
-{8g#
-8a
-8b
-8a
-8g#
-8f#
-=6
-8e
-8g#
-4a
-4ee
-=7
-8g#
-8a
-8b
-8a
-8g#
-8f#
-=8
-8e
-8g#
-4cc#
-4a}
-==
-*-
+=5	=5
+{8g#	jesz-
+8a	-cze
+8b/L	le-
+8aJ	.
+8g#L	-piéj
+8f#J	.
+=6	=6
+8e	u
+8g#	ma-
+4a	-tu-
+4ee	-li,
+=7	=7
+8g#	nie
+8a	ra-
+8b/L	-no
+8aJ	.
+8g#L	bu-
+8f#J	.
+=8	=8
+8e	-dzi,
+8g#	da,
+4cc#	bu-
+4a}	-dzi.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Dobrze u ludzi, matulu,
+!!dobrze u ludzi, da, ludzi:
+!!jeszcze lepiéj u matuli,
+!!nie rano budzi, da, budzi.
+!!@VERSE:
+!!2. |: Sniadaneczko nagotuje:|.
+!!|: jeszcze ostudzi, ostudzi:|.
+!!@@END: VERSES
+!!!role-singer: Daughter
+!!!role-listener: Mother
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=298 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 217} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 217}
 !!!page: 217
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-14

@@ -3,58 +3,100 @@
 !!!source: DWOK41
 !!!id: 41549
 !!!signature: 4154900011
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8g
-8a
-8b
-8b
-8cc
-8b
-=2
-8b
-8a
-2a
-=3
-8f#
-8g
-8a
-8a
-8g
-8a
-=4
-4b
-2g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8g	Czar-
+8a	-ny
+8b	ko-
+8b	-lor
+8cc	na-
+8b	-szym
+=2	=2
+8b/L	mia-
+8aJ	.
+2a	-stom
+=3	=3
+8f#	zna-
+8g	-czy
+8a	zaw-
+8a	-sze
+8g	pier-
+8a	-wszą
+=4	=4
+4b	mo-
+2g}	-dę,
 !!LO:LB:g=esac
-=5
-{8g
-8a
-8b
-8b
-8cc
-8b
-=6
-8b
-8a
-2a
-=7
-8f#
-8g
-8a
-8a
-8g
-8a
-=8
-4b
-2g}
-==
-*-
+=5	=5
+{8g	czy
+8a	męż-
+8b	-czy-
+8b	-znom,
+8cc	czy
+8b	nie-
+=6	=6
+8b/L	-wia-
+8aJ	.
+2a	-stom
+=7	=7
+8f#	czy-
+8g	-ni
+8a	zasz-
+8a	-czyt
+8g	i
+8a	wy-
+=8	=8
+4b	-go-
+2g}	-dę
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Czarny kolor naszym miastom
+!!znaczy zawsze pierwszą modę,
+!!czy mężczyznom, czy niewiastom
+!!czyni zaszczyt i wygodę,
+!!la la la [la la la
+!!la la la la la la la la
+!!la la la la la la la la la la].
+!!@VERSE:
+!!2. Czarno stroją się galowie,
+!!czarno stroją wielkie pany,
+!!czarno matrony, sędziowie,
+!!czarno i duchowne stany,
+!!la la itd.
+!!@VERSE:
+!!3. Czarno stroi się kokietka,
+!!gdy chce ułowić młodzika,
+!!czarny frak ma szerepetka,
+!!gdy się w pańskie domy wmyka,
+!!la la itd.
+!!@VERSE:
+!!4. Czarna ziemia się obrodzi,
+!!czarny włos bywa ozdobą.
+!!czarne oczko chłopca zwodzi,
+!!czarny strój wabi za sobą.
+!!la la itd.
+!!@VERSE:
+!!5. To nie dosyć, że w ozdobie
+!!czarny kolor tak wygrywa,
+!!kto ma czarną duszę w sobie,
+!!ten szczęśliwym często bywa,
+!!la la itd.
+!!@VERSE:
+!!6. Słowem, ten kolor przyjemny
+!!jest u nas oznaką chwały,
+!!ale ja, sługa nikczemny,
+!!wolę zawsze zostać biały,
+!!la la itd.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=369 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 286-287} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 286-287}
 !!!page: 286-287
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-27

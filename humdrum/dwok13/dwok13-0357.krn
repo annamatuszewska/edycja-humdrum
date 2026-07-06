@@ -1,63 +1,82 @@
-!!!!SEGMENT: DWOK1335700000-ciezko_ciezko_golabkowi.krn
+﻿!!!!SEGMENT: DWOK1335700000-ciezko_ciezko_golabkowi.krn
 !!!OTL: Ciężko ciężko gołąbkowi
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Łabiszyna, Barcina
+!!!AR1: kujawsko-pomorskie ; żniński ; Łabiszyn-miasto
+!!!GE1: 52.952981 , 17.919040
+!!!AR2: kujawsko-pomorskie ; żniński ; Barcin-miasto
+!!!GE2: 52.857378 , 17.941886
 !!!source: DWOK13
 !!!id: 13357
 !!!signature: 1335700000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16b
-16dd
-8ee
-32ff#
-16.ee
-=2
-16dd
-16b
-8ee
-8a
-=3
-16b
-16dd
-8ee
-32ff#
-16.ee
-=4
-16dd
-16b
-8b
-8a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16b	Cięż-
+16dd	-ko,
+8ee	cięż-
+32ff#L	-ko
+16.eeJ	.
+=2	=2
+16dd	go-
+16b	-łąb-
+8ee/L	-kowi,
+8aJ	.
+=3	=3
+16b	je-
+16dd	-szcze
+8ee	cię-
+32fLf#	-ży
+16.eJe	.
+=4	=4
+16dd	ko-
+16b	-chan-
+8b	-kowi.
+8a}\	.
 !!LO:LB:g=esac
-=5
-{16b
-16dd
-8a
-16g
-16f#
-=6
-16d
-16ff#
-8ee
-8dd
-=7
-16b
-16dd
-8a
-16g
-16f#
-=8
-16d
-16f#
-8g
-32b
-16.a}
-==
-*-
+=5	=5
+{16b	Cięż-
+16dd	-ko,
+8a	cię-
+16gL	-żko
+16f#J	.
+=6	=6
+16d	ser-
+16ff#/	-cu
+8ee/L	me-
+8dd/J	-mu,
+=7	=7
+16b	żem
+16dd	się
+8a	da-
+16gL	-ła
+16f#J	.
+=8	=8
+16d	le-
+16f#\	-da
+8g\	ko-
+32bL	-mu.
+16.a\J}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Ciężko, ciężko gołąbkowi,
+!!jeszcze cięży kochankowi.
+!!Ciężko, ciężko sercu memu,
+!!żem się dała leda komu.
+!!@@END: VERSES
+!!!role-singer: Woman
+!!!singer-sex: female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=178 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 154} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 154}
 !!!page: 154
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-26

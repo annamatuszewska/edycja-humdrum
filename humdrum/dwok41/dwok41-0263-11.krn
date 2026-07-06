@@ -2,59 +2,72 @@
 !!!OTL: Świeci miesiąc, a nie grzeje
 !!!source: DWOK41
 !!!id: 41263
-!!!signature: 4126300011
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16cc
-16cc
-8b
-8dd
-=2
-16ff
-16aa
-16gg
-16aa
-16gg
-16ee
-=3
-16cc
-16cc
-8b
-8dd
-=4
-16ff
-16aa
-8.gg
-16ee}
+!!!signature: 4126300001
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{16cc	Świe-
+16cc	-ci
+8b	mie-
+8dd	-siąc,
+=2	=2
+16ff	a
+16aa	nie
+16ggL	grze-
+16aaJ	.
+16ggL	-je,
+16eeJ	.
+=3	=3
+16cc	do
+16cc	ko-
+8b	-cha-
+8ddM	-nia
+=4	=4
+16ff	ser-
+16aa	-ce
+8.gg	mgle-
+16ee}	-je.
 !!LO:LB:g=esac
-=5
-{16cc
-16cc
-8b
-8dd
-=6
-8.a
-16g
-16b
-16dd
-=7
-16cc
-16cc
-8b
-8dd
-=8
-8.a
-16g
-16b
-16a}
-==
-*-
+=5	=5
+{16cc	Trze-
+16cc	-ba
+8b	ser-
+8dd	-ce
+=6	=6
+8.a	us-
+16g	-po-
+16b	-ko-
+16dd	-ić,
+=7	=7
+16cc	do
+16cc	ko-
+8b	-cha-
+8dd	-nia
+=8	=8
+8.a	się
+16g	us-
+16b/	-tro-
+16a}	-ić.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Świeci miesiąc, a nie grzeje,
+!!do kochania serce mgleje.
+!!Trzeba serce uspokoić,
+!!do kochania się ustroić.
+!!@@END: VERSES
+!!!role-singer: Bachelor
+!!!singer-sex: male
+!!!role-listener: God
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=243 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 164-165} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 164-165}
 !!!page: 164-165
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-23
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-27

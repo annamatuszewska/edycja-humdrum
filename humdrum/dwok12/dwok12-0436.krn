@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1243600000-stala_sie_u_nas_pewna_pogloska.krn
+﻿!!!!SEGMENT: DWOK1243600000-stala_sie_u_nas_pewna_pogloska.krn
 !!!OTL: Stała się u nas pewna pogłoska
+!!!FKT: Pieśni i Dumy. Małżeństwo. Kłótnia. Zgoda
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Ostrzeszowa, Wieruszowa
+!!!AR1: wielkopolskie ; ostrzeszowski ; Ostrzeszów-miasto
+!!!GE1: 51.423652 , 17.931476
+!!!AR2: łódzkie ; wieruszowski ; Wieruszów-miasto
+!!!GE2: 51.295000 , 18.155000
 !!!source: DWOK12
 !!!id: 12436
 !!!signature: 1243600000
@@ -120,3 +127,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

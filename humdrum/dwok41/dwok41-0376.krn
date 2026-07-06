@@ -3,62 +3,100 @@
 !!!source: DWOK41
 !!!id: 41376
 !!!signature: 4137600000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8g
-8d
-8g
-8b
-=2
-4dd
-8dd
-8b
-=3
-4.g
-8b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8g	A
+8d	pod
+8g	bo-
+8b	-rem
+=2	=2
+4dd	na
+8ddL	dę-
+8bJ	.
+=3	=3
+(>4.g	.
+8b)}	-bie,
 !!LO:LB:g=esac
-=4
-{8dd
-8b
-8dd
-8b
-=5
-4dd
-8dd
-8b
-=6
-8a
-8b
-8cc
-8ee
-=7
-4dd
-8b
-8dd}
+=4	=4
+{8dd	a
+8b	pod
+8dd	bo-
+8b	-rem
+=5	=5
+4dd	na
+8dd	dę-
+8b	-bie:
+=6	=6
+8a	gru-
+8b	-cha-
+8cc	-ły
+8ee	tam
+=7	=7
+4dd	go-
+8b	-łę-
+8dd}	-bie,
 !!LO:LB:g=esac
-=8
-{8g
-8b
-8dd
-16cc
-16b
-=9
-4a
-8a
-8f#
-=10
-4.d
-8a
-=11
-2d}
-==
-*-
+=8	=8
+{8g	gru-
+8b	-cha-
+8dd	-ły
+16ccL	tam
+16bJ	.
+=9	=9
+4a	go-
+8a	-łę-
+8f#	-bie,
+=10	=10
+4.d	go-
+8a	-łę-
+=11	=11
+2d}	-bie.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. |:A pod borem na dębie:|
+!!|:gruchały tam gołębie:|, gołębie.
+!!@VERSE:
+!!2. |: Tylko jeden nie gruchał:|,
+!!|: co panienkę oszukal:|, oszukał.
+!!@VERSE:
+!!3. |: Całą nockę nie spała:|,
+!!|: dyziu, dyziu, wołała:|, wołała.
+!!@VERSE:
+!!4. |:Dysiu, dyziu, dysieńku:|,
+!!|:gdzież odjeżdżasz, kochanku:|, kochanku?
+!!@VERSE:
+!!5. |: A odjeżdżam pod Kalisz:|.
+!!|: Komuż mnie tu zostawisz:|, zostawisz?
+!!@VERSE:
+!!6. |: Ja cię Bogu polecam:|,
+!!|: a inszej się zalecam:|, zalecam.
+!!@VERSE:
+!!7. |: Zalecaj się, zalecaj:|,
+!!|: mnie chusteczki powracaj:|, powracaj.
+!!@VERSE:
+!!8. |: Jakich żeś mi nadała:|,
+!!|: żeś je zwracać kazała:|, kazała.
+!!@VERSE:
+!!9. |: Jednęm dała z astrami:|,
+!!|: nie wie matka z siostrami:|, z siostrami.
+!!@VERSE:
+!!10. |: Drugą dałam w alkierzu:|,
+!!|: a ty, Jasiu, szalbierzu:|, szalbierzu.
+!!@VERSE:
+!!11. |: Trzecią dałam pod gajem:|,
+!!|: jesteś, Jasiu, hultajem:|, hultajem.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!RDF**kern: >= below
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=290 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 209-210} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 209-210}
 !!!page: 209-210
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-30

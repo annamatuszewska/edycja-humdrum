@@ -1,4 +1,4 @@
-!!!!SEGMENT: DWOK4168300002-instrumentalna.krn
+!!!!SEGMENT: DWOK4168300001-instrumentalna.krn
 !!!OTL: Instrumentalna
 !!!source: DWOK41
 !!!id: 41683
@@ -9,55 +9,58 @@
 *F:
 *M3/4
 =1
-{8f
-8f
-4ff
+{8fL
+8fJ
+4ff\
 4ff
 =2
-8ff
-8ff
+8ffL
+(8ggq
+8ff)J
 4ee
 4dd
 =3
-8dd
-8a
+8ddL
+8a\J
 4.b-
 8dd
 =4
-8ff
-8ff
+8ffL
+(8ggq
+8ff)J
 4ee
 4dd
 =5
-8dd
-8cc
+8ddL
+8ccJ
 4cc
-8cc
-8a}
+8ccL
+8a}\J
 !!LO:LB:g=esac
 =6
-{8cc
-8cc
+{8ccL
+(8ddq
+8cc)J
 4a
 4cc
 =7
-8cc
-8b-
+8ccL
+8b-J
 4.g
 8e
 =8
-8f
-8f
+8fL
+8fJ
 4a
 4cc
 =9
-8cc
-8b-
+8ccL
+8b-J
 4.g
 8e
 =10
-8f
-8f
+8fL
+8fJ
 4a
 4f}
 ==
@@ -67,3 +70,5 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=417 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 330} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 330}
 !!!page: 330
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-06-12

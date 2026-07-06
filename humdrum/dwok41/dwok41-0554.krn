@@ -3,109 +3,116 @@
 !!!source: DWOK41
 !!!id: 41554
 !!!signature: 4155400000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-{8d
-=1
-4g
-8g
-=2
-8.f#
-16e
-8d
-=3
-4g
-8b
-=4
-4.dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+!LO:TX:a:t=Pieśń akademików warszawskich	!
+{8d	Bądź
+=1	=1
+4g	po-
+8g	-zdro-
+=2	=2
+8.f#L	-wio-
+16eJ	.
+8d	-ny
+=3	=3
+4g	bło-
+8b	-gi
+=4	=4
+4.dd}	dniu (...)
 !!LO:LB:g=esac
-=5
-{4dd
-8b
-=6
-8.dd
-16cc
-8b
-=7
-8a
-16a
-16a
-8a
-=8
-8a
-8r
-8d}
+=5	=5
+{4dd	.
+8b	.
+=6	=6
+8.ddL	.
+16ccJ	.
+8b	.
+=7	=7
+8a	.
+16a	.
+16a	.
+8a	.
+=8	=8
+8a	.
+8r	.
+8d}	.
 !!LO:LB:g=esac
-=9
-{4g
-8g
-=10
-8.f#
-16e
-8d
-=11
-4g
-8b
-=12
-8.dd
-16cc
-8b}
+=9	=9
+{4g	.
+8g	.
+=10	=10
+8.f#L	.
+16eJ	.
+8d	.
+=11	=11
+4g	.
+8b	.
+=12	=12
+8.ddL	.
+16ccJ	.
+8b}	.
 !!LO:LB:g=esac
-=13
-{8a
-16a
-16a
-8a
-=14
-8a
-8b
-8a
-=15
-8.g
-16g
-8g
-=16
-4g
-8dd}
+=13	=13
+{8a	.
+16a	.
+16a	.
+8a	.
+=14	=14
+8a	.
+8b	.
+8a	.
+=15	=15
+8.gL	.
+16gJ	.
+8g	.
+=16	=16
+4g	.
+8dd}	.
 !!LO:LB:g=esac
-=17
-{8a
-8b
-8cc
-=18
-4b
-8dd
-=19
-8a
-8b
-8cc
-=20
-4b
-8b}
+=17	=17
+{8a	.
+8b	.
+8cc	.
+=18	=18
+4b	.
+8dd	.
+=19	=19
+8a	.
+8b	.
+8cc	.
+=20	=20
+4b	.
+8b}	.
 !!LO:LB:g=esac
-=21
-{8b
-8a
-8g
-=22
-8b
-8a
-8g
-=23
-8dd
-16dd
-16dd
-8dd
-=24
-4.dd}
-==
-*-
+=21	=21
+{8b	.
+8a	.
+8g	.
+=22	=22
+8b	.
+8a	.
+8g	.
+=23	=23
+8dd	.
+16dd	.
+16dd	.
+8dd	.
+=24	=24
+4.dd}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Bądź pozdrowiony błogi dniu (...)
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!ONB: Pieśń akademików warszawskich, zły podział taktów
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=375 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 292} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 292}
 !!!page: 292
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-27

@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1338600000-instrumentalna-mazur.krn
-!!!OTL: Instrumentalna-Mazur
+﻿!!!!SEGMENT: DWOK1338600000-instrumentalna-mazur.krn
+!!!OTL: Instrumentalna. Mazur
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gniewkowa, Raciążka
+!!!AR1: kujawsko-pomorskie ; inowrocławski ; Gniewkowo-miasto
+!!!GE1: 52.892787 , 18.408568
+!!!AR2: kujawsko-pomorskie ; aleksandrowski ; Raciążek-gmina wiejska
+!!!GE2: 52.857593 , 18.808149
 !!!source: DWOK13
 !!!id: 13386
 !!!signature: 1338600000
@@ -9,80 +16,87 @@
 *A:
 *M3/8
 =1
-{16.a
+!LO:TX:a:t=Mazur.
+{16.La\
 32cc#
 16b
-16a
-16cc#
-16ee
+16a\J
+16cc#L
+16eeJ
 =2
-16dd#
-16ff#
-8ee
-8g#
+16dd#L
+16ff#J
+!LO:TX:t=P:problem=mixed beam
+8ee\L
+8g#/J
 =3
-16.a
+16.a\L
 32cc#
 16b
-16a
-16cc#
-16ee
+16a\J
+16cc#L
+16eeJ
 =4
-16dd
-16g#
-8b
-8g#}
+16dd/L
+16g#J
+8b/L
+8g#}J
 !!LO:LB:g=esac
 =5
-{16a
-16cc#
+{16a\L
+16cc#J
 4ee
 =6
-16ee
-16ff#
-8b
+16eeL
+16ff#J
+8bL
 16dd
-16cc#
+16cJc#
 =7
-16.e
+16.eL
 32g#
 16f#
-16e
-16g#
-[16b
+16eJ
+16g#L
+[>16b/J
 =8
-16b]
-16dd
-8cc#
-8a}
+16b]L
+16ddJ
+8cc#L
+8a}\J
 !!LO:LB:g=esac
 =9
-{16a
-16cc#
+{16a\L
+16cc#J
 4ee
 =10
-16ee
-16ff#
-8b
+16eeL
+16ff#J
+8bL
 16dd
-16cc#
+16cJc#
 =11
-16.e
+16.eL
 32g#
 16f#
-16e
-16g#
-[16b
+16eJ
+16g#L
+[>16b/J
 =12
-16b]
-16dd
-16cc#
+16b]L
+16ddJ
+16cc#/L
 16g#
-8a}
+8aJ}
 ==
 *-
+!!!RDF**kern: >= above
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=187 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 163} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 163}
 !!!page: 163
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-03
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-15

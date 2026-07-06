@@ -8,27 +8,27 @@
 *k[f#]
 *G:
 *M3/4
-=
-{12b
-12cc
-12dd
-4b
-4dd
-=
-12b
-12cc
-12dd
-4b
-4dd
 =1
-8dd
-8gg
+{12bL
+12cc
+12ddJ
+4b
+4dd
+=2
+12bL
+12cc
+12ddJ
+4b
+4dd
+=3
+8ddL
+8ggJ
 4.dd
 8cc
-=
-12cc
+=4
+12ccL
 12b
-12a
+12a\J
 4b
 4g}
 ==
@@ -38,3 +38,5 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=420 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 333} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 333}
 !!!page: 333
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-06-13

@@ -1,67 +1,85 @@
-!!!!SEGMENT: DWOK1334500002-ej_dziewucho.krn
-!!!OTL: Ej dziewucho
+﻿!!!!SEGMENT: DWOK1334500002-ej_dziewucho.krn
+!!!OTL: Ej dziewucho kochanie
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Pleszewa (Kotlin)
+!!!AR1: wielkopolskie ; jarociński ; Kotlin-gmina wiejska
+!!!GE1: 51.919594 , 17.644602
 !!!source: DWOK13
 !!!id: 13345
 !!!signature: 1334500002
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8ff
-8aa
-4.gg
-8dd
-=2
-4cc
-8ee
-8ff
-4dd
-=3
-8ff
-8aa
-8gg
-8ff
-8gg
-8dd
-=4
-4cc
-8ee
-8ff
-4dd}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8ff	Ej
+8aa	dziewu-
+4.gg	.
+8dd	-cho
+=2	=2
+4cc	ko-
+8eeL	-cha-
+8ffJ	.
+4dd	-nie,
+=3	=3
+8ff	wo-
+8aa	-lę
+8gg/L	cię
+8ff/	.
+8gg/	.
+8dd/J	niż
+=4	=4
+4cc	śnia-
+8eeL	-da-
+8ffJ	.
+4dd}	-nie.
 !!LO:LB:g=esac
-=5
-{8b
-8dd
-8cc
-8b
-8cc
-8g
-=6
-8f
-8g
-8a
-8b
-8cc
-8g
-=7
-8b
-8dd
-8cc
-8b
-8cc
-8g
-=8
-4f
-8a
-8b
-4g}
-==
-*-
-!!!ONB: Alternatywnie możliwe kodowanie w G
+=5	=5
+{8b	Bo
+8dd	śnia-
+8cc/L	-da-
+8b/	.
+8cc/	.
+8gJ	-nie
+=6	=6
+8f\L	w_każdy
+8g\	.
+8a\	.
+8bJ	.
+8ccL	dzień,
+8g\J	.
+=7	=7
+8b	cie-
+8dd	-bie
+8c/cL	wi-
+8b/	_
+8cc/	_
+8gJ	-dzę
+=8	=8
+4f	raz
+8aL	w_ty-
+8b/J	_
+4g}	-dzień.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Ej dziewucho kochanie,
+!!wolę cię niż śniadanie.
+!!Bo śniadanie w każdy dzień,
+!!ciebie widzę raz w tydzień.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=174 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 150} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 150}
 !!!page: 150
+!!!BEM: Alternatywnie możliwe kodowanie w G
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-26

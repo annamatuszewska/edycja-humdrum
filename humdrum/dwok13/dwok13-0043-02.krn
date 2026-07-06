@@ -1,8 +1,13 @@
-!!!!SEGMENT: DWOK1304300001-z_tamtej_strony_rody.krn
+﻿!!!!SEGMENT: DWOK1304300001-z_tamtej_strony_rody.krn
 !!!OTL: Z tamtej strony Środy
+!!!FKT: Pieśni. Miasta i Dwory. Miłość. Tęsknota
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Środy (Dębicz)
+!!!AR1: wielkopolskie ; średzki ; Środa Wielkopolska-obszar wiejski
+!!!GE1: 52.265702 , 17.311801
 !!!source: DWOK13
 !!!id: 13043
-!!!signature: 1304300001
+!!!signature: 1304300002
 **kern	**text
 *clefG2	*
 *k[f#]	*

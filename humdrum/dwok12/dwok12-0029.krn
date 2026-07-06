@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1202900000-a_w_niedziele_raniusienko.krn
+﻿!!!!SEGMENT: DWOK1202900000-a_w_niedziele_raniusienko.krn
 !!!OTL: A w niedzielę raniusieńko
+!!!FKT: Pieśni i Dumy. Miłość. Pieśni zalotne
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gołańczy (Czeszewo)
+!!!AR1: wielkopolskie ; wągrowiecki ; Gołańcz-obszar wiejski
+!!!GE1: 52.908722 , 17.382633
 !!!source: DWOK12
 !!!id: 12029
 !!!signature: 1202900000
@@ -67,11 +72,11 @@
 !!a mam ci ja Jasineczka
 !!mam ja swojego.
 !!@@END: VERSES
-!!!ONB: może zapisać od A?
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=31 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 15} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 15}
 !!!page: 15
+!!!BEM: może zapisać od A?
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-13-02

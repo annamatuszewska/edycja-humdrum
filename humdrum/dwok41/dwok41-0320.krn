@@ -3,50 +3,62 @@
 !!!source: DWOK41
 !!!id: 41320
 !!!signature: 4132000000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{8dd
-8cc
-4b
-4a
-=2
-4cc
-2g#
-=3
-8a
-8cc
-4b
-4dd
-=4
-4a
-4.g#
-8e}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+!LO:TX:a:t=Maz[ur]	!
+{8dd	Zła
+8cc	go-
+4b	-dzi-
+4a	-na
+=2	=2
+4cc	by-
+2g#	-ła,
+=3	=3
+8a	kie-
+8cc	-dym
+4b	się
+4dd	ro-
+=4	=4
+4a	-dzi-
+(4.g#;	-ła,
+8e)}	.
 !!LO:LB:g=esac
-=5
-{8g#
-8a
-4b
-4cc
-=6
-4ee
-2cc
-=7
-8dd
-8cc
-4b
-4a
-=8
-4cc
-2a}
-==
-*-
+=5	=5
+{8g#	bo
+8a	mnie
+4b	chło-
+4cc	-pcy
+=6	=6
+4ee	nie
+2cc	chcą,
+=7	=7
+8dd	choć-
+8cc	-bym
+4b	się
+4a	go-
+=8	=8
+4cc	-dzi-
+2a}	-ła.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Zła godzina była,
+!!kiedym się rodziła,
+!!bo mnie chłopcy nie chcą,
+!!choćbym się godziła.
+!!@@END: VERSES
+!!!role-singer: Single Woman
+!!!role-listener: Complex
+!!!singer-sex: Female
 !!!ONB: Maz(ur)
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=269 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 190} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 190}
 !!!page: 190
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-27

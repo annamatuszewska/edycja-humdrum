@@ -3,67 +3,93 @@
 !!!source: DWOK41
 !!!id: 41518
 !!!signature: 4151800000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8g
-8dd
-8dd
-8b
-8cc
-8a
-=2
-8b
-8dd
-8b
-8g
-8a
-8f#}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8g\L	Niech
+8ddJ	.
+8dd	bę-
+8b	-dzie
+8cc	Je-
+8a	-zus
+=2	=2
+8b	Krys-
+8dd	-tus
+8b	po-
+8g	-chwa-
+8a	-lo-
+8f#}	-ny,
 !!LO:LB:g=esac
-=3
-{8g
-8dd
-8dd
-8b
-8cc
-8a
-=4
-8b
-8dd
-8b
-8g
-8a
-8f#}
+=3	=3
+{8g	po-
+8dd	-wiedz-
+8dd	-że
+8b	mi,
+8cc	pan-
+8a	-no,
+=4	=4
+8b	czy
+8dd	ja
+8b	już
+8g	wzgar-
+8a	-dzo-
+8f#}	-ny,
 !!LO:LB:g=esac
-=5
-{4d
-8d
-8g
-8b
-8g
-=6
-8a
-8a
-2cc}
+=5	=5
+{4d	po-
+8d	-wiedz
+8g	mi,
+8b	pan-
+8g	-no,
+=6	=6
+8a	mo-
+8a	-że
+2cc}	być,
 !!LO:LB:g=esac
-=7
-{4b
-8dd
-8b
-8b
-8g
-=8
-8a
-16a
-16f#
-2g}
-==
-*-
+=7	=7
+{4b	czy
+8dd	ja
+8b	się
+8b	mo-
+8g	-ge
+=8	=8
+8a	od-
+16aL	-wa-
+16f#J	.
+2g}	-żyć?
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Niech będzie Jezus Krystus pochwalony,
+!!powiedzże mi, panno, czy ja już wzgardzony,
+!!powiedz mi, panno, może być, 
+!!czy ja się moge odważyć?
+!!@VERSE:
+!!2. Powiedz mi, panno, szczerym dokumentem,
+!!czy ja mogę być twoim konkurentem?
+!!Niech sobie siwków nie trudzę
+!!i sam sobie nie mudzę.
+!!@VERSE:
+!!3. Ty swoje konie na słoto szacujesz,
+!!a do mnie koników na moment żałujesz:
+!!nie trudź ty koni, sam siebie,
+!!nie potrzebuję ja ciebie.
+!!@VERSE:
+!!4. Znajdę ja w świecie kochanka sobie,
+!!co będzie jeździł o nocnej dobie;
+!!a jeśli szczerze mnie będzie miłował.
+!!nie będzie dla mnie koni żałował.
+!!@@END: VERSES
+!!!role-singer: Lover, Mistress
+!!!role-listener: Mistress, Lover
+!!!singer-sex: Male, Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=348 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 265} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 265}
 !!!page: 265
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-19

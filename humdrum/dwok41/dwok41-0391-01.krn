@@ -3,72 +3,100 @@
 !!!source: DWOK41
 !!!id: 41391
 !!!signature: 4139100001
-**kern
-*clefG2
-*k[b-e-]
-*g:
-*M3/4
-=1
-{4dd
-4a
-4cc
-=2
-2dd
-4d
-=3
-8f#
-8a
-4cc
-4b-
-=4
-2g
-4g}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*g:	*
+*M3/4	*
+=1	=1
+{4dd	A
+4a	sta-
+4cc	-ła
+=2	=2
+2dd	nam
+4d	się
+=3	=3
+8f#L	śli-
+8aJ	.
+4cc	-czna
+4b-	o-
+=4	=4
+2g	-gło-
+4g}	-ska,
 !!LO:LB:g=esac
-=5
-{4dd
-4a
-4cc
-=6
-2dd
-4d
-=7
-8f#
-8a
-4cc
-8a
-8b-
-=8
-2g
-4g}
+=5	=5
+{4dd	wy-
+4a	-bi-
+4cc	-ła
+=6	=6
+2dd	mę-
+4d	-ża
+=7	=7
+8f#L	pa-
+8aJ	.
+4cc	-ni
+8aL	Pa-
+8b-J/	.
+=8	=8
+2g	-wło-
+4g}	-wska,
 !!LO:LB:g=esac
-=9
-{4a
-4d
-4d
-=10
-8f#
-8a
-4.cc
-8dd
-=11
-4b-
-4g
-4g
-=12
-8g
-8b-
-4.dd
-8cc}
+=9	=9
+{4a	wy-
+4d	-bi-
+4d	-ła,
+=10	=10
+8f#L	wy-
+8aJ	.
+4.cc	-pra-
+8dd/	-ła
+=11	=11
+4b-	i
+4g	za
+4g	drzwi
+=12	=12
+8gL	wy-
+8b-J/	.
+4.dd	-pchnę-
+8cc}	-ła
 !!LO:LB:g=esac
-=13
-{2a
-4f#
-=14
-2.g}
-==
-*-
+=13	=13
+{2a	do
+4f#	sie-
+=14	=14
+2.g}	-ni.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A stała nam się śliczna ogłoska,
+!!wybiła męża pani Pawłowska,
+!!wybiła, wyprała
+!!i za drzwi wypchnęła
+!!do sieni.
+!!@VERSE:
+!!2. A on tu widzi, że to nie żarty,
+!!plecy obite i łeb obdarty,
+!!ugiął się do pasa,
+!!gic, gic, gic do lasa
+!!przed żoną.
+!!@VERSE:
+!!3. I usiadł sobie w lesie na grobli,
+!!nie bij mnie, żono, będę już dobry
+!!.......................................................
+!!.......................................................
+!!.......................................................
+!!@VERSE:
+!!4. A moj Pawłowski, już tego dosyć,
+!!jak cię pochwycę, będziesz się prosić,
+!!hej, za nim z orężem
+!!jako za swoim mężem
+!!do sieni.
+!!@@END: VERSES
+!!!role-singer: Group
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=297 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 216} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 216}
 !!!page: 216
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-14

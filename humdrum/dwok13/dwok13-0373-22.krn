@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1337300022-instrumentalna-chodzony_weselny_wawiej.krn
-!!!OTL: Instrumentalna-Chodzony Weselny Żwawiej
+﻿!!!!SEGMENT: DWOK1337300022-instrumentalna-chodzony_weselny_wawiej.krn
+!!!OTL: Instrumentalna. Chodzony weselny Żwawiej
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gniewkowa (Branno)
+!!!AR1: kujawsko-pomorskie ; inowrocławski ; Gniewkowo-obszar wiejski
+!!!GE1: 52.878198 , 18.501853
 !!!source: DWOK13
 !!!id: 13373
 !!!signature: 1337300022
@@ -9,71 +14,73 @@
 *G:
 *M3/8
 =1
-{4.g
-=
-24b
-24cc
-24ee
-8.ee
-16dd
-=
-24cc#
-24b
-24cc#
-24dd
-24ee
-24ff#
-24ee
-24dd
-24cc
-=
-24b
-24cc
-24ee
-8.ee
-16dd
-=
-24b
-24a
-24g
-24b
-24cc
-24b
-24a
-24g
-24f#}
-!!LO:LB:g=esac
+!LO:TX:a:t=Żwawiéj.
+{4.g;
 =2
-{16d
-16f#
-8g
-16b
-16a
-=
-24dd
-24ee
-24dd
-16b
-16cc
-8a
-=
-24d
-24e
-24f#
-24g
-24f#
-24g
-16b
-16a
-=
-24g
-24f#
-24d
-16b
-16cc
-24b
+*Xtuplet
+24b/L
+24cc/
+24ee/J
+8.ee;L
+16ddJ
+=3
+24cc#/L
+24b/
+24cc/#J
+24dd/L
+24ee/
+24ff#/J
+24ee/L
+24dd/
+24cc#/J
+=4
+24b/L
+24cc/n
+24ee/J
+8.ee;L
+16ddJ
+=5
+24b/L
 24a
-24f#}
+24gJ
+24b/L
+24cc/
+24b/J
+24aL
+24g
+24f#J}
+!!LO:LB:g=esac
+=6
+{16d\L
+16f#\J
+8g\
+16bL
+16a\J
+=7
+24dd/L
+24ee/
+24dd/J
+16bL
+16ccJ
+8a
+=8
+24dL
+24e
+24f#J
+24gL
+24f#
+24gJ
+16bL
+16a\J
+=9
+24g\L
+24f#\
+24d\J
+16bL
+16ccJ
+24bL
+24a\
+24f#J\}
 ==
 *-
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
@@ -81,3 +88,7 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=183 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 159} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 159}
 !!!page: 159
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-01
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-15

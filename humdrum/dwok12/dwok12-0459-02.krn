@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1245900002-chciala_pani_winno_pic.krn
+﻿!!!!SEGMENT: DWOK1245900002-chciala_pani_winno_pic.krn
 !!!OTL: Chciała Pani winno pić
+!!!FKT: Pieśni i Dumy. Małżeństwo. Kłótnia. Zgoda
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Rawicza, Jutrosina
+!!!AR1: wielkopolskie ; rawicki ; Rawicz-miasto
+!!!GE1: 51.609394 , 16.858375
+!!!AR2: wielkopolskie ; rawicki ; Jutrosin-miasto
+!!!GE2: 51.651274 , 17.169237
 !!!source: DWOK12
 !!!id: 12459
 !!!signature: 1245900002
@@ -110,3 +117,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

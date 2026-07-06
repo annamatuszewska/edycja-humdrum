@@ -3,54 +3,63 @@
 !!!source: DWOK41
 !!!id: 41412
 !!!signature: 4141200000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{4g
-4cc
-4cc
-=2
-8cc
-8ee
-4g
-4cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{4g	A
+4cc	po-
+4cc	-ma-
+=2	=2
+8cc	-lut-
+8ee	-ku
+4g	z_mo-
+4cc}	-ją,
 !!LO:LB:g=esac
-=3
-{4b
-4dd
-4dd
-=4
-8dd
-8ff
-4g
-4cc}
+=3	=3
+{4b	da,
+4dd	bo
+4dd	ją
+=4	=4
+8dd	nóż-
+8ff	-ki
+4g	bo-
+4cc}	-lą,
 !!LO:LB:g=esac
-=5
-{4ee
-4gg
-4gg
-=6
-8gg
-8cc
-4ee
-4cc}
+=5	=5
+{4ee	a
+4gg	po-
+4gg	-ma-
+=6	=6
+8gg	-lu-
+8cc	-tku,
+4ee	z_let-
+4cc}	-ka,
 !!LO:LB:g=esac
-=7
-{4dd
-4ff
-4ff
-=8
-8ff
-8g
-4b
-4cc}
-==
-*-
+=7	=7
+{4dd	da,
+4ff	by-
+4ff	-le
+=8	=8
+8ff	nóż-
+8g	-ki
+4b	wle-
+4cc}	-kła.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A pomalutku z moją.
+!!da, bo ją nóżki bolą.
+!!a pomalutku, z letka.da, 
+!!byle nóżki wlekła.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=308 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 225} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 225}
 !!!page: 225
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-14

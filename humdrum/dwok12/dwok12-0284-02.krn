@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1228400002-oj_przy_malem_jeziorze.krn
+﻿!!!!SEGMENT: DWOK1228400002-oj_przy_malem_jeziorze.krn
 !!!OTL: Oj przy małem jeziorze
+!!!FKT: Pieśni i Dumy. Strata wianka. Żale
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Mielżyna, Wrześni
+!!!AR1: wielkopolskie ; gnieźnieński ; Witkowo-obszar wiejski
+!!!GE1: 52.382352 , 17.771550
+!!!AR2: wielkopolskie ; wrzesiński ; Września-miasto
+!!!GE2: 52.325822 , 17.565352
 !!!source: DWOK12
 !!!id: 12284
 !!!signature: 1228400002
@@ -48,9 +55,9 @@
 8bL	.
 8gJ}	.
 ==	==
-*- 	*-
-!!!role-singer: Narrator, Lord, Maiden
-!!!role-listener: Lord
+*-	*-
+!!!role-singer: Narrator, Land Lord, Maiden
+!!!role-listener: Land Lord
 !!!singer-sex: male, female
 !!@@BEGIN: VERSES
 !!@VERSE:
@@ -84,3 +91,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1203300000-wyndzi_ino_pacholiku.krn
+﻿!!!!SEGMENT: DWOK1203300000-wyndzi_ino_pacholiku.krn
 !!!OTL: Wyńdzi ino pacholiku
+!!!FKT: Pieśni i Dumy. Miłość. Pieśni zalotne
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gołańczy (Czeszewo)
+!!!AR1: wielkopolskie ; wągrowiecki ; Gołańcz-obszar wiejski
+!!!GE1: 52.908722 , 17.382633
 !!!source: DWOK12
 !!!id: 12033
 !!!signature: 1203300000
@@ -139,11 +144,11 @@
 !!co pożyczył kożuszyszka
 !!da od stary baby.
 !!@@END: VERSES
-!!!ONB: Zapis obejmuje dwie zwrotki piesni
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=33 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 17} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 17}
 !!!page: 17
+!!!BEM: Zapis obejmuje dwie zwrotki piesni
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-13-02

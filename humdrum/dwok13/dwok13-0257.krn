@@ -1,60 +1,84 @@
-!!!!SEGMENT: DWOK1325700000-a_ja_panu_musze_sluzyc.krn
+﻿!!!!SEGMENT: DWOK1325700000-a_ja_panu_musze_sluzyc.krn
 !!!OTL: A ja panu muszę służyć
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Zerkowa
+!!!AR1: wielkopolskie ; jarociński ; Żerków-miasto
+!!!GE1: 52.068386 , 17.563327
 !!!source: DWOK13
 !!!id: 13257
 !!!signature: 1325700000
-**kern
-*clefG2
-*k[f#]
-*e:
-*M3/8
-=1
-{8b
-8b
-16b
-16ee
-=2
-16b
-16ee
-8b
-8b
-=3
-16g
-16a
-16b
-16dd
-16cc
-16b
-=4
-16a
-16g
-8e
-8e}
+**kern	**text	**text
+*clefG2	*	*
+*k[f#]	*	*
+*e:	*	*
+*M3/8	*	*
+=1	=1	=1
+!LO:TX:a:t=Z czasu zaciągów.	!	!
+{8b	A	Włódarz
+8b	ja	.
+16b	pa-	ki-
+16ee	-nu	-jem
+=2	=2	=2
+16b	muszę	a
+16ee	.	pan
+8b	słu-	ba-
+8b	-żyć,	-tem,
+=3	=3	=3
+16g	do	bo
+16a	ro-	są
+16bL	-bo-	o-
+16ddJ	.	.
+16ccL	-ty	-ba
+16bJ	.	.
+=4	=4	=4
+16a	mu-	jednym
+16g	-szę	.
+8e	dą-	bratem.
+8e}	-żyć.	.
 !!LO:LB:g=esac
-=5
-{8f#
-8f#
-16f#
-16e
-=6
-16f#
-16a
-8cc
-8b
-=7
-8a
-8a
-16cc
-16b
-=8
-16a
-16g
-8e
-8e}
-==
-*-
+=5	=5	=5
+{8f#	Do	A
+8f#	ro-	ja
+8gq	.	.
+16f#	-bo-	im
+16e	-ty	téż
+=6	=6	=6
+16f#	za-	od-
+16a	-wo-	-po-
+8cc	-ła-	-wiedział,
+8b	-ją,	.
+=7	=7	=7
+8a	bo	że
+8a	ba-	im
+16cc	-ty	tu
+16b	mi	nie
+=8	=8	=8
+16a	w_skó-	bę-
+16g	-rę	-dę
+8e	da-	sie-
+8e}	-ją.	-dział.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. A ja panu muszę służyć,
+!!do roboty muszę dążyć.
+!!Do roboty zawołają,
+!!bo baty mi w skórę dają.
+!!@VERSE:
+!!2. Włódarz kijem a pan batem,
+!!bo są oba jednym bratem.
+!!A ja im téż odpowiedział,
+!!że im tu nie będe siedział.
+!!@@END: VERSES
+!!!role-singer: Worker Man
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=146 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 122} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 122}
 !!!page: 122
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-11
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-23

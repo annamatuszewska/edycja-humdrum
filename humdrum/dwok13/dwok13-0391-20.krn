@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1339100020-instrumentalna-odsibka.krn
-!!!OTL: Instrumentalna-Odsibka
+﻿!!!!SEGMENT: DWOK1339100020-instrumentalna-odsibka.krn
+!!!OTL: Miała baba starowinę. Odsibka. Instrumentalna
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gniewkowa, Raciążka
+!!!AR1: kujawsko-pomorskie ; inowrocławski ; Gniewkowo-miasto
+!!!GE1: 52.892787 , 18.408568
+!!!AR2: kujawsko-pomorskie ; aleksandrowski ; Raciążek-gmina wiejska
+!!!GE2: 52.857593 , 18.808149
 !!!source: DWOK13
 !!!id: 13391
 !!!signature: 1339100020
@@ -8,85 +15,86 @@
 *k[]
 *a:
 *M3/8
-=
-{24g#
-24a
-24cc
-16ee
-16ee
-16dd#
-16b
 =1
-16g#
-16a
-8ee
-16b
-16a
-=
-24g#
+*Xtuplet
+{24g#L
 24a
-24cc
-16ee
-16ee
-16dd#
-16ee
-=
-16g#
-16a
-8ee
-24b
-24a
-24f#}
-!!LO:LB:g=esac
+24cc/J
+16ee;L
+16eeJ
+16dd#L
+16bJ
 =2
-{16g#
-16a
-8dd
-16cc#
-16a
+16g#L
+16aJ
+8eeL
+16b
+16a\J
 =3
-16g#
-16a
-8dd
-16b
-16a
-=4
-16g#
-16a
-8dd
-16cc
-16cc
-=5
-16b
-16b
-8a
-16g#
-16e}
-!!LO:LB:g=esac
-=6
-{16g#
-16a
-8dd
-16cc#
-16a
-=
-16g#
-16a
-8dd
-24b
+24g#L
 24a
-24g#
+24cc/J
+16ee;L
+16eeJ
+16dd#L/
+16ee/J
+=4
+16g#L
+16aJ
+8ee
+24b/L
+24a
+24f#}J
+!!LO:LB:g=esac
+=5
+{16g#L
+16aJ
+8ddL
+16cc#
+16a\J
+=6
+16g#L
+16aJ
+8ddL
+16b
+16a\J
 =7
-16g#
-16a
-8dd
-16cc
-16cc
+16g#L
+16aJ
+8ddL
+16ccn
+16ccJ
 =8
-16b
-16b
+16bL
+16bJ
 8a
-8g#}
+16g#\L
+16e}\J
+!!LO:LB:g=esac
+=9
+{16g#L
+16aJ
+8ddL
+16cc#
+16a\J
+=10
+16g#L
+16aJ
+8dd
+24b/L
+24a
+24f#J
+=11
+16gL#
+16aJ
+8ddL
+16ccn
+16ccJ
+=12
+16bL
+16bJ
+8aL
+8g#J}
 ==
 *-
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
@@ -94,3 +102,7 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=188 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 164} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 164}
 !!!page: 164
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-03
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-15

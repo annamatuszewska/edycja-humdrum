@@ -1,95 +1,193 @@
-!!!!SEGMENT: DWOK1343100000-hej_goscinna_do_jasnego.krn
+﻿!!!!SEGMENT: DWOK1343100000-hej_goscinna_do_jasnego.krn
 !!!OTL: Hej gościnna do jasnego
+!!!FKT: Pieśni. Miasta i Dwory. Wiwaty. Karczma. Taniec
+!!!REG: Wielkie Księstwo Poznańskie
 !!!source: DWOK13
 !!!id: 13431
 !!!signature: 1343100000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16b
-8dd
-8dd
-=2
-16dd
-16dd
-8ee
-8cc
-=3
-16a
-16f#
-8d
-8d
-=4
-8b
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Hej
+16b	gościnna,
+8dd	.
+8dd	.
+=2	=2
+16dd	do
+16dd	ja-
+8ee	-sne-
+8cc	-go!
+=3	=3
+16a	stawcie
+16f#	.
+8d	na
+8d	stół
+=4	=4
+8b	fla-
+4g}	-sze
 !!LO:LB:g=esac
-=5
-{16g
-16b
-8dd
-8dd
-=6
-16dd
-16dd
-8ee
-8cc
-=7
-16a
-16f#
-8d
-8d
-=8
-8g
-4g}
+=5	=5
+{16g	Do
+16b	was
+8dd	ku-
+8dd	-mie,
+=6	=6
+16dd	wy
+16dd	do
+8ee	nie-
+8cc	-go,
+=7	=7
+16a	co
+16f#	łykniem,
+8d	.
+8d	to
+=8	=8
+8g	na-
+4g}	-sze.
 !!LO:LB:g=esac
-=9
-{16d
-16g
-8g
-8g
-=10
-16b
-16b
-8a
-8g
-=11
-8d
-4f#
-=12
-16a
-16a
-8b
-8g}
+=9	=9
+{16d	Lej-
+16g	-cie
+8g	lej-
+8g	-cie
+=10	=10
+16b	na
+16b	u-
+8a	-ro-
+8g	-dę
+=11	=11
+8d\	bo
+4f#\	już
+=12	=12
+16a\	w_czubie
+16a\	.
+8b	szmerze;
+8g}	.
 !!LO:LB:g=esac
-=13
-{16d
-16g
-8g
-8g
-=14
-16b
-16b
-8a
-8g
-=15
-16d
-16f#
-8f#
-8f#
-=16
-16a
-16cc
-8b
-8g}
-==
-*-
-!!!ONB: Hulanka
+=13	=13
+{16d	dług
+16g	za-
+8g	-pła-
+8g	-cę
+=14	=14
+16b	za
+16b	wy-
+8a	-go-
+8g	-dę
+=15	=15
+16dL	po-
+16f#J	.
+8f#L	-dzię-
+8f#J	.
+=16	=16
+16a\	-ku-
+16cc	-ję
+8b	szczerze.
+8g}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Hej gościnna, do jasnego!
+!!stawcie na stół flasze!
+!!Do was kumie, wy do niego,
+!!co łykniem, to nasze.
+!!@VERSE:
+!!2. Lejcie, lejcie na urodę,
+!!bo już w czubie szmerze;
+!!dług zapłacę, — za wygodę
+!!podziękuję szczerze.
+!!@VERSE:
+!!3. Oj zapłacę, podziękuję;
+!!za resztę dla dziewek
+!!wstęg, pierścieni nakupuję.
+!!Bierz diable, dosiewek!
+!!@VERSE:
+!!4. Krzyczy Jonek już różany
+!!niby płonka w sadzie,
+!!a poprawia pas skórzany,
+!!rękę za pas kładzie.
+!!@VERSE:
+!!5. Pokrzykuje, potupuje,
+!!karczma mu za ciasna;
+!!bo też Jonek, co jest, czuje:
+!!suknia na nim jasna.
+!!@VERSE:
+!!6. Z pawim piórem czapka siwa
+!!od stu katów z ucha (na bakier),
+!!i pod gardłem wstęga wiewa,
+!!co mu dała drucha.
+!!@VERSE:
+!!7. A dziewczęta się chichocą,
+!!do kątów się cisną;
+!!lecz się znajdą, rozochocą,
+!!niechno skrzypki pisną.
+!!@VERSE:
+!!8. Jonek krzyknął, podgiął poły,
+!!i hula babula —
+!!trzeszczą ławy, skrzypią stoły,
+!!dziewczę się przytula.
+!!@VERSE:
+!!9. Młynkiem warczy smagła para,
+!!zamiata podłogę,
+!!hej dworusy! hejże wiara!
+!!bo czas, komu w drogę!
+!!@VERSE:
+!!10. Niby diabeł przez bielawy
+!!przodkiem Jonek śmiga;
+!!ćmi się w oczach, — kręcą ławy,
+!!okno w tęczę miga.
+!!@VERSE:
+!!11. Na okrętkę! na odsiebie!
+!!aż wiatr w izbie wieje,
+!!jemu miło, gdyby w niebie,
+!!dusza mu się śmieje.
+!!@VERSE:
+!!12. Serce mięknie, gdyby masło,
+!!patrzy nie wesoło,
+!!ścisnął dziewczę — aż zawrzasło,
+!!i znów śmiga w koło.
+!!@VERSE:
+!!13. Przeprowadził i znów hula,
+!!za nim wielcy, mali,
+!!jak za matką pszczoły z ula,
+!!szorują, a daléj!
+!!@VERSE:
+!!14. Jonek chłop jak sosna w lesie,
+!!krzepki, wiśny, zdrowy,
+!!nieraz sam na wiatrak wniesie
+!!miech (wór) czterokorcowy.
+!!@VERSE:
+!!15. Skoble kręci gdyby wici,
+!!podkowę przełamie;
+!!chłopa jedną ręką chwyci,
+!!i świsnie przez ramię.
+!!@VERSE:
+!!16. A gdy w karczmy stanie progu,
+!!zawinie kłonicą,
+!!to się poleć Panu Bogu,
+!!lub zastaw babicą.
+!!@VERSE:
+!!17. A dziś cichy jak baranek,
+!!spogląda nieśmiało:
+!!póty nosił wodę dzbanek,
+!!aż się nie urwało.
+!!@VERSE:
+!!18. Oj natrafił swój na swego,
+!!będzie ślub na gody,
+!!już z nich jedno bez drugiego
+!!jak ryba bez wody.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=208 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 184} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 184}
 !!!page: 184
+!!!BEM: Hulanka
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-09
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-16

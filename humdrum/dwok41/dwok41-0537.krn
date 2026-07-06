@@ -3,90 +3,103 @@
 !!!source: DWOK41
 !!!id: 41537
 !!!signature: 4153700000
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/8
-=1
-{16.e
-32e
-8g#
-8e
-=2
-8a
-4cc#
-=3
-16ee
-16ee
-8dd
-8b
-=4
-8a
-4cc#}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M3/8	*
+=1	=1
+{16.e	By-
+32e	-waj,
+8g#	Zo-
+8e	-siu,
+=2	=2
+8a	zdro-
+4cc#	-wa,
+=3	=3
+16ee	daj
+16ee	bu-
+8dd	-zi
+8b	na
+=4	=4
+8a	dro-
+4cc#}	-ge,
 !!LO:LB:g=esac
-=5
-{16e
-16e
-8g#
-8e
-=6
-8a
-4cc#
-=7
-16ee
-16dd#
-8.dd
-16g#
-=8
-8b
-8a}
-8r
+=5	=5
+{16e	ja-
+16e	-dę
+8g#	do
+8e	Kra-
+=6	=6
+8a	-ko-
+4cc#	-wa,
+=7	=7
+16ee	wstą-
+16dd#	-żek
+8.dd	ku-
+16g#	-pić
+=8	=8
+8b	mo-
+8a}	-gę.
+8r	.
 !!LO:LB:g=esac
-=9
-{16cc#
-16cc#
-8cc#
-8b
-=10
-8.a
-16g#
-16f#
-16e
-=11
-16d#
-16f#
-8b
-8a
-=12
-8.g#
-16a
-16b
-16cc#}
+=9	=9
+{16cc#	.
+16cc#	.
+8cc#	.
+8b	.
+=10	=10
+8.a	.
+16g#	.
+16f#L	.
+16eJ	.
+=11	=11
+16d#	.
+16f#	.
+8b	.
+8a	.
+=12	=12
+8.g#	.
+16a	.
+16b	.
+16cc#}	.
 !!LO:LB:g=esac
-=13
-{16dd
-16cc#
-8dd
-8g#
-=14
-8.a
-16cc#
-16ff#
-16ee
-=15
-16ee
-16dd#
-8.dd
-16g#
-=16
-8b
-8a}
-8r
-==
-*-
+=13	=13
+{(8eeq	.
+16dd)	.
+16cc#	.
+8dd	.
+8g#	.
+=14	=14
+8.a	.
+16cc#	.
+16ff#	.
+16ee	.
+=15	=15
+16ee	.
+16dd#	.
+8.dd	.
+16g#	.
+=16	=16
+8b	.
+8a}	.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Bywaj, Zosiu, zdrowa,
+!!daj buzi na droge,
+!!jadę do Krakowa,
+!!wstążek kupić mogę.
+!!@@END: VERSES
+!!!ONB@texture: Only voice or instrument is playing at a time 
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=362 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 279} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 279}
 !!!page: 279
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-20

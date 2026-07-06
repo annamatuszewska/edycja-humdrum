@@ -1,64 +1,92 @@
-!!!!SEGMENT: DWOK1326600002-niemasz_ci_to_jak_owczarzom.krn
-!!!OTL: Niemasz ci to jak owczarzom
+﻿!!!!SEGMENT: DWOK1326600002-niemasz_ci_to_jak_owczarzom.krn
+!!!OTL: Niemasz ci to jak owczarzom. Kujawiak
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Nowego tomyśla (Bukowiec)
+!!!AR1: wielkopolskie ; nowotomyski ; Nowy Tomyśl-obszar wiejski
+!!!GE1: 52.292202 , 16.249841
 !!!source: DWOK13
 !!!id: 13266
 !!!signature: 1326600002
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/4
-=1
-{4ff
-4ee
-8cc
-8dd
-=2
-8b-
-8b-
-4dd
-4cc
-=3
-4ff
-8ee
-8dd
-8cc
-8dd
-=4
-8cc
-8b-
-4g
-4f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/4	*
+=1	=1
+!LO:TX:a:t=Kujawiak.	!
+{4ff	Ni-
+4ee	-masz
+8cc	ci
+8dd	to
+=2	=2
+8b-	jak
+8aq	.
+8b-	ow-
+4dd	-czarzom,
+4cc	.
+=3	=3
+4ff	bo
+8ee/L	na
+8dd/J	.
+8cc	za-
+8dd	-ciąg
+=4	=4
+8cc	nie
+8b-	wy-
+4g	-ła-
+4f}	-żą,
 !!LO:LB:g=esac
-=5
-{4f
-8f
-8a
-8cc
-16b-
-16a
-=6
-8g
-8b-
-4dd
-4cc
-=7
-8f
-8e
-8f
-8a
-8cc
-16b-
-16a
-=8
-8g
-8c
-4e
-4f}
-==
-*-
+=5	=5
+8eq	.
+{4f	tyl-
+8eq	.
+8fL	-ko
+8aJ	.
+8cc	cho-
+16b-L	-dzą
+16a\J	.
+=6	=6
+8g	za
+8aq	.
+8b-	ow-
+4dd	-ca-
+4cc	-mi,
+=7	=7
+8fL	pod-
+8eJ	.
+8fL	-pie-
+8aJ	.
+8cc	-ra-
+16b-/L	-ją
+16aJ	.
+=8	=8
+8g	się
+8c	la-
+4e	-la-
+4f}	-mi.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Nimasz ci to jak owczarzom,
+!!bo na zaciąg nie wyłażą,
+!!tylko chodzą za owcami,
+!!podpierają się lalami.
+!!@VERSE:
+!!2. Nimasz-ci to jak młynarzom,
+!!bo na słońce nie wyłażą;
+!!tylko siedzą sobie w chłodzie,
+!!każą na się robić wodzie.
+!!Tylko siedzą na młynicy,
+!!wyglądają gdyby wilcy.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=149 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 125} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 125}
 !!!page: 125
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-12
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-23

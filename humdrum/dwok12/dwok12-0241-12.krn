@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1224100012-marynka_sie_frasuje.krn
+﻿!!!!SEGMENT: DWOK1224100012-marynka_sie_frasuje.krn
 !!!OTL: Marynka się frasuje
+!!!FKT: Pieśni i Dumy. Skarga. Niechęć. Rozstanie
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Obornik (Objezierze)
+!!!AR1: wielkopolskie ; obornicki ; Oborniki-obszar wiejski
+!!!GE1: 52.603975 , 16.762549
 !!!source: DWOK12
 !!!id: 12241
 !!!signature: 1224100012
@@ -8,42 +13,42 @@
 *k[f#]	*
 *G:	*
 *M3/8	*
-*Xtuplet	*
 =1	=1
 {16f#	Marynka
 16g	.
 8a	.
 8cc	się
-=	=
+=2	=2
+*Xtuplet	*
 24bL	fra-
 24cc	.
 24ddJ/	.
 8b	-suje,
 8g	.
-=2	=2
+=3	=3
 8a	Jasio
 16b/	.
 16g	inszą
 16aL	.
 16f#J	.
-=3	=3
+=4	=4
 8.gL	sza-
 16aJ	.
 16b	-cuje,
 16cc}	.
 !!LO:LB:g=esac
-=4	=4
+=5	=5
 {8dd	Jasio
 16b	.
 16g	inszą
 16aL	.
 16f#J	.
-=5	=5
+=6	=6
 4g	szacuje.
 16a	.
 16g}	.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Narrator, Maiden
 !!!role-listener: Bachelor
 !!!singer-sex: female
@@ -74,3 +79,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

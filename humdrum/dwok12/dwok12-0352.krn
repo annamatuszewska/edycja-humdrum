@@ -1,63 +1,82 @@
-!!!!SEGMENT: DWOK1235200000-za_jeziorem_na_rzyce.krn
+﻿!!!!SEGMENT: DWOK1235200000-za_jeziorem_na_rzyce.krn
 !!!OTL: Za jeziorem na rzyce
+!!!FKT: Pieśni i Dumy. Igraszka. Swawola
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Poznania (Głuszyna, Spławie)
+!!!AR1: wielkopolskie ; m. Poznań ; Poznań-gmina miejska
+!!!GE1: 52.319799 , 16.951414
+!!!AR2: wielkopolskie ; m. Poznań ; Poznań-gmina miejska
+!!!GE2: 52.350785 , 17.025783
 !!!source: DWOK12
 !!!id: 12352
 !!!signature: 1235200000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8g
-8a
-8b
-8b
-=2
-16a
-16b
-8a
-16g
-16b
-8d
-=3
-8g
-8a
-8b
-8b
-=4
-16a
-16b
-8a
-16g
-16b
-8d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8g	Za
+8a	jezio-
+8b	.
+8ccq	.
+8b	-rem
+=2	=2
+16a\	na
+16b	rzyce,
+8a\	.
+16g	na
+16b	rzyce,
+8d	.
+=3	=3
+8g	za
+8a	jezio-
+8b	.
+8ccq	.
+8b	-rem
+=4	=4
+16a\	na
+16b	rzyce,
+8a\	.
+16g	na
+16b	rzyce,
+8d}	.
 !!LO:LB:g=esac
-=5
-{8cc
-8b
-8a
-8g
-=6
-16f#
-16g
-8a
-16g
-16a
-8b
-=7
-8cc
-8b
-8a
-8dd
-=8
-8cc
-8f#
-4g}
-==
-*-
+=5	=5
+{8cc	pasła
+8b	.
+8a	panna
+8g	.
+=6	=6
+16f#	kaczyce,
+16g	.
+8a	.
+16g	kaczyce,
+16a	.
+8b	.
+=7	=7
+8cc	pasła
+8b	.
+8a\	panna
+8dd	.
+=8	=8
+8cc	kaczyce.
+8f#	.
+4g}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!Za jeziorem na rzyce, na rzyce,
+!!pasła panna kaczyce, kaczyce,
+!!pasła panna kaczyce.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=201 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 185} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 185}
 !!!page: 185
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

@@ -1,103 +1,124 @@
-!!!!SEGMENT: DWOK1333400000-przewiezze_mnie_przewiez.krn
+﻿!!!!SEGMENT: DWOK1333400000-przewiezze_mnie_przewiez.krn
 !!!OTL: Przewieźże mnie przewieź
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Wielenia
+!!!AR1: wielkopolskie ; czarnkowsko-trzcianecki ; Wieleń-miasto
+!!!GE1: 52.888563 , 16.167865
 !!!source: DWOK13
 !!!id: 13334
 !!!signature: 1333400000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{4dd
-8dd
-=2
-16a
-16cc
-8ee
-8dd
-=3
-8dd
-8dd
-8ee
-=4
-16dd
-16cc
-8b
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{4dd	Prze-
+8dd	-wieź-
+=2	=2
+16a\L	-że
+16ccJ	mnie
+8ee	przewieź
+8dd	.
+=3	=3
+8dd	oj
+8dd	przewóź-
+8ee	.
+=4	=4
+16dd	-nicz-
+16cc	-ku
+8b	mło-
+8g}\	-dy,
 !!LO:LB:g=esac
-=5
-{8g
-8g
-16a
-16g
-=6
-16a
-16cc
-8b
-8dd
-=7
-4g
-16a
-16g
-=8
-16b
-16cc
-8b
-8g}
+=5	=5
+{8g	za-
+8g	-pła-
+16aL	-cę
+16gJ	.
+=6	=6
+16a\L	ja
+16ccJ	.
+8b	to-
+8dd	-bie
+=7	=7
+4g	z_tej
+16aL	tu
+16gJ	.
+=8	=8
+16b	stro-
+16cc	-ny
+8b	wo-
+8g}\	-dy.
 !!LO:LB:g=esac
-=9
-{4dd
-16dd
-16cc
-=10
-16a
-16cc
-8ee
-8dd
-=11
-8dd
-8dd
-16dd
-16ee
-=12
-16dd
-16cc
-8b
-32g
-32f#
-32e
-32d}
+=9	=9
+{4dd	Prze-
+16dd/L	-wieź-
+16cc/J	.
+=10	=10
+16a\L	-że
+16ccJ	mnie
+8ee	przewieź
+8dd	.
+=11	=11
+8dd	oj
+8dd/L	boć
+16dd/	.
+16ee/J	nie
+=12	=12
+16dd	mo-
+16cc	-gę
+8b	prze-
+32gL	-leźć.
+32f#	.
+32e	.
+32d}J	.
 !!LO:LB:g=esac
-=13
-{8g
-8g
-16a
-16g
-=14
-16a
-16cc
-8b
-16dd
-16f#
-=15
-4g
-16a
-16g
-=16
-16b
-16cc
-16b
-16a
-32g
-32f#
-32e
-32d}
-==
-*-
-!!!ONB: U Kolberga metrum 3/4, zapisano na 3/8
+=13	=13
+{8g	przewieź
+8g	.
+16aL	bez
+16gJ	.
+=14	=14
+16a\L	tę
+16ccJ	.
+8b	trzci-
+16dd/L	-nę
+16f#J	.
+=15	=15
+4g	do
+16aL	mojéj
+16gJ	.
+=16	=16
+16b	pod
+16cc	pie-
+16b/L	-rzy-
+16aJ	.
+32gL	-nę.
+32f#	.
+32e	.
+32d}J	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Przewieźże mnie przewieź
+!!oj przewóźniczku młody,
+!!zapłacę ja tobie z tej tu strony wody.
+!!Przewieźże mnie przewieź
+!!oj boć nie mogę przeleźć.
+!!przewieź bez tę trzcinę
+!!do mojéj pod pierzynę.
+!!@@END: VERSES
+!!!role-singer: Mistress, Lover
+!!!role-listener: Boatman
+!!!singer-sex: female, male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=171 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 147} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 147}
 !!!page: 147
+!!!BEM: U Kolberga metrum 3/4, zapisano na 3/8
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-22
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-26

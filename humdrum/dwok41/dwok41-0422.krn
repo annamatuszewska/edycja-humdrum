@@ -3,66 +3,81 @@
 !!!source: DWOK41
 !!!id: 41422
 !!!signature: 4142200000
-**kern
-*clefG2
-*k[f#c#g#d#]
-*E:
-*M3/4
-=1
-{8e
-8f#
-4g#
-4a
-=2
-8b
-8a#
-4cc#
-4b}
+**kern	**text
+*clefG2	*
+*k[f#c#g#d#]	*
+*E:	*
+*M3/4	*
+=1	=1
+{8eL	Oj,
+8f#J	.
+4g#	nie
+4a	pij,
+=2	=2
+8b	chło-
+8a#	-pie,
+4cc#	nie
+4b}	pij,
 !!LO:LB:g=esac
-=3
-{8b
-8ee
-4dd#
-4cc#
-=4
-8b
-8a#
-4cc#
-4b}
+=3	=3
+{8b	da,
+8ee	i
+4dd#	bę-
+4cc#	-dziesz
+=4	=4
+8b	się
+8a#	miał
+4cc#	le-
+4b}	-piej.
 !!LO:LB:g=esac
-=5
-{8a
-8g#
-4f#
-4b
-=6
-8e
-8f#
-4g#
-4b}
+=5	=5
+{8a	Da,
+8g#	i
+4f#	ci
+4b	też
+=6	=6
+8e	ka-
+8f#	-ta
+4g#	ma-
+4b}	-ją,
 !!LO:LB:g=esac
-=7
-{8a
-8g#
-4f#
-4b
-=8
-8e
-8e
-4g#
-4e}
+=7	=7
+{8a	da,
+8g#	cho-
+4f#	-ciaż
+4b	ci
+=8	=8
+8e	nie
+8e	pi-
+4g#	-ja-
+4e}	-ją.
 !!LO:LB:g=esac
-=9
-{8a
-8g#
-4f#
-4b
-=10
-2.e}
-==
-*-
+=9	=9
+{8a	.
+8g#	.
+4f#	.
+4b	.
+=10	=10
+2.e}	.
+==	==
+*-	*-
+!!!ONB@texture: Only voice or instrument is playing at a time 
+!!@@BEGIN: VERSES
+!!1. Oj, nie pij, chłopie, nie pij,
+!!da, i będziesz się miał lepiej.
+!!Da, i ci też kata mają.
+!!da, chociaż ci nie pijają.
+!!@VERSE:
+!!2. Oj, nie pij, chłopie, nie pij.
+!!pokocha cię dziewka lepiej.
+!!Kata ci i tych kochają,
+!!da, co nigdy nie pijają.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=311 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 228} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 228}
 !!!page: 228
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-14

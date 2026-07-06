@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1226900000-trebacze_trabia_muzyka_grala.krn
+﻿!!!!SEGMENT: DWOK1226900000-trebacze_trabia_muzyka_grala.krn
 !!!OTL: Trębacze trąbią muzyka grała
+!!!FKT: Pieśni i Dumy. Skarga. Niechęć. Rozstanie
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Dolska
+!!!AR1: wielkopolskie ; śremski ; Dolsk-miasto
+!!!GE1: 51.987105 , 17.063780
 !!!source: DWOK12
 !!!id: 12269
 !!!signature: 1226900000
@@ -59,7 +64,7 @@
 8cc	.
 2a}	ta.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Narrator, Maiden, Bachelor
 !!!role-listener: Bachelor, Maiden
 !!!singer-sex: female, male
@@ -97,3 +102,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

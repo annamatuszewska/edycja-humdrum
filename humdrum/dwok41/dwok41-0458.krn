@@ -3,80 +3,94 @@
 !!!source: DWOK41
 !!!id: 41458
 !!!signature: 4145800000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/4
-=1
-{8f
-8a
-4cc
-8ee
-8dd
-=2
-8cc
-8b-
-4g
-8a
-8b-
-=3
-4cc
-8cc
-8b-
-4a}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/4	*
+=1	=1
+{8f	A
+8a	ja
+4cc	swo-
+8eeL	-jej
+8ddJ	.
+=2	=2
+8cc	ko-
+8b-	-cha-
+4g	-necz-
+8a\L	-ce
+8b-J	.
+=3	=3
+4cc	strze-
+(8ddq	.
+8cc)L	-lę
+8b-J	.
+4a}	w_łeb,
 !!LO:LB:g=esac
-=4
-{8a
-8cc
-4dd
-4b-
-=5
-8g
-8e
-4c
-4e
-=6
-4f
-8a
-8g
-4f}
+=4	=4
+{8a	nie
+8cc	bę-
+4dd	-dzie
+4b-	ci
+=5	=5
+8g	dłu-
+8e	-go
+4c	ży-
+4e	-ła,
+=6	=6
+4f	um-
+8aL	-rze
+8gJ	.
+4f}	wnet:
 !!LO:LB:g=esac
-=7
-{8f
-8a
-4a
-4cc
-=8
-8b-
-8g
-4e
-4dd
-=9
-4cc
-8cc
-8b-
-4a}
+=7	=7
+{8f	a
+8a	ja
+(8gq	.
+4a)	swo-
+4cc	-ją
+=8	=8
+8b-	ko-
+8g	-cha-
+4e	-ne-
+4dd	-czkę
+=9	=9
+4cc	za-
+(8ddq	.
+8cc)L	-strze-
+8b-J	.
+4a}	-lę,
 !!LO:LB:g=esac
-=10
-{8a
-8cc
-4dd
-4b-
-=11
-8g
-8e
-4.c
-8e
-=12
-4f
-8a
-8g
-4f}
-==
-*-
+=10	=10
+{8a	za-
+8cc	-wio-
+4dd	-zę
+4b-	ją
+=11	=11
+8g	do
+8e	War-
+4.c	-sza-
+8e	-wy,
+=12	=12
+4f	za
+8aL	cie-
+8gJ	.
+4f}	-le.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A ja swojej kochaneczce strzelę w łeb,
+!!nie będzie ci długo żyła, umrze wnet:
+!!a ja swoją kochaneczkę zastrzelę,
+!!zawiozę ją do Warszawy, za ciele.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Complex
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=329 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 246} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 246}
 !!!page: 246
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-18

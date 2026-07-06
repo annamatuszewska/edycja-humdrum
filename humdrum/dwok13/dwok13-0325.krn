@@ -1,58 +1,76 @@
-!!!!SEGMENT: DWOK1332500000-oj_wojskowych_trzeba_kochac.krn
+﻿!!!!SEGMENT: DWOK1332500000-oj_wojskowych_trzeba_kochac.krn
 !!!OTL: Oj wojskowych trzeba kochać
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Barcina, Pakości
+!!!AR1: kujawsko-pomorskie ; żniński ; Barcin-miasto
+!!!GE1: 52.857378 , 17.941886
+!!!AR2: kujawsko-pomorskie ; inowrocławski ; Pakość-miasto
+!!!GE2: 52.807005 , 18.087691
 !!!source: DWOK13
 !!!id: 13325
 !!!signature: 1332500000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16a
-16cc
-8.ee
-16b
-=2
-16a
-16cc
-8ee
-8dd
-=3
-16a
-16cc
-8.ee
-16b
-=4
-16dd
-16cc
-8a
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16aL	Oj
+16cc/J	wojskowych
+8.ee/L	.
+16b/J	.
+=2	=2
+16a\	trze-
+16cc	-ba
+8ee	ko-
+8dd	-chać,
+=3	=3
+16aL	da
+16ccJ/	wojsko-
+8.eeL/	.
+16b/J	-wych
+=4	=4
+16dd	trza
+16cc	sza-
+8a	-no-
+8g}	-wać,
 !!LO:LB:g=esac
-=5
-{16d
-16f#
-8.g
-16b
-=6
-16a
-16cc
-8ee
-8dd
-=7
-16d
-16f#
-8.g
-16b
-=8
-16dd
-16cc
-8a
-8g}
-==
-*-
+=5	=5
+{16d\	a
+16f#\	tu-
+8.g\	-tejszych
+16b	.
+=6	=6
+16a\	nie-
+16cc	-do-
+8ee	-łę-
+8dd	-gów
+=7	=7
+16d\	za
+16f#\	piec
+8.g\	pocho-
+16b	.
+=8	=8
+16dd	-wać,
+16cc	po-
+8a	-cho-
+8g}	-wać.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oj wojskowych trzeba kochać,
+!!da wojskowych trza szanować,
+!!a tutejszych niedołęgów
+!!za piec pochować, pochować.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=168 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 144} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 144}
 !!!page: 144
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-22
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-26

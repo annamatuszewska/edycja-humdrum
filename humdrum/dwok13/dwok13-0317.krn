@@ -1,71 +1,94 @@
-!!!!SEGMENT: DWOK1331700000-a_ty_do_ni_nie_chodz.krn
+﻿!!!!SEGMENT: DWOK1331700000-a_ty_do_ni_nie_chodz.krn
 !!!OTL: A ty do ni nie chodź
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Ostrzeszowa
+!!!AR1: wielkopolskie ; ostrzeszowski ; Ostrzeszów-miasto
+!!!GE1: 51.423652 , 17.931476
 !!!source: DWOK13
 !!!id: 13317
 !!!signature: 1331700000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16dd
-16dd
-8ff
-8ff
-=2
-4dd
-8g
-=3
-16aa
-16gg
-8ff
-8ee
-=4
-4cc
-8a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16dd	A
+16dd	ty
+8ff	do
+8ff	ni
+=2	=2
+4dd	nie
+8g	chodź,
+=3	=3
+16aa	bo
+16gg	ja
+8ff	do
+8ee	ni
+=4	=4
+4cc	cho-
+8a}	-dzę,
 !!LO:LB:g=esac
-=5
-{16g
-16g
-8g
-8b
-=6
-16dd
-16dd
-8dd
-8g
-=7
-16cc
-16cc
-8ee
-8ee
-=8
-4cc
-8a}
+=5	=5
+{16g\	a
+16g\	ty
+8g\	ji
+8b	tak
+=6	=6
+16dd	nie
+16dd	wy-
+8dd	-go-
+8g	-dzisz
+=7	=7
+16cc	jak
+16cc	ja
+8ee	ji
+8ee	wy-
+=8	=8
+4cc	-go-
+8a}	-dzę.
 !!LO:LB:g=esac
-=9
-{16dd
-16dd
-8ff
-8ff
-=10
-16dd
-16dd
-8dd
-8g
-=11
-16cc
-16cc
-8ee
-8ee
-=12
-4cc
-8a}
-==
-*-
+=9	=9
+{16dd/L	a
+16dd/J	ty
+8ff/L	ji
+8ff/J	tak
+=10	=10
+16dd	nie
+16dd	wy-
+8dd	-go-
+8g	-dzisz
+=11	=11
+16cc	jak
+16cc	ja
+8ee	ji
+8ee	wy-
+=12	=12
+4cc	-go-
+8a}	-dzę.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A ty do ni nie chodź,
+!!bo ja do ni chodzę,
+!!a ty ji tak nie wygodzisz
+!!jak ja ji wygodzę.
+!!@VERSE:
+!!2. Drzewa ji narąbię,
+!!drzewa ji przyniosę,
+!!i choć ją we dnie rozgniewam
+!!to wieczór przeproszę.
+!!@@END: VERSES
+!!!role-singer: Bachelor
+!!!role-listener: another Bachelor
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=166 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 142} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 142}
 !!!page: 142
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-22
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-26

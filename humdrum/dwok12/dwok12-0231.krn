@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1223100000-piekne_gozdziki_sliczne_tulipany.krn
+﻿!!!!SEGMENT: DWOK1223100000-piekne_gozdziki_sliczne_tulipany.krn
 !!!OTL: Piękne goździki śliczne tulipany
+!!!FKT: Pieśni i Dumy. Skarga. Niechęć. Rozstanie
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Poznania
+!!!AR1: wielkopolskie ; m. Poznań ; Poznań-gmina miejska
+!!!GE1: 52.407918 , 16.933467
 !!!source: DWOK12
 !!!id: 12231
 !!!signature: 1223100000
@@ -76,7 +81,7 @@
 8a	-chany.
 4f}	.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Maiden
 !!!role-listener: Bachelor
 !!!singer-sex: female
@@ -107,3 +112,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

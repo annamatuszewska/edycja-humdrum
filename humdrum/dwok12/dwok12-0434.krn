@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1243400000-krzykaly_zurowie_bez_polko.krn
+﻿!!!!SEGMENT: DWOK1243400000-krzykaly_zurowie_bez_polko.krn
 !!!OTL: Krzykały żurowie bez pólko
+!!!FKT: Pieśni i Dumy. Dumy. Zdrada. Zabójstwo
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gołańczy (Czeszewo)
+!!!AR1: wielkopolskie ; wągrowiecki ; Gołańcz-obszar wiejski
+!!!GE1: 52.908722 , 17.382633
 !!!source: DWOK12
 !!!id: 12434
 !!!signature: 1243400000
@@ -117,3 +122,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

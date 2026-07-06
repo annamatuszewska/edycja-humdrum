@@ -1,59 +1,94 @@
-!!!!SEGMENT: DWOK1342400000-przyszed_niemiec_do_polaka.krn
+﻿!!!!SEGMENT: DWOK1342400000-przyszed_niemiec_do_polaka.krn
 !!!OTL: Przyszed Niemiec do Polaka
+!!!FKT: Śpiewki i Tańce. Wiwaty, Tańce i Piosenki 2/4
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Szmigla (Morownica)
+!!!AR1: wielkopolskie ; kościański ; Śmigiel-obszar wiejski
+!!!GE1: 51.989996 , 16.475680
 !!!source: DWOK13
 !!!id: 13424
 !!!signature: 1342400000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M2/4
-=1
-{8ff
-8cc
-8cc
-8a
-=2
-8b-
-8dd
-8dd
-8cc
-=3
-8ff
-8cc
-8cc
-8a
-=4
-8b-
-8g
-8g
-8f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M2/4	*
+=1	=1
+!LO:TX:a:t=Kołyskowa.	!
+{8ff	Przy-
+8cc	-szed
+8cc	Niemiec
+8a	.
+=2	=2
+8b-/L	do
+8dd/J	Po-
+8dd/L	-laka,
+8cc/J	.
+=3	=3
+8ff	ku-
+8cc	-pić
+8cc	chle-
+8a	-ba
+=4	=4
+8b-	za
+8g\	tro-
+8g\	-ja-
+8f}\	-ka,
 !!LO:LB:g=esac
-=5
-{8a
-8cc
-8cc
-8b-
-=6
-8b-
-8dd
-8dd
-8cc
-=7
-8a
-8cc
-8cc
-8b-
-=8
-8b-
-8g
-8g
-8f}
-==
-*-
-!!!ONB: Kołyskowa
+=5	=5
+{8a\	A
+8cc	Po-
+8cc	-lak
+8b-	mu
+=6	=6
+8b-/L	nie
+8dd/J	chciał
+8dd/L	przedać,
+8cc/J	.
+=7	=7
+8a\	mu-
+8cc	-siał
+8cc	Nie-
+8b-	-miec
+=8	=8
+8b-	w_gnojach
+8g\	.
+8g\	grzebać.
+8f}\	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Przyszed Niemiec do Polaka,
+!!kupić chleba za trojaka,
+!!A Polak mu nie chciał przedać,
+!!musiał Niemiec w gnojach grzebać.
+!!@VERSE:
+!!2. Przyszed wróbel do wróblicy
+!!i w ślafroku i w ślafmycy.
+!!I usiad ji pod stolikiem,
+!!i zjad ji kapustę z mlikiem.
+!!@VERSE:
+!!3. Ty Matyjasz na wyrobku
+!!ja Matyjasz na dorobku.
+!!Ty Matyjasz, ja Matyjasz,
+!!czego na mnie pysk wykrzywiasz?
+!!@VERSE:
+!!4. Tyś parobek, ja parobek
+!!chodżma oba na zarobek.
+!!Ty weź cepy a ja grabie,
+!!będziem młócić żyto babie.
+!!Co w sobotę zarobiemy
+!!to w niedzielę przepijemy.
+!!@@END: VERSES
+!!!role-singer: Narrator, Complex
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=200 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 176} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 176}
 !!!page: 176
+!!!BEM: Kołyskowa
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-08
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-16

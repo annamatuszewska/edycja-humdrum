@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1225700002-nie_pojade_bez_las_ino_pole.krn
+﻿!!!!SEGMENT: DWOK1225700002-nie_pojade_bez_las_ino_pole.krn
 !!!OTL: Nie pojade bez las ino pole
+!!!FKT: Pieśni i Dumy. Skarga. Niechęć. Rozstanie
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Środy (Dębicz)
+!!!AR1: wielkopolskie ; średzki ; Środa Wielkopolska-obszar wiejski
+!!!GE1: 52.265702 , 17.311801
 !!!source: DWOK12
 !!!id: 12257
 !!!signature: 1225700002
@@ -59,7 +64,7 @@
 4g\	Kasiu.
 4gg/}	.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Bachelor
 !!!role-listener: Maiden
 !!!singer-sex: male
@@ -72,11 +77,13 @@
 !!krzyknę raz, drugi raz,
 !!usłyszże mnie Kasiu.
 !!@@END: VERSES
-!!!ONB: Alternatywnie można zakodować w G
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=153 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 137} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 137}
 !!!page: 137
+!!!BEM: Alternatywnie można zakodować w G
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14
