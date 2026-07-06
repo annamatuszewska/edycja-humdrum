@@ -3,64 +3,82 @@
 !!!source: DWOK41
 !!!id: 41548
 !!!signature: 4154800000
-**kern
-*clefG2
-*k[]
-*C:
-*M6/8
-=1
-{8cc
-8b
-8a
-4g
-8g
-=2
-8a
-8g
-8f
-4e
-8e
-=3
-8e
-8d
-8f
-4a
-8a
-=4
-8g
-8f
-8d
-4c
-8c}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M6/8	*
+=1	=1
+{8cc	Ja
+8b	sze-
+8a	-dłem
+4g	so-
+8g	-bie
+=2	=2
+8a	w_je-
+8g	-sien-
+8f	-nej
+4e	do-
+8e	-bie,
+=3	=3
+8e	chcia-
+8d	-łem
+8f	od-
+4a	-po-
+8a	-cząć
+=4	=4
+8g	pod
+8f	dę-
+8d	-bem
+4c	so-
+8c}	-bie,
 !!LO:LB:g=esac
-=5
-{8c
-8d
-8e
-4f
-8f
-=6
-8a
-8g
-8f
-4g
-8e
-=7
-8e
-8d
-8f
-4a
-8a
-=8
-8g
-8f
-8d
-4c
-8c}
-==
-*-
+=5	=5
+{8c	wten-
+8d	-czas
+8e	mnie
+4f	tru-
+8f	-nek
+=6	=6
+8a	ro-
+8g	-zma-
+8f	-rzył
+4g	tro-
+8e	-chę,
+=7	=7
+8e	przy-
+8d	-szły
+8f	mi
+4a	do
+8a	łba
+=8	=8
+8g	złe
+8f	my-
+8d	-śli
+4c	pło-
+8c}	-che.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Ja szedłem sobie w jesiennej dobie,
+!!chciałem odpocząć pod dębem sobie,
+!!wtenczas mnie trunek rozmarzył trochę,
+!!przyszły mi do łba złe myśli płoche.
+!!@VERSE:
+!!2. Na takim drzewie, co sięga nieba,
+!!przynajmniej dyniom rodzić potrzeba.
+!!@VERSE:
+!!3. Jak ci zleciała żołędz z wysoka,
+!!małom nie pozbył jednego oka;
+!!i mówię sobie: wie Bóg, co czyni,
+!!ja głupi, żem chciał od dębu dyni.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=369 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 286} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 286}
 !!!page: 286
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-27
