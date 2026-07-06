@@ -9,51 +9,51 @@
 *G:
 *M3/4
 =1
-{8d
-8f#
+{8dL
+8f#J
 4a
 4cc
-=
-12dd
+=2
+12ddL
 12cc
-12dd
+12ddJ
 4b
 4dd
-=
-12cc
+=3
+12ccL
 12b
-12cc
+12ccJ
 4a
-8b
-8ee
-=2
-8ee
-8dd
+8bL
+8eeJ
+=4
+8eeL
+8ddJ
 4b
 4g}
 !!LO:LB:g=esac
-=3
-{8d
-8f#
+=5
+{8dL
+8f#J
 4a
-8a
-8g
-=4
-8g
-8b
+8aL
+8gJ
+=6
+8gL
+8b/J
 4b
 4dd
-=5
-8ee
-8cc
+=7
+8eeL
+8ccJ
 4a
 4f#
-=
+=8
 4g
 4b
-12a
+12aL
 12f#
-12e}
+12e}J
 ==
 *-
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
@@ -61,3 +61,5 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=426 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 339} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 339}
 !!!page: 339
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-06-14
