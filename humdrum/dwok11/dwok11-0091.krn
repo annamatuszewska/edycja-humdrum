@@ -3,68 +3,116 @@
 !!!source: DWOK11
 !!!id: 11091
 !!!signature: 1109100000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{4g
-4.b
-8a
-=2
-4g
-4.b
-8dd
-=3
-8dd
-8ee
-4dd
-4b
-=4
-8g
-8f#
-2d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{4g	Nie
+4.b	kciała,
+8a	.
+=2	=2
+4g	nie
+4.b	kciała
+8dd	.
+=3	=3
+8dd	ojca,
+8ee	.
+4dd	matki
+4b	.
+=4	=4
+8gL	słuchać,
+8f#J	.
+2d}	.
 !!LO:LB:g=esac
-=5
-{4d
-4.cc
-8a
-=6
-4a
-4.b
-8g
-=7
-8g
-8f#
-4g
-4b
-=8
-8g
-8f#
-2a}
+=5	=5
+{4d	wolała,
+4.cc	.
+8a	.
+=6	=6
+4a	wolała
+4.b	.
+8g\	.
+=7	=7
+8g	kolibeczką
+8f#	.
+4g	.
+8aq	.
+4b	.
+=8	=8
+8gL	ruchać.
+8f#J	.
+2a}	.
 !!LO:LB:g=esac
-=9
-{4d
-4.cc
-8a
-=10
-4a
-4.b
-8g
-=11
-8g
-8f#
-4g
-4b
-=12
-8g
-8f#
-2d}
-==
-*-
+=9	=9
+{4g	Nie
+4.b	kciała,
+8a	.
+=10	=10
+4g	nie
+4.b	kciała
+8dd	.
+=11	=11
+8dd	ojca,
+8ee	.
+4dd	matki
+4b	.
+=12	=12
+8gL	słuchać,
+8f#J	.
+2d}	.
+!!LO:LB:g=esac
+=13	=13
+{4d	wolała,
+4.cc	.
+8a	.
+=14	=14
+4a	wolała
+4.b	.
+8g\	.
+=15	=15
+8g	kolibeczką
+8f#	.
+4g	.
+8aq	.
+4b	.
+=16	=16
+8gL	ruchać.
+8f#J	.
+2d\}	.
+!!LO:LB:g=esac
+==	==
+*-	*-
+!!!role-singer: Narrator, Maiden
+!!!role-listener: Women
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Nie kciała, nie kciała
+!!ojca, matki słuchać,
+!!wolała, wolała
+!!kolibeczką ruchać.
+!!@VERSE:
+!!2. Chodziła po boru,
+!!zbierała koconki (kaczanki)
+!!po chwili, po małéj
+!!wołała koponki (niecki).
+!!@VERSE:
+!!3. Miluchne dziewciątka,
+!!koponki mi dajcie,
+!!wy stare niewiasty,
+!!do mnie przybywajcie.
+!!@VERSE:
+!!4. Wsadziła, wsadziła
+!!ciepiesek na główkę,
+!!mówiła, mówiła,
+!!toć mnie przykrywajcie.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/011dwok.pdf#page=218 @PL{Oskar Kolberg Dzieła Wszystkie 11: W. Ks. Poznańskie III, s. 200} @EN{Oskar Kolberg Complete Works 11: Grand Duchy of Poznań III, p. 200}
 !!!page: 200
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-27=

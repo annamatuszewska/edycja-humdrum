@@ -3,75 +3,121 @@
 !!!source: DWOK11
 !!!id: 11086
 !!!signature: 1108600001
-**kern
-*clefG2
-*k[f#]
-*e:
-*M3/4
-=1
-{8a
-8cc
-4a
-4d
-=2
-8g
-8a
-2b
-=3
-8a
-8cc
-4a
-4d
-=4
-2g
-4f#
-=5
-2e}
-4r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*e:	*
+*M3/4	*
+=1	=1
+{8a\	Wydałać
+8cc	.
+4a\	.
+4d	mnie
+=2	=2
+8g	matu-
+8a	.
+2b	-la
+=3	=3
+8a\	w_ten
+8cc	cudzy
+4a\	.
+4d	kraj
+=4	=4
+2g	da-
+4f#	-le-
+=5	=5
+2e\}	-ki.
+4r	.
 !!LO:LB:g=esac
-=6
-{4.g
-8e
-8g
-8dd
-=7
-2b
-16g
-8.e
-=8
-4.dd
-8b
-8ee
-8dd
-=9
-2b
-16g
-8.e}
+=6	=6
+{8f#q	.
+4.g	Wydałać
+8e	.
+8g	.
+8bq	.
+8dd	wy-
+=7	=7
+2b	-da-
+16gL	-ła,
+8.eJ	.
+=8	=8
+4.dd	mocno
+8b	.
+8ddq	.
+8ee	przyka-
+8dd	.
+=9	=9
+2b	-za-
+16gL	-ła,
+8.eJ}	.
 !!LO:LB:g=esac
-=10
-{8a
-8cc
-4a
-4d
-=11
-8g
-8a
-2b
-=12
-8a
-8cc
-4a
-4d
-=13
-2g
-4f#
-=14
-2e}
-4r
-==
-*-
+=10	=10
+{8a\	aże-
+8cc	.
+4a\	-by
+4d	się
+=11	=11
+8g	nie
+8a	wracać,
+2b	.
+=12	=12
+8a\	aże-
+8cc	.
+4a\	-by
+4d	się
+=13	=13
+2g	nie
+4f#	wra-
+=14	=14
+2e\}	-cać.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Maiden, Sister
+!!!role-listener: Maiden, Sister
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Wydałać mnie matula w ten cudzy kraj daleki.
+!!Wydałać wydała, mocno przykazała,
+!!ażeby się nie wracać, ażeby się nie wracać.
+!!@VERSE:
+!!2. Zrobię ja się ptaskiem,
+!!małym skowronaskiem,
+!!do matuli polotę;
+!!siedne w okieneckë,
+!!w rucianym wianeckë,
+!!na kierzasek leliuji.
+!!@VERSE:
+!!3. Wyjdzie-ć tam, wyjdzie
+!!siostrzycka najmłodsa,
+!!bedzie mnie ś nié zganiała:
+!!hewsiö, hewsiö, ptaskü
+!!marny skowronaskü,
+!!nie łum siostrze leliuji.
+!!@VERSE:
+!!4. Będe jom łumała,
+!!będe jom drzezgała,
+!!boć ja jij tö nasiała.
+!!@VERSE:
+!!5. Dobrze ci to dobrze
+!!siostrzycko najmłodsa
+!!u matuli przeböwać.
+!!Ale-ć mnie nie dobrze,
+!!aleć mnie nie dobrze
+!!w ten cudzy kraj wendrować.
+!!@VERSE:
+!!6. Do Boga wysośko,
+!!przyjaciel daleśko,
+!!a gdzie ja się mam odać?
+!!Będą mnie ptasęta
+!!i polne zwiérzęta
+!!hej! po świecie roznaszać.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/011dwok.pdf#page=215 @PL{Oskar Kolberg Dzieła Wszystkie 11: W. Ks. Poznańskie III, s. 197} @EN{Oskar Kolberg Complete Works 11: Grand Duchy of Poznań III, p. 197}
 !!!page: 197
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-27

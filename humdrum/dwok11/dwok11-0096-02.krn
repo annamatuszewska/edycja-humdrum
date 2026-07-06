@@ -3,69 +3,82 @@
 !!!source: DWOK11
 !!!id: 11096
 !!!signature: 1109600002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{4b
-8dd
-=2
-4cc
-8ee
-=3
-4dd
-8b
-=4
-16a
-16f#
-4d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+!!LO:TX:a:t=Weselna.
+{4b	O
+8dd	wia-
+=2	=2
+4cc	-neczku
+8ee	.
+=3	=3
+4dd	lewan-
+8b	.
+=4	=4
+16aL	-dowy,
+16f#J	.
+4d}	.
 !!LO:LB:g=esac
-=5
-{8g
-8b
-8dd
-=6
-4cc
-8ee
-=7
-8dd
-8b
-8g
-=8
-16a
-16f#
-4d}
+=5	=5
+{8gL	nie
+8bJ	.
+8dd	spa-
+=6	=6
+4cc	-daj
+8ee	mi
+=7	=7
+8ddL	z_mojéj
+8b	.
+8gJ/	.
+=8	=8
+16aL	głowy,
+16f#J	.
+4d}	.
 !!LO:LB:g=esac
-=9
-{16g
-16a
-8b
-16cc
-16a
-=10
-16g
-16a
-8b
-16cc
-16a
-=11
-16g
-16a
-8b
-16cc
-16a
-=12
-16g
-16b
-8g
-8g}
-==
-*-
+=9	=9
+{16g	bom
+16a	cię
+8b	prawą
+16ccL	.
+16aJ	.
+=10	=10
+16g	ręką
+16a	.
+8b	wiła,
+16ccL	.
+16aJ	.
+=11	=11
+16g	pókim
+16a	.
+8b	jeszcze
+16ccL	.
+16aJ	.
+=12	=12
+16g	panną
+16b	.
+8g	była.
+8g}	.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!role-listener: Garland
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!O wianeczku lewandowy,
+!!nie spadaj mi z mojéj głowy,
+!!bom cię prawą ręką wiła,
+!!pókim jeszcze panną była.
+!!@@END: VERSES
 !!!ONB: Weselna
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/011dwok.pdf#page=224 @PL{Oskar Kolberg Dzieła Wszystkie 11: W. Ks. Poznańskie III, s. 206} @EN{Oskar Kolberg Complete Works 11: Grand Duchy of Poznań III, p. 206}
 !!!page: 206
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-27

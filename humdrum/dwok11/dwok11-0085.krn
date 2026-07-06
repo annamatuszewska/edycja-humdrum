@@ -3,60 +3,78 @@
 !!!source: DWOK11
 !!!id: 11085
 !!!signature: 1108500000
-**kern
-*clefG2
-*k[f#]
-*e:
-*M2/4
-=1
-{8g
-8b
-8.dd
-16b
-=2
-8a
-8a
-8.f#
-16e
-=3
-8g
-8a
-4b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*e:	*
+*M2/4	*
+=1	=1
+{8g	Poto-
+8b	.
+8.dd	-cyła
+16b	.
+=2	=2
+8a	swój
+8a	wionecek
+8.f#	.
+16e	.
+=3	=3
+8g	po
+8a	głowie,
+4b}	.
 !!LO:LB:g=esac
-=4
-{8g
-8b
-8.dd
-16b
-=5
-8a
-8a
-8.f#
-16e
-=6
-8f#
-8f#
-8e
-8g}
+=4	=4
+{8g	upad
+8b	.
+8.dd	ci
+16b	ón
+=5	=5
+8a	panu
+8a	.
+8gq	.
+8.f#	ojcu
+16e	.
+=6	=6
+8f#	na
+8f#	ło-
+8eL	-no,
+8gJ}	.
 !!LO:LB:g=esac
-=7
-{8b
-8g
-8f#
-8a
-=8
-8e
-8g
-8.b
-16g
-=9
-8f#
-8a
-4e}
-==
-*-
+=7	=7
+{8b	na
+8g	ło-
+8f#L	-no,
+8aJ	.
+=8	=8
+8e	na
+8g	ło-
+8.bL	-no,
+16gJ\	.
+=9	=9
+8f#	na
+8a	łono.
+4e}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Father
+!!!role-listener: Daughter
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Potocyła swój wionecek po głowie,
+!!upad ci ón panu ojcu na łono,
+!!na łono, na łono, na łono, na łono.
+!!@VERSE:
+!!2. A weź-ze go córo moja,
+!!idź sobie,
+!!a weź-ci go swój wionecek,
+!!idź sobie,
+!!idź sobie do Jasia, idź sobie.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/011dwok.pdf#page=214 @PL{Oskar Kolberg Dzieła Wszystkie 11: W. Ks. Poznańskie III, s. 196} @EN{Oskar Kolberg Complete Works 11: Grand Duchy of Poznań III, p. 196}
 !!!page: 196
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-27

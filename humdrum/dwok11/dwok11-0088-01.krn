@@ -3,44 +3,69 @@
 !!!source: DWOK11
 !!!id: 11088
 !!!signature: 1108800001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{2ee
-4dd
-=2
-4b
-2g
-=3
-2dd
-4ee
-=4
-4cc
-2a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{2ee	Niesce-
+4dd	.
+=2	=2
+4b	-sneć
+2g	to
+=3	=3
+2dd	biało
+4ee	.
+=4	=4
+4cc	głowy.
+2a\}	.
 !!LO:LB:g=esac
-=5
-{8a
-8cc
-4a
-4ee
-=6
-8dd
-8b
-4g
-4b
-=7
-2dd
-4ee
-=8
-4cc
-2a}
-==
-*-
+=5	=5
+{8a	co
+8cc	mnie
+4a	wzieny
+4ee	.
+=6	=6
+8dd	co
+8b	mnie
+4g	wzieny
+4b	.
+=7	=7
+2dd	do
+4ee	ko-
+=8	=8
+4cc	-mory.
+2a\}	.
+==	==
+*-	*-
+!!!role-singer: Bride
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Niescesne-ć to białoguowy.
+!!co mnie wziény do komory.
+!!Jak mnie wziény, tak mnie wziény,
+!!wionyszek mi z głowy zjęny.
+!!@VERSE:
+!!2. Mój wianeckö z białéj róży,
+!!dla ciebie świat nie suzy (służy).
+!!Mój wianeckö lewendowy,
+!!nie spadaj my z moji głowy.
+!!Mój wianecke, mój przedwiecny,
+!!spad-ześ ci my na wiek wiecny.
+!!@VERSE:
+!!3. Wsadziły-ć mi klapi-bidę,
+!!do śmierci jóm nosić bédę.
+!!Wsadziły-ć mi to cepcysko,
+!!kazą kochać to chuopisko.
+!!A ja śmignę (odrzucę) to cepcysko
+!!i odegnam to dziadzisko.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/011dwok.pdf#page=216 @PL{Oskar Kolberg Dzieła Wszystkie 11: W. Ks. Poznańskie III, s. 198} @EN{Oskar Kolberg Complete Works 11: Grand Duchy of Poznań III, p. 198}
 !!!page: 198
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-27

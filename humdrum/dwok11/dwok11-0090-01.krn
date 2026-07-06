@@ -3,65 +3,158 @@
 !!!source: DWOK11
 !!!id: 11090
 !!!signature: 1109000001
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{8e
-8e
-4g#
-8a
-8g#
-=2
-8e
-8d
-2e}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+{8e	Ja
+8e	marna
+4g#	.
+8aL	dziew-
+8g#J	.
+=2	=2
+8eL	-cyna,
+8dJ	.
+2e}	.
 !!LO:LB:g=esac
-=3
-{16e
-16g#
-8a
-4b
-4dd
-=4
-8cc
-8a
-2b}
+=3	=3
+{16eL	co
+16g#J	.
+8a	ja
+4b	u-
+4dd	-cy-
+=4	=4
+8ccL	-ni-
+8aJ	.
+2b}	-ła!
 !!LO:LB:g=esac
-=5
-{16e
-16g#
-8a
-8b
-8dd
-16ee
-16cc
-8b
-=6
-8a
-8cc
-8b
-8a
-16g#
-16e
-8d}
+=5	=5
+{16eL	juz
+16g#J	.
+8a	więcy
+8b	.
+8dd	nie
+16eeL	będe
+16ccJ	.
+8b	.
+=6	=6
+8a\	juz
+8cc	więcy
+8b	.
+8a\	nie
+16g#L	będe
+16eJ	.
+8d}	.
 !!LO:LB:g=esac
-=7
-{8e
-8e
-4g#
-8a
-8g#
-=8
-8e
-8d
-2e}
-==
-*-
+=7	=7
+{8e	we
+8e	wianku
+4g#	.
+8aL	cho-
+8g#J\	.
+=8	=8
+8eL	-dziła.
+8dJ	.
+2e}	.
+==	==
+*-	*-
+!!!role-singer: Maiden, Bachelor
+!!!role-listener: Bachelor, Maiden
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Ja marna dziewcyna,
+!!co ja öcyniła!
+!!juz więcy nie będe,
+!!juz więcy nie będe
+!!we wionkü chodziła.
+!!@VERSE:
+!!2. Jino-ci go będę
+!!cépcem nakrywała,
+!!na ciebie złodzieju
+!!będe narzekała.
+!!@VERSE:
+!!3. Nie narzekaj na mnie
+!!ino sama na się,
+!!a mówił ja tobie:
+!!nie zalicaj mi się.
+!!@VERSE:
+!!4. A tyś mnie się jina (jęła)
+!!jak woda kaminia,
+!!bodej mi się böła,
+!!ziemia rozstąpiła.
+!!@VERSE:
+!!5. Rozstąp mi się ziemio,
+!!rozstąp się kaminiu,
+!!niechże ja nie s(ł)uzę
+!!chuopu nieślubnemu.
+!!@VERSE:
+!!6. A widzis ty dziewce,
+!!ten kamiń nad wodą,
+!!jak ten kamiń spłynie,
+!!ożenię się z tobą.
+!!@VERSE:
+!!7. Nie słysałam jesce
+!!o takiéj nowinie,
+!!ażeby pływali
+!!po wodzie kaminie.
+!!@VERSE:
+!!8. A widzis ty dziewce,
+!!hejna suchą topol,
+!!jak ta bedzie kwitła,
+!!ożenię się z tobą.
+!!@VERSE:
+!!9. Jéno raz topólkę
+!!wineckiem podlała,
+!!zaraz jéj topólka,
+!!zaraz zakwitała.
+!!@VERSE:
+!!10. Nie frasuj się dziewce,
+!!nad suchą topolą,
+!!choć ta będzie kwitła,
+!!to nie będzies moją.
+!!@VERSE:
+!!11. A widzis ty Jasiu,
+!!hejna suchą lipę,
+!!jak ta bedzie kwitła,
+!!całuj-ze mnie w ślipie.
+!!@VERSE:
+!!12. Za stolicek siadła,
+!!drobne rybki jadła,
+!!od wielkiego żalu
+!!jak chustecka zbladła.
+!!@VERSE:
+!!13. Od cegoś tak zbladła?
+!!od wielkiéj swywoli,
+!!Nie było-ć to pasać
+!!z Jasineckiem woły.
+!!@VERSE:
+!!14. A było-ć to pasać,
+!!ale wiedzieć jako,
+!!a było odganiać
+!!od Jasia daleko.
+!!@VERSE:
+!!15. Odganiała-ci ja
+!!bez góry, bez zdroje,
+!!Jaś kiwał chusteczką:
+!!pójdź-no dziewce moje!
+!!@VERSE:
+!!16. Nie było-ć to słuchać
+!!kiwania mojego,
+!!a było sanować
+!!wionka panieńskiego.
+!!@VERSE:
+!!17. Sanowała-ci ja
+!!wionka panieńskiego,
+!!h-ale byś ty uwiód(ł)
+!!od serca samego.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/011dwok.pdf#page=217 @PL{Oskar Kolberg Dzieła Wszystkie 11: W. Ks. Poznańskie III, s. 199} @EN{Oskar Kolberg Complete Works 11: Grand Duchy of Poznań III, p. 199}
 !!!page: 199
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-27

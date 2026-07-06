@@ -3,46 +3,85 @@
 !!!source: DWOK11
 !!!id: 11098
 !!!signature: 1109800000
-**kern
-*clefG2
-*k[]
-*a:
-*M2/4
-=1
-{8a
-8cc
-8b
-8a
-=2
-8cc
-4ee
-8r
-=3
-8dd
-8ee
-8dd
-8b
-=4
-8g
-4dd}
-8r
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M2/4	*
+=1	=1
+{8a\	Jawo-
+8cc	.
+8b	-rowi
+8a\	.
+=2	=2
+8cc	ludzie,
+4ee	.
+8r	.
+=3	=3
+8dd	czego
+8ee	.
+8dd	tam
+8b	sto-
+=4	=4
+8g	-jicie,
+4dd}	.
+8r	.
 !!LO:LB:g=esac
-=5
-{4.ee
-8g
-=6
-8b
-8dd
-8cc
-8b
-=7
-8a
-4cc}
-8r
-==
-*-
+=5	=5
+{8ccq	.
+4.ee	jawor,
+8g	.
+=6	=6
+8b	jaworowi
+8dd	.
+8cc	.
+8b	.
+=7	=7
+8a	ludzie.
+4cc;}	.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Child
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Jaworowi ludzie, — czego tam stojicie?
+!!jawor, jaworowi ludzie.
+!!@VERSE:
+!!2. Stojemy, stojemy, — mosty budujemy,
+!!jawor, jaworowi i t. d.
+!!@VERSE:
+!!3. Z czego budujecie, — z czego i plecicie?
+!!jawor, jaworowi i t. d.
+!!@VERSE:
+!!4. Z dębowego liścia, — z brzozowego kiścia,
+!!jawor, jaworowi i t. d.
+!!@VERSE:
+!!5. Dajcie nam tam dajcie,— stado koni przegnać,
+!!jawor, karetą przejechać.
+!!@VERSE:
+!!6. Damy, damy, damy,— jedno otrzymamy (zatrzymamy)
+!!jawor, jaworowi i t. d.
+!!@VERSE:
+!!7. Nima pana w doma, — jechał do Torunia,
+!!jawor, jaworowi i t. d.
+!!@VERSE:
+!!8. Po dwie beczki piwa, — a po trzecią wina,
+!!jawor, jaworowi i t. d.
+!!@VERSE:
+!!9. Jedzie, jedzie Szelma, — Szelmowa rodzina,
+!!jawor, jaworowi i t. d.
+!!@VERSE:
+!!10. Szelma córki nie dni, — ani obiecuje,
+!!jawor, jaworowi i t. d.
+!!@VERSE:
+!!11. Jeno tę chusteczkę, — złotem wyhaftuje,
+!!jawor, jaworowi i t. d.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/011dwok.pdf#page=227 @PL{Oskar Kolberg Dzieła Wszystkie 11: W. Ks. Poznańskie III, s. 209} @EN{Oskar Kolberg Complete Works 11: Grand Duchy of Poznań III, p. 209}
 !!!page: 209
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-27

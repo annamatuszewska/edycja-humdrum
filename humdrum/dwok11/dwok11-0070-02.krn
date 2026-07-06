@@ -3,48 +3,82 @@
 !!!source: DWOK11
 !!!id: 11070
 !!!signature: 1107000002
-**kern
-*clefG2
-*k[b-e-]
-*g:
-*M3/8
-=1
-{8d
-8g
-8a
-=2
-4b-
-8a
-=3
-16cc
-16dd
-8b-
-8g
-=4
-8a
-16f#
-16d}
-8r
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*g:	*
+*M3/8	*
+=1	=1
+{8d	A
+8g	przede
+8a	.
+=2	=2
+4b-/	dworem
+8a	.
+=3	=3
+16cc	zieleni
+16dd	.
+8b-	.
+8g	się
+=4	=4
+8a	grobla,
+16f#L	.
+16dJ}	.
+8r	.
 !!LO:LB:g=esac
-=5
-{8g
-8b-
-8g
-=6
-4f
-8d
-=7
-16c
-16d
-8e
-8g
-=8
-8f#
-4d}
-==
-*-
+=5	=5
+{8g	pasła
+8b-	.
+8g	Ka-
+=6	=6
+4fn	-sińka
+8d	.
+=7	=7
+16c	pawi-
+16d	.
+8e-	-ka
+8g	na-
+=8	=8
+8f#	-dobna.
+4d}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Bachelor
+!!!role-listener: Maiden
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!A przede dworem zieleni się grobla,
+!!pasła Kasińka pawika nadobna.
+!!@VERSE:
+!!2. I wycięna-ć go — przez skrzydło niechcący,
+!!poleciał pawik — do boru krzyczący.
+!!@VERSE:
+!!3. Moja Kasińku, — a coś ty zrobiła!
+!!w prawe skrzydełko — pawika wycięna.
+!!@VERSE:
+!!4. A przede dworem — zieleni się grobla, —
+!!chodziła po niéj — Kasińka nadobna.
+!!@VERSE:
+!!5. I z czarném szyciem — koszuleczkę miała,
+!!nie było po niéj — znać (że) się zalecała.
+!!@VERSE:
+!!6. Chodzi-ć tam za nią — malusińki chłopiec,
+!!powiadają ladzie — że mój Jasio ociec.
+!!@VERSE:
+!!7. A Kasineczka — syneczka powija,
+!!Jasinek przed nią — na koniu wywija.
+!!@VERSE:
+!!8. Na-ści Kasinka — ze szklenicy piwa,
+!!wychowaj-że mi — tego mego nyna.
+!!@VERSE:
+!!9. Na-ści Kasinka — ze szklenicy wody (wódki),
+!!za twoje wszystkie — u mnie niewygody.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/011dwok.pdf#page=200 @PL{Oskar Kolberg Dzieła Wszystkie 11: W. Ks. Poznańskie III, s. 182-183} @EN{Oskar Kolberg Complete Works 11: Grand Duchy of Poznań III, pp. 182-183}
 !!!page: 182-183
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-27
