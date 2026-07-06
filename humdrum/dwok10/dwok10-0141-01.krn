@@ -3,71 +3,80 @@
 !!!source: DWOK10
 !!!id: 10141
 !!!signature: 1014100001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16b
-8dd
-8dd
-=2
-8ee
-8cc
-8a
-=3
-16b
-16g
-8b
-8dd
-=4
-8a
-8f#
-8d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Pojadę
+16b	.
+8dd	ja
+8dd	na
+=2	=2
+8ee	jarmarek
+8cc	.
+8a\	.
+=3	=3
+16b	kupię
+16g	.
+8b	sobie
+8dd	.
+=4	=4
+8a	bat,
+8f#	bat
+8d}	bat,
 !!LO:LB:g=esac
-=5
-{16d
-16f#
-8g
-8a
-=6
-8b
-8b
-8g
-=7
-16b
-16b
-8g
-8dd
-=8
-8a
-8f#
-8d}
+=5	=5
+{16d	kupię
+16f#	.
+8g	sobie
+8a	.
+=6	=6
+8b	chomąto,
+8b	.
+8g	.
+=7	=7
+16b	będą
+16b	.
+8g	mówić:
+8dd	.
+=8	=8
+8a	furman
+8f#	.
+8d}	to,
 !!LO:LB:g=esac
-=9
-{16d
-16f#
-8g
-8a
-=10
-8b
-8b
-8g
-=11
-16b
-16b
-8g
-8dd
-=12
-8a
-8f#
-8d}
-==
-*-
+=9	=9
+{16d	kupię
+16f#	.
+8g	sobie
+8a	.
+=10	=10
+8b	chomąto,
+8b	.
+8g	.
+=11	=11
+16b	będą
+16b	.
+8g	mówić:
+8dd	.
+=12	=12
+8a	furman
+8f#	.
+8d}	to!
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Pojadę ja na jarmarek kupię sobie bat, bat, bat,
+!!kupię sobie chomąto, będą mówić: furman to!
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=302 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 286} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 286}
 !!!page: 286
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-11

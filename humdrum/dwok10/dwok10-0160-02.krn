@@ -3,66 +3,92 @@
 !!!source: DWOK10
 !!!id: 10160
 !!!signature: 1016000002
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16cc
-16ee
-4cc
-=2
-8ee
-8ee
-8dd
-=3
-16b
-16dd
-4b
-=4
-8dd
-8dd
-16cc
-16b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{16cc	Zdało
+16ee	.
+4cc	mi
+=2	=2
+8ee	się,
+8ee	zdało,
+8dd	.
+=3	=3
+16b	że
+16dd	pole
+4b	.
+=4	=4
+8dd	gorzało,
+8dd	.
+16ccL	.
+16bJ/}	.
 !!LO:LB:g=esac
-=5
-{16a
-16cc
-4a
-=6
-8cc
-8cc
-8ee
-=7
-16b
-16g#
-4e
-=8
-8dd
-8ee
-8ee}
+=5	=5
+{16a\	u
+16cc	naszéj
+4a	.
+=6	=6
+8cc	dziewczyny
+8cc	.
+8ee	.
+=7	=7
+16b	ziółko
+16g#	.
+4e	za-
+=8	=8
+8dd	-kwitało,
+8ee	.
+8ee}	.
 !!LO:LB:g=esac
-=9
-{16a
-16cc
-4a
-=10
-8cc
-8cc
-8ee
-=11
-16b
-16g#
-4e
-=12
-8a
-8a
-8a}
-==
-*-
+=9	=9
+{16a\	u
+16cc	naszéj
+4a	.
+=10	=10
+8cc	dziewczyny
+8cc	.
+8ee	.
+=11	=11
+16b	ziółko
+16g#	.
+4e	za-
+=12	=12
+8a	-kwitało.
+8a	.
+8a}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!!role-listener: Farmhand
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Zdało mi się, zdało,
+!!że pole gorzało,
+!!u naszéj dziewczyny
+!!ziółko zakwitało.
+!!@VERSE:
+!!2. Zakwitało ziółko,
+!!czerwone g(w)oździki,
+!!zaprzągaj fornalu,
+!!te siwe kóniki.
+!!@VERSE:
+!!3. Jakże je zaprzągać,
+!!kiedy się targają,
+!!ciężki żal dziewczynie,
+!!jak jij ślub dają.
+!!@VERSE:
+!!4. Wychodzi z kościoła,
+!!podparła się (u) płota,
+!!czego ja doczekała,
+!!uboga sierota!
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=331 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 315} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 315}
 !!!page: 315
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-11

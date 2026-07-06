@@ -3,82 +3,97 @@
 !!!source: DWOK10
 !!!id: 10102
 !!!signature: 1010200000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16b
-8dd
-8dd
-=2
-16dd
-16ee
-8.dd
-16b
-=3
-16cc
-16ee
-8dd
-8cc
-=4
-4b}
-8r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Ciężał
+16b	.
+8dd	ci
+8dd	wio-
+=2	=2
+16dd	-nek
+16ee	Marynko,
+8.dd	.
+16b	.
+=3	=3
+16cc	ciężał
+16ee	.
+8dd	ci
+8cc	wio-
+=4	=4
+4b}	-nek,
+8r	.
 !!LO:LB:g=esac
-=5
-{16g
-16b
-8dd
-8dd
-=6
-16dd
-16ee
-8.dd
-16b
-=7
-16cc
-16ee
-8dd
-8cc
-=8
-4b}
-8r
+=5	=5
+{16g	ciężał
+16b	.
+8dd	ci
+8dd	wio-
+=6	=6
+16dd	-nek
+16ee	Marynko,
+8.dd	.
+16b	.
+=7	=7
+16cc	ciężał
+16ee	.
+8dd	ci
+8cc	wio-
+=8	=8
+4b}	-nek,
+8r	.
 !!LO:LB:g=esac
-=9
-{16cc
-16b
-8.a
-16b
-=10
-16cc
-16b
-8.a
-16dd
-=11
-16cc
-16b
-8.a
-16b
-=12
-16cc
-16b
-8.a
-16dd}
+=9	=9
+{16cc	a
+16b	teraz
+8.a\	.
+16b	ci
+=10	=10
+16cc	będzie
+16b	.
+8.a\	ciężał,
+16dd	.
+=11	=11
+16cc	a
+16b	teraz
+8.a\	.
+16b	ci
+=12	=12
+16cc	będzie
+16b	.
+8.a\	ciężał
+16dd}	.
 !!LO:LB:g=esac
-=13
-{16cc
-16ee
-8dd
-8cc
-=14
-4.b}
-==
-*-
+=13	=13
+{16cc	przy
+16ee	czepie
+8dd	.
+8cc	sznu-
+=14	=14
+4.b}	-rek.
+==	==
+*-	*-
+!!!role-listener: Maiden
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Ciężał ci wionek Marynko,
+!!ciężał ci wionek,
+!!a teraz ci będzie ciężał
+!!przy czepie sznurek.
+!!@VERSE:
+!!2. Cięzały ci tez Marynka,
+!!cięzały stązki,
+!!a teroz ci będzie cięzoł
+!!cepecek wązki.
+!!@@END: VERSES
 !!!ONB: Inna; w przedostatnim takcie jest o jedną szestnastkę za dużo, zapisano poprawnie
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=275 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 259} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 259}
 !!!page: 259
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-11

@@ -3,102 +3,92 @@
 !!!source: DWOK10
 !!!id: 10116
 !!!signature: 1011600001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8dd
-8ff
-4ee
-4cc
-=2
-16dd
-16ee
-8ff
-8ee
-8dd
-4cc
-=3
-8ff
-8ff
-4gg
-4ff
-=4
-4ee
-4cc}
-4r
+**kern	**text
+*clefG2	*
+*k[]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8ddL	Młoda
+8ffJ	.
+4ee	panna,
+4cc	.
+=2	=2
+16ddL	bo
+16ee	.
+8ffJ/	go
+8eeL	rada
+8ddJ/	.
+4cc/	.
+=3	=3
+8ff	na
+8ff	cépecek
+4gg	.
+4ff	.
+=4	=4
+4ee	prosi
+4cc}	.
+4r	.
 !!LO:LB:g=esac
-=5
-{8dd
-8ff
-4ee
-4cc
-=6
-16dd
-16ee
-8ff
-8ee
-8dd
-4cc
-=7
-8ff
-8ff
-4gg
-4ff
-=8
-4ee
-4cc}
-4r
+=5	=5
+16ffL	na
+16ee	.
+8ffJ/	główecce
+4gg/	.
+8ffL	.
+8ggJ/	.
+=6	=6
+4ee	nosi.
+8ccL	.
+8gJ}	.
+4r	.
+=7	=7
+{8ddL	Nie
+8ffJ	.
+4ee	chciała
+4ee	.
+=8	=8
+16ddL	ka-
+16ee	.
+8ffJ/	.
+8eeL	-za-
+8ddJ/	.
+4ee/	-ła
+=9	=9
+4dd	we
+4b-	wionecku
+8aL	.
+8fJ\	.
+=10	=10
+4b-	chodzić
+2dd}	.
 !!LO:LB:g=esac
-=9
-{8dd
-8ff
-4ee
-4ee
-=10
-16dd
-16ee
-8ff
-8ee
-8dd
-4ee
-=11
-4dd
-4b-
-8a
-8f
-=12
-4b-
-2dd}
-!!LO:LB:g=esac
-=13
-{16dd
-16ee
-8ff
-8ee
-8dd
-4ee
-=14
-16dd
-16ee
-8ff
-8ee
-8dd
-4ee
-=15
-4dd
-4b-
-8a
-8f
-=16
-4b-
-2g}
-==
-*-
+=11	=11
+4dd	cepecek
+4b-	.
+16aL	.
+16g	.
+8fJ	.
+=12	=12
+4b-	robić.
+2g}	.
+==	==
+*-	*-
+!!!role-singer: Wedding Matron
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Młoda panna na cépecek prosi
+!!bo go rada na główecce nosi.
+!!Nie chciała we wionecku chodzić
+!!kazała cepecek robić.
+!!Róbcie mi, róbcie mi — cepecek z nici,
+!!niech mi się, niech mi się — na głowie świeci.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=280 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 264} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 264}
 !!!page: 264
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-11

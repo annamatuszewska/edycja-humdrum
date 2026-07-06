@@ -3,99 +3,111 @@
 !!!source: DWOK10
 !!!id: 10162
 !!!signature: 1016200000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16g
-16g
-8g
-8cc
-=2
-16e
-16f
-8a
-8g
-=3
-16g
-16g
-8g
-8cc
-=4
-16e
-16f
-8a
-8g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16g	Siedzi
+16g	.
+8g	ptaszek
+8cc	.
+=2	=2
+16e	na
+16f	ulicy,
+8a	.
+8g	.
+=3	=3
+16g	siedzi
+16g	.
+8g	ptaszek
+8cc	.
+=4	=4
+16e	na
+16f	ulicy,
+8a	.
+8g}	.
 !!LO:LB:g=esac
-=5
-{8dd
-8dd
-8ee
-=6
-16b
-16cc
-8ee
-8cc
-=7
-16dd
-16dd
-8dd
-8ee
-=8
-16b
-16cc
-8ee
-8cc}
+=5	=5
+{8dd	szuka
+8dd	ziarecz-
+8ee	.
+=6	=6
+16b	-ka
+16cc	pszenicy,
+8ee	.
+8cc	.
+=7	=7
+16ddL	szuka
+16ddJ/	.
+8dd	ziarecz-
+8ee	.
+=8	=8
+16b	-ka
+16cc	pszenicy.
+8ee	.
+8cc}	.
 !!LO:LB:g=esac
-=9
-{16g
-16g
-8b
-8dd
-=10
-16ee
-16ff
-8aa
-8gg
-=11
-16g
-16g
-8.ff
-16dd
-=12
-16ee
-16cc
-8b
-8cc}
+=9	=9
+{16g	A
+16g	ja
+8b	sobie
+8dd	.
+=10	=10
+16ee	chodzę
+16ff	.
+8aa	w_kole
+8gg	.
+=11	=11
+16g	i
+16g	wybieram
+8.ff	.
+16dd	.
+=12	=12
+16ee	co
+16cc	ja
+8b	wolę,
+8cc}	.
 !!LO:LB:g=esac
-=13
-{16g
-16g
-8b
-8dd
-=14
-16ee
-16ff
-8aa
-16gg
-16ee
-=15
-16g
-16g
-8.ff
-16dd
-=16
-16ee
-16cc
-8b
-8cc}
-==
-*-
+=13	=13
+{16g	a
+16g	ja
+8b	sobie
+8dd	.
+=14	=14
+16ee	cukier
+16ff	.
+8aa	dziubię,
+16ggL	.
+16eeJ/	.
+=15	=15
+16g	i
+16g	wybieram
+8.ff	.
+16dd	.
+=16	=16
+16ee	co
+16cc	ja
+8b	lubię.
+8cc}	.
+==	==
+*-	*-
+!!!role-singer: Player
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Siedzi ptaszek na ulicy,
+!!szuka ziareczka pszenicy.
+!!A ja sobie chodzę w kole
+!!i wybieram co ja wolę,
+!!a ja sobie cukier dziubię,
+!!i wybieram co ja lubię.
+!!@@END: VERSES
 !!!ONB: Miłosław
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=342 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 326} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 326}
 !!!page: 326
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-11

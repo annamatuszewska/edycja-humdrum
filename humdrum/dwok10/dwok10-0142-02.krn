@@ -3,50 +3,72 @@
 !!!source: DWOK10
 !!!id: 10142
 !!!signature: 1014200002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8g
-8b
-4dd
-=2
-8ee
-8cc
-4a
-=3
-8cc
-8b
-8g
-8a
-=4
-4f#
-4d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+!!LO:TX:a:t=Wiwat.
+{8g	Kieliszek
+8b/	.
+4dd	.
+=2	=2
+8ee	braciszek,
+8cc	.
+4a	.
+=3	=3
+8cc	gorzałeczka
+8b	.
+8g	.
+8a	.
+=4	=4
+4f#	siostra,
+4d}	.
 !!LO:LB:g=esac
-=5
-{8g
-8b
-8b
-8b
-=6
-8f#
-8a
-4cc
-=7
-8cc
-8b
-8g
-8a
-=8
-4f#
-4d}
-==
-*-
+=5	=5
+{8g	rączka
+8b/	.
+8bL	przy-
+8bJ/	.
+=6	=6
+8f#	-jaciółka
+8a	.
+4cc	.
+=7	=7
+8cc	bo
+8b	do
+8g	gęby
+8a	.
+=8	=8
+4f#	niosła.
+4d}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!!role-listener: Vodka Glass
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Kieliszek braciszek,
+!!gorzałeczka siostra,
+!!rączka przyjaciółka
+!!bo do gęby niosła.
+!!@VERSE:
+!!2. Kieliszku, braciszku,
+!!mam nadzieję w tobie,
+!!jak wypiję dwanaście
+!!podweselę sobie.
+!!@VERSE:
+!!3. Od kieliszka, ode dwóch,
+!!boli głowa, boli brzuch;
+!!a od czterech, od piąci,
+!!to się trochę odtrąci.
+!!@@END: VERSES
 !!!ONB: Wiwat
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=302 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 286} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 286}
 !!!page: 286
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-11

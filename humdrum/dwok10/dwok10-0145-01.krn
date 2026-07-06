@@ -3,74 +3,72 @@
 !!!source: DWOK10
 !!!id: 10145
 !!!signature: 1014500001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8a
-8dd
-8ee
-=2
-8ff
-4dd
-=3
-16cc
-16dd
-8a
-8g
-=4
-4.a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+*	*^
+{8a	Żebyś	nie
+8dd	.	robił
+8ee	ty	.
+=2	=2	.
+8ff	chmielu	byś
+4dd	.	ty
+=3	=3	.
+16cc	na	z_panienek
+16dd	tyczki	.
+8a	.	.
+8g	nie	nie-
+=4	=4	.
+4.a}	laz(ł),	-wiast.
+*	*v	*v
 !!LO:LB:g=esac
-=5
-{8a
-8dd
-8ee
-=6
-8ff
-4dd
-=7
-16cc
-16dd
-8a
-8g
-=8
-4.a}
+=5	=5
+{8.ccL	Oj
+16gJ\	.
+16aL	w_górę
+16bJ	.
+=6	=6
+16cc	oj
+16b	i
+8a\	na
+8g\	dół,
+=7	=7
+8.ccL	oj
+16gJ\	.
+16a\	w_górę
+16b	.
+=8	=8
+16cc	oj
+16b	i
+8a\	na
+8g\}	dół,
 !!LO:LB:g=esac
-=9
-{8.cc
-16g
-16a
-16b
-=10
-16cc
-16b
-8a
-8g
-=11
-8.cc
-16g
-16a
-16b
-=12
-16cc
-16b
-8a
-8g}
-!!LO:LB:g=esac
-=13
-{16cc
-16dd
-8cc
-16a
-16g
-=14
-4.a}
-==
-*-
+=9	=9
+{16cc	chmielu
+16dd	.
+8cc	.
+16aL	niebo-
+16gJ	.
+=10	=10
+4.a}	-że.
+==	==
+*-	*-
+!!!role-listener: Hop
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Żebyś ty chmielu na tyczki nie laz(ł),
+!!nie robił byś ty z panieniek niewiast.
+!!Oj w górę oj i na dół,
+!!oj w górę oj i na dół,
+!!chmielu nieboże.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=305 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 289} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 289}
 !!!page: 289
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-11

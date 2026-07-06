@@ -3,56 +3,66 @@
 !!!source: DWOK10
 !!!id: 10124
 !!!signature: 1012400000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8g
-8b
-4cc
-4gg
-=2
-4.ff
-8dd
-8ee
-8cc
-=3
-8dd
-8b
-4a
-4a
-=4
-4.g
-8b
-8cc
-8a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8g	Idzie
+8b	.
+4cc	drużba
+4gg	.
+=2	=2
+4.ff	z_młodym
+8dd	.
+8ee	panem
+8cc	.
+=3	=3
+8dd	prosić
+8b	.
+4a	o
+4a	lu-
+=4	=4
+4.g	-dzi,
+8b	o
+8cc	ludzi,
+8a}	.
 !!LO:LB:g=esac
-=5
-{8g
-8b
-4cc
-4gg
-=6
-4.ff
-8dd
-8ee
-8cc
-=7
-8dd
-8b
-4a
-4a
-=8
-4.g
-8b
-8cc
-8a}
-==
-*-
+=5	=5
+{8g	wybaczcie
+8b	.
+4cc	.
+4gg	mu
+=6	=6
+4.ff	wszyscy
+8dd	.
+8ee	ludzie
+8cc	.
+=7	=7
+8dd	choć
+8b	was
+4a	pobu-
+4a	.
+=8	=8
+4.g	-dzi,
+8b	pobudzi.
+8cc	.
+8a}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Idzie drużba z młodym panem
+!!prosić o ludzi, o ludzi,
+!!wybaczcie mu wszyscy ludzie
+!!choć was pobudzi, pobudzi.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=286 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 270} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 270}
 !!!page: 270
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-11

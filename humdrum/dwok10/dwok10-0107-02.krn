@@ -2,66 +2,86 @@
 !!!OTL: Ciemna nocka od północka
 !!!source: DWOK10
 !!!id: 10107
-!!!signature: 1010700002
-**kern
-*clefG2
-*k[b-e-]
-*g:
-*M3/8
-=1
-{16d
-32e
-32f#
-8g
-16b-
-16cc
-=2
-16.dd
-32dd
-8cc#
-8b-
-=3
-16cc
-32b-
-32a
-8g
-16f#
-16g
-=4
-16.a
-32g
-8f#
-8d}
+!!!signature: 10107000002
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*g:	*
+*M3/8	*
+=1	=1
+{16d	Ciemna
+32eL	.
+32f#J	.
+8g	nocka
+8aq	.
+16b-L	.
+16ccJ	.
+=2	=2
+16.dd	od
+32dd	północka
+8cc#	.
+8b-	.
+=3	=3
+16ccn	ciemno
+32b-L	.
+32aJ\	.
+8g	nie
+16f#L	wi-
+16gJ	.
+=4	=4
+16.a	-dać,
+32g	nie
+8f#	widać,
+8d}	.
 !!LO:LB:g=esac
-=5
-{16e-
-32e
-32f#
-8g
-16a
-16f#
-=6
-16g
-32a
-32b-
-8cc
-8dd
-=7
-16d
-32b-
-32a
-8g
-16f#
-16g
-=8
-16a
-16g
-8f#
-8d}
-==
-*-
+=5	=5
+{16e-	powiedzże
+32eL	.
+32f#J	.
+8g	.
+16aL	mi
+16f#J	.
+=6	=6
+16g	dziewczę
+32aL	.
+32b-J\	.
+8cc	moje
+8dd	.
+=7	=7
+16d	gdzie
+32b-L	się
+32aJ	.
+8g	mam
+16f#L	u-
+16gJ	.
+=8	=8
+16a	-dać
+16g	da
+8f#	udać.
+8d}	.
+==	==
+*-	*-
+!!!role-singer: Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Ciemna nocka od północka
+!!ciemno nie widać, nie widać,
+!!powiedzże mi dziewczę moje
+!!gdzie się mam udać da udać.
+!!@VERSE:
+!!2. A udaj się do Jezusa,
+!!jest tam tatuś i matusia.
+!!Pendzej wołki w las Marysiu,
+!!pendzej wołki w las,
+!!ty ich będziesz nawracała,
+!!jo je będe pasł.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=277 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 261} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 261}
 !!!page: 261
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-11

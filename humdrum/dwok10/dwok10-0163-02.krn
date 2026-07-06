@@ -3,48 +3,79 @@
 !!!source: DWOK10
 !!!id: 10163
 !!!signature: 1016300002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8g
-8b
-8b
-=2
-16g
-16a
-8b
-8b
-=3
-8g
-8cc
-8b
-=4
-8a
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8g	Gdzieś
+8b	to
+8b	był,
+=2	=2
+16gL	gdzieś
+16aJ	.
+8b	to
+8b	był
+=3	=3
+8g	mój
+8cc	Sewe-
+8b	.
+=4	=4
+8a	-rysiu?
+4g}	.
 !!LO:LB:g=esac
-=5
-{8f#
-8a
-8a
-=6
-16f#
-16g
-8a
-8a
-=7
-8a
-8cc
-8b
-=8
-8a
-4g}
-==
-*-
+=5	=5
+{8f#	Na
+8a	wojnie
+8a	.
+=6	=6
+16f#L	przystojnie,
+16gJ	.
+8a	.
+8a	.
+=7	=7
+8a	moja
+8cc	.
+8b	Ma-
+=8	=8
+8a	-rysiu.
+4g}	.
+==	==
+*-	*-
+!!!role-singer: Maiden, Bachelor
+!!!role-listener: Bachelor, Maiden
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Gdzieś to był? mój Sewerysiu.
+!!Na wojnie przystojnie, moja Marysiu.
+!!@VERSE:
+!!2. Coś tam słyszał? mój Sewerysiu.
+!!Ładne granie i śpiewanie, m. M.
+!!@VERSE:
+!!3. Zagraj mi téż, m. S.
+!!Nie mam na czém, m. M.
+!!@VERSE:
+!!4. Porwij skrzypce, m. S.
+!!Kiedy biją, m. M.
+!!@VERSE:
+!!5. To wliź w myszą dziurę, m. S.
+!!Kiedy rogi, m. S. (t. j. rogi mi nie dadzą wliźć)
+!!@VERSE:
+!!6. To utnij, to utnij, m. S.
+!!Kiedy boli, m. M.
+!!@VERSE:
+!!7. To posmaruj, m. S.
+!!Kie niemam czém, m. M.
+!!@VERSE:
+!!8. Porwij maść, m. S.
+!!Kiedy biją, moja Marysiu.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=343 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 327} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 327}
 !!!page: 327
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-11

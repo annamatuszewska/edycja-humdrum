@@ -3,49 +3,75 @@
 !!!source: DWOK10
 !!!id: 10125
 !!!signature: 1012500000
-**kern
-*clefG2
-*k[b-e-]
-*g:
-*M3/8
-=1
-{16g
-16dd
-8cc
-8a
-=2
-16b-
-16g
-4a
-=3
-16b-
-16g
-8f#
-8g
-=4
-4.d}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*g:	*
+*M3/8	*
+=1	=1
+{16g	Wstań
+16dd	otworzyć
+8cc	.
+8a\	.
+=2	=2
+16b-L	mała
+16gJ	.
+4a	.
+=3	=3
+8ccq	.
+16b-	niech
+16g	se
+8f#	nie
+8g	sto-
+=4	=4
+8f#q	.
+4.d}	-ję,
 !!LO:LB:g=esac
-=5
-{16d
-16a
-8g
-8f#
-=6
-16d
-16f#
-8g
-8a
-=7
-16b-
-16g
-8f#
-8g
-=8
-4.d}
-==
-*-
+=5	=5
+{16d	bo
+16a	ino
+8g	.
+8f#	je-
+=6	=6
+16d	-dnę
+16f#	suknię
+8g	.
+8a	mam,
+=7	=7
+8ccq	.
+16b-	jesce
+16g	.
+8f#	nie
+8g	swo-
+=8	=8
+8f#q	.
+4.d}	-ję.
+==	==
+*-	*-
+!!!role-singer: Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Wstań otworzyć mała
+!!niech se nie stoję,
+!!bo ino jednę suknię mam,
+!!jesce nie swoję.
+!!@VERSE:
+!!2. Oj i otwórz, otwórz,
+!!aby do sieni,
+!!bo mi twoje podarunki,
+!!cięża w kieszeni.
+!!@VERSE:
+!!3. O twe podarunki,
+!!to ja nie stoję;
+!!bo jak zrobię w piecu ogień,
+!!to ci je spalę.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=287 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 271} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 271}
 !!!page: 271
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-11

@@ -3,69 +3,85 @@
 !!!source: DWOK10
 !!!id: 10134
 !!!signature: 1013400002
-**kern
-*clefG2
-*k[f#]
-*e:
-*M3/8
-=1
-{16e
-16g
-8b
-8g
-=2
-16b
-16dd
-4ee
-=3
-16ee
-16ff#
-8ee
-16dd
-16b
-=4
-8a
-8dd
-8cc}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*e:	*
+*M3/8	*
+=1	=1
+{16eL	Przeleciał
+16gJ\	.
+8b\	.
+8g	ci
+=2	=2
+16bL	ptaszek
+16ddJ/	.
+4ee	.
+=3	=3
+16ee	przez
+16ff#	zielony
+8ee	.
+16ddL	.
+16bJ/	.
+=4	=4
+8a	lasek,
+8ddL	.
+8ccJ/}	.
 !!LO:LB:g=esac
-=5
-{16a
-16b
-8a
-8f#
-=6
-8d
-8.g
-16f#
-=7
-4e
-8r
-=8
-16g
-32a
-32b
-8dd
-8b}
+=5	=5
+{16a	piórka
+16b/	.
+8a	na
+8f#	nim
+=6	=6
+8d	zadrża-
+8.gL	.
+16f#J	.
+=7	=7
+4e	-ły,
+8r	.
+=8	=8
+16gL	zadrżały,
+32a	.
+32bJ	.
+8ddL	.
+8bJ/}	.
 !!LO:LB:g=esac
-=
-{24dd
-24cc
-24b
-8a
-24g
-24f#
-24e
-=9
-8d
-8.g
-16f#
-=10
-4e}
-8r
-==
-*-
+=9	=9
+*Xtuplet	*
+{24ddL	piórka
+24cc	.
+24bJ/	.
+8a	na
+24gL	nim
+24f#	.
+24eJ	.
+=10	=10
+8d	zadrża-
+8.gL	.
+16f#J	.
+=11	=11
+4e}	-ły.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Przeleciał ci ptaszek
+!!przez zielony lasek,
+!!piórka na nim zadrżały, zadrżały,
+!!piórka na nim zadrżały.
+!!@VERSE:
+!!2. Nie na roczek ci to
+!!ani na pół-tora,
+!!tylko na wiek cały,
+!!tylko na wiek cały.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=296 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 280} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 280}
 !!!page: 280
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-11

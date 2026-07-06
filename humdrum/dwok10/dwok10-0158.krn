@@ -3,77 +3,93 @@
 !!!source: DWOK10
 !!!id: 10158
 !!!signature: 1015800000
-**kern
-*clefG2
-*k[b-e-]
-*g:
-*M3/8
-=1
-{8g
-8dd
-8dd
-=2
-8ee
-4dd
-=3
-16cc
-16cc
-16b-
-16a
-8g
-=4
-4.a}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*g:	*
+*M3/8	*
+=1	=1
+{8g	A
+8dd	bez
+8dd	u-
+=2	=2
+8ee	-wagi
+4dd	.
+=3	=3
+16cc	mąż
+16cc	żo-
+8aq	.
+16b-L	-nę
+16aJ	.
+8g	bi-
+=4	=4
+4.a}	-je,
 !!LO:LB:g=esac
-=5
-{8g
-8dd
-8dd
-=6
-8ee
-4dd
-=7
-16cc
-16cc
-16b-
-16a
-8g
-=8
-4.a}
+=5	=5
+{8g	nimasz
+8dd	.
+8dd	ta-
+=6	=6
+8ee	-kiego
+4dd	.
+=7	=7
+16cc	co
+16cc	po-
+8aq	.
+16b-L	-ża-
+16aJ	.
+8g	-łu-
+=8	=8
+4.a}	-je.
 !!LO:LB:g=esac
-=9
-{8cc
-8g
-8a
-=10
-16cc
-16dd
-16b-
-16a
-8g
-=11
-8cc
-8g
-8a
-=12
-16cc
-16dd
-16b-
-16a
-8g}
+=9	=9
+{8aq	.
+8cc	Oj
+8g	przyjedź
+8a	.
+=10	=10
+16cc	tatusińku
+16dd	.
+16b-L	.
+16aJ	.
+8g	.
+=11	=11
+8aq	.
+8cc	oj
+8g	przyjedź
+8a	.
+=12	=12
+16cc	najmilejszy,
+16dd	.
+16b-L	.
+16aJ	.
+8g}	.
 !!LO:LB:g=esac
-=13
-{16dd
-16dd
-16b-
-16a
-8g
-=14
-4.a}
-==
-*-
+=13	=13
+{16dd	ty
+16dd	pożału-
+16b-L	.
+16aJ	.
+8g	.
+=14	=14
+4.a}	-jesz.
+==	==
+*-	*-
+!!!role-singer: Narrator, Maiden
+!!!role-listener: Father
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:!!A bez uwagi mąż żonę bije,
+!!nimasz takiego co pożałuje.
+!!Oj przyjedź tatusińku
+!!oj przyjedź najmilejszy,
+!!ty pożałujesz.
+!!@@END: VERSES
 !!!ONB: Od Sremu, Czempina
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=329 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 313} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 313}
 !!!page: 313
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-11
