@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1337800030-zajmaj_wolki.krn
-!!!OTL: Zajmaj wołki
+﻿!!!!SEGMENT: DWOK1337800030-zajmaj_wolki.krn
+!!!OTL: Zajmaj wołki. Chodzony pasterski
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kruszwicy, Radziejowa
+!!!AR1: kujawsko-pomorskie ; inowrocławski ; Kruszwica-miasto
+!!!GE1: 52.676219 , 18.323047
+!!!AR2: kujawsko-pomorskie ; radziejowski ; Radziejów-gmina miejska
+!!!GE2: 52.623008 , 18.527170
 !!!source: DWOK13
 !!!id: 13378
 !!!signature: 1337800030
@@ -25,9 +32,10 @@
 24a\L
 24a\
 24ccJ
+!LO:TX:t=P:problem=mixed beam
 16ee\L
 16dd\
-[<8e\J
+[<8e/J
 =4
 16e]L
 16dJ
@@ -52,9 +60,10 @@
 24a\L
 24a\
 24ccJ
+!LO:TX:t=P:problem=mixed beam
 16ee\L
 16dd\
-[8e\J
+[8e/J
 =8
 16e]L
 16dJ
@@ -71,3 +80,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-04-02
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-15

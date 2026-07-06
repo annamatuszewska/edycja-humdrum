@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1318400000-oli_napiekla_owocu.krn
+﻿!!!!SEGMENT: DWOK1318400000-oli_napiekla_owocu.krn
 !!!OTL: Oli napiekła owocu
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Środy (Dębicz)
+!!!AR1: wielkopolskie ; średzki ; Środa Wielkopolska-obszar wiejski
+!!!GE1: 52.265702 , 17.311801
 !!!source: DWOK13
 !!!id: 13184
 !!!signature: 1318400000
@@ -97,9 +102,7 @@
 !!ta bestyja, ta wargata,
 !!oli dali dali dyna dana.
 !!@@END: VERSES
-!!!role-singer: Complex
-!!!role-listener: Complex
-!!!singer-sex: Complex
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=121 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 97} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 97}
@@ -107,3 +110,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-02
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-05

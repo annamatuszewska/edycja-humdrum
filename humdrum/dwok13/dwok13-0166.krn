@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1316600000-a_ta_dziewczyna_podsciwa.krn
+﻿!!!!SEGMENT: DWOK1316600000-a_ta_dziewczyna_podsciwa.krn
 !!!OTL: A ta dziewczyna podściwa
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Szmigla (Morownica)
+!!!AR1: wielkopolskie ; kościański ; Śmigiel-obszar wiejski
+!!!GE1: 51.989996 , 16.475680
 !!!source: DWOK13
 !!!id: 13166
 !!!signature: 1316600000
@@ -80,7 +85,7 @@
 !!między nogami.
 !!@@END: VERSES
 !!!role-singer: Lover
-!!!role-listener:Mistress
+!!!role-listener: Mistress
 !!!singer-sex:male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -89,3 +94,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-27
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-13

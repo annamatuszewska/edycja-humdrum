@@ -1,60 +1,99 @@
-!!!!SEGMENT: DWOK1230200001-oj_i_lezy_kasia_lezy.krn
+﻿!!!!SEGMENT: DWOK1230200001-oj_i_lezy_kasia_lezy.krn
 !!!OTL: Oj i leży Kasia leży
+!!!FKT: Pieśni i Dumy. Strata wianka. Żale
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Ostrowa, Raszkowo
+!!!AR1: wielkopolskie ; ostrowski ; Ostrów Wielkopolski-gmina miejska
+!!!GE1: 51.649540 , 17.816730
+!!!AR2: wielkopolskie ; ostrowski ; Raszków-miasto
+!!!GE2: 51.718450 , 17.725980
 !!!source: DWOK12
 !!!id: 12302
 !!!signature: 1230200001
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/4
-=1
-{8f
-8a
-4cc
-4cc
-=2
-8b-
-8dd
-4.cc
-8g
-=3
-8f
-8a
-4g
-16b-
-8.g
-=4
-4f}
-4r
-4r
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/4	*
+=1	=1
+!!LO:TX:a:t=Owczarska.
+{8f	Oj
+8a	i
+4cc	leży
+4cc	.
+=2	=2
+8aq	.
+8b-	Kasia
+8dd	.
+4.cc	leży
+8g	.
+=3	=3
+8f	w_nowéj
+8a	.
+4g	ko-
+16b-L	-la-
+8.gJ	.
+=4	=4
+4f}	-sie,
+4r	.
+4r	.
 !!LO:LB:g=esac
-=5
-{8a
-8cc
-4g
-16b-
-8.g
-=6
-4f
-8r
-8f
-8g
-8e
-=7
-8.f
-16a
-4g
-16b-
-8.g
-=8
-4f}
-4r
-4r
-==
-*-
+=5	=5
+{8a\	oj
+8cc	i
+4g	le-
+16b-L	-ży
+8.gJ	.
+=6	=6
+4f	Kasia
+8r	.
+8f\	.
+8g\	leży,
+8e\	.
+=7	=7
+8.f	upła-
+16a	.
+4g	-kała
+16b-L	.
+8.gJ	.
+=8	=8
+4f}	się.
+4r	.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Oj i leży Kasia leży
+!!w nowéj kolasie,
+!!oj i leżem Kasia leży,
+!!upłakała się.
+!!@VERSE:
+!!2. Oj nie płacz Kasiu, nie płacz,
+!!nie domy (dumaj) sobie,
+!!ino będzie dziecię ładne,
+!!przysięgę tobie.
+!!@VERSE:
+!!3. Oj ładne dziecię, ładne,
+!!jak malowane,
+!!ino mu się ojcem obierz,
+!!kochanie moje.
+!!@VERSE:
+!!4. Ojca matkę namawiali
+!!żeby mnie biła,
+!!już-ci ja się w tym wianeczku
+!!dojść nachodziła.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=178 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 162} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 162}
 !!!page: 162
+!!!BEM: Owczarska
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

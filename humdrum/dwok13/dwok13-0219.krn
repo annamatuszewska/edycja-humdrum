@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1321900000-a_murawa_murawa.krn
+﻿!!!!SEGMENT: DWOK1321900000-a_murawa_murawa.krn
 !!!OTL: A murawa murawa
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Buku (Niegolewo)
+!!!AR1: wielkopolskie ; nowotomyski ; Opalenica-obszar wiejski
+!!!GE1: 52.369145 , 16.432989
 !!!source: DWOK13
 !!!id: 13219
 !!!signature: 1321900000
@@ -26,6 +31,8 @@
 16ccL	-wie
 16a\J	.
 =4	=4
+(16b/qqL	.
+16ccqqJ)	.
 (8.dd	ko-
 16b)	.
 8g}	-ściół
@@ -97,3 +104,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-05
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-13

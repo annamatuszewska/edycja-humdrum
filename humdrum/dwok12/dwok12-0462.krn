@@ -1,55 +1,87 @@
-!!!!SEGMENT: DWOK1246200000-czem_noladni_graja_do_domu.krn
+﻿!!!!SEGMENT: DWOK1246200000-czem_noladni_graja_do_domu.krn
 !!!OTL: Czem noładni grają do domu
+!!!FKT: Pieśni i Dumy. Zabawa. Karczma. Tańce. Hulanka
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gniezna
+!!!AR1: wielkopolskie ; gnieźnieński ; Gniezno-gmina miejska
+!!!GE1: 52.533333 , 17.601388
 !!!source: DWOK12
 !!!id: 12462
 !!!signature: 1246200000
-**kern
-*clefG2
-*k[b-e-]
-*g:
-*M3/8
-=1
-{8g
-8dd
-8dd
-=2
-8cc#
-8dd
-8dd
-=3
-8g
-8dd
-8dd
-=4
-8cc#
-8dd
-8dd}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*g:	*
+*M3/8	*
+=1	=1
+{8g	Czem
+8dd	noła-
+8dd	.
+=2	=2
+8cc#	-dni
+8dd	grają
+8dd	.
+=3	=3
+8g	do
+8dd	domu
+8dd	.
+=4	=4
+8cc#	wołają:
+8dd	.
+8dd}	.
 !!LO:LB:g=esac
-=5
-{16b-
-16a
-8g
-8dd
-=6
-16a
-16f#
-16d
-16f#
-16a
-16cc
-=7
-16b-
-16a
-8g
-8dd
-=8
-16b-
-16a
-4g}
-==
-*-
+=5	=5
+!!LO:TX:a:i:t=rall.
+{16b-	pójdź
+16a	do
+8g	domu
+8dd	.
+=6	=6
+16a	dzieweczko,
+16f#	.
+16d	.
+16f#	dzieweczko,
+16a\	.
+16cc	.
+=7	=7
+16b-	pójdź
+16a	do
+8g	domu
+8dd	.
+=8	=8
+16b-	dzieweczko.
+16a\	.
+4g}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Maiden
+!!!role-listener: Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Czem noładni grają
+!!do domu wołają:
+!!pójdź do domu dzieweczko, dzieweczko,
+!!pójdź do domu dzieweczko.
+!!@VERSE:
+!!2. A ja jeszcze myślę,
+!!że się jeszcze wyśpię.
+!!jeszcze do dnia daleczko.
+!!@VERSE:
+!!3. Co to za dziewczyna,
+!!co to za jedyna,
+!!co tak ładnie tańcuje?
+!!@VERSE:
+!!4. A ja sama widzę,
+!!że tak ładnie idę,
+!!każdy mi się dziwuje.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=255 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 239} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 239}
 !!!page: 239
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

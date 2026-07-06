@@ -1,79 +1,125 @@
-!!!!SEGMENT: DWOK1224600001-pojmij_mnie_jasinku.krn
+﻿!!!!SEGMENT: DWOK1224600001-pojmij_mnie_jasinku.krn
 !!!OTL: Pojmij mnie Jasińku
+!!!FKT: Pieśni i Dumy. Skarga. Niechęć. Rozstanie
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: mel. od Pobiedzisk
+!!!AR1: wielkopolskie ; poznański ; Pobiedziska-miasto
+!!!GE1: 52.477371 , 17.284954
 !!!source: DWOK12
 !!!id: 12246
 !!!signature: 1224600001
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/4
-=1
-{4cc
-8cc
-8b-
-8a
-8f
-=2
-8g
-8b
-2cc
-=3
-8cc
-8dd
-8cc
-8b-
-8a
-8f
-=4
-8g
-8e
-2f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/4	*
+=1	=1
+{4cc	Pojmij
+8cc	mnie
+8b-	Jasińku,
+8a	.
+8f	.
+=2	=2
+8g	pojmij
+8b	.
+2cc	mnie,
+=3	=3
+8ccL	dostaniesz
+8ddJ	.
+8cc	.
+8b-	.
+8a	za
+8f	mną
+=4	=4
+8g	pierzynę.
+8e	.
+2f}	.
 !!LO:LB:g=esac
-=5
-{8g
-8g
-8g
-8f
-8a
-8f
-=6
-8g
-8g
-8g
-8f
-8a
-8f
-=7
-8e
-8g
-8g
-8f
-8a
-8f
-=8
-8e
-8g
-8g
-8f
-8a
-8f}
+=5	=5
+{8g	Pierzynę
+8g	.
+8g	.
+8f	kwapową,
+8a	.
+8f	.
+=6	=6
+8g	fortu-
+8g	.
+8g	-nę
+8f	gotową,
+8a	.
+8f	.
+=7	=7
+8eL	skrzynkę
+8gJ\	.
+8g	malowaną,
+8f	.
+8a	.
+8f	.
+=8	=8
+8eL	i
+8gJ\	mnie
+8g	téż
+8f	kochaną,
+8a	.
+8f}	.
 !!LO:LB:g=esac
-=9
-{8cc
-8dd
-8cc
-8b-
-8a
-8f
-=10
-8g
-8e
-2f}
-==
-*-
+=9	=9
+{8ccL	pojmij
+8ddJ	.
+8cc	mnie
+8b-	Jasińku,
+8a	.
+8f	.
+=10	=10
+8g	pojmij
+8e	.
+2f}	mnie.
+==	==
+*-	*-
+!!!role-singer: Maiden, Bachelor
+!!!role-listener: Bachelor, Maiden
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Pojmij mnie Jasińku, pojmij mnie!
+!!dostaniesz za mną pierzynę.
+!!Pierzynę kwapową,
+!!fortunę gotową,
+!!skrzynkę malowaną,
+!!i mnie téż kochaną,
+!!pojmij mnie Jasińku, pojmij mnie.
+!!@VERSE:
+!!2. Niechcę cię Kasiu, niechcę cię,
+!!masz złych sąsiadów, ganią cię:
+!!że rano nie wstajesz,
+!!jałosiom nie dajesz,
+!!kądzieli nie przędziesz,
+!!gosposią nie będziesz,
+!!niechcę cię Kasiu, niechcę cię.
+!!@VERSE:
+!!3. Nieprawda Jasiu, nieprawda,
+!!ktoć to powiedział, zje djabła.
+!!Bo ja rano wstaję,
+!!jałosieńkom daję,
+!!kądziołeczkę przędę,
+!!gosposińką będę,
+!!pojmij mnie Jasińku, pojmij mnie!
+!!@VERSE:
+!!4. A żeli mnie Jasiu niewierzysz,
+!!to się som bes się doświadczysz,
+!!Kupżesz mi dzwonyszki,
+!!uwiąż mi u nóżki;
+!!jak będę wstajała,
+!!toć będę brząkała,
+!!to się som bes się doświadczysz.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=147 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 131} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 131}
 !!!page: 131
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

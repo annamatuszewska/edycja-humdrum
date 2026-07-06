@@ -1,76 +1,94 @@
-!!!!SEGMENT: DWOK1213300002-a_ty_ptaszku_krekulaszku.krn
+﻿!!!!SEGMENT: DWOK1213300002-a_ty_ptaszku_krekulaszku.krn
 !!!OTL: A ty ptaszku krekulaszku
+!!!FKT: Pieśni i Dumy. Pieśni przed Weselem i wśród Wesela śpiewane
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Żnina
+!!!AR1: kujawsko-pomorskie ; żniński ; Żnin-miasto
+!!!GE1: 52.849622 , 17.720835
 !!!source: DWOK12
 !!!id: 12133
 !!!signature: 1213300002
-**kern
-*clefG2
-*k[b-e-]
-*g:
-*M3/4
-=1
-{8g
-8g
-4b
-4cc
-=2
-8dd
-8dd
-4ee
-4cc
-=3
-8dd
-8ff
-4ee
-4ff
-=4
-4.dd
-8ff
-8ee
-8cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*g:	*
+*M3/4	*
+=1	=1
+!!LO:TX:a:t=Owczarska.
+{8g	A
+8g	ty
+4b	ptaszku
+4cc	.
+=2	=2
+8dd	krekulaszku
+8dd	.
+4ee	.
+4cc	.
+=3	=3
+8dd	wysoko
+8ff	.
+4ee	.
+4ff	la-
+=4	=4
+4.dd	-tasz,
+8ff	da
+8ee	latasz,
+8cc}	.
 !!LO:LB:g=esac
-=5
-{8dd
-8ff
-4ee
-4ff
-=6
-2.dd}
+=5	=5
+{8dd	wyso-
+8ff	.
+4ee	-ko
+4ffM	la-
+=6	=6
+2.dd}	-tasz,
 !!LO:LB:g=esac
-=7
-{8dd
-8ff
-4gg
-8ee-
-8dd
-=8
-8cc
-8dd
-8b-
-8g
-4f
-=9
-8g
-8b-
-4a
-4b-
-=10
-4.g
-8b-
-8a
-8cc}
+=7	=7
+{8dd	powiedz
+8ff	.
+4gg	my
+8ee-L	ty
+8ddJ	.
+=8	=8
+8cc	nowineczkę
+8dd	.
+8b-L	.
+8gJ	.
+4f	.
+=9	=9
+8g	tam
+8b-	gdzie
+4a\	ty
+4b-	sia-
+=10	=10
+4.g	-dasz,
+8b-	da
+8aL	siadasz,
+8ccJ/}	.
 !!LO:LB:g=esac
-=11
-{8g
-8b-
-4a
-4b-
-=12
-2.g}
-==
-*-
+=11	=11
+{8g	tam
+8b-	gdzie
+4a/	ty
+4b-M	sia-
+=12	=12
+2.g}	-dasz.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. A ty ptaszku krekulaszku wysoko latasz, da latasz, wysoko latasz,
+!!powiédz my ty nowineczkę tam gdzie ty siadasz, da siadasz, tam gdzie ty siadasz.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=80 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 64} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 64}
 !!!page: 64
+!!!BEM: Owczarska
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-02-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-07

@@ -1,58 +1,76 @@
-!!!!SEGMENT: DWOK1204800001-wieci_miesiac_a_nie_grzeje.krn
+﻿!!!!SEGMENT: DWOK1204800001-wieci_miesiac_a_nie_grzeje.krn
 !!!OTL: Świeci miesiąc a nie grzeje
+!!!FKT: Pieśni i Dumy. Miłość. Pieśni zalotne
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Pleszewa (Kotlin)
+!!!AR1: wielkopolskie ; jarociński ; Kotlin-gmina wiejska
+!!!GE1: 51.919594 , 17.644602
 !!!source: DWOK12
 !!!id: 12048
 !!!signature: 1204800001
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/4
-=1
-{4.cc
-8cc
-8dd
-8cc
-=2
-8b-
-8g
-4g
-4f
-=3
-4.ff
-8ee
-8gg
-8ff
-=4
-8ee
-8dd
-4dd
-4cc}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/4	*
+=1	=1
+{4.cc	Świeci
+8cc	.
+8dd	miesiąc
+8cc	.
+=2	=2
+8b-	a
+8g	nie
+4g	grzeje,
+4f	.
+=3	=3
+4.ff	do
+8ee	kochania
+8gg	.
+8ff	.
+=4	=4
+8ee	serce
+8dd	.
+4dd\	mgleje,
+4cc}	.
 !!LO:LB:g=esac
-=5
-{8a
-8cc
-4.ff
-8g
-=6
-8b-
-8dd
-4dd
-4cc
-=7
-4.cc
-8a
-8dd
-8b-
-=8
-8b-
-8g
-4g
-4f}
-==
-*-
+=5	=5
+{8a\	zaprzągajcie
+8cc	.
+4.ff	.
+8g	.
+=6	=6
+8b-	sześci
+8dd	.
+4dd	koni,
+4cc	.
+=7	=7
+4.cc	pojedziemy
+8a	.
+8dd	.
+8b-	.
+=8	=8
+8b-	prędzy
+8g	.
+4g	do
+4f}	nij.
+==	==
+*-	*-
+!!!role-singer: Lover
+!!!role-listener: Servants
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:Świeci miesiąc a nie grzeje,
+!!do kochania serce mgleje,
+!!zaprzągajcie sześci koni,
+!!pojedziemy prędzy do nij.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=38 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 22} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 22}
 !!!page: 22
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-19-02
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

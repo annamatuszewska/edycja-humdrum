@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1338100000-instrumentalna-kowal.krn
-!!!OTL: Instrumentalna-Kowal
+﻿!!!!SEGMENT: DWOK1338100000-instrumentalna-kowal.krn
+!!!OTL: Instrumentalna. Kowal
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kruszwicy (Radziejowa)
+!!!AR1: kujawsko-pomorskie ; radziejowski ; Radziejów-gmina miejska
+!!!GE1: 52.623008 , 18.527170
 !!!source: DWOK13
 !!!id: 13381
 !!!signature: 1338100000
@@ -117,3 +122,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-04-03
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-15

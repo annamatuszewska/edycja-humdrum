@@ -1,64 +1,100 @@
-!!!!SEGMENT: DWOK1220200002-jak_ja_jachal_do_swoji_kochanki.krn
+﻿!!!!SEGMENT: DWOK1220200002-jak_ja_jachal_do_swoji_kochanki.krn
 !!!OTL: Jak ja jachał do swoji kochanki
+!!!FKT: Pieśni i Dumy. Stałość. Życzliwość. Wymówka
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Krzywinia, Leszna
+!!!AR1: wielkopolskie ; kościański ; Krzywiń-miasto
+!!!GE1: 51.961720 , 16.820761
+!!!AR2: wielkopolskie ; m. Leszno ; Leszno-gmina miejska
+!!!GE2: 51.843312 , 16.574423
 !!!source: DWOK12
 !!!id: 12202
 !!!signature: 1220200002
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/4
-=1
-{8f
-8a
-4cc
-4cc
-=2
-8a
-8cc
-8cc
-8dd
-8b-
-8g
-=3
-8a
-8f
-4cc
-4a
-=4
-16g
-16b-
-16g
-16e
-2f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/4	*
+=1	=1
+{8f	Jak
+8a	ja
+4cc	jachał
+4cc	.
+=2	=2
+8a\	do
+8cc	swoji
+8cc	.
+8dd	kochanki
+8b-	.
+8g	.
+=3	=3
+8a	świecił
+8f	.
+4cc	miesiąc
+4a	.
+=4	=4
+16gL	wy-
+16b-	.
+16g	-so-
+16eJ	.
+2f}	-ko.
 !!LO:LB:g=esac
-=5
-{8a
-8f
-4cc
-4a
-=6
-8g
-8e
-8b-
-8g
-8e
-8c
-=7
-8f
-8a
-4cc
-4a
-=8
-16g
-16b-
-16g
-16e
-2f}
-==
-*-
+=5	=5
+{8a	Ona
+8f	.
+4cc	wstała
+4a	.
+=6	=6
+8g	okienkiem
+8e	.
+8b-/	.
+8g	glądała
+8e	.
+8c	.
+=7	=7
+8f	żelim
+8a	.
+4cc	uszed
+4a	.
+=8	=8
+16gL	da-
+16b-	.
+16g	-le-
+16eJ	.
+2f}	-ko.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!role-listener: Mistress
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Jak ja jechał do swoji kochanki
+!!świecił miesiąc wysoko.
+!!Ona wstała okienkiem glądała
+!!uszed daleko.
+!!@VERSE:
+!!2. A ja uszed ledwie za dwa staja,
+!!ona za mną wołała:
+!!wróć się jéno pocieszenie moje
+!!o com cię rozgniewała?
+!!@VERSE:
+!!3. Rozgniewałaś kochanka swojego
+!!sama nie wiesz dlaczego?
+!!Jakem ja był pod twojim okienkiem,
+!!miałaś Zosiu inkszego.
+!!@VERSE:
+!!4. Serce płacze, ciało boleścieje (boleść czuje?)
+!!że cię dostać nie mogę,
+!!wezmę sobie karabin na rękę,
+!!i powędruję w drogę.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=120 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 104} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 104}
 !!!page: 104
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

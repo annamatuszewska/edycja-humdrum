@@ -1,72 +1,131 @@
-!!!!SEGMENT: DWOK1243600000-stala_sie_u_nas_pewna_pogloska.krn
+﻿!!!!SEGMENT: DWOK1243600000-stala_sie_u_nas_pewna_pogloska.krn
 !!!OTL: Stała się u nas pewna pogłoska
+!!!FKT: Pieśni i Dumy. Małżeństwo. Kłótnia. Zgoda
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Ostrzeszowa, Wieruszowa
+!!!AR1: wielkopolskie ; ostrzeszowski ; Ostrzeszów-miasto
+!!!GE1: 51.423652 , 17.931476
+!!!AR2: łódzkie ; wieruszowski ; Wieruszów-miasto
+!!!GE2: 51.295000 , 18.155000
 !!!source: DWOK12
 !!!id: 12436
 !!!signature: 1243600000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M6/8
-=1
-{8ff
-8ee
-8dd
-4cc
-8a
-=2
-8g
-8a
-8b-
-8dd
-8cc}
-8r
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M6/8	*
+=1	=1
+{8ff	Stała
+8ee	.
+8dd	się
+4cc	u
+8a\	nas
+=2	=2
+8g	pewna
+8a\	.
+8b-	pogłoska,
+8dd	.
+8cc}	.
+8r	.
 !!LO:LB:g=esac
-=3
-{8ff
-8ee
-8dd
-4cc
-8a
-=4
-8b-
-8a
-8g
-8a
-8f}
-8r
+=3	=3
+{8ff	wybiła
+8ee	.
+8dd	.
+4cc	męża
+8a\	.
+=4	=4
+8b-	pani
+8a\	.
+8g	Pawłoska.
+8a\	.
+8f}	.
+8r	.
 !!LO:LB:g=esac
-=5
-{8g
-8g
-8g
-8a
-8a
-8a
-=6
-8b
-8b
-8g
-8cc
-8cc
-8cc}
+=5	=5
+{8g	wybiła,
+8g	.
+8g	.
+8a	wytłukła
+8a	.
+8a	.
+=6	=6
+8b	i
+8b	za
+8g	drzwi
+8cc	wypchnęła
+8cc	.
+8cc}	.
 !!LO:LB:g=esac
-=7
-{4cc
-16cc
-16ff
-4ff
-8r
-=8
-4gg
-16gg
-16ff
-4ff}
-8r
-==
-*-
+=7	=7
+{4cc	do
+16ccL	sieni,
+16ffJ	.
+4ff	.
+8r	.
+=8	=8
+4gg	do
+16ggL	sieni.
+16ffJ	.
+4ff}	.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Husband, Wife
+!!!role-listener: Wife, Husband
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Stała się u nas pewna pogłoska,
+!!wybiła męża pani Pawłoska.
+!!wybiła, wytłukła
+!!i za drzwi wypchnęła
+!!do sieni, do sieni.
+!!@VERSE:
+!!2. Widząc Pawłoski że to nie żarty,
+!!że gniew jejmości jest zbyt uparty,
+!!wziąwszy się do pasa,
+!!dér, dér, dér do lasa,
+!!przed żoną, przed żoną.
+!!@VERSE:
+!!2. Stoji Pawłoski w sieni niechcący,
+!!załomał ręce narzekający,
+!!na żonę.
+!!@VERSE:
+!!3. Oj żono, żono, cóżem ci winien,
+!!czy ci nie robię, co-ć-em powinien.
+!!W domu nie nocuję,
+!!dla żony pracuję,
+!!dla ciebie.
+!!@VERSE:
+!!4. Cicho Pawłoski, jeszcze nie dosić?
+!!jak cię pochwycę, będziesz się prosić.
+!!Wyleci za mężem
+!!z ognistym orężem,
+!!z głowniami.
+!!@VERSE:
+!!5. Widzi Pawłoski że to nie żarty,
+!!że gniew jéjmości jest zbyt uparty,
+!!wziąwszy się do pasa,
+!!dér, dér, dér — do łasa
+!!przed żoną.
+!!@VERSE:
+!!6. Oj mężu, mężu, byś się ty wrócił,
+!!żebyś mi serca więcéj nie smucił,
+!!nóżki bym ci wymyła,
+!!twój brudek wypiła,
+!!dla ciebie.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Nuta nr 251
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=243 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 227} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 227}
 !!!page: 227
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

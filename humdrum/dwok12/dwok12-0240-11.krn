@@ -1,57 +1,103 @@
-!!!!SEGMENT: DWOK1224000011-juz_was_bogu_oddaje.krn
+﻿!!!!SEGMENT: DWOK1224000011-juz_was_bogu_oddaje.krn
 !!!OTL: Już was Bogu oddaję
+!!!FKT: Pieśni i Dumy. Skarga. Niechęć. Rozstanie
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kurnika, Środy
+!!!AR1: wielkopolskie ; poznański ; Kórnik-miasto
+!!!GE1: 52.248594 , 17.089676
+!!!AR2: wielkopolskie ; średzki ; Środa Wielkopolska-miasto
+!!!GE2: 52.229003 , 17.275115
 !!!source: DWOK12
 !!!id: 12240
 !!!signature: 1224000011
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16f#
-16a
-8cc
-8ee
-=2
-8dd
-16b
-16a
-8g
-=3
-16f#
-16a
-8cc
-8a
-=4
-8g
-16b
-16a
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16f#	Już
+16a	was
+8cc	Bogu
+8ee	.
+=2	=2
+8dd	odda-
+16bL	.
+16aJ\	.
+8g	-ję
+=3	=3
+16f#	i
+16a	z_wami
+8cc	.
+8a	się
+=4	=4
+8g	rozsta-
+16bL	.
+16aJ	.
+8g}	-ję,
 !!LO:LB:g=esac
-=5
-{16f#
-16a
-8cc
-8a
-=6
-8g
-8b
-8dd
-=7
-16cc
-16a
-8f#
-8d
-=8
-8g
-16b
-16a
-8g}
-==
-*-
+=5	=5
+{16f#	już
+16a	was
+8cc	Bogu
+8a	.
+=6	=6
+8g	polecam,
+8b	.
+8dd	.
+=7	=7
+16cc	ja
+16a\	sie
+8f#\	inszym
+8d\	.
+=8	=8
+8g	zale-
+16bL	.
+16aJ	.
+8g}	-cam.
+==	==
+*-	*-
+!!!role-singer: Maiden, Baichelor
+!!!role-listener: Bachelor, Maiden
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Już was Bogu oddaję
+!!i z wami się rozstaję.
+!!Już was Bogu polecam,
+!!ja sie inszym zalecam.
+!!@VERSE:
+!!2. Ach zalecaj, zalecaj,
+!!moje mi chustki wracaj.
+!!A wiele-żeś ich dała,
+!!coś je zwracać kazała.
+!!@VERSE:
+!!3. Jednę'm dała bieluśką
+!!jak'żem była maluśką.
+!!Drugą'm dała z wyszyciem,
+!!jak'żem była dziewczęciem.
+!!@VERSE:
+!!4. Trzecią'm dała z koronką,
+!!jak'żem była piastunką.
+!!Czwartąm dała z perłami,
+!!jak chodziłam z pannami.
+!!@VERSE:
+!!5. Piątą'm dała we złocie,
+!!jak chodziłam we cnocie.
+!!Szóstą'm dała z leliją,
+!!proszę Jasiu, wróć mi ją!
+!!@VERSE:
+!!6. Ach nie wrócę, nie wrócę,
+!!w niwecz ci je obrócę.
+!!Dwie w buciki obuję,
+!!cztéry kóniem stratuję.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=143 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 127} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 127}
 !!!page: 127
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

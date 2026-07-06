@@ -1,63 +1,113 @@
-!!!!SEGMENT: DWOK1211300001-jasio_moj_jasienku.krn
+﻿!!!!SEGMENT: DWOK1211300001-jasio_moj_jasienku.krn
 !!!OTL: Jasio mój Jasieńku
+!!!FKT: Pieśni i Dumy. Pieśni przed Weselem i wśród Wesela śpiewane
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kruszwicy, Strzelna
+!!!AR1: kujawsko-pomorskie ; inowrocławski ; Kruszwica-miasto
+!!!GE1: 52.676219 , 18.323047
+!!!AR2: kujawsko-pomorskie ; mogileński ; Strzelno-miasto
+!!!GE2: 52.628026 , 18.172506
 !!!source: DWOK12
 !!!id: 12113
 !!!signature: 1211300001
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/4
-=1
-{8b-
-8b-
-4cc
-4a
-=2
-4.f
-8g
-8a
-8f
-=3
-8cc
-16b-
-16a
-4g
-8cc
-8a
-=4
-4.f
-8g
-8a
-8f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/4	*
+=1	=1
+{8b-	Jasio
+8aq	.
+8b-	.
+4cc	mój,
+4a\	Ja-
+=2	=2
+(>4.f	-sień-
+8g)	.
+8aL	-ku,
+8fJ\	.
+=3	=3
+8cc	nie
+16b-L	jedź
+16aJ\	.
+4g	mi
+8ccL	to
+8aJ	.
+=4	=4
+(>4.f	tę-
+8g)	.
+8aL	-dy,
+8fJ}	.
 !!LO:LB:g=esac
-=5
-{8a
-8cc
-4cc
-8b-
-8a
-=6
-4b-
-4b-
-8b-
-8g
-=7
-8b-
-16a
-16b-
-4cc
-4a
-=8
-4.f
-8g
-8a
-8f}
-==
-*-
-!!!ONB: U Kolberga jest metrum 3/8 powinno byc 3/4 i tak zapisano
+=5	=5
+{8a\	bo
+8cc	mi
+8ddq	.
+4cc	po-
+8b-L	-o-
+8aJ\	.
+=6	=6
+4b-	-balasz
+4b-	.
+8ccq	.
+8b-L	.
+8gJ	.
+=7	=7
+8b-	od
+16aL	le-
+16b-J\	.
+4cc	-wendy
+4a\	.
+=8	=8
+4.f	rzędy.
+8g	.
+8aL	.
+8fJ}	.
+==	==
+*-	*-
+!!!RDF**kern: >= above
+!!!role-singer: Mistress, Lover
+!!!role-listener: Lover, Mistress
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Jasio mój, Jasieńku,
+!!nie jedź mi to tędy,
+!!bo mi poobalasz
+!!od lewendy rzędy.
+!!@VERSE:
+!!2. Rzędy poobalasz,
+!!rozmaryn podepczesz,
+!!a jak-eś mnie uwiód(ł)
+!!a teraz mnie nie chcesz.
+!!@VERSE:
+!!3. A chtóż ciebie uwiód,
+!!tylko gorzałeczka,
+!!hulałaś, pijałaś
+!!jak nie panieneczka.
+!!@VERSE:
+!!4. A wieleż tam było,
+!!hulania mojego,
+!!godzina z wieczora,
+!!aż do dnia białego.
+!!@VERSE:
+!!5. Nie kazała ci się,
+!!matulińka bawić;
+!!gorzałeczkę wypić,
+!!kieliszek postawić.
+!!@VERSE:
+!!6. Bodaj ta szynkarka
+!!z piekła nie wyźrzała,
+!!dwa złote'm napiła,
+!!cztéry napisała.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=72 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 56} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 56}
 !!!page: 56
+!!!BEM: U Kolberga jest metrum 3/8 powinno byc 3/4 i tak zapisano
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-02-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-07

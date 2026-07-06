@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1323000000-przyjechal_panicz.krn
-!!!OTL: Przyjechał panicz
+﻿!!!!SEGMENT: DWOK1323000000-przyjechal_panicz.krn
+!!!OTL: Przyjechał panicz. Mazur
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Szremu
+!!!AR1: wielkopolskie ; śremski ; Śrem-miasto
+!!!GE1: 52.095371 , 17.020534
 !!!source: DWOK13
 !!!id: 13230
 !!!signature: 1323000000
@@ -9,6 +14,7 @@
 *C:	*
 *M3/8	*
 =1	=1
+!LO:TX:a:t=Mazur.	!
 {8gg	Przy-
 4ee	-je-
 =2	=2
@@ -18,10 +24,10 @@
 8aa	.
 =3	=3
 8gg	z_da-
-[4ee	-le-
+4ee	-le-
 =4	=4
-8ggq	.
-16ee]L	-kich
+(8ggq	.
+16eeL)	-kich
 16ddJ	.
 8b	gra-
 8g}	-nic,
@@ -94,3 +100,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-06
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-13

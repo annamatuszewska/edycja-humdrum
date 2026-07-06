@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1312300000-gdy_mi_mazur_zabrzmi_w_uszy.krn
-!!!OTL: Gdy mi Mazur zabrzmi w uszy
+﻿!!!!SEGMENT: DWOK1312300000-gdy_mi_mazur_zabrzmi_w_uszy.krn
+!!!OTL: Gdy mi Mazur zabrzmi w uszy. Mazur
+!!!FKT: Pieśni. Miasta i Dwory. Wiwaty. Karczma. Taniec
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Poznania, Gniezna
+!!!AR1: wielkopolskie ; m. Poznań ; Poznań-gmina miejska
+!!!GE1: 52.407918 , 16.933467
+!!!AR2: wielkopolskie ; gnieźnieński ; Gniezno-gmina miejska
+!!!GE2: 52.533333 , 17.601388
 !!!source: DWOK13
 !!!id: 13123
 !!!signature: 1312300000
@@ -13,10 +20,11 @@
 {16cc	Gdy
 16a\	mi
 8cc	Ma-
+!LO:TX:t=P:problem=mixed beam	!
 16eeL	-zur
 16f#J	.
 =2	=2
-8g	zabrzmi
+8g\	zabrzmi
 8b	.
 16g\	w_uszy,
 16e\	.
@@ -35,8 +43,9 @@
 {16ee/L	niemasz
 16a/J	.
 8cc	nieszczęść
-16eeL	.
-16f#J	dla
+!LO:TX:t=P:problem=mixed beam	!
+16ee\L	.
+16f#/J	dla
 =6	=6
 16gL	méj
 16aJ	.
@@ -125,11 +134,13 @@
 !!!role-singer: Lover
 !!!role-listener: Mistress
 !!!singer-sex: male
-!!!ONB: Mazur
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=95 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 71} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 71}
 !!!page: 71
+!!!BEM: Mazur
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-20
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-27

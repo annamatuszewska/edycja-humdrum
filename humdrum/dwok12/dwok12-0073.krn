@@ -1,87 +1,109 @@
-!!!!SEGMENT: DWOK1207300000-z_tej_tam_strony_zielonego.krn
+﻿!!!!SEGMENT: DWOK1207300000-z_tej_tam_strony_zielonego.krn
 !!!OTL: Z tej tam strony zielonego
+!!!FKT: Pieśni i Dumy. Miłość. Pieśni zalotne
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Rawicza (Pakosław)
+!!!AR1: wielkopolskie ; rawicki ; Pakosław-gmina wiejska
+!!!GE1: 51.611323 , 17.058539
 !!!source: DWOK12
 !!!id: 12073
 !!!signature: 1207300000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16b
-8dd
-8dd
-=2
-16cc
-16ee
-8dd
-8a
-=3
-8cc
-4b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Z
+16b/	téj
+8dd	tam
+8dd	strony
+=2	=2
+16cc	zielo-
+16ee	.
+8dd	-nego
+8a	.
+=3	=3
+8cc	pola,
+4b}	.
 !!LO:LB:g=esac
-=4
-{4cc
-8a
-=5
-4g
-8b
-=6
-4dd
-8gg
-=7
-4ee
-8a
-=8
-16cc
-16ee
-8dd
-8f#
-=9
-8a
-4g}
+=4	=4
+{4cc	pasła
+8a	.
+=5	=5
+4g	Kasia
+8b/	.
+=6	=6
+4dd	pasła
+8gg	.
+=7	=7
+4ee	Kasia
+8a	.
+=8	=8
+16cc	prześlicznego
+16ee	.
+8dd	.
+8f#	.
+=9	=9
+8a	pawia.
+4g}	.
 !!LO:LB:g=esac
-=10
-{16g
-16b
-8dd
-16dd
-16b
-=11
-16cc
-16ee
-8dd
-8a
-=12
-8cc
-4b}
+=10	=10
+{16g	Z
+16b/	téj
+8dd	tam
+16ddL	strony
+16bJ/	.
+=11	=11
+16cc	zielo-
+16ee	.
+8dd	-nego
+8a	.
+=12	=12
+8cc	pola,
+4b}	.
 !!LO:LB:g=esac
-=13
-{4cc
-8a
-=14
-4f#
-8d
-=15
-4dd
-8gg
-=16
-4ee
-8a
-=17
-16cc
-16ee
-8dd
-8f#
-=18
-8a
-4g}
-==
-*-
+=13	=13
+{4cc	pasła
+8a	.
+=14	=14
+4f#\	Kasia
+8d\	.
+=15	=15
+4dd	pasła
+8gg	.
+=16	=16
+4ee	Kasia
+8a	.
+=17	=17
+16cc	prześlicznego
+16ee	.
+8dd	.
+8f#	.
+=18	=18
+8a	pawia.
+4g}	.
+==	==
+*-	*-
+!!!role-singer: Group
+!!!role-listener: Group
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:Z téj tam strony — zielonego pola,
+!!pasła Kasia (:) — prześlicznego pawia.
+!!@VERSE:Podcięna go — pod ogon niechcący,
+!!paw uciekał — do boru krzyczący.
+!!@VERSE:Ona za nim — skoczkiem bardzo ostrym,
+!!wpadła w rzékę, — zmoczyła spódnika.
+!!@VERSE:A paw jéj się — bardzo pięknie prosi,
+!!by mu dała — swoją łączkę posiéc.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=49 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 33} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 33}
 !!!page: 33
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-02-21
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

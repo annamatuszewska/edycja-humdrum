@@ -1,50 +1,79 @@
-!!!!SEGMENT: DWOK1218800010-zeby_ja_wiedziala_gdzie_moj_jasio_pije.krn
+﻿!!!!SEGMENT: DWOK1218800010-zeby_ja_wiedziala_gdzie_moj_jasio_pije.krn
 !!!OTL: Zeby ja wiedziała gdzie mój Jasio pije
+!!!FKT: Pieśni i Dumy. Pieśni przed Weselem i wśród Wesela śpiewane
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Dolska (Daleszyn)
+!!!AR1: wielkopolskie ; gostyński ; Gostyń-obszar wiejski
+!!!GE1: 51.914522 , 16.968166
 !!!source: DWOK12
 !!!id: 12188
 !!!signature: 1218800010
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16d
-16f#
-8g
-8dd
-=2
-8cc
-4b
-=3
-16a
-16cc
-8b
-8g
-=4
-8f#
-4a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16d	Żeby
+16f#	.
+8g	ja
+8dd	wie-
+=2	=2
+8cc	-działa
+4b	.
+=3	=3
+16a\	gdzie
+16cc	mój
+8b	Jasio
+8g	.
+=4	=4
+8f#	pije,
+4a}	.
 !!LO:LB:g=esac
-=5
-{16d
-16f#
-8g
-8dd
-=6
-8cc
-4b
-=7
-16a
-16cc
-8b
-8g
-=8
-8f#
-4d}
-==
-*-
+=5	=5
+{16d	szłabym
+16f#	.
+8g	ja
+8dd	do
+=6	=6
+8cc	niego
+4b	.
+=7	=7
+16a\	chociaż
+16cc	.
+8b	o
+8g	dwie
+=8	=8
+8f#	mile.
+4d}	.
+==	==
+*- 	*-
+!!!role-singer: Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Zeby ja wiedziała
+!!gdzie mój Jasio pije,
+!!szłabym ja do niego
+!!chociaż o dwie mile.
+!!@VERSE:
+!!2. A pije on pije
+!!w tym nowym gościńcu,
+!!przypomina sobie
+!!o swojém dziewczęciu.
+!!@VERSE:
+!!3. Oj orze on, orze,
+!!na zielonym ugorze;
+!!kółka mu się połamały,
+!!wołki jego polegały
+!!i orać niémoże.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=111 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 95-96} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 95-96}
 !!!page: 95-96
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

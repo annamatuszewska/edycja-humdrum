@@ -1,97 +1,118 @@
-!!!!SEGMENT: DWOK1225100002-pojmij_mnie_jasku.krn
+﻿!!!!SEGMENT: DWOK1225100002-pojmij_mnie_jasku.krn
 !!!OTL: Pojmij mnie Jaśku
+!!!FKT: Pieśni i Dumy. Skarga. Niechęć. Rozstanie
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Sierakowa (Chalin)
+!!!AR1: wielkopolskie ; międzychodzki ; Sieraków-obszar wiejski
+!!!GE1: 52.601314 , 16.040855
 !!!source: DWOK12
 !!!id: 12251
 !!!signature: 1225100002
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{8ff
-8ee
-8dd
-=2
-4cc
-8a
-=3
-16f
-16g
-4a
-=4
-8ff
-8ee
-8dd
-=5
-4cc
-16a
-16f
-=6
-16e
-16g
-4f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{8ff	Pojmij
+8ee	.
+8dd	mnie
+=2	=2
+4cc	Jaśku,
+8a	.
+=3	=3
+16f	pojmij
+16g	.
+4a	mnie,
+=4	=4
+8ff	da
+8ee	ci
+8dd	ma-
+=5	=5
+4cc	-tu-
+16aL	-la
+16fJ	.
+=6	=6
+16e	pierzynę,
+16g	.
+4f}	.
 !!LO:LB:g=esac
-=7
-{16f
-16a
-4cc
-=8
-16g
-16b-
-4a
-=9
-16f
-16a
-4cc
-=10
-16e
-16g
-4f}
+=7	=7
+{16f	pierzynę
+16a	.
+4cc	.
+=8	=8
+16g	kwapową,
+16b-/	.
+4a	.
+=9	=9
+16f	sto
+16a	złotych
+4cc	.
+=10	=10
+16e	gotowych,
+16g	.
+4f}	.
 !!LO:LB:g=esac
-=11
-{16f
-16a
-4cc
-=12
-16g
-16b-
-4a
-=13
-16f
-16a
-4cc
-=14
-16e
-16g
-4f}
+=11	=11
+{16f	pierzynę
+16a	.
+4cc	.
+=12	=12
+16g	kwapową,
+16b-/	.
+4a	.
+=13	=13
+16f	sto
+16a	złotych
+4cc	.
+=14	=14
+16e	gotowych,
+16g	.
+4f}	.
 !!LO:LB:g=esac
-=15
-{8ff
-8ee
-8dd
-=16
-4cc
-8a
-=17
-16f
-16g
-4a
-=18
-8ff
-8ee
-8dd
-=19
-4cc
-8f
-=20
-16e
-16g
-4f}
-==
-*-
+=15	=15
+{8ff	pojmij
+8ee	.
+8dd	mnie
+=16	=16
+4cc	Jaśku,
+8a	.
+=17	=17
+16f	pojmij
+16g	.
+4a	mnie,
+=18	=18
+8ff	pojmij
+8ee	.
+8dd	mnie
+=19	=19
+4cc	Jaśku,
+8f	.
+=20	=20
+16e	pojmij
+16g	.
+4f}	mnie.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!role-listener: Bachelor
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Pojmij mnie Jaśku, pojmij mnie,
+!!da ci matula pierzynę,
+!!pierzynę kwapową, sto złotych gotowych,
+!!pierzynę kwapową, sto złotych gotowych,
+!!pojmij mnie Jaśku, pojmij mnie,
+!!pojmij mnie Jaśku, pojmij mnie.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=150 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 134} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 134}
 !!!page: 134
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

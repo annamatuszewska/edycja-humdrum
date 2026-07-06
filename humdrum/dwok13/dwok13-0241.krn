@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1324100000-a_czys_jadla_czy_nie_jadla.krn
+﻿!!!!SEGMENT: DWOK1324100000-a_czys_jadla_czy_nie_jadla.krn
 !!!OTL: A czyś jadła czy nie jadła
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Szremu, Dolska
+!!!AR1: wielkopolskie ; śremski ; Śrem-miasto
+!!!GE1: 52.095371 , 17.020534
+!!!AR2: wielkopolskie ; śremski ; Dolsk-miasto
+!!!GE2: 51.987105 , 17.063780
 !!!source: DWOK13
 !!!id: 13241
 !!!signature: 1324100000
@@ -115,3 +122,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-09
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-23

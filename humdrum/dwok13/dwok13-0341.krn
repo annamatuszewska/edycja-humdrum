@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1334100000-oj_wygral_nasz_pan_wygral.krn
+﻿!!!!SEGMENT: DWOK1334100000-oj_wygral_nasz_pan_wygral.krn
 !!!OTL: Oj wygrał nasz pan wygrał
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Raszkowa
+!!!AR1: wielkopolskie ; ostrowski ; Raszków-miasto
+!!!GE1: 51.718450 , 17.725980
 !!!source: DWOK13
 !!!id: 13341
 !!!signature: 1334100000
@@ -64,7 +69,7 @@
 !!będziesz sam na siebie robiuł.
 !!@@END: VERSES
 !!!role-singer: Villager
-!!!singer-sex: Male
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=173 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 149} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 149}
@@ -72,3 +77,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-23
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-26

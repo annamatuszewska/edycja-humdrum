@@ -1,78 +1,104 @@
-!!!!SEGMENT: DWOK1243300001-niedaleko_wioska_wioski.krn
+﻿!!!!SEGMENT: DWOK1243300001-niedaleko_wioska_wioski.krn
 !!!OTL: Niedaleko wioska wioski
+!!!FKT: Pieśni i Dumy. Dumy. Zdrada. Zabójstwo
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Bydgoszczy
+!!!AR1: kujawsko-pomorskie ; m. Bydgoszcz ; Bydgoszcz-gmina miejska
+!!!GE1: 53.125394 , 18.001433
 !!!source: DWOK12
 !!!id: 12433
 !!!signature: 1243300001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16f#
-16a
-8cc
-8cc
-=2
-16ee
-16dd
-8b
-8g
-=3
-16f#
-16a
-8cc
-8g
-=4
-4.b
-=5
-16cc
-16f#
-8a
-8f#
-=6
-4.g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16f#	Niedale-
+16a	.
+8cc	.
+8cc	-ko
+=2	=2
+16ee	wioska
+16dd	.
+8b	wioski
+8g	.
+=3	=3
+16f#	ino
+16a	.
+8cc	za
+8g	wo-
+=4	=4
+4.b	-dą,
+=5	=5
+16cc	i-
+16f#	-no
+8a	za
+8f#	wo-
+=6	=6
+4.g}	-dą,
 !!LO:LB:g=esac
-=7
-{16f#
-16a
-8d
-8d
-=8
-16f#
-16g
-8.b
-16dd
-=9
-16f#
-16a
-8d
-8d
-=10
-16f#
-16g
-8.b
-16g}
+=7	=7
+*	*^
+{16f#	wychowa-	na
+16a	.	pięcie'm
+8d	.	.
+8d	-ła	.
+=8	=8	=8
+16f#	mnie	się
+16g	mamu-	wykręcała
+8.b	.	.
+16dd	-la,	.
+=9	=9	=9
+16f#	wychowała	z
+16a	.	kawalerów
+8d	.	.
+8d	.	.
+=10	=10	=10
+16f#	mnie	prześmiewała
+16g	mamu-	.
+8.b	.	.
+16g}	-la,	.
 !!LO:LB:g=esac
-=11
-{16f#
-16a
-8cc
-8g
-=12
-4b
-8dd
-=13
-16cc
-16f#
-8a
-8f#
-=14
-4.g}
-==
-*-
+=11	=11	=11
+{16f#	gdyby	oj
+16a	.	dana
+8cc	jago-	.
+8g	.	da-
+=12	=12	=12
+(4b	-dę,	na,
+8dd)	.	.
+=13	=13	=13
+16cc	gdyby	dostanę
+16f#	.	.
+8a\	jago-	pa-
+8f#\	.	.
+=14	=14	=14
+4.g}	-dę.	-na.
+*	*v	*v
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!Niedaleko wioska wioski
+!!ino za wodą,
+!!ino za wodą,
+!!wychowała mnie mamula,
+!!wychowała mnie mamula,
+!!gdyby jagodę,
+!!gdyby jagodę.
+!!na pięcie'm się wykręcała
+!!z kawalerów prześmiewała,
+!!oj dana dana,
+!!dostanę pana.            
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=241 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 225-226} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 225-226}
 !!!page: 225-226
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

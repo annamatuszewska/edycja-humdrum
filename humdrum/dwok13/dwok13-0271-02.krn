@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1327100002-szklany_piec.krn
+﻿!!!!SEGMENT: DWOK1327100002-szklany_piec.krn
 !!!OTL: Szklany piec
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Krzywinia
+!!!AR1: wielkopolskie ; kościański ; Krzywiń-miasto
+!!!GE1: 51.961720 , 16.820761
 !!!source: DWOK13
 !!!id: 13271
 !!!signature: 1327100002
@@ -78,3 +83,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-16
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-23

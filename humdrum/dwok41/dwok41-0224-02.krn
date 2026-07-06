@@ -5,8 +5,8 @@
 !!!signature: 4122400002
 **kern
 *clefG2
-*k[]
-*C:
+*k[f#]
+*G:
 *M3/4
 =1
 {4g
@@ -119,3 +119,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-04-13
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-17

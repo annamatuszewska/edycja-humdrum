@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1340300001-powiadali_powiadali.krn
+﻿!!!!SEGMENT: DWOK1340300001-powiadali_powiadali.krn
 !!!OTL: Powiadali powiadali
+!!!FKT: Śpiewki i Tańce. Wiwaty, Tańce i Piosenki 2/4
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Wyrzyska, Bydgoszczy
+!!!AR1: wielkopolskie ; pilski ; Wyrzysk-miasto
+!!!GE1: 53.153248 , 17.267019
+!!!AR2: kujawsko-pomorskie ; m. Bydgoszcz ; Bydgoszcz-gmina miejska
+!!!GE2: 53.125394 , 18.001433
 !!!source: DWOK13
 !!!id: 13403
 !!!signature: 1340300001
@@ -46,7 +53,7 @@
 =7	=7	=7
 *M3/4	*	*
 8b	o	ko-
-8b	jeszcze	-ryszkiem
+8b	jeszcze	-ryszkiem*)
 8cc	.	przedepnę,
 8ee	nie	.
 8.dd	bar-	.
@@ -68,13 +75,18 @@
 !!A ja tam był, a ja tam był,
 !!koryszkiem przedepnę, przedepnę.
 !!@@END: VERSES
-!!!role-singer: Complex
-!!!singer-sex: Male
-!!!ONB: Weselna
+!!@@BEGIN: 
+!! @COMMENTARY:*)korkiem, obcasem u buta.
+!!@@END:
+!!!role-singer: Narrator
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=193 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 169} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 169}
 !!!page: 169
+!!!BEM: Weselna
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-04-08
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-16

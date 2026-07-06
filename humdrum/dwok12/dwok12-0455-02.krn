@@ -1,81 +1,128 @@
-!!!!SEGMENT: DWOK1245500002-o_nima_to_nic_milszego.krn
+﻿!!!!SEGMENT: DWOK1245500002-o_nima_to_nic_milszego.krn
 !!!OTL: O nima to nic milszego
+!!!FKT: Pieśni i Dumy. Małżeństwo. Kłótnia. Zgoda
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Ostrowa (Ołobok)
+!!!AR1: wielkopolskie ; ostrowski ; Sieroszewice-gmina wiejska
+!!!GE1: 51.634380 , 18.067373
 !!!source: DWOK12
 !!!id: 12455
 !!!signature: 1245500002
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{4ee
-4ee
-8ee
-8ee
-=2
-8ee
-8ee
-4.ff#
-8ee
-=3
-8b
-8dd#
-4ee
-4cc
-=4
-4a
-8g#
-8e}
-4r
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+{4ee	O
+4ee	nima
+8ee	.
+8ee	to
+=2	=2
+8ee	nic
+8ee	milszego
+4.ff#	.
+8ee	.
+=3	=3
+8b	jako
+8dd#	.
+4ee	chłopku
+4cc	.
+=4	=4
+4a	żo-
+8g#L	-na,
+8eJ}	.
+4r	.
 !!LO:LB:g=esac
-=5
-{8b
-8b
-4dd
-8cc
-8b
-=6
-8a
-8e
-4g#
-4a
-=7
-8b
-8dd#
-4ee
-4cc
-=8
-4a
-4g#}
-4r
+=5	=5
+{8b	a
+8b	bo
+4dd	ó-
+8ccL	-na
+8bJ	.
+=6	=6
+8a	w_polu
+8e	.
+4g#	ro-
+4a	-bi
+=7	=7
+8b	a
+8dd#	ón
+4ee	siedzi
+4cc	.
+=8	=8
+4a	do-
+4g#\}	-ma,
+4r	.
 !!LO:LB:g=esac
-=9
-{8b
-8b
-4dd
-8cc
-8b
-=10
-8a
-8e
-4g#
-4a
-=11
-8b
-8dd#
-4ee
-8cc
-8b
-=12
-4a
-8g#
-8e}
-4r
-==
-*-
+=9	=9
+{8b	a
+8b	bo
+4dd	ó-
+8ccL	-na
+8bJ	.
+=10	=10
+8a	w_polu
+8e	.
+4g#	ro-
+4a	-bi
+=11	=11
+8b	a
+8dd#	ón
+4ee	siedzi
+8ccL	.
+8bJ/	.
+=12	=12
+4a	do-
+8g#L	-ma.
+8eJ}	.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. O nima to nic milszego
+!!jako chłopku żona,
+!!a bo óna w polu robi
+!!a ón siedzi doma.
+!!@VERSE:
+!!2. Oj założył ją do woza,
+!!do boru zajedzie;
+!!i narąbie i nakładzie,
+!!i jeszcze usiądzie.
+!!@VERSE:
+!!3. I odłożył ją od woza,
+!!założył do pługa:
+!!przypatrzcie się, wy panienki,
+!!jaka z nij posługa.
+!!@VERSE:
+!!4. I odłożył ją od pługa,
+!!założył do brony:
+!!przypatrzcie się, wy panienki,
+!!jak to ćwiczą żony.
+!!@VERSE:
+!!5. I odłożył ją od brony:
+!!założył do radła:
+!!oj ciąg-że mi, żonko moja,
+!!będziesz prędzy jadła.
+!!@VERSE:
+!!6. I odłożył ją od radła,
+!!zapędził do wody,
+!!napij-że się, żonko moja
+!!masz wszelkie wygody.
+!!@VERSE:
+!!7. I odegnał ją od wody,
+!!zapędził do chliwa:
+!!połóż-że się, żonko moja
+!!boś się narobiła.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=251 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 235} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 235}
 !!!page: 235
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

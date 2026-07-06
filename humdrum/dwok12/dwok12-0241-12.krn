@@ -1,50 +1,83 @@
-!!!!SEGMENT: DWOK1224100012-marynka_sie_frasuje.krn
+﻿!!!!SEGMENT: DWOK1224100012-marynka_sie_frasuje.krn
 !!!OTL: Marynka się frasuje
+!!!FKT: Pieśni i Dumy. Skarga. Niechęć. Rozstanie
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Obornik (Objezierze)
+!!!AR1: wielkopolskie ; obornicki ; Oborniki-obszar wiejski
+!!!GE1: 52.603975 , 16.762549
 !!!source: DWOK12
 !!!id: 12241
 !!!signature: 1224100012
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16f#
-16g
-8a
-8cc
-=
-24b
-24cc
-24dd
-8b
-8g
-=2
-8a
-16b
-16g
-16a
-16f#
-=3
-8.g
-16a
-16b
-16cc}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16f#	Marynka
+16g	.
+8a	.
+8cc	się
+=2	=2
+*Xtuplet	*
+24bL	fra-
+24cc	.
+24ddJ/	.
+8b	-suje,
+8g	.
+=3	=3
+8a	Jasio
+16b/	.
+16g	inszą
+16aL	.
+16f#J	.
+=4	=4
+8.gL	sza-
+16aJ	.
+16b	-cuje,
+16cc}	.
 !!LO:LB:g=esac
-=4
-{8dd
-16b
-16g
-16a
-16f#
-=5
-4g
-16a
-16g}
-==
-*-
+=5	=5
+{8dd	Jasio
+16b	.
+16g	inszą
+16aL	.
+16f#J	.
+=6	=6
+4g	szacuje.
+16a	.
+16g}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Maiden
+!!!role-listener: Bachelor
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1.Marynka się frasuje,
+!!Jasio inszą szacuje,
+!!Jasio inszą szacuje.
+!!Szacuj Jasiu, jak sam chcesz,
+!!chusteczki mi powrócisz.
+!!@VERSE:
+!!2. Jedna béła bieluśka,
+!!jag'em béła maluśka,
+!!jag'em béła maluśka;
+!!druga béła z kwiatami,
+!!kupiłam ją z bratami.
+!!@VERSE:
+!!3. Siódma béła z leliją,
+!!Jasineczku, wróć mi ją,
+!!Jasineczku, wróć mi ją.
+!!Szanuj inszą, jak sam chcesz,
+!!ranie chusteczki powrócisz.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=257 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 241} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 241}
 !!!page: 241
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

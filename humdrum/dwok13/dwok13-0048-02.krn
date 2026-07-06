@@ -1,8 +1,15 @@
-!!!!SEGMENT: DWOK1304800002-a_witaj_ze.krn
-!!!OTL: A witaj że
+﻿!!!!SEGMENT: DWOK1304800002-a_witaj_ze.krn
+!!!OTL: A witajże jak się miewasz
+!!!FKT: Pieśni. Miasta i Dwory. Miłość. Tęsknota
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Poznania, Wągrowca
+!!!AR1: wielkopolskie ; m. Poznań ; Poznań-gmina miejska
+!!!GE1: 52.407918 , 16.933467
+!!!AR2: wielkopolskie ; wągrowiecki ; Wągrowiec-gmina miejska
+!!!GE2: 52.806786 , 17.200557
 !!!source: DWOK13
 !!!id: 13048
-!!!signature: 1304800001
+!!!signature: 1304800002
 **kern	**text
 *clefG2	*
 *k[f#]	*
@@ -169,3 +176,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-11
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-24

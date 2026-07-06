@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1313500001-objadlam_sie_klusek_z_woda.krn
+﻿!!!!SEGMENT: DWOK1313500001-objadlam_sie_klusek_z_woda.krn
 !!!OTL: Objadłam się klusek z wodą
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gołańczy (Czeszewo)
+!!!AR1: wielkopolskie ; wągrowiecki ; Gołańcz-obszar wiejski
+!!!GE1: 52.908722 , 17.382633
 !!!source: DWOK13
 !!!id: 13135
 !!!signature: 1313500001
@@ -75,3 +80,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-21
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-02

@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1306100000-o_mym_lubym_zawsze_mysle.krn
+﻿!!!!SEGMENT: DWOK1306100000-o_mym_lubym_zawsze_mysle.krn
 !!!OTL: O mym lubym zawsze myślę
+!!!FKT: Pieśni. Miasta i Dwory. Miłość. Tęsknota
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kalisza
+!!!AR1: wielkopolskie ; m. Kalisz ; Kalisz-gmina miejska
+!!!GE1: 51.761140 , 18.086914
 !!!source: DWOK13
 !!!id: 13061
 !!!signature: 1306100000
@@ -90,7 +95,6 @@
 !!z młodych lat kochała już.
 !!@@END: VERSES
 !!!role-singer: Daughter
-!!!role-listener: Complex
 !!!singer-sex: female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -99,3 +103,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-11
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-24

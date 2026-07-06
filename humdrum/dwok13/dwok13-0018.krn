@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1301800000-bywaj_mi_zdrowa_piekna_dolino.krn
+﻿!!!!SEGMENT: DWOK1301800000-bywaj_mi_zdrowa_piekna_dolino.krn
 !!!OTL: Bywaj mi zdrowa piękna dolino
+!!!FKT: Pieśni. Miasta i Dwory. Świat. Los
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: Szrem
+!!!AR1: wielkopolskie ; śremski ; Śrem-miasto
+!!!GE1: 52.095371 , 17.020534
 !!!source: DWOK13
 !!!id: 13018
 !!!signature: 1301800000
@@ -163,11 +168,13 @@
 !!!role-singer: lover
 !!!role-listener: mistress
 !!!singer-sex: male
-!!!ONB: Dopisana opuszczona kropka w ostatnim takcie szóstego wersu
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=36 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 12} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 12}
 !!!page: 12
+!!!BEM: Pieśń Sybiraka. Dopisana opuszczona kropka w ostatnim takcie szóstego wersu
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-03
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-17

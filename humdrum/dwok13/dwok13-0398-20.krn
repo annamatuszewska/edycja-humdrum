@@ -1,12 +1,17 @@
-!!!!SEGMENT: DWOK1339800020-instrumentalna-pasterski.krn
-!!!OTL: Instrumentalna-Pasterski
+﻿!!!!SEGMENT: DWOK1339800020-instrumentalna-pasterski.krn
+!!!OTL: Instrumentalna. Pasterski
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Inowrocławia (Brudnia)
+!!!AR1: kujawsko-pomorskie ; inowrocławski ; Dąbrowa Biskupia-gmina wiejska
+!!!GE1: 52.797243 , 18.500235
 !!!source: DWOK13
 !!!id: 13398
 !!!signature: 1339800020
 **kern
 *clefG2
 *k[f#]
-*D:
+*G:
 *M3/4
 =1
 *Xtuplet
@@ -72,7 +77,7 @@
 8f#J
 =10
 8e\
-8c#\J
+8c\J
 4e
 12gL
 12f#
@@ -102,3 +107,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-04-04
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-15

@@ -1,5 +1,7 @@
-!!!!SEGMENT: DWOK1303700002-stas_mi_pierscionek_przyniosl.krn
+﻿!!!!SEGMENT: DWOK1303700002-stas_mi_pierscionek_przyniosl.krn
 !!!OTL: Staś mi pierścionek przyniósł
+!!!FKT: Pieśni. Miasta i Dwory. Miłość. Tęsknota
+!!!REG: Wielkie Księstwo Poznańskie
 !!!source: DWOK13
 !!!id: 13037
 !!!signature: 1303700002
@@ -89,7 +91,6 @@
 !!pójdź tu i bierz mnie jak swoję.
 !!@@END: VERSES
 !!!role-singer: Mistress
-!!!role-listener: Lover
 !!!singer-sex: female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -98,3 +99,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-06
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-18

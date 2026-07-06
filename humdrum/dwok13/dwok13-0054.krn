@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1305400000-sialem_proso_na_zagonie.krn
+﻿!!!!SEGMENT: DWOK1305400000-sialem_proso_na_zagonie.krn
 !!!OTL: Siałem proso na zagonie
+!!!FKT: Pieśni. Miasta i Dwory. Miłość. Tęsknota
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Pleszewa, Kalisza
+!!!AR1: wielkopolskie ; pleszewski ; Pleszew-miasto
+!!!GE1: 51.896272 , 17.785733
+!!!AR2: wielkopolskie ; m. Kalisz ; Kalisz-gmina miejska
+!!!GE2: 51.761140 , 18.086914
 !!!source: DWOK13
 !!!id: 13054
 !!!signature: 1305400000
@@ -11,13 +18,13 @@
 =1	=1
 {8.a	Siałem
 16a	.
-4.b-	proso
+4.b-/	proso
 8a	.
 =2	=2
 8g#	na
-8a	zagonie,
+8a	zago-
 4.f	.
-8d	.
+8d	nie,
 =3	=3
 8.c#	nie
 16e	mogłem
@@ -137,9 +144,8 @@
 !!méj miłości nie zagłuszy
 !!nawet grobu brzeg.
 !!@@END: VERSES
-!!!role-singer: 
-!!!role-listener: 
-!!!singer-sex: 
+!!!role-singer: Enamoured
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=55 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 31-32} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, pp. 31-32}
@@ -147,3 +153,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-11
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-24

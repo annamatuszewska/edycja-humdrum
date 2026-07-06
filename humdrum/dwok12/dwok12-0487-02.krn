@@ -1,71 +1,118 @@
-!!!!SEGMENT: DWOK1248700002-ojcze_ojcze_coscie_zrobili.krn
+﻿!!!!SEGMENT: DWOK1248700002-ojcze_ojcze_coscie_zrobili.krn
 !!!OTL: Ojcze, ojcze, coście zrobili
+!!!FKT: Pieśni i Dumy. Wojsko. Łowy
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Krobi, Dolska
+!!!AR1: wielkopolskie ; gostyński ; Krobia-miasto
+!!!GE1: 51.774178 , 16.984630
+!!!AR2: wielkopolskie ; śremski ; Dolsk-miasto
+!!!GE2: 51.987105 , 17.063780
 !!!source: DWOK12
 !!!id: 12487
 !!!signature: 1248700002
-**kern
-*clefG2
-*k[]
-*C:
-*M4/4
-=1
-{4cc
-4g
-4ee
-4cc
-=2
-8b
-8dd
-8dd
-8b
-2cc
-=3
-8cc
-8cc
-8g
-8g
-4ee
-4cc
-=4
-8b
-8dd
-8dd
-8b
-2cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M4/4	*
+*met(c)	*
+=1	=1
+{4cc	Ojcze,
+4g	.
+4ee	ojcze,
+4cc	.
+=2	=2
+8b	coście
+8dd	.
+8dd	zrobili,
+8b	.
+2cc	.
+=3	=3
+8cc	coście
+8cc	.
+8g	swego
+8g	.
+4ee	syna
+4cc	.
+=4	=4
+8b	na
+8dd	wojnę
+8dd	.
+8b	dali,
+2cc}	.
 !!LO:LB:g=esac
-=5
-{8ee
-8gg
-8gg
-8gg
-8aa
-8ee
-4ff
-=6
-8dd
-8ff
-8ff
-8ff
-8gg
-8dd
-4ee}
+=5	=5
+{8ee	utraciłem
+8gg	.
+8gg	.
+8gg	.
+8aa/L	młody
+8eeJ	.
+4ff	wiek,
+=6	=6
+8dd	móg’em
+8ff	.
+8ff	dziewcze
+8ff	.
+8gg/L	ładne
+8ddJ	.
+4ee}	mieć
 !!LO:LB:g=esac
-=7
-{4cc
-4g
-4.ee
-8cc
-=8
-8b
-8dd
-16dd
-16cc
-8b
-2cc}
-==
-*-
+=7	=7
+{4cc	teraz
+4g	.
+4.ee	konia
+8cc	.
+=8	=8
+8b	w_siedle
+8dd	.
+16dd/L	muszę
+16cc	.
+8bJ	.
+2cc}	mieć.
+==	==
+*-	*-
+!!!role-singer: Son
+!!!role-listener: Father, Son, Girls
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Ojcze, ojcze, coście zrobili,
+!!coście swego syna na wojnę dali,
+!!utraciłem młody wiek,
+!!móg’em dziewcze ładne mieć
+!!teraz konia w siedle muszę mieć.
+!!@VERSE:
+!!2. Dostałem konia, siwo-brudnego,
+!!od polskiego (v. pruskiego) króla darowanego.
+!!Mój koniczek cieszy się,
+!!na wojenkę spieszy się,
+!!te ładne dziewczątka, nie frasujcie się.
+!!@VERSE:
+!!3. Grają, trąbią i téż bębnują,
+!!polskie (v. pruskie) officery komenderują.
+!!Na wojenkę jachali,
+!!pałaszami brząkali,
+!!te ładne dziewczątka, pójdźcie za nami.
+!!@VERSE:
+!!4. Jak nam trąby i bębny hukną,
+!!na nieprzyjaciela wszyscy się pomkną.
+!!Szabelki się błyskają,
+!!głowy na dół padają,
+!!te ładne dziewczątka, za nas płakają.
+!!@VERSE:
+!!5. Nie płacz, nie krzycz, nic nie pomoże,
+!!tego najezdnika i Pan Bóg skarze!
+!!A jak wroga zmogemy,
+!!do domu się wrócemy,
+!!was ładne dziewczątka z sobą pojmemy.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=268 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 252} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 252}
 !!!page: 252
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

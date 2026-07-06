@@ -1,50 +1,81 @@
-!!!!SEGMENT: DWOK1248500000-trebace_trabia_kapela_graje.krn
+﻿!!!!SEGMENT: DWOK1248500000-trebace_trabia_kapela_graje.krn
 !!!OTL: Trębace trąbią, kapela graje
+!!!FKT: Pieśni i Dumy. Wojsko. Łowy
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Czarnkowa (Rosko)
+!!!AR1: wielkopolskie ; czarnkowsko-trzcianecki ; Wieleń-obszar wiejski
+!!!GE1: 52.874326 , 16.316247
 !!!source: DWOK12
 !!!id: 12485
 !!!signature: 1248500000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M4/4
-=1
-{4d
-8g
-8b
-4.dd
-8cc
-=2
-8b
-8cc
-8dd
-8b
-2a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M4/4	*
+*met(c)	*
+=1	=1
+{4d	Trębace
+8g	.
+8b	.
+4.dd	trąbią,
+8cc	.
+=2	=2
+8b	kape-
+8cc	.
+8dd	-la
+8b	graje,
+2a}	.
 !!LO:LB:g=esac
-=3
-{4dd
-8b
-8g
-4g
-8ee
-8dd
-=4
-4cc
-8a
-8f#
-4d
-8cc
-8a
-=5
-8b
-8cc
-8dd
-8b
-2g}
-==
-*-
+=3	=3
+{4dd	gdy
+8b	ja
+8g	wędrował,
+4g	.
+8eeL	.
+8ddJ	.
+=4	=4
+4cc	gdy
+8a	ja
+8f#	wędrował,
+4d	.
+(8ccL	.
+8aJ)	.
+=5	=5
+8b	kochanka
+8cc	.
+8dd	.
+8b	spała.
+2g}	.
+==	==
+*-	*-
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Trębace trąbią, kapela graje,
+!!gdy ja wędrował, gdy ja wędrował,
+!!kochanka spała.
+!!@VERSE:
+!!2. Kiebyś böł dobry, töbyś mnie zbudzieł,
+!!na roz(ł)ącénie — słówko przemówił.
+!!@VERSE:
+!!3. Kochanko moja, corne ocy mas,
+!!ja ci się boję, ty mnie obgadas.
+!!@VERSE:
+!!4. Wędruj kochanko scęśliwą drogą,
+!!sprawię ja tobię suknię zielóną.
+!!@VERSE:
+!!5. Suknie zielóną nie bardzo drogą,
+!!wędruj kochanko scęśliwą drogą.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=267 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 251} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 251}
 !!!page: 251
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

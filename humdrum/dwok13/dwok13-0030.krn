@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1303000000-pojrzyj_przecie_mile.krn
+﻿!!!!SEGMENT: DWOK1303000000-pojrzyj_przecie_mile.krn
 !!!OTL: Pojrzyj przecie mile
+!!!FKT: Pieśni. Miasta i Dwory. Miłość. Tęsknota
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: Poznań
+!!!AR1: wielkopolskie ; m. Poznań ; Poznań-gmina miejska
+!!!GE1: 52.407918 , 16.933467
 !!!source: DWOK13
 !!!id: 13030
 !!!signature: 1303000000
@@ -89,3 +94,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-05
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-17

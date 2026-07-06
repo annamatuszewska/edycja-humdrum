@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1330000000-ej_ty_mazur_ja_polska.krn
+﻿!!!!SEGMENT: DWOK1330000000-ej_ty_mazur_ja_polska.krn
 !!!OTL: Ej ty Mazur ja Polska
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Wrześni (Szemborowo)
+!!!AR1: wielkopolskie ; słupecki ; Strzałkowo-gmina wiejska
+!!!GE1: 52.358685 , 17.724988
 !!!source: DWOK13
 !!!id: 13300
 !!!signature: 1330000000
@@ -109,7 +114,7 @@
 !!@@END: VERSES
 !!!role-singer: Polish woman
 !!!role-listener: Mazovian man
-!!!singer-sex: Female
+!!!singer-sex: female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=161 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 137} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 137}
@@ -117,3 +122,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-19
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-24

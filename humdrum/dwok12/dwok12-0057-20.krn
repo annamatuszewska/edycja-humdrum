@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1205700020-instrumentalna-jedzie_jasio_od_warsawy.krn
-!!!OTL: Instrumentalna-Jedzie Jasio od Warsawy
+﻿!!!!SEGMENT: DWOK1205700020-instrumentalna-jedzie_jasio_od_warsawy.krn
+!!!OTL: Jedzie Jasio od Warsawy. Instrumentalna
+!!!FKT: Pieśni i Dumy. Miłość. Pieśni zalotne
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gniezna
+!!!AR1: wielkopolskie ; gnieźnieński ; Gniezno-gmina miejska
+!!!GE1: 52.533333 , 17.601388
 !!!source: DWOK12
 !!!id: 12057
 !!!signature: 1205700020
@@ -9,27 +14,27 @@
 *G:
 *M3/8
 =1
-{16.a
-32f#
-8f#
+{16.aL
+32f#J
+8f#L
 16d
-16f#
+16f#J
 =2
-16g
-16b
-8b
-8g
+16gL
+16bJ
+8bL
+8gJ
 =3
-16.a
-32f#
-16d
+16.aL
+32f#J
+16dL
 16f#
 16a
-16f#
+16f#J
 =4
+8gL
 8g
-8g
-8g}
+8g}J
 ==
 *-
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
@@ -37,3 +42,7 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=41 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 25} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 25}
 !!!page: 25
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-02-20
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

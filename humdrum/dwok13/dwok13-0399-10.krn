@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1339900010-a_daj_daj_panne_mloda.krn
+﻿!!!!SEGMENT: DWOK1339900010-a_daj_daj_panne_mloda.krn
 !!!OTL: A daj daj pannę młodą
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gniewkowa, Nieszawy
+!!!AR1: kujawsko-pomorskie ; inowrocławski ; Gniewkowo-miasto
+!!!GE1: 52.892787 , 18.408568
+!!!AR2: kujawsko-pomorskie ; aleksandrowski ; Nieszawa-gmina miejska
+!!!GE2: 52.834090 , 18.902363
 !!!source: DWOK13
 !!!id: 13399
 !!!signature: 1339900010
@@ -60,14 +67,16 @@
 !!a daj mi tę kasiuchnę,
 !!dawaj matuchno córuchnę.
 !!@@END: VERSES
-!!!role-singer: Single Man
+!!!role-singer: Bachelor
 !!!role-listener: Mother
-!!!singer-sex: Male
-!!!ONB: Weselna
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=191 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 167} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 167}
 !!!page: 167
+!!!BEM: Weselna
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-04-04
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-16

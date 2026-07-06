@@ -1,5 +1,7 @@
-!!!!SEGMENT: DWOK1301900000-odko_moja_lodko.krn
+﻿!!!!SEGMENT: DWOK1301900000-odko_moja_lodko.krn
 !!!OTL: Łódko moja łódko
+!!!FKT: Pieśni. Miasta i Dwory. Świat. Los
+!!!REG: Wielkie Księstwo Poznańskie
 !!!source: DWOK13
 !!!id: 13019
 !!!signature: 1301900000
@@ -9,6 +11,7 @@
 *g:	*
 *M3/8	*
 =1	=1
+!LO:TX:a:t=Młody rybak.	!
 {16g	Łódko
 16a	.
 8b-	moja
@@ -52,7 +55,7 @@
 4dd/	łódko,
 8gg/	.
 =11	=11
-16ff#/L	suwaj
+16ff/L	suwaj
 16ee-/J	.
 8dd	po
 8cc	głę-
@@ -100,13 +103,14 @@
 !!jak o złotéj rybce, 
 !!co pluska we Wiśle.
 !!@@END: VERSES
+!!@COMMENTARY:muzyka Ant. Wójkowskiego
 !!!role-singer: lover
-!!!role-listener:mistress
 !!!singer-sex:male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=37 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 13} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 13}
 !!!page: 13
+!!!BEM: Młody rybak
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-03

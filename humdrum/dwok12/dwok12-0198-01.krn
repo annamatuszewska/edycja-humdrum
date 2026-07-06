@@ -1,75 +1,109 @@
-!!!!SEGMENT: DWOK1219800001-oj_zieleni_sie_zieleni.krn
+﻿!!!!SEGMENT: DWOK1219800001-oj_zieleni_sie_zieleni.krn
 !!!OTL: Oj zieleni się zieleni
+!!!FKT: Pieśni i Dumy. Stałość. Życzliwość. Wymówka
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Szremu
+!!!AR1: wielkopolskie ; śremski ; Śrem-miasto
+!!!GE1: 52.095371 , 17.020534
 !!!source: DWOK12
 !!!id: 12198
 !!!signature: 1219800001
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16a
-16a
-8aa
-8gg#
-=2
-16ff
-16ee
-8dd
-8cc
-=3
-16a
-16a
-8g#
-8e
-=4
-16a
-16b
-8cc
-8a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16a	Oj
+16a	ziele-
+8aa	.
+8gg#	-ni
+=2	=2
+8eeq	.
+16ff	się
+16ee	ziele-
+8dd	.
+8cc	-ni,
+=3	=3
+16a	da
+16a	mo-
+8g#	-je
+8e	żyt-
+=4	=4
+16a\	-ko
+16b	przy
+8cc	ziemi,
+8a}	.
 !!LO:LB:g=esac
-=5
-{16g
-16g
-8b
-8b
-=6
-16cc
-16cc
-4ee
-=7
-8dd
-8ff
-16ff
-16aa
-=8
-16gg
-16dd
-8ff
-8ee}
+=5	=5
+{16g	da
+16g	któż
+8b	mi
+8b	je
+=6	=6
+16cc	będzie
+16cc	.
+4ee	żon,
+=7	=7
+8dd	kiej
+8ff	mi
+16ff	dziewczę
+16aa	.
+=8	=8
+16ggL	Pan
+16ddJ	.
+8ff	Bóg
+8ee}	wzion
 !!LO:LB:g=esac
-=9
-{16g
-16r
-4f
-=10
-16e
-16cc
-4ee
-=11
-8dd
-8dd
-16dd
-16ff
-=12
-8ee
-8dd
-8cc}
-==
-*-
+=9	=9
+{16g	hej
+16r	.
+4f	hej
+=10	=10
+16e	będzie
+16cc	.
+4ee	żon,
+=11	=11
+(>8ggq	.
+8dd)	kiej
+8dd	mi
+16dd	dziewcze
+16ff	.
+=12	=12
+8ee	Pan
+8dd	Bóg
+8cc}	wzion.
+==	==
+*-	*-
+!!!RDF**kern: >= above
+!!!role-singer: Widower, Maiden
+!!!role-listener: Widower
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Oj zieleni się zieleni,
+!!da moje żytko przy ziemi,
+!!da któż mi je będzie żon,
+!!kiej mi dziewczę Pan Bóg wzion
+!!hej hej będzie żon,
+!!kiej mi dziewczę Pan Bóg wzion.
+!!@VERSE:
+!!2. Powiedziałeś że mnie weźniesz,
+!!ino s pola żytko zerzniesz.
+!!A ty pożąn i powiązał,
+!!a mnieś ino świat zawiązał,
+!!hej hej powiązał,
+!!a mnieś ino świat zawiązał.
+!!@VERSE:
+!!3. Da'ś ty pożąn i owiesek,
+!!a mnie'ś użar jako piesek.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=118 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 102} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 102}
 !!!page: 102
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

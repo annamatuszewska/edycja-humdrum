@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1322100000-siedzi_ptaszek_na_rokicie.krn
+﻿!!!!SEGMENT: DWOK1322100000-siedzi_ptaszek_na_rokicie.krn
 !!!OTL: Siedzi ptaszek na rokicie
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Buku
+!!!AR1: wielkopolskie ; poznański ; Buk-miasto
+!!!GE1: 52.355394 , 16.519710
 !!!source: DWOK13
 !!!id: 13221
 !!!signature: 1322100000
@@ -77,8 +82,8 @@
 !!I trzy lata i trzy zimy
 !!bo to dziewcze jest bez winy.
 !!@@END: VERSES
-!!!role-singer: Single Man
-!!!singer-sex: Male
+!!!role-singer: Bachelor
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=133 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 109} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 109}
@@ -86,3 +91,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-05
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-13

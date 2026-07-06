@@ -1,74 +1,98 @@
-!!!!SEGMENT: DWOK1243900001-przecies_mnie_ty.krn
+﻿!!!!SEGMENT: DWOK1243900001-przecies_mnie_ty.krn
 !!!OTL: Przecieś mnie ty
+!!!FKT: Pieśni i Dumy. Małżeństwo. Kłótnia. Zgoda
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Czempina (Brodnica)
+!!!AR1: wielkopolskie ; śremski ; Brodnica-gmina wiejska
+!!!GE1: 52.141042 , 16.892250
 !!!source: DWOK12
 !!!id: 12439
 !!!signature: 1243900001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16b
-16cc
-8dd
-8ee
-=2
-16dd
-16cc
-16a
-16cc
-8ee
-=3
-4dd
-8dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16b	Przecieś
+16cc	.
+8dd	mnie
+8ee	ty
+=2	=2
+16dd	na
+16cc	drodze
+16aL	.
+16ccJ	.
+8ee	nie
+=3	=3
+4dd	znalaz,
+8dd}	.
 !!LO:LB:g=esac
-=4
-{16b
-16cc
-8dd
-8ee
-=5
-16dd
-16cc
-16a
-16cc
-8b
-=6
-4g
-8g}
+=4	=4
+{16b	żebyś
+16cc	.
+8dd	mnie
+8ee	ty
+=5	=5
+16dd	ponie-
+16cc	.
+16aL	-wierał
+16ccJ	.
+8b	.
+=6	=6
+4g	zaraz.
+8g}	.
 !!LO:LB:g=esac
-=7
-{16b
-16a
-8f#
-8d
-=8
-16g
-16b
-8a
-8cc
-=9
-8b
-4dd}
+=7	=7
+{16b/	Znalazł-
+16a	.
+8f#	-żeś
+8d	mnie
+=8	=8
+16g	u
+16b	mamuli
+8a\	.
+8cc	.
+=9	=9
+8b	w_domku,
+4dd}	.
 !!LO:LB:g=esac
-=10
-{16b
-16a
-8f#
-8d
-=11
-16g
-16b
-8a
-8cc
-=12
-4g
-8g}
-==
-*-
+=10	=10
+{16b/	jakżem
+16a	.
+8f#	była
+8d	.
+=11	=11
+16g	w
+16b	lewandowém
+8a	.
+8cc	.
+=12	=12
+4g	wianku.
+8g}	.
+==	==
+*-	*-
+!!!role-singer: Wife
+!!!role-listener: Husband
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Przecieś mnie ty na drodze nie znalaz,
+!!żebyś mnie ty poniewierał zaraz.
+!!Znalazłżeś mnie u mamuli w domku,
+!!jakżem była w lewandowém wianku.
+!!@VERSE:
+!!2. I wziąłeś mnie od ojca i matki,
+!!i dostał-żeś téż te wszystkie dostatki.
+!!A coś to za dostateczki miała?
+!!cztéry kury i półtora jaja.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=245 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 229} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 229}
 !!!page: 229
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1336600002-takiego_my_macka_dali.krn
+﻿!!!!SEGMENT: DWOK1336600002-takiego_my_macka_dali.krn
 !!!OTL: Takiego my Maćka dali
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gniewkowa, Służewa
+!!!AR1: kujawsko-pomorskie ; inowrocławski ; Gniewkowo-miasto
+!!!GE1: 52.892787 , 18.408568
+!!!AR2: kujawsko-pomorskie ; aleksandrowski ; Aleksandrów Kujawski-gmina wiejska
+!!!GE2: 52.856188 , 18.645535
 !!!source: DWOK13
 !!!id: 13366
 !!!signature: 1336600002
@@ -73,7 +80,7 @@
 !!nie wiem co to będzie daléj.
 !!@@END: VERSES
 !!!role-singer: Mistress
-!!!singer-sex: Female
+!!!singer-sex: female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=180 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 156} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 156}
@@ -81,3 +88,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-04-01
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-15

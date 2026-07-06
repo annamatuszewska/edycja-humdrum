@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1319600000-ty_koniku_sronowaty.krn
+﻿!!!!SEGMENT: DWOK1319600000-ty_koniku_sronowaty.krn
 !!!OTL: Ty koniku śronowaty
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Dolska (Bielewo)
+!!!AR1: wielkopolskie ; kościański ; Krzywiń-obszar wiejski
+!!!GE1: 51.951041 , 16.933421
 !!!source: DWOK13
 !!!id: 13196
 !!!signature: 1319600000
@@ -35,7 +40,7 @@
 {8b	i-
 8cc	-no
 4ee	za-
-4g	-jedź
+4g\	-jedź
 =6	=6
 4cc	do
 4dd	u-
@@ -116,8 +121,8 @@
 !!ta uboga wyćwiczona,
 !!ta bogata rozpieszczona.
 !!@@END: VERSES
-!!!role-singer: Complex
-!!!role-listener: Single man
+!!!role-singer: Bachelor
+!!!role-listener: Horse
 !!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -126,3 +131,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-03
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-13

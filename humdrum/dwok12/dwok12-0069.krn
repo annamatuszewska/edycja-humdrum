@@ -1,73 +1,108 @@
-!!!!SEGMENT: DWOK1206900000-pocozescie_przyjechali_kiedy_my_wam_nie_kazali.krn
+﻿!!!!SEGMENT: DWOK1206900000-pocozescie_przyjechali_kiedy_my_wam_nie_kazali.krn
 !!!OTL: Pocóżeście przyjechali kiedy my wam nie kazali
+!!!FKT: Pieśni i Dumy. Miłość. Pieśni zalotne
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Znina, Barcina
+!!!AR1: kujawsko-pomorskie ; żniński ; Żnin-miasto
+!!!GE1: 52.849622 , 17.720835
+!!!AR2: kujawsko-pomorskie ; żniński ; Barcin-miasto
+!!!GE2: 52.857378 , 17.941886
 !!!source: DWOK12
 !!!id: 12069
 !!!signature: 1206900000
-**kern
-*clefG2
-*k[f#]
-*e:
-*M3/8
-=1
-{16b
-16dd#
-8ee
-8ee
-=2
-16ee
-16dd#
-8ee
-8b
-=3
-16cc
-16b
-8a
-8b
-=4
-16e
-16e
-8a
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*e:	*
+*M3/8	*
+=1	=1
+{16b	Pocó-
+16dd#	.
+8ee	-żeście
+8ee	.
+=2	=2
+16ee	przyjecha-
+16dd#	.
+8ee	.
+8b	-li
+=3	=3
+16cc	kiedy
+16b	.
+8a	my
+8b	wam
+=4	=4
+16e	nie
+16e	kazali,
+8a	.
+8g}	.
 !!LO:LB:g=esac
-=5
-{16e
-16f#
-8g
-8g
-=6
-4g
-16b
-16dd
-=7
-16cc
-16cc
-8a
-8b
-=8
-8g
-4e}
+=5	=5
+{16e	po
+16f#	co
+8g	waspan
+8g	.
+=6	=6
+4g	depce,
+16bL	.
+16ddJ	.
+=7	=7
+8ddq	.
+16cc	kiedy
+16cc	.
+8a	panna
+8b	.
+=8	=8
+8f#q	.
+8g	niechce.
+4e}	.
 !!LO:LB:g=esac
-=9
-{16e
-16f#
-8g
-8g
-=10
-4g
-16b
-16dd
-=11
-16cc
-16cc
-8a
-8b
-=12
-8g
-4e}
-==
-*-
+=9	=9
+{16e	po
+16f#	co
+8g	waspan
+8g	.
+=10	=10
+4g	depce,
+16bL	.
+16ddJ	.
+=11	=11
+8ddq	.
+16cc	kiedy
+16cc	.
+8a	panna
+8b	.
+=12	=12
+8f#q	.
+8g	niechce.
+4e}	.
+==	==
+*-	*-
+!!!role-singer: Group
+!!!role-listener: Enamoured
+!!@@BEGIN: VERSES
+!!@VERSE:Pocóżeście przyjechali
+!!kiedy my wam nie kazali,
+!!po co waspan depce,
+!!kiedy panna niechce.
+!!@VERSE:Ta kolaska malowana,
+!!powiadają: pożyczana;
+!!a waspan się pyszni,
+!!i oddać nie myśli.
+!!@VERSE:I ten nożyk z rybiéj kości,
+!!powiadają; że jéjmości;
+!!a waspan się pyszni
+!!i oddać nie myśli.
+!!@VERSE:Ta chusteczka co w kieszéni,
+!!tego chłopca co od świni;
+!!a waspan się pyszni
+!!i oddać nie myśli.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=47 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 31} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 31}
 !!!page: 31
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-02-21
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

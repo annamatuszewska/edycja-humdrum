@@ -1,65 +1,91 @@
-!!!!SEGMENT: DWOK1233600020-czy_to_pod_olszyna.krn
+﻿!!!!SEGMENT: DWOK1233600010-czy_to_pod_olszyna.krn
 !!!OTL: Czy to pod olszyną
+!!!FKT: Pieśni i Dumy. Igraszka. Swawola
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Zaniemyśla, Książa
+!!!AR1: wielkopolskie ; średzki ; Zaniemyśl-gmina wiejska
+!!!GE1: 52.156121 , 17.164291
+!!!AR2: wielkopolskie ; śremski ; Książ Wielkopolski-miasto
+!!!GE2: 52.062403 , 17.239231
 !!!source: DWOK12
 !!!id: 12336
 !!!signature: 1233600020
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16d
-16g
-8b
-8g
-=2
-16g
-16f#
-8f#
-8f#
-=3
-16.d
-32f#
-8a
-8f#
-=4
-16cc
-16dd
-16cc
-16a
-8b}
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M3/8	*
+=1	=1
+{16d	Daj
+16g	mi
+8b	pokój
+8g\	.
+=2	=2
+16g\	ja
+16f#\	cię
+8f#\	proszę,
+8f#\	.
+=3	=3
+16.d	niech
+32f#	ja
+8a\	swoją
+8f#\	.
+=4	=4
+16cc	trzodę
+16dd	.
+16ccL	pasę,
+16aJ	.
+8b}	.
 !!LO:LB:g=esac
-=5
-{16d
-16g
-16b
-16g
-8g
-=6
-16g
-16f#
-16f#
-16f#
-8f#
-=7
-16.d
-32f#
-16a
-16d
-16f#
-16a
-=8
-16cc
-16b
-16g
-16g
-8g}
-==
-*-
-!!!ONB: Fragment melodii w G
+=5	=5
+{16d	daj
+16g	mi
+16bL	pokój
+16g	.
+8gJ	.
+=6	=6
+16gL	ja
+16f#J	cię
+16f#L	proszę,
+16f#	.
+8f#J	.
+=7	=7
+16.d	niech
+32f#	ja
+16aL	swoją
+16dJ	.
+16f#L	.
+16aJ	.
+=8	=8
+16cc	trzodę
+16b	.
+8g\	pa-
+8g\}	sę.
+==	==
+*-	*-
+!!!role-singer: Narrator, Maiden
+!!!role-listener: Bachelor
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Czy to pod olszyną,
+!!czy to pod laszczyną,
+!!pasła pastereczka
+!!młode jagniąteczka.
+!!@VERSE:
+!!2. Daj mi pokój
+!!ja cię proszę,
+!!niech ja swoją
+!!trzodę pasę.
+!!@@END: VERSES
+!!!ONB: Fragment melodii w D
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=194 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 178} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 178}
 !!!page: 178
+!!!BEM: Fragment melodii w G
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

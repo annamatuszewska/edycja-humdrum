@@ -1,68 +1,98 @@
-!!!!SEGMENT: DWOK1229600002-szumiace_lasy_biezace_wody.krn
+﻿!!!!SEGMENT: DWOK1229600002-szumiace_lasy_biezace_wody.krn
 !!!OTL: Szumiące lasy, bieżące wody
+!!!FKT: Pieśni i Dumy. Strata wianka. Żale
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: Wieleń
+!!!AR1: wielkopolskie ; czarnkowsko-trzcianecki ; Wieleń-miasto
+!!!GE1: 52.888563 , 16.167865
 !!!source: DWOK12
 !!!id: 12296
 !!!signature: 1229600002
-**kern
-*clefG2
-*k[b-]
-*F:
-*M6/8
-=1
-{8f
-8a
-8cc
-4ff
-8ff
-=2
-8dd
-8g
-8b-
-4dd
-8dd
-=3
-8cc
-8a
-8cc
-8ff
-8ee
-8ff
-=4
-8dd
-8g
-8b-
-4b-
-8a}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M6/8	*
+=1	=1
+{8f	Szumiące
+8a	.
+8cc	.
+4ff	lasy
+8ff	.
+=2	=2
+8dd	bieżące
+8g	.
+8b-	.
+4dd	wody,
+8dd	.
+=3	=3
+8cc	tam
+8a\	dziewczę
+8cc	.
+8ffL	zbiera
+8eeJ/	.
+8ff	.
+=4	=4
+8dd	czarne
+8g\	.
+8b-	jago-
+4b-	.
+8a\}	-dy.
 !!LO:LB:g=esac
-=5
-{8f
-8a
-8cc
-4f
-8f
-=6
-8e
-8g
-8b-
-4dd
-8dd
-=7
-8cc
-8f
-8g
-8a
-8g
-8a
-=8
-8b-
-8e
-8g
-4f
-8f}
-==
-*-
+=5	=5
+{8f	Jak
+8a	je
+8cc	zbierała,
+4f	.
+8f	.
+=6	=6
+8e	tak
+8g	je
+8b-	zbierała,
+4dd	.
+8dd	.
+=7	=7
+8cc	żadny
+8f	.
+8g	się
+8b-q	.
+8aL	zdrady
+8gJ	.
+8a	.
+=8	=8
+8b-	nie
+8e	spodziewała.
+8g	.
+4f	.
+8f}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Maiden, Bachelor
+!!!role-listener: Bachelor, Maiden
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Szumiące lasy bieżące wody,
+!!tam dziewcze zbiera czarne jagody.
+!!Jak je zbierała, tak je zbierała,
+!!żadny się zdrady nie spodziewała.
+!!@VERSE:
+!!2. Przyjechał do ni, Jasinek młody,
+!!podał jéj rączkę, daléj w jagody.
+!!Puść mnie mój Jasiu, puść mnie dla Boga,
+!!już nocka zaszła, daleka droga.
+!!@VERSE:
+!!3. Nie puszczę Kasiu, sam służyć będę,
+!!twego łóżeczka strażnikiem będę.
+!!Wy leśne drzewa, stańcie nade mną,
+!!a wy kaminie, nocujcie ze mną.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=312 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 296} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 296}
 !!!page: 296
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

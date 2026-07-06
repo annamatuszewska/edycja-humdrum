@@ -1,93 +1,112 @@
-!!!!SEGMENT: DWOK1207800000-dacie_mi_ja_nie_dacie_da_dana.krn
+﻿!!!!SEGMENT: DWOK1207800000-dacie_mi_ja_nie_dacie_da_dana.krn
 !!!OTL: Dacie mi ją nie dacie, da dana
+!!!FKT: Pieśni i Dumy. Chęć ożenku. Wymówka
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Szmigla (Morownica)
+!!!AR1: wielkopolskie ; kościański ; Śmigiel-obszar wiejski
+!!!GE1: 51.989996 , 16.475680
 !!!source: DWOK12
 !!!id: 12078
 !!!signature: 1207800000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8g
-8g
-4ff
-4ff
-=2
-8cc
-8ee
-8cc
-8ee
-8gg
-8aa
-=3
-8g
-8g
-4ff
-4ff
-=4
-8gg
-8ee
-4cc}
-4r
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8g	Dacie
+8g	.
+4ff	mi
+4ff	ją
+=2	=2
+8cc	nie
+8ee	dacie,
+8cc	.
+8ee	da
+8gg	dana
+8aa	.
+=3	=3
+8g\	dacie
+8g\	.
+4ff	mi
+4ff	ją
+=4	=4
+8gg	nie
+8ee	dacie,
+4cc}	.
+4r	.
 !!LO:LB:g=esac
-=5
-{8dd
-8dd
-4ff
-4aa
-=6
-8gg
-8ee
-4cc}
-4r
+=5	=5
+{8ddL	w_tym
+8ddJ/	czerwonym
+4ff/	.
+4aa/	.
+=6	=6
+8gg	kabacie.
+8ee	.
+4cc}	.
+4r	.
 !!LO:LB:g=esac
-=7
-{8g
-8g
-8b
-8dd
-8ff
-8ee
-=8
-8cc
-8ee
-8cc
-8ee
-8cc
-8a
-=9
-8g
-8g
-4b
-4dd
-=10
-8ee
-8ee
-4cc
-4r
-=11
-8cc
-8ee
-8cc
-8ee
-8cc
-8a}
+=7	=7
+{8g	Na
+8g	konika
+8b	.
+8dd	.
+8ff	wsiadnę,
+8ee	.
+=8	=8
+8cc	córeczkę
+8ee	.
+8cc	.
+8ee	ukradnę
+8cc	.
+8a	.
+=9	=9
+8g	i
+8g	co
+4b	ze
+4dd	mną
+=10	=10
+8ffq	.
+8ee	wskóracie?
+8ee	.
+4cc	.
+4r	.
+=11	=11
+8cc	wskóracie
+8ee	.
+8cc	.
+8ee	da
+8cc	dana,
+8a}	.
 !!LO:LB:g=esac
-=12
-{8g
-8g
-4b
-4dd
-=13
-8ee
-8ee
-4cc}
-4r
-==
-*-
+=12	=12
+{8g	i
+8g	co
+4b	ze
+4dd	mną
+=13	=13
+8ffq	.
+8ee	wskóracie.
+8ee	.
+4cc}	.
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!@VERSE:Dacie mi ją nie dacie,
+!!da dana dacie mi ją nie dacie,
+!!w tym czerwonym kabacie.
+!!Na konika wsiadnę,
+!!córeczkę ukradnę i co ze mną wskóracie?
+!!wskóracie da dana, i co za mną wskóracie.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=51 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 35} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 35}
 !!!page: 35
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-02-21
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

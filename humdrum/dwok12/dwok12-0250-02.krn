@@ -1,79 +1,101 @@
-!!!!SEGMENT: DWOK1225000002-nie_kce_cie_dziwce.krn
+﻿!!!!SEGMENT: DWOK1225000002-nie_kce_cie_dziwce.krn
 !!!OTL: Nie kcę cię dziwce
+!!!FKT: Pieśni i Dumy. Skarga. Niechęć. Rozstanie
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Wielenia
+!!!AR1: wielkopolskie ; czarnkowsko-trzcianecki ; Wieleń-miasto
+!!!GE1: 52.888563 , 16.167865
 !!!source: DWOK12
 !!!id: 12250
 !!!signature: 1225000002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{4dd
-8ee
-8cc
-8b
-8b
-=2
-8a
-8a
-2dd
-=3
-4dd
-8ee
-8cc
-8b
-8b
-=4
-8a
-8a
-4g}
-4r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{4dd	Nie
+8ee	kcę
+8cc	cię
+8bL	dziwce,
+8bJ/	.
+=2	=2
+8a	nie
+8a	kcę
+2dd	cię,
+=3	=3
+4dd	zganili
+8ee	.
+8cc	.
+8b	ludzie,
+8b	.
+=4	=4
+8a	rodzice,
+8a	.
+4g}	.
+4r	.
 !!LO:LB:g=esac
-=5
-{8b
-8b
-8b
-8b
-8a
-8g
-=6
-8dd
-8ee
-8dd
-8cc
-8b
-8a
-=7
-8b
-8b
-8b
-8b
-8a
-8g
-=8
-8dd
-8ee
-8dd
-8cc
-8b
-8a}
+=5	=5
+{8b	ze
+8b	rychło
+8b	.
+8b	nie
+8a	wstajes,
+8g	.
+=6	=6
+8dd	króweckom
+8ee	.
+8dd	.
+8cc	nie
+8b	dajes,
+8a\	.
+=7	=7
+8b	celadki
+8b	.
+8b	.
+8b	nie
+8a	büdzis,
+8g	.
+=8	=8
+8dd	sama
+8ee	.
+8dd	się
+8cc	nie
+8b	chlüdzis,
+8a\}	.
 !!LO:LB:g=esac
-=9
-{4dd
-8ee
-8cc
-8b
-8b
-=10
-8a
-8a
-4g}
-4r
-==
-*-
+=9	=9
+{4dd	nie
+8ee	kcę
+8cc	cię
+8b	dziwce,
+8b	.
+=10	=10
+8a	nie
+8a	kcę
+4g}	cię.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!role-listener: Maiden
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Nie kcę cię dziwce, nie kcę cię,
+!!zganili ludzie, rodzice,
+!!ze rychło nie wstajes,
+!!króweckom nie dajes,
+!!celadki nie büdzis,
+!!sama się nie chlüdzis,
+!!nie kcę cię dziwce, nie kcę cię.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=150 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 134} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 134}
 !!!page: 134
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

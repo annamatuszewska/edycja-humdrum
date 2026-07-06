@@ -1,73 +1,144 @@
-!!!!SEGMENT: DWOK1219400002-jechal_zolnierz_z_wojny.krn
+﻿!!!!SEGMENT: DWOK1219400002-jechal_zolnierz_z_wojny.krn
 !!!OTL: Jechał żołnierz z wojny
+!!!FKT: Pieśni i Dumy. Stałość. Życzliwość. Wymówka
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: Kołuda, Ołdrzychowo (p. Inowrocł.)
+!!!AR1: kujawsko-pomorskie ; NIE ; NIE
+!!!GE1: 52.726984 , 18.136747
+!!!AR2: kujawsko-pomorskie ; inowrocławski ; Janikowo-obszar wiejski
+!!!GE2: 52.702543 , 18.125801
 !!!source: DWOK12
 !!!id: 12194
 !!!signature: 1219400002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M6/8
-=1
-{16cc
-16cc
-8cc
-8ee
-8.cc
-16b
-16a
-16g
-=2
-16b
-16b
-8b
-8b
-4b
-16a
-16g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M6/8	*
+=1	=1
+{16ccL	Jachał
+16ccJ/	.
+8ccL	.
+8eeJ/	żołnierz
+8.ccL	.
+16bJ	.
+16aL	z_wojny,
+16gJ	.
+=2	=2
+16bL	wstąpił
+16bJ/	.
+8b	.
+8b	do
+4b	gospody,
+16aL	.
+16gJ}	.
 !!LO:LB:g=esac
-=3
-{16a
-16a
-8a
-8a
-4dd
-8dd
-=4
-8.g
-16f#
-16g
-16a
-4b
-16a
-16g}
+=3	=3
+{16aL	spodobała
+16aJ\	.
+8a	.
+8a	.
+4dd	mu
+8dd	się
+=4	=4
+8.gL	dziewczyna
+16f#J	.
+16gL	.
+16aJ	.
+4b	z_urody.
+16aL	.
+16gJ}	.
 !!LO:LB:g=esac
-=5
-{4cc
-8ee
-8.cc
-16b
-16a
-16g
-=6
-4b
-8b
-4.b}
+=5	=5
+{4cc	Moją
+8ee	.
+8.ccL	mi-
+16bJ	.
+16aL	-łą
+16gJ	.
+=6	=6
+4b	musisz
+8b	.
+4.b}	być,
 !!LO:LB:g=esac
-=7
-{4a
-8a
-4dd
-8dd
-=8
-4g
-8g
-4g}
-8r
-==
-*-
+=7	=7
+{4a	moją
+8a	.
+4dd	wolę
+8dd	.
+=8	=8
+4g	uczynić.
+8g	.
+4g}	.
+8r	.
+==	==
+*- 	*-
+!!!role-singer: Narrator, Maiden, Soldier
+!!!role-listener: Soldier, Maiden
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Jachał żołnierz z wojny, wstąpił do gospody,
+!!spodobała mu się dziewczyna z urody.
+!!moją miłą musisz być,
+!!moją wolę uczynić.
+!!@VERSE:
+!!2. Uczynię-ć ja się przepiórzyczkami,
+!!będę siadała pod béliczkami;
+!!twoją milą nie będę,
+!!aż się panną nabędę.
+!!@VERSE:
+!!3. Mają ci-ć to strzelcy takie zwierzęta,
+!!co płoszą wszystkie dzikie przepierzęta;
+!!a ty moją musisz być,
+!!moją wolę uczynić.
+!!@VERSE:
+!!4. Uczynię-ć ja się dzikim kaczórem,
+!!będę pływała glębokiém jęziorem;
+!!twoją miłą nie będę,
+!!aż się panną nabędę.
+!!@VERSE:
+!!5. Mają ci-ć to strzelcy palnéj broni wzóry,
+!!co powystrzelają te dzikie kaczóry;
+!!a ty moją mnsisz być,
+!!moją wolę uczynić.
+!!@VERSE:
+!!6. Uczynię ja się jak dzikie gołębie,
+!!będę siadała w gałęziach na dębie;
+!!twoją miłą nie będę,
+!!aż się panną nabędę.
+!!@VERSE:
+!!7. Mają-ć to cieśle takie topóry,
+!!co powycinają i dęby i bóry;
+!!a ty moją musisz być,
+!!moją wolę uczynić.
+!!@VERSE:
+!!8. Uczynię-ć ja się gwiazdeczką na niebie,
+!!będę świeciła z miesiączkiem do ciebie;
+!!twoją miłą nie będę,
+!!aż się panną nabędę.
+!!@VERSE:
+!!9. A mam-ci ja téż taką strzałę w oku,
+!!co tam dostanę księżyca w obłoku;
+!!moją miłą musisz być,
+!!moją wolę uczynić.
+!!@VERSE:
+!!10. Pieczcie pań-matko chleby i kołacze,
+!!kiedy wy mnie już za żołnierza dacie;
+!!jego miłą muszę być,
+!!jego wolę uczynić.
+!!@VERSE:
+!!11. Grajcie kapele a na wszystkie strony,
+!!na chwałę Bogu, żem tu dostał żony;
+!!bo już moją musi być,
+!!wolę moją uczynić.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=115 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 99} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 99}
 !!!page: 99
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

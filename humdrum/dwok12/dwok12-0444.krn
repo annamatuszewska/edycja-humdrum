@@ -1,109 +1,134 @@
-!!!!SEGMENT: DWOK1244400000-com_zarobila_tom_zarobila.krn
+﻿!!!!SEGMENT: DWOK1244400000-com_zarobila_tom_zarobila.krn
 !!!OTL: Com zarobiła tom zarobiła
+!!!FKT: Pieśni i Dumy. Małżeństwo. Kłótnia. Zgoda
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Buku, Opalenicy
+!!!AR1: wielkopolskie ; poznański ; Buk-miasto
+!!!GE1: 52.355394 , 16.519710
+!!!AR2: wielkopolskie ; nowotomyski ; Opalenica-miasto
+!!!GE2: 52.307491 , 16.413073
 !!!source: DWOK12
 !!!id: 12444
 !!!signature: 1244400000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16dd
-16ee
-16ff
-16dd
-16ee
-16cc
-=2
-16dd
-16ee
-16dd
-16cc
-16ee
-16gg
-=3
-16dd
-16ee
-16ff
-16dd
-16ee
-16cc
-=4
-8.dd
-16b
-8cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16ddL	Com
+16eeJ	.
+16ff	zarobi-
+16dd	.
+16ee	.
+16cc	-ła
+=2	=2
+16ddL	tom
+16eeJ	.
+16dd	zarobi-
+16cc	.
+16ee	.
+16gg	-ła
+=3	=3
+16dd	to
+16ee	mi
+16ffL	Jasio
+16ddJ	.
+16eeL	.
+16ccJ	.
+=4	=4
+8.ddL	przepił,
+16b	.
+8ccJ}	.
 !!LO:LB:g=esac
-=5
-{16dd
-16ee
-16ff
-16dd
-16ee
-16cc
-=6
-16dd
-16ee
-16dd
-16cc
-16ee
-16gg
-=7
-16dd
-16ee
-16ff
-16dd
-16ee
-16cc
-=8
-16dd
-16ee
-16dd
-16b
-8cc}
+=5	=5
+{16ddL	że-
+16eeJ	.
+16ff	-bym
+16dd	mu
+16ee	była
+16cc	.
+=6	=6
+16ddL	nic
+16eeJ	.
+16dd	nie
+16cc	mówiła,
+16ee	.
+16gg	.
+=7	=7
+16dd	nie
+16ee	był-
+16ffL	-by
+16ddJ	.
+16eeL	mnie
+16ccJ	.
+=8	=8
+16ddL	o-
+16ee	.
+16dd	.
+16b	.
+8ccJ/}	-bił.
 !!LO:LB:g=esac
-=9
-{4cc
-8gg
-=10
-16.ee
-32cc
-8g
-8b
-=11
-4cc
-16ee
-16gg
-=12
-16ee
-16cc
-16dd
-16b
-8g}
+=9	=9
+{(4cc	bił
+8ccq)	.
+8gg	.
+=10	=10
+16.ee	mnie
+32cc	na
+8g	po-
+8b	-lu,
+=11	=11
+4cc	bił
+16eeL	mnie
+16ggJ	.
+=12	=12
+16ee	na
+16cc	leży-
+16ddL	.
+16bJ	.
+8g}	-sku
 !!LO:LB:g=esac
-=13
-{4ee
-8gg
-=14
-16.ee
-32cc
-8g
-8b
-=15
-8cc
-8cc
-16ee
-16gg
-=16
-16.ee
-32cc
-16dd
-16b
-8cc}
-==
-*-
+=13	=13
+{(4ee	bił
+8ccq)	.
+8gg	.
+=14	=14
+16.ee	mnie
+32cc	po
+8g	czepczysku,
+8b	.
+=15	=15
+8ccL	bił
+8ccJ/	.
+16eeL	mnie
+16ggJ	.
+=16	=16
+16.ee	i
+32cc	po
+16ddL	pysku.
+16bJ	.
+8cc}	.
+==	==
+*-	*-
+!!!role-singer: Wife
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!Com zarobiła tom zarobiła
+!!to mi Jasio przepił,
+!!żebym mu była nic nie mówiła,
+!!nie byłby mnie obił.
+!!bił mnie na polu,
+!!bił mnie na leżysku
+!!bił mnie po czepczysku,
+!!bił mnie i po pysku.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=247 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 231} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 231}
 !!!page: 231
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

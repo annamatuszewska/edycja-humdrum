@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1313700000-co_ja_tobie_obiecala.krn
+﻿!!!!SEGMENT: DWOK1313700000-co_ja_tobie_obiecala.krn
 !!!OTL: Co ja tobie obiecała
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Krzywinia (Łuszkowo)
+!!!AR1: wielkopolskie ; kościański ; Krzywiń-obszar wiejski
+!!!GE1: 52.022565 , 16.860099
 !!!source: DWOK13
 !!!id: 13137
 !!!signature: 1313700000
@@ -54,7 +59,7 @@
 !!@@BEGIN: VERSES
 !!Co ja tobie obiecała
 !!to ja tobie dam da i dam.
-!!w artuszeczek jabłuszeczek
+!!w fartuszeczek jabłuszeczek
 !!tylko nazbiéram nazbiéram.
 !!@@END: VERSES
 !!!role-singer: Mistress
@@ -67,3 +72,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-21
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-02

@@ -1,82 +1,135 @@
-!!!!SEGMENT: DWOK1215900001-jezu_maryja_juz_mnie_ma_bije.krn
-!!!OTL: Jezu Maryja już mnie mą bije
+﻿!!!!SEGMENT: DWOK1215900001-jezu_maryja_juz_mnie_ma_bije.krn
+!!!OTL: Jezu Maryja już mnie mąż bije
+!!!FKT: Pieśni i Dumy. Pieśni przed Weselem i wśród Wesela śpiewane
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: Bnin, Kurnik
+!!!AR1: wielkopolskie ; poznański ; Kórnik-miasto
+!!!GE1: 52.224002 , 17.087303
+!!!AR2: wielkopolskie ; poznański ; Kórnik-miasto
+!!!GE2: 52.248594 , 17.089676
 !!!source: DWOK12
 !!!id: 12159
 !!!signature: 1215900001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{4dd
-4dd
-=2
-4dd
-8b
-8cc
-=3
-8dd
-16dd
-16cc
-8a
-16a
-16b
-=4
-4g}
-4r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{4dd	Jezu,
+4dd	.
+=2	=2
+4dd	Maryja,
+8b	.
+8cc	.
+=3	=3
+8dd	już
+16ddL	mnie
+16ccJ	.
+8a	mąż
+16aL	bi-
+16bJ	.
+=4	=4
+4g}	-je,
+4r	.
 !!LO:LB:g=esac
-=5
-{4dd
-4dd
-=6
-4dd
-8b
-8cc
-=7
-8dd
-16dd
-16cc
-8a
-16a
-16b
-=8
-4g}
-4r
+=5	=5
+{4dd	nima
+4dd	.
+=6	=6
+4dd	takiego,
+8b	.
+8cc	.
+=7	=7
+8dd	co
+16ddL	po-
+16ccJ	.
+8a	-ża-
+16aL	-łu-
+16bJ	.
+=8	=8
+4g}	je.
+4r	.
 !!LO:LB:g=esac
-=9
-{8b
-8b
-8a
-8a
-=10
-8g
-8b
-8.dd
-16cc
-=11
-8b
-8b
-8a
-8a
-=12
-8g
-8b
-8dd
-8cc}
+=9	=9
+{8b	Oj
+8b	i
+8a	przyjedź
+8a	.
+=10	=10
+8g	matu-
+8b	.
+8.dd	-leńku,
+16cc	.
+=11	=11
+8b	oj
+8b	i
+8a	przyjedź
+8a\	.
+=12	=12
+8g	najkochańsza,
+8b	.
+8dd	.
+8cc}	.
 !!LO:LB:g=esac
-=13
-{8b
-8dd
-8a
-8b
-=14
-4g}
-4r
-==
-*-
+=13	=13
+{8b	pożałuj
+8dd	.
+8a\	.
+8b	mnie
+=14	=14
+4g}	ty!
+4r	.
+==	==
+*-	*-
+!!!role-singer: Wife, Brother, Husband
+!!!role-listener: Family, Husband, Wife
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!1. Jezu, Maryja, już mnie mąż bije,
+!!nie ma takiego, co pożałuje.
+!!Oj i przyjedź matuleńku,
+!!oj i przyjedź najkochańsza,
+!!pożałuj mnie ty!
+!!@VERSE:
+!!2. Matusia jedzie, ciśnie we wrota,
+!!sukienka na ni z samego złota:
+!!Oj i bijże zięciu dobrze,
+!!aż się skóra na ni podrze,
+!!bo to ladaco.
+!!(W ten sposób przechodzą: ojca, brata starszego, na którym ka-
+!!pelusz, laseczka z samego złota, siostrę u którćj fartuszek ze złota,
+!!kończą:)
+!!@VERSE:
+!!7. Jezu Maryja, już mnie mąż bije,
+!!nie ma takiego, co pożałuje.
+!!Oj przyjedź bracie, przyjedź,
+!!oj przyjedź ty najmłodszy,
+!!pożałuj mnie ty!
+!!@VERSE:
+!!8. Braciszek jedzie, ciśnie we wrota,
+!!szabelka przy boku z samego złota.
+!!Oj nie bij szwagrze siostry,
+!!boś ty jeszcze niedorosły,
+!!ze świata zginiesz.
+!!@VERSE:
+!!9. Tędy, owędy, niéma którędy,
+!!ani drzwiami, ni oknami,
+!!wszędzie stoją z szabelkami,
+!!ze świata zginę!
+!!@VERSE:
+!!10. Żono kochana, uproś brata swego,
+!!niech ja nie ginę z tego świata mego,
+!!a już tobie podprzysięgę,
+!!że już ciebie bić nie będę,
+!!żono kochana!
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=96 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 80} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 80}
 !!!page: 80
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-02-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-09

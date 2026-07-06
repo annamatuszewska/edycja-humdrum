@@ -1,81 +1,108 @@
-!!!!SEGMENT: DWOK1203700001-cos_ty_za_pan_co_gardzisz_mna.krn
+﻿!!!!SEGMENT: DWOK1203700001-cos_ty_za_pan_co_gardzisz_mna.krn
 !!!OTL: Coś ty za pan co gardzisz mną
+!!!FKT: Pieśni i Dumy. Miłość. Pieśni zalotne
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Poznania
+!!!AR1: wielkopolskie ; m. Poznań ; Poznań-gmina miejska
+!!!GE1: 52.407918 , 16.933467
 !!!source: DWOK12
 !!!id: 12037
 !!!signature: 1203700001
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{8b
-8.dd
-16ee
-=2
-4cc
-8r
-=3
-8cc
-8.b
-16g
-=4
-4cc}
-8r
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Weselna.	!
+{8b	Coś
+8.dd	ty
+16ee	za
+=2	=2
+4cc	pan
+8r	.
+=3	=3
+8cc	co
+8.b	gardzisz
+16g	.
+=4	=4
+4cc}	mną,
+8r	.
 !!LO:LB:g=esac
-=5
-{8dd
-8dd
-16dd
-16ee
-=6
-4cc
-8r
-=7
-16cc
-16b
-8g
-8b
-=8
-4cc}
-8r
+=5	=5
+{8dd	wzdyć
+8dd	wszystek
+16ddL	.
+16eeJ	.
+=6	=6
+4cc	twój,
+8r	.
+=7	=7
+16ccL	najlepszy
+16bJ	.
+8g	.
+8b	.
+=8	=8
+4cc}	strój,
+8r	.
 !!LO:LB:g=esac
-=9
-{8cc
-8.ee
-16dd
-=10
-4.b
-=11
-8cc
-8.ee
-16dd
-=12
-16b
-16g}
-4r
+=9	=9
+{8cc	zdarty
+8.ee	.
+16dd	żu-
+=10	=10
+4.b	pan,
+=11	=11
+8cc	i
+8.ee	płaszczy-
+16dd	.
+=12	=12
+(>16bL	-sko,
+16g)}J	.
+4r	.
 !!LO:LB:g=esac
-=13
-{8cc
-8ee
-16dd
-16b
-=14
-4g
-8b
-=15
-8cc
-8ee
-16dd
-16b
-=16
-4cc}
-8r
-==
-*-
-!!!ONB: Weselna
+=13	=13
+{8cc	cne
+8ee	łaci-
+16ddL	.
+16bJ	.
+=14	=14
+(4g	-sko,
+8b)	.
+=15	=15
+8cc	cne
+8ee	łaci-
+16ddL	.
+16bJ	.
+=16	=16
+4cc}	-sko.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Mistress
+!!!role-listener:Lover
+!!!singer-sex: female
+!!!RDF**kern: >= above
+!!@@BEGIN: VERSES
+!!@VERSE:Coś ty za pan co gardzisz mną,
+!!wzdyć wszystek twój,
+!!najlepszy strój,
+!!zdarty żupan, i płaszczysko,
+!!cne łacisko, cne  łacisko.
+!!@VERSE:Ja mam przecie,
+!!jak widzicie:
+!!mideraczek
+!!i brzuszlaczek,
+!!i pościołeczkę
+!!gdyby sołtyska.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=34 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 18-19} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 18-19}
 !!!page: 18-19
+!!!BEM: Weselna
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-13-02
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

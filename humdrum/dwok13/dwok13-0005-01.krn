@@ -1,5 +1,7 @@
-!!!!SEGMENT: DWOK1300500001-slyszalem_o_jednej_pani.krn
+﻿!!!!SEGMENT: DWOK1300500001-slyszalem_o_jednej_pani.krn
 !!!OTL: Słyszałem o jednej pani
+!!!FKT: Pieśni. Miasta i Dwory. Świat. Los
+!!!REG: Wielkie Księstwo Poznańskie
 !!!source: DWOK13
 !!!id: 13005
 !!!signature: 1300500001
@@ -150,8 +152,6 @@
 !!rozmawia tylko o parze,
 !!kaszy gotować nie umie.		
 !!@@END: VERSES
-!!!role-singer: Brother
-!!!role-listener: Brother
 !!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -160,3 +160,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-01
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-17

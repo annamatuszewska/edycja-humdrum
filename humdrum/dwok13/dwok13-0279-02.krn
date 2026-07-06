@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1327900002-chto_pije_pomyje.krn
+﻿!!!!SEGMENT: DWOK1327900002-chto_pije_pomyje.krn
 !!!OTL: Chto pije pomyje
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Pobiedzisk
+!!!AR1: wielkopolskie ; poznański ; Pobiedziska-miasto
+!!!GE1: 52.477371 , 17.284954
 !!!source: DWOK13
 !!!id: 13279
 !!!signature: 1327900002
@@ -19,37 +24,37 @@
 8.ff	-my-
 16ee}	-je
 !!LO:LB:g=esac
-=	=
+=3	=3
 {8dd	a
 (>24gg/L	.
-24ff/	.
+24ff#/	.
 24dd/J)	.
 8ee	ja
-=	=
+=4	=4
 (>24cc/L	gorza-
 24b/	.
 24dd/J)	.
 8.cc	-łecz-
 16b}	-kę,
 !!LO:LB:g=esac
-=3	=3
+=5	=5
 {8g	chto
 16gL	ko-
 16b/J	.
 8cc	-cha
-=4	=4
+=6	=6
 16dd	sta-
 16dd	-ra
 8.ee	ba-
 16cc}	-bę
 !!LO:LB:g=esac
-=5	=5
+=7	=7
 {(8ddL	a
 16dd)	.
 16ffJ	.
 16ee/L	ja
 16cc/J	.
-=6	=6
+=8	=8
 16dd	pa-
 16ee	-nie-
 16ddL	-necz-
@@ -73,7 +78,9 @@
 !!bo ja tym wymówkom
 !!dalibóg nie wierzę.
 !!@@END: VERSES
-!!!role-singer: Narrator
+!!!role-singer: Boy
+!!!role-listener: Girl
+!!!sex-singer: male
 !!!RDF**kern: >= above
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -82,3 +89,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-18
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-23

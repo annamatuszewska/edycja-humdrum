@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1301200002-na_dolinie_zawierucha.krn
+﻿!!!!SEGMENT: DWOK1301200002-na_dolinie_zawierucha.krn
 !!!OTL: Na dolinie zawierucha
+!!!FKT: Pieśni. Miasta i Dwory. Świat. Los
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Torunia, Nieszawy
+!!!AR1: kujawsko-pomorskie ; m. Toruń ; Toruń-gmina miejska
+!!!GE1: 53.012953 , 18.605666
+!!!AR2: kujawsko-pomorskie ; aleksandrowski ; Nieszawa-gmina miejska
+!!!GE2: 52.834090 , 18.902363
 !!!source: DWOK13
 !!!id: 13012
 !!!signature: 1301200002
@@ -100,3 +107,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-03
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-17

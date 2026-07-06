@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1309000000-moja_anuleczka.krn
-!!!OTL: Moja Anuleczka
+﻿!!!!SEGMENT: DWOK1309000000-moja_anuleczka.krn
+!!!OTL: Moja Anuleczka robotna była
+!!!FKT: Pieśni. Miasta i Dwory. Kraj. Wieś. Rola. Łąka
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Szmigla (Morownica)
+!!!AR1: wielkopolskie ; kościański ; Śmigiel-obszar wiejski
+!!!GE1: 51.989996 , 16.475680
 !!!source: DWOK13
 !!!id: 13090
 !!!signature: 1309000000
@@ -98,7 +103,6 @@
 !!za to żem ci gąski wynalaz(ł).
 !!@@END: VERSES
 !!!role-singer: Lover
-!!!role-listener: Group
 !!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -107,3 +111,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-15
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-24

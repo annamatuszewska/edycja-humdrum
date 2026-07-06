@@ -1,44 +1,69 @@
-!!!!SEGMENT: DWOK1247800001-napila_sie_stara_baba_gorzaly.krn
+﻿!!!!SEGMENT: DWOK1247800001-napila_sie_stara_baba_gorzaly.krn
 !!!OTL: Napiła się stara baba gorzały
+!!!FKT: Pieśni i Dumy. Zabawa. Karczma. Tańce. Hulanka
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Czempina (Konojad)
+!!!AR1: wielkopolskie ; grodziski ; Kamieniec-gmina wiejska
+!!!GE1: 52.163014 , 16.533862
 !!!source: DWOK12
 !!!id: 12478
 !!!signature: 1247800001
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16cc
-16dd
-8ee
-8ee
-=2
-16ee
-16dd
-8ee
-8cc
-=3
-8ee
-8.ff
-16ee
-=4
-8dd
-8dd
-8dd}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Chłopek o babie.	!
+{16cc	Napi-
+16dd	.
+8ee	-ła
+8ee	się
+=2	=2
+16ee	stara
+16dd	.
+8ee	ba-
+8cc	-ba
+=3	=3
+8ee	gorza-
+8.ff^L	.
+16eeJ	.
+=4	=4
+8dd	-ły,
+8dd	ły,
+8dd}	ły,
 !!LO:LB:g=esac
-=5
-{8dd
-8.ee
-16dd
-=6
-8cc
-8cc
-8cc}
-==
-*-
+=5	=5
+{8dd	go-
+8.ee^L	rza-
+16ddJ	.
+=6	=6
+8cc	-ły,
+8cc	ły,
+8cc}	ły.
+==	==
+*-	*-
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Napiła się stara baba gorzały, ły, ły,
+!!pogubiła po gościńcu sandały, ły, ły.
+!!@VERSE:
+!!2. Napiła się stara baba cienkuszu, szu, szu,
+!!uwiązała swego konia w ratuszu, szu, szu.
+!!@VERSE:
+!!3. A stój mi tu mój koniku za chwilę, lę, lę,
+!!aż-ci ja się górzałeczki napiję, ję, ję.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=263 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 247} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 247}
 !!!page: 247
+!!!BEM: Chłopek o babie
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

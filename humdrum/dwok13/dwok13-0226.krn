@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1322600000-instrumentalna.krn
+﻿!!!!SEGMENT: DWOK1322600000-instrumentalna.krn
 !!!OTL: Instrumentalna
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Inowrocławia (Brudnia)
+!!!AR1: kujawsko-pomorskie ; inowrocławski ; Dąbrowa Biskupia-gmina wiejska
+!!!GE1: 52.797243 , 18.500235
 !!!source: DWOK13
 !!!id: 13226
 !!!signature: 1322600000
@@ -7,13 +12,13 @@
 *clefG2
 *k[f#]
 *G:
-=1
 *M3/4
+=1
 {8bL
 8ddJ
 4ee
 4dd
-=
+=2
 *Xtuplet
 12aL
 12a
@@ -21,12 +26,12 @@
 8ddL
 8ccJ
 4g
-=2
+=3
 8bL
 8ddJ
 4ee
 4dd
-=
+=4
 12aL
 12a
 12gJ
@@ -34,7 +39,7 @@
 8f#J
 4g}
 !!LO:LB:g=esac
-=
+=5
 {12aL
 12b/
 12dd/J
@@ -43,14 +48,14 @@
 12ee/J
 8dd/L
 8cc/J
-=
+=6
 12aL
 12a
 12gJ
 8ddL
 8ccJ
 4g
-=
+=7
 12aL
 12b/
 12ddJ/
@@ -59,7 +64,7 @@
 12ee/J
 8dd/L
 8cc/J
-=
+=8
 12aL
 12a
 12gJ
@@ -67,46 +72,47 @@
 8f#J
 4g}
 !!LO:LB:g=esac
-=
+=9
 *M3/8
+!LO:TX:a:t=Ksebka
 {16a\L
 8bq
 16dJd
 8eeL
 16ff#
 16eeJ
-=3
+=10
 8aL
 8dd/
 8cc#q
 8gJ
-=4
+=11
 16a\L
 8bq
 16ddJ
 8eeL
 16ff#
 16eeJ
-=5
+=12
 8a\L
 8f#\
 8g}\J
 !!LO:LB:g=esac
-=6
+=13
 {16aL
 16b/J
 8aL
 8gJ
-=7
+=14
 8aL
 8cc/
 8gJ
-=8
+=15
 16aL
 16b/J
 8aL
 8gJ
-=9
+=16
 8a\L
 8f#\
 8g}\J
@@ -119,3 +125,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-06
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-13

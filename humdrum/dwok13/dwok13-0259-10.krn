@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1325900010-instrumentalna-mazur_kujawski.krn
-!!!OTL: Instrumentalna-Mazur kujawski
+﻿!!!!SEGMENT: DWOK1325900010-instrumentalna-mazur_kujawski.krn
+!!!OTL: Instrumentalna. Mazur kujawski
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: Trzemeszno
+!!!AR1: wielkopolskie ; gnieźnieński ; Trzemeszno-miasto
+!!!GE1: 52.560668 , 17.821953
 !!!source: DWOK13
 !!!id: 13259
 !!!signature: 1325900010
@@ -8,7 +13,7 @@
 *k[f#c#]
 *D:
 *M3/8
-=
+=1
 *Xtuplet
 !LO:TX:a:t=Mazur kujawski.
 {24a\L
@@ -17,37 +22,37 @@
 8a\L
 16ee
 16ffJ#
-=1
+=2
 8ddL
 16dd
 16ff#
 8eeJ
-=2
+=3
 24a\L
 24dd
 24ff#J
 8a\L
 16ee
 16ffJ#
-=3
+=4
 8ddL
 16dd
 16ff#
 8ee}J
 !!LO:LB:g=esac
-=4
+=5
 {24a\L
 24dd
 24ff#J
 8a\L
 8a\J
-=5
+=6
 24aaL
 24gg
 24bbJ
 8.eeL
 16ddJ
-=6
+=7
 16cc#L
 32rJ
 32a\J
@@ -55,24 +60,24 @@
 16aJ
 16bL
 16cc#J
-=7
+=8
 16ddL
 16eeJ
 4ff#}
 !!LO:LB:g=esac
-=8
+=9
 {24a\L
 24dd
 24ff#J
 8a\L
 8a\J
-=9
+=10
 24aaL
 24gg
 24bbJ
 8.eeL
 16ddJ
-=10
+=11
 16cc#L
 32r
 32a\J
@@ -80,7 +85,7 @@
 16aJ
 16bL
 16cc#J
-=11
+=12
 24ddL
 24ee
 24ff#J
@@ -94,3 +99,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-11
+!!!END: 2026-03-05
+!!!ENC: Anna Matuszewska

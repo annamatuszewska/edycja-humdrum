@@ -1,45 +1,118 @@
-!!!!SEGMENT: DWOK1246600001-nie_bacys_ty_chlopie.krn
+﻿!!!!SEGMENT: DWOK1246600001-nie_bacys_ty_chlopie.krn
 !!!OTL: Nie bacys ty chłopie
+!!!FKT: Pieśni i Dumy. Zabawa. Karczma. Tańce. Hulanka
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Wielenia (Drasko)
+!!!AR1: wielkopolskie ; czarnkowsko-trzcianecki ; Drawsko-gmina wiejska
+!!!GE1: 52.853841 , 16.029826
 !!!source: DWOK12
 !!!id: 12466
 !!!signature: 1246600001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16b
-8dd
-8dd
-=2
-8ee
-4dd
-=3
-16ee
-16dd
-8ee
-8cc
-=4
-8a
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+!!LO:TX:a:t=Weselna.
+{16g	Nie
+16b	bacys
+8dd	.
+8dd	ty
+=2	=2
+8ee	chłopie,
+4dd	.
+=3	=3
+16ee	coś
+16dd	mi
+8ee	robił
+8cc	.
+=4	=4
+8a	w_kopie,
+4g;}	.
 !!LO:LB:g=esac
-=5
-{16g
-16b
-8dd
-8b
-=6
-8a
-4cc
-=7
-4g}
-8r
-==
-*-
+=5	=5
+{16g\	kiej
+16b	ja
+8dd	wołki
+8b	.
+=6	=6
+8a\	pasa-
+4cc	.
+=7	=7
+(8aq	.
+4g)}	-ła.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Wife, Husband
+!!!role-listener: Husband, Wife
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Nie bacys chłopie,
+!!coś mi robił w kopie,
+!!kiej ja wołki pasała.
+!!Mawiałeś mi, mawiał,
+!!codziń mnie namawiał,
+!!a ja na cię płakała.
+!!@VERSE:
+!!2. A teraz mie bijes,
+!!i za moje pijes,
+!!a mówis mi: szelmaś ty!
+!!Więksyś ty jest urwis,
+!!za innemi chodzis,
+!!a mnie kazes wołki gnać.
+!!@VERSE:
+!!3. Popędzę ja wołki,
+!!na zielone górki,
+!!będą mi je chopcy paść.
+!!A ja bede spała,
+!!póki bede chciała,
+!!az bedą w gościńca grać.
+!!@VERSE:
+!!4. Już w gościńca grają,
+!!chopcy mnie wołają,
+!!trzebá wołki do dom gnać
+!!@VERSE:
+!!5. Zar-zy ino, zar-zy,
+!!ty koniku dziar-zy,
+!!bez to pólko jadący;
+!!bedzie mnie słysała
+!!kochanecka moja,
+!!tamtö wołki pasący.
+!!@VERSE:
+!!6. Z pola jeno, z pola,
+!!ty kochanko moja,
+!!cegoz mi się oglądás?
+!!cyli-ć pierzcionecka,
+!!cyli-ć wój wionecka,
+!!(w)sésko-ci ty ü mnie más.
+!!@VERSE:
+!!7. Wzión-ci ją za rąckę,
+!!wzión-ci ją za ł-obie,
+!!uprowadził ją do krámü;
+!!zapytał n-ji się :
+!!moja najmiléjsa,
+!!co ja ci tü köpić (kupić) mam?
+!!@VERSE:
+!!8. Nie köpuj mi wionka,
+!!boć já nie panienka,
+!!nie bede w nim chodziła;
+!!küp-ze mi cepysek,
+!!na mój wierzchołysek;
+!!w tém-ci bede chodziła.
+!!@VERSE:
+!!9. Ten-ci mnie przystroji,
+!!w téj tü muodzie moji,
+!!ten cepysek bieluchny.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=256 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 240} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 240}
 !!!page: 240
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

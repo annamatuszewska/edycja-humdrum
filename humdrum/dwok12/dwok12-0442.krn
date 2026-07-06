@@ -1,69 +1,96 @@
-!!!!SEGMENT: DWOK1244200000-dobry_moj_maz.krn
+﻿!!!!SEGMENT: DWOK1244200000-dobry_moj_maz.krn
 !!!OTL: Dobry mój mąż
+!!!FKT: Pieśni i Dumy. Małżeństwo. Kłótnia. Zgoda
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Środy (Dębicz)
+!!!AR1: wielkopolskie ; średzki ; Środa Wielkopolska-obszar wiejski
+!!!GE1: 52.265702 , 17.311801
 !!!source: DWOK12
 !!!id: 12442
 !!!signature: 1244200000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{4ee
-16dd
-16b
-=2
-8a
-4g
-=3
-4ee
-16dd
-16b
-=4
-8a
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{4ee	Dobry
+16ddL	.
+16bJ	.
+=2	=2
+8a	mój
+4g	mąż,
+=3	=3
+4ee	o-
+16ddL	-bił
+16bJ	.
+=4	=4
+8a	mnie
+4g}	raz,
 !!LO:LB:g=esac
-=5
-{8a
-8cc
-16dd
-16cc
-=6
-8a
-8b
-8g
-=7
-8a
-8cc
-16dd
-16cc
-=8
-8a
-8b
-8g}
+=5	=5
+{8a\	obił
+8cc	.
+16ddL	mnie
+16ccJ	.
+=6	=6
+8a	uzdeczką,
+8b/	.
+8g	.
+=7	=7
+8a\	nie
+8cc	szafuj
+16ddL	.
+16ccJ	.
+=8	=8
+8a	gąbeczką
+8b/	.
+8g}	.
 !!LO:LB:g=esac
-=9
-{16a
-16cc
-8ee
-16dd
-16b
-=10
-8a
-4g
-=11
-16a
-16cc
-8ee
-16dd
-16b
-=12
-8a
-4g}
-==
-*-
+=9	=9
+{16aL	oj
+16ccJ	.
+8ee	dobry
+16ddL	.
+16bJ	.
+=10	=10
+8a	mój
+4g	mąż,
+=11	=11
+16aL	o-
+16ccJ	.
+8ee	-bił
+16ddL	mnie
+16bJ	.
+=12	=12
+8a	już
+4g}	raz.
+==	==
+*-	*-
+!!!role-singer: Wife
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Dobry mój mąż,
+!!obił mnie raz,
+!!obił mnie uzdeczką,
+!!nie szafuj gąbeczką
+!!oj dobry mój mąż,
+!!obił mnie już raz.
+!!@VERSE:
+!!2. Dobry na mnie,
+!!skatował mnie.
+!!Pojachał po garki,
+!!kupił mi gorzałki,
+!!i smarował mnie,
+!!i smarował mnie.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=246 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 230} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 230}
 !!!page: 230
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

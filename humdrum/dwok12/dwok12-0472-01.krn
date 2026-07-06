@@ -1,58 +1,92 @@
-!!!!SEGMENT: DWOK1247200001-po_zaplociu_maciek_jedzie.krn
+﻿!!!!SEGMENT: DWOK1247200001-po_zaplociu_maciek_jedzie.krn
 !!!OTL: Po zapłociu Maciek jedzie
+!!!FKT: Pieśni i Dumy. Zabawa. Karczma. Tańce. Hulanka
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Wrześni (Szemborowo)
+!!!AR1: wielkopolskie ; słupecki ; Strzałkowo-gmina wiejska
+!!!GE1: 52.358685 , 17.724988
 !!!source: DWOK12
 !!!id: 12472
 !!!signature: 1247200001
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{8cc
-8a
-16cc
-16dd
-=2
-16b-
-16g
-8b-
-8dd
-=3
-8cc
-8a
-16a
-16g
-=4
-16e
-16g
-8a
-8f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{8cc	Po
+8a	zapło-
+16cc	.
+16dd	-ciu
+=2	=2
+16b-	Maciek
+16g	.
+8b-	jedzie,
+8dd	.
+=3	=3
+8cc	wołajcie
+8a	.
+16a	.
+16g	go
+=4	=4
+16e	niech
+16g	przyjedzie,
+8a	.
+8f}	.
 !!LO:LB:g=esac
-=5
-{8f
-8a
-16a
-16g
-=6
-16e
-16g
-8b-
-8dd
-=7
-8cc
-8a
-16a
-16g
-=8
-16e
-16g
-8a
-8f}
-==
-*-
+=5	=5
+{8f\	i
+8a\	ty-
+16a	-dy,
+16g	dy,
+=6	=6
+16e	i
+16g	ty-
+8b-	-dy,
+8dd	dy,
+=7	=7
+8cc	i
+8a	ty
+16a	dy-
+16g	-dy
+=8	=8
+16e	i
+16g	ty
+8a	dyna.
+8f}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Group
+!!!role-listener: Gropu, Narrator
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Po zapłociu Maciek jedzie,
+!!wołajcie go niech przyjedzie,
+!!i tydy, dy, i tydy, dy,
+!!i ty dydy i ty dyna.
+!!@VERSE:
+!!2. Po cóż go tu wołać mamy,
+!!kiedy my tu nic nie dámy
+!!I tydy, dy, i tydy, dy,
+!!i ty dydy i ty dyna.
+!!@VERSE:
+!!3. Domy mu tu z masłem chleba,
+!!czego mu więcy potrzeba?
+!!I tydy, dy, i tydy, dy,
+!!i ty dydy i ty dyna.
+!!@VERSE:
+!!4. Domy mu tu gorzołeczki,
+!!niech-że zajrzy w kieszoneczki.
+!!I tydy, dy, i tydy, dy,
+!!i ty dydy i ty dyna.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=259 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 243} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 243}
 !!!page: 243
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

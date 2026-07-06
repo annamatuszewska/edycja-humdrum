@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1317600000-oj_i_po_sadzie_chodzi.krn
+﻿!!!!SEGMENT: DWOK1317600000-oj_i_po_sadzie_chodzi.krn
 !!!OTL: Oj i po sadzie chodzi
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kurnika, Bnina
+!!!AR1: wielkopolskie ; poznański ; Kórnik-miasto
+!!!GE1: 52.248594 , 17.089676
+!!!AR2: wielkopolskie ; poznański ; Kórnik-miasto
+!!!GE2: 52.224002 , 17.087303
 !!!source: DWOK13
 !!!id: 13176
 !!!signature: 1317600000
@@ -64,9 +71,7 @@
 !!oj ustała i(éj) miłość,
 !!da ustaną i żale.
 !!@@END: VERSES
-!!!role-singer: Complex
-!!!role-listener: Complex
-!!!singer-sex: Complex
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=118 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 94} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 94}
@@ -74,3 +79,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-27
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-03

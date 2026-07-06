@@ -1,78 +1,138 @@
-!!!!SEGMENT: DWOK1221900000-pani_palac_buduje.krn
+﻿!!!!SEGMENT: DWOK1221900000-pani_palac_buduje.krn
 !!!OTL: Pani pałac buduje
+!!!FKT: Pieśni i Dumy. Stałość. Życzliwość. Wymówka
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Książa (Zawory)
+!!!AR1: wielkopolskie ; śremski ; Książ Wielkopolski-obszar wiejski
+!!!GE1: 52.072000 , 17.159093
 !!!source: DWOK12
 !!!id: 12219
 !!!signature: 1221900000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8g
-8g
-8b
-8g
-=2
-8f#
-8a
-4cc
-=3
-8dd
-8dd
-4b
-=4
-8f#
-8a
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+!!LO:TX:a:t=Duma.
+{8g	Pani
+8g	.
+8b	pałac
+8g	.
+=2	=2
+8f#	buduje,
+8a	.
+4cc	.
+=3	=3
+8dd	żołnierz
+8dd	.
+4b	ij_się
+=4	=4
+8f#	dziwuje.
+8a	.
+4g}	.
 !!LO:LB:g=esac
-=5
-{8d
-8d
-4g
-=6
-8a
-8a
-4g
-=7
-8dd
-8dd
-8b
-8g
-=8
-8f#
-16f#
-16a
-8g
-8g}
+=5	=5
+{8d	Żołnierzu
+8d	.
+4g	.
+=6	=6
+8a\	nie
+\8a|	dziwuj,
+4g	.
+=7	=7
+8dd	moja
+8dd	.
+8bL	głowa
+8gJ	.
+=8	=8
+8f#	sfraso-
+16f#L	.
+16aJ	.
+8g	-wana.
+8g}	.
 !!LO:LB:g=esac
-=9
-{8d
-8d
-4g
-=10
-16a
-16cc
-16a
-16f#
-4g
-=11
-8dd
-8dd
-8b
-8g
-=12
-16f#
-16d
-16f#
-16a
-8g
-8g}
-==
-*-
-!!!ONB: wariant w takcie trzecim 5_5_3_1_
+=9	=9
+{8d	Żołnierzu
+8d	.
+4g	.
+=10	=10
+16aL	nie
+16cc	.
+16a	dziwuj,
+16f#J	.
+4g	.
+=11	=11
+8dd	moja
+8dd	.
+8bL	głowa
+8gJ	.
+=12	=12
+16f#L	sfraso-
+16dJ\	.
+16f#L	.
+16aJ	.
+8g	-wana.
+8g}	.
+==	==
+*-	*-
+!!!role-singer: Widow/Wife, Soldier/Husband
+!!!role-listener: Soldier/Husband, Widow/Wife
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Pani pałac buduje,
+!!żołnierz ij się dziwuje.
+!!Żołnierzu nie dziwuj,
+!!moja głowa sfrasowana.
+!!mój mąż siedmi (7my) roczek
+!!na wojnie wojuje,
+!!sama nie wiem czy żyje,
+!!czy jeszcze wojuje.
+!!@VERSE:
+!!2. Wdowulo, wdowulo
+!!czy każesz mojim ludziom
+!!(mojim ludziom nocować:)?
+!!Żołnierzu broń Boże,
+!!tego ja ci nie każę,
+!!moja głowa sfrasowana i t. d.
+!!@VERSE:
+!!3. Wdowulo, wdowulo,
+!!czy każesz mnie samemu
+!!(mnie samemu nocować)?
+!!Żołnierzu broń Boże i t. d.
+!!@VERSE:
+!!4. Wdowulo, wdowulo,
+!!czy każesz mojim ludziom
+!!(mojim ludziom obiad dać)?
+!!Żołnierzu broń Boże i t. d.
+!!@VERSE:
+!!5. Wdowulo, wdowulo,
+!!czy każesz mnie samemu
+!!(mnie samemu obiad dać)?
+!!Żołnierzu broń Boże i t. d.
+!!@VERSE:
+!!6. Usiedli przy stole,
+!!usiedli oboje,
+!!kula im się złoty sygnet,
+!!kula (toczy) im się po stole.
+!!Dla Boga, co widzę,
+!!dla Boga, co słyszę,
+!!a dla Boga, cóż takiego,
+!!złoty sygnet męża mego.
+!!@VERSE:
+!!7. Czworo świec zgorzało,
+!!nim się państwo poznało,
+!!a téj piątéj połowa, —
+!!już ja pani, nie wdowa.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=129 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 113-114} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 113-114}
 !!!page: 113-114
+!!!BEM: wariant w takcie trzecim 5_5_3_1_
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

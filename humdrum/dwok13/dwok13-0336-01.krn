@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1333600001-ges_woda.krn
+﻿!!!!SEGMENT: DWOK1333600001-ges_woda.krn
 !!!OTL: Gęś wodą
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Ostrzeszowa, Kalisza
+!!!AR1: wielkopolskie ; ostrzeszowski ; Ostrzeszów-miasto
+!!!GE1: 51.423652 , 17.931476
+!!!AR2: wielkopolskie ; m. Kalisz ; Kalisz-gmina miejska
+!!!GE2: 51.761140 , 18.086914
 !!!source: DWOK13
 !!!id: 13336
 !!!signature: 1333600001
@@ -63,3 +70,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-23
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-26

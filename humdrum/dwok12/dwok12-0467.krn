@@ -1,106 +1,141 @@
-!!!!SEGMENT: DWOK1246700000-jak_ja_jachal.krn
-!!!OTL: Jak ja jachał
+﻿!!!!SEGMENT: DWOK1246700000-jak_ja_jachal.krn
+!!!OTL: Jak ja jachał. Kujawiak
+!!!FKT: Pieśni i Dumy. Zabawa. Karczma. Tańce. Hulanka
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: Miłosław
+!!!AR1: wielkopolskie ; wrzesiński ; Miłosław-miasto
+!!!GE1: 52.202819 , 17.488615
 !!!source: DWOK12
 !!!id: 12467
 !!!signature: 1246700000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8g
-8b
-4dd
-8ee
-8dd
-=2
-4.cc
-8b
-8a
-8dd
-=3
-8g
-8b
-4dd
-8ee
-8dd
-=4
-4.cc
-8g
-8b
-8a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+!!LO:TX:a:t=Kujawiak.
+{8g	Jak
+8b	ja
+4dd	jachał
+8eeL	.
+8ddJ	.
+=2	=2
+4.cc	przez
+8b	Kuja-
+8a\	.
+8dd	-wy,
+=3	=3
+8g	szczekał
+8b	.
+4dd	na
+8eeL	mnie
+8ddJ	.
+=4	=4
+4.cc	pies
+8g	kulawy,
+8b	.
+8a\}	.
 !!LO:LB:g=esac
-=5
-{8f#
-8g
-4b
-4d
-=6
-4.cc
-8b
-8b
-8a
-=7
-8f#
-8g
-4b
-4dd
-=8
-4.cc
-8g
-8b
-8a}
+=5	=5
+{8f#	panna
+8g	.
+4b	wstała,
+4d	.
+=6	=6
+4.cc	w_oknie
+8b	.
+8b	stała,
+8a\	.
+=7	=7
+8f#	jeszcze
+8g	.
+4b	ba-
+4dd	-rzy
+=8	=8
+4.cc	przyszczuwała,
+8g	.
+8b	.
+8a\}	.
 !!LO:LB:g=esac
-=9
-{8g
-8b
-4dd
-8ee
-8dd
-=10
-4.cc
-8b
-8a
-8dd
-=11
-8g
-8b
-4dd
-8ee
-8dd
-=12
-4.cc
-8g
-8b
-8a}
+=9	=9
+{8g	Jak
+8b	ja
+4dd	jachał
+8eeL	.
+8ddJ	.
+=10	=10
+4.cc	przez
+8b	Kuja-
+8a\	.
+8dd	-wy,
+=11	=11
+8g	szczekał
+8b	.
+4dd	na
+8eeL	mnie
+8ddJ	.
+=12	=12
+4.cc	pies
+8g	kulawy,
+8b	.
+8a\}	.
 !!LO:LB:g=esac
-=13
-{8f#
-8g
-4b
-4d
-=14
-4.cc
-8b
-8b
-8a
-=15
-8f#
-8g
-8b
-8dd
-8ee
-8dd
-=16
-4.cc
-8g
-8b
-8a}
-==
-*-
+=13	=13
+{8f#	panna
+8g	.
+4b	wstała,
+4d	.
+=14	=14
+4.cc	w_oknie
+8b	.
+8b	stała,
+8a\	.
+=15	=15
+8f#	jeszcze
+8g	.
+8bL	ba-
+8dd	.
+8ee	-rzy
+8ddJ/	.
+=16	=16
+4.cc	przyszczuwała.
+8g	.
+8b	.
+8a\}	.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Jak ja jachał przez Kujawy,
+!!szczekał na mnie pies kulawy,
+!!panna wstała, w oknie stała,
+!!jeszcze barzy przyszczuwała.
+!!@VERSE:
+!!2. Huzia, huzia, mój psiányszek,
+!!żeby do mnie nikt nie przyszed.
+!!Tyś myślała żem pijany,
+!!obracasz gębe do ściany.
+!!@VERSE:
+!!3. A ja piję gorzałeczkę,
+!!ale z uwagą, z uwagą,
+!!bo żeby mi worek wystał (wystarczył)
+!!aż przyjdę do dom, da do dom.
+!!@VERSE:
+!!4. A piję ja gorzałeczkę
+!!ale nie w doma, nie w doma,
+!!bo mi dzieci wypijają,
+!!a resztę żona, da żona.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=257 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 241} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 241}
 !!!page: 241
+!!!BEM: Kujawiak
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

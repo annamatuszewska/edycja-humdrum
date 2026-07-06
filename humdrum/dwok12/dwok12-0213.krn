@@ -1,58 +1,102 @@
-!!!!SEGMENT: DWOK1221300000-od_jeziorka_jasne_kolka.krn
+﻿!!!!SEGMENT: DWOK1221300000-od_jeziorka_jasne_kolka.krn
 !!!OTL: Od jęziórka jasne kółka
+!!!FKT: Pieśni i Dumy. Stałość. Życzliwość. Wymówka
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Wielenia
+!!!AR1: wielkopolskie ; czarnkowsko-trzcianecki ; Wieleń-miasto
+!!!GE1: 52.888563 , 16.167865
 !!!source: DWOK12
 !!!id: 12213
 !!!signature: 1221300000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8g
-8a
-4b
-4g
-=2
-8b
-8dd
-4.cc
-8b
-=3
-8a
-8g
-4f#
-4d
-=4
-8d
-8f#
-4a
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8g	Od
+8a	jęziórka
+4b	.
+4g\	.
+=2	=2
+8b	jasne
+8dd	.
+4.cc	kółka,
+8b	.
+=3	=3
+8a	woda
+8g	.
+4f#	je
+4d	bie-
+=4	=4
+8d	-rze
+8f#	da
+4a	bierze,
+4g}	.
 !!LO:LB:g=esac
-=5
-{8b
-8a
-4.g
-8f#
-=6
-8e
-8e
-4.cc
-8b
-=7
-8a
-8g
-4f#
-4d
-=8
-8d
-8f#
-4a
-4g}
-==
-*-
+=5	=5
+{8b/	moja
+8a	.
+4.g	matka
+8f#	.
+=6	=6
+8e	nic
+8e	nie
+4.cc	robi
+8b	.
+=7	=7
+8a	i-
+8g	-no
+4f#	mnie
+4d	strze-
+=8	=8
+8d	-że
+8f#	da
+4a	strzeże.
+4g}	.
+==	==
+*-	*-
+!!!role-singer: Maiden, Bachelor
+!!!role-listener: Maiden
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Od jęziórka jasne kółka,
+!!woda je bierze da bierze,
+!!moja matka nic nie robi
+!!ino mnie strzeże da strzeże.
+!!@VERSE:
+!!2. Choćby strzegła i nadstrzegła,
+!!i stróża mi postawiała,
+!!to óna mnie nie ustrzeże,
+!!jakby ja khciała, da khciała.
+!!@VERSE:
+!!3. Od jęziórka wysła bürza,
+!!ciemno, niewidać, niewidać,
+!!übogi ja Jasinecek,
+!!do kogo ja sie mam üdać.
+!!@VERSE:
+!!4. Udam ja się do Marysi
+!!do jeji sodkü, da do sodkü (sadku),
+!!przenocuj mnie Marysińko,
+!!różany kwiatku, da kwiatku.
+!!@VERSE:
+!!5. Cóżbyś wolała Marysia,
+!!cóżbyś wolała, wolała,
+!!cy chüsteckę wysywaną
+!!cyli Drowiana, Drowiana (Drawsko).
+!!@VERSE:
+!!6. Z chustecki choć wysywany
+!!nic mi nie przyńdzie, nie przyńdzie,
+!!z tym Jasinkiem, z tym kochanym,
+!!dobrze mi będzie, da będzie.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=126 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 110} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 110}
 !!!page: 110
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1325800010-instrumentalna-kujawiak.krn
-!!!OTL: Instrumentalna-Kujawiak
+﻿!!!!SEGMENT: DWOK1325800010-instrumentalna-kujawiak.krn
+!!!OTL: Instrumentalna. Kujawiak
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gniezna
+!!!AR1: wielkopolskie ; gnieźnieński ; Gniezno-gmina miejska
+!!!GE1: 52.533333 , 17.601388
 !!!source: DWOK13
 !!!id: 13258
 !!!signature: 1325800010
@@ -67,3 +72,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-11
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-23

@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1326400002-instrumentalna-walc_weselny.krn
-!!!OTL: Instrumentalna-Walc weselny
+﻿!!!!SEGMENT: DWOK1326400002-instrumentalna-walc_weselny.krn
+!!!OTL: Instrumentalna. Walc weselny
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Buku, Zbąszyna
+!!!AR1: wielkopolskie ; poznański ; Buk-miasto
+!!!GE1: 52.355394 , 16.519710
+!!!AR2: wielkopolskie ; nowotomyski ; Zbąszyń-miasto
+!!!GE2: 52.253205 , 15.918846
 !!!source: DWOK13
 !!!id: 13264
 !!!signature: 1326400002
@@ -64,9 +71,10 @@
 8b/
 8dd/J
 =14
-8eeL
-8ee
-8f#J
+!LO:TX:t=P:problem=mixed beam
+8ee\L
+8ee\
+8f#/J
 =15
 8f#L
 8a
@@ -99,9 +107,10 @@
 8b/
 8dd/J
 =22
-8eeL
-8ee
-8f#J
+!LO:TX:t=P:problem=mixed beam
+8ee\L
+8ee\
+8f#/J
 =23
 8f#L
 8a
@@ -118,3 +127,7 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=149 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 125} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 125}
 !!!page: 125
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-05
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-23

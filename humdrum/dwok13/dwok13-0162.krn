@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1316200000-zatchnij_pluzek.krn
+﻿!!!!SEGMENT: DWOK1316200000-zatchnij_pluzek.krn
 !!!OTL: Zatchnij płużek
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: Miłosław
+!!!AR1: wielkopolskie ; wrzesiński ; Miłosław-miasto
+!!!GE1: 52.202819 , 17.488615
 !!!source: DWOK13
 !!!id: 13162
 !!!signature: 1316200000
@@ -63,8 +68,8 @@
 !!będę orał i przeorał
 !!kochance odłóg, da odłóg.
 !!@@END: VERSES
-!!!role-singer: Complex
-!!!role-listener: Complex
+!!!role-singer: Mistress
+!!!role-listener: Lover
 !!!singer-sex: female, male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -73,3 +78,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-26
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-13

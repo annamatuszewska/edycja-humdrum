@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1308600000-niechaj_bedzie_pochwalony.krn
+﻿!!!!SEGMENT: DWOK1308600000-niechaj_bedzie_pochwalony.krn
 !!!OTL: Niechaj będzie pochwalony
+!!!FKT: Pieśni. Miasta i Dwory. Kraj. Wieś. Rola. Łąka
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: Ostrzeszów
+!!!AR1: wielkopolskie ; ostrzeszowski ; Ostrzeszów-miasto
+!!!GE1: 51.423652 , 17.931476
 !!!source: DWOK13
 !!!id: 13086
 !!!signature: 1308600000
@@ -34,7 +39,7 @@
 8dd}	.
 !!LO:LB:g=esac
 =7	=7
-{16f#	w(ł)ódarz
+{16f#	włodarz
 16a	.
 8.dd	się
 16cc#	pod
@@ -86,3 +91,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-14
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-24

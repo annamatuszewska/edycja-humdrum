@@ -1,57 +1,100 @@
-!!!!SEGMENT: DWOK1217200011-a_moj_mily_bednarczyku.krn
-!!!OTL: A mój miły bednarczyku
+﻿!!!!SEGMENT: DWOK1217200011-a_moj_mily_bednarczyku.krn
+!!!OTL: A mój miły bednarczyku. Mazur
+!!!FKT: Pieśni i Dumy. Pieśni przed Weselem i wśród Wesela śpiewane
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Rakoniewic (Łąkie, Gościeszyn)
+!!!AR1: wielkopolskie ; grodziski ; Rakoniewice-obszar wiejski
+!!!GE1: 52.102799 , 16.228626
+!!!AR2: wielkopolskie ; wolsztyński ; Wolsztyn-obszar wiejski
+!!!GE2: 52.093491 , 16.204667
 !!!source: DWOK12
 !!!id: 12172
 !!!signature: 1217200011
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-32a
-32b
-8cc
-8cc
-=2
-16b
-16cc
-8dd
-8ee
-=3
-16dd
-16ee
-8dd
-8cc
-=4
-8b
-4a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+!!LO:TX:a:t=Mazur.
+{16g	A
+32aL	mój
+32bJ	.
+8cc	miły
+8cc	.
+=2	=2
+16b	bednarczyku,
+16cc	.
+8dd	.
+8ee	.
+=3	=3
+16dd	pobij-
+16ee	.
+8dd	-że
+8cc	mi
+=4	=4
+8b	szkopiec;
+4a\}	.
 !!LO:LB:g=esac
-=5
-{8g
-8g
-16b
-16dd
-=6
-16b
-16g
-8a
-8f#
-=7
-4g
-16b
-16dd
-=8
-16b
-16g
-16a
-16f#
-8d}
-==
-*-
+=5	=5
+{8g	bo
+8g	ja
+16b	jestem
+16dd	.
+=6	=6
+16b	ładne
+16g	.
+8a	dziewcze,
+8f#	.
+=7	=7
+4g	a
+16bL	ty
+16ddJ	.
+=8	=8
+16b	jesteś
+16g	.
+16aL	chłopiec.
+16f#J	.
+8d}	.
+==	==
+*-	*-
+!!!role-singer: Mistress, Narrator
+!!!role-listener: Lover
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. A mój miły bednarczyku,
+!!pobij-że mi szkopiec;
+!!bo ja jestem ładne dziewcze,
+!!ty téż ładny chłopiec.
+!!@VERSE:
+!!2. A mój miły bednarczyku,
+!!pobij-że mi faskę;
+!!dam ci drzewa co potrzeba
+!!i gorzałki flaszkę.
+!!@VERSE:
+!!3. A mój miły bednarczyku,
+!!pobij-że mi dziéżę;
+!!daj dębowe, nie brzozowe,
+!!obręcze nie świéże.
+!!@VERSE:
+!!4. A mój miły bednarczyku,
+!!pobij-że mi ćwierci;
+!!dam ci tak mocnéj tabaki,
+!!aż ci nos rozwierci.
+!!@VERSE:
+!!5. Tak się bednarczyk zabiera,
+!!do swego rzemiesła;
+!!i pobijał wszystkie statki
+!!aż je febra trzęsła.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=103 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 87} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 87}
 !!!page: 87
+!!!BEM: Mazur
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-02-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-09

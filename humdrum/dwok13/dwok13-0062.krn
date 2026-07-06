@@ -1,5 +1,7 @@
-!!!!SEGMENT: DWOK1306200000-to_nic_nie-mowna.krn
+﻿!!!!SEGMENT: DWOK1306200000-to_nic_nie-mowna.krn
 !!!OTL: To nic nie-mowna
+!!!FKT: Pieśni. Miasta i Dwory. Miłość. Tęsknota
+!!!REG: Wielkie Księstwo Poznańskie
 !!!source: DWOK13
 !!!id: 13062
 !!!signature: 1306200000
@@ -11,7 +13,7 @@
 =1	=1
 {4f	To
 8dd	nic
-8cc	nie-mowna,
+8cc	niemowna,
 4b-	.
 4f	.
 =2	=2
@@ -42,7 +44,7 @@
 8a\	.
 =6	=6
 4g	to
-8g	na-wpół
+8g	nawpół
 8g	.
 4.ee-	żywa,
 8dd	.
@@ -122,3 +124,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-11
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-24

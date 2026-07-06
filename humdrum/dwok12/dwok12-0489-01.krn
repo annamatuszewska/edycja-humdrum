@@ -1,80 +1,145 @@
-!!!!SEGMENT: DWOK1248900001-a_co_sie_to_w_polsce_znaczy.krn
+﻿!!!!SEGMENT: DWOK1248900001-a_co_sie_to_w_polsce_znaczy.krn
 !!!OTL: A co się to w Polsce znaczy
+!!!FKT: Pieśni i Dumy. Wojsko. Łowy
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gołańczy (Czeszewo)
+!!!AR1: wielkopolskie ; wągrowiecki ; Gołańcz-obszar wiejski
+!!!GE1: 52.908722 , 17.382633
 !!!source: DWOK12
 !!!id: 12489
 !!!signature: 1248900001
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{8e
-8g#
-8b
-8g#
-8b
-8dd
-=2
-4cc
-2a
-=3
-8cc
-8dd
-4.ee
-8ee
-=4
-8dd
-8dd
-4b
-8g#
-8e}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+{8e	A
+8g#	co
+8b	się
+8g#	to
+8b	w_Polsce
+8dd	.
+=2	=2
+4cc	znaczy,
+2a	.
+=3	=3
+8cc	pewnieć
+8dd	.
+4.ee;	ci
+8ee	to
+=4	=4
+8eeq	.
+8dd	nie
+8dd	ina-
+4b	.
+8g#L	-czy,
+8eJ}	.
 !!LO:LB:g=esac
-=5
-{4cc
-2a
-=6
-8e
-8d
-8e
-8g#
-8b
-8dd
-=7
-8cc
-8b
-4.a
-8a
-=8
-8e
-8d
-4e
-4e}
+=5	=5
+{4cc	zabie-
+2a	.
+=6	=6
+8e	-rajmy
+8d	.
+8e	się
+8g#	czémprędzy
+8b	.
+8dd	.
+=7	=7
+8cc	do
+8b	niewczasu,
+4.a;	.
+8a	.
+=8	=8
+8e\	wiecznej
+8d\	.
+4e\	nędzy,
+4e}	.
 !!LO:LB:g=esac
-=9
-{4cc
-2a
-=10
-8e
-8d
-8e
-8g#
-8b
-8dd
-=11
-8cc
-8b
-4.a
-8a
-=12
-8g#
-8g#
-4e
-4e}
-==
-*-
+=9	=9
+{4cc	zabie-
+2a	.
+=10	=10
+8e	-rajmy
+8d	.
+8e	się
+8g#	czémprędzy
+8b	.
+8dd	.
+=11	=11
+8cc	do
+8b	niewczasu,
+4.a;	.
+8a	.
+=12	=12
+8g#L	wiecznej
+8g#J	.
+4e	nędzy.
+4e}	.
+==	==
+*-	*-
+!!!role-singer: Husband
+!!!role-listener: Wife, Kids, Parents, Friends, God
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. A co się to w Polsce znaczy,
+!!pewnieć ci to nie inaczy,
+!!zabierajmy się czémprędzy
+!!do niewczasu, wiecznéj nędzy.
+!!@VERSE:
+!!2. I czegóż się tam spodziewać,
+!!przyjdzie płakać a nie śpiewać;
+!!i odstąpić ojca, matki,
+!!i żoneczkę choć ma dziatki.
+!!@VERSE:
+!!3. Ostaj z Bogiem miłá żono,
+!!od Boga-ś mi naznaczoná;
+!!już ja cię odstąpić muszę,
+!!jak od Bopa daną duszę.
+!!@VERSE:
+!!4. Ostajcie z Bogiem me dzieci,
+!!miejcie-ż mnie tu w swéj pamięci;
+!!już ja was Bogu oddaję,
+!!a sam jadę w cudze kraje.
+!!@VERSE:
+!!5. Już ja się tu żegnam z wami,
+!!sam jadę do obcéj ziemi;
+!!już się z wamy nie zobaczę,
+!!w obcéj ziemi zapłaczę.
+!!@VERSE:
+!!6. Ostajcie z Bogiem rodzicy,
+!!przyjaciele, krewni wszyscy;
+!!którzy mi dobrze życzyli,
+!!bez lat wiele mię żywili.
+!!@VERSE:
+!!7. Ostajcie i przyjaciele
+!!którzy my (mi) czynili wiele
+!!i na polu i w gościńcu —
+!!teraz chodzę po Kamieńcu.
+!!@VERSE:
+!!8. Ostajcie z Bogiem panienki
+!!chodzili my na spacérki;
+!!gdzieś my szeptali o chłodzie,
+!!toć nam wojna na przeszkodzie.
+!!@VERSE:
+!!9. Skorno wjadę w piérwszą bromę
+!!tam obołczę (oblekę) uniformę
+!!to ja je tam i odryszę (odrysuję)
+!!swojemy łzamy napiszę.
+!!@VERSE:
+!!10. Strzelaj prochem i kulamy,
+!!żgaj gdzie każą bagnetami;
+!!Boże zmiłuj się nad namy
+!!mizernémy Polaczkamy.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=269 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 253} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 253}
 !!!page: 253
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

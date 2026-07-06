@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1328500000-instrumentalna.krn
+﻿!!!!SEGMENT: DWOK1328500000-instrumentalna.krn
 !!!OTL: Instrumentalna
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Mielżyna, Słupcy
+!!!AR1: wielkopolskie ; gnieźnieński ; Witkowo-obszar wiejski
+!!!GE1: 52.382352 , 17.771550
+!!!AR2: wielkopolskie ; słupecki ; Słupca-gmina miejska
+!!!GE2: 52.289342 , 17.872631
 !!!source: DWOK13
 !!!id: 13285
 !!!signature: 1328500000
@@ -79,7 +86,7 @@
 16g
 16dJ
 =11
-8aL
+8aL^
 16d
 16f#
 16g
@@ -106,7 +113,7 @@
 16g
 16dJ
 =15
-8aL
+8aL^
 16d
 16f#
 16g
@@ -126,3 +133,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-18
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-24

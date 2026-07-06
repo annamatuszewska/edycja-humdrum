@@ -1,57 +1,120 @@
-!!!!SEGMENT: DWOK1249100000-idzie_zolnierz_borem_lasem.krn
+﻿!!!!SEGMENT: DWOK1249100000-idzie_zolnierz_borem_lasem.krn
 !!!OTL: Idzie żołnierz borem lasem
+!!!FKT: Pieśni i Dumy. Wojsko. Łowy
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Trzemeszna
+!!!AR1: wielkopolskie ; gnieźnieński ; Trzemeszno-miasto
+!!!GE1: 52.560668 , 17.821953
 !!!source: DWOK12
 !!!id: 12491
 !!!signature: 1249100000
-**kern
-*clefG2
-*k[b-e-]
-*g:
-*M3/4
-=1
-{8b-
-8dd
-4gg
-4dd
-=2
-4ff
-4ff
-8ff
-16ee-
-16dd
-=3
-8cc
-8b-
-8cc
-8ee-
-8dd
-8b-}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*g:	*
+*M3/4	*
+=1	=1
+{8b-	Idzie
+8dd	.
+4gg	żołnierz
+4dd	.
+=2	=2
+4ff	borem
+4ff	.
+8ff	lasem,
+16ee-L	.
+16ddJ	.
+=3	=3
+8ccL	borem
+8b-J	.
+8ccL	.
+8ee-J	.
+8dd	lasem,
+8b-}	.
 !!LO:LB:g=esac
-=4
-{8cc
-8ee-
-4dd
-4g
-=5
-4b-
-4dd
-8cc
-8a
-=6
-8cc
-8ee-
-4dd
-4g
-=7
-8cc
-16b-
-16a
-4g
-4g}
-==
-*-
+=4	=4
+{8cc	przémierając
+8ee-	.
+4dd	.
+4g	.
+=5	=5
+4b-	głodu
+4dd	.
+8cc	czasem,
+8a	.
+=6	=6
+8cc	przémierając
+8ee-	.
+4dd	.
+4g	.
+=7	=7
+8cc	głodu
+16b-\L	.
+16aJ	.
+4g	czasem.
+4g}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Brother
+!!!role-listener: Sister
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Idzie żołnierz borem lasem, borem lasem,
+!!przémierając głodu czasem,
+!!przémierając głodu czasem.
+!!@VERSE:
+!!2. Trzebaby go poratować,
+!!chleba, soli nie żałować.
+!!@VERSE:
+!!3. Choć to żołnierz odrapany,
+!!jednak idzie między pany.
+!!@VERSE:
+!!4. W bębny, kotły zabębnili,
+!!na wojenkę zatrąbili.
+!!@VERSE:
+!!5. Starsza siostra konia dała,
+!!sama mu go osiodłała.
+!!@VERSE:
+!!6. A ta młodsza miecz podała,
+!!sama rzewnie zapłakała.
+!!@VERSE:
+!!7. Nie płacz siostro swego brata,
+!!powróci on za trzy lata.
+!!@VERSE:
+!!8. Nie wyszło-ć to rok, półtora,
+!!już żołnierze jadą z pola.
+!!@VERSE:
+!!9. Witam, witam, mospanowie,
+!!daleko-ć tam brat na wojnie?
+!!@VERSE:
+!!10. Leży w polu na murawie,
+!!na zielonéj leży trawie.
+!!@VERSE:
+!!11. Konik jego wedle niego,
+!!grzebie nóżką, żałuje go.
+!!@VERSE:
+!!12. I wygrzebał pod kolana,
+!!żałujący swego pana.
+!!@VERSE:
+!!13. Wstawaj, wstawaj, panie młody,
+!!dawałeś mi siana, wody.
+!!@VERSE:
+!!14. Teraz nie dasz suchy słomy,
+!!bo żeś sam jest położony.
+!!@VERSE:
+!!15. Lepsza w domu kapuścina,
+!!niż na wojnie rentowina (mięso wołowe).
+!!@VERSE:
+!!16. Lepij w domu pługiem (w)orać,
+!!niż na wojnie mieczem dołać.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=271 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 255} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 255}
 !!!page: 255
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

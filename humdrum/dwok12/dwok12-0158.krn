@@ -1,60 +1,113 @@
-!!!!SEGMENT: DWOK1215800000-juz_juz_juz_juz_maz_mnie_bije.krn
+﻿!!!!SEGMENT: DWOK1215800000-juz_juz_juz_juz_maz_mnie_bije.krn
 !!!OTL: Już, już, już, już mąż mnie bije
+!!!FKT: Pieśni i Dumy. Pieśni przed Weselem i wśród Wesela śpiewane
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gniezna
+!!!AR1: wielkopolskie ; gnieźnieński ; Gniezno-gmina miejska
+!!!GE1: 52.533333 , 17.601388
 !!!source: DWOK12
 !!!id: 12158
 !!!signature: 1215800000
-**kern
-*clefG2
-*k[b-e-]
-*g:
-*M6/8
-=1
-{4dd
-8dd
-4b-
-8cc
-=2
-4dd
-8dd
-4b-
-8d
-=3
-4g
-8b-
-4a
-8f#
-=4
-4g
-8a
-8b-
-8d}
-8r
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*g:	*
+*M6/8	*
+=1	=1
+{4dd	Już,
+8dd	już,
+4b-	już,
+8cc	już,
+=2	=2
+4dd	mąż
+8dd	mnie
+4b-	bije,
+8d	.
+=3	=3
+4g	któż
+8b-/	mnie
+4a	teroz
+8f#	.
+=4	=4
+4g	pożałuje?
+8a	.
+8b-/	.
+8d}	.
+8r	.
 !!LO:LB:g=esac
-=5
-{4dd
-8dd
-4b-
-8cc
-=6
-4dd
-8dd
-4b-
-8d
-=7
-4g
-8b-
-4a
-8f#
-=8
-4g
-8a
-8b-
-8d}
-8r
-==
-*-
+=5	=5
+{4dd	Moja
+8dd	.
+4b-	matko,
+8cc	.
+=6	=6
+4dd	przyjedź
+8dd	.
+4b-	do
+8d	mnie,
+=7	=7
+4g	moja
+8b-/	.
+4a	matko,
+8f#	.
+=8	=8
+4g	pożałuj
+8a	.
+8b-/	.
+8d}	mnie!
+8r	.
+==	==
+*-	*-
+!!!role-singer: Wife, Brother, Narrator
+!!!role-listener: Family, Husband
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Już, już, już, już, mąż mnie bije,
+!!któż mnie terá pożałuje?
+!!Moja matko, przyjedź do mnie,
+!!moja matko, pożałuj mnie!
+!!@VERSE:
+!!2. Matka do ni przyjechała,
+!!gospodarstwo oglądała:
+!!zięciu, zięciu, bijże dobrze,
+!!aż sie skóra na ni podrze,
+!!bo to ladaco!
+!!@VERSE:
+!!3. Już, już, już, już, mąż mnie bije,
+!!któż mnie terá pożałuje?
+!!Ojcze, ojcze, przyjedź do mnie,
+!!ojcze, ojcze, pożałuj mnie!
+!!@VERSE:
+!!4. Ojciec do ni przyjechawszy,
+!!gospodarstwo oglądawszy:
+!!zięciu, zięcia bijże dobrze,
+!!aż sie skóra na ni podrze,
+!!bo to ladaco!
+!!@VERSE:
+!!5. Już, już, i t. d.
+!!Starsza siostro przyjedź do mnie,
+!!starsza siostro pożałuj mnie!
+!!@VERSE:
+!!6. Starsza siostra przyjechała i t. d.
+!!@VERSE:
+!!7. Już, już, i t. d.
+!!Młodszy bracie przyjedź do mnie,
+!!młodszy bracie pożałuj mnie!
+!!@VERSE:
+!!8. Młodszy brat i przyjechawszy,
+!!gospodarstwo oglądawszy:
+!!śwagrze, śwagrze nie bij siostry,
+!!bo mam na cię mieczyk ostry —
+!!nie bij kijem ani nożem,
+!!ino batem i powrozem.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=96 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 80} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 80}
 !!!page: 80
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-02-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-09

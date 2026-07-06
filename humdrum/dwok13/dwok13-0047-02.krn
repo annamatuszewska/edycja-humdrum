@@ -1,8 +1,15 @@
-!!!!SEGMENT: DWOK1304700001-ty_ze_mnie_szydzisz.krn
+﻿!!!!SEGMENT: DWOK1304700001-ty_ze_mnie_szydzisz.krn
 !!!OTL: Ty ze mnie szydzisz
+!!!FKT: Pieśni. Miasta i Dwory. Miłość. Tęsknota
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Poznania, Wrześni
+!!!AR1: wielkopolskie ; m. Poznań ; Poznań-gmina miejska
+!!!GE1: 52.407918 , 16.933467
+!!!AR2: wielkopolskie ; wrzesiński ; Września-miasto
+!!!GE2: 52.325822 , 17.565352
 !!!source: DWOK13
 !!!id: 13047
-!!!signature: 1304700001
+!!!signature: 1304700002
 **kern	**text
 *clefG2	*
 *k[]	*
@@ -138,3 +145,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-09
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-24

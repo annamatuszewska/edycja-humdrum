@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1340700010-instrumentalna-wiwat.krn
-!!!OTL: Instrumentalna-Wiwat
+﻿!!!!SEGMENT: DWOK1340700010-instrumentalna-wiwat.krn
+!!!OTL: Matyjas co mi das. Wiwat
+!!!FKT: Śpiewki i Tańce. Wiwaty, Tańce i Piosenki 2/4
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Wielenia (Rosko)
+!!!AR1: wielkopolskie ; czarnkowsko-trzcianecki ; Wieleń-obszar wiejski
+!!!GE1: 52.874326 , 16.316247
 !!!source: DWOK13
 !!!id: 13407
 !!!signature: 1340700010
@@ -57,7 +62,7 @@
 !!i gorzałki flaszkę.
 !!@@END: VERSES
 !!!role-singer: Narrator
-!!!role-listener: Single Man
+!!!role-listener: Bachelor
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=194 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 170} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 170}
@@ -65,3 +70,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-04-08
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-16

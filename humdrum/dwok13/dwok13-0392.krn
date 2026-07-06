@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1339200000-nie_pojde_za_fornala.krn
+﻿!!!!SEGMENT: DWOK1339200000-nie_pojde_za_fornala.krn
 !!!OTL: Nie pójdę za fornala
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Powidza, Kleczewa
+!!!AR1: wielkopolskie ; słupecki ; Powidz-gmina wiejska
+!!!GE1: 52.413049 , 17.914935
+!!!AR2: wielkopolskie ; koniński ; Kleczew-miasto
+!!!GE2: 52.370854 , 18.173026
 !!!source: DWOK13
 !!!id: 13392
 !!!signature: 1339200000
@@ -37,8 +44,8 @@
 16g	za-
 16e	-cioł
 =6	=6
-16d	wczoraj
-16d	.
+16dL	wczoraj
+16dJ	.
 8.dd	biczem,
 16b	.
 =7	=7
@@ -59,8 +66,8 @@
 !!jak me zacioł wczoraj biczem,
 !!to me dziś jeszcze boli.
 !!@@END: VERSES
-!!!role-singer: Single Girl
-!!!singer-sex: Female
+!!!role-singer: Maiden
+!!!singer-sex: female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=189 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 165} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 165}
@@ -68,3 +75,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-04-03
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-15

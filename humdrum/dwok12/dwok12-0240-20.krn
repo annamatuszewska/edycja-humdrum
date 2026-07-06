@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1224000020-instrumentalna-juz_was_bogu_oddaje.krn
-!!!OTL: Instrumentalna-Już was Bogu oddaję
+﻿!!!!SEGMENT: DWOK1224000020-instrumentalna-juz_was_bogu_oddaje.krn
+!!!OTL: Już was Bogu oddaję. Instrumentalna
+!!!FKT: Pieśni i Dumy. Skarga. Niechęć. Rozstanie
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kurnika, Środy
+!!!AR1: wielkopolskie ; poznański ; Kórnik-miasto
+!!!GE1: 52.248594 , 17.089676
+!!!AR2: wielkopolskie ; średzki ; Środa Wielkopolska-miasto
+!!!GE2: 52.229003 , 17.275115
 !!!source: DWOK12
 !!!id: 12240
 !!!signature: 1224000020
@@ -9,27 +16,28 @@
 *G:
 *M3/8
 =1
-{16a
+{16aL
 16cc
-8dd
-16a
-16f#
+8ddJ
+16aL
+16f#J
 =2
-8.g
-16b
-16dd
-16ee
+8.gL
+16bJ
+16ddL
+16eeJ
 =3
-16a
+16aL
 16cc
-8dd
-16a
-16f#
+8ddJ
+16aL
+16f#J
 =4
-8g
+8f#q
+8gL
 16b
 16a
-8g}
+8gJ}
 ==
 *-
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
@@ -37,3 +45,7 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=143 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 127} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 127}
 !!!page: 127
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1308500000-powraca_juz_wiosna.krn
+﻿!!!!SEGMENT: DWOK1308500000-powraca_juz_wiosna.krn
 !!!OTL: Powraca już wiosna
+!!!FKT: Pieśni. Miasta i Dwory. Kraj. Wieś. Rola. Łąka
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Czempina
+!!!AR1: wielkopolskie ; kościański ; Czempiń-miasto
+!!!GE1: 52.143261 , 16.757306
 !!!source: DWOK13
 !!!id: 13085
 !!!signature: 1308500000
@@ -85,9 +90,6 @@
 !!tam ptaszek zanuci,
 !!rozśmieje się kwiat.
 !!@@END: VERSES
-!!!role-singer: Complex
-!!!role-listener: Group
-!!!singer-sex: complex
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=73 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 49} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 49}
@@ -95,3 +97,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-14
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-24

@@ -1,68 +1,114 @@
-!!!!SEGMENT: DWOK1217900002-a_widzisz_dziewcze_ten_kamien.krn
+﻿!!!!SEGMENT: DWOK1217900002-a_widzisz_dziewcze_ten_kamien.krn
 !!!OTL: A widzisz dziewcze ten kamień
+!!!FKT: Pieśni i Dumy. Pieśni przed Weselem i wśród Wesela śpiewane
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Opalenicy, Grodziska
+!!!AR1: wielkopolskie ; nowotomyski ; Opalenica-miasto
+!!!GE1: 52.307491 , 16.413073
+!!!AR2: wielkopolskie ; grodziski ; Grodzisk Wielkopolski-miasto
+!!!GE2: 52.224563 , 16.364179
 !!!source: DWOK12
 !!!id: 12179
 !!!signature: 1217900002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{4dd
-8dd
-8cc#
-=2
-4dd
-8a
-8f#
-=3
-8d
-8cc
-8a
-8f#
-=4
-4g
-4b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{4dd/	A
+8dd	widzisz
+8cc#	.
+=2	=2
+4dd	dziewczę
+8aL	.
+8f#J	.
+=3	=3
+8d	ten
+8cc	kamień
+8a	.
+8f#	nad
+=4	=4
+4g	wodą.
+4b}	.
 !!LO:LB:g=esac
-=5
-{4d
-8f#
-8a
-=6
-4cc
-8a
-8f#
-=7
-8g
-8b
-8a
-8f#
-=8
-4g
-4b}
+=5	=5
+{4d	Jak
+8f#	on
+8a	po-
+=6	=6
+4cc	-płynie,
+8aL	.
+8f#J	.
+=7	=7
+8g	o-
+8b	-że-
+8bq	.
+8a	-nię
+8f#	się
+=8	=8
+4g	z_tobą,
+4b/}	.
 !!LO:LB:g=esac
-=9
-{4d
-8f#
-8a
-=10
-4cc
-8a
-8f#
-=11
-8g
-8b
-8a
-8f#
-=12
-4g
-4g}
-==
-*-
-!!!ONB: Kolberg zapisał na 3/4 zapisano poprawnie na 2/4
+=9	=9
+{4d	jak
+8f#	on
+8a	po-
+=10	=10
+4cc	-płynie,
+8aL	.
+8f#J	.
+=11	=11
+8g	o-
+8b	-że-
+8bq	.
+8a	-nię
+8f#	się
+=12	=12
+4g	z_tobą,
+4g}	.
+==	==
+*- 	*-
+!!!role-singer: Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. A widzisz dziewcze
+!!ten kamień nad wodą.
+!!jak on popłynie,
+!!ożenię się z tobą,
+!!jak on popłynie,
+!!ożenię się z tobą.
+!!@VERSE:
+!!2. A gdzieś Jasiu boł (był)
+!!w takij tu krajinie,
+!!gdzieby pływały
+!!po wodzie kamiénie,
+!!gdzieby pływały
+!!po wodzie kamiénie?
+!!@VERSE:
+!!3. Choćby kamień bół
+!!jak makowe ziarno,
+!!nie popłynie z wodą
+!!tylko padnie na dno,
+!!nie popłynie z wodą
+!!tylko padnie na dno.
+!!@VERSE:
+!!4. Choćby kamień bół
+!!jako lniane siemię,
+!!nie popłynie z wodą,
+!!upadnie na ziemię,
+!!nie popłynie z wodą,
+!!upadnie na ziemię.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=107 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 91} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 91}
 !!!page: 91
+!!!BEM: Kolberg zapisał na 3/4 zapisano poprawnie na 2/4
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

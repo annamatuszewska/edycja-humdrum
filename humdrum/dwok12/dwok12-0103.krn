@@ -1,94 +1,150 @@
-!!!!SEGMENT: DWOK1210300000-hola_matusiu_moja.krn
+﻿!!!!SEGMENT: DWOK1210300000-hola_matusiu_moja.krn
 !!!OTL: Hola! Matusiu moja
+!!!FKT: Pieśni i Dumy. Chęć ożenku. Wymówka
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kurnika, Bnina
+!!!AR1: wielkopolskie ; poznański ; Kórnik-miasto
+!!!GE1: 52.248594 , 17.089676
+!!!AR2: wielkopolskie ; poznański ; Kórnik-miasto
+!!!GE2: 52.224002 , 17.087303
 !!!source: DWOK12
 !!!id: 12103
 !!!signature: 1210300000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-8r
-{8.cc
-16a
-=2
-4.g
-=3
-16b
-16dd
-8dd
-16ff#
-16ee
-=4
-4.a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+8r	.
+{(8.ccL	Ho-
+16aJ)	.
+=2	=2
+4.g	-la,
+=3	=3
+16b	matusiu
+16dd	.
+8dd	.
+16ff#L	mo-
+16eeJ	.
+=4	=4
+4.a;}	-ja!
 !!LO:LB:g=esac
-=5
-{8cc
-8cc
-16a
-16cc
-=6
-16ee
-16ee
-8dd
-8g
-=7
-8g
-8g
-16g
-16e
-=8
-16e
-16g
-8a
-8f#}
+=5	=5
+{8cc	a
+8cc	dajcie
+16a\	.
+16cc	mnie
+=6	=6
+16ee	wczas
+16eeM	do
+8dd	ludzi,
+8g\	.
+=7	=7
+8g	niechże
+8g	.
+16g	mi
+16e	się
+=8	=8
+16e	czas
+16g	nie
+8a	nudzi,
+8f#}	.
 !!LO:LB:g=esac
-=9
-{16d
-16f#
-8e
-16g
-16e
-=10
-8d}
-4r
+=9	=9
+{16d	matusiu
+16f#	.
+8e	.
+16gL	mo-
+16eJ	.
+=10	=10
+8d}	-ja.
+4r	.
 !!LO:LB:g=esac
-=11
-{8cc
-8cc
-16a
-16cc
-=12
-16ee
-16ee
-8dd
-8b
-=13
-8g
-8g
-16g
-16e
-=14
-16e
-16g
-8a
-8f#}
+=11	=11
+{8cc	a
+8cc	dajcie
+16a\	.
+16cc	mnie
+=12	=12
+16ee	wczas
+16eeM	do
+8dd	ludzi,
+8b/	.
+=13	=13
+8g	niechże
+8g	.
+16g	mi
+16e	się
+=14	=14
+16e	czas
+16g	nie
+8a	nudzi,
+8f#}	.
 !!LO:LB:g=esac
-=15
-{16d
-16f#
-8e
-16g
-16e
-=16
-8d}
-4r
-==
-*-
-!!!ONB: W taktach 10 i 16 brakuje osemki
+=15	=15
+{16d	matusiu
+16f#	.
+8e	.
+16gL	mo-
+16eJ	.
+=16	=16
+8d}	-ja!
+4r	.
+==	==
+*-	*-
+!!!role-singer: Maiden, Mother
+!!!role-listener: Mother, Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:1. Hola, matusiu moja!
+!!a dajcie mnie wczas do ludzi,
+!!niech-że mi się czas nie nudzi,
+!!matusiu moja!
+!!@VERSE:2. Hola, córulu moja!
+!!adyś ci ty jeszcze młoda,
+!!jeszcze ciebie za mąż szkoda,
+!!córulu moja!
+!!@VERSE:3. Hola, matusiu moja!
+!!chociaż ci ja jeszcze młoda,
+!!ale mi się chłop podoba,
+!!matusiu moja!
+!!@VERSE:4. Hola, córulu moja!
+!!a będziesz ty chłopa syta,
+!!dziesięć razy na dzień bita,
+!!córulu moja!
+!!@VERSE:5. Hola, matusiu moja!
+!!narobi się chłop cepami,
+!!zapomni kija za drzwiami,
+!!matusiu moja!
+!!@VERSE:6. Hola, córulu moja!
+!!nie będzie ón kija szukał,
+!!będzie po łbie pięścią pukał,
+!!córulu moja!
+!!@VERSE:7. Hola, matusiu moja!
+!!ady was téż tatuś bijał,
+!!po tygodniu w domu niémiał,
+!!matusiu moja!
+!!@VERSE:8. Hola, matusiu moja!
+!!do gościńca po was chodził,
+!!na powrózku do dom wodził,
+!!matusiu moja!
+!!@VERSE:9. Hola, córulu moja!
+!!jak ty będziesz ślubowała,
+!!to ja będę umiérała,
+!!córulu moja!
+!!@VERSE:10. Hola, matusiu moja!
+!!z Panem Bogiem umiérajcie,
+!!a mnie pierzynę dawajcie,
+!!matusiu moja!
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=66 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 50} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 50}
 !!!page: 50
+!!!BEM: W taktach 10 i 16 brakuje osemki
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-02-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-07

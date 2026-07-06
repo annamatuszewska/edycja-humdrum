@@ -1,72 +1,109 @@
-!!!!SEGMENT: DWOK1243500000-stala_sie_tu_ogloska.krn
+﻿!!!!SEGMENT: DWOK1243500000-stala_sie_tu_ogloska.krn
 !!!OTL: Stała się tu ogłoska
+!!!FKT: Pieśni i Dumy. Małżeństwo. Kłótnia. Zgoda
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Pakości, Kruszwicy
+!!!AR1: kujawsko-pomorskie ; inowrocławski ; Pakość-miasto
+!!!GE1: 52.807005 , 18.087691
+!!!AR2: kujawsko-pomorskie ; inowrocławski ; Kruszwica-miasto
+!!!GE2: 52.676219 , 18.323047
 !!!source: DWOK12
 !!!id: 12435
 !!!signature: 1243500000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{8ee
-8cc
-8dd
-=2
-4ee
-8g#
-=3
-16a
-16b
-8cc
-8g#
-=4
-4a}
-8r
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{8ee	Stała
+8cc	.
+8dd	się
+=2	=2
+(4ee	tu
+8g#)	.
+=3	=3
+16a\	o-
+16b\	.
+8cc	-głos-
+8g#	.
+=4	=4
+4a}	-ka,
+8r	.
 !!LO:LB:g=esac
-=5
-{8ee
-8cc
-8dd
-=6
-4ee
-8g#
-=7
-16a
-16b
-8cc
-8g#
-=8
-4a}
-8r
+=5	=5
+{8ee	wybi-
+8cc	.
+8dd	-ła
+=6	=6
+(4ee	męża
+8g#)	.
+=7	=7
+16aL	pani
+16bJ	.
+8cc	Twardow-
+8g#	.
+=8	=8
+4a}	-ska.
+8r	.
 !!LO:LB:g=esac
-=9
-{16a
-16b
-4cc
-=10
-8cc
-8ee
-8dd
-=11
-8cc
-8.b
-16g#
-=12
-8b
-8dd
-8cc}
+=9	=9
+{16a\	Wybi-
+16b	.
+4cc	-ła
+=10	=10
+8cc	wygnała,
+8ee	.
+8dd	.
+=11	=11
+8cc	płakać
+8.b	.
+16g#	mu
+=12	=12
+8b	nie
+8dd	dała,
+8cc}	.
 !!LO:LB:g=esac
-=13
-{4b
-8g#
-=14
-4a}
-8r
-==
-*-
+=13	=13
+{4b	nie
+8g#	da-
+=14	=14
+4a}	-ła.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Wife
+!!!role-listener: Husband
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Stała się tu ogłoska,
+!!wybiła męża pani Twardowska,
+!!Wybiła, wygnała,
+!!płakać mu nie dała,
+!!nie dała.
+!!@VERSE:
+!!2. Widzisz Twardowski
+!!że to nie żarty,
+!!pobrał na plecy
+!!swoje bękarty.
+!!@VERSE:
+!!3. Ugiun się do pasa,
+!!cup-cup-cup- do lasa
+!!z biedą się wróci!
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Być może jest to pieśń szlachecka.
+!!@@END:
+!!@@BEGIN: 
+!!@COMMENTARY: J. Lipiński robi uwagę, że jest to zdarzenie dzisiejsze, prawdziwe a nazwisko męża niezmyślone. Wszakże pieśń te ma kilkanaście wersyj po różnych nader oddalonych od siebie stronach kraju, a wszędzie zapewniają, jakoby zdarzenie to było miejscowém i niedawném.
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=242 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 226-227} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 226-227}
 !!!page: 226-227
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

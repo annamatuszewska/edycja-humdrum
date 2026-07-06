@@ -1,92 +1,120 @@
-!!!!SEGMENT: DWOK1203600000-w_morownicy_parobeczki_to_sa_bardzo_pyszni.krn
+﻿!!!!SEGMENT: DWOK1203600000-w_morownicy_parobeczki_to_sa_bardzo_pyszni.krn
 !!!OTL: W Morownicy parobeczki to są bardzo pyszni
+!!!FKT: Pieśni i Dumy. Miłość. Pieśni zalotne
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Szmigla (Morownica)
+!!!AR1: wielkopolskie ; kościański ; Śmigiel-obszar wiejski
+!!!GE1: 51.989996 , 16.475680
 !!!source: DWOK12
 !!!id: 12036
 !!!signature: 1203600000
-**kern
-*clefG2
-*k[f#]
-*e:
-*M2/4
-=1
-{8g
-8b
-8b
-8b
-=2
-8b
-8cc#
-8dd
-8b
-=3
-8a
-8a
-8a
-8g
-=4
-4b
-4e}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*e:	*
+*M2/4	*
+=1	=1
+{8g	W_Morownicy
+8b	.
+8b	.
+8b	.
+=2	=2
+8b	parobeczki
+8cc#	.
+8dd	.
+8b	.
+=3	=3
+8a	to
+8a	są
+8a	bardzo
+8g	.
+=4	=4
+4b	pyszni,
+4e}	.
 !!LO:LB:g=esac
-=5
-{8g
-8b
-8b
-8b
-=6
-8b
-8cc#
-8dd
-8b
-=7
-8a
-8a
-8a
-8g
-=8
-4b
-4e}
+=5	=5
+{8g	trzech
+8b	groszy
+8b	.
+8b	w_kie-
+=6	=6
+8b	-szeni
+8cc#	.
+8dd	nima,
+8b	.
+=7	=7
+8a	a
+8a	żenić
+8a	.
+8g	się
+=8	=8
+4b	myśli.
+4e}	.
 !!LO:LB:g=esac
-=9
-{8e
-8b
-8a
-8g
-=10
-8f#
-8d
-8f#
-8a
-=11
-8e
-8e
-8e
-8g
-=12
-4e
-4e}
+=9	=9
+{8e	Oj
+8b	myśli
+8a	.
+8g	on
+=10	=10
+8f#	myśli
+8d	.
+8f#	sobie,
+8a	.
+=11	=11
+8e	o
+8e	téj
+8e	ładnéj
+8g	.
+=12	=12
+4e	damie,
+4e}	.
 !!LO:LB:g=esac
-=13
-{8e
-8b
-8a
-8g
-=14
-8f#
-8d
-8f#
-8a
-=15
-8e
-8e
-8e
-8g
-=16
-4b
-4e}
-==
-*-
+=13	=13
+{8e	a
+8b	onego
+8a\	.
+8g	.
+=14	=14
+8f#	niebo-
+8d	.
+8f#	-raka,
+8a	.
+=15	=15
+8e	na
+8e	buty
+8e	.
+8g	nie
+=16	=16
+4b/	stanié.
+4e}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:1. W Morownicy parobeczki
+!!to są bardzo pyszni,
+!!trzech groszy w kieszeni nima,
+!!a żenić się myśli.
+!!Oj myśli on myśli sobie,
+!!o téj ładnéj damie,
+!!a onego nieboraka,
+!!na buty nie stanié.
+!!@VERSE:2. Zajńdzie sobie do szynkfasa,
+!!a na nią pogląda,
+!!potrząsa próżno kieszenią,
+!!nic mu tam nie brząka,
+!!Zajńdzie sobie pod graczyka,
+!!— tąpnie sobie z góry,
+!!wejrzy sobie na buciska
+!!widać mu pazury.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=34 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 18} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 18}
 !!!page: 18
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-13-02
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-24

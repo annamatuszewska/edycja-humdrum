@@ -1,54 +1,83 @@
-!!!!SEGMENT: DWOK1228500000-poszed_jasio_do_kochanki.krn
+﻿!!!!SEGMENT: DWOK1228500000-poszed_jasio_do_kochanki.krn
 !!!OTL: Poszed Jasio do kochanki
+!!!FKT: Pieśni i Dumy. Strata wianka. Żale
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: Poznań
+!!!AR1: wielkopolskie ; m. Poznań ; Poznań-gmina miejska
+!!!GE1: 52.407918 , 16.933467
 !!!source: DWOK12
 !!!id: 12285
 !!!signature: 1228500000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16.f
-32a
-8.cc
-16a
-=2
-16.a
-32g
-8e
-8c
-=3
-16f
-16a
-8cc
-8a
-=4
-8a
-4g}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16.f	Poszed
+32a	.
+8.cc	Jasio
+16a	.
+=2	=2
+16.a	do
+32g	kochanki
+8e	.
+8c	.
+=3	=3
+16f	dzień
+16a	dobry
+8cc	.
+8a	po-
+=4	=4
+8a	-wiedzieć,
+4g}	.
 !!LO:LB:g=esac
-=5
-{16.b-
-32cc
-8.dd
-16ee
-=6
-16gg
-16ff
-8.cc
-16a
-=7
-16.g
-32dd
-8cc
-8e
-=8
-8g
-4f}
-==
-*-
+=5	=5
+{16.b-	a
+32cc	o-
+8.dd	-na
+16ee	go
+=6	=6
+16gg	pięknie
+16ff	.
+8.cc	prosi
+16a	.
+=7	=7
+16.g	na
+32dd	łożeńko
+8cc	.
+8e	.
+=8	=8
+8g	siedzieć.
+4f}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Maiden
+!!!role-listener: Servant
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Poszed Jasio do kochanki
+!!dzień dobry powiedzieć,
+!!a ona go pięknie prosi
+!!na łożeńko siedzieć.
+!!@VERSE:
+!!8. Zawołała na służącą:
+!!podej mi zwierciadło,
+!!będę-ć ja się przezierała
+!!czy mi liczko zbladło.
+!!@VERSE:
+!!10. Kupię ja se sznuróweczkę
+!!i (w)stążkę jedwabną,
+!!będę ja się sznurowała,
+!!będę jeszcze panną.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=168 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 152} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 152}
 !!!page: 152
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

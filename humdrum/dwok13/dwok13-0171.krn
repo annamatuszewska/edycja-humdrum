@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1317100000-kto_tancuje.krn
+﻿!!!!SEGMENT: DWOK1317100000-kto_tancuje.krn
 !!!OTL: Kto tańcuje
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Krobi, Kośmina
+!!!AR1: wielkopolskie ; gostyński ; Krobia-miasto
+!!!GE1: 51.774178 , 16.984630
+!!!AR2: wielkopolskie ; krotoszyński ; Koźmin Wielkopolski-miasto
+!!!GE2: 51.827192 , 17.452901
 !!!source: DWOK13
 !!!id: 13171
 !!!signature: 1317100000
@@ -101,8 +108,7 @@
 !!Ja na odsib, a on ksobie,
 !!aż się uwalim na sobie.
 !!@@END: VERSES
-!!!role-singer: Complex
-!!!role-listener: Group
+!!!role-singer: Narrator
 !!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -111,3 +117,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-27
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-03

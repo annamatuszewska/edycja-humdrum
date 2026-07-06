@@ -1,57 +1,81 @@
-!!!!SEGMENT: DWOK1227000011-przeprosze_mnie_jasiu_przepros.krn
+﻿!!!!SEGMENT: DWOK1227000011-przeprosze_mnie_jasiu_przepros.krn
 !!!OTL: Przeprośże mnie Jasiu przeproś
+!!!FKT: Pieśni i Dumy. Skarga. Niechęć. Rozstanie
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Obrzycka
+!!!AR1: wielkopolskie ; szamotulski ; Obrzycko-gmina miejska
+!!!GE1: 52.708119 , 16.526826
 !!!source: DWOK12
 !!!id: 12270
 !!!signature: 1227000011
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16cc
-16cc
-8ee
-8ff
-=2
-16dd
-16dd
-8.ff
-16ee
-=3
-16cc
-16cc
-8a
-8cc
-=4
-16b-
-16g
-8.b-
-16a}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16cc	Przeprośże
+16cc	.
+8ee	.
+8ff	mnie
+=2	=2
+16dd	Jasiu
+16dd	.
+8.ff	przeproś
+16ee	.
+=3	=3
+16cc	a
+16cc	bości
+8a\	.
+8cc	ty
+=4	=4
+16b-	mnie
+16g\	rozgniewał
+8.b-	.
+16a\}	.
 !!LO:LB:g=esac
-=5
-{4f
-16a
-16cc
-=6
-16g
-16g
-8b-
-8dd
-=7
-4cc
-16a
-16f
-=8
-16b-
-16g
-8b-
-8a}
-==
-*-
-!!!ONB: Partia wokalna
+=5	=5
+{4f	bo
+16a	jak
+16cc	mnie
+=6	=6
+16g	nie
+16g	przeprosisz
+8b-	.
+8dd	.
+=7	=7
+4cc	to
+16a\	ty
+16f\	mnie
+=8	=8
+16b-	nie
+16g	będziesz
+8b-	.
+8a\}	miał.
+==	==
+*-	*-
+!!!role-singer: Maiden, Bachelor
+!!!role-listener: Bachelor, Maiden
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Przeprośże mnie Jasiu przeproś
+!!a bości ty mnie rozgniewał
+!!bo jak mnie nie przeprosisz
+!!to ty mnie nie będziesz mial.
+!!@VERSE:
+!!2. Oj przeprosiłbym ja kamień,
+!!da przeprosiłbym i wodę,
+!!oj a ciebie Kasińku
+!!da przebłagać nie mogę.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=160 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 144} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 144}
 !!!page: 144
+!!!BEM: Partia wokalna
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

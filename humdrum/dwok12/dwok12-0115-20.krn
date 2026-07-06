@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1211500020-jasio_moj_kochany-instrumentalna.krn
-!!!OTL: Jasio mój kochany-Instrumentalna
+﻿!!!!SEGMENT: DWOK1211500020-jasio_moj_kochany-instrumentalna.krn
+!!!OTL: Jasio mój kochany. Mazur. Instrumentalna
+!!!FKT: Pieśni i Dumy. Pieśni przed Weselem i wśród Wesela śpiewane
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Wyrzyska
+!!!AR1: wielkopolskie ; pilski ; Wyrzysk-miasto
+!!!GE1: 53.153248 , 17.267019
 !!!source: DWOK12
 !!!id: 12115
 !!!signature: 1211500020
@@ -9,45 +14,46 @@
 *G:
 *M3/8
 =1
-{16d
+{16dL
 16e
 16f#
-16g
-16a
-16a
+16gJ
+16aL
+16aJ
 =2
 4b
 8g
 =3
-16d
+16dL
 16e
 16f#
-16g
-16a
-16a
+16gJ
+16aL
+16aJ
 =4
 4b
 8dd}
 !!LO:LB:g=esac
 =5
-{16dd
+{16ddL
 16cc
 16b
-16a
-16g
-16f#
+16aJ
+16gL
+16f#J
 =6
-16e
+16eL
 16d
-8d
-16e
-16d
+8dJ
+8f#q
+16eL
+16dJ
 =7
-16e
+16eL
 16d
-8d
-16cc
-16f#
+8dJ
+16ccL
+16f#J
 =8
 8g
 4g}
@@ -57,4 +63,9 @@
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=72 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 56-57} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 56-57}
 !!!page: 56-57
+!!!BEM: Mazur
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-02-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-07

@@ -1,5 +1,14 @@
-!!!!SEGMENT: DWOK1308800000-nad_woda_w_wieczornej_porze.krn
+﻿!!!!SEGMENT: DWOK1308800000-nad_woda_w_wieczornej_porze.krn
 !!!OTL: Nad wodą w wieczornej porze
+!!!FKT: Pieśni. Miasta i Dwory. Kraj. Wieś. Rola. Łąka
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Krotoszyna, Kalisza, Sieradza
+!!!AR1: wielkopolskie ; krotoszyński ; Krotoszyn-miasto
+!!!GE1: 51.695729 , 17.437623
+!!!AR2: wielkopolskie ; m. Kalisz ; Kalisz-gmina miejska
+!!!GE2: 51.761140 , 18.086914
+!!!AR3: łódzkie ; sieradzki ; Sieradz-gmina miejska
+!!!GE3: 51.596107 , 18.732218
 !!!source: DWOK13
 !!!id: 13088
 !!!signature: 1308800000
@@ -30,12 +39,12 @@
 4r	.
 !!LO:LB:g=esac
 =5	=5
-{4a\	pasterka
+{4a\	dziewczyna
 4b-	.
 4.cc	.
-8ff	pię-
+8ff	śli-
 =6	=6
-4a\	-kna
+4a\	-czna
 4b-	jak
 4.cc	zorze,
 8a	.
@@ -51,12 +60,12 @@
 4r	.
 !!LO:LB:g=esac
 =9	=9
-{(4.ff	Chodź-
+{(4.ff	Pójdź-
 8dd)	.
-4cc	-cież,
+4cc	-cie,
 4r	.
 =10	=10
-(4.ff	chodź-
+(4.ff	pójdź-
 8dd)	.
 4cc	-cie
 4r	.
@@ -82,14 +91,14 @@
 4cc	-ski
 4r	.
 =15	=15
-4g	.
-16b-qqL	.
+4g	nie
+16b-qqL	po-
 16ccqq	.
 16b-qq	.
 16aqq	.
 16b-qqJ	.
-4.dd	.
-8b-	.
+4.dd	-wiedz-
+8b-	-cież
 =16	=16
 4a	ni-
 4g	-ko-
@@ -135,3 +144,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-15
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-24

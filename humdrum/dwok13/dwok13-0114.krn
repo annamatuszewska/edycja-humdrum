@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1311400000-jestem_doktor_medycyny.krn
+﻿!!!!SEGMENT: DWOK1311400000-jestem_doktor_medycyny.krn
 !!!OTL: Jestem doktór medycyny
+!!!FKT: Pieśni. Miasta i Dwory. Stany. Rody
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: Poznań (znana i w Warszawie)
+!!!AR1: wielkopolskie ; m. Poznań ; Poznań-gmina miejska
+!!!GE1: 52.407918 , 16.933467
 !!!source: DWOK13
 !!!id: 13114
 !!!signature: 1311400000
@@ -92,7 +97,7 @@
 {8cc	już
 8ddq	.
 8cc	się
-8a	chora
+8a\	chora
 8cc	.
 =18	=18
 8b	do-
@@ -160,7 +165,7 @@
 !!@@END: VERSES
 !!!role-singer: Doctor
 !!!role-listener: Group
-!!!singer-sex: Male
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=89 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 65} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 65}
@@ -168,3 +173,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-19
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-27

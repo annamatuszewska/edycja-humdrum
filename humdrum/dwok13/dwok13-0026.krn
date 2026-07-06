@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1302600000-byl_tu_zamozny_stary_lis.krn
+﻿!!!!SEGMENT: DWOK1302600000-byl_tu_zamozny_stary_lis.krn
 !!!OTL: Był tu zamożny stary lis
+!!!FKT: Pieśni. Miasta i Dwory. Miłość. Tęsknota
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Rawicza
+!!!AR1: wielkopolskie ; rawicki ; Rawicz-miasto
+!!!GE1: 51.609394 , 16.858375
 !!!source: DWOK13
 !!!id: 13026
 !!!signature: 1302600000
@@ -32,7 +37,6 @@
 4r	.
 8r	.
 !!LO:LB:g=esac
-=-	=-
 {8g	miał
 =5	=5
 8cc	w_nogach
@@ -56,51 +60,49 @@
 4r	.
 8r	.
 !!LO:LB:g=esac
-=9	=9
 {8g	Był
-=10	=10
+=9	=9
 8cc	tu
 8cc	zamożny
 4.cc	.
 8b	.
-=11	=11
+=10	=10
 8.cc	stary
 16g	.
 4g	lis,
 8r	.
 8ee	w_dwóch
-=12	=12
+=11	=11
 8.cc	wierszach
 16g	.
 8g	kreślił
 8g	.
 8a	jeden
 8b/	.
-=13	=13
+=12	=12
 4cc}	list,
 4r	.
 8r	.
 !!LO:LB:g=esac
-=14	=14
 {8g	miał
-=15	=15
+=13	=13
 8cc	w_nogach
 8dd	.
 4ee	ból,
 4ee	.na
-=16	=16
+=14	=14
 8ff	głowie
 8a\	.
 4.dd	łys,
 8cc	a
-=17	=17
+=15	=15
 8b	w_gębie
 8a	.
 8g	nie
 8g	wiem
 8a	czymby
 8b	.
-=18	=18
+=16	=16
 4cc}	gryzł.
 4r	.
 8r	.
@@ -112,9 +114,6 @@
 !!miał w nogach ból, na głowie łys,
 !!a w gębie nie wiem czymby gryzł.
 !!@@END: VERSES
-!!!role-singer: Complex
-!!!role-listener:Complex
-!!!singer-sex: Complex
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=41 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 17} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 17}
@@ -122,3 +121,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-03
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-17

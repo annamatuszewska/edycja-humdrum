@@ -55,9 +55,9 @@
 !!oj, pamiętaj, dziewczyno,
 !!da, że ja cię nie minę.
 !!@@END: VERSES
-!!!role-singer: Lover
+!!!role-singer: Enamoured
 !!!role-listener: Girl
-!!!singer-sex: Male
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=258 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 179} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 179}
@@ -65,3 +65,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-04-24
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-28

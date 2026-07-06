@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1304200000-ja_do_dworu_zajade.krn
+﻿!!!!SEGMENT: DWOK1304200000-ja_do_dworu_zajade.krn
 !!!OTL: Ja do dworu zajade
+!!!FKT: Pieśni. Miasta i Dwory. Miłość. Tęsknota
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Środy (Dębicz)
+!!!AR1: wielkopolskie ; średzki ; Środa Wielkopolska-obszar wiejski
+!!!GE1: 52.265702 , 17.311801
 !!!source: DWOK13
 !!!id: 13042
 !!!signature: 1304200000
@@ -112,7 +117,6 @@
 !!a do téj się garnę.
 !!@@END: VERSES
 !!!role-singer: Lover
-!!!role-listener: Group
 !!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -121,3 +125,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-06
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-18

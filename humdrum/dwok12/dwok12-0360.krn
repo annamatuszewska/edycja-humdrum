@@ -1,85 +1,137 @@
-!!!!SEGMENT: DWOK1236000000-wyszla_panna_przede_wroty.krn
+﻿!!!!SEGMENT: DWOK1236000000-wyszla_panna_przede_wroty.krn
 !!!OTL: Wyszła panna przede wroty
+!!!FKT: Pieśni i Dumy. Igraszka. Swawola
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gołańczy (Czeszewo)
+!!!AR1: wielkopolskie ; wągrowiecki ; Gołańcz-obszar wiejski
+!!!GE1: 52.908722 , 17.382633
 !!!source: DWOK12
 !!!id: 12360
 !!!signature: 1236000000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8dd
-8b
-16dd
-16gg
-=2
-16ee
-16cc
-8a
-8b
-=3
-8g
-8e
-16g
-16b
-=4
-4.d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8dd	Wyszła
+8ccq	.
+8b	.
+16dd	panna
+16gg	.
+=2	=2
+16ee	przede
+16cc	.
+8a\	wroty,
+8b	.
+=3	=3
+8g	a
+8f#q	.
+8e	ha
+16g	Jezus
+16b	.
+=4	=4
+4.d}	mój!
 !!LO:LB:g=esac
-=5
-{8dd
-8b
-16dd
-16gg
-=6
-16ee
-16cc
-8a
-8b
-=7
-8g
-8e
-16g
-16b
-=8
-4.d}
+=5	=5
+{8dd	upła-
+8ccq	.
+8b	.
+16dd	-kuje
+16gg	.
+=6	=6
+16ee	swojéj
+16cc	.
+8a\	cnoty,
+8b	.
+=7	=7
+8g	a
+8f#q	.
+8e	ha
+16g	Jezus
+16b	.
+=8	=8
+4.d}	mój!
 !!LO:LB:g=esac
-=9
-{16g
-16f#
-8e
-8e
-=10
-16dd
-16cc#
-8dd
-8a
-=11
-16b
-16a
-8g
-8e
-=12
-16dd
-16cc#
-8dd
-16dd
-16a}
+=9	=9
+{16g\	Żebyś
+16f#\	.
+8e\	my
+8e\	się
+=10	=10
+16dd	powróci-
+16cc#	.
+8dd\	.
+8a\	-ła,
+=11	=11
+16bL	rada-
+16aJ	.
+8gL	-bym
+8eJ	cię
+=12	=12
+16dd	ozło-
+16cc#	.
+8ddL	-ci-
+16dd	-ła,
+16aJ/}	.
 !!LO:LB:g=esac
-=13
-{16b
-16a
-8g
-8e
-=14
-16g
-16b
-4d}
-==
-*-
-!!!ONB: Kolberg podaje metrum 3/4 zapisano poprawnie w metrum 3/8
+=13	=13
+{16b	tydy
+16a\	.
+8g	rydy
+8e	.
+=14	=14
+16g	hopsa
+16b	.
+4d}	sa.
+==	==
+*-	*-
+!!!role-singer: Narrator, Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Wyszła panna przede wroty,
+!!A ha Jezus mój!
+!!upłakuje swojéj cnoty,
+!!A ha Jezus mój!
+!!Żebyś my się powróciła,
+!!radabym cię ozłociła,
+!!tydy rydy hopsa sa.
+!!@VERSE:
+!!2. Nieszczęśliwe te pokoje,
+!!a ha Jezus mój!
+!!co nas chodziło po dwoje,
+!!a ha Jezus mój!
+!!Kandy dwoje tam i trzecie,
+!!będzie teraz źle na świecie,
+!!tydy rydy hopsasa.
+!!@VERSE:
+!!3. A jak będziesz syna miała
+!!a ha Jezus mój!
+!!w co go będziesz powijała?
+!!a ha Jezus mój!
+!!A ma Jasio pas jedwabny
+!!będzie powójniczek ładny,
+!!tydy rydy hopsasa.
+!!@VERSE:
+!!4. A jak będziesz córkę miała
+!!a ha Jezus mój!
+!!w co ją będziesz powijała?
+!!a ha Jezus mój!
+!!a mam-ci ja dwa chfartuszki,
+!!podrę jeden na pieluszki,
+!!tydy rydy hopsasa.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY:Nuta m. 50
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=204 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 188} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 188}
 !!!page: 188
+!!!BEM: Kolberg podaje metrum 3/4 zapisano poprawnie w metrum 3/8
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

@@ -1,5 +1,7 @@
-!!!!SEGMENT: DWOK1311700000-niemasz_w_swiecie_nic_milszego.krn
-!!!OTL: Niemasz w świecie nic milszego
+﻿!!!!SEGMENT: DWOK1311700000-niemasz_w_swiecie_nic_milszego.krn
+!!!OTL: Niemasz w świecie nic milszego. Wiwat
+!!!FKT: Pieśni. Miasta i Dwory. Wiwaty. Karczma. Taniec
+!!!REG: Wielkie Księstwo Poznańskie
 !!!source: DWOK13
 !!!id: 13117
 !!!signature: 1311700000
@@ -12,8 +14,8 @@
 !LO:TX:a:t=Wiwat przyjacielski.	!	!
 {8cc#	1.Niemasz	2.Kto
 8ee	.	go
-(16eeL	w_świecie	ko-
-16ddJ)	.	.
+(16eeL	w_świe-	ko-
+16ddJ)	-cie	.
 (16ddL	.	-cha,
 16cc#J)	.	.
 =2	=2	=2
@@ -87,8 +89,8 @@
 8cc#/L	swego.	-pi-
 8ee/}J	.	-ja.
 ==	==	==
-!!!RDF**kern: <=above	**text
 *-	*-	*-
+!!!RDF**kern: <=above	**text
 !!@@BEGIN: VERSES
 !!1. Niemasz w świecie nic milszego,
 !!hej, hej, nic milszego,
@@ -112,14 +114,14 @@
 !!ani dbam o kasztelana
 !!trzymając się mocno dzbana.
 !!@@END: VERSES
-!!!role-singer: Friend
-!!!role-listener: Friends
-!!!singer-sex: Complex
-!!!ONB: Wiwat przyjacielski
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=91 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 67} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 67}
 !!!page: 67
+!!!BEM: Wiwat przyjacielski
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-19
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-27

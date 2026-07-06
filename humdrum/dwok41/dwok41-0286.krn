@@ -45,12 +45,15 @@
 !!@@BEGIN: VERSES
 !!Tańcujże ze mną,
 !!mam mączkę pszenną,
-!!nagotuje sałamachy,
+!!nagotuje sałamachy(1),
 !!będziesz jadł ze mną.
 !!@@END: VERSES
+!!@@BEGIN: 
+!! @COMMENTARY:(1)lemieszka, prażucha.
+!!@@END:
 !!!role-singer: Mistress
 !!!role-listener: Man
-!!!singer-sex: Female
+!!!singer-sex: female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=254 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 175} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 175}
@@ -58,3 +61,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-04-24
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-28

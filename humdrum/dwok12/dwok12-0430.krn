@@ -1,81 +1,115 @@
-!!!!SEGMENT: DWOK1243000000-a_przede_dworem.krn
+﻿!!!!SEGMENT: DWOK1243000000-a_przede_dworem.krn
 !!!OTL: A przede dworem
+!!!FKT: Pieśni i Dumy. Dumy. Zdrada. Zabójstwo
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Mogilna, Barcina
+!!!AR1: kujawsko-pomorskie ; mogileński ; Mogilno-miasto
+!!!GE1: 52.657733 , 17.949932
+!!!AR2: kujawsko-pomorskie ; żniński ; Barcin-miasto
+!!!GE2: 52.857378 , 17.941886
 !!!source: DWOK12
 !!!id: 12430
 !!!signature: 1243000000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8g
-8g
-4b
-8b
-8g
-=2
-16cc
-16ee
-8gg
-4ff
-4dd
-=3
-8b
-8dd
-4.ff
-8ee
-=4
-8gg
-8ee
-2cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8g	A
+8g	przede
+4b/	.
+8b/	dworem,
+8g	.
+=2	=2
+16ccL	a
+16eeJ	przede
+8gg	.
+4ff	dworem
+4dd	.
+=3	=3
+8b	na
+8dd	błoniu,
+4.ff	.
+8ee	na
+=4	=4
+8ggL	błoniu,
+8eeJ	.
+2cc}	.
 !!LO:LB:g=esac
-=5
-{8ee
-8ee
-4gg
-8ff
-8ee
-=6
-16dd
-16b
-8g
-4a
-4f
-=7
-8e
-8g
-2cc
-=8
-8dd
-16ee
-16ff
-2gg}
+=5	=5
+{8ee	wywija,
+8ee	.
+4gg	.
+8ffL	wy-
+8eeJ	.
+=6	=6
+16ddL	-wi-
+16bJ	.
+8g	-ja
+4a	Jasio
+4f	.
+=7	=7
+8e	na
+8g	koniu,
+2cc	.
+=8	=8
+8dd	na
+16eeL	koniu,
+16ffJ	.
+2gg}	.
 !!LO:LB:g=esac
-=9
-{8ee
-8ee
-4gg
-8ff
-8ee
-=10
-16dd
-16b
-8g
-4a
-4f
-=11
-8e
-8g
-2cc
-=12
-8dd
-8b
-2g}
-==
-*-
+=9	=9
+{8ee	wywija,
+8ee	.
+4gg	.
+8ffL	wy-
+8eeJ	.
+=10	=10
+16ddL	-wi-
+16bJ	.
+8g	-ja
+4a	Jasio
+4f	.
+=11	=11
+8e	na
+8g	koniu,
+2cc	.
+=12	=12
+8dd	na
+8b	koniu.
+2g}	.
+==	==
+*-	*-
+!!!role-singer: Maiden, Bachelor
+!!!role-listener: Bachelor, Maiden
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. A przede dworem, a przede dworem na błoniu, na błoniu,
+!!wywija, wywija Jasio na koniu, na koniu.
+!!@VERSE:
+!!2. A Kasia mu się — dziwuje,
+!!złotem chusteczkę — haftuje.
+!!@VERSE:
+!!3. A gdzieżeś Jasiu — pobawiał,
+!!żeś tak konika — marnował.
+!!@VERSE:
+!!4. A u Kasiuli — jedyni,
+!!wiła mi wionek — z leluji.
+!!@VERSE:
+!!5. O ty Kasiulu — cobyś ty wolała,
+!!czy służkę mego, czy mnie samego?
+!!@VERSE:
+!!6. U mego służki — złote poduszki,
+!!u mnie samego — z serca dobrego.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=239 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 223-224} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 223-224}
 !!!page: 223-224
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

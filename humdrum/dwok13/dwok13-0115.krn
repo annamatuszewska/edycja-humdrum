@@ -1,5 +1,7 @@
-!!!!SEGMENT: DWOK1311500000-kiedy_chce_to_moge.krn
+﻿!!!!SEGMENT: DWOK1311500000-kiedy_chce_to_moge.krn
 !!!OTL: Kiedy chcę to mogę
+!!!FKT: Pieśni. Miasta i Dwory. Stany. Rody
+!!!REG: Wielkie Księstwo Poznańskie
 !!!source: DWOK13
 !!!id: 13115
 !!!signature: 1311500000
@@ -8,10 +10,10 @@
 *k[f#]	*
 *G:	*
 *M6/8	*
+!LO:TX:a:t=Kawalerski stan.	!
 {16d	Kiedy
 16d	.
 =1	=1
-!LO:TX:a:t=Kawalerski stan.	!
 4g	chcę
 8g	to
 8b/L	mo-
@@ -61,7 +63,7 @@
 =9	=9
 {4g	chcę
 8g	to
-8.g\	mo-
+8.g\L	mo-
 16f#\J	.
 8g	-gę
 =10	=10
@@ -85,7 +87,7 @@
 =13	=13
 {8b/L	to
 8g	ka-
-8b/J 	-wa-
+8b/J	-wa-
 8b	-ler-
 8g	.
 8b	-ski
@@ -146,14 +148,16 @@
 !!Bodaj to kawalerski stan,
 !!człek sobie żyje jak pan.
 !!@@END: VERSES
-!!!role-singer: Man
+!!!role-singer: Bachelor
 !!!role-listener: Group
 !!!singer-sex: male
-!!!ONB: Kawalerski stan
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=90 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 66} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 66}
 !!!page: 66
+!!!BEM: Kawalerski stan
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-19
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-27

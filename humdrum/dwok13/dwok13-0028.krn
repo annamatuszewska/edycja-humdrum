@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1302800000-dwie_marysie_spotkaly_sie.krn
+﻿!!!!SEGMENT: DWOK1302800000-dwie_marysie_spotkaly_sie.krn
 !!!OTL: Dwie Marysie spotkały się
+!!!FKT: Pieśni. Miasta i Dwory. Miłość. Tęsknota
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Rawicza (Pakosław)
+!!!AR1: wielkopolskie ; rawicki ; Pakosław-gmina wiejska
+!!!GE1: 51.611323 , 17.058539
 !!!source: DWOK13
 !!!id: 13028
 !!!signature: 1302800000
@@ -43,7 +48,7 @@
 8ccq	.
 8b	.
 =7	=7
-16a	czy
+16a\	czy
 16cc	srebrem
 8cc	.
 8ddq	.
@@ -85,9 +90,6 @@
 !!ani srebrem ani złotem
 !!tylko własną buzią.
 !!@@END: VERSES
-!!!role-singer: Group
-!!!role-listener: Group
-!!!singer-sex: female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=41 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 17-18} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, pp. 17-18}
@@ -95,3 +97,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-04
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-17

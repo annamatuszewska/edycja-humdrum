@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1304600000-przyszedl_jasio_do_kasiuni.krn
+﻿!!!!SEGMENT: DWOK1304600000-przyszedl_jasio_do_kasiuni.krn
 !!!OTL: Przyszedł Jasio do Kasiuni
+!!!FKT: Pieśni. Miasta i Dwory. Miłość. Tęsknota
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: Kostrzyn
+!!!AR1: wielkopolskie ; poznański ; Kostrzyn-miasto
+!!!GE1: 52.397266 , 17.225518
 !!!source: DWOK13
 !!!id: 13046
 !!!signature: 1304600000
@@ -34,7 +39,7 @@
 16f#	go
 =6	=6
 16g	pięknie
-16b	.
+16b/	.
 8.dd	prosi
 16dd	.
 =7	=7
@@ -53,9 +58,9 @@
 16f#	go
 =10	=10
 16g	pięknie
-16b	.
+16b/	.
 8.dd	prosi
-16dd	.
+16ee	.
 =11	=11
 16a	na
 16f#	łóżecz-
@@ -70,9 +75,7 @@
 !!Przyszed Jasio do Kasiuni dobranoc powiedzieć,
 !!a ona go pięknie prosi na łóżeczku siedzieć.
 !!@@END: VERSES
-!!!role-singer: Complex
-!!!role-listener: Complex
-!!!singer-sex: Complex
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=50 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 26} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 26}
@@ -80,3 +83,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-08
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-24

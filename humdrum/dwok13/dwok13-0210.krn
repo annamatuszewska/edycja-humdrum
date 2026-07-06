@@ -1,5 +1,7 @@
-!!!!SEGMENT: DWOK1321000000-moja_matko_daj_mi_konia.krn
+﻿!!!!SEGMENT: DWOK1321000000-moja_matko_daj_mi_konia.krn
 !!!OTL: Moja matko daj mi konia
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
 !!!source: DWOK13
 !!!id: 13210
 !!!signature: 1321000000
@@ -65,9 +67,9 @@
 !!2. W Gościeszynie jeszcze lepij,
 !!bo latają jako ślepi.
 !!@@END: VERSES
-!!!role-singer: Daughter
+!!!role-singer: Son
 !!!role-listener: Mother
-!!!singer-sex: Female
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=129 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 105} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 105}
@@ -75,3 +77,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-05
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-13

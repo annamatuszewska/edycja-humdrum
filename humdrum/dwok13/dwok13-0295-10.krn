@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1329500010-instrumentalna-chodzony_v._polski.krn
-!!!OTL: Instrumentalna-Chodzony v. Polski
+﻿!!!!SEGMENT: DWOK1329500010-instrumentalna-chodzony_v._polski.krn
+!!!OTL: A wy Niemcy wy nie wiecie. Chodzony v. Polski. Instrumentalna
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Szremu, Środy
+!!!AR1: wielkopolskie ; śremski ; Śrem-miasto
+!!!GE1: 52.095371 , 17.020534
+!!!AR2: wielkopolskie ; średzki ; Środa Wielkopolska-miasto
+!!!GE2: 52.229003 , 17.275115
 !!!source: DWOK13
 !!!id: 13295
 !!!signature: 1329500010
@@ -62,3 +69,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-18
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-24

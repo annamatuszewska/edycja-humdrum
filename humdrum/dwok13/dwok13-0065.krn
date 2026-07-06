@@ -1,5 +1,7 @@
-!!!!SEGMENT: DWOK1306500000-dobra_basiu.krn
-!!!OTL: Dobra Basiu
+﻿!!!!SEGMENT: DWOK1306500000-dobra_basiu.krn
+!!!OTL: Dobra Basiu piękna Basiu
+!!!FKT: Pieśni. Miasta i Dwory. Miłość. Tęsknota
+!!!REG: Wielkie Księstwo Poznańskie
 !!!source: DWOK13
 !!!id: 13065
 !!!signature: 1306500000
@@ -90,8 +92,8 @@
 8a	.
 8g	.
 =18	=18
-16ee/	od
-16ee/	żołnierza,
+16ee/L	od
+16ee/J	żołnierza,
 8cc	.
 8cc	.
 =19	=19
@@ -114,9 +116,7 @@
 !!i słyszeli od żołnierza,
 !!że Staś już krzyż miał.
 !!@@END: VERSES
-!!!role-singer: Bride
-!!!role-listener: Bridegroom
-!!!singer-sex: complex
+!!!role-listener: Young girl
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=62 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 38} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 38}
@@ -124,3 +124,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-11
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-24

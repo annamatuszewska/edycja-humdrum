@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1341400000-na_ogrodzie_tatereczka.krn
-!!!OTL: Na ogrodzie tatereczka
+﻿!!!!SEGMENT: DWOK1341400000-na_ogrodzie_tatereczka.krn
+!!!OTL: Na ogrodzie tatereczka. Krakowiak
+!!!FKT: Śpiewki i Tańce. Wiwaty, Tańce i Piosenki 2/4
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kostrzyna (Siekierki)
+!!!AR1: NIE ; NIE ; NIE
+!!!GE1: 52.383122 , 17.155401
 !!!source: DWOK13
 !!!id: 13414
 !!!signature: 1341400000
@@ -10,7 +15,7 @@
 *M2/4	*	*
 =1	=1	=1
 !LO:TX:a:t=Krakowiak.	!	!
-{8b	Na	Nie
+{8b	1._Na	2._Nie
 8cc	o-	śmie-
 4dd	-grodzie	-li
 =2	=2	=2
@@ -54,8 +59,8 @@
 =10	=10	=10
 8f#	-le-	pa-
 (>4g	-rzy	.
-16b)/	.	-ni,
-16b/	.	.
+16b)/L	.	-ni,
+16b/J	.	.
 =11	=11	=11
 8b	do	chu-
 8a\	dzie-	-stecz-
@@ -93,7 +98,8 @@
 !!przybywaj dziewólo
 !!pod jarą pszenice.
 !!@@END: VERSES
-!!!role-singer: Narrator, Single Girl
+!!!role-singer: Narrator, Maiden
+!!!sex-singer: female
 !!!RDF**kern: >= above
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -102,3 +108,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-04-08
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-16

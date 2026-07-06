@@ -1,58 +1,108 @@
-!!!!SEGMENT: DWOK1225300001-we_wrzeszczynie_na_koncu_wsi.krn
+﻿!!!!SEGMENT: DWOK1225300001-we_wrzeszczynie_na_koncu_wsi.krn
 !!!OTL: We Wrzeszczynie na końcu wsi
+!!!FKT: Pieśni i Dumy. Skarga. Niechęć. Rozstanie
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Wielenia (Drasko)
+!!!AR1: wielkopolskie ; czarnkowsko-trzcianecki ; Drawsko-gmina wiejska
+!!!GE1: 52.853841 , 16.029826
 !!!source: DWOK12
 !!!id: 12253
 !!!signature: 1225300001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8g
-8b
-4dd
-4dd
-=2
-8b
-8g
-4a
-4g
-=3
-8g
-8b
-4dd
-4dd
-=4
-4.ee
-8dd
-8dd
-8b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8g	We
+8b	Wrzészczynie
+4dd	.
+4dd	.
+=2	=2
+8b	na
+8g	końcu
+4a\	.
+4g;	wsi;
+=3	=3
+8g	we
+8b	Wrzészczynie
+4dd	.
+4dd	.
+=4	=4
+4.ee	na
+8dd	końcu
+8dd	.
+8b}	wsi,
 !!LO:LB:g=esac
-=5
-{8cc
-8b
-4a
-4ee
-=6
-4.dd
-8cc
-8b
-8a
-=7
-8b
-8d
-4g
-4b
-=8
-8b
-8g
-4a
-4g}
-==
-*-
+=5	=5
+{8cc	jest
+8b	tam
+4a\	jedna,
+4ee	.
+=6	=6
+4.dd	o
+8cc	mnie
+8b	myśli,
+8a\	.
+=7	=7
+8b	jest
+8d	tam
+4g	jedna,
+4b	.
+=8	=8
+8b	o
+8g	mnie
+4a\	myśli.
+4g;}	.
+==	==
+*-	*-
+!!!role-singer: Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. We Wrzészczynie na końcu wsi,
+!!jest tam jedna, o mnie myśli,
+!!jest tam jedna, o mnie myśli.
+!!@VERSE:
+!!2. Óna myśli, ja jéj nie chcę,
+!!zasmucone jeji serce,
+!!zasmucone jeji serce.
+!!@VERSE:
+!!3. Jeji serce zasmucone,
+!!moja miłość opuscona,
+!!moja miłość opuscona.
+!!@VERSE:
+!!4. Nie opuscaj ty mnie jesce,
+!!az ja sobie znajdę miesce,
+!!az ja sobie znajdę miesce.
+!!@VERSE:
+!!5. Jak ja sobie miesce znojdę,
+!!tak od ciebie za rázem pójdę,
+!!tak od ciebie za rázem pójdę.
+!!@VERSE:
+!!6. Ostajciez tu i wy progi,
+!!co chodziły moje nogi,
+!!co chodziły moje nogi.
+!!@VERSE:
+!!7. Ostajciez tu i wy ściany,
+!!coście mnie nieraz podparły,
+!!coście mnie nieraz podparły.
+!!@VERSE:
+!!8. Ostajciez tu i wy dźwirze,
+!!co chodzili kawalirze,
+!!co chodzili kawalirze.
+!!@VERSE:
+!!9. Ostajciez tu i wy ókna,
+!!co im nieraz cápka mokła,
+!!co im nieraz cápka mokła.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=269 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 253} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 253}
 !!!page: 253
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

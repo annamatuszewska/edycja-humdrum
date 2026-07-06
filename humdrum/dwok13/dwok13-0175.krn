@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1317500000-instrumentalna-kolodziej.krn
-!!!OTL: Instrumentalna-Kołodziej
+﻿!!!!SEGMENT: DWOK1317500000-instrumentalna-kolodziej.krn
+!!!OTL: Instrumentalna. Kołodziej
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Pakości
+!!!AR1: kujawsko-pomorskie ; inowrocławski ; Pakość-miasto
+!!!GE1: 52.807005 , 18.087691
 !!!source: DWOK13
 !!!id: 13175
 !!!signature: 1317500000
@@ -9,7 +14,7 @@
 *C:
 *M3/4
 =1
-!LO:TX:a:t=Kołodziej (taniec).	
+!LO:TX:a:t=Kołodziej (taniec).
 {8ccL
 8eeJ
 4gg
@@ -158,3 +163,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-27
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-03

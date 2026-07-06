@@ -1,58 +1,80 @@
-!!!!SEGMENT: DWOK1205000000-lepsza_ja_jasiu_jak_i_ty.krn
+﻿!!!!SEGMENT: DWOK1205000000-lepsza_ja_jasiu_jak_i_ty.krn
 !!!OTL: Lepsza ja Jasiu jak i ty
+!!!FKT: Pieśni i Dumy. Miłość. Pieśni zalotne
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Środy (Dębicz)
+!!!AR1: wielkopolskie ; średzki ; Środa Wielkopolska-obszar wiejski
+!!!GE1: 52.265702 , 17.311801
 !!!source: DWOK12
 !!!id: 12050
 !!!signature: 1205000000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8cc
-8a
-16cc
-16ee
-=2
-16dd
-16b
-8g
-8dd
-=3
-8cc
-8a
-16a
-16f#
-=4
-16d
-16f#
-8a
-8d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8cc	Lepsza
+8a	.
+16cc	ja
+16ee	Ja-
+=2	=2
+16dd	-siu
+16b	jak
+8g	i
+8dd	ty,
+=3	=3
+8cc	mam
+8a	ja
+16a	fartu-
+16f#	.
+=4	=4
+16d	-szek
+16f#	wyszyty.
+8a	.
+8d}	.
 !!LO:LB:g=esac
-=5
-{8cc
-8a
-16a
-16f#
-=6
-16d
-16f#
-8g
-8dd
-=7
-8cc
-8a
-16a
-16f#
-=8
-16d
-16f#
-8a
-8d}
-==
-*-
+=5	=5
+{8cc	Kto
+8a	ci
+16a	go
+16f#	dziew-
+=6	=6
+16d	-czę
+16f#	wyszywał,
+8g	.
+8dd	.
+=7	=7
+8bq	.
+8cc	kiedy
+8a	.
+16a	ja
+16f#	w_do-
+=8	=8
+16d	-mu
+16f#	nie
+8g#q	.
+8a	bywał.
+8d}	.
+==	==
+*-	*-
+!!!role-singer: Mistress, Lover
+!!!role-listener: Lover, Mistress
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:Lepsza ja Jasiu jak i ty,
+!!mam ja fartuszek wyszyty.
+!!Kto ci go dziewczę wyszywał,
+!!kiedy ja w domu nie bywał.
+!!Wyszywali mi go drudzy,
+!!pana tutejszego słudzy.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=39 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 23} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 23}
 !!!page: 23
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-02-19
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

@@ -1,63 +1,85 @@
-!!!!SEGMENT: DWOK1218400000-oj_zajeto_zajeto.krn
+﻿!!!!SEGMENT: DWOK1218400000-oj_zajeto_zajeto.krn
 !!!OTL: Oj zajęto zajęto
+!!!FKT: Pieśni i Dumy. Pieśni przed Weselem i wśród Wesela śpiewane
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Środy (Dębicz)
+!!!AR1: wielkopolskie ; średzki ; Środa Wielkopolska-obszar wiejski
+!!!GE1: 52.265702 , 17.311801
 !!!source: DWOK12
 !!!id: 12184
 !!!signature: 1218400000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16a
-8cc
-8dd
-=2
-8b
-8dd
-8a
-=3
-16g
-16a
-8cc
-8dd
-=4
-8b
-8g
-8a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16g	Oj
+16a	za-
+8cc	-ję-
+8dd	-to,
+=2	=2
+8b	zaję-
+8dd	.
+8a	-to,
+=3	=3
+16g	ze
+16a	soboty
+8cc	.
+8dd	.
+=4	=4
+8b	na
+8g	święto,
+8a}	.
 !!LO:LB:g=esac
-=5
-{16cc
-16cc
-8b
-8g
-=6
-16e
-16g
-8a
-8b
-=7
-8dd
-4dd}
+=5	=5
+{16cc	oj
+16cc	zaję-
+8b	.
+8g	-to
+=6	=6
+16e	służe-
+16g	.
+8a	-bnemu
+8b	.
+=7	=7
+8dd	konie,
+4dd}	.
 !!LO:LB:g=esac
-=8
-{16cc
-16cc
-8b
-8g
-=9
-16e
-16g
-8a
-8b
-=10
-8g
-4g}
-==
-*-
+=8	=8
+{16cc	teraz
+16cc	.
+8b	nie
+8g	wié
+=9	=9
+16e	chtórą
+16g	.
+8a	dróżką
+8b	.
+=10	=10
+8g	po
+4g}	nie.
+==	==
+*- 	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Oj zajęto, zajęto,
+!!ze soboty na święto,
+!!oj zajęto służebnemu konie,
+!!teraz nie wié chtórą dróżką po nie.
+!!@VERSE:
+!!2. O dróżkę się nie pytaj,
+!!do Kłecka się przymykaj.
+!!A od Kłecka do nowego miasta,
+!!tam dziewula stado kóni pasła.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=109 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 93-94} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 93-94}
 !!!page: 93-94
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

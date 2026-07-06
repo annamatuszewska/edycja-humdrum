@@ -1,12 +1,17 @@
-!!!!SEGMENT: DWOK1336100000-instrumentalna_-_owczarek.krn
-!!!OTL: Instrumentalna - Owczarek
+﻿!!!!SEGMENT: DWOK1336100000-instrumentalna_-_owczarek.krn
+!!!OTL: Instrumentalna. Owczarek
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Strzelna (Ostrowo)
+!!!AR1: kujawsko-pomorskie ; mogileński ; Strzelno-obszar wiejski
+!!!GE1: 52.556442 , 18.110263
 !!!source: DWOK13
 !!!id: 13361
 !!!signature: 1336100000
 **kern
 *clefG2
 *k[]
-*G:
+*C:
 *M3/8
 =1
 *Xtuplet
@@ -39,10 +44,8 @@
 =5
 {16ccL
 16ccJ
-8bL
-24g\
-24a\
-24bJ
+8b/L
+8ddJ
 =6
 16ccL
 16a\J
@@ -120,3 +123,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-26

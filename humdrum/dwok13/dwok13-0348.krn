@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1334800000-juz_ide_do_dom_kumotrze.krn
+﻿!!!!SEGMENT: DWOK1334800000-juz_ide_do_dom_kumotrze.krn
 !!!OTL: Już idę do dom kumotrze
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gembicy (Orchowo)
+!!!AR1: wielkopolskie ; słupecki ; Orchowo-gmina wiejska
+!!!GE1: 52.508458 , 18.016109
 !!!source: DWOK13
 !!!id: 13348
 !!!signature: 1334800000
@@ -10,8 +15,8 @@
 *M3/4	*	*
 =1	=1	=1
 !LO:TX:a:t=Przy weselu.	!	!
-{8b	Już	 Gdzie
-8dd	i-	ja	
+{8b	Już	Gdzie
+8dd	i-	ja
 4b	-dę	się
 8ddL	do	dzie-
 8ff#J	.	.
@@ -66,13 +71,15 @@
 !!skryję ja się pod fartuszek
 !!gdzie twoje ziele da ziele.
 !!@@END: VERSES
-!!!role-singer: Complex
 !!!role-listener: Friend
-!!!singer-sex: Male
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=175 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 151} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 151}
 !!!page: 151
+!!!BEM: Przy weselu
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-26

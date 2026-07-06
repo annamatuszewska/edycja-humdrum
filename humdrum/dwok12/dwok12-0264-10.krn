@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1226400010-instrumentalna-siwa_gaska_siwa.krn
-!!!OTL: Instrumentalna-Siwa gąska siwa
+﻿!!!!SEGMENT: DWOK1226400010-instrumentalna-siwa_gaska_siwa.krn
+!!!OTL: Siwa gąska siwa. Kujawiak. Instrumentalna
+!!!FKT: Pieśni i Dumy. Skarga. Niechęć. Rozstanie
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Pakości
+!!!AR1: kujawsko-pomorskie ; inowrocławski ; Pakość-miasto
+!!!GE1: 52.807005 , 18.087691
 !!!source: DWOK12
 !!!id: 12264
 !!!signature: 1226400010
@@ -9,34 +14,52 @@
 *G:
 *M3/8
 =1
-{16f#
-16g
-16a
+{16f#L
+16gJ
+16aL
 16cc
 16ee
-[16ff#
+[16ff#J
 =2
-16ff#]
-8ee
-16e
-8g
+!LO:TX:t=P:problem=mixed beam
+16ff#L\]
+8ee\
+16e/
+8gJ/
 =3
-16f#
-16g
-16a
+16f#L
+16gJ
+16aL
 16cc
 16ee
-[16ff#
+[16ff#J
 =4
-16ff#]
-8ee
-16e
-8g}
+!LO:TX:t=P:problem=mixed beam
+16ff#\]L
+8ee\
+16e/
+8gJ/}
 ==
 *-
-!!!ONB: Partia instrumentalna
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Siwa gąska siwa
+!!po jęziorku pływa,
+!!kto się w kim zakochał
+!!rado nic nie bywa.
+!!@VERSE:
+!!2. Zakochał się Jasio
+!!i musi się rozstać,
+!!a było-ć to nigdy
+!!przyjazności nie znać.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=156 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 140} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 140}
 !!!page: 140
+!!!BEM: Partia instrumentalna. Kujawiak
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

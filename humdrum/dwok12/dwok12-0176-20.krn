@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1217600020-instrumentalna-a_mam_ci_ja_ogrodeczek.krn
-!!!OTL: Instrumentalna-A mam ci ja ogródeczek
+﻿!!!!SEGMENT: DWOK1217600020-instrumentalna-a_mam_ci_ja_ogrodeczek.krn
+!!!OTL: A mam ci ja ogródeczek. Instrumentalna
+!!!FKT: Pieśni i Dumy. Pieśni przed Weselem i wśród Wesela śpiewane
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Rawicza (Pakosław, Golejewko)
+!!!AR1: wielkopolskie ; rawicki ; Pakosław-gmina wiejska
+!!!GE1: 51.611323 , 17.058539
+!!!AR2: wielkopolskie ; rawicki ; Pakosław-gmina wiejska
+!!!GE2: 51.618845 , 17.025443
 !!!source: DWOK12
 !!!id: 12176
 !!!signature: 1217600020
@@ -9,38 +16,39 @@
 *G:
 *M3/8
 =1
-{16e
-16d
-8f#
-8a
+{16eL
+16dJ
+8f#L
+8aJ
 =2
-8e
+8eL
 8.g
-16f#
+16f#J
 =3
-16e
-16d
-8f#
-8a
+16eL
+16dJ
+8f#L
+8aJ
 =4
+8eq
 4g
-16f#
-16d}
+16f#L
+16dJ}
 !!LO:LB:g=esac
 =5
-{16e
-16d
-8f#
-8a
+{16eL
+16dJ
+8f#L
+8aJ
 =6
-8e
+8eL
 8.g
-16f#
+16f#J
 =7
-16e
-16d
-8f#
-8a
+16eL
+16dJ
+8f#L
+8aJ
 =8
 4g
 8g}
@@ -51,3 +59,7 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=105 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 89} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 89}
 !!!page: 89
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-02-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-09

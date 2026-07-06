@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1315600000-sluzebniczka_niewolniczka.krn
-!!!OTL: Służebniczka niewolniczka
+﻿!!!!SEGMENT: DWOK1315600000-sluzebniczka_niewolniczka.krn
+!!!OTL: Służebniczka niewolniczka. Chodzony
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gołańczy (Czeszewo)
+!!!AR1: wielkopolskie ; wągrowiecki ; Gołańcz-obszar wiejski
+!!!GE1: 52.908722 , 17.382633
 !!!source: DWOK13
 !!!id: 13156
 !!!signature: 1315600000
@@ -104,7 +109,7 @@
 !!3. Sierota'ś była maluśka,
 !!sierotaś była,
 !!a ja na to nie uważał,
-!!byłeś robiła.
+!!byleś robiła.
 !!@VERSE:
 !!4. Sierotom grajcie graczyki,
 !!sierotom grajcie,
@@ -116,14 +121,16 @@
 !!niech przejedzą swojaczanki,
 !!niech się nie boją.
 !!@@END: VERSES
-!!!role-singer: Complex
-!!!role-listener: Group
-!!!singer-sex: Complex
-!!!ONB: Chodzony
+!!!role-singer: Narrator
+!!!role-listener: Orphan Girl, Group
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=110 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 86} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 86}
 !!!page: 86
+!!!BEM: Chodzony
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-23
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-13

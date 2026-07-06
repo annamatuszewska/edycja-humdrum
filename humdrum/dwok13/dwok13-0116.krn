@@ -1,5 +1,7 @@
-!!!!SEGMENT: DWOK1311600000-da_sliczna_w_polu.krn
+﻿!!!!SEGMENT: DWOK1311600000-da_sliczna_w_polu.krn
 !!!OTL: Da śliczna w polu
+!!!FKT: Pieśni. Miasta i Dwory. Stany. Rody
+!!!REG: Wielkie Księstwo Poznańskie
 !!!source: DWOK13
 !!!id: 13116
 !!!signature: 1311600000
@@ -28,9 +30,9 @@
 =4	=4
 8dd	-ża
 8a	da
-4cc/	da-
-16eeqL	.
-16ccqJ	.
+8cc/L	da-
+16ee	.
+16ccJ	.
 8b/L	-na
 8gJ}	.
 !!LO:LB:g=esac
@@ -98,8 +100,8 @@
 4dd	i
 16eeqL	.
 16ddqJ	.
-8cc	śli-
-8a	.
+8ccL	śli-
+8aJ	.
 8f#	-czniejsza
 8d#}	.
 !!LO:LB:g=esac
@@ -189,13 +191,15 @@
 !!za nią dam siebie i ciebie.
 !!@@END: VERSES
 !!!role-singer: Lover
-!!!role-listener: Mistress
+!!!role-listener: Young girl
 !!!singer-sex: male
-!!!ONB: Kasiuleńka i Ojczyzna, muz. Aut. Wojkowskiego
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=90 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 66-67} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, pp. 66-67}
 !!!page: 66-67
+!!!BEM: Kasiuleńka i Ojczyzna, muz. Aut. Wojkowskiego
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-19
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-27

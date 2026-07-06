@@ -1,50 +1,129 @@
-!!!!SEGMENT: DWOK1244700001-ozenil_sie_szalamaja.krn
+﻿!!!!SEGMENT: DWOK1244700001-ozenil_sie_szalamaja.krn
 !!!OTL: Ożenił się szałamaja
+!!!FKT: Pieśni i Dumy. Małżeństwo. Kłótnia. Zgoda
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kcyni, Znina
+!!!AR1: kujawsko-pomorskie ; nakielski ; Kcynia-miasto
+!!!GE1: 52.991733 , 17.487238
+!!!AR2: kujawsko-pomorskie ; żniński ; Żnin-miasto
+!!!GE2: 52.849622 , 17.720835
 !!!source: DWOK12
 !!!id: 12447
 !!!signature: 1244700001
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16cc
-16dd
-8ee
-8dd
-=2
-16ff
-16ee
-8dd
-8ee
-=3
-16cc
-16b
-8a
-8dd
-=4
-8g
-4cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16cc	Oże-
+16dd	.
+8ee	-nił
+8dd	się
+=2	=2
+16ff	szałama-
+16ee	.
+8dd	.
+8ee	-ja,
+=3	=3
+16cc	pojął
+16b	.
+8a\	sobie
+8dd	.
+=4	=4
+8g	huc
+4cc}	huc,
 !!LO:LB:g=esac
-=5
-{8g
-4cc
-=6
-8dd
-4ee
-=7
-16cc
-16cc
-8b
-8dd
-=8
-8g
-4cc}
-==
-*-
+=5	=5
+{8g	ha
+4cc	ha,
+=6	=6
+8dd	hi
+4ee	hi,
+=7	=7
+16cc	pojął
+16cc	.
+8b	sobie
+8dd	.
+=8	=8
+8g	huc,
+4cc}	huc.
+==	==
+*-	*-
+!!!role-singer: Narrator, Wife
+!!!role-listener: Husband
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Ożenił się szałamaja,
+!!pojął sobie huc huc,
+!!ha ha, hi hi,
+!!pojął sobie huc, huc.
+!!@VERSE:
+!!1. Ożenił się szałamaja,
+!!pojął sobie huc huc.
+!!Nasuła mu stępę prosa,
+!!kazała mu utłuc.
+!!@VERSE:
+!!2. A ón ij się wymawia,
+!!że krótki stęperek (stęporek).
+!!Nie utłuczesz w poniedziałek,
+!!utłuczesz we wtorek.
+!!@VERSE:
+!!3. Przyszed do nij w poniedziałek.
+!!ona chusty moczy;
+!!walnęła go chustą bez łeb,
+!!zalała mu oczy.
+!!@VERSE:
+!!4. Przyszed do nij we wtorek,
+!!ona chusty pierze;
+!!walnęła go chustą bez łeb,
+!!on się do nij bierze.
+!!@VERSE:
+!!5. Przyszed do nij we środę,
+!!ona je potácza;
+!!walnęła go chustą w brodę,
+!!on ji się obraca.
+!!@VERSE:
+!!6. Przyszed do nij we czwartek,
+!!ona je mangluje;
+!!walnęła go chustą w karczek,
+!!a ón ji tańcuje.
+!!@VERSE:
+!!7. Przyized do nij w piątek
+!!ona placki piecze;
+!!walnęła go łopatą w pysk,
+!!j-aż mu jucha ciecze.
+!!@VERSE:
+!!8. Przyszed do nij w sobotę
+!!żeby go umyła,
+!!óna zgrzała garnek waru,
+!!łeb mu oparzyła.
+!!@VERSE:
+!!9. Przyszed do nij w niedzielę
+!!żeby go oblekła;
+!!wzięna ci go z wierzchu za łeb,
+!!izbę nim zamietła.
+!!@VERSE:
+!!10. Przyszed do nij w poniedziałek
+!!z barełeczką wina,
+!!wiwat, wiwat, moja żonko
+!!żeś mię wyćwiczyła.
+!!@VERSE:
+!!11. Przypatrzcie się wszyscy ludzie,
+!!jaki mój mąż szczodry,
+!!całki tydzień żem go biła,
+!!on my dzisiaj dobry.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Nuta nr 365.
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=248 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 232} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 232}
 !!!page: 232
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

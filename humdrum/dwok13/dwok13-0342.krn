@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1334200000-od_seczka_do_seczka.krn
+﻿!!!!SEGMENT: DWOK1334200000-od_seczka_do_seczka.krn
 !!!OTL: Od sęczka do sęczka
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Szmigła (Morownica)
+!!!AR1: wielkopolskie ; kościański ; Śmigiel-obszar wiejski
+!!!GE1: 51.989996 , 16.475680
 !!!source: DWOK13
 !!!id: 13342
 !!!signature: 1334200000
@@ -95,9 +100,9 @@
 !!żebym ja wiedziała
 !!że będę twoja.
 !!@@END: VERSES
-!!!role-singer: Lover, Single Girl
-!!!role-listener: Single Girl, Lover
-!!!singer-sex: Male, Female
+!!!role-singer: Lover, Maiden
+!!!role-listener: Maiden, Lover
+!!!singer-sex: male, female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=173 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 149} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 149}
@@ -105,3 +110,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-23
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-26

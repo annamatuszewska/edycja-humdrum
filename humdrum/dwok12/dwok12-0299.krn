@@ -1,106 +1,132 @@
-!!!!SEGMENT: DWOK1229900000-a_jak_ja_byla_nadobna_dzieweczka.krn
+﻿!!!!SEGMENT: DWOK1229900000-a_jak_ja_byla_nadobna_dzieweczka.krn
 !!!OTL: A jak ja była nadobną dzieweczką
+!!!FKT: Pieśni i Dumy. Strata wianka. Żale
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kostrzyna (Siekierki)
+!!!AR1: NIE ; NIE ; NIE
+!!!GE1: 52.383122 , 17.155401
 !!!source: DWOK12
 !!!id: 12299
 !!!signature: 1229900000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8a
-8g
-8a
-8cc
-8ee
-8b
-=2
-4dd
-8dd
-8cc
-8a
-8b
-=3
-8a
-8g
-2dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8aL	A
+8gJ	.
+8a\	ja
+8cc	ja
+8ee	była
+8b	.
+=2	=2
+4dd	nado-
+8ddL	.
+8ccJ	.
+8a\	-bną
+8b	dzié-
+=3	=3
+8aL	-wecz-
+8gJ	.
+2dd}	-ką
 !!LO:LB:g=esac
-=4
-{8a
-8g
-8a
-8cc
-8ee
-8b
-=5
-4dd
-8dd
-8cc
-8a
-8b
-=6
-8f#
-8a
-2g}
+=4	=4
+{8aL	wy-
+8gJ	.
+8a\	-glądałeś
+8cc	.
+8ee	.
+8b	za
+=5	=5
+4dd	mną
+8ddL	najmniejszą
+8ccJ	.
+8a\	.
+8b	.
+=6	=6
+8f#L	dziu-
+8aJ	-reczką.
+2g}	.
 !!LO:LB:g=esac
-=7
-{8d
-8f#
-8a
-8f#
-8g
-8b
-=8
-8d
-8f#
-8a
-8f#
-8g
-8b
-=9
-4cc
-4cc
-8a
-8b
-=10
-8g
-8b
-2dd}
+=7	=7
+{8d	Teraz
+8f#	.
+8a	nie
+8f#	wyglądasz,
+8g	.
+8b	.
+=8	=8
+8d	teraz
+8f#	.
+8a	nie
+8f#	wyglądasz
+8g	.
+8b	.
+=9	=9
+4cc	szerokie-
+4cc	.
+8a\	.
+8b	-mi
+=10	=10
+8gL	drzwiami,
+8bJ	.
+2dd}	.
 !!LO:LB:g=esac
-=11
-{8d
-8f#
-8a
-8f#
-8g
-8b
-=12
-8d
-8f#
-8a
-8f#
-8g
-8b
-=13
-4cc
-4cc
-8a
-8b
-=14
-4dd
-8dd
-8cc
-8a
-8b
-=15
-8f#
-8a
-2g}
-==
-*-
+=11	=11
+{8d	gdzie
+8f#	ja
+8a	się
+8f#	obrócę,
+8g	.
+8b	.
+=12	=12
+8d	gdzie
+8f#	ja
+8a	się
+8f#	obrócę,
+8g	.
+8b	.
+=13	=13
+4dd	za-
+8ddL	-le-
+8ccJ	.
+8a\	-ję
+8b	się
+=14	=14
+8f#L	łzami.
+8aJ	.
+2g}	.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!role-listener: Bachelor
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. A ja ja była nadobną dziéweczką
+!!wygladałeś za mną najmniejszą dziureczką.
+!!Teraz nie wyglądasz, teraz nie wyglądasz
+!!szerokiemi drzwiami,
+!!gdzie ja się obrócę, gdzie ja się obrócę.
+!!zaleję się łzami.
+!!@VERSE:
+!!2. Żeby ja była — u matusi dłuży,
+!!wyglądałaby ja — jak kwiatyszek róży.
+!!A teraz wyglądam, a teraz wyglądam jak biała lelija,
+!!wyńdę na poleczko, wyńdę na poleczko, wiatrek mnie powiwa.
+!!@VERSE:
+!!3. Żeby ja była — u matusi w domu,
+!!toby ja była — jeszcze jak prątyszek.
+!!A teraz za tobą, a teraz za tobą oj ty psie hultaju,
+!!wyglądam, wyglądam, wyglądam, wyglądam, jako ten sądyszek.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=177 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 161} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 161}
 !!!page: 161
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

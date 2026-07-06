@@ -1,54 +1,88 @@
-!!!!SEGMENT: DWOK1201100001-przyjechali_mazurowie_z_pola.krn
+﻿!!!!SEGMENT: DWOK1201100001-przyjechali_mazurowie_z_pola.krn
 !!!OTL: Przyjechali Mazurowie z pola
+!!!FKT: Pieśni i Dumy. Miłość. Pieśni zalotne
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: z okolic Wrześni i Gniezna
+!!!AR1: wielkopolskie ; wrzesiński ; Września-miasto
+!!!GE1: 52.325822 , 17.565352
+!!!AR2: wielkopolskie ; gnieźnieński ; Gniezno-gmina miejska
+!!!GE2: 52.533333 , 17.601388
 !!!source: DWOK12
 !!!id: 12011
 !!!signature: 1201100001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8g
-8b
-4dd
-4g
-=2
-8g
-8b
-8dd
-8ee
-8cc
-8a
-=3
-8g
-8b
-4dd
-4d
-=4
-8d
-8f#
-8a
-8b
-8cc
-8a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8g	Przyjechali
+8b	.
+4dd	.
+4g	.
+=2	=2
+8g	Mazu-
+8b	.
+8dd	-rowie
+8ee	.
+8cc	z_pola
+8a	.
+=3	=3
+8g	pytają
+8b	.
+4dd	.
+4d	się
+=4	=4
+8d	gdzie
+8f#	Kasinka
+8a\	.
+8b\	.
+8cc	moja,
+8a\}	.
 !!LO:LB:g=esac
-=5
-{8g
-8b
-4dd
-4d
-=6
-8d
-8f#
-8a
-8cc
-8b
-8g}
-==
-*-
+=5	=5
+{8g	pyta-
+8b	.
+4dd	-ją
+4d	się
+=6	=6
+8d	gdzie
+8f#	Kasinka
+8a	.
+8cc	.
+8b	moja.
+8g}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:Przyjechali Mazurowie z pola, 
+!!pytają się gdzie Kasinka moja, 
+!!pytają się gdzie Kasinka moja.
+!!@VERSE:Jestta, jestta Kasińka w polu,
+!!wybiera ta pszenickę s konkolu.
+!!@VERSE:Wybiera ta poprzek bes zagony,
+!!przyjechało siedmiu panów do ni.
+!!@VERSE:Wsystkim óna podarunek dała.
+!!Jednemu dała złoty pierścieniec,
+!!abo to był jeii polubieniec,
+!!@VERSE:A drugiemu chusteczkę jedwabną,
+!!a trzeciemu nie taką ładną.
+!!@VERSE:A czwartemu chusteczkę bieluśką,
+!!bo jeszcze była bardzo maluśką,
+!!@VERSE:A piątemu chusteczkę z wyszyciem,
+!!bo jeszcze była małém dziewczęciem.
+!!@VERSE:A szóstemu chusteczkę s kwiatami;
+!!wędrujący wuj (wój, wej) i z bratami.
+!!@VERSE:A siódmemu jelonowe rogi,
+!!bo nie chodził trzy lata na nogi.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=22 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 6-7} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 6-7}
 !!!page: 6-7
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-11-02
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

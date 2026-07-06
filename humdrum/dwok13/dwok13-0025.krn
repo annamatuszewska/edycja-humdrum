@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1302500000-juz_mi_minelo_pietnascie_latek.krn
+﻿!!!!SEGMENT: DWOK1302500000-juz_mi_minelo_pietnascie_latek.krn
 !!!OTL: Już mi minęło piętnaście latek
+!!!FKT: Pieśni. Miasta i Dwory. Miłość. Tęsknota
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Zerkowa, Konina
+!!!AR1: wielkopolskie ; jarociński ; Żerków-miasto
+!!!GE1: 52.068386 , 17.563327
+!!!AR2: wielkopolskie ; m. Konin ; Konin-gmina miejska
+!!!GE2: 52.228107 , 18.254066
 !!!source: DWOK13
 !!!id: 13025
 !!!signature: 1302500000
@@ -105,7 +112,7 @@
 !!i uściskam, ucałuję tak ładnie.
 !!@@END: VERSES
 !!!role-singer: unmarried woman
-!!!role-listener: Group
+!!!role-listener: Group (boys)
 !!!singer-sex: female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -114,3 +121,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-03
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-17

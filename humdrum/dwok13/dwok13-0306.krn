@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1330600000-jagem_sluzyl_u_rataja.krn
+﻿!!!!SEGMENT: DWOK1330600000-jagem_sluzyl_u_rataja.krn
 !!!OTL: Jagem służył u rataja
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Szmigla (Morownica)
+!!!AR1: wielkopolskie ; kościański ; Śmigiel-obszar wiejski
+!!!GE1: 51.989996 , 16.475680
 !!!source: DWOK13
 !!!id: 13306
 !!!signature: 1330600000
@@ -74,8 +79,9 @@
 !!Ale że masz kiepską minę,
 !!zjedz ty kurzą zieleninę.
 !!@@END: VERSES
-!!!role-singer: Frmhand
-!!!singer-sex: Male
+!!!role-singer: Farmhand, Landowner
+!!!role-listener: Farmhand, Landowner
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=162 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 138} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 138}
@@ -83,3 +89,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-20
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-24

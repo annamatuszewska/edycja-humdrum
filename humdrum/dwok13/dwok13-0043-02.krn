@@ -1,8 +1,13 @@
-!!!!SEGMENT: DWOK1304300001-z_tamtej_strony_rody.krn
+﻿!!!!SEGMENT: DWOK1304300001-z_tamtej_strony_rody.krn
 !!!OTL: Z tamtej strony Środy
+!!!FKT: Pieśni. Miasta i Dwory. Miłość. Tęsknota
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Środy (Dębicz)
+!!!AR1: wielkopolskie ; średzki ; Środa Wielkopolska-obszar wiejski
+!!!GE1: 52.265702 , 17.311801
 !!!source: DWOK13
 !!!id: 13043
-!!!signature: 1304300001
+!!!signature: 1304300002
 **kern	**text
 *clefG2	*
 *k[f#]	*
@@ -70,7 +75,7 @@
 8dd}	.
 !!LO:LB:g=esac	.
 =13	=13
-16d	żeby
+{16d	żeby
 16f#	.
 8a	mi
 16aL	się
@@ -78,9 +83,9 @@
 =14	=14
 8.gL	dostał
 16bJ	.
-8dd}	.
+8dd	.
 =15	=15
-{16ee	na
+16ee	na
 16cc	zielo-
 8b/L	.
 16a	-ne
@@ -102,7 +107,6 @@
 !!na zielone świątki.
 !!@@END: VERSES
 !!!role-singer: Mistress
-!!!role-listener: Complex
 !!!singer-sex: female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -111,3 +115,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-08
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-18

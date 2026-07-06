@@ -1,5 +1,7 @@
-!!!!SEGMENT: DWOK1303900000-runia_szukala_o_chlodzie_kwiatow.krn
+﻿!!!!SEGMENT: DWOK1303900000-runia_szukala_o_chlodzie_kwiatow.krn
 !!!OTL: Runia szukała o chłodzie kwiatów
+!!!FKT: Pieśni. Miasta i Dwory. Miłość. Tęsknota
+!!!REG: Wielkie Księstwo Poznańskie
 !!!source: DWOK13
 !!!id: 13039
 !!!signature: 1303900000
@@ -84,7 +86,7 @@
 !!póty mi będziesz kochaną,
 !!serca mojego nie zmienię.
 !!@@END: VERSES
-!!!role-singer: Lover, mistress
+!!!role-singer: Lover, mistress, teller
 !!!role-listener: Complex
 !!!singer-sex: female, male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
@@ -94,3 +96,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-06
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-18

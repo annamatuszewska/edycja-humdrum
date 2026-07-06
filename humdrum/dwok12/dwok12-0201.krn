@@ -1,62 +1,95 @@
-!!!!SEGMENT: DWOK1220100000-wieci_miesiac_na_niebie.krn
-!!!OTL: Świeci miesiąc na niebie
+﻿!!!!SEGMENT: DWOK1220100000-wieci_miesiac_na_niebie.krn
+!!!OTL: Świeci miesiąc na niebie. Chodzony
+!!!FKT: Pieśni i Dumy. Stałość. Życzliwość. Wymówka
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Pobiedzisk
+!!!AR1: wielkopolskie ; poznański ; Pobiedziska-miasto
+!!!GE1: 52.477371 , 17.284954
 !!!source: DWOK12
 !!!id: 12201
 !!!signature: 1220100000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/4
-=1
-{8f
-8f
-4cc
-4a
-=2
-8f
-8f
-8dd
-8cc
-8b-
-8a
-=3
-8b-
-8b-
-4g
-8a
-8b-}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/4	*
+=1	=1
+!!LO:TX:a:t=Chodzony.
+{8f	Świeci
+8f	.
+4cc/	miesiąc
+4a	.
+=2	=2
+8f	na
+8f	niebie,
+8dd	.
+8cc	na
+8b-	niebie
+8a\}	.
+=3	=3
+{8b-	świeci
+8ccq	.
+8b-	.
+4g	miesiąc
+8aL	.
+8b-J\	.
 !!LO:LB:g=esac
-=4
-{8cc
-8cc
-2a
-=5
-8f
-8f
-4cc
-4a
-=6
-8f
-8f
-8dd
-8cc
-8b-
-8a
-=7
-8b-
-8b-
-4g
-8a
-8b-
-=8
-8cc
-8a
-2f}
-==
-*-
+=4	=4
+8cc	wyso-
+8cc	.
+2a}	-ko.
+=5	=5
+{8f	Rano
+8f	.
+4cc	wstała,
+4a	.
+=6	=6
+8f	oknem
+8f	.
+8dd	wyglądała
+8cc	.
+8b-	.
+8a\}	.
+=7	=7
+{8b-	żeli
+8ccq	.
+8b-	.
+4g	uszed
+8aL	.
+8b-J\	.
+=8	=8
+8cc	daleko.
+8a\	.
+2f}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Mistress, Lover
+!!!role-listener: Lover, Mistress
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Świeci miesiąc na niebie, na niebie
+!!świeci miesiąc wysoko.
+!!Rano wstała, oknem wyglądała
+!!żeli uszed daleko.
+!!@VERSE:
+!!2. O uszed cztery mile pola,
+!!ona za nim wolała:
+!!a wróć-że się, moje pocieszenie,
+!!czego ja doczekała?
+!!@VERSE:
+!!3. Już-ci ja się do ciebie nawrócę,
+!!ale nie wiesz, dla czego?
+!!Bo kiedy ja stał pod twem okienkiem,
+!!toś ty miała inszego.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=120 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 104} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 104}
 !!!page: 104
+!!!BEM: Chodzony
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

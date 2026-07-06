@@ -1,73 +1,179 @@
-!!!!SEGMENT: DWOK1230400001-poszla_kasia_po_wode.krn
+﻿!!!!SEGMENT: DWOK1230400001-poszla_kasia_po_wode.krn
 !!!OTL: Poszła Kasia po wodę
+!!!FKT: Pieśni i Dumy. Strata wianka. Żale
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gołańczy (Czeszewo)
+!!!AR1: wielkopolskie ; wągrowiecki ; Gołańcz-obszar wiejski
+!!!GE1: 52.908722 , 17.382633
 !!!source: DWOK12
 !!!id: 12304
 !!!signature: 1230400001
-**kern
-*clefG2
-*k[b-e-]
-*g:
-*M2/4
-=1
-{8g
-8b-
-16a
-16g
-8f#
-=2
-4d
-8b-
-8g
-=3
-8b-
-8cc
-8dd
-8dd
-=4
-8ff#
-8gg
-4dd}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*g:	*
+*M2/4	*
+=1	=1
+!!LO:TX:a:t=Przy weselu.
+{8g	Poszła
+8b-	.
+16aL	Ka-
+16gJ	.
+8f#	-sia
+=2	=2
+4d	po
+8b-	wodę,
+8g	.
+=3	=3
+8b-	poszła
+8cc	.
+8dd	Kasia
+8dd	.
+=4	=4
+8ff#	po
+8gg	wodę,
+4dd;}	.
 !!LO:LB:g=esac
-=5
-{8ff
-8ff
-16ff
-16ee-
-8dd
-=6
-8cc
-8cc
-16dd
-16g
-8f#
-=7
-4d
-8b-
-8g
-=8
-8b-
-8dd
-4ff}
+=5	=5
+{8ffn	wzięna
+8ff	.
+16ffL	wianek
+16ee-J	.
+8dd	.
+=6	=6
+8cc	lewen-
+8cc	.
+!LO:TX:t=P:problem=mixed beam	!
+16ddL\	.
+16gJ/	-dowy
+8f#	.
+=7	=7
+4d	na
+8b-	głowę,
+8g	.
+=8	=8
+8b-	na
+8dd	głowę,
+4ff}	.
 !!LO:LB:g=esac
-=9
-{8ff
-8ff
-16ff
-16ee-
-8dd
-=10
-4cc
-16dd
-16g
-8f#
-=11
-4d
-8b-
-8g}
-==
-*-
+=9	=9
+{8ff	wzięna
+8ff	.
+16ffL	wianek
+16ee-J	.
+8dd	.
+=10	=10
+4cc	lewen-
+16ddL	.
+16gJ	.
+8f#	-dy
+=11	=11
+4d	na
+8b-	głowę.
+8g;}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Maiden
+!!!role-listener: Bachelor, Son
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Poszła Kasia po wodę,
+!!poszła Kasia po wodę,
+!!wzięna wianek lewendowy
+!!na głowę,
+!!na głowę,
+!!wzięna wianek lewendowy
+!!na głowę.
+!!@VERSE:
+!!2. Po uodę się schyliła,
+!!po uodę się schyliła,
+!!już-ci wianek lewendowy
+!!zgubiła,
+!!zgubiła,
+!!już-ci wianek lewendowy
+!!zgubiła.
+!!@VERSE:
+!!3. Pójdźma Jasiu z sobą grać,
+!!pójdźma Jasiu z sobą grać,
+!!a ty ze mną, a ty ze mną
+!!nockę spać,
+!!nockę spać,
+!!a ty ze mną, a ty ze mną
+!!nockę spać.
+!!@VERSE:
+!!4. I jak z sobą nagrali,
+!!i jak z sobą nagrali,
+!!już-ci Kasi z Jasineczkiem
+!!spać dali,
+!!spać dali,
+!!już-ci Kasi z Jasineczkiem
+!!spać dali.
+!!@VERSE:
+!!5. Kasia predzy zcuciła,
+!!Kasia predzy zcuciła,
+!!już-ci Jasia Jasineczka
+!!zbudziła,
+!!zbudziła,
+!!już-ci Jasia Jasineczka
+!!zbudziła.
+!!@VERSE:
+!!6. Wstoń-że Jasiu do toru,
+!!wstoń-że Jasiu do toru,
+!!do owego
+!!morza (lub: do tego boru),
+!!morza,
+!!wstoń-że Jasiu do toru,
+!!do owego
+!!morza.
+!!@VERSE:
+!!7. I jak uśli na pół-boru,
+!!i jak uśli na pół-boru,
+!!wróć się Kasia Kasineczka
+!!do domu,
+!!do domu,
+!!wróć się Kasia Kasineczka
+!!do domu.
+!!@VERSE:
+!!8. Jakże ja się wrócić mám,
+!!jakże ja się wrócić mám,
+!!kiej ja swego wianeczka
+!!już nimám,
+!!już nimám,
+!!kiej ja swego wianeczka
+!!już nimám.
+!!@VERSE:
+!!9. Kasia do dom (się) wróciła,
+!!Kasia do dom (się) wróciła,
+!!już-ci syna jak barana
+!!powiła,
+!!powiła,
+!!już-ci syna jak barana
+!!powiła.
+!!@VERSE:
+!!10. A lulaj-że synu mój,
+!!A lulaj-że synu mój,
+!!Bóg miły wié w chtóry stronie
+!!ojciec twój,
+!!ojciec twój,
+!!Bóg miły wié w chtóry stronie
+!!ojciec twój.
+!!@VERSE:
+!!11. Miałeś ojca ładnego,
+!!miałeś ojca ładnego,
+!!Jasineczka, kochanka
+!!mojego,
+!!mojego,
+!!Jasineczka, kochanka
+!!mojego.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=179 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 163} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 163}
 !!!page: 163
+!!!BEM: Przy weselu
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1337700020-da_i_boze_moj.krn
+﻿!!!!SEGMENT: DWOK1337700020-da_i_boze_moj.krn
 !!!OTL: Da i Boże mój
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Strzelna, Sompolna
+!!!AR1: kujawsko-pomorskie ; mogileński ; Strzelno-miasto
+!!!GE1: 52.628026 , 18.172506
+!!!AR2: wielkopolskie ; koniński ; Sompolno-miasto
+!!!GE2: 52.388875 , 18.502749
 !!!source: DWOK13
 !!!id: 13377
 !!!signature: 1337700020
@@ -14,50 +21,50 @@
 8f#L
 16g
 16b-J/
-=
+=2
 *Xtuplet
 24a\L
 24cc#
 24ddJ
 8g\L
 8f#\J
-=2
+=3
 16d\L
 16d\J
 8f#L
 16g
 16b-J/
-=3
-!LO:TX:a:t=Irregular beaming
-16dL
-16cc
-8b-J
+=4
+!LO:TX:t=P:problem=mixed beam
+16d/L
+16cc\
+8b-\J
 16gL
 16f#J}
 !!LO:LB:g=esac
-=4
+=5
 {16dL
 16dJ
 8f#L
 16g
 16b-/J
-=
+=6
 24a\L
 24cc#
 24ddJ
 8ee-/L
 8aJ
-=5
-16d\L
-16d\J
+=7
+16b-/L
+16dJ
 8f#L
 16g
 16b-J/
-=6
-!LO:TX:a:t=Irregular beaming
-16dL
-16cc
-8b-J
+=8
+!LO:TX:t=P:problem=mixed beam
+16d/L
+16cc\
+8b-\J
 16gL
 16f#J}
 ==
@@ -69,3 +76,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-04-02
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-15

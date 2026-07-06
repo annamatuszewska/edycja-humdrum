@@ -1,53 +1,84 @@
-!!!!SEGMENT: DWOK1202900000-a_w_niedziele_raniusienko.krn
+﻿!!!!SEGMENT: DWOK1202900000-a_w_niedziele_raniusienko.krn
 !!!OTL: A w niedzielę raniusieńko
+!!!FKT: Pieśni i Dumy. Miłość. Pieśni zalotne
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gołańczy (Czeszewo)
+!!!AR1: wielkopolskie ; wągrowiecki ; Gołańcz-obszar wiejski
+!!!GE1: 52.908722 , 17.382633
 !!!source: DWOK12
 !!!id: 12029
 !!!signature: 1202900000
-**kern
-*clefG2
-*k[f#c#g#d#]
-*E:
-*M3/8
-=1
-{16e
-16e
-8g#
-8a
-=2
-16b
-16dd
-8cc
-8a
-=3
-16b
-16dd
-8cc#
-8dd
-=4
-4.b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*E:	*
+*M3/8	*
+=1	=1
+{16e	A
+16e	w_niedzie-
+8g#	.
+8a	-lę
+=2	=2
+16b	raniusieńko
+16dd	.
+8cc	.
+8a	.
+=3	=3
+16b	dészczyk
+16dd	.
+8cc#	pora-
+8dd	.
+=4	=4
+4.b}	-nia,
 !!LO:LB:g=esac
-=5
-{16b
-16dd
-8cc
-8a
-=6
-16b
-16g#
-8e
-8d
-=7
-16e
-16g#
-8a
-8g#
-=8
-4.e}
-==
-*-
-!!!ONB: może zapisać od A?
+=5	=5
+{16b	jużci
+16dd	.
+8cc	moja
+8a\	.
+=6	=6
+16b	kochaneczka
+8aq	.
+16g#	.
+8e	.
+8d	.
+=7	=7
+16e	gą-
+16g#	-ski
+8a	wyga-
+8g#	.
+=8	=8
+4.e}	-nia.
+==	==
+*-	*-
+!!!role-singer: Mistress, Lover, Narrator, Complex
+!!!role-listener: Mistress, Lover
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:A w niedzielę raniusieńko 
+!!deszczyk porania,
+!!już-ci moja kochaneczka
+!!wołki wygania.
+!!@VERSE:I wygnała, i zagnała, 
+!!i idzie do domu;
+!!natrafił ją Jasineczek
+!!na siwym koniu.
+!!@VERSE:A ón ji się zapytuje:
+!!co za gościa masz,
+!!co tak rano raniusieńko
+!!gąski wyganiasz.
+!!@VERSE:A co się ty kpie my pytasz
+!!o gościa mego,
+!!a mam ci ja Jasineczka
+!!mam ja swojego.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=31 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 15} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 15}
 !!!page: 15
+!!!BEM: może zapisać od A?
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-13-02
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

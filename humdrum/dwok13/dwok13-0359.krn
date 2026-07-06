@@ -1,53 +1,60 @@
-!!!!SEGMENT: DWOK1335900000-po_furmanie_bicz_ostanie.krn
+﻿!!!!SEGMENT: DWOK1335900000-po_furmanie_bicz_ostanie.krn
 !!!OTL: Po furmanie bicz ostanie
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gołańczy
+!!!AR1: wielkopolskie ; wągrowiecki ; Gołańcz-miasto
+!!!GE1: 52.943378 , 17.301173
 !!!source: DWOK13
 !!!id: 13359
 !!!signature: 1335900000
-**kern	**text	**text
-*clefG2	*	*
-*k[]	*	*
-*C:	*	*
-*M3/8	*	*
-=1	=1	=1
-{16g\	Po	.
-16b	fur-	.
-8dd	-ma-	.
-8ff	-nie	.
-=2	=2	=2
-16gg	bicz	.
-16ee	o-	.
-8dd	-sta-	.
-8ff	-nie,	.
-=3	=3	=3
-16gg	po	.
-16ee	pa-	.
-8cc	-tro-	.
-8dd	-nie	.
-=4	=4	=4
-8b	piór-	.
-4g}	-ko,	.
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16g\	Po
+16b	fur-
+8dd	-ma-
+8ff	-nie
+=2	=2
+16gg	bicz
+16ee	o-
+8dd	-sta-
+8ff	-nie,
+=3	=3
+16gg	po
+16ee	pa-
+8cc	-tro-
+8dd	-nie
+=4	=4
+8b	piór-
+4g}	-ko,
 !!LO:LB:g=esac
-=5	=5	=5
-{16g	a	.
-16b-	po	.
-8a	k...,	.
-8f	.	.
-=6	=6	=6
-16g	co	.
-16b-	kto	.
-8a\	ur-	.
-8f	-wie,	.
-=7	=7	=7
-16g	dia-	.
-16g	-bli	.
-8bn	we-	.
-8cc	-zną	.
-=8	=8	=8
+=5	=5
+{16g	a
+16b-	po
+8a	k...,
+8f	.
+=6	=6
+16g	co
+16b-	kto
+8a\	ur-
+8f	-wie,
+=7	=7
+16g	dia-
+16g	-bli
+8bn	we-
+8cc	-zną
+=8	=8
+*	*^
 16ccL	wsiór-	(wszystko).
 16bJ	.	.
 4g}	-ko.	.
-==	==	==
-*-	*-	*-
+*	*v	*v
+==	==
+*-	*-
 !!@@BEGIN: VERSES
 !!Po furmanie bicz ostanie,
 !!po patronie piórko,
@@ -55,11 +62,13 @@
 !!diabli wezną wsiórko. (wszystko).
 !!@@END: VERSES
 !!!role-singer: Narrator
-!!!ONB: Alternatywnie możliwe kodowanie w G
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=178 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 154} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 154}
 !!!page: 154
+!!!BEM: Alternatywnie możliwe kodowanie w G
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-26

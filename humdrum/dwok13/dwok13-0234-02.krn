@@ -1,8 +1,13 @@
-!!!!SEGMENT: DWOK1323400001-chto_wyrwal.krn
+﻿!!!!SEGMENT: DWOK1323400001-chto_wyrwal.krn
 !!!OTL: Chto wyrwał
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kiszkowa
+!!!AR1: wielkopolskie ; gnieźnieński ; Kiszkowo-gmina wiejska
+!!!GE1: 52.590691 , 17.260976
 !!!source: DWOK13
 !!!id: 13234
-!!!signature: 1323400001
+!!!signature: 1323400002
 **kern	**text
 *clefG2	*
 *k[f#c#g#]	*
@@ -53,11 +58,13 @@
 !!szałtysowa córka.
 !!@@END: VERSES
 !!!role-singer: Narrator
-!!!ONB: Weselna
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=138 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 114} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 114}
 !!!page: 114
+!!!BEM: Weselna
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-06
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-23

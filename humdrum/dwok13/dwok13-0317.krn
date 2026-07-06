@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1331700000-a_ty_do_ni_nie_chodz.krn
+﻿!!!!SEGMENT: DWOK1331700000-a_ty_do_ni_nie_chodz.krn
 !!!OTL: A ty do ni nie chodź
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Ostrzeszowa
+!!!AR1: wielkopolskie ; ostrzeszowski ; Ostrzeszów-miasto
+!!!GE1: 51.423652 , 17.931476
 !!!source: DWOK13
 !!!id: 13317
 !!!signature: 1331700000
@@ -75,7 +80,8 @@
 !!i choć ją we dnie rozgniewam
 !!to wieczór przeproszę.
 !!@@END: VERSES
-!!!role-singer: Single mans
+!!!role-singer: Bachelor
+!!!role-listener: another Bachelor
 !!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -84,3 +90,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-22
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-26

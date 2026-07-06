@@ -1,71 +1,126 @@
-!!!!SEGMENT: DWOK1227400000-cigali_sie_dwoje.krn
+﻿!!!!SEGMENT: DWOK1227400000-cigali_sie_dwoje.krn
 !!!OTL: Ścigali się dwoje
+!!!FKT: Pieśni i Dumy. Strata wianka. Żale
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Szremu (Daleszyn)
+!!!AR1: wielkopolskie ; gostyński ; Gostyń-obszar wiejski
+!!!GE1: 51.914522 , 16.968166
 !!!source: DWOK12
 !!!id: 12274
 !!!signature: 1227400000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16g
-16g
-8a
-8g
-=2
-8b
-4cc
-=3
-16dd
-16dd
-8ee
-8cc
-=4
-8b
-4cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16g	Ścigali
+16g	.
+8a	.
+8g	się
+=2	=2
+8b	dwoje
+4cc	.
+=3	=3
+16dd	do
+16dd	bożego
+8ee	.
+8cc	.
+=4	=4
+8b	drzewka;
+4cc}	.
 !!LO:LB:g=esac
-=5
-{16b
-16dd
-8cc
-8a
-=6
-16g
-16d
-8f
-8e
-=7
-16g
-16g
-8a
-8g
-=8
-8b
-4cc}
+=5	=5
+{16b	jeden
+16dd	.
+8cc	ze
+8a\	wsi
+=6	=6
+16g	paro-
+16d	.
+8f	-beczek,
+8e	.
+=7	=7
+16g	a
+16g	ze
+8a	dworu
+8g	.
+=8	=8
+8b	dziéwka,
+4cc}	.
 !!LO:LB:g=esac
-=9
-{16b
-16dd
-8cc
-8a
-=10
-16g
-16d
-8f
-8e
-=11
-16g
-16g
-8a
-8g
-=12
-8b
-4cc}
-==
-*-
+=9	=9
+{16b	jeden
+16dd	.
+8cc	ze
+8a\	wsi
+=10	=10
+16g	paro-
+16d	.
+8f	-beczek,
+8e	.
+=11	=11
+16g	a
+16g	ze
+8a	dworu
+8g	.
+=12	=12
+8b	dziéwka.
+4cc}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!!role-listener: Maiden
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Ścigali się dwoje
+!!do bożego drzewka;
+!!jeden ze wsi parobeczek,
+!!a ze dwora dziéwka,
+!!jeden ze wsi parobeczek,
+!!a ze dwora dziéwka.
+!!@VERSE:
+!!2. Ścigali się dwoje,
+!!już teraz nie bedą,
+!!szykuj Antek kolibeczkę,
+!!bo pieluszki bedą,
+!!szykuj Antek kolibeczkę,
+!!bo pieluszki bedą.
+!!@VERSE:
+!!3. Kolibka łózkowa (z łozy)
+!!pieluszki rąbkowe,
+!!już dziecięciu, pacholęciu,
+!!jest wszystko gotowe,
+!!już dziecięciu, pacholęciu,
+!!jest wszystko gotowe.
+!!@VERSE:
+!!4. Lepiéj weź Jadwisiu
+!!rąbek na czepczysko,
+!!a dziecięciu, pacholęciu
+!!grube pieluszysko,
+!!a dziecięciu, pacholęciu
+!!grube pieluszysko.
+!!@VERSE:
+!!5. Idzie (Antek) do gościńca,
+!!ramionami rusza;
+!!czy od miny, czy od pychy,
+!!czyli jaka (kaftan) kusa ,
+!!czy od miny, czy od pychy,
+!!czyli jaka (kaftan) kusa ?
+!!@VERSE:
+!!6. Buty (nowe), papierowe,
+!!makiem podbijane,
+!!czapka z nici, aż się świéci,
+!!mój Antoś kochany,
+!!czapka z nici, aż się świéci,
+!!mój Antoś kochany!
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=290 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 274} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 274}
 !!!page: 274
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

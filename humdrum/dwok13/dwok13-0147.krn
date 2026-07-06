@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1314700000-ziele_rozmara.krn
+﻿!!!!SEGMENT: DWOK1314700000-ziele_rozmara.krn
 !!!OTL: Ziele rozmara
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Ponieca, Bojanowa
+!!!AR1: wielkopolskie ; gostyński ; Poniec-miasto
+!!!GE1: 51.764660 , 16.806578
+!!!AR2: wielkopolskie ; rawicki ; Bojanowo-miasto
+!!!GE2: 51.707419 , 16.748901
 !!!source: DWOK13
 !!!id: 13147
 !!!signature: 1314700000
@@ -64,9 +71,7 @@
 !!czy od buty, czy od pychy,
 !!czy w czubie mają?
 !!@@END: VERSES
-!!!role-singer: Complex
-!!!role-listener: Complex
-!!!singer-sex: Complex
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=107 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 83} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 83}
@@ -74,3 +79,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-22
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-13

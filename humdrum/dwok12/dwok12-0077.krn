@@ -1,121 +1,145 @@
-!!!!SEGMENT: DWOK1207700000-dacie_mi_ja_dacie_czy_nie_dacie.krn
+﻿!!!!SEGMENT: DWOK1207700000-dacie_mi_ja_dacie_czy_nie_dacie.krn
 !!!OTL: Dacie mi ją dacie czy nie dacie
+!!!FKT: Pieśni i Dumy. Chęć ożenku. Wymówka
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Szremu, Czempina (Brodnica)
+!!!AR1: wielkopolskie ; śremski ; Brodnica-gmina wiejska
+!!!GE1: 52.141042 , 16.892250
 !!!source: DWOK12
 !!!id: 12077
 !!!signature: 1207700000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8.g
-16b
-8b
-8dd
-8ee
-8cc#
-=2
-4ee
-8ee
-8dd
-4b
-=3
-8.g
-16b
-8b
-8b
-8f#
-8f#
-=4
-4a
-8a
-8g
-4e}
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M3/4	*
+=1	=1
+{8.g	Dacie
+16b	.
+8b	mi
+8dd	ją,
+8ee	dacie,
+8cc#	.
+=2	=2
+4ee	czy
+8ee	nie
+8dd	dacie?
+4b	.
+=3	=3
+8.g	tę
+16b	dziewczynę
+8b	.
+8b	.
+8f#	w_zielo-
+8f#	.
+=4	=4
+4a	-nym
+8a	kabacie.
+8g	.
+4e}	.
 !!LO:LB:g=esac
-=5
-{8.g
-16b
-8b
-8f#
-8d
-8f#
-=6
-8.f#
-16a
-8a
-8cc#
-8dd
-8b
-=7
-8.g
-16b
-8b
-8f#
-8d
-8f#
-=8
-4a
-8a
-8g
-4e}
+=5	=5
+{8.g	Na
+16b	koniku
+8b	.
+8f#	.
+8d	wpadnę,
+8f#	.
+=6	=6
+8.f#	i
+16a	wam
+8a	ją
+8cc#	wykradnę,
+8dd	.
+8b	.
+=7	=7
+8.g	co
+16b	wy
+8b	ze
+8f#	mną
+8d	skóra-
+8f#	.
+=8	=8
+4a	-cie,
+8a	skóracie?
+8g	.
+4e}	.
 !!LO:LB:g=esac
-=9
-{8.g
-16b
-8b
-8dd
-8ee
-8cc#
-=10
-8ee
-8ee
-8ee
-8dd
-4b
-=11
-8.g
-16b
-8b
-8b
-8f#
-8f#
-=12
-4a
-8a
-8g
-4e}
+=9	=9
+{8.g	Dacie
+16b	.
+8b	mi
+8dd	ją,
+8ee	dacie,
+8cc#	.
+=10	=10
+8ee/L	czy
+8eeJ	.
+8ee	nie
+8dd	dacie?
+4b	.
+=11	=11
+8.g	tę
+16b	dziewczynę
+8b	.
+8b	.
+8f#	w zielo-
+8f#	.
+=12	=12
+4a	-nym
+8a	kabacie.
+8g	.
+4e}	.
 !!LO:LB:g=esac
-=13
-{8.g
-16b
-8b
-8f#
-8d
-8f#
-=14
-8.f#
-16a
-8a
-8cc#
-8dd
-8b
-=15
-8.g
-16b
-8b
-8f#
-8d
-8f#
-=16
-4a
-8a
-8g
-4e}
-==
-*-
+=13	=13
+{8.g	Na
+16b	koniku
+8b	.
+8f#	.
+8d	wpadnę,
+8f#	.
+=14	=14
+8.f#	i
+16a	wam
+8a	ją
+8cc#	wykradnę,
+8dd	.
+8b	.
+=15	=15
+8.g	co
+16b	wy
+8b	ze
+8f#	mną
+8d	skóra-
+8f#	.
+=16	=16
+4a	-cie,
+8a	skóracie?
+8g	.
+4e}	.
+==	==
+*-	*-
+!!!role-singer: Lover
+!!!role-listener: Parents in law
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:Dacie mi jąm, dacie, — czy nie dacie?
+!!tę dziewczynę w zielonym kabacie.
+!!Na koniku wpadnę,
+!!i wam ją ukradnę,
+!!co wy ze mną skóracie, (w)skóracie ?
+!!@VERSE:Dacie mi jąm, dacie — czy nie dacie?
+!!nie jéno wy sami córkę macie.
+!!Ma-ć ci jąm téż tam
+!!i nasza włodarka,
+!!ale nie warta plew pomiarka.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=51 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 35} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 35}
 !!!page: 35
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-02-21
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1313600000-a_ja_jechal_wedle_lasem.krn
+﻿!!!!SEGMENT: DWOK1313600000-a_ja_jechal_wedle_lasem.krn
 !!!OTL: A ja jechał wedle lasem
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Ostrowa, Kalisza
+!!!AR1: wielkopolskie ; ostrowski ; Ostrów Wielkopolski-gmina miejska
+!!!GE1: 51.649540 , 17.816730
+!!!AR2: wielkopolskie ; m. Kalisz ; Kalisz-gmina miejska
+!!!GE2: 51.761140 , 18.086914
 !!!source: DWOK13
 !!!id: 13136
 !!!signature: 1313600000
@@ -104,3 +111,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-21
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-02

@@ -1,82 +1,104 @@
-!!!!SEGMENT: DWOK1214900001-starales_sie_staral_o_bogata_zone.krn
+﻿!!!!SEGMENT: DWOK1214900001-starales_sie_staral_o_bogata_zone.krn
 !!!OTL: Starałeś się starał o bogatą żonę
+!!!FKT: Pieśni i Dumy. Pieśni przed Weselem i wśród Wesela śpiewane
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Szremu
+!!!AR1: wielkopolskie ; śremski ; Śrem-miasto
+!!!GE1: 52.095371 , 17.020534
 !!!source: DWOK12
 !!!id: 12149
 !!!signature: 1214900001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8b
-8cc
-8dd
-8ee
-=2
-4dd
-4dd
-=3
-8ee
-8dd
-8cc
-8b
-=4
-4.cc
-8a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+!!LO:TX:a:t=Weselna.
+{8b	Starałeś
+8cc	.
+8dd	.
+8ee	się
+=2	=2
+4dd	starał
+4dd	.
+=3	=3
+8ee	o
+8dd	bogatą
+8cc	.
+8b	.
+=4	=4
+4.cc	żonę,
+8a}	.
 !!LO:LB:g=esac
-=5
-{4.f#
-8a
-=6
-4.cc
-8ee
-=7
-8dd
-8cc
-8b
-8a
-=8
-4b
-4g}
+=5	=5
+{4.f#\	a_teraz
+8a	się
+=6	=6
+4.cc	staraj,
+8ee	.
+=7	=7
+8dd	czém
+8cc	pojedziesz
+8b	.
+8a	.
+=8	=8
+4b	po
+4g}	nię?
 !!LO:LB:g=esac
-=9
-{4b
-8dd
-8b
-=10
-4a
-8cc
-8a
-=11
-8g
-8b
-8a
-8f#
-=12
-4d
-4d}
+=9	=9
+{4b	Zaprzęgaj
+8dd	.
+8b	.
+=10	=10
+4a	gajora
+8cc	.
+8a	.
+=11	=11
+8g	i
+8b/	gąskę
+8a	.
+8f#	sio-
+=12	=12
+4d	-dłatą,
+4d}	.
 !!LO:LB:g=esac
-=13
-{4e
-4e
-=14
-8cc
-8b
-8a
-8g
-=15
-8f#
-8d
-8e
-8f#
-=16
-4g
-4g}
-==
-*-
+=13	=13
+{4e	poja-
+4e	.
+=14	=14
+8cc	-dą,
+8b	poja-
+8a	.
+8g	-dą
+=15	=15
+8f#	po
+8d	żonę
+8e	.
+8f#	bo-
+=16	=16
+4g	-gatą.
+4g}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!!role-listener: Bridegroom
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:1. Starałeś się starał o bogatą żonę,
+!!a teraz się staraj, czém pojedziesz po nię?
+!!Zaprzęgaj gajora i gąskę siodłatą,
+!!pojadą, pojadą po żonę bogatą.
+!!A co tam za posag, téjto mojéj żony?
+!!dwa snopki grochowin, trzeci snopek słomy.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=90 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 74} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 74}
 !!!page: 74
+!!!BEM: Weselna
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-02-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-09

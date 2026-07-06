@@ -1,76 +1,137 @@
-!!!!SEGMENT: DWOK1217800000-a_widzisz_ty_dziewcze_kosciol.krn
+﻿!!!SEGMENT: DWOK1217800000-a_widzisz_ty_dziewcze_kosciol.krn
 !!!OTL: A widzisz ty dziewcze kościół
+!!!FKT: Pieśni i Dumy. Pieśni przed Weselem i wśród Wesela śpiewane
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kostrzyna (Iwno)
+!!!AR1: wielkopolskie ; poznański ; Kostrzyn-obszar wiejski
+!!!GE1: 52.403892 , 17.271959
 !!!source: DWOK12
 !!!id: 12178
 !!!signature: 1217800000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8a
-8cc
-8cc
-8cc
-8dd
-8cc
-=2
-8b
-8dd
-8dd
-8dd
-16ee
-16dd
-16cc
-16b
-=3
-8a
-8cc
-8cc
-8cc
-8dd
-8cc
-=4
-8b
-8dd
-8dd
-8dd
-16ee
-16dd
-16cc
-16b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8a\	A
+8cc	widzisz
+8cc	.
+8cc	ty
+8dd	dziewczę
+8cc	.
+=2	=2
+8b	kościół
+8dd	.
+8dd	muro-
+8dd	.
+16eeL	-wany,
+16ddJ	.
+16ccL	.
+16bJ	.
+=3	=3
+8a\	tam
+8cc	ci
+8cc	z_głowy
+8bq	.
+8cc	.
+8dd	zdejmą
+8cc	.
+=4	=4
+8b	twój
+8dd	wianek
+8dd	.
+8dd	rucia-
+16eeL	.
+16ddJ	.
+16ccL	-ny.
+16bJ}	.
 !!LO:LB:g=esac
-=5
-{8a
-4cc
-16b
-16cc
-8dd
-8g
-=6
-8b
-4dd
-16ee
-16dd
-8cc
-8b
-=7
-8a
-4cc
-16b
-16cc
-8dd
-8b
-=8
-4g
-4g
-4g}
-==
-*-
-!!!ONB: W siódmym takcie powinno być ćwierćnuta, a jest w zapisie ósemką, poprawiono zapis
+=5	=5
+!!LO:TX:a:t=Głosem.
+{8a\	.
+4cc	.
+16bL	.
+16ccJ	.
+8dd	.
+8g	.
+=6	=6
+8b	.
+4dd	.
+16eeL	.
+16ddJ	.
+8cc	.
+8b	.
+=7	=7
+8a\	.
+4cc	.
+16bL	.
+16ccJ	.
+8dd	.
+8b	.
+=8	=8
+4g	.
+4g	.
+4g}	.
+==	==
+*- 	*-
+!!!role-singer: Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. A widzisz ty dziewcze
+!!kościół murowany,
+!!tam ci z głowy zdejmą
+!!twój wianek ruciany.
+!!@VERSE:
+!!2. A widzisz ty dziewcze
+!!tę suchą topolą,
+!!jak się topól przyjmie
+!!to ty będziesz moją.
+!!@VERSE:
+!!3. Żeby ja wiedziała,
+!!że ja będę twoją,
+!!podlewałać by ja
+!!tę suchą topolą.
+!!@VERSE:
+!!4. Żeby-m podlewała
+!!i nadpodlewała,
+!!swojego kochanka
+!!nie będę już miała.
+!!@VERSE:
+!!5. Ta sucha topola,
+!!listeczka nie wyda,
+!!twoje oświadczenie
+!!na nic się nie przyda.
+!!@VERSE:
+!!6. A widzisz ty dziewcze
+!!ten kamień nad wodą,
+!!a jak on popłynie
+!!ożenię się z tobą.
+!!@VERSE:
+!!7. A gdzieżeś ty widział
+!!żeby kamień pływał,
+!!któż cię o to prosił
+!!żebyś u mnie bywał?
+!!@VERSE:
+!!8. Pukałem, wołałem,
+!!nie chciałaś otworzyć
+!!musiałem główeczkę
+!!na progu położyć.
+!!@VERSE:
+!!9. Główeczkę na progu,
+!!nóżeczki za progiem —
+!!a moja dziewczyno
+!!zostań-że tu z Bogiem.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=106 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 90} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 90}
 !!!page: 90
+!!!BEM: W siódmym takcie powinno być ćwierćnuta, a jest w zapisie ósemką, poprawiono zapis
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

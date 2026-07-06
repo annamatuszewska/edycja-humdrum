@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1340000010-instrumentalna-chodzony.krn
-!!!OTL: Instrumentalna-Chodzony
+﻿!!!!SEGMENT: DWOK1340000010-instrumentalna-chodzony.krn
+!!!OTL: Instrumentalna. Chodzony
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kruszwicy, Radziejowa
+!!!AR1: kujawsko-pomorskie ; inowrocławski ; Kruszwica-miasto
+!!!GE1: 52.676219 , 18.323047
+!!!AR2: kujawsko-pomorskie ; radziejowski ; Radziejów-gmina miejska
+!!!GE2: 52.623008 , 18.527170
 !!!source: DWOK13
 !!!id: 13400
 !!!signature: 1340000010
@@ -16,9 +23,10 @@
 8ddJ
 4dd
 =2
-8dL
+!LO:TX:t=P:problem=mixed beam
+8d/L
 8eeq
-8ddJ
+8dd\J
 8cc#L
 8ddJ
 8aML
@@ -103,3 +111,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-04-08
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-16

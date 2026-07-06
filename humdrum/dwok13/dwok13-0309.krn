@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1330900000-po_zaplociu.krn
-!!!OTL: Po zapłociu
+﻿!!!!SEGMENT: DWOK1330900000-po_zaplociu.krn
+!!!OTL: Po zapłociu Macioś idzie
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Pleszewa (Kotlin)
+!!!AR1: wielkopolskie ; jarociński ; Kotlin-gmina wiejska
+!!!GE1: 51.919594 , 17.644602
 !!!source: DWOK13
 !!!id: 13309
 !!!signature: 1330900000
@@ -64,8 +69,9 @@
 !!Będą, będą, będą, będą,
 !!oj poletą za mną gr(z)ędą.
 !!@@END: VERSES
-!!!role-singer: Complex
-!!!singer-sex: Female
+!!!role-singer: Narrator, Bachelor
+!!!role-listener: Bachelor
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=163 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 139} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 139}
@@ -73,3 +79,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-20
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-24

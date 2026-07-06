@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1337000000-instrumentalna-kujawiak_dreptany.krn
-!!!OTL: Instrumentalna-Kujawiak dreptany
+﻿!!!!SEGMENT: DWOK1337000000-instrumentalna-kujawiak_dreptany.krn
+!!!OTL: Instrumentalna. Kujawiak dreptany
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gniewkowa
+!!!AR1: kujawsko-pomorskie ; inowrocławski ; Gniewkowo-miasto
+!!!GE1: 52.892787 , 18.408568
 !!!source: DWOK13
 !!!id: 13370
 !!!signature: 1337000000
@@ -36,9 +41,9 @@
 16e'>
 16f#'>
 16gJ'>
-(24a
+(24aL
 24g
-24f#)}
+24f#J)}
 !!LO:LB:g=esac
 =5
 {16aL
@@ -97,3 +102,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-04-01
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-15

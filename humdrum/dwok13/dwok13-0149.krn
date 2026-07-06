@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1314900000-azeby_ja_dobrze_jadla.krn
+﻿!!!!SEGMENT: DWOK1314900000-azeby_ja_dobrze_jadla.krn
 !!!OTL: Ażeby ja dobrze jadła
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Ostrzeszowa
+!!!AR1: wielkopolskie ; ostrzeszowski ; Ostrzeszów-miasto
+!!!GE1: 51.423652 , 17.931476
 !!!source: DWOK13
 !!!id: 13149
 !!!signature: 1314900000
@@ -60,7 +65,7 @@
 !!oj rosła by ja rosła,
 !!da jak na boru sosna.
 !!@@END: VERSES
-!!!role-singer: Complex
+!!!role-singer: Narrator
 !!!singer-sex: female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -69,3 +74,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-23
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-13

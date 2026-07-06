@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1343500001-hej_parobcy_hej_chlopacy.krn
+﻿!!!!SEGMENT: DWOK1343500001-hej_parobcy_hej_chlopacy.krn
 !!!OTL: Hej parobcy hej chłopacy
+!!!FKT: Pieśni. Mazur
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Środy (Mączniki)
+!!!AR1: wielkopolskie ; średzki ; Środa Wielkopolska-obszar wiejski
+!!!GE1: 52.252652 , 17.317806
 !!!source: DWOK13
 !!!id: 13435
 !!!signature: 1343500001
@@ -121,13 +126,16 @@
 !!oj da dana da wesoło!
 !!@@END: VERSES
 !!!role-singer: Narrator
-!!!role-listener: Group
-!!!singer-sex: Male
+!!!role-listener: Group of Man
+!!!singer-sex: male
 !!!ONB: złe metrum u Kolberga — jest 3/4 a powinno być 3/8
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=216 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 192} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 192}
 !!!page: 192
+!!!BEM: złe metrum u Kolberga – jest 3/4 a powinno być 3/8
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-04-10
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-16

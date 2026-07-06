@@ -1,5 +1,7 @@
-!!!!SEGMENT: DWOK1343600002-jestem_chlopek_i_wiem_o_tem.krn
+﻿!!!!SEGMENT: DWOK1343600002-jestem_chlopek_i_wiem_o_tem.krn
 !!!OTL: Jestem chłopek i wiem o tem
+!!!FKT: Pieśni. Chłopek
+!!!REG: Wielkie Księstwo Poznańskie
 !!!source: DWOK13
 !!!id: 13436
 !!!signature: 1343600002
@@ -155,8 +157,7 @@
 !!panu ni sieję, ni orzę.
 !!@@END: VERSES
 !!!role-singer: Worker
-!!!role-listener: Complex
-!!!singer-sex: Male
+!!!singer-sex: male
 !!!ONB: Mazur
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -165,3 +166,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-04-10
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-16

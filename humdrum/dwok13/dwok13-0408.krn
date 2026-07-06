@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1340800000-instrumentalna-wiwat.krn
-!!!OTL: Instrumentalna-Wiwat
+﻿!!!!SEGMENT: DWOK1340800000-instrumentalna-wiwat.krn
+!!!OTL: Matyjas co mi das. Wiwat
+!!!FKT: Śpiewki i Tańce. Wiwaty, Tańce i Piosenki 2/4
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Raszkowa, Koźmina
+!!!AR1: wielkopolskie ; ostrowski ; Raszków-miasto
+!!!GE1: 51.718450 , 17.725980
+!!!AR2: wielkopolskie ; krotoszyński ; Koźmin Wielkopolski-miasto
+!!!GE2: 51.827192 , 17.452901
 !!!source: DWOK13
 !!!id: 13408
 !!!signature: 1340800000
@@ -56,7 +63,9 @@
 !!Dam ci wóz i przewóz
 !!i kurosię dużą.
 !!@@END: VERSES
-!!!role-singer: Complex
+!!!role-singer: Narrator
+!!!role-singer: Boy, Narrator
+!!!role-singer: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=194 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 170} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 170}
@@ -64,3 +73,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-04-08
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-16

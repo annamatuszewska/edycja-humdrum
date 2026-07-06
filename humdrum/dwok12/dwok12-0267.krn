@@ -1,83 +1,152 @@
-!!!!SEGMENT: DWOK1226700000-o_i_co_mi_po_tej_roli.krn
-!!!OTL: O i co mi po tej roli
+﻿!!!!SEGMENT: DWOK1226700000-o_i_co_mi_po_tej_roli.krn
+!!!OTL: O i co mi po tej roli. Obertas
+!!!FKT: Pieśni i Dumy. Skarga. Niechęć. Rozstanie
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Strzelna (mel. znana i pod Warszawą, w Płockiem itd.)
+!!!AR1: kujawsko-pomorskie ; mogileński ; Strzelno-miasto
+!!!GE1: 52.628026 , 18.172506
 !!!source: DWOK12
 !!!id: 12267
 !!!signature: 1226700000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16a
-16cc
-8.ee
-16a
-=2
-16cc
-16cc
-8b
-8dd
-=3
-16a
-16cc
-8.ee
-16a
-=4
-16cc
-16cc
-8b
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16a\	O
+16cc	i
+8.ee	co
+16a	mi
+=2	=2
+16cc	po
+8ddq	.
+16cc	téj
+8b	roli
+8dd	.
+=3	=3
+16a\	o
+16cc	i
+8.ee	kiedy
+16a	.
+=4	=4
+16cc	nie
+8ddq	.
+16cc	ora-
+8b	.
+8g}	-no,
 !!LO:LB:g=esac
-=5
-{8.a
-16d
-16f#
-16a
-=6
-16cc
-16cc
-8b
-8dd
-=7
-16d
-16f#
-16a
-16d
-16f#
-16a
-=8
-16cc
-16cc
-8b
-8g}
+=5	=5
+{8.a	o
+16d	i
+16f#	co
+16a	mi
+=6	=6
+16cc	po
+8ddq	.
+16cc	kochance
+8b	.
+8dd	.
+=7	=7
+16dL	o
+16f#J	.
+16aL	i
+16dJ	.
+16f#	kiedy
+16a	.
+=8	=8
+16cc	nie
+8ddq	.
+16cc	kochano,
+8b	.
+8g}	.
 !!LO:LB:g=esac
-=9
-{8.a
-16d
-16f#
-16a
-=10
-16cc
-16cc
-8b
-8dd
-=11
-16d
-16f#
-16a
-16d
-16f#
-16a
-=12
-16cc
-16cc
-8b
-8g}
-==
-*-
+=9	=9
+{8.a	o
+16d	i
+16f#	co
+16a	mi
+=10	=10
+16cc	po
+8ddq	.
+16cc	kochance
+8b	.
+8dd	.
+=11	=11
+16dL	o
+16f#J	.
+16aL	i
+16dJ	.
+16f#	kiedy
+16a	.
+=12	=12
+16cc	nie
+8ddq	.
+16cc	kochano.
+8b	.
+8g}	.
+==	==
+*-	*-
+!!!role-singer: Lover, Narrator
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. O i co mi po téj roli
+!!o i kiedy nie orano,
+!!o i co mi po kochance
+!!o i kiedy nie kochano,
+!!o i co mi po kochance
+!!o i kiedy nie kochano.
+!!@VERSE:
+!!2. O i co mi po stajence,
+!!kiedy nimam koni do ni,
+!!o i co mi po kochance
+!!kiedy nimam woli do ni,
+!!o i co mi po kochance
+!!kiedy nimam woli do ni.
+!!@VERSE:
+!!3. O i za co konia trzymasz,
+!!o i kiedy cugli nimasz;
+!!o i za co się ożenisz,
+!!o i kiej piéniędzy nimasz,
+!!o i za co się ożenisz,
+!!o i kiej piéniędzy nimasz.
+!!@VERSE:
+!!4. Tobie do koni, do koni,
+!!tobie do koni, do koni,
+!!o i nie do ty(j) kochanki,
+!!co ci nic po ni, nic po ni,
+!!o i nie do ty(j) kochanki,
+!!co ci nic po ni, nic po ni.
+!!@VERSE:
+!!5. Oj co mi po ni, da po ni,
+!!oj co mi po ni, da po ni;
+!!muszę sobie sługę chować,
+!!jako do koni, do koni,
+!!muszę sobie sługę chować,
+!!jako do koni, do koni.
+!!@VERSE:
+!!6. O i co mi po ni będzie,
+!!kiedy kądzieli nie przędzie,
+!!o i krowy nie wydoi,
+!!da bo się ogona boji,
+!!o i krowy nie wydoi,
+!!da bo się ogona boji.
+!!@VERSE:
+!!7. Obszargana za mąż idzie,
+!!malowany(j) nie chcą ludzie.
+!!O i dada, dada, dada,
+!!dada, dada, dada, dada,
+!!O i dada, dada, dada,
+!!dada, dada, dada, dada.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=158 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 142} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 142}
 !!!page: 142
+!!!BEM: melodia znana i pod Warszawą, w Płockiem, Obertas
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

@@ -1,5 +1,7 @@
-!!!!SEGMENT: DWOK1309900000-jam_kujawiak_od_kruszwicy.krn
+﻿!!!!SEGMENT: DWOK1309900000-jam_kujawiak_od_kruszwicy.krn
 !!!OTL: Jam Kujawiak od Kruszwicy
+!!!FKT: Pieśni. Miasta i Dwory. Stany. Rody
+!!!REG: Wielkie Księstwo Poznańskie
 !!!source: DWOK13
 !!!id: 13099
 !!!signature: 1309900000
@@ -43,9 +45,9 @@
 8b-	.
 8b-	się,
 =8	=8
-16a	spy-
+16a\	spy-
 8b-q	.
-16a	-taj-
+16a\	-taj-
 8f	-my
 8f	się
 =9	=9
@@ -63,9 +65,9 @@
 8b-	.
 8b-	się,
 =12	=12
-16a	spy-
+16a\	spy-
 8b-q	.
-16a	-taj-
+16a\	-taj-
 8f	-my
 8f	się
 =13	=13
@@ -88,8 +90,6 @@
 !!zajdźmamy się, spytajmy się
 !!gdzie są kraje nasze.
 !!@@END: VERSES
-!!!role-singer: Complex
-!!!role-listener: Complex
 !!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -98,3 +98,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-16
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-24

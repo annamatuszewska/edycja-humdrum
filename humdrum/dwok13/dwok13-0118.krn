@@ -1,5 +1,7 @@
-!!!!SEGMENT: DWOK1311800000-dalej_bracia_za_puchary.krn
+﻿!!!!SEGMENT: DWOK1311800000-dalej_bracia_za_puchary.krn
 !!!OTL: Dalej bracia za puchary
+!!!FKT: Pieśni. Miasta i Dwory. Wiwaty. Karczma. Taniec
+!!!REG: Wielkie Księstwo Poznańskie
 !!!source: DWOK13
 !!!id: 13118
 !!!signature: 1311800000
@@ -24,7 +26,7 @@
 8b	-szaj-
 8b	-my
 =4	=4
-8a	dzbanki,
+8a\	dzbanki,
 4d}	.
 !!LO:LB:g=esac
 =5	=5
@@ -39,7 +41,7 @@
 16a	.
 =7	=7
 16g	i
-16b	na-
+16b/	na-
 8a	-sze
 8a	ko-
 =8	=8
@@ -96,8 +98,8 @@
 !!przy nich słodko chwile płyną,
 !!kochajmy i pijmy.
 !!@@END: VERSES
-!!!role-singer: Lover
-!!!role-listener: Group
+!!!role-singer: Drinking-song leader
+!!!role-listener: Brothers
 !!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -106,3 +108,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-19
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-27

@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1322500001-sikoreczka_maly_ptaszek.krn
-!!!OTL: Sikoreczka mały ptaszek
+﻿!!!!SEGMENT: DWOK1322500001-sikoreczka_maly_ptaszek.krn
+!!!OTL: Sikoreczka mały ptaszek. Kujawiak
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kwieciszewa
+!!!AR1: kujawsko-pomorskie ; mogileński ; Mogilno-obszar wiejski
+!!!GE1: 52.621976 , 18.042905
 !!!source: DWOK13
 !!!id: 13225
 !!!signature: 1322500001
@@ -64,7 +69,7 @@
 !!Jak odjechał, tak przyjedzie,
 !!jak nas kochał tak i bedzie.
 !!@@END: VERSES
-!!!role-singer: Complex
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=135 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 111} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 111}
@@ -72,3 +77,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-06
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-13

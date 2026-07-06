@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK13160b0000-instrumentalna-mazur.krn
-!!!OTL: Instrumentalna-Mazur
+﻿!!!!SEGMENT: DWOK13160b0000-instrumentalna-mazur.krn
+!!!OTL: Instrumentalna. Mazur
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gniezna
+!!!AR1: wielkopolskie ; gnieźnieński ; Gniezno-gmina miejska
+!!!GE1: 52.533333 , 17.601388
 !!!source: DWOK13
 !!!id: 13160b
 !!!signature: 13160b0000
@@ -9,52 +14,54 @@
 *G:
 *M3/8
 =1
-{16g
-16b
-8dd
-8b
+!LO:TX:a:t=Mazur.
+{16gL
+16b/J
+8ddL
+8bJ
 =2
-16cc
-16cc
-8ee
-8cc
+16ccL
+16ccJ
+8eeL
+8ccJ
 =3
-16g
-16b
+16gL
+16b/J
 8dd
-16b
-16g
+16b/L
+16gJ
 =4
-16cc
-16cc
+16ccL
+16ccJ
 8ee
-16cc
-16a}
+16cc/L
+16a}J
 !!LO:LB:g=esac
 =5
-{16g
-16b
-8dd
-8d
+{16g\L
+16bJ
+8ddL
+8dJ
 =6
-16g
-16b
-16a
-16f#
-8g
+16gL
+16b/J
+16a\L
+16f#\
+8g\J
 =
-24g
+*Xtuplet
+24gL
 24a
-24b
+24bJ
 8dd
-24d
-24e
-24f#
+24d\L
+24e\
+24f#\J
 =7
-16g
-16b
-8a
-8dd}
+16gL
+16b/J
+8aL
+8dd/J}
 ==
 *-
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
@@ -62,3 +69,7 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=112 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 88} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 88}
 !!!page: 88
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-02-26
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-13

@@ -1,5 +1,7 @@
-!!!!SEGMENT: DWOK1301400000-z_koncem_mojego_cygara.krn
+﻿!!!!SEGMENT: DWOK1301400000-z_koncem_mojego_cygara.krn
 !!!OTL: Z końcem mojego cygara
+!!!FKT: Pieśni. Miasta i Dwory. Świat. Los
+!!!REG: Wielkie Księstwo Poznańskie
 !!!source: DWOK13
 !!!id: 13014
 !!!signature: 1301400000
@@ -101,8 +103,6 @@
 !!wszystko się w popiół obróci
 !!jak (oto) moje cygaro.
 !!@@END: VERSES
-!!!role-singer: complex
-!!!role-listener: complex
 !!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -111,3 +111,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-03
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-17

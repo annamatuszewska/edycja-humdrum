@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1325300001-hej_graluchna_z_lipki.krn
+﻿!!!!SEGMENT: DWOK1325300001-hej_graluchna_z_lipki.krn
 !!!OTL: Hej graluchna z Lipki
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Środy (Dębicz)
+!!!AR1: wielkopolskie ; średzki ; Środa Wielkopolska-obszar wiejski
+!!!GE1: 52.265702 , 17.311801
 !!!source: DWOK13
 !!!id: 13253
 !!!signature: 1325300001
@@ -57,11 +62,13 @@
 !!!role-singer: Lover
 !!!role-listener: Mistress
 !!!singer-sex: male
-!!!ONB: U Kolberga melodia w metrum 3/8, zapisano poprawnie na 3/4
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=145 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 121} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 121}
 !!!page: 121
+!!!BEM: U Kolberga melodia w metrum 3/8, zapisano poprawnie na 3/4
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-11
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-23

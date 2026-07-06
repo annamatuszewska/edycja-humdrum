@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1310800000-panie_sprzatnione_twe_niwy.krn
-!!!OTL: Panie sprzątnione twe niwy
+﻿!!!!SEGMENT: DWOK1310800000-panie_sprzatnione_twe_niwy.krn
+!!!OTL: Panie sprzątnione twe niwy. Kujawiak
+!!!FKT: Pieśni. Miasta i Dwory. Stany. Rody
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: Inowrocław
+!!!AR1: kujawsko-pomorskie ; inowrocławski ; Inowrocław-gmina miejska
+!!!GE1: 52.796459 , 18.261581
 !!!source: DWOK13
 !!!id: 13108
 !!!signature: 1310800000
@@ -153,14 +158,16 @@
 !!Smakuje-ż wam nasza strawa,
 !!Wiedzcie-ż że to krwawa praca itd.
 !!@@END: VERSES
-!!!role-singer: Worker
+!!!role-singer: Harvesters
 !!!role-listener: Landlord
-!!!singer-sex: Complex
-!!!ONB: Dożynkowa pieśń na Wieńcu, kujawiak
+!!!singer-sex: man
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=86 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 62} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 62}
 !!!page: 62
+!!!BEM: Dożynkowa pieśń na Wieńcu, kujawiak
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-18
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-24

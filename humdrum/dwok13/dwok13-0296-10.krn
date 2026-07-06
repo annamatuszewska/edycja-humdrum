@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1329600010-instrumentalna-odsibka_chodzona.krn
-!!!OTL: Instrumentalna-Odsibka chodzona
+﻿!!!!SEGMENT: DWOK1329600010-instrumentalna-odsibka_chodzona.krn
+!!!OTL: Instrumentalna. Odsibka chodzona
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Strzelna
+!!!AR1: kujawsko-pomorskie ; mogileński ; Strzelno-miasto
+!!!GE1: 52.628026 , 18.172506
 !!!source: DWOK13
 !!!id: 13296
 !!!signature: 1329600010
@@ -9,7 +14,7 @@
 *C:
 *M3/4
 =1
-!LO:TX:a:t=Odsibka chodzona.	
+!LO:TX:a:t=Odsibka chodzona.
 {8gL
 8gJ
 4cc/
@@ -87,3 +92,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-18
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-24

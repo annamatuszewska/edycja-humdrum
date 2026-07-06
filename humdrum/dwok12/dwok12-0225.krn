@@ -1,69 +1,117 @@
-!!!!SEGMENT: DWOK1222500000-deszczyk_pada_pokrapuje.krn
+﻿!!!!SEGMENT: DWOK1222500000-deszczyk_pada_pokrapuje.krn
 !!!OTL: Deszczyk pada pokrapuje
+!!!FKT: Pieśni i Dumy. Skarga. Niechęć. Rozstanie
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Czarnkowa (Rosko)
+!!!AR1: wielkopolskie ; czarnkowsko-trzcianecki ; Wieleń-obszar wiejski
+!!!GE1: 52.874326 , 16.316247
 !!!source: DWOK12
 !!!id: 12225
 !!!signature: 1222500000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16a
-16ee
-8ee
-8ff
-=2
-16ee
-16ee
-8cc
-8a
-=3
-16g#
-16b
-8dd
-8ee
-=
-24dd
-24cc
-24b
-4a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+!!LO:TX:a:t=W tańcu.
+{16a\	Deszczyk
+16ee	.
+8ee	pada,
+8ff	.
+=2	=2
+16ee	pokra-
+16ee	.
+8cc	-puje,
+8a	.
+=3	=3
+16g#	po
+16b	białéj
+8dd	.
+8ee	brze-
+=4	=4
+*Xtuplet	*
+24ddL	-zi-
+24cc	.
+24bJ	.
+4a\}	-nie,
 !!LO:LB:g=esac
-=4
-{16a
-16b
-8cc
-8a
-=5
-16b
-16b
-8g#
-8e
-=6
-16a
-16b
-8cc
-8a
-=7
-16b
-16b
-8g#
-8e}
+=5	=5
+{16a\	.
+16b	.
+8cc	.
+8a\	.
+=6	=6
+16b	.
+16b	.
+8g#	.
+8e	.
+=7	=7
+16a\	.
+16b	.
+8cc	.
+8a\	.
+=8	=8
+16b	.
+16b	.
+8g#	.
+8e}	.
 !!LO:LB:g=esac
-=8
-{16g#
-16b
-8dd
-8ee
-=
-24dd
-24cc
-24b
-4a}
-==
-*-
+=9	=9
+{16g#	.
+16b	.
+8dd	.
+8ee	.
+=10	=10
+24ddL	.
+24cc	.
+24bJ	.
+4a}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Maiden, Landless
+!!!role-listener: Maiden, Landless
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Deszczyk pada, pokrapuje,
+!!po białéj brzezinie,
+!!jużci moja najmilejsa
+!!owce wygania.
+!!@VERSE:
+!!2. Jak wygnała, tak wygnała,
+!!nawraca do domu,
+!!obacéła swego Jasia
+!!na cisawym konia.
+!!@VERSE:
+!!3. Pösła óna do gościńca
+!!jak biáłá lelija,
+!!leda jaká-taká w taniec,
+!!a ją kozdy mija.
+!!@VERSE:
+!!4. Pösła óna do domecku,
+!!zaráz się ükładła,
+!!i od wielgi mankolii
+!!az w chorobę wpadła.
+!!@VERSE:
+!!5. Pyta i się gospodyni
+!!cego wypłaköjes,
+!!cyli-ć sie mój chlib nie zdá,
+!!cy ci nie smaköje.
+!!@VERSE:
+!!6. Nic nie suodko, nic nie kwaśno,
+!!nic mi nie smaköje;
+!!a mám-ci ja Jasia swego,
+!!z insemi táńcuje.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=135 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 119} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 119}
 !!!page: 119
+!!!BEM: W tańcu
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ONB@texture: Only voice or instrument is playing at a time
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

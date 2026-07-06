@@ -1,95 +1,209 @@
-!!!!SEGMENT: DWOK1230700002-kalina_malina_czerwona_jagoda.krn
+﻿!!!!SEGMENT: DWOK1230700002-kalina_malina_czerwona_jagoda.krn
 !!!OTL: Kalina malina czerwona jagoda
+!!!FKT: Pieśni i Dumy. Strata wianka. Żale
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Środy (Dębicz)
+!!!AR1: wielkopolskie ; średzki ; Środa Wielkopolska-obszar wiejski
+!!!GE1: 52.265702 , 17.311801
 !!!source: DWOK12
 !!!id: 12307
 !!!signature: 1230700002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8dd
-8ee
-8b
-8b
-8a
-8f#
-=2
-8g
-8a
-8b
-8a
-8cc
-8ee
-=3
-8dd
-8ee
-8b
-8b
-8a
-8f#
-=4
-8g
-8a
-8b
-8a
-8cc
-8ee}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8dd	Kali-
+8ee	.
+8b	-na,
+8ccq	.
+8b	mali-
+8a	.
+8f#	-na,
+=2	=2
+8g	czerwona
+8a	.
+8b/	.
+8a	jago-
+8cc	.
+8ee	-da,
+=3	=3
+8dd	utra-
+8ee	.
+8b	-ci-
+8ccq	.
+8b	-ła
+8a	wianek
+8f#	.
+=4	=4
+8g	dziewucha
+8a	.
+8b/	.
+8a	nadobna.
+8cc	.
+8ee}	.
 !!LO:LB:g=esac
-=5
-{4dd
-4cc
-8b
-8g
-=6
-8a
-8cc
-2a}
+=5	=5
+{4dd	oj
+4cc	dana
+8b/	.
+8g	da
+=6	=6
+8a	da
+8cc	danam.
+2a}	.
 !!LO:LB:g=esac
-=7
-{8d
-8f#
-8a
-8a
-8cc
-8b
-=8
-8g
-8g
-8b
-8a
-8f#
-8d
-=9
-8d
-8f#
-8a
-8a
-8cc
-8b
-=10
-8g
-8g
-8b
-8a
-8f#
-8d}
+=7	=7
+{8d	Utraci-
+8f#	.
+8a	.
+8a	-ła
+8cc	wianek,
+8b	.
+=8	=8
+8g	utra-
+8g	.
+8b	-ci-
+8a\	-ła
+8gq	.
+8f#	marnie.
+8d	.
+=9	=9
+8d	a
+8f#	kto
+8a	mnie
+8a	téż
+8cc	teraz
+8b	.
+=10	=10
+8g	w_sieroctwie
+8g	.
+8b	.
+8a\	o-
+8gq	.
+8f#	-garnie.
+8d}	.
 !!LO:LB:g=esac
-=11
-{4d
-4cc
-8b
-8g
-=12
-8a
-16b
-16cc
-2a}
-==
-*-
+=11	=11
+{4d	oj
+4cc	daj
+8bL	da
+8gJ	.
+=12	=12
+8aJ	da
+16b	.
+16ccJ/	danam.
+2a}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Maiden
+!!!role-listener: Bachelor, Brother
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Kalina, malina,
+!!czerwona jagoda,
+!!utraciła wianek
+!!dziewucha nadobna.
+!!oj dana da da danam.
+!!@VERSE:
+!!2. Utraciła wianek,
+!!utraciła marnie.
+!!a któż mnie téż teraz
+!!w sieroctwie ogarnie!
+!!oj dana da da danam.
+!!@VERSE:
+!!3. Ogarnie mnie Pan Bóg
+!!i wszystka rodzina,
+!!ciebie psie hultaju,
+!!nieszczęsna godzina.
+!!oj dana da da danam.
+!!@VERSE:
+!!4. Poczekaj hultaju,
+!!Pan Bóg ci poradzi,
+!!ino brata mego
+!!z wojenki sprowadzi.
+!!oj dana da da danam.
+!!@VERSE:
+!!5. Oj nie wyszło roczek
+!!i dwa i putora,
+!!już-ci mój braciszek,
+!!już-ci jedzie z pola.
+!!oj dana da da danam.
+!!@VERSE:
+!!6. Witaj mój braciszku,
+!!witaj mój kochany,
+!!kandyś podział wianek
+!!siostry méj d-ruciany?
+!!oj dana da da danam.
+!!@VERSE:
+!!7. Narachował-ci ji
+!!sto złotych na stole,
+!!porachuj-że dziewcze,
+!!czy nie jest za twoje.
+!!oj dana da da danam.
+!!@VERSE:
+!!8. Mało, mało, mało,
+!!trzeba jeszcze przysuć,
+!!lepsza moja cnota,
+!!niżeli twój tysiąc.
+!!oj dana da da danam.
+!!@VERSE:
+!!9. Bo mi moją cnotę
+!!szóści końmi wożą,
+!!a twoje piéniądze
+!!w kieszeń-ci się włożą.
+!!oj dana da da danam.
+!!@VERSE:
+!!10. Zgarnęła ona-ć je
+!!w niedwabny fartuszek,
+!!a łezki spadają
+!!z jéj oczu na brzuszek.
+!!oj dana da da danam.
+!!@VERSE:
+!!11. Oj te moje myśli,
+!!jak u nie- dzieweczki,
+!!nie może mnie obstać
+!!trzy łokcie (w)stążeczki.
+!!oj dana da da danam.
+!!@VERSE:
+!!12. Pirwy mi obstało
+!!i jeszcze ostało,
+!!la-Boga, Maryja!
+!!cóż mi się to stało!
+!!oj dana da da danam.
+!!@VERSE:
+!!13. Jag'em sobie była
+!!nadobną dzieweczką,
+!!wyglądali za mną
+!!świdrową dziureczką.
+!!oj dana da da danam.
+!!@VERSE:
+!!14. Teraz wyglądają
+!!szérokiemi drzwiami,
+!!co ja na się spojrzę,
+!!zaleję się łzami.
+!!oj dana da da danam.
+!!@VERSE:
+!!15. Żeby te kamienie
+!!przy drodze nie były,
+!!żeby się sieroty
+!!na świat nie rodziły.
+!!oj dana da da danam.
+!!@VERSE:
+!!16. Bo kto idzie drogą,
+!!kopnie kamień nogą,
+!!tak i mnie téż teraz
+!!sierotę ubogą.
+!!oj dana da da danam.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=180 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 164} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 164}
 !!!page: 164
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

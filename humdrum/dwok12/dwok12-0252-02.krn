@@ -1,93 +1,137 @@
-!!!!SEGMENT: DWOK1225200002-dziewula_moja_takas_mi_mila.krn
-!!!OTL: Dziewula moja takaś mi miła
+﻿!!!!SEGMENT: DWOK1225200002-dziewula_moja_takas_mi_mila.krn
+!!!OTL: Dziewula moja takaś mi miła. Chodzony
+!!!FKT: Pieśni i Dumy. Skarga. Niechęć. Rozstanie
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kobylina (Targoszyce)
+!!!AR1: wielkopolskie ; krotoszyński ; Kobylin-obszar wiejski
+!!!GE1: 51.762910 , 17.270700
 !!!source: DWOK12
 !!!id: 12252
 !!!signature: 1225200002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8b
-8dd
-8dd
-8dd
-8dd
-8b
-=2
-8cc
-8dd
-8ee
-8ee
-4a
-=3
-4dd
-8a
-8b
-8cc
-8b
-=4
-8g
-8b
-8a
-8f#
-4d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+!!LO:TX:a:t=Chodzony.
+{8b	Dziewula
+8dd	.
+8dd	.
+8dd	moja
+8ddL	.
+8bJ/	.
+=2	=2
+8cc	takaś
+8dd	.
+8ee	mi
+8ee	miła,
+4a	.
+=3	=3
+4dd	poszłaś
+8a\	.
+8b	na
+8cc	pole,
+8b	.
+=4	=4
+8g	samaś
+8b/	.
+8a	zasnęła.
+8f#	.
+4d}	.
 !!LO:LB:g=esac
-=5
-{8d
-8f#
-8a
-8a
-4a
-=6
-8g
-8a
-8b
-8cc
-4a
-=7
-4dd
-8a
-8b
-8cc
-8b
-=8
-8g
-8b
-8a
-8f#
-4d}
+=5	=5
+{8d	A
+8f#	ja
+8a	téż
+8a	nie
+4a\	wiem,
+=6	=6
+8g	co
+8a	to
+8b	takiego,
+8cc	.
+4a	.
+=7	=7
+4dd	nie
+8a\	spodobałam
+8b	.
+8cc	.
+8b	.
+=8	=8
+8g	sobie
+8b/	.
+8a	żadnego,
+8f#\	.
+4d\}	.
 !!LO:LB:g=esac
-=9
-{8d
-8f#
-8a
-8a
-8a
-8f#
-=10
-8g
-8a
-8b
-8cc
-4a
-=11
-4dd
-8a
-8b
-8cc
-8b
-=12
-8g
-8b
-8a
-8f#
-4g}
-==
-*-
+=9	=9
+{8d	a
+8f#	ja
+8a	téż
+8a	nie
+8aL	wiem,
+8f#J	.
+=10	=10
+8g	co
+8a	to
+8b	takiego,
+8cc	.
+4a	.
+=11	=11
+4dd	nie
+8a\	spodobałam
+8b	.
+8cc	.
+8b	.
+=12	=12
+8g	sobie
+8b/	.
+8a	żadnego.
+8f#	.
+4g}	.
+==	==
+*-	*-
+!!!role-singer: Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Dziewula moja takaś mi mila,
+!!poszłaś na pole, sama zasnęła.
+!!A ja téż nie wiem, co to takiego,
+!!nie spodobałam sobie żadnego,
+!!A ja téż nie wiem, co to takiego,
+!!nie spodobałam sobie żadnego.
+!!@VERSE:
+!!2. Ani szewczyska, ani krawczyska,
+!!ta moja cnota do śmierci czysta.
+!!Ta moja cnota stoji w książeczce;
+!!jak to jest ładnie cienkiéj dzieweczce,
+!!Ta moja cnota stoji w książeczce;
+!!jak to jest ładnie cienkiéj dzieweczce.
+!!@VERSE:
+!!3. Cienka dzieweczka daleko słynie,
+!!a jeji cnota nigdy nie zginie.
+!!Nigdy nie zginie, i nie zmieni się
+!!a jak ji się uda, to ożeni się,
+!!Nigdy nie zginie, i nie zmieni się
+!!a jak ji się uda, to ożeni się.
+!!@VERSE:
+!!4. A ożeni się, chocioż bez próby,
+!!lepij że też jest kochanek gruby (prostak).
+!!kochanek gruby, to się nie zmieni,
+!!jak mu się uda, to się ożeni,
+!!kochanek gruby, to się nie zmieni,
+!!jak mu się uda, to się ożeni.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=150 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 134} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 134}
 !!!page: 134
+!!!BEM: Chodzony
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

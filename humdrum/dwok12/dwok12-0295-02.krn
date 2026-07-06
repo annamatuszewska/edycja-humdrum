@@ -1,84 +1,124 @@
-!!!!SEGMENT: DWOK1229500002-przez_te_ogrody_sa_bystre.krn
+﻿!!!!SEGMENT: DWOK1229500002-przez_te_ogrody_sa_bystre.krn
 !!!OTL: Przez te ogrody są bystre
+!!!FKT: Pieśni i Dumy. Strata wianka. Żale
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Krzywinia
+!!!AR1: wielkopolskie ; kościański ; Krzywiń-miasto
+!!!GE1: 51.961720 , 16.820761
 !!!source: DWOK12
 !!!id: 12295
 !!!signature: 1229500002
-**kern
-*clefG2
-*k[f#]
-*e:
-*M3/8
-=1
-{8b
-8dd
-8dd
-=2
-4ee
-16cc
-16a
-=3
-8b
-8dd
-16a
-16g
-=4
-4dd
-8dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*e:	*
+*M3/8	*
+=1	=1
+{8b	Przez
+8dd	te
+8dd	o-
+=2	=2
+4ee/	-gro-
+16ccL	-dy
+16aJ/	.
+=3	=3
+8b	są
+8dd	bystre
+16aL	.
+16gJ	.
+=4	=4
+4dd	wody,
+8dd}	.
 !!LO:LB:g=esac
-=5
-{8b
-8dd
-8dd
-=6
-8.b
-16a
-8g
-=7
-8f#
-8a
-16g
-16f#
-=8
-4e
-8e}
+=5	=5
+{8b	rwała
+8dd	.
+8dd	tam
+=6	=6
+8.bL	Kasia
+16aJ	.
+8g	.
+=7	=7
+8eq	.
+8f#	czarne
+8a	.
+16gL	ja-
+16f#J	.
+=8	=8
+4e	-gody.
+8e}	.
 !!LO:LB:g=esac
-=9
-{8e
-8g
-8a
-=10
-4b
-16g
-16f#
-=11
-8e
-8g
-8a
-=12
-4b
-16g
-16f#}
+=9	=9
+{8e	Przyjechał
+8g	.
+8a	.
+=10	=10
+4b	do
+16gL	niéj
+16f#J	.
+=11	=11
+8e	Jasi-
+8g	.
+8a	-nek
+=12	=12
+4b	mło-
+8aq	.
+16gL	-dy,
+16f#J}	.
 !!LO:LB:g=esac
-=13
-{8e
-8dd
-8dd
-=14
-8.b
-16a
-8g
-=15
-8f#
-8a
-16g
-16f#
-=16
-4e
-8e}
-==
-*-
+=13	=13
+{8e	rom
+8dd	ta
+8dd	da
+=14	=14
+8.bL	da-
+16aJ\	.
+8g	-na,
+=15	=15
+8f#	Jasinek
+8a	.
+16gL	.
+16f#J	.
+=16	=16
+4e	młody.
+8e}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Przez te ogrody są bystre wody,
+!!rwała tam Kasia czarne jagody.
+!!Przyjechał do niéj Jasinek młody,
+!!rom ta da dana, Jasinek młody.
+!!@VERSE:
+!!2. Z kónika sprysnoł, — za rączkę ścisnoł,
+!!proszę cię Kasiu, — na swoją wiśnią.
+!!Kónika sprzedám, — sám służyć będę,
+!!od twego łóżeczka, — strażnikiem będę.
+!!@VERSE:
+!!3. Nie potrzebuję — strażnika chować,
+!!bo bém go nie miáła — czém obserwować,
+!!Nie potrzebuję — obserwacyi,
+!!parę poduszek, — trzeciéj pierzyny,
+!!ładnéj dziewczyny.
+!!@VERSE:
+!!4. Wyjechał Jasio — za bożą-mękę,
+!!podaj mi Kasiu — z piestrzónkiem rękę.
+!!Ona mu dała — z trzewiczkiem nóżkę:
+!!życzę ci Jasiu — szczęśliwą dróżkę.
+!!@VERSE:
+!!5. A żegnając się, — rzewnie płakała,
+!!żebym cię była, — Jasiu, nie znała!
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=174 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 158-159} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 158-159}
 !!!page: 158-159
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

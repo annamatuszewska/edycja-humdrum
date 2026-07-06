@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1316400002-a_wejrzyj_na_pole.krn
+﻿!!!!SEGMENT: DWOK1316400002-a_wejrzyj_na_pole.krn
 !!!OTL: A wejrzyj na pole
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Poznania (Spławie)
+!!!AR1: wielkopolskie ; m. Poznań ; Poznań-gmina miejska
+!!!GE1: 52.350785 , 17.025783
 !!!source: DWOK13
 !!!id: 13164
 !!!signature: 1316400002
@@ -51,7 +56,8 @@
 16bL	miał
 16ddJ	.
 =8	=8
-16cc/L 	żo-
+8dd/qq	.
+16cc/L	żo-
 16b/	.
 16cc/	.
 16ee/J	.
@@ -90,8 +96,7 @@
 !!Tak ci ja dziewki gonił,
 !!gdym nie miał żony.
 !!@@END: VERSES
-!!!role-singer: Lover
-!!!role-listener: Complex
+!!!role-singer: Married man
 !!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -100,3 +105,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-26
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-13

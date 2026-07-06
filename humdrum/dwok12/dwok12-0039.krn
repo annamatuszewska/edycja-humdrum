@@ -1,79 +1,100 @@
-!!!!SEGMENT: DWOK1203900000-zieleni_sie_pietruszeczka_zieleni.krn
-!!!OTL: Zieleni się pietruszeczka, zieleni
+﻿!!!!SEGMENT: DWOK1203900000-zieleni_sie_pietruszeczka_zieleni.krn
+!!!OTL: Zieleni się pietruszeczka
+!!!FKT: Pieśni i Dumy. Miłość. Pieśni zalotne
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gniezna
+!!!AR1: wielkopolskie ; gnieźnieński ; Gniezno-gmina miejska
+!!!GE1: 52.533333 , 17.601388
 !!!source: DWOK12
 !!!id: 12039
 !!!signature: 1203900000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16a
-8b
-8b
-=2
-8.b
-16a
-16g
-16b
-=3
-16a
-16f#
-8d
-8d
-=4
-8.g
-16a
-16b
-16g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Zieleni
+16a	.
+8b	.
+8b	się
+=2	=2
+8.b	pietru-
+16a	.
+16g	-szeczka,
+16b	.
+=3	=3
+16a	ziele-
+16f#	.
+8d	-ni
+8d	się
+=4	=4
+8.g	ślaz
+16a	da
+16b	i
+16g}	ślaz,
 !!LO:LB:g=esac
-=5
-{16g
-16e
-8e
-8e
-=6
-8.d
-16f#
-16a
-16cc
-=7
-16a
-16f#
-8d
-8d
-=8
-8.g
-16a
-16b
-16g}
+=5	=5
+{16g	prosiła
+16e	.
+8e	.
+8e	się
+=6	=6
+8.d	pańska
+16f#	.
+16a	dziwka
+16cc	.
+=7	=7
+16a	żebym
+16f#	.
+8d	do
+8d	ni
+=8	=8
+8.g	wlaz
+16a	da
+16b/	i
+16g}	wlaz,
 !!LO:LB:g=esac
-=9
-{16g
-16e
-8e
-8e
-=10
-8.d
-16f#
-16a
-16cc
-=11
-16a
-16f#
-8d
-8d
-=12
-8.g
-16a
-16b
-16g}
-==
-*-
+=9	=9
+{16g	prosiła
+16e	.
+8e	.
+8e	się
+=10	=10
+8.d	pańska
+16f#	.
+16a	dziwka
+16cc	.
+=11	=11
+16a	żebym
+16f#	.
+8d	do
+8d	ni
+=12	=12
+8.g	wlaz
+16a	da
+16b/	i
+16g}	wlaz.
+==	==
+*-	*-
+!!!role-singer: Lover
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:Zieleni się pietruszeczka,
+!!zieleni się ślaz da i ślaz,
+!!prosiła się pańska dziwka
+!!żebym do ni wlaz da i wlaz.
+!!@VERSE:A ja tego nie uczynię.
+!!bobym dostał po czuprynie,
+!!już to tego raz, da i raz,
+!!już to tego raz, da i raz.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=35 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 19} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 19}
 !!!page: 19
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-19-02
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1323700000-ty_goscina_z_krzywa_wicia.krn
+﻿!!!!SEGMENT: DWOK1323700000-ty_goscina_z_krzywa_wicia.krn
 !!!OTL: Ty gościna z krzywą wicią
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kościana (Czacz)
+!!!AR1: wielkopolskie ; kościański ; Śmigiel-obszar wiejski
+!!!GE1: 52.032837 , 16.552666
 !!!source: DWOK13
 !!!id: 13237
 !!!signature: 1323700000
@@ -28,8 +33,8 @@
 =4	=4
 16f#	i-
 16g	-gły
-8bL	z_nicią,
-8g}J\	.
+8b\	z_nicią,
+8g\}	.
 !!LO:LB:g=esac
 =5	=5
 {16g#	bę-
@@ -64,7 +69,6 @@
 !!2. Jadłem kluski, piłem rosół,
 !!mięsa'm nie jad, adym wesół.
 !!@@END: VERSES
-!!!role-singer: Complex
 !!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -73,3 +77,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-09
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-23

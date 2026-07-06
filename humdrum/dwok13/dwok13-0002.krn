@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1300200000-kochajmy_sie_bracia_mili-polonez.krn
-!!!OTL: Kochajmy się bracia mili-Polonez
+﻿!!!!SEGMENT: DWOK1300200000-kochajmy_sie_bracia_mili-polonez.krn
+!!!OTL: Kochajmy się bracia mili. Polonez
+!!!FKT: Pieśni. Miasta i Dwory. Świat. Los
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: Poznań
+!!!AR1: wielkopolskie ; m. Poznań ; Poznań-gmina miejska
+!!!GE1: 52.407918 , 16.933467
 !!!source: DWOK13
 !!!id: 13002
 !!!signature: 1300200000
@@ -129,3 +134,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-01-30
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-17

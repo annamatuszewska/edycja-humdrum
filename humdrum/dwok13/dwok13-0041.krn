@@ -1,5 +1,7 @@
-!!!!SEGMENT: DWOK1304100000-niedaleko_warszawy.krn
+﻿!!!!SEGMENT: DWOK1304100000-niedaleko_warszawy.krn
 !!!OTL: Niedaleko Warszawy
+!!!FKT: Pieśni. Miasta i Dwory. Miłość. Tęsknota
+!!!REG: Wielkie Księstwo Poznańskie
 !!!source: DWOK13
 !!!id: 13041
 !!!signature: 1304100000
@@ -134,7 +136,7 @@
 !!wywija pan-młody.
 !!@@END: VERSES
 !!!role-singer: Lover
-!!!role-listener: Group
+!!!role-listener: Parents
 !!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -143,3 +145,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-06
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-18

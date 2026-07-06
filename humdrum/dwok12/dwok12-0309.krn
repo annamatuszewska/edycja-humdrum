@@ -1,64 +1,105 @@
-!!!!SEGMENT: DWOK1230900000-idzie_konik_bez_las.krn
-!!!OTL: Idzie konik bez las
+﻿!!!!SEGMENT: DWOK1230900000-idzie_konik_bez_las.krn
+!!!OTL: Idzie konik bez las. Chodzony
+!!!FKT: Pieśni i Dumy. Strata wianka. Żale
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gniezna
+!!!AR1: wielkopolskie ; gnieźnieński ; Gniezno-gmina miejska
+!!!GE1: 52.533333 , 17.601388
 !!!source: DWOK12
 !!!id: 12309
 !!!signature: 1230900000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{8e
-8e
-8a
-8g#
-4e
-=2
-8e
-16a
-16g#
-2e
-=3
-8g#
-8a
-4b
-4ee
-=4
-8cc
-8a
-2b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+!!LO:TX:a:t=Taniec chodzony&colon; do koła.
+{8e	Idzie
+8e	.
+8aL	ko-
+8g#J	.
+4e	-nik
+=2	=2
+8eL	bez
+16a	.
+16g#J	.
+2e	las
+=3	=3
+8g#	cugle
+8a	.
+4b	przydep-
+4ee	.
+=4	=4
+8ccL	-tu-
+8aJ	.
+2b}	-je,
 !!LO:LB:g=esac
-=5
-{8e
-8dd
-8dd
-8dd
-8dd
-16cc
-16b
-=6
-8a
-8g#
-8a
-8b
-8g#
-16e
-16d
-=7
-8e
-8e
-8g#
-8e
-4a
-=8
-8e
-8d
-2e}
-==
-*-
+=5	=5
+{8e	jużci
+8dd	.
+8dd	moja
+8dd	.
+8eeq	.
+8dd	ma-
+16ccL	-ła,
+16bJ	.
+=6	=6
+8aL	jużci
+8g#J	.
+8aL	moja
+8bJ\	.
+8g#L	mała
+16e	.
+16dJ	.
+=7	=7
+8e	rączki
+8e	.
+8g#L	za-
+8eJ	.
+4a	-ła-
+=8	=8
+8eL	-muje.
+8dJ	.
+2e}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Maiden, Bachelor
+!!!role-listener: Bachelor, Maiden
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Idzie konik bez las
+!!cugle przydeptuje,
+!!jużci moja mała,
+!!jużci moja mała
+!!rączki załamuje.
+!!@VERSE:
+!!2. Na łono spojrzała,
+!!rzewnie zapłakała:
+!!na ciebie Michałek,
+!!na ciebie maluśki
+!!będę narzekała.
+!!@VERSE:
+!!3. Nie narzékaj na mnie,
+!!tylko sama na się:
+!!szak ja mówił tobie,
+!!dajma pokój sobie,
+!!nie zalicajma się.
+!!@VERSE:
+!!4. A tyś się mnie jéna
+!!jak woda kaminia —
+!!niepodobne rzecy,
+!!niepodobne rzecy,
+!!żebyś moją była.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=181 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 165-166} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 165-166}
 !!!page: 165-166
+!!!BEM: taniec chodzony do koła
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

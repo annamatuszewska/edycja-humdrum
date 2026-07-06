@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1319700000-wszyscy_posneli.krn
+﻿!!!!SEGMENT: DWOK1319700000-wszyscy_posneli.krn
 !!!OTL: Wszyscy posnęli
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Łabiszyna
+!!!AR1: kujawsko-pomorskie ; żniński ; Łabiszyn-miasto
+!!!GE1: 52.952981 , 17.919040
 !!!source: DWOK13
 !!!id: 13197
 !!!signature: 1319700000
@@ -88,9 +93,9 @@
 !!i nie spały i nie będą,
 !!póki ciebie nie zdobędą.
 !!@@END: VERSES
-!!!role-singer: Lover
-!!!role-listener: Mistress 
-!!!singer-sex: male
+!!!role-singer: Lover, Mistress
+!!!role-listener: Lover
+!!!singer-sex: male, female
 !!!RDF**kern: <= above
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -99,3 +104,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-03
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-13

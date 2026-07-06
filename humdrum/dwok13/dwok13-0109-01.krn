@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1310900001-w_gestym_sadku.krn
-!!!OTL: W gęstym sadku
+﻿!!!!SEGMENT: DWOK1310900001-w_gestym_sadku.krn
+!!!OTL: W gęstym sadku rosa kapie
+!!!FKT: Pieśni. Miasta i Dwory. Stany. Rody
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Nakła
+!!!AR1: kujawsko-pomorskie ; nakielski ; Nakło nad Notecią-miasto
+!!!GE1: 53.138582 , 17.604749
 !!!source: DWOK13
 !!!id: 13109
 !!!signature: 1310900001
@@ -94,9 +99,8 @@
 !!nie rwij ziela ty Kasieńko,
 !!bo bez ziela bardzo goło.
 !!@@END: VERSES
-!!!role-singer: Complex
+!!!role-singer: Narrator
 !!!role-listener: Girls
-!!!singer-sex: Complex
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=87 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 63} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 63}
@@ -104,3 +108,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-18
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-24

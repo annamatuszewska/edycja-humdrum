@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1313900000-instrumentalna-polonez_staroszlachecki.krn
-!!!OTL: Instrumentalna-Polonez staroszlachecki
+﻿!!!!SEGMENT: DWOK1313900000-instrumentalna-polonez_staroszlachecki.krn
+!!!OTL: Instrumentalna. Polonez staroszlachecki
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kostrzyna
+!!!AR1: wielkopolskie ; poznański ; Kostrzyn-miasto
+!!!GE1: 52.397266 , 17.225518
 !!!source: DWOK13
 !!!id: 13139
 !!!signature: 1313900000
@@ -122,7 +127,7 @@
 8fL
 8eJ
 =15
-4cc/
+4cc\
 8gL
 8eJ
 16fL
@@ -144,3 +149,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-19
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-13

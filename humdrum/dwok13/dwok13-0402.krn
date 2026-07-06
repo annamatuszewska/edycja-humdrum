@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1340200000-tancowala_frydrycha.krn
+﻿!!!!SEGMENT: DWOK1340200000-tancowala_frydrycha.krn
 !!!OTL: Tańcowała Frydrycha
+!!!FKT: Śpiewki i Tańce. Wiwaty, Tańce i Piosenki 2/4
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Buku (Niegolewo)
+!!!AR1: wielkopolskie ; nowotomyski ; Opalenica-obszar wiejski
+!!!GE1: 52.369145 , 16.432989
 !!!source: DWOK13
 !!!id: 13402
 !!!signature: 1340200000
@@ -79,3 +84,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-04-08
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-16

@@ -1,91 +1,152 @@
-!!!!SEGMENT: DWOK1228200000-i_wyjechal_pan_starosta.krn
+﻿!!!!SEGMENT: DWOK1228200000-i_wyjechal_pan_starosta.krn
 !!!OTL: I wyjechał pan starosta
+!!!FKT: Pieśni i Dumy. Strata wianka. Żale
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kurnika, Mosiny
+!!!AR1: wielkopolskie ; poznański ; Kórnik-miasto
+!!!GE1: 52.248594 , 17.089676
+!!!AR2: wielkopolskie ; poznański ; Mosina-miasto
+!!!GE2: 52.244550 , 16.850615
 !!!source: DWOK12
 !!!id: 12282
 !!!signature: 1228200000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16f
-16g
-8a
-8b-
-=2
-16cc
-16cc
-8.ff
-16a
-=3
-16cc
-16cc
-8b-
-8g
-=4
-8b-
-4a}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16f	I
+16g	wyjechał
+8a	.
+8b-/	.
+=2	=2
+16cc	pan
+16cc	starosta
+8.ff	.
+16a	.
+=3	=3
+16cc	zrana
+16cc	.
+8b-	na
+8g	za-
+=4	=4
+8b-/	-jące,
+4a}	.
 !!LO:LB:g=esac
-=5
-{16f
-16g
-8a
-8b-
-=6
-16cc
-16cc
-8.ff
-16a
-=7
-16cc
-16cc
-8b-
-8g
-=8
-8g
-4f}
+=5	=5
+{16f	i
+16g	natrafił
+8a	.
+8b-/	.
+=6	=6
+16cc	trzy
+16cc	panienki
+8.ff	.
+16a	.
+=7	=7
+16cc	na
+16cc	zielo-
+8b-	.
+8g	-néj
+=8	=8
+8g\	łące.
+4f\}	.
 !!LO:LB:g=esac
-=9
-{16cc
-16cc
-8b-
-8g
-=10
-8dd
-4cc
-=11
-16cc
-16cc
-8b-
-8g
-=12
-8dd
-4cc}
+=9	=9
+{16cc	Jednéj
+16cc	.
+8b-	było
+8g	.
+=10	=10
+8dd	Anna
+4cc	.
+=11	=11
+16cc	a
+16cc	drugiéj
+8b-	.
+8g	Mar-
+=12	=12
+8dd	-janna,
+4cc}	.
 !!LO:LB:g=esac
-=13
-{16cc
-16cc
-8b-
-8g
-=14
-16dd
-16cc
-8ff
-8a
-=15
-16cc
-16cc
-8b-
-8g
-=16
-8g
-4f}
-==
-*-
-!!!ONB: U Kolberga podane metrum 3/4 zapisano poprawnie 3/8
+=13	=13
+{8aq	.
+16cc	a
+16cc	téj
+8b-	trzeciéj
+8g	.
+=14	=14
+16dd	nie
+16cc	wypowiem,
+8ff	.
+8a	.
+=15	=15
+16cc	bo
+16cc	to
+8b-	jego
+8g	.
+=16	=16
+8g	panna.
+4f}	.
+==	==
+*-	*-
+!!!role-singer: Maiden, Narrator, Bachelor
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. I wyjechał pan starosta
+!!zrana na zające,
+!!i natrafił trzy panienki
+!!na zielonéj łące.
+!!Jednéj było Anna
+!!a drugiéj Marjanna,
+!!a téj trzeciej nie wypowiem,
+!!bo to jego panna.
+!!@VERSE:
+!!2. Jednéj było panna Anna,
+!!drugij Maryjanna,
+!!a téj trzeciéj nie wymówił,
+!!bo jego kochana.
+!!@VERSE:
+!!3. I wzion ją za rączkę,
+!!i wzion ją za obie,
+!!i prowadzi do pokoju
+!!bez ganeczek sobie.
+!!@VERSE:
+!!4. Jak ją przyprowadził,
+!!posadził ją w krześle:
+!!siedźżeż, siedźżeż grzeczna damo!
+!!aż po świcę poślę.
+!!@VERSE:
+!!5. Cztyry świce się spaliły,
+!!nim się namówili,
+!!i piąta się dopalała
+!!nim się położyli.
+!!@VERSE:
+!!6. I jak po północku,
+!!po pierwszéj godzinie:
+!!obróć-że się Kasineczku,
+!!prawym boczkiem do mnie!
+!!@VERSE:
+!!7. Nie obrócę, nie obrócę,
+!!bo mnie główka boli,
+!!utraciłam swój wianuszek
+!!dla waspana woli.
+!!@VERSE:
+!!8. Zaprzęgę ja cztery konie
+!!do powozu mego,
+!!pojadę ja po wianuszek
+!!do gustu twojego.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=167 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 151} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 151}
 !!!page: 151
+!!!BEM: U Kolberga podane metrum 3/4 zapisano poprawnie 3/8
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

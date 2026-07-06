@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1321200000-a_coz_nam_tu_po_tych_babach.krn
+﻿!!!!SEGMENT: DWOK1321200000-a_coz_nam_tu_po_tych_babach.krn
 !!!OTL: A cóż nam tu po tych babach
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Koźmina, Raszkowa
+!!!AR1: wielkopolskie ; krotoszyński ; Koźmin Wielkopolski-miasto
+!!!GE1: 51.827192 , 17.452901
+!!!AR2: wielkopolskie ; ostrowski ; Raszków-miasto
+!!!GE2: 51.718450 , 17.725980
 !!!source: DWOK13
 !!!id: 13212
 !!!signature: 1321200000
@@ -110,6 +117,7 @@
 ==	==
 *-	*-
 !!@@BEGIN: VERSES
+!!@VERSE:
 !!1. A cóż nam tu po tych babach,
 !!co tu siedzą na tych ławach,
 !!bo nie piją, nie tańcują.
@@ -125,9 +133,9 @@
 !!I zanieś im snopek siana,
 !!niech żrą baby aż do rana.
 !!@@END: VERSES
-!!!role-singer: Complex
-!!!role-listener: Woman
-!!!singer-sex: female
+!!!role-singer: Reveler (leading the drinking song)
+!!!role-listener: Hostess (the woman serving/hosting the guests)
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=130 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 106} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 106}
@@ -135,3 +143,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-05
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-13

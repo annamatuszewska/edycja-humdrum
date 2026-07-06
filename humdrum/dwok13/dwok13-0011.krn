@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1301100000-na_dolinie_zawierucha.krn
+﻿!!!!SEGMENT: DWOK1301100000-na_dolinie_zawierucha.krn
 !!!OTL: Na dolinie zawierucha
+!!!FKT: Pieśni. Miasta i Dwory. Świat. Los
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Pleszewa (znana i w Warszawie)
+!!!AR1: wielkopolskie ; pleszewski ; Pleszew-miasto
+!!!GE1: 51.896272 , 17.785733
 !!!source: DWOK13
 !!!id: 13011
 !!!signature: 1301100000
@@ -65,7 +70,7 @@
 4g}	mnie.
 8r	.
 ==	==
-*-	*
+*-	*-
 !!@@BEGIN: VERSES
 !!1.Na dolinie zawierucha
 !!mokrym śniegiem dmie,
@@ -102,8 +107,8 @@
 !!gdzie jest gwałt i samowola,
 !!gdzie jest obcy pan.
 !!@@END: VERSES
+!!@COMMENTARY: Wiersz: Michała Grabowskiego (1830)
 !!!role-singer: Man
-!!!role-listener: Group
 !!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -112,3 +117,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-01
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-17

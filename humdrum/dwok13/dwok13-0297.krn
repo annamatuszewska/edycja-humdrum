@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1329700000-moje_dziewcze.krn
-!!!OTL: Moje dziewcze
+﻿!!!!SEGMENT: DWOK1329700000-moje_dziewcze.krn
+!!!OTL: Moje dziewcze moje rybie
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Czerniejewa
+!!!AR1: wielkopolskie ; gnieźnieński ; Czerniejewo-miasto
+!!!GE1: 52.426676 , 17.489312
 !!!source: DWOK13
 !!!id: 13297
 !!!signature: 1329700000
@@ -69,9 +74,9 @@
 !!nie będziesz ze mnie miał, Jasiu,
 !!żądny pociechy, pociechy.
 !!@@END: VERSES
-!!!role-singer: Single Man, Single Woman
-!!!role-listener: Single Woman, Single Man
-!!!singer-sex: Male, Female
+!!!role-singer: Bachelor, Maiden
+!!!role-listener: Bachelor, Maiden
+!!!singer-sex: male, female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=160 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 136} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 136}
@@ -79,3 +84,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-18
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-24

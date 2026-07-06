@@ -1,74 +1,131 @@
-!!!!SEGMENT: DWOK1232500000-cyz_ja_nie_parobek.krn
+﻿!!!!SEGMENT: DWOK1232500000-cyz_ja_nie_parobek.krn
 !!!OTL: Cyż ja nie parobek
+!!!FKT: Pieśni i Dumy. Strata wianka. Żale
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Wielenia (Rosko)
+!!!AR1: wielkopolskie ; czarnkowsko-trzcianecki ; Wieleń-obszar wiejski
+!!!GE1: 52.874326 , 16.316247
 !!!source: DWOK12
 !!!id: 12325
 !!!signature: 1232500000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8g
-8a
-8b
-8b
-8a
-8a
-=2
-8cc
-8dd
-8ee
-8ee
-8dd
-8d
-=3
-8g
-8a
-8b
-8b
-8a
-8a
-=4
-8cc
-8dd
-8ee
-8ee
-8dd
-8d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8g	Cyć
+8a	ja
+8b	nie
+8ccq	.
+8b	parobek,
+8a	.
+8a	.
+=2	=2
+8cc	cyć
+8dd	nie
+8ee	umiem
+8ee	.
+8dd	robić,
+8d	.
+=3	=3
+8g	a
+8a	cyć
+8b	mi
+8ccq	.
+8b	nie
+8a	wolno
+8a	.
+=4	=4
+8cc	do
+8dd	panienek
+8ee	.
+8ee	.
+8dd	chodzić.
+8d}	.
 !!LO:LB:g=esac
-=5
-{8g
-8a
-8b
-8b
-8a
-8f#
-=6
-8d
-8d
-8f#
-8a
-8cc
-8d
-=7
-8g
-8a
-8b
-8b
-8a
-8f#
-=8
-8d
-8d
-8f#
-8a
-8g
-8g}
-==
-*-
+=5	=5
+{8g	Maliny,
+8a	.
+8b	.
+8ccq	.
+8b	maliny
+8a	.
+8f#	.
+=6	=6
+8d	mali-
+8d	.
+8f#	-nowe
+8a	.
+8bq	.
+8cc	jabka,
+8d	.
+=7	=7
+8g	lepsa
+8a	.
+8b	mi
+8ccq	.
+8b	kochanka,
+8a	.
+8f#	.
+=8	=8
+8d	jak
+8d	rodzona
+8f#	.
+8a	.
+8g	matka.
+8g}	.
+==	==
+*-	*-
+!!!role-singer: Farmhand
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Cyć ja nie parobek,
+!!cyć nie umiem robić,
+!!a cyć mi nie wolno
+!!do panienek chodzić.
+!!Maliny, maliny
+!!malinowe jabka,
+!!lepsa mi kochanka,
+!!jak rodzona matka.
+!!@VERSE:
+!!2. Maliny, maliny,
+!!malinowe jabka,
+!!lepsa-ć mi kochanka
+!!jak rodzona matka.
+!!@VERSE:
+!!3. Bo-ć rodzona matka
+!!nied(ł)ugo mi żyje,
+!!a moja kochanka
+!!po świecie mi słynie.
+!!@VERSE:
+!!4. A skoro ja przysed
+!!do wielkiego miasta,
+!!zaraz'em się pytał
+!!do starego majstra.
+!!@VERSE:
+!!5. Tam gdzie majster stary
+!!a majstrowa młoda,
+!!tam-ci jest dla chłopca
+!!nálepsa wygoda.
+!!@VERSE:
+!!6. Majstrowa pościele,
+!!majstrowa nałoży,
+!!majstrowa się sama
+!!dla chłopca położy.
+!!@VERSE:
+!!7. Kto pije pomyje,
+!!a ja gorzałeckę,
+!!kto całuje tłuka,
+!!a ja kobiteckę.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=341 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 325} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 325}
 !!!page: 325
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-26
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

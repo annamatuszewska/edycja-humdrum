@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1327700002-poszedlbym_ja_na_wesele.krn
+﻿!!!!SEGMENT: DWOK1327700002-poszedlbym_ja_na_wesele.krn
 !!!OTL: Poszedłbym ja na wesele
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kostrzyna (Iwno)
+!!!AR1: wielkopolskie ; poznański ; Kostrzyn-obszar wiejski
+!!!GE1: 52.403892 , 17.271959
 !!!source: DWOK13
 !!!id: 13277
 !!!signature: 1327700002
@@ -52,7 +57,7 @@
 8cc}J	.
 !!LO:LB:g=esac
 =8	=8
-*Xtuplet	.
+*Xtuplet	*
 {16eeL	byle
 16ggJ	.
 24ff/L	kumosi
@@ -74,8 +79,7 @@
 !!byle kumosi dobrze życzyć.
 !!@@END: VERSES
 !!!role-singer: Man
-!!!role-listener: Complex
-!!!singer-sex: Male
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=301 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 277} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 277}
@@ -83,3 +87,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-16
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-23

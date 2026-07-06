@@ -1,69 +1,125 @@
-!!!!SEGMENT: DWOK1227800001-za_stodola_pszenica.krn
+﻿!!!!SEGMENT: DWOK1227800001-za_stodola_pszenica.krn
 !!!OTL: Za stodołą pszenica
+!!!FKT: Pieśni i Dumy. Strata wianka. Żale
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Szremu
+!!!AR1: wielkopolskie ; śremski ; Śrem-miasto
+!!!GE1: 52.095371 , 17.020534
 !!!source: DWOK12
 !!!id: 12278
 !!!signature: 1227800001
-**kern
-*clefG2
-*k[f#]
-*e:
-*M3/4
-=1
-{4g
-4b
-4b
-=2
-8ee
-8cc
-4a
-4cc
-=3
-4g
-4b
-4b
-=4
-8ee
-8cc
-4a
-4e}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*e:	*
+*M3/4	*
+=1	=1
+{4g	Za
+4b	stodo-
+4b	.
+=2	=2
+8ee	-łą
+8cc	pszeni-
+4a\	.
+4cc	-ca,
+=3	=3
+4g	za
+4b	pszeni-
+4b	.
+=4	=4
+8ee	-cą
+8cc	by-
+4a	-li-
+4e}	-ca.
 !!LO:LB:g=esac
-=5
-{4g
-2b
-=6
-8f#
-8f#
-4f#
-4a
-=7
-4g
-4g
-4e
-=8
-4B
-4d#
-4e}
+=5	=5
+{4g	hej
+2b	hej
+=6	=6
+8f#	romtadana
+8f#	.
+4f#	.
+4a	.
+=7	=7
+4g	da
+4g	da
+4e	da
+=8	=8
+4B	hej
+4d#	dana,
+4e}	.
 !!LO:LB:g=esac
-=9
-{4g
-2b
-=10
-8f#
-8f#
-4f#
-4a
-=11
-4g
-4g
-4e
-=12
-4B
-4d#
-4e}
-==
-*-
+=9	=9
+{4g	hej
+2b	hej
+=10	=10
+8f#	romtadana
+8f#	.
+4f#	.
+4a	.
+=11	=11
+4g	da
+4g	da
+4e	da
+=12	=12
+4B	hej
+4d#	dana.
+4e}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Maiden
+!!!role-listener: Bachelor
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Za stodołą pszenica,
+!!za pszenicą bylica*).
+!!hej hej romtadana
+!!da da da hej dana,
+!!hej hej romtadana
+!!da da da hej dana.
+!!Da żena ją ta (tam) ta Kasia,
+!!da zawołała na Jasia.
+!!hej hej romtadana
+!!da da da hej dana,
+!!hej hej romtadana
+!!da da da hej dana.
+!!@VERSE:
+!!2. Jasio jedzie na koniu,
+!!Kasince się ukłonił.
+!!hej hej romtadana
+!!da da da hej dana,
+!!hej hej romtadana
+!!da da da hej dana.
+!!Da witaj-że psie zdrajca,
+!!da coś mnie zdradził z wieńca.
+!!hej hej romtadana
+!!da da da hej dana,
+!!hej hej romtadana
+!!da da da hej dana.
+!!@VERSE:
+!!3. Wszystkie panny w tąneczku,
+!!w lewandowym wioneczku.
+!!hej hej romtadana
+!!da da da hej dana,
+!!hej hej romtadana
+!!da da da hej dana.
+!!Da a ja (sama) niebożątko,
+!!muszę kołysać dzieciątko.
+!!hej hej romtadana
+!!da da da hej dana,
+!!hej hej romtadana
+!!da da da hej dana.
+!!@@END: VERSES
+!!@@BEGIN: 
+!! @COMMENTARY:*) Bylica, obacz: pieśni Sobótkowe (Lud, Ser. II, str. 105).)
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=164 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 148} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 148}
 !!!page: 148
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

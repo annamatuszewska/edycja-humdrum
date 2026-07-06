@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1332800000-dziewczyno_przadz_jeno.krn
-!!!OTL: Dziewczyno prządź jeno
+﻿!!!!SEGMENT: DWOK1332800000-dziewczyno_przadz_jeno.krn
+!!!OTL: Dziewczyno prządź jeno. Do koła
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kostrzyna (Iwno)
+!!!AR1: wielkopolskie ; poznański ; Kostrzyn-obszar wiejski
+!!!GE1: 52.403892 , 17.271959
 !!!source: DWOK13
 !!!id: 13328
 !!!signature: 1332800000
@@ -16,7 +21,7 @@
 =2	=2
 16ddL	prządź
 16ccJ	.
-8aL	je-
+8a/L	je-
 8ddJ	-no,
 =3	=3
 8cc	nie
@@ -33,7 +38,7 @@
 8g	brzę-
 8a\	-czy,
 =6	=6
-16ddL	nie
+16dd/L	nie
 32cc	.
 32bJ	.
 8aL	będzie,
@@ -69,3 +74,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-22
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-26

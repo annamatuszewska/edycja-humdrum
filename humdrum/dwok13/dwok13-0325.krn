@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1332500000-oj_wojskowych_trzeba_kochac.krn
+﻿!!!!SEGMENT: DWOK1332500000-oj_wojskowych_trzeba_kochac.krn
 !!!OTL: Oj wojskowych trzeba kochać
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Barcina, Pakości
+!!!AR1: kujawsko-pomorskie ; żniński ; Barcin-miasto
+!!!GE1: 52.857378 , 17.941886
+!!!AR2: kujawsko-pomorskie ; inowrocławski ; Pakość-miasto
+!!!GE2: 52.807005 , 18.087691
 !!!source: DWOK13
 !!!id: 13325
 !!!signature: 1332500000
@@ -65,3 +72,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-22
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-26

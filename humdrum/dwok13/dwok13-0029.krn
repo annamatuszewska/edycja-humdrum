@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1302900000-bede_zynala_trawke_zielona.krn
+﻿!!!!SEGMENT: DWOK1302900000-bede_zynala_trawke_zielona.krn
 !!!OTL: Będę żynała trawkę zieloną
+!!!FKT: Pieśni. Miasta i Dwory. Miłość. Tęsknota
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Sierakowa (Chalin)
+!!!AR1: wielkopolskie ; międzychodzki ; Sieraków-obszar wiejski
+!!!GE1: 52.601314 , 16.040855
 !!!source: DWOK13
 !!!id: 13029
 !!!signature: 1302900000
@@ -98,8 +103,7 @@
 !!mojéj kochanéj jedynéj,
 !!mojéj kochanéj.
 !!@@END: VERSES
-!!!role-singer: Group
-!!!role-listener: Group
+!!!role-singer: Lovers
 !!!singer-sex: female, male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -108,3 +112,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-05
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-17

@@ -1,75 +1,124 @@
-!!!!SEGMENT: DWOK1241500002-na_krakowie_na_ydowie.krn
+﻿!!!!SEGMENT: DWOK1241500002-na_krakowie_na_ydowie.krn
 !!!OTL: Na Krakowie na Żydowie
+!!!FKT: Pieśni i Dumy. Dumy. Zdrada. Zabójstwo
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Jaraczewa, Książa
+!!!AR1: wielkopolskie ; jarociński ; Jaraczewo-miasto
+!!!GE1: 51.968797 , 17.297292
+!!!AR2: wielkopolskie ; śremski ; Książ Wielkopolski-miasto
+!!!GE2: 52.062403 , 17.239231
 !!!source: DWOK12
 !!!id: 12415
 !!!signature: 1241500002
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M4/4
-=1
-{4d
-4f#
-4a
-4a
-=2
-4.b
-8dd
-4cc#
-4a
-=3
-4.b
-8dd
-4cc#
-4a}
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M4/4	*
+*met(c)	*
+=1	=1
+{4d	Na
+4f#	Krakowie
+4a	.
+4a	.
+=2	=2
+4.b	na
+8dd	żydowie,
+4cc#	.
+4a\	.
+=3	=3
+4.b	na
+8dd	żydowie,
+4cc#	.
+4a\}	.
 !!LO:LB:g=esac
-=4
-{4dd
-4dd
-8dd
-8a
-4dd
-=5
-4.a
-8g
-4f#
-4d}
+=4	=4
+{4dd	pija-
+4dd	.
+8ddL	-li
+8aJ/	.
+4dd	tam
+=5	=5
+4.a	żołnierzowie,
+8g	.
+4f#	.
+4d}	.
 !!LO:LB:g=esac
-=6
-{8d
-8f#
-8a
-8b
-8a
-8f#
-8a
-8b
-=7
-8a
-8f#
-8a
-8b
-8a
-8g
-8f#
-8d}
+=6	=6
+{8d	pili,
+8f#	.
+8a	pi-
+8b/	-li
+8a	nie
+8f#	płaci-
+8a	.
+8b	-li,
+=7	=7
+8aL	ładną
+8f#J	.
+8a	pannę
+8b/	.
+8a	namówi-
+8g	.
+8f#	.
+8d}	-li,
 !!LO:LB:g=esac
-=8
-{4dd
-4dd
-4ee
-8ff#
-8dd
-=9
-4.ee
-8cc#
-4ee
-4dd}
-==
-*-
+=8	=8
+{4dd	ładną
+4dd	.
+4ee	pannę
+8ff#L	.
+8ddJ	.
+=9	=9
+4.ee	namówi-
+8cc#	.
+4ee	.
+4dd}	-li.
+==	==
+*-	*-
+!!!role-singer: Narrator, Mother, Sons
+!!!role-listener: Sons, Brother-in-law, Wife
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Na Krakowie na żydowie, na żydowie,
+!!pijali tam żołnierzowie,
+!!pili, pili nie płacili,
+!!ładną pannę namówili,
+!!ładną pannę namówili.
+!!@VERSE:
+!!2. Gdy się córka nie znajduje,
+!!matka synom obznajmuje.
+!!A wy młodzi, powstawajcie,
+!!siostry swoji doganiajcie.
+!!@VERSE:
+!!3. Ona biega po ryneczku,
+!!główka jeji już w rąbeczku.
+!!A witej-że, siostro nasza,
+!!gdzieś podziała swego Jasia?
+!!@VERSE:
+!!4. A witej-że, szwagrze młody,
+!!napijesz się z kija wody.
+!!Nie na takiéj wojnie bywał,
+!!żebym z kija wódkę pijał.
+!!@VERSE:
+!!5. Idź Kasinko do śklepicy,
+!!utocz winna trzy śklennicy.
+!!I napój ty bratów swojich,
+!!jeszcze barzy niźli mojich.
+!!@VERSE:
+!!6. Jeden go złapał za ręce,
+!!i trzyma go jak na męce;
+!!a ten drugi między oczy:
+!!nie wykradaj siostry w nocy.
+!!@VERSE:
+!!7. Niż Kasińka z sklepu przyszła,
+!!to z Jasińka dusza wyszła.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=230 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 214} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 214}
 !!!page: 214
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29

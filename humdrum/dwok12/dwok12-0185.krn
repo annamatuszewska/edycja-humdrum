@@ -1,68 +1,93 @@
-!!!!SEGMENT: DWOK1218500000-z_poniedzialku_na_swieto.krn
+﻿!!!!SEGMENT: DWOK1218500000-z_poniedzialku_na_swieto.krn
 !!!OTL: Z poniedziałku na święto
+!!!FKT: Pieśni i Dumy. Pieśni przed Weselem i wśród Wesela śpiewane
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Obornik
+!!!AR1: wielkopolskie ; obornicki ; Oborniki-miasto
+!!!GE1: 52.645833 , 16.808888
 !!!source: DWOK12
 !!!id: 12185
 !!!signature: 1218500000
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/8
-=1
-{16ee
-16ee
-8ff#
-8ee
-=2
-8dd#
-8ee
-8b
-=3
-16ee
-16ee
-8ff#
-8ee
-=4
-16dd#
-16dd#
-8ee
-8b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{8bq	.
+16ee	Z_ponie-
+16ee	.
+8ff#	-działku
+8ee	.
+=2	=2
+8dd#	na
+8ee	święto
+8b	.
+=3	=3
+16ee	furma-
+16ee	.
+8ff#	-nowi
+8ee	.
+=4	=4
+16dd#	konie
+16dd#	.
+8ee	wzięto.
+8b}	.
 !!LO:LB:g=esac
-=5
-{16b
-16dd
-8dd
-16b
-16g#
-=6
-16e
-16e
-8g#
-8a
-=7
-8b
-8dd#
-8ee}
+=5	=5
+{16b	Oj
+16ddn	zaję-
+8dd	.
+16bL	-to
+16g#J	.
+=6	=6
+16e	furma-
+16e	.
+(8g#L	-no-
+8aJ)	.
+=7	=7
+8b	-wi
+8dd#	konie,
+8ee}	.
 !!LO:LB:g=esac
-=8
-{16b
-16dd
-8dd
-16b
-16g#
-=9
-16e
-16e
-8g#
-8a
-=10
-8b
-8g#
-8a}
-==
-*-
+=8	=8
+{16b	i
+16ddn	nie
+8dd	wiedział
+16bL	.
+16g#J	.
+=9	=9
+16e	którą
+16e	.
+(>8g#L	dro-
+8aJ)	.
+=10	=10
+8b	-gą
+8g#	po
+8a}	nie.
+==	==
+*-	*-
+!!!RDF**kern: >= above
+!!!role-singer: Narrator
+!!!role-listener: Bachelor
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Z poniedziałku na święto
+!!furmanowi konie wzięto.
+!!Oj zajęto furmanowi konie,
+!!i nie wiedział którą drogą po nie.
+!!@VERSE:
+!!2. O drogę się nie pytaj,
+!!do Kicina przymykaj;
+!!od Kicina do nowego miasta,
+!!tam Kasińka parę koni pasła.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=110 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 94} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 94}
 !!!page: 94
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

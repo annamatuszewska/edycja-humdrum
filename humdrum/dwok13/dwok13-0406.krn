@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1340600000-instrumentalna-weselna.krn
-!!!OTL: Instrumentalna-Weselna
+﻿!!!!SEGMENT: DWOK1340600000-instrumentalna-weselna.krn
+!!!OTL: Instrumentalna. Weselna
+!!!FKT: Śpiewki i Tańce. Wiwaty, Tańce i Piosenki 2/4
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Dolska
+!!!AR1: wielkopolskie ; śremski ; Dolsk-miasto
+!!!GE1: 51.987105 , 17.063780
 !!!source: DWOK13
 !!!id: 13406
 !!!signature: 1340600000
@@ -72,9 +77,9 @@
 !!ciepnęłam ją w bruzdę,
 !!koniam do dom przygnała.
 !!@@END: VERSES
-!!!role-singer: Complex
-!!!role-listener: Women, Man
-!!!singer-sex: Male, Female
+!!!role-singer: Landlord, Maid
+!!!role-listener: Landlord, Maid
+!!!singer-sex: male, female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=193 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 169-170} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, pp. 169-170}
@@ -82,3 +87,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-04-08
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-16

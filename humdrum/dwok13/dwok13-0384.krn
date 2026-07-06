@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1338400000-na_kujawy_patrz_jasnienku.krn
-!!!OTL: Na Kujawy patrz Jasnieńku
+﻿!!!!SEGMENT: DWOK1338400000-na_kujawy_patrz_jasnienku.krn
+!!!OTL: Na Kujawy patrz Jasieńku. Mazur
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Inowrocławia
+!!!AR1: kujawsko-pomorskie ; inowrocławski ; Inowrocław-gmina miejska
+!!!GE1: 52.796459 , 18.261581
 !!!source: DWOK13
 !!!id: 13384
 !!!signature: 1338400000
@@ -111,7 +116,7 @@
 !!Niech tam jedzą w dzień i w nocy,
 !!popasą je czarne oczy.
 !!@@END: VERSES
-!!!role-singer: Complex
+!!!role-singer: Narrator
 !!!role-listener: Man
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -120,3 +125,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-04-03
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-15

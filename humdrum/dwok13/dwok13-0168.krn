@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1316800000-w_ty_marny_wsi_bida_wieczna.krn
+﻿!!!!SEGMENT: DWOK1316800000-w_ty_marny_wsi_bida_wieczna.krn
 !!!OTL: W ty marny wsi bida wieczna
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Rawicza, Górki
+!!!AR1: wielkopolskie ; rawicki ; Rawicz-miasto
+!!!GE1: 51.609394 , 16.858375
+!!!AR2: wielkopolskie ; rawicki ; Miejska Górka-miasto
+!!!GE2: 51.655432 , 16.956909
 !!!source: DWOK13
 !!!id: 13168
 !!!signature: 1316800000
@@ -76,9 +83,7 @@
 !!Od roboty do roboty,
 !!uwijaj się jako koty (v. jak kokoty ?)
 !!@@END: VERSES
-!!!role-singer: Complex
-!!!role-listener: Complex
-!!!singer-sex: Complex
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=115 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 91} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 91}
@@ -86,3 +91,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-27
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-13

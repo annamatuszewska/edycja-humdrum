@@ -1,14 +1,15 @@
-!!!!SEGMENT: DWOK4124600002-instrumentalna.krn
+!!!!SEGMENT: DWOK4124600001-instrumentalna.krn
 !!!OTL: Instrumentalna
 !!!source: DWOK41
 !!!id: 41246
-!!!signature: 4124600002
+!!!signature: 4124600001
 **kern
 *clefG2
 *k[f#]
 *G:
 *M3/4
 =1
+!LO:TUP:a
 {12a\L
 12b
 12ccJ
@@ -20,8 +21,9 @@
 8ddL
 8ff#J
 4ee
-4b
+4b\
 =3
+!LO:TUP:a
 12a\L
 12b
 12ccJ
@@ -37,6 +39,7 @@
 4g}M
 !!LO:LB:g=esac
 =5
+!LO:TUP:a
 {12a\L
 12b
 12ccJ
@@ -45,14 +48,15 @@
 8cc
 8d\J
 =6
-8f#\l
+8f#\L
 8g\
 8b
 8a\
 8b
-8ddj
+8ddJ
 =7
-12a\l
+!LO:TUP:a
+12a\L
 12b
 12ccJ
 8eeL
@@ -73,3 +77,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-04-14
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-17

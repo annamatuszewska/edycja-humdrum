@@ -1,92 +1,121 @@
-!!!!SEGMENT: DWOK1211000000-zasiala_ja_rozmaryniek.krn
+﻿!!!!SEGMENT: DWOK1211000000-zasiala_ja_rozmaryniek.krn
 !!!OTL: Zasiała ja rozmaryniek
+!!!FKT: Pieśni i Dumy. Pieśni przed Weselem i wśród Wesela śpiewane
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kobylina (Targoszyce)
+!!!AR1: wielkopolskie ; krotoszyński ; Kobylin-obszar wiejski
+!!!GE1: 51.762910 , 17.270700
 !!!source: DWOK12
 !!!id: 12110
 !!!signature: 1211000000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16b
-8dd
-8dd
-=2
-16dd
-16ee
-8cc
-8ee
-=3
-16dd
-16b
-8g
-8a
-=4
-8f#
-4d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Zasiała
+16b	.
+8dd	.
+8dd	ja
+=2	=2
+16dd	rozmaryniek,
+16ee	.
+8cc	.
+8ee	.
+=3	=3
+16ddL	on
+16bJ	.
+8g	ładnie
+8a	.
+=4	=4
+8f#	wschodzi,
+4d}	.
 !!LO:LB:g=esac
-=5
-{16g
-16b
-8dd
-8dd
-=6
-16dd
-16ee
-8cc
-8ee
-=7
-16dd
-16b
-8g
-8a
-=8
-8f#
-4d}
+=5	=5
+{16g	pisała
+16b	.
+8dd	.
+8dd	ja
+=6	=6
+16dd	do
+16ee	kochanka,
+8cc	.
+8ee	.
+=7	=7
+16ddL	on
+16bJ	.
+8g	nie
+8a	przy-
+=8	=8
+8f#	-chodzi.
+4d}	.
 !!LO:LB:g=esac
-=9
-{16g
-16e
-8e
-8d
-=10
-16f#
-16a
-8g
-8b
-=11
-16g
-16e
-8e
-8d
-=12
-16f#
-16a
-8g
-8b}
+=9	=9
+{16g	A
+16e	czy
+8e	przydzie,
+8d	.
+=10	=10
+16f#	czy
+16a	nie
+8g	przydzie,
+8b	.
+=11	=11
+16g	rozmaryniek
+16e	.
+8e	.
+8d	.
+=12	=12
+16f#	ładnie
+16a	.
+8g	idzie,
+8b}	.
 !!LO:LB:g=esac
-=13
-{16b
-16g
-8g
-8a
-=14
-8f#
-4d
-=15
-16b
-16g
-8g
-8a
-=16
-8f#
-4d}
-==
-*-
+=13	=13
+{16bL	a
+16gJ\	.
+8g	ładnie
+8a	.
+=14	=14
+8f#	idzie.
+4d	.
+=15	=15
+16bL	a
+16gJ/	.
+8g	ładnie
+8a	.
+=16	=16
+8f#	idzie.
+4d}	.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Zasiała ja rozmaryniek,
+!!on ładnie wschodzi,
+!!pisała ja do kochanka,
+!!on nie przychodzi.
+!!A czy przydzie, czy nie przydzie,
+!!rozmaryniek ładnie idzie,
+!!a ładnie idzie (wschodzi).
+!!@VERSE:
+!!2. Rozmaryniek dla panienek,
+!!dla mężatków kwiatki,
+!!a dla wdowów pindyrynda (bella-donna)
+!!dla babek żabki.
+!!A czy przydzie, czy nie przydzie,
+!!rozmaryniek ładnie idzie,
+!!a ładnie idzie.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=70 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 54-55} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 54-55}
 !!!page: 54-55
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-02-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-07

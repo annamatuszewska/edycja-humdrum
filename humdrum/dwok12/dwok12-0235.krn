@@ -1,91 +1,126 @@
-!!!!SEGMENT: DWOK1223500000-o_wy_matusiu_wy_moja.krn
+﻿!!!!SEGMENT: DWOK1223500000-o_wy_matusiu_wy_moja.krn
 !!!OTL: O wy matusiu, wy moja
+!!!FKT: Pieśni i Dumy. Skarga. Niechęć. Rozstanie
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Środy (Dębicz)
+!!!AR1: wielkopolskie ; średzki ; Środa Wielkopolska-obszar wiejski
+!!!GE1: 52.265702 , 17.311801
 !!!source: DWOK12
 !!!id: 12235
 !!!signature: 1223500000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8.a
-16gg
-8ee
-8dd
-4b
-=2
-4dd
-4ee
-8cc
-16a
-16r
-=3
-8.a
-16gg
-8ee
-8dd
-4b
-=4
-4b
-4a
-8f#
-16d}
-16r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8.a	O
+16gg	wy
+8ee	matusiu,
+8dd	.
+4b	.
+=2	=2
+4dd	wy
+4ee	moja,
+(8ccL	.
+16aJ),	.
+16r	.
+=3	=3
+8.a	mówcie
+16gg	.
+8ee	wy
+8dd	swemu
+4b	.
+=4	=4
+4b	syno-
+4a	.
+8f#L	-wi,
+16dJ}	.
+16r	.
 !!LO:LB:g=esac
-=5
-{8.d
-16f#
-8a
-8a
-4b
-=6
-4b
-4dd
-8cc
-16a
-16r
-=7
-8.a
-16f#
-8a
-8cc
-4b
-=8
-4g
-4a
-8f#
-16d}
-16r
+=5	=5
+{8.d	niech
+16f#	do
+8a	gościńca
+8a	.
+4b	.
+=6	=6
+4b	nie
+4dd	chodzi,
+8ccL	.
+16aJ	.
+16r	.
+=7	=7
+8.a	i
+16f#	moji
+8a	.
+8cc	córki
+4b	.
+=8	=8
+4g	nie
+4a	łudzi,
+8f#L	.
+16dJ}	.
+16r	.
 !!LO:LB:g=esac
-=9
-{8.d
-16f#
-8a
-8a
-4b
-=10
-4b
-4dd
-8cc
-16a
-16r
-=11
-8.a
-16f#
-8a
-8cc
-4b
-=12
-4g
-4a
-8f#
-16g}
-16r
-==
-*-
+=9	=9
+{8.d	niech
+16f#	do
+8a	gościńca
+8a	.
+4b	.
+=10	=10
+4b	nie
+4dd	chodzi,
+8ccL	.
+16aJ	.
+16r	.
+=11	=11
+8.a	i
+16f#	moji
+8a	.
+8cc	córki
+4b	.
+=12	=12
+4g	nie
+4a	łudzi.
+(8f#L	.
+16gJ)}	.
+16r	.
+==	==
+*-	*-
+!!!role-singer: Daughter, Mother
+!!!role-listener: Mother
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. O wy matusiu, wy moja,
+!!mówcie wy swemu synowi,
+!!niech do gościńca nie chodzi,
+!!i moji córki nie ludzi,
+!!niech do gościńca nie chodzi,
+!!i moji córki nie ludzi.
+!!@VERSE:
+!!2. Bo moja córka sierota,
+!!ma óna wianek ze złota.
+!!Ona-ć z nim chodzić nie będzie,
+!!jak go obłudnik zdobędzie,
+!!Ona-ć z nim chodzić nie będzie,
+!!jak go obłudnik zdobędzie.
+!!@VERSE:
+!!3. Ona uboga, a ón pan,
+!!niech sobie szuka jak ón sam.
+!!Niech sobie szuka we złocie,
+!!Niech i (jéj) da pokój, sierocie,
+!!Niech sobie szuka we złocie,
+!!Niech i (jéj) da pokój, sierocie.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=140 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 124-125} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 124-125}
 !!!page: 124-125
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

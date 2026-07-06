@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1321600000-a_kazal_mi_ksiadz.krn
+﻿!!!!SEGMENT: DWOK1321600000-a_kazal_mi_ksiadz.krn
 !!!OTL: A kazał mi ksiądz
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kurnika
+!!!AR1: wielkopolskie ; poznański ; Kórnik-miasto
+!!!GE1: 52.248594 , 17.089676
 !!!source: DWOK13
 !!!id: 13216
 !!!signature: 1321600000
@@ -73,6 +78,7 @@
 !!A ja mała ogęziała,
 !!nimogę sie zgiąć.
 !!@@END: VERSES
+!!!role-singer: Parishioners
 !!!singer-sex: male, female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -81,3 +87,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-05
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-13

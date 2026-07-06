@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1317400000-a_czemu_to_konie_moje.krn
+﻿!!!!SEGMENT: DWOK1317400000-a_czemu_to_konie_moje.krn
 !!!OTL: A czemu to konie moje
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Leszna (Machcin)
+!!!AR1: wielkopolskie ; kościański ; Śmigiel-obszar wiejski
+!!!GE1: 51.962163 , 16.437410
 !!!source: DWOK13
 !!!id: 13174
 !!!signature: 1317400000
@@ -110,7 +115,7 @@
 !!do wrót zajéżdżał, zajéżdżał.
 !!@@END: VERSES
 !!!role-singer: Lover
-!!!role-listener: Complex
+!!!role-listener: Complex, Horse
 !!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -119,3 +124,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-27
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-03

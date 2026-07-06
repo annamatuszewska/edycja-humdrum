@@ -1,5 +1,7 @@
-!!!!SEGMENT: DWOK1311200001-mila_cieszmy_sie_nadzieja.krn
+﻿!!!!SEGMENT: DWOK1311200001-mila_cieszmy_sie_nadzieja.krn
 !!!OTL: Miłą cieszmy się nadzieją
+!!!FKT: Pieśni. Miasta i Dwory. Stany. Rody
+!!!REG: Wielkie Księstwo Poznańskie
 !!!source: DWOK13
 !!!id: 13112
 !!!signature: 1311200001
@@ -104,9 +106,8 @@
 !!nadewszystko owo sławne
 !!staropolskie: kochajmy się!
 !!@@END: VERSES
-!!!role-singer: Complex
+!!!role-singer: Narrator
 !!!role-listener: Group
-!!!singer-sex: Complex
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=88 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 64} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 64}
@@ -114,3 +115,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-19
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-27

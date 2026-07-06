@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1338600000-instrumentalna-mazur.krn
-!!!OTL: Instrumentalna-Mazur
+﻿!!!!SEGMENT: DWOK1338600000-instrumentalna-mazur.krn
+!!!OTL: Instrumentalna. Mazur
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gniewkowa, Raciążka
+!!!AR1: kujawsko-pomorskie ; inowrocławski ; Gniewkowo-miasto
+!!!GE1: 52.892787 , 18.408568
+!!!AR2: kujawsko-pomorskie ; aleksandrowski ; Raciążek-gmina wiejska
+!!!GE2: 52.857593 , 18.808149
 !!!source: DWOK13
 !!!id: 13386
 !!!signature: 1338600000
@@ -19,8 +26,9 @@
 =2
 16dd#L
 16ff#J
-8eeL
-8g#J
+!LO:TX:t=P:problem=mixed beam
+8ee\L
+8g#/J
 =3
 16.a\L
 32cc#
@@ -90,3 +98,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-04-03
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-15

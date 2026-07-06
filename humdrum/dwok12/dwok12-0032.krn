@@ -1,72 +1,102 @@
-!!!!SEGMENT: DWOK1203200000-gdym_ja_jachal_do_krakowa.krn
+﻿!!!!SEGMENT: DWOK1203200000-gdym_ja_jachal_do_krakowa.krn
 !!!OTL: Gdym ja jachał do Krakowa
+!!!FKT: Pieśni i Dumy. Miłość. Pieśni zalotne
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: Wieleń
+!!!AR1: wielkopolskie ; czarnkowsko-trzcianecki ; Wieleń-miasto
+!!!GE1: 52.888563 , 16.167865
 !!!source: DWOK12
 !!!id: 12032
 !!!signature: 1203200000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8a
-8cc
-8ee
-8ee
-=2
-8dd
-8b
-8g
-8g
-=3
-8f#
-8a
-8d
-8d
-=4
-4g
-4dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8a	Gdym
+8cc	ja
+8ee	jachał
+8ee	.
+=2	=2
+8dd	do
+8b	Krakowa,
+8g	.
+8g	.
+=3	=3
+8f#	dziewcyna
+8a	.
+8d	.
+8d	mak
+=4	=4
+4g	sieje.
+4dd}	.
 !!LO:LB:g=esac
-=5
-{8a
-8cc
-8ee
-8ee
-=6
-8dd
-16dd
-16b
-8g
-8g
-=7
-8f#
-8a
-8d
-8d
-=8
-4g
-4dd}
+=5	=5
+{8a	Gdym
+8cc	ja
+8ee	jachał
+8ee	.
+=6	=6
+8ddL	do
+16dd	Krakowa,
+16bJ/	.
+8g	.
+8g	.
+=7	=7
+8f#	dziewcyna
+8a	.
+8d	.
+8d	mak
+=8	=8
+4g	sieje.
+4dd}	.
 !!LO:LB:g=esac
-=9
-{8a
-8cc
-4cc
-=10
-8dd
-8b
-4b
-=11
-8f#
-8a
-8d
-8d
-=12
-4g
-4g}
-==
-*-
+=9	=9
+{8a	Hi
+8cc	ha
+4cc	ha,
+=10	=10
+8dd	hi
+8b	ha
+4b	ha,
+=11	=11
+8f#	a
+8a	ona
+8d	.
+8d	się
+=12	=12
+4g	śmieje.
+4g}	.
+==	==
+*-	*-
+!!!role-singer: Lover
+!!!role-listener: Group
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:Gdym ja jachał do Krakowa,  
+!!dziewcyna mak sieje. 
+!!Hi ha ha, hi ha ha, 
+!!a ona się śmieje.
+!!@VERSE:Gdy ja jachał do Krakowa 
+!!dziewcę siano grabi,
+!!mówię do nij: scęść ci Boze!
+!!a öna się kładzi.
+!!@VERSE:Trüdno w świecie czarny śniég
+!!i o białą wrönę,
+!!jesce trödnij tu we świecie
+!!o poćciwą zönę.
+!!@VERSE:Zebyś böła tak poćciwa
+!!jak uroda twoja,
+!!to juzbym cie dawno mioł,
+!!juz byś böła moja.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=32 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 16} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 16}
 !!!page: 16
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-13-02
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

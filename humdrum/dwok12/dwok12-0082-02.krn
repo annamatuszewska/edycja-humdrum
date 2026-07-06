@@ -1,76 +1,120 @@
-!!!!SEGMENT: DWOK1208200002-moja_pani_matko_goscie_jada.krn
+﻿!!!!SEGMENT: DWOK1208200002-moja_pani_matko_goscie_jada.krn
 !!!OTL: Moja pani matko goście jadą
+!!!FKT: Pieśni i Dumy. Chęć ożenku. Wymówka
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Zerkowa
+!!!AR1: wielkopolskie ; jarociński ; Żerków-miasto
+!!!GE1: 52.068386 , 17.563327
 !!!source: DWOK12
 !!!id: 12082
 !!!signature: 1208200002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16a
-8b
-8cc
-=2
-4dd
-8cc
-=3
-16a
-16f#
-8a
-8b
-=4
-4g}
-8r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Gra w Murzawca.	!
+{16g	Moja
+16a	.
+8b	pani
+8cc	.
+=2	=2
+4dd	matko
+8cc	.
+=3	=3
+16aL	goście
+16f#J	.
+8a\	.
+8b\	ja-
+=4	=4
+4g}	-dą!
+8r	.
 !!LO:LB:g=esac
-=5
-{16b
-16cc
-16a
-16g
-16a
-16cc
-=6
-8ee
-8dd
-8dd
-=7
-16b
-16cc
-16a
-16f#
-16a
-16b
-=8
-8g
-8d
-8d}
+=5	=5
+{16bL	Murawiec
+16ccJ/	.
+16aL	.
+16f#J	.
+16aL	.
+16ccJ/	.
+=6	=6
+8ee	na
+8dd	przodku,
+8dd	.
+=7	=7
+16bL	je-
+16ccJ/	.
+16aL	-go
+16f#J	.
+16aL	brat
+16bJ	.
+=8	=8
+8g	w pośrodku,
+8d	.
+8d}	.
 !!LO:LB:g=esac
-=9
-{16g
-16a
-8b
-8cc
-=10
-4dd
-8cc
-=11
-16a
-16f#
-16a
-16f#
-16a
-16b
-=12
-4g}
-8r
-==
-*-
-!!!ONB: Gra w Morawca
+=9	=9
+{16g	a
+16a	mój
+8b	najmi-
+8cc	.
+=10	=10
+8eeq	.
+4dd	-lejszy
+8cc	.
+=11	=11
+16aL	na
+16f#J	.
+16aL	o-
+16f#J	.
+16aL	-stat-
+16bJ	.
+=12	=12
+4g}	-ku.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Mistress
+!!!role-listener: Mother
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:Moją pani matko: goście jadą!
+!!Murawiec na przodka,
+!!jego brat pośrodku,
+!!a mój najmilejszy na ostatku.
+!!@VERSE:Moja pani matko, cóż będą jedli?
+!!Murzawiec kurzynę,
+!!jego brat gęsinę,
+!!a mój najmilejszy kapłoninę.
+!!@VERSE:Moja pani matko, cóż będą pili?
+!!Murzawiec piweczko,
+!!jego brat gorzałeckę,
+!!a mój najmilejszy winneczko.
+!!@VERSE:Moja pani matko, gdzież będą spali?
+!!Murzawiec za piecem,
+!!jego brat przed piecem,
+!!a mój najmilejszy na łóżeczku.
+!!@VERSE:Moja pani matko, coż im się pościele?
+!!Murzawiec kieczczysko (sukmana),
+!!jego brat mieszysko (worek)
+!!a mój najmilejszy prześciradło.
+!!@VERSE:Moja pani matko, cóż im pod głowy?
+!!Murzawiec bucisko,
+!!jego brat czapczysko,
+!!a mój najmilejszy poduszeczkę.
+!!@VERSE:Moja pani matko, czém się naodzieją?
+!!Murzawiec kieczczyskiem.
+!!jego brat pludrzyskiem,
+!!a mój najmilejszy pierzyneczką.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=53 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 37} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 37}
 !!!page: 37
+!!!BEM: Gra w Morawca
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-02-21
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

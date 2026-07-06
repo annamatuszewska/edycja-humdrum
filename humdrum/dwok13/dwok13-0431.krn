@@ -1,5 +1,7 @@
-!!!!SEGMENT: DWOK1343100000-hej_goscinna_do_jasnego.krn
+﻿!!!!SEGMENT: DWOK1343100000-hej_goscinna_do_jasnego.krn
 !!!OTL: Hej gościnna do jasnego
+!!!FKT: Pieśni. Miasta i Dwory. Wiwaty. Karczma. Taniec
+!!!REG: Wielkie Księstwo Poznańskie
 !!!source: DWOK13
 !!!id: 13431
 !!!signature: 1343100000
@@ -62,7 +64,7 @@
 =12	=12
 16a\	w_czubie
 16a\	.
-8b	szmerze
+8b	szmerze;
 8g}	.
 !!LO:LB:g=esac
 =13	=13
@@ -179,11 +181,13 @@
 !!jak ryba bez wody.
 !!@@END: VERSES
 !!!role-singer: Narrator
-!!!ONB: Hulanka
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=208 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 184} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 184}
 !!!page: 184
+!!!BEM: Hulanka
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-04-09
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-16

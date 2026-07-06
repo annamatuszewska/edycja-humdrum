@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1305800001-ach_boze_ach_boze_coz_ja_teraz_znacze.krn
+﻿!!!!SEGMENT: DWOK1305800001-ach_boze_ach_boze_coz_ja_teraz_znacze.krn
 !!!OTL: Ach Boże ach Boże cóz ja teraz znaczę
+!!!FKT: Pieśni. Miasta i Dwory. Miłość. Tęsknota
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: Szrem
+!!!AR1: wielkopolskie ; śremski ; Śrem-miasto
+!!!GE1: 52.095371 , 17.020534
 !!!source: DWOK13
 !!!id: 13058
 !!!signature: 1305800001
@@ -34,8 +39,8 @@
 4cc	-pomnę
 8cc	.
 =7	=7
-16cc	to
-16ee	sobie
+16ee/L	to
+16eeJ	sobie
 8dd	.
 8a	za-
 =8	=8
@@ -51,10 +56,10 @@
 4gg	nieraz
 8gg	.
 =11	=11
-16gg	i
-16ff#	nie
-8ee	tysiąc
-8dd	.
+16bb/L	i
+16aaJ	nie
+8gg/L	tysiąc
+8ff#J	.
 =12	=12
 8ff#	razy,
 4ee}	.
@@ -65,8 +70,10 @@
 8ff#	.
 8ee	roz-
 =14	=14
-4dd	-pomnę
-8b	.
+16ee/L	-pomnę
+16dd/J	.
+8gg/L	.
+8b/J	.
 =15	=15
 16ee	kochanka
 16dd	.
@@ -122,3 +129,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-11
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-24

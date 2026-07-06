@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1300400000-terazniejsze_swiata_zadze.krn
+﻿!!!!SEGMENT: DWOK1300400000-terazniejsze_swiata_zadze.krn
 !!!OTL: Teraźniejsze świata żądze
+!!!FKT: Pieśni. Miasta i Dwory. Świat. Los
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Torunia, Włocławka
+!!!AR1: kujawsko-pomorskie ; m. Toruń ; Toruń-gmina miejska
+!!!GE1: 53.012953 , 18.605666
+!!!AR2: kujawsko-pomorskie ; m. Włocławek ; Włocławek-gmina miejska
+!!!GE2: 52.657215 , 19.063302
 !!!source: DWOK13
 !!!id: 13004
 !!!signature: 1300400000
@@ -111,9 +118,6 @@
 !!Teraźniejszy chłopców szał, 
 !!brać z pieniędzmi co Bóg dał.
 !!@@END: VERSES
-!!!role-singer: Brother
-!!!role-listener: Brother
-!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=28 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 4} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 4}
@@ -121,3 +125,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-01-31
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-17

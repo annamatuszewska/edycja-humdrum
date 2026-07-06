@@ -1,5 +1,7 @@
-!!!!SEGMENT: DWOK1302700000-powiedzze_mi_ma_dziewczyno.krn
+﻿!!!!SEGMENT: DWOK1302700000-powiedzze_mi_ma_dziewczyno.krn
 !!!OTL: Powiedzże mi ma dziewczyno
+!!!FKT: Pieśni. Miasta i Dwory. Miłość. Tęsknota
+!!!REG: Wielkie Księstwo Poznańskie
 !!!source: DWOK13
 !!!id: 13027
 !!!signature: 1302700000
@@ -109,3 +111,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-04
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-17

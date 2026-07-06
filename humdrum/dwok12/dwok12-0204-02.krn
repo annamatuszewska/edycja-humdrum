@@ -1,112 +1,152 @@
-!!!!SEGMENT: DWOK1220400002-zebys_ty_wiedziala_kochaneczko_moja.krn
-!!!OTL: żebyś ty wiedziała kochaneczko moja
+﻿!!!!SEGMENT: DWOK1220400002-zebys_ty_wiedziala_kochaneczko_moja.krn
+!!!OTL: żebyś ty wiedziała kochaneczko moja. Przodek
+!!!FKT: Pieśni i Dumy. Stałość. Życzliwość. Wymówka
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Margonina
+!!!AR1: wielkopolskie ; chodzieski ; Margonin-miasto
+!!!GE1: 52.973387 , 17.094417
 !!!source: DWOK12
 !!!id: 12204
 !!!signature: 1220400002
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{8e
-8ee
-8ee
-8ee
-8dd
-8cc
-=2
-8b
-8dd
-8dd
-16cc
-16b
-8ee
-16dd
-16cc
-=3
-8a
-8cc
-4ee
-4cc
-=4
-8b
-8g#
-4a
-4e}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+!!LO:TX:a:t=Przodek*).
+{8e	Żebyś
+8ee	.
+8ee	ty
+8ee	wiedziała,
+8dd	.
+8cc	.
+=2	=2
+8b	kochaneczko
+8dd	.
+8ddL	.
+16cc	.
+16bJ/	.
+8eeL	moja,
+16dd	.
+16ccJ/	.
+=3	=3
+8a\	com
+8cc	ja
+4ee	tobie
+8ddq	.
+4cc	.
+=4	=4
+8b	nie
+8g#	powiedział.
+4a	.
+4e}	.
 !!LO:LB:g=esac
-=5
-{8e
-8dd
-8dd
-8dd
-8b
-8g#
-=6
-8b
-8dd
-8a
-8cc
-8b
-8g#
-=7
-8a
-8cc
-4ee
-4cc
-=8
-8b
-8g#
-4a
-4e}
+=5	=5
+{8e	Jakie
+8dd	.
+8dd	moje
+8dd	.
+8b	serce
+8g#	.
+=6	=6
+8b	wtenczas
+8dd	.
+8a\	smutne
+8cc	.
+8b	było,
+8g#	.
+=7	=7
+8a	kiedym
+8cc	.
+4ee	kole
+4cc	.
+=8	=8
+8b	ciebie
+8g#	.
+4a	siedział.
+4e}	.
 !!LO:LB:g=esac
-=9
-{8e
-8dd
-8dd
-8dd
-8b
-8g#
-=10
-8b
-8dd
-8a
-8cc
-8b
-8g#
-=11
-8a
-8cc
-4ee
-4cc
-=12
-8b
-8g#
-4a
-4e}
+=9	=9
+{8e	Jakie
+8dd	.
+8dd	moje
+8dd	.
+8b	serce
+8g#	.
+=10	=10
+8b	wtenczas
+8dd	.
+8a\	smutne
+8cc	.
+8b	było,
+8g#	.
+=11	=11
+8a	kiedym
+8cc	.
+4ee	kole
+4cc	.
+=12	=12
+8b	ciebie
+8g#	.
+4a	siedział.
+4e}	.
 !!LO:LB:g=esac
-=13
-{4e
-4e
-4e
-=14
-8e
-8g#
-4a
-4e
-=15
-4e
-4e
-4e
-=16
-8e
-8g#
-4a
-4cc}
-==
-*-
+=13	=13
+{4e	.
+4e	.
+4e	.
+=14	=14
+8eL	.
+8g#J	.
+4a\	.
+4e\	.
+=15	=15
+4e	.
+4e	.
+4e	.
+=16	=16
+8eL	.
+8g#J	.
+4a	.
+4cc/}	.
+==	==
+*-	*-
+!!!role-singer: Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Żebyś ty wiedziała, kochaneczko moja,
+!!com ja tobie nie powiedział,
+!!jakie moje serce wtenczas smutne było,
+!!kiedym kole ciebie siedział.
+!!@VERSE:
+!!2. Da przy tobiem siedział, — i do ciebiem gadał,
+!!tyś się do mnie nie rozśmiała, —
+!!rączke'ś mi swą sjena (zjęła). móją'ś mi strząsnęła,
+!!a z inszemi'ś rozmawiała.
+!!@VERSE:
+!!3. Żebyś ty był wiedział, kiejś przy innéj siedział,
+!!jakie moje żale były,
+!!tobyś się użalił, bo serce m(oj)e było
+!!jakby go miecze przebiły,
+!!tobyś się użalił, bo serce m(oj)e było
+!!jakby go miecze przebiły.
+!!Powiadam ci szczerze, że już mię chęć bierze,
+!!i kocham cię nad swe życie.
+!!@@END: VERSES
+!!@@BEGIN: 
+!! @COMMENTARY:*)Śpiewana w czasie tańca, gdy w jednéj parze tancerzy chłop idzie z dziewką, a ta mu się około głowy obwija.
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=121 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 105} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 105}
 !!!page: 105
+!!!BEM: Przodek
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ONB@texture: Only voice or instrument is playing at a time
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

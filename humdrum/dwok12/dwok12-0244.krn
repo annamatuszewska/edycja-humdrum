@@ -1,90 +1,120 @@
-!!!!SEGMENT: DWOK1224400000-a_czy_ja_spie_czy_ja_jade.krn
+﻿!!!!SEGMENT: DWOK1224400000-a_czy_ja_spie_czy_ja_jade.krn
 !!!OTL: A czy ja śpię, czy ja jadę
+!!!FKT: Pieśni i Dumy. Skarga. Niechęć. Rozstanie
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kostrzyna (Siekierki)
+!!!AR1: NIE ; NIE ; NIE
+!!!GE1: 52.383122 , 17.155401
 !!!source: DWOK12
 !!!id: 12244
 !!!signature: 1224400000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16b
-8dd
-8ee
-=2
-8ee
-8dd
-16cc#
-16a
-=3
-16cc
-16ee
-8cc
-16a
-16b
-=4
-4g}
-8r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	A
+16b	czy
+8dd	ja
+8ee	śpię,
+=2	=2
+8ee	czy
+8dd	ja
+16cc#	jadę,
+16a\	.
+=3	=3
+16ccn	czy
+16ee	u
+8cc	ro-
+16aL	-bo-
+16bJ\	.
+=4	=4
+4g}	-ty,
+8r	.
 !!LO:LB:g=esac
-=5
-{16g
-16b
-8dd
-8ee
-=6
-8ee
-8dd
-16cc#
-16a
-=7
-16cc
-16ee
-8cc
-16a
-16b
-=8
-4g}
-8r
+=5	=5
+{16g	a
+16b	mom
+8dd	ci
+8ee	ja,
+=6	=6
+8ee	dziewczę
+8dd	.
+16cc#	moje,
+16a\	.
+=7	=7
+16ccn	o
+16ee	cię
+8cc	chłopo-
+16aL	.
+16bJ\	.
+=8	=8
+4g}	-ty.
+8r	.
 !!LO:LB:g=esac
-=9
-{16.a
-32cc
-8d
-16f#
-16a
-=10
-8g
-8b
-16dd
-16cc#
-=11
-16.a
-32cc
-8d
-16f#
-16a
-=12
-8g
-8b
-16dd
-16cc#}
+=9	=9
+{16.a\	Piérsze
+32cc	.
+8d	sta-
+16f#L	-nie,
+16aJ	.
+=10	=10
+8g	oddechnie-
+8b	.
+16dd	.
+16cc#	-nie,
+=11	=11
+16.a\	i
+32cc	o
+8d	to-
+16f#L	-bie
+16aJ	.
+=12	=12
+8g	pomy-
+8b	.
+16dd	-ślenie,
+16cc#}	.
 !!LO:LB:g=esac
-=13
-{16a
-16cc
-16dd
-16cc
-16a
-16b
-=14
-4g}
-8r
-==
-*-
+=13	=13
+{16a\	rad-
+16ccn	-bym
+16ddL	cię
+16ccJ	.
+16aL	wi-
+16bJ\	.
+=14	=14
+4g}	-dział.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!role-listener: Maiden
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. A czy ja śpię, czy ja jadę,
+!!czy u roboty,
+!!a mom ci-ć ja, dziewcze moja,
+!!o cię chłopoty.
+!!Piérsze stanie, oddechnienie,
+!!i o tobie pomyślenie,
+!!radbym cię widział.
+!!@VERSE:
+!!2. Widziałem cię, dziéwcze moje,
+!!w świętym kościele,
+!!a miło mi na cię spojzdrzyć,
+!!choć innych wiele.
+!!A mówię ja pacierze,
+!!do ciebie mię chęć bierze,
+!!(w)zdycham serdecznie.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=146 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 130} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 130}
 !!!page: 130
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

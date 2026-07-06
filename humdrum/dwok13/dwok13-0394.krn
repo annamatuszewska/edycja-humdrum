@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1339400000-instrumentalna-chodzony.krn
-!!!OTL: Instrumentalna-Chodzony
+﻿!!!!SEGMENT: DWOK1339400000-instrumentalna-chodzony.krn
+!!!OTL: Instrumentalna. Chodzony
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Inowrocławia
+!!!AR1: kujawsko-pomorskie ; inowrocławski ; Inowrocław-gmina miejska
+!!!GE1: 52.796459 , 18.261581
 !!!source: DWOK13
 !!!id: 13394
 !!!signature: 1339400000
@@ -152,3 +157,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-04-03
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-15

@@ -1,86 +1,115 @@
-!!!!SEGMENT: DWOK1207400000-przede_dworem_zieleni_sie_trawa.krn
+﻿!!!!SEGMENT: DWOK1207400000-przede_dworem_zieleni_sie_trawa.krn
 !!!OTL: Przede dworem zieleni się trawa
+!!!FKT: Pieśni i Dumy. Miłość. Pieśni zalotne
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Szremu, Kościana
+!!!AR1: wielkopolskie ; śremski ; Śrem-miasto
+!!!GE1: 52.095371 , 17.020534
+!!!AR2: wielkopolskie ; kościański ; Kościan-gmina miejska
+!!!GE2: 52.085881 , 16.644239
 !!!source: DWOK12
 !!!id: 12074
 !!!signature: 1207400000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16b
-8dd
-8dd
-=2
-16dd
-16ee
-8.dd
-16a
-=3
-8cc
-4b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Przede
+16b	.
+8dd	dworem
+8dd	.
+=2	=2
+16dd	zieleni
+16ee	.
+8.dd	.
+16a	się
+=3	=3
+8cc	trawa,
+4b}	.
 !!LO:LB:g=esac
-=4
-{16g
-16b
-8dd
-8dd
-=5
-16dd
-16ee
-8.dd
-16a
-=6
-8cc
-4b}
+=4	=4
+{16g	Przede
+16b	.
+8dd	dworem
+8dd	.
+=5	=5
+16dd	zieleni
+16ee	.
+8.dd	.
+16a	się
+=6	=6
+8cc	trawa,
+4b}	.
 !!LO:LB:g=esac
-=7
-{4dd
-8b
-=8
-4g
-8d
-=9
-4a
-8cc
-=10
-4ee
-8dd
-=11
-16dd
-16cc
-8a
-8f#
-=12
-8g
-4d}
+=7	=7
+{4dd	pasła
+8b	.
+=8	=8
+4g	panna
+8d	.
+=9	=9
+4a\	pasła
+8cc	.
+=10	=10
+4ee	panna
+8dd	.
+=11	=11
+16dd	prześlicznego
+16cc	.
+8a\	.
+8f#\	.
+=12	=12
+8g	pawa.
+4d}	.
 !!LO:LB:g=esac
-=13
-{4dd
-8b
-=14
-4g
-8d
-=15
-4a
-8cc
-=16
-4ee
-8dd
-=17
-16dd
-16cc
-8a
-8b
-=18
-8g
-4g}
-==
-*-
+=13	=13
+{4dd	pasła
+8b	.
+=14	=14
+4g	panna
+8d	.
+=15	=15
+4a\	pasła
+8cc\	.
+=16	=16
+4ee	panna
+8dd	.
+=17	=17
+16dd	prześlicznego
+16cc	.
+8aL	.
+8bJ	.
+=18	=18
+8g	pawa.
+4g}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Young Girl
+!!!singer-sex: female, complex
+!!@@BEGIN: VERSES
+!!@VERSE:Przede dworem — zieleni się trawa, (:)
+!!pasła panna — prześlicznego pawa. (:)
+!!@VERSE:Wycięna go — pod skrzydło niechcący, (:)
+!!uciék pawik — do lasa krzyczący. (:)
+!!@VERSE:Kasia za nim — ścieszką bez zagony,
+!!wpadła w rzéczkę — zmaczała spódniczkę.
+!!@VERSE:Choćbym ja się — do pasa zmaczała,
+!!bylem swego — pawika dostała.
+!!@VERSE:A ón ji się — zacząn ładnie prosić,
+!!żeby dała — swoją łączkę kosić.
+!!@VERSE:A ktoby chciał — moją łączkę sprzątać,
+!!to musi (w)przód — pieniążkami brząkać.
+!!@VERSE:A ktoby chciał — moją łączkę kosić,
+!!to musi przód — ojca, matkę prosić.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=50 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 34} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 34}
 !!!page: 34
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-02-21
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

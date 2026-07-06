@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1324800000-oj_kropi_deszczyk_kropi.krn
+﻿!!!!SEGMENT: DWOK1324800000-oj_kropi_deszczyk_kropi.krn
 !!!OTL: Oj kropi deszczyk kropi
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Pleszewa
+!!!AR1: wielkopolskie ; pleszewski ; Pleszew-miasto
+!!!GE1: 51.896272 , 17.785733
 !!!source: DWOK13
 !!!id: 13248
 !!!signature: 1324800000
@@ -9,7 +14,7 @@
 *A:	*
 *M3/8	*
 =1	=1
-!!LO:TX:b:i:t=Szlachcic.
+!LO:TX:b:i:t=Szlachcic.	!
 !LO:TX:a:t=Na Wieńcu (w tańcu po dożynkach), szydząc.	!
 {8ee	Oj
 8ee	kro-
@@ -32,6 +37,7 @@
 8a}	-pi.
 !!LO:LB:g=esac
 =5	=5
+!LO:TX:b:i:t=Za nim chłop.	!
 {8ee	Oj
 8ee	le-
 8ee	-je
@@ -59,12 +65,13 @@
 !!Oj leje kieby plachta,
 !!całujta mnie w ... ślachta.
 !!@@END: VERSES
-!!!role-singer: Complex
-!!!ONB: Na wieńcu (w tańcu po dożynkach) szydząc
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=143 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 119} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 119}
 !!!page: 119
+!!!BEM: Na wieńcu (w tańcu po dożynkach) szydząc
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-09
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-23

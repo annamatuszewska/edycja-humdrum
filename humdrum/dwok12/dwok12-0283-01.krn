@@ -1,64 +1,98 @@
-!!!!SEGMENT: DWOK1228300001-wyjechal_pan_wyjechal_pan.krn
+﻿!!!!SEGMENT: DWOK1228300001-wyjechal_pan_wyjechal_pan.krn
 !!!OTL: Wyjechał pan wyjechał pan
+!!!FKT: Pieśni i Dumy. Strata wianka. Żale
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Ostrzeszowa
+!!!AR1: wielkopolskie ; ostrzeszowski ; Ostrzeszów-miasto
+!!!GE1: 51.423652 , 17.931476
 !!!source: DWOK12
 !!!id: 12283
 !!!signature: 1228300001
-**kern
-*clefG2
-*k[]
-*a:
-*M2/4
-=1
-{8ee
-8ee
-8dd
-8b
-=2
-8dd
-8ee
-8cc
-8a
-=3
-8ee
-8ee
-8dd
-8b
-=4
-4dd
-4ee}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M2/4	*
+=1	=1
+!!LO:TX:a:t=Przy weselu.
+{8ee	Wyjechał
+8ee	.
+8dd	.
+8b	pan
+=2	=2
+8dd	wyjechał
+8ee	.
+8cc	.
+8a\	pan
+=3	=3
+8ee	z_chartami
+8ee	.
+8dd	.
+8b	na
+=4	=4
+4dd	łowy,
+4ee}	.
 !!LO:LB:g=esac
-=5
-{8ee
-8ee
-8dd
-8dd
-=6
-8ee
-8dd
-8cc
-8a
-=7
-8b
-8dd
-8a
-8g#
-=8
-4a
-16b
-8.cc}
+=5	=5
+{8ee	i
+8ee	napotkał
+8dd	.
+8dd	.
+=6	=6
+8ee	trzy
+8dd	dziéwecki
+8cc	.
+8a	.
+=7	=7
+8b	w_zielony
+8dd	.
+8a	.
+8g#	dą-
+=8	=8
+4a	-browie,
+16bL	.
+8.ccJ}	.
 !!LO:LB:g=esac
-=9
-{8b
-8dd
-8a
-8g#
-=10
-4a
-4a}
-==
-*-
+=9	=9
+{8b	w_zielony
+8dd	.
+8a	.
+8g#	dą-
+=10	=10
+4a	-browie.
+4a}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Land Lord
+!!!role-listener: Maiden
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Wyjechał pan wyjechał pan
+!!z chartami na łowy,
+!!i napotkał trzy dziéwecki
+!!w zielony dąbrowie,
+!!w zielony dąbrowie.
+!!@VERSE:
+!!2. Jedny było Hanka
+!!a drugi Marjanka,
+!!a tyj trzecij nie wysłowił,
+!!co jego kochanka,
+!!co jego kochanka.
+!!@VERSE:
+!!3. Pirsa godzinecka
+!!prawie po północku,
+!!przewróć-że się kochanecko
+!!ku prawemu bocku,
+!!ku prawemu bocku.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=167 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 151-152} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 151-152}
 !!!page: 151-152
+!!!BEM: Przy weselu
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

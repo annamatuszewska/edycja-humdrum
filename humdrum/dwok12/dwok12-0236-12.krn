@@ -1,64 +1,88 @@
-!!!!SEGMENT: DWOK1223600012-a_matusinku_mowcie_mu.krn
+﻿!!!!SEGMENT: DWOK1223600012-a_matusinku_mowcie_mu.krn
 !!!OTL: A matusińku mówcie mu
+!!!FKT: Pieśni i Dumy. Skarga. Niechęć. Rozstanie
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Swarzędza, (Usarzewo)
+!!!AR1: wielkopolskie ; poznański ; Swarzędz-obszar wiejski
+!!!GE1: 52.452263 , 17.124825
 !!!source: DWOK12
 !!!id: 12236
 !!!signature: 1223600012
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{4a
-8cc
-8ee
-8b
-8b
-=2
-4a
-4g
-4dd
-=3
-4a
-8cc
-8ee
-8b
-8b
-=4
-4a
-4f#
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{4a	A
+8cc	matu-
+8ee	.
+8b	-sińku
+8b	.
+=2	=2
+4a	mówcie
+4g	.
+4dd	mu,
+=3	=3
+4a	temu
+8cc	.
+8ee	syno-
+8b	.
+8b	-wi
+=4	=4
+4a	swojemu
+4f#	.
+4g}	.
 !!LO:LB:g=esac
-=5
-{4a
-8cc
-8cc
-8b
-8g
-=6
-8a
-8b
-8a
-8g
-4dd
-=7
-8a
-8cc
-8cc
-8cc
-8b
-8g
-=8
-8a
-8b
-8a
-8f#
-4g}
-==
-*-
-!!!ONB: Partia wokalna
+=5	=5
+{4a	A
+8cc	niech
+8cc	ón
+8b	do
+8g	mnie
+=6	=6
+8aL	nie
+8bJ	.
+8aL	chodzi
+8gJ	.
+4dd	.
+=7	=7
+8aL	i
+8ccJ/	.
+8cc	niech
+8cc	ón
+8b	czasu
+8g	.
+=8	=8
+8aL	nie
+8bJ	.
+8aL	mudzi.
+8f#J	.
+4g}	.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!role-listener: Mother-In-Law
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. A matusińku mówcie mu,
+!!temu synowi swojemu
+!!A niech ón do mnie nie chodzi
+!!i niech ón czasu nie mudzi.
+!!@VERSE:
+!!2. A niech ón szuka we świecie,
+!!a mnie da pokój sierocie.
+!!A niech ón szuka jak ón sam,
+!!bo ja sierota a ón pan.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=141 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 125} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 125}
 !!!page: 125
+!!!BEM: Partia wokalna
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

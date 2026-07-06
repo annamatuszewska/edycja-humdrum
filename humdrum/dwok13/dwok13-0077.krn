@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1307700000-jedwabie_pannom.krn
+﻿!!!!SEGMENT: DWOK1307700000-jedwabie_pannom.krn
 !!!OTL: Jedwabie pannom
+!!!FKT: Pieśni. Miasta i Dwory. Miłość. Tęsknota
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kostrzyna (Siekierki)
+!!!AR1: wielkopolskie ; NIE ; NIE
+!!!GE1: 52.383122 , 17.155401
 !!!source: DWOK13
 !!!id: 13077
 !!!signature: 1307700000
@@ -65,7 +70,7 @@
 =8	=8
 4g\	a
 8a	naslisko
-8b	.
+8b/	.
 4cc	babkom.
 4cc}	.
 ==	==
@@ -106,9 +111,6 @@
 !!@VERSE:
 !!8. Serektóm i Ł d.
 !!@@END: VERSES
-!!!role-singer: Complex
-!!!role-listener: Complex
-!!!singer-sex: Complex
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=69 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 45} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 45}
@@ -116,3 +118,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-14
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-24

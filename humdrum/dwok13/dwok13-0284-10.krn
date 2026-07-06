@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1328400010-po_zaplociu.krn
-!!!OTL: Po zapłociu
+﻿!!!!SEGMENT: DWOK1328400010-po_zaplociu.krn
+!!!OTL: Po zapłociu Jasio jedzie
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kórnika
+!!!AR1: wielkopolskie ; poznański ; Kórnik-miasto
+!!!GE1: 52.248594 , 17.089676
 !!!source: DWOK13
 !!!id: 13284
 !!!signature: 1328400010
@@ -90,3 +95,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-18
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-24

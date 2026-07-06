@@ -1,5 +1,7 @@
-!!!!SEGMENT: DWOK1305100000-o_katarzyno_moja_jedyna.krn
+﻿!!!!SEGMENT: DWOK1305100000-o_katarzyno_moja_jedyna.krn
 !!!OTL: O Katarzyno moja jedyna
+!!!FKT: Pieśni. Miasta i Dwory. Miłość. Tęsknota
+!!!REG: Wielkie Księstwo Poznańskie
 !!!source: DWOK13
 !!!id: 13051
 !!!signature: 1305100000
@@ -105,3 +107,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-11
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-24

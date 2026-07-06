@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1331200002-gospodarzu_gdzie_masz_rola.krn
+﻿!!!!SEGMENT: DWOK1331200002-gospodarzu_gdzie_masz_rola.krn
 !!!OTL: Gospodarzu gdzie masz rolą
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Czempina (Brodnica)
+!!!AR1: wielkopolskie ; śremski ; Brodnica-gmina wiejska
+!!!GE1: 52.141042 , 16.892250
 !!!source: DWOK13
 !!!id: 13312
 !!!signature: 1331200002
@@ -96,7 +101,6 @@
 !!Bo ja siéwam i wywiéwam,
 !!to i grzechy poodwiéwam.
 !!@@END: VERSES
-!!!role-singer: Complex
 !!!role-listener: Farmer
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -105,3 +109,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-20
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-24

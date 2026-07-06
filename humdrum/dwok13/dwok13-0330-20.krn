@@ -1,12 +1,17 @@
-!!!!SEGMENT: DWOK1333000020-instrumentalna_-_mazur.krn
-!!!OTL: Instrumentalna - Mazur
+﻿!!!!SEGMENT: DWOK1333000020-instrumentalna_-_mazur.krn
+!!!OTL: Instrumentalna. Mazur
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: Gniezno
+!!!AR1: wielkopolskie ; gnieźnieński ; Gniezno-gmina miejska
+!!!GE1: 52.533333 , 17.601388
 !!!source: DWOK13
 !!!id: 13330
 !!!signature: 1333000020
 **kern
 *clefG2
-*k[f#]
-*G:
+*k[]
+*C:
 *M3/8
 =1
 {16.gL
@@ -14,7 +19,7 @@
 16ccL
 16b
 16cc
-16e\J
+16ee\J
 =2
 16g\L
 16bJ
@@ -41,10 +46,9 @@
 16cc
 16eeJ
 =6
-16g\L
-16bJ
-8ddL
-8ffJ
+8dd/L
+8ddJ
+8ff\
 =7
 16.gL
 32b/J
@@ -54,7 +58,7 @@
 16ddL
 16bJ
 8gL
-8cc/J
+8cc/J}
 ==
 *-
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
@@ -64,3 +68,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-22
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-26

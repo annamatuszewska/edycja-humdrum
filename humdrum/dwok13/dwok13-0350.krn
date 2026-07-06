@@ -1,12 +1,19 @@
-!!!!SEGMENT: DWOK1335000000-miala_matka_nieruchaja.krn
+﻿!!!!SEGMENT: DWOK1335000000-miala_matka_nieruchaja.krn
 !!!OTL: Miała matka nieruchaja
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Pakości, Mogilna
+!!!AR1: kujawsko-pomorskie ; inowrocławski ; Pakość-miasto
+!!!GE1: 52.807005 , 18.087691
+!!!AR2: kujawsko-pomorskie ; mogileński ; Mogilno-miasto
+!!!GE2: 52.657733 , 17.949932
 !!!source: DWOK13
 !!!id: 13350
 !!!signature: 1335000000
 **kern	**text
 *clefG2	*
 *k[f#]	*
-*D:	*
+*G:	*
 *M3/4	*
 =1	=1
 {8a\	Mia-
@@ -65,7 +72,7 @@
 !!@@END: VERSES
 !!!role-singer: Narrator
 !!!role-listener: Man
-!!!singer-sex: Female
+!!!singer-sex: female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=176 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 152} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 152}
@@ -73,3 +80,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-26

@@ -1,62 +1,152 @@
-!!!!SEGMENT: DWOK1237200001-u_naszego_mlynarza.krn
+﻿!!!!SEGMENT: DWOK1237200001-u_naszego_mlynarza.krn
 !!!OTL: U naszego młynarza
+!!!FKT: Pieśni i Dumy. Igraszka. Swawola
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Wrześni, Gniezna
+!!!AR1: wielkopolskie ; wrzesiński ; Września-miasto
+!!!GE1: 52.325822 , 17.565352
+!!!AR2: wielkopolskie ; gnieźnieński ; Gniezno-gmina miejska
+!!!GE2: 52.533333 , 17.601388
 !!!source: DWOK12
 !!!id: 12372
 !!!signature: 1237200001
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8g
-8g
-4ee
-4dd
-=2
-8cc
-8a
-4g
-4r
-=3
-8g
-8g
-4cc
-4a
-=4
-8g
-8f
-4e}
-4r
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8g	U
+8g	naszego
+4ee	.
+4dd	.
+=2	=2
+8cc	młynarza,
+8a	.
+4g	.
+4r	.
+=3	=3
+8g\	jest
+8g\	ta
+4cc	Kasia
+4a	.
+=4	=4
+8g	jak
+8f	zarza
+4e}	.
+4r	.
 !!LO:LB:g=esac
-=5
-{8g
-8f
-8e
-8g
-8cc
-8cc
-=6
-8g
-8f
-8e
-8g
-8cc
-8cc
-=7
-8g
-8g
-4ff
-4dd
-=8
-8dd
-8b
-4cc}
-4r
-==
-*-
+=5	=5
+{8g	oj
+8f	tuna
+8e	.
+8g	da
+8cc	tuna,
+8cc	.
+=6	=6
+8g	oj
+8f	tuna
+8e	.
+8g	da
+8cc	tuna,
+8cc	.
+=7	=7
+8g\	jest
+8g\	ta
+4ff	Kasia
+4dd	.
+=8	=8
+8dd	jak
+8b	zarza.
+4cc}	.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Miller, Lord
+!!!role-listener: Miller, Lord
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. U naszego młynarza,
+!!jest ta Kasia jak zarza (zorza).
+!!oj tuna da tuna, oj tuna da tuna,
+!!jest ta Kasia jak zarza.
+!!@VERSE:
+!!2. Pan-ci o ni nie wiedział,
+!!lecz mu sługa powiedział.
+!!@VERSE:
+!!3. Pan się o ni dowiedział,
+!!do młynarza posły słał.
+!!@VERSE:
+!!4. Pódź młynarzu do pana,
+!!po jakiegoś szatana.
+!!@VERSE:
+!!5. Młynarz idzie a duma:
+!!co ten pan dziś do mnie ma?
+!!@VERSE:
+!!6. Młynarz idzie po desce:
+!!co ten pan ode mnie chce?
+!!@VERSE:
+!!7. Młynarz w progi wstępuje,
+!!pan go winem częstuje.
+!!@VERSE:
+!!8. Pij młynarzu to wino,
+!!boś go nie pił jak żywo.
+!!@VERSE:
+!!9. Młynarz pije, a płacze,
+!!czém ja wino zapłacę?
+!!(Pij młynarzu a nie płacz,
+!!musisz ty mi Kasię dać).
+!!@VERSE:
+!!10. Pij młynarzu, masz-li pić,
+!!Kasia moją musi być.
+!!@VERSE:
+!!11. Weź mi panie, i woły,
+!!wszystko bydło z obory.
+!!@VERSE:
+!!12. Weź mi panie, i konie,
+!!swoji Kasi dogonię.
+!!@VERSE:
+!!13. Weź mi panie, i świnie,
+!!swoją Kasię przebiję.
+!!@VERSE:
+!!14. Choćby wsiad na sto koni,
+!!Kasi swoji nie dogoni.
+!!@VERSE:
+!!15. Nie móg pan poradzić
+!!i kazał się w miech wsadzić.
+!!@VERSE:
+!!16. Postawcie go w młynicy,
+!!niech nie zmelą w pszenicy.
+!!@VERSE:
+!!17. Postawcie go przy kłodzie,
+!!niech nie zmelą po słodzie.
+!!(Nie stawcie mnie przy skrzyni
+!!bo mnie zmelą dla świni.
+!!A stawcie mnie w komorze,
+!!gdzie Kasia ma swe łoże).
+!!@VERSE:
+!!18. Nie wyszło i północy,
+!!miech (wór) się na łoże toczy.
+!!@VERSE:
+!!19. Co u kata za zboże,
+!!co się wali na łoże?
+!!@VERSE:
+!!20. Pan starosta, Kasiu pan —
+!!przyszed on tu w nocy sam.
+!!@VERSE:
+!!21. Żebyś ty był dobry pan,
+!!nie chodziłbyś w nocy sam.
+!!@VERSE:
+!!22. Kupowałbyś stążeczki,
+!!miałbyś w domu dzieweczki.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=210 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 194} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 194}
 !!!page: 194
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1303600000-na_jarmarczek_sie_wyprawie.krn
+﻿!!!!SEGMENT: DWOK1303600000-na_jarmarczek_sie_wyprawie.krn
 !!!OTL: Na jarmarczek się wyprawię
+!!!FKT: Pieśni. Miasta i Dwory. Miłość. Tęsknota
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: Poznań
+!!!AR1: wielkopolskie ; m. Poznań ; Poznań-gmina miejska
+!!!GE1: 52.407918 , 16.933467
 !!!source: DWOK13
 !!!id: 13036
 !!!signature: 1303600000
@@ -84,7 +89,6 @@
 !!dana, dana, dana, dana.
 !!@@END: VERSES
 !!!role-singer: Mistress
-!!!role-listener: lovers
 !!!singer-sex: female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -93,3 +97,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-06
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-17

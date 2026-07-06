@@ -1,52 +1,93 @@
-!!!!SEGMENT: DWOK1213400000-a_ty_ptaszku_gorny_ptaszku.krn
+﻿!!!!SEGMENT: DWOK1213400000-a_ty_ptaszku_gorny_ptaszku.krn
 !!!OTL: A ty ptaszku górny ptaszku
+!!!FKT: Pieśni i Dumy. Pieśni przed Weselem i wśród Wesela śpiewane
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kobylina (Targoszyce)
+!!!AR1: wielkopolskie ; krotoszyński ; Kobylin-obszar wiejski
+!!!GE1: 51.762910 , 17.270700
 !!!source: DWOK12
 !!!id: 12134
 !!!signature: 1213400000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8d
-8f#
-4.g
-8b
-=2
-4.dd
-8cc
-8a
-8f#
-=3
-8a
-8a
-4cc
-4ee
-=4
-2.dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+!!LO:TX:a:t=Weselna
+{8d	A
+8f#	ty
+4.g	ptaszku,
+8b	.
+=2	=2
+8cc#q	.
+4.dd	górny
+8cc	.
+8a	ptaszku,
+8f#	.
+=3	=3
+8a	wyso-
+8a	.
+8bq	.
+4cc	-ko
+4ee	la-
+=4	=4
+8cc#q	.
+2.dd}	-tasz,
 !!LO:LB:g=esac
-=5
-{8d
-8f#
-4.g
-8b
-=6
-4.dd
-8cc
-8a
-8f#
-=7
-8a
-8a
-4cc
-4b
-=8
-2.g}
-==
-*-
+=5	=5
+{8d	powiedzże
+8f#	.
+4.g	.
+8b	mi
+=6	=6
+8cc#q	.
+4.dd	no-
+8ccn	-wi-
+8a	-neczkę,
+8f#	.
+=7	=7
+8a	gdzie
+8a	w_nocy
+4cc	.
+8a#q	.
+4b	sia-
+=8	=8
+2.g}	-dasz.
+==	==
+*-	*-
+!!!role-singer: Narrator, Lover
+!!!role-listener: Lover
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:1. A ty ptaszku, górny ptaszku,
+!!wysoko latasz,
+!!powiédz-że mi nowineczkę,
+!!gdzie w nocy siadasz?
+!!@VERSE:2. Powiem ja ci nowineczkę
+!!ale niedobrą,
+!!a już tę naszą jodynię (jedyną)
+!!do ślubu wiozą.
+!!@VERSE:3. Wiezą-ci ją, wiezą, wiezą
+!!jak różany kwiat,
+!!czoło ji się połyskuje,
+!!zmienił ji się świat.
+!!@VERSE:4. Oj i siądźma na dwa kónie,
+!!i jedźma za nią,
+!!co ją jeszcze zastaniemy,
+!!jak będzie panną.
+!!@VERSE:5. A ten jeden pójdzie za nią
+!!i będzie ji grał,
+!!a ten drugi upłakany,
+!!nie bédzie ji miał.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=81 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 65} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 65}
 !!!page: 65
+!!!BEM: Weselna
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-02-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-07

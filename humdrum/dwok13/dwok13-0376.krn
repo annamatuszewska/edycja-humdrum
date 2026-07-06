@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1337600000-niedaleko_wedle_wody.krn
+﻿!!!!SEGMENT: DWOK1337600000-niedaleko_wedle_wody.krn
 !!!OTL: Niedaleko wedle wody
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kruszwicy, Piotrkowa żyd.
+!!!AR1: kujawsko-pomorskie ; inowrocławski ; Kruszwica-miasto
+!!!GE1: 52.676219 , 18.323047
+!!!AR2: kujawsko-pomorskie ; radziejowski ; Piotrków Kujawski-miasto
+!!!GE2: 52.551118 , 18.497561
 !!!source: DWOK13
 !!!id: 13376
 !!!signature: 1337600000
@@ -28,7 +35,7 @@
 16eLe/	na
 16dd/	Wy-
 8b/	-go-
-8g}J	-dy,
+8g}J	-dy*),
 !!LO:LB:g=esac
 =5	=5
 {16g	prze-
@@ -108,9 +115,12 @@
 !!Rada bym ja wykupiła,
 !!bym się ludzi nie wstydziła.
 !!@@END: VERSES
+!!@@BEGIN: 
+!! @COMMENTARY:*)Wygoda=Karczma
+!!@@END:
 !!!role-singer: Narrator, Lover
-!!!role-listener: Girl
-!!!singer-sex: Male
+!!!role-listener: Maiden
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=184 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 160} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 160}
@@ -118,3 +128,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-04-02
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-15

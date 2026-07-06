@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1318800000-nie_bede_ja_sie_klopotal.krn
+﻿!!!!SEGMENT: DWOK1318800000-nie_bede_ja_sie_klopotal.krn
 !!!OTL: Nie będę ja się kłopotał
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Krotoszyna, Raszkowa
+!!!AR1: wielkopolskie ; krotoszyński ; Krotoszyn-miasto
+!!!GE1: 51.695729 , 17.437623
+!!!AR2: wielkopolskie ; ostrowski ; Raszków-miasto
+!!!GE2: 51.718450 , 17.725980
 !!!source: DWOK13
 !!!id: 13188
 !!!signature: 1318800000
@@ -101,8 +108,8 @@
 !!nie od piwa ani winna,
 !!od gorzałeczki, da dana.
 !!@@END: VERSES
-!!!role-singer: Lover
-!!!role-listener: Complex
+!!!role-singer: Enamoured
+!!!role-listener: Girl
 !!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -111,3 +118,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-02
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-05

@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1335800000-oj_niedaleko_leszna.krn
+﻿!!!!SEGMENT: DWOK1335800000-oj_niedaleko_leszna.krn
 !!!OTL: Oj niedaleko Leszna
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kobylina (Lutogniewo)
+!!!AR1: wielkopolskie ; krotoszyński ; Krotoszyn-obszar wiejski
+!!!GE1: 51.719321 , 17.379659
 !!!source: DWOK13
 !!!id: 13358
 !!!signature: 1335800000
@@ -105,6 +110,9 @@
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=178 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 154} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 154}
 !!!page: 154
+!!!ONB@texture: Only voice or instrument is playing at a time
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-26

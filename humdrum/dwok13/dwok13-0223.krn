@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1322300000-kumosia_sie_na_mnie_gniewa.krn
+﻿!!!!SEGMENT: DWOK1322300000-kumosia_sie_na_mnie_gniewa.krn
 !!!OTL: Kumosia się na mnie gniewa
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kostrzyna (Nekla)
+!!!AR1: wielkopolskie ; wrzesiński ; Nekla-miasto
+!!!GE1: 52.364437 , 17.412397
 !!!source: DWOK13
 !!!id: 13223
 !!!signature: 1322300000
@@ -59,7 +64,7 @@
 !!Przyjdzie jarmark, świnię sprzedam,
 !!kumosi się gniéwać nie dam.
 !!@@END: VERSES
-!!!role-singer: Complex 
+!!!role-singer: Complex
 !!!singer-sex: Complex
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -68,3 +73,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-03-06
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-13

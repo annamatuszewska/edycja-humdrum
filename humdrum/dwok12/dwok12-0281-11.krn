@@ -1,57 +1,143 @@
-!!!!SEGMENT: DWOK1228100011-nade_droga_oset.krn
+﻿!!!!SEGMENT: DWOK1228100011-nade_droga_oset.krn
 !!!OTL: Nade drogą oset
+!!!FKT: Pieśni i Dumy. Strata wianka. Żale
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gniezna
+!!!AR1: wielkopolskie ; gnieźnieński ; Gniezno-gmina miejska
+!!!GE1: 52.533333 , 17.601388
 !!!source: DWOK12
 !!!id: 12281
 !!!signature: 1228100011
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8ee
-8ee
-16ee
-16cc
-=2
-16b
-16dd
-4ff
-=3
-8ee
-8ee
-16ee
-16cc
-=4
-16b
-16dd
-4cc}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+!!LO:TX:a:t=Weselna.
+{8ee	Nade
+8ee	.
+16ee	drogą
+16cc	.
+=2	=2
+16bL	o-
+16ddJ	.
+4ff	-set
+=3	=3
+8ee	nigdy
+8ffq	.
+8ee	.
+16ee	nie
+16cc	ty-
+=4	=4
+16bL	-kany,
+16ddJ	.
+4cc}	.
 !!LO:LB:g=esac
-=5
-{16b
-16dd
-8dd
-16b
-16g
-=6
-16f#
-16a
-8cc
-8cc
-=7
-16b
-16dd
-8dd
-16b
-16g
-=8
-16f#
-16a
-4g}
-==
-*-
+=5	=5
+{16b	rozmarynem
+16dd	.
+8dd	.
+16bL	.
+16gJ	.
+=6	=6
+16f#	przesadzany
+16a	.
+8cc	.
+8cc	.
+=7	=7
+16b	przez
+16dd	wysokie
+8dd	.
+16bL	.
+16gJ	.
+=8	=8
+16f#L	ściany.
+16aJ	.
+4g}	.
+==	==
+*-	*-
+!!!role-singer: Maiden, Narrator, Lord
+!!!role-listener: Maiden, Lord
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Nade drogą oset
+!!nigdy nie tykany,
+!!rozmarynem przesadzany
+!!przez wysokie ściany.
+!!@VERSE:
+!!2. I tam ci pokrzywa,
+!!wolę się oparzyć,
+!!nieszczęsnego kawalira
+!!boję się obrazić.
+!!@VERSE:
+!!3. Wysłoł ci pon służkę,
+!!co Kasinka czyni?
+!!Wije wionki cyprysowe,
+!!kapela rznie przy ni.
+!!@VERSE:
+!!4. Wysłoł ci drugiego,
+!!by mu jeden dała.
+!!Ona na to nic nie rzekła,
+!!tylko zapłakała.
+!!@VERSE:
+!!5. Wysłoł ci trzeciego
+!!w samym jaksamicie.
+!!Wyźdrzyj, wyźdrzyj Kasineczku,
+!!sam jegomość idzie.
+!!@VERSE:
+!!6. Wziąn ci ją za rączki,
+!!wziąn ci ją za obie;
+!!prowadzi ją bez ganeczek
+!!do pokoju sobie.
+!!@VERSE:
+!!7. Jak ją przyprowadził,
+!!posadził ją w krześle:
+!!siedźżeż, siedźżeż grzeczna damo!
+!!aż po świcę poślę.
+!!@VERSE:
+!!8. Cztyry świce się spaliły,
+!!nim się namówili,
+!!i piąta się dopalała
+!!nim się położyli.
+!!@VERSE:
+!!9. I jak po północku,
+!!po pierwszéj godzinie:
+!!obróć-że się Kasineczku,
+!!prawym boczkiem do mnie!
+!!@VERSE:
+!!10. Już się nie obrócę,
+!!bo mnie główka boli;
+!!utraciłam swoją cnotę
+!!dla waspana woli.
+!!@VERSE:
+!!11. Ażebym ja wiedział
+!!że dla mnie samego,
+!!nie żałowałbym tysiączka
+!!ani téż drugiego.
+!!@VERSE:
+!!12. I twoje tysiączki
+!!do kieszeni włożyć,
+!!moją cnotę i urodę
+!!sześcią koni wozić.
+!!@VERSE:
+!!13. A że-ćby ja wiedział
+!!że się Boga boisz,
+!!a ja weźdrzę okieneczkiem,
+!!to ty z innym stoisz.
+!!@VERSE:
+!!14. I chocia’m stojała,
+!!toć ja nie gadała;
+!!tylko ja mu rozmarynu
+!!gałązeczkę dała.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=166 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 150} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 150}
 !!!page: 150
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

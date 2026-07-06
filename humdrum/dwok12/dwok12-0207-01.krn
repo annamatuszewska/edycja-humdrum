@@ -1,75 +1,111 @@
-!!!!SEGMENT: DWOK1220700001-abo_mnie_wez_do_toneczka.krn
+﻿!!!!SEGMENT: DWOK1220700001-abo_mnie_wez_do_toneczka.krn
 !!!OTL: Abo mnie weź do toneczka
+!!!FKT: Pieśni i Dumy. Stałość. Życzliwość. Wymówka
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gołańczy (Czeszewo)
+!!!AR1: wielkopolskie ; wągrowiecki ; Gołańcz-obszar wiejski
+!!!GE1: 52.908722 , 17.382633
 !!!source: DWOK12
 !!!id: 12207
 !!!signature: 1220700001
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/8
-=1
-{16e
-16g#
-8b
-8b
-=2
-16b
-16g#
-8.a
-16e
-=3
-16b
-16dd#
-8b
-8ee
-=4
-4b
-16g#
-16e}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{16e	A-
+16g#	-bo
+8b	mnie
+8b	weź
+=2	=2
+16b/	do
+16g#	toneczka,
+8.a	.
+16e	.
+=3	=3
+16b	abo
+16dd#	.
+8b	mnie
+8ee	każ
+=4	=4
+4b	komu,
+16g#L	.
+16eJ}	.
 !!LO:LB:g=esac
-=5
-{16e
-16g#
-8b
-8b
-=6
-16b
-16dd
-4cc
-=7
-16a
-16f#
-8g#
-8b
-=8
-4e
-16g#
-16b}
+=5	=5
+{16e	u-
+16g#	-boga
+8b	.
+8b	ja
+=6	=6
+16b	siéroteczka,
+16dd	.
+4cc^<	.
+=7	=7
+16a	mu-
+16f#	-szę
+8g#	iść
+8b	do
+=8	=8
+4e	do-
+16g#L	mu.
+16bJ}	.
 !!LO:LB:g=esac
-=9
-{16e
-16g#
-8b
-8b
-=10
-16b
-16dd
-4cc
-=11
-16a
-16f#
-8g#
-16a
-16g#
-=12
-4e
-16g#
-16e}
-==
-*-
+=9	=9
+{16e	u-
+16g#	-boga
+8b	.
+8b	ja
+=10	=10
+16b	siéroteczka,
+16dd	.
+8.cc^<L	.
+16ccJ/	.
+=11	=11
+16a	mu-
+16f#	-szę
+8g#	iść
+16aL	do
+16g#J	.
+=12	=12
+4e	do-
+16g#L	mu.
+16eJ}	.
+==	==
+*-	*-
+!!!RDF**kern: < = below
+!!!role-singer: Maiden, Baichelor
+!!!role-listener: Bachelor, maiden
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Abo mnie weź do toneczka,
+!!abo mnie każ komu, —
+!!uboga ja sieroteczka,
+!!muszę iść do domu.
+!!@VERSE:
+!!2. A czemu-żeś (w)tedy nie szła,
+!!kiedy ja ci kazał?
+!!tyś-ci my się rozgniwała,
+!!ja wszystko uważał.
+!!@VERSE:
+!!3. A téj złości, temu gniéwu,
+!!tyś-ci był przyczyną;
+!!bo, żeś ze mną nie tańcował,
+!!z tą inszą dziewczyną.
+!!@VERSE:
+!!4. I tyś Kasia, óna Kasia,
+!!i obieście ładne;
+!!ale u cię liczko w gniéwie,
+!!a u ni(j) pogodne (v. swobodne).
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=123 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 107} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 107}
 !!!page: 107
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

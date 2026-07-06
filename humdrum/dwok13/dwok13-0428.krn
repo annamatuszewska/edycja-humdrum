@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1342800000-instrumentalna-wiwatowy_flisak.krn
-!!!OTL: Instrumentalna-Wiwatowy flisak
+﻿!!!!SEGMENT: DWOK1342800000-instrumentalna-wiwatowy_flisak.krn
+!!!OTL: Instrumentalna. Wiwatowy flisak
+!!!FKT: Śpiewki i Tańce. Wiwaty, Tańce i Piosenki 2/4
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Pleszewa, Kalisza
+!!!AR1: wielkopolskie ; pleszewski ; Pleszew-miasto
+!!!GE1: 51.896272 , 17.785733
+!!!AR2: wielkopolskie ; m. Kalisz ; Kalisz-gmina miejska
+!!!GE2: 51.761140 , 18.086914
 !!!source: DWOK13
 !!!id: 13428
 !!!signature: 1342800000
@@ -9,7 +16,7 @@
 *D:
 *M2/4
 =1
-!LO:TX:a:t=Wiwatowy flisak.	
+!LO:TX:a:t=Wiwatowy flisak.
 {16aL
 16b/
 16a
@@ -26,8 +33,9 @@
 16a
 16g
 16f#J
-8eL
-8eeJ
+!LO:TX:t=P:problem=mixed beam
+8e/L
+8ee\J
 =4
 8a\L
 8cc#J
@@ -48,8 +56,9 @@
 16a
 16g
 16f#J
-8eL
-8eeJ
+!LO:TX:t=P:problem=mixed beam
+8e/L
+8ee\J
 =8
 8cc/L#
 8cc#/J
@@ -107,3 +116,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-04-09
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-16

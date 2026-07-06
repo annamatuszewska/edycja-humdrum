@@ -1,88 +1,149 @@
-!!!!SEGMENT: DWOK1224200002-pamietaj_ty_dziewucho.krn
+﻿!!!!SEGMENT: DWOK1224200002-pamietaj_ty_dziewucho.krn
 !!!OTL: Pamiętaj ty dziewucho
+!!!FKT: Pieśni i Dumy. Skarga. Niechęć. Rozstanie
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Pobiedzisk, Gniezna
+!!!AR1: wielkopolskie ; poznański ; Pobiedziska-miasto
+!!!GE1: 52.477371 , 17.284954
+!!!AR2: wielkopolskie ; gnieźnieński ; Gniezno-gmina miejska
+!!!GE2: 52.533333 , 17.601388
 !!!source: DWOK12
 !!!id: 12242
 !!!signature: 1224200002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16b
-8dd
-8dd
-=2
-16dd
-16ee
-4cc
-=3
-16cc
-16ee
-8ee
-8gg
-=4
-4.dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Pamiętaj
+16b	.
+8dd	.
+8dd	ty
+=2	=2
+16dd	dziewucho
+16ee	.
+4cc	.
+=3	=3
+16cc	że
+16ee	nas
+8ee	Bóg
+8gg	ska-
+=4	=4
+4.dd}	-rze,
 !!LO:LB:g=esac
-=5
-{16g
-16b
-8dd
-8dd
-=6
-16dd
-16ee
-4cc
-=7
-16a
-16a
-8a
-8b
-=8
-4g}
-8r
+=5	=5
+{16g	abo
+16b	.
+8dd	nam
+8dd	to
+=6	=6
+16dd	nie
+16ee	ładnie
+4cc	.
+=7	=7
+16aL	obiema
+16a	.
+8aJ	.
+8b	w_pa-
+=8	=8
+4g}	-rze.
+8r	.
 !!LO:LB:g=esac
-=9
-{16d
-16f#
-8a
-8d
-=10
-8g
-8d
-8b
-=11
-16d
-16f#
-8a
-8d
-=12
-8g
-8d
-8b}
+=9	=9
+{16d	A
+16f#	czyli
+8a	.
+8d	ja
+=10	=10
+8g	kali-
+8d	.
+8b	-ka,
+=11	=11
+16d	a
+16f#	czyli
+8a	.
+8d	ja
+=12	=12
+8g	kali-
+8d	.
+8b}	-ka,
 !!LO:LB:g=esac
-=13
-{16a
-16a
-8a
-8b
-=14
-16g
-16g
-8b
-8dd
-=15
-16a
-16a
-8a
-8b
-=16
-4.g}
-==
-*-
+=13	=13
+{16aL	a
+16a	czy
+8aJ	niemam
+8b	.
+=14	=14
+16g	wąsi-
+16g	.
+8b	-ka,
+8dd	co
+=15	=15
+16aL	mnie
+16a	.
+8aJ	nie
+8b	ko-
+=16	=16
+4.g}	-chasz?
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!role-listener: Maiden
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Pamiętaj dziewucho
+!!że nas Bóg skarze,
+!!abo nom to nie ładnie
+!!obiema w parze.
+!!A czyli ja kalika,
+!!A czyli ja kalika,
+!!a czy niemom wąsika,
+!!co mnie nie kochosz?
+!!@VERSE:
+!!2. A ja idę do kościoła,
+!!mówię paciérze,
+!!do ciebie mnie dziewczyno
+!!wielka chęć bierze.
+!!A ja mówię paciérze,
+!!A ja mówię paciérze,
+!!do ciebie mie chęć bierze,
+!!dziewcze kochane.
+!!@VERSE:
+!!3. A ja ide do kościoła,
+!!patrzę na obrazy,
+!!a spójrze raz na obraz,
+!!na nią dwa razy.
+!!A ja patrzę na obrazy,
+!!A ja patrzę na obrazy,
+!!na me dziewcze dwa razy,
+!!dziewcze kochane.
+!!@VERSE:
+!!4. I wychodzę s kościoła
+!!i rzucę okiem,
+!!i pochodzę za tobą
+!!szerokim krokiem.
+!!Chcę się z tobą powitać,
+!!Chcę się z tobą powitać,
+!!i o zdrowie zapytać,
+!!dziéwczę kochane.
+!!@VERSE:
+!!5. A ja ciebie się nie pytam
+!!twój posag jaki?
+!!ino się chce dowiedzieć
+!!szczérości znaki.
+!!Żebym ja był upewniony,
+!!Żebym ja był upewniony,
+!!żebym dostał s ciebie żony,
+!!ze swéj kochanki.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=144 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 128-129} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 128-129}
 !!!page: 128-129
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13
