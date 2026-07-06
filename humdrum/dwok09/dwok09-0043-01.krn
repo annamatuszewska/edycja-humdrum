@@ -3,82 +3,168 @@
 !!!source: DWOK09
 !!!id: 09043
 !!!signature: 0904300001
-**kern
-*clefG2
-*k[b-e-]
-*g:
-*M3/8
-=1
-{8d
-16dd
-16cc#
-16dd
-16ee
-=2
-8ff
-4dd
-=3
-16cc
-16dd
-8cc
-16b-
-16g
-=4
-4.a}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*g:	*
+*M3/8	*
+=1	=1
+{8d	Oj
+8eeq	.
+16ddL	sia-
+16cc#J	.
+16ddL	-daj,
+16eeJ	.
+=2	=2
+8ff	siadaj,
+4dd	.
+=3	=3
+16cc	kochanie
+16dd	.
+8cc	.
+16b-L	mo-
+16gJ	.
+=4	=4
+8g#q	.
+4.a}	-je,
 !!LO:LB:g=esac
-=5
-{8d
-16dd
-16cc#
-16dd
-16ee
-=6
-8ff
-4dd
-=7
-16cc
-16dd
-8cc
-16b-
-16g
-=8
-4.a}
+=5	=5
+{8d	już
+8eeq	.
+16ddL	nic
+16cc#J	.
+16ddL	nie
+16eeJ	.
+=6	=6
+8ff	nada
+4dd	.
+=7	=7
+16cc	płakanie
+16dd	.
+8cc	.
+16b-L	two-
+16gJ	.
+=8	=8
+8g#q	.
+4.a}	-je.
 !!LO:LB:g=esac
-=9
-{8dd
-8a
-16b-
-16a
-=10
-16b-
-16dd
-8cc
-16b-
-16g
-=11
-8dd
-8a
-16b-
-16a
-=12
-16b-
-16dd
-8cc
-16b-
-16g}
+=9	=9
+{8dd	Nie
+8a	nada,
+16b-L	.
+16aJ\	.
+=10	=10
+16b-	nie
+16dd	.
+8cc	pomoże,
+8ccq	.
+16b-L	.
+16gJ	.
+=11	=11
+8dd	stoją
+8a	.
+16b-L	ko-
+16aJ\	.
+=12	=12
+16b-	-nie
+16dd	.
+8cc	we
+8ccq	.
+16b-L	wozie
+16gJ}	.
 !!LO:LB:g=esac
-=13
-{8a
-16a
-16dd
-16b-
-16g
-=14
-4.a}
-==
-*-
+=13	=13
+{8a	pozaprzęga-
+16aL	.
+16ddJ	.
+16b-	.
+16g	.
+=14	=14
+8g#q	.
+4.a}	-ne.
+==	==
+*-	*-
+!!!role-singer: Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Oj siadaj, siadaj, kochanie moje,
+!!już nic nie nada płakanie twoje.
+!!@VERSE:
+!!2. Nie nada, nie pomoże,
+!!stoją konie we wozie pozaprzęgane.
+!!@VERSE:
+!!2. Oj nie będę ja na nie siadała,
+!!bo‘m ja się z ojcem nie pożegnała.
+!!Bóg ci zapłać, miły ojcze,
+!!bywały tu za mnie gracze,
+!!teraz nie będą.
+!!@VERSE:
+!!3. Oj siadaj, siadaj, kochanie moje,
+!!już nic nie nada płakanie twoje.
+!!nie nada i nie pomoże,
+!!stoją koniki we wozie
+!!pozaprzęgane.
+!!@VERSE:
+!!4. Oj nie będę ja na nie siadała,
+!!bo‘m się z matką nie pożegnała.
+!!Bóg ci zapłać, moja matko,
+!!bywałaś ty na mnie gładka,
+!!teraz nie będziesz.
+!!@VERSE:
+!!5. Oj siadaj, siadaj i t.d.
+!!@VERSE:
+!!6. Oj nie będę ja na nie siadała,
+!!bo‘m się ze siostrą nie pożegnała.
+!!Bóg ci zapłać, moja siostro,
+!!bywałaś ty na mnie ostra,
+!!teraz nie będziesz.
+!!@VERSE:
+!!7. Oj siadaj, siadaj i t.d.
+!!@VERSE:
+!!8. Oj nie będę ja na nie siadała,
+!!bo‘m się z bratem nie pożegnała.
+!!Bóg ci zapłać, miły bracie,
+!!chodziliśma po dyjecie (na dniówkę)
+!!teraz nie będę.
+!!@VERSE:
+!!9. Oj siadaj, siadaj i t.d.
+!!@VERSE:
+!!10. Oj nie będę ja na nie siadała,
+!!bo‘m się z ścianami nie pożegnała.
+!!Bóg wam zapłać, miłe ściany,
+!!i ty piecu malowany,
+!!już siadać muszę.
+!!@VERSE:
+!!11. Oj siadaj, siadaj i t.d.
+!!@VERSE:
+!!12. Oj nie będę ja na nie siadała,
+!!bo‘m się z miskami nie pożegnała.
+!!Bóg wam zapłać, moje miski,
+!!mywałam was, czas niebliski (oddawna),
+!!teraz nie będę.
+!!@VERSE:
+!!13. Oj siadaj, siadaj i t.d.
+!!@VERSE:
+!!14. Oj nie będę ja na nie siadała,
+!!bo‘m się z stołami nie pożegnała.
+!!Bóg wam zapłać, stoły, ławy,
+!!mywałam was w czas niemały,
+!!teraz nie będę.
+!!@VERSE:
+!!15. Oj siadaj, siadaj i t.d.
+!!@VERSE:
+!!16. Oj nie będę ja na nie siadała,
+!!bo‘m się z progami nie pożegnała.
+!!Bądźcie zdrowe, moje progi,
+!!chodziły tu moje nogi,
+!!teraz nie będą.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=212 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 188} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, p. 188}
 !!!page: 188
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-26

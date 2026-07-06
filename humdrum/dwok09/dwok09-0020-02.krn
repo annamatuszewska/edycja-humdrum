@@ -3,63 +3,73 @@
 !!!source: DWOK09
 !!!id: 09020
 !!!signature: 0902000002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16a
-8b
-8cc
-=2
-4.dd
-=3
-16dd
-32ee
-32ff#
-8gg
-16ff#
-16ee
-=4
-4.dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Przynieśliśmy
+16a	.
+8b	.
+8cc	.
+=2	=2
+4.dd	plon
+=3	=3
+16dd	jegomości
+32eeL	.
+32ff#J	.
+8gg	.
+16ff#L	.
+16eeJ	.
+=4	=4
+4.dd}	w_dom.
 !!LO:LB:g=esac
-=5
-{16cc
-16dd
-8ee
-16dd
-16cc
-=6
-16.b
-32b
-8a
-8g
-=7
-16cc
-16dd
-8ee
-16dd
-16cc
-=8
-16b
-16b
-8a
-8g
-=9
-16b
-16dd
-8cc
-16a
-16f#
-=10
-4g}
-8r
-==
-*-
+=5	=5
+{16cc	Dajże
+16dd	.
+8ee	Boże,
+16ddL	.
+16ccJ	.
+=6	=6
+16.b	plonowało,
+32b	.
+8a	.
+8g	.
+=7	=7
+16cc	po
+16dd	sto
+8ee	garncy
+16ddL	.
+16ccJ	.
+=8	=8
+16b	z_mendla
+16b	.
+8a	dało,
+8g	.
+=9	=9
+16bL	jegomości
+16ddJ/	.
+8cc	.
+16aL	.
+16f#J	.
+=10	=10
+4g}	w_dom.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Peasants
+!!!role-listener: Lord
+!!@@BEGIN: VERSES
+!!Przynieśliśmy plon jegomości w dom.
+!!Dajże Boże, plonowało,
+!!po sto garncy z mendla dało,
+!!jegomości w dom.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=182 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 158} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, p. 158}
 !!!page: 158
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-26

@@ -3,82 +3,150 @@
 !!!source: DWOK09
 !!!id: 09001
 !!!signature: 0900100000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16f
-16g
-8a
-8b-
-=2
-4cc
-16dd
-16cc
-=3
-16b-
-16b-
-8b-
-8b-
-=4
-16cc
-16b-
-4a}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16f	Mości
+16g	.
+8a	gospo-
+8b-/	.
+=2	=2
+4cc	-darzu,
+16ddL	.
+16ccJ	.
+=3	=3
+16b-	domowy
+16b-	.
+8b-	.
+8b-	sza-
+=4	=4
+16ccL	-farzu,
+16b-J	.
+4a}	.
 !!LO:LB:g=esac
-=5
-{16f
-16g
-8a
-8b-
-=6
-4cc
-16dd
-16cc
-=7
-16b-
-16b-
-8b-
-8b-
-=8
-16cc
-16b-
-4a}
+=5	=5
+{16f	mości
+16g	.
+8a	gospo-
+8b-/	.
+=6	=6
+4cc	-darzu,
+16ddL	.
+16ccJ	.
+=7	=7
+16b-	domowy
+16b-	.
+8b-	.
+8b-	sza-
+=8	=8
+16ccL	-farzu,
+16b-J	.
+4a}	.
 !!LO:LB:g=esac
-=9
-{4b-
-8b-
-=10
-16a
-16g
-8a
-8a
-=11
-4g
-8g
-=12
-16f
-16e
-8d
-8c}
+=9	=9
+{4b-	dobréj
+8b-	.
+=10	=10
+16a	z_alembika,
+16g	.
+8a	.
+8a	.
+=11	=11
+4g	i
+8g	do
+=12	=12
+16f	niéj
+16e	piernika,
+8d	.
+8c}	.
 !!LO:LB:g=esac
-=13
-{16f
-16g
-8a
-8b-
-=14
-8cc
-8a
-8g
-=15
-4f}
-8r
-==
-*-
+=13	=13
+{16f	hej
+16g	kolęda
+8a	.
+8b-/	.
+=14	=14
+8cc	kolę-
+8aL	.
+8gJ	.
+=15	=15
+4f}	da!
+8r	.
+==	==
+*-	*-
+!!!role-singer: Carolers
+!!!role-listener: Lord
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Mości gospodarzu, domowy szafarzu,
+!!nie bądź tak ospały, każ nam dać gorzały,
+!!dobréj z alembika, i do niéj piernika, —
+!!hej kolęda, kolęda!
+!!@VERSE:
+!!2. Chleba pytlowego, i masła do niego,
+!!każ stoły nakrywać, i talerze zmywać.
+!!Każ dać obiad hojny, boś Pan boga-bojny,
+!!hej kolęda, kolęda!
+!!@VERSE:
+!!3. Kaczka do rosołu, sztuka mięsa z wołu,
+!!w gęsi przysmarzanie, zjemy to mospanie,
+!!i udzik zajęcy, i do niego więcéj,
+!!hej kolęda, kolęda!
+!!@VERSE:
+!!4. Jendyk do podlewy, Panie miłościwy,
+!!i to czarne prosię, pomieści i to się.
+!!Każ upiec pieczonki, weźmiem do kieszonki,
+!!hej kolęda, kolęda!
+!!@VERSE:
+!!5. Mości gospodarzu, domowy szafarzu,
+!!każ dać butel wina, bo w brzuchu ruina.
+!!Dla większéj ofiary, daj dobréj gorzały,
+!!hej kolęda, kolęda!
+!!@VERSE:
+!!6. Piwo będziem pili, będziem się cieszyli:
+!!nie czekaj ruiny, daj połeć słoniny.
+!!Dla większéj ochoty, daj czerwony złoty,
+!!hej kolęda, kolęda!
+!!@VERSE:
+!!7. Albo talar bity, boś pan wyśmienity,
+!!daj i buty stare, albo nowych parę,
+!!(lub: aby tylko całe),
+!!daj i żupan stary, i grosik do fary,
+!!hej kolęda, kolęda!
+!!@VERSE:
+!!8. Mości gospodarzu, domowy szafarzu,
+!!każ śpichrze otworzyć, i miechy (worki) nasporzyć;
+!!żyta ze trzy wory, i woły z obory,
+!!hej kolęda, kolęda!
+!!@VERSE:
+!!9. Na piwo jęczmienia, koni do ciągnienia,
+!!jagły jeźli macie, to nam korzec dajcie;
+!!taterki na kaszę, kocham przyjaźń waszę,
+!!hej kolęda, kolęda!
+!!@VERSE:
+!!10. Grochu choć z pół-woru, z tutejszego dworu,
+!!na mąkę pszenicę, zjemy społem wszyscy,
+!!owsa ze trzy miary, dla większéj ofiary,
+!!hej kolęda, kolęda!
+!!@VERSE:
+!!11. Mościa gospodyni, domowa mistrzyni,
+!!okaż swoją łaskę, każ dać masła faskę;
+!!jeżeliś nie sknéra, daj i kopę séra,
+!!hej kolęda, kolęda!
+!!@VERSE:
+!!12. Mościa gospodyni, domowa mistrzyni,
+!!okaż swoją łaskę, każ upiec kiełbaskę,
+!!którą gdy zjemy, to podziękujemy,
+!!hej kolęda, kolęda!
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=141 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 117} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, p. 117}
 !!!page: 117
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-26

@@ -3,80 +3,94 @@
 !!!source: DWOK09
 !!!id: 09070
 !!!signature: 0907000001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{4dd
-4dd
-4dd
-=2
-4ff#
-2dd
-=3
-8a
-8dd
-4cc
-8b-
-8g
-=4
-2.a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{4dd	Oj
+4dd	chmielu,
+4dd	.
+=2	=2
+4ff#X	chmielu,
+2dd	.
+=3	=3
+8a\	ty
+8dd	rozbójni-
+4ccn	.
+8b-L	.
+8gJ	.
+=4	=4
+2.a;}	-ku,
 !!LO:LB:g=esac
-=5
-{4dd
-4dd
-4dd
-=6
-4ff#
-2dd
-=7
-8a
-8dd
-4cc
-8b-
-8g
-=8
-2.a}
+=5	=5
+{4dd	rozbiłeś
+4dd	.
+8ddL	.
+8eeJ/	.
+=6	=6
+4ff#X	dziewcze
+2dd	.
+=7	=7
+8cc#L	na
+8ddJ/	pastewni-
+4ccn	.
+8b-L	.
+8gJ	.
+=8	=8
+2.a;}	-ku.
 !!LO:LB:g=esac
-=9
-{4cc
-8b
-8g
-4a
-=10
-8a
-8dd
-8cc
-8b
-8a
-8g
-=11
-4cc
-8b
-8g
-4a
-=12
-8a
-8dd
-8cc
-8b
-8a
-8g}
+=9	=9
+{4cc	Oj
+8bnL	chmielu,
+8gJ	.
+4a	.
+=10	=10
+8a	oj
+8dd	nie-
+8ccL	-bo-
+8bJ	.
+8aL	-że,
+8gJ	.
+=11	=11
+4cc	to
+8bL	na
+8gJ	.
+4a	dół,
+=12	=12
+8a	to
+8dd	po
+8ccL	górze,
+8bJ	.
+8aL	.
+8gJ}	.
 !!LO:LB:g=esac
-=13
-{8a
-8dd
-4cc
-8b-
-8g
-=14
-2.a}
-==
-*-
+=13	=13
+{8a	chmielu
+8dd	.
+4cc	niebo-
+8b-L	.
+8gJ	.
+=14	=14
+2.a;}	-że.
+==	==
+*-	*-
+!!!role-listener: Hop
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Oj chmielu, chmielu,
+!!ty rozbójniku,
+!!rozbiłeś dziewcze
+!!na pastewniku.
+!!Oj chmielu, oj nieboże,
+!!to na dół, to po górze,
+!!chmielu nieboże.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=240 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 216} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, p. 216}
 !!!page: 216
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-26

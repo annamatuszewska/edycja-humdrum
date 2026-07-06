@@ -2,68 +2,90 @@
 !!!OTL: Narodził się nam Pan z nieba
 !!!source: DWOK09
 !!!id: 09004
-!!!signature: 0900400000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16a
-8b
-8dd
-=2
-16cc
-16cc
-16dd
-16cc
-8b}
+!!!signature: 090040000
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Narodził
+16a	.
+8b	.
+8dd	się
+=2	=2
+16cc	nam
+16cc	Pan
+16ddL	z_nieba,
+16ccJ/	.
+8b/}	.
 !!LO:LB:g=esac
-=3
-{16g
-16a
-8b
-8dd
-=4
-16cc
-16cc
-16dd
-16cc
-8b}
+=3	=3
+{16g	czegóż
+16a	.
+8b	nam
+8dd	wię-
+=4	=4
+16cc	-céj
+16cc	potrzeba?
+16ddL	.
+16ccJ/	.
+8b/}	.
 !!LO:LB:g=esac
-=5
-{8b
-4b
-=6
-8a
-8a
-8a}
+=5	=5
+{8b/	Hej,
+4b/	hej,
+=6	=6
+8a	pasterze,
+8a	.
+8a}	.
 !!LO:LB:g=esac
-=7
-{8b
-4b
-=8
-8a
-8a
-8a}
+=7	=7
+{8b/	grajcie
+4b/	.
+=8	=8
+8a	na
+8a	lirze
+8a}	.
 !!LO:LB:g=esac
-=9
-{16g
-16a
-8b
-8dd
-=10
-16cc
-16cc
-16dd
-16cc
-8b}
-==
-*-
+=9	=9
+{16g	narodzone-
+16a	.
+8b	.
+8dd	.
+=10	=10
+16cc	-mu
+16cc	dziś
+16ddL	Panu.
+16ccJ/	.
+8b}	.
+==	==
+*-	*-
+!!!role-singer: Caroler
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Narodził się nam Pan z nieba,
+!!czegóż nam więcéj potrzeba?
+!!Hej, hej, pasterze, grajcie na lirze,
+!!narodzonemu dziś Panu.
+!!@VERSE:
+!!2. Byłby niegdyś zginął świat cały,
+!!za grzéch Adama nie mały.
+!!Hej, hej, pasterze i t. d.
+!!@VERSE:
+!!3. Lecz go niewinna dziecina,
+!!swém narodzeniem zgładziła.
+!!Hej, hej, pasterze i t. d.
+!!@VERSE:
+!!4. Za to świętą Trójcę chwalmy,
+!!Bogu cześć i chwałę dajmy.
+!!Hej, hej, pasterze i t. d.
+!!@@END: VERSES
 !!!ONB: Dwudźwięki
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=144 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 120} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, p. 120}
 !!!page: 120
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-26

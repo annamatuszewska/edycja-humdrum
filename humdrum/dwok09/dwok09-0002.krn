@@ -2,86 +2,95 @@
 !!!OTL: W dzień Bożego narodzenia
 !!!source: DWOK09
 !!!id: 09002
-!!!signature: 0900200000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8d
-8g
-8g
-8g
-=2
-8g
-8b
-8a
-8g
-=3
-8d
-8g
-8g
-8g
-=4
-8g
-8b
-8a
-8g}
+!!!signature: 09002000000
+**kern	**text	**text
+*clefG2	*	*
+*k[f#]	*	*
+*G:	*	*
+*M2/4	*	*
+=1	=1	=1
+{8d	W_dzień	Król
+8g	Bożego	orzeł
+8g	.	.
+8g	.	na-
+=2	=2	=2
+8g	narodzenia,	-przód
+8b/	.	przyleciał,
+8a	.	.
+8g	.	.
+=3	=3	=3
+8d	radość	gdy
+8g	.	się
+8g	wszystkie-	o
+8g	.	go-
+=4	=4	=4
+8g	-go	-dach
+8b/	stworzenia.	dowiedział.
+8a	.	.
+8g}	.	.
 !!LO:LB:g=esac
-=5
-{8dd
-8cc
-8b
-8dd
-=6
-4b
-4a
-=7
-8dd
-8cc
-8b
-8g
-=8
-4a
-4g
-=9
-8b
-8cc
-8dd
-8b
-=10
-4a
-4g}
+=5	=5	=5
+{8dd	Ptastwo	Nawiedził
+8cc	.	.
+8b	chwali	.
+8dd	.	dzie-
+=6	=6	=6
+4b	Pana,	-ciątko
+4a	.	.
+=7	=7	=7
+8dd	bydło	małe
+8cc	.	.
+8b	na	pacho-
+8g	ko-	.
+=8	=8	=8
+4a	-lana	-lątko
+4g	.	.
+=9	=9	=9
+8b	upada,	w_Betlejem
+8cc	.	.
+8dd	.	.
+8b	u-	w_Be-
+=10	=10	=10
+4a	-pada,	-tlejem,
+4g}	.	.
 !!LO:LB:g=esac
-=11
-{8dd
-8cc
-8b
-8dd
-=12
-4b
-4a
-=13
-8dd
-8cc
-8b
-8g
-=14
-4a
-4g
-=15
-8b
-8cc
-8dd
-8b
-=16
-4a
-4g}
-==
-*-
+=11	=11	=11
+{8dd	ptastwo	nawiedził
+8cc	.	.
+8b	chwali	.
+8dd	.	dzie-
+=12	=12	=12
+4b	Pana,	-ciątko
+4a	.	.
+=13	=13	=13
+8dd	bydło	małe
+8cc	.	.
+8b	na	pacho-
+8g	ko-	.
+=14	=14	=14
+4a	-lana	-lątko
+4g	.	.
+=15	=15	=15
+8b	upada,	w_Betlejem
+8cc	.	.
+8dd	.	.
+8b	u-	w_Be-
+=16	=16	=16
+4a	-pada.	-tlejem.
+4g}	.	.
+==	==	==
+*-	*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1.W dzień Bożego narodzenia, radość wszystkiego stworzenia. Ptastwo chwali Pana, bydło na kolana upada, upada.
+!!@VERSE:
+!!2. Król orzeł naprzód przyleciał, gdy się o godach dowiedział. Nawiedził Dzieciątko, małe pacholątko, w Betlejem, w Betlejem.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=143 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 119} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, p. 119}
 !!!page: 119
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-26

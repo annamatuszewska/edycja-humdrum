@@ -3,51 +3,67 @@
 !!!source: DWOK09
 !!!id: 09008
 !!!signature: 0900800001
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16g
-16b
-8dd
-8dd
-=2
-16.dd
-32ff
-8dd
-8b
-=3
-16cc
-16ee
-4cc
-=4
-16g
-16b
-4dd}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16g	A
+16b	trzeba
+8dd	.
+8dd	dać
+=2	=2
+16.dd	podkoziołek,
+32ff	.
+8dd	.
+8b	.
+=3	=3
+16cc	trzeba
+16ee	.
+4cc	dać,
+=4	=4
+16g	trzeba
+16b	.
+4dd}	dać,
 !!LO:LB:g=esac
-=5
-{16g
-16b
-8dd
-8dd
-=6
-16dd
-16ff#
-4gg
-=7
-16dd
-16ee
-4cc
-=8
-16a
-16b
-4g}
-==
-*-
+=5	=5
+{16g	nie
+16b	małoć
+8dd	.
+8dd	to
+=6	=6
+16dd	całki
+16ff#	.
+4gg	rok,
+=7	=7
+16dd	ubadać,
+16ee	.
+4cc	.
+=8	=8
+16a\	ubadać.
+16b	.
+4g}	.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!role-listener: Maiden
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!A trzeba dać podkoziołek, trzeba dać, trzeba dać,
+!!nie małoć to całki rok, ubadać, ubadać.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Ubadać znaczy tyle, co spostrzeżenia robić między kawalerami i stara-
+!!nia, by ich zniewolić ku sobie wśród zabawy i tańca. Uważają podko-
+!!ziołek za stósowny czas do opłacenia niejako kary za bezowocne przez
+!!cały rok dziewcząt zabiegi, by się kawalerom podobać.
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=148 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 124} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, p. 124}
 !!!page: 124
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-26

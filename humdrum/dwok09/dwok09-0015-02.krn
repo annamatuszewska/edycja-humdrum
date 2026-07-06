@@ -3,58 +3,75 @@
 !!!source: DWOK09
 !!!id: 09015
 !!!signature: 0901500002
-**kern
-*clefG2
-*k[b-]
-*F:
-*M4/4
-=1
-{4a
-4a
-4b-
-4a
-=2
-4g
-4a
-4f
-4f
-=3
-4a
-4cc
-4b-
-4a
-=4
-4g
-4a
-8f
-8e
-4c}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M4/4	*
+*met(c)	*
+=1	=1
+{4a\	Przyśliśmy
+4a\	.
+4b-	.
+4a\	tu
+=2	=2
+4g	po
+4a	dyngusie,
+4f	.
+4f	.
+=3	=3
+4a\	zaśpiewajmy
+4cc/	.
+4b-	.
+4a	.
+=4	=4
+4g	o
+4a	Jezusie,
+8fL	.
+8eJ	.
+4c}	.
 !!LO:LB:g=esac
-=5
-{4f
-4f
-4g
-4f
-=6
-4g
-4a
-8b-
-8a
-4a
-=7
-4a
-4cc
-4.b-
-8a
-=8
-4g
-4a
-4f
-4f}
-==
-*-
+=5	=5
+{4f	o
+4f	Panience,
+4g	.
+4f	.
+=6	=6
+4g	świętym
+4a	.
+8b-L	Piotrze,
+8aJ	.
+4a	.
+=7	=7
+4a	o
+4cc	Judaszu
+4.b-	.
+8a\	.
+=8	=8
+4g	i
+4a	o
+4f	łotrze.
+4f}	.
+==	==
+*-	*-
+!!!role-singer: Easter Carolers
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1.Przyśliśmy tu po dyngusie,
+!!zaśpiewajmy o Jezusie,
+!!o Panience, świętym Piotrze,
+!!o Judaszu i o łotrze.
+!!@VERSE:
+!!2. A gosposia skrzętna, szczéra,
+!!da nam wódki, chleba, séra,
+!!mając w domu z Bożéj, łaski,
+!!placki, jaja i kiełbaski.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=160 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 136} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, p. 136}
 !!!page: 136
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-26

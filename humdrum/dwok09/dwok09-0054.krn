@@ -3,53 +3,62 @@
 !!!source: DWOK09
 !!!id: 09054
 !!!signature: 0905400000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{8a
-8cc
-4ee
-4b
-=2
-8cc
-8dd
-8dd
-8dd
-8b
-8g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+{8a\	Przyjechali
+8cc	.
+4ee	.
+4b	.
+=2	=2
+8cc	kupczykowie
+8dd	.
+8dd	.
+8dd	.
+8b	z_Chełmna,
+8g}	.
 !!LO:LB:g=esac
-=3
-{8e
-8e
-4ee
-4b
-=4
-8dd
-8cc
-8cc
-8cc
-8b
-8b}
+=3	=3
+{8e	pytają
+8e	.
+4ee	.
+4b	się
+=4	=4
+8dd	po
+8cc	czemu
+8cc	.
+8cc	ta
+8b	wełna?
+8b}	.
 !!LO:LB:g=esac
-=5
-{8e
-8e
-4ee
-4b
-=6
-8dd
-8cc
-8cc
-8cc
-8b
-8b}
-==
-*-
+=5	=5
+{8e	po
+8e	talarku,
+4ee	.
+4b	.
+=6	=6
+8dd	po
+8cc	talarku
+8cc	.
+8cc	.
+8b	spełna.
+8b}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Merchants
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!Przyjechali kupczykowie z Chełmna,
+!!pytają się po czemu ta wełna?
+!!po talarku, po talarku spełna.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=221 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 197} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, p. 197}
 !!!page: 197
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-26

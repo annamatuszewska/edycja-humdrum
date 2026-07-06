@@ -3,77 +3,83 @@
 !!!source: DWOK09
 !!!id: 09003
 !!!signature: 0900300002
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{8cc
-8a
-8cc
-=2
-16cc
-16b-
-4g
-=3
-8b-
-8g
-8b-
-=4
-16b-
-16a
-4f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{8ccL	Hej
+8aJ/	.
+8cc	nam
+=2	=2
+16ccL	hej,
+16b-J	.
+4g	.
+=3	=3
+8b-L	hej
+8gJ	.
+8b-	nam
+=4	=4
+16b-L	hej.
+16aJ\	.
+4f}	.
 !!LO:LB:g=esac
-=5
-{4f
-8f
-=6
-16dd
-16cc
-4cc
-=7
-8b-
-8g
-8b-
-=8
-16b-
-16a
-4a
-=9
-4f
-8f
-=10
-16dd
-16cc
-4cc
-=11
-8b-
-8g
-8b-
-=12
-16b-
-16a
-4a
-=13
-16cc
-16b-
-4g
-=14
-16b-
-16a
-4f
-=15
-8a
-8g
-8e
-=16
-4f}
-8r
-==
-*-
+=5	=5
+{4f	Dziecią-
+8f	.
+=6	=6
+16ddL	-tko
+16ccJ	.
+4cc	się
+=7	=7
+8b-L	na-
+8gJ	.
+8b-	-ro-
+=8	=8
+16b-L	-dziło,
+16aJ\	.
+4a\	.
+=9	=9
+4f	wszystek
+8f	.
+=10	=10
+16ddL	świat
+16ccJ	.
+4cc	u-
+=11	=11
+8b-L	-wese-
+8gJ	.
+8b-	.
+=12	=12
+16b-L	-liło,
+16aJ\	.
+4a\	.
+=13	=13
+16ccL	hej
+16b-J	.
+4g	nam
+=14	=14
+16b-L	hej,
+16aJ	.
+4f	.
+=15	=15
+8aL	hej
+8gJ	.
+8e	nam
+=16	=16
+4f}	hej!
+8r	.
+==	==
+*-	*-
+!!!role-singer: Caroler
+!!@@BEGIN: VERSES
+!!Hej nam hej, hej nam hej. Dzieciątko się narodziło, wszystek świat uweseliło, hej nam hej, hej nam hej!
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=144 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 120} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, p. 120}
 !!!page: 120
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-26
