@@ -3,65 +3,81 @@
 !!!source: DWOK41
 !!!id: 41356
 !!!signature: 4135600001
-**kern
-*clefG2
-*k[]
-*a:
-*M2/4
-=1
-{8a
-8a
-8b
-8g
-=2
-4cc
-4dd
-=3
-2ee}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M2/4	*
+=1	=1
+{8a	Li-
+8a	-pka,
+8b	li-
+8g	-pka
+=2	=2
+4cc	zie-
+4dd	-lo-
+=3	=3
+2ee}	-na,
 !!LO:LB:g=esac
-=4
-{8dd
-8ee
-8ff
-8dd
-=5
-4ee
-8cc
-8b
-=6
-2cc}
+=4	=4
+{8dd	li-
+8ee	-pka,
+8ff	li-
+8dd	-pka
+=5	=5
+4ee	zie-
+8ccL	-lo-
+8bJ	.
+=6	=6
+2cc}	-na,
 !!LO:LB:g=esac
-=7
-{4ee
-8cc
-8ee
-=8
-4dd
-4g
-=9
-8cc
-8cc
-8dd
-8b
-=10
-4cc
-4g}
+=7	=7
+{4ee	a
+8cc	pod
+8ee	tą
+=8	=8
+4dd	li-
+4g	-pką,
+=9	=9
+8cc	a
+8cc	pod
+8dd	tą
+8b	zie-
+=10	=10
+4cc	-lo-
+4g}	-ną
 !!LO:LB:g=esac
-=11
-{8cc
-8cc
-8dd
-8dd
-=12
-4ee
-8a
-8g#
-=13
-2a}
-==
-*-
+=11	=11
+{8cc	trzej
+8cc	ptasz-
+8dd	-ko-
+8dd	-wie
+=12	=12
+4ee	spie-
+8aL	-wa-
+8g#J	.
+=13	=13
+2a}	-ją.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Lipka, lipka zielona,
+!!lipka, lipka zielona,
+!!a pod tą lipką,
+!!a pod tą zieloną
+!!trzej ptaszkowie spiewało.
+!!@VERSE:
+!!2. Nie byli to ptaszkowie,
+!!grzeczni kawalerowie;
+!!i zmawiali się
+!!na jedną Marysię,
+!!któremu się dostanie.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=282 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 203} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 203}
 !!!page: 203
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-30

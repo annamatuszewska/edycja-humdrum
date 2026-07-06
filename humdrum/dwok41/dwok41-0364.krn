@@ -3,56 +3,66 @@
 !!!source: DWOK41
 !!!id: 41364
 !!!signature: 4136400000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8g
-8b
-4dd
-4ff
-=2
-8ee
-8ee
-4ee
-4gg
-=3
-8g
-8b
-4dd
-4ff
-=4
-8ee
-8ee
-4ee
-4cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8gL	Oj,
+8b/J	.
+4dd	ocz-
+4ff	-ki,
+=2	=2
+8ee	mo-
+8ee	-dre
+4ee	ocz-
+4gg	-ki,
+=3	=3
+8gL	[da],
+8b/J	.
+4dd	a-
+4ff	-le
+=4	=4
+8ee	nie-
+8ee	-po-
+4ee	-zor-
+4cc}	-ne,
 !!LO:LB:g=esac
-=5
-{8a
-8b
-4cc
-4a
-=6
-8a
-8a
-4b
-4dd
-=7
-8dd
-8b
-4cc
-4a
-=8
-8a
-8a
-4b
-4g}
-==
-*-
+=5	=5
+{8aL	oj,
+8b/J	.
+4cc	po-
+4a	-zor-
+=6	=6
+8a	-niej-
+8a	-sze
+4b	si-
+4dd	-we,
+=7	=7
+(8eeq	.
+8dd)L	da,
+8bJ	.
+4cc	a-
+4a	-le
+=8	=8
+8a	nie-
+8a	-szczę-
+4b	-śli-
+4g}	-we.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oj, oczki, modre oczki,
+!![da], ale niepozorne,
+!!oj, pozorniejsze siwe,
+!!da, ale nieszczęśliwe.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=285 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 206} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 206}
 !!!page: 206
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-30

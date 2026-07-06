@@ -3,63 +3,74 @@
 !!!source: DWOK41
 !!!id: 41314
 !!!signature: 4131400010
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/4
-=
-{8cc
-8dd
-4ee
-12cc
-12dd
-12ee
-=1
-8ff
-8cc
-4a
-4f
-=
-12g
-12a
-12b-
-4g
-4e
-=2
-8f
-8a
-4cc
-4ff}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/4	*
+=1	=1
+{8cc	A
+8dd	ja
+4ee	ja-
+12ccL	-dę,
+12dd	.
+12eeJ	.
+=2	=2
+8ff	ko-
+8cc	-nie
+4a	sto-
+4f	-ją,
+=3	=3
+12gL	nie
+12aJ	.
+12b-/	bę-
+4g	-dziesz
+4e	ty,
+=4	=4
+8f	Ka-
+8a	-siu,
+4cc	mo-
+4ff}	-ją.
 !!LO:LB:g=esac
-=
-{8cc
-8dd
-4ee
-12cc
-12dd
-12ee
-=3
-8ff
-8cc
-4a
-4f
-=
-12g
-12a
-12b-
-4g
-4e
-=4
-8f
-8g
-4a
-4f}
-==
-*-
+=5	=5
+{8cc	a-
+8dd	-ni
+4ee	mo-
+12ccL	-ją,
+12dd	.
+12eeJ	.
+=6	=6
+8ff	a-
+8cc	-ni
+4a	czy-
+4f	-ją.
+=7	=7
+12gL	nie
+12aJ	.
+12b-/	bę-
+4g	-dziesz
+4e	ty
+=8	=8
+8f	gos-
+8g	-po-
+4a	-dy-
+4f}	-nią.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A ja jadę, konie stoją,
+!!nie będziesz ty, Kasiu, moją.
+!!ani moją, ani czyją.
+!!nie będziesz ty gospodynią.
+!!@@END: VERSES
+!!!role-singer: Man
+!!!role-listener: Woman
+!!!singer-sex: Male
 !!!ONB: Partia wokalna
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=265 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 186-187} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 186-187}
 !!!page: 186-187
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-27

@@ -3,51 +3,59 @@
 !!!source: DWOK41
 !!!id: 41336
 !!!signature: 4133600000
-**kern
-*clefG2
-*k[]
-*a:
-*M2/4
-=1
-{8a
-8a
-8cc
-8a
-=2
-8dd
-8g#
-4e}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M2/4	*
+=1	=1
+{8a	Z_tam-
+8a	-tej
+8cc	stro-
+8a	-ny
+=2	=2
+8b/	je-
+8g#	-zio-
+4e}	-ra,
 !!LO:LB:g=esac
-=3
-{8cc
-8cc
-8ee
-8ee
-=4
-8dd
-8dd
-16dd
-16ff
-16ee
-16dd}
+=3	=3
+{8cc	[z_tam-
+8cc	-tej
+8ee	stro-
+8ee	-ny],
+=4	=4
+8dd	li-
+8dd	-pcem
+16dd	ja-
+16ff	-wo-
+16eLe	-rem,
+16ddJ}	.
 !!LO:LB:g=esac
-=5
-{16cc
-16b
-16a
-16g#
-16a
-16cc
-16b
-16a
-=6
-8ee
-8g#
-4a}
-==
-*-
+=5	=5
+{16ccL	Woj-
+16bJ	.
+16aL	-tek
+16g#J	.
+16a	za
+16cc	bo-
+16b/L	-rem,
+16aJ	.
+=6	=6
+8ee	[je-
+8g#	-zio-
+4a}	-ra].
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Z tamtej strony jeziora,
+!![z tamtej strony], lipcem jaworem,
+!!Wojtek za borem, [jeziora].
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=275 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 196} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 196}
 !!!page: 196
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-30

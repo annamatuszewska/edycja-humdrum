@@ -3,60 +3,75 @@
 !!!source: DWOK41
 !!!id: 41318
 !!!signature: 4131800000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8g
-8a
-4b
-4dd
-=2
-8ee
-8cc
-4b
-8a
-8f#
-=3
-8g
-8a
-4b
-8cc
-8dd
-=4
-8ee
-8cc
-4.b
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8g	Oj,
+8a	co
+4b	mi
+4dd	to
+=2	=2
+8ee	za
+8cc	u-
+4b	-cie-
+8aL	-cha
+8f#J	.
+=3	=3
+8g	z_ko-
+8a	-bie-
+4b	-ty
+8ccL	mło-
+8ddJ	.
+=4	=4
+8ee	-déj,
+8cc	da,
+4.b	mło-
+8g}	-déj,
 !!LO:LB:g=esac
-=5
-{8g
-8a
-4b
-8a
-8b
-=6
-8cc
-8b
-4cc
-8a
-8f#
-=7
-8g
-8a
-4b
-4dd
-=8
-8ee
-8cc
-4.b
-8g}
-==
-*-
+=5	=5
+{8g	o-
+8a	-ber-
+4b	-wie
+8aL	mi
+8b/J	.
+=6	=6
+8cc	się
+8b	po
+4cc	gło-
+8aL	-wie
+8f#J	.
+=7	=7
+8g	dzba-
+8a	-nu-
+4b	-siem
+4dd	wo-
+=8	=8
+8ee	-dy,
+8cc	da,
+4.b	wo-
+8g}	-dy.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj, co mi to za uciecha
+!!z kobiety młodéj, da, młodéj,
+!!oberwie mi się po głowie
+!!dzbanusiem wody, da, wody.
+!!@VERSE:
+!!2. Oj, cóż mi to za uciecha
+!!chłopa starego, starego.
+!!usiędę ja kole niego
+!!jak kole drewna zgniłego.
+!!@@END: VERSES
+!!!role-singer: Narrators
+!!!singer-sex: Male, Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=268 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 189} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 189}
 !!!page: 189
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-27
