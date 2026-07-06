@@ -3,133 +3,146 @@
 !!!source: DWOK41
 !!!id: 41551
 !!!signature: 4155100001
-**kern
-*clefG2
-*k[b-]
-*F:
-*M2/4
-{8c
-=1
-4f
-8f
-8f
-=2
-4a
-8f
-8e
-=3
-4d
-8d
-8d
-=4
-4f
-8e
-8d
-=5
-4c
-8c
-8c
-=6
-4c
-8d
-8e
-=7
-4f
-4f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M2/4	*
+{8c	Gdy
+=1	=1
+4f	na-
+8f	-ród
+8f	na
+=2	=2
+4a	po-
+8f	-le
+8e	wy-
+=3	=3
+4d	-stą-
+8d	-pił
+8d	z_o-
+=4	=4
+4f	-rę-
+8e	-żem,
+8d	pa-
+=5	=5
+4c	-no-
+8c	-wie
+8c	na
+=6	=6
+4c	sej-
+8d	-mach
+8e	ra-
+=7	=7
+4f	-dzi-
+4f}	-li,
 !!LO:LB:g=esac
-=8
-4r
-8r
-{8c
-=9
-4f
-8f
-8f
-=10
-4a
-8f
-8e
-=11
-4d
-8d
-8d
-=12
-4f
-8e
-8d
-=13
-4c
-8c
-8c
-=14
-4c
-8d
-8e
-=15
-4f
-4f}
+=8	=8
+4r	.
+8r	.
+{8c	gdy
+=9	=9
+4f	na-
+8f	-ród
+8f	wy-
+=10	=10
+4a	-krzy-
+8f	-knął:
+8e	zgi-
+=11	=11
+4d	-niem
+8d	lub
+8d	zwy-
+=12	=12
+4f	-cię-
+8e	-żem,
+8d	pa-
+=13	=13
+4c	-no-
+8c	-wie
+8c	o
+=14	=14
+4c	czyn-
+8d	-szach
+8e	mó-
+=15	=15
+4f	-wi-
+4f}	-li.
 !!LO:LB:g=esac
-=16
-2r
-=17
-{4b-
-8b-
-8b-
-=18
-4b-
-8a
-8g
-=19
-2a
-=20
-4g
-8r
-8g
-=21
-4b-
-8b-
-8b-
-=22
-4b-
-8a
-8g
-=23
-2a
-=24
-4g}
-4r
+=16	=16
+2r	.
+=17	=17
+{4b-	Cześć
+8b-	wam,
+8b-	pa-
+=18	=18
+4b-	-no-
+8a	-wie
+8g	ma-
+=19	=19
+2a	-gna-
+=20	=20
+4g	-ci,
+8r	.
+8g	za
+=21	=21
+4b-	na-
+8b-	-szą
+8b-	nie-
+=22	=22
+4b-	-wo-
+8a	-lę,
+8g	kaj-
+=23	=23
+2a	-da-
+=24	=24
+4g}	-ny,
+4r	.
 !!LO:LB:g=esac
-=25
-{4f
-8f
-8f
-=26
-4a
-8f
-8e
-=27
-4d
-8d
-8d
-=28
-4f
-8e
-8d
-=29
-4c
-8c
-8c
-=30
-4c
-8d
-8e
-=31
-4f
-4f}
-==
-*-
+=25	=25
+{4f	cześć
+8f	wam,
+8f	ksią-
+=26	=26
+4a	-żę-
+8f	-ta,
+8e	hra-
+=27	=27
+4d	-bio-
+8d	-wie,
+8d	pra-
+=28	=28
+4f	-ła-
+8e	-ci,
+8d	za
+=29	=29
+4c	kraj
+8c	nasz
+8c	krwią
+=30	=30
+4c	bra-
+8d	-tnią
+8e	zbry-
+=31	=31
+4f	-zga-
+4f}	-ny.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Gdy naród na pole wystąpił zorężem,
+!!panowie na sejmach radzili,
+!!gdy naród wykrzyknął: zginiem lub zwyciężem,
+!!panowie o czynszach mówili. 
+!!Cześć wam, panowie magnaci,
+!!za naszą niewolę, kajdany,
+!!cześć wam, książęta, hrabiowie, prałaci,
+!!za kraj nasz krwią bratnią zbryzgany.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=372 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 289-290} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 289-290}
 !!!page: 289-290
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-27

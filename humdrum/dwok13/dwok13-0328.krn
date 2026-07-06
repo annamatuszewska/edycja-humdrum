@@ -1,59 +1,78 @@
-!!!!SEGMENT: DWOK1332800000-dziewczyno_przadz_jeno.krn
-!!!OTL: Dziewczyno prządź jeno
+﻿!!!!SEGMENT: DWOK1332800000-dziewczyno_przadz_jeno.krn
+!!!OTL: Dziewczyno prządź jeno. Do koła
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kostrzyna (Iwno)
+!!!AR1: wielkopolskie ; poznański ; Kostrzyn-obszar wiejski
+!!!GE1: 52.403892 , 17.271959
 !!!source: DWOK13
 !!!id: 13328
 !!!signature: 1332800000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8cc
-8ee
-8dd
-=2
-16dd
-16cc
-8a
-8dd
-=3
-8cc
-8ee
-8dd
-=4
-16dd
-16cc
-8a
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Do-koła.	!
+{8cc	Dziewczy-
+8ee	.
+8dd	-no,
+=2	=2
+16ddL	prządź
+16ccJ	.
+8a/L	je-
+8ddJ	-no,
+=3	=3
+8cc	nie
+8ee	brzę-
+8dd	-czy
+=4	=4
+16ddL	wrze-
+16ccJ	.
+8a\	-ciono
+8g}\	.
 !!LO:LB:g=esac
-=5
-{8b
-8g
-8a
-=6
-16dd
-32cc
-32b
-8a
-8dd
-=
-24dd
-24ee
-24a
-8g
-24f#
-24g
-24a
-=7
-16dd
-16cc
-8a
-8g}
-==
-*-
+=5	=5
+{8b	Nie
+8g	brzę-
+8a\	-czy,
+=6	=6
+16dd/L	nie
+32cc	.
+32bJ	.
+8aL	będzie,
+8dd/J	.
+=7	=7
+*Xtuplet	*
+24b/	bo
+24cc/	.
+24aJ	.
+8g	Ka-
+24f#L	-sia
+24g	.
+24aJ	.
+=8	=8
+16ddL	nie
+16ccJ	.
+8a\	przędzie.
+8g}\	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Dziewczyno, prządź jeno,
+!!nie brzęczy wrzeciono
+!!Nie brzęczy, nie będzie,
+!!bo Kasia nie przędzie.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!role-listener: Girl
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=169 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 145} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 145}
 !!!page: 145
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-22
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-26

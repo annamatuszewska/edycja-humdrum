@@ -5,7 +5,7 @@
 !!!signature: 4159800002
 **kern
 *clefG2
-*k[b-e-]
+*k[b-]
 *g:
 *M3/4
 =1
@@ -13,41 +13,41 @@
 4b-
 4dd
 =2
-8cc
-8ee-
+8ccL
+8ee-J
 4gg
 4dd
 =3
 4cc#
 4g
-8b-
-8a
+8b-/L
+8aJ
 =4
-8g
-8e
+8gL
+8eJ
 4f#
 4f#}
 !!LO:LB:g=esac
 =5
-{8g
-8b-
+{8g\L
+8b-J
 4dd
 4ee
 =6
-8dd
-8cc#
+8ddL
+8cc#J
 4g
-8a
-8b-
+8a\L
+8b-J
 =7
-8dd
-8cc#
+8ddL
+8cc#J
 4g
-8b-
-8a
+8b-/L
+8aJ
 =8
-8g
-8e
+8gL
+8eJ
 4f#
 4f#}
 ==
@@ -57,3 +57,5 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=392 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 307} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 307}
 !!!page: 307
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-06-01

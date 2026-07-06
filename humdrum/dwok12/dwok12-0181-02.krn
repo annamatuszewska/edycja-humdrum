@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1218100002-z_poniedzialku_na_swieto.krn
+﻿!!!!SEGMENT: DWOK1218100002-z_poniedzialku_na_swieto.krn
 !!!OTL: Z poniedziałku na święto
+!!!FKT: Pieśni i Dumy. Pieśni przed Weselem i wśród Wesela śpiewane
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Poznania (Spławie)
+!!!AR1: wielkopolskie ; m. Poznań ; Poznań-gmina miejska
+!!!GE1: 52.350785 , 17.025783
 !!!source: DWOK12
 !!!id: 12181
 !!!signature: 1218100002
@@ -51,8 +56,8 @@
 {8aq	.
 16b-	a
 16b-	nie
-8.a\	wiedział
-16c\	.
+8.a\L	wiedział
+16c\J	.
 =11	=11
 16c	którą
 16c	.
@@ -84,3 +89,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

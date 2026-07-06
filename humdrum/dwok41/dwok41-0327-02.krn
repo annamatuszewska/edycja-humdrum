@@ -1,57 +1,66 @@
-!!!!SEGMENT: DWOK4132700002-oj_radzila_sie_ksiezy.krn
+!!!!SEGMENT: DWOK4123700001-oj_radzila_sie_ksiezy.krn
 !!!OTL: Oj, radziła się księży
 !!!source: DWOK41
 !!!id: 41327
-!!!signature: 4132700002
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M3/4
-=1
-{4a
-4b-
-4dd
-=2
-8dd
-8cc
-4ff
-8ee-
-8cc
-=3
-4a
-4b-
-4ee-
-=4
-8ee-
-8cc
-4dd
-8cc
-8b-}
+!!!signature: 4123700002
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M3/4	*
+=1	=1
+{4a	Oj,
+4b-	ra-
+4dd	-dzi-
+=2	=2
+8dd	-ła
+8cc	się
+4ff	księ-
+8ee-L	-ży,
+8ccJ	_
+=3	=3
+4a	da,
+4b-	że
+4ee-	jej
+=4	=4
+8ee-	wia-
+8cc	-nek
+4ddm	cię-
+8cc/L	-ży,
+8b-/J}	.
 !!LO:LB:g=esac
-=5
-{4a
-4b-
-4dd
-=6
-8dd
-8cc
-4ff
-8ee-
-8cc
-=7
-4a
-4b-
-4ee-
-=8
-8ee-
-8cc
-4dd
-4b-}
-==
-*-
+=5	=5
+{4a	ra-
+4b-	-da
+4dd	by
+=6	=6
+8dd	go
+8cc	poz-
+4ff	-by-
+8ee-L	-ła,
+8ccJ	_
+=7	=7
+4a	że-
+4b-	-by
+4ee-	gro-
+=8	=8
+8ee-	-sza
+8cc	na-
+4ddm	-by-
+4b-}	-ła.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oj, radziła się księży.
+!!da, że jej wianek cięży,
+!!rada by go pozbyła,
+!!żeby grosza nabyła.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=272 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 193-194} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 193-194}
 !!!page: 193-194
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-27

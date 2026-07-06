@@ -1,55 +1,109 @@
-!!!!SEGMENT: DWOK1242900000-rozlecialy_sie_golebie.krn
+﻿!!!!SEGMENT: DWOK1242900000-rozlecialy_sie_golebie.krn
 !!!OTL: Rozleciały się gołębie
+!!!FKT: Pieśni i Dumy. Dumy. Zdrada. Zabójstwo
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Wrześni
+!!!AR1: wielkopolskie ; wrzesiński ; Września-miasto
+!!!GE1: 52.325822 , 17.565352
 !!!source: DWOK12
 !!!id: 12429
 !!!signature: 1242900000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16b
-8dd
-8dd
-=2
-16ee
-16ee
-8dd
-8cc
-=3
-16b
-16dd
-4b
-=4
-16a
-16a
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Rozlecia-
+16b	.
+8dd	.
+8dd	-ły
+=2	=2
+16ee	się
+16ee	gołębie
+8dd	.
+8cc	.
+=3	=3
+16b	po
+16dd	polu,
+4b	.
+=4	=4
+16a	po
+16a	polu,
+4g}	.
 !!LO:LB:g=esac
-=5
-{16g
-16b
-8dd
-16cc
-16b
-=6
-8.a
-16g
-16a
-16b
-=7
-16cc
-16cc
-4b
-=8
-16a
-16a
-4g}
-==
-*-
+=5	=5
+{16g	wywi-
+16b	.
+8dd	-ja
+16ccL	Ja-
+16bJ	.
+=6	=6
+8.a	-sio
+16g	Jasi-
+16a	.
+16b/	-nek
+=7	=7
+16cc	na
+16cc	koniu,
+4b	.
+=8	=8
+16a	na
+16a	koniu.
+4g}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Rozleciały się gołębie po polu, po polu,
+!!wywija Jasio Jasinek na koniu.
+!!@VERSE:
+!!2. A Kasińka się w niego zapatruje,
+!!z czerwony róży wianeczek sznuruje.
+!!@VERSE:
+!!3. Zapatrzyła się na jego urodę,
+!!rzuciła dziécię maleńkie na wodę.
+!!@VERSE:
+!!4. A dzieciątko płynie i wody nie mąci,
+!!skarze cię Pan Bóg, że mnie bałamącisz.
+!!@VERSE:
+!!5. W niedzielę rano słoneczko igrało,
+!!wiejskie panienki stanęły w koło.
+!!@VERSE:
+!!6. Nadobna Kasinko, stanęła za drzwiamy,
+!!spojźdrzy na Jasia, zaleje się łzamy.
+!!@VERSE:
+!!7. Nadobna Kasińko, chcesz moją żoną być,
+!!mogę cię jeszcze od śmierci odkupić.
+!!@VERSE:
+!!8. Matka moja, matka, nie była królewą,
+!!i ja téż nie chcę być żadną mistrzewą.
+!!@VERSE:
+!!9. A żeli mię chcecie, włóżcie mię na ogień,
+!!i upalcie ze mnie drobnego popiołu,
+!!i rozsiejcie mnie w tem iwińskiém polu.
+!!@VERSE:
+!!10. Z tego popiołu wykwita śliczny kwiat,
+!!płacze mię płacze, płacze cały świat.
+!!@VERSE:
+!!11. Z tego popiołu wykwita lelija,
+!!płacze mię płacze, cała familija.
+!!@VERSE:
+!!12. Z tego popiołu wykwita kwiecina,
+!!płacze mię płacze, cała i rodzina.
+!!@VERSE:
+!!13. Z tego popiołu wykwita fijolek,
+!!jużci się nad grobem uwija aniołek.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=239 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 223} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 223}
 !!!page: 223
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

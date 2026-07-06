@@ -1,0 +1,135 @@
+!!!!SEGMENT: DWOK1326200000-moja_matka_dobra_byla.krn
+!!!OTL: Moja matka dobra była
+!!!source: DWOK13
+!!!id: 13262
+!!!signature: 1326200000
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{4ff	Mo-
+4ff	-ja
+8ff	matka
+8ee	.
+=2	=2
+8cc	do-
+8b	-bra
+4g	by-
+4a}\	-ła,
+!!LO:LB:g=esac
+=3	=3
+{8g	wszystkiego
+8b	.
+4cc	.
+4dd	mię
+=4	=4
+8cc	na-
+8b	-u-
+4g	-czy-
+4a}\	-ła,
+!!LO:LB:g=esac
+=5	=5
+{8g	we
+8b	dnie
+4cc	ro-
+4dd	-bić,
+=6	=6
+8ee	w_no-
+8gg	-cy
+4ff	wstá-
+4dd}	-wać,
+!!LO:LB:g=esac
+=7	=7
+{8g	z_dziewucha-
+8b	.
+4cc	.
+4dd	-mi
+=8	=8
+8cc	po-
+8b	-dry-
+4g	-go-
+4a}\	-wać.
+!!LO:LB:g=esac
+=9	=9
+{4ff	Mo-
+4ff	-ja
+8ff	matka
+8ee	.
+=10	=10
+8cc	do-
+8b	-bra
+4g	by-
+8aL	-ła,
+8f}J	.
+!!LO:LB:g=esac
+=11	=11
+{8g	ro-
+8b	-bo-
+4cc	-ty
+4dd	mnie
+=12	=12
+8cc	dość
+8b	u-
+4g	-czy-
+8aL	-ła,
+8f}J	.
+!!LO:LB:g=esac
+=13	=13
+{8g	piosnki
+8b	.
+4cc	śpiewać
+4dd	.
+=14	=14
+8ee	i
+8gg	tań-
+4ff	-co-
+8dd/L	-wać,
+8b}/J	.
+!!LO:LB:g=esac
+=15	=15
+{8g	i
+8b	ła-
+4cc	-dne
+4dd	dziéw-
+=16	=16
+8cc	-ki
+8b	ca-
+4g	-ło-
+8aL	-wać.
+8f}J	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Moja matka dobra była,
+!!wszystkiego mię nauczyła,
+!!we dnie robić, w nocy wstáwać,
+!!z dziewuchami podrygować.
+!!@VERSE:
+!!2. Moja matka dobra była,
+!!roboty mnie dość uczyła,
+!!piosnki śpiewać i tańcować,
+!!i ładne dziéwki całować.
+!!@VERSE:
+!!3. Powiedziały stare baby,
+!!te ja nieładny, nieładny;
+!!a ja ładny jak wrzeciono,
+!!tylko mnie tak obczerniono.
+!!@VERSE:
+!!4. Powiedziały stare baby,
+!!te ja nic niémam, nic niemam;
+!!a ja piję, i tańcuję,
+!!i dziewczętom piosnki śpiewam.
+!!@@END: VERSES
+!!!role-singer: Son
+!!!role-listener: Complex
+!!!singer-sex: male
+!!!ONB: Kolberg podaje metrum 3/8, zapisano poprawnie na 3/4, melodia dwóch zwrotek
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=148 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 124} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 124}
+!!!page: 124
+!!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-11

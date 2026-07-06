@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1215100000-na_niskiej_dolinie_bystra_woda_chodzi.krn
-!!!OTL: Na niskiej dolinie, bystra woda chodzi
+﻿!!!!SEGMENT: DWOK1215100000-na_niskiej_dolinie_bystra_woda_chodzi.krn
+!!!OTL: Na niskiej dolinie, bystra woda chodzi. Polski
+!!!FKT: Pieśni i Dumy. Pieśni przed Weselem i wśród Wesela śpiewane
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: Sieroszewice, Odolanów
+!!!AR1: wielkopolskie ; ostrowski ; Sieroszewice-gmina wiejska
+!!!GE1: 51.634900 , 17.960573
+!!!AR2: wielkopolskie ; ostrowski ; Odolanów-miasto
+!!!GE2: 51.574052 , 17.673646
 !!!source: DWOK12
 !!!id: 12151
 !!!signature: 1215100000
@@ -154,6 +161,7 @@
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=91 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 75} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 75}
 !!!page: 75
+!!!BEM: Polski
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ONB@texture: Only voice or instrument is playing at a time
 !!!ENC: Klara Amelia Zienkiewicz

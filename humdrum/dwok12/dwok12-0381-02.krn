@@ -1,52 +1,69 @@
-!!!!SEGMENT: DWOK1238100002-w_olszynie_ja_wolki_pasla.krn
+﻿!!!!SEGMENT: DWOK1238100002-w_olszynie_ja_wolki_pasla.krn
 !!!OTL: W olszynie ja wołki pasła
+!!!FKT: Pieśni i Dumy. Igraszka. Swawola
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Wronek (Biezdrowo)
+!!!AR1: wielkopolskie ; szamotulski ; Wronki-obszar wiejski
+!!!GE1: 52.689305 , 16.306252
 !!!source: DWOK12
 !!!id: 12381
 !!!signature: 1238100002
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16b
-16cc
-8ee
-8gg
-=2
-16ff
-16ee
-8dd
-8g
-=3
-16b
-16cc
-8ee
-8gg
-=4
-16ff
-16ee
-8dd
-8g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16b	W_olszynie
+16cc	.
+8eeL	.
+8ggJ/	ja
+=2	=2
+16ff	wołki
+16ee	.
+8dd	pasła,
+8g	.
+=3	=3
+16b	w_olszynie
+16cc	.
+8ee	.
+8gg	mnie
+=4	=4
+16ff	nocka
+16ee	.
+8dd	zaszła,
+8g}	.
 !!LO:LB:g=esac
-=5
-{16b
-16cc
-4ee
-=6
-8cc
-8cc
-8cc
-=7
-16b
-16cc
-4ee
-=8
-4cc}
-8r
-==
-*-
+=5	=5
+{16b	w_olszynie,
+16cc	.
+4ee	.
+=6	=6
+8cc	w_olszynie,
+8cc	.
+8cc	.
+=7	=7
+16bL	w_olszy-
+16ccJ	.
+4ee	.
+=8	=8
+4cc}	-nie.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. W olszynie ja wołki pasła,
+!!w olszynie mnie nocka zaszła,
+!!w olszynie, w olszynie, w olszynie.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=19 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. } @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. }
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

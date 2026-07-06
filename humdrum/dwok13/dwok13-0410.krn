@@ -1,84 +1,129 @@
-!!!!SEGMENT: DWOK1341000000-w_polu_ogrodeczek.krn
+﻿!!!!SEGMENT: DWOK1341000000-w_polu_ogrodeczek.krn
 !!!OTL: W polu ogródeczek
+!!!FKT: Śpiewki i Tańce. Wiwaty, Tańce i Piosenki 2/4
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Jarocina (Prusinowo)
+!!!AR1: wielkopolskie ; jarociński ; Żerków-obszar wiejski
+!!!GE1: 52.036021 , 17.699124
 !!!source: DWOK13
 !!!id: 13410
 !!!signature: 1341000000
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{8g
-8b
-8dd
-8ff
-=2
-4aa
-4gg
-=3
-8ff
-8ee
-8cc
-8ee
-=4
-4gg
-4ff}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+=1	=1
+{8g	W_po-
+8b	-lu
+8dd	o-
+8ff	-gró-
+=2	=2
+4aa	-de-
+4gg	-czek,
+=3	=3
+8ff	w_polu
+8ee	.
+8cc	o-
+8ee	-gro-
+=4	=4
+4gg	-dzo-
+4ff}	-ny,
 !!LO:LB:g=esac
-=5
-{8g
-8b
-8dd
-8ff
-=6
-4aa
-4gg
-=7
-8ff
-8ee
-8cc
-8b
-=8
-4g
-4g}
+=5	=5
+{8g	daj
+8b	mi
+8dd	dziewcze
+8ff	.
+=6	=6
+4aa	gę-
+4gg	-by,
+=7	=7
+8ff	bo
+8ee	ja
+8cc	ni-
+8b	-mam
+=8	=8
+4g	żo-
+4g}	-ny.
 !!LO:LB:g=esac
-=9
-{8ee
-8dd
-8b
-8dd
-=10
-4ff
-4ee
-=11
-8ff
-8ee
-8cc
-8b
-=12
-4g
-4g}
+=9	=9
+{8ee	A
+8dd	ja
+8b	bym
+8dd	ci
+=10	=10
+4ff	da-
+4ee	-ła,
+=11	=11
+8ff	a-
+8ee	-le
+8cc	byś
+8b	po-
+=12	=12
+4g	-wiedział,
+4g}	.
 !!LO:LB:g=esac
-=13
-{8ee
-8dd
-8b
-8dd
-=14
-4ff
-4ee
-=15
-8cc
-8b
-8g
-8b
-=16
-4cc
-4cc}
-==
-*-
+=13	=13
+{8ee	a
+8dd	jak-
+8b	-bym
+8dd	tak
+=14	=14
+4ff	chciała,
+4ee	.
+=15	=15
+8cc	że-
+8b	-by
+8g	nikt
+8b	nie
+=16	=16
+4cc	wiedział.
+4cc}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. W polu ogródeczek,
+!!w polu ogrodzony,
+!!daj mi dziewcze gęby,
+!!bo ja nimam żony.
+!!@VERSE:
+!!2. A ja bym ci dała,
+!!ale byś powiedział,
+!!a jakbym tak chciała,
+!!żeby nikt nie wiedział.
+!!@VERSE:
+!!Od Gołańczy (Czeszewo):
+!!3. W koło ogródeczek,
+!!ogrodzony wicią,
+!!opatrzże mnie Boże
+!!dobrą robotnicą.
+!!@VERSE:
+!!4. Dobra sztuka mięsa,
+!!lepszy jeszcze mostek (schab)
+!!lecz buzia najlepsza
+!!bo w niej niema kostek.
+!!@VERSE:
+!!Od Kiszkowa:
+!!5. Kupiół-ci mi kupiół
+!!tady cztery kiecki,
+!!i przykupiół-ci mi,
+!!piąty pod niemiecki (spódnik).
+!!@VERSE:
+!!6. Kupiół-ci mi kupiół
+!!tadyjadom butki,
+!!ale cóż mi po nich
+!!kiedy jeden krótki.
+!!@@END: VERSES
+!!!role-singer: Enamoured, Maiden
+!!!role-listener: Enamoured, Maiden
+!!!singer-sex: male, female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=195 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 171} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 171}
 !!!page: 171
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-08
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-16

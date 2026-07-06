@@ -1,61 +1,88 @@
-!!!!SEGMENT: DWOK1327600000-oj_steryja.krn
-!!!OTL: Oj steryją
+﻿!!!!SEGMENT: DWOK1327600000-oj_steryja.krn
+!!!OTL: Oj steryją Matyjoszku
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Pleszewa (Kotlin)
+!!!AR1: wielkopolskie ; jarociński ; Kotlin-gmina wiejska
+!!!GE1: 51.919594 , 17.644602
 !!!source: DWOK13
 !!!id: 13276
 !!!signature: 1327600000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{4g
-8b
-8dd
-8ff
-8dd
-=2
-8ff
-8gg
-4ee
-4cc
-=3
-4gg
-4gg
-8gg
-8ee
-=4
-8gg
-8aa
-4ff
-4dd}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{4g	Oj
+8bL	ste-
+8ddJ	.
+8ff	-ry-
+8dd	-ją
+=2	=2
+8ff/L	Maty-
+8gg/J	.
+4ee/	-josz-
+4cc/	-ku
+=3	=3
+4gg/	ste-
+4gg/	-ry-
+8gg/L	-ją,
+8ee/J	.
+=4	=4
+8gg/L	stery-
+8aa/J	.
+(>4ff/	-ją,
+4dd)}/	.
 !!LO:LB:g=esac
-=5
-{4g
-8b
-8dd
-8ff
-8dd
-=6
-8b
-8g
-4a
-4f
-=7
-4cc
-4cc
-8cc
-8ee
-=8
-8ee
-8dd
-4b
-4g}
-==
-*-
-!!!ONB: Alternatywnie możliwe kodowanie w G
+=5	=5
+{4g	bo
+8bL	ci
+8ddJ	.
+8ff	świ-
+8dd	-nie
+=6	=6
+8b	paster-
+8g\	.
+4a\	-na-
+4f\	-czek
+=7	=7
+4cc	wy-
+4cc	-ry-
+8ccL	-ją,
+8eeJ	.
+=8	=8
+8ee	wyry-
+8dd	.
+4b	-ją.
+4g}\	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj steryją Matyjoszku
+!!eryją, steryją,
+!!bo ci świnie pasternaczek
+!!wyryją, wyryją.
+!!@VERSE:
+!!2. Oj nie szkoda Matyjoszka
+!!nie szkoda, nie szkoda,
+!!czemu sobie nie ogrodził
+!!ogroda, ogroda.
+!!@VERSE:
+!!3. Poszła świnia do ogroda,
+!!uczyła sie pisma,
+!!psy jej ogon wyszarpały,
+!!ledwo żywa wyszła.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!RDF**kern: >= above
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=153 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 129} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 129}
 !!!page: 129
+!!!BEM: Alternatywnie możliwe kodowanie w G
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-16
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

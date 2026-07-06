@@ -1,12 +1,17 @@
-!!!!SEGMENT: DWOK1230600000-z_pola_ino_z_pola.krn
+﻿!!!!SEGMENT: DWOK1230600000-z_pola_ino_z_pola.krn
 !!!OTL: Z pola ino z pola
+!!!FKT: Pieśni i Dumy. Strata wianka. Żale
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Odolanowa
+!!!AR1: wielkopolskie ; ostrowski ; Odolanów-miasto
+!!!GE1: 51.574052 , 17.673646
 !!!source: DWOK12
 !!!id: 12306
 !!!signature: 1230600000
 **kern	**text
 *clefG2	*
-*k[f#c#]	*
-*D:	*
+*k[f#]	*
+*G:	*
 *M3/8	*
 =1	=1
 {16a	Z_pola
@@ -110,7 +115,7 @@
 4e}	-dasz.
 8r	.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Bachelor, Maiden
 !!!role-listener: Maiden, Bachelor
 !!!singer-sex: male, female
@@ -125,7 +130,7 @@
 !!bodajeś przepadał, 
 !!zadałeś my rzewny płacz; 
 !!zadałeś my synka, 
-!!plażyła pierzynka 
+!!plażyła*) pierzynka 
 !!nie chcesz mu się ojcem zwać.
 !!@VERSE:
 !!3. Ino za dwa latka 
@@ -135,11 +140,16 @@
 !!gdy zawoła: tata! 
 !!trzeba go do szkoły słać.
 !!@@END: VERSES
-!!!ONB: Alternatywnie można zakodować w E
+!!@@BEGIN: 
+!! @COMMENTARY:*)czasamy wymawiają: plaużyła, plążyła, (płużyła).
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=180 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 164} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 164}
 !!!page: 164
+!!!BEM: Alternatywnie można zakodować w E
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

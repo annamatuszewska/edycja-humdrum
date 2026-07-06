@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1224400000-a_czy_ja_spie_czy_ja_jade.krn
+﻿!!!!SEGMENT: DWOK1224400000-a_czy_ja_spie_czy_ja_jade.krn
 !!!OTL: A czy ja śpię, czy ja jadę
+!!!FKT: Pieśni i Dumy. Skarga. Niechęć. Rozstanie
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kostrzyna (Siekierki)
+!!!AR1: NIE ; NIE ; NIE
+!!!GE1: 52.383122 , 17.155401
 !!!source: DWOK12
 !!!id: 12244
 !!!signature: 1224400000
@@ -19,7 +24,7 @@
 16cc#	jadę,
 16a\	.
 =3	=3
-16cc	czy
+16ccn	czy
 16ee	u
 8cc	ro-
 16aL	-bo-
@@ -31,7 +36,7 @@
 =5	=5
 {16g	a
 16b	mom
-8dd	ci-ć
+8dd	ci
 8ee	ja,
 =6	=6
 8ee	dziewczę
@@ -39,7 +44,7 @@
 16cc#	moje,
 16a\	.
 =7	=7
-16cc	o
+16ccn	o
 16ee	cię
 8cc	chłopo-
 16aL	.
@@ -82,7 +87,7 @@
 4g}	-dział.
 8r	.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Bachelor
 !!!role-listener: Maiden
 !!!singer-sex: male
@@ -111,3 +116,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

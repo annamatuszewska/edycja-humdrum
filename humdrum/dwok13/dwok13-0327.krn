@@ -1,61 +1,86 @@
-!!!!SEGMENT: DWOK1332700000-gorzaleczko.krn
-!!!OTL: Gorzałeczko
+﻿!!!!SEGMENT: DWOK1332700000-gorzaleczko.krn
+!!!OTL: Gorzałeczko nie chlubaj sie
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Żnina, Ziernik
+!!!AR1: kujawsko-pomorskie ; żniński ; Żnin-miasto
+!!!GE1: 52.849622 , 17.720835
+!!!AR2: kujawsko-pomorskie ; żniński ; Janowiec Wielkopolski-obszar wiejski
+!!!GE2: 52.781349 , 17.543723
 !!!source: DWOK13
 !!!id: 13327
 !!!signature: 1332700000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16cc
-16ee
-8.dd
-16a
-=2
-16cc
-16a
-8f#
-8dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16cc	Go-
+16ee	-rza-
+8.dd	-łecz-
+16a	-ko,
+=2	=2
+16cc	nie
+16a	chlubaj
+8f#L	.
+8dd}/J	sie,
 !!LO:LB:g=esac
-=3
-{16cc
-16ee
-8.dd
-16a
-=4
-16cc
-16a
-8f#
-8g}
+=3	=3
+{16cc	będziesz
+16ee	.
+8.dd	w_kiszkach,
+16a	.
+=4	=4
+16cc	spo
+16a	dzie-
+8f#\	-waj
+8g}\	sie.
 !!LO:LB:g=esac
-=5
-{16a
-16cc
-8.b
-16a
-=
-24cc
-24b
-24cc
-8ee
-8dd}
+=5	=5
+*Xtuplet	*
+{16a\	Wczorajś
+16cc	.
+8.b	by-
+16a\	-ła
+=6	=6
+24cc/L	w_szklannéj
+24b/	.
+24cc/J	.
+8ee/L	flaszy,
+8dd}/J	.
 !!LO:LB:g=esac
-=6
-{16a
-16cc
-8.b
-16a
-=7
-16cc
-16a
-8f#
-8g}
-==
-*-
+=7	=7
+{16a\	dzi-
+16cc	-siaj
+8.b	będziesz
+16a\	.
+=8	=8
+16cc	w_kiszce
+16a\	.
+8f#\	naszéj.
+8g}\	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Gorzałeczko, nie chlubaj sie,
+!!będziesz w kiszkach, spo dziewaj sie.
+!!Wczorajś była w szklannéj flaszy,
+!!dzisiaj będziesz w kiszce naszéj.
+!!@VERSE:
+!!2. Od jednego, ode dwóch,
+!!to mnie tylko boli brzach.
+!!A od czterech, od piąci,
+!!dopiero sie odtrąci (ból).
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!sex-singer: man
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=169 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 145} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 145}
 !!!page: 145
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-22
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-26

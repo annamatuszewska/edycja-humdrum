@@ -1,110 +1,134 @@
-!!!!SEGMENT: DWOK1333800000-byl_tu_duda_z_golejewa.krn
+﻿!!!!SEGMENT: DWOK1333800000-byl_tu_duda_z_golejewa.krn
 !!!OTL: Był tu duda z Golejewa
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Krotoszyna (Rozdrażewo)
+!!!AR1: wielkopolskie ; krotoszyński ; Rozdrażew-gmina wiejska
+!!!GE1: 51.778758 , 17.505004
 !!!source: DWOK13
 !!!id: 13338
 !!!signature: 1333800000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16cc
-16dd
-8b-
-8a
-=2
-16g
-16g
-8e
-8c
-=3
-8f
-4cc
-=4
-8a
-4dd
-=5
-16b-
-16g
-4f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Dudziarz.	!
+{16cc	Był
+16dd	tu
+8b-	du-
+8a\	-da
+=2	=2
+16g	z_Go-
+16g	-le-
+8e	-je-
+8c	-wa,
+=3	=3
+8f	miał
+4cc	gaj-
+=4	=4
+8a	-gi,
+4dd	miał
+=5	=5
+16b/L-	gaj-
+16gJ	.
+4f;}	-gi.
 !!LO:LB:g=esac
-=6
-{16f
-16g
-8a
-16b-
-16a
-=7
-16g
-16g
-8e
-8c
-=8
-8c
-8.g
-16a
-=9
-16cc
-16b-
-8a
-8g
-=10
-8f
-16a
-16g
-8f}
+=6	=6
+{16f	W_po-
+16g	-nie-
+8a	-dzia-
+16b/L-	-łek
+16aJ	.
+=7	=7
+16g	i
+16g	we
+8e	wto-
+8c	-rek
+=8	=8
+8c	grał
+8.g\L	zaw-
+16a\J	.
+=9	=9
+16cc	-dy
+16b-	na
+8a	du-
+8g	-dach,
+=10	=10
+8f	grał
+16aL	zaw-
+16gJ	.
+8f};	-dy.
 !!LO:LB:g=esac
-=11
-{16cc
-16dd
-8b-
-8a
-=12
-16g
-16g
-8e
-8c
-=13
-8f
-4cc
-=14
-8a
-4dd
-=15
-16b-
-16g
-4f}
+=11	=11
+{16cc	A
+16dd	ja
+8b-	du-
+8a\	-da
+=12	=12
+16g	i
+16g	ty
+8e	du-
+8c	-da,
+=13	=13
+8f	ej
+4cc	o-
+=14	=14
+8a	-ba
+4dd	my
+=15	=15
+16b/L-	du-
+16gJ	.
+4f};	-dzi,
 !!LO:LB:g=esac
-=16
-{16f
-16g
-8a
-16b-
-16a
-=17
-16g
-16g
-8e
-8c
-=18
-8c
-8.b-
-16a
-=19
-16cc
-16b-
-8a
-8g
-=20
-8f
-16a
-16g
-8f}
-==
-*-
+=16	=16
+{16f	a
+16g	ko-
+8a	-mu
+16b-/L	my
+16aJ	.
+=17	=17
+16g	za-
+16g	-gra-
+8e	-je-
+8c	-my
+=18	=18
+8c	kiej
+8.b-/L	ni-
+16aJ	.
+=19	=19
+16cc	-ma
+16b-	nám
+8a	lu-
+8g	-dzi,
+=20	=20
+8f	ej
+16aL	lu-
+16gJ	.
+8f};	-dzi.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Był tu duda z Golejewa,
+!!miał gajgi, miał gajgi.
+!!W poniedziałek i we wtorek
+!!grał zawdy na dudach, grał zawdy.
+!!A ja duda i ty duda,
+!!ej oba my dudzi,
+!!a komu my zagrajemy
+!!kiej nima nám ludzi, ej ludzi.
+!!@@END: VERSES
+!!!role-singer: Bagpiper
+!!!role-listener: Bagpiper
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=172 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 148} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 148}
 !!!page: 148
+!!!BEM: Dudziarz
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-23
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-26

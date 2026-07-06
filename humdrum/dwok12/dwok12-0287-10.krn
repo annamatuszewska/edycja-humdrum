@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1228700010-szumiala_olszyna_plakala_dziewczyna.krn
-!!!OTL: Szumiała olszyna, płakała dziewczyna
+﻿!!!!SEGMENT: DWOK1228700010-szumiala_olszyna_plakala_dziewczyna.krn
+!!!OTL: Szumiała olszyna, płakała dziewczyna. Kujawiak
+!!!FKT: Pieśni i Dumy. Strata wianka. Żale
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Łabiszyna (Chomentowo)
+!!!AR1: kujawsko-pomorskie ; nakielski ; Szubin-obszar wiejski
+!!!GE1: 52.934124 , 17.770479
 !!!source: DWOK12
 !!!id: 12287
 !!!signature: 1228700010
@@ -54,7 +59,7 @@
 4a	i
 4g}	zejść.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Bachelor, Maiden
 !!!role-listener: Maiden, Bachelor
 !!!singer-sex: male, female
@@ -99,6 +104,9 @@
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=169 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 153-154} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 153-154}
 !!!page: 153-154
+!!!BEM: Kujawiak
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

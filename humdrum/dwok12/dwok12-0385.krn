@@ -1,96 +1,174 @@
-!!!!SEGMENT: DWOK1238500000-gdziezes_mi_to_corko_byla.krn
+﻿!!!!SEGMENT: DWOK1238500000-gdziezes_mi_to_corko_byla.krn
 !!!OTL: Gdzieżeś mi to córko była
+!!!FKT: Pieśni i Dumy. Igraszka. Swawola
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Pleszewa (Gołuchowo, Tursko)
+!!!AR1: wielkopolskie ; pleszewski ; Gołuchów-gmina wiejska
+!!!GE1: 51.848831 , 17.930588
+!!!AR2: wielkopolskie ; pleszewski ; Gołuchów-gmina wiejska
+!!!GE2: 51.878194 , 17.934296
 !!!source: DWOK12
 !!!id: 12385
 !!!signature: 1238500000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16b
-16cc
-8dd
-8ee
-=2
-16dd
-16dd
-8b
-8cc
-=3
-16a
-16b
-8cc
-8dd
-=4
-16cc
-16cc
-8a
-8b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16b	Gdzieżeś
+16cc	.
+8dd	mi
+8ee	to
+=2	=2
+16dd	córko
+16dd	.
+8b	by-
+8ddq	.
+8cc	-ła,
+=3	=3
+16a\	coś
+16b	mi
+8cc	się
+8dd	tak
+=4	=4
+16cc	poro-
+16cc	.
+8a\	-siła?
+8b}	.
 !!LO:LB:g=esac
-=5
-{8g
-8e
-16a
-16f#
-=6
-16d
-16d
-8f#
-8a
-=7
-8g
-8e
-16a
-16f#
-=8
-4d}
-8r
+=5	=5
+{8g	U
+8e	lnu'm
+16aL	by-
+16f#J	.
+=6	=6
+16d\	-ła,
+16d\	matulu,
+8f#\	.
+8a\	.
+=7	=7
+8g	u
+8e	lnu’m
+16aL	by-
+16f#J	.
+=8	=8
+4d}	-ła.
+8r	.
 !!LO:LB:g=esac
-=9
-{16b
-16cc
-8dd
-8ee
-=10
-16dd
-16dd
-8b
-8cc
-=11
-16a
-16b
-8cc
-8dd
-=12
-16cc
-16cc
-8a
-8b}
+=9	=9
+{16b	Gdzieżeś
+16cc	.
+8dd	mi
+8ee	to
+=10	=10
+16dd	córko
+16dd	.
+8b	by-
+8ddq	.
+8cc	-ła,
+=11	=11
+16a\	coś
+16b	mi
+8cc	się
+8dd	tak
+=12	=12
+16cc	poro-
+16cc	.
+8a\	-siła?
+8b}	.
 !!LO:LB:g=esac
-=13
-{8g
-8e
-16a
-16f#
-=14
-16d
-16f#
-8a
-8b
-=15
-8g
-8e
-16a
-16f#
-=16
-4d}
-8r
-==
-*-
+=13	=13
+{8g	U
+8e	lnu'm
+16aL	by-
+16f#J	.
+=14	=14
+16dL	-ła,
+16f#J	matulu,
+8aL	.
+8bJ	.
+=15	=15
+8g	u
+8e	lnu’m
+16aL	by-
+16f#J	.
+=16	=16
+4d}	-ła.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Mother, Daughter
+!!!role-listener: Daughter, Mother
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Gdzieżeś mi to córko była,
+!!coś mi się tak porosiła?
+!!U lnu'm była, matulu, u lnu’m była.
+!!@VERSE:
+!!2. (W)szak-żem ja téż u lnu była
+!!ady-żem się nie zrosiła.
+!!Rosa była, matulu.
+!!@VERSE:
+!!3. Cóżeś mi ty córko piła?
+!!coś mi się tak bardzo zdę(ł)na.
+!!Wodę'm piła, matulu.
+!!@VERSE:
+!!4. Szak-żem ja téż wodę piła,
+!!ady-żem się nie odęna.
+!!Mątna była, matulu.
+!!@VERSE:
+!!5. A szak ja ci sito dała,
+!!żebyś wodę przecedzała.
+!!Zatkane było matulu.
+!!(Włosia nie było, m.)
+!!@VERSE:
+!!6. A szak ja ci nici dała,
+!!żebyś sito zasnukała.
+!!Słabe były, matulu.
+!!@VERSE:
+!!7. Cóżeś mi ty córka jadła?
+!!coś-ci mi tak bardzo zbladła.
+!!Karpi (w)ogon, matulu.
+!!@VERSE:
+!!8. Szak-żęm ja téż (w)ogon jadła,
+!!a tak bardzo nie pobladła.
+!!Sérowy był, matulu.
+!!@VERSE:
+!!9. Szak ja ci téż garka dała,
+!!żebyś (w)ogon gotowała.
+!!Dziurawy był, matulu.
+!!@VERSE:
+!!10. Szak ja ci téż gliny dała,
+!!żebyś garnek zalepiała.
+!!Sucha była, matulu.
+!!@VERSE:
+!!11. Szak ja ci téż wody dała,
+!!żebyś glinę (r)ozrabiała.
+!!Wylała się, matulu.
+!!@VERSE:
+!!12. A jedźcież mi po doktora,
+!!nie doczekam do wieczora.
+!!Kasper będzie, matulu.
+!!@VERSE:
+!!13. A cóż-ci nam po Kasperze,
+!!kiedy jeden w polu orze.
+!!Para będzie, matulu.
+!!14 Jeden będzie w polu orał,
+!!drugi będzie groch gotował.
+!!Dobrze będzie, matulu.
+!!@VERSE:
+!!15. My Kasperka ustrojemy,
+!!w kominku go posadzemy.
+!!Dobrze będzie, matulu.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=216 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 200} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 200}
 !!!page: 200
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

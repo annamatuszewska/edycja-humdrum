@@ -1,57 +1,74 @@
-!!!!SEGMENT: DWOK1338800000-oj_pij_piwko_czerwone.krn
+﻿!!!!SEGMENT: DWOK1338800000-oj_pij_piwko_czerwone.krn
 !!!OTL: Oj pij piwko czerwone
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gniewkowa (Branno)
+!!!AR1: kujawsko-pomorskie ; inowrocławski ; Gniewkowo-obszar wiejski
+!!!GE1: 52.878198 , 18.501853
 !!!source: DWOK13
 !!!id: 13388
 !!!signature: 1338800000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{8cc
-8ee
-8dd
-=2
-16ff
-16ff
-8ee
-8gg
-=3
-8cc
-8ee
-16dd
-16ee
-=4
-16ff
-16ff
-8ee
-8cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{8cc	Oj
+8ee	pij
+8dd	piw-
+=2	=2
+16ff	-ko
+16ff	czer-
+8ee/L	-wone,
+8gg/J	.
+=3	=3
+8cc	ca-
+8ee	-łuj
+16dd/L	pan-
+16ee/J	.
+=4	=4
+16ff	-ny
+16ff	nie
+8ee	żonę.
+8cc}	.
 !!LO:LB:g=esac
-=5
-{8ff
-8ee
-8dd
-=6
-16cc
-16cc
-8b
-8dd
-=7
-8g
-8ee
-16dd
-16ee
-=8
-16cc
-16cc
-8b
-8g}
-==
-*-
-!!!ONB: Alternatywnie możliwe kodowanie w G
+=5	=5
+{8ffL/	Da
+8ee/J	pij
+8dd	win-
+=6	=6
+16cc	-ko
+16cc	czer-
+8b/L	-wieńsze,
+8dd/J	.
+=7	=7
+8g\	całuj
+8ee	.
+16d/dL	pan-
+16ee/J	.
+=8	=8
+16cc	-ny,
+16cc	nie
+8b	żeń
+8g}\	się.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oj pij piwko czerwone,
+!!całuj panny nie żonę.
+!!Da pij winko czerwieńsze,
+!!całuj panny, nie żeń się.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!role-listener: Bachelor
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=187 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 163} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 163}
 !!!page: 163
+!!!BEM: Alternatywnie możliwe kodowanie w G
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-03
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-15

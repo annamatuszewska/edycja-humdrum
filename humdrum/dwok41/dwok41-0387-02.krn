@@ -1,60 +1,71 @@
-!!!!SEGMENT: DWOK4138700002-odwiezze_mnie_skades_mnie_wzial.krn
+!!!!SEGMENT: DWOK4138700001-odwiezze_mnie_skades_mnie_wzial.krn
 !!!OTL: Odwieźże mnie, skądeś mnie wziął
 !!!source: DWOK41
 !!!id: 41387
 !!!signature: 4138700002
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16dd
-16dd
-8.ee
-16b
-=2
-16a
-16cc
-8ee
-8b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{16dd	Od-
+16dd	-wieź-
+8.ee	-że
+16b	mnie,
+=2	=2
+16a	ską-
+16cc	-deś
+8ee	mnie
+8b}	wziął,
 !!LO:LB:g=esac
-=3
-{16dd
-16dd
-8.ee
-16b
-=4
-16a
-16cc
-8b
-8a}
+=3	=3
+{16dd	da,
+16dd	czte-
+8.ee	-ry
+16b	mi-
+=4	=4
+16a	-le
+16cc	za
+8b	Ki-
+8a}	-koł,
 !!LO:LB:g=esac
-=5
-{16dd
-16dd
-8.b
-16cc
-=6
-16dd
-16dd
-8ee
-8b}
+=5	=5
+{16dd	od-
+16dd	-wieź-
+8.b	-że
+16cc	mnie
+=6	=6
+16dd/L	w_ta-
+16dd/J	-kiej
+8ee/L	mie-
+8b/J}	-rze,
 !!LO:LB:g=esac
-=7
-{16dd
-16dd
-8b
-8cc
-=8
-16b
-16b
-8g#
-8a}
-==
-*-
+=7	=7
+{16dd	ja-
+16dd	-keś
+8b	mnie
+8cc	wziął
+=8	=8
+16b	od
+16b	ma-
+8g#	-cie-
+8a}	-rze.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Odwieźże mnie, skądeś mnie wziął,
+!!da, cztery mile za Kikoł,
+!!odwieźże mnie w takiej mierze,
+!!jakeś mnie wziął od macierze.
+!!@@END: VERSES
+!!!role-singer: Girl
+!!!role-listener: Lover
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=296 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 215} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 215}
 !!!page: 215
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-01

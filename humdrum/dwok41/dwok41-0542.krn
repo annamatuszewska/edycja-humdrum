@@ -3,57 +3,83 @@
 !!!source: DWOK41
 !!!id: 41542
 !!!signature: 4154200000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{8f
-8a
-8a
-=2
-16.cc
-32cc
-8b-
-8g}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{8f	Hop,
+8a	hop,
+8a	hop,
+=2	=2
+16.cc	hop,
+32cc	ma-
+8b-	-zu-
+8g}	-ra,
 !!LO:LB:g=esac
-=3
-{16.f
-32f
-8a
-8b-
-=4
-16dd
-16cc
-8e
-8f}
+=3	=3
+{16.f	po-
+32f	-daj-
+8a	-ze
+8b-	mi
+=4	=4
+16dd	rę-
+16cc	-kę
+8e	kró-
+8f}	-ra,
 !!LO:LB:g=esac
-=5
-{16cc
-16cc
-8.ff
-16a
-=6
-16b-
-16b-
-8dd
-8cc}
+=5	=5
+{16cc	po-
+16cc	-daj-
+8.ff	-ze
+16a	mi
+=6	=6
+16b-	o-
+16b-	-bie
+8dd	rę-
+8cc}	-ce,
 !!LO:LB:g=esac
-=7
-{16a
-16cc
-8.ff
-16a
-=8
-16dd
-16cc
-8e
-8f}
-==
-*-
+=7	=7
+{16a	niech
+16cc	ma-
+8.ff	-zu-
+16a	-ra
+=8	=8
+16dd	raz
+16cc	wy-
+8e	-krę-
+8f}	-ce.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Hop, hop, hop, hop, mazura,
+!!podajze mi rękę króra,
+!!podajze mi obie ręce,
+!!niech mazura raz wykręce.
+!!@VERSE:
+!!2. W prawo, w lewo pójdę z Baśką.
+!!a mazura utnę z Kaśką,
+!!a wsystkie o mnie godają,
+!!a bocku na mnie spoglądają.
+!!@VERSE:
+!!3. Choć niejedna na mnie goda,
+!!kazda za mnie iść by rada;
+!!jus to zwycoj dziewuch taki,
+!!a ten taki, ten owaki.
+!!@VERSE:
+!!4. Hop, Kasińku, hejze smiele.
+!!dyć to w karcmie, nie w kościele,
+!!do koścoła nie mas casu,
+!!do karcemki: pójdźwa, Jasiu!
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Group
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=365 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 282} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 282}
 !!!page: 282
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-27

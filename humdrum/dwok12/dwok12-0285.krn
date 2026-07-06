@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1228500000-poszed_jasio_do_kochanki.krn
+﻿!!!!SEGMENT: DWOK1228500000-poszed_jasio_do_kochanki.krn
 !!!OTL: Poszed Jasio do kochanki
+!!!FKT: Pieśni i Dumy. Strata wianka. Żale
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: Poznań
+!!!AR1: wielkopolskie ; m. Poznań ; Poznań-gmina miejska
+!!!GE1: 52.407918 , 16.933467
 !!!source: DWOK12
 !!!id: 12285
 !!!signature: 1228500000
@@ -46,7 +51,7 @@
 8g	siedzieć.
 4f}	.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Narrator, Maiden
 !!!role-listener: Servant
 !!!singer-sex: female
@@ -57,12 +62,12 @@
 !!a ona go pięknie prosi
 !!na łożeńko siedzieć.
 !!@VERSE:
-!!2. Zawołała na służącą:
+!!8. Zawołała na służącą:
 !!podej mi zwierciadło,
 !!będę-ć ja się przezierała
 !!czy mi liczko zbladło.
 !!@VERSE:
-!!3. Kupię ja se sznuróweczkę
+!!10. Kupię ja se sznuróweczkę
 !!i (w)stążkę jedwabną,
 !!będę ja się sznurowała,
 !!będę jeszcze panną.
@@ -74,3 +79,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

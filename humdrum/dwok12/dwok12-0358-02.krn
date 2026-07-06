@@ -1,64 +1,107 @@
-!!!!SEGMENT: DWOK1235800002-ty_kurasku_nie_piej_zrana.krn
-!!!OTL: Ty kuraśku nie piej zrana
+﻿!!!!SEGMENT: DWOK1235800002-ty_kurasku_nie_piej_zrana.krn
+!!!OTL: Ty kuraśku nie piej zrana. Chodzony
+!!!FKT: Pieśni i Dumy. Igraszka. Swawola
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gołańczy (Czeszewo)
+!!!AR1: wielkopolskie ; wągrowiecki ; Gołańcz-obszar wiejski
+!!!GE1: 52.908722 , 17.382633
 !!!source: DWOK12
 !!!id: 12358
 !!!signature: 1235800002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8g
-8b
-4dd
-4b
-=2
-8dd
-8ee
-8cc
-8b
-4a
-=3
-8cc
-8ee
-8gg
-8ff#
-4dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+!!LO:TX:a:t=Chodzony.
+{8g	Ty
+8b	kuraśku
+4dd	.
+8ccq	.
+4b	.
+=2	=2
+8dd	nie
+8ee	piej
+8bq	.
+8ccL	zrana,
+8bJ/	.
+4a;	.
+=3	=3
+8cc	nie
+8ee	piej
+8ggL	zrana,
+8ff#J	.
+4dd}	.
 !!LO:LB:g=esac
-=4
-{8g
-8b
-4dd
-4b
-=5
-8dd
-8ee
-8cc
-8b
-4a
-=6
-8a
-8cc
-4.dd
-8b}
+=4	=4
+{8g	bo
+8b	obudzisz
+4dd	.
+4b	.
+=5	=5
+8dd	mego
+8ee	.
+8bq	.
+8ccL	pa-
+8bJ/	.
+4a	-na,
+=6	=6
+8a	mego
+8cc	.
+4.dd	pana,
+8b}	.
 !!LO:LB:g=esac
-=7
-{8g
-8b
-4dd
-4b
-=8
-8dd
-16ee
-16dd
-8cc
-8b
-4a}
-==
-*-
+=7	=7
+{8g	bo
+8b	obu-
+4dd	.
+4b	-dzisz
+=8	=8
+8dd	mego
+16eeL	.
+16ddJ/	.
+8bq	.
+8ccL	pana.
+8bJ	.
+4a;}	.
+==	==
+*-	*-
+!!!role-singer: Maiden, Narrator, Lord
+!!!role-listener: Rooster, Maiden
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Ty kuraśku nie piej zrana,
+!!nie piej zrana, bo obudzisz
+!!mego pana, mego pana,
+!!bo obudzisz mego pana.
+!!@VERSE:
+!!2. Bom go dopiéro uśpiła,
+!!sama'm jeszcze nie usnęła.
+!!@VERSE:
+!!3. Chodzi Kasia kole wody,
+!!wypłakuje swoji cnoty.
+!!@VERSE:
+!!4. Moja cnota nad cnotamy,
+!!jak ten miesiąc nad gwiazdamy.
+!!@VERSE:
+!!5. Myślisz me dziewcze, że ja śpię,
+!!ja o twojéj cnocie myślę.
+!!@VERSE:
+!!6. Choćby siadał na sto koni,
+!!twoji cnoty nie dogoni.
+!!@VERSE:
+!!7. Choćby siadał i na trzysta,
+!!twoja cnota na nic wyszła.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=203 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 187} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 187}
 !!!page: 187
+!!!BEM: Chodzony
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

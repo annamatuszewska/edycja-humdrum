@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1245600000-poszla_zona_z_domu.krn
+﻿!!!!SEGMENT: DWOK1245600000-poszla_zona_z_domu.krn
 !!!OTL: Poszła żona z domu
+!!!FKT: Pieśni i Dumy. Małżeństwo. Kłótnia. Zgoda
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: Odolanów
+!!!AR1: wielkopolskie ; ostrowski ; Odolanów-miasto
+!!!GE1: 51.574052 , 17.673646
 !!!source: DWOK12
 !!!id: 12456
 !!!signature: 1245600000
@@ -100,3 +105,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

@@ -1,82 +1,148 @@
-!!!!SEGMENT: DWOK4152400002-a_ty_szelmo_kanalijo.krn
+!!!!SEGMENT: DWOK4152400001-a_ty_szelmo_kanalijo.krn
 !!!OTL: A ty szelmo, kanalijo
 !!!source: DWOK41
 !!!id: 41524
 !!!signature: 4152400002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16dd
-16dd
-8cc#
-8cc#
-=2
-16dd
-16dd
-8.ee
-16b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16dd	A
+(8eeq	.
+16dd)	ty
+8cc#	szel-
+8cc#	-mo,
+=2	=2
+16dd	ka-
+(8cc#q	.
+16dd)	-na-
+8.ee	-li-
+16b}	-jo,
 !!LO:LB:g=esac
-=3
-{16dd
-16dd
-8cc#
-8ee
-=4
-16dd
-16dd
-8.dd
-16b}
+=3	=3
+{16dd	ty
+(8eeq	.
+16dd)	psia-
+8cc#	-ju-
+8ee	-cho,
+=4	=4
+16dd	ty
+(8cc#q	.
+16dd)	bes-
+8.dd	-ty-
+16b}	-jo,
 !!LO:LB:g=esac
-=5
-{16dd
-16dd
-8cc
-8f#
-=6
-16g
-16a
-8b
-8b}
+=5	=5
+{16dd	a
+(8eeq	.
+16dd)	bo-
+8cc	-daj-
+8f#	-żeś
+=6	=6
+16g	li-
+16a	-cha
+8b	zja-
+8b}	-dła,
 !!LO:LB:g=esac
-=7
-{16a
-16ff#
-8ff#
-8ff#
-=8
-8.gg
-16ff#
-16ee
-16dd}
+=7	=7
+{16a	kie-
+16ff#	-dyś
+8ff#	ty
+8ff#	mi
+=8	=8
+8.gg	ser-
+16ff#	-ce
+16ee	skra-
+16dd}	-dła,
 !!LO:LB:g=esac
-=9
-{16dd
-16dd
-8cc
-8f#
-=10
-16g
-16a
-8b
-8b}
+=9	=9
+{16dd	a
+16dd	bo-
+8cc	-daj-
+8f#	-żeś
+=10	=10
+16g	li-
+16a	-cha
+8b	zja-
+(8ccq	.
+8b)}	-dła,
 !!LO:LB:g=esac
-=11
-{16a
-16cc
-8ee
-8dd
-=12
-8.g
-16b
-16a
-16g}
-==
-*-
+=11	=11
+{16a	kie-
+16cc	-dyś
+8ee	ty
+8dd	mi
+=12	=12
+8.g	ser-
+16b	-ce
+16a	skra-
+16g}	-dła.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A ty szelmo, kanalijo,
+!!ty psiajucho, ty bestyjo,
+!!a bodajżeś licha zjadła,
+!!kiedyś ty mi serce skradła,
+!!a bodajżeś licha zjadła,
+!!kiedyś ty mi serce skradła.
+!!@VERSE:
+!!2. Ach, ty sobie ze mnie szydzisz.
+!!dalibóg szydzisz, da, szydzisz,
+!!|: bo tylko mnie wtenczas kochasz.
+!!kiedy mnie widzisz, da, widzisz:|.
+!!@VERSE:
+!!3. Ja z ciebie nie szydzę, Zosiu,
+!!nie kpię, nie drwię, nie żartuje.
+!!|:choć o miłości nie gadam,
+!!za tobą ginę, przepadam:|.
+!!@VERSE:
+!!4. Czemuż z innemi chłopaki
+!!chodzisz stroić koperczaki;
+!!wczoraj, gdym przed chatą stała,
+!!samam ciebie tam widziała,
+!!czy nieprawda, hę?
+!!@VERSE:
+!!5. Prawda, że u Kasi byłem,
+!!ale tam nic nie robiłem,
+!!tylko trochę posiedziałem,
+!!ciebie kocham, jak kochałem,
+!!kocham ciebie, jak Bóg w niebie,
+!!jak powinno być.
+!!@VERSE:
+!!6. Przysiąż mi, że się ożenisz,
+!!że się nigdy nie odmienisz,
+!!że mi będziesz zawsze stały,
+!!choćby nawet i rok cały,
+!!bo inaczej nic nie będzie,
+!!bo inaczej nic.
+!!@VERSE:
+!!7. Przysięgnąć to jest rzecz mała,
+!!lecz powiedz, czy będziesz stała,
+!!|:byleś tylko dotrzymała
+!!słowo, coś mi wczoraj dała:|.
+!!@VERSE:
+!!8. Cóż z tego, że słowa dotrzymam,
+!!ty nic nié masz, ja nic nié mam,
+!!a z pracy bardzo się boje,
+!!czy my wyjdziemy na swoje,
+!!bo ty w karty grasz.
+!!@VERSE:
+!!9. W karty grają wszystkie stany,
+!!nawet stare panie, pany,
+!!sie ja już grać nie będę,
+!!tylko ciebie kochać będę,
+!!tylko kochaj mnie, Julisiu!
+!!@@END: VERSES
+!!!role-singer: Lover, Ex-girlfriend
+!!!role-listener: Ex-girlfriend, Lover
+!!!singer-sex: Male, Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=351 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 268-269} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 268-269}
 !!!page: 268-269
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-20

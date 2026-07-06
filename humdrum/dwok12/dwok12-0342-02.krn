@@ -1,63 +1,104 @@
-!!!!SEGMENT: DWOK1234200002-poszla_kasia_po_wode.krn
+﻿!!!!SEGMENT: DWOK1234200002-poszla_kasia_po_wode.krn
 !!!OTL: Poszła Kasia po wodę
+!!!FKT: Pieśni i Dumy. Igraszka. Swawola
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Poznania (Spławie)
+!!!AR1: wielkopolskie ; m. Poznań ; Poznań-gmina miejska
+!!!GE1: 52.350785 , 17.025783
 !!!source: DWOK12
 !!!id: 12342
 !!!signature: 1234200002
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/8
-=1
-{16a
-16a
-16a
-16b
-16cc#
-16dd
-=2
-8ee
-8ee
-8cc#
-=3
-8ee
-8ee
-8cc#
-=4
-16ee
-16ee
-16ee
-16ff#
-16ee
-16dd#
-=5
-8ee
-8b
-8e}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M3/8	*
+=1	=1
+{16a\	Poszła
+16a\	.
+16a\L	Kasia
+16bJ	.
+16cc#L	.
+16ddJ	.
+=2	=2
+8ee	po
+8ff#q	.
+8ee	wodę,
+8cc#	.
+=3	=3
+8ee	po
+8ff#q	.
+8ee	wodę,
+8cc#	.
+=4	=4
+16ee	miała
+16ee	.
+16eeL	piękną
+16ff#J	.
+16eeL	.
+16dd#J	.
+=5	=5
+8ee	uro-
+8b	.
+8e}	-dę,
 !!LO:LB:g=esac
-=6
-{16.a
-32a
-16a
-16b
-16cc#
-16dd
-=7
-4.ee
-=8
-16ee
-16ee
-16ee
-16dd
-16cc#
-16b
-=9
-4a}
-8r
-==
-*-
+=6	=6
+{16.a\	natra-
+32a\	.
+16a\L	-fił
+16bJ	.
+16cc#L	ją
+16ddJ	.
+=7	=7
+4.ee	pan,
+=8	=8
+16eeL	i
+16eeJ/	stłukł
+16eeL	ci
+16ddJ/	.
+16cc#L	ji
+16bJ	.
+=9	=9
+4a}	dzban.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Lord, Maiden
+!!!role-listener: Maiden, Lord
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Poszła Kasia po wodę, po wodę,
+!!miała piękną urodę,
+!!natrafił ją pan,
+!!i stłukł ci ji dzban.
+!!@VERSE:
+!!2. Niechaj Kasia nie płacze,
+!!ja Kasi dzban zapłacę.
+!!Zapłacę ci dzbán,
+!!włodarza ci dám.
+!!@VERSE:
+!!3. I włódarza nie chciała,
+!!jéno dzbana płakała.
+!!Zapłacę ci dzbán,
+!!pisarza ci dám.
+!!@VERSE:
+!!4. I pisarza nie chciała,
+!!jéno dzbana płakała.
+!!Zapłacę ci dzbán,
+!!sam siebie ci dám.
+!!@VERSE:
+!!5. Już Kasińka nie płacze,
+!!jéno za panem skacze:
+!!za stłuczony dzbán,
+!!dostał mi się pan.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=198 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 182} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 182}
 !!!page: 182
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

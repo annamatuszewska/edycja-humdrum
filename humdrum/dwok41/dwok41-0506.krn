@@ -3,54 +3,64 @@
 !!!source: DWOK41
 !!!id: 41506
 !!!signature: 4150600000
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M3/4
-=1
-{8f
-8a
-4b-
-4dd
-=2
-4f
-4a
-4b-}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M3/4	*
+=1	=1
+{8f	Tań-
+8a	-co-
+4b-	-wa-
+4dd	-łem
+=2	=2
+4f	z_nie-
+4a	-wia-
+4b-}	-stą,
 !!LO:LB:g=esac
-=3
-{8f
-8a
-4b-
-4dd
-=4
-4f
-4a
-4b-}
+=3	=3
+{8f	mia-
+8a	-ła
+4b-	p....,
+4ddm	.
+=4	=4
+4f	gra-
+4a	-nia-
+4b-}	-stą,
 !!LO:LB:g=esac
-=5
-{8f
-8a
-4b-
-4dd
-=6
-4cc
-4ff
-4ff}
+=5	=5
+{8f	ko-
+8a	-gut
+4b-	ci
+4dd	ją
+=6	=6
+4cc	ob-
+4ff	-dzio-
+4ff}M	-bał,
 !!LO:LB:g=esac
-=7
-{8dd
-8cc
-4b-
-4dd
-=8
-4f
-4a
-4b-}
-==
-*-
+=7	=7
+{8dd	jam
+8cc	do
+4b-	re-
+4ddm	-szty
+=8	=8
+4f	o-
+4a	-sku-
+4b-}	-bał.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Tańcowałem z niewiastą,
+!!miała p...., graniastą,
+!!kogut ci ją obdziobał,
+!!jam do reszty oskubał.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!singer-sex: Male 
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=342 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 259} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 259}
 !!!page: 259
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-18

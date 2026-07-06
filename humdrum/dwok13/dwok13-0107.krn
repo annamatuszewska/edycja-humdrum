@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1310700000-czlowiek_w_ziemie_sial_zboze.krn
+﻿!!!!SEGMENT: DWOK1310700000-czlowiek_w_ziemie_sial_zboze.krn
 !!!OTL: Człowiek w ziemię siał zboże
+!!!FKT: Pieśni. Miasta i Dwory. Stany. Rody
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Dolska, Książa (znana i pod Koninem)
+!!!AR1: wielkopolskie ; śremski ; Dolsk-miasto
+!!!GE1: 51.987105 , 17.063780
+!!!AR2: wielkopolskie ; śremski ; Książ Wielkopolski-miasto
+!!!GE2: 52.062403 , 17.239231
 !!!source: DWOK13
 !!!id: 13107
 !!!signature: 1310700000
@@ -223,11 +230,11 @@
 !!!role-singer: Harvesters
 !!!role-listener: God, Landowners
 !!!singer-sex: man
-!!!ONB: Wieńcowa
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=85 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 61-62} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, pp. 61-62}
 !!!page: 61-62
+!!!BEM: Wieńcowa
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-18

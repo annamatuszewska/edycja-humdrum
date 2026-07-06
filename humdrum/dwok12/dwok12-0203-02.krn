@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1220300002-slonce_swieci_a_nie_grzeje.krn
+﻿!!!!SEGMENT: DWOK1220300002-slonce_swieci_a_nie_grzeje.krn
 !!!OTL: Słońce świeci a nie grzeje
+!!!FKT: Pieśni i Dumy. Stałość. Życzliwość. Wymówka
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Wielenia
+!!!AR1: wielkopolskie ; czarnkowsko-trzcianecki ; Wieleń-miasto
+!!!GE1: 52.888563 , 16.167865
 !!!source: DWOK12
 !!!id: 12203
 !!!signature: 1220300002
@@ -52,9 +57,10 @@
 4a	.
 4f}	.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Enamoured
 !!!role-listener: Enamoured
+!!!sex-singer: male
 !!@@BEGIN: VERSES
 !!@VERSE:
 !!1. Słońce świeci a nie grzeje,
@@ -74,3 +80,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

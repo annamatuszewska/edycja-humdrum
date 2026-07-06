@@ -1,69 +1,103 @@
-!!!!SEGMENT: DWOK1327500010-a_na_boru_szyszki.krn
+﻿!!!!SEGMENT: DWOK1327500010-a_na_boru_szyszki.krn
 !!!OTL: A na boru szyszki
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Poznania, Gniezna
+!!!AR1: wielkopolskie ; m. Poznań ; Poznań-gmina miejska
+!!!GE1: 52.407918 , 16.933467
+!!!AR2: wielkopolskie ; gnieźnieński ; Gniezno-gmina miejska
+!!!GE2: 52.533333 , 17.601388
 !!!source: DWOK13
 !!!id: 13275
 !!!signature: 1327500010
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8.g
-16ff
-8ff
-8ff
-8gg
-8ff
-=2
-8ee
-8gg
-8gg
-8aa
-8dd
-8b
-=3
-8g
-8ff
-4ff
-8gg
-8ff
-=4
-8ee
-8gg
-4.dd
-8b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8.g	A
+16ff	na
+8ff	bo-
+8ff	-ru
+8gg	szyszki,
+8ff	.
+=2	=2
+8ee/L	na
+8gg/J	polu
+8gg/L	.
+8aa/J	ka-
+8dd	-myszki,
+8b	.
+=3	=3
+8g	a
+8ff	na
+8eeq	.
+4ff	ogrodzie
+8gg/L	.
+8ff/J	.
+=4	=4
+8ee/L	świer-
+8gg/J	.
+4.dd	-czy-
+8b}	-na;
 !!LO:LB:g=esac
-=5
-{8.g
-16ff
-8ff
-8ff
-8gg
-8ff
-=6
-8ee
-8cc
-8cc
-8ee
-8dd
-8b
-=7
-8g
-8ff
-4ff
-8gg
-8ee
-=8
-8cc
-8g
-4.dd
-8b}
-==
-*-
-!!!ONB: Partia wokalna. Alternatywnie możliwe kodowanie w G
+=5	=5
+{8.g	a
+16ff	przed
+8ff	o-
+8ff	-knem
+8gg	to
+8ff	pol,
+=6	=6
+8ee	daj
+8cc	mi
+8cc	Jasiu
+8ee	.
+8dd	po-
+8b	-kój,
+=7	=7
+8g	bo
+8ff	ja
+8eeq	.
+4ff	grzeczna
+8ggL	.
+8eeJ	.
+=8	=8
+8ccL	dziewczyna.
+8g\J	.
+4.dd	.
+8b}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A na boru szyszki,
+!!na polu kamyszki,
+!!a na ogrodzie świerczyna;
+!!a przed oknem to pol,
+!!daj mi Jasiu pokój,
+!!bo ja grzeczna dziewczyna.
+!!@VERSE:
+!!2. Niepodobne rzeczy
+!!byś nie miała wiedzieć,
+!!komuś gęby dała
+!!musisz mi powiedzieć.
+!!@VERSE:
+!!3. Jeśli dworakowi,
+!!żal się mocny Boże;
+!!jeżli chłopu ze wsi,
+!!dopomóż ci Boże!
+!!@@END: VERSES
+!!!role-singer: Mistress
+!!!role-listener: Single Man
+!!!singer-sex: female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=152 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 128} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 128}
 !!!page: 128
+!!!BEM: Partia wokalna. Alternatywnie możliwe kodowanie w G
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-16
+!!!ENC: Anna Matuszewska
+!!!END: 2026-02-23

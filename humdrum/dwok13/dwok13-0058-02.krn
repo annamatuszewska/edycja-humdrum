@@ -1,8 +1,13 @@
-!!!!SEGMENT: DWOK1305800002-ach_boze_ach_boze_coz_ja_teraz_znacze.krn
-!!!OTL: Ach Boże ach Boże cóz ja teraz znaczę
+﻿!!!!SEGMENT: DWOK1305800002-ach_boze_ach_boze_coz_ja_teraz_znacze.krn
+!!!OTL: Ach Boże ach Boże cóż ja teraz znaczę
+!!!FKT: Pieśni. Miasta i Dwory. Miłość. Tęsknota
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: Szrem
+!!!AR1: wielkopolskie ; śremski ; Śrem-miasto
+!!!GE1: 52.095371 , 17.020534
 !!!source: DWOK13
 !!!id: 13058
-!!!signature: 1305800001
+!!!signature: 1305800002
 **kern	**text
 *clefG2	*
 *k[f#]	*

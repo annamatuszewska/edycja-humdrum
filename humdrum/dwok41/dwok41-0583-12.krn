@@ -9,45 +9,46 @@
 *a:
 *MX
 =1
+!LO:TX:a:t=Pieśń nabożna
 {4cc
 4b
 2a
-=2
+=2:
 8g#
 8a
-8cc
-8a
+8cc/L
+8aJ
 4b
-8cc
-8a
+8ccL
+8a\J
 4cc
 4b
-8dd
-8cc
-8b
-8a}
+8ddL/
+8cc/
+8b/
+8a}J
 !!LO:LB:g=esac
-=3
+=3:
 {4cc
 4dd
 2ee
-=4
+=4:
 4ff
 2ee
-=5
-8dd
-8cc
+=5:
+8ddL
+8ccJ
 4b
 4cc
 2dd
 4cc
-=6
+=6:
 4dd
 2ee
 4cc
 4b
 4a
-=7
+=7:
 4g#
 2a}
 ==
@@ -58,3 +59,5 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=386 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 303} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 303}
 !!!page: 303
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-28

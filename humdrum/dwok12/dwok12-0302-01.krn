@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1230200001-oj_i_lezy_kasia_lezy.krn
+﻿!!!!SEGMENT: DWOK1230200001-oj_i_lezy_kasia_lezy.krn
 !!!OTL: Oj i leży Kasia leży
+!!!FKT: Pieśni i Dumy. Strata wianka. Żale
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Ostrowa, Raszkowo
+!!!AR1: wielkopolskie ; ostrowski ; Ostrów Wielkopolski-gmina miejska
+!!!GE1: 51.649540 , 17.816730
+!!!AR2: wielkopolskie ; ostrowski ; Raszków-miasto
+!!!GE2: 51.718450 , 17.725980
 !!!source: DWOK12
 !!!id: 12302
 !!!signature: 1230200001
@@ -54,7 +61,7 @@
 4r	.
 4r	.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Narrator, Bachelor, Maiden
 !!!role-listener: Maiden, Bachelor
 !!!singer-sex: male, female
@@ -84,6 +91,9 @@
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=178 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 162} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 162}
 !!!page: 162
+!!!BEM: Owczarska
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

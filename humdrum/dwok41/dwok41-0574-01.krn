@@ -9,49 +9,49 @@
 *F:
 *M2/4
 =1
-{8a
-8cc
-8g
-8cc
+{8a\L
+8ccJ
+8g\L
+8ccJ
 =2
-8a
-8cc
+8a\L
+8ccJ
+16b-L
+16a\
 16b-
-16a
-16b-
-16g
+16g\J
 =3
-8a
-8cc
-8g
-8cc
+8a\L
+8ccJ
+8g\L
+8ccJ
 =4
-8a
-8cc
-8g
-8f}
+8a\L
+8ccJ
+8gL
+8fJ}
 !!LO:LB:g=esac
 =5
 {4dd
-8cc
-8a
+8ccL
+8a\J
 =6
-8b-
-8dd
-8cc
-8a
+8b-L
+8ddJ
+8ccL
+8a\J
 =7
-8b-
-8dd
-16cc
+8b-L
+8ddJ
+16ccL
 16dd
 16ee-
-16cc
+16ccJ
 =8
-8b-
-8b-
-8a
-8f}
+8b-L
+8b-J
+8a\L
+8f}\J
 ==
 *-
 !!!ONB: Przypuszczalna lokalizacja: Białogórne
@@ -60,3 +60,5 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=383 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 300} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 300}
 !!!page: 300
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-28

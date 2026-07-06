@@ -1,104 +1,126 @@
-!!!!SEGMENT: DWOK1324100000-a_czys_jadla_czy_nie_jadla.krn
+﻿!!!!SEGMENT: DWOK1324100000-a_czys_jadla_czy_nie_jadla.krn
 !!!OTL: A czyś jadła czy nie jadła
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Szremu, Dolska
+!!!AR1: wielkopolskie ; śremski ; Śrem-miasto
+!!!GE1: 52.095371 , 17.020534
+!!!AR2: wielkopolskie ; śremski ; Dolsk-miasto
+!!!GE2: 51.987105 , 17.063780
 !!!source: DWOK13
 !!!id: 13241
 !!!signature: 1324100000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16dd
-16cc#
-8dd
-8b
-=2
-16b
-16cc
-8dd
-8ee}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16dd	A
+16cc#	czyś
+8dd	ja-
+8b	-dła
+=2	=2
+16b	czy
+16cc	nie
+8dd	ja-
+8ee}	-dła,
 !!LO:LB:g=esac
-=3
-{16dd
-16cc#
-8dd
-8b
-=4
-16b
-16dd
-8cc
-8a}
+=3	=3
+{16dd	pędź-
+16cc#	-że
+8dd	wo-
+8b	-ła-
+=4	=4
+16b	-szki
+16dd	do
+8cc	ra-
+8a}	-dła,
 !!LO:LB:g=esac
-=5
-{16a
-16f#
-8g
-8d
-=6
-16d
-16f#
-8g
-8b}
+=5	=5
+{16a	a
+16f#	czyś
+8g	pi-
+8d	-ła
+=6	=6
+16d	czy
+16f#	nie
+8g	pi-
+8b}	-ła,
 !!LO:LB:g=esac
-=7
-{16a
-16f#
-8g
-8d
-=8
-16e
-16g
-8f#
-8d}
+=7	=7
+{16a	po-
+16f#	-pe-
+8g	-dzaj
+8d	świ-
+=8	=8
+16e	-nie
+16g	do
+8f#	chli-
+8d}	-wa.
 !!LO:LB:g=esac
-=9
-{16dd
-16cc#
-8dd
-8b
-=10
-16b
-16cc
-8dd
-8ee}
+=9	=9
+{16dd	A
+16cc#	czyś
+8dd	ja-
+8b	-dła
+=10	=10
+16b	czy
+16cc	nie
+8dd	ja-
+8ee}	-dła,
 !!LO:LB:g=esac
-=11
-{16dd
-16cc#
-8dd
-8b
-=12
-16b
-16dd
-8cc
-8a}
+=11	=11
+{16dd	pędź-
+16cc#	-że
+8dd	wo-
+8b	-ła-
+=12	=12
+16b	-szki
+16dd	do
+8cc	ra-
+8a}	-dła,
 !!LO:LB:g=esac
-=13
-{16d
-16f#
-8g
-8d
-=14
-16d
-16f#
-8g
-8b}
+=13	=13
+{16d\L	a
+16f#\J	czyś
+8g	pi-
+8d	-ła
+=14	=14
+16d	czy
+16f#	nie
+8g	pi-
+8b}	-ła,
 !!LO:LB:g=esac
-=15
-{16a
-16f#
-8g
-8d
-=16
-16e
-16g
-8f#
-8d}
-==
-*-
+=15	=15
+{16a	po-
+16f#	-pe-
+8g	-dzaj
+8d	świ-
+=16	=16
+16e	-nie
+16g	do
+8f#	chli-
+8d}	-wa.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A czyś jadła czy nie jadła,
+!!pędźże wołaszki do radła,
+!!a czyś piła czy nie piła,
+!!popedzaj świnie do chliwa.
+!!A czyś jadła czy nie jadła,
+!!pędźże wołaszki do radła,
+!!a czyś piła czy nie piła,
+!!popedzaj świnie do chliwa.
+!!@@END: VERSES
+!!!role-listener: Worker Girl
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=140 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 116} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 116}
 !!!page: 116
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-09
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-23

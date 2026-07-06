@@ -1,97 +1,117 @@
-!!!!SEGMENT: DWOK1329200000-chlopac_ojca_masz.krn
+﻿!!!!SEGMENT: DWOK1329200000-chlopac_ojca_masz.krn
 !!!OTL: Chłopać ojca masz
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gołańczy (Czeszewo)
+!!!AR1: wielkopolskie ; wągrowiecki ; Gołańcz-obszar wiejski
+!!!GE1: 52.908722 , 17.382633
 !!!source: DWOK13
 !!!id: 13292
 !!!signature: 1329200000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8g
-8cc
-8cc
-8cc
-4cc
-=2
-8cc
-8cc
-8cc
-8b
-4b
-=3
-8g
-8b
-8dd
-8cc
-4cc
-=4
-8g
-8b
-8dd
-8cc
-4cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+!LO:TX:a:t=W tańcu.	!
+{8g	Chło-
+8cc	-pa-ć
+8cc	.
+8cc	ojca
+4cc	masz
+=2	=2
+8cc	jeszcze
+8cc	.
+8cc	go
+8b	nie
+4b	znasz,
+=3	=3
+8g	jeszcze
+8b	.
+8dd	go
+8cc	nie
+4cc	znasz,
+=4	=4
+8g	jeszcze
+8b	.
+8dd	go
+8cc	nie
+4cc}	znasz,
 !!LO:LB:g=esac
-=5
-{16ee
-16ff
-8dd
-8dd
-8dd
-8dd
-8gg
-=6
-8ee
-8cc
-8b
-8g
-8g
-8b
-=7
-8dd
-8cc
-8ee
-8ee
-4ff
-=8
-8dd
-8b
-8cc
-8cc
-4cc}
+=5	=5
+{16eeL	a
+16ffJ	.
+8dd	chodzisz
+8dd	.
+8dd	przy
+8dd	bo-
+8gg	-ku
+=6	=6
+8ee	jak
+8cc	ter-
+8b	-ba
+8g	od
+8g	obro-
+8b	-ku
+=7	=7
+8dd	hej
+8cc	od
+8ee	o-
+8ee	-bro-
+4ff	-ku
+=8	=8
+8dd	hej
+8b	od
+8cc	o-
+8cc	-bro-
+4cc}	-ku
 !!LO:LB:g=esac
-=9
-{16ee
-16ff
-8dd
-8dd
-8dd
-8dd
-8gg
-=10
-8ee
-8cc
-8b
-8g
-8g
-8b
-=11
-8dd
-8cc
-8ee
-8ee
-4ff
-=12
-8dd
-8b
-8cc
-8cc
-4cc}
-==
-*-
+=9	=9
+{16eeL	my-
+16ffJ	.
+8dd	-ślisz
+8dd	żeś
+8dd	pie-
+8dd	-ści-
+8gg	-dło,
+=10	=10
+8ee	tyś
+8cc	wiel-
+8b	-gie
+8g	stra-
+8g	-szy-
+8b	-dło,
+=11	=11
+8dd	wielgie
+8cc	.
+8ee	stra-
+8ee	-szy-
+4ff	-dło,
+=12	=12
+8dd	wiel-
+8b	-gie
+8cc	stra-
+8cc	-szy-
+4cc}	-dło.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Chłopać ojca masz jeszcze go nie znasz,
+!!jeszcze go nie znasz, jeszcze go nie znasz,
+!!a chodzisz przy boku jak terba od obroku
+!!hej od obroku hej od obroku
+!!myślisz żeś pieścidło, tyś wielgie straszydło,
+!!wielgie straszydło, wielgie straszydło.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!role-listener: Bachelor
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=158 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 134} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 134}
 !!!page: 134
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-18
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-24

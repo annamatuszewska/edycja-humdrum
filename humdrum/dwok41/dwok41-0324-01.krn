@@ -3,79 +3,90 @@
 !!!source: DWOK41
 !!!id: 41324
 !!!signature: 4132400001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M6/8
-=1
-{4a
-8a
-8a
-8b
-8cc#
-=2
-4dd
-8cc
-4b
-8dd
-=3
-4dd
-8a
-8a
-8b
-8cc#
-=4
-4.dd
-4.g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M6/8	*
+=1	=1
+{4a	Słoń-
+8a	-ce
+8aL	sia-
+8b/J	.
+8cc#	-da,
+=2	=2
+4dd	ro-
+8cc	-sa
+4b	pa-
+8dd	-da
+=3	=3
+4dd	po
+8a\	dro-
+8aL	-bnej
+8b/J	.
+8cc#	lesz-
+=4	=4
+4.dd	-czy-
+4.g}	-nie,
 !!LO:LB:g=esac
-=5
-{8g
-8b
-8dd
-8gg
-8ff#
-8ee
-=6
-4ee
-8dd
-4b
-8dd
-=7
-8dd
-8cc
-8cc
-4cc
-8f#
-=8
-4.a
-4.g}
+=5	=5
+{8g\L	ko-
+8bJ	.
+8dd	-chaj-
+L8gg	-że
+8Jff#	.
+8ee	mnie,
+=6	=6
+4ee	mój
+8dd	Ja-
+4b	-sin-
+8dd	-[ku],
+=7	=7
+8dLd	szcze-
+8ccJ	.
+8cc	-rze,
+4cc	[nie
+8f#	zdra-
+=8	=8
+4.a\	-dli-
+4.g}\	-wie],
 !!LO:LB:g=esac
-=9
-{8g
-8b
-8dd
-8gg
-8ff#
-8ee
-=10
-4ee
-8dd
-4b
-8dd
-=11
-8dd
-8cc
-8cc
-4cc
-8f#
-=12
-4.a
-4.g}
-==
-*-
+=9	=9
+{8g\L	ko-
+8bJ	.
+8dd	-chaj-
+8ggL	-że
+8ff#J	.
+8ee	mnie,
+=10	=10
+4ee	mój
+8dd	Ja-
+4b	-sin-
+8dd	-[ku],
+=11	=11
+8ddL	szcze-
+8ccJ	.
+8cc	-rze,
+4cc	[nie
+8f#	zdra-
+=12	=12
+4.a\	-dli-
+\4.g}	-wie].
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Słońce siada, rosa pada
+!!po drobnej leszczynie,
+!!kochajże mnie, mój Jasin[ku],
+!!szczerze, [nie zdradliwie].
+!!@@END: VERSES
+!!!role-singer: Mistress
+!!!role-listener: Lover 
+!!!singer-sex: Female 
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=271 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 192} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 192}
 !!!page: 192
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-27

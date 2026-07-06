@@ -1,86 +1,109 @@
-!!!!SEGMENT: DWOK1324000002-dales_boze_roczek.krn
-!!!OTL: Dałeś Boże roczek
+﻿!!!!SEGMENT: DWOK1324000002-dales_boze_roczek.krn
+!!!OTL: Dałeś Boże roczek. Chodzony v. Polski
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gołańczy (Czeszewo)
+!!!AR1: wielkopolskie ; wągrowiecki ; Gołańcz-obszar wiejski
+!!!GE1: 52.908722 , 17.382633
 !!!source: DWOK13
 !!!id: 13240
 !!!signature: 1324000002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8.dd
-16cc
-8b
-8a
-8b
-8dd
-=2
-8ee
-8dd
-16cc
-16b
-16cc
-16dd
-8ee
-8ee
-=3
-8.dd
-16cc
-8b
-8dd
-16ee
-16dd
-16cc
-16b
-=4
-8a
-8b
-8a
-8f#
-8d
-8d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Chodzony v. Polski.	!
+{8.dd	Da-
+16cc	-łeś
+8b	Bo-
+8a\	-że
+8b	ro-
+8dd	-czek,
+=2	=2
+8ee	daj-
+8dd	-że
+16cc/L	Bo-
+16b/	.
+16cc/	.
+16dd/J	-że
+8ee	go-
+8ee	-dy,
+=3	=3
+8.dd	żebym
+16cc	.
+8b	w_tej
+8dd	Gołań-
+16ee/L	.
+16dd/	.
+16cc/	-czy
+16b/J	.
+=4	=4
+8a\	nie
+8b	no-
+8a\	-si-
+8f#	-ła
+8d	wo-
+8d}	-dy.
 !!LO:LB:g=esac
-=5
-{8.g
-16f#
-8g
-8b
-16ee
-16dd
-16cc
-16b
-=6
-8a
-8a
-8a
-16b
-16cc
-16dd
-16cc
-16b
-16a
-=7
-8g
-8f#
-8g
-8b
-16ee
-16dd
-16cc
-16b
-=8
-8a
-8a
-8a
-8f#
-8d
-8d}
-==
-*-
-!!!ONB: Chodzony v. Polski, u Kolberga metrum 3/8, zapisano na 3/4
+=5	=5
+{8.g	Wo-
+16f#	-dy
+8g	się
+8b	na-
+16ee/L	-no-
+16dd/	.
+16cc/	-szę,
+16b/J	.
+=6	=6
+8a	bru-
+8a	-dno
+8aL	się
+16b/	na-
+16cc/J	.
+16dd/L	-cho-
+16cc/	.
+16b/	-dzę,
+16aJ	.
+=7	=7
+8g	je-
+8f#	-szcze
+8g	swojéj
+8b	.
+16ee/L	pa-
+16dd/	.
+16cc/	-ni
+16b/J	.
+=8	=8
+8a	ni-
+8a	-gdy
+8bq	.
+8a	nie
+8f#	do-
+8d	-go-
+8d}	-dzę.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Dałeś Boże roczek,
+!!dajże Boże gody,
+!!żebym w tej Gołańczy
+!!nie nosiła wody.
+!!Wody się nanoszę,
+!!brudno się nachodzę,
+!!jeszcze swojéj pani
+!!nigdy nie dogodzę.
+!!@@END: VERSES
+!!!role-singer: Worker Girl
+!!!singer-sex: female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=140 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 116} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 116}
 !!!page: 116
+!!!BEM: Chodzony v. Polski, u Kolberga metrum 3/8, zapisano na 3/4
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-09
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-23

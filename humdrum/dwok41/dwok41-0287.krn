@@ -3,56 +3,71 @@
 !!!source: DWOK41
 !!!id: 41287
 !!!signature: 4128700000
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/4
-=1
-{8b
-8cc#
-4.dd
-8b
-=2
-8ee
-8cc#
-4cc#
-4b
-=3
-8b
-8cc#
-4.dd
-8b
-=4
-8ee
-8cc#
-4cc#
-4b}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M3/4	*
+=1	=1
+{8b	Ka-
+8cc#	-czka
+4.ddM	pły-
+8b	-nie
+=2	=2
+8ee	ku
+8cc#	ol-
+4cc#	-szy-
+4b	-nie,
+=3	=3
+8b	ka-
+8cc#	-czor
+4.ddM	za
+8b	nią
+=4	=4
+8ee	w_ko-
+8cc#	-żu-
+4cc#	-szy-
+4b}	-nie:
 !!LO:LB:g=esac
-=5
-{8b
-8cc#
-4.dd
-8b
-=6
-8cc#
-8a
-4g#
-4b
-=7
-8b
-8cc#
-4.dd
-8b
-=8
-8cc#
-8a
-4g#
-4e}
-==
-*-
+=5	=5
+{8b	Cze-
+8cc#	-kaj,
+4.ddM	ka-
+8b	-czko,
+=6	=6
+8cc#	dam
+8a	ci
+4g#	ca-
+4b	-cko.
+=7	=7
+8b	Nie
+8cc#	po-
+4.ddM	-cze-
+8b	-kam,
+=8	=8
+8cc#	boś
+8a	da-
+4g#	-le-
+4e}	-czko.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Kaczka płynie ku olszynie,
+!!kaczor za nią w kożuszynie:
+!!Czekaj, kaczko, dam ci cacko.
+!!Nie poczekam, boś daleczko.
+!!@VERSE:
+!!2. Nie poczekam, bo się boje,
+!!na głębokiej wodzie stoje.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!role-listener: Nature (duck)
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=254 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 175} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 175}
 !!!page: 175
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-24
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-28

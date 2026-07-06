@@ -3,56 +3,70 @@
 !!!source: DWOK41
 !!!id: 41321
 !!!signature: 4132100000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8g
-8b
-4dd
-4ff
-=2
-8aa
-8gg
-4ee
-4cc
-=3
-8ee
-8ff
-4dd
-4a
-=4
-8b
-8cc
-4a
-4f}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8g	Masz
+8b	mnie
+4dd	ko-
+4ff	-chać,
+=2	=2
+8aa	kochaj
+8gg	.
+4ee	sta-
+4cc	-le,
+=3	=3
+8ee	je-
+8ff	-śli
+4dd	nie
+4a	chcesz,
+=4	=4
+8b	przestań
+8cc	.
+4a	wca-
+4f}	-le;
 !!LO:LB:g=esac
-=5
-{8g
-8b
-4.dd
-8g
-=6
-8b
-8cc
-4.dd
-8cc
-=7
-8ee
-8ff
-4.dd
-8a
-=8
-8dd
-8cc
-4a
-4f}
-==
-*-
+=5	=5
+{8g	nie
+8b	rób-
+4.dd	-że
+8g	ty
+=6	=6
+8b	ser-
+8cc	-cu
+4.dd	tru-
+8cc	-dy,
+=7	=7
+8ee	nie
+8ff	będziesz
+4.dd	.
+8a	ty,
+=8	=8
+8b	bę-
+8cc	-dzie
+4a	dru-
+4f}	-gi.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Masz mnie kochać, kochaj stale,
+!!jeśli nie chcesz, przestań wcale;
+!!nie róbże ty sercu trudy,
+!!nie będziesz ty, będzie drugi.
+!!@VERSE:
+!!2. Będzie drugi, będzie lepszy,
+!!będzie sercu przyjemniejszy.
+!!@@END: VERSES
+!!!role-singer: Women
+!!!role-listener: Lover
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=269 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 190-191} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 190-191}
 !!!page: 190-191
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-27

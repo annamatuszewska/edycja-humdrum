@@ -3,60 +3,69 @@
 !!!source: DWOK41
 !!!id: 41302
 !!!signature: 4130200011
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/4
-=1
-{8a
-8cc#
-4ee
-4ee
-=2
-8ee
-8ee
-4.ff#
-8dd
-=
-8b
-8g#
-4b
-12cc#
-12b
-12g#
-=3
-8a
-8b
-4cc#
-4a}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M3/4	*
+=1	=1
+{8a	Mój
+8cc#	ko-
+4ee	-ni-
+4ee	-czek
+=2	=2
+8ee	swa-
+8ee	-wol-
+4.ff#	-ni-
+8dd	-czek
+=3	=3
+8b	przes-
+8g#\	-ko-
+4b	-czył
+12cc#L	mi
+12b	.
+12g#\J	.
+=4	=4
+8a	pas-
+8b	-ter-
+4cc#	-ni-
+4a}	-czek;
 !!LO:LB:g=esac
-=4
-{8a
-8b
-4cc#
-4cc#
-=5
-8cc#
-8cc#
-4.dd
-8cc#
-=6
-8b
-8b
-4b
-8cc#
-8b
-=7
-8a
-8b
-4cc#
-4a}
-==
-*-
+=5	=5
+{8a	w_pas-
+8b/	-ter-
+4cc#	-ni-
+4cc#	-ku
+=6	=6
+8cc#	tra-
+8cc#	-wy
+4.dd	ni
+8cc#	ma,
+=7	=7
+8b	u
+8b	chło-
+4b	-pa-
+8ccmL#	-la
+8bJ	.
+=8	=8
+8a	praw-
+8b	-dy
+4cc#	ni
+4a}	ma.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Mój koniczek swawolniczek
+!!przeskoczył mi pasterniczek;
+!!w pasterniku trawy ni ma,
+!!u chłopala prawdy ni ma.
+!!@@END: VERSES
+!!!role-singer: Complex
 !!!ONB: Partia wokalna
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=260 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 181} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 181}
 !!!page: 181
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-25

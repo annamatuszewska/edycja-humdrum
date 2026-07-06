@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1218900000-ebym_ja_wiedziala_gdzie_moj_mily_orze.krn
+﻿!!!!SEGMENT: DWOK1218900000-ebym_ja_wiedziala_gdzie_moj_mily_orze.krn
 !!!OTL: Żebym ja wiedziała gdzie mój miły orze
+!!!FKT: Pieśni i Dumy. Pieśni przed Weselem i wśród Wesela śpiewane
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Poznania (Spławie)
+!!!AR1: wielkopolskie ; m. Poznań ; Poznań-gmina miejska
+!!!GE1: 52.350785 , 17.025783
 !!!source: DWOK12
 !!!id: 12189
 !!!signature: 1218900000
@@ -136,11 +141,13 @@
 !!Tóm dana dana, tóm dana dana, wiatrek mną powiéwa,
 !!Tóm dana dana, tóm dana dana, wiatrek mną powiéwa.
 !!@@END: VERSES
-!!!ONB: Alternatywnie można zakodować w G
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=112 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 96} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 96}
 !!!page: 96
+!!!BEM: Weselna, Alternatywnie można zakodować w G
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

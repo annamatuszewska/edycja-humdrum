@@ -3,67 +3,78 @@
 !!!source: DWOK41
 !!!id: 41258
 !!!signature: 4125800000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/4
-=1
-{8a
-8cc
-4cc
-4dd
-=2
-4cc
-2a
-=3
-8a
-8cc
-4cc
-4dd
-=4
-4cc
-2a}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/4	*
+=1	=1
+{8a	Ze-
+8cc	-by
+4cc	nie
+4dd	roz-
+=2	=2
+4cc	-ma-
+2a	-ryn,
+=3	=3
+8a	nie
+8cc	to
+4cc	buj-
+4dd	-ne
+=4	=4
+4cc	zie-
+2a}	-le,
 !!LO:LB:g=esac
-=5
-{8b-
-8a
-4g
-4ee
-=6
-4ff
-4.a
-8dd
-=7
-8cc
-8b-
-4.b-
-8e
-=8
-4f
-2a}
+=5	=5
+{8b-	nie
+8a	masz
+4g	ci
+4ee	tu,
+=6	=6
+4ff	nie
+(4.a	ma
+8dd)	.
+=7	=7
+8cc	pa-
+8b-	-nie-
+4.b-	-ne-
+8e	-czek
+=8	=8
+4f	wie-
+2a}	-le.
 !!LO:LB:g=esac
-=9
-{8b-
-8a
-4g
-4ee
-=10
-4ff
-4.a
-8cc
-=11
-8dd
-8cc
-4b-
-4e
-=12
-4g
-2f}
-==
-*-
+=9	=9
+{8b-	nie
+8a	masz
+4g	ci
+4ee	tu,
+=10	=10
+4ff	nie
+(4.a	ma
+8cc)	.
+=11	=11
+8dd	pa-
+8cc	-nie-
+4b-	-ne-
+4e	-czek
+=12	=12
+4g	wie-
+2f}	-le.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Zeby nie rozmaryn,
+!!nie to bujne ziele,
+!!nie masz ci tu, nie ma
+!!panieneczek wiele.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=240 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 161} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 161}
 !!!page: 161
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-23
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-27

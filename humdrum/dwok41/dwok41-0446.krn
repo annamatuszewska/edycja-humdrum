@@ -3,56 +3,65 @@
 !!!source: DWOK41
 !!!id: 41446
 !!!signature: 4144600000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16ee
-16ee
-8gg
-8cc
-=2
-16dd
-16ff
-8dd
-8cc
-=3
-16ee
-16ee
-8gg
-8g
-=4
-16g
-16ff
-8dd
-8cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16ee	A
+16ee	i
+8gg	cóż
+8cc	to
+=2	=2
+16dd	za
+16ff	pa-
+8dd	-ro-
+8cc	-bek,
+=3	=3
+16ee	da,
+16ee	i
+8gg	co
+8g	się
+=4	=4
+16g	wil-
+16ff	-ka
+8dd	bo-
+8cc}	-i,
 !!LO:LB:g=esac
-=5
-{16dd
-16ff
-8ee
-8cc
-=6
-16dd
-16dd
-8gg
-8gg
-=7
-16ee
-16ee
-8gg
-8gg
-=8
-16g
-16ff
-8dd
-8cc}
-==
-*-
+=5	=5
+{16dd	wy-
+16ff	-gnał
+8ee	wo-
+8cc	-ły
+=6	=6
+16dd	zza
+16dd	sto-
+8gg	-do-
+8gg	-ły,
+=7	=7
+16ee	da,
+16ee	i
+8gg	sam
+8gg	za
+=8	=8
+16g	słu-
+16ff	-pem
+8dd	sto-
+8cc}	-i.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A i cóż to za parobek,
+!!da, i co się wilka boi,
+!!wygnał woły zza stodoły,
+!!da, i sam za słupem stoi.
+!!@@END: VERSES
+!!!role-singer: Complex 
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=323 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 240} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 240}
 !!!page: 240
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-15

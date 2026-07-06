@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1227800002-za_stodola_pszenica.krn
+﻿!!!!SEGMENT: DWOK1227800002-za_stodola_pszenica.krn
 !!!OTL: Za stodołą pszenica
+!!!FKT: Pieśni i Dumy. Strata wianka. Żale
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Szremu
+!!!AR1: wielkopolskie ; śremski ; Śrem-miasto
+!!!GE1: 52.095371 , 17.020534
 !!!source: DWOK12
 !!!id: 12278
 !!!signature: 1227800002
@@ -9,7 +14,7 @@
 *e:	*
 *M3/4	*
 =1	=1
-{4e 4g	Za
+{4e	Za
 4b	stodo-
 8bL	.
 8dd#J/	.
@@ -67,14 +72,14 @@
 4d#	dana.
 4e}	.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Narrator, Maiden
 !!!role-listener: Bachelor
 !!!singer-sex: female
 !!@@BEGIN: VERSES
 !!@VERSE:
 !!1. Za stodołą pszenica,
-!!za pszenicą bylica.
+!!za pszenicą bylica*).
 !!hej hej romtadana
 !!da da da hej dana,
 !!hej hej romtadana
@@ -112,6 +117,9 @@
 !!hej hej romtadana
 !!da da da hej dana.
 !!@@END: VERSES
+!!@@BEGIN: 
+!! @COMMENTARY:*) Bylica, obacz: pieśni Sobótkowe (Lud, Ser. II, str. 105).)
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=164 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 148} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 148}
@@ -119,3 +127,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

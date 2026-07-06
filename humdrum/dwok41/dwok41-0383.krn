@@ -3,62 +3,77 @@
 !!!source: DWOK41
 !!!id: 41383
 !!!signature: 4138300000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=
-{12b
-12cc
-12a
-4a
-4cc
-=1
-8dd
-8b
-4dd
-4ee
-=
-12b
-12cc
-12a
-4a
-4ee
-=2
-8ee
-8dd
-4b
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{12bL	Da,
+12ccJ	.
+12a	i
+4a	smu-
+4cc	-tne
+=2	=3
+8dd	ser-
+8b	-ce
+4dd	mo-
+4eeM	-je,
+=3	=3
+12bL	da,
+12ccJ	.
+12a	i
+4a	ja
+4ee	ca-
+=4	=4
+8eeL	-ła
+8ddJ	.
+4b	smu-
+4g}	-tna,
 !!LO:LB:g=esac
-=
-{12b
-12cc
-12a
-4a
-4f#
-=
-12d
-12f#
-12g
-4dd
-4b
-=
-12b
-12cc
-12a
-4a
-4f#
-=
-12d
-12f#
-12g
-4b
-4g}
-==
-*-
+=5	=5
+{12bL	da,
+12ccJ	.
+12a	i
+4a	co
+4f#	ja
+=6	=6
+12dL	roz-
+12f#J	.
+12g	-pa-
+4dd	-mię-
+4b	-tam,
+=7	=7
+12bL	da,
+12ccJ	.
+12a	i
+4a	ża-
+4f#	-łość
+=8	=8
+12dL	mi
+12f#J	.
+12g	o-
+4b	-kru-
+4g}	-tna.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Da, i smutne serce moje,
+!!da, i ja cała smutna,
+!!da, i co ja rozpamiętam,
+!!da, i żałość mi okrutna.
+!!@VERSE:
+!!2. Da, serce, moje serce,
+!!da, i co mi za radę dasz,
+!!da, i kochałam chłopaka,
+!!da, i nie widzę go teraz.
+!!@@END: VERSES
+!!!role-singer: Girl
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=294 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 213} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 213}
 !!!page: 213
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-01

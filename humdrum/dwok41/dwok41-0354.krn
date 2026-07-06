@@ -3,54 +3,65 @@
 !!!source: DWOK41
 !!!id: 41354
 !!!signature: 4135400000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8cc
-8ee
-4.gg
-8ee
-=2
-8gg
-8ff
-4ee
-4ff
-=3
-8dd
-8ee
-4.ff
-8dd
-=4
-8ff
-8ee
-4dd
-4ee}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8cc	Mo-
+8ee	-ja
+4.gg	có-
+8ee	-ruś,
+=2	=2
+8gg	gdzie-
+8ff	-żeś
+4ee	by-
+4ff	-ła,
+=3	=3
+8dd	[coś
+8ee	trze-
+4.ff	-wi-
+8dd	-ki
+=4	=4
+8ff	u-
+8ee	-ro-
+4dd	-si-
+4ee}	-ła?
 !!LO:LB:g=esac
-=5
-{4cc
-4a
-8cc
-8b
-=6
-8g
-8g
-4b
-4dd
-=7
-4cc
-4a
-8cc
-8b
-=8
-2g}
-4r
-==
-*-
+=5	=5
+{4cc	U
+4a	lnum
+8ccL	by-
+8bJ	.
+=6	=6
+8g	-ła,
+8g	ma-
+4b	-tu-
+4dd	-lu,
+=7	=7
+4cc	u
+4a	lnum
+8ccL	by-
+8bJ	.
+=8	=8
+2g}	-ła].
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Moja córuś, gdzieżeś była,
+!![coś trzewiki urosiła?
+!!U lnum była, matulu,
+!!u lnum była].
+!!@@END: VERSES
+!!!role-singer: Daughter
+!!!role-listener: Mother
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=281 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 202} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 202}
 !!!page: 202
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-30

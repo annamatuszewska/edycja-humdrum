@@ -1,72 +1,115 @@
-!!!!SEGMENT: DWOK1241100002-na_podolu_lezy_kamien.krn
+﻿!!!!SEGMENT: DWOK1241100002-na_podolu_lezy_kamien.krn
 !!!OTL: Na Podolu leży kamień
+!!!FKT: Pieśni i Dumy. Dumy. Zdrada. Zabójstwo
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Rakoniewic
+!!!AR1: wielkopolskie ; grodziski ; Rakoniewice-miasto
+!!!GE1: 52.138627 , 16.273315
 !!!source: DWOK12
 !!!id: 12411
 !!!signature: 1241100002
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M3/8
-=1
-{8d
-4a
-=2
-8f#
-4a
-=3
-8b
-4g
-=4
-8g
-4f#}
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M3/8	*
+=1	=1
+{8d	Na
+4a	Po-
+=2	=2
+8f#	-dolu
+4a	.
+=3	=3
+8b	leży
+4g	.
+=4	=4
+8g	kamień,
+4f#}	.
 !!LO:LB:g=esac
-=5
-{8d
-8.a
-16dd
-=6
-8cc#
-4ee
-=7
-8ff#
-8.dd
-16b
-=8
-8b
-4a}
+=5	=5
+{8d	Podo-
+8.aL	.
+16ddJ	.
+=6	=6
+8cc#	-lanka
+4ee	.
+=7	=7
+8ff#	siedzi
+8.ddL	.
+16bJ/	.
+=8	=8
+8b	na
+4a\}	niem.
 !!LO:LB:g=esac
-=9
-{8dd
-8.b
-16g
-=10
-8f#
-4a
-=11
-8g
-4e
-=12
-8g
-4f#}
+=9	=9
+{8dd	Przyszed
+8.bL	.
+16gJ	.
+=10	=10
+8f#	do
+4a	nij
+=11	=11
+8g	Podo-
+4e	.
+=12	=12
+8g	-leniec,
+4f#}	.
 !!LO:LB:g=esac
-=13
-{8dd
-8.b
-16g
-=14
-8f#
-4a
-=15
-8g
-4e
-=16
-8f#
-4d}
-==
-*-
+=13	=13
+{8dd	oj
+8.bL	i
+16gJ	.
+=14	=14
+8f#	prosi
+4a	.
+=15	=15
+8g	ją
+4e	o
+=16	=16
+8f#	wieniec.
+4d}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Bachelor, Brother, Sister
+!!!role-listener: Maiden, Brother
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Na Podolu leży kamień,
+!!Podolanka siedzi na niem.
+!!Przyszed do nij Podoleniec,
+!!Oj i prosi ją o wieniec.
+!!@VERSE:
+!!4. Idź do gaju zielonego,
+!!zabij węża żmijowego.
+!!@VERSE:
+!!5. Ugotuj go w czarny juszy,
+!!na stracenie brata duszy.
+!!@VERSE:
+!!6. A brat jedzie z téj wojenki
+!!i wiezie jéj trzy sukienki.
+!!@VERSE:
+!!7. Na masz siostro te sukienki
+!!na pamiątkę, że z wojenki.
+!!@VERSE:
+!!8. Siostro moja, daj mi piwa.
+!!Czekaj bracie, dam ci wina.
+!!@VERSE:
+!!9. Ona pije ze szklenicy,
+!!bratu dala w konewicy.
+!!@VERSE:
+!!10. A brat pije, zará mdleje,
+!!siostro moja, źle się dzieje.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY:obacz nr 426.
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=228 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 212} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 212}
 !!!page: 212
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

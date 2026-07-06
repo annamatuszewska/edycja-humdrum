@@ -3,48 +3,63 @@
 !!!source: DWOK41
 !!!id: 41311
 !!!signature: 4131100000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8cc
-8ee
-4ff
-4ee
-=2
-4b
-2cc
-=3
-8ee
-8gg
-4dd
-4cc
-=4
-4ee
-2cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8cc	Sto-
+8ee	-i
+4ff	gru-
+4ee	-szka
+=2	=2
+4b	w_po-
+2cc	-lu,
+=3	=3
+8ee	nie
+8gg	ma
+4dd	na
+4cc	niej
+=4	=4
+4ee	gru-
+2cc}	-szek,
 !!LO:LB:g=esac
-=5
-{8ee
-8gg
-4dd
-4ee
-=6
-4b
-2cc
-=7
-8ee
-8gg
-4dd
-4cc
-=8
-4ee
-2cc}
-==
-*-
+=5	=5
+{8ee	o-
+8gg	-dzie-
+4dd	-waj
+4ee	się,
+=6	=6
+4b	Ja-
+2cc	-siu,
+=7	=7
+8ee	dzie-
+8gg	-się-
+4dd	-cio
+4cc	po-
+=8	=8
+4ee	-du-
+2cc}	-szek.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Stoi gruszka w polu,
+!!nie ma na niej gruszek,
+!!odziewaj się, Jasiu,
+!!dziesięcio poduszek.
+!!@VERSE:
+!!2. Z dziesięcio do pięcio,
+!!od pięcio do jednej.
+!!da, wyśpij się, Jasiu,
+!!na płachcinie zgrzébnej.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!role-listener: Young Man
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=264 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 185} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 185}
 !!!page: 185
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-25

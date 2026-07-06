@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1338300020-kruszki_duze_jabka_male.krn
+﻿!!!!SEGMENT: DWOK1338300020-kruszki_duze_jabka_male.krn
 !!!OTL: Kruszki duże jabka małe
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Inowrocławia
+!!!AR1: kujawsko-pomorskie ; inowrocławski ; Inowrocław-gmina miejska
+!!!GE1: 52.796459 , 18.261581
 !!!source: DWOK13
 !!!id: 13383
 !!!signature: 1338300020
@@ -9,58 +14,58 @@
 *A:
 *M3/8
 =1
-{16.a
-32g#
-16a
+{16.aL
+32g#J
+16a\L
 16b
 16cc#
-16dd
+16ddJ
 =2
-16cc#
-16b
-16a
+16cc#L
+16bJ
+16aL
 16g#
 16f#
-16e
+16eJ
 =3
-8a
-8b
-16f#
-16e
+8a\L
+8bJ
+16fL#
+16eJ
 =4
-16g#
-16b
-16a
+16g#L
+16b/J
+16aL
 16g#
 16f#
-16e}
+16e}J
 !!LO:LB:g=esac
 =5
-{16.a
-32g#
-16a
+{16.aL
+32g#J
+16a\L
 16b
 16cc#
-16dd
+16ddJ
 =6
-16cc#
-16b
-16a
+16cc#L
+16bJ
+16aL
 16g#
 16f#
-16e
+16eJ
 =7
-8a
-8b
-16f#
-16e
+8a\L
+8bJ
+16f#L
+16eJ
 =8
-16g#
-16b
-16a
+16g#L
+16b/J
+16aL
 16g#
 16f#
-16e}
+16eJ}
 ==
 *-
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
@@ -68,3 +73,7 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=186 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 162} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 162}
 !!!page: 162
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-03
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-15

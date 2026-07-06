@@ -3,77 +3,107 @@
 !!!source: DWOK41
 !!!id: 41552
 !!!signature: 4155200000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8b
-8dd
-4cc#
-4dd
-=2
-8b
-8dd
-4cc#
-4dd
-=3
-8cc
-8ee
-4.gg
-8ff#
-=4
-8aa
-8gg
-4ff#
-4ee}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8b	Znów
+8dd	na-
+4cc#	-rze-
+4dd	-kam
+=2	=2
+8b	na
+8dd	swą
+4cc#	do-
+4dd	-lę,
+=3	=3
+8cc	gdym
+8ee	nie-
+4.gg	-da-
+8ff#	-wno
+=4	=4
+8aa	przed
+8gg	go-
+4ff#	-dzi-
+4ee}	-ną
 !!LO:LB:g=esac
-=5
-{8dd
-8dd
-4.ccc
-8dd
-=6
-8b
-8dd
-4bb
-4gg
-=7
-8cc
-8b
-4a
-4dd
-=8
-8ee
-8dd
-4b
-4dd}
+=5	=5
+{8dd	we-
+8dd	-sół
+4.ccc	z_mą
+8dd	lu-
+=6	=6
+8b	-bą
+8dd	Pau-
+4bb	-li-
+4gg	-ną
+=7	=7
+8cc	o-
+8b	-dwie-
+4a	-dzał
+4dd	to
+=8	=8
+8ee	An-
+8dd	-to-
+4b	-ko-
+4dd}	-le,
 !!LO:LB:g=esac
-=9
-{8dd
-8dd
-4.ccc
-8dd
-=10
-8b
-8dd
-4bb
-4gg
-=11
-8cc
-8b
-4a
-4ff#
-=12
-8aa
-8gg
-4ff#
-4gg}
-==
-*-
+=9	=9
+{8dd	we-
+8dd	-sół
+4.ccc	z_mą
+8dd	lu-
+=10	=10
+8b	-bą
+8dd	Pau-
+4bb	-li-
+4gg	-ną
+=11	=11
+8cc	o-
+8b	-dwie-
+4a	-dzał
+4ff#	to
+=12	=12
+8aa	An-
+8gg	-to-
+4ff#	-ko-
+4gg}	-le.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Znów narzekam na swą dolę, 
+!!gdym niedawno przed godziną
+!!|:wesół z mą lubą Pauliną
+!!odwiedzał to Antokole:|.
+!!@VERSE:
+!!2. Już hucznie organy grzmiały.
+!!ognie jarzące jasniały.
+!!|:a lud wierny korne chwały
+!!oddawał panu nad pany:|.
+!!@VERSE:
+!!3. Tam widziałem, jak zbolała
+!!matka, oczy pojąc łzami,
+!!|: modliła się ze synami,
+!!co ich ojczyzna zabrała:|.
+!!@VERSE:
+!!4. Tu całując marmur zimny
+!!w schorzałej, omdlałej mowie,
+!!|: by zyskał stracone zdrowie,
+!!odmawiała strzeliste hymny:|.
+!!@VERSE:
+!!5. Tam znów nadobna dziewczyna,
+!!korne zginając kolanka,
+!!|:płoniąc sie, bóstwo zaklina.
+!!by z nią złączyło kochanka:|.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=373 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 290} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 290}
 !!!page: 290
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-27

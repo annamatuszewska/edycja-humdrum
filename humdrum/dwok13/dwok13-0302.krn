@@ -1,65 +1,82 @@
-!!!!SEGMENT: DWOK1330200000-eby_matka_nie_brojila.krn
+﻿!!!!SEGMENT: DWOK1330200000-eby_matka_nie_brojila.krn
 !!!OTL: Żeby matka nie brojiła
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Mogilna
+!!!AR1: kujawsko-pomorskie ; mogileński ; Mogilno-miasto
+!!!GE1: 52.657733 , 17.949932
 !!!source: DWOK13
 !!!id: 13302
 !!!signature: 1330200000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16g
-16b
-8.dd
-16ff
-=2
-16gg
-16ee
-16cc
-16ee
-8ee}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16g	Że-
+16b/	-by
+8.dd	mat-
+16ff	-ka
+=2	=2
+16gg	nie
+16ee	bro-
+16cc/L	-ji-
+16ee/	-ła,
+8ee}/J	.
 !!LO:LB:g=esac
-=3
-{16g
-16b
-8.dd
-16ff
-=4
-16gg
-16ee
-16cc
-16b
-8g}
+=3	=3
+{16g	mia-
+16b/	-ła-
+8.dd	-bym
+16ff	ja
+=4	=4
+16gg	ka-
+16ee	-wa-
+16ccL	-li-
+16bJ	.
+8g}\	-ra.
 !!LO:LB:g=esac
-=5
-{16g
-16b
-8.dd
-16b
-=6
-16a
-16a
-16a
-16cc
-8ee}
+=5	=5
+{16g	A-
+16b	-le
+8.dd	ma-
+16b	-tka
+=6	=6
+16a\	wszystko
+16a\	.
+16aL	bro-
+16cc/	.
+8ee/J}	-ji,
 !!LO:LB:g=esac
-=7
-{16g
-16b
-8.dd
-16b
-=8
-16a
-16a
-16a
-16cc
-8b}
-==
-*-
-!!!ONB: Alternatywnie możliwe kodowanie w G
+=7	=7
+{16g	to
+16b	ka-
+8.dd	-wa-
+16b	-lir
+=8	=8
+16a\	jéj
+16a\	się
+16a\L	bo-
+16ccJ	.
+8b}	-ji.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Żeby matka nie brojiła,
+!!miałabym ja kawalira.
+!!Ale matka wszystko broji,
+!!to kawalir jéj się boji.
+!!@@END: VERSES
+!!!role-singer: Daughter
+!!!singer-sex: female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=161 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 137} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 137}
 !!!page: 137
+!!!BEM: Alternatywnie możliwe kodowanie w G
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-19
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-24

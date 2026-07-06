@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1225200001-dziewula_moja_takas_mi_mila.krn
-!!!OTL: Dziewula moja takaś mi miła
+﻿!!!!SEGMENT: DWOK1225200001-dziewula_moja_takas_mi_mila.krn
+!!!OTL: Dziewula moja takaś mi miła. Chodzony
+!!!FKT: Pieśni i Dumy. Skarga. Niechęć. Rozstanie
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kobylina (Targoszyce)
+!!!AR1: wielkopolskie ; krotoszyński ; Kobylin-obszar wiejski
+!!!GE1: 51.762910 , 17.270700
 !!!source: DWOK12
 !!!id: 12252
 !!!signature: 1225200001
@@ -85,7 +90,7 @@
 8f#	.
 4g}	.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Bachelor, Maiden
 !!!role-listener: Maiden, Bachelor
 !!!singer-sex: male, female
@@ -123,6 +128,9 @@
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=150 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 134} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 134}
 !!!page: 134
+!!!BEM: Chodzony
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

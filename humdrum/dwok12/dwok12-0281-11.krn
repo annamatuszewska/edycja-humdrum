@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1228100011-nade_droga_oset.krn
+﻿!!!!SEGMENT: DWOK1228100011-nade_droga_oset.krn
 !!!OTL: Nade drogą oset
+!!!FKT: Pieśni i Dumy. Strata wianka. Żale
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gniezna
+!!!AR1: wielkopolskie ; gnieźnieński ; Gniezno-gmina miejska
+!!!GE1: 52.533333 , 17.601388
 !!!source: DWOK12
 !!!id: 12281
 !!!signature: 1228100011
@@ -51,7 +56,7 @@
 16aJ	.
 4g}	.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Maiden, Narrator, Lord
 !!!role-listener: Maiden, Lord
 !!!singer-sex: female, male
@@ -134,3 +139,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

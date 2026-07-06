@@ -1,110 +1,132 @@
-!!!!SEGMENT: DWOK1332600000-owczaryszek_skoczybruzda.krn
-!!!OTL: Owczaryszek skoczybruzda
+﻿!!!!SEGMENT: DWOK1332600000-owczaryszek_skoczybruzda.krn
+!!!OTL: Owczaryszek skoczybruzda. Kujawiak
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Miłosławia, Wrześni
+!!!AR1: wielkopolskie ; wrzesiński ; Miłosław-miasto
+!!!GE1: 52.202819 , 17.488615
+!!!AR2: wielkopolskie ; wrzesiński ; Września-miasto
+!!!GE2: 52.325822 , 17.565352
 !!!source: DWOK13
 !!!id: 13326
 !!!signature: 1332600000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8dd
-8ff
-4aa
-8ee
-8gg
-=2
-4aa
-4gg
-4ff
-=3
-8g
-8b
-4dd
-8cc
-8ee
-=4
-8b
-8dd
-8ff
-8ee
-4gg}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+!LO:TX:a:t=Kujawiak.	!
+{8ddL	Owcza-
+8ffJ	.
+4aa	-ry-
+8eeL	-szek
+8ggJ	.
+=2	=2
+4aa	sko-
+4gg	-czy
+4ff	bruzda,
+=3	=3
+8gL	uwięzgła
+8aq	.
+8b/J	.
+4dd	.
+8ccL	mu
+8eeJ	.
+=4	=4
+8bL	w_tyłku
+8ddJ	.
+8ffL	ró-
+8eeJ	.
+4gg}	-zga.
 !!LO:LB:g=esac
-=5
-{8dd
-8ff
-4aa
-8ee
-8gg
-=6
-8aa
-8aa
-4gg
-8ff
-8dd
-=7
-8g
-8b
-4dd
-8cc
-8ee
-=8
-8b
-8g
-8a
-8b
-4cc}
+=5	=5
+{8ddL	A
+8ffJ	nie
+4aa	róz-
+8eeL	-ga
+8ggJ	.
+=6	=6
+8aa/L	ino
+8aa/J	.
+4gg/	ki-
+8ff/L	-jak,
+8dd/J	.
+=7	=7
+8gL	owcza-
+8aq	.
+8b/J	.
+4dd	-ry-
+8ccL	-szek
+8eeJ	.
+=8	=8
+8bL	wielgi
+8g\J	.
+8a\L	pi-
+8bJ	.
+4cc}	-jak.
 !!LO:LB:g=esac
-=9
-{4dd
-4dd
-4dd
-=10
-8cc
-8ee
-4dd
-4ff
-=11
-8g
-8b
-4dd
-8cc
-8ee
-=12
-8cc
-8dd
-4ff
-4gg}
+=9	=9
+{4dd	.
+4dd	.
+4dd	.
+=10	=10
+8ccL	.
+8eeJ	.
+4dd	.
+4ff	.
+=11	=11
+8g\L	.
+8bJ	.
+4dd	.
+8ccL	.
+8eeJ	.
+=12	=12
+8ccL	.
+8ddJ	.
+4ff	.
+4gg}	.
 !!LO:LB:g=esac
-=13
-{4dd
-4dd
-8dd
-8b
-=14
-8cc
-8ee
-4dd
-4ff
-=15
-16g
-16a
-8b
-4dd
-8cc
-8ee
-=16
-8b
-8g
-8a
-8b
-4cc}
-==
-*-
-!!!ONB: Kolberg podaje metrum 3/8, zapisano na 3/4
+=13	=13
+{4dd	.
+4dd	.
+8dd/L	.
+8b/J	.
+=14	=14
+8ccL	.
+8eeJ	.
+4dd	.
+4ff	.
+=15	=15
+16gL	.
+16a	.
+8b/J	.
+4dd	.
+8ccL	.
+8eeJ	.
+=16	=16
+8bL	.
+8g\J	.
+8a\L	.
+8bJ	.
+4cc}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Owczaryszek skoczy bruzda,
+!!uwięzgła mu w tyłku rózga.
+!!A nie rózga ino kijak,
+!!owczaryszek wielgi pijak.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=169 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 145} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 145}
 !!!page: 145
+!!!BEM: Kolberg podaje metrum 3/8, zapisano na 3/4
+!!!ONB@texture: Only voice or instrument is playing at a time
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-22
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-26

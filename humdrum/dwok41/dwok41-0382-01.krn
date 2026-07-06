@@ -3,79 +3,94 @@
 !!!source: DWOK41
 !!!id: 41382
 !!!signature: 4138200001
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{8a
-8cc
-4ee
-4ee
-=2
-8dd#
-8ff
-4.ee
-8b
-=3
-8a
-8cc
-4ee
-4ee
-=4
-8dd#
-8dd#
-4.ee
-8b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+{8a	Da,
+8cc	i
+4ee	smu-
+4ee	-tne
+=2	=2
+8dd#	ser-
+8ff	-ce
+4.ee	mo-
+8b	-je,
+=3	=3
+8a	da,
+8cc	i
+4ee	ja
+4ee	też
+=4	=4
+8dd#	ca-
+8dd#	-ła
+4.ee	smu-
+8b}	-tna,
 !!LO:LB:g=esac
-=5
-{8dd
-8cc
-4b
-4a
-=6
-8g#
-8g#
-4a
-4ee
-=7
-8dd
-8cc
-4b
-8b
-8a
-=8
-8g#
-8g#
-4.a
-8e}
+=5	=5
+{8dd	co
+8cc	so-
+4b	-bie
+4a	roz-
+=6	=6
+8g#	-pa-
+8g#	-mię-
+4a	-ty-
+4ee	-wam,
+=7	=7
+8dd	da,
+8cc	i
+4b	ża-
+8b/L	-łość
+8aJ	.
+=8	=8
+8g#	mi
+8g#	o-
+4.a	-kru-
+8e}	-tna.
 !!LO:LB:g=esac
-=9
-{8dd
-8cc
-4b
-4a
-=10
-8g#
-8g#
-4a
-4ee
-=11
-8dd
-8cc
-4b
-8b
-8a
-=12
-8g#
-8g#
-4.a
-8e}
-==
-*-
+=9	=9
+{8dd	co
+8cc	so-
+4b	-bie
+4a	roz-
+=10	=10
+8g#	-pa-
+8g#	-mię-
+4a	-ty-
+4ee	-wam,
+=11	=11
+8dd	da,
+8cc	i
+4b	ża-
+8b/L	-łość
+8aJ	.
+=12	=12
+8g#	mi
+8g#	o-
+4.a	-kru-
+8e}	-tna.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Da, i smutne serce moje,
+!!da, i ja też cała smutna,
+!!|: co sobie rozpamiętywam,
+!!da, i żałość mi okrutna:|.
+!!@VERSE:
+!!2. Da, i serce, moje serce,
+!!da, i co mi za radę dasz,
+!!|: da, i kochałam chłopaka,
+!!da, i nie widzę go teraz:|.
+!!@@END: VERSES
+!!!role-singer: Woman
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=293 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 212-213} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 212-213}
 !!!page: 212-213
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-30

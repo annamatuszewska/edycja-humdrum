@@ -1,83 +1,111 @@
-!!!!SEGMENT: DWOK1331200001-gospodarzu_gdzie_masz_rola.krn
+﻿!!!!SEGMENT: DWOK1331200001-gospodarzu_gdzie_masz_rola.krn
 !!!OTL: Gospodarzu gdzie masz rolą
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Czempina (Brodnica)
+!!!AR1: wielkopolskie ; śremski ; Brodnica-gmina wiejska
+!!!GE1: 52.141042 , 16.892250
 !!!source: DWOK13
 !!!id: 13312
 !!!signature: 1331200001
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16b
-16dd
-8ff
-8ee
-=2
-16ee
-16dd
-8b
-8cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16b	Go-
+16dd	-spo-
+8ff	-da-
+8ee	-rzu,
+=2	=2
+16ee	gdzie
+16dd	masz
+8b	ro-
+8cc}	-lą?
 !!LO:LB:g=esac
-=3
-{16b
-16dd
-8ff
-8g
-=4
-16a
-16g
-8b
-8cc}
+=3	=3
+{16b	Nie-
+16dd	-da-
+8ff	-le-
+8g	-ko,
+=4	=4
+16a	za
+16g	sto-
+8b	-do-
+8cc}	-łą.
 !!LO:LB:g=esac
-=5
-{16ff
-16ff
-8ee
-8cc
-=6
-16a
-16g
-8b
-8ff}
+=5	=5
+{16ff	Kto
+16ff	ją
+8ee	o-
+8cc	-rze?
+=6	=6
+16a	świ-
+16g	-nia
+8b	py-
+8ff}	-skiem,
 !!LO:LB:g=esac
-=7
-{16ff
-16ff
-8ee
-8g
-=8
-16a
-16g
-16a
-16b
-8cc}
+=7	=7
+{16ff	po-
+8ggq	.
+16ff	-dzię-
+8ee	-kuj-
+8g	-że
+=8	=8
+16a\	jej
+16g\	bi-
+16a\L	-czy-
+16bJ	.
+8cc}	-skiem.
 !!LO:LB:g=esac
-=9
-{16ff
-16ff
-8ee
-8cc
-=10
-16a
-16g
-8b
-8ff}
+=9	=9
+{16ff	Kto
+16ff	ją
+8ee	o-
+8cc	-rze?
+=10	=10
+16a	świ-
+16g	-nia
+8b	py-
+8ff}	-skiem,
 !!LO:LB:g=esac
-=11
-{16ff
-16ff
-8ee
-8g
-=12
-16ff
-16dd
-8b
-8cc}
-==
-*-
+=11	=11
+{16ff	po-
+8ggq	.
+16ff	-dzię-
+8ee	-kuj-
+8g	-że
+=12	=12
+16ff/L	jej
+16dd/	bi-
+8b/	-czy-
+8cc/J}	-skiem.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Gospodarzu, gdzie masz rolą?
+!!Niedaleko, za stodołą.
+!!Kto ją orze? świnia pyskiem,
+!!podziękujże jej biczyskiem.
+!!@VERSE:
+!!2. Przy dolinie rola leży,
+!!nie dbam o to czy kto wierzy.
+!!Dałem sobie płużek stalić,
+!!będzie mi się rola walić.
+!!@VERSE:
+!!3. Chociaż ci ja stary Grzela,
+!!to ja nimém grzechów wiela.
+!!Bo ja siéwam i wywiéwam,
+!!to i grzechy poodwiéwam.
+!!@@END: VERSES
+!!!role-listener: Farmer
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=164 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 140} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 140}
 !!!page: 140
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-20
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-24

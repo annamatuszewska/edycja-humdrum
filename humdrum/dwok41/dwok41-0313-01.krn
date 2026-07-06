@@ -3,59 +3,75 @@
 !!!source: DWOK41
 !!!id: 41313
 !!!signature: 4131300001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8b
-8dd
-4cc#
-8a
-8b
-=2
-8f#
-8g
-4cc#
-4ee
-=3
-8dd
-8ee
-4dd
-8a
-8b
-=4
-8g
-8a
-4f#
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8b	Będziesz
+8dd	.
+4cc#	ci
+8a\L	ty
+8bJ	.
+=2	=2
+8f#	mo-
+8g	-ją,
+4cc#	dziew-
+4ee	-cze,
+=3	=3
+8dd	będziesz
+8ee	.
+4dd	ci
+8a\L	mo-
+8bJ	.
+=4	=4
+8g	-ją,
+8a	da,
+4f#	mo-
+4g}	-ją,
 !!LO:LB:g=esac
-=5
-{8b
-8dd
-4cc#
-4b
-=6
-4.dd
-8a
-8f#
-8g
-=7
-8b
-8dd
-4cc#
-8a
-8b
-=8
-8g
-8a
-4f#
-4g}
-==
-*-
+=5	=5
+{8b	jak
+8dd	ci
+4cc#	mi
+4b	się
+=6	=6
+4.dd	przy-
+8a	-sie-
+8f#	-we-
+8g	-czki
+=7	=7
+8b	w_po-
+8dd	-lu
+4cc#	do-
+8a\L	-sto-
+8bJ	.
+=8	=8
+8g	-ją,
+8a	do-
+4f#	-sto-
+4g}	-ją.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Będziesz ci ty moją, dziewcze,
+!!będziesz ci moją, da, moją,
+!!jak ci mi się przysieweczki
+!!w polu dostoją, dostoją.
+!!@VERSE:
+!!2. Już ci mi się przysieweczki
+!!w polu dostały, dostały;
+!!jużeś ci ty, mój chłopaku,
+!!dla mnie za stary, za stary.
+!!@@END: VERSES
+!!!role-singer: Lover, Single Girl
+!!!role-listener: Single Girl, Lover
+!!!singer-sex: Male, Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=265 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 186} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 186}
 !!!page: 186
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-25

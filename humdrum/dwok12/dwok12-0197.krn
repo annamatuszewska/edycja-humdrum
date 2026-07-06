@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1219700000-zieleni_sie_zieleni.krn
-!!!OTL: Zieleni się zieleni
+﻿!!!!SEGMENT: DWOK1219700000-zieleni_sie_zieleni.krn
+!!!OTL: Zieleni się zieleni. Wiwat
+!!!FKT: Pieśni i Dumy. Stałość. Życzliwość. Wymówka
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Rawicza (Pakosław)
+!!!AR1: wielkopolskie ; rawicki ; Pakosław-gmina wiejska
+!!!GE1: 51.611323 , 17.058539
 !!!source: DWOK12
 !!!id: 12197
 !!!signature: 1219700000
@@ -49,8 +54,8 @@
 8f#	.
 4g}	wzion.
 ==	==
-*- 	*-
-!!!role-singer: Widower
+*-	*-
+!!!role-singer: Widower, Narrator
 !!!role-listener: God
 !!!singer-sex: male
 !!@@BEGIN: VERSES
@@ -79,6 +84,9 @@
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=118 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 102} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 102}
 !!!page: 102
+!!!BEM: Wiwat weselny
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

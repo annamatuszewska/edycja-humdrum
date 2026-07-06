@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1219400002-jechal_zolnierz_z_wojny.krn
+﻿!!!!SEGMENT: DWOK1219400002-jechal_zolnierz_z_wojny.krn
 !!!OTL: Jechał żołnierz z wojny
+!!!FKT: Pieśni i Dumy. Stałość. Życzliwość. Wymówka
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: Kołuda, Ołdrzychowo (p. Inowrocł.)
+!!!AR1: kujawsko-pomorskie ; NIE ; NIE
+!!!GE1: 52.726984 , 18.136747
+!!!AR2: kujawsko-pomorskie ; inowrocławski ; Janikowo-obszar wiejski
+!!!GE2: 52.702543 , 18.125801
 !!!source: DWOK12
 !!!id: 12194
 !!!signature: 1219400002
@@ -133,3 +140,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

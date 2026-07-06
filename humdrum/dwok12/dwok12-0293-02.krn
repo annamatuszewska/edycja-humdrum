@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1229300002-poszed_jas_do_lasa.krn
+﻿!!!!SEGMENT: DWOK1229300002-poszed_jas_do_lasa.krn
 !!!OTL: Poszed Jaś do lasa
+!!!FKT: Pieśni i Dumy. Strata wianka. Żale
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kobylina (Targoszyce)
+!!!AR1: wielkopolskie ; krotoszyński ; Kobylin-obszar wiejski
+!!!GE1: 51.762910 , 17.270700
 !!!source: DWOK12
 !!!id: 12293
 !!!signature: 1229300002
@@ -51,8 +56,8 @@
 4e}	.
 8r	.
 ==	==
-*- 	*-
-!!!role-singer: Narrator, Lord
+*-	*-
+!!!role-singer: Narrator, Land Lord
 !!!role-listener: Maiden
 !!!singer-sex: male
 !!@@BEGIN: VERSES
@@ -99,3 +104,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

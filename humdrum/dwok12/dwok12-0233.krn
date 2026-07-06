@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1223300000-a_gdzie_to_jedzieszza_kalisz.krn
+﻿!!!!SEGMENT: DWOK1223300000-a_gdzie_to_jedzieszza_kalisz.krn
 !!!OTL: A gdzie to jedziesz?Za Kalisz
+!!!FKT: Pieśni i Dumy. Skarga. Niechęć. Rozstanie
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Czempina (Brodnica)
+!!!AR1: wielkopolskie ; śremski ; Brodnica-gmina wiejska
+!!!GE1: 52.141042 , 16.892250
 !!!source: DWOK12
 !!!id: 12233
 !!!signature: 1223300000
@@ -73,9 +78,9 @@
 8f#	.
 4.g}	.
 ==	==
-*- 	*-
-!!!role-singer: Maiden, Baichelor
-!!!role-listener: Bachelor, maiden
+*-	*-
+!!!role-singer: Maiden, Bachelor
+!!!role-listener: Mother-in-law, Bachelor
 !!!singer-sex: female, male
 !!@@BEGIN: VERSES
 !!@VERSE:
@@ -114,3 +119,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

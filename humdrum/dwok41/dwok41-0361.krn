@@ -3,67 +3,84 @@
 !!!source: DWOK41
 !!!id: 41361
 !!!signature: 4136100000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=
-{24a
-24b
-24cc
-8ee
-16ee
-16dd#
-=
-16ee
-16b
-8dd
-24ee
-24dd
-24cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{24a\L	Bę-
+24bJ	.
+24cc	-dziesz
+8ee	pła-
+(8ffq	.
+16ee)L	-ka-
+16dd#J	.
+=2	=2
+16ee	-ła,
+16b	dziew-
+8dd	-czy-
+24eeL	-no,
+24dd	.
+24cc}J	.
 !!LO:LB:g=esac
-=1
-{16a
-16cc
-8ee
-16ee
-16dd#
-=2
-16ee
-16b
-8dd
-16cc
-16b
-=3
-16dd
-16b
-8a
-16b
-16a}
+=3	=3
+{16a	bę-
+16cc	-dziesz
+8ee	pła-
+(8ffq	.
+16ee)L	-ka-
+16dd#J	.
+=4	=4
+16ee	-ła,
+16b	pła-
+8dd	-ka-
+16ccL	-ła,
+16bJ	.
+=5	=5
+16dd	jak
+16b	ty
+8a	spoj-
+16b/L	-rzysz
+16a}J	.
 !!LO:LB:g=esac
-=4
-{16g#
-16g#
-8a
-16dd#
-16ee
-=
-24dd
-24cc
-24b
-8a
-16b
-16a
-=5
-16g#
-16g#
-8a
-8a}
-==
-*-
+=6	=6
+{16g#	na
+16g#	to
+8a	miejs-
+16dd#L	-ce,
+16eeJ	.
+=7	=7
+24ddL	kiejś
+24ccJ	.
+24b	gę-
+8a	-by
+16b/L	da-
+16aJ	.
+=8	=8
+16g#	-ła,
+16g#	da,
+8a	da-
+8a}	-ła.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Będziesz płakała, dziewczyno,
+!!będziesz płakała, płakała,
+!!jak ty spojrzysz na to miejsce,
+!!kiejś gęby dała, da, dała.
+!!@VERSE:
+!!2. Będziesz żałował, chłopalu,
+!!będziesz żałował, żałował,
+!!jak ty spojrzysz na to miejsce,
+!!kiejś ją całował, całował.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!role-listener: Girl, Boy
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=284 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 205} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 205}
 !!!page: 205
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-30

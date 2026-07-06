@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1206600000-a_na_tej_lace_na_tej_zielonej.krn
+﻿!!!!SEGMENT: DWOK1206600000-a_na_tej_lace_na_tej_zielonej.krn
 !!!OTL: A na tej łące, na tej zielonej
+!!!FKT: Pieśni i Dumy. Miłość. Pieśni zalotne
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Środy (Dębicz)
+!!!AR1: wielkopolskie ; średzki ; Środa Wielkopolska-obszar wiejski
+!!!GE1: 52.265702 , 17.311801
 !!!source: DWOK12
 !!!id: 12066
 !!!signature: 1206600000
@@ -74,11 +79,11 @@
 !!@VERSE:A na téj łące, na téj zielonéj,
 !!leżał tam Jasio bardzo zraniony.
 !!@@END: VERSES
-!!!ONB: Moze zapisac od G?
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=45 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 29-30} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 29-30}
 !!!page: 29-30
+!!!BEM: Moze zapisac od G?
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-02-21

@@ -3,62 +3,73 @@
 !!!source: DWOK41
 !!!id: 41529
 !!!signature: 4152900000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=
-{24b
-24cc
-24a
-8a
-8cc
-=1
-16.dd
-32b
-8dd
-8ee
-=
-24b
-24cc
-24a
-8a
-8ee
-=2
-16ee
-16dd
-8b
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+!LO:TUP:b	!
+{24bL	Oj,
+24cc	.
+24a\J	.
+8a	w_mo-
+8cc	-jem
+=2	=2
+16.dd	cał-
+32b	-kiem
+8dd	ży-
+8ee	-ciu,
+=3	=3
+24bL	da,
+24cc	.
+24aJ	.
+8a	ta-
+8ee	-ka
+=4	=4
+16ee	straś-
+16dd	-na
+8b	zbro-
+8g}	-dnia,
 !!LO:LB:g=esac
-=
-{24b
-24cc
-24a
-8.a
-16f#
-=
-24d
-24f#
-24g
-8dd
-8b
-=
-24b
-24cc
-24a
-8.a
-16f#
-=
-24d
-24f#
-24g
-8b
-8g}
-==
-*-
+=5	=5
+{24bL	oj,
+24cc	.
+24aJ	.
+8.a	ko-
+16f#	-cha-
+=6	=6
+24d\L	-łam
+24f#\	.
+24g\J	chło-
+8dd	-pa-
+8b	-ka,
+=7	=7
+24bL	da,
+24cc	.
+24a\J	.
+8.a	pół-
+16f#	-to-
+=8	=8
+24dL	-ra
+24f#J	.
+24g	ty-
+8b	-go-
+8g}	-dnia.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oj, w mojem całkiem życiu, da,
+!!taka straśna zbrodnia,
+!!oj, kochałam chłopaka, da,
+!!półtora tygodnia.
+!!@@END: VERSES
+!!!role-singer: Mistress
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=356 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 273} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 273}
 !!!page: 273
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-20

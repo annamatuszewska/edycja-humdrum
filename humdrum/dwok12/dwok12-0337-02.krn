@@ -1,101 +1,143 @@
-!!!!SEGMENT: DWOK1233700002-czyli_pod_olszyna_czyli_pod_leszczyna.krn
-!!!OTL: Czyli pod olszyną, czyli pod leszczyną
+﻿!!!!SEGMENT: DWOK1233700002-czyli_pod_olszyna_czyli_pod_leszczyna.krn
+!!!OTL: Czyli pod olszyną, czyli pod leszczyną. Polski
+!!!FKT: Pieśni i Dumy. Igraszka. Swawola
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Buku (Niegolewo)
+!!!AR1: wielkopolskie ; nowotomyski ; Opalenica-obszar wiejski
+!!!GE1: 52.369145 , 16.432989
 !!!source: DWOK12
 !!!id: 12337
 !!!signature: 1233700002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8g
-8b
-8dd
-8dd
-8b
-8dd
-=2
-8g
-8b
-8f#
-8a
-8cc
-8b
-=3
-8g
-8b
-8dd
-8dd
-8b
-8dd
-=4
-8g
-8b
-8f#
-8a
-8g
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+!!LO:TX:a:t=Polski.
+{8g	Czyli
+8b	.
+8ddL	pod
+8ddJ/	olszyną,
+8b^	.
+8dd	.
+=2	=2
+8g	czyli
+8b	.
+8f#	pod
+8a	leszczyną,
+8cc	.
+8b	.
+=3	=3
+8g	pasła
+8b	.
+8dd	pastereczka
+8eeq	.
+8dd	.
+8b	.
+8dd	.
+=4	=4
+8g	gdyby
+8b/	.
+8f#	przepióreczka.
+8a	.
+8gL	.
+8gJ}	.
 !!LO:LB:g=esac
-=5
-{8d
-8f#
-8a
-8a
-8b
-8g
-=6
-8a
-8cc
-16a
-16b
-8cc
-8b
-8g
-=7
-8d
-8f#
-8a
-8a
-8b
-8g
-=8
-8g
-8b
-8f#
-8a
-8g
-8g}
+=5	=5
+{8d	A
+8f#	pasterek
+8a	.
+8a	.
+8b/	do
+8g	nij,
+=6	=6
+8a	ona
+8cc	.
+16aL	mu
+16b	.
+8ccJ/	się
+8b	chroni,
+8g	.
+=7	=7
+8d	za
+8f#	rączki
+8a	.
+8a	ją
+8b/	chwyta,
+8g	.
+=8	=8
+8g	co
+8b/	to
+8f#	robisz?
+8a	.
+8gL	pyta.
+8gJ}	.
 !!LO:LB:g=esac
-=9
-{4dd
-2ff
-=10
-4cc
-2ee
-=11
-2g
-4b
-=12
-4dd
-2cc}
+=9	=9
+{4dd	Daj
+2ff	mi
+=10	=10
+4cc	pokój
+2ee	.
+=11	=11
+2g	ja
+4b	cię
+=12	=12
+4dd	proszę,
+2cc}	.
 !!LO:LB:g=esac
-=13
-{4b
-2dd
-=14
-4g
-2b
-=15
-2d
-4f#
-=16
-4a
-2g}
-==
-*-
+=13	=13
+{4b	niech
+2dd	ja
+=14	=14
+4g	swoją
+2b	.
+=15	=15
+2d	trzodę
+4f#	.
+=16	=16
+4a	pasę.
+2g}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Czyli pod olszyną,
+!!czyli pod leszczyną,
+!!pasła pastereczka
+!!gdyby przepióreczka.
+!!A pasterek do nij,
+!!ona mu się chroni,
+!!za rączki ją chwyta,
+!!co to robisz? pyta.
+!!Daj mi pokój ja cię proszę,
+!!niech ja swoją trzodę pasę.
+!!@VERSE:
+!!2. Poczekaj kochanko,
+!!nawrócę ci trzody,
+!!ale mi musisz dać
+!!buziuleńki przódy (bis).
+!!Cóż ci z buzi moi przydzie;
+!!od morawy tam ktoś idzie.
+!!@VERSE:
+!!3. Niech tam idzie kto chce,
+!!kiej ja ciebie pragnę.
+!!Jak mi buzi nie dasz,
+!!wionek ci ukradnę.
+!!Cóż ci szkodzi ten mój wionek,
+!!wywrócisz mi z mlékiem dzbanek.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=194 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 178} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 178}
 !!!page: 178
+!!!BEM: Polski
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

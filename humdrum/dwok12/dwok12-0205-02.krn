@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1220500002-idzie_do_goscinca.krn
+﻿!!!!SEGMENT: DWOK1220500002-idzie_do_goscinca.krn
 !!!OTL: Idzie do gościńca
+!!!FKT: Pieśni i Dumy. Stałość. Życzliwość. Wymówka
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kobylina (Targoszyce)
+!!!AR1: wielkopolskie ; krotoszyński ; Kobylin-obszar wiejski
+!!!GE1: 51.762910 , 17.270700
 !!!source: DWOK12
 !!!id: 12205
 !!!signature: 1220500002
@@ -59,7 +64,7 @@
 8e	.
 2f}	go.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Maiden, Narrator
 !!!singer-sex: female
 !!@@BEGIN: VERSES
@@ -96,3 +101,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

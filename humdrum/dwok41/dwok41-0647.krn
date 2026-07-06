@@ -3,55 +3,61 @@
 !!!source: DWOK41
 !!!id: 41647
 !!!signature: 4164700000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8g
-8b
-4b
-4a
-=2
-8d
-8f#
-4a
-4cc
-=3
-4b
-4b
-4g
-=4
-8d
-8f#
-4a
-4e}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8g\L	Oj
+8bJ	.
+4b	bo-
+4a	-daj
+=2	=2
+8d	u
+8f#	ma-
+4a	-tu-
+4cc	-li_[...]
+=3	=3
+4b	.
+4b	.
+4g	.
+=4	=4
+8dL	.
+8f#J	.
+4a	.
+4e}	.
 !!LO:LB:g=esac
-=5
-{8d
-8f#
-4a
-4g
-=6
-8e
-8g
-4a
-4f#
-=7
-8d
-8f#
-4a
-4g
-=8
-8d
-8f#
-4a
-4e}
-==
-*-
+=5	=5
+{8dL	.
+8f#J	.
+4a	.
+4g	.
+=6	=6
+8eL	.
+8gJ	.
+4a	.
+4f#	.
+=7	=7
+8dL	.
+8f#J	.
+4a	.
+4g	.
+=8	=8
+8dL	.
+8f#J	.
+4a	.
+4e}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oj bodaj u matuli [...]
+!!@@END: VERSES
+!!!role-singer: Complex
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=405 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 320} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 320}
 !!!page: 320
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-06-12

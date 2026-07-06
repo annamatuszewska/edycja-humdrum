@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1249600002-jaskoleczka_spiwa_bo_dzionk_widnieje.krn
+﻿!!!!SEGMENT: DWOK1249600002-jaskoleczka_spiwa_bo_dzionk_widnieje.krn
 !!!OTL: Jaskółeczka śpiwa, bo dzionk widnieje
+!!!FKT: Pieśni i Dumy. Wojsko. Łowy
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Szmigla (Morownica)
+!!!AR1: wielkopolskie ; kościański ; Śmigiel-obszar wiejski
+!!!GE1: 51.989996 , 16.475680
 !!!source: DWOK12
 !!!id: 12496
 !!!signature: 1249600002
@@ -9,12 +14,13 @@
 *C:	*
 *M3/4	*
 =1	=1
+!LO:TX:a:t=Śpiewana i przy weselu	!
 {8g	Jaskółeczka
 8b	.
-8cc	.
-8ee	.
-8gg	śpiwa,
-8gg	.
+8cc/L	.
+8eeJ	.
+8gg/L	śpiwa,
+8ggJ	.
 =2	=2
 8ff	bo
 8ee	dzionek
@@ -29,9 +35,9 @@
 4aa	.
 4gg	.
 =4	=4
-8ff	świergoli,
-8aa	.
-2gg}	.
+8ff/L	świergoli,
+8aaJ	.
+2gg/}	.
 !!LO:LB:g=esac
 =5	=5
 {8g	przypatrzże
@@ -80,8 +86,8 @@
 2cc}	.
 ==	==
 *-	*-
-!!!role-singer: Lover
-!!!role-listener: Mistress
+!!!role-singer: Narrator, Soldier, Maiden
+!!!role-listener: Maiden
 !!!singer-sex: male
 !!@@BEGIN: VERSES
 !!@VERSE:
@@ -126,6 +132,9 @@
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=273 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 257} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 257}
 !!!page: 257
+!!!BEM: śpiewana i przy weselu
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

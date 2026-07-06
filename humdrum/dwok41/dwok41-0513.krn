@@ -3,102 +3,130 @@
 !!!source: DWOK41
 !!!id: 41513
 !!!signature: 4151300000
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{8.ee
-16gg
-8ff
-8ee
-=2
-4gg
-8aa
-8gg
-=3
-8ff
-8ee
-8ff
-8ee
-=4
-4dd
-8gg
-8ff
-=5
-8ee
-8cc
-8b
-8dd
-=6
-4cc
-4g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+=1	=1
+{8.ee	Nie-
+16gg	-da-
+8ff	-le-
+8ee	-ko
+=2	=2
+4gg	War-
+8aa	-sza-
+8gg	-wy,
+=3	=3
+8ff	jest
+8ee	tam
+8ff	ta-
+8ee	-tuś
+=4	=4
+4dd	łas-
+8gg	-ka-
+8ff	-wy,
+=5	=5
+8ee	miał
+8cc	có-
+8b	-re-
+8dd	-czki
+=6	=6
+4cc	ła-
+4g}	-dne.
 !!LO:LB:g=esac
-=7
-{8ee
-8gg
-8ff
-8ee
-=8
-4gg
-8aa
-8gg
-=9
-8ff
-8ee
-8ff
-8ee
-=10
-4dd
-8gg
-8ff
-=11
-8ee
-8cc
-8b
-8dd
-=12
-4cc
-4g}
+=7	=7
+{8ee	Po-
+8gg	-ja-
+8ff	-dę
+8ee	ja
+=8	=8
+4gg	do
+8aa	nie-
+8gg	-go,
+=9	=9
+8ff	mam
+8ee	ko-
+8ff	-ni-
+8ee	-ka
+=10	=10
+4dd	si-
+8gg	-we-
+8ff	-go,
+=11	=11
+8ee	su-
+8cc	-kien-
+8b	-ki
+8dd	pa-
+=12	=12
+4cc	-ra-
+4g}	-dne.
 !!LO:LB:g=esac
-=13
-{8cc
-8cc
-4cc
-=14
-8dd
-8dd
-4dd
-=15
-8cc
-8dd
-8ee
-8ff
-=16
-4gg
-4gg}
+=13	=13
+{8cc	Ta-
+8cc	-tu-
+4cc	-niu,
+=14	=14
+8dd	ma-
+8dd	-mu-
+4dd	-niu,
+=15	=15
+8cc	jak
+8dd	się
+8ee	wy
+8ff	mie-
+=16	=16
+4gg	-wa-
+4gg}	-cie,
 !!LO:LB:g=esac
-=17
-{8ee
-8ee
-4ee
-=18
-8ff
-8ff
-4ff
-=19
-8ee
-8cc
-8b
-8dd
-=20
-4cc
-4cc}
-==
-*-
+=17	=17
+{8ee	przy-
+8ee	-mów-
+4ee	-cie,
+=18	=18
+8ff	przy-
+8ff	-rzecz-
+4ff	-cie,
+=19	=19
+8ee	czy
+8cc	mi
+8b	cór-
+8dd	-kę
+=20	=20
+4cc	da-
+4cc}	-cie?
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Niedaleko Warszawy, 
+!!jest tam tatuś łaskawy,
+!!miał córeczki ładne. 
+!!Pojadę ja do niego,
+!!mam konika siwego, 
+!!sukienki paradne.
+!!Tatuniu, mamuniu, 
+!!jak się wy miewacie,
+!!przymówcie, przyrzeczcie, 
+!!czy mi córkę dacie?
+!!@VERSE:
+!!2. Ktorą ja se polubie,
+!!będę myślał o slubie,
+!!komplementa zacznę.
+!!Ta ładna, ta grzeczna,
+!!ta gościowi rada,
+!!ta oczkiem, ta boczkiem
+!!do mnie się przysiada.
+!!Dziewczęta w rączęta
+!!dam im całowanie.
+!!dziewczynę jedynę
+!!wprowadzę w kochanie.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=344 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 261-262} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 261-262}
 !!!page: 261-262
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-19

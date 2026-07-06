@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1208200001-moja_pani_matko_goscie_jada.krn
+﻿!!!!SEGMENT: DWOK1208200001-moja_pani_matko_goscie_jada.krn
 !!!OTL: Moja pani matko goście jadą
+!!!FKT: Pieśni i Dumy. Chęć ożenku. Wymówka
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Zerkowa
+!!!AR1: wielkopolskie ; jarociński ; Żerków-miasto
+!!!GE1: 52.068386 , 17.563327
 !!!source: DWOK12
 !!!id: 12082
 !!!signature: 1208200001
@@ -93,11 +98,11 @@
 !!jego brat pludrzyskiem,
 !!a mój najmilejszy pierzyneczką.
 !!@@END: VERSES
-!!!ONB: Gra w Morawca
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=53 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 37} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 37}
 !!!page: 37
+!!!BEM: Gra w Morawca
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-02-21

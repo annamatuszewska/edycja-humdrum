@@ -1,52 +1,74 @@
-!!!!SEGMENT: DWOK1341500000-chodzila_po_sieni.krn
+﻿!!!!SEGMENT: DWOK1341500000-chodzila_po_sieni.krn
 !!!OTL: Chodziła po sieni
+!!!FKT: Śpiewki i Tańce. Wiwaty, Tańce i Piosenki 2/4
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Sierakowa (Chalin)
+!!!AR1: wielkopolskie ; międzychodzki ; Sieraków-obszar wiejski
+!!!GE1: 52.601314 , 16.040855
 !!!source: DWOK13
 !!!id: 13415
 !!!signature: 1341500000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8g
-8b
-4cc
-=2
-8ee
-8gg
-4ff#
-=3
-8ee
-8ee
-8cc
-8b
-=4
-8dd
-8b
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+!LO:TX:a:t=Kołyskowa.	!
+{8g	Cho-
+8b	-dzi-
+4cc	-ła
+=2	=2
+8eeL/	po
+8gg/J	sie-
+4ff#/	-ni,
+=3	=3
+8ee/L	szuka-
+8ee/J	.
+8cc/L	.
+8b/J	-ła
+=4	=4
+8dd	w_kie-
+8b	-sze-
+4g}	-ni
 !!LO:LB:g=esac
-=5
-{8g
-8b
-4cc
-=6
-8cc
-8b
-4g
-=7
-8g
-8b
-4cc
-=8
-8dd
-8b
-4g}
-==
-*-
-!!!ONB: Kołyskowa
+=5	=5
+{8g	zna-
+8b	-la-
+4cc	-zła
+=6	=6
+8cc	groszy-
+8b	.
+4g\	-nę,
+=7	=7
+8g\	ku-
+8b	-pi-
+4cc	-ła
+=8	=8
+8dd	chłop-
+8b	-czy-
+4g}	-nę.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Chodziła po sieni,
+!!szukała w kieszeni
+!!znalazła groszynę,
+!!kupiła chłopczynę.
+!!@VERSE:
+!!2. Oj chłopcy, chłopczyny,
+!!jacyście wy tanie,
+!!za biedną groszynę
+!!mendel was dostanie.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=197 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 173} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 173}
 !!!page: 173
+!!!BEM: Kołyskowa
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-08
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-16
