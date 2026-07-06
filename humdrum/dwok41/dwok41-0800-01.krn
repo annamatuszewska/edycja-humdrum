@@ -10,53 +10,56 @@
 *M3/4
 =1
 {4.g
-8b
+8bL
 8dd
-8cc#
+8ccJ#
 =2
-8a
-8cc#
+8a\L
+8cciJ#
 4dd
-8a
-8f#
+8aL
+8f#J
 =3
 4.g
-8b
+8bL
 8dd
-8cc
+8ccJ
 =4
-8a
-8b
-4g
+8aL
+8b/J
+4gT
 4d}
 !!LO:LB:g=esac
 =5
-{8f#
-8a
+{8fL#
+8aJ
 4e
-8e
-8d
+8eL
+8dJ
 =6
-8f#
-8f#
+8f#L
+8f#J
 4g
-4b
+4b/
 =7
-8f#
-8a
+8f#L
+8aJ
 4e
-8e
-8d
+8eL
+8dJ
 =8
-8f#
-8d
-4g
+8f#L
+8dJ
+4gM
 4d}
 ==
 *-
+!!!RDF**kern: i = editorial accidental
 !!!ONB: vel 5 taktu: 2_2_-6-5
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=448 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 361} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 361}
 !!!page: 361
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-06-30
