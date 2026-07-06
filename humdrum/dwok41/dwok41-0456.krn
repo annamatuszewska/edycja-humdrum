@@ -3,51 +3,81 @@
 !!!source: DWOK41
 !!!id: 41456
 !!!signature: 4145600000
-**kern
-*clefG2
-*k[]
-*a:
-*M2/4
-=1
-{8cc
-8ee
-8dd
-8b
-=2
-4cc
-8b
-8b
-=3
-8a
-8cc
-8b
-8g
-=4
-4a
-4a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M2/4	*
+=1	=1
+{8cc	Po-
+8ee	-szła
+8dd	mu-
+8b	-cha
+=2	=2
+4cc	po
+8b	wo-
+8b	-dę
+=3	=3
+8a	do
+8cc	zim-
+8b	-ne-
+8g	-go
+=4	=4
+4a	zdro-
+4a}	-ju,
 !!LO:LB:g=esac
-=5
-{8cc
-8ee
-8dd
-8b
-=6
-8cc
-8cc
-8b
-8g#
-=7
-8a
-8cc
-8b
-8g
-=8
-4a
-4a}
-==
-*-
+=5	=5
+{8cc	ko-
+8ee	-mar
+8dd	za
+8b	nią,
+=6	=6
+8cc	ko-
+8cc	-mar
+8b	za
+8g#i	nią,
+=7	=7
+8a	nie
+8cc	dał
+8b	jej
+8g	po-
+=8	=8
+4a	-ko-
+4a}	-ju.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Poszła mucha po wodę
+!!do zimnego zdroju,
+!!komar za nią, komar za nią,
+!!nie dał jej pokoju.
+!!@VERSE:
+!!2. Nie wiedziałeś, psie komarze,
+!!jakem była panną.
+!!a teraz cię oczki bolą,
+!!Poglądając za mną.
+!!@VERSE:
+!!3. Była studnia na piecu,
+!!wodę brał przetakiem,
+!!mak wierciał widłami,
+!!wodę brał przetakiem.
+!!@VERSE:
+!!4. A gdy kuropatwę
+!!za mąż wydawali,
+!!po księdza grzywacza
+!!do boru posłali.
+!!@VERSE:
+!!5. I jechał chłop se młyna,
+!!szczupaki pozbierał,
+!!kijanką się opasywał,
+!!workiem się podpierał.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!RDF**kern: i = editorial accidental
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=328 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 245} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 245}
 !!!page: 245
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-18

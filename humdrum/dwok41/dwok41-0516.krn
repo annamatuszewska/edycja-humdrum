@@ -3,73 +3,104 @@
 !!!source: DWOK41
 !!!id: 41516
 !!!signature: 4151600000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{16g
-16a
-8b
-8cc
-8a
-=2
-8b
-8g
-8a
-8d
-=3
-8.a
-16b
-8cc
-8a
-=4
-8b
-8g
-8dd
-8dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{16gL	Szy-
+16aJ	-dzę
+8b	z_tros-
+8cc	.
+8a	-ków
+=2	=2
+8b	świa-
+8g	-ta
+8a	te-
+8d	-go,
+=3	=3
+8.a	o
+16b	nic
+8cc	w_ży-
+8a	-ciu
+=4	=4
+8b	nie
+8g	dbam
+8dd	wca-
+8dd}	-le,
 !!LO:LB:g=esac
-=5
-{16g
-16a
-16b
-16cc
-8dd
-8gg
-=6
-8.ee
-16ff#
-8gg
-16ff#
-16ee
-=7
-8.dd
-16cc
-8b
-8dd
-=8
-8a
-8dd
-16g
-16b
-8dd}
+=5	=5
+{16gL	nic
+16aJ	.
+16bL	nic
+16ccJ	.
+8dd	wi-
+8gg	-dzę
+=6	=6
+8.ee	zaj-
+16ff#	-zdróś-
+8gg	-ne-
+16ff#L	-go,
+16eeJ	.
+=7	=7
+8.dd	kie-
+16cc	-dy
+8b	swo-
+8dd	-ją
+=8	=8
+8a	faj-
+8dd	-kę
+16gL	pa-
+16b/J	.
+8dd}	-lę,
 !!LO:LB:g=esac
-=9
-{8.dd
-16cc
-8b
-8dd
-=10
-16a
-16dd
-8dd
-8g
-8g}
-==
-*-
+=9	=9
+{8.dd	kie-
+16cc	-dy
+8b	swo-
+8dd	-ją
+=10	=10
+16a\L	faj-
+16ddJ	.
+8dd	-kę
+8g	pa-
+8g}	-lę.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Szydzę z trosków świata tego, 
+!!o nic w życiu
+!!nie dbam wcale, 
+!!nic nic widzę zajzdróśnego,
+!!|:kiedy swoją fajkę palę:|.
+!!@VERSE:
+!!2. Niechaj szumne wieją wiatry
+!!i okręt przewrócą fale,
+!!ja spokojnie siedzę w domu,
+!!|:kiedy swoją fajkę palę:|.
+!!@VERSE:
+!!3. Szydzę z panów, co dla blasku
+!!wyprawiają liczne bale.
+!!ja nie cierpię tego wrzasku,
+!!|: kiedy swoją fajkę pale:|.
+!!@VERSE:
+!!4. A jak ładne dziewczę zocze,
+!!co ma usta jak korale.
+!!mało ze skóry nie wyskoczę.
+!!|:rzucam fajkę i nie palę:|.
+!!@VERSE:
+!!5. Bo to dziewczę w swojej cerze,
+!!jest się trudno na nią żalić,
+!!nie tylko serce odbierze,
+!!|: nawet fajki nie da palić:|.
+!!@@END: VERSES
+!!!role-singer: Man
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=346 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 263} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 263}
 !!!page: 263
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-19

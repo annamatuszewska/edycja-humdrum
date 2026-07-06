@@ -3,56 +3,67 @@
 !!!source: DWOK41
 !!!id: 41521
 !!!signature: 4152100000
-**kern
-*clefG2
-*k[b-]
-*d:
-*M6/8
-=1
-{4f
-8a
-4cc
-8a
-=2
-4g
-8e
-4c
-8r
-=3
-4f
-8a
-4cc
-8a
-=4
-4g
-8g
-4a}
-8r
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*d:	*
+*M6/8	*
+=1	=1
+{4f	Po-
+8a	-tok
+4cc	pły-
+8a	-nie
+=2	=2
+4g	do-
+8e	-li-
+4c	-ną,
+8r	.
+=3	=3
+4f	nad
+8a	po-
+4cc	-to-
+8a	-kiem
+=4	=4
+4g	ja-
+8g	-wo-
+4a}	-ry,
+8r	.
 !!LO:LB:g=esac
-=5
-{4a
-8a
-4a
-8g
-=6
-4f
-8e
-4d
-8r
-=7
-4c#
-8e
-4a
-8c#
-=8
-4e
-8d
-4d}
-8r
-==
-*-
+=5	=5
+{4a	tam
+8a	ja
+4a	z_to-
+8g	-bą,
+=6	=6
+4f	Jus-
+8e	-ty-
+4d	-no,
+8r	.
+=7	=7
+4c#	sło-
+8e	-dkie
+4a	pę-
+8c#	-dził
+=8	=8
+4e	wie-
+8d	-czo-
+4d}	-ry.
+8r	_
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Potok płynie doliną,
+!!nad potokiem jawory,
+!!tam ja z tobą, Justyno,
+!!słodkie pędził wieczory.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!role-listener: Girl
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=349 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 266-267} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 266-267}
 !!!page: 266-267
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-19

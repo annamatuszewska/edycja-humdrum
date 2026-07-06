@@ -1,81 +1,92 @@
-!!!!SEGMENT: DWOK4153800002-pastereczka_swit_spostrzegla.krn
+!!!!SEGMENT: DWOK4153800001-pastereczka_swit_spostrzegla.krn
 !!!OTL: Pastereczka świt spostrzegła
 !!!source: DWOK41
 !!!id: 41538
 !!!signature: 4153800002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16b
-16b
-8.g
-16a
-=2
-16b
-16b
-8.g
-16a
-=3
-16b
-16b
-16g
-16b
-16g
-16b
-=4
-4dd
-8b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16b	Pa-
+16b	-ste-
+8.g	-re-
+16a	-czka
+=2	=2
+16b	świt
+16b	spo-
+8.g	-strze-
+16a	-gła,
+=3	=3
+16b	roz-
+16b	-kosz-
+16g	-na
+16b	się
+16g	w_gaj
+16b	od-
+=4	=4
+4dd	-da-
+8b}	-la,
 !!LO:LB:g=esac
-=5
-{16cc
-16b
-16a
-16b
-16cc
-16dd
-=6
-16b
-16a
-8.g
-16g
-=7
-16f#
-16g
-16a
-16b
-16cc
-16cc#
-=8
-16dd
-16b
-4gg}
+=5	=5
+{16cc	swa-
+16b	-wo-
+16aL	-ląc
+16b/	.
+16cc/	.
+16dd/J	po-
+=6	=6
+16b	-la
+16a	prze-
+8.g	-bie-
+16g	-ga,
+=7	=7
+16f#	a
+16g	po
+16a	po-
+16b	-lu
+16cc	się
+16cc#	roz-
+=8	=8
+16ddL	-le-
+16bJ	.
+4gg}	-ga
 !!LO:LB:g=esac
-=9
-{16dd
-16dd
-8.cc
-16a
-=10
-16b
-16b
-8.dd
-16b
-=11
-16a
-16ee
-16dd
-16cc
-16b
-16a
-=12
-4.g}
-==
-*-
+=9	=9
+{16dd	i
+16dd	tak
+8.cc	tyl-
+16a	-ko
+=10	=10
+16b	la
+16b	la
+8.dd	la
+16b	la
+=11	=11
+16a\L	la
+16eeJ	.
+16dd	la
+16cc	la
+16b	la
+16a	la
+=12	=12
+4.g}	la.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Pastereczka świt spostrzegła,
+!!rozkoszna się w gaj oddala,
+!!swawoląc pola przebiega,
+!!a po polu się rozlega
+!!i tak tylko la la la
+!!la la la la la la la.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=362 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 279-280} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 279-280}
 !!!page: 279-280
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-20

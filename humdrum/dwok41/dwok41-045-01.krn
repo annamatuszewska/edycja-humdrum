@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK4145900001-aboc_mi_to_trudna_zona.krn
+!!!OTL: Aboć mi to trudna żona
+!!!source: DWOK41
+!!!id: 41459
+!!!signature: 4145900001
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16b	A-
+16dd	-boć
+8.ee	mi
+16dd	to
+=2	=2
+16ee	tru-
+16dd	-dna
+16ccL	żo-
+16bJ	.
+16aL	-na,
+16g}J	.
+!!LO:LB:g=esac
+=3	=3
+{16f#	mam
+16a	ci
+8.dd	ich
+16cc	tam
+=4	=4
+16b	o-
+16dd	-siem
+8f#	do-
+8g}	-ma,
+!!LO:LB:g=esac
+=5	=5
+{16d	a
+16g	dzie-
+8b	-wią-
+16aL	-ta
+16gJ	.
+=6	=6
+16f#	kro-
+16a	-wy
+8d	do-
+8g}	-i,
+!!LO:LB:g=esac
+=7	=7
+{16b	a
+16cc	dzie-
+8ee	-sią-
+16ddL	-ta
+16ccJ	.
+=8	=8
+16b	nad
+16dd	nią
+8f#	sto-
+8g}	-i.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Aboć mi to trudna żona,
+!!mam ci ich tam osiem doma,
+!!a dziewiąta krowy doi,
+!!a dziesiąta nad nią stoi.
+!!@@END: VERSES
+!!!role-singer:  Husband
+!!!role-listener: Complex
+!!!singer-sex: Male
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=330 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 247} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 247}
+!!!page: 247
+!!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-18

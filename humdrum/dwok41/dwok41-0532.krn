@@ -3,105 +3,119 @@
 !!!source: DWOK41
 !!!id: 41532
 !!!signature: 4153200000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16ee
-16dd
-8cc
-8cc
-=2
-16cc
-16dd
-8ee
-8ee
-=3
-16ff
-16ee
-8.dd
-16cc
-=4
-16b
-16a
-8b
-8g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Tempo mazurka	!
+{16ee	Cze-
+16dd	-muś
+8cc	o-
+8cc	-czki
+=2	=2
+16cc	za-
+16dd	-pła-
+8ee	-ka-
+8ee	-ła,
+=3	=3
+16ff	ko-
+16ee	-cha-
+8.dd	-ne-
+16cc	-czko
+=4	=4
+16b	mo-
+16a	-ja
+8b	mi-
+8g}	-ła,
 !!LO:LB:g=esac
-=5
-{16ee
-16dd
-8cc
-8cc
-=6
-16cc
-16dd
-8ee
-8ee
-=7
-16ff
-16ee
-8.dd
-16cc
-=8
-16b
-16a
-8b
-8g}
+=5	=5
+{16ee	czy
+16dd	cię
+8cc	ma-
+8cc	-tka
+=6	=6
+16cc	po-
+16dd	-la-
+8ee	-ja-
+8ee	-ła,
+=7	=7
+16ff	czyś
+16ee	o-
+8.dd	-wie-
+16cc	-czki
+=8	=8
+16b	twe
+16a	zgu-
+8b	-bi-
+8g}	-ła?
 !!LO:LB:g=esac
-=9
-{8.g
-16b
-16dd
-16ff
-=10
-16ee
-16dd
-16cc
-16dd
-16ee
-16gg
-=11
-16ff
-16ee
-16dd
-16ee
-16ff
-16ff#
-=12
-8gg
-8cc}
-8r
+=9	=9
+{8.gL	Oj,
+16b/J	.
+16dd	nie
+16ff	to,
+=10	=10
+16ee	nie
+16dd	to,
+16cc	nie
+16dd	to,
+16ee	nie
+16gg	to,
+=11	=11
+16ff	co
+16ee	mnie
+16dd	nie-
+16ee	-spo-
+16ff	-koj-
+16ff#	-ną
+=12	=12
+8gg	czy-
+8cc}	-ni,
+8r	.
 !!LO:LB:g=esac
-=13
-{8.g
-16b
-16dd
-16ff
-=14
-16ee
-16dd
-16cc
-16dd
-16ee
-16gg
-=15
-16ff
-16ee
-16dd
-16aa
-16gg
-16b
-=16
-8cc
-8cc}
-8r
-==
-*-
+=13	=13
+{8.gL	Oj,
+16b/J	.
+16dd	nie
+16ff	to,
+=14	=14
+16ee	nie
+16dd	to,
+16cc	nie
+16dd	to,
+16ee	nie
+16gg	to,
+=15	=15
+16ff	co
+16ee	mnie
+16dd	nie-
+16aa	-spo-
+16gg	-koj-
+16b	-ną
+=16	=16
+8cc	czy-
+8cc}	-ni.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Czemuś oczki zapłakała,
+!!kochaneczko moja miła,
+!!czy cię matka polajała,
+!!czyś owieczki twe zgubiła?
+!!|:Oj, nie to, nie to, nie to, nie to,
+!!co mnie niespokojną czyni:|.
+!!@@END: VERSES
+!!!role-singer: Lover, Mistress
+!!!role-listener: Mistress, Lover
+!!!singer-sex: Male, Female
 !!!ONB: Tempo mazurka
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=357 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 274-275} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 274-275}
 !!!page: 274-275
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-20
