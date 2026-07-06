@@ -3,101 +3,110 @@
 !!!source: DWOK10
 !!!id: 10079
 !!!signature: 1007900000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8dd
-8b
-8cc
-8b
-=2
-8dd
-8b
-8cc
-8b
-=3
-8dd
-8dd
-8ee
-8ee
-=4
-8dd
-8b
-8cc
-8b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8ddL	.
+8b	.
+8cc	.
+8bJ	.
+=2	=2
+8ddL	.
+8b	.
+8cc	.
+8bJ	.
+=3	=3
+8ddL	.
+8ddJ	.
+8eeL	.
+8eeJ	.
+=4	=4
+8ddL	.
+8b	.
+8cc	.
+8bJ}	.
 !!LO:LB:g=esac
-=5
-{8g
-16f#
-16a
-4g
-=6
-8g
-16f#
-16a
-4g
-=7
-8a
-8a
-8dd
-8dd
-=8
-8b
-16a
-16b
-4g}
+=5	=5
+{8gL	.
+16f#	.
+16aJ	.
+4g	.
+=6	=6
+8gL	.
+16f#	.
+16aJ	.
+4g	.
+=7	=7
+8aL	.
+8aJ	.
+8ddL	.
+8ddJ	.
+=8	=8
+8bL	.
+16a	.
+16bJ	.
+4g}	.
 !!LO:LB:g=esac
-=9
-{8cc
-16cc
-16dd
-8ee
-8ee
-=10
-8cc
-16cc
-16ee
-8dd
-8b
-=11
-8a
-8a
-8dd
-8dd
-=12
-8b
-16a
-16b
-8g
-8g}
+=9	=9
+{8ccL	Już
+16cc	ją
+16ddJ	.
+8eeL	mamy,
+8eeJ	.
+=10	=10
+8ccL	już
+16cc	ją
+16eeJ	.
+8ddL	mamy,
+8bJ	.
+=11	=11
+8aL	już
+8aJ	ją
+8ddL	niko-
+8ddJ	.
+=12	=12
+8b	-mu
+16aL	nie
+16bJ	.
+8g	damy.
+8g}	.
 !!LO:LB:g=esac
-=13
-{8g
-16f#
-16a
-4f#
-=14
-8g
-16f#
-16a
-4g
-=15
-8a
-8a
-8dd
-8dd
-=16
-8b
-16a
-16b
-4g}
-==
-*-
+=13	=13
+{8gL	.
+16f#	.
+16aJ	.
+4f#	.
+=14	=14
+8gL	.
+16f#	.
+16aJ	.
+4g	.
+=15	=15
+8aL	.
+8aJ	.
+8ddL	.
+8ddJ	.
+=16	=16
+8bL	.
+16a	.
+16bJ	.
+4g}	.
+==	==
+*-	*-
+!!!role-singer: Married Women
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Już ją mamy, już ją mamy, już ją nikomu nie damy.
+!!@@END: VERSES
+!!!ONB@texture: Only voice or instrument is playing at a time
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=250 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 234} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 234}
 !!!page: 234
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-11

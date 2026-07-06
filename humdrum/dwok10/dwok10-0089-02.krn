@@ -3,65 +3,83 @@
 !!!source: DWOK10
 !!!id: 10089
 !!!signature: 1008900002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16b
-8dd
-8dd
-=2
-16dd
-16dd
-8b
-8g
-=3
-8cc
-4ee
-=4
-4cc
-8cc}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	A
+16b	dawajcie,
+8dd	.
+8dd	.
+=2	=2
+16dd	a
+16dd	dawajcie,
+8b	.
+8g	.
+=3	=3
+8cc	mali
+4ee	.
+=4	=4
+4cc	dawać,
+8cc}	.
 !!LO:LB:g=esac
-=5
-{16b
-16g
-8b
-8b
-=6
-16a
-16a
-8f#
-8d
-=7
-8g
-4dd
-=8
-4cc
-8cc}
+=5	=5
+{16b	nie
+16a\	dacie
+8b	.
+8b	mi,
+=6	=6
+16a	nie
+16a	dacie
+8f#	.
+8d	mi
+=7	=7
+8g	długo
+4dd	.
+=8	=8
+4cc	ziarać,
+8cc}	.
 !!LO:LB:g=esac
-=9
-{16b
-16a
-8b
-8cc
-=10
-16a
-16a
-8f#
-8d
-=11
-8g
-4b
-=12
-4g
-8g}
-==
-*-
+=9	=9
+{16b	nie
+16a\	dacie
+8bL	.
+8ccJ/	mi,
+=10	=10
+16a	nie
+16a	dacie
+8f#	.
+8d	mi
+=11	=11
+8g	długo
+4b	.
+=12	=12
+*	*^
+4g	ziarać.	(ziajać)
+8g}	.	.
+*	*V	*V
+==	==
+*-	*-
+!!!role-singer: Bridesmaid
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!A dawajcie, a dawajcie, mali dawać,
+!!nie dacie mi, nie dacie mi długo ziarać (ziajać),
+!!nie dacie mi, nie dacie mi długo ziarać.
+!!@VERSE:
+!!2. Żeby on był obsypany
+!!do koluśka, do koluśka talarami.
+!!@VERSE:
+!!3. Ani pijaskiem, ani błotem,
+!!ani śrybłem, ani śrybłem albo złotem.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=261 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 245} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 245}
 !!!page: 245
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-11

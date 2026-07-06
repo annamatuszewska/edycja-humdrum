@@ -3,56 +3,65 @@
 !!!source: DWOK10
 !!!id: 10094
 !!!signature: 1009400000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8.dd
-16cc
-8b
-8cc
-=2
-8dd
-8dd
-8ee
-8ee
-=3
-8.dd
-16cc
-8b
-8cc
-=4
-8dd
-8f#
-8a
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8.dd	Wiwat
+16cc	.
+8b	wiwat
+8cc	.
+=2	=2
+8dd	panu
+8dd	.
+8ee	memu,
+8ee	.
+=3	=3
+8.dd	wiwat
+16cc	.
+8b	wiwat
+8cc	.
+=4	=4
+8dd	mnie
+8f#	samemu,
+8a	.
+8g}	.
 !!LO:LB:g=esac
-=5
-{8.dd
-16cc
-8b
-8cc
-=6
-8dd
-8dd
-8ee
-8ee
-=7
-8.dd
-16cc
-8b
-8cc
-=8
-8dd
-8f#
-8a
-8g}
-==
-*-
+=5	=5
+{8.dd	wiwat
+16cc	.
+8b	wiwat
+8cc	.
+=6	=6
+8dd	i
+8dd	téj
+8ee	pannie,
+8ee	.
+=7	=7
+8.dd	która
+16cc	.
+8b	ładnie
+8cc	.
+=8	=8
+8dd	patrzy
+8f#	.
+8a	na
+8g}	mnie.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Wiwat wiwat panu memu,
+!!wiwat wiwat mnie samemu,
+!!wiwat wiwat i téj pannie,
+!!która ładnie patrzy na mnie.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=265 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 249} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 249}
 !!!page: 249
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-11

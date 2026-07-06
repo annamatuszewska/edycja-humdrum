@@ -3,72 +3,65 @@
 !!!source: DWOK10
 !!!id: 10093
 !!!signature: 1009300001
-**kern
-*clefG2
-*k[b-e-]
-*g:
-*M3/4
-=1
-{4dd
-4dd
-4ee
-=2
-4ff
-2dd
-=3
-8dd
-8dd
-4b-
-4g
-=4
-2.a}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*g:	*
+*M3/4	*
+=1	=1
+{4dd	Poszła
+4dd	.
+4ee	dziew-
+=2	=2
+4ff	-czyna
+2dd	.
+=3	=3
+8dd	ku
+8dd	ogródko-
+4b-	.
+4g\	.
+=4	=4
+2.a}	-wi
 !!LO:LB:g=esac
-=5
-{4dd
-4dd
-4ee
-=6
-4ff
-2dd
-=7
-8dd
-8dd
-4b-
-4g
-=8
-2.a}
+=5	=5
+{4cc	Oj
+4g	już
+4a	go
+=6	=6
+8a	zakopała
+8dd	.
+4b-	.
+4g	.
+=7	=7
+4cc	bo
+4g	się
+4a	w_nim
+=8	=8
+8a	na-
+8dd	-bie-
+4b-	-ga-
+4g}	-ła
 !!LO:LB:g=esac
-=9
-{4cc
-4g
-4a
-=10
-8a
-8dd
-4b-
-4g
-=11
-4cc
-4g
-4a
-=12
-8a
-8dd
-4b-
-4g}
-!!LO:LB:g=esac
-=13
-{16a
-16cc
-8dd
-4b-
-4g
-=14
-2.a}
-==
-*-
+=9	=9
+{16aL	a
+16ccJ	.
+8dd	już
+4b-	do
+4g	wo-
+=10	=10
+2.a}	-li.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Poszła dziewczyna ku ogródkowi kopać dołyszek swemu wiankowi.
+!!Oj, już go zakopała, bo się w nim nabiegała, a już do woli.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=264 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 248} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 248}
 !!!page: 248
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-11

@@ -3,109 +3,120 @@
 !!!source: DWOK10
 !!!id: 10077
 !!!signature: 1007700000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8cc
-8dd
-4ee
-4ee
-=2
-8ff
-8ee
-4dd
-4ee
-=3
-8cc
-8b
-4cc
-4ee
-=4
-8dd
-8cc
-4b}
-4r
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8cc	A
+8dd	dobranoc
+4ee	.
+4ee	.
+=2	=2
+8ff	głowo
+8ee	.
+4dd	święta
+4ee	.
+=3	=3
+8cc	Jezusa
+8b	.
+4cc	.
+4ee	mo-
+=4	=4
+8ddL	-jego
+8ccJ	.
+4b}	.
+4r	.
 !!LO:LB:g=esac
-=5
-{8cc
-8dd
-4ee
-4ee
-=6
-8ff
-8ee
-4dd
-8ee
-8dd
-=7
-8cc
-8b
-4cc
-4ee
-=8
-8dd
-8cc
-4b}
-4r
+=5	=5
+{8cc	oj
+8dd	i
+4ee	głowo
+4ee	.
+=6	=6
+8ff	poraniona
+8ee	.
+4dd	.
+8eeL	.
+8ddJ/	.
+=7	=7
+8cc	do
+8b	mózgu
+4cc	.
+4ee	sa-
+=8	=8
+8ddL	-mego.
+8ccJ	.
+4b}	.
+4r	.
 !!LO:LB:g=esac
-=9
-{8dd
-8dd
-4dd
-4b
-=10
-4.ee
-8gg
-8ff
-8ee
-=11
-8dd
-8cc
-4dd
-4g
-=12
-4.ee
-8gg
-8ff
-8ee
-=13
-8dd
-8b
-4cc}
-4r
+=9	=9
+{8dd	Dobra
+8dd	.
+4dd	noc
+4b	kwie-
+=10	=10
+4.ee	-cie
+8gg	lilija
+8ff	.
+8ee	.
+=11	=11
+8dd	Jezus
+8cc	.
+4dd	Józef
+4g\	.
+=12	=12
+4.ee	i
+8gg	Marya
+8ff	.
+8ee	.
+=13	=13
+8dd	dobra
+8b	.
+4cc}	noc,
+4r	.
 !!LO:LB:g=esac
-=14
-{8dd
-8dd
-4dd
-4b
-=15
-4.ee
-8gg
-8ff
-8ee
-=16
-8dd
-8cc
-4dd
-4dd
-=17
-4.ee
-8gg
-8ff
-8ee
-=18
-8dd
-8b
-4cc}
-4r
-==
-*-
+=14	=14
+{8dd	dobra
+8dd	.
+4dd	noc
+4b	kwie-
+=15	=15
+4.ee	-cie
+8gg	lilija
+8ff	.
+8ee	.
+=16	=16
+8dd	Jezus
+8cc	.
+4dd/	Józef
+4dd/	.
+=17	=17
+4.ee	i
+8gg	Marya
+8ff	.
+8ee	.
+=18	=18
+8dd	dobra
+8b	.
+4cc}	noc.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Christian
+!!!role-listener: Head of Jesus
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!A dobranoc głowo święta Jezusa mojego
+!!oj i głowo poraniona do mózgu samego.
+!!Dobra noc kwiecie lilija
+!!Jezus Józef i Marya dobra noc.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=248 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 232} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 232}
 !!!page: 232
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-11

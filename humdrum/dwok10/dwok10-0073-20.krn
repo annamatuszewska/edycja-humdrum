@@ -9,24 +9,24 @@
 *G:
 *M3/8
 =1
-{8a
+{8aL
 8b
-8cc
+8ccJ
 =2
 8b
 4dd
 =3
 8dd
-8.b
-16f#
+8.bL
+16f#J
 =4
 8a
 4g}
 !!LO:LB:g=esac
 =5
-{8a
+{8aL
 8b
-8cc
+8ccJJ
 =6
 8b
 4f#
@@ -42,3 +42,5 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=244 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 228} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 228}
 !!!page: 228
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-11
