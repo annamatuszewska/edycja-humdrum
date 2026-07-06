@@ -3,80 +3,89 @@
 !!!source: DWOK09
 !!!id: 09084
 !!!signature: 0908400002
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M3/8
-=1
-{8ff
-8cc
-16cc
-16ff
-=2
-8ee
-16cc
-16ee
-8ff
-=3
-8ff
-16cc
-16dd
-16cc
-16ff
-=4
-16ee-
-16ee-
-8cc
-8b-}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M3/8	*
+=1	=1
+{8ff	Płakała,
+8cc	.
+16ccL	.
+16ffJ	.
+=2	=2
+8eem	płakała,
+16ccL	.
+16eeJ	.
+8ff	.
+=3	=3
+8ff	jak
+16ccL	do
+16ddJ/	.
+16cc	ślubu
+16ff	.
+=4	=4
+16ee-	siadać
+8ffq	.
+16ee-	.
+8cc	miała.
+8b-}	.
 !!LO:LB:g=esac
-=5
-{8dd
-8dd
-16cc
-16b-
-=6
-16a
-16b-
-8cc
-16ee-
-16cc
-=7
-8b-
-8dd
-16cc
-16b-
-=8
-16a
-16b-
-8cc
-8f}
+=5	=5
+{8dd	A
+8dd	czegóż
+16cc	.
+16b-	ja
+=6	=6
+16a\	miała
+16b-	.
+8cc	płakać,
+8ee-	.
+=7	=7
+8b-	dać
+8ddm	ci
+16cc	mi
+16b-	się
+=8	=8
+16a\	Bóg
+16b-	doczekać,
+8cc	.
+8f}	.
 !!LO:LB:g=esac
-=9
-{8dd
-8dd
-16cc
-16b-
-=10
-16a
-16b-
-8cc
-16ee-
-16cc
-=11
-8b-
-8dd
-16cc
-16b-
-=12
-16a
-16b-
-8cc
-8f}
-==
-*-
+=9	=9
+{8dd	a
+8dd	czegóż
+16cc	.
+16b-	ja
+=10	=10
+16a\	miała
+16b-	.
+8cc	płakać,
+16ee-L	.
+16ccJ/	.
+=11	=11
+8b-	.
+8ddm	dać
+16cc	ci
+16b-	mi
+=12	=12
+16a\	się
+16b-	Bóg
+8cc	doczekać.
+8f}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Bride
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!VERSE:
+!!Płakała, płakała, jak do ślubu siadać miała.
+!!A czegóż ja miała płakać, dać ci mi się Bóg doczekać.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=256 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 232} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, p. 232}
 !!!page: 232
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-26

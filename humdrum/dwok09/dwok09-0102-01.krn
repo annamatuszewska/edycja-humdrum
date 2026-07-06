@@ -3,98 +3,129 @@
 !!!source: DWOK09
 !!!id: 09102
 !!!signature: 0910200001
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M3/8
-=1
-{16dd
-16cc#
-8a
-8dd
-=2
-16dd
-16cc#
-8a
-8dd
-=3
-16dd
-16cc#
-8a
-8b
-=4
-16.f#
-32f#
-8a
-8g}
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M3/8	*
+=1	=1
+{16dd	Nieszczęśliwe
+16cc#	.
+8a\	.
+8dd	.
+=2	=2
+16dd	białogłowy,
+16cc#	.
+8a\	.
+8dd	.
+=3	=3
+16dd	co
+16cc#	mnie
+8a\	wzięły
+8b	.
+=4	=4
+16.e	do
+32e	komory.
+8g	.
+8f#\}	.
 !!LO:LB:g=esac
-=5
-{8.a
-16dd
-16b
-16g
-=6
-16e
-16e
-8g
-8f#
-=7
-16a
-16g
-8a
-8b
-=8
-16e
-16e
-8g
-8f#}
+=5	=5
+{8.a	Jak
+16dd	mnie
+16b	wzięły,
+16g	.
+=6	=6
+16e	tak
+16e	mnie
+8g	wzięły,
+8f#\	.
+=7	=7
+16a	wianyszek
+16g	.
+8a	.
+8b/	mi
+=8	=8
+16e	z_głowy
+16e	.
+8g	zdjęły.
+8f#\}	.
 !!LO:LB:g=esac
-=9
-{16dd
-16cc#
-8a
-8dd
-=10
-16dd
-16cc#
-8a
-8dd
-=11
-16dd
-16cc#
-8a
-8b
-=12
-16.f#
-32f#
-8a
-8g}
+=9	=9
+{16dd	Nieszczęśliwe
+16cc#	.
+16aL	.
+16cc#J/	.
+16ddL	.
+16bJ/	.
+=10	=10
+16dd	białegłowy,
+16cc#	.
+16aL	.
+16cc#J/	.
+16ddL	.
+16bJ/	.
+=11	=11
+16dd	co
+16cc#	mnie
+16aL	wzięły,
+16ccJ/	.
+16bL	.
+16gJ	.
+=12	=12
+16.e	do
+32e	komory.
+8g	.
+16gL	.
+16f#J}	.
 !!LO:LB:g=esac
-=13
-{8.a
-16dd
-16b
-16g
-=14
-16e
-16e
-8g
-8f#
-=15
-16a
-16g
-8a
-8b
-=16
-16e
-16e
-8g
-8f#}
-==
-*-
+=13	=13
+{8.a	Jak
+16dd	mnie
+16b	wzięły,
+16g	.
+=14	=14
+16e	tak
+16e	mnie
+8g	wzięły,
+16gL	.
+16f#J	.
+=15	=15
+8dL	wianyszek
+8d	.
+8dJ\	mi
+=16	=16
+16e	z_głowy
+16e	.
+8g	zdjęły.
+16gL	.
+16f#J}	.
+==	==
+*-	*-
+!!!role-singer: Wife
+!!!role-listener: Married Women
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1.Nieszczęśliwe białogłowy,
+!!co mnie wzięły do komory.
+!!Jak mnie wzięły, tak mnie wzięły,
+!!wianyszek mi z głowy zdjęły.
+!!@VERSE:
+!!3. Zawdziały mi to kapczysko,
+!!każą kochać to chłopisko.
+!!@VERSE:
+!!4. Kochajcie go sobie sami,
+!!kiedyście go namawiali.
+!!@VERSE:
+!!5. Zawdziały mi klapią bidę,
+!!do śmierci ją nosić bédę.
+!!(6. Zawdziały mi klapią bidę,
+!!do śmierci jéj nie pozbédę.)
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=264 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 240} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, p. 240}
 !!!page: 240
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-26

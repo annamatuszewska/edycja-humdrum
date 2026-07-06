@@ -3,70 +3,83 @@
 !!!source: DWOK09
 !!!id: 09106
 !!!signature: 0910600000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{4b
-4cc
-4ee
-=2
-8dd
-8b
-4cc
-4ee
-=3
-4gg
-4dd
-4ee}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+!!LO:TX:a:t=Do objadu.
+{4b	Rad’em
+4cc	.
+4ee	ci
+=2	=2
+8dd	dziewcze
+8b	.
+4cc	moje
+4ee	.
+=3	=3
+4gg	rad’em
+4dd	.
+4ee}	ci,
 !!LO:LB:g=esac
-=4
-{4dd
-4cc
-4ee
-=5
-8dd
-8cc
-4a
-4g
-=6
-4cc
-4g
-4a}
+=4	=4
+{4dd	byś
+4cc	była
+4ee	.
+=5	=5
+8dd	jagódeczką
+8cc	.
+4a	.
+4g	.
+=6	=6
+4cc	zjadłbym
+4g	.
+4a}	cię.
 !!LO:LB:g=esac
-=7
-{4b
-4cc
-4ee
-=8
-8dd
-8b
-4cc
-4ee
-=9
-4gg
-4dd
-4ee}
+=7	=7
+{4b	Byś
+4cc	była
+4ee	.
+=8	=8
+8dd	jagódeczką
+8b	.
+4cc	.
+4ee	.
+=9	=9
+4gg	borową,
+4dd	.
+4ee}	.
 !!LO:LB:g=esac
-=10
-{4dd
-4cc
-4ee
-=11
-8dd
-8cc
-4a
-4g
-=12
-4cc
-4g
-4a}
-==
-*-
+=10	=10
+{4dd	zjadłbym
+4cc	.
+4ee	cię
+=11	=11
+8dd	moje
+8cc	.
+4a	dziewczę
+4g	.
+=12	=12
+4cc	sérową.
+4g	.
+4a}	.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!role-listener: Maiden
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Rad’em ci dziewcze moje rad’em ci,
+!!byś była jagódeczką zjadłbym cię.
+!!Byś była jagódeczką borową,
+!!zjadłbym cię moje dziewcze sérową (surową).
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=268 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 244} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, p. 244}
 !!!page: 244
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-26

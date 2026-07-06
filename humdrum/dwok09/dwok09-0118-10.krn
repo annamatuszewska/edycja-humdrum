@@ -3,48 +3,60 @@
 !!!source: DWOK09
 !!!id: 09118
 !!!signature: 0911800010
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M3/4
-=1
-{4b-
-8b-
-8f
-8b-
-8dd
-=2
-4b-
-8b-
-8f
-8b-
-8dd
-=3
-8ff
-8ee-
-2cc}
+**kern	**text	**text
+*clefG2	*	*
+*k[b-e-]	*	*
+*B-:	*	*
+*M3/4	*	*
+=1	=1	=1
+{4b-	Przedała	O
+8b-	.	stójże,
+8f	.	.
+8b-	szydło	Boże,
+8dd	.	.
+=2	=2	=2
+4b-	i	Maciek
+8b-	motowidło	.
+8f	.	niemoże,
+8b-	.	.
+8dd	.	.
+=3	=3	=3
+8ff	i	ja
+8ee-	cepy,	rada,
+2cc}	.	.
 !!LO:LB:g=esac
-=4
-{4a
-8a
-8f
-8a
-8cc
-=5
-4a
-8a
-8f
-8a
-8cc
-=6
-8ee-
-8dd
-2b-}
-==
-*-
+=4	=4	=4
+{4a	kupiła	wyskoczę
+8a	.	.
+8f	.	.
+8a	sobie	sobie,
+8cc	.	.
+=5	=5	=5
+4a	złoty	o
+8a	.	jednéj
+8f	koszyczek	.
+8a	.	nodze
+8cc	.	.
+=6	=6	=6
+8ee-	do	rom
+8dd	rzepy.	ta
+2b-}	.	da.
+==	==	==
+*-	*-	*-
+!!!role-singer: Narrator, Wife/Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Przedała szydło i motowidło i cepy,
+!!kupiła sobie  złoty koszyczek do rzepy.
+!!@VERSE:
+!!2. O stójże, Boże, Maciek niemoże,
+!!ja rada, wyskoczę sobie,  o jednéj nodze rom ta da.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=277 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 253-254} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, pp. 253-254}
 !!!page: 253-254
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-26

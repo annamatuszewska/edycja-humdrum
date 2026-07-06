@@ -3,114 +3,130 @@
 !!!source: DWOK09
 !!!id: 09113
 !!!signature: 0911300001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{4d
-4cc
-8dd
-8cc
-=2
-8b
-8cc
-8dd
-8dd
-8a
-8f#
-=3
-8a
-8b
-8cc
-8cc
-8dd
-8b
-=4
-4g
-4g
-8cc
-8a
-=5
-8a
-8b
-4cc
-8dd
-8b
-=6
-8g
-8g
-8g
-8cc
-8a
-8f#
-=7
-8a
-8b
-8cc
-8cc
-8dd
-8b
-=8
-4g
-8g
-8cc
-4a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+!!LO:TX:a:t=Do przodka.
+{4d\	Zadałeś
+4cc	mi
+8dd	zadał,
+8cc	.
+=2	=2
+8b	bodajś
+8cc	.
+8dd	się
+8dd	rozpadał,
+8a	.
+8f#	.
+=3	=3
+8a\	bodajże
+8b	.
+8cc	.
+8cc	cię
+8dd	Jasiu
+8b	.
+=4	=4
+4g	ukarać.
+4g	.
+8ccL	.
+8aJ	.
+=5	=5
+8a\	Zadałeś
+8b	.
+4cc	mi
+8dd	synka,
+8b	.
+=6	=6
+8g	plażyła
+8g	.
+8g	.
+8cc	pierzynka,
+8a	.
+8f#	.
+=7	=7
+8a\	jak
+8b	ci
+8cc	było
+8cc	.
+8dd	Jasiu
+8b	.
+=8	=8
+4g	dobrze
+8gL	.
+8ccJ	.
+4a}	spać.
 !!LO:LB:g=esac
-=9
-{4d
-4cc
-8dd
-8cc
-=10
-8b
-8cc
-8dd
-8dd
-8a
-8f#
-=11
-8a
-8b
-8cc
-8cc
-8dd
-8b
-=12
-4g
-4g
-8cc
-8a
-=13
-8a
-8b
-4cc
-8dd
-8b
-=14
-8g
-8g
-8g
-8cc
-8a
-8f#
-=15
-8a
-8b
-8cc
-8cc
-8dd
-8b
-=16
-4g
-8g
-8cc
-4a}
-==
-*-
+=9	=9
+{8dL	Zadałeś
+8ccJ	.
+8ccL	.
+8ccJ/	mi
+8dd	zadał,
+8cc	.
+=10	=10
+8b	bodajś
+8cc	.
+8dd	się
+8dd	rozpadał,
+8a	.
+8f#	.
+=11	=11
+8a\	bodajże
+8b	.
+8cc	.
+8cc	cię
+8dd	Jasiu
+8b	.
+=12	=12
+4g	ukarać.
+4g	.
+8ccL	.
+8aJ	.
+=13	=13
+8a\	Zadałeś
+8b	.
+8ccL	.
+8ccJ/	mi
+8dd	synka,
+8b	.
+=14	=14
+8g	plażyła
+8g	.
+8g	.
+8cc	pierzynka,
+8a	.
+8f#	.
+=15	=15
+8a\	jak
+8b	ci
+8cc	było
+8cc	.
+8dd	Jasiu
+8b	.
+=16	=16
+4g	dobrze
+8gL	.
+8ccJ	.
+4a}	spać.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!role-listener: Bachelor
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Zadałeś mi zadał, bodajś się rozpadał,
+!!bodajże cię Jasiu ukarać.
+!!Zadałeś mi synka, plażyła pierzynka,
+!!jak ci było Jasiu dobrze spać.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=273 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 249} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, p. 249}
 !!!page: 249
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-26

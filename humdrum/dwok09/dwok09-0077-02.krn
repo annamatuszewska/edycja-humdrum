@@ -3,79 +3,88 @@
 !!!source: DWOK09
 !!!id: 09077
 !!!signature: 0907700002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{4dd
-4dd
-8ee
-8cc
-=2
-4b
-8b
-8a
-4g
-=3
-4cc
-8cc
-8cc
-8ee
-8cc
-=4
-4a
-8a
-8f#
-4d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{4dd	A
+4dd	pod
+8eeL	tą
+8ddq	.
+8ccJ	.
+=2	=2
+4b	jabłonką
+8bL	.
+8aJ/	.
+4g	.
+=3	=3
+4cc	stoji
+8ccL	.
+8ccJ/	.
+8eeL	koń
+8ccJ	.
+=4	=4
+4a	kowany,
+8aL	.
+8f#J	.
+4d}	.
 !!LO:LB:g=esac
-=5
-{4d
-4gg
-8gg
-8a
-=6
-4b
-4g
-8g
-8f#
-=7
-4e
-4e
-8cc
-8b
-=8
-4a
-8a
-8f#
-4d}
+=5	=5
+{4d	kto
+4g	na
+8gL	nim
+8aJ	.
+=6	=6
+4b	wy-
+4g	-wi-
+8gL	-ja
+8f#J	.
+=7	=7
+4e	Jasieńko
+4e	.
+8ccL	.
+8bJ	.
+=8	=8
+4a\	kochany,
+8aL	.
+8f#J	.
+4d}	.
 !!LO:LB:g=esac
-=9
-{4d
-4gg
-8gg
-8a
-=10
-8b
-8b
-4g
-8g
-8f#
-=11
-4e
-4e
-8cc
-8b
-=12
-4a
-8a
-8f#
-4d}
-==
-*-
+=9	=9
+{4d	kto
+4g	na
+8gL	nim
+8aJ	.
+=10	=10
+8bL	wy-
+8bJ/	.
+4g	-wi-
+8gL	-ja
+8f#J	.
+=11	=11
+4e	Jasieńko
+4e	.
+8ccL	.
+8bJ	.
+=12	=12
+4a	kochany.
+8aL	.
+8f#J	.
+4d}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!A pod tą jabłonką stoji koń kowany,
+!!kto na nim wywija Jasieńko kochany.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=244 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 220} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, p. 220}
 !!!page: 220
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-26

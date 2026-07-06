@@ -3,70 +3,100 @@
 !!!source: DWOK09
 !!!id: 09119
 !!!signature: 0911900000
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{8c
-8d
-8e
-8f
-=2
-8g
-8cc
-4cc
-=3
-8dd
-8cc
-8b
-8a
-=4
-8a
-8g
-4g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+=1	=1
+{8c	Dajéj,
+8d	.
+8e	daléj,
+8f	.
+=2	=2
+8gL	daléj,
+8ccJ	.
+4cc/	.
+=3	=3
+8dd/	by
+8cc/	nas
+8b/	nie
+8a	schwy-
+=4	=4
+8aL	-tali.
+8gJ	.
+4g}	.
 !!LO:LB:g=esac
-=5
-{8f
-8e
-8d
-8f
-=6
-8e
-8g
-4g
-=7
-8f
-8e
-8d
-8f
-=8
-8e
-8g
-4g}
+=5	=5
+{8f	Tu
+8e	jest
+8d	tu
+8f	jéj
+=6	=6
+8e	nié-
+8g	.
+4g	-ma,
+=7	=7
+8f	ten
+8e	puścił,
+8d	.
+8f	ten
+=8	=8
+8eL	trzyma,
+8gJ	.
+4g}	.
 !!LO:LB:g=esac
-=9
-{4b
-8cc
-8a
-=10
-8a
-8g
-4g
-=11
-4ee
-8ff
-8b
-=12
-8dd
-8cc
-4cc}
-==
-*-
+=9	=9
+{4b/	zgadniéj
+8cc/	.
+8a	.
+=10	=10
+8aL	gdzie
+8gJ	teraz,
+4g	.
+=11	=11
+4ee/	zgadniéj
+8ff	.
+8bn/	gdzie
+=12	=12
+8ddL	teraz.
+8ccJ/	.
+4cc/}	.
+==	==
+*-	*-
+!!!role-singer: Child
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Dajéj, daléj, daléj,
+!!by nas nie schwytali.
+!!Tu jest tu jéj niéma,
+!!ten puścił, ten trzyma,
+!!zgadniéj gdzie teraz,
+!!zgadniéj gdzie teraz.
+!!@VERSE:
+!!2.Była u sąsiada;
+!!już jéj nie posiada.
+!!Puścił ją koleją,
+!!żegnaj się z nadzieją
+!!Zgadnij, gdzie teraz?
+!!@VERSE:
+!!3. Tutaj popasała,
+!!lecz już wyjechała.
+!!Tu jest, tu jéj niéma,
+!!ten puścił, ten trzyma.
+!!Zgadnéj, gdzie teraz?
+!!@VERSE:
+!!4. O próżne staranie,
+!!nie strzelaj oczyma.
+!!Nikt jéj nie dostanie,
+!!tu jest, tu jéj niéma.
+!!Zgadnéj, gdzie teraz?
+!!@@END: VERSES
 !!!ONB: Dwudźwięki
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=283 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 259-260} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, pp. 259-260}
 !!!page: 259-260
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-26

@@ -3,52 +3,100 @@
 !!!source: DWOK09
 !!!id: 09098
 !!!signature: 0909800010
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{8a
-8cc
-8b
-=2
-8a
-8cc
-8dd
-=3
-16ee
-16ee
-8dd
-16ee
-16dd
-=4
-8b
-16g#
-16e}
-8r
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{8a	Nie
+8cc	chciała,
+8b	.
+=2	=2
+8a	nie
+8cc	chciała
+8dd	.
+=3	=3
+16ee	we
+16ee	wianyszku
+8dd	.
+16eeL	.
+16ddJ	.
+=4	=4
+8ccq	.
+8b	chodzić,
+16g#L	.
+16eJ}	.
+8r	.
 !!LO:LB:g=esac
-=5
-{8e
-8b
-8g#
-=6
-8e
-8b
-8g#
-=7
-8a
-8a
-8ee
-=8
-8b
-16g#
-16e}
-8r
-==
-*-
+=5	=5
+{8e	ka-
+8bq	.
+8b	-za-
+8aq	.
+8g#	-ła,
+=6	=6
+8e	ka-
+8ccq	.
+8b	-za-
+8aq	.
+8g#	-ła
+=7	=7
+8a	czepyszek
+8a	.
+8ee	.
+=8	=8
+8b	robić.
+16g#L	.
+16eJ}	.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Nie chciała, nie chciała we wianyszku chodzić,
+!!kazała, kazała czepyszek robić.
+!!@VERSE:
+!!2.Róbcie-ż mi, róbcie-ż mi
+!!czepeluszek z sieci, —
+!!niech mi się, niech mi się
+!!na główeczce świeci.
+!!@VERSE:
+!!3. Róbcie-ż mi, róbcie-ż mi
+!!choć ze saméj gazy, —
+!!niech mi się, niech mi się
+!!na główeczce jarzy.
+!!@VERSE:
+!!4. Róbcie-ż mi, róbcie-ż mi
+!!ze samego złota,
+!!niech mi się oświeci
+!!ta to moja cnota.
+!!@VERSE:
+!!5. Nie chciała, nie chciała
+!!ojca, matki słuchać,
+!!wołała, wołała
+!!kolébeczką ruchać.
+!!@VERSE:
+!!6. Lulaj-że, lulaj-że
+!!moje małe dziécie,
+!!mówiłeś mi, Jasieńku,
+!!że ja nie zdradzę cię.
+!!@VERSE:
+!!1. Ty wołosiu, ty wołosiu,
+!!ty wołosiu siwy, —
+!!wyjadłeś mi, wyjadłeś mi
+!!z ogrodu pokrzywy.
+!!@VERSE:
+!!2. Nie wiész to ty, dziewcze moje,
+!!że to pokrzyw szkoda,
+!!było wygnać, było wygnać
+!!wołosia z ogroda.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=262 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 238} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, p. 238}
 !!!page: 238
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-26
