@@ -3,77 +3,86 @@
 !!!source: DWOK10
 !!!id: 10018
 !!!signature: 1001800002
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M3/8
-=1
-{16b-
-16b-
-8dd
-8ee-
-=2
-16gg
-16ff
-8ee
-8ff
-=3
-16f
-16f
-8.ee-
-16dd
-=4
-16cc
-16b-
-8a
-8b-}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M3/8	*
+=1	=1
+{16b-L	Boli
+16b-J	.
+8dd	.
+8ee-	mnie
+=2	=2
+16gg	noga
+16ff	.
+8ee	w_biodrze,
+8ff	.
+=3	=3
+16fL	nie
+16fJ	.
+8.ee-X	mogę
+16dd	.
+=4	=4
+16cc	biegać
+16b-	.
+8a\	dobrze,
+8b-}	.
 !!LO:LB:g=esac
-=5
-{16f
-16b-
-8dd
-8ee-
-=6
-16dd
-16b-
-8dd
-8ee-
-=7
-16f
-16f
-8.ee-
-16dd
-=8
-16cc
-16b-
-8a
-8b-}
+=5	=5
+{16f	ale
+16b-	.
+8dd	tańco-
+8ee-	.
+=6	=6
+16dd	-wać
+16b-	to
+8dd	mogę,
+8ee-	.
+=7	=7
+[16fL	choć
+16fJ]	chustką
+8.ee-	.
+16dd	ob-
+=8	=8
+16cc	-wiążę
+16b-	.
+8a\	nogę,
+8b-}	.
 !!LO:LB:g=esac
-=9
-{16f
-16b-
-8dd
-8ee-
-=10
-16dd
-16b-
-8dd
-8ee-
-=11
-16f
-16f
-8.ee-
-16dd
-=12
-16cc
-16b-
-8a
-8b-}
-==
-*-
+=9	=9
+{16f	ale
+16b-	.
+8dd	tańco-
+8ee-	.
+=10	=10
+16dd	-wać
+16b-	to
+8dd	mogę,
+8ee-	.
+=11	=11
+[16fL	choć
+16fJ]	chustką
+8.ee-	.
+16dd	ob-
+=12	=12
+16cc	-wiążę
+16b-	.
+8a\	nogę.
+8b-}	.
+==	==
+*-	*-
+!!!role-singer: Bride
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Boli mnie noga w biodrze, nie mogę biegać dobrze,
+!!ale tańcować to mogę, choć chustką obwiążę nogę.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=105 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 89} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 89}
 !!!page: 89
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-28

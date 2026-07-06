@@ -3,92 +3,108 @@
 !!!source: DWOK10
 !!!id: 10004
 !!!signature: 1000400000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16a
-8b
-8cc
-=2
-4dd
-8ee
-=3
-16dd
-16cc
-8a
-8cc
-=4
-8dd
-4b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Pani
+16a	.
+8b	gospo-
+8cc	.
+=2	=2
+4dd	-dyni
+8ee	.
+=3	=3
+16dd	nowe
+16cc	.
+8a\	latko
+8cc	.
+=4	=4
+8dd	w_sieni,
+4b}	.
 !!LO:LB:g=esac
-=5
-{16g
-16a
-8b
-8cc
-=6
-4dd
-8ee
-=7
-16dd
-16cc
-8a
-8cc
-=8
-8b
-4g}
+=5	=5
+{16g	chcecie
+16a	.
+8b	oglę-
+8cc	.
+=6	=6
+4dd	-dować
+8ee	.
+=7	=7
+16dd	musicie
+16cc	.
+8a\	.
+8cc	mu
+=8	=8
+8b	co
+4g}	dać.
 !!LO:LB:g=esac
-=9
-{16b
-16cc
-8dd
-8ee
-=10
-16dd
-16cc#
-8dd
-8b
-=11
-16a
-16b
-8cc
-16dd
-16cc
-=12
-16b
-16a
-8b
-8g}
+=9	=9
+{16bL	.
+16ccJ	.
+8ddL	.
+8eeJ	.
+=10	=10
+16ddL	.
+16cc#J	.
+8ddL	.
+8bJ	.
+=11	=11
+16aL	.
+16bJ\	.
+8cc	.
+16ddL	.
+16ccJ	.
+=12	=12
+16bL	.
+16aJ\	.
+8bL	.
+8gJ}	.
 !!LO:LB:g=esac
-=13
-{16b
-16cc
-8dd
-8ee
-=14
-16dd
-16cc#
-8dd
-8b
-=15
-16a
-16b
-8cc
-16dd
-16cc
-=16
-16b
-16a
-8b
-8g}
-==
-*-
+=13	=13
+{16bL	.
+16ccJ	.
+8ddL	.
+8eeJ	.
+=14	=14
+16ddL	.
+16cc#J	.
+8ddL	.
+8bJ	.
+=15	=15
+16aL	.
+16bJ\	.
+8cc	.
+16ddL	.
+16ccJ	.
+=16	=16
+16bL	.
+16aJ	.
+8bL	.
+8gJ}	.
+==	==
+*-	*-
+!!!role-listener: Hostess
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Pani gospodyni nowe latko w sieni,
+!!chcecie oględować musicie mu co dać.
+!!@VERSE:
+!!2. Pani gospodyni nie bądź taka sknéra,
+!!biegaj do komory, przynieś kopę séra.
+!!@VERSE:
+!!3. W tym tu domu stempa, dziéwka gdyby klempa,
+!!@VERSE:
+!!4. W tym tu domu stołki, dzieci gdyby wołki (wałki).
+!!@@END: VERSES
+!!!ONB@texture: Only voice or instrument is playing at a time
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=80 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 64} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 64}
 !!!page: 64
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-28

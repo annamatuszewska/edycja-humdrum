@@ -8,6 +8,7 @@
 *k[]
 *C:
 *M4/4
+*met(c)
 =1
 {4gg
 4gg
@@ -15,12 +16,12 @@
 4aa
 =2
 4aa
-8gg
-8aa
-8gg
-8ff
-8dd
-8ee
+8ggL
+8aaJ
+8ggL
+8ffJ
+8ddL
+8eeJ
 =3
 4ff
 4ee
@@ -41,8 +42,8 @@
 4gg
 4ff
 4ff
-8dd
-8ee
+8ddL
+8eeJ
 =7
 4ff
 4ee
@@ -59,59 +60,62 @@
 4cc}
 !!LO:LB:g=esac
 =10
-{8ee
+{8eeL
 8cc
 8ee
-8gg
+8ggJ
 4ff
-8dd
-8ee
+8ddL
+8eeJ
 =11
 4ff
 4ee
 4dd
 4cc
 =12
-8ee
+8eeL
 8cc
 8ee
-8gg
+8ggJ
 4ff
-8dd
-8ee
+8ddL
+8eeJ
 =13
 4ff
 4ee
 4ff
-8ff
-8aa}
+8ffL
+8aa}J
 !!LO:LB:g=esac
 =14
 {4gg
 4gg
 4ff
-8ff
-8aa
+8ffL
+8aaJ
 =15
 2gg
-8gg
+8ggL
 8ff
 8dd
-8ee
+8eeJ
 =16
 2cc
-8b
+8bL
 8cc
 8dd
-8ee
+8eeJ
 =17
 2cc}
 2r
 ==
 *-
+!!!ONB: W takcie ósmym powinna być ćwierćnuta zamiast półnuty, poprawiono
 !!!ONB: W ostatnim takcie brakuje pauzy półnutowej, została dodana
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=117 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 101} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 101}
 !!!page: 101
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-28

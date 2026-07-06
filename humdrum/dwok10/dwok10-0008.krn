@@ -3,52 +3,60 @@
 !!!source: DWOK10
 !!!id: 10008
 !!!signature: 1000800000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16dd
-16b
-8.dd
-16b
-=2
-16dd
-16b
-8.dd
-16b
-=3
-16cc
-16a
-8f#
-16a
-16b
-=4
-4.g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16dd	U
+16b	naszego
+8.dd	.
+16b	.
+=2	=2
+16dd	jegomości
+16b	.
+8.dd	.
+16b	.
+=3	=3
+16cc	dobry
+16a	.
+8f#	rozsą-
+16aL	.
+16bJ	.
+=4	=4
+4.g}	-dek,
 !!LO:LB:g=esac
-=5
-{16dd
-16b
-8.dd
-16b
-=6
-16dd
-16b
-8.dd
-16b
-=7
-16cc
-16a
-8f#
-16a
-16b
-=8
-4.g}
-==
-*-
+=5	=5
+{16dd	wystawił
+16b	.
+8.dd	.
+16b	nam
+=6	=6
+16dd	beczkę
+16b	.
+8.dd	piwa
+16b	.
+=7	=7
+16cc	gorzałki
+16a	.
+8f#	.
+16aL	są-
+16bJ	.
+=8	=8
+4.g}	-dek.
+==	==
+*-	*-
+!!!role-singer: Peasants
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!U naszego jegomości dobry rozsądek,
+!!wystawił nam beczkę piwa gorzałki sądek.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=87 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 71} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 71}
 !!!page: 71
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-28

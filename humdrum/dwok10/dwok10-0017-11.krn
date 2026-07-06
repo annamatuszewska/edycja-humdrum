@@ -3,77 +3,89 @@
 !!!source: DWOK10
 !!!id: 10017
 !!!signature: 1001700011
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8.dd
-16dd
-4b
-4b
-=2
-8.a
-16b
-4cc
-4cc
-=3
-8dd
-8dd
-4b
-4g
-=4
-8.a
-16a
-4f#
-4d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+!!LO:TX:a:t=Mazur chodzony.
+{8.dd	Tyś
+16dd	od
+4b	pola,
+4b	.
+=2	=2
+8.a	ja
+16b/	od
+4cc	pola,
+4cc	.
+=3	=3
+8dd	krzywe
+8eeq	.
+8dd	.
+4b	nogi
+4g	.
+=4	=4
+8.a	masz
+16a	Magola,
+4f#	.
+4d}	.
 !!LO:LB:g=esac
-=5
-{4g
-4b
-4b
-=6
-8.cc
-16cc
-4.cc
-8b
-=7
-8a
-8cc
-8a
-8f#
-4d
-=8
-8.dd
-16dd
-4.dd
-8dd}
+=5	=5
+{4g\	daj
+4b	je
+4b	so-
+=6	=6
+8.cc	-bie
+16cc	sprostować
+4.cc	.
+8b	.
+=7	=7
+8a\	nie
+8cc	będzie
+8aL	.
+8f#J	.
+4d	cię
+=8	=8
+8.dd	nic
+16dd	kosztować,
+4.dd	.
+8dd}	.
 !!LO:LB:g=esac
-=9
-{4g
-4b
-4b
-=10
-8.cc
-16cc
-4.cc
-8b
-=11
-8a
-8cc
-8a
-8f#
-4d
-=12
-4f#
-4a
-4g}
-==
-*-
+=9	=9
+{8gL	daj
+8bJ	.
+4b/	je
+4b	so-
+=10	=10
+8.cc	-bie
+16cc	sprostować
+4.cc	.
+8b	.
+=11	=11
+8a\	nie
+8cc	będzie
+8aL	.
+8f#J	.
+4d	cię
+=12	=12
+4f#	nic
+4a	kosztować.
+4g}	.
+==	==
+*-	*-
+!!!role-singer: Young People
+!!!role-listener: Bride
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Tyś od pola, ja od pola, krzywe nogi masz Magola,
+!!daj je sobie sprostować nie będzie cię nic kosztować.
+!!@@END: VERSES
 !!!ONB: Mazur chodzony
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=105 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 89} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 89}
 !!!page: 89
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-28

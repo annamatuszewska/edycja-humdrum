@@ -3,78 +3,115 @@
 !!!source: DWOK10
 !!!id: 10006
 !!!signature: 1000600000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16b
-16cc
-8.dd
-16ee
-=2
-16cc
-16a
-8b
-8g
-=3
-16f#
-16g
-8.a
-16b
-=4
-16g
-16e
-8f#
-8d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16b	My
+16cc	biegamy
+8.dd	.
+16ee	.
+=2	=2
+16cc	po
+16a\	dyngusie,
+8b	.
+8g	.
+=3	=3
+16f#	i
+16g	śpiewamy
+8.a	.
+16b	.
+=4	=4
+16g	o
+16e	Jezusie,
+8f#	.
+8d}	.
 !!LO:LB:g=esac
-=5
-{16f#
-16g
-8.a
-16b
-=6
-16cc
-16a
-8b
-8g}
+=5	=5
+{16f#	o
+16g	Jezusie,
+8.a	.
+16b	.
+=6	=6
+16cc	o
+16a\	Chrystusie.
+8b	.
+8g}	.
 !!LO:LB:g=esac
-=7
-{16b
-16cc
-8.dd
-16ee
-=8
-16cc
-16a
-8b
-8g
-=9
-16f#
-16g
-8.a
-16b
-=10
-16g
-16e
-8f#
-8d}
+=7	=7
+{16b	My
+16cc	biegamy
+8.dd	.
+16ee	.
+=8	=8
+16cc	po
+16a\	dyngusie,
+8b	.
+8g	.
+=9	=9
+16f#	i
+16g	śpiewamy
+8.a	.
+16b	.
+=10	=10
+16g	o
+16e	Jezusie,
+8f#	.
+8d}	.
 !!LO:LB:g=esac
-=11
-{16f#
-16g
-8.a
-16b
-=12
-16cc
-16a
-8b
-8g}
-==
-*-
+=11	=11
+{16f#	o
+16g	Jezusie,
+8.a	.
+16b	.
+=12	=12
+16cc	o
+16a\	Chrystusie.
+8b	.
+8g}	.
+==	==
+*-	*-
+!!!role-singer: Easter Carolers
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. My biegamy po dyngusie,
+!!i śpiewamy o Jezusie,
+!!o Jezusie, o Chrystusie.
+!!@VERSE:
+!!2. W wielki czwartek, w wielki piątek,
+!!cierpiał Pan Bóg dla nas smutek,
+!!dla nas smutek, dla nas rany.
+!!@VERSE:
+!!3. Co go żydzi umęczyli,
+!!umęczyli i dręczyli,
+!!krew najświętszą wytoczyli.
+!!@VERSE:
+!!4. Anieli się dowiedzieli,
+!!i czém prędzej przybieżeli.
+!!@VERSE:
+!!5. Krew najświętszą pozbierali,
+!!pozbierali, pozgarniali,
+!!i do raju odesłali.
+!!@VERSE:
+!!6. Tera(z) pójdźma do oracza,
+!!da nam chleba i kołacza.
+!!@VERSE:
+!!7. Od oracza do Donaja v. Dunaja,
+!!usmarzy nam cztéry jaja.
+!!@VERSE:
+!!8. Siedzi gospodarz w końcu stołu,
+!!suknia na nim jak na połu (obywatelu, pół-śladniku).
+!!@VERSE:
+!!9. A czapeczka z karmazynu,
+!!ten gospodarz tego domu.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=84 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 68} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 68}
 !!!page: 68
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-28
