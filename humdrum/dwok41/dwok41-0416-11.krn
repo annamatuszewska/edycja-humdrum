@@ -3,57 +3,66 @@
 !!!source: DWOK41
 !!!id: 41416
 !!!signature: 4141600011
-**kern
-*clefG2
-*k[b-e-]
-*g:
-*M3/4
-=1
-{4b-
-4dd
-4b-
-=2
-8b-
-8b-
-4dd
-8cc
-8b-}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*g:	*
+*M3/4	*
+=1	=1
+{4b-	Oj,
+4dd	kar-
+4b-	-cma-
+=2	=2
+8b-	-re-
+8b-	-cka
+4dd	ra-
+8ccL	-da,
+8b-}J	.
 !!LO:LB:g=esac
-=3
-{4a
-4cc
-4cc
-=4
-8cc
-8cc
-4dd
-8b-
-8a}
+=3	=3
+{4a	da,
+4cc	że
+4cc	u
+=4	=4
+8cc	ni
+8cc	bie-
+4dd	-sia-
+8b-/L	-da,
+8a}J	.
 !!LO:LB:g=esac
-=5
-{4g
-4b-
-4b-
-=6
-8g
-8g
-4.a
-8f#}
+=5	=5
+{4g	oj,
+4b-	a-
+4b-	-le
+=6	=6
+8g	kar-
+8g	-cmarz
+4.a	nie-
+8f#}	-rad,
 !!LO:LB:g=esac
-=7
-{4d
-4f#
-4d
-=8
-8f#
-8g
-4a
-4g}
-==
-*-
+=7	=7
+{4d	da,
+4f#	bo
+4d\	dziś
+=8	=8
+8f#	jes-
+8g	-ce
+4a	nie
+4g}	jad.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oj, karcmarecka rada,
+!!da, że u ni biesiada,
+!!oj, ale karcmarz nierad,
+!!da, bo dziś jesce nie jad.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!ONB: Partia wokalna
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=309 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 226} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 226}
 !!!page: 226
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-14

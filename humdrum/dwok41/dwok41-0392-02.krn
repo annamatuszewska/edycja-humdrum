@@ -1,56 +1,67 @@
-!!!!SEGMENT: DWOK4139200002-oj_matko_moja_matko.krn
+!!!!SEGMENT: DWOK4139200001-oj_matko_moja_matko.krn
 !!!OTL: Oj, matko, moja matko
 !!!source: DWOK41
 !!!id: 41392
 !!!signature: 4139200002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{4gg
-4ff#
-4dd
-=2
-8ff#
-8aa
-4gg
-4ee
-=3
-4gg
-4ff
-4dd
-=4
-8ee
-8cc
-4b
-4g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*G:	*
+*M3/4	*
+=1	=1
+{4gg	Oj,
+4ff#	ma-
+4dd	-tko,
+=2	=2
+8ff#	mo-
+8aa	-ja
+4gg	ma-
+4ee	-tko,
+=3	=3
+4gg	da,
+4ff	cho-
+4dd	-waj-
+=4	=4
+8ee	-że
+8cc	mnie
+4b	gła-
+4g}	-dko,
 !!LO:LB:g=esac
-=5
-{8cc
-8cc
-4b
-4g
-=6
-8cc
-8ee
-4gg
-8dd
-8ee
-=7
-4cc
-4b
-4dd
-=8
-8cc
-8a
-4a
-4g}
-==
-*-
+=5	=5
+{8cc	od
+8cc	nie-
+4b	-dzie-
+4g	-li
+=6	=6
+8cc	do
+8ee	nie-
+4gg	-dzie-
+8dd/L	-li,
+8ee/J	.
+=7	=7
+4cc	da,
+4b	jak
+4dd	czer-
+=8	=8
+8cc	-wo-
+8a	-ne
+4a	ja-
+4g}	-błko.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oj, matko, moja matko,
+!!da, chowajże mnie gładko,
+!!od niedzieli do niedzieli,
+!!da, jak czerwone jabłko.
+!!@@END: VERSES
+!!!role-singer: Daughter
+!!!role-listener: Mother
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=298 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 217} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 217}
 !!!page: 217
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-14

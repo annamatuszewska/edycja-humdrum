@@ -1,59 +1,68 @@
-!!!!SEGMENT: DWOK4138600002-oj_i_jak_wyjde_na_pole.krn
+!!!!SEGMENT: DWOK4138600001-oj_i_jak_wyjde_na_pole.krn
 !!!OTL: Oj, i jak wyjdę na pole
 !!!source: DWOK41
 !!!id: 41386
 !!!signature: 4138600002
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8cc
-8ee
-4gg
-4gg
-=2
-8gg
-8gg
-4aa
-8ff
-8dd
-=3
-8ff
-8ff
-4aa
-4aa
-=4
-8aa
-8gg
-4ee
-4cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8cc	Oj,
+8ee	i
+4gg	jak
+4gg	wyj-
+=2	=2
+8gg	-dę
+8gg	na
+4aa	po-
+8ffL	-le,
+8ddJ	.
+=3	=3
+8ff/L	da,
+8ff/J	i
+4aa/	to
+4aa/	we-
+=4	=4
+8aa	-se-
+8gg	-le
+4ee	mo-
+4cc}	-je,
 !!LO:LB:g=esac
-=5
-{8dd
-8b
-4g
-4ff
-=6
-8ff
-8aa
-4gg
-4ee
-=7
-8dd
-8b
-4g
-4ff
-=8
-8dd
-8dd
-4ee
-4cc}
-==
-*-
+=5	=5
+{8dd	da,
+8b	i
+4g	jak
+4ff	przyj-
+=6	=6
+8ff/L	-dę
+8aa/J	do
+4gg	do-
+4ee	-mu,
+=7	=7
+8dd	da,
+8b	i
+4g	kie-
+4ff	-by
+=8	=8
+8dd	do
+8dd	za-
+4ee	-ko-
+4cc}	-nu.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oj, i jak wyjdę na pole,
+!!da, i to wesele moje,
+!!da, i jak przyjdę do domu,
+!!da, i kieby do zakonu.
+!!@@END: VERSES
+!!!role-singer: Complex
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=295 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 214} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 214}
 !!!page: 214
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-01
