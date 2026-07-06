@@ -3,102 +3,115 @@
 !!!source: DWOK11
 !!!id: 11052
 !!!signature: 1105200000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{8g
-8cc
-8dd
-=2
-16ee
-16ff
-4dd
-=3
-8gg
-8ff
-8dd
-=4
-4cc
-8g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{8g	Kośnicy
+8cc	.
+8dd	.
+=2	=2
+16eeL	stoją,
+16ffJ	.
+4dd	.
+=3	=3
+8gg	łąki
+8ff	.
+8dd	się
+=4	=4
+4cc	boją.
+8g}	.
 !!LO:LB:g=esac
-=5
-{8cc
-8ee
-8dd
-=6
-8cc
-8a
-8g
-=7
-8cc
-16ee
-16ff
-8dd
-=8
-8cc
-16a
-16b
-8g}
+=5	=5
+{8cc	Kośnicy
+8ee	.
+8dd	.
+=6	=6
+8cc	nie
+8a\	stójcie,
+8g	.
+=7	=7
+8cc	łąki
+16eeL	.
+16ffJ	.
+8dd	się
+=8	=8
+8cc	nie
+16aL	bójcie,
+16bJ\	.
+8g}	.
 !!LO:LB:g=esac
-=9
-{8g
-8cc
-8dd
-=10
-8.ee
-16ff
-8dd
-=11
-8gg
-8ff
-8dd
-=12
-4cc
-8cc}
+=9	=9
+{8g	posiekę
+8cc	.
+8dd	.
+=10	=10
+8.eeL	ja
+16ffJ	.
+8dd	ją
+=11	=11
+8gg	z_dziewczyną
+8ff	.
+8dd	.
+=12	=12
+4cc	moją.
+8cc}	.
 !!LO:LB:g=esac
-=13
-{8cc
-16ee
-16ff
-8dd
-=14
-8cc
-16a
-16b
-8g
-=15
-8cc
-16ee
-16ff
-8dd
-=16
-8cc
-16a
-16b
-8g}
+=13	=13
+{8cc	Posiekę,
+16eeL	.
+16ffJ/	.
+8dd	.
+=14	=14
+8cc	pograbię,
+16aL	.
+16bJ	.
+8g	.
+=15	=15
+8cc	w_kopeczki
+16eeL	.
+16ffJ	.
+8dd	.
+=16	=16
+8cc	pokładę,
+16aL	.
+16bJ\	.
+8g}	.
 !!LO:LB:g=esac
-=17
-{8g
-8cc
-8dd
-=18
-8.ee
-16ff
-8dd
-=19
-8gg
-8ff
-8dd
-=20
-4cc
-8cc}
-==
-*-
+=17	=17
+{8g	z_dziewczyną
+8cc	.
+8dd	.
+=18	=18
+8.eeL	moją,
+16ffJ	.
+8dd	.
+=19	=19
+8gg	z_dziewczyną
+8ff	.
+8dd	.
+=20	=20
+4cc	moją.
+8cc}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Bachelor
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Kośnicy stoją, łąki się boją.
+!!Kośnicy nie stójcie,
+!!łąki się nie bójcie,
+!!posiekę ja ją z dziewczyną moją.
+!!Posiekę, pograbię, w kopeczki pokładę,
+!!z dziewczyną moją, z dziewczyną moją.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/011dwok.pdf#page=174 @PL{Oskar Kolberg Dzieła Wszystkie 11: W. Ks. Poznańskie III, s. 156} @EN{Oskar Kolberg Complete Works 11: Grand Duchy of Poznań III, p. 156}
 !!!page: 156
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-27

@@ -3,39 +3,113 @@
 !!!source: DWOK11
 !!!id: 11005
 !!!signature: 1100500002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M4/4
-=1
-{4dd
-4dd
-4.ee
-8cc
-=2
-4a
-4dd
-4b
-4g
-=3
-8b
-8g
-8g
-8g
-4.a
-8f#
-=4
-8d
-8d
-4dd
-4b
-4g}
-==
-*-
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M4/4	*
+*met(c)	*
+=1	=1
+{4dd	Przyszliśmy
+4dd	.
+4.ee	.
+8cc	tu
+=2	=2
+4a	po
+4dd	dyngusie
+8aq	.
+4b	.
+4g	.
+=3	=3
+8bL	zaśpie-
+8gJ	.
+8gL	.
+8gJ	.
+4.a	-wać
+8f#	wam
+=4	=4
+8dL	o
+8dJ	.
+4dd	Je-
+8aq	.
+4b	-zu-
+4g}	-sie.
+==	==
+*-	*-
+!!!role-singer: Carolers
+!!!role-listener: Faithful
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Przyszliśmy tu po dyngusie zaśpiewać wam o Jezusie.
+!!Poczem chłopcy:
+!!@VERSE:
+!!5. Pójdźmy bracie do kościoła,
+!!dzieje się ta(m) Boska chwała.
+!!W tym kościele poklękamy,
+!!po pacierzu pozmawiamy.
+!!@VERSE:
+!!6. A wstaliśmy do dnia, wstali,
+!!rosę po wsi otrząsali.
+!!Panny nam się dziwowały,
+!!że chłopaki rano wstały.
+!!Zimną roskę otrząsały,
+!!po dwa mendla jaj dawały.
+!!@VERSE:
+!!7. Nie dawajcie dwóch, jednego,
+!!pobijem się kole niego
+!!szabelkami, berdyszkami,
+!!Najświętsza Panno, bądźże z nami!
+!!@VERSE:
+!!8. Pójdźma bracia do mynarza,
+!!będziem skakać u przełaza.
+!!Wyjdzie z m(ł)yna mynareczka,
+!!wyniesie nam dwa jajeczka.
+!!Dwa jajeczka, kwartę mąki,
+!!będziem sobie piekli pąki.
+!!@VERSE:
+!!9. Od mynarza do oracza,
+!!da nam chleba i kołacza.
+!!Od oracza do ratąja,
+!!da nam chleba i dwa jaja.
+!!@VERSE:
+!!10. Od ratąja do każdego,
+!!nie mijajma ubogiego.
+!!Bo ubogi da nam co ma,
+!!a bógaty da dukaty.
+!!@VERSE:
+!!11. Amen, amen, niech się stanie,
+!!zachowaj nas Wieczny Panie!
+!!Dziewczyny:
+!!@VERSE:
+!!12. Do tego tu domu wstępujemy,
+!!szczęścia, zdrowia winszujemy,
+!!wszystkiego dobrego,
+!!od Boga miłego,
+!!Alleluja!
+!!@VERSE:
+!!13. Pan gospodarz w rogu stola,
+!!suknia na nim w jasne kola.
+!!Pani gospodyni kluczykamy brząka,
+!!koryszkamy stąpa (korki, obcasy)
+!!dla nas darów szuka.
+!!@VERSE:
+!!14. Szukaj pani, masz-li szukać,
+!!a bo nam tu długo czekać.
+!!Boć my wózkiem nie jeździemy,
+!!co nam dacie, to weźmiemy.
+!!@VERSE:
+!!15. Chłopcy, dajcie nam na szpilki,
+!!kupiem sobie za te chwilki,
+!!bośmy długo w drodze były,
+!!w drodze szpilki pogubiły.
+!!Alleluja!
+!!@@END: VERSES
 !!!ONB: Od Strzelna, Radziejowa, Lubrańca itd. (Obacz: Lud, Sere. IX, str. 137, Ser X, str 68,201).
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/011dwok.pdf#page=60 @PL{Oskar Kolberg Dzieła Wszystkie 11: W. Ks. Poznańskie III, s. 42} @EN{Oskar Kolberg Complete Works 11: Grand Duchy of Poznań III, p. 42}
 !!!page: 42
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-27

@@ -3,64 +3,100 @@
 !!!source: DWOK11
 !!!id: 11059
 !!!signature: 1105900012
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8g
-8b
-4dd
-4dd
-=2
-8dd
-8b
-8g
-8b
-8dd
-8ee
-=3
-8cc
-8a
-4cc
-4cc
-=4
-8.cc
-16a
-8f#
-8f#
-8a
-8f#}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8g	Tańcowałbym
+8b	.
+4dd	.
+4dd	.
+=2	=2
+8dd	całką
+8b	.
+8g	nockę
+8b	.
+8dd	biedną,
+8ee	.
+=3	=3
+8ccL	tańcowałbym
+8aJ/	.
+4cc	.
+4cc	.
+=4	=4
+8.cc	z_tą
+16a	dziewulą
+8f#	.
+8f#	.
+8a	jedną,
+8f#}	.
 !!LO:LB:g=esac
-=5
-{8d
-8f#
-4g
-4g
-=6
-8.b
-16a
-8g
-8b
-8g
-8d
-=7
-8f#
-8a
-4cc
-4cc
-=8
-8.cc
-16a
-8f#
-8f#
-8a
-8f#}
-==
-*-
+=5	=5
+{8d	tańcowałbym
+8f#	.
+4g	.
+4g	.
+=6	=6
+8.b/	i
+16a	trzy
+8g	nocki
+8b	.
+8g	matko,
+8d	.
+=7	=7
+8f#	bo
+8a	mi
+4cc	w_tańcu
+4cc	.
+=8	=8
+8.cc	idzie
+16a	.
+8f#	bardzo
+8f#	.
+8a	gładko,
+8f#}	.
+=9	=9
+{8d	tańcowałbym
+8f#	.
+4g	.
+4g	.
+=10	=10
+8.b/	i
+16a	trzy
+8g	nocki
+8b	.
+8g	matko,
+8d	.
+=11	=11
+8f#	bo
+8a	mi
+4cc	w_tańcu
+4cc	.
+=12	=12
+8.cc	idzie
+16a	.
+8f#	bardzo
+8f#	.
+8a	gładko.
+8f#}	.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!role-listener: Mother
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Tańcowałbym całką nockę biedną,
+!!tańcowałbym z tą dziewulą jedną,
+!!tańcowałbym i trzy nocki matko,
+!!bo mi w tańcu idzie bardzo gładko.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/011dwok.pdf#page=193 @PL{Oskar Kolberg Dzieła Wszystkie 11: W. Ks. Poznańskie III, s. 175} @EN{Oskar Kolberg Complete Works 11: Grand Duchy of Poznań III, p. 175}
 !!!page: 175
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-27

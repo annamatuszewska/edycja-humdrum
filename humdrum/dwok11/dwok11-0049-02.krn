@@ -3,61 +3,124 @@
 !!!source: DWOK11
 !!!id: 11049
 !!!signature: 1104900002
-**kern
-*clefG2
-*k[b-]
-*F:
-*M4/4
-=1
-{4a
-8a
-8b-
-4cc
-4dd
-=2
-4.cc
-8b-
-4g
-8g
-8f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M4/4	*
+*met(c)	*
+=1	=1
+{4a	Stoji
+8a	.
+8b-/	byliczka
+4cc	.
+4dd	.
+=2	=2
+4.cc;	na
+8b-	otło-
+4g	.
+(8gL	-gu
+8fJ)}	.
 !!LO:LB:g=esac
-=3
-{4a
-8a
-8b-
-4cc
-4dd
-=4
-4.cc
-8b-
-4g
-8g
-8f}
+=3	=3
+{4a	skończyliśmy
+8a	.
+8b-/	.
+4cc	.
+4dd	.
+=4	=4
+4.cc;	chwała
+8b-	.
+4g	Bogu.
+(8gL	.
+8fJ)}	.
 !!LO:LB:g=esac
-=5
-{4a
-4a
-4b-
-8g
-8f
-=
-2.cc
-12b-
-12cc
-12b-}
+=5	=5
+{4a	Plon
+4a	niesiemy
+4b-	.
+8gL	.
+8fJ	.
+=6	=6
+8aq	.
+(2.cc	plon—
+12b-L	.
+12cc	.
+12b-J/)}	.
 !!LO:LB:g=esac
-=6
-{4a
-4a
-4b-
-16g
-8.e
-=7
-1f}
-==
-*-
+=7	=7
+{4a	jego-
+4a	.
+4b-	-mości
+16gL	.
+8.eJ	.
+=8	=8
+1f}	w_dom.
+==	==
+*-	*-
+!!!role-singer: Peasants, Narrator
+!!!role-listener: Lord
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Stoji byliczka na otłogu
+!!skończyliśmy chwała Bogu.
+!!Plon niesiemy plon
+!!jegomości w dom.
+!!@VERSE:
+!!2. Dajże Boże plonowało,
+!!siedem garcy z snopka dało, —
+!!plon niesiemy i t. d.
+!!@VERSE:
+!!3. Przede dworem wielga burza,
+!!nasza pani gdyby róża, —
+!!plon niesiemy i t. d.
+!!@VERSE:
+!!4. Przede dworem stoji kamień,
+!!nasza pani siedzi na nim, —
+!!plon niesiemy i t. d.
+!!@VERSE:
+!!5. Siedzi, siedzi, uśmiecha się,
+!!jak ta róża rozkwita się, —
+!!plon niesiemy i t. d.
+!!@VERSE:
+!!6. Przede dworem kaczki w błocie,
+!!nasza pani chodzi w złocie, —
+!!plon niesiemy i t. d.
+!!@VERSE:
+!!7. Przede dworem wisi kosa,
+!!nasz ekonom gdyby osa, —
+!!plon niesiemy i t. d.
+!!@VERSE:
+!!8. Przede dworem wisi sznurek,
+!!nasz ekonom gdyby nurek, —
+!!plon niesiemy i t. d.
+!!@VERSE:
+!!9. Przede dworem kaczki w cebrze,
+!!ekonom u pana żebrze, —
+!!plon niesiemy i l. d.
+!!@VERSE:
+!!10. Przede dworem wiszą łyka,
+!!pańskim dziéwkom trzeba byka,—
+!!plon uiesiemy i t. d.
+!!@VERSE:
+!!11. Skończyli my za pogody,
+!!nie léjcie nam w piwo wody,—
+!!plon niesiemy i t. d.
+!!@VERSE:
+!!12. Wyjrzyj ino wielmożny panie
+!!za ten nowy dwór,
+!!wybrałeś sobie tę przodownicę
+!!nad wybór.
+!!@VERSE:
+!!13. Nie żałujże jéj wielmożny panie
+!!talara,
+!!bo ci zboże z całego pola
+!!zgarniała.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/011dwok.pdf#page=168 @PL{Oskar Kolberg Dzieła Wszystkie 11: W. Ks. Poznańskie III, s. 150} @EN{Oskar Kolberg Complete Works 11: Grand Duchy of Poznań III, p. 150}
 !!!page: 150
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-27

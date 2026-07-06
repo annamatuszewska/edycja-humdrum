@@ -3,60 +3,71 @@
 !!!source: DWOK11
 !!!id: 11051
 !!!signature: 1105100000
-**kern
-*clefG2
-*k[]
-*a:
-*M2/4
-=1
-{8e
-8dd
-8b
-8dd
-=2
-8ee
-16ee
-16dd
-16b
-16cc
-16a
-16g#}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M2/4	*
+=1	=1
+{8e	Przede
+8dd	.
+8b	wroty
+8dd	.
+=2	=2
+8ee	biały
+16eeL	.
+16ddJ	.
+16bL	kamień
+16ccJ	.
+16aL	.
+16g#J}	.
 !!LO:LB:g=esac
-=3
-{8e
-8dd
-8b
-8dd
-=4
-8ee
-16ee
-16dd
-16b
-16cc
-16a
-16g#}
+=3	=3
+{8e	nasza
+8dd	.
+8b	pani
+8dd	.
+=4	=4
+8ee	siedzi
+16eeL	.
+16ddJ	.
+16bL	na
+16ccJ	.
+16aL	nim.
+16g#J}	.
 !!LO:LB:g=esac
-=5
-{8e
-8b
-8g#
-16e
-16g#
-=6
-2a}
+=5	=5
+{8e	My
+8b	niesiemy
+8g#	.
+16eL	.
+16g#J	.
+=6	=6
+2a}	plon
 !!LO:LB:g=esac
-=7
-{8e
-8b
-8g#
-16e
-16g#
-=8
-2a}
-==
-*-
+=7	=7
+{8e	naszej
+8b	.
+8g#	pani
+16eL	.
+16g#J	.
+=8	=8
+2a}	w_dom.
+==	==
+*-	*-
+!!!role-singer: Peasants
+!!!role-listener: Lady
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Przede wroty biały kamień
+!!nasza pani siedzi na nim.
+!!My niesiemy plon
+!!naszéj pani w dom.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/011dwok.pdf#page=171 @PL{Oskar Kolberg Dzieła Wszystkie 11: W. Ks. Poznańskie III, s. 153} @EN{Oskar Kolberg Complete Works 11: Grand Duchy of Poznań III, p. 153}
 !!!page: 153
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-27

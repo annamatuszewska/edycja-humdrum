@@ -3,72 +3,83 @@
 !!!source: DWOK11
 !!!id: 11053
 !!!signature: 1105300002
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{8e
-8e
-4g#
-4e
-=2
-8g#
-8b
-8dd
-8dd
-16ee
-16dd
-16cc
-16b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+{8e	Jak
+8e	się
+4g#	zetchnę
+4e	.
+=2	=2
+8g#	z_tą
+8b	dziewulą
+8dd	.
+8dd	.
+16eeL	biedną,
+16dd	.
+16cc	.
+16bJ/}	.
 !!LO:LB:g=esac
-=3
-{8a
-8cc
-4ee
-4ee
-=4
-16b
-16dd
-8ee
-8gg#
-8ff#
-8ee
-16cc
-16b}
+=3	=3
+{8a	uścisnę
+8cc	.
+4ee	.
+4ee	ją
+=4	=4
+16bL	rączką
+16ddJ/	.
+8ee	.
+8gg#	swoją
+8ff#	.
+8ee	jedną.
+16ccL	.
+16bJ/}	.
 !!LO:LB:g=esac
-=5
-{8a
-8e
-4g#
-4e
-=6
-8g#
-8b
-8dd
-8dd
-16ee
-16dd
-16cc
-16b}
+=5	=5
+{8a	Jak
+8e	nie
+4g#	będzie
+4e	.
+=6	=6
+8g#	pani
+8b	.
+8dd	matki
+8dd	.
+16eeL	doma,
+16dd	.
+16cc	.
+16bJ/}	.
 !!LO:LB:g=esac
-=7
-{8a
-8e
-4f
-4d
-=8
-8d
-8f
-8a
-8a
-8g#
-8e}
-==
-*-
+=7	=7
+{8a	uścisnę
+8e	.
+4f	.
+4d	ją
+=8	=8
+8d	obiema
+8f	.
+8a	.
+8a	rączkoma.
+8g#	.
+8e}	.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Jak się zetchnę z tą dziewulą biedną, uścisnę ją rączką swoją jedną.
+!!Jak nie będzie pani matki doma, uścisnę ją obiema rączkoma.
+!!Niema tu takiéj ani takowéj, żeby miała hej spódnik makowy.
+!!Spódnik makowy, biały brębek, dziewczę wywija jako wyrębek.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/011dwok.pdf#page=174 @PL{Oskar Kolberg Dzieła Wszystkie 11: W. Ks. Poznańskie III, s. 156} @EN{Oskar Kolberg Complete Works 11: Grand Duchy of Poznań III, p. 156}
 !!!page: 156
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-27
