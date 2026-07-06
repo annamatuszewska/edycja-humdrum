@@ -3,90 +3,157 @@
 !!!source: DWOK16
 !!!id: 16006
 !!!signature: 1600600000
-**kern
-*clefG2
-*k[]
-*a:
-*M2/4
-=1
-{8b
-8a
-4cc
-=2
-8b
-8g#
-4a
-=3
-8b
-8a
-4cc
-=4
-8b
-8g#
-4a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M2/4	*
+=1	=1
+{8bL	Hej,
+8aJ\	.
+4cc	hej,
+=2	=2
+8b	lelija
+8g#	.
+4a	.
+=3	=3
+8bL	Panna
+8aJ\	.
+4cc	.
+=4	=4
+8b	Maryja.
+8g#	.
+4a}	.
 !!LO:LB:g=esac
-=5
-{4cc
-8ee
-8ee
-=6
-8dd
-8cc
-4b
-=7
-4dd
-8ee
-8dd
-=8
-8cc
-8b
-4a}
+=5	=5
+{4cc	Hej
+8ee	poro-
+8ee	.
+=6	=6
+8ddL	-dziła
+8ccJ	.
+4b	.
+=7	=7
+4dd	Pana
+8ee	.
+8dd	Je-
+=8	=8
+8ccL	-zusa
+8bJ	.
+4a}	.
 !!LO:LB:g=esac
-=9
-{4cc
-8ee
-8ee
-=10
-8dd
-8cc
-4b
-=11
-8dd
-8dd
-8ee
-8dd
-=12
-8cc
-8b
-4a
-=13
-8b
-8a
-4cc
-=14
-8b
-8g#
-4a}
+=9	=9
+{4cc	Hej
+8ee	poro-
+8ee	.
+=10	=10
+8ddL	-dziła,
+8ccJ	.
+4b	.
+=11	=11
+8ddL	Pana
+8ddJ/	.
+8ee	.
+8dd	Je-
+=12	=12
+8ccL	-zusa,
+8bJ	.
+4a	.
+=13	=13
+8bL	Panna
+8aJ\	.
+4cc	.
+=14	=14
+8b	Maryja,
+8g#	.
+4a}	.
 !!LO:LB:g=esac
-=15
-{8b
-8a
-4cc
-=16
-8b
-8g#
-4a
-=17
-8b
-8a
-4cc
-=18
-8b
-8g#
-4a}
-==
-*-
+=15	=15
+{8bL	Panna
+8aJ\	.
+4cc	.
+=16	=16
+8b	Maryja.
+8g#	.
+4a	.
+==	==
+*-	*-
+!!!role-singer: Caroler/Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Hej hej, lelija — panna Maryja!
+!!Hej porodziła pana Jezusa
+!!panna Maryja.
+!!@VERSE:
+!!2. Hej hej, lelija — panna Maryja!
+!!Tam między dwoma bydlątkoma,
+!!tam leży słoma, barłożeczkoma,
+!!tam porodziła pana Jezusa
+!!panna Maryja.
+!!@VERSE:
+!!3. Hej, hej, lelija — panna Maryja!
+!!kaj go kąpała, pana Jezusa
+!!panna Maryja?
+!!@VERSE:
+!!4. Hej, hej, lelija — panna Maryja!
+!!tam między dwoma góreczkoma,
+!!tam bieży woda strużeczkoma,
+!!tam go kąpała, pana Jezusa
+!!panna Maryja.
+!!@VERSE:
+!!5. Hej, hej, lelija — panna Maryja!
+!!w co powijała pana Jezusa
+!!panna Maryja?
+!!@VERSE:
+!!6. Hej, hej, lelija — panna Maryja!
+!!w najśw. panny pogłowniczek,
+!!w święt. Józefa przypaśniczek,
+!!w to powijała pana Jezusa
+!!panna Maryja.
+!!@VERSE:
+!!7. Hej, hej lelija — panna Maryja!
+!!W czém kołysała pana Jezusa
+!!panna Maryja ?
+!!@VERSE:
+!!8. Hej, hej, lelija — panna Marya!
+!!tam między dwoma ołtarzykoma
+!!tam kolebeczka zawieszona —
+!!tam kołysała pana Jezusa
+!!panna Maryja.
+!!@VERSE:
+!!9. Hej, hej, lelija — panna Maryja!
+!!kto tam pojedzie, zakołyse śmiele
+!!sam się pan Jezus do niego rozśmieje,
+!!panna Marya.
+!!@VERSE:
+!!10. Hej, hej, lelija — panna Marya!
+!!same się kościoły pootwierały
+!!bo się pana Boga uradowały —
+!!panna Maryja.
+!!@VERSE:
+!!11. Hej, hej, lelija — panna Maryja!
+!!same i dzwonki pozadzwaniały,
+!!bo się pana Boga uradowały —
+!!panna Maryja.
+!!@VERSE:
+!!12. Hej, hej, lelija — panna Maryja!
+!!same się świéce pozapalały,
+!!bo się pana Boga uradowały —
+!!panna Maryja.
+!!@VERSE:
+!!13. Hej, hej, lelija — panna Maryja!
+!!sama się msza święta odprawiała,
+!!bo się pana Boga uradowała —
+!!panna Maryja.
+!!@VERSE:
+!!14. Hej, hej, lelija — panna Maryja!
+!!sama monstraucya występowała,
+!!bo się pana Boga uradowała —
+!!panna Marya.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=128 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 108} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 108}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-30

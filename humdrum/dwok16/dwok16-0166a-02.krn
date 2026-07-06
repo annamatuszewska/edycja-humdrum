@@ -2,76 +2,92 @@
 !!!OTL: Przeproś Marysiu swoją mateńkę
 !!!source: DWOK16
 !!!id: 16166a
-!!!signature: 1616600002
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{8a
-8b
-8ee
-=2
-8dd#
-4ee
-=3
-8ff#
-8ee
-8ee
-=4
-8dd#
-4ee}
+!!!signature: 161660002
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{8a\	Przeproś
+8b	.
+8ee	Marysiu
+=2	=2
+8dd#	.
+4ee	.
+=3	=3
+8ff#L	swoją
+8eeJ/	.
+8ee	mateńkę
+=4	=4
+8dd#	.
+4ee}	.
 !!LO:LB:g=esac
-=5
-{8ee
-8ee
-8ee
-=6
-16cc
-16b
-4a
-=7
-4.b
-=8
-8cc
-8a}
-8r
+=5	=5
+{8ff#q	.
+8eeL	jeśliś
+8eeJ/	.
+8ee	ją
+=6	=6
+16ccL	przegniewa-
+16bJ/	.
+4a	.
+=7	=7
+4.b	.
+=8	=8
+8ccL	-ła,
+8aJ}	.
+8r	.
 !!LO:LB:g=esac
-=9
-{8a
-8b
-8ee
-=10
-8dd#
-4ee
-=11
-8ff#
-8ee
-16dd#
-16ee
-=12
-16cc
-16b
-4a}
+=9	=9
+{8a\	jak
+8b	nieprzeprosisz,
+8ee	.
+=10	=10
+8dd#	.
+4ee	.
+=11	=11
+8ff#	jak
+8eeL	nieprzebłagasz,
+16dd#	.
+16eeJ/	.
+=12	=12
+16ccL	.
+16bJ	.
+4a}	.
 !!LO:LB:g=esac
-=13
-{8ee
-8b
-8ee
-=14
-16cc
-16a
-8.b
-16g#
-=15
-4.a
-=16
-4a}
-8r
-==
-*-
+=13	=13
+{8eeL	niebędziesz
+8b	.
+8eeJ/	.
+=14	=14
+16ccL	doli
+16aJ/	.
+8.bL	.
+16g#J/	.
+=15	=15
+4.a	miała.
+=16	=16
+4a}	.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Maiden
+!!!role-listener: Maiden, Mother
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Przeproś Marysiu swoją mateńkę jeśliś ją przegniewała,
+!!jak nieprzeprosisz, jak nieprzebłagasz, niebędziesz doli miała.
+!!Przeproszę ja cię moja mateńko jeślim cię przegniewała,
+!!oj może by ja od Pana Boga lepszą doliczkę miała.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: (w tenże sposób przeprasza: tateńkę, braciszka, siostrzyczkę).
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=208 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 188} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 188}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-30

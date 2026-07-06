@@ -3,74 +3,116 @@
 !!!source: DWOK16
 !!!id: 16239
 !!!signature: 1623900001
-**kern
-*clefG2
-*k[b-]
-*d:
-*M3/8
-=1
-{8a
-8a
-8ff
-=2
-8ee
-4dd
-=3
-8cc
-8a
-8cc
-=4
-8g
-4a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*d:	*
+*M3/8	*
+=1	=1
+{8a\	Poszła
+8a\	.
+8ff	Marysia
+=2	=2
+8ee	.
+4dd	.
+=3	=3
+8ccL	do
+8aJ	.
+8cc	o-
+=4	=4
+8g	-groda,
+4a}	.
 !!LO:LB:g=esac
-=5
-{8a
-8a
-8ff
-=6
-8ee
-4dd
-=7
-8cc
-8a
-8cc
-=8
-8g
-4a}
+=5	=5
+{8a\	poszła
+8a\	.
+8ff	Marysia
+=6	=6
+8ee	.
+4dd	.
+=7	=7
+8ccL	do
+8aJ	.
+8cc	o-
+=8	=8
+8g	-groda,
+4a}	.
 !!LO:LB:g=esac
-=9
-{8cc
-8cc
-8b-
-=10
-8a
-4g
-=11
-4cc
-8dd
-=12
-8dd
-8cc
-8a
-=13
-16g
-16a
-8b-
-8b-
-=14
-8a
-4g
-=15
-8cc
-8a
-8cc
-=16
-8g
-4a}
-==
-*-
+=9	=9
+{8cc	hej
+8cc	tam
+8b-	.
+=10	=10
+8a	sobie
+4g	.
+=11	=11
+(4cc	roz-
+8dd)	-my-
+=12	=12
+8dd	-ślała,
+8ccL	.
+8aJ	.
+=13	=13
+16gL	z_cego
+16aJ\	.
+8b-	.
+8b-	wia-
+=14	=14
+8a	-necek
+4g	.
+=15	=15
+8ccL	uwić
+8aJ	.
+8cc	.
+=16	=16
+8g	miała.
+4a}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Maiden, Group
+!!!role-listener: Garland
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Poszła Marysia do ogroda,
+!!ślicna, rumiana jak jagoda.
+!!Hej tam sobie rozmyślała,
+!!z cego wianecek uwić miała.
+!!@VERSE:
+!!2. A uwiła go z białej róży,
+!!boć ten wianecek długo służy.
+!!Hej od niedziele do niedziele,
+!!aż się jej zjadą przyjaciele.
+!!@VERSE:
+!!3. A jak się zjadą, cóż uradzą,
+!!za kogóż oni mnie wydadzą?
+!!Hej cy za chłopa poganina,
+!!hej cy za Jasia dworzanina.
+!!@VERSE:
+!!4. Hej za chłopa ją trzeba wydać,
+!!nie będzie óna chleba żądać.
+!!A na dworaku żółte buty,
+!!ej leciusieńkie do roboty.
+!!@VERSE:
+!!5. Hej za chłopem się będzie nosić,
+!!nie będzie ona chleba prosić.
+!!A na dworaku zupan jasny (krasny)
+!!ej do roboty-ć on przyciasny.
+!!@VERSE:
+!!6. Hej mój wianecku z barwinecku,
+!!powieszę ja cię na kołecku;
+!!powieszę ja cię w nowej sieni,
+!!żeby cię pręcej ch(ł)opcy wzięni.
+!!@VERSE:
+!!7. Hej mój wianecku z drobnej lelii.
+!!kole ciebie się parobcy bili.
+!!Ej bili, bili, już nie będą,
+!!poszed wianecek z bystrą wodą.
+!!@@END: VERSES
 !!!ONB: Kolberg podaje błędnie metrum 3/4
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=227 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 207} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 207}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-30

@@ -3,59 +3,72 @@
 !!!source: DWOK16
 !!!id: 16225
 !!!signature: 1622500000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8g
-8b
-8dd
-=2
-8dd
-4a
-=3
-8cc#
-4dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8g\	Trzybią
+8b	.
+8dd	swa-
+=2	=2
+8dd	-tkowie,
+4a\	.
+=3	=3
+8cc#	trzébią,
+4dd}	.
 !!LO:LB:g=esac
-=4
-{8dd
-8b
-8dd
-=5
-8dd
-4a
-=6
-8b
-4g}
+=4	=4
+{8eeq	.
+8dd	zjedli
+8b	.
+8dd	sied-
+=5	=5
+8dd	-mioro
+4a\	.
+=6	=6
+8b	źrébiąt.
+4g}	.
 !!LO:LB:g=esac
-=7
-{16g
-16g
-8b
-8dd
-=8
-8dd
-4a
-=9
-8cc#
-4dd}
+=7	=7
+{16gL	Ósmą
+16gJ	.
+8b	.
+8dd	ko-
+=8	=8
+8dd	-byłę
+4a\	.
+=9	=9
+8cc#	zjedli,
+4dd}	.
 !!LO:LB:g=esac
-=10
-{16dd
-16dd
-8b
-8dd
-=11
-8dd
-4a
-=12
-8b
-4g}
-==
-*-
+=10	=10
+{8eeq	.
+16ddL	jesce
+16ddJ/	.
+8b	się
+8dd	nie
+=11	=11
+8dd	na-
+4a\	.
+=12	=12
+8b	-jedli.
+4g}	.
+==	==
+*-	*-
+!!!role-singer: Bridesmaids
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Trzybią swatkowie, trzébią,
+!!zjedli siedmioro źrébiąt.
+!!Ósmą kobyłę zjedli,
+!!jesce się nie najedli.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=225 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 205} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 205}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-30

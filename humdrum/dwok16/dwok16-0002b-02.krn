@@ -3,74 +3,87 @@
 !!!source: DWOK16
 !!!id: 16002b
 !!!signature: 1600200002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{2dd
-4cc#
-=2
-2dd
-4a
-=3
-4b
-4a
-4g
-=4
-4a
-2d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{2dd	Messyjasz
+4cc#	.
+=2	=2
+2dd	przyszedł
+4a	.
+=3	=3
+4b	na
+4a	świat
+4g	prawdziwy,
+=4	=4
+4a	.
+2d}	.
 !!LO:LB:g=esac
-=5
-{2dd
-4cc#
-=6
-2dd
-4a
-=7
-4b
-4a
-4g
-=8
-4a
-2d}
+=5	=5
+{2dd	Prorok
+4cc#	.
+=6	=6
+2dd	zacny
+4a	.
+=7	=7
+4b	z_wielkiemi
+4a	.
+4g	.
+=8	=8
+4a	dziwy,
+2d}	.
 !!LO:LB:g=esac
-=9
-{4a
-4f#
-4d
-=10
-4g
-4b
-4g}
+=9	=9
+{4a	który
+4f#	.
+4d	przez
+=10	=10
+4g	swole
+4b	znaki
+4g}	.
 !!LO:LB:g=esac
-=11
-{4a
-4f#
-4d
-=12
-4g
-4b
-4g}
+=11	=11
+{8a	dał
+8a	.
+4f#	wodzie
+4d	.
+=12	=12
+8gL	wione
+8gJ	.
+4b	smaki
+4g}	.
 !!LO:LB:g=esac
-=13
-{8g
-8b
-2dd
-=14
-16cc
-16b
-16a
-16g
-4.dd
-8f#
-=15
-2g}
-4r
-==
-*-
+=13	=13
+{8gL	.
+8bJ\	.
+2dd	w_Kanie
+=14	=14
+16ccL	.
+16bJ	.
+16aL	.
+16gJ	.
+(4.dd	Galilej-
+8f#)	.
+=15	=15
+2g}	.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Caroler
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Messyjasz przyszedł na świat prawdziwy,
+!!Prorok zacny z wielkiemi dziwy,
+!!który przez swole znaki
+!!dał wodzie wione smaki
+!!w Kanie Galilejskiej.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=126 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 106} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 106}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-30

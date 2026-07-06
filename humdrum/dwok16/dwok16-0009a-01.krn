@@ -3,55 +3,87 @@
 !!!source: DWOK16
 !!!id: 16009a
 !!!signature: 1600900001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8g
-8b
-4b
-8a
-8b
-=2
-8cc
-8dd
-8cc
-8b
-4a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8g	Co
+8b	się
+4b	świeci
+8a	.
+8b	.
+=2	=2
+8cc	w_nowej
+8dd	.
+8cc	sieni.
+8b	.
+4a\}	.
 !!LO:LB:g=esac
-=3
-{8f#
-8a
-4g
-8a
-8b
-=4
-8a
-16a
-16f#
-4g
-4g}
+=3	=3
+{8f#\	(Pana)
+8a\	gospodarza
+4g\	.
+8aL	.
+8bJ\	.
+=4	=4
+8a\	koń
+16aL	siodłany,
+16f#J	.
+4g	.
+4g}	.
 !!LO:LB:g=esac
-=5
-{16f#
-16a
-16a
-16f#
-4g
-8a
-8b
-=6
-16b
-16a
-16a
-16f#
-4g
-4g}
-==
-*-
+=5	=5
+{16f#L	(Pana)
+16aJ	.
+16aL	gospodarza
+16f#J	.
+4g	.
+8aL	.
+8bJ\	.
+=6	=6
+16bL	koń
+16aJ/	.
+16aL	siodłany.
+16f#J	.
+4g	.
+4g}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Pigs
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Co się świeci w nowej sieni.
+!!(Pana) gospodarza koń osiodłany,
+!!@VERSE:
+!!2. Siodłają go, ubierają,
+!!na wojenkę wysyłają.
+!!@VERSE:
+!!3. I wyjechał w szczere pole,
+!!i objechał żytko swoje.
+!!@VERSE:
+!!4. I napotkał dzikie świnie,
+!!one ryją tam pod jedliną.
+!!@VERSE:
+!!5. I wyryły złota bryły:
+!!a gdzież to złoto podziejemy?
+!!@VERSE:
+!!6. Do złotnika je zaniesiemy,
+!!złoty kielich ulejemy.
+!!@VERSE:
+!!7. Złoty kielich, srebrną czarę,
+!!Panu Jezusowi na ofiarę.
+!!@VERSE:
+!!8. Kto tym kielichem pijać będzie?
+!!Sam pan Jezus po kolędzie.
+!!@VERSE:
+!!9. Sam pan Jezus z j-aniołami,
+!!i najświętsza Panna z święciczkami.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=129 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 109} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 109}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-30

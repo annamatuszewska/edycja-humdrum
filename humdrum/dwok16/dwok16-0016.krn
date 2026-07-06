@@ -3,61 +3,111 @@
 !!!source: DWOK16
 !!!id: 16016
 !!!signature: 1601600000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{4b
-8b
-8dd
-=2
-4b
-4a
-=3
-4dd
-4cc#
-=4
-4.dd
-16a
-16g
-=5
-4dd
-4cc
-=6
-4.b
-16a
-16g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{4b	Dożynaj
+8b	.
+8dd	.
+=2	=2
+8ccq	.
+4b	żytka,
+4a\	.
+=3	=3
+4dd	doży-
+4cc#	.
+=4	=4
+4.dd^^	-naj,
+(16aL	.
+16gJ)	.
+=5	=5
+4dd	do-
+4ccn	-ży-
+=6	=6
+4.b^^	-naj,
+(16aL	.
+16gJ)}	.
 !!LO:LB:g=esac
-=7
-{8b
-8a
-8b
-8dd
-=8
-4b
-8a
-8g
-=9
-4dd
-8cc#
-8a
-=10
-4.dd
-16a
-16g
-=11
-4dd
-8cc
-8a
-=12
-4.b
-16a
-16g}
-==
-*-
+=7	=7
+{8bL	dożynaj
+8aJ	.
+8b	.
+8dd	.
+=8	=8
+8ccq	.
+4b	żytka,
+8aL	.
+8gJ	.
+=9	=9
+4dd	doży-
+8cc#L	.
+8aJ/	.
+=10	=10
+4.dd^^	-naj,
+(16aL	.
+16gJ)	.
+=11	=11
+4dd	do-
+8ccnL	-ży-
+8aJ/	.
+=12	=12
+4.b^^	-naj
+(16aL	.
+16gJ)}	.
+==	==
+*-	*-
+!!!role-singer: Peasants, Narrator
+!!!role-listener: Lord
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Dożynaj żytka, dożynaj,
+!!Pana Jezusa wspominaj.
+!!@VERSE:
+!!2. Dożęła ci go dziéweczka,
+!!do jasnego słoneczka.
+!!@VERSE:
+!!3. Dożął-ci go młodzieniec,
+!!okrąglusieńko na wieniec.
+!!@VERSE:
+!!4. O takeśmy się krężeli,
+!!ażeśmy żyteńka dożęli.
+!!@VERSE:
+!!5. A lata, lata przepiórka,
+!!a idzie pszeniczka z za pólka.
+!!@VERSE:
+!!6. A lata, lata sokole,
+!!a idzie pszeniczka w zapole.
+!!@VERSE:
+!!7. A gdzie się ptaszek podzieje,
+!!kiej się pszeniczka nie chwieje.
+!!@VERSE:
+!!8. Poleciał by on w ciemny las,
+!!gdyby (żeby) go deszczyk nie znalaz.
+!!@VERSE:
+!!9. A nasz paneńko dobry był,
+!!wyrznął żyteńko, nas nie bił.
+!!@VERSE:
+!!10. A nasz paneńko dozorca,
+!!wyrznął żyteńko do słońca.
+!!@VERSE:
+!!11. A pan ze Siedlisk leniwy,
+!!stoi żyteńka dwie niwy.
+!!@VERSE:
+!!12. U naszego pana kopy liczą,
+!!a u Siedliskiego świnie kwiczą.
+!!@VERSE:
+!!13. My panu wianek na kołek,
+!!a nam pan wódki na stołek.
+!!@VERSE:
+!!14. Nie chowaj się panie przed nami,
+!!bo my cię widzim oknami.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=147 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 127} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 127}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-30

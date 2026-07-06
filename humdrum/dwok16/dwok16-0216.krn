@@ -3,61 +3,77 @@
 !!!source: DWOK16
 !!!id: 16216
 !!!signature: 1621600000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8cc
-4b
-=2
-8a
-4cc
-=3
-8b
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8cc	Won
+4b	swatkowie
+=2	=2
+8a\	.
+4cc	.
+=3	=3
+(8b	won,
+4g)}	.
 !!LO:LB:g=esac
-=4
-{8cc
-8b
-8a
-=5
-4g
-8g
-=6
-8f#
-8d}
-8r
+=4	=4
+{8cc	bo
+8bL	już
+8aJ\	.
+=5	=5
+4g	czas
+8aq	.
+8g	do
+=6	=6
+8f#L	dom,
+8dJ}	.
+8r	.
 !!LO:LB:g=esac
-=7
-{8d
-8f#
-8g
-=8
-8a
-4b
-=9
-4.cc
-=10
-8b
-4g}
+=7	=7
+{8d	tam
+8f#	obiad
+8g	.
+=8	=8
+8a\	złado-
+4b	.
+=9	=9
+4.cc	-wa-
+=10	=10
+(8b/	-li,
+4g)}	.
 !!LO:LB:g=esac
-=11
-{4.a
-=12
-8b
-8f#
-8g
-=13
-4a
-8f#
-=14
-4g}
-8r
-==
-*-
+=11	=11
+{4.a	już
+=12	=12
+8b	po
+8f#	nas
+8g	przy-
+=13	=13
+(4a	-sła-
+8f#)	.
+=14	=14
+4g}	-li.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!!role-listener: Matchmakers
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Won swatkowie won,
+!!bo już czas do dom,
+!!tam obiad zładowali,
+!!już po nas przysłali.
+!!Matula wygląda,
+!!łzami sie zaliwa,
+!!swoich lubych gości
+!!w domu się spodziéwa.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=223 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 203} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 203}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-30

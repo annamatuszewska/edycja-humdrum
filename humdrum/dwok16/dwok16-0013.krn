@@ -3,53 +3,102 @@
 !!!source: DWOK16
 !!!id: 16013
 !!!signature: 1601300000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{4b
-8b
-8cc
-=2
-4b
-4a
-=3
-4dd
-4ee
-=4
-4.dd
-8g
-=5
-4dd
-4cc
-=6
-2b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+!!LO:TX:a:t=Allo non troppo.
+{4b	A
+8b	nasz
+8cc	pa-
+=2	=2
+4b	-neńko
+4a\	.
+=3	=3
+4dd	dobry
+4ee	.
+=4	=4
+(4.dd	był
+8g\)	.
+=5	=5
+4dd	dobry
+4cc	.
+=6	=6
+2b}	był,
 !!LO:LB:g=esac
-=7
-{8b
-8b
-8b
-8cc
-=8
-4b
-4a
-=9
-4dd
-4ee
-=10
-4.dd
-8b
-=11
-4dd
-8cc
-8a
-=12
-2b}
-==
-*-
+=7	=7
+{8bL	a
+8bJ/	.
+8b	nasz
+8cc	pa-
+=8	=8
+4b	-neńko
+4a\	.
+=9	=9
+4dd	dobry
+4ee	.
+=10	=10
+(4.dd	był
+8b/)	.
+=11	=11
+4dd	dobry
+8ccL	.
+8aJ/	.
+=12	=12
+2b}	był
+==	==
+*-	*-
+!!!role-singer: Peasants
+!!!role-listener: Lady, Lord
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. A nasz paneńko dobry był
+!!zebrał pszeniczkę, nas nie bił.
+!!@VERSE:
+!!2. A pan sąsiedni leniwy,
+!!stoi pszeniczki dwie niwy.
+!!@VERSE:
+!!3. A panu rządcy sto kópek,
+!!a włódarzowi dziesiątek.
+!!@VERSE:
+!!4. A gumiennemu powrósło,
+!!a bo mu broda obrosła.
+!!@VERSE:
+!!5. Stoij gumienny na słupie,
+!!wierci tabakę w skorupie.
+!!@VERSE:
+!!6. A włódarz stoij w kłopocie,
+!!zawiesił batóg na płocie.
+!!@VERSE:
+!!7. A nasz ekonom jak osa
+!!wyrżnął pszeniczkę (co) do kłosa.
+!!@VERSE:
+!!8. Otwórzcie nam złoty dwór,
+!!niesiemy z pola wszystek zbiór.
+!!@VERSE:
+!!9. Przede dworem wielka burza,
+!!nasza pani kieby róża.
+!!@VERSE:
+!!10. Przede dworem wielkie błoto,
+!!nasza pani kieby złoto.
+!!@VERSE:
+!!11. Chodzi nasz paneńko po sieni,
+!!brzęka talarami w kieszeni.
+!!@VERSE:
+!!12. A zarżnijcie nam dwie gąski,
+!!bośmy se potłukli paluszki.
+!!@VERSE:
+!!13. A zarznijcie nam barana.
+!!bośmy se potłukli kolana.
+!!@VERSE:
+!!14. A zarznijcie nam indyka,
+!!niech nam zagra muzyka.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=145 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 125} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 125}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-30

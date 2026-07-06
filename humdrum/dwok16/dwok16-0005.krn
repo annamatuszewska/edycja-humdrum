@@ -3,75 +3,103 @@
 !!!source: DWOK16
 !!!id: 16005
 !!!signature: 1600500000
-**kern
-*clefG2
-*k[]
-*a:
-*M2/4
-=1
-{8ee
-8dd
-8ee
-8ff
-=2
-4ee
-8cc
-8a
-=3
-8cc
-8ee
-8dd
-8b
-=4
-2a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M2/4	*
+=1	=1
+{8ee	Tam
+8dd	na
+8ee	Ukra-
+8ff	.
+=2	=2
+4ee	-inie
+8ccL	.
+8aJ	.
+=3	=3
+8cc	w_gęstej
+8ee	.
+8dd	krzewinie,
+8b	.
+=4	=4
+2a}	.
 !!LO:LB:g=esac
-=5
-{8ee
-8dd
-8ee
-8ff
-=6
-4ee
-8cc
-8a
-=7
-8cc
-8ee
-8dd
-8b
-=8
-2a}
+=5	=5
+{8ee	paśliśmy
+8dd	.
+8ee	.
+8ff	o-
+=6	=6
+4ee	-wieczki
+8ccL	.
+8aJ	.
+=7	=7
+8cc	w_niskiej
+8ee	.
+8dd	dolinie.
+8b	.
+=8	=8
+2a}	.
 !!LO:LB:g=esac
-=9
-{8b
-8dd
-8cc
-8a
-=10
-8cc
-8ee
-8dd
-8ee
-=11
-8b
-8dd
-8cc
-8a
-=12
-8cc
-8ee
-8dd
-8ee}
+=9	=9
+{8b	Aż
+8dd	tam
+8cc	prędko
+8a\	.
+=10	=10
+8cc	aniołowie
+8ee	.
+8dd	.
+8ee	.
+=11	=11
+8b	krzyczą
+8dd	.
+8cc	bieżąc
+8a\	.
+=12	=12
+8cc	pastuszkowie:
+8ee	.
+8dd	.
+8ee}	.
 !!LO:LB:g=esac
-=13
-{4b
-8cc
-8b
-=14
-2a}
-==
-*-
+=13	=13
+{4b	do
+8cc	Betlejem.
+8b	.
+=14	=14
+2a}	.
+==	==
+*-	*-
+!!!role-singer: Shepherds
+!!!role-listener: Hostess
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Tam na Ukrainie w gęstej krzewinie,
+!!paśliśmy owieczki w niskiej dolinie.
+!!Aż tam prędko aniołowie
+!!krzyczą bieżąc pastuszkowie:
+!!do Betlejem.
+!!strofa 13: Michał się wymawia, że: ja nie mogę,
+!!zleciałem ja z dachu, złamałem nogę
+!!A nasz Franek – wlazł we dzbanek,
+!!a Jan chudy – skrył się w dudy,
+!!oj skrył się, skrył.
+!!Strofa 14: Kiedy Cię odchodzim, pociecho nasza,
+!!przyjm-że te ochfiary, idąc do lasa.
+!!Kuba daje swe ofiary,
+!!przyjm to Boże, co kto może,
+!!utajony.
+!!15: U pani gospodyni, są w koszu sery,
+!!a dajcież nam, dajcie, choćby ze cztery,
+!!Da z tych czterech, choćby jeden,
+!!da zjemy go, choćby z chlebem,
+!!i pójdziemy.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=127 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 107} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 107}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-30

@@ -3,75 +3,109 @@
 !!!source: DWOK16
 !!!id: 16003a
 !!!signature: 1600300001
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16f
-16a
-8cc
-8cc
-=2
-4cc
-8dd
-=3
-8b-
-8b-
-8g
-=4
-8b-
-4a}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16f\	Tam
+16a\	.
+8cc	przy
+8cc	dolinie,
+=2	=2
+4cc	.
+8dd	.
+=3	=3
+8b-	w_gestej
+8b-	.
+8g	krzewinie
+=4	=4
+8b-	.
+4a}	.
 !!LO:LB:g=esac
-=5
-{16f
-16a
-8cc
-8cc
-=6
-4cc
-8dd
-=7
-8b-
-8b-
-8g
-=8
-8b-
-4a}
+=5	=5
+{16fL	paśliśmy
+16aJ	.
+8cc	.
+8cc	o-
+=6	=6
+4cc	-wieczki
+8dd	.
+=7	=7
+8b-	w_cudzej
+8b-	.
+8g	krainie.
+=8	=8
+8b-	.
+4a}	.
 !!LO:LB:g=esac
-=9
-{16f
-16a
-8e
-8g
-=10
-16f
-16a
-8e
-8g}
+=9	=9
+{16f	A
+16a	my
+8e	z_prędka
+8g	.
+=10	=10
+16f	aniołowie,
+16a	.
+8e	.
+8g}	.
 !!LO:LB:g=esac
-=11
-{16f
-16a
-8cc
-8cc
-=12
-16b-
-16b-
-8dd
-8dd}
+=11	=11
+{16f	krzyczą
+16a	.
+8cc	w_mieście
+8cc	.
+=12	=12
+16b-	pastuszkowie,
+16b-	.
+8dd	.
+8dd}	.
 !!LO:LB:g=esac
-=13
-{16cc
-16cc
-8b-
-8g
-=14
-4.a}
-==
-*-
+=13	=13
+{16cc	do
+16cc	Betle-
+4b-	.
+=14	=14
+4.a}	-jem.
+==	==
+*-	*-
+!!!role-singer: Shepherds
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Tam przy dolinie, w gestej krzewinie
+!!paśliśmy owieczki w cudzej krainie.
+!!A my z prędka aniołowie,
+!!krzyczą w mieście pastuszkowie,
+!!do Betlejem.
+!!Zwrotka 4. Mała dziecina tańcuje z nami,
+!!wzięła się pod boczki: łup, cup, nóżkami.
+!!No Kuba, no Michale,
+!!no Walesku, no Iwanie,
+!!no dudki, no.
+!!@VERSE:
+!!5. Małej się dziecinie spaty zachciało,
+!!wskazuje na dudki: żeby przestało.
+!!Idź Kuba, idź Michale,
+!!idż Walesku, idź Iwanie,
+!!do swej trzody.
+!!zwrotka 8. Ja piekarz chleba upiekę tobie.
+!!ja kuśniérz kożuch uszyję tobie.
+!!Ja powroźnik powróz ukręcę tobie,
+!!ja cieśla krzyżyk wyrąbię tobie.
+!!Ja kowal gwoździ tobie ukuję,
+!!na ręce, nogi, Jezu, podaruję.
+!!@VERSE:
+!!9. Maryja słucha, uważa sobie,
+!!mówi do Jezusa: zda się to tobie.
+!!I to ci się, Synu przyda,
+!!gdy cię Judasz żydom wyda
+!!na męki srogie.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=126 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 106} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 106}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-30

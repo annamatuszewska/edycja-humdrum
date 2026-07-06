@@ -3,79 +3,102 @@
 !!!source: DWOK16
 !!!id: 16010
 !!!signature: 1601000000
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{4cc
-4dd
-=2
-2ee}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+=1	=1
+{4cc	Hej
+4dd	nam
+=2	=2
+2ee}	hej!
 !!LO:LB:g=esac
-=3
-{8cc
-8ee
-8ee
-8ee
-=4
-8ee
-8ee
-8ee
-8ee
-=5
-8dd
-8dd
-8dd
-8dd
-=6
-8dd
-8dd
-8b
-8g}
+=3	=3
+{8cc	Poszed
+8ee	.
+8ee	Maciek
+8ee	.
+=4	=4
+8ee	po
+8ee	kolędzie,
+8ee	.
+8ee	.
+=5	=5
+8dd	zasiad
+8dd	.
+8dd	sobie
+8dd	.
+=6	=6
+8dd	z_wójtem
+8eeq	.
+8dd	.
+8b	w_rzędzie,
+8g}	.
 !!LO:LB:g=esac
-=7
-{4a
-4b
-=8
-2cc}
+=7	=7
+{4a\	hej
+4b	nam
+=8	=8
+2cc}	hej!
 !!LO:LB:g=esac
-=9
-{4cc
-4dd
-=10
-2ee}
+=9	=9
+{4cc	Hej
+4dd	nam
+=10	=10
+2ee}	hej!
 !!LO:LB:g=esac
-=11
-{8cc
-8ee
-8ee
-8ee
-=12
-8ee
-8gg
-8ff
-8ee
-=13
-8dd
-8dd
-8dd
-8dd
-=14
-8dd
-8dd
-8b
-8g}
+=11	=11
+{8cc	Poszed
+8ee	.
+8ee	Maciek
+8ee	.
+=12	=12
+8eeL	po
+8ggJ/	kolędzie,
+8ffL	.
+8eeJ/	.
+=13	=13
+8dd	zasiad
+8dd	.
+8dd	sobie
+8dd	.
+=14	=14
+8dd	z_wójtem
+8eeq	.
+8dd	.
+8b	w_rzędzie,
+8g}	.
 !!LO:LB:g=esac
-=15
-{4a
-4b
-=16
-2cc}
-==
-*-
+=15	=15
+{4a\	hej
+4b	nam
+=16	=16
+2cc}	hej!
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!!role-listener: Husband, Wife
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Hej nam hej! Poszed(ł) Maciek po kolędzie,
+!!zasiad(ł) sobie z wójtem w rzędzie, — hej nam hej!
+!!@VERSE:
+!!2. Hej nam hej! A Maćkowa poszła po wsi,
+!!wyjedli jej zapaskę psi, — hej nam hej!
+!!@VERSE:
+!!3. Hej nam hej! Maciek gada o kożuchu,
+!!a Maćkowa o fartuchu, — hej nam hej!
+!!@VERSE:
+!!4. Hej nam hej! A ty Maćku, nie bądź taki,
+!!Są na górze w beczce kłaki, — hej nam hej!
+!!@VERSE:
+!!5. Hej nam hej! Ty Maćkowa nie bądź taka,
+!!są konopie, będzie płachta, — hej nam h ej!
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=130 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 110} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 110}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-30

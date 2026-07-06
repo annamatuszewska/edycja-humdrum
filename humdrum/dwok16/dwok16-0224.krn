@@ -3,47 +3,61 @@
 !!!source: DWOK16
 !!!id: 16224
 !!!signature: 1622400000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{4dd
-8dd
-8ee
-=2
-8cc
-8b
-4dd
-=3
-8cc
-8b
-16b
-16g
-8f#
-=4
-4g}
-4r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{4dd/	Cóż
+8ddL	się
+8eeJ/	po
+=2	=2
+8ccL	sieni
+8bJ	.
+4dd	.
+=3	=3
+8ccL	grumo-
+8bJ	.
+16bL	.
+16g	-li?
+8f#J	.
+=4	=4
+4g}	Drużebka
+4r	.
 !!LO:LB:g=esac
-=5
-{4b
-8b
-8dd
-=6
-8cc
-8b
-4dd
-=7
-8cc
-8b
-4b
-=8
-4g}
-4r
-==
-*-
+=5	=5
+{4b	.
+8b	gości
+8dd	.
+=6	=6
+8ccL	sa-
+8bJ	-do-
+4dd	.
+=7	=7
+8ccL	.
+8bJ	.
+4b	.
+=8	=8
+4g}	wi.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Cóż się po sieni grumoli?
+!!Drużebka gości sadowi.
+!!@VERSE:
+!!2. Hej rzędem ich sadowcie,
+!!hej rzędem że ich posadźcie.
+!!@VERSE:
+!!3. Moją matulę kole mnie,
+!!moją ródzoną kole mnie.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=225 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 205} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 205}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-06-30
