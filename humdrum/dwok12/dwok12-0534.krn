@@ -3,92 +3,108 @@
 !!!source: DWOK12
 !!!id: 12534
 !!!signature: 1253400000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16a
-16cc
-8ee
-8ee
-=2
-16.ff
-32ee
-8dd
-16cc
-16b
-=3
-16a
-16cc
-4a
-=4
-16A
-16c
-4A}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{16a\	Wołki
+16cc	.
+8ee	moje
+8ee	.
+=2	=2
+16.ff	wołki
+32ee	.
+8dd	mo-
+16ccL	-je
+16bJ	.
+=3	=3
+16a\	za
+16cc	lasem.
+4a\	.
+=4	=4
+!!LO:TX:a:t=Echo na piszczałce.
+(16AL	.
+16cJ)	.
+4A}	.
 !!LO:LB:g=esac
-=5
-{16a
-16cc
-8ee
-8ee
-=6
-16.ff
-32ee
-8dd
-16cc
-16b
-=7
-16a
-16cc
-4a
-=8
-16A
-16c
-4A}
+=5	=5
+{16a\	A
+16cc	mam
+8ee	ci
+8ee	ja
+=6	=6
+16.ff	fuja-
+32ee	.
+8dd	-reczkę
+16ccL	.
+16bJ	.
+=7	=7
+16a\	za
+16cc	pasem.
+4a\	.
+=8	=8
+!!LO:TX:a:t=Echo na piszczałce.
+(16AL	.
+16cJ)	.
+4A}	.
 !!LO:LB:g=esac
-=9
-{16e
-16g#
-8b
-8b
-=10
-16a
-16cc
-8.ee
-16cc
-=11
-16dd
-16cc
-4a
-=12
-16d
-16c
-4A}
+=9	=9
+{16e	A
+16g#	jak
+8b	ci
+8b	ja
+=10	=10
+16a\	na
+16cc	fujar-
+8.ee	.
+16b	-ce
+=11	=11
+16dd	zagraję,
+16cc	.
+4a\	.
+=12	=12
+!!LO:TX:a:t=Echo.
+16dL	.
+16cJ	.
+4A}	.
 !!LO:LB:g=esac
-=13
-{16e
-16g#
-8b
-8b
-=14
-16a
-16cc
-8.ee
-16cc
-=15
-16dd
-16cc
-4a
-=16
-16d
-16c
-4A}
-==
-*-
+=13	=13
+{16e	u-
+16g#	-sły-
+8b	-szy
+8b	mnie
+=14	=14
+16a\	moje
+16cc	.
+8.ee	dziewczę
+16b	.
+=15	=15
+16dd	o
+16cc	staje.
+4a\	.
+=16	=16
+!!LO:TX:a:t=Echo.
+16dL	.
+16cJ	.
+4A}	.
+==	==
+*-	*-
+!!!role-singer: Shepherd
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Wołki moje wołki moje za lasem.
+!!A mam ci ja fujareczkę za pasem.
+!!A jak ci ja na fujarce zagraję,
+!!usłyszy mnie moje dziewcze o staje.
+!!@@END: VERSES
+!!!ONB@texture: Only voice or instrument is playing at a time
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=292 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 276} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 276}
 !!!page: 276
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

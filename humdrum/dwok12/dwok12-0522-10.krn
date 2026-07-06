@@ -3,61 +3,101 @@
 !!!source: DWOK12
 !!!id: 12522
 !!!signature: 1252200010
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16a
-8b
-8cc
-=2
-16dd
-16dd
-8ee
-8dd
-=3
-16dd
-16dd
-8ee
-8dd
-=4
-16gg
-16gg
-8ff#
-8ee
-=5
-16dd
-16dd
-8ee
-8dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	A
+16a	skądżeś
+8b	.
+8cc	ty
+=2	=2
+16dd	chłopie
+16dd	.
+8ee	chamie?
+8dd	.
+=3	=3
+16dd	chłopie
+16dd	.
+8ee	chamie?
+8dd	.
+=4	=4
+16gg	Z_Ciemierzewa
+16gg	.
+8ff#	.
+8ee	.
+=5	=5
+16dd	mości
+16dd	.
+8ee	panie.
+8dd}	.
 !!LO:LB:g=esac
-=6
-{16cc
-16b
-8b
-8a
-=7
-16a
-16g
-8b
-8dd
-=8
-16cc
-16b
-8b
-8a
-=9
-16f#
-16g
-8a
-8g}
-==
-*-
+=6	=6
+{16cc	A
+16b	wiesz
+8b	ty
+8a	tam
+=7	=7
+16a	te
+16g	Tomi-
+8b	.
+8dd	-ce?
+=8	=8
+16cc	Są
+16b	tam
+8b	nasze
+8a	.
+=9	=9
+16f#	oko-
+16g	.
+8a	-lice.
+8g}	.
+==	==
+*-	*-
+!!!role-singer: Nobleman, Peasant
+!!!role-listener: Peasant, Nobleman
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. A skądżeś ty chłopie chamie?
+!!Z Ciemierzewa mości panie.
+!!A wiesz ty tam te Tomice?
+!!Są tam nasze okolice.
+!!@VERSE:
+!!3. A znasz ty ta s Tomic pana?
+!!— Któżby go nie znał da dana!
+!!@VERSE:
+!!4. Ma-ć ta córeczkę i synka,
+!!jest ta z ni łebska dziewczynka.
+!!@VERSE:
+!!5. Ale mi tyż wacpan powiedz,
+!!żeli wacpan z Jakóbowic?
+!!@VERSE:
+!!6. Bo ja słyszoł z dala trocha,
+!!że ją waspon djable kocha.
+!!@VERSE:
+!!7. A skąd to wiesz te nowiny?
+!!— W karczmie godały dziewczyny.
+!!@VERSE:
+!!8. Ale ja waspanu życzę,
+!!porzucić tę niewdzięcznicę,
+!!i odtąd więcy na świecie,
+!!nie wierzyć żadny kobiecie.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Odmiana: Zkądeś chłopie w téj sukmanie?
+Z Ciemierzewa, mości panie.
+Znałeś chłopie z Tomic pana?
+Co miał surdut pod kolana.
+Przedtém się tam sługiwało,
+to znam ja rodzinę całą.
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=286 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 270-271} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 270-271}
 !!!page: 270-271
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

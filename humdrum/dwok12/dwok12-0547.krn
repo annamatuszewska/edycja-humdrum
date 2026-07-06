@@ -3,57 +3,69 @@
 !!!source: DWOK12
 !!!id: 12547
 !!!signature: 1254700000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16a
-16cc
-8b
-8g
-=2
-16b
-16cc
-8.ee
-16dd
-=3
-8ff
-16ee
-16cc
-8dd
-=4
-16b
-16g
-8a
-8f}
+**kern	**text
+*clefG2	*
+*k[]	*
+*G:	*
+*M3/8	*
+=1	=1
+!!LO:TX:a:t=Owczarek.
+{16a\	A
+16cc	wy
+8b	moje
+8g\	.
+=2	=2
+16b	szare
+16cc	.
+8.ee	oczki
+16dd	.
+=3	=3
+8ff	pądźcie
+16eeL	owiecz-
+16ccJ	.
+8dd	.
+=4	=4
+16b	-ki
+16g	na
+8a	pole.
+8f}	.
 !!LO:LB:g=esac
-=5
-{16a
-16a
-8cc
-8dd
-=6
-16ff
-16aa
-8.gg
-16dd
-=7
-16ff
-16ff
-16ee
-16cc
-8dd
-=8
-16b
-16g
-8a
-8f}
-==
-*-
+=5	=5
+{16aL	A
+16aJ	wy
+8ccL	moje
+8ddJ/	.
+=6	=6
+16ffL	szare
+16aaJ/	.
+8.ggL	oczki
+16ddJ/	.
+=7	=7
+16ffL	pądźcie
+16ffJ/	.
+16eeL	owiecz-
+16ccJ	.
+8dd	.
+=8	=8
+16b	-ki
+16g	na
+8a	pole.
+8f}	.
+==	==
+*-	*-
+!!!role-singer: Shepherd
+!!!role-listener: Eyes
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!A wy moje szare oczki
+!!pądźcie owieczki na pole.
+!!Najedzą się, napiją się
+!!za góreczką na dole.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=297 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 281} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 281}
 !!!page: 281
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

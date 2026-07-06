@@ -3,82 +3,93 @@
 !!!source: DWOK12
 !!!id: 12512
 !!!signature: 1251200000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8g
-8a
-8b
-8cc
-=2
-4dd
-4b
-=3
-4dd
-4b
-=4
-8dd
-8dd
-8ee
-8ee
-=5
-2dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8g	Pojedzie-
+8a	.
+8b	.
+8cc	-my
+=2	=2
+4dd	na
+4b	łów
+=3	=3
+4dd	na
+4b	łów
+=4	=4
+8dd	towa-
+8dd	.
+8ee	-rzyszu
+8ee	.
+=5	=5
+2dd}	mój,
 !!LO:LB:g=esac
-=6
-{4b
-4g
-=7
-8a
-8f#
-4d
-=8
-8g
-8a
-8b
-8cc
-=9
-8a
-8f#
-4d
-=10
-8g
-8g
-8a
-8a
-=11
-2g}
+=6	=6
+{4b	na
+4g	łów,
+=7	=7
+8a	na
+8f#	łowy,
+4d	.
+=8	=8
+8g	do
+8a	zie-
+8b	-lonéj
+8cc	.
+=9	=9
+8a	dąbrowy,
+8f#	.
+4d	.
+=10	=10
+8g	towarzy-
+8g	.
+8a	.
+8a	-szu
+=11	=11
+2g}	mój!
 !!LO:LB:g=esac
-=12
-{8b
-8a
-4g
-=13
-8a
-8f#
-4d
-=14
-8g
-8a
-8b
-8cc
-=15
-8a
-8f#
-4d
-=16
-8g
-8g
-8a
-8a
-=17
-2g}
-==
-*-
+=12	=12
+{8bL	na
+8aJ	.
+4g	łów,
+=13	=13
+8a	na
+8f#	łowy,
+4d	.
+=14	=14
+8g	do
+8a	zie-
+8b	-lonéj
+8cc	.
+=15	=15
+8a	dąbrowy,
+8f#	.
+4d	.
+=16	=16
+8g	towarzy-
+8g	.
+8a	.
+8a	-szu
+=17	=17
+2g}	mój!
+==	==
+*-	*-
+!!!role-singer: Hunter
+!!!role-listener: Companion
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Pojedziemy na łów towarzyszu mój,
+!!na łów, na łowy, do zielonéj dąbrowy,
+!!towarzyszu mój!
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=282 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 266} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 266}
 !!!page: 266
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

@@ -3,65 +3,85 @@
 !!!source: DWOK12
 !!!id: 12506
 !!!signature: 1250600000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8g
-8b
-8dd
-8dd
-4cc
-=2
-8ee
-8ee
-8ff
-8dd
-4cc
-=3
-8dd
-8ff
-8ee
-8cc
-4dd
-=4
-8b
-8b
-8cc
-8a
-4g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8g\	Śliczna
+8b	.
+8dd^	panienka
+8dd	.
+4cc^	.
+=2	=2
+8ee	miła
+8ee	.
+8ff^	mi
+8dd	była,
+4cc^	.
+=3	=3
+8dd	po-
+8ff	-szła
+8ee	na
+8cc	spacer
+4dd^	.
+=4	=4
+8b	słowem
+8b	.
+8cc	zasnęła
+8a	.
+4g^>}	.
 !!LO:LB:g=esac
-=5
-{8g
-8b
-8dd
-8dd
-4cc
-=6
-8ee
-8ee
-8ff
-8dd
-4cc
-=7
-16dd
-16ee
-8ff
-8ee
-8cc
-4dd
-=8
-8a
-8a
-8g
-8b
-4cc}
-==
-*-
+=5	=5
+{8gL	A
+8bJ	żołnierz
+8dd^	.
+8dd	na
+4cc^	tém
+=6	=6
+8ee	nic
+8ee	nie
+8ff^	szkodował,
+8dd	.
+4cc^	.
+=7	=7
+16ddL	gdzie
+16ee	.
+8ffJ/	ją
+8ee	natrafił
+8cc	.
+4dd^	.
+=8	=8
+8a	tam
+8a	ją
+8g	cało-
+8b	.
+4cc}	-wał.
+==	==
+*-	*-
+!!!RDF**kern: > = above
+!!!role-singer: Bachelor, Narrator, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Śliczna panienka miła mi była,
+!!poszła na spacer słowem zasnęła.
+!!@VERSE:
+!!2. A żołnierz na tém nic nie szkodował,
+!!gdzie ją natrafił tam ją całował.
+!!@VERSE:
+!!3. Ani ja panna, ani ja wdowa;
+!!już mi minęła latek połowa.
+!!@VERSE:
+!!4. Już mi minęło dwadzieścia latek,
+!!muszę się wpisać w rzędy mężatek.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=278 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 262} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 262}
 !!!page: 262
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

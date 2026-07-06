@@ -3,70 +3,92 @@
 !!!source: DWOK12
 !!!id: 12520
 !!!signature: 1252000000
-**kern
-*clefG2
-*k[]
-*C:
-*M4/4
-=1
-{4gg
-4gg
-4.gg
-8ff
-=2
-8ee
-8gg
-8ee
-8cc
-4dd
-4cc
-=3
-8gg
-8gg
-8gg
-8gg
-4.gg
-8ff
-=4
-8ee
-8gg
-8ee
-8cc
-4dd
-4gg}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M4/4	*
+=1	=1
+{4gg	Jakżem
+4gg	.
+4.gg	jechał
+8ff	.
+=2	=2
+8ee	z_Kacza
+8gg	.
+8ee	do
+8cc	Kościana
+4dd	.
+4cc	.
+=3	=3
+8ggL	wstąpiłem
+8ggJ/	.
+8ggL	.
+8ggJ/	w_oberżę,
+4.gg	.
+8ff	.
+=4	=4
+8ee	siedzi
+8gg	.
+8ee	szlachta
+8cc	.
+4dd	sama,
+4gg/}	.
 !!LO:LB:g=esac
-=5
-{8ff
-8ee
-8cc
-8dd
-4b
-4g
-=6
-8a
-8cc
-8b
-8dd
-4g
-4g
-=7
-8ff
-8ee
-8cc
-8dd
-4b
-4g
-=8
-8a
-8cc
-8b
-8dd
-4g
-4cc}
-==
-*-
+=5	=5
+{8ff	Kazałem
+8ee	.
+8cc	.
+8dd	dać
+4b	wódki
+4g	.
+=6	=6
+8a\	dobréj
+8cc	.
+8b	goździko-
+8dd	.
+4g\	.
+4g\	-wéj.
+=7	=7
+8ff	a
+8ee	ta
+8cc	bidna
+8dd	.
+4b	szlachta
+4g	.
+=8	=8
+8a\	ze
+8cc	mną
+8b	do
+8dd	rozmo-
+4g	.
+4cc/}	-wy.
+==	==
+*-	*-
+!!!role-singer: Peasant, Nobility
+!!!role-listener: Nobility
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Jakżem jechał z Kacza do Kościana
+!!wstąpiłem w oberżę, siedzi szlachta sama.
+!!Kazałem dać wódki dobréj goździkowéj,
+!!a ta bidna szlachta ze mną do rozmowy.
+!!@VERSE:
+!!2. Poczekaj ty chłopku, w tobie harda dusza,
+!!a ja piję dobrą wódkę, ty tylko kornusa.
+!!Poczekaj ty chłopku, będziesz ci ty miętki,
+!!ino znów na zaciąg każą ci na piętki.
+!!@VERSE:
+!!3. A wy pankowie na symne (sejmie) pomrzecie,
+!!ni-li-żeli wy mi zaciąg nakażecie.
+!!Pomarli ci starzy, pomrą i ci młodzi,
+!!zaciągu mojego nie doczekacie radzi.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=286 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 270} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 270}
 !!!page: 270
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

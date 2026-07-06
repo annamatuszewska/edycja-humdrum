@@ -3,39 +3,78 @@
 !!!source: DWOK12
 !!!id: 12503
 !!!signature: 1250300001
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M6/8
-=1
-{8f
-8b-
-8a
-4b-
-8cc
-=2
-8dd
-8cc
-8dd
-4b-
-8f
-=3
-8cc
-8cc
-8f
-4cc
-8dd
-=4
-8ee-
-8cc
-8a
-4b-
-8b-}
-==
-*-
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M6/8	*
+=1	=1
+{8f	Na
+8b-	naszém
+8a\	.
+4b-	polu
+8cc	.
+=2	=2
+8dd	piękny
+8cc	.
+8dd	przysiewek,
+4b-	.
+8f\	.
+=3	=3
+8cc	natra-
+8cc	.
+8f\	-fił
+4cc	dwa
+8dd	łoża
+=4	=4
+8ee-	u
+8cc	strojnych
+8a\	.
+4b-	dziewek.
+8b-}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Na naszém polu piękny przysiewek,
+!!natrafił dwa łoża u strojnych dziewek.
+!!@VERSE:
+!!2. Jedna kochanka miła mi była,
+!!poszła na spacer, sama usnęła.
+!!@VERSE:
+!!3. I on ją znalaz, nic nie szkodował,
+!!gdzie ją napotkał, tam ucałował.
+!!@VERSE:
+!!4. O i skorno-ć ja żołnierza zoczę,
+!!dusza mi zadrży, serce mi skocze.
+!!@VERSE:
+!!5. Boć to żołnierze nie jedny matki,
+!!jak się ubiorą, są gdyby kwiatki.
+!!@VERSE:
+!!6. Jak piękna róża kwitnie w ogrodzie,
+!!tak piękny żołnierz staje w paradzie.
+!!@VERSE:
+!!7. Gdzie masierują, tam się dziwują,
+!!i jeszce bardzi gdzie nie wstępują.
+!!@VERSE:
+!!8. Gdzie popasają, tam dokurczają,
+!!tam biedni ludzie wielki strach mają.
+!!@VERSE:
+!!9. Oj i gdzie żołnierz trzy dni zabawi,
+!!nie jednę pannę, panią zostawi.
+!!@VERSE:
+!!10.Honor i (jéj) weźmie, cnotę i straci;
+!!żołnierz odjedzie, któż i zapłaci?
+!!@VERSE:
+!!11. Ni z nim do księdza, ni do starszego,
+!!nigdzie nie dojdzie prawa na niego!
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=277 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 261} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 261}
 !!!page: 261
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

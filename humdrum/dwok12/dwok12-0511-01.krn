@@ -3,70 +3,119 @@
 !!!source: DWOK12
 !!!id: 12511
 !!!signature: 1251100001
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M4/4
-=1
-{8f
-8b-
-8b-
-8b-
-4.dd
-8b-
-=2
-8a
-8cc
-8cc
-8cc
-4ee-
-4dd
-=3
-8f
-8b-
-8b-
-8b-
-4.dd
-8b-
-=4
-8a
-8cc
-8cc
-8ee-
-8ee-
-8dd
-4dd}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M4/4	*
+*met(c)	*
+=1	=1
+{8f	Cały
+8b-	.
+8b-	dzień
+8b-	myśliwy
+4.dd	.
+8b-	.
+=2	=2
+8a\	po
+8cc	polu
+8cc	.
+8cc	polu-
+4ee-	.
+4dd	-je,
+=3	=3
+8f	skoro
+8b-	.
+8b-	nic
+8b-	nie
+4.dd	znalaz
+8b-	.
+=4	=4
+8a\	mocno
+8cc	.
+8ccL	się
+8ee-J/	frasu-
+8ee-L	.
+8ddJ/	.
+4dd}	-je.
 !!LO:LB:g=esac
-=5
-{4b-
-4dd
-2ff
-=6
-8dd
-8ff
-8ee-
-8dd
-4cc
-4r
-=7
-8f
-8a
-8cc
-8ee-
-4.gg
-8ff
-=8
-8ee-
-8cc
-8cc
-8a
-4b-}
-4r
-==
-*-
+=5	=5
+{4b-	Co
+4dd	to
+2ff	jest?
+=6	=6
+8ddL	Rzecze,
+8ffJ	.
+8ee-L	o
+8ddJ	Boże!
+4cc	.
+4r	.
+=7	=7
+8f	że
+8a	ja
+8cc	bez
+8ee-	zwierzyny,
+4.gg	.
+8ff	.
+=8	=8
+8ee-	być
+8cc	to
+8cc	nie
+8a\	mo-
+4b-}	-że.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Cały dzień myśliwy po polu poluje,
+!!skoro nic nie znalaz mocno się frasuje.
+!!Co to jest? Rzecze, o Boże!
+!!że ja bez zwierzyny, być to nie może.
+!!@VERSE:
+!!2. Krzyknie na psy gończe: latajcie, szukajcie,
+!!skoro co znajdziecie, zaraz oddawajcie.
+!!Z ochotą pieski latają,
+!!i tam na podlesiu nadskakiwają.
+!!@VERSE:
+!!3. Rzuca się myśliwy na przemyślne strony,
+!!i tam na podlesiu zakołowrocony
+!!ucieka zajączek młody,
+!!szukający miejsca dla swéj wygody.
+!!@VERSE:
+!!4. Bierze dubeltówkę, celuje do niego,
+!!już też tam niepewien zając życia swego.
+!!Paf, paf, paf, pada na ziemię —
+!!i z nami tak przyjdzie, ani się zwiemy
+!!(ani się dowiemy kiedy).
+!!@VERSE:
+!!5. Wrócił się myśliwy na tę przeszłą stronę,
+!!leży na murawie dziewczę uśpione.
+!!Nie budzi, żałuje,
+!!aby nie obudzić to obserwuje.
+!!@VERSE:
+!!6. Dziękuję wam pieski, żeście natrafiły,
+!!warujcie kamyszki, byście nie błądziły.
+!!Do woli was posforuję,
+!!aż się z tém zwierzęciem ukontentuję.
+!!@VERSE:
+!!7. Łagodnie jéj mówił: nie wierzaj w gusła,
+!!a tylko mi pozwól (po)całować usta.
+!!Idź zdrajca, nie mów mi o to,
+!!bo ja zachowała dotychczas cnotę.
+!!@VERSE:
+!!8. A o co ci chodzi? — co po innych chodzi,
+!!a mnie myśliwemu wygodzić się godzi.
+!!Idż zdrajca, powiem każdemu,
+!!żeś ty jest przyczyńca smutkowi memu.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=281 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 265} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 265}
 !!!page: 265
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

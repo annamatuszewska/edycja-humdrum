@@ -3,88 +3,167 @@
 !!!source: DWOK12
 !!!id: 12498
 !!!signature: 1249800000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16a
-16b
-8cc
-8cc
-=2
-16cc
-16ee
-8gg
-8ee
-=3
-16dd
-16b
-8g
-8g
-=4
-8cc
-4a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{16a\	Na
+16b	zielonym
+8cc	.
+8cc	.
+=2	=2
+16ccL	ga-
+16eeJ	.
+(8ggL	-ju
+8eeJ)	.
+=3	=3
+16dd	Ptaszkowie
+16b	.
+8g	.
+8g	śpie-
+=4	=4
+8cc	-wają.
+4a\}	.
 !!LO:LB:g=esac
-=5
-{16a
-16b
-8cc
-8cc
-=6
-8cc
-4b
-=7
-16dd
-16b
-8g
-8g
-=8
-8cc
-4a}
+=5	=5
+{16a	jużci
+16b/	.
+8cc	mego
+8cc	.
+=6	=6
+8cc	Jasia
+4b	.
+=7	=7
+16dd	na
+16b	wojnę
+8g	.
+8g	wo-
+=8	=8
+8bq	.
+8ccM	-łają.
+4a}	.
 !!LO:LB:g=esac
-=9
-{16a
-16b
-8cc
-8cc
-=10
-16cc
-16ee
-8gg
-8ee
-=11
-16dd
-16b
-8g
-8g
-=12
-16cc
-16b
-8a
-8a}
+=9	=9
+{16a\	Na
+16b	zielonym
+8cc	.
+8cc	.
+=10	=10
+16ccL	ga-
+16eeJ	.
+(8ggL	-ju
+8eeJ)	.
+=11	=11
+16dd	Ptaszkowie
+16b	.
+8g	.
+8g	śpie-
+=12	=12
+16ccL	-wają.
+16bmJ/	.
+8aL	.
+8aJ}	.
 !!LO:LB:g=esac
-=13
-{16a
-16b
-8cc
-8cc
-=14
-8cc
-4ee
-=15
-16dd
-16b
-8g
-8g
-=16
-8cc
-4a}
-==
-*-
+=13	=13
+{16a	jużci
+16b/	.
+8cc	mego
+8cc	.
+=14	=14
+8cc/	Jasia
+4ee/	.
+=15	=15
+16dd	na
+16b	wojnę
+8g	.
+8g	wo-
+=16	=16
+8bq	.
+8ccM	-łają.
+4a}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Maiden, Bachelor
+!!!role-listener: Bachelor, Maiden
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Na zielonym gaju
+!!ptaszkowie śpiewają.
+!!jużci mego Jasia
+!!na wojnę wołają.
+!!@VERSE:
+!!2. Siadaj Jasiu, siadaj,
+!!konik osiodłany;
+!!komu mnie ostawisz,
+!!Jasieńku kochany?
+!!@VERSE:
+!!3. Zostawię cię Temu
+!!co świeci na niebie,
+!!za roczek za drugi
+!!powrócę do ciebie.
+!!@VERSE:
+!!4. Nie wyszło-ć to roczku,
+!!już się wojsko toczy;
+!!nie słychać, nie widać
+!!Jasieńka na oczy.
+!!@VERSE:
+!!5. Wyszła nade drójżkę,
+!!ke wojsko jechało;
+!!pyta się, pyta się
+!!gdzie Jasia podziało?
+!!@VERSE:
+!!6. Żołmierze, żołmierze,
+!!widzieliście mego?
+!!Widzielim, widzielim,
+!!ale nieżywego.
+!!@VERSE:
+!!7. Leży-ć on ta, leży
+!!na śląskiéj granicy,
+!!a zabili-ć go tam
+!!starsi wojownicy.
+!!@VERSE:
+!!8. Nie płacz Kasiu, nie płacz
+!!Jasia zabitego,
+!!wybiéraj-że sobie
+!!z tysiąca jednego.
+!!@VERSE:
+!!9. Choćbym wybierała,
+!!ze sztérech tysięcy,
+!!nima i nie będzie
+!!mego Jasia więcy.
+!!@VERSE:
+!!10. Żebym wybierała
+!!ze samego złota,
+!!niéma i nie będzie
+!!jako moja cnota.
+!!@VERSE:
+!!11. Choćbym wybierała
+!!i z wiertela maku,
+!!nima i nie będzie
+!!mego Jasia znaku.
+!!@VERSE:
+!!12. Wyjrzę ku Morakowu,
+!!serce my truchleje,
+!!wyjrzę ku Czeszewu,
+!!dziwa nie omgleję.
+!!@VERSE:
+!!13. Nie płaczcie dziewczątka,
+!!wrócą się chłopczątka.
+!!Po skończonéj wojnie,
+!!każda swego pojmie.
+!!@VERSE:
+!!14. Wojna się skończyła,
+!!chłopcy nie wrócili,
+!!bodaj tego króla
+!!kulami zabili.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=274 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 258} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 258}
 !!!page: 258
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

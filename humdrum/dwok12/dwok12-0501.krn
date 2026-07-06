@@ -3,85 +3,111 @@
 !!!source: DWOK12
 !!!id: 12501
 !!!signature: 1250100000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M2/4
-=1
-{8cc
-8b-
-8a
-8b-
-=2
-4cc
-4ff
-=3
-2cc
-=4
-8cc
-8b-
-8a
-8b-
-=5
-4cc
-4a
-=6
-2f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M2/4	*
+=1	=1
+{8cc	Nasz
+8b-	Kozielski
+8a\	.
+8b-	.
+=2	=2
+4cc	kapi-
+4ff	.
+=3	=3
+2cc	-tan,
+=4	=4
+8cc	jest
+8b-	to
+8a\	bardzo
+8b-	.
+=5	=5
+4cc	wielki
+4a	.
+=6	=6
+2f}	pan,
 !!LO:LB:g=esac
-=7
-{4.a
-8b-
-=8
-4cc
-4dd
-=9
-4.g
-8a
-=10
-8b-
-8a
-8b-
-8dd
-=11
-8cc
-8b-
-8a
-8g
-=12
-4f
-4e
-=13
-2f}
+=7	=7
+{4.a	miałam
+8b-	.
+=8	=8
+4cc	ci
+4dd	ja
+=9	=9
+4.g	szwarne-
+8a	.
+=10	=10
+8b-	-go
+8a\	kochanka,
+8b-	.
+8dd	.
+=11	=11
+8cc	on
+8b-	mi
+8a	go
+8g	na
+=12	=12
+4f	wojnę
+4e	.
+=13	=13
+2f;}	wziąn,
 !!LO:LB:g=esac
-=14
-{4.a
-8b-
-=15
-4cc
-4dd
-=16
-4.g
-8a
-=17
-8b-
-8a
-8b-
-8dd
-=18
-8cc
-8b-
-8a
-8g
-=19
-4f
-4e
-=20
-2f}
-==
-*-
+=14	=14
+{4.a	miałam
+8b-	.
+=15	=15
+4cc	ci
+4dd	ja
+=16	=16
+4.g	szwarne-
+8a	.
+=17	=17
+8b-L	-go
+8aJ	kochanka,
+8b-L	.
+8ddJ/	.
+=18	=18
+8cc	on
+8b-	mi
+8a	go
+8g	na
+=19	=19
+4f	wojnę
+4e	.
+=20	=20
+2f;}	wziąn.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Nasz Kozielski kapitan,
+!!jest to bardzo wielki pan,
+!!miałam ci ja szwarnego kochanka,
+!!on mi go na wojnę wziąn.
+!!@VERSE:
+!!2. Żebym ja to wiedziała,
+!!że mu trzeba doktora,
+!!wszystkie léki z tej haptéki
+!!zarabym mu posłała.
+!!@VERSE:
+!!3. Nie potrzeba haptéki,
+!!jéno pięknéj muzyki;
+!!żal się Boże, mocny Boże!
+!!jéno ziémi, rydla, motyki.
+!!@VERSE:
+!!4. Co macie dać haptéce,
+!!lepiéj dejcie muzyce;
+!!to mu będą ładnie pięknie grali,
+!!jak go będą chowali.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=276 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 260} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 260}
 !!!page: 260
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

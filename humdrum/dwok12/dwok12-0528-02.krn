@@ -3,67 +3,112 @@
 !!!source: DWOK12
 !!!id: 12528
 !!!signature: 1252800002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16b
-8dd
-8gg
-=2
-8ee
-4cc
-=3
-16g
-16b
-8dd
-8b
-=4
-8a
-4d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+!!LO:TX:a:t=Pieśń więźnia.
+{16g	Gdzie
+16b	ja
+8dd	jadę,
+8gg	.
+=2	=2
+8ee	to_ja
+4cc	jadę,
+=3	=3
+16g\	to
+16b	nie
+8dd	wi-
+8ccq	.
+8b	-dzę
+=4	=4
+8a\	mojéj!
+4d}	.
 !!LO:LB:g=esac
-=5
-{16g
-16b
-8dd
-8gg
-=6
-16ee
-16ee
-8cc
-8a
-=7
-16b
-16b
-8dd
-8b
-=8
-8a
-4d}
+=5	=5
+{16g	Gdzie
+16b	ja
+8dd	jadę,
+8gg	.
+=6	=6
+16eeL	to
+16eeJ/	ja
+8ccL	jadę,
+8aJ/	.
+=7	=7
+16bL	to
+16bJ/	nie
+8dd	wi-
+8ccq	.
+8b	-dzę
+=8	=8
+8a\	mojéj!
+4d}	.
 !!LO:LB:g=esac
-=9
-{16g
-16b
-8b
-8dd
-=10
-4cc
-8f#
-=11
-16g
-16b
-8b
-8b
-=12
-8a
-4d}
-==
-*-
+=9	=9
+{16gL	ona
+16bJ	.
+8b	w_tym
+8dd	from-
+=10	=10
+4cc	-feście
+8f#	.
+=11	=11
+16gL	w_okieneczku
+16bJ	.
+8b	.
+8b	.
+=12	=12
+8a\	stoji.
+4d}	.
+==	==
+*-	*-
+!!!role-singer: Prisoner
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Gdzie ja jadę, to ja jadę,
+!!to nie widzę mojéj!
+!!a (w)óna w tym fromfeście
+!!w okieneczku stoji.
+!!@VERSE:
+!!2. A tam w tym fromfeście
+!!są wszelkie wygody;
+!!na dzień traktamentu
+!!ćwierć fónta i wody.
+!!@VERSE:
+!!3. Pościółkę mi dano
+!!ze snopeczka siána,
+!!mówiła mi matka:
+!!statkuj, córko moja!
+!!(statkuj, dziecko, statkuj!)
+!!@VERSE:
+!!4. Nie słuchałam matki,
+!!ni perswady brata,
+!!teráz muszę wieźbić
+!!swoje młode lata.
+!!@VERSE:
+!!5. Dozórca mię bije,
+!!i(n)szpekter rachuje;
+!!dérekter sie śmieje,
+!!aż mu się łeb chwieje.
+!!@VERSE:
+!!6. Chwieje mu się, chwieje,
+!!aż mu głowa zwisła:
+!!po coś szelmo, małpo,
+!!po trzeci raz przyszła!
+!!@VERSE:
+!!7. Będę ja wiedziała,
+!!jak wolność szanować;
+!!bogatemu ukraść,
+!!bidnemu darować.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=289 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 273} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 273}
 !!!page: 273
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

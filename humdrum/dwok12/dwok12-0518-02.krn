@@ -3,79 +3,137 @@
 !!!source: DWOK12
 !!!id: 12518
 !!!signature: 1251800002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{4dd
-4dd
-8dd
-8ee
-=2
-8cc
-8a
-4cc
-4ee
-=3
-4dd
-4dd
-8dd
-8ee
-=4
-8cc
-8a
-4a
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+!!LO:TX:a:t=Kujawiak.
+{4dd	Jak'em
+4dd	.
+8dd	jechał
+8ee	.
+=2	=2
+8cc	od
+8a\	Rawicza,
+4cc	.
+4ee	.
+=3	=3
+4dd	kupi-
+4dd	.
+8ddL	-łem
+8eeJ/	se
+=4	=4
+8cc	łokieć
+8a\	.
+4a\	bicza,
+4g}	.
 !!LO:LB:g=esac
-=5
-{4b
-4b
-8b
-8b
-=6
-8b
-8b
-4cc
-4a
-=7
-4b
-4b
-8b
-8dd
-=8
-8a
-8a
-4a
-4g}
+=5	=5
+{4b	tagem
+4b	.
+8b	trzaskał,
+8b	.
+=6	=6
+8b	takem
+8b	.
+4cc	pukał
+4a\	.
+=7	=7
+4b	tagem
+4b	.
+8b	sobie
+8dd	.
+=8	=8
+8a	panny
+8a	.
+4a	szukał,
+4g}	.
 !!LO:LB:g=esac
-=9
-{4b
-8b
-8b
-8cc
-8a
-=10
-4b
-8b
-8b
-8cc
-8a
-=11
-8b
-8b
-4b
-4dd
-=12
-8a
-8a
-4a
-4g}
-==
-*-
+=9	=9
+{4b	oj
+8b	tana
+8b	.
+8cc	dana,
+8a\	.
+=10	=10
+4b	oj
+8b	tana
+8b	.
+8cc	dana,
+8a\	.
+=11	=11
+8b	oj
+8b	ta
+4b	dana,
+4dd	.
+=12	=12
+8aL	ta
+8aJ	.
+4a	dana.
+4g}	.
+==	==
+*-	*-
+!!!role-singer: John, Group
+!!!role-listener: John
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Jak'em jechał od Rawicza,
+!!kupiłem se łokieć bicza,
+!!tagem trzaskał, takem pukał
+!!tagem sobie panny szukał,
+!!oj tana dana,
+!!oj tana dana,
+!!oj ta dana, ta dana.
+!!@VERSE:
+!!2. Jag'em jachał do Krakowa,
+!!kupić sukna wał, da i wał,
+!!cztéry łokcie za złotówkę,
+!!jakiego by chciał, da i chciał.
+!!Oj tana dana i t. d.
+!!@VERSE:
+!!3. Jag'em jachał i z Krakowa,
+!!krawczyki siedzą, da siedzą,
+!!jedno jaje, we dwóch kraje,
+!!a czterech jedzą, da jedzą.
+!!Oj tana i t. d.
+!!@VERSE:
+!!4. O wy mieli (mili) krawczykowie,
+!!uszyjcie mi to odzinie,
+!!ani krójtsze, ani dłujższe,
+!!ino łokiet(ć) za kolana.
+!!Oj tana i t. d.
+!!@VERSE:
+!!5. Jag'em poszed do kościoła,
+!!w nowém odziéniu, odzieniu:
+!!ludzie oczy wytrzészczają,
+!!skąd'eń młodziéniu, młodziéniu?
+!!Oj tana i t. d.
+!!@VERSE:
+!!6. Jag'em poszed do gościéńca
+!!wdałem się w tony da w tony, (tany)
+!!ludzie szeptać poczynają:
+!!trzebno mu żony, da żony.
+!!Oj tana i t. d.
+!!@VERSE:
+!!7. Ożeń się ty miły Jasiu,
+!!doczekasz się małych dziatek;
+!!pojąm (pojmij) sobie młojnarczonkę,
+!!ładny kwiotek, ładny kwiotek.
+!!Oj tana i t. d.
+!!@VERSE:
+!!8. Jag'em służył u Kaszuby,
+!!najad'em się kaszy gruby,
+!!i ze szwedami (szperką) kaszę'm jadał,
+!!i z panami się nagadał.
+!!Oj tana i t. d.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=284 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 268-269} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 268-269}
 !!!page: 268-269
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

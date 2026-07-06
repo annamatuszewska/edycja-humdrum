@@ -3,49 +3,101 @@
 !!!source: DWOK12
 !!!id: 12513
 !!!signature: 1251300000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16g
-8g
-8b
-=2
-16dd
-16ee
-8dd
-8dd
-=3
-16dd
-16gg
-8dd
-8dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+!!LO:TX:a:t=Na drobną szlachtę, mazurska.
+{16g	Jechał
+16g	.
+8g	Kuba
+8b	.
+=2	=2
+16dd	do
+16ee	Warsęgi,
+8dd	.
+8dd	.
+=3	=3
+16dd	do
+16gg	Warsęgi
+8dd	.
+8dd}	.
 !!LO:LB:g=esac
-=4
-{16a
-16a
-8a
-8b
-=5
-4g
-8b
-=6
-4.dd
-=7
-16a
-16a
-8a
-8b
-=8
-4g}
-8r
-==
-*-
+=4	=4
+{16a	na
+16a	welekcy-
+8a	.
+8b/	.
+=5	=5
+4g	-ją
+8b	ho
+=6	=6
+4.dd	ha,
+=7	=7
+16a	na
+16a	welekcy-
+8a	.
+8b/	.
+=8	=8
+4g}	-ją.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Nobleman
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Jechał Kuba do Warsęgi, do Warsęgi
+!!na welekcyją,
+!!nająn(ł) sobie na przedmieściu
+!!w karczmie stancyją.
+!!@VERSE:
+!!2. Pocęli-ć go przyjaciele
+!!na piwsko prosić,
+!!a ón im jąn (jął) famuliją
+!!w górę wynosić.
+!!@VERSE:
+!!3. Dziaduś mój był senatorem
+!!miał siwą brodę;
+!!a tatuś byl wojewodą,
+!!bo woził wodę.
+!!@VERSE:
+!!4. Stryjo byli wielgim panem
+!!i wyświeconym,
+!!bo nosywał papierecki
+!!za wyj-uconym.
+!!@VERSE:
+!!5. Starszy brat był chorążym
+!!nad kompaniją,
+!!bo nosywał chorągiewkę
+!!za processyją.
+!!@VERSE:
+!!6. Młodszego téż i braciska,
+!!Bóg scęściem darzył,
+!!bo dobrze, nie ladajako
+!!dla psów zréć warzył.
+!!@VERSE:
+!!7. Starsza siostra wielka pani
+!!chodziła w szubie,
+!!u naszego dobrodzieja
+!!była w poślubie.
+!!@VERSE:
+!!8. Przestał Kuba — wsyscy capką
+!!od arendarza;
+!!boć go mieli za lepsego,
+!!za kołtuniarza.
+!!@VERSE:
+!!9. Potém pili do północka,
+!!pili do rana;
+!!bo miał Kuba rychle zjechać
+!!na króla Jana.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=282 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 266} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 266}
 !!!page: 266
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

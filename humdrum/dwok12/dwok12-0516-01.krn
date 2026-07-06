@@ -3,88 +3,126 @@
 !!!source: DWOK12
 !!!id: 12516
 !!!signature: 1251600001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8a
-8cc
-8ee
-=2
-4dd
-8b
-=3
-16cc
-16b
-8a
-8dd
-=4
-4g}
-8r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8a\	A
+8bq	.
+8cc	jestem
+8ee	.
+=2	=2
+4dd	ci
+8b	ja
+=3	=3
+16cc	Mazur
+16b	.
+8a\	boga-
+8dd	.
+=4	=4
+4g}	-ty,
+8r	.
 !!LO:LB:g=esac
-=5
-{8a
-8cc
-8ee
-=6
-4dd
-8b
-=7
-16cc
-16b
-8a
-8dd
-=8
-4g}
-8r
+=5	=5
+{8a\	bły-
+8bq	.
+8cc	-szczą
+8ee	się
+=6	=6
+4dd	na
+8b	mnie
+=7	=7
+16cc	prześliczne
+16b	.
+8a\	.
+8dd	sza-
+=8	=8
+4g}	ty;
+8r	.
 !!LO:LB:g=esac
-=9
-{16cc
-16b
-8a
-8cc
-=10
-16cc
-16b
-8a
-8ee
-=11
-16cc
-16b
-16a
-16cc
-16dd
-16f#
-=12
-16g
-16a
-8b
-8dd}
+=9	=9
+{16cc	koszulecz-
+16b	.
+8a\	.
+8cc	-ka
+=10	=10
+16cc	dreliszko-
+16b	.
+8a\	.
+8ee	-wa
+=11	=11
+16cc	taka
+16b	.
+16aL	ni-
+16ccJ	.
+!LO:TX:t=P:problem=mixed beam	!
+16ddL\	-by
+16f#J/	.
+=12	=12
+16g	baty-
+16a	.
+8b	-stowa,
+8dd}	.
 !!LO:LB:g=esac
-=13
-{16cc
-16b
-8a
-8cc
-=14
-16cc
-16b
-8a
-8ee
-=15
-16cc
-16b
-8a
-8dd
-=16
-4g}
-8r
-==
-*-
+=13	=13
+{16cc	dratwami
+16b	.
+8a\	.
+8cc	szy-
+=14	=14
+8ddq	.
+16cc	-ta,
+16b	jedy-
+8a\	.
+8ee	-na,
+=15	=15
+16cc	dratwami
+16b	.
+8a	.
+8dd	szy-
+=16	=16
+4g}	-ta.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Man from Masuria
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. A jestem ja Mazur bogaty,
+!!błyszczą się na mnie prześliczne szaty;
+!!Koszuleczka dreliszkowa
+!!taka niby batystowa,
+!!dratwami szyta, jedyna,
+!!dratwami szyta.
+!!@VERSE:
+!!2. Miałem i żupan, ten był od święta,
+!!choć w nim dziad, pradziad pasał cielęta.
+!!A przytém pas z słomy lity,
+!!jéżowém futrem podszyty;
+!!całe ubranie, jedyna,
+!!całe ubranie.
+!!@VERSE:
+!!3. A szedłem ci ja koło wioseczki
+!!i spotkały mnie trzy cne dzieweczki
+!!Jedna się do mnie zaśmiała
+!!i rączkę mi swoją dała;
+!!toć to wesele, jedyna,
+!!toć to wesele.
+!!@VERSE:
+!!4. A cóż mnie też to wykosztowało
+!!na tém weselsku, żeby zagrano.
+!!Utraciłem groszy cztery,
+!!żeby dudy, basy rznęły,
+!!dla moji Káchny, jedyna
+!!dla moji Káchny.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=284 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 268} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 268}
 !!!page: 268
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11
