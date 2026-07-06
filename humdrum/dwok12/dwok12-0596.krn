@@ -3,73 +3,107 @@
 !!!source: DWOK12
 !!!id: 12596
 !!!signature: 1259600000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16g
-8g
-8b
-=2
-4.dd
-=3
-16dd
-16dd
-8a
-8b
-=4
-4.g
-=5
-16dd
-16dd
-8a
-8b
-=6
-4.g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Da
+16g	mój
+8g	Ma-
+8b	-cio-
+=2	=2
+4.dd	-siu,
+=3	=3
+16dd	gdzie
+16dd	to
+8a	ty
+8b	je-
+=4	=4
+4.g	-dziesz?
+=5	=5
+16dd	gdzie
+16dd	to
+8a	ty
+8b	je-
+=6	=6
+4.g}	-dziesz?
+=7	=7
+!!LO:TX:a:t=mówiąc
+4.r-;	Nie_i_t._d.
 !!LO:LB:g=esac
-=7
-{16a
-16a
-8cc
-8cc
-=8
-16g
-16g
-8b
-8b
-=9
-16a
-16a
-8cc
-8cc
-=10
-16g
-16g
-8b
-8b}
+=8	=8
+{16a	Jak
+16a	cię
+8cc	do-
+8cc	-bra
+=9	=9
+16g	myśl
+16g	na-
+8b	-pa-
+8b	-dnie,
+=10	=10
+16a	Jak
+16a	cię
+8cc	do-
+8cc	-bra
+=11	=11
+16g	myśl
+16g	na-
+8b	-pa-
+8b}	-dnie,
 !!LO:LB:g=esac
-=11
-{16d
-16d
-8a
-8b
-=12
-4.g
-=
-24dd
-24a
-24dd
-8a
-8b
-=13
-4.g}
-==
-*-
+=12	=12
+{16d	to
+16d	mi
+8a	sam
+8b	po-
+=12	=13
+4.g	-wiesz,
+=14	=14
+*Xtuplet	*
+24dd	to
+24a	.
+24dd	mi
+8a	sam
+8b	po-
+=15	=15
+4.g}	-wiesz.
+=16	=16
+!!LO:TX:a:t=mówiąc
+4.r-;	.
+==	==
+*-	*-
+!!!role-singer: Maiden, Bachelor
+!!!role-listener: Bachelor, Maiden
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Da mój Maciosiu, gdzie ty to jedziesz?
+!!(mówiąc)— Nie potrzebujesz wiedziéć.
+!!(śpiéw). Jak cię dobra myśl napadnie, to mi sam powiesz:
+!!(m.)— Do Kościana.
+!!@VERSE:
+!!2. Da mój Maciosiu, weź mnie téż z sobą!
+!!(m.)— Nie potrzebuję brać.
+!!(śp.) Jak cię dobra myśl napadnie, to na mnie sam skiwniesz:
+!!(m.)— To już tam usiądź.
+!!@VERSE:
+!!3. Da mój Maciosiu, co to ty wieziesz?
+!!(m.)— Nie potrzebujesz wiedziéć.
+!!(śp.) Jak cię dobra myśl napadnie, to mi sam powiesz:
+!!(m.)— No, jabka.
+!!@VERSE:
+!!4. Da mój Maciosiu, daj mi téż jedno.
+!!(m.)— Co ci to po tém!
+!!(śp.) Jak cię dobra myśl napadnie, to mi sam podasz:
+!!(m.)— To już sobie tam weź choć zgnite.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=317 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 301} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 301}
 !!!page: 301
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

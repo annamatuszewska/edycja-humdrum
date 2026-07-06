@@ -3,83 +3,135 @@
 !!!source: DWOK12
 !!!id: 12592
 !!!signature: 1259200000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16b
-16dd
-8cc
-8b
-=2
-8a
-8b
-8g
-=3
-16b
-16dd
-8cc
-8b
-=4
-8a
-8f#
-8d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16b	Na
+16dd	bo-
+8cc	-ru
+8b	coś
+=2	=2
+8a\	ciuchnę-
+8b	.
+8g	-ło
+=3	=3
+16b	na
+16dd	dwo-
+8cc	-rze
+8b	sły-
+=4	=4
+8a\	-chać
+8f#	by-
+8d}	-ło
 !!LO:LB:g=esac
-=5
-{16d
-16f#
-16a
-16f#
-8a
-=6
-16d
-16g
-16b
-16g
-8b
-=7
-16a
-32r
-32cc
-16b
-16a
-16b
-16dd
-=8
-8cc
-16b
-16g
-8a}
+=5	=5
+{16d	da-
+16f#	-li
+16a	da-
+16f#	-li
+8a	da
+=6	=6
+16d	da-
+16g	-li
+16b	da-
+16g	-li
+8b	da
+=7	=7
+16a\	na
+32r	.
+32cc	dwo-
+16bL	-rze
+16aJ	.
+16bL	sły-
+16ddJ	.
+=8	=8
+8cc	-chać
+16bL	by-
+16gJ	.
+8a}	-ło,
 !!LO:LB:g=esac
-=9
-{16d
-16f#
-16a
-16f#
-8a
-=10
-16d
-16g
-16b
-16g
-8b
-=11
-16.f#
-32a
-8dd
-16cc
-16a
-=12
-8g
-16f#
-16d
-8g}
-==
-*-
+=9	=9
+{16d	da-
+16f#	-li
+16a	da-
+16f#	-li
+8a	da
+=10	=10
+16d	da-
+16g	-li
+16b	da-
+16g	-li
+8b	da
+=11	=11
+16.f#	na
+32a	dwo-
+8dd	-rze
+16ccL	.
+16aJ	sły-
+=12	=12
+8g	.
+16f#L	-chać
+16dJ	by-
+8g}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Fly, Mosquito
+!!!role-listener: Mosquito, Fly
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Na boru coś ciuchnęło
+!!na dworze słychać było
+!!dali dali da dali dali da
+!!na dworze słychać było,
+!!na dworze słuchać było.
+!!@VERSE:
+!!2. Pewno komar z dębu spad,
+!!złomał sobie w karku gnat.
+!!@VERSE:
+!!3. Potłuk sobie golenie
+!!o dębowe korzenie.
+!!@VERSE:
+!!4. Potłuk sobie paluszki
+!!o dębowe gałązki.
+!!@VERSE:
+!!5. Przyszła mucha do niego
+!!odwiédzając chorego.
+!!@VERSE:
+!!6. Pyta (się) mucha komara:
+!!czy ci trzeba doktora?
+!!@VERSE:
+!!7. Nie potrzeba doktora,
+!!tylko księdza przeora.
+!!@VERSE:
+!!8. Pyta (się) mucha kolégi:
+!!czy ci trzeba aptéki?
+!!@VERSE:
+!!9. Nie potrzeba aptéki,
+!!tylko rydla, motyki.
+!!@VERSE:
+!!10. Nie płacz innie ty siojstrzyczko,
+!!ostanie ci tu wszystko.
+!!@VERSE:
+!!11. A z kolanów dwa sadła,
+!!co będziesz miała jadła.
+!!@VERSE:
+!!12. A z golénie pieczenie
+!!będziesz miała jedzenie.
+!!@VERSE:
+!!13. Pyta (się) mucha komara:
+!!gdzie cię będę chowała?
+!!@VERSE:
+!!14. Chowajcie mnie w dębinie,
+!!sprawcie pogrzeb w olszynie.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=314 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 298} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 298}
 !!!page: 298
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

@@ -3,73 +3,105 @@
 !!!source: DWOK12
 !!!id: 12607
 !!!signature: 1260700002
-**kern
-*clefG2
-*k[b-]
-*d:
-*M2/4
-=1
-{8d
-8dd
-8cc#
-8dd
-=2
-8cc#
-8ee
-8a
-8a
-=3
-8a
-8b-
-8a
-8g
-=4
-8f
-8e
-4d}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*d:	*
+*M2/4	*
+=1	=1
+{8d	I-
+8dd	-dzie
+8cc#	świ-
+8dd	-nia
+=2	=2
+8cc#	przez
+8ee	u-
+8aL	-licę
+8aJ	.
+=3	=3
+8a	krzywo
+8b-/	.
+8a	o-
+8g	-gon
+=4	=4
+8fL	no-
+8eJ	.
+4d}	-si,
 !!LO:LB:g=esac
-=5
-{8a
-8a
-8f
-8d
-=6
-8a
-8a
-8f
-8d
-=7
-8c#
-8b-
-8a
-8g
-=8
-4f
-4d}
+=5	=5
+{8a	a
+8a	szewc
+8f	za
+8d	nią
+=6	=6
+8a	jak
+8a	za
+8f	pa-
+8d	-nią
+=7	=7
+8c#	o
+8b-	szcze-
+8a\	-ci-
+8g	-nę
+=8	=8
+4f\	pro-
+4d}	-si,
 !!LO:LB:g=esac
-=9
-{8a
-8g
-8f
-8d
-=10
-8a
-8g
-8f
-8d
-=11
-8c#
-8b-
-8a
-8g
-=12
-8f
-8e
-4d}
-==
-*-
+=9	=9
+{8a	a
+8a	szewc
+8f	za
+8d	nią
+=10	=10
+8a	jak
+8a	za
+8f	pa-
+8d	-nią
+=11	=11
+8c#	o
+8b-	szcze-
+8a\	-ci-
+8g	-nę
+=12	=12
+8fL	pro-
+8eJ	.
+4d}	-si.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!!role-listener: Shoemakers
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Idzie świnia przez ulicę
+!!krzywo ogon nosi,
+!!a szewc za nią jak za panią
+!!o szczecinę prosi.
+!!@VERSE:
+!!2. Poszedł szewiec na rynek
+!!kapustę kupować,
+!!wleciała mu mucha w j-ucho,
+!!kazał ją ćwiertować.
+!!@VERSE:
+!!3. A z téj muchy— trzy kożuchy
+!!czwarte rękawice,
+!!a wy szewcy, kuśnierzowie,
+!!proszę nie kradnijcie.
+!!Waryant (od Poznania).
+!!@VERSE:
+!!1. Idzie świnia koło płota
+!!krzywo ogon nosi,
+!!a szewc za nią zdjąwszy czapkę
+!!o szczecinę prosi.
+!!@VERSE:
+!!2. A świnia mu odpowiada:
+!!idź ty szewcze głupy,
+!!masz-ci ty jéj na łbie dosić
+!!suka koło ....
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=623 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 607} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 607}
 !!!page: 607
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

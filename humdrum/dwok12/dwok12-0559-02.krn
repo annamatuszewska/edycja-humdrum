@@ -3,90 +3,112 @@
 !!!source: DWOK12
 !!!id: 12559
 !!!signature: 1255900002
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16dd
-16ff
-8gg
-8ff
-=2
-4gg
-16ff
-16dd
-=3
-16cc
-16b
-8g
-8ff
-=4
-16dd
-16ee
-4cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16dd	Abo
+16ff	.
+8gg	ja
+8ff	to
+=2	=2
+4gg	Ja-
+16ffL	-siu
+16ddJ	.
+=3	=3
+16cc	two-
+16b	-ja
+8g\	nie-
+8ff	-wol-
+=4	=4
+16ddL	-ni-
+16eeJ	.
+4cc}	-ca,
 !!LO:LB:g=esac
-=5
-{16dd
-16ff
-8gg
-16dd
-16ff
-=6
-4gg
-16ff
-16dd
-=7
-16cc
-32b
-32g
-8a
-16cc
-16ff
-=8
-16dd
-16ee
-4cc}
+=5	=5
+{16dd	kaza-
+16ff	.
+8ggL	-łeś
+16dd	po-
+16ffJ/	.
+=6	=6
+4gg	-ga-
+16ffL	-niać,
+16ddJ	.
+=7	=7
+16cc	nie
+32bL	da-
+32gJ	.
+8aL	-łeś
+16cc	mi
+16ffJ/	.
+=8	=8
+16ddL	bi-
+16eeJ	.
+4cc}	cza.
 !!LO:LB:g=esac
-=9
-{8b
-8dd
-16dd
-16cc
-=10
-8dd
-16cc
-16b
-8g
-=11
-16a
-16b
-8dd
-16dd
-16cc
-=12
-8dd
-16cc
-16b
-8g}
+=9	=9
+{8bL	.
+8ddJ	.
+16ddL	.
+16ccJ	.
+=10	=10
+8ddM	.
+16ccL	.
+16bJ	.
+8g	.
+=11	=11
+16aL	.
+16bJ	.
+8dd	.
+16ddL	.
+16ccJ	.
+=12	=12
+8ddM	.
+16ccL	.
+16bJ	.
+8g}	.
 !!LO:LB:g=esac
-=13
-{16g
-32a
-32b
-8dd
-16gg
-16ff
-=14
-16dd
-16ee
-4cc}
-==
-*-
+=13	=13
+{16gL	.
+32a	.
+32bJ	.
+8dd	.
+16ggL	.
+16ffJ	.
+=14	=14
+16ddL	.
+16eeJ	.
+4cc}	.
+==	==
+*-	*-
+!!!role-singer: Shepherdess
+!!!role-listener: male
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Abo ja to Jasiu
+!!twoja niewolnica,
+!!kazałeś poganiać,
+!!nie dałeś mi bicza.
+!!@VERSE:
+!!2. Nie dałeś mi bicza
+!!ani podwieczorku;
+!!kazałeś poganiać
+!!do samego wtorku.
+!!@VERSE:
+!!3. Ani podwieczorku,
+!!ani mi śniadania,
+!!a ja ci téż ućknę
+!!da od poganiania.
+!!@@END: VERSES
 !!!ONB: Kolberg zanotował na 3/4 zapisano poprawnie na 3/8
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=301 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 285} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 285}
 !!!page: 285
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

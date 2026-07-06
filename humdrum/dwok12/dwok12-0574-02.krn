@@ -3,63 +3,88 @@
 !!!source: DWOK12
 !!!id: 12574
 !!!signature: 1257400002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16cc
-16cc
-8b
-8g
-=2
-16d
-16f#
-8a
-16g
-16b
-=3
-16cc
-16cc
-8b
-8g
-=
-24e
-24d
-24f#
-8a
-16f#
-16d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16cc	I-
+8ddq	.
+16cc	-no
+8b	bę-
+8g	-dziesz
+=2	=2
+16d	wy-
+16f#	-ga-
+8a	-nia-
+16gL	-ła,
+16bJ	.
+=3	=3
+16cc	wy-
+8ddq	.
+16cc	-ga-
+8b	-niaj
+8g	w_dąb-
+=4	=4
+*Xtuplet	*
+24eL	-ki
+24dJ\	.
+24f#	da
+8a	w_dąbki,
+16f#L	.
+16dJ}	.
 !!LO:LB:g=esac
-=4
-{16cc
-16cc
-8b
-8dd
-=
-24a
-24g
-24b
-8dd
-16ee
-16dd
-=5
-16cc
-16cc
-8b
-16g
-16e
-=6
-16d
-16f#
-8a
-16f#
-16d}
-==
-*-
+=5	=5
+{16cc	da
+8ddq	.
+16cc	bę-
+8b	-dzie-
+8dd	-my
+=6	=6
+24aL	się
+24g	.
+24bJ/	kocha-
+8dd	.
+16eeL	-li
+16ddJ/	.
+=7	=7
+16ccn	jak
+8ddq	.
+16cc	dwa
+8b	go-
+16gL	-łąb-
+16eJ	.
+=8	=8
+16d	-ki,
+16f#	gołąb-
+8a	.
+16f#L	-ki.
+16dJ}	.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!role-listener: Shepherdess
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Ino będziesz wyganiała,
+!!wyganiaj w dąbki da w dąbki,
+!!da będziemy się kochali
+!!jak dwa gołąbki, gołąbki.
+!!@VERSE:
+!!2. Ino będziesz wyganiała,
+!!wyganiajże w las da i las,
+!!da ty będziesz nawracała,
+!!da ja będę pas da i pas(ł).
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY:Nuta pb. nr. 50.
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=306 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 290} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 290}
 !!!page: 290
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

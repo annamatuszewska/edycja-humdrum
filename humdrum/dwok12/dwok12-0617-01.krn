@@ -3,55 +3,102 @@
 !!!source: DWOK12
 !!!id: 12617
 !!!signature: 1261700001
-**kern
-*clefG2
-*k[]
-*a:
-*M2/4
-=1
-{8cc
-4cc
-8a
-=2
-8b
-4.dd
-=3
-8cc
-4a
-8b
-=4
-8g#
-4.a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M2/4	*
+=1	=1
+{8cc	Dawniej
+4cc	.
+8a\	dzia-
+=2	=2
+8b	-do-
+4.dd	-wie,
+=3	=3
+8cc	pi-
+4a\	-li
+8b	w_Kra-
+=4	=4
+8g#	-ko-
+4.a}	-wie,
 !!LO:LB:g=esac
-=5
-{8ee
-4ee
-8dd
-=6
-8ee
-4.cc
-=7
-8cc
-8b
-8a
-8g#
-=
-12a
-12b
-12cc
-4b}
+=5	=5
+{8ee	przy-
+4ee	-pa-
+8dd	-try-
+=6	=6
+8ee	-wał
+4.cc	się
+=7	=7
+8ddq	.
+8cc	z_skruchą
+8b	.
+8a	na
+8g#	ich
+=	=
+(12aL	twa-
+12b	.
+12ccJ)	.
+4b}	-rze
 !!LO:LB:g=esac
-=8
-{8e
-4a
-8b
-=9
-8g#
-4.a}
-==
-*-
+=8	=8
+{8e\	jak
+4a\	na
+8b	oł-
+=9	=9
+8g#	-ta-
+4.a;}	-rze.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Dawniéj dziadowie, pili w Krakowie,
+!!lud prosty myślał, że Apostołowie;
+!!przypatrywał się ze skruchą na ich twarze,
+!!jak na ołtarze.
+!!@VERSE:
+!!2. Dawniéj król nigdy nie chciał jeść objadów,
+!!kiedy nie widział wedle siebie dziadów;
+!!tam dziad pirszego oznaczał konzula,
+!!pijąć do króla.
+!!@VERSE:
+!!3. Dawniéj się księżna w dziadzie pokochała,
+!!jest historyja o tem, a nie mała;
+!!zazdrościła jéj tego césarzowa
+!!Adryjanowa.
+!!@VERSE:
+!!4. Dawniéj dziad we wsi był postrachem dzieci,
+!!pies przed nim zmykał z gospodarskich śmieci;
+!!(on) psa kijem; dzieciom, pokazawszy jeża:
+!!a do pacierza!
+!!@VERSE:
+!!5. Przy ciepłym piecu posadzono dziada,
+!!gosposia zaraz wedle niego siada;
+!!a on o boskich rozmawiając cudach,
+!!trącał po udach.
+!!@VERSE:
+!!6. Dawniéj dziad kilka razy na dzień zyskał,
+!!co nie wyleżał, to nareście wystał.
+!!A gdy nie dostał w torbę, lub w garnuszku,
+!!dostał na łóżku.
+!!@VERSE:
+!!7. A gdy lubiejusz postolski w Warszawie,
+!!czas nam pomyśléć o życia poprawie;
+!!a kto wedle nas tędy przejdzie z niczem,
+!!ten weźmie biczem.
+!!@VERSE:
+!!8. Wszystkie skąpice oskubiem jak wrony,
+!!(vel: zamienim na wrony),
+!!dostaną się nam w nasze ostre szpony;
+!!odechce im się nawet wszeteczeństwa
+!!podczas męczeństwa i t. d.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=327 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 311} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 311}
 !!!page: 311
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

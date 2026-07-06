@@ -3,103 +3,135 @@
 !!!source: DWOK12
 !!!id: 12561
 !!!signature: 1256100000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{4.g
-8a
-8cc
-8ee
-=2
-8b
-8dd
-16gg
-8.ff#
-4d
-=3
-4.g
-8a
-8cc
-8cc
-=4
-8b
-8dd
-4b
-4d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{(>4.g	Hej
+8a)	.
+8cc	stoji
+8ee	.
+=2	=2
+8b	w_okienecz-
+8dd	.
+16ggL	.
+8.ff#J	.
+4d	-ku,
+=3	=3
+(>4.g	hej
+8a)	.
+8cc	wyglę-
+8cc	.
+=4	=4
+8b	-duje
+8dd	.
+4b	szy-
+(16f#qL	.
+16eqJ)	.
+4d}	-bą,
 !!LO:LB:g=esac
-=5
-{4.g
-8a
-8cc
-8a
-=6
-8f#
-8g
-4b
-4b
-=7
-4.g
-8a
-8cc
-8a
-=8
-8f#
-8g
-4b
-4d}
+=5	=5
+{(>4.g	hej
+8a)	.
+8cc	mo-
+8a\	-ja
+=6	=6
+8f#	matuchniczku,
+8g	.
+4b	.
+4bm	.
+=7	=7
+(>4.g	hej
+8a)	.
+8cc	ka-
+8a	-wa-
+=8	=8
+8f#	-lery
+8g	.
+4b	i-
+(16f#qL	.
+16eqJ	.
+4d)}	-dą.
 !!LO:LB:g=esac
-=9
-{4.g
-8a
-8cc
-8ee
-=10
-8b
-8dd
-16gg
-8.ff#
-4d
-=11
-4.g
-8a
-8cc
-8ee
-=12
-8b
-8dd
-4b
-4d}
+=9	=9
+{(>4.g	Hej
+8a)	.
+8cc	stoji
+8ee	.
+=10	=10
+8b	w_okienecz-
+8dd	.
+16ggL	.
+8.ff#J	.
+4d	-ku,
+=11	=11
+(>4.g	hej
+8a)	.
+8ccL	wyglę-
+8eeJ/	.
+=12	=12
+8b	-duje
+8dd	.
+4b	szy-
+(16f#qL	.
+16eqJ)	.
+4d}	-bą,
 !!LO:LB:g=esac
-=13
-{4.g
-8a
-16cc
-16a
-8a
-=14
-8f#
-8g
-4b
-8b
-8a
-=15
-4.g
-8a
-16cc
-16a
-8a
-=16
-8f#
-8g
-4b
-4d}
-==
-*-
+=13	=13
+{(>4.g	hej
+8a)	.
+16ccL	mo-
+16b	.
+8aJ/	-ja
+=14	=14
+8f#	matuchniczku,
+8g	.
+4b	.
+8bmL	.
+8aJ	.
+=15	=15
+(>4.g	hej
+8a)	.
+16ccL	ka-
+16b	.
+8aJ/	-wa-
+=16	=16
+8f#	-lery
+8g	.
+4b	i-
+(16f#qL	.
+16eqJ	.
+4d)}	-dą.
+==	==
+*-	*-
+!!!RDF**kern: > = above
+!!!role-singer: Maiden
+!!!role-listener: Mother
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Hej stoji w okieneczku,
+!!hej wyględuje szybą,
+!!hej moja matuchniczku,
+!!hej kawalery idą.
+!!@VERSE:
+!!2. Hej moja matuchniczku,
+!!hej każcie mi się ubrać,
+!!hej idą kawalery,
+!!hej będą ze mną igrać.
+!!@VERSE:
+!!3. Stado gęsi, stado owiec, —
+!!moja matko, chce mnie wdowiec.
+!!Jedna gąska, jedna owca,
+!!moja matko, nie chcę wdowca.
+!!@@END: VERSES
+!!!ONB:Nuta nr. 321.
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=301 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 285-286} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 285-286}
 !!!page: 285-286
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

@@ -3,59 +3,100 @@
 !!!source: DWOK12
 !!!id: 12552
 !!!signature: 1255200000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8g
-8g
-8b
-=2
-4dd
-8b
-=3
-8dd
-8dd
-8ee
-=4
-4cc
-8b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8g	Owczarczy-
+8g	.
+8b	.
+=2	=2
+4dd	-kowie
+8b	.
+=3	=3
+8dd	skurwysy-
+8dd	.
+8ee	.
+=4	=4
+4cc	-nowie,
+8b}	.
 !!LO:LB:g=esac
-=5
-{8a
-8a
-8g
-=6
-4b
-8g
-=7
-8a
-8a
-8b
-=8
-4cc
-8b}
+=5	=5
+{8a	pognali
+8a	.
+8g	.
+=6	=6
+4b	owce
+8g	.
+=7	=7
+8a	na
+8a	cudze
+8b	.
+=8	=8
+4cc	pole.
+8b}	.
 !!LO:LB:g=esac
-=9
-{8a
-8f#
-8g
-=10
-4b
-8g
-=11
-8a
-8a
-8b
-=12
-4cc
-8b}
-==
-*-
+=9	=9
+{8aL	pognali
+8f#	.
+8gJ\	.
+=10	=10
+4b	owce
+8g	.
+=11	=11
+8a	na
+8a	cudze
+8b	.
+=12	=12
+4cc	pole.
+8b}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Shepherdess, Shepherd
+!!!role-listener: Shepherd, Shepherdess
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Owczarczykowie
+!!skurwysynowie,
+!!pognali owce
+!!na cudze pole.
+!!@VERSE:
+!!2. Owieczki źrą, źrą,
+!!zwonki brząkają,
+!!owczarczykowie
+!!dziewcząt szukają.
+!!@VERSE:
+!!3. Gna dziewka bydło,
+!!owczarczyk owce;
+!!chciał owcarz dziweczki,
+!!dziweczka nie chce.
+!!(vel: Pas(ł) gałgán bydło,
+!!gałganka owce;
+!!chciáł gáłgan gałganki,
+!!gałganka nie chce).
+!!@VERSE:
+!!4. Jak-ci ją nalaz(ł),
+!!tak-ci ją pędzi;
+!!ozdar(ł) ji fartu(sze)k
+!!na cztéry części (v. piędzi).
+!!@VERSE:
+!!5. Poczkaj gałganie,
+!!pójdę do pana;
+!!pójdę do pani,
+!!w skórę wywali.
+!!@VERSE:
+!!6. A idż do pana,
+!!idż do jimości,
+!!nie nájdziesz na mnie
+!!sprawiedliwości.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=299 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 283} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 283}
 !!!page: 283
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

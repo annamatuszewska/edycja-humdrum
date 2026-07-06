@@ -3,74 +3,91 @@
 !!!source: DWOK12
 !!!id: 12554
 !!!signature: 1255400001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16a
-16cc
-8ee
-16ff#
-16ee
-=2
-16b
-16cc
-8a
-8dd
-=3
-16a
-16cc
-8ee
-16ff#
-16ee
-=4
-4.b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16a\	Wczoraj
+16cc	.
+8ee	by-
+16ff#L	-ła
+16eeJ	.
+=2	=2
+16b	niedziołecz-
+16cc	.
+8a\	.
+8dd	-ka
+=3	=3
+16a\	dziś
+16cc	poniedzia-
+8ee	.
+16ff#L	.
+16eeJ	.
+=4	=4
+4.b}	-łek,
 !!LO:LB:g=esac
-=5
-{16d
-16g
-8b
-16dd
-16a
-=6
-16b
-16cc
-8a
-8g
-=7
-16d
-16g
-8b
-16dd
-16a
-=8
-4.b}
+=5	=5
+{16d	żaden
+16g	.
+8b	mi
+16ddL	się
+16aJ	.
+=6	=6
+16b	nie
+16cc	spodobał
+8a\	.
+8g\	.
+=7	=7
+16d	jino
+16g	.
+8b	owcza-
+16ddL	.
+16aJ	.
+=8	=8
+4.b}	-rek,
 !!LO:LB:g=esac
-=9
-{16d
-16g
-8b
-16dd
-16a
-=10
-16b
-16cc
-8a
-8cc
-=11
-16d
-16g
-8b
-16dd
-16a
-=12
-4.b}
-==
-*-
+=9	=9
+{16d	żaden
+16g	.
+8b	mi
+16ddL	się
+16aJ	.
+=10	=10
+16b	nie
+16cc	spodobał
+8aL	.
+8ccJ/	.
+=11	=11
+16d	jino
+16g	.
+8b	owcza-
+16ddL	.
+16aJ	.
+=12	=12
+4.b}	-rek.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!role-listener: Mother
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Wczoraj była niedziołeczka
+!!dziś poniedziałek,
+!!żaden mi się nie spodobał
+!!jino owczarek.
+!!@VERSE:
+!!2. Ładny owczarek matusiu,
+!!ładny owczarek,
+!!wszystkie owce dzwonki mają
+!!a ón zégarek.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=300 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 284} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 284}
 !!!page: 284
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

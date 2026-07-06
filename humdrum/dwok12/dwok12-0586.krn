@@ -3,82 +3,92 @@
 !!!source: DWOK12
 !!!id: 12586
 !!!signature: 1258600000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16cc
-16dd
-8ee
-8cc
-=2
-8ff
-4dd
-=3
-16ee
-16dd
-8cc
-8b
-=4
-8cc
-4dd}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16cc	By-
+16dd	-ła
+8ee	ba-
+8cc	-bu-
+=2	=2
+8ff	-leń-
+4dd	-ka
+=3	=3
+16ee	z_bo-
+16dd	-ga-
+8cc	-te-
+8b	-go
+=4	=4
+8cc	ro-
+4dd}	-du
 !!LO:LB:g=esac
-=5
-{16cc
-16dd
-8ee
-8cc
-=6
-8ff
-4dd
-=7
-16ee
-16dd
-8cc
-8b
-=8
-8dd
-4cc}
+=5	=5
+{16cc	mia-
+16dd	-ła
+8ee	ko-
+8cc	-zio-
+=6	=6
+8ff	-łecz-
+4dd	-ka
+=7	=7
+16ee	a
+16dd	o
+8cc	jednym
+8b	.
+=8	=8
+8dd	ro-
+4cc}	-gu
 !!LO:LB:g=esac
-=9
-{16cc
-16dd
-8ee
-8gg
-=10
-8ff
-4dd
-=11
-16ee
-16dd
-8cc
-8b
-=12
-8cc
-4dd}
+=9	=9
+{16cc	A
+16dd	ten
+8ee	to
+8gg	ko-
+=10	=10
+8ff	-zio-
+4dd	-łek
+=11	=11
+16ee	bardzo
+16dd	.
+8cc	był
+8b	roz-
+=12	=12
+8cc	-pusty,
+4dd}	.
 !!LO:LB:g=esac
-=13
-{16cc
-16dd
-8ee
-8gg
-=14
-8ff
-4dd
-=15
-16ee
-16dd
-8cc
-8b
-=16
-8dd
-4cc}
-==
-*-
+=13	=13
+{16cc	wy-
+16dd	-żar
+8ee	ba-
+8gg	-bu-
+=14	=14
+8ff	-leń-
+4dd	-ce
+=15	=15
+16ee	za-
+16dd	-go-
+8cc	-nek
+8b	ka-
+=16	=16
+8dd	-pusty.
+4cc}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Była babuleńka z bogatego rodu
+!!miała koziołeczka a o jednym rogu
+!!A ten to koziołek bardzo był rozpusty,
+!!wyżar babuleńce zagonek kapusty.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=311 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 295} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 295}
 !!!page: 295
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

@@ -3,137 +3,151 @@
 !!!source: DWOK12
 !!!id: 12560
 !!!signature: 1256000000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16b
-8dd
-8ee
-=2
-4cc
-8cc
-=3
-16dd
-16b
-8g
-8g
-=4
-16a
-16f#
-4d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Dziewula
+16b	.
+8dd	.
+8ee	ow-
+=2	=2
+4cc	-czar-
+8aq	.
+8cc	-ska,
+=3	=3
+16dd	czemuś
+16b	.
+8g\	jest
+8g\	nie
+=4	=4
+16aL	dziarska?
+16f#J	.
+4d}	.
 !!LO:LB:g=esac
-=5
-{16g
-16b
-8g
-8g
-=6
-16a
-16cc
-4a
-=7
-16dd
-16b
-8g
-8e
-=8
-16a
-16f#
-4d}
+=5	=5
+{16g	A
+16b	jakże
+8g	.
+8g	mam
+=6	=6
+16a\	dziarska
+16cc	.
+4a\	być,
+=7	=7
+16dd	kiej
+16b	mi
+8g\	owczarz
+8e\	.
+=8	=8
+16a\	nie
+16f#	da
+4d}	zryć.
 !!LO:LB:g=esac
-=9
-{16d
-16f#
-8a
-16a
-16f#
-=10
-16e
-16g
-8b
-16b
-16g
-=11
-16a
-16cc
-8a
-8f#
-=12
-16e
-16f#
-16g
-16e
-8d}
+=9	=9
+{16dL	.
+16f#J	.
+8aL	.
+16a	.
+16f#J	.
+=10	=10
+16eL	.
+16gJ	.
+8bL	.
+16b	.
+16gJ	.
+=11	=11
+16aL	.
+16ccJ	.
+8aL	.
+8f#J\	.
+=12	=12
+16eL	.
+16f#	.
+16g	.
+16e	.
+8dJ}	.
 !!LO:LB:g=esac
-=13
-{16g
-16b
-8dd
-8ee
-=14
-4cc
-8cc
-=15
-16dd
-16b
-8g
-16d
-16g
-=16
-16a
-16f#
-4d}
+=13	=13
+{16g	Dziewula
+16b	.
+8dd	.
+8ee	ow-
+=14	=14
+4cc	-czar-
+8aq	.
+8cc	-ska,
+=15	=15
+16dd	czemuś
+16b	.
+8gL	jest
+16d	nie
+16gJ	.
+=16	=16
+16aL	dziarska?
+16f#J	.
+4d}	.
 !!LO:LB:g=esac
-=17
-{16g
-16b
-8g
-8g
-=18
-16a
-16cc
-4a
-=19
-16dd
-16b
-8g
-8f#
-=20
-16a
-16f#
-4d}
+=17	=17
+{16g	A
+16b	jakże
+8g	.
+8g	mam
+=18	=18
+16a\	dziarska
+16cc	.
+4a\	być,
+=19	=19
+16dd	kiej
+16b	mi
+8gL	owczarz
+8f#J	.
+=20	=20
+16a\	nie
+16f#	da
+4d}	zryć.
 !!LO:LB:g=esac
-=21
-{16d
-16f#
-8a
-16a
-16f#
-=22
-16e
-16g
-8b
-16b
-16g
-=23
-16a
-16cc
-8a
-8cc
-=24
-16e
-16f#
-16g
-16e
-8d}
-==
-*-
+=21	=21
+{16dL	.
+16f#J	.
+8aL	.
+16a	.
+16f#J	.
+=22	=22
+16eL	.
+16gJ	.
+8bL	.
+16b	.
+16gJ	.
+=23	=23
+16aL	.
+16ccJ	.
+8aL	.
+8ddJ/	.
+=24	=24
+16eL	.
+16f#	.
+16g	.
+16e	.
+8dJ}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Shepherd's Wife
+!!!role-listener: Shepherd's Wife
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Dziewula owczarska,
+!!czemuś jest nie dziarska?
+!!A jakże mam dziarska być,
+!!kiej mi owczarz nie da zryć.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=301 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 285-286} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 285-286}
 !!!page: 285-286
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

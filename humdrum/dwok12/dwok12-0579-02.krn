@@ -3,66 +3,99 @@
 !!!source: DWOK12
 !!!id: 12579
 !!!signature: 1257900002
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{8.f
-16g
-16a
-16b-
-=2
-4cc
-8cc
-=3
-16dd
-16dd
-8dd
-8dd
-=4
-4cc
-8cc
-=5
-16dd
-16dd
-8dd
-8dd
-=6
-4cc
-8cc}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+!!LO:TX:a:t=Pasterska.
+{8.f	Dy-
+16g	-ni
+16a\	dy-
+16b-	-ni
+=2	=2
+4cc	da-
+8cc	-na
+=3	=3
+16dd	słu-
+16dd	-ży-
+8dd	-łem
+8dd	u
+=4	=4
+4cc	pa-
+8cc	-na,
+=5	=5
+16dd	słu-
+16dd	-ży-
+8dd	-łem
+8dd	u
+=6	=6
+4cc	pa-
+8cc}	-na,
 !!LO:LB:g=esac
-=7
-{16b-
-16b-
-8b-
-8b-
-=8
-16cc
-16a
-4f
-=9
-16g
-16g
-8g
-8g
-=10
-16f
-16a
-4cc
-=11
-16g
-16g
-8g
-8e
-=12
-4f}
-8r
-==
-*-
+=7	=7
+{16b-L	dy-
+16b-J/	.
+8b-L	-ni
+8b-J/	.
+=8	=8
+16cc	dy-
+16a	-ni
+4f	dać,
+=9	=9
+16g	ka-
+16g	-zał
+8g	mi
+8g	pan
+=10	=10
+16f	świnie
+16a	.
+4cc	gnać,
+=11	=11
+16g	ka-
+16g	-zał
+8g	świnie
+8e	.
+=12	=12
+4f}	gnać.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Swineherd, Lord
+!!!role-listener: Swineherd, Lord
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Dyni dyni dana służyłem u pana,
+!!dyni dyni dać, kazał mi pan świnie gnać,
+!!kazał świnie gnać.
+!!@VERSE:
+!!2. Dyni dyni doru — pognałem do boru,
+!!dyni dyni dynkiem — usiad'em (ja) pod pieńkiem.
+!!@VERSE:
+!!3. Dyni dyni dylcy — przylecieli wilcy,
+!!dyni dyni dusą — porwali mi kusą.
+!!@VERSE:
+!!4. Dyni dyni domu — przygnałem do domu,
+!!dyni dyni dypan - a tu wychodzi pan.
+!!@VERSE:
+!!5. Dyni dyni dusą — gdzie podziałeś kusą?
+!!dyni dyni dylcy — porwali mi wilcy.
+!!@VERSE:
+!!6. Dyni dyni dańczug— pan wyjmuje kańczug,
+!!dyni dyni dogi — ja też chłopak w nogi.
+!!@VERSE:
+!!7. Dyni dyni daczmy — poszed'em do karczmy,
+!!dyni dyni derek — wypiłem kwaterek.
+!!@VERSE:
+!!8. Dyni dyni dendży — niémiałem piéniędzy
+!!dyni dyni duty — zostawiłem buty.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=308 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 292} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 292}
 !!!page: 292
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

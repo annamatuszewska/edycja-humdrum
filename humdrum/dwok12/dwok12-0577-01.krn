@@ -3,57 +3,75 @@
 !!!source: DWOK12
 !!!id: 12577
 !!!signature: 1257700001
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16a
-16cc
-8cc
-8b-
-=2
-16a
-16cc
-8cc
-8b-
-=3
-16a
-16cc
-8cc
-8dd
-=4
-4.g
-=5
-16g
-16b-
-8b-
-8cc
-=6
-4.f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16a\	W_cięż-
+16cc	-kie
+8cc	mro-
+8b-	-zy
+=2	=2
+16a\	pa-
+16cc	-sła
+8cc	ko-
+8b-	-zy
+=3	=3
+16a\	na
+16cc	ka-
+8cc	-puś-
+8dd	-nis-
+=4	=4
+4.g\	-ku,_ku,
+=5	=5
+16g	ku,
+16b-	ka-
+8b-	-puś-
+8cc	-nis-
+=6	=6
+4.f}	-ku.
 !!LO:LB:g=esac
-=7
-{16c
-16e
-8.g
-16c
-=8
-16e
-16g
-8b-
-8dd
-=9
-16g
-16b-
-8b-
-8cc
-=10
-4.f}
-==
-*-
+=7	=7
+{16c	Przyszed
+16e	.
+8.g	do
+16c	nij
+=8	=8
+16e	szu-
+16g	-der-
+8b-	-ma-
+8dd	-cher
+=9	=9
+16g	w_kapelu-
+16b-	.
+8b-	.
+8cc	-szy-
+=10	=10
+4.f}	-ku.
+==	==
+*-	*-
+!!!role-singer: Narrator, Maiden
+!!!role-listener: Bachelor
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!W ciężkie mrozy pasła kozy
+!!na kapuśnisku, ku, ku,
+!!kapuśnisku.
+!!Przyszed do nij szudermacher
+!!w kapeluszyku.
+!!@VERSE:
+!!2. A ty miły szudermacher
+!!bardzom ci rada da da [:]
+!!dałabym ci chleba z masłem,
+!!alem go zjadła.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=307 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 291} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 291}
 !!!page: 291
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11

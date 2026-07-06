@@ -3,94 +3,172 @@
 !!!source: DWOK12
 !!!id: 12588
 !!!signature: 1258800001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8a
-8b
-8cc
-8dd
-=2
-4ee
-4ff#
-=3
-4ee
-8dd#
-8b
-=4
-4ee
-4b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8a\	Słu-
+8b	-ży-
+8cc	-łem
+8dd	u
+=2	=2
+4ee	pa-
+4ff#X	-na
+=3	=3
+4ee	na
+8dd#	pié-
+8b	-rsze
+=4	=4
+4ee	la-
+4b}	-to
 !!LO:LB:g=esac
-=5
-{8a
-8b
-8cc
-8dd
-=6
-4ee
-4ff#
-=7
-8ff#
-8ee
-8dd#
-8a
-=8
-4b
-4a}
+=5	=5
+{8a\	da-
+8b	-ro-
+8cc	-wał
+8dd	my
+=6	=6
+4ee	mój
+4ff#X	pan
+=7	=7
+8ff#	ko-
+8ee	-ko-
+8dd#	-szy-
+8a	-cę
+=8	=8
+4bm	za
+4a}	to.
 !!LO:LB:g=esac
-=9
-{8cc
-8ee
-8dd
-8b
-=10
-8a
-8cc
-4b
-=11
-8cc
-8ee
-8dd
-8b
-=12
-8a
-8cc
-4b
-=13
-8cc
-8ee
-8dd
-8b
-=14
-8a
-8cc
-8b
-8b}
+=9	=9
+{8cc	Mo-
+8ee	-ja
+8dd	ku-
+8b	-ra
+=10	=10
+8a\	dzióbie
+8cc	.
+4b	mak,
+=11	=11
+8cc	mo-
+8ee	-ja
+8dd	ku-
+8b	-ra
+=12	=12
+8a	dzióbie
+8cc	.
+4b	mak,
+=13	=13
+8cc	mo-
+8ee	-ja
+8dd	ku-
+8b	-ra
+=14	=14
+8a\	zło-
+8cc	-to-
+8b	-pió-
+8b}	-ra
 !!LO:LB:g=esac
-=15
-{8a
-8b
-8cc
-8dd
-=16
-4ee
-8ff#
-8gg
-=17
-8ff#
-8ee
-8dd#
-8a
-=18
-4b
-4a}
-==
-*-
+=15	=15
+{8a\	po
+8b	sa-
+8cc	-dku
+8dd	cho-
+=16	=16
+4ee	-dzi-
+8ff#XL	-ła
+8ggJ	.
+=17	=17
+8ff#	kurcząt-
+8ee	.
+8dd#	-ka
+8a	wo-
+=18	=18
+4bm	-dzi-
+4a\}	-ła.
+==	==
+*-	*-
+!!!role-singer: Farmhand
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!Służyłem u pana na piérsze lato
+!!darował my mój pan kokoszycę za to.
+!!Moja kura dzióbie mak,
+!!moja kura złotopióra
+!!po sadku chodziła
+!!kurczątka wodziła.
+!!@VERSE:
+!!2. Służyłem u pana na drugie łato,
+!!darował my mój pan kaczusię za to.
+!!moja kaczka mówi tak,
+!!moja kura dzióbie mak,
+!!moja kura i t. d.
+!!@VERSE:
+!!3. Służyłem u pana na trzecie lato
+!!darował my mój pan gąséczkę za to.
+!!moja gęś z łyskim pyskiem,
+!!moja kaczka mówi tak,
+!!moja kura dzióbie i t. d.
+!!@VERSE:
+!!4. Służyłem u pana na czwarte lato,
+!!darował my mój pan prosiątko za to.
+!!Moje prosię spisało się,
+!!moja gęś z łyskim pyskiem
+!!moja kaczka i t. d.
+!!@VERSE:
+!!5. Służyłem u pana na piąte lato,
+!!darował my mój pan owieczkę za to.
+!!Moja owca mówi be,
+!!moje prosię spisało się,
+!!moja gęś i t. d.
+!!@VERSE:
+!!6. Służyłem u pana na szóste lato,
+!!darował my mój pan krowinę za to.
+!!Moja krowa wpadła w rów,
+!!moja owca mówi be,
+!!moje prosię i t. d.
+!!@VERSE:
+!!7. Służyłem u pana na siódme lato,
+!!darował my mój pan wołosza za to.
+!!Mój wół wpadł w dół,
+!!moja krowa wpadła w rów,
+!!moja owca i t. d.
+!!@VERSE:
+!!8. Służyłem u pana na óśme lato,
+!!darował my mój pan konika za to.
+!!Mój koń bieguniec,
+!!mój wół wpadł w dół,
+!!moja krowa wpadła w rów,
+!!moja owca i t d.
+!!@VERSE:
+!!9. Służyłem u pana na dziewiąte lato,
+!!darował my mój pan szabelkę za to.
+!!Moja szabla błyszkuniec,
+!!mój koń bieguniec,
+!!mój wół wpad w dół,
+!!moja krowa wpadła w rów,
+!!moja owca mówi be,
+!!moje prosię spisało się,
+!!moja gęś z łyskim pyskiem,
+!!moja kaczka mówi tak,
+!!moja kura złotopióra
+!!po sadku chodziła,
+!!kurczątka wodziła.
+!!@@END: VERSES
+!!@COMMENTARY: Na tęż nutę (lub nr. 144) śpiewają i dziadowską piosnkę od Wronek:
+!!Siedział Jan nad studnią,
+!!chciał nabrać wody
+!!do golenia brody;
+!!w studny była dzurka,
+!!w ty dzurce wębórka
+!!a ón nimiał sznurka
+!!do nabrania wody.
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=312 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 296} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 296}
 !!!page: 296
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-05-11
