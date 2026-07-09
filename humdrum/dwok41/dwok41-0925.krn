@@ -5,61 +5,62 @@
 !!!signature: 4192500000
 **kern
 *clefG2
-*k[f#c#]
+*k[f#c#g#]
 *D:
 *M3/8
 =1
 {16b
 16dd
 8ff#
-16ee
-16cc#
+16eeML
+16cc#J
 =2
 16cc#
 16cc#
 8cc#
-16ff#
-16ee
+16ff#L
+16eeJ
 =3
 16b
 16dd
 8ff#
-16ee
-16cc#
+16eeML
+16cc#J
 =4
 16cc#
 16cc#
 8cc#
-16b
-16g#}
+16b/ML
+16g#}J
 !!LO:LB:g=esac
 =5
 {16a
 16a
 8cc#
-8ee
+8eeM
 =6
 16dd
 16b
 8b
-16b
-16g#
+16b/L
+16g#J
 =7
 16a
 16a
 8cc#
-8ee
+8eeM
 =8
 16dd
 16b
 8b
-16g#
-16e}
+16g#L
+16e}J
 ==
 *-
-!!!ONB: zakodowac w A?
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=481 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 394} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 394}
 !!!page: 394
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-08
