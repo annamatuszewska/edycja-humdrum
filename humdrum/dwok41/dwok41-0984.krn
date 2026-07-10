@@ -9,6 +9,7 @@
 *F:
 *M3/4
 =1
+!LO:TX:a:t=Polonez
 {8a
 8a
 8a
@@ -53,8 +54,8 @@
 4b-
 4c
 =8
-8.cc
-16cc
+8.ccL
+16ccJ
 2a}
 !!LO:LB:g=esac
 =9
@@ -73,8 +74,8 @@
 4b-
 4c
 =12
-8.cc
-16cc
+8.ccL
+16ccJ
 2a}
 ==
 *-
@@ -83,3 +84,5 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=497 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 410} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 410}
 !!!page: 410
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-10
