@@ -3,88 +3,182 @@
 !!!source: DWOK41
 !!!id: 41014
 !!!signature: 4101400001
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{8a
-8a
-4cc
-4dd
-=2
-8ee
-8aa
-4ee
-4cc
-=3
-8cc
-8ee
-8cc
-8b
-8a
-8g#
-=4
-2.a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+{8a	A
+8a	cóż
+4cc	ci
+4dd	się
+=2	=2
+8ee	spo-
+8aa	-do-
+(8ffq	.
+4ee)	-ba-
+4cc	-ło,
+=3	=3
+8cc	ko-
+8ee	-cha-
+(8ddq	.
+8cc)	-nie,
+8b	u
+8aL	nie-
+8g#J	.
+=4	=4
+2.a}	-go?
 !!LO:LB:g=esac
-=5
-{8a
-8a
-4cc
-4dd
-=6
-8ee
-8aa
-4ee
-4cc
-=7
-8cc
-8ee
-4cc
-8a
-8g#
-=8
-2.a}
+=5	=5
+{8a	Te
+8a	bu-
+4cc	-cis-
+4dd	-ka
+=6	=6
+8ee	bez
+8aa	na-
+(8ffq	.
+4ee)	-pię-
+4cc	-tków
+=7	=7
+8cc	i
+8ee	to
+(8ddq	.
+4cc)	nie
+8aL	je-
+8g#J	.
+=8	=8
+2.a}	-go.
 !!LO:LB:g=esac
-=9
-{8b
-8b
-8dd
-8cc
-4b
-=10
-8a
-8cc
-4a
-8g#
-8e}
+=9	=9
+{8b	On
+8b	się
+8ddL	jesz-
+8ccJ	.
+4b	-cze
+=10	=10
+8a	bar-
+8cc	-dzo
+4a	smu-
+8g#L	-ci,
+8e}J	.
 !!LO:LB:g=esac
-=11
-{8b
-8b
-8dd
-8cc
-4b
-=12
-8a
-8cc
-4a
-4cc}
+=11	=11
+{8b	bo
+8b	to
+8ddL	jesz-
+8ccJ	.
+4b	-cze
+=12	=12
+8a	od-
+8cc	-dać
+4a	mu-
+4cc}	-si,
 !!LO:LB:g=esac
-=13
-{8ee
-8aa
-8ee
-8dd
-8cc
-8b
-=14
-2.a}
-==
-*-
+=13	=13
+{8ee	dziew-
+8aa	-czy-
+8eeL	-no
+8ddJ	.
+8ccL	mo-
+8bJ	.
+=14	=14
+2.a}	-ja.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A cóż ci się spodobało,
+!!kochanie, u niego? Te buciska
+!!bez napiętków i to nie jego.
+!!On się jeszcze bardzo smuci, bo to jeszcze
+!!oddać musi, dziewczyno moja.
+!!@VERSE:
+!!2. A cóż ci się spodobało, kochanie, u niej?
+!!Te trzewiki bez podeszwów, a i to nie jéj.
+!!Ona się téż bardzo smuci,
+!!bo to jeszcze oddać musi,
+!!mój ty chłopálu.
+!!@VERSE:
+!!3. A cóż ci się spodobało, kochanie, u niego?
+!!Te cholewy z czarnej skóry,
+!!co zginęły szewcu z góry,
+!!dziewczyno moja.
+!!@VERSE:
+!!4. A cóż ci się spodobało, kochanie, u niéj?
+!!Rękawiczki kasztorowe1,
+!!i to jeszcze są kradzione,
+!!mój ty chłopálu.
+!!@VERSE:
+!!5. A cóż ci się spodobało, kochanie, u niego?
+!!Te płaszczysko bez peleryny, i to nie jego.
+!!On się jeszcze bardzo smuci,
+!!bo to jeszcze oddać musi,
+!!dziewczyno moja.
+!!@VERSE:
+!!6. A cóż ci się spodobało, kochanie, u niéj?
+!!A kieczczysko bez falbany, a i to nie jéj.
+!!Ona się téż bardzo smuci,
+!!bo to jeszcze oddać musi.
+!!mój ty chłopalu.
+!!@VERSE:
+!!7. A cóż ci się spodobało, kochanie, u niego?
+!!Portczyska bez nogawiców, i to nie jego.
+!!On się jeszcze bardzo smuci,
+!!bo to jeszcze oddać musi,
+!!dziewczyno moja.
+!!@VERSE:
+!!8. A cóż ci się spodobało, kochanie, u niéj?
+!!Fartuszysko bez sznurczysków, a i to nie jéj.
+!!Ona się téż bardzo smuci,
+!!bo to jeszcze oddać musi,
+!!mój ty chłopalu.
+!!@VERSE:
+!!9. A cóż ci się spodobało, kochanie, u niéj?
+!!Koszulisko bez kołnierza, a i to nie jéj.
+!!Ona się téż bardzo smuci,
+!!bo to jeszcze oddać musi,
+!!mój ty chłopalu.
+!!@VERSE:
+!!10. A cóż ci się spodobało, kochanie, u niego?
+!!To chustczysko bez obrąbka, i to nie jego.
+!!On się jeszcze bardzo smuci,
+!!bo to jeszcze oddać musi,
+!!dziewczyno moja.
+!!@VERSE:
+!!11. A cóż ci się spodobało, kochanie, u niéj?
+!!to czapsczysko bez sznurczysków, a i to nie jéj.
+!!Ona się téż bardzo smuci,
+!!bo to jeszcze oddać musi,
+!!mój ty chłopálu.
+!!@VERSE:
+!!12. A cóż ci się spodobało, kochanie, u niego?
+!!Ten burak bez aksamitki, i to nie jego.
+!!On się jeszcze bardzo smuci,
+!!bo to jeszcze oddać musi,
+!!dziewczyno moja.
+!!@VERSE:
+!!13. A cóż ci sie spodobało, kochanie, u niéj?
+!!To łóżeczko malowane, a i to nie jéj.
+!!Ona się téż bardzo smuci,
+!!bo to jeszcze oddać musi,
+!!mój ty chłopalu.
+!!@VERSE:
+!!14. A cóż ci się spodobało, kochanie, u niego?
+!!Ta kolasa malowana, i to nie jego.
+!!On się jeszcze bardzo smuci,
+!!bo to jeszcze oddać musi,
+!!dziewczyno moja.
+!!@@END: VERSES
+!!@@BEGIN:
+!! @COMMENTARY: (1) [kasztorowy - od: kastor - gruba tkanina wełniana w rodzaju syberyny, filc z sierści bobrowej albo z włosów małpy]
+!!@@END:
+!!!role-singer: Narrator
+!!!role-listener: Girl
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=106 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 31} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 31}
 !!!page: 31
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-14

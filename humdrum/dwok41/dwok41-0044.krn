@@ -3,60 +3,71 @@
 !!!source: DWOK41
 !!!id: 41044
 !!!signature: 4104400000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{4g
-4cc
-8cc
-8b
-=2
-8cc
-8dd
-4ee
-8cc
-8a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{4g	Oj,
+4cc	nie
+8ccL	moj
+8bJ	.
+=2	=2
+8cc	ko-
+8dd	-nik,
+4ee	nie
+8ccL	moj,
+8a}\J	.
 !!LO:LB:g=esac
-=3
-{4g
-4b
-4dd
-=4
-8b
-8dd
-4ff
-8dd
-8b}
+=3	=3
+{4g	da,
+4b	bom
+4dd	go
+=4	=4
+8b	nie
+8dd	kul-
+4ff	-ba-
+8ddL	-czył,
+8b}J	.
 !!LO:LB:g=esac
-=5
-{4g
-4cc
-8cc
-8b
-=6
-8cc
-8dd
-4ee
-8cc
-8a}
+=5	=5
+{4g	oj,
+4cc	mo-
+(8ddq	.
+8cc)L	-ja,
+8bJ	.
+=6	=6
+8cc	da,
+8dd	dziew-
+4ee	-czy-
+8ccL	-na,
+8a}\J	.
 !!LO:LB:g=esac
-=7
-{4g
-4b
-8dd
-8ee
-=8
-8ff
-8dd
-4b
-4cc}
-==
-*-
+=7	=7
+{4g	da,
+4b	bo
+8dd	mi
+8ee	ją
+=8	=8
+8ff	Bóg
+8dd	na-
+4b	-zna-
+4cc}	-czył.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oj, nie moj konik, nie moj, da,
+!!bom go nie kulbaczył,
+!!oj, moja, da, dziewczyna,
+!!da, bo mi ją Bóg naznaczył.
+!!@@END: VERSES
+!!!role-singer: Lover 
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=124 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 47} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 47}
 !!!page: 47
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-16

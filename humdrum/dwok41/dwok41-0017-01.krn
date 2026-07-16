@@ -3,63 +3,124 @@
 !!!source: DWOK41
 !!!id: 41017
 !!!signature: 4101700001
-**kern
-*clefG2
-*k[f#]
-*e:
-*M3/4
-=1
-{4g
-8g
-8b
-8dd
-8b
-=2
-8a
-8b
-8a
-8g
-8f#
-8e}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*e:	*
+*M3/4	*
+=1	=1
+{4g	U-
+8g	-brał
+8b	się
+8dd	szum-
+8b	-nie
+=2	=2
+8a	i
+8b/	przy-
+8a	-je-
+8g	-chał
+8f#	do
+8e}	mnie
 !!LO:LB:g=esac
-=3
-{8g
-8a
-4b
-4dd
-=4
-8ee
-8dd
-2b}
+=3	=3
+{8g	prze
+8a	ten
+4b	no-
+4dd	-wy
+=4	=4
+(8ff#q	.
+8ee)	dwo-
+8dd	-re-
+2b}	-czek.
 !!LO:LB:g=esac
-=5
-{4b
-8g
-8b
-8dd
-8b
-=6
-8a
-8b
-8a
-8g
-8f#
-8e}
+=5	=5
+{4b	Chciał
+8g\	z_nią
+8b	po-
+8dd	-ga-
+8b	-dać,
+=6	=6
+8a	że-
+8b/	-by
+8a	mu
+8g	chcia-
+8f#	-ła
+8e}	dać
 !!LO:LB:g=esac
-=7
-{8g
-8a
-4b
-4b
-=8
-8a
-16g
-16f#
-2e}
-==
-*-
+=7	=7
+{8g	z_dro-
+8a	-bnej
+4b	ru-
+4b	-tki
+=8	=8
+8a	wiá-
+16gL	-ne-
+16f#J	.
+2e}	-czek.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Ubrał się szumnie
+!!i przyjechał do mnie
+!!prze ten nowy dworeczek. 
+!!Chciał z nią pogadać,
+!!żeby mu chciała dać
+!!z drobnej rutki wiáneczek.
+!!@VERSE:
+!!2. Ach, mój Jasieńku,
+!!ach, mój kochany,
+!!dyćbym ja ci go dała,
+!!moja matula,
+!!moja kochana
+!!na mnie by wymyślała.
+!!@VERSE:
+!!3. Jeszcze nie świta,
+!!matula się pyta:
+!!Gdzieżeś wianek podziała?
+!!Moja matulu,
+!!moja kochana,
+!!Jasieńkowim go dała.
+!!@VERSE:
+!!4. Moja córeczko,
+!!moja kochana,
+!!po cóżeś ty mu dała?
+!!Moja matulu,
+!!moja kochana,
+!!a boćem go kochała.
+!!@VERSE:
+!!5. A mój Jasieńku,
+!!a mój kochany,
+!!szkoda ci mnie potkała:
+!!miałam trzy wianeczki
+!!z drobnej ruteczki,
+!!woda mi je zabrała.
+!!@VERSE:
+!!6. Moja Kasieńku,
+!!moja kochana,
+!!nie chłopocz ty się o nie,
+!!mam parę łabędzi,
+!!mam parę bielutkich,
+!!poślę ci ja ich po nie.
+!!@VERSE:
+!!7. Łabędzie pływają,
+!!żałośnie krzykają
+!!po téj bystréj wodeczce,
+!!żałośnie krzykają,
+!!wianuszka szukają
+!!tej nadobnej dzieweczce.
+!!@VERSE:
+!!8. A kiedy od matki
+!!idę na kwiatki
+!!do ogródeczka mego,
+!!listeczki zbladły,
+!!kwiatki opadły
+!!z rozmarynu mojego.
+!!@@END: VERSES
+!!!role-singer: Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=111 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 34} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 34}
 !!!page: 34
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-14

@@ -3,54 +3,70 @@
 !!!source: DWOK41
 !!!id: 41037
 !!!signature: 4103700010
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16cc
-16cc
-8a
-8a
-=2
-4b
-8e}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{16cc	Dam
+16cc	ci
+8a	gę-
+8a	-by
+=2	=2
+4b	z_chę-
+8e}	-ci,
 !!LO:LB:g=esac
-=3
-{16cc
-16cc
-8a
-8a
-=4
-4b
-8e}
+=3	=3
+{16cc	mám
+16cc	cię
+8a	na
+8a	pa-
+=4	=4
+4b	-mię-
+8e}	-ci,
 !!LO:LB:g=esac
-=5
-{16a
-16cc
-8b
-8cc
-=6
-16dd
-16ee
-8dd
-8dd}
+=5	=5
+{16a	a-
+16cc	-le
+8b	ma-
+8cc	-tka
+=6	=6
+16dd	szla-
+16ee	-ka
+8dd	zja-
+8dd}	-dła,
 !!LO:LB:g=esac
-=7
-{16cc
-16a
-8b
-16g#
-16a
-=8
-4b
-8e}
-==
-*-
+=7	=7
+{16cc	wciąż
+16a	mi
+8b	się
+16g#L	tu
+16aJ	.
+=8	=8
+4b	krę-
+8e}	-ci.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Dam ci gęby z chęci,
+!!mám cię na pamięci,
+!!ale matka szlaka zjadła,
+!!wciąż mi się tu kręci.
+!!@VERSE:
+!!2. Na przypiecku ciasno,
+!!na izbie za jasno,
+!!dajże, Boże, Panie Chryste,
+!!żeby prędzy zgasło.
+!!@@END: VERSES
+!!!role-singer: Mistress
+!!!role-listener: Lover
+!!!singer-sex: Female
 !!!ONB: Część wokalna
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=122 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 45} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 45}
 !!!page: 45
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-16

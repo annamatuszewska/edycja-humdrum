@@ -3,64 +3,97 @@
 !!!source: DWOK41
 !!!id: 41023
 !!!signature: 4102300002
-**kern
-*clefG2
-*k[b-e-]
-*g:
-*M4/4
-=1
-{4b-
-4cc
-4dd
-4b-
-=2
-8dd
-8dd
-8ee-
-8dd
-4cc
-4b-
-=3
-8dd
-8dd
-8ee-
-8dd
-4cc
-4b-}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*g:	*
+*M4/4	*
+=1	=1
+{4b-	Oj,
+4cc/	sama
+4dd	sa-
+4b-	-ma,
+=2	=2
+8dd	ma-
+8dd	-tu-
+8ee-	-leń-
+8dd	-ku,
+4cc	sa-
+4b-	-ma,
+=3	=3
+8dd	ma-
+8dd	-tu-
+8ee-	-leń-
+8dd	-ku,
+4cc	sa-
+4b-}	-ma,
 !!LO:LB:g=esac
-=4
-{4cc
-8cc
-8dd
-8b-
-8a
-4g
-=5
-8g
-8a
-8b-
-8g
-4dd
-4f#}
+=4	=4
+{4cc	a
+8cc	wy-
+8dd	-da-
+8b-/L	-łaś
+8aJ	.
+4g	mnie
+=5	=5
+8g	za
+8a	grzec-
+8b-	-ne-
+8g	-go
+4dd	pa-
+4f#}	-na,
 !!LO:LB:g=esac
-=6
-{4cc
-8cc
-8dd
-8b-
-8a
-4g
-=7
-8g
-8a
-8b-
-8a
-4g
-4g}
-==
-*-
+=6	=6
+{4cc	za
+8ccL	ta-
+8ddJ	.
+8b-/L	-kie-
+8aJ	.
+4g	-go,
+=7	=7
+8g	ja-
+8a	-ka
+8b-	i
+8a	ja
+4g	sa-
+4g}	-ma.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj, sama, sama, matuleńku, sama,
+!!a wydałaś mnie za grzecnego pana,
+!!za takiego, jaka i ja sama.
+!!@VERSE:
+!!2. Byle było |:sześć koni w karycie:|,
+!!a w karycie dokoła obicie,
+!!byle były sługi w jaksamicie.
+!!@VERSE:
+!!3. Byle była kapela, muzyka,
+!!byle była pańska polityka.
+!!@VERSE:
+!!4. Byle były stoły marmurowe,
+!!byle były okna kryśtałowe.
+!!@VERSE:
+!!5. Byle były noże, widelice,
+!!byle były złociste śklenice.
+!!@VERSE:
+!!6. Byle były chłopaki do grania.
+!!byle były panny do śpiewania.
+!!@VERSE:
+!!7. A ja ci téż będe panny chować,
+!!żeby mieli z kim chłopcy tańcować.
+!!@VERSE:
+!!8. Jać téż będe sama tańcowała
+!!z tem Jasieńkiem, com go spodobała.
+!!@VERSE:
+!!9. Moja Kasiu, nie tańcuj tak wiele,
+!!bo z twoji główki pospaduje siele.
+!!@@END: VERSES
+!!!role-singer: Various characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=115 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 38} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 38}
 !!!page: 38
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-15

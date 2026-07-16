@@ -3,85 +3,95 @@
 !!!source: DWOK41
 !!!id: 41012
 !!!signature: 4101200002
-**kern
-*clefG2
-*k[b-]
-*d:
-*M3/8
-=1
-{8dd
-16dd
-16ee
-16ff
-16ee
-=2
-8dd
-4a
-=3
-8cc
-16cc
-16b-
-16g
-16a
-=4
-8f
-4d}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*d:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Chmiel	.
+{8dd	Oj,
+16ddL	chmie-
+16eeJ	.
+16ffL	-lu,
+16eeJ	.
+=2	=2
+8dd	chmie-
+4a	-lu,
+=3	=3
+8cc	ty
+16ccL	roz-
+16b-J	.
+16gL	-pus-
+16aJ	.
+=4	=4
+8f	-tni-
+4d}	-ku,
 !!LO:LB:g=esac
-=5
-{8dd
-16dd
-16ee
-16ff
-16ee
-=6
-8dd
-4a
-=7
-8cc
-16cc
-16b-
-16g
-16a
-=8
-8f
-4d}
+=5	=5
+{8dd	roz-
+16ddL	-bi-
+16eeJ	.
+16ffL	-łeś
+16eeJ	.
+=6	=6
+8dd	dziew-
+4a	-kę
+=7	=7
+8cc	na
+16ccL	pa-
+16b-J	.
+16gL	-stew-
+16aJ	.
+=8	=8
+8f	-ni-
+4d}	-ku.
 !!LO:LB:g=esac
-=9
-{8cc
-8g
-16b-
-16a
-=10
-16cc
-16cc
-8g
-16cc
-16b-
-=11
-8cc
-8g
-16b-
-16a}
+=9	=9
+{8cc	Oj,
+8g	chmie-
+16b-/L	-lu,
+16aJ	.
+=10	=10
+16cc	oj,
+16cc	nie-
+8g	-bo-
+16cc/L	-że,
+16b-/J	.
+=11	=11
+8cc	ja
+8g	po
+16b-/	do-
+16a}	-le,
 !!LO:LB:g=esac
-=12
-{16cc
-16cc
-8g
-16b-
-16a
-=13
-16cc
-16cc
-8dd
-16b-
-16g
-=14
-8a
-4d}
-==
-*-
+=12	=12
+{16cc	ty
+16cc	po
+8g	gó-
+16b-/L	-rze,
+16aJ	.
+=13	=13
+16cc	chmie-
+16cc	-lu
+8dd	nie-
+16b-/L	-bo-
+16gJ	.
+=14	=14
+8a\	-że!
+4d}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oj, chmielu, chmielu, ty rozpustniku,
+!!rozbiłeś dziewkę na pastewniku.
+!!Oj, chmielu, oj, nieboże, ja po dole,
+!!ty po górze, chmielu nieboże!
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=105 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 30} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 30}
 !!!page: 30
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-14

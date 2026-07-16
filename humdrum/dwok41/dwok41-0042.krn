@@ -3,60 +3,75 @@
 !!!source: DWOK41
 !!!id: 41042
 !!!signature: 4104200000
-**kern
-*clefG2
-*k[b-e-]
-*g:
-*M3/8
-=
-{24g
-24b-
-24dd
-8a
-8f#
-=1
-16d
-16f#
-8a
-8cc}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*g:	*
+*M3/8	*
+=1	=1
+{24gL	Wy-
+24b-/J	.
+24dd	-so-
+8a	-ki
+8f#	las,
+=2	=2
+16d	ni-
+16f#	-skie
+8a	po-
+8cc}	-le,
 !!LO:LB:g=esac
-=
-{24g
-24b-
-24dd
-8a
-8f#
-=2
-16d
-16f#
-8a
-8g}
+=3	=3
+{24gL	da-
+24b-/J	.
+24dd	-le-
+8a	-ko
+8f#	tam
+=4	=4
+16d	dziew-
+16f#	-cze
+8a	mo-
+8g}	-je,
 !!LO:LB:g=esac
-=3
-{8.a
-16g
-16a
-16f#
-=4
-16d
-16f#
-8a
-8cc}
+=5	=5
+{8.a	choć-
+16g	-bym
+(8bq-	.
+16a)	wo-
+16f#	-łał,
+=6	=6
+16d	niż
+16f#	u-
+8a	-sły-
+8cc}	-szy,
 !!LO:LB:g=esac
-=5
-{8.a
-16g
-16a
-16f#
-=6
-16d
-16f#
-8a
-8g}
-==
-*-
+=7	=7
+{8.a	bę-
+16g	-dzie-
+(8b-q	.
+16a)	-my-
+16f#	-ślić,
+=8	=8
+16d	że
+16f#	to
+8a	in-
+8g}	-szy.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Wysoki las, niskie pole,
+!!daleko tam dziewcze moje,
+!!choćbym wołał, niż usłyszy,
+!!będzie myślić, że to inszy.
+!!@VERSE:
+!!2. Choćbym strzelił, to się boję.
+!!bobym trafił dziewcze moje.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=123 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 46} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 46}
 !!!page: 46
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-16
