@@ -3,52 +3,61 @@
 !!!source: DWOK41
 !!!id: 41057
 !!!signature: 4105700000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{4dd
-8ee
-=2
-8dd
-16b
-16g
-8r
-=3
-4b
-8dd
-=4
-8a
-16f#
-16d}
-8r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{4dd	A
+8ee	na
+=2	=2
+8dd	bo-
+16b/L	-ru
+16gJ	.
+8r	.
+=3	=3
+4b	ja-
+8dd	-go-
+=4	=4
+8a	-dy
+16f#L	są,
+16d}J	.
+8r	.
 !!LO:LB:g=esac
-=5
-{16g
-16a
-8b
-16ee
-16dd
-=6
-16cc
-16b
-8a
-8f#
-=7
-8.g
-16b
-8dd
-=8
-8a
-16f#
-16d}
-8r
-==
-*-
+=5	=5
+{16g	zbié-
+16a	-ra-
+8b	-ła
+16eeL	je
+16ddJ	.
+=6	=6
+16cc	Ma-
+16b	-ry-
+8a	-sie-
+(8eq	.
+8f#)	-czka,
+=7	=7
+8.gL	ko-
+16b/J	.
+8dd	-cha-
+=8	=8
+8a	-nek
+16f#L	z
+16d}J	nią.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A na boru jagody są,
+!!zbiérała je Marysieczka,
+!!kochanek z nią.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=133 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 54} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 54}
 !!!page: 54
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-18

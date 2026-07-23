@@ -3,55 +3,76 @@
 !!!source: DWOK41
 !!!id: 41093
 !!!signature: 4109300001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16b
-8dd
-8dd
-=2
-16dd
-16dd
-8ee
-8cc}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Kie-
+16b	-ni
+8dd	żeś
+8dd	mi,
+=2	=2
+16dd	có-
+16dd	-ruś,
+8ee	by-
+8cc}	-ła,
 !!LO:LB:g=esac
-=3
-{16a
-16a
-8cc
-8a
-=4
-16cc
-16dd
-8b
-8g}
+=3	=3
+{16a	coś
+16a	mi
+8cc	się
+8a	tak
+=4	=4
+16cc	u-
+16dd	-ro-
+8b	-si-
+8g}	-ła?
 !!LO:LB:g=esac
-=5
-{8e
-8g
-16f#
-16d
-=6
-16d
-16f#
-8a
-8b}
+=5	=5
+{8e	Bo
+8g	mo-
+16f#	-kry
+16d	len
+=6	=6
+16d	był,
+16f#	ma-
+8a	-tecz-
+8b}	-ko,
 !!LO:LB:g=esac
-=7
-{8e
-8.g
-16e
-=8
-8f#
-4d}
-==
-*-
+=7	=7
+{8e	bo
+8.g	mo-
+16e	-kry
+=8	=8
+8f#	len
+4d}	był.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Kieni żeś mi, córuś, była,
+!!coś mi się tak urosiła?
+!!Bo mokry len był, mateczko,
+!!bo mokry len był.
+!!@VERSE:
+!!2. Lepij w domu pod pierzyną,
+!!niźli w boru pod chojiną.
+!!A lepij w domu, mateczko,
+!!a lepij w domu.
+!!@VERSE:
+!!3. Pod chojiną syski kolą,
+!!pod pierzyną figle stroją.
+!!A lepij w domu, mateczko,
+!!a lepij w domu.
+!!@@END: VERSES
+!!!role-singer: Mother, Daughter
+!!!role-listener: Mother, Daughter
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=154 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 75} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 75}
 !!!page: 75
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-23

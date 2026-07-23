@@ -3,52 +3,68 @@
 !!!source: DWOK41
 !!!id: 41089
 !!!signature: 4108900001
-**kern
-*clefG2
-*k[b-]
-*F:
-*M2/4
-=1
-{8.cc
-16a
-8f
-8f
-=2
-8cc
-8b-
-4g}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M2/4	*
+=1	=1
+{8.cc	Po-
+16a	-szła
+8f	pan-
+8f	-na
+=2	=2
+8cc	po
+8b-	wo-
+4g}	-dę,
 !!LO:LB:g=esac
-=3
-{8.cc
-16a
-8f
-8f
-=4
-8g
-8e
-4c}
+=3	=3
+{8.cc	mia-
+16a	-ła
+8f	pię-
+8f	-kną
+=4	=4
+8g	u-
+8e	-ro-
+4c}	-dę,
 !!LO:LB:g=esac
-=5
-{8.f
-16g
-8a
-8b-
-=6
-4cc
-4ff}
+=5	=5
+{8.f	na-
+16g	-po-
+8a	-tkał
+8b-	ją
+=6	=6
+4cc	pan,
+4ff}	pan,
 !!LO:LB:g=esac
-=7
-{8ee
-8ee
-8ff
-8b
-=8
-4cc}
-4r
-==
-*-
+=7	=7
+{8ee	po-
+8ee	-tłuk
+8ff	ci
+8b	ji
+=8	=8
+4cc}	dzban.
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Poszła panna po wodę,
+!!miała piękną urodę,
+!!napotkał ją pan, pan,
+!!potłuk ci ji dzban.
+!!@VERSE:
+!!2. Cytże dziewcze, nie płaczże,
+!!bo ja ten dzban zapłacę,
+!!talara ci dam, dam,
+!!talara ci dam.
+!!@@END: VERSES
+!!!role-singer: Narrator, Man 
+!!!role-listener: Girl
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=152 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 73} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 73}
 !!!page: 73
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-21

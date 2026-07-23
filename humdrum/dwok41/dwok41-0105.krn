@@ -3,65 +3,92 @@
 !!!source: DWOK41
 !!!id: 41105
 !!!signature: 4110500000
-**kern
-*clefG2
-*k[f#]
-*e:
-*M3/8
-=1
-{16e
-16e
-8ee
-8dd
-=2
-8ee
-4b
-=3
-16dd
-16cc
-8b
-8a
-=4
-8ee
-4b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*e:	*
+*M3/8	*
+=1	=1
+{16e	A
+16e	mo-
+8ee	-ja
+8dd	dziew-
+=2	=2
+8ee	-czy-
+4b	-no,
+=3	=3
+16dd	czy
+16cc	ci
+8b	bę-
+8a	-dzie
+=4	=4
+8ee	nie
+4b}	żal,
 !!LO:LB:g=esac
-=5
-{16e
-16g
-8b
-8b
-=6
-8cc
-4a
-=7
-16a
-16g
-8f#
-8e
-=8
-8g
-4b}
+=5	=5
+{16e	a
+16g	kie-
+8b	-dy
+8b	ja
+=6	=6
+8cc	bę-
+4a	-dę
+=7	=7
+16a	pod
+16g	o-
+8f#	-kien-
+8e	-kiem
+=8	=8
+8g	le-
+4b}	-żał,
 !!LO:LB:g=esac
-=9
-{16e
-16g
-8b
-8b
-=10
-8cc
-4a
-=11
-16a
-16g
-8f#
-8e
-=12
-8g
-4e}
-==
-*-
+=9	=9
+{16e	a
+16g	kie-
+8b	-dy
+8b	ja
+=10	=10
+8cc	bę-
+4a	-dę
+=11	=11
+16a	pod
+16g	o-
+8f#	-kien-
+8e	-kiem
+=12	=12
+(8f#q	.
+8g)	le-
+4e}	-żał?
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A moja dziewczyno,
+!!czy ci będzie nie żal,
+!!|:a kiedy ja będę
+!!pod okienkiem leżał:|.
+!!@VERSE:
+!!2. A żal mnie, a żal mnie,
+!!a cóś ja mam czynić,
+!!|: kiedy ojciec, matka
+!!nie da oknem wyjrzyć:|.
+!!@VERSE:
+!!3. A wyjrzyjże, wyjrzyj,
+!!a zamów o wodę,
+!!|: a weśże chusteczkę.
+!!zawiniesz mi głowę:|.
+!!@VERSE:
+!!4. A weśże chusteczkę,
+!!weśże tę zieloną,
+!!|: zawiniesz mi główkę
+!!tę moją zranioną:|.
+!!@@END: VERSES
+!!!role-singer: Lover, Mistress
+!!!role-listener: Mistress, Lover
+!!!singer-sex: Male, Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=157 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 78} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 78}
 !!!page: 78
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-23

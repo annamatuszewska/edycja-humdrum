@@ -3,50 +3,65 @@
 !!!source: DWOK41
 !!!id: 41116
 !!!signature: 4111600000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16e
-16g#
-8a
-8cc
-=2
-8ee
-4cc
-=3
-16ee
-16gg
-8ee
-8cc
-=4
-16a
-16g#
-4e}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{16e	Pa-
+16g#	-mię-
+8a	-taj,
+8cc	dziew-
+=2	=2
+8ee	-czy-
+4cc	-no,
+=3	=3
+16ee	ga-
+16gg	-da-
+8ee	-ją
+8cc	o
+=4	=4
+16aL	to-
+16g#J	.
+4e}	-bie,
 !!LO:LB:g=esac
-=5
-{16e
-16g#
-8a
-8cc
-=6
-8ee
-4cc
-=7
-16b
-16g#
-8a
-8cc
-=8
-16a
-16g#
-4e}
-==
-*-
+=5	=5
+{16e	a
+16g#	żeć
+8a	się
+8cc	pod-
+=6	=6
+8ee	-no-
+4cc	-si
+=7	=7
+16b	far-
+16g#	-tu-
+8a	-szek
+8cc	na
+=8	=8
+16aL	to-
+16g#J	.
+4e}	-bie.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Pamiętaj, dziewczyno,
+!!gadają o tobie,
+!!a żeć się podnosi
+!!fartuszek na tobie.
+!!@VERSE:
+!!2. A niech się podnosi,
+!!bom go krochmaliła,
+!!pamiętaj, dziewczyno,
+!!by to prawda była.
+!!@@END: VERSES
+!!!role-singer: Complex
+!!!role-listener: Girl 
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=164 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 85} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 85}
 !!!page: 85
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-23

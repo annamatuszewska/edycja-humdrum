@@ -3,40 +3,64 @@
 !!!source: DWOK41
 !!!id: 41083
 !!!signature: 4108300001
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16e
-16g#
-8a
-8cc
-=2
-8ee
-4b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{16e	Nie
+16g#	bę-
+8a	-dę
+8cc	ja
+=2	=2
+8ee	pa-
+4b}	-sła
 !!LO:LB:g=esac
-=3
-{16g#
-16b
-8dd
-8cc
-=4
-8g#
-4e}
+=3	=3
+{16g#	te-
+16b	-go
+8dd	by-
+8cc	-dła
+=4	=4
+8g#	z_mia-
+4e}	-sta
 !!LO:LB:g=esac
-=5
-{16e
-16g#
-8a
-8cc
-=6
-4.a}
-==
-*-
+=5	=5
+{16e	mię-
+16g#	-dzy
+8a	dro-
+8cc	-ga-
+=6	=6
+4.a}	-mi.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Nie będę ja pasła
+!!tego bydła z miasta
+!!między drogami.
+!!@VERSE:
+!!2. A boby mnie ciernie
+!!pokłuło niezmiernie
+!!między nogami.
+!!@VERSE:
+!!3. Przysłała dziewczyna,
+!!przysłała nadobna,
+!!żebym się z nią ożenił.
+!!@VERSE:
+!!4. A ja nieboraczek,
+!!ciężki na mnie roczek
+!!czémże bym ją używił?
+!!@VERSE:
+!!5. A są w stawie ryby,
+!!kole stawu grzyby,
+!!tém ci bym ją używił.
+!!@@END: VERSES
+!!!role-singer:  Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=148 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 69} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 69}
 !!!page: 69
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-20

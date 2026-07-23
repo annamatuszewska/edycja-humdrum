@@ -3,48 +3,60 @@
 !!!source: DWOK41
 !!!id: 41070
 !!!signature: 4107000000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M4/4
-=1
-{4g
-8b
-8dd
-8gg
-8ff#
-4ee
-=2
-4dd
-4gg
-2dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M4/4	*
+=1	=1
+{4g	Szé-
+8b	-ro-
+8dd	-ka
+8ggL	wo-
+8ff#J	.
+4ee	-da
+=2	=2
+4dd	na
+4gg	Wiś-
+2dd}	-le,
 !!LO:LB:g=esac
-=3
-{4ee
-8dd
-8cc
-4b
-4a
-=4
-4cc
-4ee
-2dd}
+=3	=3
+{4ee	ach,
+8dd	mo-
+8cc	-je
+4b	dziew-
+4a	-cze,
+=4	=4
+4cc	wspom-
+4ee	-nisz
+2dd}	mnie,
 !!LO:LB:g=esac
-=5
-{4ee
-8dd
-8cc
-4b
-4dd
-=6
-4cc
-4a
-2g}
-==
-*-
+=5	=5
+{4ee	ach,
+8dd	mo-
+8cc	-je
+4b	dziew-
+4dd	-cze,
+=6	=6
+4cc	wspom-
+4a	-nisz
+2g}	mnie.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Széroka woda na Wiśle,
+!!|:ach, moje dziewcze, wspomnisz mnie:|.
+!!@VERSE:
+!!2. Choć ty sierotka, a ja pán,
+!!|:równo ja ciebie w sercu mám:|.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Girl
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=140 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 61} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 61}
 !!!page: 61
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-19

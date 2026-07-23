@@ -3,76 +3,101 @@
 !!!source: DWOK41
 !!!id: 41065
 !!!signature: 4106500001
-**kern
-*clefG2
-*k[]
-*a:
-*M2/4
-=1
-{8a
-8a
-8cc
-8a
-=2
-8a
-8a
-8cc
-8a
-=3
-8cc
-8ee
-8gg
-16ff
-16ee
-=4
-4ee
-4a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M2/4	*
+=1	=1
+{8a	Ra-
+8a	-ji-
+8cc	-li
+8a	mi
+=2	=2
+8a	ka-
+8a	-wa-
+8cc	-li-
+8a	-ra
+=3	=3
+8cc	z_bo-
+8ee	-ga-
+8gg	-te-
+16ffL	-go
+16eeJ	.
+=4	=4
+4ee	do-
+4a}\	-mu,
 !!LO:LB:g=esac
-=5
-{8ee
-8gg
-8dd
-8ee
-=6
-8a
-16cc
-16b
-8a
-8g#
-=7
-8a
-8cc
-8b
-8dd
-=8
-4a
-4a}
+=5	=5
+{8ee	a
+8gg	on
+8dd	mi
+8ee	się
+=6	=6
+8a	nie
+16ccL	spo-
+16bJ	.
+8a	-do-
+8g#	-bał,
+=7	=7
+8a	sa-
+8cc	-ma
+8b	nie
+8dd	wiem
+=8	=8
+4a	cze-
+4a}	-mu,
 !!LO:LB:g=esac
-=9
-{8ee
-8gg
-8dd
-8ee
-=10
-8a
-16cc
-16b
-8a
-8g#
-=11
-8a
-16cc
-16b
-8dd
-16cc
-16b
-=12
-4a
-4a}
-==
-*-
+=9	=9
+{8ee	a
+8gg	on
+8dd	mi
+8ee	się
+=10	=10
+8a	nie
+16ccL	spo-
+16bJ	.
+8a	-do-
+8g#	-bał,
+=11	=11
+8a	sa-
+16ccL	-ma
+16bJ	.
+8dd	nie
+16ccL	wiem,
+16bJ	.
+=12	=12
+4a	cze-
+4a}	-mu.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Rajili mi kawalira
+!!z bogatego domu,
+!!|:a on mi się nie spodobał,
+!!sama nie wiem czemu:|.
+!!@VERSE:
+!!2. Z tegoć mi się nie spodobał,
+!!co się zawdy śmieje,
+!!|: czarne zęby, śmierdzi z geby.
+!!aż mi się coś dzieje:|.
+!!@VERSE:
+!!3. Wargi chude, wąsy długie.
+!!ślipie jak u kota,
+!!|: jeszczećem téż nie widziała
+!!takiego chłopaka:|.
+!!@VERSE:
+!!4. Szyja długa, ręka chuda,
+!!łeb kieby u cielca,
+!!|:jeszczecem też nie widziała
+!!takiego wisielca:|.
+!!@@END: VERSES
+!!!role-singer: Single Girl
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=137 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 58} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 58}
 !!!page: 58
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-18

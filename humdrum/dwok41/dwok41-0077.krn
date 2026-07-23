@@ -3,63 +3,126 @@
 !!!source: DWOK41
 !!!id: 41077
 !!!signature: 4107700000
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M3/4
-=1
-{4b-
-8b-
-8f
-8b-
-8dd
-=2
-4ff
-8ff
-8ee-
-8dd
-8cc}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M3/4	*
+=1	=1
+{4b-	Kie-
+8b-	-dy
+8f	ja
+8b-	ja-
+8dd	-dę
+=2	=2
+4ff	we
+8ff	dnie
+8ee-	i
+8dd	w_no-
+8cc}	-cy,
 !!LO:LB:g=esac
-=3
-{4ee-
-8ee-
-8cc
-8ee-
-8gg
-=4
-4cc
-8cc
-8b-
-8a
-8f}
+=3	=3
+{4ee-	to
+8ee-	ja
+8cc	wy-
+8ee-	-ja-
+8gg	-dę
+=4	=4
+4cc	ko-
+8cc	-nio-
+8b-	-wi
+8a	o-
+8f}	-czy,
 !!LO:LB:g=esac
-=5
-{8f
-8f
-4b-
-4f
-=6
-8b-
-8dd
-2ff}
+=5	=5
+{8f	a
+8f	ty
+4b-	mo-
+4f	-ją
+=6	=6
+8b-	mu-
+8dd	-sisz
+2ff}	być,
 !!LO:LB:g=esac
-=7
-{8ee-
-8gg
-8ee-
-8dd
-8cc
-8b-
-=8
-8a
-8f
-4b-}
-4r
-==
-*-
+=7	=7
+{8ee-	mo-
+8gg	-ją
+8ee-L	wo-
+8ddJ	.
+8ccL	-lą
+8b-J	.
+=8	=8
+8a	u-
+8f	-czy-
+4b-}	-nić.
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Kiedy ja jadę we dnie i w nocy,
+!!to ja wyjadę koniowi oczy,
+!!a ty moją musisz być,
+!!moją wolą uczynić.
+!!@VERSE:
+!!2. Stanę ja się dziką przepiórzycą,
+!!będę siadała w polu pod bylicą.
+!!jednak twoją nie chcę być,
+!!twojéj woli dopełnić.
+!!@VERSE:
+!!3. Będę ja, będę zastawiał sieci,
+!!to mi przepiórka sama w nie wleci,
+!!a ty moją musisz być,
+!![moją wolą uczynić].
+!!@VERSE:
+!!4. Stanę się, stanę śłybrnym pierścieńcem,
+!!będę się toczył bitym gościcńcem,
+!!jednak twoją [nie chcę być,
+!!twojéj woli dopełnić].
+!!@VERSE:
+!!5. Będę ja, będę miał bystre oczy,
+!!co będę widział, gdzie pierścień toczy,
+!!a ty moją [musisz być,
+!!moją wolą uczynić].
+!!@VERSE:
+!!6. Skryję się, skryję w ciemne obłoki,
+!!już mnie nie zobaczysz aż na wieki,
+!!jednak twoją [nie chcę być.
+!!twojéj woli dopełnić].
+!!@VERSE:
+!!7. Mam ci ja takie szable1 przy boku,
+!!co wycinają panny w obłoku,
+!!a ty moją [musisz być.
+!!moją wolą uczynić].
+!!@VERSE:
+!!8. Wzniesę sie, wzniesę w gwiazdki na niebie.
+!!będę świeciła ludzkiej potrzebie.
+!!jednak twoją [nie chcę być,
+!!twojéj woli dopełnić].
+!!@VERSE:
+!!9. Będę ja pościł, dawał jałmużnę.
+!!co wyprowadzę gwiazdkę usłużnę2,
+!!a ty moją [musisz być.
+!!moją wolą uczynić].
+!!@VERSE:
+!!10. Grajcie kapele3 na wszystkie strony,
+!!chwała bądź Bogu, żem dostał żony,
+!!a ty moją [musisz być,
+!!moją wolą uczynić].
+!!@VERSE:
+!!11. Oj, matko, matko, pieczcie kołacze,
+!!niechaj ten dureń w drzwi nie kołace,
+!!twoją, twoją muszę być,
+!!twoją wolą uczynić.
+!!@@END: VERSES
+!!@@BEGIN:
+!! @COMMENTARY: (1) lub: strzały, (2) lub: te jasną gwiazdę, (3) lub: muzyki
+!!@@END:
+!!!role-singer: Many characters
+!!!singer-sex: Male, Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=143 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 64} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 64}
 !!!page: 64
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-19
