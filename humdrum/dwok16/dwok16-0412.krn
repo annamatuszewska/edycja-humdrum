@@ -3,56 +3,143 @@
 !!!source: DWOK16
 !!!id: 16412
 !!!signature: 1641200000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M4/4
-=1
-{4dd
-8b
-8a
-4g
-4d
-=2
-8g
-8b
-8dd
-8cc
-4b
-4dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M4/4	*
+*met(c)	*
+=1	=1
+!!LO:TX:a:t=Z garderoby.
+{4dd	Powiedz
+8b	.
+8a\	mi,
+4g	powiedz
+4d	.
+=2	=2
+8g	lewandowy
+8b	.
+8dd	.
+8cc	.
+(8aq	.
+4b)	kwiecie,
+(8cc#q	.
+4dd)}	.
 !!LO:LB:g=esac
-=3
-{4dd
-8b
-8a
-4g
-4d
-=4
-8f#
-8f#
-8a
-8a
-4g
-4g}
+=3	=3
+{4dd	czy
+8b	żyje,
+8a\	.
+4g	czy
+4d\	żyje
+=4	=4
+8f#	braciszek
+8f#	.
+8a	.
+8a	na
+4g\	świecie?
+4g\}	.
 !!LO:LB:g=esac
-=5
-{4dd
-8b
-8a
-4g
-8d
-8d
-=6
-8f#
-8f#
-8a
-8a
-4g
-4b}
-==
-*-
+=5	=5
+{4dd	czy
+8b	żyje,
+8a\	.
+4g	czy
+8dL	żyje
+8dJ	braciszek
+=6	=6
+8f#	.
+8f#	.
+8a	na
+8a	świecie?
+4g	.
+4b/}	.
+==	==
+*-	*-
+!!!role-singer: Sister, Narrator, Brother
+!!!role-listener: Lavender, Brother, Father
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Powiedz mi, powiedz
+!!lewandowy kwiecie,
+!!czy żyje, czy żyje
+!!braciszek na świecie?
+!!@VERSE:
+!!2. Oj żyje, żyje,
+!!z innemi bonuje (panuje?)
+!!proś Boga, siostrzyczko,
+!!do cię przywędruje.
+!!@VERSE:
+!!3. Jedzie braciszek
+!!przez ojcowskie pole,
+!!jego siostrunia
+!!piele len na dole.
+!!@VERSE:
+!!4. Nie jedź, braciszku
+!!do ojca do domu,
+!!bo cię pan-ojciec
+!!każe zabić komu.
+!!@VERSE:
+!!5. Nie pleć mi, siostro,
+!!dęba zielonego (duby smalone)
+!!jeszcze ja przeproszę
+!!ojca rodzonego.
+!!@VERSE:
+!!6. Puścił Jaś konia
+!!swego światowego,
+!!sam poszedł przepraszać
+!!ojca rodzonego.
+!!@VERSE:
+!!7. Chodzi pan-ojciec
+!!po nowéj ulicy,
+!!a swojego syna
+!!ostrym mieczem ćwiczy.
+!!@VERSE:
+!!8. Poślijcie-że mi
+!!po starszą siostrzyczkę,
+!!niech-że ja jej oddam
+!!te złote trzewiczki.
+!!@VERSE:
+!!9. Poślijcie-że mi
+!!po młodszą siostrzyczkę
+!!niech-że ja jéj oddam
+!!złote rękawiczki.
+!!@VERSE:
+!!10. Chodzi pan-ojciec
+!!po nowéj ulicy,
+!!załamuje ręce,
+!!jako bydle ryczy.
+!!@VERSE:
+!!11. Nie rychło, nie rychło
+!!tatuniu żałujesz,
+!!kiedy ty już na mnie
+!!wieczny dom (D.O.M.) budujesz.
+!!@VERSE:
+!!12. Nie rychłoś, nie rychłoś
+!!tatuniu, żałował,
+!!kiedyś ty już na mnie
+!!wieczny dom zbudował.
+!!@VERSE:
+!!13. Postawcie-że mnie
+!!na téj nowéj skrzyni,
+!!niech się krew moja
+!!nie wala po ziemi.
+!!@VERSE:
+!!14. Postawcie że mnie
+!!w kościele przy ciesie,
+!!niech się mój ojciec
+!!z macochą ucieszy.
+!!@VERSE:
+!!15. Postawcie-że mnie
+!!w kościele u progu,
+!!kto tędy przejdzie,
+!!powie: Chwała Bogu!
+!!@@END: VERSES
+!!!ONB: Być może pieśń szlachecka.
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=277 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 257} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 257}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

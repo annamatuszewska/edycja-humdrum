@@ -3,38 +3,85 @@
 !!!source: DWOK16
 !!!id: 16406
 !!!signature: 1640600002
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{4.a
-=2
-4.g#
-=3
-4.a
-=4
-4.g#}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{4.a\	Otwórzcie_mu,
+=2	=2
+4.g#\	matuleńku
+=3	=3
+4.a\	széroko_wro-
+=4	=4
+4.g#\}	-ta,
 !!LO:LB:g=esac
-=5
-{8a
-8.f
-16e
-=6
-16d
-16e
-8f
-8f
-=7
-8e
-4e
-=8
-4c}
-8r
-==
-*-
+=5	=5
+{8a\	a
+8.f\	niechże
+16e\	się
+=6	=6
+16dL	mój
+16eJ\	kochanek
+8fL	.
+8fJ\	.
+=7	=7
+8e\	nie_tyka
+4e\	pło-
+=8	=8
+4c\}	-ta.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Maiden, Bachelor, Maiden
+!!!role-listener: Mother, Maiden, Bachelor
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Otwórzcie mu, matuleńku
+!!széroko wrota,
+!!a niechże się mój kochanek
+!!nie tyka płota.
+!!@VERSE:
+!!2. Połóżcie mu, matuleńku,
+!!serwetę pod próg,
+!!a niech-że se mój kochanek
+!!nie tarza ostróg.
+!!@VERSE:
+!!3. Postawcie mu, matuleńku
+!!stół marmurowy,
+!!a na stole marmurowym
+!!obrus perłowy.
+!!@VERSE:
+!!4. Na obrusie na perłowym
+!!talérz toczony,
+!!na talerzu na toczonym
+!!kapłon pieczony.
+!!@VERSE:
+!!5. Spytajcie go, matuleńku
+!!czy-li ma nóż swój?
+!!a jak niéma swego noża,
+!!połóżcie mu mój.
+!!@VERSE:
+!!6. — Dziękuję ci, Anuleńku,
+!!za twoją powieść,
+!!oj i coś mi dała swego
+!!kapłonka podjeść.
+!!@VERSE:
+!!7. Jeszcze-bym ci, Anuleńku,
+!!lepiéj dziękował,
+!!żebym z tobą do niedziołki
+!!nocki nocował.
+!!@VERSE:
+!!8. — Już czas do dom, mój Jasieńku,
+!!już czas do domu,
+!!już koniki obrosiały
+!!stojąc na błoniu.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=274 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 254} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 254}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

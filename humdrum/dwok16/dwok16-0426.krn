@@ -3,100 +3,114 @@
 !!!source: DWOK16
 !!!id: 16426
 !!!signature: 1642600000
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M3/8
-=1
-{8a
-8cc#
-8dd
-=2
-8a
-4g
-=3
-8a
-8cc#
-8dd
-=4
-8a
-4g}
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M3/8	*
+=1	=1
+{8a\	U
+8cc#	jezio-
+8dd	.
+=2	=2
+8a	-reńka
+4g	.
+=3	=3
+8a\	by-
+8cc#	-stra
+8dd	wo-
+=4	=4
+8a	-deńka,
+4g}	.
 !!LO:LB:g=esac
-=5
-{8a
-8cc#
-8dd
-=6
-8ee
-4dd
-=7
-4.ee
-=8
-16cc#
-16a
-4r
-=9
-8ee
-8dd
-8dd
-=10
-16cc#
-16a
-4g}
+=5	=5
+{8a\	ta-
+8cc#	-mój
+8dd	gą-
+=6	=6
+8eeM	-seńka
+4dd	.
+=7	=7
+4.ee	pły-
+=8	=8
+16cc#L	-wa;
+16aJ	.
+4r	.
+=9	=9
+8eeL	ej
+8dd	tam
+8ddJ/	ci
+=10	=10
+16cc#L	moja
+16aJ	.
+4g}	.
 !!LO:LB:g=esac
-=11
-{8a
-8cc#
-8dd
-=12
-8a
-4g
-=13
-8a
-8cc#
-8dd
-=14
-8a
-4g}
+=15	=15
+{8a\	ta-
+8cc#	-mój
+8dd	gą-
+=16	=16
+8eeM	-seńka
+4dd	.
+=17	=17
+4.ee	pły-
+=18	=18
+16cc#L	-wa
+16aJ	.
+4r	.
+=19	=19
+8a\	grzecna
+8cc#	.
+8dd	na-
+=20	=20
+16cc#L	-dobna
+16aJ	.
+4g}	.
 !!LO:LB:g=esac
-=15
-{8a
-8cc#
-8dd
-=16
-8ee
-4dd
-=17
-4.ee
-=18
-16cc#
-16a
-4r
-=19
-8a
-8cc#
-8dd
-=20
-16cc#
-16a
-4g}
-!!LO:LB:g=esac
-=21
-{8a
-8cc#
-8dd
-=22
-8a
-4g
-=23
-4.a
-=24
-4a}
-8r
-==
-*-
+=21	=21
+{8a\	rę-
+8cc#	-ce,
+8dd	no-
+=22	=22
+8a	-gi
+4g	u-
+=23	=23
+4.a	-my-
+=24	=24
+4a}	-wa.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Bachelor, Narrator
+!!!role-listener: Children
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. U jezioreńka
+!!bystra wodeńka,
+!!tamój gąseńka pływa;
+!!ej tam ci moja
+!!grzecna nadobna
+!!ręce, nogi umywa.
+!!@VERSE:
+!!2. Nachyłiła się
+!!trześnia i wiśnia
+!!z drobnemi jagodami,
+!!ej zapłakała
+!!młoda wdoweńka
+!!za swemi dzieciątkami.
+!!@VERSE:
+!!3. Z wami ja z wami
+!!moje dziateńki,
+!!z wami ja dziatki, z wami,
+!!jako miesiącek
+!!jako jasneńki
+!!pomiędzy gwiazdeńkami.
+!!@@END: VERSES
+!!!ONB: Być może pieśń szlachecka.
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=285 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 265} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 265}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

@@ -3,75 +3,113 @@
 !!!source: DWOK16
 !!!id: 16420b
 !!!signature: 1642000002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8g
-8b
-8dd
-=2
-8dd
-8cc
-8a
-=3
-8cc
-8cc
-8b
-=4
-8a
-8f#
-8d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8g	W_mego
+8b	.
+8dd	czos-
+=2	=2
+8dd	-teńka
+8ccL	.
+8aJ	.
+=3	=3
+8ccL	sy-
+8cc	-wa
+8bJ/	gło-
+=4	=4
+8a	-weńka,
+8f#L	.
+8dJ}	.
 !!LO:LB:g=esac
-=5
-{8g
-8b
-8dd
-=6
-8dd
-4cc
-=7
-4.a
-=8
-8f#
-8d}
-8r
+=5	=5
+{8g	na-
+8b	-ścipió-
+8dd	.
+=6	=6
+8dd	-rek
+4cc	zie-
+=7	=7
+4.a	-lo-
+=8	=8
+(8f#L	-ny,
+8dJ)}	.
+8r	.
 !!LO:LB:g=esac
-=9
-{8a
-8f#
-8a
-=10
-8cc
-8a
-8g
-=11
-8b
-8b
-8a
-=12
-8a
-8f#
-8d}
+=9	=9
+{8aL	oj
+8f#	powiedz-
+8aJ\	.
+=10	=10
+8cc	-że
+8aL	mi,
+8gJ	.
+=11	=11
+8b/	mo-
+8b	-ja
+8a\	dziew-
+=12	=12
+8a	-czyno,
+8f#L	.
+8dJ}	.
 !!LO:LB:g=esac
-=13
-{8a
-8f#
-8a
-=14
-8b
-8g
-8e
-=15
-4.d
-=16
-4d}
-8r
-==
-*-
+=13	=13
+{8a	a
+8f#	w_czém
+8a	ja
+=14	=14
+8b	pogar-
+8gL	.
+8eJ	.
+=15	=15
+4.d	-dzo-
+=16	=16
+4d}	-ny?
+8r	.
+==	==
+*-	*-
+!!!role-singer: Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. W(u)mego czosteńka (czosnku)
+!!sywa głoweńka,
+!!naścipiórek zielony, —
+!!oj powiedz-że mi,
+!!moja dziewczyno,
+!!a w czém ja pogardzony?
+!!@VERSE:
+!!2. Gdzie’m tylko bywał,
+!!oj kiedym pijał,
+!!zawdy na twoje zdrowie;
+!!tyś o mnie nie dbała,
+!!li-ynszego’ś miała,
+!!Marysiu, serce moje.
+!!@VERSE:
+!!3. Wyjechał w pole,
+!!swysnuł na konie:
+!!bywaj mi, Marys(iu), zdrowa!
+!!W okienku siała,
+!!oj zapłakała:
+!!Jedź, kiedy wola twoja!
+!!@VERSE:
+!!4. Żebym ja miała
+!!służkę wiernego,
+!!posłała-bym po niego,
+!!żeb’ się nawrócił,
+!!służbę porzucił,
+!!bo mi tęskno bez niego.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: szczypiorek, łodyga
+!!@@END
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=282 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 262} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 262}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

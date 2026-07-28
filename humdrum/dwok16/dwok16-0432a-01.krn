@@ -3,63 +3,73 @@
 !!!source: DWOK16
 !!!id: 16432a
 !!!signature: 1643200001
-**kern
-*clefG2
-*k[b-e-]
-*g:
-*M3/8
-=1
-{8a
-4dd
-=2
-4cc
-8b-
-=3
-16a
-16cc#
-4dd
-=4
-16a
-16cc#
-8dd
-8dd
-=5
-4cc
-8b-
-=6
-16a
-16f#
-4g}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*g:	*
+*M3/8	*
+=1	=1
+{8a	Z_ponie-
+4dd	.
+=2	=2
+4cc	-działku
+8b-	.
+=3	=3
+16a\	na
+16cc#	święto
+4dd	.
+=4	=4
+16a\	fur-
+16cc#	-manowi
+8dd	.
+8dd	.
+=5	=5
+4ccn	ko-
+8b-	-nie
+=6	=6
+16a	za-
+16f#	-ję-
+4g}	-to.
 !!LO:LB:g=esac
-=7
-{16g
-16cc
-8b-
-8b-
-=8
-16a
-16f#
-8d
-8f#
-=9
-8g
-4b-
-=10
-16g
-16cc
-8b-
-8b-
-=11
-16a
-16f#
-8d
-8f#
-=12
-8g
-4d}
-==
-*-
+=7	=7
+{16g	A
+16cc	zaję-
+8b-	.
+8b-	-to
+=8	=8
+16a	fur-
+16f#	-manowi
+8d	.
+8f#	.
+=9	=9
+8g	konie,
+4b-/	.
+=10	=10
+16g	i
+16cc	nie
+8b-	wiedział
+8b-	.
+=11	=11
+16a	która
+16f#	.
+8d	dróżka
+8f#	.
+=12	=12
+8g\	po
+4d\}	nie.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Z poniedziałku na święto
+!!furmanowi konie zajęto.
+!!A zajęto furmanowi konie,
+!!i nie wiedział która dróżka po nie.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=288 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 268} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 268}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

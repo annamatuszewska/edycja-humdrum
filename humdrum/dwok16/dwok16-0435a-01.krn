@@ -3,62 +3,99 @@
 !!!source: DWOK16
 !!!id: 16435a
 !!!signature: 1643500001
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/4
-=1
-{8f
-8a
-4cc
-8ff
-8ee
-=2
-8cc
-8b-
-8ff
-8dd
-8cc
-8a
-=3
-8f
-8a
-4cc
-8ff
-8ee
-=4
-8dd
-8dd
-2cc}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/4	*
+=1	=1
+{8f	Kiedym
+8a	.
+4cc	ja
+8ffL	szedł
+8eeJ	.
+=2	=2
+8dd	od
+8b-	swoji
+8ff	.
+8dd	dziewczyny
+8cc	.
+8a\	.
+=3	=3
+8f	świecił
+8a	.
+4cc	miesiąc
+8ffL	.
+8eeJ	.
+=4	=4
+8dd	wysoko.
+8dd	.
+2cc}	.
 !!LO:LB:g=esac
-=5
-{8a
-8cc
-4g
-8g
-8f
-=6
-8a
-8cc
-8cc
-8dd
-8cc
-8a
-=7
-8a
-8a
-4g
-8ff
-8ee
-=8
-8dd
-16dd
-16b
-2cc}
-==
-*-
+=5	=5
+{8a\	Óna
+8cc	.
+4g	za
+8gL	mną
+8fJ	.
+=6	=6
+8a\	za
+8cc	mną
+8cc	wyglądała,
+8dd	.
+8cc	.
+8a\	.
+=7	=7
+8a	czy
+8a	u-
+4g	-je-
+8ffL	-chał
+8eeJ	.
+=8	=8
+8dd	da-
+16ddL	-le-
+16bnJ	.
+2cc}	-ko.
+==	==
+*-	*-
+!!!role-singer: Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Kiedym ja szedł od swojéj dziewczyny
+!!świecił miesiąc wysoko.
+!!Óna za mną oknem wyglądała,
+!!czy ujechał daleko.
+!!@VERSE:
+!!2. A ujechał cztéry staje pola,
+!!óna za mną płakała:
+!!a czy ja go, moje zakochanie,
+!!czy ja go rozgniéwała?
+!!@VERSE:
+!!3. A ujechał cztery mile drogi,
+!!óna za mną wołała:
+!!powróć, powróć pierwsze zakochanie,
+!!czém-żem cię rozgniéwała?
+!!@VERSE:
+!!4. A nie wrócę, nie wrócę, nie wrócę,
+!!a wiem ci ja dla czego,
+!!kiedy ja stał pod twojém okienkiem,
+!!widziałem tam inszego.
+!!@VERSE:
+!!5. Pod twém oknem nadobna dziewczyno
+!!stoji jawór zielony;
+!!toś ty stała, z inszym rozmawiała,
+!!a ja już był zganiony.
+!!@VERSE:
+!!6. Oczy płaczą, serce lamentuje,
+!!utulić go nie mogę.
+!!A wezmę ja felejzę (Fell-eisen) na ramię
+!!i powędruję w drogę.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=290 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 270} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 270}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

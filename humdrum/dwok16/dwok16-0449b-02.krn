@@ -3,51 +3,101 @@
 !!!source: DWOK16
 !!!id: 16449b
 !!!signature: 1644900002
-**kern
-*clefG2
-*k[b-]
-*F:
-*M2/4
-=1
-{8a
-8b-
-8cc
-8cc
-=2
-8cc
-8dd
-8cc
-8a
-=3
-8cc
-8dd
-8cc
-8b-
-=4
-4a
-4a}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M2/4	*
+=1	=1
+{8a\	Wyjechał
+8b-	.
+8cc	.
+8cc	ci
+=2	=2
+8cc	pan
+8dd	starosta
+8cc	.
+8a\	.
+=3	=3
+8cc	zrana
+8dd	.
+8cc	na
+8b-	za-
+=4	=4
+4a	-ją-
+4a}	-ce,
 !!LO:LB:g=esac
-=5
-{8a
-8b-
-8cc
-8cc
-=6
-8cc
-8dd
-8cc
-8a
-=7
-8b-
-8dd
-8g
-8b-
-=8
-4a
-4f}
-==
-*-
+=5	=5
+{8a\	i
+8b-	napotkał
+8cc	.
+8cc	.
+=6	=6
+8cc	trzy
+8dd	panienki
+8cc	.
+8a\	.
+=7	=7
+8b-	na
+8dd	zielo-
+8g	.
+8b-	-néj
+=8	=8
+4a	łące.
+4f}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Wyjechał-ci pan starosta
+!!zrana na zające,
+!!i napotkał trzy panienki
+!!na zielonéj łące.
+!!@VERSE:
+!!2. Jednéj było panna Anna,
+!!a drugiéj Zofija,
+!!a o trzeciéj nie powiadał
+!!bo to jego miła.
+!!@VERSE:
+!!3. Wysłał-ci pan zaraz sługę,
+!!by mu wianek dała;
+!!óna tamój nic nie rzekła
+!!ino się rozśmiała.
+!!@VERSE:
+!!4. Wysłał-ci pan i drugiego
+!!by mu pić podała,
+!!óna tamój nic nie rzekła,
+!!ino się zadumała.
+!!@VERSE:
+!!5. Wysłał-ci pan i trzeciego
+!!by z nim pogadała;
+!!óna tamój nic nie rzekła
+!!ino zapłakała.
+!!@VERSE:
+!!6. Wysłał-ci pan i czwartego
+!!w czarnym aksamicie:
+!!obejrzyj się kochaneczko
+!!sam jegomość idzie.
+!!@VERSE:
+!!7. Niech tam idzie, niech nie idzie,
+!!łóżeczko posłane;
+!!cztery poduszek białych
+!!łzami nakrapiane.
+!!@VERSE:
+!!8. Cztery świéce się spaliły,
+!!nim się rozmówili,
+!!a piąta się dopalała
+!!gdy się położyli.
+!!@VERSE:
+!!9. Aż tu rano raniusieńko
+!!jeszcze nie był dzień,
+!!moja miła, najmilejsza
+!!pele w polu len.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=296 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 276} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 276}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

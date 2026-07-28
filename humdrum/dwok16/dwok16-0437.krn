@@ -3,98 +3,133 @@
 !!!source: DWOK16
 !!!id: 16437
 !!!signature: 1643700000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8dd
-8dd
-8dd
-=2
-8ee
-4a
-=3
-8b
-4g
-=4
-8b
-4dd
-=5
-8b
-4g
-=6
-8e
-4d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8dd	A
+8dd	tam
+8dd	pod
+=2	=2
+8ee	gajem
+4a\	.
+=3	=3
+8b	ptasek
+4g	.
+=4	=4
+8b	śpiéwa,
+4dd	.
+=5	=5
+8b	ptasek
+4g\	.
+=6	=6
+8e	śpiewa,
+4d}	.
 !!LO:LB:g=esac
-=7
-{8g
-8g
-8g
-=8
-8a
-4g
-=9
-8dd
-4dd
-=10
-8ee
-4a
-=11
-8b
-4g
-=12
-8e
-4d}
+=7	=7
+{8g	oj
+8g	gdzie
+8g	dziew-
+=8	=8
+8a	-cy-
+4g	-na
+=9	=9
+8dd	trawkę
+4dd	.
+=10	=10
+8ee	zżyna,
+4a\	.
+=11	=11
+8b	trawkę
+4g\	.
+=12	=12
+8e	zżyna.
+4d}	.
 !!LO:LB:g=esac
-=13
-{8dd
-8dd
-8dd
-=14
-8ee
-8a
-8cc
-=15
-8b
-4g
-=16
-8b
-8dd
-8cc
-=17
-8b
-8g
-8e
-=18
-8ee
-4d}
+=13	=13
+{8dd	A
+8dd	tam
+8dd	pod
+=14	=14
+8ee	gajem
+8aL	.
+8ccJ/	.
+=15	=15
+8b	ptasek
+4g	.
+=16	=16
+8b	śpiéwa,
+8ddL	.
+8ccJ/	.
+=17	=17
+8b	ptasek
+8gL	.
+8eJ	.
+=18	=18
+8e	śpiewa,
+4d}	.
 !!LO:LB:g=esac
-=19
-{8g
-8g
-8g
-=20
-8a
-4g
-=21
-8dd
-4dd
-=22
-8ee
-8a
-8cc
-=23
-8b
-8g
-8e
-=24
-8e
-4d}
-==
-*-
+=19	=19
+{8g	oj
+8g	gdzie
+8g	dziew-
+=20	=20
+8a	-cy-
+4g	-na
+=21	=21
+8dd	trawkę
+4dd	.
+=22	=22
+8ee	zżyna,
+8aL	.
+8ccJ/	.
+=23	=23
+8b	trawkę
+8gL	.
+8eJ	.
+=24	=24
+8e	zżyna.
+4d}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Bachelor, Daughter
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. A tam pod gajem ptasek śpiéwa,
+!!oj gdzie dziewcyna trawkę zżyna.
+!!@VERSE:
+!!2. I nażęła jéj pełne brzémie,
+!!oj nié mogła se wziąść na ramie.
+!!@VERSE:
+!!3. I nażąła jéj płachtę i wór:
+!!Oj pójdź mi zadaj, Jasieńko mój!
+!!@VERSE:
+!!4. Oj jesce trawka nie zadana,
+!!a juz dziewcyna obgadana.
+!!@VERSE:
+!!5. Oj jesce trawka w polu lezy,
+!!a juz dziewcyna do dom bieży.
+!!@VERSE:
+!!6. Hej! zaprzęgajcie kare konie,
+!!bo pojedziemy w cudze kraje.
+!!@VERSE:
+!!7. Hej! zaprzęgajcie i kaśtany,
+!!bo pojedziemy do kochanéj.
+!!@VERSE:
+!!8. A trzy nas córek matka miała,
+!!oj i wsystkim nam wiano dała.
+!!@VERSE:
+!!9. A jednéj dała konie wronę,
+!!a drugiéj dała dwa cerwone (dukaty)
+!!A trzeciéj dała igielnicek,
+!!oj na jéj bidny wyrobecek.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=291 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 271} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 271}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

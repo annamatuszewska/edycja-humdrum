@@ -3,73 +3,85 @@
 !!!source: DWOK16
 !!!id: 16417
 !!!signature: 1641700002
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{4ff
-16ee
-16dd
-=2
-8ff
-8ee
-16dd
-16cc
-=3
-8dd
-8ee
-16a
-16g
-=4
-16cc
-16b
-4g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{4ff	Hej
+16ee	że-
+16dd	-byś
+=2	=2
+8ff	nie
+8ee	chodzi-
+16dd	.
+16cc	-ła
+=3	=3
+8dd	bez
+8ee	bór
+16a\	do
+16g\	ko-
+=4	=4
+16cc	-ścio-
+16b	.
+4g}	-ła,
 !!LO:LB:g=esac
-=5
-{4ff
-16ee
-16ee
-=6
-8ff
-8ee
-16dd
-16cc
-=7
-8ff
-8ee
-32cc
-32a
-16g
-=
-24cc
-24a
-24b
-4g}
+=5	=5
+{4ff	hej
+16eeL	że-
+16eeJ/	-byś
+=6	=6
+8ffL	nie
+8eeJ/	chodzi-
+16dd	.
+16cc	-ła
+=7	=7
+8ffL	bez
+8eeJ/	bór
+32ccL	do
+32a	.
+16gJ	ko-
+=	=
+24ccL	-ścio-
+24a	.
+24bJ/	.
+4g}	-ła,
 !!LO:LB:g=esac
-=8
-{8a
-8a
-8g
-=9
-16a
-16cc
-8dd
-16cc
-16a
-=10
-8dd
-8ee
-32cc
-32a
-16g
-=11
-8cc
-4a}
-==
-*-
+=8	=8
+{8a	nie
+8aL	no-
+8gJ	.
+=9	=9
+16a	-si-
+16cc	-łabyś
+8ddL	.
+16cc	ty
+16aJ/	.
+=10	=10
+8dd	na
+8ee	rękach
+32ccL	.
+32aJ	.
+16g	so-
+=11	=11
+8cc	-ko-
+4a}	-ła.
+==	==
+*-	*-
+!!!role-singer: Narrator, Maiden
+!!!role-listener: Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Hej żebyś nie chodziła bez bór do kościoła,
+!!nie nosiłabyś ty na rękach sokoła.
+!!A co komu do tego, do sokoła mego,
+!!mam rodziny dosyć, to mi będą nosić.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=281 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 261} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 261}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

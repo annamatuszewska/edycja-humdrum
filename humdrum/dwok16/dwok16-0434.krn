@@ -3,71 +3,122 @@
 !!!source: DWOK16
 !!!id: 16434
 !!!signature: 1643400000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8cc
-8ee
-8ee
-8dd
-8ee
-8b
-=2
-8cc
-8ee
-8dd
-16cc
-16b
-8a
-8g
-=3
-8g
-8cc
-8b
-8cc
-8dd
-8b
-=4
-8cc
-8ee
-8dd
-16cc
-16b
-8a
-8g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8cc^	A
+8ee	jechał
+8ee^	.
+8dd	Jasieńko
+8ee^	.
+8b	.
+=2	=2
+8cc	z_dąbrowy
+8ee	.
+8dd	.
+16ccL	na
+16bJ	.
+8a	łowy,
+8g	.
+=3	=3
+8g	i
+8cc	zdybał
+8b	.
+8cc	Kasińkę,
+8dd	.
+8b	.
+=4	=4
+8cc	zbiérała
+8ee	.
+8dd	.
+16ccL	ja-
+16bJ	.
+8a	-gody:
+8g}	.
 !!LO:LB:g=esac
-=5
-{8cc
-8b
-8a
-8g
-8cc
-8ee
-=6
-8dd
-8cc
-8b
-8g
-4a
-=7
-8cc
-8b
-8a
-8g
-8cc
-8ee
-=8
-8dd
-8cc
-8b
-8g
-4a}
-==
-*-
+=5	=5
+{8cc	bo
+8b	ja
+8a	twoją
+8g	.
+8cc	nie
+8ee	chcę
+=6	=6
+8dd	być,
+8cc	nie
+8bL	chcę
+8gJ	.
+4a	być,
+=7	=7
+8cc	bo
+8b	ja
+8a	twoją
+8g	.
+8cc	nie
+8ee	chcę
+=8	=8
+8dd	być,
+8cc	nie
+8bL	chcę
+8gJ	.
+4a}	być.
+==	==
+*-	*-
+!!!role-singer: Narrator, Maiden, Bachelor
+!!!role-listener: Bachelor, Maiden
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. A jechał Jasieńko z dąbrowy na łowy,
+!!i zdybał Kasińkę, zbiérała jagody: —
+!!bo ja twoją nie chcę być.
+!!@VERSE:
+!!2. A zbiéraj że zbiéraj, niémasz się co spieszyć,
+!!przyjadę ja do cię, będziemy się cieszyć:
+!!a ty moją musisz być.
+!!@VERSE:
+!!3. Skoro on przyjechał, to ona się skryła,
+!!i przykryła ci ją drobnieńka leszczyna:
+!!bo ja twoją nie chcę być.
+!!@VERSE:
+!!4. A mam-ci ja, mam-ci takie siekiereczki,
+!!każę ja wyścinać dróbne leszczyneczki,
+!!a ty moją musisz być.
+!!@VERSE:
+!!5. Udam ja się udam, w siwego gołębia,
+!!polecę ja w cienie wysokiego dębia,
+!!bo ja twoją nie chcę być.
+!!@VERSE:
+!!6. A mam-ci ja, mam-ci takie jastrząbeńki,
+!!każę ja dopatrzyć siwe gołąbeńki,
+!!a ty moją musisz być.
+!!@VERSE:
+!!7. Udam ja się udam, w tę dróbną rybeńkę,
+!!będę w czystéj wodzie wieczną panieneńką,
+!!bo ja twoją nie chcę być.
+!!@VERSE:
+!!8. A mam-ci ja, mam-ci takie siateńki,
+!!każę ja wyłapać te dróbne rybeńki,
+!!a ty moją musisz być.
+!!@VERSE:
+!!9. Udam ja się udam gwiazdeńką do nieba,
+!!już-ci mi tam waszego kochania nie trzeba,
+!!bo ja twoją nie chcę być.
+!!@VERSE:
+!!10. A będę ja prosić wszechmocnego Boga,
+!!by spuścił na ziemię tę gwiazdeńkę z nieba,
+!!a ty moją musisz być.
+!!@VERSE:
+!!11. A gotujcie rosół, pieczcie mi kołacze,
+!!niech się już ten hultaj więcéj nie chłopocze,
+!!bo ja jego muszę być.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=289 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 269} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 269}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

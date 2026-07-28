@@ -3,64 +3,100 @@
 !!!source: DWOK16
 !!!id: 16414
 !!!signature: 1641400000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{4cc
-2ee
-=2
-4cc
-2g
-=3
-8cc
-8ee
-8ee
-8gg
-8ff#
-8dd
-=4
-8cc
-8ee
-8ee
-8gg
-8ff#
-8dd}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{4cc	Z_tamtéj
+2ee	.
+=2	=2
+4cc	strony
+2g	.
+=3	=3
+8cc	zielone-
+8ee	.
+8ee	.
+8gg	-go
+8ff#	gaja,
+8dd	.
+=4	=4
+8cc	zielone-
+8ee	.
+8ee	.
+8gg	-go
+8ff#	gaja,
+8dd}	.
 !!LO:LB:g=esac
-=5
-{4gg
-4.dd
-8ee
-=6
-4cc
-2g
-=7
-8a
-8g
-8g
-8b
-8dd
-8cc}
+=5	=5
+{(4gg	pa-
+4.dd)	.
+8ee	-sła
+=6	=6
+4cc	panna
+2g	.
+=7	=7
+8a	prześlicznego
+8g	.
+8g	.
+8b	.
+8dd	pawia,
+8cc}	.
 !!LO:LB:g=esac
-=8
-{4gg
-4.dd
-8ee
-=9
-4cc
-2g
-=10
-8a
-8g
-8g
-8b
-8dd
-8cc}
-==
-*-
+=8	=8
+{(4gg	pa-
+4.dd)	.
+8ee	-sła
+=9	=9
+4cc	panna
+2g	.
+=10	=10
+8a	prześlicznego
+8g	.
+8g	.
+8b	.
+8dd	pawia.
+8cc}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Maiden, Bachelor
+!!!role-listener: Bachelor, Maiden
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Z tamtéj strony zielonego gaja,
+!!pasła panna prześlicznego pawia.
+!!@VERSE:
+!!2. Trąciła go rózeczką (v. w ogonek) niechcący,
+!!poleciał paw do dworu (v. boru) krzycęcy.
+!!@VERSE:
+!!3. Ona za nim, aż się zeznojiła,
+!!szuka wody, by się ochłodziła.
+!!@VERSE:
+!!4. Nadybał ją prześlicny (v. Jasieńko) młodzieniec:
+!!tędy panno do wody gościniec.
+!!@VERSE:
+!!5. Nie patrz-źe ty gościńca mojego,
+!!da patrz ty se konika wronego.
+!!@VERSE:
+!!6. A daj pokój ubogiéj sierocie,
+!!idź do takiej, co chodzi we złocie.
+!!@VERSE:
+!!7. By’ś ty była uboga sierota,
+!!nie miała-byś wianecka ze złota.
+!!@VERSE:
+!!8. Aleś ty jest panna nad pannami,
+!!twój wianecek złotem przewijany.
+!!@VERSE:
+!!Na tęż nutę:
+!!Jak-że będzie słońce i pogoda,
+!!przyjdż-że do mnie, do mego ogroda i t. d.
+!!@@END: VERSES
+!!!ONB: Być może pieśń szlachecka.
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=279 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 259} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 259}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

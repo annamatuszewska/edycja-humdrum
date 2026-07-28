@@ -3,59 +3,78 @@
 !!!source: DWOK16
 !!!id: 16427a
 !!!signature: 1642700001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16b
-8dd
-8ee
-=
-24cc
-24b
-24g
-16a
-16f#
-8d
-=2
-16g
-16b
-8dd
-8ee
-=
-8.cc
-16a
-24a
-24f#
-24d}
+**kern	**text	**text
+*clefG2	*	*
+*k[f#]	*	*
+*G:	*	*
+*M3/8	*	*
+=1	=1	=1
+!!LO:TX:a:t=Weselna.
+{16g	Le-	Co
+16b	-ci	ci
+8dd	sowa	po
+8ee	.	mnie,
+=2	=2	=2
+(24cc	poprzód	co
+24b	.	chodzisz
+24g)	so-	.
+16aL	-ko-	do
+16f#J	.	.
+8d	-ła	mnie,
+=3	=3	=3
+16g	śli-	ja
+16b	-cnie	ci
+8dd	wykrzyku-	robić
+8ee	.	nie
+=4	=4	=4
+8.ccL	-ję-	mo-
+16aJ	.	.
+(24aL	-cy,	-gę,
+24f#	.	.
+24dJ)}	.	.
 !!LO:LB:g=esac
-=3
-{8cc
-16a
-16cc
-16b
-16g
-=4
-16b
-16b
-16a
-16f#
-8d
-=5
-8cc
-16a
-16cc
-16b
-16g
-=6
-4d
-8d}
-==
-*-
+=5	=5	=5
+{8cc	a	skarał
+16a\	sokół	mnie
+16cc	.	.
+16b	za	Pan
+16g	nią	bóg
+=6	=6	=6
+16b	gdy	złym
+16b	za	przyjacielem,
+16aL	pa-	.
+16f#J	.	.
+8d	-nią	.
+=7	=7	=7
+8cc	ślicnie	a
+16a\	.	szanować
+16cc	wyłu-	.
+16b	.	.
+16g	-ku-	go
+=8	=8	=8
+4d;	-ję-	muszę.
+8d}	-cy.	.
+==	==	==
+*-	*-	*-
+!!!role-singer: Narrator, Wife
+!!!role-listener: Bachelor
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Leci sowa poprzód sokoła
+!!ślicnie wykrzykujęcy,
+!!a sokół za nią gdy za panią
+!!ślicnie wyłukujęcy.
+!!@VERSE:
+!!2. Co ci po mnie, co chodzis do mnie,
+!!ja ci robić nie mogę,
+!!skarał mnie Pan Bóg złym przyjacielem,
+!!a szanować go muszę.
+!!@@END: VERSES
+!!!ONB: Być może pieśń szlachecka.
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=286 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 266} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 266}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

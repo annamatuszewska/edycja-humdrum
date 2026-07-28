@@ -3,83 +3,112 @@
 !!!source: DWOK16
 !!!id: 16430
 !!!signature: 1643000002
-**kern
-*clefG2
-*k[]
-*a:
-*M2/4
-=1
-{4cc
-4b
-=2
-4.cc
-8a
-=3
-8a
-8a
-16cc
-16b
-16a
-16g#
-=4
-4a
-4e}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M2/4	*
+=1	=1
+{4cc	Z_ponie-
+4b	.
+=2	=2
+4.cc	-dział-
+8a\	-ku
+=3	=3
+8a	na
+8a	święto
+16ccL	.
+16bJ	.
+16aL	na
+16g#J	.
+=4	=4
+8g#q	.
+4a	święto
+4e}	.
 !!LO:LB:g=esac
-=5
-{4cc
-8b
-8dd
-=6
-4cc
-16cc
-16b
-16a
-16g#
-=7
-8g#
-8a
-16cc
-16b
-16a
-16g#
-=8
-4a
-4e}
+=5	=5
+{4cc	furma-
+8bL	.
+8ddJ/	.
+=6	=6
+4cc	-no-
+16ccL	-wi
+16b	.
+16a	.
+16g#J	.
+=7	=7
+8g#L	ko-
+8aJ\	-ni-
+16ccL	-ki
+16bJ	.
+16aL	za-
+16g#J	.
+=8	=8
+8g#q	.
+4a	-ję-
+4e}	-to.
 !!LO:LB:g=esac
-=9
-{8a
-8a
-8cc
-8dd
-=10
-8ee
-8b
-8cc
-8dd
-=11
-4ee
-16ee
-16dd
-16cc
-16b
-=12
-8a
-8a
-8cc
-8dd
-=13
-8ee
-8ee
-16cc
-16b
-16a
-16g#
-=14
-4a
-4e}
-==
-*-
+=9	=9
+{8a	Oj
+8a	za-
+8cc	-ję-
+8dd	-to
+=10	=10
+8ee	furmanowi
+8b	.
+8cc	.
+8dd	.
+=11	=11
+4ee	konie
+16eeL	.
+16dd	.
+16cc	.
+16bJ/	.
+=12	=12
+8a	nie
+8a	wié
+8cc	bo
+8dd	on,
+=13	=13
+8ee	którą
+8ee	.
+16ccL	dróż-
+16bJ	.
+16aL	-ką
+16g#J	.
+=14	=14
+8g#q	.
+4a	po
+4e}	nie.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Z poniedziałku
+!!na święto [:]
+!!furmanowi koniki
+!!zajęto. [:]
+!!Oj zajęto furmanowi konie,
+!!nie wié bo on, którą dróżką po nie.
+!!@VERSE:
+!!2. (Ty) się o dróżkę
+!!nie pytaj, [:]
+!!tylko do Śląska
+!!zawitaj. [:]
+!!A od Śląska do nowego miasta,
+!!tam dziewczyna wrone konie pasła.
+!!@VERSE:
+!!3. Siadała sobie
+!!nad wodą, [:]
+!!styciła sie
+!!urodą. [:]
+!!Cóż tam kaduk za uroda była,
+!!w szczyrém polu koniki zgubiła.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=287 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 267} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 267}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

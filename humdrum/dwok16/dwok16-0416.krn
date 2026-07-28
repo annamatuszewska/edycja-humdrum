@@ -3,74 +3,91 @@
 !!!source: DWOK16
 !!!id: 16416
 !!!signature: 1641600000
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/8
-=1
-{8e
-8a
-8a
-=2
-8cc#
-4b
-=3
-8g#
-8b
-8dd
-=4
-8dd
-4cc#
-=5
-16e
-16g#
-8a
-8a
-=6
-8cc#
-4b
-=7
-16e
-16g#
-8b
-8dd
-=8
-8dd
-4cc#}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M3/8	*
+=1	=1
+{8e\	Już
+8a	mi
+8a	mi-
+=2	=2
+8cc#	-nę-
+4b	-ło
+=3	=3
+8g#\	sze-
+8b	-snaście
+8dd	.
+=4	=4
+8dd	la-
+4cc#	-tek,
+=5	=5
+16eL	mu-
+16g#J	.
+8a	-szę
+8a	się
+=6	=6
+8cc#	wpisać
+4b	.
+=7	=7
+16eL	w_rejestr
+16g#J	.
+8b	.
+8dd	mę-
+=8	=8
+8dd	-ża-
+4cc#}	-tek.
 !!LO:LB:g=esac
-=9
-{16cc#
-16e
-8a
-8a
-=10
-16cc#
-16e
-8a
-8a
-=11
-16b
-16cc#
-4dd
-=12
-16b
-16cc#
-8dd
-8b
-=13
-16ee
-16cc#
-8a
-8cc#
-=14
-16b
-16g#
-8a}
-8r
-==
-*-
+=9	=9
+{16cc#	Daléj
+16e	.
+8a\	chłopcy,
+8a\	.
+=10	=10
+16cc#	daléj
+16e	.
+8a\	wszyscy,
+8a\	.
+=11	=11
+16b	chcę
+16cc#	pary,
+4dd	.
+=12	=12
+16b	niechaj
+16cc#	.
+8dd	sobie
+8b	.
+=13	=13
+16ee	z_was
+16cc#	którego
+8a\	.
+8cc#	.
+=14	=14
+16b	wybiorę.
+16g#	.
+8a}	.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!role-listener: Bachelors
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Już mi minęło szesnaście latek,
+!!muszę się wpisać w rejestr mężatek.
+!!Daléj chłopcy, daléj wszyscy, chcę pary,
+!!niechaj sobie z was którego wybiorę.
+!!@VERSE:
+!!2. Starego nie chcę, bo mi niemiły,
+!!siędzie koło mnie jako wół siwy.
+!!Bierze rączkę i całuje niezgrabnie,
+!!o jak to go mieć za męża nieładnie.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=280 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 260} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 260}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

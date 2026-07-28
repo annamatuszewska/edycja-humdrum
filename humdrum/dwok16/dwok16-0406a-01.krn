@@ -3,50 +3,97 @@
 !!!source: DWOK16
 !!!id: 16406a
 !!!signature: 1640600001
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16a
-16b
-8cc
-8dd
-=2
-16ee
-16dd#
-8ee
-8ee
-=3
-16a
-16b
-8cc
-8dd
-=4
-4.ee}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{16a	Otwórzcie
+16b/	.
+8cc/	.
+8dd/	mu,
+=2	=2
+16ee/	ma-
+16dd#/	-tu-
+8ee/	-leńku
+8ee/	.
+=3	=3
+16a/	széroko
+16b/	.
+8cc/	.
+8dd/	wro-
+=4	=4
+4.ee/}	-ta,
 !!LO:LB:g=esac
-=5
-{16cc
-16cc
-8.b
-16a
-=6
-16g#
-16a
-8b
-8b
-=7
-16a
-16cc
-8.b
-16g#
-=8
-4a}
-8r
-==
-*-
+=5	=5
+{16cc/	a
+16cc/	niechże
+8.b/	.
+16a	się
+=6	=6
+16g#	mój
+16a	kochanek
+8b/	.
+8b/	.
+=7	=7
+16a	nie
+16cc/	tyka
+8.bm/	.
+16g#	pło-
+=8	=8
+4a}	-ta.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Maiden, Bachelor, Maiden
+!!!role-listener: Mother, Maiden, Bachelor
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Otwórzcie mu, matuleńku
+!!széroko wrota,
+!!a niechże się mój kochanek
+!!nie tyka płota.
+!!@VERSE:
+!!2. Połóżcie mu, matuleńku,
+!!serwetę pod próg,
+!!a niech-że se mój kochanek
+!!nie tarza ostróg.
+!!@VERSE:
+!!3. Postawcie mu, matuleńku
+!!stół marmurowy,
+!!a na stole marmurowym
+!!obrus perłowy.
+!!@VERSE:
+!!4. Na obrusie na perłowym
+!!talérz toczony,
+!!na talerzu na toczonym
+!!kapłon pieczony.
+!!@VERSE:
+!!5. Spytajcie go, matuleńku
+!!czy-li ma nóż swój?
+!!a jak niéma swego noża,
+!!połóżcie mu mój.
+!!@VERSE:
+!!6. — Dziękuję ci, Anuleńku,
+!!za twoją powieść,
+!!oj i coś mi dała swego
+!!kapłonka podjeść.
+!!@VERSE:
+!!7. Jeszcze-bym ci, Anuleńku,
+!!lepiéj dziękował,
+!!żebym z tobą do niedziołki
+!!nocki nocował.
+!!@VERSE:
+!!8. — Już czas do dom, mój Jasieńku,
+!!już czas do domu,
+!!już koniki obrosiały
+!!stojąc na błoniu.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=274 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 254} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 254}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

@@ -3,52 +3,112 @@
 !!!source: DWOK16
 !!!id: 16424a
 !!!signature: 1642400001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8.dd
-16ee
-16dd
-16cc
-=2
-8.dd
-16b
-16cc
-16dd
-=3
-16dd
-16b
-8cc
-16a
-16f#
-=4
-4g}
-8r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8.dd	A
+16ee	ty
+16dd	ptasku
+16cc	.
+=2	=2
+8.dd	kręgu-
+16b	.
+16cc	-laszku,
+16dd	.
+=3	=3
+16dd	wyso-
+16b	.
+8cc	-ko
+16aL	la-
+16f#J	.
+=4	=4
+4g}	-tasz,
+8r	.
 !!LO:LB:g=esac
-=5
-{8.a
-16b
-16a
-16g
-=6
-8.a
-16b
-16cc
-16dd
-=7
-16dd
-16g
-8b
-16a
-16f#
-=8
-4.g}
-==
-*-
+=5	=5
+{8.a	powiedzże
+16b/	.
+16a	.
+16g	mi
+=6	=6
+8.a	no-
+16b	-wineń-
+16cc	.
+16dd	-kę
+=7	=7
+16dd	gdzie
+16g	no-
+8b	-ckę
+16aL	sia-
+16f#J\	.
+=8	=8
+4.g}	-dasz.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!!role-listener: Bachelor
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. A ty ptaszku kręgulaszku,
+!!po téj dąbrowie,
+!!rozpuściłeś złote piórka
+!!po swojéj głowie.
+!!@VERSE:
+!!2. Nie tak-ci żal tego piórka,
+!!co’m go rozpuścił,
+!!jak tobie żal grzecnéj panny
+!!żeś ją opuścił.
+!!@VERSE:
+!!3. A ty ptaszku, kręgulaszku
+!!wysoko latasz,
+!!powiedz-że mi nowineńkę,
+!!gdzie nockę siadasz?
+!!@VERSE:
+!!4. Powiem ja ci nowineńkę
+!!ale nie dobrą,
+!!że już twoją grzecną pannę
+!!do ślubu wiodą.
+!!@VERSE:
+!!5. Niechaj wiodą, niech prowadzą,
+!!szczęście, zdrowie daj,
+!!choć’em jéj się nie zalicał
+!!jednak mi jéj żal.
+!!@VERSE:
+!!6. Zakładajcie, chłopcy konie,
+!!pojedziem za nią,
+!!będziemy się przypatrywać
+!!cy będzie panią.
+!!@VERSE:
+!!7. Siadła sobie grzecna panna
+!!w ławkach z druchnami,
+!!najśliczniejszy mój miesiączek
+!!w świetle z gwiazdami.
+!!@VERSE:
+!!8. Uklęknęła grzecna panna
+!!i już ślub bierze,
+!!a Jasieńko za nią patrzy,
+!!ledwo nie umrze.
+!!@VERSE:
+!!9. Wyszła Kasieńka z kościoła
+!!kiedy ślub wzięła,
+!!a Jasieńko patrzy za nią,
+!!s-czerniał jak ziemia.
+!!@VERSE:
+!!10. Jeden trzyma za rączeńkę,
+!!drugi za drugą,
+!!trzeci stoji u podwoji:
+!!ona nie moją!
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Ob. nr 382. 
+!!@@END:
+!!!ONB: Być może pieśń szlachecka.
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=284 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 264} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 264}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

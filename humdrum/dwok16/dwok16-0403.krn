@@ -3,68 +3,105 @@
 !!!source: DWOK16
 !!!id: 16403
 !!!signature: 1640300000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M2/4
-=1
-{8dd
-8ff
-8dd
-8b-
-=2
-8a
-4.cc
-=3
-8dd
-8ff
-8dd
-8b-
-=4
-8a
-4.cc}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M2/4	*
+=1	=1
+!!LO:TX:a:t=Krakowiak.
+{8dd	A
+8ff	miałam
+8dd	.
+8b-	ja,
+=2	=2
+8a\	miała
+4.cc	.
+=3	=3
+8dd	siedmiu
+8ff	.
+8dd	kawa-
+8b-	.
+=4	=4
+8a\	-lerów;
+4.cc}	.
 !!LO:LB:g=esac
-=5
-{8a
-4cc
-8cc
-=6
-8dd
-8cc
-8b-
-8a
-=7
-8g
-8dd
-8cc
-8e
-=8
-8f
-4f}
-8r
+=5	=5
+{8a\	a
+4cc	wsystkim,
+8cc	.
+=6	=6
+8dd	a
+8cc	wsystkim
+8b-	.
+8a\	ja
+=7	=7
+8g	po-
+8dd	-darunki
+8cc	.
+8e	.
+=8	=8
+8f\	da-
+4f\}	-ła,
+8r	a
 !!LO:LB:g=esac
-=9
-{8a
-4cc
-8cc
-=10
-8dd
-8cc
-8b-
-8a
-=11
-8g
-8dd
-8cc
-8e
-=12
-8f
-4a}
-8r
-==
-*-
+=9	=9
+{8a\	wsystkim,
+4cc	.
+8cc	a
+=10	=10
+8dd	wsystkim
+8cc	.
+8b-	ja
+8a\	po-
+=11	=11
+8g	-darunki
+8dd	.
+8cc	.
+8e	da-
+=12	=12
+8f	-ła.
+4a}	.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. A miałam ja, miała
+!!siedmiu kawalerów;
+!!a wsystkim, a wsystkim ja
+!!podarunki dała:
+!!@VERSE:
+!!2. A pierwsemu’m dała
+!!boląckę na rąckę,
+!!a drugiemu’m dała
+!!fébrę i gorąckę.
+!!@VERSE:
+!!3. A trzeciemu’m dała
+!!łupanie w kolanie,
+!!a cwartemu’m dała
+!!wielkie umartwienie.
+!!@VERSE:
+!!4. A piątemu’m dała
+!!oj (w)torkową(?) kolkę;
+!!niech on selma dozna
+!!co to kochać córkę.
+!!@VERSE:
+!!5. A sóstemu’m dała
+!!co o tém nie wiedział,
+!!przez siedem miesięcy
+!!u doktorów siedział.
+!!@VERSE:
+!!6. A siódmemu’m tylko
+!!juz się sama dała,
+!!bo’m ja się w tym jednym
+!!nájlepiéj kochała.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=273 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 253} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 253}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

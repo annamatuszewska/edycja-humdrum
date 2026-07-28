@@ -3,81 +3,142 @@
 !!!source: DWOK16
 !!!id: 16438b
 !!!signature: 1643800002
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M3/4
-=1
-{4.dd
-8ee
-8dd
-8a
-=2
-8dd
-8dd
-4a
-8f#
-8g
-=3
-16f#
-16a
-8d
-4dd
-4a
-=4
-4.b
-8g
-16e
-16c#
-8d}
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M3/4	*
+=1	=1
+{4.dd	Bębnią,
+8ee	.
+8dd	bębnią,
+8a\	.
+=2	=2
+8dd	skrzypce
+8dd	.
+4a	gra-
+8f#L	-ją,
+8gJ	.
+=3	=3
+16f#L	na
+16a	.
+8dJ	wojenkę
+4dd	.
+4a\	.
+=4	=4
+4.b	wyjeżdża-
+8g	.
+16eL	.
+16c#	.
+8dJ}	-ją.
 !!LO:LB:g=esac
-=5
-{8f#
-8a
-4e
-4d
-=6
-8f#
-8a
-4e
-4e
-=7
-8d
-8cc#
-4.dd
-8a
-=8
-4.b
-8g
-8e
-8d}
+=5	=5
+{8f#	Nie
+8a	poja-
+4e	.
+4d	-dę
+=6	=6
+8f#\	na
+8a\	wojen-
+4e	.
+4e	-kę,
+=7	=7
+8d\	bo
+8cc#	mam
+4.dd	ładną
+8a\	.
+=8	=8
+4.b	kochaneń-
+8g	.
+8e\	.
+8d\}	-kę.
 !!LO:LB:g=esac
-=9
-{8f#
-8a
-4e
-4d
-=10
-16f#
-16g
-8a
-4e
-4e
-=11
-8f#
-8dd
-4.dd
-8a
-=12
-4.b
-8g
-16e
-16c#
-8d}
-==
-*-
+=9	=9
+{8f#	Nie
+8a	poja-
+4e	.
+4d	-dę
+=10	=10
+16f#L	na
+16g	.
+8aJ	wojen-
+4e	.
+4e	-kę,
+=11	=11
+8f#L	bo
+8ddJ	mam
+4.dd	ładną
+8a\	.
+=12	=12
+4.b	kochaneń-
+8g	.
+16eL	.
+16c#	.
+8dJ}	-kę.
+==	==
+*-	*-
+!!!role-singer: Narrator, Bachelor, Mother, Miaden
+!!!role-listener: Husbands, Mother, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1.Bębnią, bębnią, skrzypce grają,
+!!na wojenkę wyjeżdżają
+!!@VERSE:
+!!2. Nie pojadę na wojenkę,
+!!bo mam ładną kochaneńkę.
+!!@VERSE:
+!!3. I my ładne żonki mamy,
+!!na wojenkę wyjeżdżamy.
+!!@VERSE:
+!!4. Weź ją matko, weź i trzymaj,
+!!w siódmym roczku se ją wydaj.
+!!@VERSE:
+!!5. Sześć lat wyszło, siódmy idzie,
+!!już ci Kasia za mąż idzie.
+!!@VERSE:
+!!6. Już Kasieńka za mąż idzie,
+!!a Jasieńko z wojny jedzie.
+!!@VERSE:
+!!7. Witaj, witaj, mamo moja,
+!!czyli zdrowa Kasia twoja?
+!!@VERSE:
+!!8. Zdrowa, zdrowa, zdrowiusieńka,
+!!ale idzie za Stasieńka.
+!!@VERSE:
+!!9. Podaj chłopcze skrzypce moje,
+!!pójdę grać jéj na wesele.
+!!@VERSE:
+!!10. Stanę sobie w rogu pieca,
+!!zagram ci jéj ze dwa tańca.
+!!@VERSE:
+!!11. Stanę sobie w rogu stola,
+!!obaczy mię Kasia moja.
+!!@VERSE:
+!!12. Kasia Jasia zobaczyła,
+!!cztery stoły przeskoczyła.
+!!@VERSE:
+!!13. Witaj, witaj Jasiu pierwszy,
+!!a ty Stasiu szukaj inszéj.
+!!@VERSE:
+!!14. Gdzieżeś Kasiu ślub podziała,
+!!żeś swą wierność zaprzedała?
+!!@VERSE:
+!!15. W kościele’m go zostawiła,
+!!niewiernie’m ci poślubiła.
+!!@VERSE:
+!!16. Choćbyś poszedł i do popa,
+!!ja nie kocham po dwa chłopa.
+!!@VERSE:
+!!17. Choćbyś poszedł i do księży (v. księdza)
+!!ja nie kocham po dwa męży (v. męża).
+!!@VERSE:
+!!18. Choćbyś poszedł do biskupa,
+!!nie ładna-ć to polityka.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=291 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 271} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 271}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

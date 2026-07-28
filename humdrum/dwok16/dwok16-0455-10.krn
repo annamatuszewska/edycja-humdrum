@@ -3,55 +3,106 @@
 !!!source: DWOK16
 !!!id: 16455
 !!!signature: 1645500010
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M3/8
-=1
-{8.ff
-16dd
-16ff
-16ff
-=2
-16ff
-16dd
-8ff
-8ff
-=3
-16ff
-16dd
-8ff
-8ff
-=4
-16ff
-16dd
-4ff
-=5
-8ff
-8cc
-16a
-16f}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M3/8	*
+=1	=1
+{8.ff	Oj
+16dd	pamiętasz
+16ff	.
+16ff	.
+=2	=2
+16ff	psie
+16dd	hulta-
+8ff	.
+8ff	-ju,
+=3	=3
+16ff	psie
+16dd	hulta-
+8ff	.
+8ff	-ju
+=4	=4
+16ff	coś
+16dd	mi
+4ff	o-
+=5	=5
+8ff	-biecy-
+8cc	.
+16aL	-wał,
+16fJ}	.
 !!LO:LB:g=esac
-=6
-{16f
-16a
-4b-
-=7
-8b-
-8b-
-8dd
-=8
-16b-
-16dd
-4ff
-=9
-8cc
-8a
-8f}
-==
-*-
+=6	=6
+{16f	jakeś
+16a	.
+4b-	w_sie-
+=7	=7
+8b-	-ni
+8b-	nockę
+8dd	.
+=8	=8
+16b-	na
+16dd	sianku
+4ff	.
+=9	=9
+8cc	no-
+8a	-cował.
+8f}	.
+==	==
+*-	*-
+!!!role-singer: Maiden, Bachelor
+!!!role-listener: Bachelor, Maiden
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Ona: Oj pamiętasz psie-hultaju
+!!coś mi obiecywał,
+!!jak’eś w sieni nockę
+!!na sianku nocował.
+!!On mówi: Nie pamiętam, bo'm pijany był.
+!!Graj panie Wesoły a ty Zosiu skacz:
+!!o ta dana, dyna dana! — (tu skrzypce).
+!!@VERSE:
+!!2. Ona: Obiecałeś psie-hultaju
+!!na wianeczek łożyć,
+!!a ja-ć teraz muszę
+!!przez wianeczka chodzić.
+!!On mówi: Chodź bestyjo, niech cię diabli wezną.
+!!Graj panie Wesoły i t. d.
+!!@VERSE:
+!!3. Ona: Obiecałeś psie-hultaju
+!!ożenić się ze mną,
+!!a teraz nie rzeczesz
+!!słóweńka przedemną.
+!!On: Bo niémam przed kim.
+!!Graj panie Wesoły i t. d.
+!!@VERSE:
+!!4. Ona: A pójdę ja pójdę
+!!do pana starosty;
+!!za wianek zapłacisz
+!!i dostaniesz chłosty.
+!!On: Całuj-że mnie w rzyć!
+!!pan starosta nie głupi za te rzecy bić.
+!!A graj Wesoły i t. d.
+!!@VERSE:
+!!5. Ona: Oj pamiętaj psie-hultaju
+!!będę na cię płakać,
+!!i stryjaszek i wujaszek,
+!!i stryjenka i wujenka,
+!!i braciszek Janek,
+!!za ruciany wianek.
+!!On : Niech płaczą, niech znają co to k....
+!!Graj Wesoły a ty skacz.
+!!@VERSE:
+!!6. Ona: Rzuć-że Stasiu żart na stronę,
+!!a mnie weź za żonę. —
+!!On śpiewa: Chybabym rozumu niemiał
+!!żebym taką za żonę brał.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=300 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 280} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 280}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

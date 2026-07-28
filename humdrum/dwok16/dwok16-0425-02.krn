@@ -3,71 +3,149 @@
 !!!source: DWOK16
 !!!id: 16425
 !!!signature: 1642500002
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{8ee
-8ee
-8ee
-=2
-8cc
-4ee
-=3
-8ff
-8dd
-8dd
-=4
-8a
-8cc
-8a
-=5
-8cc
-8ee
-8ee
-=6
-8cc
-4ee
-=7
-4dd
-8ee
-=8
-8cc
-8ee}
-8r
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{8ee	Stoi
+8ee	.
+8ee	li-
+=2	=2
+8cc	-pecka
+4ee	.
+=3	=3
+8ffL	wśród
+8ddJ/	podwó-
+8dd	.
+=4	=4
+8a	-reczka,
+8ccL	.
+8aJ/	.
+=5	=5
+8cc	listecki
+8ee	.
+8ee	.
+=6	=6
+8cc	opu-
+4ee	.
+=7	=7
+(4dd	-ści-
+8ee)	.
+=8	=8
+8ccL	-ła,
+8eeJ/}	.
+8r	.
 !!LO:LB:g=esac
-=9
-{8a
-8cc
-8dd
-=10
-8ee
-4cc
-=11
-8cc
-8a
-8a
-=12
-8a
-4g
-=13
-8a
-8cc
-8ee
-=14
-4dd
-8ee
-=15
-4.a
-=16
-8cc
-8a}
-8r
-==
-*-
+=9	=9
+{8a\	.
+8cc	.
+8dd	.
+=10	=10
+8ee/	.
+4cc/	.
+=11	=11
+8cc/	.
+8a	.
+8a	.
+=12	=12
+8a	.
+4g	.
+=13	=13
+8a\	.
+8ccL	.
+8eeJ/	.
+=14	=14
+4ddqq	.
+8ee	.
+4cc	.
+8eeqq	.
+=15	=15
+4.a	.
+=16	=16
+8ccL	.
+8aJ/}	.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Mother, Maiden
+!!!role-listener: Maiden, Mother
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Stoji lipecka
+!!wśród podwórecka,
+!!listecki opuściła;
+!!pod nią dziewcyna
+!!pod nią jedyna
+!!wianecek utraciła.
+!!@VERSE:
+!!2. Jesce nie świta,
+!!matka się pyta
+!!gdzie wianecek podziała?
+!!Ja się bojała,
+!!i powiedziała:
+!!Jasieńkowi’m go dała.
+!!@VERSE:
+!!3. Stój-ze lipecko,
+!!stój-ze zielona
+!!choćby do saméj zimy (v. ziemi)
+!!przyjedzie Janek,
+!!zapłaci wianek
+!!z dalekij ukrainy.
+!!@VERSE:
+!!4. A ojze, ojze,
+!!mój mocny Boże,
+!!co’m ja naprzebierała!
+!!wsystkiem sokoły,
+!!poprzebierała,
+!!sowa mi się dostała.
+!!@VERSE:
+!!5. Siedziała sowa
+!!na rogu stoła,
+!!odęła się jak pudło;
+!!ani pogadać,
+!!ni pozartować,
+!!za innego pójść trudno.
+!!@VERSE:
+!!6. Bodaj-ze byli
+!!bodaj-ze byli
+!!tę sowę zastrzelili,
+!!jesce-by za mną
+!!za grzecną panną
+!!sokołowie patrzyli.
+!!@VERSE:
+!!426.
+!!@VERSE:
+!!1. U jezioreńka
+!!bystra wodeńka,
+!!tamój gąseńka pływa;
+!!ej tam ci moja
+!!grzecna nadobna
+!!ręce, nogi umywa.
+!!@VERSE:
+!!2. Nachyłiła się
+!!trześnia i wiśnia
+!!z drobnemi jagodami,
+!!ej zapłakała
+!!młoda wdoweńka
+!!za swemi dzieciątkami.
+!!@VERSE:
+!!3. Z wami ja z wami
+!!moje dziateńki,
+!!z wami ja dziatki, z wami,
+!!jako miesiącek
+!!jako jasneńki
+!!pomiędzy gwiazdeńkami.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Nuta on. nr 251. 387. 387.
+!!@@END:
+!!!ONB: Być może pieśń szlachecka.
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=285 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 265} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 265}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

@@ -3,131 +3,204 @@
 !!!source: DWOK16
 !!!id: 16453
 !!!signature: 1645300000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16a
-16g#
-8a
-8cc
-=2
-8ee
-4ee
-=3
-16ff
-16ee
-8dd#
-8ee
-=4
-8cc
-4b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{16a	A
+16g#	ja
+8a	niescę-
+8cc	.
+=2	=2
+8ee	-śliwa,
+4ee	.
+=3	=3
+16ff	co
+16ee	ja
+8dd#	u-
+8ee	-cy-
+=4	=4
+8cc	-niła?
+4b}	.
 !!LO:LB:g=esac
-=5
-{16a
-16g#
-8a
-8cc
-=6
-8ee
-4ee
-=7
-16ff
-16ee
-8dd#
-8ee
-=8
-8cc
-4b}
+=5	=5
+{16a	że
+16g#	ja
+8a	swój
+8cc	wia-
+=6	=6
+8ee	-necek
+4ee	.
+=7	=7
+16ff	marnie
+16ee	.
+8dd#	u-
+8ee	-tra-
+=8	=8
+8cc	-ciła.
+4b}	.
 !!LO:LB:g=esac
-=9
-{4dd
-8dd
-=10
-16ee
-16cc
-8b
-8g#
-=11
-4a
-8a
-=12
-16cc
-16cc
-8b
-8a
-=13
-16g#
-16g#
-8e
-8g#
-=14
-4a}
-8r
+=9	=9
+{4dd	Za
+8dd	cer-
+=10	=10
+16ee	-wony
+16cc	.
+8b	złoty,
+8g#	.
+=11	=11
+4a	pozby-
+8a	.
+=12	=12
+16cc	-łam
+16cc	się
+8b	cnoty
+8a	.
+=13	=13
+16g#	Franusieńko-
+16g#	.
+8e	.
+8g#	.
+=14	=14
+4a}	-wi.
+8r	.
 !!LO:LB:g=esac
-=15
-{16a
-16g#
-8a
-8cc
-=16
-8ee
-4ee
-=17
-16ff
-16ee
-8dd#
-8ee
-=18
-8cc
-4b}
-!!LO:LB:g=esac
-=19
-{16a
-16g#
-8a
-8cc
-=20
-8ee
-4ee
-=21
-16ff
-16ee
-8dd#
-8ee
-=22
-8cc
-4b}
-!!LO:LB:g=esac
-=23
-{4dd
-8ee
-=24
-16ee
-16cc
-8b
-8g#
-=25
-4a
-8a
-=26
-16cc
-16cc
-8b
-8a
-=27
-16g#
-16g#
-8e
-8g#
-=28
-4a}
-8r
-==
-*-
+=15	=15
+{4dd/	Za
+8ee/	cer-
+=16	=16
+16ee	-wony
+16cc	.
+8b	złoty
+8g#	.
+=17	=17
+4a	pozby-
+8a	.
+=18	=18
+16cc	-łam
+16cc	się
+8b	cnoty
+8a	.
+=19	=19
+16g#	Franusieńko-
+16g#	.
+8e	.
+8g#	.
+=20	=20
+4a}	-wi.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Maiden, Narrator, Mother, Bachelor
+!!!role-listener: Maiden, Mother, Bachelor
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. A ja niescęśliwa, co ja ucyniła?
+!!ze ja swój wianecek marnie utraciła,
+!!za cerwony złoty,
+!!postradałam cnoty
+!!Franusieńkowi.
+!!@VERSE:
+!!2. Teraz przyjdzie płakać na niescęście swoje,
+!!przódy byłam sama, a teraz nas dwoje.
+!!Chodzi upłakuje,
+!!wsystko se miarkuje
+!!ze juz nie sama.
+!!@VERSE:
+!!3. Z kłopotem, lamentem po podwórzu chodzi,
+!!swojego niescęścia wyznać się nie godzi.
+!!Nie wiem co tu robić,
+!!jak będzie powiedzieć
+!!przed matką sprawę.
+!!@VERSE:
+!!4. A moja Anusiu, żebyś jak zmyśliła,
+!!ze cię polna pscółka w nózkę ukąsiła.
+!!I u zdroju’ś była,
+!!wody’ś się napiła,
+!!tam’eś się struła.
+!!@VERSE:
+!!5. Choćbym ja zmyśliła, to tylko do casu;
+!!jednak ja nie ujdę, kłopotu, hałasu.
+!!Jakże to może być,
+!!tę sprawę osądzić (lub: utajić)
+!!przed matulinką.
+!!@VERSE:
+!!6. Widzi matulińka, Anusia się wili (chyli, chwieje),
+!!pyta jéj się pyta, po maluśkiéj chwili:
+!!Cóz ci to Anusiu,
+!!cóz ci to córusiu
+!!coś smutna stała?
+!!@VERSE:
+!!7. Chodzi matulińka, Anusia się wili;
+!!nie pyta się zaraz, pyta się po chwili.
+!!Cóz ci to Anusiu,
+!!cóz ci to córusiu,
+!!powiédz mi prawdę.
+!!@VERSE:
+!!8. Dokąd ja matulu wołków nie pasała,
+!!a to ja żadnego niescęścia nie miała.
+!!Pasający wołki,
+!!pokąsały pscółki
+!!matulu moja.
+!!@VERSE:
+!!9. Cego mnie ty zwodzis, w pole mnie wywodzis,
+!!a cy to ja niewiem ze z chłopcami chodzis,
+!!i zganias na pscoły
+!!pasający woły,
+!!źle-ć się udało.
+!!@VERSE:
+!!10. A moja matulu, Franuś temu winien,
+!!zawse on mi mówił, ze się będzie żenił,
+!!i wziął mi wianecek,
+!!za podarunecek,
+!!i tak mnie uwiód.
+!!@VERSE:
+!!11. A co to ja słysę, ze nimas wianécka,
+!!taka z ciebie selma poćciwa dziewecka.
+!!Idź se prec odemnie,
+!!nie przyznaj się do mnie
+!!ześ córka moja.
+!!@VERSE:
+!!12. Z kłopotem, lamentem od matki odchodzi,
+!!do swego Franusia, we łzach się zachodzi,
+!!zeby jéj dał radę
+!!za niescęsną zdradę
+!!i myślał o nij.
+!!@VERSE:
+!!13. A samaś ty sama, Anuś, tego chciała,
+!!a cegoś ty do mnie sama przybiegała?
+!!Myśl (lub: Wiedz) sama o sobie,
+!!ja nie chcę o tobie
+!!ani pomyśleć.
+!!@VERSE:
+!!14. Obiecałeś Franuś na wianecek łozyć,
+!!prosiłeś mnie jesce zeby nie odchodzić,
+!!bodaj cie opadło,
+!!bodaj cie obsiadło
+!!srogie niescęście!
+!!@VERSE:
+!!15. A widzis Franusiu, za mój płacz serdeczny
+!!żebyś ty niémiał być moim sługą wiecnym.
+!!Boże! zemsty zadam,
+!!niech ja to oglądam,
+!!ze cię Bóg skarze.
+!!@VERSE:
+!!16. A moja Anusiu, nie cyń mnie téj kary,
+!!będziemy oboje w niedzielę ślub brali;
+!!niech będą zmówiny
+!!niz nastąpią krzciny,
+!!Anusiu moja.
+!!U mojej dziewczyny
+!!w sobotę wieńcyny,
+!!w niedzielę wesele,
+!!a we wtorek krzciny.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=298 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 278} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 278}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

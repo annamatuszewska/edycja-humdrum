@@ -3,67 +3,160 @@
 !!!source: DWOK16
 !!!id: 16415
 !!!signature: 1641500002
-**kern
-*clefG2
-*k[]
-*a:
-*M2/4
-=1
-{8a
-8a
-8a
-8cc
-=2
-4.ee
-16dd
-16cc
-=3
-8ee
-8ee
-8dd
-8a
-=4
-8cc
-4.ee}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M2/4	*
+=1	=1
+{8a	Stoji
+8a	.
+8a	A-
+8cc	-nu-
+=2	=2
+4.ee/	-leń-
+16ddL	-ka
+16ccJ/	.
+=3	=3
+8ee	przeciw
+8ee	.
+8dd	okie-
+8a	.
+=4	=4
+8cc	-neńka,
+4.ee}	.
 !!LO:LB:g=esac
-=5
-{4dd
-8ee
-8a
-=6
-8cc
-4ee
-8cc
-=7
-8dd
-8dd
-8ee
-8cc
-=8
-4.a
-8a}
+=5	=5
+{4dd	ujrza-
+8ee	.
+8a	-ła,
+=6	=6
+8cc	uj-
+4ee	-rza-
+8cc	-ła
+=7	=7
+8dd	swego
+8dd	.
+8ee	Kubu-
+8cc	.
+=8	=8
+4.a	-sieńka,
+8a}	.
 !!LO:LB:g=esac
-=9
-{4dd
-8ee
-8a
-=10
-8cc
-4ee
-16dd
-16cc
-=11
-8dd
-8dd
-8ee
-16cc
-16b
-=12
-4.a
-8a}
-==
-*-
+=9	=9
+{4dd	ujrza-
+8ee	.
+8a	-ła,
+=10	=10
+8cc	uj-
+4ee/	-rza-
+16ddL	-ła
+16ccJ/	.
+=11	=11
+8dd	swego
+8dd	.
+8ee	Kubu-
+16ccL	.
+16bJ/	.
+=12	=12
+4.a	-sieńka.
+8a}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Maiden, Mother, Bachelor
+!!!role-listener: Mother, Maiden
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Stoji Anuleńka
+!!przeciw okieneńka,
+!!ujrzała, ujrzała
+!!swego Kubusieńka (Jakób).
+!!@VERSE:
+!!2. — A moja mamulu,
+!!już Kubusio jedzie,
+!!cóż ón będzie jadł
+!!u nas na obiedzie?
+!!@VERSE:
+!!3.— Trzeba Kubusiowi
+!!mięsa trusiowego, (struś, zwierzyna)
+!!dła służeńków jego
+!!wołu skarmionego.
+!!@VERSE:
+!!4. Trzeba Kubusiowi
+!!chleba pytlowego,
+!!dla służeńków jego
+!!choć-by razowego.
+!!@VERSE:
+!!5. Trzeba Kubusiowi
+!!puchowych poduszek,
+!!dla służeńków jego
+!!sianka drobnych wiązek.
+!!@VERSE:
+!!6. Siedzi Anuleńka
+!!między niewiastami,
+!!a mamula chodzi
+!!zaliwa się łzami.
+!!@VERSE:
+!!7. A moja mamulu,
+!!na nic nie zważajcie,
+!!i moje sukienki
+!!w skrzynię mi składajcie.
+!!@VERSE:
+!!8. A moja córuniu,
+!!już’em ci złożyła,
+!!ale bodaj’eś ich
+!!zdrowa nie schodziła.
+!!@VERSE:
+!!9. Siedzi Anuleńka
+!!między niewiastami,
+!!a mamula chodzi,
+!!zaliwa się łzami.
+!!@VERSE:
+!!10. A moja mamuniu,
+!!na nic nie zważajcie,
+!!tyło (mi) moje gąski
+!!za las wyganiajcie.
+!!@VERSE:
+!!11. A moja córuniu,
+!!ju ż’em ci wygnała,
+!!ale bodaj’eś z nich
+!!nie korzystowała.
+!!@VERSE:
+!!12. Kubusiowe konie
+!!we wrotach bryknęli,
+!!ale Anuline
+!!jak wryte stanęli.
+!!@VERSE:
+!!13. Jak-że przyjechali
+!!przed nowe pokoje:
+!!Witaj-że Anulu,
+!!zakochanie moje!
+!!@VERSE:
+!!14. Abo mnie witajcie,
+!!abo nie witajcie,
+!!abo mi naprędzy
+!!po księdza posłajcie.
+!!@VERSE:
+!!15. Abo mi zaś dajcie
+!!kałamarz i piórko,
+!!a niech ja zapiszę
+!!Kubusiowi wsiórko (wszystko).
+!!@VERSE:
+!!16. Rzędzik koralików
+!!na kościół oddajcie,
+!!a śrybło i złoto
+!!Kubusiowi dajcie.
+!!@VERSE:
+!!17. A mnie pochowajcie
+!!w kościele za drzwiami;
+!!co Kubusio spojrzy,
+!!zaleje się łzami.
+!!@@END: VERSES
+!!!ONB: Być może pieśń szlachecka.
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=279 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 259} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 259}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

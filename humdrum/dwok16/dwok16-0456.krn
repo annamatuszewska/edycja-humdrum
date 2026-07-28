@@ -3,49 +3,61 @@
 !!!source: DWOK16
 !!!id: 16456
 !!!signature: 1645600000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16b
-16dd#
-4b
-=2
-8dd#
-8ee
-8ee
-=3
-16dd#
-16ee
-4b
-=4
-8b
-8ee
-8ee}
+**kern	**text	**text
+*clefG2	*	*
+*k[]	*	*
+*a:	*	*
+*M3/8	*	*
+=1	=1	=1
+{16b	Poco	Jakbym
+16dd#	.	.
+4b	żeś	ja
+=2	=2	=2
+8dd#	mnie	cię
+8ee	Jasiu	zdradził
+8ee	.	.
+=3	=3	=3
+16dd#	do	w_rucianym
+16ee	sadeń-	.
+4b	.	.
+=4	=4	=4
+8b	-ka	wianeńku,
+8ee	zawiód	.
+8ee}	.	.
 !!LO:LB:g=esac
-=5
-{16dd
-32cc
-32b
-8.a
-16g#
-=6
-8a
-8b
-8cc
-=7
-16b
-16a
-4e
-=8
-8e
-8e#
-8a}
-==
-*-
+=5	=5	=5
+{16ddn	nié-	mnieby
+32ccL	-ma	.
+32bJ	.	.
+8.aL	bo	Bóg
+16g#J	.	.
+=6	=6	=6
+8a	tam	sa-
+8b	wiśni	-mego
+8cc	.	.
+=7	=7	=7
+16b	a-	w_moim
+16a\	-ni	.
+4e	ża-	o-
+=8	=8	=8
+8e	-dnych	-si-
+8e#	jagód.	-weńku.
+8a}	.	.
+==	==	==
+*-	*-	*-
+!!!role-singer: Maiden, Bachelor
+!!!role-listener: Bachelor, Maiden
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Poco żeś mnie Jasiu do sadeńka zawiód
+!!niéma bo tam wiśni ani żadnych jagód.
+!!Jakbym ja cię zdradził w rucianym wianeńku,
+!!mnieby Bóg samego w moim osiweńku.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=301 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 281} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 281}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

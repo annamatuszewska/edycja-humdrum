@@ -3,57 +3,72 @@
 !!!source: DWOK16
 !!!id: 16452
 !!!signature: 1645200000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M2/4
-=1
-{8ff
-8cc
-8dd
-8cc
-=2
-8cc
-8cc
-8b-
-16g
-16f
-=3
-4a
-8b-
-8dd
-=4
-8cc
-8a
-8b-
-16g
-16f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M2/4	*
+=1	=1
+{8ffL	Idzie
+8cc	.
+8dd	woda
+8ccJ/	.
+=2	=2
+8cc	od
+8cc	ogroda,
+8b-	.
+16gL	.
+16fJ	.
+=3	=3
+4a\	oj
+8b-	od
+8dd	sa-
+=4	=4
+8cc	-mego
+8a\	.
+8b-	Śląska,
+16gL	.
+16fJ}	.
 !!LO:LB:g=esac
-=5
-{8a
-8a
-8b-
-8b-
-=6
-8cc
-8cc
-8b-
-16g
-16f
-=7
-4a
-8b-
-8dd
-=8
-8cc
-8a
-8b-
-16g
-16f}
-==
-*-
+=5	=5
+{8a\	Idzie
+8a\	.
+8b-	woda
+8b-	.
+=6	=6
+8cc	od
+8cc	ogroda,
+8b-	.
+16gL	.
+16fJ	.
+=7	=7
+4a\	oj
+8b-L	od
+8ddJ/	sa-
+=8	=8
+8cc	-mego
+8a\	.
+8b-	Śląska.
+16gL	.
+16fJ}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Idzie woda od ogroda,
+!!od samego Śląska,
+!!ożenił się pan starosta,
+!!nimiał ni selązka.
+!!@VERSE:
+!!2. Jakże się nimiał ozenić,
+!!kiedy była ładna,
+!!suknia na ni jak na pani,
+!!chustecka jedwabna.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=298 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 278} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 278}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

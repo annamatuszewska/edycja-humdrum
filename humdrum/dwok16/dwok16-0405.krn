@@ -3,55 +3,93 @@
 !!!source: DWOK16
 !!!id: 16405
 !!!signature: 1640500000
-**kern
-*clefG2
-*k[]
-*C:
-*M4/4
-=1
-{4cc
-8cc
-8cc
-4.cc
-8a
-=2
-8a
-8b
-8cc
-8a
-4a
-4g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M4/4	*
+*met(c)	*
+=1	=1
+{4cc	I
+8cc	przyjecha-
+8cc	.
+4.cc	.
+8a\	-ło
+=2	=2
+8a\	ćterech
+8b	.
+8cc	panów
+8a	.
+4aM	z_wojny,
+4g}	.
 !!LO:LB:g=esac
-=3
-{4g
-8b
-8dd
-4.ff
-8ee
-=4
-8dd
-8ee
-8ff
-8dd
-4ee
-4cc}
+=3	=3
+{4g	i
+8b	pyta-
+8dd	.
+4.ff/	-ją
+8ee/	się
+=4	=4
+8ddL	o
+8ee	nocleg
+8ff	.
+8ddJ/	spokojny,
+4ee/	.
+4cc/}	.
 !!LO:LB:g=esac
-=5
-{4g
-8b
-8dd
-4.dd
-8cc
-=6
-8b
-8dd
-8dd
-8dd
-4cc
-4cc}
-==
-*-
+=5	=5
+{4g	i
+8b	pyta-
+8dd	.
+4.dd	-ją
+8cc	się
+=6	=6
+8b	o
+8dd	nocleg
+8dd	.
+8dd	spokojny.
+4cc	.
+4cc}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Soldiers, Maiden
+!!!role-listener: Soldiers
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. I przyjechało ćterech panów z wojny,
+!!i pytają się o nocleg spokojny.
+!!@VERSE:
+!!2. Ej nocleg, nocleg, nocleg się obeńdzie,
+!!ale najbardziéj, — dziewczyny nie będzie.
+!!@VERSE:
+!!3. Witaj-że, witaj, matuleńku nasa,
+!!a gdzie je, gdzie je(st) córusieńka wasa.
+!!@VERSE:
+!!4. Oj boście ji to nie widzieli w polu,
+!!wybiera ona pszeniczkę z kąkolu.
+!!@VERSE:
+!!5. A miała óna na swój główce wianek,
+!!myśleli, myśleli że krakowski zamek.
+!!@VERSE:
+!!6. A trzeba było czterech służków posłać,
+!!żeby to można tę córeczkę zeznać.
+!!@VERSE:
+!!7. O żeby jeden gorzałeckę nosiuł,
+!!oj żeby drugi ojca, matki prosiuł.
+!!@VERSE:
+!!8. Oj żeby trzeci rodziny zabawiał,
+!!oj żeby czwarty dziewczynę namawiał.
+!!@VERSE:
+!!9. Oj bierzecie mnie od ojca, od matki,
+!!a zawieźcie mnie gdzie wselkie dostatki.
+!!@VERSE:
+!!10. Aby czeladeczka we złocie chodziła,
+!!bym przy obiedzie bez wina nie była.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=274 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 254} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 254}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

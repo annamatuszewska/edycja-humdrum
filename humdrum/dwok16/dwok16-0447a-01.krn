@@ -3,76 +3,97 @@
 !!!source: DWOK16
 !!!id: 16447a
 !!!signature: 1644700001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16f#
-16g
-8a
-8f#
-=2
-8g
-8a
-8cc
-=3
-16b
-16b
-8a
-8b
-=4
-4g}
-8r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16f#	Hej
+16g	pamiętaj
+8a	.
+8f#	.
+=2	=2
+8g	dziewcyno,
+8a	.
+8cc	.
+=3	=3
+16b	Pan
+16b	Bóg
+8a\	cię
+8ccq	.
+8b	ska-
+=4	=4
+4g}	-rze,
+8r	.
 !!LO:LB:g=esac
-=5
-{16f#
-16g
-8a
-8f#
-=6
-8g
-8a
-8cc
-=7
-16b
-16b
-8a
-8b
-=8
-4g}
-8r
+=5	=5
+{16f#	ja
+16g	się
+8a	w_tobie
+8f#	.
+=6	=6
+8g	zakochał,
+8a	.
+8cc	.
+=7	=7
+16b	nie
+16b	chces
+8a\	żyć
+8ccq	.
+8b	w_pa-
+=8	=8
+4g}	-rze.
+8r	.
 !!LO:LB:g=esac
-=9
-{16b
-16b
-8a
-8f#
-=10
-8g
-8a
-8f#
-=11
-16b
-16b
-8a
-8f#
-=12
-8g
-8a
-8cc
-=13
-16b
-16b
-8a
-8b
-=14
-4g}
-8r
-==
-*-
+=9	=9
+{16b	Cy
+16b	ja
+8a\	je-
+8f#\	-stem
+=10	=10
+8g	ka-
+8a	-li-
+8f#	-ka,
+=11	=11
+16b	cy
+16b	ja
+8a\	nimam
+8f#\	.
+=12	=12
+8g	koni-
+8a	.
+8cc	-ka
+=13	=13
+16b	dziewcyno
+16b	.
+8a\	.
+8b	mo-
+=14	=14
+4g}	-ja.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!role-listener: Maiden
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Hej pamiętaj dziewcyno, Pan Bóg cię skarze,
+!!ja się w tobie zakochał, nie chces żyć w parze.
+!!Cy ja jestem kalika,
+!!cy ja nimam konika
+!!dziewcyno moja.
+!!@VERSE:
+!!2. A mám-ci ja zupanik i pas siatkowy,
+!!w kiesonecce świzy gros, zawse gotowy.
+!!Selązkiemi dwa grosa,
+!!i chusteńkę do nosa
+!!z koroneckiemi.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=295 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 275} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 275}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

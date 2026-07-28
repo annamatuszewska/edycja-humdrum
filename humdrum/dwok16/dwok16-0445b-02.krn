@@ -3,53 +3,99 @@
 !!!source: DWOK16
 !!!id: 16445b
 !!!signature: 1644500002
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16b
-16cc
-8ee
-8cc
-=2
-8a
-16cc
-16a
-8g
-=3
-16b
-16cc
-8ee
-8cc
-=4
-8dd
-8ff
-8ff}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16b	Siedem
+16cc	.
+8ee	Jasio
+8cc	.
+=2	=2
+8a\	ko-
+16ccL	-ni
+16a	.
+8gJ;	miał,
+=3	=3
+16b	siedem
+16cc	.
+8ee	Jasio
+8cc	.
+=4	=4
+8dd	ko-
+8ffL	-ni
+8ffJ/}	miał,
 !!LO:LB:g=esac
-=5
-{16ee
-16gg
-8ee
-8cc
-=6
-8dd
-8ff
-8ff
-=7
-16ee
-16gg
-8ee
-8cc
-=8
-8a
-16cc
-16a
-8g}
-==
-*-
+=5	=5
+{16eeL	wszystkie
+16ggJ/	.
+8eeL	kowal
+8ccJ/	.
+=6	=6
+8dd	podkował,
+8ffL	.
+8ffJ/	.
+=7	=7
+16eeL	wszystkie
+16ggJ/	.
+8eeL	kowal
+8ccJ/	.
+=8	=8
+8a\	podko-
+16ccL	.
+16aJ/	.
+8g;}	-wał.
+==	==
+*-	*-
+!!!role-singer: Narrator, Maiden, Bachelor
+!!!role-listener: Bachelor, Maiden
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Siedem Jasio koni miał,
+!!wszystkie kowal podkował.
+!!@VERSE:
+!!2. A od każdéj podkowy,
+!!talar bity gotowy.
+!!@VERSE:
+!!3. Oj i w lesie na dębie,
+!!tam gruchają gołębie.
+!!@VERSE:
+!!4. Oj dyziu, dyziu, dyziuniu,
+!!już odjeżdżasz Jasiuniu.
+!!@VERSE:
+!!5. Oj Bogu cię policam,
+!!a inszej się zalicam.
+!!@VERSE:
+!!6. Zalicaj się, zalicaj,
+!!mnie chusteńki powracaj.
+!!@VERSE:
+!!7. Wieleś mi ich nadała?
+!!coś mi wracać kazała.
+!!@VERSE:
+!!8. Pierwszą dałam na ganku,
+!!tobie Jasiu kochanku.
+!!@VERSE:
+!!9. Drugą dałam w alkierzu,
+!!tobie Jasiu szalbierzu.
+!!@VERSE:
+!!10. Trzecią dałam z kwiatami,
+!!nie wié siostra z bratami.
+!!@VERSE:
+!!11. Czwartą dałam z liliją,
+!!mój Jasiuniu wróć mi ją . —
+!!@VERSE:
+!!12. — Oj nie wrócę, nie wrócę,
+!!pod konia ją podrzucę.
+!!@VERSE:
+!!13. Niech to konik dratuje (tratuje)
+!!co dziewczyna daruje.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=294 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 274} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 274}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

@@ -3,57 +3,67 @@
 !!!source: DWOK16
 !!!id: 16436a
 !!!signature: 1643600001
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{8ee
-8ee
-8g#
-=2
-16a
-16b
-16dd
-16cc
-8b
-=3
-16dd#
-16dd#
-8.ee
-16g#
-=4
-16a
-16cc
-16b
-16cc
-8a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{8ee	Cztery
+8ee	la-
+8g#	-ta
+=2	=2
+16a\	wiernie
+16b	.
+16ddL	służył
+16ccJ	.
+8b	.
+=3	=3
+16dd#	gospoda-
+16dd#	.
+8.ee	.
+16g#	-rzo-
+=4	=4
+16a\	-wi
+16cc	ma-
+16bL	-tu-
+16ccJ	.
+8a\}	-lu.
 !!LO:LB:g=esac
-=5
-{16e
-16f#
-8g#
-8g#
-=6
-16a
-16b
-8cc
-8cc
-=7
-16dd#
-16dd#
-8.ee
-16g#
-=8
-16a
-16cc
-16b
-16cc
-8a}
-==
-*-
+=5	=5
+{16e	Sie-
+16f#	-czkę
+8g#	rzezał,
+8g#	.
+=6	=6
+16a\	nie
+16b	wieczerzał,
+8cc	.
+8cc	.
+=7	=7
+16dd#	niech
+16dd#	on
+8.ee	sam
+16g#	po-
+=8	=8
+16a\	-wie
+16cc	matu-
+16bL	.
+16ccJ	.
+8a\}	-lu.
+==	==
+*-	*-
+!!!role-singer: Son
+!!!role-listener: Mother
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Cztery lata wiernie służył gospodarzowi matulu.
+!!Sieczkę rzezał, nie wieczerzał, niech on sam powie matulu.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=290 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 270} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 270}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

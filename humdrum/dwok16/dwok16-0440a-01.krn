@@ -3,64 +3,117 @@
 !!!source: DWOK16
 !!!id: 16440a
 !!!signature: 1644000001
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/4
-=1
-{8ff
-8ff
-4ee
-4ee
-=2
-8ff
-16ee
-16dd
-4.cc
-8b-
-=3
-8a
-8cc
-8ff
-8dd
-4cc
-=4
-8cc
-16b-
-16a
-4g
-8f}
-8r
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/4	*
+=1	=1
+{8ff	Jak
+8ff	pojedziesz
+4ee	.
+8ccq	.
+4ee	.
+=2	=2
+8ff	na
+16eeL	wo-
+16ddJ	.
+4.cc	-jenkę
+8b-	.
+=3	=3
+8a\	z_kim
+8cc	zostawisz
+8ffL	.
+8ddJ	.
+4cc	ko-
+=4	=4
+8cc	-cha-
+16b-L	.
+16aJ	.
+4g	-neńkę?
+8f}	.
+8r	.
 !!LO:LB:g=esac
-=5
-{8f
-16f
-16a
-4.cc
-8a
-=6
-8b-
-16b-
-16dd
-4.cc
-8a
-=7
-8a
-8cc
-8ff
-8dd
-4cc
-=8
-8cc
-16b-
-16a
-4g
-8f}
-8r
-==
-*-
+=5	=5
+{8f	Ram
+16fL	ta
+16aJ	.
+4.cc	da-
+8a	-na,
+=6	=6
+8b-	ram
+16b-L	ta
+16ddJ	.
+4.cc	da-
+8a	-na,
+=7	=7
+8a\	z_kim
+8cc	zosta-
+8ffL	.
+8ddJ	-wisz
+4cc	ko-
+=8	=8
+8cc	-cha-
+16b-L	.
+16aJ	.
+4g	-neń-
+8f}	-kę?
+8r	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Soldier, Wife
+!!!role-listener: Soldier, Mother-in-Law, Husband
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Jak pojedziesz na wojenkę
+!!z kim zostawisz kochaneńkę?
+!!@VERSE:
+!!2. Ostawię ją przy mateńce
+!!i przy wszyćkiéj rodzineńce.
+!!@VERSE:
+!!3. Sześć lat wyszło, siódmy idzie,
+!!już mój Jasio z wojny jedzie.
+!!@VERSE:
+!!4. — Pomagaj-bóg! matko moja,
+!!czy tu żyje Kasia moja?
+!!@VERSE:
+!!5. — Żyje, żyje zdrowiusieńka,
+!!ale idzie za Stasieńka.
+!!@VERSE:
+!!6. — Zaprzęgajcie para konie,
+!!pojedziemy na wesele.
+!!@VERSE:
+!!7. Stanę ja se w kątku u drzwi,
+!!czy mnie moja Kasia ujrzy?
+!!@VERSE:
+!!8. Jak mnie Kasia zobaczyła,
+!!cztery stoły przeskoczyła.
+!!@VERSE:
+!!9. Cztery stoły przeskoczyła,
+!!na piątym się openiła.
+!!@VERSE:
+!!10. — Pomagaj-bóg! Jasiu pirszy,
+!!ty se Stasiu, szukaj inszyj.
+!!Staś:
+!!@VERSE:
+!!11. — Gdzie-żeś przysięgę podziała,
+!!co’ś w kościele przysięgała?
+!!@VERSE:
+!!12. — W kosciele’m ją zostawiła,
+!!nie szczerze’m ci poślubiła
+!!@VERSE:
+!!13. — A pójdę ja do wiskupa,
+!!bo-ć tutaj kiepska nauka.
+!!14- — Choć-byś poszeł i do popów
+!!ja nie kocham po dwóch chłopów.
+!!@VERSE:
+!!15. Tylko Boga Najwyższego,
+!!i Jasiunia najpirszego.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=292 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 272} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 272}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

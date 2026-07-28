@@ -3,70 +3,99 @@
 !!!source: DWOK16
 !!!id: 16401a
 !!!signature: 1640100001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{4dd
-8dd
-8ee
-=2
-4.dd
-8b
-=3
-8dd
-8cc
-8a
-8a
-=4
-2g
-=5
-4dd
-8dd
-8ee
-=6
-4.dd
-8b
-=7
-8dd
-8dd
-8a
-8cc
-=8
-2dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{4dd	Oj
+8dd	siadaj
+8ee	.
+=2	=2
+4.dd	sia-
+8b	-daj
+=3	=3
+8dd	Maryś
+8cc	.
+8a\	kocha-
+8a\	.
+=4	=4
+2g\	-nie,
+=5	=5
+4dd	oj
+8ddL	siadaj
+8eeJ/	.
+=6	=6
+4.dd	sia-
+8b	-daj
+=7	=7
+8ddL	Maryś
+8ddJ/	.
+8aL	kocha-
+8ccJ/	.
+=8	=8
+2dd/}	-nie.
 !!LO:LB:g=esac
-=9
-{8a
-8a
-8g
-8b
-=10
-8cc
-8a
-8b
-8g
-=11
-8a
-8a
-8g
-8b
-=12
-8cc
-8a
-8b
-8b
-=13
-8cc
-8a
-8a
-8a
-=14
-2g}
-==
-*-
+=9	=9
+{8a	Juz
+8a	nie
+8g	nada,
+8b	.
+=10	=10
+8cc	nie
+8a\	pomoże,
+8b	.
+8g\	.
+=11	=11
+8a	stoji
+8a	.
+8g	para
+8b	.
+=12	=12
+8cc	koni
+8a\	.
+8bL	w_wozie
+8bJ/	.
+=13	=13
+8cc	juz
+8a\	zało-
+8a\	.
+8a\	-żo-
+=14	=14
+2g}	-ne.
+==	==
+*-	*-
+!!!role-singer: Husband, Wife
+!!!role-listener: Wife, Husband
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Oj siadaj siadaj Maryś kochanie,
+!!juz nie pomoże płakanie twoje.
+!!Juz nie nada, nie pomoże,
+!!stoji para koni w wozie
+!!juz załozone.
+!!@VERSE:
+!!2. A jabym z wami rada siadała,
+!!alem się z ojcem nie pozegnała.
+!!A bywaj-ze zdrów mój ojce,
+!!wołałeś ty na mnie: hojze!
+!!teraz nie będzies.
+!!@VERSE:
+!!3. Oj siadaj, siadaj Maryś i t. d.
+!!4 A jabym z wami rada siadała,
+!!alem się z matką nie pozegnała.
+!!Bywaj zdrowa moja matko,
+!!bywałam u ciebie gładko,
+!!teraz nie będe.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Do przenosin:
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=271 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 251} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 251}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25
