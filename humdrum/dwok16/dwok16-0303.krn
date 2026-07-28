@@ -3,52 +3,63 @@
 !!!source: DWOK16
 !!!id: 16303
 !!!signature: 1630300000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8dd
-8a
-8cc
-=2
-16b
-16a
-8g
-8d
-=3
-16g
-16b
-8a
-8cc
-=4
-16b
-16a
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8ddL	Oj
+8aJ/	do-
+8cc	-bra
+=2	=2
+16b	telicha,(krowina)
+16a	.
+8gL	.
+8dJ	będzie
+=3	=3
+16g\	.
+16b	dobra
+8a\	.
+8cc	do
+=4	=4
+16b	mlika.
+16a\	.
+4g\}	.
 !!LO:LB:g=esac
-=5
-{16g
-16b
-8a
-8cc
-=6
-8b
-8f#
-8a
-=7
-16g
-16b
-8a
-8cc
-=8
-16b
-16a
-8f#
-8d}
-==
-*-
+=5	=5
+{16g	Cyli
+16b/	.
+8a	to
+8cc	dziś,
+=6	=6
+8bL	cyli
+8f#J	jutro,
+8a	.
+=7	=7
+16g	niescęśli-
+16b/	.
+8a	.
+8cc	-we
+=8	=8
+16b	twoje
+16a\	.
+8f#L	futro.
+8dJ\}	.
+==	==
+*-	*-
+!!!role-singer: Owner
+!!!role-listener: Cow
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Oj dobra telicha, (krowina)
+!!będzie dobra do mlika.
+!!Cyli to dziś, cyli jutro,
+!!niescęśliwe twoje futro.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=246 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 226} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 226}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

@@ -3,49 +3,58 @@
 !!!source: DWOK16
 !!!id: 16359
 !!!signature: 1635900000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8a
-8g
-4cc
-4b
-=2
-8a
-8g
-4cc
-4b
-=3
-8a
-8f#
-4g
-8f#
-16d}
-16r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8a	A
+8g	mój
+4cc/	miły
+4b/	.
+=2	=2
+8a	zają-
+8g	.
+4cc	-czeńku
+4b	.
+=3	=3
+8a	Łado,
+8f#	.
+4g	Łado,
+8f#L	.
+16dJ;}	.
+16r	.
 !!LO:LB:g=esac
-=4
-{8e
-8d
-4a
-4g
-=5
-8a
-8g
-4cc
-4b
-=6
-8a
-8f#
-4g
-8f#
-16d}
-16r
-==
-*-
+=4	=4
+{8eL	Wczorajś
+8dJ\	.
+4a\	latał
+4g\	.
+=5	=5
+8a	po
+8g	polo-
+4cc	.
+4b	-wi
+=6	=6
+8a	Łado,
+8f#	.
+4g	Łado.
+8f#L	.
+16dJ;}	.
+16r	.
+==	==
+*-	*-
+!!!role-listener: Hare
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!A mój miły zajączeńku Łado, Łado,
+!!Wczorajś latał po polowi Łado, Łado.
+!!Dzisiaj stojisz na stołowi, Łado, Łado.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=260 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 240} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 240}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

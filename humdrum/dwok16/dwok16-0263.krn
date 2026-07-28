@@ -3,59 +3,92 @@
 !!!source: DWOK16
 !!!id: 16263
 !!!signature: 1626300000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8g
-8dd
-8dd
-16ee
-16dd
-=2
-4dd
-8dd
-8b
-=3
-4dd
-8ee
-8dd
-=4
-4dd
-8dd
-8cc
-=5
-8b
-8f#
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8gL	Zaloty,
+8ddJ/	.
+8ddL	.
+16ee	za-
+16ddJ/	.
+=2	=2
+4dd	-loty,
+8ddL	.
+8bJ	.
+=3	=3
+4dd/	oj
+8eeL	co
+8ddJ/	ó-
+=4	=4
+4dd	-ny
+8ddL	kost-
+8ccJ/	.
+=5	=5
+8bL	-tu-
+8f#J	.
+4g}	-ją;
 !!LO:LB:g=esac
-=6
-{8g
-8g
-8b
-8cc
-=7
-4dd
-8dd
-8b
-=8
-8a
-8g
-8b
-8cc
-=9
-4dd
-8b
-8cc
-=10
-8b
-8f#
-4g}
-==
-*-
+=6	=6
+{8g\	talary
+8g\	.
+8b	.
+8cc	się
+=7	=7
+4dd	tocą,
+8ddL	.
+8bJ	.
+=8	=8
+8aL	oj
+8gJ\	.
+8b	buci-
+8cc	.
+=9	=9
+4dd	-ki
+8bL	się
+8ccJ	.
+=10	=10
+8bL	psu-
+8f#J	.
+4g}	-ją.
+==	==
+*-	*-
+!!!role-singer: Maiden, Narrator
+!!!role-listener: Mother
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Zaloty, zaloty,
+!!oj co óny kostują;
+!!talary się tocą,
+!!oj buciki się psują.
+!!@VERSE:
+!!2. Talary się tocą
+!!oj po cisowym stole,
+!!buciki się psują
+!!oj po karcemnym dole.
+!!lub: w karczemce i w kole (tańczących)
+!!@VERSE:
+!!3. Talary się tocą
+!!oj ojcowe, ojcowe,
+!!buciki się psują
+!!oj sewcowe, nie moje.
+!!@VERSE:
+!!4. Jadą bo nie idą
+!!oj da zalotnickowie
+!!przyjm ich matuleńku
+!!jeżeli wola twoja.
+!!@VERSE:
+!!5. Jadą bo nie idą
+!!zalotnickowie ze wsi,
+!!wybierz se Marysiu
+!!oj który ci najlepsy.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=235 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 215} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 215}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

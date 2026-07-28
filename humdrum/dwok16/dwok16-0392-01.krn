@@ -3,58 +3,72 @@
 !!!source: DWOK16
 !!!id: 16392
 !!!signature: 1639200001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8g
-8b
-8dd
-8cc
-4b
-=2
-4a
-8b
-8cc
-4b
-=3
-4.a
-4g
-16f#
-16e
-=4
-8dd}
-8r
-4r
-4r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8g	A
+8b	kiej
+8dd	będziemy
+8cc	.
+4b	.
+=2	=2
+4a\	tego
+8b	.
+8cc	karpia
+4b	.
+=3	=3
+4.a	za-
+4g;	-zy-
+16f#L	.
+16eJ	.
+=4	=4
+8d}	-wać,
+8r	.
+4r	.
+4r	.
 !!LO:LB:g=esac
-=5
-{8f#
-8a
-8a
-8f#
-4g
-=6
-8a
-8a
-8b
-8cc
-4b
-=7
-8a
-8a
-8b
-8cc
-4b
-=8
-8g
-8f#
-2g}
-==
-*-
+=5	=5
+{8f#	a
+8a	racze
+8a	.
+8f#	go
+4g	nam
+=6	=6
+8a\	Panie
+8a\	.
+8b	Jezu-
+8cc	.
+4b;	-sie,
+=7	=7
+*Xtuplet	*
+8a\	Najświętsza
+8a\	.
+8b	.
+24ccL	Pan-
+24b	.
+24ccJ/	.
+4b;	-no
+=8	=8
+8g	przezegnać.
+8f#	.
+2g;}	.
+==	==
+*-	*-
+!!!role-listener: Jesus, Holy Mary
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. A kiej będziemy tego karpia — zazywać,
+!!a rac-ze go nam Panie Jezusie, Najświętsa Panno — przezegnać.
+!!@VERSE:
+!!2. A przezegnaj go Panie Jezusie, Najświętsa Panno — przezegnaj
+!!a daj dolę tym dwojgu ludziom — dolę daj.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=268 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 248} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 248}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

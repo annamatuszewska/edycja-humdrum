@@ -3,54 +3,67 @@
 !!!source: DWOK16
 !!!id: 16364
 !!!signature: 1636400000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{8ee
-8ee
-8ee
-=2
-16b
-16dd
-8ee
-16cc
-16b
-=3
-8a
-8cc
-8dd
-=4
-16cc
-16cc
-8dd
-16cc
-16b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{8ee	Oj
+8ee	za-
+8ff#q	.
+8ee	-graj
+=2	=2
+16bL	mi
+16ddJ/	muzy-
+8eeL	.
+16cc	-ka
+16bJ/	.
+=3	=3
+8a\	oj
+8cc	niech
+8dd	ci
+=4	=4
+16cc	stru-
+8bq	.
+16cc	.
+8dd	.
+16ccL	-ny
+16bJ}	wiuczą,
 !!LO:LB:g=esac
-=5
-{8b
-8a
-8a
-=6
-16g#
-16a
-8b
-8b
-=7
-8a
-8cc
-8dd
-=8
-16cc
-16cc
-8dd
-16cc
-16b}
-==
-*-
+=5	=5
+{8b	oj
+8a\	niech
+8a\	się
+=6	=6
+16g#\	Chojnianeń-
+16a\	.
+8b	.
+8b	-ki
+=7	=7
+8a\	da
+8cc	tańco-
+8dd	.
+=8	=8
+16cc	-wać
+8bq	.
+16cc	.
+8dd	nau-
+16ccL	-czą.
+16bJ}	.
+==	==
+*-	*-
+!!!role-singer: Dancer
+!!!role-listener: Musicians
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Oj zagraj mi muzyka oj niech ci struny wiuczą,
+!!oj niech się Chojnianeńki da tańcować nauczą.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=261 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 241} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 241}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

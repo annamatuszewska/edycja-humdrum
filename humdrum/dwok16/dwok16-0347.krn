@@ -3,93 +3,105 @@
 !!!source: DWOK16
 !!!id: 16347
 !!!signature: 1634700000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{8a
-8g
-8b
-=2
-8dd#
-4ee
-=3
-16cc
-16b
-4a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{8a\	Stąpnę
+8g\	.
+8b	ja
+=2	=2
+8dd#	na
+4ee	ka-
+=3	=3
+16ccL	-li-
+16bJ	.
+4a\}	-nę,
 !!LO:LB:g=esac
-=4
-{8a
-8b
-8dd#
-=5
-8ff#
-8.ee
-16dd
-=6
-16cc
-16b
-4a}
+=4	=4
+{8aL	krzyknę
+8b	.
+8dd#J/	ja
+=5	=5
+8ff#/	na
+8.eeL	ro-
+16ddnJ/	.
+=6	=6
+16ccL	-dzi-
+16bJ	.
+4a\}	-nę:
 !!LO:LB:g=esac
-=7
-{8a
-8b
-8ee
-=8
-16dd
-16b
-4a
-=9
-8dd#
-4ee}
+=7	=7
+{8a\	bywaj
+8b	.
+8ee	ro-
+=8	=8
+16ddL	-dzi-
+16bJ	.
+4a\	-no
+=9	=9
+8dd#	moja,
+4ee}	.
 !!LO:LB:g=esac
-=10
-{8ee
-8b
-8ee
-=11
-16cc
-16a
-4b
-=12
-4.a
-=13
-4a}
-8r
+=10	=10
+{8ee	do
+8b	mego
+8ee	.
+=11	=11
+16ccL	ko-
+16aJ	.
+4b	-ro-
+=12	=12
+4.a	-wa-
+=13	=13
+4a}	-ja;
+8r	.
 !!LO:LB:g=esac
-=14
-{8a
-8b
-16ee
-16dd
-=15
-16dd
-16b
-4a
-=16
-8dd#
-4ee}
+=14	=14
+{8a\	miodu,
+8b	.
+16eeL	.
+16ddJ/	.
+=15	=15
+16ddL	wi-
+16bJ	.
+4a\	-na
+=16	=16
+8dd#	pić,
+4ee}	.
 !!LO:LB:g=esac
-=17
-{8ee
-8b
-16ee
-16dd
-=18
-16cc
-16a
-8.b
-16g#
-=19
-4.a
-=20
-4a}
-8r
-==
-*-
+=17	=17
+{8ee	i
+8b	koro-
+16eeL	.
+16ddJ/	.
+=18	=18
+16ccL	.
+16aJ	-waj
+8.bL	.
+16g#J	stro-
+=19	=19
+4.a	.
+=20	=20
+4a}	-jić.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Baker
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Stąpnę ja na kalinę,
+!!krzyknę ja na rodzinę:
+!!bywaj rodzino moja,
+!!do mego korowaja;
+!!miodu, wina pić,
+!!i korowaj strojić.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=258 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 238} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 238}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

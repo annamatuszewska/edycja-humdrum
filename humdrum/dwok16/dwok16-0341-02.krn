@@ -3,58 +3,78 @@
 !!!source: DWOK16
 !!!id: 16341
 !!!signature: 1634100002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8b
-4dd
-=2
-8cc
-4b
-=3
-4dd
-8ee
-=4
-8dd
-8cc
-8b
-=5
-8dd
-8b
-8f#
-=6
-4g}
-8r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8b	Szczęśli-
+4dd	.
+=2	=2
+8cc	-wa
+4b	nam
+=3	=3
+4dd/	dziś
+8ee/	Sobo-
+=4	=4
+8dd	.
+8ccL	-teńka
+8bJ	.
+=5	=5
+8dd	.
+8bL	nasta-
+8f#J	.
+=6	=6
+4g}	.
+8r	-ła,
 !!LO:LB:g=esac
-=7
-{8dd
-8dd
-8b
-=8
-8dd
-8b
-8g
-=9
-8a
-8a
-8b
-=10
-8dd
-8cc
-8b
-=11
-8dd
-8b
-8f#
-=12
-4g}
-8r
-==
-*-
+=7	=7
+{8dd/	.
+8ddL	młoda
+8bJ/	.
+=8	=8
+8ddL	Mary-
+8b	.
+8gJ/	-sia
+=9	=9
+8aL	po
+8aJ	rodzi-
+8b	.
+=10	=10
+8dd	-neńkę
+8ccL	.
+8bJ	.
+=11	=11
+8dd	posła-
+8bL	.
+8f#J	.
+=12	=12
+4g}	-ła.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Szczęśliwa nam dziś Soboteńka nastała,
+!!młoda Marysia po rodzineńkę posłała.
+!!@VERSE:
+!!2. Posłała wona cztery koniki, piąty wóz,
+!!oj a szóstego przewoźniczeńka, żeb przywióz.
+!!@VERSE:
+!!3. Dała wona dwa dukaciki na strawę,
+!!ażeb jéj przywióz jéj rodzineńkę — na sławę.
+!!@VERSE:
+!!4. Na boru sosna, latem i zimą, zielona,
+!!nasza Marysia wczoraj i dzisiaj wesoła.
+!!@VERSE:
+!!5. Oj będzie wona w Niedzielę rano płakała,
+!!jak się będzie swojéj mateńce kłaniała.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=256 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 236} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 236}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

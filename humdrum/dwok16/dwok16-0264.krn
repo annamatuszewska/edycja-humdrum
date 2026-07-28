@@ -3,103 +3,121 @@
 !!!source: DWOK16
 !!!id: 16264
 !!!signature: 1626400000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{4dd
-8cc#
-=2
-8dd
-4b
-=3
-8dd
-8b
-8cc#
-=4
-4dd
-8g
-=5
-8b
-8g}
-8r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{4dd	Oj
+8cc#	ma-
+=2	=2
+8dd	-tulu,
+4bm	.
+=3	=3
+8dd	do
+8b	jego
+8cc#	.
+=4	=4
+4dd	dworu
+8g	.
+=5	=5
+8bm	jadę.
+8g}	.
+8r	.
 !!LO:LB:g=esac
-=6
-{8dd
-8dd
-8cc#
-=7
-8dd
-4b
-=8
-8dd
-8b
-8cc#
-=9
-4dd
-8g
-=10
-8b
-8g}
-8r
+=6	=6
+{8ddL	Oj
+8ddJ/	.
+8cc#	ma-
+=7	=7
+8dd	-tulu
+4bm	,
+=8	=8
+8dd	do
+8b	jego
+8cc#	.
+=9	=9
+4dd	dworu
+8g	.
+=10	=10
+8bm	jadę.
+8g}	.
+8r	.
 !!LO:LB:g=esac
-=11
-{8b
-8b
-8cc#
-=12
-8dd
-4b
-=13
-8g
-8b
-8cc#
-=14
-8dd
-4b
-=15
-8dd
-8b
-8cc#
-=16
-4dd
-8g
-=17
-8b
-8g}
-8r
+=11	=11
+{8b	Stoji
+8b	.
+8cc#	mi
+=12	=12
+8dd	konik
+4bm	.
+=13	=13
+8g	stoji
+8b	.
+8cc#	mi
+=14	=14
+8dd	wrony
+4b	.
+=15	=15
+8dd	stoji
+8b	.
+8cc#	mi
+=16	=16
+4dd	osio-
+8g	.
+=17	=17
+8bm	-dłany.
+8g}	.
+8r	.
 !!LO:LB:g=esac
-=18
-{16b
-16a
-8b
-8cc#
-=19
-8dd
-4b
-=20
-8g
-8b
-8cc#
-=21
-8dd
-4b
-=22
-8dd
-8b
-8cc#
-=23
-4dd
-8g
-=24
-8b
-8g}
-8r
-==
-*-
+=18	=18
+{16bL	Stoji
+16aJ	.
+8b	.
+8cc#	mi
+=19	=19
+8dd	konik
+4bm	.
+=20	=20
+8g	stoji
+8b	.
+8cc#	mi
+=21	=21
+8dd	wrony
+4b	.
+=22	=22
+8dd	stoji
+8b	.
+8cc#	mi
+=23	=23
+4dd	osio-
+8g	.
+=24	=24
+8bm	-dłany.
+8g}	.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!role-listener: Mother
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Oj matulu - do jego dworu jadę;
+!!Oj matulu – pojadę z furmanami.
+!!Stoji mi konik
+!!stoji mi wrony
+!!stoji mi osiodłany.
+!!@VERSE:
+!!2. Dziwo we dworze — dobre myteczko dają.
+!!Niewyjdzie rocek
+!!ani pótora (półtora)
+!!zieloną suknią krają.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=236 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 216} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 216}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

@@ -3,49 +3,63 @@
 !!!source: DWOK16
 !!!id: 16363
 !!!signature: 1636300001
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{8a
-8cc
-8b
-=2
-8dd
-8dd
-8cc
-=3
-4b
-8b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{8a\	Korowa-
+8cc	.
+8b	.
+=2	=2
+8dd	-jowe
+8ddL	.
+8ccJ	.
+=3	=3
+4b;	ciasto,
+8b}	.
 !!LO:LB:g=esac
-=4
-{8a
-8cc
-8b
-=5
-8dd
-8dd
-8cc
-=6
-8b
-4a}
+=4	=4
+{8a\	korowa-
+8cc	.
+8b	.
+=5	=5
+8dd	-jowe
+8ddL	.
+8ccJ	.
+=6	=6
+8b	ciasto,
+4a}	.
 !!LO:LB:g=esac
-=7
-{8b
-8dd
-8cc
-=8
-8b
-4b
-=9
-4a
-8a}
-==
-*-
+=7	=7
+{8b	oj
+8dd	jecha-
+8cc	.
+=8	=8
+8b	-ło
+4b	bez
+=9	=9
+4a;	miasto.
+8a}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Korowajowe ciasto,
+!!oj jechało bez miasto,
+!!bez miasto i bez rynek,
+!!zaktnęło (zakwitło) jak barwinek,
+!!(lub: przykwita jak barwinek).
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Nuta nr 100.
+!!@@END:
 !!!ONB: Poprawiono błąd rytmiczny w t. 5: 4_43b
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=261 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 241} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 241}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

@@ -3,51 +3,76 @@
 !!!source: DWOK16
 !!!id: 16373
 !!!signature: 1637300002
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{8a
-8b
-16cc
-16b
-=2
-8dd
-8dd
-8a
-=3
-4b
-8b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{8a\	Na
+8b	morzu
+16ccL	.
+16bJ/	.
+=2	=2
+8dd	biały
+8ddL	.
+8aJ	.
+=3	=3
+4b;	kamień,
+8b}	.
 !!LO:LB:g=esac
-=4
-{8a
-8b
-16cc
-16b
-=5
-8dd
-8dd
-8cc
-=6
-8b
-4a}
+=4	=4
+{8a\	na
+8b	morzu
+16ccL	.
+16bJ/	.
+=5	=5
+8dd	biały
+8ddL	.
+8ccJ	.
+=6	=6
+8b	kamień,
+4a}	.
 !!LO:LB:g=esac
-=7
-{8b
-8dd
-8a
-=8
-8cc
-8b
-8g#
-=9
-4a
-8a}
-==
-*-
+=7	=7
+{8b	siedzi
+8dd	.
+8a\	Ma-
+=8	=8
+8cc	-ry-
+8bL	-sia
+8g#J	.
+=9	=9
+4a	na
+8a}	niém
+==	==
+*-	*-
+!!!role-singer: Narrator, Maiden
+!!!role-listener: Hair
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Na morzu biały kamień [:]
+!!siedzi Marysia na niém.
+!!@VERSE:
+!!2. Gdzie Marysia siedziała,
+!!rusy warkocz cesała.
+!!@VERSE:
+!!3. Co jéj włosek upadnie,
+!!to jéj wódeńka garnie.
+!!@VERSE:
+!!4. Płyńcie-ż moje włosy,
+!!do matule w roskosy.
+!!@VERSE:
+!!5. Niech jéj się serce kraje,
+!!co mnie od siebie daje.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Nuta nr. 100. 363.
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=264 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 244} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 244}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

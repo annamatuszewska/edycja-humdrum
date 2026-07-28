@@ -3,68 +3,107 @@
 !!!source: DWOK16
 !!!id: 16288
 !!!signature: 1628800001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8dd
-4dd
-=2
-8dd
-4dd
-=3
-16cc
-16b
-8a
-8g
-=4
-8dd
-8dd
-8dd
-=5
-8a
-4b
-=6
-4b
-8a
-=7
-4g}
-8r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8dd	Oj
+4dd	we-
+=2	=2
+8dd	-sele,
+4dd	.
+=3	=3
+16ccL	we-
+16bJ	.
+8a	-se-
+8g	-le
+=4	=4
+8dd	oj
+8dd	bywszy
+8dd	.
+=5	=5
+8a\	i
+4b	nie
+=6	=6
+(4b/	bę-
+8a)	.
+=7	=7
+4g}	-dzie,
+8r	.
 !!LO:LB:g=esac
-=8
-{8b
-8b
-8g
-=9
-8dd
-4dd
-=10
-8ee
-8dd
-8dd
-=11
-16cc
-16b
-8a
-8g
-=12
-8dd
-8dd
-8dd
-=13
-8a
-4b
-=14
-4g
-8a
-=15
-4g}
-8r
-==
-*-
+=8	=8
+{8b	oj
+8b	a-
+8g	-le
+=9	=9
+8bq	.
+8dd	tobie
+4dd	.
+=10	=10
+8ee	moja
+8dd	.
+8dd	Ma-
+=11	=11
+16ccL	-ry-
+16bJ	.
+8aL	-siu
+8gJ	.
+=12	=12
+8dd	wielga
+8dd	.
+8dd	bi-
+=13	=13
+8a	-deńka
+4b	.
+=14	=14
+(<4g\	bę-
+8a)	.
+=15	=15
+4g}	-dzie.
+8r	.
+==	==
+*-	*-
+!!!RDF**kern: < = below
+!!!role-singer: Narrator, Maiden
+!!!role-listener: Maiden, Child
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Oj wesele, wesele
+!!oj bywszy i nie będzie;
+!!oj ale tobie,
+!!moja Marysiu
+!!wielga bideńka będzie.
+!!@VERSE:
+!!2. Oj idzie w tuniec (w taniec)
+!!grzecny młodzieniec
+!!i ramionami rusza,
+!!cyli z prewoty
+!!cyli z ochoty,
+!!oj cyli go wes kąsa?
+!!@VERSE:
+!!3. Oj moje miłe
+!!pacholąteńko
+!!podaj-że mi wierzciadło,
+!!oj będę ja się
+!!w nim przeglądała,
+!!oj cy mi będzie ładno.
+!!@VERSE:
+!!4. Oj choćbyś ty się
+!!w nim przeglądała
+!!od rania do wieczora,
+!!oj juz nie będziesz
+!!taką panienką
+!!oj jaką byłaś wczoraj.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Nuta on. nr 163.
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=243 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 223} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 223}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

@@ -3,81 +3,119 @@
 !!!source: DWOK16
 !!!id: 16398
 !!!signature: 1639800000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16cc
-16dd
-8ee
-8ee
-=2
-16ee
-16cc
-8dd
-8ee
-=3
-16dd
-16a
-16cc
-16b
-8g#
-=4
-4.a
-=5
-16cc
-16dd
-8ee
-8ee
-=6
-16ee
-16cc
-8dd
-8ee
-=7
-16dd
-16a
-16cc
-16b
-8g#
-=8
-4.a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{16cc	Pocóżeś
+16dd	.
+8ee	.
+8ee	mnie
+=2	=2
+16ee	moja
+16cc	.
+8dd	matko
+8ee	.
+=3	=3
+16dd	za
+16a\	mąż
+16ccL	wy-
+16bJ	.
+8g#	-da-
+=4	=4
+4.a	-ła,
+=5	=5
+16cc	pocóżeś
+16dd	.
+8ee	.
+8ee	mnie
+=6	=6
+16ee	moja
+16cc	.
+8dd	matko
+8ee	.
+=7	=7
+16dd	za
+16a\	mąż
+16ccL	wy-
+16bJ	.
+8g#	-da-
+=8	=8
+4.a}	-ła.
 !!LO:LB:g=esac
-=9
-{8.a
-16cc
-16b
-16g#
-=10
-16a
-16b
-8cc
-16dd
-16ee
-=11
-8.a
-16cc
-16b
-16g#
-=12
-16a
-16b
-8cc
-16dd
-16ee
-=13
-16dd
-16a
-16cc
-16b
-8g#
-=14
-4.a}
-==
-*-
+=9	=9
+{8.a\	Bo
+16cc	za
+16b	chłopem
+16g#	.
+=10	=10
+16a\	trzeba
+16b	.
+8cc	ro-
+16ddL	-bić,
+16eeJ	.
+=11	=11
+8.a\	rzadko
+16cc	.
+16b	kiedy
+16g#	.
+=12	=12
+16a\	pięknie
+16b	.
+8cc	chodzić
+16ddL	.
+16eeJ	.
+=13	=13
+16dd	matu-
+16a\	.
+16ccL	-lu
+16bJ	.
+8g#	mo-
+=14	=14
+4.a}	-ja!
+==	==
+*-	*-
+!!!role-singer: Daughter
+!!!role-listener: Mother
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Pocóześ mnie moja matko za mąz wydała,
+!!kiedy ja się w gospodarstwie nie zrozumiała.
+!!Bo za chłopem trzeba robić,
+!!rzadko kiedy pięknie chodzić
+!!matulu moja!
+!!@VERSE:
+!!2. Miło było matuleńce słuchać muzyki,
+!!kiedy grali pod okienkiem kieby słowiki.
+!!A teraz wam nie jest miło,
+!!nie dawać mnie za mąz było
+!!matulu moja!
+!!@VERSE:
+!!3. Juz wyjezdzam matuleńku z domu wasego,
+!!łzy serdecnie pobigają z zalu wielkiego.
+!!I do nóg wam upaduje,
+!!za wychowanie dziękuję
+!!matulu moja!
+!!@VERSE:
+!!4. Zaprzęgajcie kare konie pod tę karocę,
+!!niech pojadę i zobacę jego pałace.
+!!Bywajze mi zdrowa matko,
+!!coś ci mnie chowała gładko
+!!matulu moja!
+!!Nima łyżki, nima miski,
+!!nima o cém chować dziwki.
+!!Nima o cém dziwki chować,
+!!trzeba saméj naskakować.
+!!Nima chleba, nima soli,
+!!od frasunku głowa boli
+!!matulu moja!
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=269 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 249} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 249}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

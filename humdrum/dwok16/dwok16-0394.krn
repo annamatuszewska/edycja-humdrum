@@ -3,74 +3,85 @@
 !!!source: DWOK16
 !!!id: 16394
 !!!signature: 1639400000
-**kern
-*clefG2
-*k[]
-*C:
-*M4/4
-=1
-{8cc
-8b
-8cc
-8dd
-4ee
-4cc
-=2
-8g
-8ff
-8ee
-8dd
-4cc
-4g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M4/4	*
+*met(c)	*
+=1	=1
+{8cc	Powstańmy
+8b	.
+8cc	.
+8dd	panowie
+4ee	.
+4cc	.
+=2	=2
+8g	powstańmy
+8ff	.
+8ee	.
+8dd	świadkowie,
+4cc	.
+4g}	.
 !!LO:LB:g=esac
-=3
-{8cc
-8b
-8cc
-8dd
-4ee
-4cc
-=4
-8g
-8ff
-8ee
-8dd
-4cc
-4g}
+=3	=3
+{8cc	dziękujmy
+8b	.
+8cc	.
+8dd	za
+4ee	obiad,
+4cc	.
+=4	=4
+8g	Bogu,
+8ff	.
+8ee	gospodarzom.
+8dd	.
+4cc	.
+4g}	.
 !!LO:LB:g=esac
-=5
-{4cc
-4g
-4cc
-4g
-=6
-8cc
-8ff
-8ee
-8dd
-4cc
-4g}
+=5	=5
+{4cc	Dzięku-
+4g\	.
+4cc	-je-
+4g\	-my
+=6	=6
+8cc	panie
+8ff	.
+8ee	gospoda-
+8dd	.
+4cc	.
+4g\}	-rzu,
 !!LO:LB:g=esac
-=7
-{8cc
-8b
-8cc
-8dd
-8cc
-8b
-8cc
-8dd
-=8
-8cc
-8ff
-8ee
-8dd
-8cc
-8b
-4cc}
-==
-*-
+=7	=7
+{8ccL	z_twoją
+8b	.
+8cc	panią
+8ddJ/	.
+8ccL	gospodynią
+8b	.
+8cc	.
+8ddJ/	.
+=8	=8
+8cc	po
+8ff	obiedzie
+8ee	.
+8dd	.
+8ccL	po
+8bJ/	dobrym.
+4cc/}	.
+==	==
+*-	*-
+!!!role-singer: Wedding Guests
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Powstańmy panowie powstańmy świadkowie,
+!!dziękujmy za obiad, Bogu, gospodarzom.
+!!Dziękujemy panie gospodarzu,
+!!z twoją panią gospodynią po obiedzie po dobrym.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=269 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 249} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 249}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25
