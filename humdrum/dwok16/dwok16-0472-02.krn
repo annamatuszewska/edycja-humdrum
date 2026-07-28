@@ -3,47 +3,55 @@
 !!!source: DWOK16
 !!!id: 16472
 !!!signature: 1647200002
-**kern
-*clefG2
-*k[]
-*a:
-*M2/4
-=1
-{8a
-8a
-8ff
-8ee
-=2
-8dd
-8dd
-4cc
-=3
-8dd
-8ff
-8ee
-8cc
-=4
-8a
-8a
-4g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M2/4	*
+=1	=1
+{8a	U
+8a	méj
+8ff	matki
+8ee	.
+=2	=2
+8dd	rodzony
+8dd	.
+4cc	.
+=3	=3
+8dd	stoji
+8ff	.
+8ee	jawór
+8cc	.
+=4	=4
+8a	zielony,
+8a	.
+4g}	.
 !!LO:LB:g=esac
-=5
-{8cc
-8ee
-8ff
-8dd
-=6
-4ee
-8cc
-8ee
-=7
-8dd
-16cc
-16b
-4a}
-==
-*-
+=5	=5
+{8ccL	sto-
+8eeJ/	.
+8ffL	-ji
+8ddJ/	.
+=6	=6
+4ee	jawór
+8ccL	.
+8eeJ/	.
+=7	=7
+8dd	zielo-
+16ccL	.
+16bJ/	.
+4a;}	-ny.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!U méj matki rodzony stoji jawór zielony,
+!!stoji jawór zielony.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=309 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 289} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 289}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

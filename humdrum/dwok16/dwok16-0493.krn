@@ -3,84 +3,131 @@
 !!!source: DWOK16
 !!!id: 16493
 !!!signature: 1649300000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16a
-16g#
-8a
-8b
-=2
-8cc
-4cc
-=3
-16ee
-16ee
-8dd
-8cc
-=4
-8cc
-4b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{16a	U-
+16g#	-mar
+8a	Maciek,
+8b/	.
+=2	=2
+8cc	umar,
+4cc	.
+=3	=3
+16ee	pożal
+16ee	.
+8dd	się
+8cc	go
+=4	=4
+8cc	Boże,
+4b}	.
 !!LO:LB:g=esac
-=5
-{16a
-16g#
-8a
-8b
-=6
-8cc
-4cc
-=7
-16ee
-16ee
-8dd
-8cc
-=8
-8cc
-4b}
+=5	=5
+{16a	a
+16g#	któż
+8a	mnie
+8b/	sie-
+=6	=6
+8cc	-rotę
+4cc	.
+=7	=7
+16ee	zarato-
+16ee	.
+8dd	.
+8cc	-wać
+=8	=8
+8cc	może.
+4b}	.
 !!LO:LB:g=esac
-=9
-{4dd
-8ee
-=10
-16dd
-16cc
-8b
-8cc
-=11
-4b
-8cc
-=12
-16b
-16a
-8g#
-8a}
+=9	=9
+{4dd	Wsyśtko
+8ee	.
+=10	=10
+16dd	się
+16cc	zmiéniło,
+8b	.
+8cc	.
+=11	=11
+4b	le-
+8cc	-piéj
+=12	=12
+16b	z_Maćkiem
+16a	.
+8g#	było,
+8a}	.
 !!LO:LB:g=esac
-=13
-{4dd
-8ee
-=14
-16dd
-16cc
-8b
-8cc
-=15
-8b
-16b
-16ee
-16dd
-16cc
-=16
-16b
-16a
-8g#
-8a}
-==
-*-
+=13	=13
+{4dd	wsyśtko
+8ee	.
+=14	=14
+16dd	się
+16cc	zmieniło,
+8b	.
+8cc	.
+=15	=15
+8b	oj
+16bL	le-
+16eeJ	.
+16ddL	-piéj
+16ccJ	.
+=16	=16
+16b	z_Maćkiem
+16a	.
+8g#	było.
+8a}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Umar(ł) Maciek, umar,
+!!pożal się go Boże,
+!!a któż mnie sierotę
+!!zaratować może.
+!!Wszystko się zmieniło,
+!!lepiéj z Maćkiem było.
+!!@VERSE:
+!!2. Karczmarz się turbuje
+!!że piwo kwaśnieje;
+!!gdy Maćka nie stało,
+!!wszystko się źle dzieje.
+!!Wszystko się zmieniło,
+!!lepiéj z Maćkiem było.
+!!@VERSE:
+!!3. Gdy idzie do domu,
+!!pałeczka za pasem;
+!!oj ta dona, dona,
+!!śpiéwał sobie czasem.
+!!Jak się kto nawinie,
+!!od pałeczki zginie.
+!!@VERSE:
+!!4. Umar Maciek, umar,
+!!dziéwki go żałują;
+!!kupiły se maści,
+!!wąsy mu smarują.
+!!Wzystko się zmieniło,
+!!lepiéj z Maćkiem było.
+!!@VERSE:
+!!5. Umar Maciek, umar,
+!!już leży na desce;
+!!posiwiała mu brodzina,
+!!a skakałby jesce.
+!!W zystko się zmieniło,
+!!lepiéj z Maćkiem było.
+!!@VERSE:
+!!6. Umar Maciek, umar,
+!!już się ani rusza,
+!!po kaduku z prawa
+!!wyszła z niego dusza.
+!!Wszystko się zmieniło,
+!!lepiéj z Maćkiem było.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=320 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 300} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 300}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

@@ -3,51 +3,128 @@
 !!!source: DWOK16
 !!!id: 16466
 !!!signature: 1646600000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16ff
-16ff
-8dd
-8dd
-=2
-16dd
-16cc
-8ee
-8gg
-=3
-16ff
-16ff
-8dd
-8dd
-=4
-16dd
-16cc
-8ee
-8cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16ff	Wstajaj
+16ff	.
+8dd	córuś
+8dd	.
+=2	=2
+16dd	doić
+16cc	.
+8ee	krowy,
+8gg	.
+=3	=3
+16ff	juz
+16ff	pastusek
+8dd	.
+8dd	.
+=4	=4
+16dd	u
+16cc	dąbro-
+8ee	.
+8cc}	-wy.
 !!LO:LB:g=esac
-=5
-{8cc
-8a
-8a
-=6
-16a
-16g
-8b
-8b
-=7
-8cc
-8a
-8b
-=8
-4g}
-8r
-==
-*-
+=5	=5
+{8cc	Oj
+8a	dana
+8a	.
+=6	=6
+16a	moja
+16g	.
+8b	córuś,
+8b	.
+=7	=7
+8bq	.
+8cc	oj
+8a\	da
+8aq	.
+8b	na
+=8	=8
+4g}	da.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Mother, Daughter
+!!!role-listener: Daughter, Mother
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Wstajaj córuś dojić krowy,
+!!juz pastusek u dąbrowy.
+!!Oj dana moja córuś, oj dana da.
+!!@VERSE:
+!!2. Niech tam będzie za dąbrową
+!!dogonię go z jedną krową,
+!!oj dana moja matuś!
+!!@VERSE:
+!!3. A gdzieześ tam córuś była,
+!!coś trzewiki urosiła?
+!!U lnu’m była, matulu.
+!!@VERSE:
+!!4. U lnu’m była, u konopi,
+!!wyglądałam gdzie są chłopi.
+!!Sami ślachta, matulu.
+!!@VERSE:
+!!5. Przechodziłam kole dwora,
+!!i wstąpiłam do pokoja.
+!!Lezy Jasio, matulu.
+!!@VERSE:
+!!6. Pocóześ tam wstępowała,
+!!zdrowiaś mu tam nie dawała.
+!!Zaraz-ci wstał, matulu.
+!!@VERSE:
+!!7. A cóześ tam córuś jadła,
+!!coś mi tak straśnie pobladła?
+!!Korzeń od karpy, matulu.
+!!@VERSE:
+!!8. A i ja go także jadła,
+!!a tak bardzo nie pobladła.
+!!Surowy był, matulu.
+!!@VERSE:
+!!9. A jakże ci go dawano,
+!!cy ci go tam nie warzono?
+!!Ognia nie było, matulu.
+!!@VERSE:
+!!10. A cóześ tam córuś piła?
+!!coś ci mi się tak odęła.
+!!W zdroju wodę, matulu.
+!!@VERSE:
+!!11. A i ja ją takze piła,
+!!a przecie się nie odęła.
+!!Mątna była, matulu.
+!!@VERSE:
+!!12. A jak-ze ci ją dawano,
+!!cy ci ją tam nie cedzono?
+!!Sitka nie było, matulu.
+!!@VERSE:
+!!13. Juz tam trzeba po dochtora,
+!!bo córusia bardzo chora.
+!!Zdrowsa będę, matulu.
+!!@VERSE:
+!!14. A cóz nam tam po dochtorze,
+!!bez niego: witaj Kacperze!
+!!Kacper będzie, matulu.
+!!@VERSE:
+!!15. A cóz nam tam po Kacperze ?
+!!kiej juz jeden w polu orze.
+!!Dwóch ich będzie, matulu.
+!!@VERSE:
+!!16. Jeden będzie woły wodziuł,
+!!drugi będzie sochą robiuł.
+!!Dobrze będzie, matulu.
+!!@VERSE:
+!!17. Jeden będzie woły pasał,
+!!drugi będzie w karcmie hasał.
+!!Dobrze będzie, matułu.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=305 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 285} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 285}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

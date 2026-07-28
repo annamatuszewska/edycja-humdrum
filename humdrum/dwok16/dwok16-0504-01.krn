@@ -3,61 +3,75 @@
 !!!source: DWOK16
 !!!id: 16504
 !!!signature: 1650400001
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M3/8
-=1
-{16g
-16b-
-8dd
-8ff
-=2
-16ff
-16ff
-8dd
-8ff
-=3
-16b-
-16b-
-8g
-16b-
-16a
-=4
-4.f}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M3/8	*
+=1	=1
+{16g	Nie
+16b-	wygienaj
+8dd	.
+8ff	.
+=2	=2
+16ff	owcarycku
+16ff	.
+8dd	.
+8ff	.
+=3	=3
+16b-	owiec
+16b-	.
+8g	na
+16b-L	ro-
+16aJ	.
+=4	=4
+4.f}	-sę.
 !!LO:LB:g=esac
-=5
-{16g
-16b-
-8g
-8f
-=6
-16g
-16b-
-8g
-8f
-=7
-16g
-16b-
-8g
-8f
-=8
-16g
-16b-
-8cc
-8dd
-=9
-16dd
-16b-
-8g
-16b-
-16a
-=10
-4.f}
-==
-*-
+=5	=5
+{16g	Jescem
+16b-/	.
+8g	wianka
+8f	.
+=6	=6
+16g	nie
+16b-/	uwi-
+8g	.
+8f	-ła,
+=7	=7
+16g	i
+16b-/	chusteńki
+8g	.
+8f	.
+=8	=8
+16g	nie
+16b-	wysy-
+8cc	.
+8ddm	-ła,
+=9	=9
+16dd	cóż
+16b-	ci
+8g	po-
+16b-L	-nio-
+16aJ\	.
+=10	=10
+4.f}	-sę.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!role-listener: Shepherd
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSES
+!!Nie wygienaj owcarycku owiec na rosę.
+!!Jescem wianka nie uwiła,
+!!i chusteńki nie wysyła, cóż ci poniosę.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Nuta ob. nr 408.
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=326 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 306} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 306}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

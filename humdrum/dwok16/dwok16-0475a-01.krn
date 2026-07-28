@@ -3,55 +3,130 @@
 !!!source: DWOK16
 !!!id: 16475a
 !!!signature: 1647500001
-**kern
-*clefG2
-*k[]
-*a:
-=1
-*M3/4
-{8a
-8cc
-4cc
-8cc
-8a
-=2
-*M2/4
-8dd
-8ee
-8gg
-8ff
-=3
-8ee
-8dd
-8dd
-8cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+=1	=1
+*M3/4	*
+{8a\	Na
+8cc	Podo-
+4cc;	.
+8ccL	-lu
+8aJ	.
+=2	=2
+*M2/4	*
+8dd	biały
+8ee	.
+8gg	kamień
+8ff	.
+=3	=3
+8ee	biały
+8dd	.
+8dd	kamień,
+8cc}	.
 !!LO:LB:g=esac
-=4
-*M3/4
-{8dd
-8dd
-4.ee
-8a
-=5
-*M2/4
-8a
-8cc
-8dd
-8cc
-=6
-*M3/4
-8dd
-8ff
-4.ee
-8a
-=7
-8dd
-8cc
-4a
-4a}
-==
-*-
+=4	=4
+*M3/4	*
+{8dd	Podolan-
+8dd	.
+4.ee	.
+8a\	-ka
+=5	=5
+*M2/4	*
+8a\	siedzi
+8cc	.
+8dd	na
+8cc	nim
+=6	=6
+*M3/4	*
+8dd	Podo-
+8ff	.
+4.ee	-lan-
+8a\	-ka
+=7	=7
+8dd	siedzi
+8cc	.
+4a;	na
+4a}	nim.
+==	==
+*-	*-
+!!!role-singer: Narrator, Bachelor, Maiden, Brother
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Na Podolu biały kamiéń,
+!!Podolanka siedzi na nim.
+!!@VERSE:
+!!2. Wije wianki z macierzanki,
+!!pomagają jéj Krakowianki.
+!!@VERSE:
+!!3. Przyszed do nij jeden dworak:
+!!Podolanko, daj mi wianek.
+!!@VERSE:
+!!4. Ja-bym tobie i dwa dała,
+!!że-bym się brata nie bała.
+!!@VERSE:
+!!5. Struj-że brata rodzonego,
+!!będziesz miała mnie młodego.
+!!@VERSE:
+!!6. Jak-że ja braciszka struć mam,
+!!kiedy żadnych czarów nie znam.
+!!(v. Jak-że ja go otruć mam,
+!!kied’ nie wiem co za trutu dam).
+!!@VERSE:
+!!7. Idź do sadu wiśniowego,
+!!zabij węża zielonego.
+!!@VERSE:
+!!8. Ugotuj go pod patyno (patyną),
+!!taki będzie jak i wino.
+!!@VERSE:
+!!9. Jedzie bratek z wojeneczki,
+!!wiezie siostrze sukieneczki.
+!!@VERSE:
+!!10. Przyjechał przed okienice,
+!!woła: siostruś! pić mi się chce.
+!!@VERSE:
+!!11. Na-ż-ci bratku tego wina,
+!!jeszcze-ś nie pił, jako żywo.
+!!@VERSE:
+!!12. Pij ty siostro, bo’ś ty starsza,
+!!to’ś do picia podobniejsza.
+!!@VERSE:
+!!13. Pij ty bracie, bo'm ja piła,
+!!tylko’m tobie ostawiła.
+!!@VERSE:
+!!14. Bratek pije, z konia leci:
+!!zważaj siostro, na me dzieci!
+!!@VERSE:
+!!15. Żebym na dzieci zważała,
+!!tobym ci tego wina nie dawała.
+!!@VERSE:
+!!16. Wylazła sobie na wrota,
+!!zawołała na dworaka.
+!!@VERSE:
+!!17. Strułaś brata rodzonego,
+!!strujesz ty i mnie młodego.
+!!@VERSE:
+!!18. Ni ja brata, ni dworaka,
+!!trzeba mi pójść za żebraka.
+!!@VERSE:
+!!19. Żebrak idzie, na nią pluje:
+!!o ta dziewka ludzi truje!
+!!@VERSE:
+!!20. Zadzwońcież mi tu w wielki dzwon
+!!już mój tutaj jest wieczny dom.
+!!@VERSE:
+!!21. Zagrajcież mi i w organy,
+!!rozniesą mnie kruki, wrony.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Obacz nr 324.
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=311 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 291} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 291}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

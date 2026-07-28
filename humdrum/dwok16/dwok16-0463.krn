@@ -3,45 +3,71 @@
 !!!source: DWOK16
 !!!id: 16463
 !!!signature: 1646300000
-**kern
-*clefG2
-*k[]
-*a:
-*M2/4
-=1
-{8a
-8b
-8cc
-8b
-=2
-8a
-8ee
-8dd
-8a
-=3
-4b
-4dd
-=4
-2ee}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M2/4	*
+=1	=1
+!!LO:TX:a:t=Pieśń owczarska zalotna.
+{8a\	Czarna
+8b	.
+8cc	chmara
+8b	.
+=2	=2
+8a\	nastąpi-
+8ee	.
+8ddM	.
+8a\	-ła,
+=3	=3
+4b	deszcz
+4dd	le-
+=4	=4
+2ee}	-je
 !!LO:LB:g=esac
-=5
-{8ff#
-8ee
-8dd
-8b
-=6
-8a
-8ee
-8dd
-8a
-=7
-4cc
-4b
-=8
-2a}
-==
-*-
+=5	=5
+{8ff#	a
+8ee	gdzież
+8dd	ja
+8b	się
+=6	=6
+8a\	nieszczęśliwy
+8ee	.
+8ddM	.
+8a\	.
+=7	=7
+4cc	po-
+4b	-dzie-
+=8	=8
+2a}	-ję?
+==	==
+*-	*-
+!!!role-singer: Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Czarna chmara nastąpiła, deszcz leje —
+!!a gdzież ja się nieszczęśliwy podzieję?
+!!@VERSE:
+!!2. A pójdę ja do Marysi, nie chce mnie,
+!!a pójdę ja do Kasiuni, przyjmie mnie.
+!!@VERSE:
+!!3. Przyjmij, przyjmij mnie Kasiuniu łaskawie,
+!!i połóż mi poduszeńki na ławie.
+!!@VERSE:
+!!4. A będą się poduszeńki zsuwali,
+!!będą moje czarne oczy płakali.
+!!@VERSE:
+!!5. A do domu ty hultaju, do domu,
+!!nie wyminaj (od: wymiąć) poduszeniek nikomu.
+!!@VERSE:
+!!6. Niewiele’m ich Kasiu smolił, tyło raz,
+!!a już ty mi te poduszki wymawiasz.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=305 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 285} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 285}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

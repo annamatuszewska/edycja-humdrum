@@ -3,61 +3,101 @@
 !!!source: DWOK16
 !!!id: 16509a
 !!!signature: 1650900001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{4dd
-8a
-8cc
-8b
-8f#
-=2
-4g
-8a
-8g
-8e
-8d
-=3
-8b
-8cc
-8dd
-8ee
-4dd
-=4
-2a}
-4r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{4dd	Grzecna
+8a\	.
+8cc	Kasieńku,
+8b	.
+8f#	.
+=2	=2
+4g\	grzecna
+8a	.
+8g	Kasieńku,
+8e	.
+8d	.
+=3	=3
+8b	Jaś
+8cc	młody,
+8dd	.
+8ee	Jaś
+4dd	mło-
+=4	=4
+2a}	-dy
+4r	.
 !!LO:LB:g=esac
-=5
-{8dd
-8dd
-8a
-8cc
-8b
-8f#
-=6
-8g
-8b
-8a
-16g
-16f#
-8e
-8d
-=7
-16e
-16f#
-8g
-8a
-8cc
-4b
-=8
-2g}
-4r
-==
-*-
+=5	=5
+{8dd	pognali
+8dd	.
+8a\	.
+8cc	gąseńki,
+8b	.
+8f#	.
+=6	=6
+8g	pognali
+8b/	.
+8a	.
+16gL	bie-
+16f#J	.
+8e	-leńkie
+8d	.
+=7	=7
+16eL	do
+16f#J	.
+8g	wody,
+8a	.
+8cc	do
+4b	wo-
+=8	=8
+2g}	-dy.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Grzecna Kasieńka,
+!!Jaś młody,
+!!pognali gąseńki,
+!!pognali bieleńkie
+!!do wody.
+!!@VERSE:
+!!2. Gąski spragnione,
+!!pływają; [.]
+!!czystéj wódeńki
+!!szukają. [.]
+!!@VERSE:
+!!3. W jedném jeziorze
+!!woda jest —
+!!w każdéj dziewczynie
+!!prawda jest.
+!!@VERSE:
+!!4. W drugiém jeziorze
+!!wody nic —
+!!w każdym młodzieńcu
+!!prawdy nic.
+!!@VERSE:
+!!5. Cóż mi dasz Kasiu
+!!cóż mi dasz?
+!!co’m twoje gąseńki,
+!!co’m twoje bieleńkie
+!!wynalaz.
+!!@VERSE:
+!!6. Dam ci Jasieńku
+!!śladanie (śniadanie),
+!!parę podusecek,
+!!parę bielusieńkich
+!!na spanie.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=327 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 307} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 307}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

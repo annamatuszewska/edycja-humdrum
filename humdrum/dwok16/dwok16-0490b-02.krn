@@ -3,62 +3,119 @@
 !!!source: DWOK16
 !!!id: 16490b
 !!!signature: 1649000002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16a
-16b
-16cc
-16dd
-16cc#
-=2
-8dd
-8dd
-16dd
-16cc#
-=3
-16dd
-16ff
-8ee
-16cc
-16b
-=4
-8g
-16a
-16b
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	A
+16a	nima
+16bL	.
+16ccJ/	.
+16ddL	tak
+16cc#J/	.
+=2	=2
+8dd	nikomu
+8dd	.
+16ddL	.
+16cc#J/	.
+=3	=3
+16ddL	jak
+16ff	.
+8eeJ/	mężo-
+16ccL	.
+16bJ	.
+=4	=4
+8g	-wi
+16aL	żo-
+16bJ	.
+8g}	-na;
 !!LO:LB:g=esac
-=5
-{16dd
-16cc
-16dd
-16ee
-16cc
-16b
-=6
-8g
-16a
-16b
-8cc
-=7
-16dd
-16cc
-8ee
-16cc
-16b
-=8
-8g
-16a
-16b
-8g}
-==
-*-
+=5	=5
+{16dd	zaprzęże
+16cc	.
+16ddL	.
+16eeJ/	.
+16ccL	ją
+16bJ	.
+=6	=6
+8gL	do
+16a	wo-
+16bJ	.
+8cc	-za,
+=7	=7
+16dd	bo
+16cc	nima
+8ee	.
+16ccL	swe-
+16bJ	.
+=8	=8
+8g	-go
+16aL	konia.
+16bJ	.
+8g}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Husband
+!!!role-listener: Friends, Wife
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. A nima tak nikomu,
+!!jak mężowi żona;
+!!zaprzęże ją do woza,
+!!bo nima swego konia.
+!!@VERSE:
+!!2. Pojedzie, narąbie drew,
+!!o jeszcze se sam siądzie:
+!!ej a patrzajcie chłopcy
+!!ej jak to dobrze ciągnie.
+!!@VERSE:
+!!3. Wyprząg ci ją z woza,
+!!ej zaprząg ją do pługa;
+!!ej nuże żono, nuże,
+!!ej zaczém (nim) będzie druga.
+!!@VERSE:
+!!4. Wyprząg ci ją z pługa,
+!!ej zaprząg ją do brony:
+!!ej a patrzajcie wszyscy,
+!!ej jak to uczą żony.
+!!@VERSE:
+!!5. Wyprząg ci ją z brony,
+!!ej zaprząg ją do sochy:
+!!ej a patrzajcie chłopcy,
+!!ej ja uczą pieszczochy.
+!!@VERSE:
+!!6. Wyprząg ci ją z sochy,
+!!da zaprząg ją do radła:
+!!ej a patrzajcie chłopcy
+!!ej jak to chodzi ładno.
+!!@VERSE:
+!!7. Wyprząg ci ją z radła,
+!!da puścił ją na paszę:
+!!ej jédz-że żono trawę
+!!oj gdyby w domu kaszę.
+!!@VERSE:
+!!8. Pójrzał na słoneńko,
+!!oj jeszcze wysoczeńko:
+!!ej nuże żono, nuże,
+!!ej jeszcze z zagoneńko.
+!!@VERSE:
+!!9. Pójrzał na słoneńko,
+!!oj juże niziuteńko:
+!!ej idż-że żono do domu,
+!!ej płacze dzieciąteńko.
+!!@VERSE:
+!!10. Przyszła do ogrodu —
+!!oj kapusta zarosła:
+!!oj mój mocny Boże,
+!!pocóż ja za mąż poszła!
+!!@@END: VERSES
 !!!ONB: Kolberg podaje błędnie metrum 3/4
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=318 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 298} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 298}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

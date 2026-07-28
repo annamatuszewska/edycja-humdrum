@@ -3,63 +3,134 @@
 !!!source: DWOK16
 !!!id: 16494a
 !!!signature: 1649400001
-**kern
-*clefG2
-*k[]
-*a:
-=1
-*M3/4
-{8cc
-8dd
-4ee
-4ee
-=2
-8cc
-8dd
-4.a
-16a}
-16r
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+=1	=1
+*M3/4	*
+{8cc	Idzie
+8dd	.
+4ee	żołnierz
+4ee	.
+=2	=2
+8cc	borem,
+8dd	.
+4.a;\	lasem,
+16a\}	.
+16r	.
 !!LO:LB:g=esac
-=3
-*M2/4
-{8ee
-8ee
-8gg
-8ff
-=4
-8ee
-8dd
-8b
-8cc}
+=3	=3
+*M2/4	*
+{8ee	idzie
+8ee	.
+8gg	żołnierz
+8ff	.
+=4	=4
+8ee	borem,
+8dd	.
+8b	lasem,
+8cc}	.
 !!LO:LB:g=esac
-=5
-*M3/4
-{8dd
-8ff
-4ee
-4a
-=6
-*M2/4
-8a
-8cc
-8dd
-8cc}
+=5	=5
+*M3/4	*
+{8dd	przymierając
+8ff	.
+4ee	.
+4a	.
+=6	=6
+*M2/4	*
+8a\	głodu
+8cc	.
+8dd	czasem
+8cc}	.
 !!LO:LB:g=esac
-=7
-*M3/4
-{8dd
-8ff#
-4ee
-4a
-=8
-8cc
-8dd
-4.a
-16a}
-16r
-==
-*-
+=7	=7
+*M3/4	*
+{8dd	przymierając
+8ff	.
+4ee	.
+4a	.
+=8	=8
+8cc	głodu
+8dd	.
+4.a;	czasem.
+16a}	.
+16r	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Soldier, Siblings, Soldiers, Horse
+!!!role-listener: Siblings, Soldiers
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Idzie żołnierz borem, lasem,
+!!przymierając głodu czasem.
+!!@VERSE:
+!!2. Soli, chleba nie żałować,
+!!trza żołnierza poratować.
+!!@VERSE:
+!!3. Chociaż żołnierz obtarchany
+!!toć on idzie między pany.
+!!@VERSE:
+!!4. Suknia na nim nie blakuje,
+!!wiatr dziurami wylatuje.
+!!@VERSE:
+!!5. Stoi wieża malowana,
+!!śrybłem, złotem pobijana.
+!!@VERSE:
+!!6. A w téj wieży nasz król leży
+!!uśmiecha się do żołnierzy.
+!!@VERSE:
+!!7. A wyjdż-że se sam na pole,
+!!i porachuj wojsko swoje.
+!!@VERSE:
+!!8. Niepotrza go tam rachować,
+!!bo ono tam rachowane,
+!!i koniki osiodłane.
+!!@VERSE:
+!!9. I ja-bym z nim rad pojechać,
+!!niéma mi kto konia siodłać.
+!!@VERSE:
+!!10. Starsza siostra wybieżała,
+!!konika mu osiodłała.
+!!@VERSE:
+!!11. A średnia mu miecz podała,
+!!a najmłodsza zapłakała.
+!!@VERSE:
+!!12. A nie płaczcie siostry brata,
+!!bo się wrócę za trzy lata.
+!!@VERSE:
+!!13. Nie wyszło rok i poutora,
+!!jadą panowie z Podola.
+!!@VERSE:
+!!14. A witajcie waspanowie,
+!!czy daleko mój brat w wojnie.
+!!@VERSE:
+!!15. Niedaleko w szczérém polu,
+!!trzyma główkę na kamieniu.
+!!@VERSE:
+!!16. Konik jego wele niego
+!!grzebie nóżką, żałuje go.
+!!@VERSE:
+!!17. Wygrzeb(ł) dołek po kolana,
+!!i pochował swego pana.
+!!@VERSE:
+!!18. Póki ja miał swego pana,
+!!to ja jadał same ziarna.
+!!@VERSE:
+!!19. Teraz niemam słomy, sieczki,
+!!we krwi stoję po kosteczki
+!!@VERSE:
+!!20. Teraz niemam prostéj słomy,
+!!rozdzióbią mnie kruki, wrony.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Nuta ob. nr 473.
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=321 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 301} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 301}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

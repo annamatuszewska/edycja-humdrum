@@ -3,56 +3,96 @@
 !!!source: DWOK16
 !!!id: 16471a
 !!!signature: 1647100001
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{8a
-8a
-4a
-4g
-=2
-4cc
-4dd
-4cc
-=3
-8dd
-8ee
-4ff
-4ee
-=4
-4dd
-8dd
-8cc
-4a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+{8a	Z_tamtéj
+8a	.
+4a	strony
+4g	.
+=2	=2
+4cc	je-
+4dd	-zio-
+4cc	-ra,
+=3	=3
+8dd	stoji
+8ee	.
+4ff	lip-
+4ee	-ka
+=4	=4
+4dd	zie-
+8ddL	-lo-
+8ccJ	.
+4a}	-na.
 !!LO:LB:g=esac
-=5
-{4ee
-8gg
-8ee
-8dd
-8g
-=6
-4cc
-8dd
-8dd
-8a
-8a
-=7
-8cc
-8dd
-4ee
-4ee
-=8
-4dd
-8dd
-8cc
-4a}
-==
-*-
+=5	=5
+{4ee	A
+8gg	na
+8ffqq	.
+8ee	téj
+8dd	lipce
+8g	.
+=6	=6
+4cc	na
+8dd	téj
+8dd	zielonej
+8a	.
+8a	.
+=7	=7
+8cc	trzy
+8dd	ptaszeńki
+4ee	.
+8ffq	.
+4ee	.
+=8	=8
+8eeq	.
+4dd	śpiéwa-
+8ddL	.
+8ccJ	.
+4a}	-ją.
+==	==
+*-	*-
+!!!role-singer: Narrator, Bachelors, Maiden
+!!!role-listener: Maiden, Bachelors
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Z tamtéj strony jeziora,
+!!stoji lipka zielona.
+!!A na téj lipce na téj zielonéj
+!!trzy ptaszeńky śpiéwają.
+!!@VERSE:
+!!2. Nie to ptaszki byli,
+!!grzecne kawaliry.
+!!Zmówili się do jednyj dziewczyny,
+!!któremu się dostanie.
+!!@VERSE:
+!!3. Jeden mówi: tyś moja!
+!!drugi mówi: jak Bóg da!
+!!A trzeci mówi: serdeńko moje,
+!!czegoś taka smutna?
+!!@VERSE:
+!!4. Jak ja nimam smutna być,
+!!za starego każo iść.
+!!Rozżaliło się serdeńko moje
+!!nie może się spokojić.
+!!@VERSE:
+!!5. A w téj nowéj komorze
+!!stoji zielone łoże.
+!!Oj loże, łoże, — mój mocny Boże
+!!któż na tobie będzie spać.
+!!@VERSE:
+!!6. Jeśli stary będzie spał,
+!!bodaj-że w-ón już nie wstał!
+!!Jeżeli młody, ślycznéj urody,
+!!bodaj-że w-ón ozłaciał!
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=308 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 288} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 288}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

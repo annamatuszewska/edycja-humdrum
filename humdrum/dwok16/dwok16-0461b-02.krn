@@ -3,61 +3,72 @@
 !!!source: DWOK16
 !!!id: 16461b
 !!!signature: 1646100002
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16g
-16g
-8b
-8g
-=2
-16cc
-32dd
-32ee
-4ff
-=3
-16ee
-16gg
-8gg
-16aa
-16gg
-=4
-16ff
-16dd
-4cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16g	U
+16g	Młynarza
+8b	.
+8g	.
+=2	=2
+16ccL	Mar-
+32dd	-cina
+32eeJ/	.
+4ff	.
+=3	=3
+16ee	jest
+16gg	tam
+8gg	Kasia
+16aaL	.
+16ggJ/	.
+=4	=4
+16ff	dziewczyna,
+16dd	.
+4cc}	.
 !!LO:LB:g=esac
-=5
-{8ff
-16ee
-16cc
-16dd
-16g
-=
-24b
-24dd
-24cc
-16a
-16g
-16e
-16e
-=
-16g
-16a
-8b
-24b
-24dd
-24cc
-=6
-16cc
-32a
-32b
-4g}
-==
-*-
+=5	=5
+{(8ffL	e-
+16eeJ)	.
+16cc	-tom
+16dd	detom
+16g	.
+=6	=6
+*Xtuplet	*
+24bL	da-
+24dd	.
+24ccJ/	-tar
+16a	data
+16g	.
+16eL	detom
+16eJ	.
+=7	=7
+16g	jest
+16a	tam
+[8b	Ka-
+24bL]	.
+24dd	.
+24ccJ/	-sia
+=8	=8
+16cc	dziewczyna.
+32aL	.
+32bJ	.
+4g}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!U Młynarza Marcina
+!!jest tam Kasia dziewczyna,
+!!etom detom datar data detom
+!!jest tam Kasia dziewczyna.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=304 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 284} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 284}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

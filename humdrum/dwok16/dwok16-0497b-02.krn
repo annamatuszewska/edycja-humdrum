@@ -3,62 +3,125 @@
 !!!source: DWOK16
 !!!id: 16497b
 !!!signature: 1649700002
-**kern
-*clefG2
-*k[b-]
-*F:
-*M2/4
-=1
-{8f
-8g
-8a
-8b-
-=2
-4cc
-4ff
-=3
-2dd
-=4
-8cc
-8dd
-8cc
-8b-
-=5
-8a
-8f
-4g
-=6
-2f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M2/4	*
+=1	=1
+{8f	Oj
+8g	i
+8a	w_polu
+8b-/	.
+=2	=2
+4cc	je-
+4ff	-zio-
+=3	=3
+2dd	-ro,
+=4	=4
+8cc	a
+8dd	tam
+8cc	stoji
+8b-	.
+=5	=5
+8aL	ciemny
+8fJ	.
+4g	.
+=6	=6
+2f}	las,
 !!LO:LB:g=esac
-=7
-{4a
-8b-
-8a
-=8
-4.g
-8g
-=9
-8f
-8g
-8a
-8b-
-=10
-4.cc
-8cc
-=11
-8cc
-8dd
-8cc
-8b-
-=12
-8a
-8f
-4g
-=13
-2f}
-==
-*-
+=7	=7
+{4a\	wyjdę
+8b-	.
+8ccq	.
+8a\	ja
+=8	=8
+4.g	wyjdę
+8g	.
+=9	=9
+8f	na
+8g	wysoki
+8a	.
+8b-/	.
+=10	=10
+4.cc	go-
+8cc	-ry,
+=11	=11
+8cc	cy
+8dd	nie
+8cc	jedzie
+8b-	.
+=12	=12
+8aL	chto
+8fJ	.
+4g	do
+=13	=13
+2f}	nas.
+==	==
+*-	*-
+!!!role-singer: Maiden, Soldier, Mother
+!!!role-listener: Mother, Soldier
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Oj i w polu jezioro,
+!!a tam stoji ciemny las;
+!!wyjdę ja, wyjdę
+!!na wysoki gory,
+!!cy nie jedzie chto do nas?
+!!@VERSE:
+!!2. Jedzie, jedzie Jasieńko
+!!da na siwym konyku,
+!!przypina sobie
+!!swoje szabelkę
+!!do liwego do boku.
+!!@VERSE:
+!!3. A jak szabelke przepiół
+!!przyjechał przed nowy dwór,
+!!tieżeńko wzdychnuł,
+!!rewneńko zapłakał,
+!!zarzał pod nim siwy koń.
+!!@VERSE:
+!!4. Przyjechał do matki w dwór
+!!co (wy) matulu, nie wiecie,
+!!co mnie, tak młodemu,
+!!na koniu siwemu
+!!długo stać każecie.
+!!@VERSE:
+!!5. Matka w okienku stała,
+!!oj stała i zapłakała:
+!!Witaj-że synu,
+!!co to za przyczyna,
+!!chto cię do wojska oddał?
+!!@VERSE:
+!!6. Oddał-że mnie gminny wójt,
+!!i do tego radny był.
+!!Skoro zaświtało,
+!!i na dzień bryznęło,
+!!zará mnie do wojska oddał.
+!!7 . Do wojska-ci mnie oddał,
+!!sztyry chłopy warty dał.
+!!Wartowała warta
+!!z wieczora do ranka.
+!!@VERSE:
+!!8. A już moja matulu,
+!!teraz wy mnie nie płaczcie,
+!!ale mnie młodemu
+!!na koniu siwemu
+!!żalu nie zadawajcie.
+!!@VERSE:
+!!9. A miał-ci ja dziewczynę
+!!co jak róża przekwita (kwitnie),
+!!ale mnie młodemu,
+!!na koniu siwemu,
+!!do nij listu nie czytać.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: (t.j. razem: list pisać i odbierać wiadomość).
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=322 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 302} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 302}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

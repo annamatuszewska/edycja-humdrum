@@ -3,78 +3,95 @@
 !!!source: DWOK16
 !!!id: 16507
 !!!signature: 1650700000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16a
-16cc
-16b
-16dd
-16ee
-16ee
-=2
-16dd
-16cc
-4b
-=3
-16a
-16cc
-16b
-16dd
-16ee
-16ee
-=4
-16dd
-16cc
-4b
-=5
-16cc
-16b
-8g
-8b
-=6
-8a
-8cc
-8g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{16a\	Hej
+16cc	za
+16b	rzeką
+16dd	.
+16ee	woły,
+8ff#q	.
+16ee	.
+=2	=2
+16dd	jedyna,
+16cc	.
+4b	.
+=3	=3
+16a\	hej
+16cc	za
+16b	rzeką
+16dd	.
+16ee	woły,
+8ff#q	.
+16ee	.
+=4	=4
+16dd	jedyna,
+16cc	.
+4b	.
+=5	=5
+16cc	hej
+16b	za
+8g	rzeką,
+8b	.
+=6	=6
+8a\	za
+8cc	rzeką,
+8g}	.
 !!LO:LB:g=esac
-=7
-{8.cc
-16b
-16dd
-16b
-=8
-16a
-16cc
-8ee
-16dd
-16b
-=9
-8.cc
-16b
-16dd
-16b
-=10
-16a
-16cc
-8ee
-16dd
-16b
-=11
-16cc
-16b
-8dd
-8cc
-=12
-16b
-16a
-8cc
-8g}
-==
-*-
+=7	=7
+{8.cc	o-
+16b	-smagałaś
+16dd	.
+8ccq	.
+16b	.
+=8	=8
+16a\	.wołu
+16cc	.
+8ee	no-
+16ddL	-gi,
+16bJ	.
+=9	=9
+8.cc	te-
+16b	-ra
+16dd	jedy-
+8ccq	.
+16b	.
+=10	=10
+16a\	-na,
+16cc	kale-
+8ee	.
+16ddL	-ką
+16bJ	.
+=11	=11
+16cc	tera,
+16b	.
+8dd	je-
+8cc	-dy-
+=12	=12
+16b	na,
+16a\	kale-
+8cc	.
+8g}	-ką.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!role-listener: Maiden
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!Hej za rzeką woły, jedyna,
+!!Hej za rzeką woły, jedyna,
+!!hej za rzeką, za rzeką,
+!!osmagałaś wołu nogi,
+!!tera, jedyna, kaleką,
+!!tera, jedyna, kaleką.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=327 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 307} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 307}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

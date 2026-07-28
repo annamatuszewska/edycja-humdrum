@@ -3,63 +3,110 @@
 !!!source: DWOK16
 !!!id: 16510
 !!!signature: 1651000000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8g
-8b
-8cc
-=2
-4dd
-8ee
-=3
-16dd
-16cc
-8a
-8cc
-=4
-4dd
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8g	By-
+8b	-ła
+8cc	ba-
+=2	=2
+4dd	-bu-
+8ee	-la
+=3	=3
+16dd	rodu
+16cc	.
+8a\	bo-
+8cc	-ga-
+=4	=4
+4dd	-te-
+8g}	-go,
 !!LO:LB:g=esac
-=5
-{8g
-8g
-8b
-=6
-4a
-8d
-=7
-16d
-16f#
-8g
-16b
-16cc
-=8
-4dd
-8g}
+=5	=5
+{8g	miała
+8g	.
+8b	ko-
+=6	=6
+4a\	-zioł-
+8d	-ka
+=7	=7
+16d	bardzo
+16f#	.
+8g	rozpu-
+16bL	.
+16ccJ/	.
+=8	=8
+4dd/	-stnego,
+8g}	.
 !!LO:LB:g=esac
-=9
-{8g
-8g
-8b
-=10
-4a
-8d
-=11
-16d
-16f#
-8g
-16b
-16f#
-=12
-4g
-8g}
-==
-*-
+=9	=9
+{8g	miała
+8g	.
+8b	ko-
+=10	=10
+4a\	-zioł-
+8d	-ka
+=11	=11
+16d	bardzo
+16f#	.
+8g	rozpu-
+16bL	.
+16f#J\	.
+=12	=12
+4g\	-stnego.
+8g\}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Grandmother, Grandfather
+!!!role-listener: Goat, Grandmother,
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Była babula
+!!rodu bogatego,
+!!miała koziołka
+!!bardzo rozpustnego.
+!!@VERSE:
+!!2. A ten koziołek
+!!tyle miał rozpusty,
+!!że wyjad babulińce
+!!ogródek kapusty.
+!!@VERSE:
+!!3. Wzięła babula
+!!łozowego kijka;
+!!przegnała koziołka
+!!do boru do wilka.
+!!@VERSE:
+!!4. Siedż-że koziołku
+!!choćby do jesieni,
+!!j-aż se pozbiéram
+!!z ogrodu nasienie.
+!!@VERSE:
+!!5. Przyszeł dziadulo,
+!!począł na nią tupać:
+!!idż-że babulo,
+!!koziołeńka szukać.
+!!@VERSE:
+!!6. Babula poszła
+!!na rozbieżne drogi,
+!!tylko znalazła
+!!koziołkowe rogi.
+!!@VERSE:
+!!7. W jednym rożeńku
+!!pirożki warzyła,
+!!w drugim rożeńku
+!!skwareczki skwarzyła.
+!!@VERSE:
+!!8. Jédzcie i pijcie,
+!!moje lube goście;
+!!za tego koziołka
+!!Pana Boga proście.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=328 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 308} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 308}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

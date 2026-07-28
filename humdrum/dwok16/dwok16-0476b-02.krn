@@ -3,92 +3,171 @@
 !!!source: DWOK16
 !!!id: 16476b
 !!!signature: 1647600002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8g
-8b
-8cc
-=2
-4dd
-8cc
-=3
-8dd
-8gg
-8ff#
-=4
-4gg
-8dd
-=5
-8gg
-8ff#
-8dd
-=6
-8cc
-8b
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8g	Oj
+8b	tam
+8cc	w_Lu-
+=2	=2
+4dd/	-bi-
+8cc/	-nie,
+=3	=3
+8dd	oj
+8gg	tam
+8ff#	w_Lu-
+=4	=4
+4gg	-binie
+8dd	.
+=5	=5
+8gg/	na
+8ff#L	.
+8ddJ/	u-
+=6	=6
+8cc	-licy,
+8bL	.
+8gJ}	.
 !!LO:LB:g=esac
-=7
-{8g
-8b
-8cc
-=8
-8dd
-4dd
-=9
-8cc
-4b
-=10
-8g
-4b
-=11
-8g
-8b
-8cc
-=12
-4dd
-8dd
-=13
-8cc
-4b
-=14
-4g
-8g}
+=7	=7
+{8g	pi-
+8b	-je
+8cc	trzech
+=8	=8
+8dd	bracia
+4dd	.
+=9	=9
+8cc	w_kamie-
+4b	.
+=10	=10
+8g	-ni-
+4b	-cy,
+=11	=11
+8g	pi-
+8b	-je
+8cc	trzech
+=12	=12
+4dd	bracia
+8dd	.
+=13	=13
+8cc	w_kamie-
+4b	.
+=14	=14
+4g	-ni-
+8g}	-cy,
 !!LO:LB:g=esac
-=15
-{8g
-8b
-8cc
-=16
-8dd
-4dd
-=17
-8cc
-8b
-8g
-=18
-8g
-4b
-=19
-8g
-8b
-8cc
-=20
-4dd
-8dd
-=21
-8cc
-8b
-8g
-=22
-4g
-8g}
-==
-*-
+=15	=15
+{8g	pi-
+8b	-je
+8cc	trzech
+=16	=16
+8dd	bracia
+4dd	.
+=17	=17
+8cc	w_kamie-
+8bL	.
+8gJ	.
+=18	=18
+8g	-ni-
+4b	-cy,
+=19	=19
+8g	pi-
+8b	-je
+8cc	trzech
+=20	=20
+4dd	bracia
+8dd	.
+=21	=21
+8cc	w_kamie-
+8bL	.
+8gJ	.
+=22	=22
+4g	-ni-
+8g}	-cy.
+==	==
+*-	*-
+!!!role-singer: Narrator, Lord, Brothers, Sister
+!!!role-listener: Brothers, Sister, Lord
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Oj tam w Lubinie [:] na ulicy
+!!Pije trzech bracia w kamienicy[:].
+!!@VERSE:
+!!2. Oj piją, piją [:] — rozliwają
+!!swoją się siostrą wychwalają.
+!!@VERSE:
+!!3. Oj przyseł do nich pan Wójtowic,
+!!nie kazał im się z siostrą chwalić.
+!!@VERSE:
+!!4. — Oj nie chwalcie się, mili bracia,
+!!bo niema o co, mili bracia.
+!!@VERSE:
+!!5. Bo ja tam u niéj przebywaję
+!!miodu i wina ja pijaję. —
+!!@VERSE:
+!!6. I mówi jeden do drugiego,
+!!starszy braciszek do średniego:
+!!@VERSE:
+!!7. — Oj zaprzągnijmy koniceńki,
+!!pojedziemy do siostrzyceńki.
+!!@VERSE:
+!!8. I przyjechali w podwóreńko:
+!!— oj otwórz, otwórz siostrzyceńko!
+!!@VERSE:
+!!9. Oj pytam cie się, siostro nasa
+!!da gdzie się działa z ciebie krasa?
+!!@VERSE:
+!!10. — Oj drogie’m wino sprzedawała
+!!i tak’em ja się sturbowała. —
+!!@VERSE:
+!!11. A i my także droższe pijali,
+!!nie tak’eśmy się sturbowali.
+!!@VERSE:
+!!12. Oj czyje, siostro, dziecie płacze,
+!!tam w komóreczce na kanacie?
+!!@VERSE:
+!!13. — Tu komornica u mnie była
+!!z żołnierzami się namówiła
+!!u mnie dzieciątko zostawiła. —
+!!@VERSE:
+!!14. —  Oj nie dajże mu, siostro płakać,
+!!da boś ty jego rodzona mać. —
+!!@VERSE:
+!!15. I mówi Jeden do drugiego,
+!!starszy braciszek do młodszego:
+!!@VERSE:
+!!16. —  Tarnowy ogień napalemy,
+!!swoję siostrzyckę w nim spalemy.
+!!@VERSE:
+!!17. — O nie palcie mnie o północy
+!!o bo już mnie nikt nie zobacy.
+!!@VERSE:
+!!18. Oj jéno palcie na świtaniu,
+!!jak panny wołki wygieniają,
+!!jak skowroneńki zaspiéwają.
+!!@VERSE:
+!!19. A kiedy się w pół dopalała,
+!!na Wojtowica zawołała:
+!!@VERSE:
+!!20. — Oj ratuj, ratuj, Wojtowicu,
+!!ostaje ci się syn w powiciu. —
+!!@VERSE:
+!!21. A jak-że ja cię ratować mam,
+!!da stoją bracia, kieby kacia. —
+!!@VERSE:
+!!22. I mówi jeden do drugiego
+!!starsy braciszek do średniego:
+!!@VERSE:
+!!23. — Oj źle-śmy sobie usądzili,
+!!żeśmy siostrzyckę se spalili,
+!!dziecie sierotą nabawili (v. zostawili).
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=311 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 291} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 291}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

@@ -3,49 +3,122 @@
 !!!source: DWOK16
 !!!id: 16479a
 !!!signature: 1647900001
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{8e
-16g#
-16a
-4b
-4ee
-=2
-8dd#
-8ee
-2b
-=3
-8dd
-16cc
-16b
-4a
-4b
-=4
-8b
-8g
-2e}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+{8e	Słu-
+16g#L	-żył
+16aJ	.
+4b	Jasio
+4ee	.
+=2	=2
+8dd#	u
+8ee	pana
+2b	.
+=3	=3
+8ddn	za
+16ccL	wielkie-
+16bJ	.
+4a\	.
+4b	-go
+=4	=4
+8b	dworza-
+8g\	.
+2e}	-na,
 !!LO:LB:g=esac
-=5
-{8g#
-8a
-2ee
-=6
-8dd
-16cc
-16b
-4a
-4ee
-=7
-8cc
-8b
-2a}
-==
-*-
+=5	=5
+{8g#L	hej
+8aJ	.
+2ee	hej
+=6	=6
+8dd	za
+16ccL	wielkie-
+16bJ	.
+4a\	.
+4ee	-go
+=7	=7
+8cc;	dworzana.
+8b;	.
+2a}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Bachelor, Relative, Maiden
+!!!role-listener: Lord, Maiden, Bachelor, Relative
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Służył Jasio u pana
+!!za wielkiego dworzana.
+!!@VERSE:
+!!2. Wysłużył se służeńkę,
+!!w siedmiu latach Kasieńkę.
+!!@VERSE:
+!!3. Zaraz się z nią ożenił.
+!!Pan na wojnę rozkazał.
+!!@VERSE:
+!!4. Nim na wojnę pojechał,
+!!w koło kościół objechał.
+!!@VERSE:
+!!5. O la Boga! cóż będzie?
+!!nie chce konik stać w rzędzie.
+!!@VERSE:
+!!6. Wyjechał z panem w drogę,
+!!złamał wrony koń nogę.
+!!@VERSE:
+!!7. Choć mi, panie, nie dopłać,
+!!muszę do domu jechać.
+!!@VERSE:
+!!8. Czy Kasiunia umiéra,
+!!czy synuszka powija?
+!!@VERSE:
+!!9. Czy Kasiunia nie żyje,
+!!czyli syna powije?
+!!@VERSE:
+!!10. Kasia syna powiła,
+!!sama nad nim zasnęła.
+!!@VERSE:
+!!11. I przyjechał we w rota:
+!!Wyjdź Kasiuniu, jagoda!
+!!@VERSE:
+!!12. I przyjechał w podwórko,
+!!i zastukał w okienko.
+!!@VERSE:
+!!13. Wyszła do niego starsa świeć:
+!!Proszę szwagra z siwka zsieść.
+!!@VERSE:
+!!14. Ja z konika nie zsiądę,
+!!aż Kasiunię oglądnę.
+!!@VERSE:
+!!15. Już-ci Kasia nie żyje,
+!!na jéj grobie lélije.
+!!@VERSE:
+!!16. Nim na jéj grób najechał,
+!!w koło kościół objechał.
+!!@VERSE:
+!!17. I przyjechał na jéj grób,
+!!klęknął konik na dwie nóg.
+!!@VERSE:
+!!18. Stanął Jasio na grobie,
+!!przeciw serca, wątrobie:
+!!@VERSE:
+!!19. — Oj Kasiuniu serdeńko,
+!!przemów do mnie słóweńko!
+!!@VERSE:
+!!20. Kasia Boga prosiła
+!!że słóweńko zmówiła.
+!!@VERSE:
+!!21. — Albo to ja róży kwiat,
+!!masz-ci dziewek pełen świat.
+!!@VERSE:
+!!22. — Choć-by było i tysiąc,
+!!to ja żadnéj nie przysiąg.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=314 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 294} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 294}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

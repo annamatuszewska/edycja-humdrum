@@ -3,70 +3,145 @@
 !!!source: DWOK16
 !!!id: 16467
 !!!signature: 1646700000
-**kern
-*clefG2
-*k[]
-*a:
-*M2/4
-=1
-{8g#
-8a
-16cc
-16b
-8a
-=2
-4b
-4dd#
-=3
-2ee
-=4
-8ff#
-8ee
-8dd#
-8b
-=5
-4ee
-8cc
-8b
-=6
-4a}
-4r
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M2/4	*
+=1	=1
+{8g#	U
+8a	méj
+16ccL	mat-
+16bJ	.
+8a\	-ki
+=2	=2
+4b	w_podwó-
+4dd#	.
+=3	=3
+2ee	-rzu
+=4	=4
+8ff#	stoi
+8ee	.
+8dd#	jawór
+8b	.
+=5	=5
+4ee	zie-
+8ccL	-lo-
+8bJ	.
+=6	=6
+4a}	-ny.
+4r	.
 !!LO:LB:g=esac
-=7
-{4ee
-8cc
-8dd
-=8
-8ee
-16cc
-16b
-4a
-=9
-8g#
-8a
-16cc
-16b
-8a
-=10
-4g#
-4e
-=11
-8g#
-8a
-16cc
-16b
-8a
-=12
-4ee
-16dd
-16cc
-8b
-=13
-4a}
-4r
-==
-*-
+=7	=7
+{4ee	A
+8cc	w_tym
+8dd	ja-
+=8	=8
+(8eeL	-wo-
+16cc	.
+16bJ)	.
+4a	-rze,
+=9	=9
+8g#L	a
+8aJ	w
+16ccL	tym
+16bJ	.
+8a	zie-
+=10	=10
+4g#	-lo-
+4e	-nym
+=11	=11
+8g#	trzej
+8a	ptasko-
+16ccL	.
+16bJ	.
+8a	-wie
+=12	=12
+4ee	sia-
+16ddL	-da-
+16cc	.
+8bJ	.
+=13	=13
+4a}	-ło.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Maiden, Bachelors
+!!!role-listener: Bachelors
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. U méj matki w podwórzu
+!!stoji jawór zielony.
+!!A w tym jaworze, a w tym zielonym
+!!trzej ptaskowie siadało.
+!!@VERSE:
+!!2. Nie byli to ptaskowie —
+!!grzecni kawalerowie.
+!!I radzili se o grzecną dziewcynę
+!!któremu się dostanie.
+!!@VERSE:
+!!3. Jeden mówi: to moja!
+!!drugi mówi: jak Bóg da.
+!!A trzeci mówi: moja najmilejsa
+!!smutna mi, nie wesoła.
+!!@VERSE:
+!!4. Jak ja niémam smutna być?
+!!za starego mam ja iść.
+!!Rozżaliło się smutne serce moje,
+!!nie mogę go zniewolić.
+!!(Jak ja mam wesoła być,
+!!jeśli z starym przyjdzie żyć.
+!!Oj a ja młoda jak w boru jagoda,
+!!mogę sobie poradzić).
+!!@VERSE:
+!!5. U méj matki w komorze,
+!!ej malowane łoże.
+!!Oj Boże, Boże! — malowane łoże,
+!!a któż na nim spać może?
+!!@VERSE:
+!!6. Jeśli będzie stary spał,
+!!niechby on więcéj nie wstał,
+!!A jeśli młody i pięknéj urody,
+!!zeby mu Bóg zdrowie dał.
+!!@VERSE:
+!!7. Az tu koło pół-nocy
+!!Jasio oknem w wyskocy:
+!!bywaj mi zdrowa, ej dziewcyno moja,
+!!ja kawaler, ty wdowa.
+!!@VERSE:
+!!8. Ona go się pytała,
+!!zkąd go wyglądać miała?
+!!Oj poglądaj-ze po suchéj kalinie,
+!!póki się nie (r)ozwinie.
+!!(Pyta się Kasia Jasia
+!!cy się prędko powróci?)
+!!Oj wtencas kiedy sucha kalinecka
+!!zielony list (r)ozpuści.
+!!@VERSE:
+!!9. Kasia nic nie mówiła,
+!!po sadeńku chodziła.
+!!Oj i sukała suchéj kalinecki,
+!!cyli się nie ozwiła?
+!!@VERSE:
+!!10. Oj ty sucha kalina,
+!!a ja biédna dziewcyna!
+!!Wychodziła ja te nowe trzewicki,
+!!a tyś się nie ozwiła.
+!!@VERSE:
+!!11. Oj ty sucha kalina,
+!!a ja marna dziewcyna!
+!!Oj marna, marna ja sierotecka
+!!przez swojego wianecka.
+!!@VERSE:
+!!12. Oj żal tobie Kasieńku
+!!oj wianecka opuścić.
+!!I cięzko, cięzko, suchéj kalineczce.
+!!zielony listek puścić.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=306 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 286} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 286}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

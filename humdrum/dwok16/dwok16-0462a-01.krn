@@ -3,91 +3,134 @@
 !!!source: DWOK16
 !!!id: 16462a
 !!!signature: 1646200001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16f#
-16f#
-8d
-8f#
-=2
-4.g
-=3
-16g
-16b
-8dd
-8cc
-=4
-4a}
-8r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16f#	Siądźmy
+16f#	.
+8d	se
+8f#	Ja-
+=2	=2
+4.g\	-siu
+=3	=3
+16g	przy
+16b	téj
+8dd	do-
+8cc	-li-
+=4	=4
+4a}	-nie,
+8r	.
 !!LO:LB:g=esac
-=5
-{16f#
-16f#
-8d
-8f#
-=6
-8.g
-16a
-16g
-16f#
-=7
-16g
-16b
-8dd
-8cc
-=8
-4a}
-8r
+=5	=5
+{16f#	siądźmy
+16f#	.
+8d	se
+8f#	Ja-
+=6	=6
+8.gL	-siu
+16a	.
+16g	.
+16f#J	.
+=7	=7
+16g	przy
+16b	téj
+8dd	do-
+8cc	-li-
+=8	=8
+4a}	-nie,
+8r	.
 !!LO:LB:g=esac
-=9
-{16cc
-16cc
-8ee
-8ee
-=10
-16dd
-16dd
-8b
-8g
-=11
-16cc
-16cc
-8ee
-8ee
-=12
-16dd
-16dd
-8b
-8g}
+=9	=9
+{16cc	powiem
+16cc	.
+8ee	ja
+8ee	ci
+=10	=10
+16dd	coś
+8eeq	.
+16dd	dobrego,
+8b	.
+8g	.
+=11	=11
+16cc	bę-
+8bq	.
+16cc	-dzies
+8ee	kontent
+8ee	.
+=12	=12
+16dd	Jasiu
+16dd	.
+8b	z_te-
+8g\}	-go
 !!LO:LB:g=esac
-=13
-{8a
-8cc
-16a
-16f#
-=14
-16.g
-32b
-8dd
-16b
-16g
-=
-24d
-24f#
-24a
-8cc
-16a
-16f#
-=15
-4g}
-8r
-==
-*-
+=13	=13
+{8a\	słówka
+8cc	.
+16aL	moje-
+16f#J	.
+=14	=14
+16.g	-go,
+32b	Jasiu-
+8dd	.
+16bL	-niu
+16gJ	.
+=15	=15
+(>24dL	słówka
+24f#J	.
+24a)	.
+8cc	mo-
+16aL	-je-
+16f#J	.
+=16	=16
+4g}	-go.
+8r	.
+==	==
+*-	*-
+!!!RDF**kern: > = above
+!!!role-singer: Maiden, Bachelor
+!!!role-listener: Bachelor, Maiden
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Siądźmy se Jasiu przy téj dolinie,
+!!niech nas gorące słońce ominie.
+!!Powiem ja ci coś dobrego,
+!!będzies kontent Jasiu z tego
+!!słówka mojego, Jasiuniu.
+!!@VERSE:
+!!2. Była ja Jasiu wcoraj we dworze,
+!!gadają o nas Jasiu nieboze.
+!!Ześmy sobie siadywali,
+!!po kącikach gadywali
+!!Jasiu nieboze, kochanie.
+!!@VERSE:
+!!3. Marysiu moja, ot byś nie dbała,
+!!ześ po kącikach buzi dawała,
+!!Synatorskie córki dają,
+!!chociaj na nich matki łają,
+!!ony nie dbają, Marysiu.
+!!@VERSE:
+!!4. Pamiętaj Jasiu, jak mi co będzie,
+!!będę chodziła za tobą wsedzie.
+!!Przychodź, [:] ma Marychno,
+!!chociaj z wiecora nierychło,
+!!przychodź Marychno kochanie.
+!!@VERSE:
+!!5. Marysiu moja, cy pamiętas to,
+!!jakieś żynała za dworem zyto.
+!!Oj zyto, zyto zynała,
+!!oj i wołki nawracała
+!!sama od siebie, Marysiu.
+!!Sama’ś do mnie przychodziła,
+!!poduseckę’ś przynosiła,
+!!nie ja do ciebie, Marysiu.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=304 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 284} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 284}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

@@ -3,113 +3,104 @@
 !!!source: DWOK16
 !!!id: 16489
 !!!signature: 1648900000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{4ee
-8ee
-=2
-4b
-8dd
-=3
-16cc
-16b
-8a
-8a
-=4
-8g#
-4e}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{4ee	Da
+8ee	ja
+=2	=2
+4b	sobie
+8dd	.
+=3	=3
+16cc	malusieńka
+16b	.
+8a	.
+8a	.
+=4	=4
+8g#\	dro-
+4e}	-bna,
 !!LO:LB:g=esac
-=5
-{4ee
-8ee
-=6
-4b
-8dd
-=7
-16cc
-16b
-8a
-8a
-=8
-16g#
-16f#
-4e}
+=5	=5
+{4ee	da
+8ee	ja
+=6	=6
+4b	sobie
+8dd	.
+=7	=7
+16cc	malusieńka
+16b	.
+8a	.
+8a	.
+=8	=8
+16g#L	dro-
+16f#J	.
+4e}	-bna,
 !!LO:LB:g=esac
-=9
-{8e
-8g#
-8g#
-=10
-16e
-16a
-8b
-8dd
-=11
-8cc
-8a
-8a
-=12
-8b
-4ee}
+=9	=9
+{8e\	oj
+8g#\	będe,
+8g#\	.
+=10	=10
+16e\	ja
+16a\	się,
+8b	bę-
+8dd	-dę
+=11	=11
+8cc	prędko
+8a	uwi-
+8a	.
+=12	=12
+8b	-ja-
+4ee}	-ła
 !!LO:LB:g=esac
-=13
-{4ee
-8ee
-=14
-4b
-8dd
-=15
-16cc
-16b
-8a
-8a
-=16
-8g#
-4e}
-!!LO:LB:g=esac
-=17
-{4ee
-8ee
-=18
-4b
-8dd
-=19
-16cc
-16b
-8a
-8a
-=20
-16g#
-16f#
-4e}
-!!LO:LB:g=esac
-=21
-{16e
-16f#
-8g#
-8g#
-=22
-32e
-32g#
-16a
-8b
-8dd
-=23
-16cc
-16b
-8a
-8a
-=24
-16g#
-16f#
-4e}
-==
-*-
+=21	=21
+{16eL	da
+16f#	.
+8g#	na
+8g#J	śnia-
+=22	=22
+32eL	-danie
+32g#	.
+16aJ	.
+8b	o-
+8dd	-biad
+=23	=23
+16ccL	będę
+16bJ/	.
+8a	wyda-
+8a	.
+=24	=24
+16g#L	-wa-
+16f#J	.
+4e}	-ła.
+==	==
+*-	*-
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Da ja sobie — malusińka drobna,
+!!będzie ze mnie — gospodyni dobra.
+!!Oj będę, ja się, będę — prędko uwijała,
+!!da na śniadanie objad — będę wydawała.
+!!@VERSE:
+!!2. A wieczerzę — jak kurek zapieje,
+!!da śniadanie — jak dzień zabieleje.
+!!Oj będę ja się, będę — prędko uwijała,
+!!oj będę ja mężowi, — sobie dogadzała.
+!!Na tęż nutę:
+!!Da ja sobie — parobeczek księży,
+!!choć ja taki — da nimam piéniędzy,
+!!jéno dziéwki mają,
+!!to mi pożyczają.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=318 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 298} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 298}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

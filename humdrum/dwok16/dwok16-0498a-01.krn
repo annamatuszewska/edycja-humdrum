@@ -3,59 +3,83 @@
 !!!source: DWOK16
 !!!id: 16498a
 !!!signature: 1649800001
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/4
-=1
-{8f
-8ff
-4ff
-4ff
-=2
-8ee
-8gg
-4ff
-4cc
-=3
-8ee
-8ee
-4dd
-4cc
-=4
-8b-
-8g
-4f}
-4r
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/4	*
+=1	=1
+{8f	Oj
+8ff	wyjechał
+4ff	.
+4ff	.
+=2	=2
+8ee	Jasiońko
+8gg	.
+(4ff	.
+4cc)	.
+=3	=3
+8ee	z_kościo-
+8ee	.
+(4dd	-ła
+4cc)	.
+=4	=4
+8b-	przy
+8g	zmroku
+4f}	.
+4r	.
 !!LO:LB:g=esac
-=5
-{8cc
-8cc
-8cc
-8g
-8b-
-8g
-=6
-8f
-8g
-8a
-8b-
-8cc
-8ff
-=7
-8ee
-8cc
-4dd
-4cc
-=8
-8b-
-8g
-4f}
-4r
-==
-*-
+=5	=5
+{8cc	i
+8cc	przy-
+8cc	-pina
+8g	.
+8b-	sobie
+8g	.
+=6	=6
+8f\	i
+8g\	przypina
+8a\	.
+8b-	.
+8cc	sobie
+8ff	.
+=7	=7
+8ee	siabel-
+8cc	.
+(4dd	-kę
+4cc)	.
+=8	=8
+8b-	do
+8g	boku.
+4f}	.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Soldier
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Oj wyjechał Jasiońko
+!!z kościoła przy zmroku
+!!i przypina sobie
+!!i przypina sobie
+!!siabelkę do boku.
+!!@VERSE:
+!!2. A skoro se przypiął,
+!!oberzał sie na swój dom.
+!!Serdecznie wzetchnół
+!!rzywnieńko zapłakał,
+!!wyryżnął pod nim wrony kuń.
+!!@VERSE:
+!!7. Ta warta stojała
+!!od wieczora do rania.
+!!Dał Pan Bóg dzień biały,
+!!dał Pan Bóg dzień biały,
+!!pędzą mnie do Lublina.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=323 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 303} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 303}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

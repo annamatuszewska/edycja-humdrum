@@ -3,46 +3,98 @@
 !!!source: DWOK16
 !!!id: 16474
 !!!signature: 1647400002
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{8e
-8e
-4a
-4b
-=2
-8cc
-8b
-4a}
-4r
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+{8e	Jasio
+8e	.
+4a\	ko-
+4b	-nie
+=2	=2
+8ccL	po-
+8bJ	.
+4a\}	-jił
+4r	.
 !!LO:LB:g=esac
-=3
-{8cc
-8cc
-4ee
-4ee
-=4
-8ee
-8ee
-4.dd
-8ee
-=5
-8ee
-8dd
-4b
-4dd
-=6
-8dd
-16cc
-16b
-4a}
-4r
-==
-*-
+=3	=3
+{8ccL	Ja-
+8ccJ/	.
+4ee	-sio
+4ee	se
+=4	=4
+8eeL	za-
+8eeJ/	.
+4.dd	-śpiéwał,
+8ee	.
+=5	=5
+8ee	Kasia
+8dd	.
+4b	zapła-
+4dd	.
+=6	=6
+8ddL	-ka-
+16cc	.
+16bJ	.
+4a}	-ła.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Maiden, Bachelor
+!!!role-listener: Bachelor, Maiden
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!Jasio konie pojił
+!!Kasia wodę brała.
+!!Jasio se zaśpiéwał,
+!!Kasia zapłakała.
+!!(Daléj jak poprzedzająca)
+!!@VERSE:
+!!12. I przyjechali ta
+!!do szerockiéj rzécki:
+!!nadobna Kasieńku
+!!jakże sobie myślisz?
+!!@VERSE:
+!!13. Co ja umyśliła?
+!!co ja uczyniła?
+!!ze ja przez swywolą
+!!matkę odstąpiła.
+!!@VERSE:
+!!14. I przyjechali ta
+!!do drugiego mostu:
+!!rozplataj Kasieńku
+!!warkoczyk poprostu.
+!!@VERSE:
+!!15. Nie na to mi matka
+!!mój warkoczyk pletła,
+!!żebym go hultaju
+!!po gałązkach wlekła.
+!!@VERSE:
+!!16. Nie na to’m u matki
+!!warkoczyk splatała,
+!!by mi go hultaju
+!!gałęź rozplitała.
+!!@VERSE:
+!!17. Będę ci Kasieńku
+!!warkoczyk rozplitał,
+!!będzie twój warkoczyk
+!!po dunaju pływał.
+!!@VERSE:
+!!18. Nie na to mi matka
+!!warkoczyk czesała,
+!!by mi go wodziczka
+!!po się (sobie) roznaszała.
+!!@VERSE:
+!!19. Gruntuj-że mi gruntuj
+!!mój warkoczku do dna,
+!!jeszcze ja téj śmierci
+!!od Jasia niegodna.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=310 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 290} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 290}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

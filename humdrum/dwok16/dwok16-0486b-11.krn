@@ -3,66 +3,83 @@
 !!!source: DWOK16
 !!!id: 16486b
 !!!signature: 164860011
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8a
-8cc
-8dd
-=2
-8ee
-8ee
-8a
-=3
-8b
-8g
-8r
-=4
-8a
-8cc
-8dd
-=5
-8ee
-8ee
-8a
-=6
-8b
-8g}
-8r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8a\	Za
+8cc	co
+8dd	mnie
+=2	=2
+8ee	hultaju
+8ee	.
+8a\	.
+=3	=3
+8b	bijes,
+8g	.
+8r	.
+=4	=4
+8a\	kiedy
+8cc	.
+8dd	ty
+=5	=5
+8ee	za
+8ee	moje
+8a\	.
+=6	=6
+8b	pijes.
+8g}	.
+8r	.
 !!LO:LB:g=esac
-=7
-{8a
-16b
-16a
-8b
-=8
-8cc
-8b
-8b
-=9
-8cc
-4b
-=10
-16a
-16b
-8cc
-8dd
-=11
-8ee
-16ee
-16cc
-8a
-=12
-16b
-16a
-8g}
-8r
-==
-*-
+=7	=7
+{8a\	oj
+16bL	dy-
+16aJ\	.
+8b	-na
+=8	=8
+8ccL	da
+8bJ/	dy-
+8b	-na
+=9	=9
+8cc/	dyna
+4b/	.
+=10	=10
+16aL	przepiło
+16bJ	.
+8cc	.
+8dd	się
+=11	=11
+8ee	da
+16eeL	te-
+16cc	.
+8aJ/	-raz
+=12	=12
+16bL	ni-
+16aJ	.
+8g}	-ma.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Wife, Husband
+!!!role-listener: Husband
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Za co mnie hultaju bijes,
+!!kiedy ty za moje pijes.
+!!oj dyna da dyna dyna
+!!przepiło się da teraz nima.
+!!@VERSE:
+!!2. Oj przepiło się te grosze
+!!da teraz bida po trosze.
+!!Oj dyna da dyna, dyna,
+!!przepiło się, da teraz nima.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=317 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 297} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 297}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

@@ -3,97 +3,123 @@
 !!!source: DWOK16
 !!!id: 16458
 !!!signature: 1645800000
-**kern
-*clefG2
-*k[f#c#]
-*b:
-*M3/8
-=1
-{8b
-8b
-8gg
-=2
-4ff#
-8ee
-=3
-8ff#
-16dd
-8.b}
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*b:	*
+*M3/8	*
+=1	=1
+!!LO:TX:a:t=Na zalotach.
+{8b	Czyja
+8b	.
+8gg	dziew-
+=2	=2
+4ff#	-czyna,
+8ee	.
+=3	=3
+8ff#	czy-
+16ddL	-ja,
+8.bJ}	.
 !!LO:LB:g=esac
-=4
-{8a
-8cc
-8dd
-=5
-4ee
-8dd
-=6
-8cc
-16b
-8.a}
+=4	=4
+{8a\	ojcowa,
+8cc	.
+8dd	.
+=5	=5
+4ee	matu-
+8dd	.
+=6	=6
+8cc	-li-
+16bL	-na.
+8.aJ}	.
 !!LO:LB:g=esac
-=7
-{8a
-8cc
-8dd
-=8
-4ee
-8dd
-=9
-8a
-16cc
-8.b}
+=7	=7
+{8a\	Co
+8cc	ojcu,
+8dd	.
+=8	=8
+4ee	mat-
+8dd	-ce
+=9	=9
+8a\	po
+16ccL	niej,
+8.bJ}	.
 !!LO:LB:g=esac
-=10
-{8b
-8b
-8gg
-=11
-4ff#
-8ee
-=12
-8ff#
-16dd
-8.b}
+=10	=10
+{8b	Czyja
+8b	.
+8gg	dziew-
+=11	=11
+4ff#	-czyna,
+8ee	.
+=12	=12
+8ff#	czy-
+16ddL	-ja,
+8.bJ}	.
 !!LO:LB:g=esac
-=13
-{8a
-8cc
-8dd
-=14
-4ee
-8dd
-=15
-8cc
-16b
-8.a}
+=13	=13
+{8a\	ojcowa,
+8cc	.
+8dd	.
+=14	=14
+4ee	matu-
+8dd	.
+=15	=15
+8cc	-li-
+16bL	-na.
+8.aJ}	.
 !!LO:LB:g=esac
-=16
-{8a
-8cc
-8dd
-=17
-4ee
-8dd
-=18
-8a
-16cc
-8.b}
+=16	=16
+{8a\	Co
+8cc	ojcu,
+8dd	.
+=17	=17
+4ee	mat-
+8dd	-ce
+=18	=18
+8a\	po
+16ccL	niej,
+8.bJ}	.
 !!LO:LB:g=esac
-=19
-{8a
-8cc
-8dd
-=20
-4ee
-8dd
-=21
-8cc
-16b
-8.a}
-==
-*-
+=19	=19
+{8a\	chodzą
+8cc	.
+8dd	dwo-
+=20	=20
+4ee	-raki
+8dd	.
+=21	=21
+8cc	do
+16bL	niéj.
+8.aJ}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Czyja dziewczyna, czyja?
+!!Ojcowa, matulina.
+!!Co ojcu, matce po niéj?
+!!chodzą dworaki do niéj.
+!!@VERSE:
+!!2. Jeden drugiego pyta:
+!!gdzie ta dziewczyna sypia?
+!!W komorze pod okienkiem,
+!!zamyka się drewienkiem.
+!!@VERSE:
+!!3. Głupie dworaki byli,
+!!co się tam nie dobyli.
+!!Tylko się jeden dobył,
+!!wielkiej szkody narobił.
+!!@VERSE:
+!!4. Gąsiorki powywracał,
+!!dziewczyny szukał, macał.
+!!Miód, wino powypijał,
+!!flaszeńki porozbijał.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=303 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 283} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 283}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

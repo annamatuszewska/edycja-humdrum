@@ -3,51 +3,68 @@
 !!!source: DWOK16
 !!!id: 16500a
 !!!signature: 1650000001
-**kern
-*clefG2
-*k[b-]
-*d:
-*M4/4
-=1
-{4cc
-8cc
-8dd
-4cc
-8a
-8g
-=2
-4cc
-8cc
-8dd
-4cc
-4g
-=3
-8b-
-8cc
-2a}
-4r
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*d:	*
+*M4/4	*
+*met(c)	*
+=1	=1
+{4cc	Oj
+8cc	zleciały
+8dd	.
+4cc	.
+8aL	się
+8gJ	.
+=2	=2
+4cc	pa-
+8cc	-rę
+8dd	łabę-
+4cc	.
+4g	-dzi
+=3	=3
+8b-X	po
+8cc	wodzie,
+2a;}	.
+4r	.
 !!LO:LB:g=esac
-=4
-{4cc
-8b
-8g
-4a
-8f
-8d
-=5
-4f
-8e
-8e
-4d
-4b
-=6
-8a
-8g}
-2r
-4r
-==
-*-
+=4	=4
+{4cc	oj
+8b-	zapłaka-
+8g	.
+4a	.
+8fL	-li
+8dJ	.
+=5	=5
+4f	młode
+8e	.
+8e	chłopczę-
+4d\	.
+4b-	-ta
+=6	=6
+8a	w_pochodzie.
+8g	.
+2d;}	.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Sister, Soldiers
+!!!role-listener: Sister
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Oj zleciały się parę łabędzi po wodzie,
+!!oj zapłakali młode chłopczęta w pochodzie.
+!!@VERSE:
+!!2. Oj wy chłopczęta, wy towarzysze, wy moji,
+!!a piszcie listy— do moji siostry — rodzonyj.
+!!@VERSE:
+!!3. Niechaj-że siostra siwe cielęta sprzedaje,
+!!mnie biédnego — z ciężkiéj niewoli dostaje.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=324 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 304} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 304}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

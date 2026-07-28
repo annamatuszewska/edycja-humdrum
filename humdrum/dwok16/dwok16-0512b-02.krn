@@ -3,51 +3,63 @@
 !!!source: DWOK16
 !!!id: 16512b
 !!!signature: 1651200002
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16ff
-16ee
-8dd
-8cc
-=2
-8ee
-4gg
-=3
-16ff
-16ee
-8dd
-8cc
-=4
-8ee
-4cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+!!LO:TX:a:t=Kołyskowa (po śmierci matki).
+{16ff	Lulaj
+16ee	.
+8dd	Kaziu,
+8cc	.
+=2	=2
+8ee/	spatki,
+4gg/	.
+=3	=3
+16ff	nima
+16ee	.
+8dd	w_domu
+8cc	.
+=4	=4
+8ee	matki,
+4cc}	.
 !!LO:LB:g=esac
-=5
-{16g
-16b
-16b
-16a
-8g
-=6
-16cc
-16ee
-16ee
-16dd
-8cc
-=7
-16ff
-16ee
-8dd
-8cc
-=8
-8ee
-4cc}
-==
-*-
+=5	=5
+{16g	poszła
+16b	.
+16bL	mat-
+16a	.
+8gJ	-ka
+=6	=6
+16cc	na
+16ee	ogró-
+16eeL	.
+16dd	.
+8ccJ/	-dek
+=7	=7
+16ff	po
+16ee	różo-
+8dd	.
+8cc	-we
+=8	=8
+8ee	kwiatki.
+4cc}	.
+==	==
+*-	*-
+!!!role-singer: Adult
+!!!role-listener: Baby
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Lulaj Kaziu, spatki,
+!!nima w domu matki,
+!!poszła matka na ogródek
+!!po różowe kwiatki.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=328 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 308} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 308}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

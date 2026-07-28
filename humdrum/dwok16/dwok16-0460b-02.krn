@@ -3,55 +3,72 @@
 !!!source: DWOK16
 !!!id: 16460b
 !!!signature: 1646000002
-**kern
-*clefG2
-*k[b-]
-*F:
-*M2/4
-=1
-{4ff
-4cc
-=2
-4dd
-8b-
-8g
-=3
-8b-
-8a
-4f
-=4
-8f
-8g
-8a
-8b-
-=5
-4cc
-8cc
-8dd}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M2/4	*
+=1	=1
+{4ff	U
+4cc	mły-
+=2	=2
+4dd	-na-
+8b-L	-rza
+8gJ	.
+=3	=3
+8b-	dolnego,
+8a\	.
+4f	.
+=4	=4
+8f	u
+8g	młynarza
+8a	.
+8b-/	.
+=5	=5
+4cc	dolnego,
+8cc	.
+8dd}	.
 !!LO:LB:g=esac
-=6
-{8f
-8g
-8a
-8b-
-=7
-4cc
-8cc
-8dd
-=8
-4ff
-4cc
-=9
-4dd
-8b-
-8g
-=10
-8cc
-8a
-4f}
-==
-*-
+=6	=6
+{8f	jest
+8g	tam
+8a	Kasia
+8b-/	.
+=7	=7
+4cc	u
+8cc	niego,
+8dd	.
+=8	=8
+4ff	jest
+4cc	tam
+=9	=9
+4dd	Ka-
+8b-L	-sia
+8gJ	.
+=10	=10
+8ccL	u
+8aJ/	niego.
+4f}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1.U młynarza dolnego,
+!!u młynarza dolnego,
+!!jest tam Kasia u niego,
+!!jest tam Kasia u niego.
+!!Zawiążcie mnie w plewny wór,
+!!zawieźcie mnie przede młyn.
+!!Co to za kat za zboże,
+!!leci z worem na łoże.
+!!Nie boję się poniewierki,
+!!wlezę za piec między dziéwki.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=303 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 283} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 283}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

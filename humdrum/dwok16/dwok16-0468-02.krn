@@ -3,91 +3,101 @@
 !!!source: DWOK16
 !!!id: 16468
 !!!signature: 1646800002
-**kern
-*clefG2
-*k[]
-*a:
-*M2/4
-=1
-{8a
-8g
-8a
-8cc
-=2
-4ee
-8cc
-8b
-=3
-2a
-=4
-8dd
-8ee
-8ff
-16dd
-16cc
-=5
-4ee
-8cc
-8b
-=6
-2a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M2/4	*
+=1	=1
+{8a	Z_tamtéj
+8g	.
+8a	strony
+8cc	.
+=2	=2
+4ee	jezio-
+8ccL	.
+8bJ/	.
+=3	=3
+2a	-ra,
+=4	=4
+8dd	stoji
+8ee	.
+8ffL	li-
+16dd	-pa
+16ccJ/	.
+=5	=5
+4ee	zielo-
+8ccL	.
+8bJ/	.
+=6	=6
+2a}	-na,
 !!LO:LB:g=esac
-=7
-{4ee
-8ee
-8ee
-=8
-4cc
-4gg
-=9
-4ee
-8cc
-8b
-=10
-4a
-4g
-=11
-8a
-8g
-8cc
-8dd
-=12
-4ee
-4cc
-=13
-2a}
+=7	=7
+{4ee	a
+8ee	na
+8ee	téj
+=8	=8
+4cc	li-
+4gg	-pie
+=9	=9
+4ee	na
+8cc	téj
+8b	zie-
+=10	=10
+4a\	-lo-
+4g\	-néj
+=11	=11
+8a\	trzech
+8g\	ptaskowie
+8cc	.
+8dd	.
+=12	=12
+4ee	siada-
+4cc	.
+=13	=13
+2a}	-ło,
 !!LO:LB:g=esac
-=14
-{4ee
-8ee
-8ee
-=15
-4cc
-8gg
-8ff
-=16
-8ee
-8dd
-8cc
-8b
-=17
-4a
-8a
-8g
-=18
-8a
-8a
-8cc
-8dd
-=19
-4ee
-8cc
-8b
-=20
-2a}
-==
-*-
+=14	=14
+{4ee	a
+8ee	na
+8ee	téj
+=15	=15
+4cc	li-
+8ggL	-pie
+8ffJ/	.
+=16	=16
+8eeL	na
+8ddJ/	.
+8cc	téj
+8b	zie-
+=17	=17
+4a	-lo-
+8aL	-néj
+8gJ	.
+=18	=18
+8aL	trzech
+8aJ	ptaskowie
+8cc	.
+8dd	.
+=19	=19
+4ee	siada-
+8ccL	.
+8bJ/	.
+=20	=20
+2a}	-ło.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Z tamtéj strony jeziora,
+!!stoji lipa zielona,
+!!a na téj lipie na téj zielonéj
+!!trzech ptaskowie siadało.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=307 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 287} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 287}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

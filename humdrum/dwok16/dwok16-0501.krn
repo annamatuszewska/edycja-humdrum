@@ -3,74 +3,118 @@
 !!!source: DWOK16
 !!!id: 16501
 !!!signature: 1650100000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M4/4
-=1
-{8d
-8g
-8g
-8b
-4b
-8a
-8g
-=2
-8f#
-8a
-8a
-8cc
-8cc
-8b
-4b
-=3
-8d
-8g
-8g
-8b
-4b
-8a
-8a
-=4
-8a
-8g
-8f#
-8e
-8e
-8d
-4d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M4/4	*
+*met(c)	*
+=1	=1
+{8d	Niejeden
+8g	.
+8g	.
+8b	my-
+(4b	-śli-
+8a)	.
+8g	-wy
+=2	=2
+8f#	po
+8a	pola
+8a	.
+8cc	polu-
+8ccL	.
+8bJ	.
+4b	-je,
+=3	=3
+8d	jak
+8g	nic
+8g	nie
+8b	spolu-
+(4b	.
+8a)	.
+8a	-je,
+=4	=4
+8a	do
+8g	domu
+8f#	.
+8e	wędru-
+8eL	.
+8dJ	.
+4d}	-je.
 !!LO:LB:g=esac
-=5
-{4b
-8b
-8a
-2g
-=6
-8ee
-8dd
-8cc
-8b
-4.a
-8g
-=7
-8f#
-8a
-8cc
-8ee
-4ee
-8dd
-8cc#
-=8
-8dd
-8f#
-8a
-8a
-4g}
-4r
-==
-*-
+=5	=5
+{4b	I
+8ccq	.
+8bL	sta-
+8aJ\	.
+2g	-nął,
+=6	=6
+8ee	mówi:
+8dd	.
+8cc	mój
+8b	Boże,
+(4.a	.
+8g)	.
+=7	=7
+8f#	być
+8a	to
+8cc	bez
+8ee	zwierzyny
+(4ee	.
+8dd)	.
+8cc#	.
+=8	=8
+8dd	nigdy
+8f#	.
+8a	nie
+8a	może.
+4g}	.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Hunter, Maiden
+!!!role-listener: Dogs, Hunter, Maiden
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Niejeden myśliwy po pola poluje,
+!!jak nic nie spoluje, do domu wędruje.
+!!I stanął, i mówi: mój Boże!
+!!być to bez zwierzyny nigdy nie może.
+!!@VERSE:
+!!2. I poszeł do charczy, pospuszczał charty:
+!!wy charty bieżajcie, zwierzyny szukajcie.
+!!I charty dobrze bieżały,
+!!znalazły zwierzynę, nadszczekiwały.
+!!@VERSE:
+!!3. Myśliwy sie puścił ku zielonéj łące,
+!!na zielonéj łące, zdybał dziewcze śpiące.
+!!I stanął, budzić żałuje,
+!!by jéj snu nie przerwał, tak obserwuje.
+!!@VERSE:
+!!4. Dziewcze się zerwało ze snu obudzone,
+!!widząc myśliwego gorzej przestraszone.
+!!A tóż co? co za nowina?
+!!nie jestem ja liszka, tylko dziewczyna.
+!!@VERSE:
+!!5. Bądź ty sobie co chcesz, nie daruję tego,
+!!abym się przekonał przeciwieństwa twego.
+!!Zdradniku, nie bądź mi katem,
+!!narobisz mi wstydu przed całym światem.
+!!@VERSE:
+!!6. Mam zegarek złoty, podaruję tobie,
+!!abyś mnie przyjęła ku swojéj osobie.
+!!Rób co chcesz, powiem kóżdemu,
+!!kto to był przyczyńcą nieszczęściu memu.
+!!@VERSE:
+!!7. A bądź-że mi zdrowa, byś nie chorowała,
+!!byś zieloną łączkę zawsze wspominała.
+!!Bądź mi zdrów, byś zdrów polówał,
+!!byś taką zwierzynkę zawsze znajdował.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=324 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 304} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 304}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

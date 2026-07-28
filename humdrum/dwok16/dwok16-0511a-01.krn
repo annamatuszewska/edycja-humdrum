@@ -3,53 +3,63 @@
 !!!source: DWOK16
 !!!id: 16511a
 !!!signature: 1651100001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8g
-8b
-8dd
-8b
-=2
-8dd
-8ee
-4dd
-=3
-8dd
-8ee
-4dd
-=4
-8cc
-8b
-4dd
-=5
-8a
-8f#
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8g	A
+8b	gdzież
+8dd	to
+8b	ten
+=2	=2
+8dd	kusy
+8ee	.
+4dd	Jan,
+=3	=3
+8dd	kusy
+8ee	.
+4dd	Jan,
+=4	=4
+8cc	co
+8b	chodził
+4dd	.
+=5	=5
+8a	z_toporem,
+8f#	.
+4g}	.
 !!LO:LB:g=esac
-=6
-{4cc
-8dd
-8b
-=7
-8a
-8f#
-8g
-8b
-=8
-4cc
-8dd
-8b
-=9
-8a
-8f#
-4g}
-==
-*-
+=6	=6
+{4cc	o-
+8dd	-pa-
+8b	-sał
+=7	=7
+8a	się
+8f#	kijan-
+8g	.
+8b	-ką,
+=8	=8
+4cc	pod-
+8dd	-pierał
+8b	.
+=9	=9
+8a	się
+8f#	worem.
+4g}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!A gdzież to ten kusy Jan, kusy Jan,
+!!co chodził z toporem,
+!!opasał się kijanką,
+!!podpierał się worem.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=328 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 308} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 308}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

@@ -3,49 +3,67 @@
 !!!source: DWOK16
 !!!id: 16485
 !!!signature: 1648500000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/4
-=1
-{8.f
-16g
-8a
-8b-
-8dd
-8cc
-=2
-4cc
-4a
-4b-}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/4	*
+=1	=1
+{8.f	Poszła
+16g	.
+8a	za
+8b-/	stare-
+8dd	.
+8cc	-go,
+=2	=2
+4cc	hu
+4a\	a
+4b-}	ha!
 !!LO:LB:g=esac
-=3
-{8.a
-16b-
-8dd
-8cc
-8cc
-8a
-=4
-4b-
-4g
-4f}
+=3	=3
+{8.a\	nie
+16b-	kontenta
+8dd	.
+8cc	.
+8cc	z_niego,
+8a\	.
+=4	=4
+4b-	hu
+4g\	a
+4f\}	ha,
 !!LO:LB:g=esac
-=5
-{8.a
-16b-
-8dd
-8cc
-8cc
-8a
-=6
-4b-
-4g
-4cc}
-==
-*-
+=5	=5
+{8.a\	nie
+16b-	kontenta
+8dd	.
+8cc	.
+8cc	z_niego,
+8a\	.
+=6	=6
+4b-	hu
+4g	a
+4cc/}	ha.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!!role-listener: Maidens
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Poszła za starego, hu a ha!
+!!niekontenta z niego, hu a ha!
+!!@VERSE:
+!!2. Myślała że stary, hu a ha!
+!!ma bite talary, hu a ha!
+!!@VERSE:
+!!3. A stary jak kłoda, hu a ha!
+!!zimny jak lód, woda, hu a ha!
+!!@VERSE:
+!!4. Wy panny się strzeżcie, hu a ha!
+!!staremu nie wierzcie, hu a ha!
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=317 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 297} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 297}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

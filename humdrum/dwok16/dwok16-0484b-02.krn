@@ -3,60 +3,110 @@
 !!!source: DWOK16
 !!!id: 16484b
 !!!signature: 1648400002
-**kern
-*clefG2
-*k[f#]
-*e:
-*M4/4
-=1
-{8e
-8e
-4b
-4.b
-8g
-=2
-8a
-8b
-8cc
-8b
-8cc
-8b
-4a
-=3
-4a
-8a
-8a
-4cc
-8e
-8d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*e:	*
+*M4/4	*
+*met(c)	*
+=1	=1
+{8e	Tam
+8e	pode
+4b	.
+4.b	Lwowem
+8g	.
+=2	=2
+8a\	krzemienista
+8b	.
+8cc	.
+8b	.
+8ccL	droga,
+8bJ/	.
+4a	.
+=3	=3
+4a	i
+8aL	przy
+8aJ	téj
+4cc	.
+8eL	drodze
+8dJ}	.
 !!LO:LB:g=esac
-=4
-{8e
-8f#
-8g
-8f#
-8g
-8f#
-4e
-=5
-8e
-8f#
-8g
-8a
-8b
-8f#
-8g
-8b
-=6
-8a
-8f#
-8g
-8f#
-4e}
-4r
-==
-*-
+=4	=4
+{8e	dwa
+8f#	różowe
+8g	.
+8f#	.
+8gL	kwiaty,
+8f#J	.
+4e	.
+=5	=5
+8e	oba
+8f#	.
+8g	były
+8a	.
+8bL	czerwo-
+8f#J	.
+8g	.
+8b	-ne,
+=6	=6
+8aL	czerwo-
+8f#J	.
+8gL	.
+8f#J	.
+4e}	-ne.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Maiden
+!!!role-listener: Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Tam pode Lwowem krzemienista droga,
+!!i przy téj drodze dwa różowe kwiaty,
+!!oba były czerwone.
+!!@VERSE:
+!!2. Tam to Anula w okienku stojała,
+!!swego jegomości po głosie poznała:
+!!o dla Boga! pan jedzie.
+!!@VERSE:
+!!3. A zaścielajcie obrusami progi,
+!!żeby se nie zwalał jegomość ostrogi,
+!!może pana (igomości) gniew minie.
+!!@VERSE:
+!!4. A nie minie Anuleńku, nie minie,
+!!musi twoja główka na mieczyku zginie,
+!!Hanuleńku niewierna.
+!!@VERSE:
+!!5. Podajcie mi ponsowe trzewiczki,
+!!pójdę ja se z konewką do rzéczki,
+!!może pana (igomości) gniéw minie.
+!!@VERSE:
+!!6. A nie minie i t. d.
+!!@VERSE:
+!!7. Podajcież mi te żelazne klucze,
+!!pójdę ja se żyteńka wyrzucę,
+!!może pana (igomości) gniéw minie.
+!!@VERSE:
+!!8. A nie minie i t. d.
+!!@VERSE:
+!!9. Podajcież mi tę butelkę wina,
+!!będę ja se z igomością piła,
+!!może pana (igomości) gniéw minie.
+!!@VERSE:
+!!10. A nie minie i t. d.
+!!@VERSE:
+!!11. Podajcież mi te białe papiery,
+!!niechże se napiszę liścik do rodziny,
+!!może pana (igomości) gniéw minie.
+!!@VERSE:
+!!12. Jeszcze Hanula listu nie pisała,
+!!już jeji główeńka na marach leżała,
+!!Hanuleńku niewierna! —
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=316 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 296} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 296}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

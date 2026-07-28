@@ -3,62 +3,104 @@
 !!!source: DWOK16
 !!!id: 16478b
 !!!signature: 1647800002
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{8g
-8a
-8b
-8g
-=2
-4cc
-8dd
-8b
-=3
-2cc
-=4
-8b
-8cc
-8dd
-8b
-=5
-4cc
-8a
-8b
-=6
-2g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+=1	=1
+{8g	Zaszumiała
+8a	.
+8b/	.
+8g	.
+=2	=2
+4cc	dą-
+8ddL	-bro-
+8bJ/	.
+=3	=3
+2cc;	-wa,
+=4	=4
+8b	zaszumiała
+8cc	.
+8dd	.
+8b	.
+=5	=5
+4cc	zielo-
+8aL	.
+8bJ	.
+=6	=6
+2g;}	-na,
 !!LO:LB:g=esac
-=7
-{4cc
-8b
-8dd
-=8
-4cc
-4g
-=9
-8a
-8b
-8cc
-8a
-=10
-4g
-4e
-=11
-8g
-8a
-8b
-8g
-=12
-4cc
-4a
-=13
-2g}
-==
-*-
+=7	=7
+{4cc	tam
+8b	gdzie
+8dd	cho-
+=8	=8
+4cc	-dziła
+4g	.
+=9	=9
+8a\	śliczna
+8b	.
+8cc	Krako-
+8a	.
+=10	=10
+4g	-wia-
+4e	-na,
+=11	=11
+8g	a
+8a	król
+8b/	o
+8g	niéj
+=12	=12
+4cc	nie
+4a	wie-
+=13	=13
+2g;}	-dział.
+==	==
+*-	*-
+!!!role-singer: Narrator, King, Maiden, Executioner
+!!!role-listener: Maiden, King, Executioner
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Zaszumiała dąbrowa,
+!!zaszumiała zielona,
+!!tam gdzie chodziła śliczna Krakowiana,
+!!a król o nij nie wiedział.
+!!@VERSE:
+!!2. Król się o nij dowiedział,
+!!sześćma końmi przyjechał:
+!!— Oj pojmij, pojmij, śliczna Krakowiano,
+!!jako króla samego.
+!!@VERSE:
+!!3. — A ja biedna sierota
+!!niémam śrybła ni złota;
+!!oj pojmij, pojmij, królu sobie równę,
+!!najjaśniejszą królównę.
+!!@VERSE:
+!!4. Król się o to rozgniéwał,
+!!i do kata list pisał:
+!!Oj zetnij, zetnij, Krakowianie szyję,
+!!ona królem wzgardziła.
+!!@VERSE:
+!!5. Kat się o tém dowiedział,
+!!Krakowianie powiedział:
+!!Oj pojmij, pojmij śliczna Krakowiano,
+!!jako kata samego.
+!!@VERSE:
+!!6. — Nie chciałam być królową,
+!!i nie chcę być katową,
+!!o zetnij, zetnij, moją białą szyję,
+!!bo już mnie to nie minie.
+!!@VERSE:
+!!7. Kat mieczykiem wywija,
+!!aniołowie śpiewają:
+!!Oj nie lękaj się, śliczna Krakowiano,
+!!już do nieba wstępujesz!
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=313 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 293} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 293}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25
