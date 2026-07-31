@@ -3,61 +3,75 @@
 !!!source: DWOK41
 !!!id: 41164
 !!!signature: 4116400002
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16a
-16b
-8cc
-8dd
-=2
-16ee
-16ee
-16dd
-16cc
-8b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{16a	Za-
+16b	-sia-
+8cc	-łem
+8dd	ja
+=2	=2
+16ee	czté-
+16ee	-ry
+16ddL	mor-
+16ccJ	.
+8b}	-gi
 !!LO:LB:g=esac
-=
-{24dd
-24cc
-24b
-8a
-16b
-16a
-=3
-8g#
-4e}
+=3	=3
+{24dd/L	ką-
+24cc/	.
+24b/J	-ko-
+8a	-lu
+16b/L	na
+16aJ	.
+=4	=4
+8g#	po-
+4e}	-lu,
 !!LO:LB:g=esac
-=4
-{16a
-16b
-8cc
-8dd
-=
-8.ee
-16dd
-24cc
-24b
-24a}
+=5	=5
+{16a	a
+16b	któż
+8cc	mi
+8dd	go
+=6	=6
+8.eeL	wy-
+16ddJ	.
+24cc/L	-pie-
+24b/	.
+24aJ}	-le,
 !!LO:LB:g=esac
-=5
-{16cc
-16cc
-16cc
-16b
-8a
-=
-24b
-24a
-24g#
-4a}
-==
-*-
+=7	=7
+{16cc	ko-
+16cc	-mor-
+8cc	-ni-
+8a	-ków
+=8	=8
+24b/L	nie-
+24a	.
+24g#J	-wie-
+4a}	-le.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Zasiałem ja cztéry morgi
+!!kąkolu na polu,
+!!a któż mi go wypiele,
+!!komorników niewiele.
+!!@VERSE:
+!!2. A któż mi go będzie plił.
+!!kiej mi Pan Bóg żonkę wziął;
+!!a ja sama wypielę,
+!!z Jasieńka się naśmieję.
+!!@@END: VERSES
+!!!role-singer: Many characters 
+!!!singer-sex: Male, Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=189 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 110} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 110}
 !!!page: 110
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-30

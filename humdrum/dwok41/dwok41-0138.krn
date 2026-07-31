@@ -3,76 +3,103 @@
 !!!source: DWOK41
 !!!id: 41138
 !!!signature: 4113800000
-**kern
-*clefG2
-*k[b-e-]
-*g:
-=1
-*M3/4
-{4dd
-4b-
-4cc
-=2
-4.dd
-8cc
-8b-
-8a
-=3
-8g
-8b-
-4a
-4b-
-=4
-2.g}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*g:	*
+=1	=1
+*M3/4	*
+{4dd	Ach,
+4b-	ach,
+4cc	la-
+=2	=2
+(4.dd	-bo-
+8cc)	.
+8b-/L	-ga,
+8aJ	.
+=3	=3
+8g	cóż
+8b-	za
+4a	nie-
+4b-	-łas-
+=4	=4
+2.g}	-ka,
 !!LO:LB:g=esac
-=5
-{4dd
-4b-
-4cc
-=6
-4.dd
-8cc
-8b-
-8a
-=7
-8g
-8b-
-4a
-4b-
-=8
-2.g}
+=5	=5
+{4dd	wy-
+4b-	-bi-
+4cc	-ła,
+=6	=6
+(4.dd	mę-
+8cc)	.
+8b-/L	-ża
+8aJ	.
+=7	=7
+8g	pa-
+8b-	-ni
+4a	Pa-
+4b-	-włow-
+=8	=8
+2.g}	-ska;
 !!LO:LB:g=esac
-=9
-*M2/4
-{8d
-8d
-4g
-=10
-8f#
-8g
-4a}
+=9	=9
+*M2/4	*
+{8d	wy-
+8d	-bi-
+4g	-ła,
+=10	=10
+8f#	wy-
+8g	-pra-
+4a}	-ła,
 !!LO:LB:g=esac
-=11
-{8a
-8a
-4cc
-=12
-8b-
-8cc
-4dd}
+=11	=11
+{8a	do
+8a	drzwi
+4cc	go
+=12	=12
+8b-	wy-
+8cc	-pcha-
+4dd}	-ła,
 !!LO:LB:g=esac
-=13
-{8b-
-8a
-4b-
-=14
-8g
-8f#
-4g}
-==
-*-
+=13	=13
+{8b-	o-
+8a	-we-
+4b-	-go
+=14	=14
+8g	sta-
+8f#	-re-
+4g}	-go.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Ach, ach, laboga, cóż za niełaska,
+!!wybiła, męża pani Pawłowska;
+!!wybiła, wyprała, do drzwi go
+!!wypchała, owego starego.
+!!@VERSE:
+!!2. Widzi Pawłowski, że to nie żarty,
+!!gorsze to żony niżeli czarty;
+!!ugiął się do pasa,
+!!gic, gic, gic do lasa
+!!od żony, od żony.
+!!@VERSE:
+!!3. Ach, ach, laboga, com uczyniła.
+!!com swoje serce w las ustraszyła;
+!!powinnam szanować
+!!i w dupę całować
+!!owego starego.
+!!@VERSE:
+!!4. Ach, ach, laboga, wróć się, Pawłoski,
+!!a boś zabaczył w domu swej laski;
+!!a jak się powrocił,
+!!wniwecz ją obrocił
+!!tą laską.
+!!@@END: VERSES
+!!!role-singer: Narrator, Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=176 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 97} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 97}
 !!!page: 97
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-27

@@ -1,64 +1,77 @@
-!!!!SEGMENT: DWOK4112900002-a_wyjrzyj_tam_poleczko.krn
-!!!OTL: A wyjrzyj tam poleczko
+!!!!SEGMENT: DWOK4112900002-a_wyjrzyj_tam_na_poleczko.krn
+!!!OTL: A wyjrzyj tam na poleczko
 !!!source: DWOK41
 !!!id: 41129
 !!!signature: 4112900002
-**kern
-*clefG2
-*k[b-e-]
-*g:
-*M3/8
-=1
-{16b-
-16dd
-16ff
-16ee
-8dd
-=2
-16cc#
-16ee
-8dd
-8a}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*g:	*
+*M3/8	*
+=1	=1
+{16b-	A
+16dd	wyj-
+16ff/L	-rzyj
+16ee/J	.
+8dd	tam
+=2	=2
+16cc#	na
+16ee	po-
+8dd	-lecz-
+8a}	-ko,
 !!LO:LB:g=esac
-=3
-{16b-
-16dd
-16ff
-16ee
-8dd
-=4
-16cc#
-16a
-8g
-8b-}
+=3	=3
+{16b-	a
+16dd	jak
+16ff/L	wil-
+16ee/J	.
+8dd	-czek
+=4	=4
+16cc#	gąs-
+16a	-ki
+8g	go-
+8b-}	-ni;
 !!LO:LB:g=esac
-=5
-{16a
-16a
-8a
-8b-
-=6
-16cc
-16ee-
-8dd
-16ee-
-16cc}
+=5	=5
+{16a	i
+16a	ja
+8a	téż
+8b-	tak
+=6	=6
+16cc	pan-
+16ee-	-ny
+8dd	ga-
+16ee-L	-niał,
+16ccJ}	.
 !!LO:LB:g=esac
-=7
-{16a
-16a
-8a
-8cc
-=8
-16b-
-16a
-8g
-16b-
-16g}
-==
-*-
+=7	=7
+{16a	da,
+16a	ja-
+8a	-kem
+8cc	ja
+=8	=8
+16b-	żo-
+16a	-ny
+8g	nié
+16b-/L	miał.
+16gJ}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A wyjrzyj tam na poleczko,
+!!a jak wilczek gąski goni;
+!!i ja też tak panny ganiał,
+!!da, jakem ja żony nié miał.
+!!@VERSE:
+!!2.A jakem ja żonę dostał.
+!!gonićem pannów zaprzestał.
+!!@@END: VERSES
+!!!role-singer: Husband
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=170 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 91} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 91}
 !!!page: 91
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-25

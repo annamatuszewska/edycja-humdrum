@@ -3,63 +3,99 @@
 !!!source: DWOK41
 !!!id: 41134
 !!!signature: 4113400001
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16g
-16b
-8cc
-16dd
-16b
-=2
-4.cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16g	Był
+16b	téż
+8cc	to
+16ddL	tu
+16bJ	.
+=2	=2
+4.cc}	pan,
 !!LO:LB:g=esac
-=3
-{16cc
-16ee
-8ff
-8dd
-=4
-4.cc}
+=3	=3
+{16cc	co
+16ee	ja
+8ff	go
+8dd	nie
+=4	=4
+4.cc}	znam;
 !!LO:LB:g=esac
-=5
-{16ee
-16ee
-8ff
-16dd
-16b
-=6
-16g
-16b
-8cc
-8dd}
+=5	=5
+{16ee	jé-
+16ee	-nom
+8ff	o
+16ddL	nim
+16bJ	.
+=6	=6
+16g	raz
+16b	sły-
+8cc	-cha-
+8dd}	-ła,
 !!LO:LB:g=esac
-=7
-{16ee
-16ee
-8ff
-16dd
-16b
-=8
-16g
-16b
-8cc
-8dd}
+=7	=7
+{16ee	bę-
+16ee	-dę
+8ff	o
+16ddL	nim
+16bJ	.
+=8	=8
+16g	pieśń
+16b	śpie-
+8cc	-wa-
+8dd}	-ła,
 !!LO:LB:g=esac
-=9
-{16ee
-16gg
-8ff
-8dd
-=10
-4.cc}
-==
-*-
+=9	=9
+{16ee	ja-
+16gg	-kem
+8ff	sły-
+8dd	-cha-
+=10	=10
+4.cc}	-ła.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Był téż to tu pan,
+!!co ja go nie znam;
+!!jénom o nim raz słychała,
+!!będę o nim pieśń śpiewała,
+!!jakem słychała.
+!!@VERSE:
+!!2. Przyszła do niego
+!!najmilsza jego;
+!!i za łeb go uchwyciła,
+!!i o ziemię uderzyła,
+!!i kijem biła.
+!!@VERSE:
+!!3. Pojadę ja preca,
+!!nagotuj tu jeść;
+!!a jak nie będzie gotowo,
+!!nie będzie ci bardzo zdrowo,
+!!to kijem weźmiesz.
+!!@VERSE:
+!!4. Nieboraczek mąż
+!!nagotował już;
+!!żona z gośćmi przyjechała,
+!!wszystko gotowo zastała,
+!!jak rozkazała.
+!!@VERSE:
+!!5. Napatrzta sie panny,
+!!napatrzta, mężatki,
+!!jak ja chłopa wybukała
+!!i kijem go wyłatała,
+!!aż teraz gładki.
+!!@@END: VERSES
+!!!role-singer: Narrator, Woman
+!!!role-listener: Wifes 
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=173 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 94} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 94}
 !!!page: 94
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-26

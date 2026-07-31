@@ -3,59 +3,73 @@
 !!!source: DWOK41
 !!!id: 41158
 !!!signature: 4115800002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16b
-8dd
-8cc#
-=2
-4.dd
-=3
-16g
-16b
-8dd
-8cc#
-=4
-4.dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Ma-
+16b	-zur
+8dd	ci,
+8cc#	Ma-
+=2	=2
+(<4.dd	-zur,
+8bq)	.
+=3	=3
+16g	bar-
+16b	-dzo
+8dd	bo-
+8cc#	-ga-
+=4	=4
+(<4.dd	-ty,
+8bq)}	.
 !!LO:LB:g=esac
-=5
-{16g
-16b
-8.dd
-16cc
-=6
-16a
-16b
-8g
-8d}
+=5	=5
+{16g	ko-
+16b	-su-
+8.dd	-li-
+16cc	-na
+=6	=6
+16a	dry-
+16b	-li-
+8g	-cho-
+8d}	-wa,
 !!LO:LB:g=esac
-=7
-{16g
-16b
-8.dd
-16cc
-=8
-16a
-16b
-8g
-8d}
+=7	=7
+{16g	a-
+16b	-le
+8.dd	jak-
+16cc	-by
+=8	=8
+16a	muś-
+16b	-li-
+8g	-no-
+8d}	-wa,
 !!LO:LB:g=esac
-=9
-{16f#
-16a
-8cc
-8b
-=10
-4.g}
-==
-*-
+=9	=9
+{16f#	cie-
+16aL	-niuś-
+8cc/J	-ko
+8b	sy-
+=10	=10
+4.g}	-ta.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Mazur ci, Mazur,
+!!bardzo bogaty,
+!!kosulina drylichowa,
+!!ale jakby muślinowa,
+!!cieniuśko syta.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!singer-sex: Male
+!!!RDF**kern: <= below
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=186 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 107-108} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 107-108}
 !!!page: 107-108
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-29

@@ -3,99 +3,113 @@
 !!!source: DWOK41
 !!!id: 41148
 !!!signature: 4114800001
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16cc
-16ee
-8ee
-8cc
-=2
-8.ff
-16cc
-16a
-16f
-=3
-16g
-16b-
-8a
-8g
-=4
-16f
-16f
-8a
-8cc}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Złodziejska	!
+{16cc	Karcz-
+16ee	-ma-
+8ee	-re-
+8cc	-czko
+=2	=2
+(8.ff	mo-
+16cc)	-ja,
+16aL	nie
+16fJ	.
+=3	=3
+16g	za-
+16b-	-ba-
+8a	-czaj-
+8g	-że
+=4	=4
+16f	ty
+16f	o
+8a	mnie,
+8cc}	.
 !!LO:LB:g=esac
-=5
-{16cc
-16ee
-8ee
-8cc
-=6
-8.ff
-16cc
-16a
-16f
-=7
-16g
-16b-
-8a
-8g
-=8
-16f
-16f
-8a
-8f}
+=5	=5
+{16cc	karcz-
+16ee	-ma-
+8ee	-re-
+8cc	-czko
+=6	=6
+(8.ff	mo-
+16cc)	.
+16aL	-ja,
+16fJ	.
+=7	=7
+16g	nie
+16b-	za-
+8a	-ba-
+8g	-czaj-
+=8	=8
+16f	-że
+16f	ty
+8a	o
+8f}	mnie,
 !!LO:LB:g=esac
-=9
-{16a
-16cc
-8cc
-8a
-=10
-16g
-16b-
-8b-
-8g
-=11
-16g
-16b-
-8a
-8g
-=12
-16f
-16f
-8a
-8cc}
+=9	=9
+{16a	ja
+16cc	bę-
+8cc	-de
+8a	pił
+=10	=10
+16g	i
+16b-	tań-
+8b-	-co-
+8g	-wał
+=11	=11
+16g	z_tą
+16b-	dziew-
+8a	-czy-
+8g	-ną
+=12	=12
+16f	do
+16f	dnia,
+8a	do
+8cc}	dnia,
 !!LO:LB:g=esac
-=13
-{16a
-16cc
-8cc
-8a
-=14
-16g
-16b-
-8b-
-8g
-=15
-16g
-16b-
-8b-
-8g
-=16
-16f
-16f
-8a
-8f}
-==
-*-
+=13	=13
+{16a	ja
+16cc	bę-
+8cc	-de
+8a	pił
+=14	=14
+16g	i
+16b-	tań-
+8b-	-co-
+8g	-wał
+=15	=15
+16g	z_tą
+16b-	dziew-
+8a	-czy-
+8g	-ną
+=16	=16
+16f	do
+16f	dnia,
+8a	do
+8f}	dnia.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Karczmareczko moja,
+!!nie zabaczajże ty o mnie,
+!!karczmareczko moja,
+!!nie zabaczajże ty o mnie,
+!!|:ja będe pił i tańcował
+!!z tą dziewczyną do dnia, do dnia:|.
+!!@@END: VERSES
+!!!role-singer: Narrator 
+!!!role-listener: Alewife
+!!!singer-sex: Male
 !!!ONB: Złodziejska
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=181 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 102} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 102}
 !!!page: 102
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-29

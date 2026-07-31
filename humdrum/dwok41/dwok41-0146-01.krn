@@ -3,65 +3,74 @@
 !!!source: DWOK41
 !!!id: 41146
 !!!signature: 4114600001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16a
-16cc
-8ee
-16ff#
-16dd
-=2
-16cc
-16ee
-8b
-8dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16a	O-
+16cc	-ber-
+8ee	-ta-
+16ff#L	-sik,
+16ddJ	.
+=2	=2
+16cc	o-
+16ee	-ber-
+8b	-ta-
+8dd}	-sik,
 !!LO:LB:g=esac
-=3
-{16a
-16cc
-8ee
-16ff#
-16dd
-=4
-16cc
-16ee
-8b
-16g
-16f#}
+=3	=3
+{16a	sprze-
+16cc	-dał
+8ee	port-
+16ff#L	-ki,
+16ddJ	.
+=4	=4
+16cc	ku-
+16ee	-pił
+8b	pa-
+16gL	-sik;
+16f#J}	.
 !!LO:LB:g=esac
-=5
-{16d
-16f#
-8g
-16g
-16d
-=6
-16cc#
-16dd
-8cc
-16a
-16f#}
+=5	=5
+{16d	a-
+16f#	-ni
+8g	por-
+16gL	-tek,
+16dJ	.
+=6	=6
+16cc#	a-
+16dd	-ni
+8cc	pa-
+16aL	-sa,
+16f#J}	.
 !!LO:LB:g=esac
-=7
-{16d
-16f#
-8g
-16g
-16d
-=8
-16b
-16d
-8a
-16a
-16f#}
-==
-*-
+=7	=7
+{16d	bierz-
+16f#	-ta
+8g	dia-
+16gL	-bli
+16dJ	.
+=8	=8
+16b	o-
+16d	-ber-
+8a	-ta-
+16aL	-sa.
+16f#J}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Obertasik, obertasik,
+!!sprzedał portki, kupił pasik;
+!!ani portek, ani pasa,
+!!bierzta diabli obertasa.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=181 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 102} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 102}
 !!!page: 102
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-29

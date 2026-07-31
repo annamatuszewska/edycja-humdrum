@@ -3,59 +3,69 @@
 !!!source: DWOK41
 !!!id: 41136
 !!!signature: 4113600002
-**kern
-*clefG2
-*k[f#]
-*e:
-*M3/8
-=1
-{16g
-16e
-8g
-8b
-=2
-8dd
-8ee
-16cc
-16a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*e:	*
+*M3/8	*
+=1	=1
+{16g	Za
+16e	dwo-
+8g	-ra-
+8b	-ka,
+=2	=2
+8dd	za
+8ee	hul-
+16cc	-ta-
+16a\}	-ja,
 !!LO:LB:g=esac
-=3
-{16g
-16e
-8g
-8b
-=4
-8dd
-8ee
-16cc
-16a}
+=3	=3
+{16g	ma-
+16e	-tu-
+8g	-la
+8b	mię,
+=4	=4
+8dd	cór-
+8ee	-kę,
+16cc	da-
+16a\}	-ła.
 !!LO:LB:g=esac
-=5
-{16g
-16e
-8g
-8b
-=
-8f#
-8a
-24cc
-24b
-24a}
+=5	=5
+{16g	Dwo-
+16e	-ra-
+8g	-czys-
+8b	-ko,
+=6	=6
+8f#	pi-
+8a	-ja-
+24ccL	-czy-
+24bJ	.
+24a}\	-sko,
 !!LO:LB:g=esac
-=6
-{16g
-16e
-8g
-8b
-=7
-8f#
-8a
-16g
-16e}
-==
-*-
+=7	=7
+{16g	da,
+16e	i
+8g	wiecz-
+8b	-ne
+=8	=8
+8f#	hul-
+8a	-ta-
+16g	-ji-
+16e}	-sko.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Za dworaka, za hultaja,
+!!matula mię, córkę, dała.
+!!Dworaczysko, pijaczysko,
+!!da, i wieczne hultajisko.
+!!@@END: VERSES
+!!!role-singer: Daughter
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=175 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 96} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 96}
 !!!page: 96
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-26

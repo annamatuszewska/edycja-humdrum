@@ -3,40 +3,65 @@
 !!!source: DWOK41
 !!!id: 41142
 !!!signature: 4114200001
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M6/8
-=1
-{8d
-8f#
-8a
-4dd
-8b
-=2
-8g
-8e
-8e
-4g
-8e}
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M6/8	*
+=1	=1
+{8d	Ja
+8f#	sa-
+8a	-ma
+4dd	nie
+8b	wiem,
+=2	=2
+8g	co
+8e	za
+8e	na-
+4g	-tu-
+8e}	-ra,
 !!LO:LB:g=esac
-=3
-{8d
-8f#
-8a
-4dd
-8ff#
-=4
-8ee
-8ee
-8cc#
-4dd
-8dd}
-==
-*-
+=3	=3
+{8d	nié
+8f#	mam
+8a	o-
+4dd	-cho-
+8ff#	-ty
+=4	=4
+8ee	bie-
+8ee	-żéć
+8cc#	za
+4dd	gbu-
+8dd}	-ra.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Ja sama nie wiem, co za natura,
+!!nié mam ochoty bieżéć za gbura.
+!!@VERSE:
+!!2. Kiedy żołniérze staną w paradzie,
+!!to tak zakwitną jak macek w sadzie.
+!!@VERSE:
+!!3. Kiedy żołniérze tam, sam wędrują,
+!!to im się panny i przypatrują.
+!!@VERSE:
+!!4. Boć to żołnierze wielkie figlarze,
+!!pewnie im tego nikt nie zakaże.
+!!@VERSE:
+!!5. Panny stąd, zowąd, zostaną w grzéchu,
+!!żołniérz pojedzie, narobi śmiechu.
+!!@VERSE:
+!!6. Coście zrobili, coście zaspali;
+!!on już pojechał, wyście zostali.
+!!@VERSE:
+!!7. On już pojechał, on nie przyjedzie,
+!!wy tera same siedzieć będziecie.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=178 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 99} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 99}
 !!!page: 99
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-27

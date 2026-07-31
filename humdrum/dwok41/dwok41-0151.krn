@@ -3,92 +3,159 @@
 !!!source: DWOK41
 !!!id: 41151
 !!!signature: 4115100000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16g
-8b
-8b
-=2
-8dd
-4dd
-=3
-16gg
-16ff#
-8dd
-8ff#
-=4
-8gg
-4gg}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	U-
+16g	-mar
+8b	Ma-
+8b	-ciek,
+=2	=2
+8dd	u-
+4dd	-mar
+=3	=3
+16gg	i
+16ff#	le-
+8dd	-ży
+8ff#	na
+=4	=4
+8gg	des-
+4gg}	-ce,
 !!LO:LB:g=esac
-=5
-{16g
-16g
-8b
-8b
-=6
-8dd
-4dd
-=7
-16gg
-16ff#
-8dd
-8ff#
-=8
-8gg
-4gg}
+=5	=5
+{16g	a
+16g	kie-
+8b	-by
+8b	mógł
+=6	=6
+8dd	o-
+4dd	-żyć,
+=7	=7
+16gg	pi-
+16ff#	-jał-
+8dd	-by
+8ff#	ón
+=8	=8
+8gg	jes-
+4gg}	-ce.
 !!LO:LB:g=esac
-=9
-{8gg
-8gg
-8gg
-=10
-16ee
-16ee
-8b
-8cc}
+=9	=9
+{8gg	Oj,
+8gg	do-
+8gg	-brze
+=10	=10
+16ee	z_Mać-
+16ee	-kiem
+8b	by-
+8cc}	-ło,
 !!LO:LB:g=esac
-=11
-{4dd
-16a
-16cc
-=12
-16b
-16dd
-8gg
-8ff#}
+=11	=11
+{4dd	bo
+16a\L	nam
+16ccJ	.
+=12	=12
+16b	ku-
+16dd	-pał
+8gg	pi-
+8ff#}	-wo,
 !!LO:LB:g=esac
-=13
-{4dd
-16a
-16cc
-=14
-16b
-16dd
-8gg
-8ff#}
+=13	=13
+{4dd	bo
+16a\L	nam
+16ccJ	.
+=14	=14
+16b	ku-
+16dd	-pał
+8gg	pi-
+8ff#}	-wo,
 !!LO:LB:g=esac
-=15
-{4dd
-16a
-16cc
-=16
-16b
-16dd
-8a
-16cc
-16b
-=17
-4g}
-8r
-==
-*-
+=15	=15
+{4dd	da-
+16a\L	-na,
+16ccJ	.
+=16	=16
+16b	mo-
+16dd	-ja
+8a	da-
+16ccL	-na,
+16bJ	.
+=17	=17
+4g}	toć.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Umar Maciek, umar
+!!i leży na desce,
+!!a kieby mógł ożyć,
+!!pijałby ón jesce.
+!!Oj, dobrze z Maćkiem było,
+!!|:bo nam kupał piwo:|,
+!!dana, moja dana, toć.
+!!@VERSE:
+!!2. Umar Maciek, umar,
+!!dziwki go żałują.
+!!kupiły garść masła
+!!i pysk mu smarują.
+!!Oj, dobrze z Maćkiem było,
+!!|: bo nam kupał piwo:|,
+!![dana, moja dana, toć].
+!!@VERSE:
+!!3. Idzie Maciek drogą.
+!!pałeczka za pasem,
+!!śpiewa sobie dana,
+!!śpiewa sobie czasem.
+!!Oj, dobrze z Maćkiem było,
+!!|:bo nam kupał piwo:|,
+!![dana, moja dana, toć].
+!!@VERSE:
+!!4. Idzie Maciek, idzie,
+!!kozica za pasem,
+!!żałowały dziéwki
+!!nieraz jednym czasem.
+!!Oj, dobrze z Maćkiem było,
+!!|:bo nam kupał piwo:|.
+!![dana, moja dana, toć].
+!!@VERSE:
+!!5. Ześli się do niego
+!!i kumeski jego,
+!!ni ma Maćka, ni ma,
+!!nie będzie bez niego.
+!!Oj, płaczą, lamentują,
+!!|: oj, rączki załamują:|,
+!![dana, moja dana, toć].
+!!@VERSE:
+!!6. Idzie Maciek, idzie,
+!!środkiem bez pszenicę,
+!!a karczmarka za nim
+!!bez całą granicę1.
+!!Oj, dobrzeć z Maćkiem było,
+!!|: boć nam kupał piwo:|,
+!![dana, moja dana, toć].
+!!@VERSE:
+!!7. Umarł Maciek, umar
+!!i już go prowadzą,
+!!jeszcze karczmareczki
+!!coś o nim tam radzą.
+!!Już nie będą oszukiwać,
+!!po półgarcówkach doléwać.
+!!Pójdźwa, panu podziękujwa,
+!!już tu więcy nie szynkujwa.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: (1) lub: Idzie Maciek, idzie
+!!idzie ku granicy,
+!!karczmareczka za nim
+!!przez środek pszenicy.
+!!@@END:
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=183 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 104} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 104}
 !!!page: 104
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-29

@@ -3,67 +3,97 @@
 !!!source: DWOK41
 !!!id: 41140
 !!!signature: 4114000001
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16f
-16a
-8cc
-8cc
-=2
-4dd
-8b-
-=3
-8cc
-8a}
-8r
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16f	A
+16a	kto
+8cc	chce
+8cc	roz-
+=2	=2
+4dd	-ko-
+8b-	-szy
+=3	=3
+8cc	u-
+8a}	-żyć,
+8r	.
 !!LO:LB:g=esac
-=4
-{16f
-16a
-8cc
-8cc
-=5
-4dd
-8b-
-=6
-8cc
-8a}
-8r
+=4	=4
+{16f	niech
+16a	i-
+8cc	-dzie
+8cc	do
+=5	=5
+4dd	woj-
+8b-	-ska
+=6	=6
+8cc	słu-
+8a}	-żyć.
+8r	Tam
 !!LO:LB:g=esac
-=7
-{16cc
-16b-
-8.g
-16a
-=8
-16b-
-16g
-8a
-8b-}
+=7	=7
+{16cc	Tam
+16b-	ci
+8.g	roz-
+16a	-ko-
+=8	=8
+16b-	-szy
+16g	u-
+8a	-ży-
+8b-}	-je
 !!LO:LB:g=esac
-=9
-{16cc
-16b-
-8.g
-16a
-=10
-16b-
-16dd
-8a
-8b-}
+=9	=9
+{16cc	i
+16b-	na-
+8.g	-je
+16a	się,
+=10	=10
+16b-	i
+16dd	na-
+8a	-pi-
+8b-}	-je
 !!LO:LB:g=esac
-=11
-{16cc
-16e
-4f}
-==
-*-
+=11	=11
+{16cc	łez
+16e	swo-
+4f}	-ich.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A kto chce rozkoszy użyć,
+!!niech idzie do wojska służyć.
+!!Tam ci rozkoszy użyje
+!!i naje się, i napije łez swoich.
+!!@VERSE:
+!!2. Dadzą karabin ze skarbu,
+!!a ón jak żywy, nierad mu.
+!!Kiedy uczą maszerować,
+!!jeszcze lepij, niź tańcować
+!!przy kijach.
+!!@VERSE:
+!!3. Kiej kóń pod żołniérzem padnie
+!!lubo żołnierz z niego spadnie,
+!!koledzy go nie ratują,
+!!jeszcze bardziéj zatratują
+!!nędznego.
+!!@VERSE:
+!!4. Kiej do grobu poprowadzą
+!!i w bęben mu zakołacą,
+!!trzy patrole1 wystrzelają
+!!i kapela marsz zagrają
+!!na tamten to świat.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: (1) patrony
+!!@@END:
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=177 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 98} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 98}
 !!!page: 98
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-27

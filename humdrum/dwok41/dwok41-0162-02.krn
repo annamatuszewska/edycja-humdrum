@@ -1,65 +1,74 @@
-!!!!SEGMENT: DWOK4116200002-a_te_niemcy_za_gorami.krn
+!!!!SEGMENT: DWOK4116200001-a_te_niemcy_za_gorami.krn
 !!!OTL: A te Niemcy za górami
 !!!source: DWOK41
 !!!id: 41162
-!!!signature: 4116200002
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16g
-16b
-8dd
-8dd
-=2
-16ee
-16a
-8cc
-16cc
-16b}
+!!!signature: 4116200001
+**kern	**text
+*clefG2	*
+*k[]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16g	A
+16b	te
+8dd	Niem-
+8dd	-cy
+=2	=2
+16ee	za
+16a	gó-
+8cc	-ra-
+16ccL/	-mi
+16bJ/}	.
 !!LO:LB:g=esac
-=3
-{16dd
-16a
-8g
-8a
-=4
-16d
-16d
-8f
-16f
-16e}
+=3	=3
+{16dd	je-
+16a	-dli
+8g	su-
+8a	-kę
+=4	=4
+16d	z_pa-
+16d	-zu-
+8f	-ra-
+16f\L	-mi,
+16e\J}	.
 !!LO:LB:g=esac
-=5
-{16f
-16a
-8g
-16f
-16e
-=6
-16f
-16a
-8cc
-16cc
-16b}
+=5	=5
+{16f	jesz-
+16a	-cze
+8g	je-
+16fL	-dny
+16eJ	.
+=6	=6
+16f	nie
+16a	po-
+8cc	-żer-
+16ccL/	-li,
+16bJ/}	.
 !!LO:LB:g=esac
-=7
-{16dd
-16a
-8g
-8a
-=8
-16d
-16d
-8f
-16f
-16e}
-==
-*-
+=7	=7
+{16dd	już
+16a	ci
+8g	po
+8a	dru-
+=8	=8
+16d	-gą
+16d	po-
+8f	-der-
+16fL	-li.
+16eJ}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A te Niemcy za górami
+!!jedli sukę z pazurami,
+!!jeszcze jedny nie pożerli,
+!!już ci po drugą poderli.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=188 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 109} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 109}
 !!!page: 109
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-30

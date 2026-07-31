@@ -3,73 +3,83 @@
 !!!source: DWOK41
 !!!id: 41120
 !!!signature: 4112000001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16a
-8b
-8cc
-=2
-16dd
-16d
-8g
-8b
-=3
-16dd
-16d
-8g
-8b
-=4
-16.cc
-32dd
-8ee
-8ee
-=5
-4.dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Czté-
+16a	-ry
+8b	la-
+8cc	-ta
+=2	=2
+16dd	wier-
+16d\	-niem
+8g	słu-
+8b	-żył,
+=3	=3
+16dd	wier-
+16d\	-niem
+8g	słu-
+8b	-żył
+=4	=4
+16.cc	gos-
+32dd	-po-
+8ee	-da-
+8ee	-rzo-
+=5	=5
+4.dd}	-wi,
 !!LO:LB:g=esac
-=6
-{16cc
-16cc
-8dd
-8cc
-=7
-16b
-16gg
-8dd
-8dd
-=8
-16cc
-16cc
-8dd
-8cc
-=9
-4.b}
+=6	=6
+{16cc	sie-
+16cc	-czkę
+8dd	rze-
+8cc	-zał,
+=7	=7
+16b	nie
+16gg	wie-
+8dd	-ce-
+8dd	-rzał,
+=8	=8
+16cc	niech-
+16cc	-że
+8dd	sám
+8cc	po-
+=9	=9
+4.b}	-wié,
 !!LO:LB:g=esac
-=10
-{16cc
-16a
-8dd
-8cc
-=11
-16b
-16gg
-8dd
-8dd
-=12
-16cc
-16a
-8dd
-8f#
-=13
-4.g}
-==
-*-
+=10	=10
+{16cc	sie-
+16a	-czkę
+8dd	rze-
+8cc	-zał,
+=11	=11
+16b	nie
+16gg	wie-
+8dd	-ce-
+8dd	-rzał,
+=12	=12
+16cc	niech-
+16a	-że
+8dd	sám
+8f#	po-
+=13	=13
+4.g}	-wié.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Cztéry lata |:wierniem służył:|,
+!!gospodarzowi,
+!!|:sieczkę rzezał, nie wiecerzał,
+!!niechże sám powié:|.
+!!@@END: VERSES
+!!!role-singer: Worker
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=166 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 87} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 87}
 !!!page: 87
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-25
