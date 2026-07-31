@@ -3,50 +3,147 @@
 !!!source: DWOK17
 !!!id: 17017
 !!!signature: 1701700000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M2/4
-=1
-{8a
-8b-
-8cc
-8cc
-=2
-4cc
-8dd
-8cc
-=3
-8b-
-8dd
-8cc
-8b-
-=4
-4a
-8g
-8f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M2/4	*
+=1	=1
+{8a\	Sła
+8b-	dziewcyna
+8cc	.
+8cc	.
+=2	=2
+4cc	z_Torunia,
+8dd	.
+8cc	.
+=3	=3
+8b-	wysłuchała
+8dd	.
+8cc	.
+8b-	.
+=4	=4
+4a	ka-
+8g	-zania,
+8f}	.
 !!LO:LB:g=esac
-=5
-{4cc
-4a
-=6
-8b-
-8dd
-4cc
-=7
-8b-
-8dd
-8cc
-8b-
-=8
-4cc
-8g
-8f}
-==
-*-
+=5	=5
+{4cc	oj,
+4a	oj
+=6	=6
+8b-	oj
+8dd	joj
+4cc	joj
+=7	=7
+8b-	wysłuchała
+8dd	.
+8cc	.
+8b-	.
+=8	=8
+4cc	ka-
+8g	-zania.
+8f}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Maiden, Bachelor
+!!!role-listener: Bachelor, Maiden
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Sła dziewcyna z Torunia,
+!!wysłuchała kazania.
+!!@VERSE:
+!!2. Spotkał-ci ją młodzieniec
+!!i prosił ją o wieniec.
+!!@VERSE:
+!!3. — Alboś to ty młodzieniec?
+!!co się prosis o wieniec.—
+!!@VERSE:
+!!4. — Alboś to ty dziéwecka?
+!!trojga-ś dzieci matecka.
+!!@VERSE:
+!!5. Troje-ś dzieci juz miała,
+!!zadnemu chrztu nie dała.
+!!@VERSE:
+!!6. Troje-ś dzieci zabiła,
+!!na ćwarte sie zgroziła.
+!!@VERSE:
+!!7. Jedno lezy pod progiem,
+!!przykryłaś go barłogiem.
+!!@VERSE:
+!!8. Drugie lezy pod sosną,
+!!przykryłaś go gałązką.
+!!@VERSE:
+!!9. Trzecie pływa wo wodzie,
+!!o swéj dusy ochłodzie. —
+!!@VERSE:
+!!10. I wziąn-ci ją i niesie,
+!!a po boru, po lesie.
+!!@VERSE:
+!!11. Bory, lasy sumiały,
+!!chojaki się łomały,
+!!bo się Kasi bojały.
+!!@VERSE:
+!!12. Nie nieście-z mnie po boru,
+!!nie zadajcie-z ciężaru.
+!!@VERSE:
+!!13. Nieście mnie po dolinie,
+!!to mi cięzki zal minie.
+!!@VERSE:
+!!14. Przyniós-ci ją do piekła:
+!!Otwórzcie mi hej! bracia.
+!!@VERSE:
+!!15. Niosę ciało, dusę w niém,
+!!a tu sobie odpocniem.
+!!@VERSE:
+!!16. — Co to ciało rabiało,
+!!ze się do nas dostało?
+!!@VERSE:
+!!17. Co ta dusa cyniła,
+!!co przy tém ciele była?
+!!@VERSE:
+!!18. — Troje dziatek straciła,
+!!i o cwartem myśliła.
+!!@VERSE:
+!!19. I myśliła o cwartem
+!!i spotkała się z cartem. —
+!!@VERSE:
+!!20. Posadził ją na stolcu,
+!!dał jéj smoły w bębeńcu.
+!!(lub Posadził ją w krzesełku,
+!!dał jéj smoły w kociołku).
+!!@VERSE:
+!!21. Wysłała swoje dziatki
+!!z pod zielonéj murawki.
+!!@VERSE:
+!!22. Z pod zielonej murawki,
+!!i znać dała do matki,—
+!!@VERSE:
+!!23. zeby na mszą nie dała:
+!!bo-m się w piekło dostała!
+!!@VERSE:
+!!24. Mas-ci ich tam jesce dwie,
+!!karz je lepij niźli mnie.
+!!@VERSE:
+!!25. Boś ty mnie źle karała,
+!!do karcmy-ś mi kazała.
+!!@VERSE:
+!!26. Jesce-ś za mną wyjźrała,
+!!cym sie pieknie ubrała.
+!!@VERSE:
+!!27. — Z karcmy to ja niescesna
+!!do piekła-m się dostała.
+!!@VERSE:
+!!28. Karcmarka mnie uwiedła,
+!!ja na wieki przepadła.
+!!(lub. Ja do karcmy chodziła
+!!i chłopięta-m zwodziła,
+!!j-az-em się sama zwiędła).
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=31 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 9} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 9}
 !!!page: 9
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-30

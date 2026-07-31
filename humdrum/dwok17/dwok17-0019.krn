@@ -3,70 +3,122 @@
 !!!source: DWOK17
 !!!id: 17019
 !!!signature: 1701900000
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/8
-=1
-{8e
-8.e
-16e
-=2
-16g#
-16b
-4a
-=3
-16b
-16dd
-8cc#
-8b
-=4
-8b
-4a}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M3/8	*
+=1	=1
+{8e	Polska
+8.e	.
+16e	ko-
+=2	=2
+16g#L	-ro-
+16bJ	.
+4a	-no
+=3	=3
+16b	co
+16dd	słychać
+8cc	.
+8b	o
+=4	=4
+8b	to-
+4a}	-bie,
 !!LO:LB:g=esac
-=5
-{16cc#
-16b
-8a
-8a
-=6
-16g#
-16f#
-8.f#
-16f#
-=7
-16e
-16a
-8g#
-8b
-=8
-8a
-8.cc#
-16dd}
+=5	=5
+{16ccL	drogie
+16bJ	.
+8a	.
+8a	klej-
+=6	=6
+16gL	-no-
+16fJ	.
+(8.f	-ty
+16f))	.
+=7	=7
+16e	u-
+16a	-tra-
+8g#	-ci-
+8b	-łaś
+=8	=8
+8a	so-
+8.cc#L	-bie,
+16ddJ/}	.
 !!LO:LB:g=esac
-=9
-{16cc#
-16b
-8a
-8a
-=10
-16g#
-16f#
-8.f#
-16f#
-=11
-16e
-16a
-8g#
-8b
-=12
-8a
-4e}
-==
-*-
+=9	=9
+{16cc#L	drogie
+16bJ	.
+8a	.
+8a	klej-
+=10	=10
+16gL	-no-
+16fJ	.
+(8.f	-ty
+16f)	.
+=11	=11
+16e	u-
+16a	-tra-
+8g#	-ci-
+8b	-łaś
+=12	=12
+8a\	so-
+4e\}	-bie.
+==	==
+*-	*-
+!!!role-singer: Narrator, Parent
+!!!role-listener: Child
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Polska korono co słychać o tobie,
+!!drogie klejnoty utraciłaś sobie.
+!!@VERSE:
+!!4. Za starych ludzi urodzaje były,
+!!bo się starzy ludzie klątwami brzydzili.
+!!@VERSE:
+!!5. A teraz-ci młody chodzi po ulicy,
+!!pacierza nie umié, tysiącami liczy.
+!!@VERSE:
+!!6. Oj matko, ty matko, byś ty dziatki siekła,
+!!wybawiła byś ty — swoją duszę z piekła.
+!!@VERSE:
+!!7. Ale — że ty matko, swych dziatek żałujesz,
+!!toć ty swoją duszę w piekle ugotujesz.
+!!@VERSE:
+!!8. Spuścił-ci Pan Jezus — takie wielkie głody,
+!!prosił ojciec syna o kropelkę wody.
+!!@VERSE:
+!!9. Poszedł ojciec do syna, tam-ci syn chleb kraje,
+!!miast'o ojcu chleb dać, to go jeszcze łaje.
+!!@VERSE:
+!!10. Zostajcie się z Bogiem! pójdę do drugiego,
+!!pójdę do drugiego, do miłosiernego.
+!!@VERSE:
+!!11. Poszedł do drugiego, syn pieniądze rachuje,
+!!miast'o ojcu grosza dać, to go psami szczuje.
+!!@VERSE:
+!!12. Zostajcie się z Bogiem! pójdę do trzeciego,
+!!pójdę do trzeciego, do miłosiernego.
+!!@VERSE:
+!!13. Poszedł do trzeciego, (ten) siada do obiąda,
+!!woła na niewiastę: wypędź tego dziada!
+!!@VERSE:
+!!14. Adyć ta niewiasta, — nie taka zła była,
+!!wzięła ojca za rękę, za stół zasadziła.
+!!@VERSE:
+!!15. Wyszedł ojciec z (tego) domu, usiadł se na progu:
+!!— Oj jakież to dziatki! daj ich Panu Bogu!
+!!@VERSE:
+!!16. A kiedy-ci przyszły te anielskie gody:
+!!prosił-ci syn ojca o kropelkę wody.
+!!@VERSE:
+!!17. Oj synu mój synu, choćby całe morze,
+!!już tam tobie synu, w piekle nie pomoże.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=33 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 11} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 11}
 !!!page: 11
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-30

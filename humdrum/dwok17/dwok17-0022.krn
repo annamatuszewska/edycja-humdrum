@@ -3,57 +3,118 @@
 !!!source: DWOK17
 !!!id: 17022
 !!!signature: 1702200000
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/4
-=1
-{8b
-8dd
-4cc#
-4g#
-=2
-8cc#
-8dd
-4.ee
-8cc#
-=3
-8ee
-8ee
-4dd
-4ee
-=4
-8cc#
-8b
-4.a
-8a}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M3/4	*
+=1	=1
+{8b	O
+8dd	Matko
+4cc	.
+4g\	Bo-
+=2	=2
+8cc	-ska
+8dd	Gi-
+4.ee	-delska
+8cc	.
+=3	=3
+8ee	obroni-
+8ee	.
+4dd	.
+4ee	-ciel-
+=4	=4
+8cc	-ko
+8b	aniel-
+4.a	.
+8a}	-ska,
 !!LO:LB:g=esac
-=5
-{8ee
-8ee
-4ee
-4ee
-=6
-8dd
-8dd
-4.ee
-8cc#
-=7
-8ee
-8ee
-4dd
-8ee
-8dd
-=8
-8cc#
-8b
-4.a
-8a}
-==
-*-
+=5	=5
+{8eeL	wielgieś
+8eeJ/	.
+4ee/	cu-
+4ee/	-da
+=6	=6
+8ddL	uczy-
+8ddJ/	.
+4.ee	-ni-
+8cc	-ła,
+=7	=7
+8ee	Tyś
+8ee	się
+4dd	w_roli
+8eeL	.
+8ddJ/	.
+=8	=8
+8cc	obja-
+8b	.
+4.a	-wi-
+8a}	-ła.
+==	==
+*-	*-
+!!!role-singer: Christians, Narrator
+!!!role-listener: Holy Mary
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. O Matko Boska Gidelska
+!!obronicielko anielska,
+!!wielgie'ś cuda uczyniła,
+!!Tyś się w roli objawiła.
+!!@VERSE:
+!!2. W roli, w roli, rolnikowi,
+!!tak małemu cześnikowi.
+!!Orał chłopek wraz z bydlęty,
+!!i wyorał obraz święty.
+!!@VERSE:
+!!3. Bydlęta cudu doznały,
+!!na kolanach pokląkały.
+!!Czetnik bije i katuje,
+!!jeszcze zabić obiecuje.
+!!@VERSE:
+!!4. Obejrzał się w prawą stronę
+!!dojrzał obraz i koronę.
+!!Na siedem lat w skrzynię schował,
+!!do zakonu znać nie dawał.
+!!@VERSE:
+!!5. Nawidził go Bóg chorobą,
+!!i z czeladką i z chudobą.
+!!Bez siedem lat chorowali,
+!!j-aż się ludzie dziwowali.
+!!@VERSE:
+!!6. Przyjął sobie służebnicę,
+!!jako boską miłośnicę.
+!!Ta do skrzyni otworzyła,
+!!jasność wielga uderzyła.
+!!@VERSE:
+!!7. Gospodarzu, źle u ciebie,
+!!kościelną rzecz kryjesz w siebie.
+!!Tak się wieldze radowała,
+!!do zakonu znać dawała.
+!!@VERSE:
+!!8. Przyśli księdza z chorągwiami,
+!!z obrazami, ze świécami.
+!!Przyśli księdza z processyją,
+!!z obrazami, z monstrancyją.
+!!@VERSE:
+!!9. Dwa razy im uchodziła,
+!!j-aż trzeci raz przemówiła:
+!!Oddajcież mnie na tę rolą,
+!!gdzie ja tam mam bożą-wolą.
+!!@VERSE:
+!!10. A chiwała-ż mi, miły Panie,
+!!na méj roli klasztor stanie.
+!!Będzie kościół i z klasztorem,
+!!Dominikanie dozorem.
+!!@VERSE:
+!!11. Idą ślepi, idą chromi,
+!!z tamtąd idą uzdrowioni.
+!!Idą ślepi, trędowaci,
+!!jednako im Pan Bóg płaci.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=35 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 13} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 13}
 !!!page: 13
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-30

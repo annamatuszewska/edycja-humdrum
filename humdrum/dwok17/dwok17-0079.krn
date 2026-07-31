@@ -3,59 +3,79 @@
 !!!source: DWOK17
 !!!id: 17079
 !!!signature: 1707900000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16f
-16a
-8cc
-8ee
-=2
-16ff
-16dd
-8dd
-8cc
-=3
-16f
-16a
-8cc
-8ee
-=4
-16ff
-16dd
-8dd
-16cc
-16a}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16f	Cztery
+16a	.
+8cc	mile
+8ee	.
+=2	=2
+16ff	za
+16dd	Warszawą,
+8eeq	.
+8dd	.
+8cc	.
+=3	=3
+16f	tam
+16a	panienki
+8cc	.
+8ee	.
+=4	=4
+16ff	przedawa-
+16dd	.
+8eeq	.
+8dd	.
+16ccL	-ją
+16aJ/}	.
 !!LO:LB:g=esac
-=5
-{16f
-16a
-8cc
-8b-
-=6
-16g
-16g
-16g
-16e
-8f
-=7
-16f
-16a
-8cc
-16b-
-16a
-=8
-16b-
-16g
-8g
-8f}
-==
-*-
+=5	=5
+{16f	Jaki
+16a	.
+8cc	taki
+8b-	.
+=6	=6
+16g\	za
+16g\	pa-
+8aq	.
+16gL	-nienkę,
+16eJ\	.
+8f\	.
+=7	=7
+16f	a
+16a	mnie
+8cc	starą
+16b-L	.
+16aJ	.
+=8	=8
+16b-L	babę
+16gJ	.
+8aq	.
+8gL	da-
+8fJ}	-ją.
+==	==
+*-	*-
+!!!role-singer: Narrator, Client
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Cztery mile za Warszawą,
+!!tam panienki przedawają
+!!Jaki taki za panienkę,
+!!a mnie starą babę dają.
+!!@VERSE:
+!!2. Ja na babie nie utracę,
+!!przedam babę, kupię klacę.
+!!Klacza zdechnie, skórę złupię,
+!!a za skórę pannę kupię.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=51 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 29} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 29}
 !!!page: 29
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-30

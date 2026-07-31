@@ -3,59 +3,117 @@
 !!!source: DWOK17
 !!!id: 17015
 !!!signature: 1701500002
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/4
-=1
-{8a
-8b
-4.cc#
-8ee
-=
-12dd
-12cc#
-12b
-2a}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M3/4	*
+=1	=1
+{8a\	Z_tamtéj
+8b	.
+4.cc	strony
+8ee	.
+=2	=2
+*Xtuplet	*
+12ddL	po-
+12cc	.
+12bJ/	.
+2a}	-la
 !!LO:LB:g=esac
-=2
-{8ff#
-8ee
-8dd
-8ff#
-4ee
-=
-12ee
-12dd
-12cc#
-2cc#}
+=3	=3
+{8ff	zielenią
+8ee	.
+8ddL	.
+8ffJ/	.
+4ee/	się
+=4	=4
+12eeL	zio-
+12dd	.
+12ccJ/	.
+2cc/}	-ła,
 !!LO:LB:g=esac
-=3
-{8ff#
-8ee
-4dd
-4ee
-=4
-8cc#
-8b
-4a
-4g#}
+=5	=5
+{8ff	przechodzi
+8ee	.
+4dd	.
+4ee	się
+=6	=6
+8cc	śliczna
+8b	.
+4a	panna
+4g}	.
 !!LO:LB:g=esac
-=5
-{8a
-8b
-4.cc#
-8ee
-=
-12dd
-12cc#
-12b
-2a}
-==
-*-
+=7	=7
+{8a\	z_niebieskiego
+8b	.
+4.cc	.
+8ee	.
+=8	=8
+12ddL	dwo-
+12cc	.
+12bJ/	.
+2a}	-ra.
+==	==
+*-	*-
+!!!role-singer: Narrator, Maiden
+!!!role-listener: Jesus, Mother
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Z tamtéj strony pola
+!!zielenią się zioła, —
+!!przechodzi się śliczna panna
+!!z niebieskiego dwora.
+!!@VERSE:
+!!2. I od Trójcy siéje (świeci)
+!!trzy wioneczki wije.
+!!Pierwszy wionek Jezusowi
+!!na główkę włożyła.
+!!@VERSE:
+!!3. W drugim sama chodzi
+!!i Jezusa wodzi,
+!!trzeci wionek niezmazany (bez zmazy)
+!!która syna rodzi.
+!!@VERSE:
+!!4. I wzięła Jezusa
+!!za białe rączki;
+!!złote kwiatki urywała,
+!!Jezusowi w rączki dawała.
+!!@VERSE:
+!!5. I prowadzi jego
+!!na zieloną łąkę.
+!!Oj tam na zielonéj łące
+!!sierota chodziła.
+!!@VERSE:
+!!6. Chodziła, płakała
+!!i rączki łomała,
+!!oj i toje panieneńka
+!!z Jezusem słuchała.
+!!@VERSE:
+!!7. Sieroto, sieroto,
+!!weź się płaszcza mego,
+!!oj to ja cię zaprowadzę
+!!do raju świętego.
+!!@VERSE:
+!!8. Nim do raju doszli,
+!!rączki w górę wznieśli:
+!!Dziękuję ci, śliczny Jezu,
+!!coś-my do łask(i) przyśli.
+!!@VERSE:
+!!9. Moja matuleńku,
+!!nie żałuj ty tego,
+!!coś mnie dała na wysługę
+!!do raju świętego.
+!!@VERSE:
+!!10. Ani mnie tu biją,
+!!ani mnie tu łają,
+!!tylko każą pacierz mówić,
+!!grzechów pozbywają.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=29 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 7} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 7}
 !!!page: 7
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-30

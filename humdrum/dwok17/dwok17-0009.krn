@@ -3,102 +3,114 @@
 !!!source: DWOK17
 !!!id: 17009
 !!!signature: 1700900000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16g
-16cc
-8cc
-16cc
-16b
-=2
-16cc
-16ee
-8gg
-8gg
-=3
-8aa
-16ff
-16aa
-16ff
-16dd
-=4
-16dd
-16ff
-8aa
-8gg}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+!!LO:TX:a:t=Mazur.
+{8g\	Hej
+8cc	nasza
+8cc	.
+=2	=2
+16cc	karczmareczka
+16ee	.
+8gg	.
+8gg	.
+=3	=3
+8aa	da
+8ff	do-
+16ffL	-brze
+16ddJ	.
+=4	=4
+16b	sobie
+16g	.
+16bL	ży-
+16ddJ	.
+8cc}	-je,
 !!LO:LB:g=esac
-=5
-{8g
-8cc
-8cc
-=6
-16cc
-16ee
-8gg
-8gg
-=7
-8aa
-8ff
-16ff
-16dd
-=8
-16b
-16g
-16b
-16dd
-8cc}
+=5	=5
+{16gL	oj
+16cc	.
+8ccJ	dwóch
+16ccL	zło-
+16bJ/	.
+=6	=6
+16cc	-dziejów
+16ee	.
+8gg	w_sieni,
+8gg	.
+=7	=7
+8aa	a
+16ffL	z_trzecim
+16aa	.
+16ff	.
+16ddJ/	.
+=8	=8
+16ddL	óna
+16ffJ/	.
+8aaL	pi-
+8ggJ/}	-je,
 !!LO:LB:g=esac
-=9
-{16.dd
-32dd
-8ee
-16dd
-16cc#
-=10
-16.dd
-32dd
-8ee
-16dd
-16cc#
-=11
-16dd
-16dd
-8ee
-16dd
-16cc
-=12
-16.aa
-32aa
-8bb
-8cc}
+=9	=9
+{8dd	Tańcuj
+8ee	.
+16dd	mo-
+16cc#	-ja,
+=10	=10
+8dd	tańcuj
+8ee	.
+8dd	moja,
+=11	=11
+8dd	.
+8ee	tań-
+16dd	-cuj
+16ccn	moje
+=12	=12
+16.a	.
+32a	tańcowadło,
+8b	.
+8g}	.
+=13	=13
+{16.ddL	.
+32dd	już
+8eeJ/	.
+16ddL	syrki
+16cc#J/	.
+=14	=14
+16.ddL	i
+32dd	kiełba-
+8eeJ/	.
+16ddL	.
+16cc#J/	-sy,
+=15	=15
+16ddL	.
+16dd	już
+8eeJ/	.
+16dd	ci
+16ccn	i
+=16	=16
+16b	sa-
+16g	-dło
+8b	przepadło.
+8cc}	.
 !!LO:LB:g=esac
-=13
-{8dd
-8ee
-16dd
-16cc#
-=14
-8dd
-8ee
-8dd
-=15
-8dd
-8ee
-16dd
-16cc
-=16
-16b
-16g
-8b
-8cc}
-==
-*-
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!!role-listener: Alewife
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Hej nasza karczmareczka da dobrze sobie żyje,
+!!oj dwóch złodziejów w sieni, a z trzecim óna pije,
+!!Tańcuj moja, tańcuj moja, tańcuj moje tańcowadło,
+!!już syrki i kiełbasy, już ci i sadło przepadło.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=26 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 4} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 4}
 !!!page: 4
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-30

@@ -9,46 +9,48 @@
 *G:
 *M3/8
 =1
-{8.dd
+{8eeq
+8.ddL
 16ee
 16.dd
-32cc
+32ccJ
 =2
-8.b
-16b
-16dd
-16gg
+8.bL
+16bJ/
+16ddL
+16ggJ/
 =3
-8.ff#
-16dd
-16.ee
-32ff#
+8.ff#XL
+16ddJ/
+16.eeL
+32ff#J/
 =4
-8.gg
-16ee
-16dd
-16cc}
+8.ggL
+16eeJ/
+16ddL
+16ccJ/}
 !!LO:LB:g=esac
 =5
-{8.b
+{8eeq
+8.bL
 16ee
 16.dd
-32cc
+32ccJ
 =6
-8.e
+8.eL
 16a
 16g
-16b
+16bJ\
 =7
-8.dd
+8.ddL
 16cc
 16a
-16f#
+16f#J\
 =8
-16d
-16f#
-8.g
-16b}
+16dL
+16f#J\
+8.gL
+16bJ\}
 ==
 *-
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
@@ -56,3 +58,5 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=27 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 5} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 5}
 !!!page: 5
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-30

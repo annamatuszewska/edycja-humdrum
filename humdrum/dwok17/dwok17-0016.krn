@@ -3,63 +3,126 @@
 !!!source: DWOK17
 !!!id: 17016
 !!!signature: 1701600000
-**kern
-*clefG2
-*k[b-e-]
-*g:
-*M3/4
-=1
-{8g
-8g
-8g
-8dd
-4cc
-=2
-8dd
-8ee
-4ff
-4dd
-=3
-8ff
-8cc
-4dd
-4b-
-=
-12a
-12cc
-12b-
-8a
-8g}
-4r
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*g:	*
+*M3/4	*
+=1	=1
+{8g	Piękna
+8g	.
+8gL	du-
+8ddJ/	.
+4cc	-so,
+=2	=2
+8dd	ślicny
+8ee	.
+4ff	kwiecie,
+4dd	.
+=3	=3
+8ff	co
+8cc	tam
+4dd	słychać
+4b-	.
+=4	=4
+12a	na
+12cc/	.
+12b-	tym
+8a	świecie,
+8g}	.
+4r	.
 !!LO:LB:g=esac
-=4
-{4.dd
-8dd
-16dd
-16cc
-16b-
-16a
-=
-12g
-12b-
-12cc
-2dd
-=5
-4.ff#
-8cc
-8dd
-8b-
-=
-12a
-12cc
-12b-
-8a
-8g}
-4r
-==
-*-
+=5	=5
+{4.dd	śmiertelny
+8dd	.
+16ddL	.
+16ccJ	.
+16b-L	młot
+16aJ\	.
+=6	=6
+12gL	w_piersi
+12b-J	.
+12cc	bije,
+2dd	.
+=7	=7
+4.ff	nie
+8cc	chce
+8dd	wyleść
+8b-	.
+=8	=8
+12a	du-
+12cc/	.
+12b-	-sza
+8a	z_szyje.
+8g}	.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Holy Mary, Angel, Soul
+!!!role-listener: Soul, Angel, Jesus, Saints
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Piękna duszo, śliczny kwiecie,
+!!co tam słychać na tym świecie?
+!!Śmiertelny młot w piersi bije,
+!!nie chce wyleść dusza z szyje.
+!!@VERSE:
+!!2. Wyleciała dusza z ciała,
+!!nie wiedziała gdzie paść miała.
+!!Padła na zielonej łące,
+!!krzyczy, płacze, łamie ręce.
+!!@VERSE:
+!!3. Najświętsza Panna usłyszała,
+!!na j-anioła zawołała:
+!!Spuść się z wysokości aniele,
+!!utul duszę na padole.
+!!@VERSE:
+!!4. I spuścił się j-anioł z nieba:
+!!Czego płaczesz duszo jedna?
+!!O jak-że nie mam płakać,
+!!dziatek trojga odumarłam-ć.
+!!@VERSE:
+!!5. Nie frasuj się o dziateczki,
+!!jest tam na nie świat szeroczki.
+!!Jak szeroczki, tak wysoczki,
+!!pomieszczą się twe dziateczki.
+!!@VERSE:
+!!6. Pawle Pietrzę, ktoś kołace,
+!!Jezu! dusza do raju chce.
+!!Pawle, Piętrzę, podaj klucze,
+!!powypuszczać z czyśca dusze.
+!!@VERSE:
+!!7. Tylko jednéj nie wypuszczaj,
+!!co ojca, matkę zabiła.
+!!@VERSE:
+!!8. Jezu! Jezu! nie zabiłam,
+!!dopiéro się zamierzyłam.
+!!Gorsze twoje zamierzenie,
+!!niżli ojca — matkę uderzenie.
+!!@VERSE:
+!!9. Jezu! Jezu! wypuść i mnie,
+!!niech się toczę po tarninie.
+!!Po tarninie, po krzewinie,
+!!niech ta zła krew ze mnie wypłynie.
+!!@VERSE:
+!!10. Pytaj jéj się Pawle, Pietrze,
+!!coś tam zarobiła na tamtym świecie?
+!!Zarobiłam siedmior' płótna,
+!!i tum-ci je z sobą wzięła.
+!!@VERSE:
+!!11. Pytaj jéj się Pawle, Pietrze,
+!!co tam słychać na tamtym świecie?
+!!Nie słyszałam nic dobrego,
+!!śmieje się bogaty z ubogiego.
+!!@VERSE:
+!!12. — Kto tam u was poniżony,
+!!tutaj będzie podwyższony.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=30 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 8} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 8}
 !!!page: 8
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-30

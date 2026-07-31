@@ -3,67 +3,154 @@
 !!!source: DWOK17
 !!!id: 17023
 !!!signature: 1702300000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/4
-=
-{12f
-12g
-12a
-4b-
-12cc
-12b-
-12a
-=1
-4g
-4f}
-4r
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/4	*
+=1	=1
+{(>12f	Była
+12g	.
+12a)	to
+4b-	święta
+(12ccL	.
+12b-J	.
+12a\)	Do-
+=2	=2
+4g	-rota,
+4f}	.
+4r	.
 !!LO:LB:g=esac
-=
-{8f
-16a
-16b-
-4cc
-12dd
-12dd
-12b-
-=2
-8b-
-8a
-4a}
-4r
+=3	=3
+*Xtuplet	*
+{8fL	pobożnego
+16a	.
+16b-J/	.
+4cc/	.
+12ddL	ży-
+12dd	.
+12b-J/	.
+=4	=4
+8b-L	-wo-
+8aJ	.
+4a}	-ta,
+4r	.
 !!LO:LB:g=esac
-=
-{12f
-12g
-12a
-4b-
-12cc
-12b-
-12a
-=3
-4g
-4f}
-4r
+=5	=5
+*tuplet	*
+{(>12f	przyszła
+12g	.
+12a)	pod
+4b-	królewskie
+(12ccL	.
+12b-J	.
+12a\)	.
+=6	=6
+4g	wrota,
+4f}	.
+4r	.
 !!LO:LB:g=esac
-=
-{8f
-8g
-8a
-8b-
-12b-
-12g
-12e
-=4
-4f
-4f}
-4r
-==
-*-
+=7	=7
+*Xtuplet	*
+{8f\	nadał
+8g\	.
+8a\	jéj
+8b-\	król
+12b-L	śrébra
+12gJ\	.
+12e\	i
+=8	=8
+4f\	zło-
+4f\}	-ta.
+4r	.
+==	==
+*-	*-
+!!!RDF**kern: > = above
+!!!role-singer: Narrator, King, St. Dorothy, Servant
+!!!role-listener: St. Dorothy, King, Servant
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Była to święta Dorota,
+!!pobożnego żywota.
+!!Przyszła pod królewskie wrota,
+!!nadał jéj król śribła i złota.
+!!@VERSE:
+!!2. Doroto (moja), Doroto,
+!!nie mogłabyś ty moją być?
+!!będzie nam całyj świat służyć [:].
+!!@VERSE:
+!!3. Szkaradniku szkaradny,
+!!w ludzkych's oczach podobny,
+!!cy ty możesz mi to wyrzéc,
+!!by ja mogła twoją być?
+!!@VERSE:
+!!4. Król sie na Dorotę rozgniwał,
+!!Dorotę do wiązania wsadził,
+!!na siedm lat na wojnę pojechał [:].
+!!@VERSE:
+!!5. W siedm lat z wojny przyjechał,
+!!o Dorocie se spomniał.
+!!Posłał służkę wiernego,
+!!jako siebie samego:
+!!@VERSE:
+!!6. — Pójdź służko do wiązania
+!!a cy żyje Dorota?—
+!!— Żyje królu, żyje,
+!!piękna panna jak była.
+!!@VERSE:
+!!7. — Służki moje, służki,
+!!nie wierno mi służycie,
+!!Dorotę w wiązaniu karmicie |:|.
+!!@VERSE:
+!!8. Nie karmi jej królu nikt,
+!!ono z nieba sam Bóg;
+!!chodzi do niéj dzieciątko,
+!!niebieskie pacholątko.
+!!@VERSE:
+!!9. Król sia na Dorotę rozgniwał,
+!!powiedział kocioł h-oliju smażyć,
+!!jo w h-oliju tym oparzyć.
+!!@VERSE:
+!!10. Przyszło do nij dzieciątko,
+!!iz neba pacholątko
+!!Stępaj Doroto w ten h-olij,
+!!nie bój sia jednéj niewoli.
+!!@VERSE:
+!!11. Dorota w h-olij stompiła,
+!!piekniéjsza panna jak była.
+!!@VERSE:
+!!12. Król sia na Dorotę rozgniwał,
+!!powiedział kryształowego śkła natłuc,
+!!Dorotę po śkle tym wodzić,
+!!@VERSE:
+!!13. Dorota po tom śkle poszła,
+!!z niéj święta krew nie poszła.
+!!@VERSE:
+!!14. — Nie pomoże ci Doroto nic,
+!!pomoże ci h-ostrij micz.
+!!—Jak mnie chcesz, tak mnie sicz,
+!!nie pomoże mi h-ostrij micz.
+!!@VERSE:
+!!15. Król sia na Dorote rozgniwał,
+!!Dorotę na tron wyprowadził,
+!!wojsko do-wkola osadził.
+!!@VERSE:
+!!16. Patrzy sie król szyroko,
+!!święta Dorota wysoko!
+!!@VERSE:
+!!17. Amen, amen, niech temu będzie,
+!!gdzie Dorota króluje,
+!!nam sie niebo gotuje.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Pieśń ta przypomina męczenstwa ś. Barbary, ś. Katarzyny i innych
+!!śś. Panien.
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=36 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 14} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 14}
 !!!page: 14
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-30

@@ -3,81 +3,90 @@
 !!!source: DWOK17
 !!!id: 17054
 !!!signature: 1705400000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{4g
-8g
-=2
-16g
-16b
-8g
-8g
-=3
-16g
-16b
-8g
-8g
-=4
-16g
-16b
-8.dd
-16b
-=5
-16cc
-16a
-8g
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{4g	Miała
+8g	.
+=2	=2
+16g	baba
+16b/	.
+8g	fi-
+8g	-gla,
+=3	=3
+16g	baba
+16b/	.
+8g	fi-
+8g	-gla,
+=4	=4
+16g	w_pokrzywy
+16b	.
+8.dd	.
+16b	go
+=5	=5
+16cc	baba
+16a	.
+8g	śmigła.
+8g}	.
 !!LO:LB:g=esac
-=6
-{16g
-16b
-8.dd
-16b
-=7
-16a
-16cc#
-8ee
-8a
-=8
-16g
-16b
-8.dd
-16b
-=9
-16cc
-16a
-8g
-8g}
+=6	=6
+{16g	W_ciernie
+16b	.
+8.dd	w_ciernie
+16b	.
+=7	=7
+16a\	i
+16cc#	w_pokrzywy
+8ee	.
+8a\	.
+=8	=8
+16g	już
+16b	babin
+8.dd	.
+16b	fi-
+=9	=9
+16cc	-giel
+16a	nieżywy,
+8g	.
+8g}	.
 !!LO:LB:g=esac
-=10
-{16g
-16b
-8.dd
-16cc#
-=11
-16a
-16cc#
-8ee
-16ee
-16a
-=12
-16g
-16b
-8.dd
-16b
-=13
-16cc
-16a
-8g
-8g}
-==
-*-
+=10	=10
+{16g	w_ciernie
+16b	.
+8.ddL	w_ciernie
+16cc#J/	.
+=11	=11
+16a\	i
+16cc#	w_pokrzywy
+8eeL	.
+16ee	.
+16aJ/	.
+=12	=12
+16g	już
+16b	babin
+8.dd	.
+16b	fi-
+=13	=13
+16cc	-giel
+16a	nieżywy.
+8g	.
+8g}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Miała baba figla, w pokrzywy go baba śmigła.
+!!W ciernie w ciernie i w pokrzywy
+!!już babin figiel nieżywy.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=45 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 23} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 23}
 !!!page: 23
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-30

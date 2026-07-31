@@ -3,63 +3,131 @@
 !!!source: DWOK17
 !!!id: 17014
 !!!signature: 1701400000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8cc
-8ee
-8ee
-8dd
-8ee
-8b
-=2
-8cc
-8ee
-8dd
-16cc
-16b
-8a
-8g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8cc	Chodzi
+8ee	.
+8ee	dzieciąteńko,
+8dd	.
+8ee	.
+8b;	.
+=2	=2
+8cc	po
+8ee	świecie
+8dd	.
+16ccL	się
+16bJ	.
+8a	tuła,
+8g;}	.
 !!LO:LB:g=esac
-=3
-{8g
-8cc
-8b
-8cc
-8dd
-8b
-=4
-8cc
-8ee
-8dd
-16cc
-16b
-8cc
-8cc}
+=3	=3
+{8g	po
+8cc	świecie
+8b	.
+8cc	się
+8dd	tuła,
+8b	.
+=4	=4
+8cc	swoji
+8ee	.
+8dd	matki
+16ccL	.
+16bJ	.
+8cc/	szuka,
+8cc/;}	.
 !!LO:LB:g=esac
-=5
-{8g
-8cc
-8b
-8cc
-8dd
-16b
-16g
-=6
-8cc
-8ee
-8dd
-16cc
-16b
-8a
-8g}
-==
-*-
+=5	=5
+{8g	po
+8cc	świecie
+8b	.
+8cc	się
+8dd	tuła,
+16bL	.
+16gJ	swoji
+=6	=6
+8cc	.
+8ee	matki
+8dd	.
+16ccL	.
+16bJ	szuka.
+8a\	.
+8g\}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Mother, Child
+!!!role-listener: Child, Mother
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Chodzi dzieciąteńko,
+!!po świecie się tuła,—
+!!po świecie się tuła,
+!!swoij matki szuka.
+!!@VERSE:
+!!2. Ty daleko zajdziesz,
+!!i matki nie znajdziesz,
+!!@VERSE:
+!!3. A widzisz ty, dziécię,
+!!smętarz murowany,
+!!a na tym smętarzu
+!!i matczyn grób stoji.
+!!@VERSE:
+!!4. Siustaj-że się, tupaj
+!!po matczynym grobie,
+!!aż ci się odezwie
+!!mateńka do ciebie.
+!!@VERSE:
+!!5. A któż téż tam siusta
+!!a po mojim grobie?
+!!@VERSE:
+!!6. A moja mateńko,
+!!twoje'm dzieciąteńko,
+!!puść-że mnie do siebie,
+!!bo mi źle bez ciebie.
+!!@VERSE:
+!!7. Cóż tu będziesz jadło,
+!!cóż tu będziesz piło,
+!!moje dzieciąteńko?
+!!@VERSE:
+!!8. Suche próchno gryzło,
+!!mętną wodę piło,
+!!Bożą manną żyło.
+!!@VERSE:
+!!9. A idź-że dzieciątko
+!!do młodéj macierze,
+!!niechże ci młoda mać
+!!koszulkę wypierze.
+!!@VERSE:
+!!10. Jak że mi ją pierze,
+!!do wody mnie bierze,
+!!a jak mi poléwa,
+!!warem mnie obléwa.
+!!A jak ją wałkuje,
+!!po plecach mnie bije.
+!!@VERSE:
+!!11. A moja mateńko,
+!!twoje'm dzieciąteńko,
+!!puść-że mnie do siebie,
+!!bo mi źle bez ciebie.
+!!@VERSE:
+!!12. A idż-że dzieciątko,
+!!do młodéj macierze,
+!!niechże ci młoda mać
+!!główeńkę wyczesze.
+!!@VERSE:
+!!13. A jak-ci mnie myje,
+!!nakręca mi szyję,
+!!a jak mi włos czesze,
+!!mam po głowie plesze.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=28 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 6} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 6}
 !!!page: 6
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-30

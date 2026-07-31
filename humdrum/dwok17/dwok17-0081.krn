@@ -3,52 +3,65 @@
 !!!source: DWOK17
 !!!id: 17081
 !!!signature: 1708100000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8d
-8g
-8g
-=2
-8b
-16a
-16g#
-8a
-=3
-8d
-8g
-8g
-=4
-8b
-16a
-16g#
-8a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+!!LO:TX:a:t=Walc.
+{8d	Ja
+8g	z_tobą,
+8g	.
+=2	=2
+8b	ty
+16aL	ze
+16g#J	.
+8a	mną.
+=3	=3
+8d	zmiłuj
+8g	.
+8g	się
+=4	=4
+8b	na-
+16aL	-de
+16g#J	.
+8a}	mną
 !!LO:LB:g=esac
-=5
-{8dd
-8dd
-8dd
-=6
-8ee
-8ee
-8ee
-=7
-8dd
-16f#
-16a
-16cc
-16a
-=8
-8b
-8g
-8g}
-==
-*-
+=5	=5
+{8dd	Ja
+8dd	z_tobą
+8dd	.
+=6	=6
+8ff#q	.
+8ee	wołki
+8ee	.
+8ee	paść,
+=7	=7
+8dd	ty
+16f#L	ze
+16aJ	.
+16ccL	mną
+16aJ	.
+=8	=8
+8b	nockę
+8g	.
+8g}	spać.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!role-listener: Maiden
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!Ja z tobą, ty ze mną.
+!!zmiłuj się nade mną
+!!Ja z tobą wołki paść,
+!!ty ze mną nockę spać.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=52 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 30} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 30}
 !!!page: 30
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-30

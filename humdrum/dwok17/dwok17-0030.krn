@@ -3,66 +3,94 @@
 !!!source: DWOK17
 !!!id: 17030
 !!!signature: 1703000000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=
-{24d
-24e
-24f
-8g
-16g
-16d
-=1
-16e
-16c
-8d
-16g
-16f}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+*Xtuplet	*
+{24ddL	Sto-
+24ee	.
+24ffJ/	-ji
+8gg	li-
+8aaq	.
+16ggL	-pa,
+16ddJ	.
+=2	=2
+16ee	pod
+16cc	nią
+8ddL	korzeń,
+16gg	.
+16ffJ/}	.
 !!LO:LB:g=esac
-=2
-{16d
-16f
-8g
-16g
-16d
-=3
-16e
-16c
-8d
-8b}
+=3	=3
+{16dd	jak
+16ff	ci
+8gg	bi-
+8aaq	.
+16ggL	-da,
+16ddJ	.
+=4	=4
+16ee	to
+16cc	się
+8dd	ożeń.
+8b}	.
 !!LO:LB:g=esac
-=4
-{16d
-16f
-8c
-16c
-16g
-=
-24c
-24d
-24e
-8e
-16d
-16b}
+=5	=5
+{16dd	Stoji
+16ff	.
+8cc	li-
+16ccL	-pa
+16gJ	.
+=6	=6
+24ccL	i
+24dd	.
+24eeJ/	tą-
+8ffL	-po-
+16dd	-la,
+16bJ/}	.
 !!LO:LB:g=esac
-=5
-{16d
-16f
-8c
-16c
-16g
-=6
-16c
-16e
-8d
-8b}
-==
-*-
+=7	=7
+{16dd	mnie
+16ff	się
+8cc	żenić
+16ccL	.
+16gJ	.
+=8	=8
+16cc	nie
+16ee	nie-
+8dd	-wo-
+8b}	-la.
+==	==
+*-	*-
+!!!role-singer: Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Stoji lipa, pod nią korzeń,
+!!jak ci bida, to się ożeń.
+!!@VERSE:
+!!2. Stoji lipa i tąpola,
+!!mnie się żenić nie niewola.
+!!@VERSE:
+!!3. Nie niewola, nie potrzeba,
+!!wszystkiego mi razem trzeba.
+!!@VERSE:
+!!4. Trzeba miski, trzeba łyżki,
+!!powijacza i kołyski.
+!!@VERSE:
+!!5. Jeszcze bo mnie głowa boli,
+!!cztery woły do téj roli.
+!!@VERSE:
+!!6. Cztery woły, cztery krowy
+!!i pełnéj zboża stodoły.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=39 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 17} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 17}
 !!!page: 17
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-30

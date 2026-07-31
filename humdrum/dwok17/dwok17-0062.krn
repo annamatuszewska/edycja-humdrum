@@ -3,55 +3,83 @@
 !!!source: DWOK17
 !!!id: 17062
 !!!signature: 1706200000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{8a
-8ff
-8ee
-=2
-16dd
-16ee
-8ff
-8ee
-=3
-16gg
-16ff
-8ee
-8cc
-=4
-16dd
-16b
-8g
-8a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{8aL	Oj
+8ff	dziwu-
+8eeJ/	.
+=2	=2
+16ddL	-ją
+16eeJ/	się
+8ffL	ludzie,
+8eeJ/	.
+=3	=3
+16ggL	da
+16ffJ/	.
+8eeL	za
+8ddq	.
+8ccJ/	co
+=4	=4
+16ddL	nasz
+16bJ/	pan
+8g	pije?
+8a}	.
 !!LO:LB:g=esac
-=5
-{16g
-16g
-8a
-8cc
-=6
-16b
-16b
-8cc
-8a
-=7
-16f
-16g
-8a
-8cc
-=8
-16dd
-16b
-8g
-8a}
-==
-*-
+=5	=5
+{16g\	Przedał
+16g\	.
+8a\	pieska
+8cc	.
+=6	=6
+16b	w_Lu-
+16b	-blinie
+8cc	.
+8a\	.
+=7	=7
+16f\	da
+16g\	i
+8a\	suczkę
+8ddq	.
+8cc	.
+=8	=8
+16dd	w_Turobinie.
+16b	.
+8g	.
+8a}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!!role-listener: People, Courtiers
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Oj dziwują się ludzie,
+!!da za co nasz pan pije?
+!!Przedał pieska w Lublinie
+!!da i suczkę w Turobinie.
+!!@VERSE:
+!!2. Oj dziwują się ludzie
+!!da za co dworak pije?
+!!Przedał pałkę na gorzałkę
+!!da i jesce ma dwa kije.
+!!@VERSE:
+!!3. Oj dziwują się ludzie,
+!!da dziwują, dziwują,
+!!oj za co dworzaneńki
+!!da piją i tańcują.
+!!@VERSE:
+!!4. Oj dziwujcie się ludzie,
+!!da dziwujcie, dziwujcie,
+!!oj a wy dworzaneńki
+!!da pijcie i tańcujcie.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=47 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 25} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 25}
 !!!page: 25
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-30

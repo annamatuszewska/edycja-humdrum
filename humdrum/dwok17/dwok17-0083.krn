@@ -3,52 +3,61 @@
 !!!source: DWOK17
 !!!id: 17083
 !!!signature: 1708300000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{8gg
-8gg
-8ff
-=2
-16ee
-16gg
-8gg
-8ff
-=3
-8ee
-8cc
-8dd
-=4
-16b
-16dd
-8cc
-8g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+!!LO:TX:a:t=Weselna (?)
+{8ggL	Oj
+8gg	zdyba-
+8ffJ/	.
+=2	=2
+16eeL	-łem
+16ggJ/	se
+8ggL	ptaszka,
+8ffJ/	.
+=3	=3
+8ee	da
+8cc	niewiem
+8dd	.
+=4	=4
+16b	jak
+16dd	się
+8cc	zowie,
+8g}	.
 !!LO:LB:g=esac
-=5
-{8f
-8a
-8g
-=6
-16b
-16cc
-8dd
-8ff
-=7
-8ee
-8cc
-8dd
-=8
-16b
-16dd
-8cc
-8g}
-==
-*-
+=5	=5
+{8f\	oj
+8a\	trusie
+8g\	.
+=6	=6
+16b	ma
+16cc	pióreńka,
+8dd	.
+8ff	.
+=7	=7
+8ee	da
+8cc	bieleń-
+8dd	.
+=8	=8
+16b	-ki
+16dd	na
+8cc	głowie.
+8g}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Oj zdybałem se ptaszka, da niewiem jak się zowie,
+!!oj trusie ma pióreńka, da bieleńki na głowie.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=52 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 30} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 30}
 !!!page: 30
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-30

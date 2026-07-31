@@ -9,23 +9,24 @@
 *G:
 *M3/8
 =1
-{16.g
-32b
-8dd
-8dd
+!!LO:TX:a:t=Mazur. (W szopce, sród tańca lalek).
+{16.gL
+32bJ
+8ddL
+8ddJ
 =2
-16.dd
-32b
-8dd
-8dd
+16.ddL
+32bJ
+8ddL
+8ddJ
 =3
-16.dd
-32gg
-8dd
-8dd
+16.ddL
+32ggJ
+8ddL
+8ddJ
 =4
-16dd
-16b
+16ddL
+16bJ
 4dd}
 ==
 *-
@@ -35,3 +36,5 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=51 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 29} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 29}
 !!!page: 29
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-30

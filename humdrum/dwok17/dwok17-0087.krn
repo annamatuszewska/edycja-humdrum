@@ -3,88 +3,107 @@
 !!!source: DWOK17
 !!!id: 17087
 !!!signature: 1708700000
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M3/8
-=1
-{8ff
-8ff
-16ff
-16ee
-=2
-16ff
-16gg
-8ff
-8gg
-=3
-8dd
-8cc
-16ee
-16ff
-=4
-16ee-
-16cc
-8b-
-8f}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M3/8	*
+=1	=1
+{8eenq	.
+8ff	Oj
+8eeq	.
+8ff	u
+8ggq	.
+16ff	na-
+16ee	.
+=2	=2
+16ff	-sego
+16gg	.
+8ff	pa-
+8gg	-na
+=3	=3
+8ddm	da
+8cc	grodzo-
+16ee	.
+16ff	.
+=4	=4
+16ee-X	-ny
+16cc	dzie-
+8b-	-dziniec,
+8f}	.
 !!LO:LB:g=esac
-=5
-{16f
-16a
-8b-
-8cc
-=6
-16f
-16a
-8b-
-8cc
-=7
-16f
-16a
-8b-
-16dd
-16b-
-=
-24ee-
-24dd
-24cc
-8b-
-8f}
+=5	=5
+{16f	oj
+16a\	nie
+8b-L	je-
+8ccJ	.
+=6	=6
+16f\	-dna
+16a\	dziewczyna
+8b-	.
+8cc	.
+=7	=7
+16f\	da
+16a\	straci-
+8b-	.
+16ddL	.
+16b-J	.
+=8	=8
+*Xtuplet	*
+24ee-L	-ła
+24dd	.
+24ccJ	tu
+8b-	wieniec,
+8f\}	.
 !!LO:LB:g=esac
-=
-{24f
-24g
-24a
-16b-
-16a
-16cc
-16a
-=
-24f
-24g
-24a
-16b-
-16a
-16cc
-16a
-=
-24f
-24g
-24a
-8b-
-16dd
-16ff
-=8
-16ee-
-16dd
-8cc
-8b-}
-==
-*-
+=9	=9
+{24fL	oj
+24g	.
+24aJ	nie
+16b-L	je-
+16a	.
+16cc	.
+16aJ/	.
+=10	=10
+24fL	-dna
+24g	.
+24aJ	dziewczyna
+16b-L	.
+16a	.
+16cc	.
+16aJ/	.
+=11	=11
+24fL	da
+24g	.
+24aJ	straci-
+8b-	.
+16ddL	.
+16ffJ/	.
+=12	=12
+16ee-L	-ła
+16dd	.
+8cc	tu
+8b-J/}	wieniec.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Oj u nasego pana
+!!da grodzony dziedziniec,
+!!oj nie jedna dziewczyna
+!!da straciła tu wieniec.
+!!@VERSE:
+!!2. Oj u nasego pana
+!!da zielony ganecek,
+!!oj nie jedna dziewcyna
+!!da straciła wianecek.
+!!@@END: VERSES
 !!!ONB: Wariant t. 4: 4321_-5_
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=54 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 32} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 32}
 !!!page: 32
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-30

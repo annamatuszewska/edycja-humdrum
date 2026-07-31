@@ -3,52 +3,110 @@
 !!!source: DWOK17
 !!!id: 17020
 !!!signature: 1702000002
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M2/4
-=1
-{8a
-8a
-8ee
-8ee
-=2
-8ee#
-8ff#
-4ee
-=3
-8ee
-32ee
-32dd
-32cc#
-32b
-4a}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M2/4	*
+=1	=1
+!!LO:TX:a:t=Pieśń w chorobie.
+{8a	Czego
+8a	.
+8ee	się,
+8ee	mój
+=2	=2
+8eeL	Je-
+8ff#J/	.
+4ee	-zu,
+=3	=3
+8ee	tak
+8ee	bardzo
+8dd	.
+8b	tur-
+=4	=4
+8eeL	-bu-
+32ee	.
+32dd	.
+32cc	.
+32bJ/	.
+4a}	-jesz
 !!LO:LB:g=esac
-=4
-{8dd#
-8dd
-8.ee
-16b
-=5
-16b
-16dd
-16cc#
-16b
-4a
-=6
-8a
-8b
-8cc#
-8ee
-=7
-8dd
-4.b}
-==
-*-
+=5	=5
+{8dd#	musi,
+8dd#	.
+8.eeL	ty
+16bJ/	.
+=6	=6
+16bL	mój
+16ddJ/	.
+16ccL	Je-
+16bJ	.
+4a	-zu,
+=7	=7
+8a	we
+8b/	mnie
+8cc	grzechy
+8ee;	.
+=8	=8
+8dd	czujesz.
+4.b}	.
+==	==
+*-	*-
+!!!role-singer: Christian, Jesus
+!!!role-listener: Jesus, Christian
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Czego się, mój Jezu,
+!!tak bardzo turbujesz?
+!!musi, Ty mój Jezu,
+!!we mnie grzechy czujesz.
+!!@VERSE:
+!!2. Czuję, czuję, człowiecze!
+!!z młodości lat twojich,
+!!jakeś się na świat narodził
+!!z ojca matki, swojich.
+!!@VERSE:
+!!3. Czuję, czuję, człowiecze!
+!!tylko mnie zażywaj,
+!!na każdą godzinę,
+!!serce me wspominaj!
+!!@VERSE:
+!!4. Dopuszczę na ciebie
+!!języki złośliwe,
+!!będą ć(ię) ludzie szarpać
+!!jak jaszczurki żywe.
+!!@VERSE:
+!!5. Dopuszczę na ciebie
+!!ciężeńkie ubóstwo,
+!!pomrzą-ć(i) dziatki, żona,
+!!pogorze domostwo.
+!!@VERSE:
+!!6. A jeszcze dopuszczę
+!!na cię co innego, —
+!!będą cię szarpali
+!!jak zwiérza leśnego.
+!!@VERSE:
+!!7. Widzisz ci, mój Jezu,
+!!żyły się pękają,
+!!przyjaciele i sąsiedzi
+!!ciała się lękają.
+!!@VERSE:
+!!8. Widzisz ci, mój Jezu,
+!!jak bólami zdjęty,
+!!ratuj-że nas Jezu,
+!!Zbawicielu święty!
+!!@VERSE:
+!!9. Będziem wspominali
+!!Chrystusowe rany,
+!!od piekła uwolnieni
+!!i od wiecznéj kary.
+!!@@END: VERSES
 !!!ONB: Pieśń w chorobie
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=34 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 12} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 12}
 !!!page: 12
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-30

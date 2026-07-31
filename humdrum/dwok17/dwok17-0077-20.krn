@@ -3,60 +3,74 @@
 !!!source: DWOK17
 !!!id: 17077
 !!!signature: 1707700020
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16a
-16cc
-8ee
-8ee
-=2
-16dd
-16b
-8g
-16b
-16g
-=3
-16f#
-16a
-8f#
-16a
-16d
-=4
-16g
-16b
-8.g
-16f#}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16aL	Jechał
+16ccJ//	.
+8eeL	kozak
+8eeJ/	.
+=2	=2
+16ddL	z_Ukra-
+16bJ/	.
+8gL	-i-
+16b	-ny,
+16gJ	.
+=3	=3
+16f#	sed
+16a	do
+8f#	pieca
+16f#L	.
+16dJ	.
+=4	=4
+16g	do
+16b	Mary-
+8.g	.
+16f#}	-ny.
 !!LO:LB:g=esac
-=5
-{16f#
-16a
-8f#
-16f#
-16d
-=6
-16g
-16b
-8g
-8a
-=7
-16f#
-16a
-8f#
-16a
-16d
-=8
-16g
-16b
-8.g
-16f#}
-==
-*-
+=5	=5
+{16f#\	Jechał
+16a\	.
+8f#\	kozak
+16f#L	.
+16dJ\	.
+=6	=6
+16g\	z_Ukra-
+16b\	.
+8g\	-i-
+8a\	-ny,
+=7	=7
+16f#	sed
+16a	do
+8f#	pieca
+16f#L	.
+16dJ	.
+=8	=8
+16g	do
+16b	Mary-
+8.g	.
+16f#}	ny.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Jechał kozak z Ukrainy,
+!!sed do pieca do Maryny.
+!!@VERSE:
+!!2. A Maryna — kieby glina,
+!!padła z pieca — na Marcina.
+!!@VERSE:
+!!3. A z Marcina — na Lukasa,
+!!daléj z niemi — hasa, hasa!
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=51 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 29} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 29}
 !!!page: 29
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-30

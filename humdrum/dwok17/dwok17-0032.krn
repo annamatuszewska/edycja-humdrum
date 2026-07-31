@@ -3,62 +3,78 @@
 !!!source: DWOK17
 !!!id: 17032
 !!!signature: 1703200000
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M3/8
-=1
-{8ff
-8cc
-16dd
-16ee-
-=2
-16ff
-16dd
-8dd
-16cc
-16a
-=3
-16b-
-16g
-16b-
-16a
-8f
-=4
-16f
-16a
-8cc
-16a
-16f}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M3/8	*
+=1	=1
+!!LO:TX:a:t=Wtańcu.
+{8ffL	Oj
+8cc	cy
+16dd	mi
+16eeJ/	się
+=2	=2
+16ffL	kaci
+16ddJ/	.
+8ddm	da-
+16ccL	-li,
+16aJ	.
+=3	=3
+16b-L	ja
+16gJ	wyso-
+16b-L	.
+16aJ\	.
+8f	-cka
+=4	=4
+16f	a
+16a	ty
+8cc	ma-
+16aL	-ły,
+16fJ}	.
 !!LO:LB:g=esac
-=5
-{8b-
-16b-
-16a
-8f
-=6
-16a
-16b-
-8dd
-16cc
-16a
-=7
-16b-
-16g
-16b-
-16a
-8f
-=8
-16f
-16a
-8cc
-16a
-16f}
-==
-*-
+=5	=5
+{8b-	ja
+16b-L	wysocka
+16aJ\	.
+8f\	.
+=6	=6
+16a\	jest
+16b-	kali-
+8ddm	.
+16ccL	-na,
+16aJ	.
+=7	=7
+8b-	a
+16b-L	ty
+16aJ\	ma-
+8f	-ły
+=8	=8
+16f	chłopacy-
+16a	.
+8cc	.
+16aL	-na.
+16fJ}	.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!role-listener: Bachelor
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Oj cy mi się kaci dali,
+!!ja wysocka a ty mały,
+!!ja wysocka jest kalina,
+!!a ty mały chłopacyna.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: [pierwszy takt:] vel: f, e, c, e 
+!!@@END:
+!!@ONB: W siódmym takcie w drugim wariancie pierwsza nuta powinna być 8 a nie 16.
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=39 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 17} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 17}
 !!!page: 17
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-30

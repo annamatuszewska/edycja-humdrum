@@ -3,62 +3,73 @@
 !!!source: DWOK17
 !!!id: 17071
 !!!signature: 1707100002
-**kern
-*clefG2
-*k[f#]
-*e:
-*M3/8
-=1
-{8ee
-8ee
-16ee
-16dd#
-=2
-16ee
-16dd#
-8ee
-16ee
-16dd#
-=3
-16ee
-16dd#
-8b
-16g
-16f#
-=
-24e
-24f#
-24g
-8b
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*e:	*
+*M3/8	*
+=1	=1
+{8ee	Oj
+8ee	na
+16eeL	Ta-
+16dd#J	.
+=2	=2
+16ee	-t-
+16dd#	-arach
+8ee	grają
+16eeL	.
+16dd#J	.
+=3	=3
+16eeL	da
+16dd#J	.
+8b	na
+16gL	Wrot-
+16f#J	.
+=4	=4
+*Xtuplet	*
+24eL	-ko-
+24f#	.
+24gJ	-wie
+8b	słychać,
+8g}	.
 !!LO:LB:g=esac
-=4
-{8f#
-8a
-16g
-16f#
-=
-24e
-24f#
-24g
-8b
-8cc
-=
-8a
-8a
-24a
-24g
-24f#
-=
-24e
-24f#
-24g
-8b
-8e}
-==
-*-
+=5	=5
+{8f#	oj
+8aM	przyjdzie
+16g	.
+16f#	.
+=6	=6
+24eL	Wrotkowiankom
+24f#	.
+24gJ	.
+8b	.
+8cc	.
+=7	=7
+8a\	da
+8a\	od
+24aL	ża-
+24g	.
+24f#J	.
+=8	=8
+24eL	-lu
+24f#	.
+24gJ	.
+8b	wzdychać.
+8e}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Oj na Tatarach grają
+!!da na Wrotkowie słychać,
+!!oj przyjdzie Wrotkowiankom
+!!da od żalu wzdychać.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=49 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 27} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 27}
 !!!page: 27
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-30

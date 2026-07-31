@@ -3,95 +3,132 @@
 !!!source: DWOK17
 !!!id: 17004
 !!!signature: 1700400000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16f
-16e
-8.f
-16g
-=2
-16.a
-32a
-8.a
-16a
-=3
-16.a
-32a
-16a
-16a
-16g
-16a
-=4
-4cc
-8g}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16f	Pastereczka
+16e	.
+8.f	.
+16g	.
+=2	=2
+16.a	świt
+32a	postrzega,
+8.a	.
+16a	.
+=3	=3
+16.a	roskoszna
+32a	.
+16a	.
+16a	w_gaj
+16g	się
+16a	od-
+=4	=4
+4cc	-da-
+8g}	-la,
 !!LO:LB:g=esac
-=5
-{16b-
-16a
-8g
-8g
-=6
-16a
-16g
-8f
-8f
-=7
-16g
-16a
-8b-
-8b-
-=8
-16cc
-16cc
-8.ff
-16a}
+=5	=5
+{16b-/	swywoląc
+16a	.
+8g	.
+8g	po-
+=6	=6
+16a	-la
+16g	przebie-
+8f	.
+8f	-ga,
+=7	=7
+16g	a
+16a	po
+8b-	po-
+8b-	-lu
+=8	=8
+16cc	się
+16cc	roz-
+8.ff	-le-
+16a\}	-ga:
 !!LO:LB:g=esac
-=9
-{16dd
-16cc
-8.b-
-16g
-=10
-16a
-16a
-8.cc
-16a
-=11
-16g
-16g
-8cc
-16b-
-16g
-=12
-4b-
-8a}
+=9	=9
+{16dd	la
+16cc	la
+8.b-L	la,
+16gJ	la
+=10	=10
+16a	la
+16a	la
+8.ccL	la
+16aJ/	la
+=11	=11
+16g	la,
+16g	la
+8cc	.
+16b-L	la
+16gJ	la,
+=12	=12
+4b-/	la
+8a}	la
 !!LO:LB:g=esac
-=13
-{16dd
-16cc
-4b-
-=14
-16a
-16a
-4cc
-=15
-16g
-16g
-8cc
-16b-
-16e
-=16
-4f}
-8r
-==
-*-
+=13	=13
+{16dd	la,
+16cc	.
+4b-	la
+=14	=14
+16a	la
+16a	la
+4cc	.
+=15	=15
+16g	la
+16g	la
+8cc	la,
+16b-L	la
+16eJ\	.
+=16	=16
+4f\}	la
+8r	.
+==	==
+*-	*-
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Pastereczka świt postrzega,
+!!roskoszna w gaj się oddala,
+!!swywoląc pola przebiega,
+!!a po polu się rozlega:
+!!la la la!
+!!@VERSE:
+!!2. Ten ją podarkiem wstążeczek,
+!!ten łzą, ten piosnką zniewala.
+!!Ona żartuje z piosneczek,
+!!z łez i z serca i z wstążeczek,
+!!la la la!
+!!@VERSE:
+!!3. Wyszła mrokiem między skały,
+!!w skałach flet ozwał się zdała,
+!!nucił pasterz zadumały,
+!!a echa mu powtarzały:
+!!la la la!
+!!@VERSE:
+!!4. I zwabił ją do parowu,
+!!tam całuje i wychwala.
+!!Ona rzekła: grajmy znowu!
+!!i zagrali: la la la la,
+!!la la la!
+!!@VERSE:
+!!5. Ten głos szczęścia umilkł wcześnie
+!!teraz pasterz od niéj zdała,
+!!i tylko czasami we śnie
+!!brzmią jéj w uszach dawne pieśni:
+!!la la la!
+!!@@END: VERSES
 !!!ONB: Wariant t. 4: 5__.4_2__
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=24 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 2} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 2}
 !!!page: 2
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-30

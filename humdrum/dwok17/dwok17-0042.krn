@@ -3,62 +3,77 @@
 !!!source: DWOK17
 !!!id: 17042
 !!!signature: 1704200000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16a
-16dd
-8dd
-8dd
-=2
-8dd
-16cc#
-16a
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16a\	Oj
+16dd	jadę
+8dd	.
+8dd	ci
+=2	=2
+8dd	ja
+8ddq	.
+16cc#L	ja-
+16aJ	.
+8g}	-dę,
 !!LO:LB:g=esac
-=3
-{16a
-16dd
-8dd
-16ee
-16dd
-=4
-16dd
-16cc#
-16cc#
-16a
-8g}
+=3	=3
+{16a	da
+16dd	wszystko
+8ddL	.
+16ee	chfur-
+16ddJ/	.
+=4	=4
+16ddL	-ma-
+16cc#J/	.
+8ddq	.
+16cc#L	-ne-
+16aJ	.
+8g}	-cką
 !!LO:LB:g=esac
-=5
-{16a
-16e
-8f#
-16f#
-16e
-=6
-8d
-8f#
-16a
-16f#}
+=5	=5
+{16a\	da
+16d\	dajcie
+8f#\	.
+8gq	.
+16f#L	mi
+16e	.
+=6	=6
+8dL	po-
+8f#	-ga-
+16a	-dać,
+16f#J}	.
 !!LO:LB:g=esac
-=7
-{16a
-16g
-8f#
-16f#
-16e
-=8
-8d
-16e
-16f#
-8g}
-==
-*-
+=7	=7
+{16aL	da
+16g	ze
+8f#J	swą
+8gq	.
+16f#L	ko-
+16eJ	.
+=8	=8
+8d\	-cha-
+16eL	-ne-
+16f#J\	.
+8g\}	-cką.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Oj jadę ci ja jadę,
+!!da wsystko chfurmanecką
+!!da dajcie mi pogadać,
+!!da ze swą kochanecką.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=42 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 20} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 20}
 !!!page: 20
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-30

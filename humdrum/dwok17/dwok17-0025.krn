@@ -3,54 +3,62 @@
 !!!source: DWOK17
 !!!id: 17025
 !!!signature: 1702500000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{8cc
-8cc
-8ee
-=2
-16ee
-16dd
-8cc
-8a
-=3
-8ee
-16dd
-16cc
-16b-
-16a
-=4
-16g
-16e
-8f
-8a}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{8cc	Oj
+8ccL	żeby
+8eeJ/	.
+=2	=2
+16eeL	nie
+16ddJ/	kowale,
+8cc	.
+8a\	.
+=3	=3
+8eeL	nie
+16dd	chłopy,
+16cc	.
+16b	.
+16aJ/	.
+=4	=4
+16g	nie
+16e	rolnicy,
+8f	.
+8a}	.
 !!LO:LB:g=esac
-=5
-{8cc
-8cc
-16b
-16cc
-=6
-8dd
-8cc
-8a
-=7
-8cc
-8cc
-8b-
-=8
-16g
-16e
-8f
-8a}
-==
-*-
+=5	=5
+{8cc	oj
+8cc	toby
+16bL	.
+16ccJ	.
+=6	=6
+8dd	kata
+8cc	zjedli
+8a\	.
+=7	=7
+8cc	da
+8cc	wszyscy
+8b	.
+=8	=8
+16g	rzemieśnicy.
+16e	.
+8f	.
+8a}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Oj żeby nie kowale, nie chłopy, nie rolnicy,
+!!oj toby kata zjedli da wszyscy rzemieśnicy.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=38 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 16} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 16}
 !!!page: 16
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-30

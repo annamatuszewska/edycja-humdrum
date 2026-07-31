@@ -3,92 +3,114 @@
 !!!source: DWOK17
 !!!id: 17046
 !!!signature: 1704600000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{8g
-16b-
-16g
-8cc
-=2
-16ee
-16gg
-8gg
-8dd
-=3
-8ff
-8ff
-8ee
-=4
-16cc
-16ee
-16ee
-16dd
-8b-}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{8g	Oj
+16bL	u
+16g	.
+8ccJ	na-
+=2	=2
+16eeL	-sego
+16ggJ/	.
+8ggL	pa-
+8ddJ/	-na,
+=3	=3
+8ffL	da
+8ffJ/	koni-
+8ee	.
+=4	=4
+16ccL	-ki
+16eeJ/	jak
+16eeL	ściana,
+16ddJ/	.
+8b}	.
 !!LO:LB:g=esac
-=5
-{8g
-8b-
-8cc
-=6
-16ee
-16dd
-8ff
-8cc
-=7
-8dd
-8ff
-8ee
-=8
-16cc
-16cc
-8dd
-8b-}
+=5	=5
+{8g	oj
+8b	u
+8cc	na-
+=6	=6
+16ee	-sego
+16dd	.
+8ff	pa-
+8cc	-na,
+=7	=7
+8dd	da
+8ff	koni-
+8ee	.
+=8	=8
+16cc	-ki
+16cc	jak
+8dd	ściana,
+8b}	.
 !!LO:LB:g=esac
-=9
-{8g
-8b-
-8cc
-=10
-8ee
-8ff
-8cc
-=11
-8ee
-8ff
-8cc
-=12
-16cc
-16cc
-8dd
-8b-}
+=9	=9
+{8g	oj
+8b	bo
+8cc	im
+=10	=10
+8ee	nie
+8ffL	żałuje
+8ccJ	.
+=11	=11
+8ee	da
+8ffL	furma-
+8ccJ	.
+=12	=12
+16ccL	-nicek
+16ccJ	.
+8ddL	siana,
+8bJ}	.
 !!LO:LB:g=esac
-=
-{8g
-24b-
-24g
-24b-
-8cc
-=
-24ee
-24cc
-24ee
-8ff
-8cc
-=13
-16cc
-16ee
-16ee
-16dd
-8b-}
-==
-*-
+=13	=13
+*Xtuplet	*
+{8g	oj
+24bL	bo
+24g	.
+24bJ	.
+8cc	im
+=14	=14
+24eeL	nie
+24cc	.
+24eeJ/	żałuje
+8ffL	.
+8ccJ	.
+=15	=15
+24eeL	da
+24cc	.
+24eeJ/	.
+8ffL	furma-
+8ccJ	.
+=16	=16
+16ccL	-nicek
+16eeJ/	.
+16eeL	siana.
+16dd	.
+8bJ/}	.
+==	==
+*-	*-
+!!!role-singer: Narrator/Peasant
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Oj u naszego pana,
+!!da koniki jak ściana,
+!!oj bo im nie żałuje
+!!da furmanicek siana.
+!!@VERSE:
+!!2. Oj u naszego pana
+!!da koniki jak piece,
+!!oj bo im furmanicek
+!!da drobne sianko siece.
+!!@@END: VERSES
 !!!ONB: Nuta Ser. I. nr 131. 190. 197. - Ser. XIII. nr 196. 278, 279. 399
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=43 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 21} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 21}
 !!!page: 21
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-30

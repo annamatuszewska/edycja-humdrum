@@ -3,57 +3,71 @@
 !!!source: DWOK17
 !!!id: 17061
 !!!signature: 1706100000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=
-{24f
-24a
-24b-
-8cc
-8ff
-=1
-16ff
-16ff
-8ee
-8cc
-=2
-8dd
-8a
-16b-
-16dd
-=3
-16cc
-16cc
-8a
-8f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+*Xtuplet	*
+{24fL	Wi-
+24a	.
+24b-J	-centowa
+8ccL	.
+8ffJ/	ku-
+=2	=2
+16ffL	.
+8ggq	-rę
+16ffJ/	dali,
+8eeL	.
+8ccJ/	żeby
+=3	=3
+8ddM	.
+8a\	w_karcmie
+16b-	.
+16dd	tańcowa-
+=4	=4
+16cc	.
+8ddq	.
+16cc	.
+8a	-li.
+8f}	.
 !!LO:LB:g=esac
-=4
-{8g
-8g
-16b-
-16f
-=5
-16f
-16f
-8a
-8cc
-=6
-8dd
-8a
-16b-
-16dd
-=7
-16cc
-16cc
-8a
-8f}
-==
-*-
+=5	=5
+{8g\	Wi-
+8g\	-centowéj
+16b-	.
+16f\	.
+=6	=6
+16f\	ku-
+16f\	-rę
+8a\	wzieni,
+8cc	.
+=7	=7
+8dd	Wicentowa
+8a\	.
+16b-	.
+16dd	.
+=8	=8
+16cc	sto-
+8ddq	.
+16cc	-ją
+8a	w_sieni.
+8f}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Wicentowa kurę dali,
+!!żeby w karcmie tańcowali.
+!!Wicentowéj kurę wzieni,
+!!Wicentowa stoją w sieni.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=47 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 25} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 25}
 !!!page: 25
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-30

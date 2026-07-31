@@ -3,55 +3,66 @@
 !!!source: DWOK17
 !!!id: 17088
 !!!signature: 1708800000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8b
-8dd
-8ee
-=2
-8b
-8dd
-8g
-=3
-8b
-8dd
-16ee
-16dd
-=4
-8b
-8dd
-16a
-16g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8b	Po
+8dd	ćtyry
+8ee	.
+=2	=2
+8b	po
+8dd	ćty-
+8g\	-ry,
+=3	=3
+8b	za
+8dd	Jasiem
+16eeL	.
+16ddJ/	.
+=4	=4
+8b	chodzi-
+8ddL	.
+16a	-ły,
+16gJ/}	.
 !!LO:LB:g=esac
-=5
-{8cc
-16a
-16f#
-8g
-=6
-8b
-8dd
-16ee
-16dd
-=7
-16b
-16cc
-16a
-16f#
-8g
-=8
-8b
-8g
-16e
-16d}
-==
-*-
+=5	=5
+{8cc	a
+16aL	ja
+16f#J	.
+8g	sa-
+=6	=6
+8bL	-ma
+8dd	je-
+16ee	-dna,
+16ddJ/	.
+=7	=7
+16bL	Jasieńkam
+16ccJ/	.
+16aL	.
+16f#J	.
+8g	.
+=8	=8
+8b	zuwie-
+8g\	.
+16eL	-dła.
+16dJ\}	.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Po ćtyry po ćtyry,
+!!za Jasiem chodziły,
+!!a ja sama jedna,
+!!Jasieńkam zuwiedła.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=54 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 32} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 32}
 !!!page: 32
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-30

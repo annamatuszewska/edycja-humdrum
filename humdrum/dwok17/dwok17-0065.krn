@@ -3,57 +3,76 @@
 !!!source: DWOK17
 !!!id: 17065
 !!!signature: 1706500000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16cc
-16ee
-8ff
-8cc
-=2
-16cc
-16ee
-8ff
-8ff
-=3
-16cc
-16ee
-8ff
-8cc
-=4
-16b-
-16g
-8f
-8f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16cc	Na
+16ee	Tata-
+8ff	.
+8ccM	-rach
+=2	=2
+16ccL	zuboża-
+16eeJ/	.
+8ffL	.
+8ffJ/	-ło,
+=3	=3
+16cc	dzieweczek
+16ee	.
+8ff	.
+8ccM	nam
+=4	=4
+16b-	nie
+16g\	dostało
+8f\	.
+8f\}	.
 !!LO:LB:g=esac
-=5
-{16cc
-16cc
-8a
-8cc
-=6
-16b-
-16dd
-8cc
-8a
-=7
-16cc
-16cc
-8a
-8cc
-=
-24b-
-24a
-24g
-8a
-8f}
-==
-*-
+=5	=5
+{16cc	Jest
+16cc	tam
+8a\	jedna,
+8ccM	.
+=6	=6
+16b-L	jest
+8ccqs	.
+16ddJ/	tam
+8ccL	druga,
+8aJ/	.
+=7	=7
+16cc	to
+16cc	dziewczyna,
+8a\	.
+8ccM	.
+=8	=8
+*Xtuplet	*
+24b-L	to
+24a	.
+24gJ\	.
+8a\	nadobna.
+8f\}	.
+==	==
+*-	*-
+!!!role-singer: Bachelors
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Na Tatarach zubożało,
+!!dzieweczek nam nie dostało
+!!Jest tam jedna, jest tam druga,
+!!to dziewczyna, to nadobna.
+!!@VERSE:
+!!2. Ma ona wianek z łobody,
+!!pójdzie za chłopa przed gody.
+!!@VERSE:
+!!3. Ma ona wianek z kapusty.
+!!pójdzie za chłopa w zapusty.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=48 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 26} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 26}
 !!!page: 26
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-30

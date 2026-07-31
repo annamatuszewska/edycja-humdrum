@@ -3,52 +3,61 @@
 !!!source: DWOK17
 !!!id: 17072
 !!!signature: 1707200002
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{8gg
-8gg
-8ee
-=2
-16ff
-16ee
-8gg
-8dd
-=3
-8gg
-8gg
-8ee
-=4
-16dd
-16b
-8cc
-8a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{8ggL	A
+8gg	dał
+8eeJ/	mi
+=2	=2
+16ffL	pan
+16eeJ/	pinię-
+8ggL	.
+8ddJ/	-dzy:
+=3	=3
+8ggL	da
+8gg	kup
+8eeJ/	se
+=4	=4
+16ddL	Jasiu
+16bJ/	.
+8ccL	konia.
+8aJ/}	.
 !!LO:LB:g=esac
-=5
-{8g
-8b
-8cc
-=6
-16ff
-16ee
-8cc
-8dd
-=7
-8ee
-8ff
-8dd
-=8
-16b
-16g
-8g
-8a}
-==
-*-
+=5	=5
+{8g\	Ja
+8b	panu
+8cc	.
+=6	=6
+16ff	odpowie-
+16ee	.
+8cc	.
+8dd	-dział,
+=7	=7
+8ee	da
+8ff	mnie
+8dd	pil-
+=8	=8
+16b	-niejsa
+16g\	.
+8cc	żona.
+8a\}	.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!A dał mi pan piniędzy: da kup se Jasiu konia.
+!!Ja panu odpowiedział, da mnie pilniejsa żona.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=50 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 28} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 28}
 !!!page: 28
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-30

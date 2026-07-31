@@ -3,56 +3,66 @@
 !!!source: DWOK17
 !!!id: 17056
 !!!signature: 1705600000
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M3/8
-=1
-{16dd
-16dd
-8cc#
-8a
-=2
-16a
-16cc#
-8.dd
-16b
-=3
-16dd
-16dd
-8cc#
-8a
-=4
-16b
-16g
-8.f#
-16d}
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M3/8	*
+=1	=1
+{16ddL	Siedmiu
+16ddJ/	.
+8cc#L	miała,
+8aJ/	.
+=2	=2
+16aL	sie-
+16cc#J/	-dmiu
+8.ddL	dała,
+16bJ/	.
+=3	=3
+16ddL	jednym
+16ddJ/	.
+8cc#L	sieczki,
+8aJ/	.
+=4	=4
+16b	drugim
+16g	.
+8.f#	siana.
+16d}	.
 !!LO:LB:g=esac
-=5
-{16e
-16e
-8d
-8f#
-=6
-16g
-16b
-8.a
-16f#
-=7
-16g
-16g
-8f#
-8a
-=8
-16b
-16g
-8.f#
-16d}
-==
-*-
+=5	=5
+{16e\	Jednym
+16e\	.
+8d\	sieczki
+8f#\	.
+=6	=6
+16g\	po
+16b	kosteczki,
+8.a\	.
+16f#\	.
+=7	=7
+16g\	drugim
+16g\	.
+8f#\	siana
+8a\	.
+=8	=8
+16b	po
+16g	kola-
+8.f#	.
+16d}	-na.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Siedmiu miała, siedmiu dała,
+!!jednym sieczki, drugim siana.
+!!Jednym sieczki po kosteczki,
+!!drugim siana po kolana.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=45 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 23} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 23}
 !!!page: 23
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-30

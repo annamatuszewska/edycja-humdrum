@@ -3,60 +3,75 @@
 !!!source: DWOK17
 !!!id: 17080
 !!!signature: 1708000000
-**kern
-*clefG2
-*k[b-e-]
-*g:
-*M3/8
-=1
-{16b-
-16dd
-16cc#
-16dd
-16ee-
-16dd
-=2
-16cc#
-16dd
-8b-
-16a
-16g
-=3
-16b-
-16dd
-8.gg
-16dd
-=4
-8cc#
-8b-
-16a
-16g}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*g:	*
+*M3/8	*
+=1	=1
+{16b-	Stara
+16dd	.
+16cc#L	ba-
+16ddJ	.
+16ee-L	-ba
+16ddJ	.
+=2	=2
+16cc#L	dziad
+16ddJ/	.
+8b-L	młody,
+16a	.
+16gJ	.
+=3	=3
+16b-	prowa-
+16dd	.
+8.ggL	-dził
+16ddJ/	ją
+=4	=4
+8cc#	do
+8b-\	wo-
+16a\	-dy
+16g\}	.
 !!LO:LB:g=esac
-=5
-{16g
-16f#
-8d
-8f#
-=6
-16g
-16dd
-8dd
-16b-
-16a
-=7
-16g
-16f#
-8d
-8f#
-=8
-8a
-8g
-16b-
-16a}
-==
-*-
+=5	=5
+{16g	A
+16f#m	od
+8d	wody
+8f#m	.
+=6	=6
+16gL	do
+16ddJ/	.
+8ddL	siana,
+16b-	.
+16aJ/	.
+=7	=7
+16g	po-
+16f#m	-tłuk
+8d	babie
+8f#m	.
+=8	=8
+8a\	ko-
+8g\	.
+16b-	-la-
+16a\}	-na.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Stara baba dziad młody,
+!!prowadził ją do wody
+!!@VERSE:
+!!2. A od wody do siana,
+!!potłuk babie kolana.
+!!@VERSE:
+!!3. A od siana do sieczki,
+!!potłuk babie kosteczki.
+!!@@END: VERSES
+!!@ONB: Text ob. nr 56.
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=52 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 30} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 30}
 !!!page: 30
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-30

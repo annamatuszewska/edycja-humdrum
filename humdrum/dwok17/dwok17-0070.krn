@@ -3,56 +3,66 @@
 !!!source: DWOK17
 !!!id: 17070
 !!!signature: 1707000000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16ff
-16ff
-8a
-8ff
-=2
-16ee
-16dd
-8b-
-8dd
-=3
-16ff
-16ff
-8a
-8ff
-=4
-16ee
-16dd
-8b-
-8a}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16ff	Niedale-
+16ff	.
+8a	.
+8ff	-ko
+=2	=2
+16ee	stawu
+16dd	.
+8b-L	rzéka,
+8ddJ/	.
+=3	=3
+16ff	stoji
+16ff	.
+8a	karczma,
+8ff	.
+=4	=4
+16ee	gra
+16dd	muzyka.
+8b-	.
+8a\}	.
 !!LO:LB:g=esac
-=5
-{16f
-16f
-8a
-8c
-=6
-16e
-16g
-8b-
-8dd
-=7
-16cc
-16cc
-8a
-8f
-=8
-16e
-16g
-8b-
-8a}
-==
-*-
+=5	=5
+{16f\	Kto
+16f\	tańcu-
+8a\	.
+8c	-je?
+=6	=6
+16eL	Kuba,
+16gJ	.
+8b-L	Jurek,
+8ddJ/	.
+=7	=7
+16ccL	ślepa
+16ccJ/	.
+8aL	dziewka
+8fJ	.
+=8	=8
+16e\	i
+16g\	Mazurek.
+8b-	.
+8a\}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Niedaleko stawu rzéka,
+!!stoji karczma, gra muzyka.
+!!Kto tańcuje? Kuba, Jurek,
+!!ślepa dziewka i Mazurek.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=49 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 27} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 27}
 !!!page: 27
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-30

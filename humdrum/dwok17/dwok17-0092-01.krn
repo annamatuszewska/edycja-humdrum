@@ -3,58 +3,70 @@
 !!!source: DWOK17
 !!!id: 17092
 !!!signature: 1709200001
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16g
-16b
-8cc
-8ee
-=2
-8dd
-8ee
-8cc
-=3
-16dd
-16ff
-16ee
-16ff
-8aa
-=4
-8aa
-16ee
-16ff
-16dd
-16b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16g\	Nie
+16b	byłem
+8cc	.
+8ee	tam
+=2	=2
+8dd	tyl-
+8ee	-ko
+8cc	raz,
+=3	=3
+16dd	nie
+16ff	pój-
+16eeL	-dę
+16ff	.
+8aaJ	tam
+=4	=4
+8aa	drugi
+16eeL	.
+16ffJ	.
+16ddL	raz,
+16bJ}	.
 !!LO:LB:g=esac
-=
-{24g
-24a
-24b
-8cc
-8ee
-=5
-8dd
-8ee
-8cc
-=6
-16b
-16b
-8a
-8a
-=7
-16g
-16b
-16a
-16b
-8dd}
-==
-*-
+=5	=5
+*Xtuplet	*
+{24gL	jak
+24a	.
+24bJ\	mi
+8cc	dali
+8ee	.
+=6	=6
+8dd	odprawę,
+8ee	.
+8cc	.
+=7	=7
+16b-i	jazem
+16b-	.
+8a\	wleciał
+8a\	.
+=8	=8
+16g\	pod
+16b	ławę.
+16aL	.
+16b	.
+8ddJ\}	.
+==	==
+*-	*-
+!!!RDF**kern: i = editorial accidental
+!!!role-singer: Worker
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Nie byłem tam tylko raz,
+!!nie pójdę tam drugi raz,
+!!jak mi dali odprawę,
+!!jazem wleciał pod ławę.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=55 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 33} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 33}
 !!!page: 33
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-30

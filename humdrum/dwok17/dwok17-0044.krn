@@ -3,86 +3,128 @@
 !!!source: DWOK17
 !!!id: 17044
 !!!signature: 1704400000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16f#
-16g
-16a
-16b
-16cc
-=2
-16dd
-16dd
-8b
-8g
-=3
-16cc
-16cc
-8ee
-8cc
-=4
-16a
-16a
-8f#
-8d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	A
+16f#	zkąd-
+16gL	-że-
+16aJ	.
+16bL	-ście
+16ccJ	.
+=2	=2
+16dd	w_téj
+8eeq	.
+16dd	sukmanie?
+8b	.
+8g	.
+=3	=3
+16cc	Od
+8bq	.
+16cc	Szkalmierza
+8ee	.
+8cc	.
+=4	=4
+16a	mo-
+8bq	.
+16a	-ści
+8f#	panie
+8d}	.
 !!LO:LB:g=esac
-=5
-{16g
-16b
-8dd
-16b
-16g
-=6
-16cc
-16cc
-8ee
-8cc
-=7
-16b
-16g
-8dd
-8b
-=
-24a
-24cc
-24a
-8f#
-8d}
+=5	=5
+{16g	A
+16b	nie
+8dd	zna-
+16bL	-cie
+16gJ	.
+=6	=6
+16cc	Przybyli-
+16cc	.
+8ee	.
+8cc	-cy
+=7	=7
+16b	przecież
+16g\	.
+8dd	w_waszéj
+8b	.
+=8	=8
+*Xtuplet	*
+24aL	o-
+24cc	.
+24aJ	-ko-
+8f#	-li-
+8d}	-cy.
 !!LO:LB:g=esac
-=8
-{16g
-16b
-8dd
-16b
-16g
-=9
-16cc
-16cc
-8ee
-8cc
-=
-24b
-24g
-24b
-8dd
-16b
-16g
-=
-24a
-24cc
-24a
-8f#
-8d}
-==
-*-
+=9	=9
+{16g	A
+16f#	zkąd-
+16gL	-że-
+16aJ	.
+16bL	-ście
+16ccJ	.
+=10	=10
+16dd	w_téj
+8eeq	.
+16dd	sukmanie?
+8b	.
+8g	.
+=11	=11
+16cc	Od
+8bq	.
+16cc	Szkalmierza
+8ee	.
+8cc	.
+=12	=12
+16a	mo-
+8bq	.
+16a	-ści
+8f#	panie
+8d}	.
+!!LO:LB:g=esac
+=13	=13
+{16g	A
+16b	nie
+8dd	zna-
+16bL	-cie
+16gJ	.
+=14	=14
+16cc	Przybyli-
+16cc	.
+8ee	.
+8cc	-cy
+=15	=15
+24bL	przecież
+24g	.
+24bJ	.
+8dd	w_waszéj
+16bL	.
+16gJ	.
+=16	=16
+24aL	o-
+24cc	.
+24aJ	-ko-
+8f#	-li-
+8d}	-cy.
+==	==
+*-	*-
+!!!role-singer: Narrator, Nobleman
+!!!role-listener: Nobleman
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!A zkądżeście w téj sukmanie?
+!!Od Szkalmierza mości panie.
+!!A nie znacie Przybylicy
+!!przecież w waszéj okolicy.
+!!@@END: VERSES
 !!!ONB: Ob. nr 96, 155
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=42 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 20} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 20}
 !!!page: 20
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-30

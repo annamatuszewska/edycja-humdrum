@@ -3,54 +3,81 @@
 !!!source: DWOK17
 !!!id: 17060
 !!!signature: 1706000001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8dd
-8b
-8ee
-=2
-16dd
-16dd
-8a
-8cc
-=3
-8b
-8dd
-8g
-=4
-16a
-16a
-8f#
-8d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8dd	Oj
+8b	puść
+8ee	ko-
+=2	=2
+16dd	-nia
+16dd	do
+8a\	ko-
+8cc	-ni,
+=3	=3
+8b	da
+8dd	sam
+8g\	se.
+=4	=4
+16a	idź
+16a	do
+8f#	żony.
+8d}	.
 !!LO:LB:g=esac
-=5
-{16d
-16f#
-8a
-8a
-=6
-8b
-8f#
-16g
-16b
-=7
-8a
-8d
-16f#
-16a
-=8
-16g
-16g
-8e
-8d}
-==
-*-
+=5	=5
+{16d	Oj
+16f#	puść
+8a	konia
+8a	.
+=6	=6
+8b	niech
+8f#\	le-
+16gL	-ci,
+16bJ\	.
+=7	=7
+8aM\	da
+8d	sam
+16f#	se
+16a	idź
+=8	=8
+16g\	do
+16g\	.
+8e	dzieci.
+8d}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Husband
+!!!role-listener: Wife, Children
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Oj puść konia do koni,
+!!da sam se idź do żony,
+!!Oj puść konia niech leci,
+!!da sam se idź do dzieci.
+!!@VERSE:
+!!1. Ej murawa, murawa,
+!!da na murawie ława,
+!!ej najmilsa mi z tobą
+!!da zoneczko zabawa.
+!!@VERSE:
+!!2. Ej murawa, murawa,
+!!da na murawie sanie,
+!!ej najmilsze mi z wami
+!!da dzieciaki gadanie.
+!!@VERSE:
+!!3. Ej dzieci moje, dzieci,
+!!da co-ście mnie obsiadły,
+!!— ej nie siał ja, nie orał,
+!!— da cóż będziecie jadły?
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=46 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 24} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 24}
 !!!page: 24
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-30

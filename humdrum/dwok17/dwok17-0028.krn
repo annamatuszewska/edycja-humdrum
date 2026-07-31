@@ -3,60 +3,71 @@
 !!!source: DWOK17
 !!!id: 17028
 !!!signature: 1702800000
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/8
-=1
-{16a
-16cc#
-8ee
-8ee
-=2
-8dd
-8ee
-16cc#
-16b}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M3/8	*
+=1	=1
+{16a\	Oj
+16cc	już
+8ee	byłem
+8ee	.
+=2	=2
+8ddL	za
+8ee	wo-
+16cc#	-dą,
+16bJ/}	.
 !!LO:LB:g=esac
-=3
-{16a
-16cc#
-8ee
-8ee
-=4
-8dd
-16cc#
-16b
-8a}
+=3	=3
+{16a\	da
+16cc#	jak
+8ee	ją
+8ee	ma-
+=4	=4
+8dd	-tka
+16ccL	bi-
+16bJ	.
+8a}	-ła,
 !!LO:LB:g=esac
-=5
-{16g#
-16e
-16f##
-16g#
-8b
-=6
-8a
-8a
-16e
-16f##}
+=5	=5
+{16g#	Oj
+16e	mu-
+16f#L	-sia-
+16g#J	.
+8b	-łem
+=6	=6
+8a\	się
+8a\	wró-
+16eL	-cić,
+16f#J\}	.
 !!LO:LB:g=esac
-=7
-{16g#
-16e
-16f##
-16g#
-8b
-=8
-8dd
-16cc#
-16b
-8a}
-==
-*-
+=7	=7
+{16g#	da
+16e	bo
+16f#L	to
+16g#J	.
+8b	mo-
+=8	=8
+8ddL	-ja
+16cc	mi-
+16b	.
+8aJ/}	-ła.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Oj już byłem za wodą,
+!!da jak ją matka biła,
+!!Oj musiałem się wrócić,
+!!da bo to moja miła.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=38 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 16} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 16}
 !!!page: 16
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-30

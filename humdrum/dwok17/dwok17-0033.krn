@@ -3,56 +3,71 @@
 !!!source: DWOK17
 !!!id: 17033
 !!!signature: 1703300000
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/8
-=1
-{8ee
-8dd#
-8ee
-=2
-16ff##
-16ee
-8dd
-16ee
-16b
-=3
-8cc#
-8cc#
-8ee
-=4
-16dd
-16b
-8a
-16g#
-16e}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M3/8	*
+=1	=1
+{8eeL	Ej
+8dd#	le-
+8eeJ/	-ci
+=2	=2
+16ff#L	głos
+16eeJ/	po
+8dd#L	rosie,
+16ee	.
+16bJ/	.
+=3	=3
+8cc#	ej
+8cc#	po
+8ee	po-
+=4	=4
+16dd	-lu
+16b	po
+8aL	lesie.
+16g#	.
+16eJ}	.
 !!LO:LB:g=esac
-=5
-{8g#
-8g#
-16g#
-16e
-=6
-16g#
-16a
-8cc#
-16b
-16a
-=7
-8cc#
-8cc#
-8ee
-=8
-16dd
-16b
-8a
-8g#}
-==
-*-
+=5	=5
+{8g#\	Ej
+8g#\	co
+16g#L	lu-
+16eJ\	.
+=6	=6
+16g#\	-dzie
+16a\	ga-
+8cc	-da-
+16bL	-ją,
+16aJ\	.
+=7	=7
+8cc#	wszystko
+8cc#	.
+8ee	to
+=8	=8
+16dd	wiatrek
+16b	.
+8a\	niesie.
+8g#\}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Ej leci głos po rosie,
+!!ej po polu po lesie.
+!!Ej co ludzie gadają,
+!!wszystko to wiatrek niesie.
+!!@VERSE:
+!!2. Oj co ludzie gadają,
+!!wszystko o naszéj doli, —
+!!ej, niech o to nikogo
+!!da główeńka nie boli.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=39 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 17} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 17}
 !!!page: 17
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-30

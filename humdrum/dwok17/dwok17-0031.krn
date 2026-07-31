@@ -3,61 +3,88 @@
 !!!source: DWOK17
 !!!id: 17031
 !!!signature: 1703100000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{8ff
-8cc
-16dd
-16ee
-=2
-16ff
-16ff
-8ee
-16dd
-16cc}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{8ff	Oj
+8cc	w_dziedzi-
+16ddL	.
+16eeJ/	.
+=2	=2
+16ffL	-cowym
+16ffJ/	.
+8eeL	sa-
+16dd	-dzie,
+16ccJ/}	.
 !!LO:LB:g=esac
-=3
-{8ff
-8cc
-16cc
-16g
-=4
-16b-
-16a
-8f
-8g}
+=3	=3
+{8ff	da
+8cc	drzewi-
+16ccL	.
+16gJ\	.
+=4	=4
+16b-	-na
+16a\	się
+8f\	kładzie,
+8g\}	.
 !!LO:LB:g=esac
-=5
-{16g
-16b-
-8cc
-16g
-16b-
-=6
-16b-
-16cc
-8ee
-8dd}
+=5	=5
+{16g\	Oj
+16b-	.
+8cc	Jasio
+16gL	.
+16b-J\	.
+=6	=6
+16b-L	ją
+16ccJ/	podnosi,
+8eeL	.
+8ddJ/}	.
 !!LO:LB:g=esac
-=7
-{16dd
-16b-
-8cc
-16cc
-16g
-=8
-16b-
-16a
-8f
-8g}
-==
-*-
+=7	=7
+{16ddL	da
+16b-J/	o
+8cc	dziew-
+16ccL	.
+16gJ	.
+=8	=8
+16b-	-czynę
+16a\	.
+8f\	prosi.
+8g\}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, People, Bachelor
+!!!role-listener: People
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Oj w dziedzicowym sadzie,
+!!da drzewina się kładzie,
+!!Oj Jasio ją podnosi,
+!!da o dziewczynę prosi.
+!!@VERSE:
+!!2. Oj w dziedzicowéj sieni
+!!da grają chłopcy w dudki, —
+!!oj wynosi Kasiunia
+!!da z baryłeńką wódki.
+!!@VERSE:
+!!3. Oj z baryłeńką wódki,
+!!da z koneweńką piwa.
+!!Oj pytają się ludzie:
+!!da czyja to dziewczyna?
+!!@VERSE:
+!!4. Oj czyja to dziewczyna,
+!!da czyja to panienka?
+!!Oj tupnął Jasio nogą:
+!!to moja kochaneńka!
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=39 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 17} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 17}
 !!!page: 17
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-30

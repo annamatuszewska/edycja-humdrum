@@ -3,55 +3,78 @@
 !!!source: DWOK17
 !!!id: 17053
 !!!signature: 1705300001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16b
-16a
-8cc
-8b
-=2
-8dd
-8ff#
-8ee
-=3
-16dd
-16dd
-8cc#
-8b
-=4
-8a
-8f#
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16b	Oj
+16a\	wyjeżdżaj
+8cc	.
+8b	.
+=2	=2
+8dd	wyjeżdżaj
+8ff#	.
+8ee	.
+=3	=3
+16dd	da
+16dd	z_podwórza
+8cci#	.
+8b	.
+=4	=4
+8a	mo-
+8f#\	-je-
+8g}	-go,
 !!LO:LB:g=esac
-=5
-{16b
-16dd
-8cc#
-16b
-16f#
-=6
-8a
-8cc
-16b
-16g
-=7
-16b
-16dd
-8cc#
-16b
-16g
-=8
-8a
-8f#
-8g}
-==
-*-
+=5	=5
+{16b	a
+16dd	bo
+8cc#	ja
+16bL	się
+16f#J	.
+=6	=6
+8a	spodzie-
+8ccn	.
+16bL	-wam
+16gJ\	da
+=7	=7
+16b	kogo
+16dd	.
+8cc#	go-
+16bL	.
+16gJ\	-dniejsze-
+=8	=8
+8a	.
+8f#\	-go.
+8g}	.
+==	==
+*-	*-
+!!!RDF**kern: i = editorial accidental
+!!!role-singer: Maiden, Bachelor
+!!!role-listener: Bachelor, Maiden
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Oj wyjeżdżaj wyjeżdżaj
+!!da z podwórza mojego,
+!!a bo ja się spodziewam
+!!da kogo godniejszego.
+!!@VERSE:
+!!2. Oj skoro ja odjadę
+!!a insy nie przyjedzie,
+!!oj moja ty dziewcyno
+!!da żal ci tego będzie.
+!!@VERSE:
+!!3. Oj skoro tyś odjechał,
+!!da siedmiu przyjechało,
+!!a widzis ty hultaju,
+!!da na mojém się stało.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=44 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 22} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 22}
 !!!page: 22
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-30

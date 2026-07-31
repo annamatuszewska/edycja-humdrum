@@ -3,108 +3,145 @@
 !!!source: DWOK17
 !!!id: 17013
 !!!signature: 1701300000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/4
-=1
-{4ff
-4ee
-8dd
-8ee
-=2
-2ff
-4a
-=3
-8cc
-8b-
-4.b-
-8g
-=4
-8b-
-8a
-2a}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/4	*
+=1	=1
+{4ff	Maj-
+(4ee	-tek
+8dd)	.
+8ee	u-
+=2	=2
+2ff	-bo-
+4a\	-gi
+=3	=3
+8cc	puścił
+8b-	.
+4.b-	się
+8g	na
+=4	=4
+8b-L	mo-
+8aJ	.
+2a}	-rze,
 !!LO:LB:g=esac
-=5
-{8ff
-8ee
-4ee
-8dd
-8ee
-=6
-2ff
-8a
-8cc
-=7
-8cc
-8b-
-4.b-
-8g
-=8
-8b-
-8a
-2a}
+=5	=5
+{8ffL	maj-
+8eeJ/	.
+(4ee	-tek
+8dd)	.
+8ee	u-
+=6	=6
+2ff	-bo-
+8aL	-gi
+8ccJ/	.
+=7	=7
+8cc	puścił
+8b-	.
+4.b-	się
+8g	na
+=8	=8
+8b-L	mo-
+8aJ	.
+2a}	-rze.
 !!LO:LB:g=esac
-=9
-{4a
-8cc
-8cc
-8dd
-8cc
-=10
-8cc
-8b-
-8g
-8b-
-8b-
-8a
-=11
-4a
-8cc
-8cc
-8dd
-8cc
-=12
-8cc
-8b-
-8g
-8b-
-8a
-8f}
+=9	=9
+{4a\	Majtek
+8cc	.
+8cc	u-
+8dd	-bogi
+8cc	.
+=10	=10
+8cc	chciał
+8b-	przewidzieć
+8g	.
+8b-	.
+8b-	świata,
+8a\	.
+=11	=11
+4a\	i
+8cc	świat
+8cc	zwiedziwszy
+8dd	.
+8cc	.
+=12	=12
+8cc	wraca
+8b-	.
+8g	za
+8b-	trzy
+8a	lata,
+8f}	.
 !!LO:LB:g=esac
-=13
-{8a
-8cc
-8cc
-8cc
-8dd
-8cc
-=14
-8cc
-8b-
-8g
-8b-
-8b-
-8a
-=15
-8a
-8cc
-8cc
-8cc
-8dd
-8cc
-=16
-8cc
-8b-
-8g
-8b-
-8a
-8f}
-==
-*-
+=13	=13
+{8aL	majtek
+8ccJ/	.
+8cc	u-
+8cc	-bogi
+8dd	.
+8cc	chciał
+=14	=14
+8cc	przewidzieć
+8b-	.
+8g	.
+8b-	świata,
+8b-	.
+8a\	.
+=15	=15
+8aL	i
+8ccJ/	świat
+8cc	zwiedziwszy
+8cc	.
+8dd	.
+8cc	.
+=16	=16
+8cc	wraca
+8b-	.
+8g	za
+8b-	trzy
+8a	lata.
+8f}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Husband, Wife
+!!!role-listener: Wife, Husband
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Majtek ubogi puścił się na morze,
+!!zostawił żonkę piękniejszą jak zorze.
+!!Majtek ubogi chciał przewidzieć świata,
+!!i świat zwiedziwszy wraca się w trzy lata.
+!!@VERSE:
+!!2. Powraca do domu z miłością gorącą,
+!!zastaje żonkę przed domem stojącą.
+!!Ściska, całuje i mówi te słowa:
+!!— Jakże się tu miewasz, czyli żyjesz zdrowa?
+!!@VERSE:
+!!3. Czyj-że to domek i szkiełka i kwiatki?—
+!!— Tak Pan Bóg, mężu, obdarza swe dziatki.—
+!!— Czyjaż kanapa?— majtek w domu pyta.
+!!— Opatrzność Boska dała nam obfita.
+!!@VERSE:
+!!4. — Czyjeż te lustra, od kogo kobierce ?—
+!!powiédz mi żono, zaspokój me serce.
+!!— Wszystko to, mężu, z dobrotliwéj ręki,
+!!klęknijmy wzajem, czyńmy Bogu dzięki.—
+!!@VERSE:
+!!5. Majtek uklęknął, składa Bogu dary,
+!!w tém mamka wchodzi, syn pół roku stary.
+!!— Czyjeż to dziécię?— majtek żony pyta.
+!!— Opatrzność Boska dała nam obfita.
+!!@VERSE:
+!!6. — Ej żono, żono, mogę mówić śmiele,
+!!że się Bóg rządził w mym domu za wiele.
+!!— Ej nie bluźń, mężu, jaki z ciebie duda,
+!!wszak jest w przepisach, — że Bóg robi cuda.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=27 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 5} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 5}
 !!!page: 5
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-30

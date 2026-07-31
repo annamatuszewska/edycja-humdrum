@@ -3,90 +3,106 @@
 !!!source: DWOK17
 !!!id: 17035
 !!!signature: 1703500000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{8ee
-8gg
-8ff
-=2
-16ff
-16aa
-8gg
-8ee
-=3
-8cc
-8ee
-8ff
-=4
-16dd
-16dd
-8b-
-8g}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{8ee	Ej
+8gg	fartu-
+8ff	.
+=2	=2
+16ff	-szek
+16aa	z_jabłuszek,
+8gg	.
+8ee	.
+=3	=3
+8cc	a
+8ee	zapa-
+8ff	.
+=4	=4
+16dd	-seńka
+16dd	.
+8b-	z_maku,
+8g}	.
 !!LO:LB:g=esac
-=5
-{8cc
-8a
-8a
-=6
-16b-
-16b-
-8dd
-8b-
-=7
-8g
-8e
-8e
-=8
-16f
-16f
-8a
-8cc}
+=5	=5
+{8cc	oj
+8a	poszłam
+8a	.
+=6	=6
+16b-	za
+16b-	stare-
+8dd	.
+8b-	-go
+=7	=7
+8g	da
+8e	nie
+8e	u-
+=8	=8
+16f	-źyłam
+16f	.
+8a\	smaku.
+8cc}	.
 !!LO:LB:g=esac
-=9
-{8ee
-8gg
-8ff
-=10
-16ff
-16aa
-8gg
-8ee
-=11
-8ee
-8ff
-8ff
-=12
-16dd
-16dd
-8b-
-8g}
+=9	=9
+{8ee	Ej
+8gg	fartu-
+8ff	.
+=10	=10
+16ff	-szek
+16aa	z_jabłuszek,
+8gg	.
+8ee	.
+=11	=11
+8eeL	a
+8ffJ/	zapa-
+8ff	.
+=12	=12
+16dd	-seńka
+16dd	.
+8b-	z_maku,
+8g}	.
 !!LO:LB:g=esac
-=13
-{8cc
-8a
-8a
-=14
-16b-
-16b-
-8dd
-8b-
-=15
-8g
-8e
-8e
-=16
-16f
-16f
-8a
-8cc}
-==
-*-
+=13	=13
+{8cc	oj
+8a	poszłam
+8a	.
+=14	=14
+16b-	za
+16b-	stare-
+8dd	.
+8b-	-go
+=15	=15
+8g	da
+8e	nie
+8e	u-
+=16	=16
+16f	-źyłam
+16f	.
+8a\	smaku.
+8cc}	.
+==	==
+*-	*-
+!!!role-singer: Young Wife
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1.Ej fartuszek z jabłuszek,
+!!a zapaseńka z maku,
+!!oj poszłam za starego
+!!da nie uźyłam smaku.
+!!@VERSE:
+!!2. Ej nie użyłam smaku,
+!!da ni żadnéj pociechy,
+!!oj przytulę gębusię
+!!da jak do staréj strzechy.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=40 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 18} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 18}
 !!!page: 18
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-30

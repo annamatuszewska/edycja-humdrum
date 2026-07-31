@@ -3,53 +3,70 @@
 !!!source: DWOK17
 !!!id: 17068
 !!!signature: 1706800010
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16dd
-16cc#
-8a
-8cc#
-=2
-16dd
-16a
-8.a
-16g
-=3
-8.f#
-16d
-8e
-=4
-16.d
-32f#
-8f#
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16dd;L	Oj
+16cc#J/	ja-
+8cc#q	.
+8aL	-dę
+8cc#J/	.
+=2	=2
+16ddL	ja
+16aJ/	se
+8.a;	.
+16g	jadę,
+=3	=3
+8.f#	da
+16d	bicy-
+8e	.
+=4	=4
+16.d	-kiem
+32f#	se
+8f#	śmigam,
+8g}	.
 !!LO:LB:g=esac
-=5
-{16d
-16a
-8g
-8b
-=6
-8b
-8.a
-16g
-=7
-8.f#
-16d
-8e
-=8
-16.d
-32f#
-8f#
-8g}
-==
-*-
+=5	=5
+{16d\	oj
+16a\	do-
+8g\	-bre
+8b	ko-
+=6	=6
+8b	-ni-
+8.a;	-ki
+16g	mam,
+=7	=7
+8.f#	da
+16d	za
+8e	nie-
+=8	=8
+16.d	-mi
+32f#	nie
+8f#	dźwigam.
+8g}	.
+==	==
+*-	*-
+!!!role-singer: Carter
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Oj jadę ja se jadę,
+!!da bicykiem se śmigam,
+!!oj dobre koniki mam,
+!!da za niemi nie dźwigam.
+!!@VERSE:
+!!2. Oj jadę, ja se jadę
+!!da wsystko furmanecką,
+!!oj nie z jakim towarem,
+!!da tylko z kochanecką.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=49 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 27} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 27}
 !!!page: 27
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-30

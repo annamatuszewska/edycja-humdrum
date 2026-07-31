@@ -3,94 +3,115 @@
 !!!source: DWOK17
 !!!id: 17063
 !!!signature: 1706300000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16a
-16a
-8g
-16a
-16b
-=2
-16cc
-16cc
-8dd
-8ff
-=3
-16ee
-16gg
-16ff
-16ee
-16dd
-16b
-=4
-8cc
-8g
-8f}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16aL	A
+16aJ	.
+8g	cyje
+16aL	to
+16bJ	.
+=2	=2
+16ccL	ko-
+16ccJ/	.
+8ddL	-niki
+8ffJ/	.
+=3	=3
+16eeL	da
+16ggJ/	po
+16ffL	po-
+16eeJ/	.
+16ddL	-lu
+16bJ/	.
+=4	=4
+8cc	la-
+8g	-ta-
+8f}	-ją?
 !!LO:LB:g=esac
-=5
-{8a
-8g
-8b
-=6
-8cc
-8dd
-8b
-=7
-16a
-16a
-8g
-16a
-16b
-=8
-8cc
-8g
-8f}
+=5	=5
+{8a\	Hej
+8g\	pa-
+8b	-na
+=6	=6
+8cc	Bielińskiego,
+8dd	.
+8b	.
+=7	=7
+16a\	da
+16a\	Jasień-
+8g	.
+16aL	-ka
+16bJ\	.
+=8	=8
+8cc	su-
+8g	-ka-
+8f}	-ją.
 !!LO:LB:g=esac
-=9
-{16a
-16g
-8b
-8cc
-=10
-8cc
-8dd
-8b
-=11
-16a
-16g
-8b
-8cc
-=12
-8cc
-8g
-8f}
+=9	=9
+{16aL	.
+16gJ	.
+8bL	.
+[8ccJ	.
+=10	=10
+8cc]L	.
+8dd	.
+8bJ/	.
+=11	=11
+16aL	.
+16gJ	.
+8bL	.
+8ccJ	.
+=12	=12
+8cc	.
+8gL	.
+8fJ}	.
 !!LO:LB:g=esac
-=13
-{16a
-16g
-8b
-8cc
-=14
-8cc
-8g
-8f
-=15
-16a
-16g
-8b
-8cc
-=16
-8cc
-8g
-8f}
-==
-*-
+=13	=13
+{16aL	.
+16gJ	.
+8bL	.
+[8ccJ	.
+=14	=14
+8cc]L	.
+8g	.
+8fJ\	.
+=15	=15
+16aL	.
+16gJ	.
+8bL	.
+8ccJ	.
+=16	=16
+8cc	.
+8gL	.
+8fJ}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!!role-listener: John
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. A cyje to koniki
+!!da po polu latają?
+!!Hej pana Bielińskiego,
+!!da Jasieńka sukają.
+!!@VERSE:
+!!2. A cyje to koniki
+!!da po polu zarżały?
+!!Hej pana Bielińskiego
+!!da przyjechał z Warsawy.
+!!@VERSE:
+!!3. A cyje to koniki
+!!da jedzą na wygonie?
+!!Hej pana Bielińskiego,
+!!da idż-że Jasiu po nie!
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=47 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 25} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 25}
 !!!page: 25
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-30

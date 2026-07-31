@@ -3,52 +3,72 @@
 !!!source: DWOK17
 !!!id: 17059
 !!!signature: 1705900000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{8cc
-8ee
-8ee
-=2
-16ff#
-16ee
-8dd
-8dd
-=3
-8cc
-8ee
-8ee
-=4
-16ff#
-16ee
-8dd#
-8a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{8cc	Oj
+8ee	dziewczy-
+8ee	.
+=2	=2
+16ff#	-no
+16ee	z_Po-
+8ddL	-wiśla,
+8ddJ/	.
+=3	=3
+8cc	oj
+8ee	dziewczy-
+8ee	.
+=4	=4
+16ff#	-no
+16ee	z_Po-
+8dd#	-wiśla
+8a\}	.
 !!LO:LB:g=esac
-=5
-{8cc
-8e
-8g#
-=6
-16a
-16cc
-8.dd
-16a
-=7
-8cc
-8e
-8g#
-=8
-16a
-16cc
-8.dd
-16a}
-==
-*-
+=5	=5
+{8ccM	oj
+8e	a
+8g#	to-
+=6	=6
+16a\	-bie
+8bq	.
+16cc	kto
+8.dd	in-
+16a	-sy,
+=7	=7
+8ccM	oj
+8e	a
+8g#	to-
+=8	=8
+16a	-bie
+8bq	.
+16cc	kto
+8.dd	in-
+16a}	-sy.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!role-listener: Maiden
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Oj dziewczyno z Powiśla
+!!da ja o tobie myślał;
+!!oj a tobie kto insy
+!!da podarunki przysłał.
+!!@VERSE:
+!!2. Oj dziewcyno z Podola,
+!!da cóż ci za niewola?
+!!Oj Jasia mas dobrego,
+!!da sama-ś nic godnego.
+!!@@END: VERSES
+!!@ONB: Obacz nr 33.
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=46 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 24} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 24}
 !!!page: 24
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-30

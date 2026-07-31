@@ -3,97 +3,120 @@
 !!!source: DWOK17
 !!!id: 17006
 !!!signature: 1700600000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16cc
-16ee
-8cc
-8ff
-=2
-16dd
-16dd
-8b
-8g#
-=3
-16g#
-16b
-8dd
-16dd
-16cc
-=4
-8a
-4cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+!!LO:TX:a:t=Mazur.
+{16ccL	Oj
+16eeJ	.
+8cc	nie
+8ff	chodź
+=2	=2
+16ffqL	.
+16eeqJ	.
+16dd	kole
+16dd	.
+8b	ró-
+8g#	-ży,
+=3	=3
+16g#	nie
+16b	obrywaj
+8dd	.
+8eeq	.
+16ddL	.
+16ccJ	.
+=4	=4
+8a\	kwiatu
+4cc}	.
 !!LO:LB:g=esac
-=5
-{16cc
-16ee
-8cc
-8ff
-=6
-16ff
-16ee
-8b
-8g#
-=7
-16g#
-16b
-8dd
-16dd
-16cc#
-=8
-8a
-4a}
+=5	=5
+{16ccL	oj
+16eeJ	.
+8cc	ser-
+8ff	-ca
+=6	=6
+16ffqL	.
+16eeqJ	.
+16dd	nie
+16dd	bała-
+8b	.
+8g#	-muć,
+=7	=7
+16g#	nic
+16b	zawiązuj
+8dd	.
+8eeq	.
+16ddL	.
+16cc#J	.
+=8	=8
+8a	światu.
+4a}	.
 !!LO:LB:g=esac
-=9
-{8cc
-8a
-16a
-16g#
-=10
-16f#
-16g#
-8b
-8e
-=11
-16g#
-16b
-8dd
-16dd
-16b
-=12
-8cc
-4ee}
+=9	=9
+{16aqL	.
+16bqJ	.
+8cc	Oj
+8a	idź-
+16aL	-że
+16g#J	.
+=10	=10
+16f#	se
+16g#	do
+8b	inszych,
+8e	.
+=11	=11
+16g#	gdzie
+16b	są
+8dd	serca
+8eeq	.
+16ddL	.
+16bJ	.
+=12	=12
+8cc	luźne
+4ee}	.
 !!LO:LB:g=esac
-=13
-{16a
-16b
-16cc
-16b
-16a
-16g#
-=14
-16f#
-16g#
-16b
-16g#
-8e
-=15
-16g#
-16b
-8dd
-16dd
-16b
-=16
-8a
-4a}
-==
-*-
+=13	=13
+{16aqL	.
+16bqJ	.
+16ccL	a-
+16bJ/	.
+8a	-le
+16aL	mego
+16g#J	.
+=14	=14
+16f#	nie
+16g#	ba-
+16bL	-ła-
+16g#J	.
+8e	-muć,
+=15	=15
+16g#	bo
+16b	moje
+8ddq	.
+16ddL	nie
+16bJ	.
+=16	=16
+8a	próżne.
+4a}	.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!role-listener: Bachelor
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Oj nie chodź kole róży, nie obrywaj kwiatu
+!!oj serca nie bałamuć, nic zawiązuj światu.
+!!Oj idź-że se do inszych, gdzie są serca luźne
+!!ale mego nie bałamuć, bo moje nie próżne.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=25 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 3} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 3}
 !!!page: 3
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-30

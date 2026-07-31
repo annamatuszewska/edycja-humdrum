@@ -3,56 +3,113 @@
 !!!source: DWOK17
 !!!id: 17024
 !!!signature: 1702400000
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/8
-=1
-{8ee
-8ee
-8ee
-=2
-8ee
-4cc#
-=3
-16dd
-16ee
-8dd
-8cc#
-=4
-8b
-4a}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M3/8	*
+=1	=1
+{8ee	A
+8ee	chto
+8ee	na
+=2	=2
+8ee	pomoc
+4cc	.
+=3	=3
+16dd	wzywa
+16ee	.
+8dd	O-
+8cc	-nu-
+=4	=4
+8b	-frego,
+4a\}	.
 !!LO:LB:g=esac
-=5
-{8dd
-8dd
-8dd
-=6
-4dd
-8g#
-=7
-8cc#
-4dd
-=8
-4.ee}
+=5	=5
+{8ee	a
+8ee	chto
+8ee	na
+=6	=6
+8ee	pomoc
+4cc	.
+=7	=7
+16dd	wzywa
+16ee	.
+8dd	O-
+8cc	-nu-
+=8	=8
+8b	-frego,
+4a\}	.
 !!LO:LB:g=esac
-=9
-{8gg#
-8ee
-8ee
-=10
-4ee
-8cc#
-=11
-8b
-4cc#
-=12
-4.a}
-==
-*-
+=9	=9
+{8dd	i
+8dd	łaćwo
+8dd	.
+=10	=10
+4dd	tra-
+8g	-fi
+=11	=11
+8cc	do
+4dd	nie-
+=12	=12
+4.ee;}	-ba,
+!!LO:LB:g=esac
+=13	=13
+{8gg	tylko
+8ee	.
+8ee	mu
+=14	=14
+4ee	słu-
+8cc	-żyć
+=15	=15
+8b	potrze-
+4cc	.
+=16	=16
+4.a;}	-ba.
+==	==
+*-	*-
+!!!role-singer: Narrator, Christian
+!!!role-listener: Sinner, St. Onufry, Jesus
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. A chto na pomoc wzywa Onufrego,
+!!ten pewnie ujdzie piekła gorącego.
+!!I łaćwo trafić do nieba,
+!!tylko mu służyć potrzeba.
+!!@VERSE:
+!!2. A wspomnij sobie, mizerny grzeszniku,
+!!ach, ten królewicz jak żył w młodym wieku.
+!!I wzgardził perską koruną,
+!!świata wszyćkiego mamuną.
+!!@VERSE:
+!!3. Jak się narodził, nimiał w sobie złości,
+!!Łań go karmiła z boskiéj Opatrzności.
+!!Ja mam Chrystusa w obrazie,
+!!Onufry święty w tym razie.
+!!@VERSE:
+!!4. Poszeł na puszczą, gdzie okrutne skały
+!!tam zaś poświęcił Bogu wiek swój cały.
+!!Wolał na puszczy ze lwami,
+!!święty Onufry za nami.
+!!@VERSE:
+!!5. A jemu palmowe drzewo pokłon dało,
+!!a lwi okrutni pochowali ciało.
+!!A Bóg wziął duszę na wieki,
+!!już nie wypuści z opieki.
+!!@VERSE:
+!!6. Święty Onufry, proszę i ja ciebie,
+!!by moja dusza zostawała w niebie.
+!!Uproś mi letkie skonanie,
+!!Stwórcy, Chrystusa poznanie.
+!!@VERSE:
+!!7. Kied' będzie dusza z ciała wychodziła,
+!!proszę (Cię) mój Jezu, aby nie zbłądziła.
+!!Tylko do Ciebie (samego) trafiła,
+!!i z Tobą Jezu na wieki żyła.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=37 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 15} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 15}
 !!!page: 15
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-30

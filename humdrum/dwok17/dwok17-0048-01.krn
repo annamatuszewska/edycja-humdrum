@@ -3,79 +3,96 @@
 !!!source: DWOK17
 !!!id: 17048
 !!!signature: 1704800001
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/8
-=1
-{8g#
-8g#
-8b
-=
-24dd#
-24b
-24dd
-8ee
-8b
-=2
-8dd#
-8ee
-8b
-=
-24b
-24g#
-24b
-8a
-8e}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M3/8	*
+=1	=1
+{8g#	Oj
+8g#	miała
+8b	.
+=2	=2
+(24dd#L	ci
+24bJ	.
+24dd#)	ja
+8ee	miała
+8b	.
+=3	=3
+8dd#	da
+8ee	siedmiu
+8b	.
+=4	=4
+(>24bL	za-
+24g#J	.
+24b/)	-lotników
+8a	.
+8e}	.
 !!LO:LB:g=esac
-=3
-{8g#
-8g#
-8b
-=4
-16dd
-32cc#
-32b
-8a
-8b
-=5
-8g#
-8g#
-8b
-=6
-16dd
-32cc#
-32b
-8a
-8e}
+=5	=5
+{8g#	a
+8g#	ża-
+8b	-den
+=6	=6
+16ddn	mi
+32cc/L	nie
+32bJ	.
+8a\	kupił
+8b	.
+=7	=7
+8g#\	da
+8g#	na
+8b	no-
+=8	=8
+16dd	-gi
+32ccL	trzewików,
+32bJ	.
+8a\	.
+8e}	.
 !!LO:LB:g=esac
-=7
-{8g#
-8g#
-8b
-=8
-16dd
-32cc#
-32b
-8a
-8b
-=9
-16.g#
-32ee
-8g#
-8b
-=10
-16dd
-32cc#
-32b
-8a
-8e}
-==
-*-
+=9	=9
+{8g#	a
+8g#	ża-
+8b	-den
+=10	=10
+16dd	mi
+32ccL	nie
+32bJ	.
+8a\	kupił
+8b	.
+=11	=11
+16.g#L	da
+32eeJ/	.
+8g#	na
+8b	no-
+=12	=12
+16dd	-gi
+32ccL	trzewików.
+32bJ	.
+8a\	.
+8e}	.
+==	==
+*-	*-
+!!!RDF**kern: > = above
+!!!role-singer: Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Oj miała ci ja miała
+!!da siedmiu zalotników
+!!a żaden mi nie kupił
+!!da na nogi trzewików.
+!!@VERSE:
+!!2. Oj tylo też to jeden
+!!da z Turobina malarz,
+!!co kupił mi trzewiki
+!!da i pończoszki zaraz.
+!!@@END: VERSES
 !!!ONB: Ob. nr 39, 16
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=43 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 21} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 21}
 !!!page: 21
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-30

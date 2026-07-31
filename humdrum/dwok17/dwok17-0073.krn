@@ -3,62 +3,78 @@
 !!!source: DWOK17
 !!!id: 17073
 !!!signature: 1707300000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16gg
-16ff#
-8cc
-16ee
-16dd
-=2
-16ee
-16ff#
-8gg
-8dd}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16gg	Oj
+16ff#	stare-
+8cc	.
+16eeL	-mu,
+16ddJ	.
+=2	=2
+16eeL	sta-
+16ff#J/	.
+8ggL	-re-
+8ddJ/}	-mu,
 !!LO:LB:g=esac
-=3
-{16gg
-16ff#
-8cc
-16ee
-16dd
-=4
-16ee
-16cc
-8b
-8g}
+=3	=3
+{16gg	da
+16ff#	za
+8cc	piecem
+16eeL	.
+16ddJ	.
+=4	=4
+16eeL	za-
+16ccJ	.
+8b	-gro-
+8g\}	-dzić.
 !!LO:LB:g=esac
-=5
-{16g
-16b
-8cc
-16ee
-16dd
-=6
-16ee
-16cc
-8ff
-8g}
+=5	=5
+{16g	A
+16b	młode-
+8ccL	.
+16ee	-mu,
+16ddJ/	.
+=6	=6
+16eeL	młode-
+16ccJ/	.
+8ffL	.
+8gJ/}	-mu,
 !!LO:LB:g=esac
-=7
-{16g
-16b
-8cc
-16dd
-16ee
-=8
-16dd
-16cc
-8b
-8g}
-==
-*-
+=7	=7
+{16g	da
+16b	do
+8cc	dziew-
+16ddL	.
+16eeJ	.
+=8	=8
+16ddL	-cyny
+16ccJ	.
+8b	chodzić.
+8g\}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!!role-listener: Old Man, Bachelor
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Oj staremu, staremu,
+!!da za piecem zagrodzić.
+!!A młodemu, młodemu,
+!!da do dziewcyny chodzić.
+!!@VERSE:
+!!2. Oj idź stary do wołów,
+!!da bo cię woły znają,
+!!a ty młody do karcmy,
+!!da bo tam ładnie grają.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=50 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 28} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 28}
 !!!page: 28
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-30

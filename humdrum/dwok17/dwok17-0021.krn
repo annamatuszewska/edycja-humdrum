@@ -3,80 +3,143 @@
 !!!source: DWOK17
 !!!id: 17021
 !!!signature: 1702100000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-{8cc
-4cc
-4dd
-=1
-4b
-4cc
-4dd
-=2
-4.ee
-8dd
-4cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+!!LO:TX:a:t=Do Matki Bożéj.
+{8cc	Zawi-
+4cc	.
+4dd	-taj
+=2	=2
+4b	ranna
+4cc	.
+4dd	ju-
+=3	=3
+(4.ee	-trzenko,
+8dd)	.
+4cc^^}	.
 !!LO:LB:g=esac
-=3
-{4ee
-4ee
-4dd
-=4
-4.ee
-8dd
-4cc
-=5
-8ee
-4cc}
-8r
-4r
+=4	=4
+{4ee	tyś
+4ee	grzechów
+4dd	.
+=5	=5
+4.ee	naszych
+8dd	.
+4cc	le-
+=6	=6
+8ee	-karką.
+4cc}	.
+8r	.
+4r	.
 !!LO:LB:g=esac
-=6
-{4cc
-4dd
-4a
-=7
-4dd
-4cc
-8r
-8dd}
+=7	=7
+{4cc	Tyś
+4dd	świa-
+4a\	-ta
+=8	=8
+4dd	panią
+4cc	.
+8r	.
+8dd}	.
 !!LO:LB:g=esac
-=
-{12cc
-12dd
-12ee
-12dd
-12cc
-12b
-12a
-12b
-12cc
-=8
-4dd
-4cc#
-8r
-8dd}
+=9	=9
+*Xtuplet	*
+{12ccL	.
+12dd	Ty
+12eeJ/	.
+12ddL	.
+12cc	je-
+12bJ/	.
+12aL	.
+12b	-steś
+12ccJ/	.
+=10	=10
+4dd	księżną
+4cc	.
+8r	.
+8dd}	i
 !!LO:LB:g=esac
-=9
-{4dd
-4dd
-4dd
-=10
-4.ee
-8dd
-4cc
-=11
-8b
-4a}
-8r
-4r
-==
-*-
+=11	=11
+{4dd	anielską
+4dd	.
+4dd	.
+=12	=12
+4.ee	jesteś
+8dd	.
+4cc	kró-
+=13	=13
+8b	-lową.
+4a\}	.
+8r	.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Christians
+!!!role-listener: Holy Mary
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Zawitaj ranna jutrzenko,
+!!Tyś grzechów naszych lekarką,
+!!Tyś świata panią
+!!Ty jesteś księżną
+!!i anielską jesteś królową.
+!!@VERSE:
+!!2. Ty samaś Panią nazwana
+!!naprzeciw strzałom szatana.
+!!Niezwyciężona —
+!!nasza obrono,
+!!prosimy Cię, bądź za naszą stroną.
+!!@VERSE:
+!!3. Zastaw nas tarczą zbawienia
+!!mocą Twojego imienia,
+!!uszykuj nas grzesznych
+!!w miejscach bezpiecznych,
+!!pogrom nieprzyjaciół wiecznych.
+!!@VERSE:
+!!4. Ulubioną'ś jest od Boga,
+!!Ty nam racz być prosta droga
+!!do syna swego
+!!najmilejszego,
+!!do Jezusa i Pana naszego.
+!!@VERSE:
+!!5. Matka'ś różańca świętego,
+!!Pani królestwa Polskiego,
+!!Tyś Panią w niebie,
+!!prosiemyż Ciebie,
+!!ratuj nas w każdéj potrzebie.
+!!@VERSE:
+!!6. Niech bez czasu nie giniemy
+!!Twéj się łasce oddajemy.
+!!Ratuj rycerstwo,
+!!daj nam zwycięztwo
+!!przez Twoje święte panieństwo.
+!!@VERSE:
+!!7. Boć Ty panno wiele możesz,
+!!kto Cię prosi dopomożesz.
+!!Dopomóż i mnie,
+!!daj zdrowie, imię
+!!po śmierci daj duszne zbawienie.
+!!@VERSE:
+!!8. Z Tobą wieczne królowanie,
+!!prosiemy-ż Cię Pani!
+!!daj zgodę panom,
+!!królom, hetmanom
+!!i nam wiernym Chrześcijanom.
+!!@VERSE:
+!!9. Za dobrą Cię Panią mamy,
+!!na dobry Ci dzień śpiewamy,
+!!przyjm-że to mile,
+!!z serca życzliwie,
+!!i głosy nasze płaczliwe.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=34 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 12} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 12}
 !!!page: 12
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-30

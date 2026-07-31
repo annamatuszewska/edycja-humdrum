@@ -3,88 +3,100 @@
 !!!source: DWOK17
 !!!id: 17002
 !!!signature: 1700200000
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M3/8
-=1
-{8dd
-8cc#
-8b
-=2
-4a
-8f#
-=3
-8a
-16g
-16f#
-8g
-=4
-8b
-4a}
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M3/8	*
+=1	=1
+{8dd	Gdy
+8cc#	w_czystém
+8b	.
+=2	=2
+4a	polu
+8f#	.
+=3	=3
+8a	słoneczko
+16gL	.
+16f#J	.
+(8g	.
+=4	=4
+8b)	świeci,
+4a}	.
 !!LO:LB:g=esac
-=5
-{8dd
-8cc#
-8b
-=6
-4a
-8f#
-=7
-8a
-16g
-16f#
-8g
-=8
-8e
-4d}
+=5	=5
+{8dd	dzionek
+8cc#	.
+8b	przy
+=6	=6
+4a	pracy
+8f#	.
+=7	=7
+8a	prędzéj
+16gL	.
+16f#J	.
+8g	u-
+=8	=8
+8e	-le-
+4d}	-ci.
 !!LO:LB:g=esac
-=9
-{16e
-16e
-8g
-16e
-16d
-=10
-16f#
-16f#
-8a
-16f#
-16d
-=11
-16e
-16e
-8g
-16e
-16d
-=12
-16d
-16f#
-8a
-16f#
-16d}
+=9	=9
+{16e	I
+16e	mnie
+8g	chwi-
+16eL	-le
+16dJ	.
+=10	=10
+16f#	razniéj
+16f#	.
+8a	płyną,
+16f#L	.
+16dJ	.
+=11	=11
+16e	z_moją
+16e	.
+8g	Mary-
+16eL	.
+16dJ	.
+=12	=12
+16dL	-sią
+16f#J\	ma-
+8a	-tu-
+16f#L	-lu,
+16dJ}	.
 !!LO:LB:g=esac
-=13
-{16e
-16e
-8g
-16e
-16d
-=14
-4dd
-8b
-=15
-4a
-8c#
-=16
-4d}
-8r
-==
-*-
+=13	=13
+{16e	z_moją
+16e	.
+8g	je-
+16eL	-dy-
+16dJ	.
+=14	=14
+4dd	-ną
+8b	je-
+=15	=15
+(4a	-dy-
+8c#)	.
+=16	=16
+4d}	-ną.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Gdy w czystém polu słoneczko świeci,
+!!dzionek przy pracy prędzéj uleci.
+!!I mnie chwile razniéj płyną,
+!!z moją Marysią matulu,
+!!z moją jedyną jedyną.
+!!@@END: VERSES
 !!!ONB: U Kolberga w t. 15 błąd rytmiczny: 5__.-7_. Wariant t. 14: +1__76
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=23 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 1} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 1}
 !!!page: 1
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-30

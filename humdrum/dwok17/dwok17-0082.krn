@@ -3,55 +3,70 @@
 !!!source: DWOK17
 !!!id: 17082
 !!!signature: 1708200000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16ff
-16ff
-8ee
-8gg
-=2
-16ff
-16ff
-8cc
-8ee
-=3
-16ff
-16ff
-8ee
-8gg
-=4
-16ff
-16cc
-4dd}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16ffL	Takie
+16ffJ/	.
+8eeL	kwaśne
+8ggJ/	.
+=2	=2
+16ffL	mliko
+16ffJ/	.
+8ccL	dobre,
+8eeJ/	.
+=3	=3
+16ffL	jako
+16ffJ/	.
+8eeL	i
+8ggJ/	ma-
+=4	=4
+16ffL	-ślan-
+16ccJ/	.
+4dd/}	-ka,
 !!LO:LB:g=esac
-=5
-{16b-
-16b-
-8cc
-8ee
-=6
-16dd
-16dd
-8cc
-8a
-=7
-16b-
-16b-
-8cc
-16a
-16f
-=8
-16b-
-16g
-4f}
-==
-*-
+=5	=5
+{16b-	taka
+16b-	.
+8cc	ze
+8ee	wsi
+=6	=6
+16dd	dziewka
+16dd	.
+8cc	dobra,
+8a\	.
+=7	=7
+16b-	jako
+16b-	.
+8cc	i
+16aL	ślach-
+16fJ\	.
+=8	=8
+16b-L	-cian-
+16gJ\	.
+4f\}	-ka
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Takie kwaśne mliko dobre,
+!!jako i maślanka,
+!!takt ze wsi dziewka dobra,
+!!jako i ślachcianka
+!!@VERSE:
+!!2. U ślachcianki krzywe nogi
+!!kieby rasztabigi (socha),
+!!zdałyby się chłopu na wieś
+!!byłyby czapigi ( u sochy).
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=52 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 30} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 30}
 !!!page: 30
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-30
