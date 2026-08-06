@@ -3,95 +3,117 @@
 !!!source: DWOK41
 !!!id: 411017
 !!!signature: 41101700001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8g
-8a
-8b
-8cc
-=2
-2dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8g	A
+8a	z_gó-
+8b	-ry,
+8cc	z_gó-
+=2	=2
+2dd}	-ry
 !!LO:LB:g=esac
-=3
-{8ee
-8gg
-8ee
-8ee
-=4
-2dd}
+=3	=3
+{8ee	ja-
+8gg	-dą
+8ee	Ma-
+8ee	-zu-
+=4	=4
+2dd}	-ry,
 !!LO:LB:g=esac
-=5
-{8ee
-8gg
-8ee
-8ee
-=6
-2dd}
+=5	=5
+{8ee	ja-
+8gg	-dą
+8ee	Ma-
+8ee	-zu-
+=6	=6
+2dd}	-ry,
 !!LO:LB:g=esac
-=7
-{4dd
-16dd
-8.cc#
-=8
-8a
-8a
-8dd
-8a}
+=7	=7
+{4dd	je-
+16ddL	-dzie
+8.cc#J	.
+=8	=8
+8a	Ma-
+8a	-zu-
+8dd	-re-
+8a}	-czek,
 !!LO:LB:g=esac
-=9
-{4dd
-16dd
-8.cc#
-=10
-8a
-8a
-8b
-8g}
+=9	=9
+{4dd	wie-
+16ddL	-zie
+8.cc#J	.
+=10	=10
+8a	mój
+8a	wia-
+8b	-ne-
+8g}	-cek
 !!LO:LB:g=esac
-=11
-{8f#
-8g
-4a
-=12
-2g}
+=11	=11
+{8f#L	ru-
+8gJ	.
+4a	-cia-
+=12	=12
+2g}	-ny.
 !!LO:LB:g=esac
-=13
-{8b
-8dd
-8dd
-8dd
-=14
-8cc
-8a
-8cc
-8cc}
+=13	=13
+{8b	.
+8dd	.
+8dd	.
+8dd	.
+=14	=14
+8cc	.
+8a	.
+8cc	.
+8cc}	.
 !!LO:LB:g=esac
-=15
-{8b
-8b
-8dd
-8b
-=16
-8a
-8a
-8f#
-8d}
+=15	=15
+{8b	.
+8b	.
+8dd	.
+8b	.
+=16	=16
+8a	.
+8a	.
+8f#	.
+8d}	.
 !!LO:LB:g=esac
-=17
-{8f#
-8g
-8a
-8a
-=18
-2g}
-==
-*-
+=17	=17
+{8f#	.
+8g	.
+8a	.
+8a	.
+=18	=18
+2g}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A z góry, z góry
+!!|:jadą Mazury:|,
+!!jedzie Mazureczek,
+!!wiezie mój wianecek
+!!ruciany.
+!!@VERSE:
+!!2. Przyjechał w nocy
+!!|:przed moje ocy:|,
+!!stuknął, puknął [w okienecko],
+!!wyjdź, [wyjdź], kochanecko,
+!!wlij koniom wody.
+!!@VERSE:
+!!3. Jakże ja mam wstać,
+!!|:koniom wody lać:|,
+!!a mnie matka przykazała,
+!!bym z panami nie jeżdżała,
+!!tylko nockę spać.
+!!@@END: VERSES
+!!!role-singer: Narrator, Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=513 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 426} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 426}
 !!!page: 426
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-06

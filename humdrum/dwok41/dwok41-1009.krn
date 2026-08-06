@@ -3,54 +3,63 @@
 !!!source: DWOK41
 !!!id: 411009
 !!!signature: 41100900000
-**kern
-*clefG2
-*k[b-]
-*d:
-*M3/4
-=1
-{4a
-4a
-4a
-=2
-4ff
-2ee
-=3
-8dd
-8cc#
-4dd
-4cc#
-=4
-4b-
-2a}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*d:	*
+*M3/4	*
+=1	=1
+!LO:TX:a:t=Weselna, [na] oczepiny	!
+{4a	Mia-
+4a	-ła
+4a	ba-
+=2	=2
+4ff	-bu-
+2ee	-la
+=3	=3
+8dd	ko-
+8cc#	-zioł-
+4dd	-ka
+4cc#	swo-
+=4	=4
+4b-	-je-
+2a}	-go,
 !!LO:LB:g=esac
-=5
-{4cc
-4g
-4a
-=6
-8cc
-8cc
-4g
-4a
-=7
-8cc
-8cc
-4g
-4a}
+=5	=5
+{4cc	koś-
+4g	-naj-
+4a	-der,
+=6	=6
+8cc	kun-
+8cc	-der
+4g	maj-
+4a	-der,
+=7	=7
+8cc	fi-
+8cc	-der
+4g	mi-
+4a}	-der.
 !!LO:LB:g=esac
-=8
-{8cc
-8cc
-4dd
-4cc
-=9
-4b-
-2a}
-==
-*-
+=8	=8
+{8cc	[ko-
+8cc	-zioł-
+4dd	-ka
+4cc	swo-
+=9	=9
+4b-	-je-
+2a}	-go].
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Miała babula koziołka swojego,
+!!kośnajder, kunder majder, fider mider,
+!![koziołka swojego].
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=509 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 422} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 422}
 !!!page: 422
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-06

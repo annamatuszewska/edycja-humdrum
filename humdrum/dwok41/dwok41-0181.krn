@@ -3,57 +3,66 @@
 !!!source: DWOK41
 !!!id: 41181
 !!!signature: 4118100000
-**kern
-*clefG2
-*k[b-e-a-]
-*c:
-*M3/4
-=1
-{4ee-
-4gg
-4ee-
-=2
-8ee-
-8ee-
-4gg
-4ee-}
+**kern	**text
+*clefG2	*
+*k[b-e-a-]	*
+*c:	*
+*M3/4	*
+=1	=1
+{4ee-	Oj,
+4gg	us-
+4ee-	-nął
+=2	=2
+8ee-	sta-
+8ee-	-ry,
+4gg	us-
+4ee-}	-nął,
 !!LO:LB:g=esac
-=3
-{4dd
-4ff
-4dd
-=4
-8ff
-8ff
-4gg
-8ee-
-8dd}
+=3	=3
+{4dd	oj,
+4ff	ktoś
+4dd	mu
+=4	=4
+8ff	bro-
+8ff	-dę
+4gg	urz-
+8ee-L	-nął,
+8dd}J	.
 !!LO:LB:g=esac
-=5
-{4cc
-4cc
-4cc
-=6
-8cc
-8dd
-8ff
-8ee-
-8dd
-8cc}
+=5	=5
+{4cc	oj,
+4cc	nie
+4cc	śpij,
+=6	=6
+8cc	sta-
+8dd	-ry,
+8ffL	twar-
+8ee-J	.
+8ddL	-do,
+8cc}J	.
 !!LO:LB:g=esac
-=7
-{4b
-4b
-4b
-=8
-8b
-8dd
-4b
-4cc}
-==
-*-
+=7	=7
+{4b	oj,
+4b	bo
+4b	ci
+=8	=8
+8b	urz-
+8dd	-nie
+4b	gar-
+4cc}	-dło.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oj, usnął stary, usnął,
+!!oj, ktoś mu brodę urznął,
+!!oj, nie śpij, stary, twardo,
+!!oj, bo ci urznie gardło.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=195 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 116} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 116}
 !!!page: 116
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-01

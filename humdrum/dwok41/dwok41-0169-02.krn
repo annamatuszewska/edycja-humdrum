@@ -3,80 +3,91 @@
 !!!source: DWOK41
 !!!id: 41169
 !!!signature: 4116900002
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16cc
-16ee
-8ff
-8ee
-=2
-16dd
-16cc
-8b
-8dd}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{16cc	Świe-
+16ee	-ci
+8ff	gwiaz-
+8ee	-da
+=2	=2
+16dd	na
+16cc	nie-
+8b/L	-bie,
+8dd/J}	.
 !!LO:LB:g=esac
-=3
-{16dd
-16dd
-8ee
-16cc
-16b
-=4
-16cc
-16b
-4a}
+=3	=3
+{16dd/L	puść
+16dd/J	.
+8ee	mię,
+16cc	Ka-
+16b	-siu,
+=4	=4
+16cc	do
+16b	sie-
+4a}	-bie.
 !!LO:LB:g=esac
-=5
-{16cc
-16b
-8a
-8b
-=6
-8g#
-8a
-8ee}
+=5	=5
+{16cc	A
+16b	jak-
+8a	-że
+8b	cię
+=6	=6
+8g#	puś-
+8a	-cić
+8ee}	mám,
 !!LO:LB:g=esac
-=7
-{16dd
-16dd
-16ee
-16dd
-16cc
-16b
-=8
-16cc
-16b
-4a}
+=7	=7
+{16dd/L	ja
+16dd/J	.
+16eeL	sie-
+16ddJ	.
+16cc	-ro-
+16b	-ta,
+=8	=8
+16cc	a
+16b	tyś
+4a}	pán.
 !!LO:LB:g=esac
-=9
-{16cc
-16b
-8a
-8b
-=10
-8g#
-8a
-8ee}
+=9	=9
+{16cc	A
+16b	jak-
+8a	-że
+8b	cię
+=10	=10
+8g#	puś-
+8a	-cić
+8ee}	mám,
 !!LO:LB:g=esac
-=11
-{16dd
-16dd
-16ee
-16dd
-16cc
-16b
-=12
-16cc
-16b
-4a}
-==
-*-
+=11	=11
+{16dd/L	ja
+16dd/J	.
+16eeL	sie-
+16ddJ	.
+16cc	-ro-
+16b	-ta,
+=12	=12
+16cc	a
+16b	tyś
+4a}	pán.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Świeci gwiazda na niebie,
+!!puść mię, Kasiu, do siebie.
+!!|:A jakże cię puścić mám,
+!!ja sierota, a tyś pán:|.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Orphan
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=191 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 112} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 112}
 !!!page: 112
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-31

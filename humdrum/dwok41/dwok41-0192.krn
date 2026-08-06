@@ -3,60 +3,74 @@
 !!!source: DWOK41
 !!!id: 41192
 !!!signature: 4119200000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16a
-16cc
-8.ee
-16gg
-=2
-16dd
-16ee
-8cc
-8a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{16a	Dzi-
+(8bq	.
+16cc)	-siaj
+8.ee	do-
+16gg	-brze,
+=2	=2
+16dd	go-
+16ee	-rzéj
+8cc	ju-
+8a}	-tro,
 !!LO:LB:g=esac
-=3
-{16a
-16cc
-8.a
-16ee
-=4
-16b
-16b
-8g#
-8e}
+=3	=3
+{16a	dziś
+(8bq	.
+16cc)	we-
+8.a	-so-
+(8ccq	.
+16ee)	-ło,
+=4	=4
+16b	ju-
+16b	-tro
+8g#	smu-
+8e}	-tno;
 !!LO:LB:g=esac
-=5
-{16a
-16cc
-8.a
-16b
-=
-16dd
-16ee
-8cc
-24cc
-24b
-24a}
+=5	=5
+{16a	dziś
+(8bq	.
+16cc)	we-
+8.a	-so-
+16b	-ło,
+=6	=6
+16dd	bo
+16ee	nam
+8cc	gra-
+24ccL	-ją,
+24b	.
+24a}\J	.
 !!LO:LB:g=esac
-=6
-{16a
-16cc
-8.a
-16b
-=7
-16dd
-16ee
-8b
-8e}
-==
-*-
+=7	=7
+{16a	ju-
+(8bq	.
+16cc)	-tro
+8.a	smu-
+16b	-tno,
+=8	=8
+16dd	za-
+16ee	-wo-
+8b	-ła-
+8e}	-ją.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Dzisiaj dobrze, gorzéj jutro,
+!!dziś wesoło, jutro smutno;
+!!dziś wesoło, bo nam grają,
+!!jutro smutno, zawołają.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=202 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 123} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 123}
 !!!page: 123
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-03

@@ -3,61 +3,112 @@
 !!!source: DWOK41
 !!!id: 41189
 !!!signature: 4118900000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8g
-8g
-8b
-=2
-4dd
-8b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8g	Gos-
+8g	-po-
+8b	-darz
+=2	=2
+4dd	sta-
+8b}	-ry
 !!LO:LB:g=esac
-=3
-{16b
-16dd
-8dd
-16ee
-16dd
-=4
-4cc
-8a
-=5
-16b
-16dd
-8dd
-16ee
-16dd
-=6
-4cc
-8a}
+=3	=3
+{16b	miał
+16dd	byś-
+8dd	-ków
+16ee	czté-
+16dd	-ry
+=4	=4
+4cc	pa-
+8a	-ry,
+=5	=5
+16b	miał
+16dd	byś-
+8dd	-ków
+16ee	czté-
+16dd	-ry
+=6	=6
+4cc	pa-
+8a}	-ry,
 !!LO:LB:g=esac
-=7
-{8.cc
-16b
-16dd
-16cc
-=8
-16b
-16g
-8f#
-8d
-=9
-16f#
-16a
-8cc
-16a
-16f#
-=10
-4g
-8g}
-==
-*-
+=7	=7
+{8.ccL	hej,
+16bJ	.
+16ddL	hej,
+16ccJ	.
+=8	=8
+16b	byś-
+16g	-ki
+8f#	mo-
+8d	-je,
+=9	=9
+16f#	co
+16a	was
+8cc	by-
+16aL	-ło
+16f#J	.
+=10	=10
+4g	o-
+8g}	-siem.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Gospodarz stary
+!!|:miał byśków cztéry pary:|,
+!!hej, hej, byśki moje,
+!!co was było osiem.
+!!@VERSE:
+!!2. Chodź, byśku jeden,
+!!|: do karczemki biegiem:|.
+!!hej, hej, itd.
+!!@VERSE:
+!!3. Chodź, byśku drugi,
+!!|:przedam cię na długi:|,
+!!Hej, hej, itd.
+!!@VERSE:
+!!4. Chodź, byśku trzeci,
+!!|: płaczą chleba dzieci:|,
+!!Hej, hej, itd.
+!!@VERSE:
+!!5. Chodź, byśku czwarty.
+!!|: przegralem cię w karty:|.
+!!hej, hej, itd.
+!!@VERSE:
+!!6. Chodź, byśku piąty.
+!!|: pełne biédy kąty:|.
+!!Hej, hej, id.
+!!@VERSE:
+!!7. Chodź, byśku szósty,
+!!|: chcą posagu siostry:|,
+!!hej, hej, itd.
+!!@VERSE:
+!!8. Chodź, byśku siódmy.
+!!|: przepiłem cię z ludźmy:|,
+!!hej, hej, itd.
+!!@VERSE:
+!!9. Chodź. byśku ósmy,
+!!|: tam gdzie i te poszły:|,
+!!hej, hej, itd.
+!!@VERSE:
+!!10. Byśki moje, byśki,
+!!za co mi robicie?
+!!Za tę wiązkę siana.
+!!co ją w zimie zjécie.
+!!@VERSE:
+!!11. Koszul wám nie szyją.
+!!portek wóm nie krają.
+!!a jak przyjdzie wiosna.
+!!biczem skórę prają.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=201 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 122} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 122}
 !!!page: 122
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-03

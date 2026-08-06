@@ -3,49 +3,70 @@
 !!!source: DWOK41
 !!!id: 411013
 !!!signature: 41101300002
-**kern
-*clefG2
-*k[f#]
-*e:
-*M3/4
-=1
-{4dd
-4dd
-4ee
-=2
-8b
-8a
-2b
-=3
-4dd
-4dd
-4ee
-=4
-8b
-8a
-2b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*e:	*
+*M3/4	*
+=1	=1
+{4dd	Bra-
+4dd	-to-
+4ee	-wa,
+=2	=2
+(8ccq	.
+8b)	bra-
+8a	-to-
+2b	-wa,
+=3	=3
+4dd	com
+4dd	ci
+4ee	bra-
+=4	=4
+(8ccq	.
+8b)	-ta
+8a	da-
+2b}	-ła,
 !!LO:LB:g=esac
-=5
-{4g
-4g
-4g
-=6
-8b
-8dd
-2cc
-=7
-8b
-8b
-4g
-4f#
-=8
-4g
-4e}
-4r
-==
-*-
+=5	=5
+{4g\	tyś
+4g\	.
+4g\	mi
+=6	=6
+8b	za
+8dd	nie-
+2cc	-go
+=7	=7
+8b	nie
+8b	po-
+4g	-dzię-
+4f#	-ko-
+=8	=8
+4g	-wa-
+4e}	-ła.
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Bratowa, bratowa,
+!!com ci brata dała,
+!!tyś mi za niego
+!!nie podziękowała1.
+!!@VERSE:
+!!2. A moja bratowa
+!!siwe gąski chowa,
+!!czarne poduszki ma,
+!!bo ich nie wypiéra.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: (1) lub: nnie poczęstowała
+!!@@END:
+!!!role-singer: Brother's sister
+!!!role-listener: Sister-in-law
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=510 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 423} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 423}
 !!!page: 423
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-06

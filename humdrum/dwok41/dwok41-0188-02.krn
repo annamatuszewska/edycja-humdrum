@@ -3,49 +3,76 @@
 !!!source: DWOK41
 !!!id: 41188
 !!!signature: 4118800002
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{8cc
-8cc
-8cc
-8cc
-=2
-8cc
-8ee
-4cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+=1	=1
+{8cc	Oj,
+8cc	tam
+8cc	ko-
+8cc	-mar
+=2	=2
+8cc	z_dę-
+8ee	-bu
+4cc}	spad
 !!LO:LB:g=esac
-=3
-{8b
-8cc
-8dd
-8cc
-=4
-8b
-16a
-16b
-4g}
+=3	=3
+{8b	i
+8cc	stłuk
+8dd	so-
+8cc	-bie
+=4	=4
+(8ccq	.
+8b)	w_ty-
+16a\L	-le
+16bJ	.
+4g}	gnat,
 !!LO:LB:g=esac
-=5
-{4cc
-4ee
-=6
-8dd
-8b
-8cc
-8g
-=7
-4cc
-4ee
-=8
-2cc}
-==
-*-
+=5	=5
+{4cc	hej,
+4ee	hej,
+=6	=6
+8dd	i
+8b	stłuk
+8cc	so-
+8g	-bie
+=7	=7
+(8bq	.
+4cc)	w_ty-
+4ee	-le
+=8	=8
+2cc}	gnat.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj, tam komar z dębu spad
+!!i stłuk sobie w tyle gnat,
+!!hej, hej, i stłuk sobie w tyle gnat.
+!!@VERSE:
+!!2. Nie turbuj się, siostrzyczko,
+!!weśmiesz po mnie to wszystko,
+!![hej, hej, weśmiesz po mnie to wszystko]2.
+!!@VERSE:
+!!3. Weźmiesz sto funtów sadła
+!!i te wszystkie kopadła3,
+!![hej, hej, i te wszystkie kopadła]4.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: (2) lub też: Nie trzeba tu przeora
+!!ani księdza z klasztora.
+!!(3) skrzydła
+!!(4) lub też: Oj, rzepny dół wykopać
+!!i komára pochować.
+!!@@END:
+!!!role-singer: Narrator, Brother
+!!!role-listener: Sister
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=200 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 121} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 121}
 !!!page: 121
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-03

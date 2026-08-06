@@ -3,58 +3,180 @@
 !!!source: DWOK41
 !!!id: 41183
 !!!signature: 4118300002
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/4
-=1
-{4f
-8f
-8e
-8f
-8a
-=2
-4cc
-8cc
-8b
-8cc
-8ee
-=3
-8ff
-8ff
-4dd
-4gg
-=4
-4ee
-2cc}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/4	*
+=1	=1
+{4f	Wilk
+8f	na
+8e	za-
+8f	-go-
+8a	-nie,
+=2	=2
+4cc	wilk
+8cc	na
+8b	za-
+8cc	-go-
+8ee	-nie,
+=3	=3
+8ff	a
+8ff	ko-
+4dd	-zu-
+4gg	-chna
+=4	=4
+4ee	w_go-
+2cc}	-nie.
 !!LO:LB:g=esac
-=5
-{8ff
-8ff
-8ff
-8ee
-8dd
-8cc
-=6
-8dd
-8dd
-8dd
-8cc
-8b-
-8a
-=7
-8b-
-8a
-4g
-4cc
-=8
-4a
-2f}
-==
-*-
+=5	=5
+{8ff/L	Mo-
+8ff/J	.
+8ff	-ja
+8ee	ko-
+8dd	-zu-
+8cc	-chno,
+=6	=6
+8dd/L	mo-
+8dd/J	.
+8dd/L	-ja
+8cc/	ko-
+8b-/	-cha-
+8aJ	-na,
+=7	=7
+8b-/L	pójdź-
+8aJ	-że
+4g	wa-
+4cc	-sze
+=8	=8
+4a	do
+2f}	mnie.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Wilk na zagonie, wilk na zagonie,
+!!a kozuchna w gonie1.
+!!Moja kozuchno, moja kochana,
+!!pójdźże wasze do mnie2.
+!!@VERSE:
+!!2. A mój ty wilczku, a mój kochany,
+!!kiej mię nóżka boli;
+!!moja kozuchno, moja kochaná,
+!!pójdziema powoli.
+!!@VERSE:
+!!3. A mój ty wilczku, a mój kochany,
+!!kiedy duże piaski;
+!!moja kozuchno, moja kochana,
+!!niedaleko laski.
+!!@VERSE:
+!!4. A mój ty wilczku, a mój kochany,
+!!kiej gorący piasek;
+!!moja kozuchno, moja kochana,
+!!pójdziemy bez lasek1.
+!!@VERSE:
+!!5. A mój ty wilczku, a mój kochany,
+!!kiej tam chrustu kupa:
+!!moja kozuchno, moja kochana.
+!!to moja chałupa.
+!!@VERSE:
+!!6. A mój ty wilczku, a mój kochany,
+!!kiedy ostre szyszki;
+!!moja kozuchno, moja kochana,
+!!to moje poduszki.
+!!@VERSE:
+!!7. A mój ty wilczku. a mój kochany,
+!!gałęzie się łomią:
+!!moja kozuchno, moja kochana.
+!!bo chłopi drwa rąbią.
+!!@VERSE:
+!!8. A mój ty wilczku, a mój kochany.
+!!tam myśliwi trąbią;
+!!moja kozuchno, moja kochana.
+!!toć to drewka rąbią.
+!!@VERSE:
+!!9. A mój ty wilczku, a mój kochany.
+!!kiej ta psy szczekają:
+!!moja kozuchno, moja kochana.
+!!to wióry padają.
+!!@VERSE:
+!!10. A mój ty wilczku, a mój kochany,
+!!kiej tam wilcy wyją:
+!!moja kozuchno, moja kochana,
+!!to chłopcy śpiewają2.
+!!@VERSE:
+!!11. A mój ty wilczku, a mój kochany,
+!!kiedy takie dęby;
+!!moja kozuchno, moja kochana,
+!!wyszczerzysz mi zęby.
+!!@VERSE:
+!!12. A mój ty wilczku, a mój jedyny,
+!!kiej tam wielkie góry:
+!!moja kozuchno, moja jedyna,
+!!tam zdéjmują skóry3.
+!!@VERSE:
+!!13. A mój ty wilczku, a mój kochany,
+!!kiej tam duży kamiń;
+!!moja kozuchno, moja kochana,
+!!toć będe der na nim.
+!!@VERSE:
+!!14. A mój ty wilczku, a mój kochany,
+!!kiej to strasznie boli;
+!!moja kozuchno, moja kochana,
+!!będe der(ł) powoli.
+!!@VERSE:
+!!15. A mój ty wilczku, a mój kochany,
+!!ja będe wrzeszczała:
+!!moja kozuchno, moja kochana.
+!!będe der, żeby tém mocniéj
+!!skóra ci trzeszczała.
+!!@VERSE:
+!!16. A mój ty wilczku, a mój kochany,
+!!tam owczarki pasą:
+!!moja kozuchno, moja kochana,
+!!nie róbże hałasu.
+!!@VERSE:
+!!17. A mój ty wilczku, a mój kochany,
+!!chcesz me zjeść, ja widzę;
+!!moja kozuchno, moja kochana,
+!!tobą się nie brzydzę.
+!!@VERSE:
+!!18. Ach, mój ty wilczku, ach, mój jedyny,
+!!poczekajże jeszcze;
+!!moja kozuchno, moja kochana,
+!!a kiej mi się jeść chce.
+!!@VERSE:
+!!19. A mój ty wilczku, a mój kochany,
+!!pójdę po talirze,
+!!moja kozuchno, moja kochana,
+!!pomogąć mi źwirze.
+!!@VERSE:
+!!20. A mój ty wilczku, a mój kochany,
+!!ślipie ci się świécą;
+!!moja kozuchno, moja kochana,
+!!już po twojim życiu.
+!!@VERSE:
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: (1) przegonie, 
+!!(2) vel: Wilk bez zagony, wilk bez zagony, 
+!!a kozuchna w gony (wygonki), 
+!!moja kozuchno, moja jedyna,
+!!pójdziesz ze mną w tány (tańce)
+!! (1) vel: Ach, mój ty wilczku, mój ty jedyny.
+!!kiej tam wielkie lasy:
+!!moja kozuchno, moja jedyna.
+!!dla mnie dobre czasy.
+!!(2) vel: me żony śpiewają
+!!(3) vel: A mój ty wilczku, a mój kochany,
+!!kiej tam strasanc góry;
+!!moja kozuchno, moja kochana,
+!!będę der(ł) ze skóry.
+!!@@END:
+!!!role-singer: Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=196 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 117} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 117}
 !!!page: 117
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-01

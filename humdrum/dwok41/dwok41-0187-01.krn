@@ -3,53 +3,83 @@
 !!!source: DWOK41
 !!!id: 41187
 !!!signature: 4118700001
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{8cc
-8cc
-4cc
-=2
-8b
-4g
-8g
-=3
-8b
-8dd
-8ff
-8aa
-=4
-8gg
-4ee}
-8r
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+=1	=1
+!LO:TX:a:t=Krakowiak	!
+{8cc	U-
+8cc	-bo-
+4cc	-ga
+=2	=2
+8b	wdo-
+4g\	-wu-
+8g\	-sia
+=3	=3
+8b	chcia-
+8dd	-ła
+8ff	się
+8aa	do-
+=4	=4
+8gg	-ro-
+4ee}	-bić
+8r	.
 !!LO:LB:g=esac
-=5
-{8cc
-8cc
-8cc
-16b
-16a
-=6
-8g
-8g
-8g
-8g
-=7
-8b
-8dd
-8ff
-8dd
-=8
-8ee
-4cc}
-8r
-==
-*-
+=5	=5
+{8cc	i
+8cc	u-
+8cc	-ję-
+16b/L	-ła
+16aJ	.
+=6	=6
+8g	pół
+8g	ro-
+8g	-le-
+8g	-czki,
+=7	=7
+8b	nie
+8dd	miał
+8ff	jej
+8dd	kto
+=8	=8
+8ee	zro-
+4cc}	-bić.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Uboga wdowusia
+!!chciała się dorobić
+!!i ujęła pół roleczki,
+!!nie miał jej kto zrobić.
+!!@VERSE:
+!!2. Najęna niedźwiedzia,
+!!najęna i wilka,
+!!ażeby ci ji zorali
+!!zagoników kilka.
+!!@VERSE:
+!!3. Uboga wdowusia
+!!śniadanie szykuje,
+!!a wilczek z niedźwiedziem
+!!do lasa wędruje.
+!!@VERSE:
+!!4. Uboga wdowusia
+!!śniadanie im niesie,
+!!a wilczek z niedźwiedziem
+!!bujają po lesie.
+!!@VERSE:
+!!5. Uboga wdowusia
+!!szła do pana skarżyć,
+!!wilczki wołki zadusiły
+!!i chciały ją zaźryć.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=199 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 120} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 120}
 !!!page: 120
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-03

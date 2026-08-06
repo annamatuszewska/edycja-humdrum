@@ -3,64 +3,73 @@
 !!!source: DWOK41
 !!!id: 411016
 !!!signature: 41101600000
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/4
-=1
-{2ee
-4ee
-=2
-2ff#
-4b
-=3
-8b
-8ee
-2cc#}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M3/4	*
+=1	=1
+{2ee	Z_po-
+4ee	-nie-
+=2	=2
+2ff#	-dział-
+4b	-ku
+=3	=3
+8b	na
+8ee	świę-
+2cc#}	-to
 !!LO:LB:g=esac
-=4
-{2ee
-4gg#
-=5
-2ff#
-4b
-=6
-8b
-8ee
-2cc#}
+=4	=4
+{2ee	[ko-
+4gg#	-ni-
+=5	=5
+2ff#	-ki
+4b	mu
+=6	=6
+8b	za-
+8ee	-ję-
+2cc#}	-to,
 !!LO:LB:g=esac
-=7
-{8a
-8b
-4cc#
-4ee
-=8
-8dd
-8cc#
-4b
-4g#
-=9
-4a
-2cc#}
+=7	=7
+{8a	a
+8b	za-
+4cc#	-ję-
+4ee	-to
+=8	=8
+8dd	fur-
+8cc#	-ma-
+4b	-no-
+4g#	-wi
+=9	=9
+4a	ko-
+2cc#}	-nie
 !!LO:LB:g=esac
-=10
-{8a
-8b
-4cc#
-4ee
-=11
-8dd
-8cc#
-4b
-4g#
-=12
-4a
-2f#}
-==
-*-
+=10	=10
+{8a	i
+8b	nie
+4cc#	wie-
+4ee	-dział,
+=11	=11
+8dd	któ-
+8cc#	-rą
+4b	dro-
+4g#	-gą
+=12	=12
+4a	po
+2f#}	nie].
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Z poniedziałku na święto
+!![koniki mu zajęto,
+!!a zajęto furmanowi konie
+!!i nie wiedział, którą drogą po nie].
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=512 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 425} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 425}
 !!!page: 425
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-06

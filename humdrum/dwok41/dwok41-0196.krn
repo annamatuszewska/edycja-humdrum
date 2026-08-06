@@ -3,60 +3,85 @@
 !!!source: DWOK41
 !!!id: 41196
 !!!signature: 4119600000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{8cc
-8ee
-8dd#
-=2
-4ee
-8cc
-=3
-8ee
-4cc
-=4
-8.ee
-16dd
-16cc
-16b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Pieśń dziadowska, nabożna	!
+{8cc	Na
+8ee	o-
+8dd#	-néj
+=2	=2
+4ee	gó-
+8cc	-rze,
+=3	=3
+8ee	na
+4cc	zie-
+=4	=4
+8.eeL	-lo-
+16ddJ	.
+16ccL	-néj
+16b}J	.
 !!LO:LB:g=esac
-=5
-{8cc
-8ee
-8dd#
-=6
-4ee
-8cc
-=7
-8dd
-8e
-8g#
-=8
-4a
-8a}
+=5	=5
+{8cc	sto-
+8ee	-i
+8dd#	tam
+=6	=6
+4ee	klasz-
+8cc	-tór
+=7	=7
+8dd	fun-
+8eL	-do-
+8g#J	.
+=8	=8
+4a	-wa-
+8a}	-ny,
 !!LO:LB:g=esac
-=9
-{8a
-8cc
-8b
-=10
-4cc
-8a
-=11
-4b
-8g#
-=12
-8a
-8a}
-8r
-==
-*-
+=9	=9
+{8a	sto-
+8cc	-i
+8b	tam
+=10	=10
+4cc	klasz-
+8a	-tór
+=11	=11
+4b	fun-
+8g#	-do-
+=12	=12
+8a	-wa-
+8a}	-nu.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Na onéj górze, na zielonéj
+!!|:stoi tam klasztór fundowany:|.
+!!@VERSE:
+!!2. A w tym klasztorze Pan Jezus leży,
+!!|:o Jezu, Jezu, Pan Jezus leży:|.
+!!@VERSE:
+!!3. A w drugim grobie Matka Najświętsza,
+!!|: o Jezu, Jezu, Matka Najświętsza:|.
+!!@VERSE:
+!!4. A w trzecim grobie świety Jan klęczy,
+!!|: o Jezu, Jezu, święty Jan klęczy:|.
+!!@VERSE:
+!!5. Przed Panem Jezusem świece goreją,
+!!przed Matką Najświętszą organy grają.
+!!przed świętym Janem lilija kwitnie.
+!!@VERSE:
+!!6. A z téj lilii wyleciał ptaszeczek,
+!!nie był to ptaszeczek, jéno Syn Boży,
+!!a co nam świeci we dnie i w nocy.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=204 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 125} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 125}
 !!!page: 125
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-04

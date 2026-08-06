@@ -5,64 +5,99 @@
 !!!signature: 41100400002
 **kern
 *clefG2
-*k[f#]
+*k[]
 *G:
 *M4/4
 =1
 {4dd
-8dd
-8ee
+8ddL
+8eeJ
 4dd
 4dd
 =2
-4cc
-8a
-8g
+4ccM
+8a\L
+8g\J
 2b
 =3
 4dd
-8dd
-8ee
+8ddL
+8eeJ
 4dd
 4dd
 =4
-4cc
-8a
-8g
+4ccM
+8a\L
+8g\J
 2b}
 !!LO:LB:g=esac
 =5
-{8cc
-8a
-8g
-8a
+{8cLc
+8a\J
+8gL
+8aJ
 4b
-8b
-8dd
+8bL
+8ddJ
 =6
-8cc
-8a
-8g
-8a
+8cc/L
+8aJ
+8gL
+8aJ
 2b
 =7
-8cc
-8a
-8g
-8a
+8ccL
+8a\J
+8gL
+8aJ
 4b
-8b
-8dd
+8bL
+8ddJ
 =8
-8cc
-8a
-8g
-8a
+8cc/L
+8aJ
+8gL
+8aJ
 2b}
 ==
 *-
+!!@@BEGIN: VERSES
+!!1. Pod borem sośnia gorzała,
+!!a pod nią panna stojała,
+!!skry na nią padały,
+!!suknie na niej gorzały
+!!aż do dnia, aż do dnia.
+!!@VERSE:
+!!2. Przyjechał do niej starzeniec
+!!i prosił ci ją o wieniec.
+!!Ja młoda dzieweczka,
+!!nie dam tobie wianeczka,
+!!boś stary, boś stary.
+!!@VERSE:
+!!3. Przyjechał do niej młody pan,
+!!zarzucił na nią swoj żupan.
+!!A ten żupan atłasowy,
+!!siadaj, dziewcze, koń gotowy,
+!!jedź z nami, jedź z nami.
+!!@VERSE:
+!!4. Żebym wiedziała, żeś ty mój,
+!!kupiłabym ci w mieście dom,
+!!w mieście dom, kamienicę,
+!!a w Krakowie szubienicę,
+!!Jasio moj, Jasio moj.
+!!@VERSE:
+!!5. A w ogrodeczku lelija,
+!!a pod lelują szałwija,
+!!tam panienki siadały,
+!!tam wianeczki wijały,
+!!tam i ja, tam i ja.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=506 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 419} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 419}
 !!!page: 419
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-04

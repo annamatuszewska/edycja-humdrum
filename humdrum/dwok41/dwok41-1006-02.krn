@@ -1,57 +1,93 @@
-!!!!SEGMENT: DWOK41100600002-a_kej_ja_se_mloda.krn
-!!!OTL: A kej ja se młodą
+!!!!SEGMENT: DWOK41100600002-a_kiej_ja_se_mloda.krn
+!!!OTL: A kiej ja se młodą
 !!!source: DWOK41
 !!!id: 411006
 !!!signature: 41100600002
-**kern
-*clefG2
-*k[]
-*a:
-*M2/4
-=1
-{8a
-8b
-8cc
-8dd
-=2
-8ee
-8ee
-8dd
-8b
-=3
-8cc
-8cc
-8b
-8g#
-=4
-8a
-8a
-8g#
-8e}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M2/4	*
+=1	=1
+{8a	A
+8b	kiej
+8cc	ja
+8dd	se
+=2	=2
+8ee	mło-
+8ee	-dą
+8dd	pan-
+8b	-ną
+=3	=3
+8cc	cho-
+(8ddq	.
+8cc)	-dzi-
+8b/L	-ła,
+8g#J}	.
+=4	=4
+8a	cho-
+8a	-dzi-
+8g#\L	-ła,
+8e\J}	.
 !!LO:LB:g=esac
-=5
-{8a
-8cc
-8b
-8dd
-=6
-8a
-8a
-8g#
-8e
-=7
-8a
-8cc
-8b
-8dd
-=8
-8a
-8a
-4a}
-==
-*-
+=5	=5
+{8a\L	da
+8ccJ	.
+8bL	da
+8ddJ	.
+=6	=6
+8a	da
+8a	da
+8g#L	da
+8eJ	.
+=7	=7
+8a	da-
+8cc	-dy
+8b	da-
+8dd	-dy
+=8	=8
+8a	da
+8a	da
+4a}	[da].
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A kiej ja se młodą panną |:chodziła:|,
+!!da da da da da dady dady da da [da].
+!!a to ja se jabłoneckę |: wsadziła :|,
+!![da da da da da, dady dady da da da].
+!!@VERSE:
+!!2. Juzci moji jabłonecce |: pół roku :|,
+!![da da da da da, dady dady da da da],
+!!juzci moja jabłonecka |: w poł boku :|,
+!![da da da da da, dady dady da da da].
+!!@VERSE:
+!!3. Juzci moji jabłonecce |: rok mija :|,
+!![da da da da da, dady dady da da da],
+!!juz się moja jabłonecka |: rozwija :|,
+!![da da da da da, dady dady da da da].
+!!@VERSE:
+!!4. Juzci moji jabłonecce |: dwie lecie :|,
+!![da da da da da, dady dady da da da],
+!!juzci moja jabłonecka |: modro krzcie :|,
+!![da da da da da, dady dady da da da].
+!!@VERSE:
+!!5. Juzci moji jabłonecce |: trzy lata :|,
+!![da da da da da, dady dady da da da],
+!!juzci moja jabłonecka |: [ma] jabka :|,
+!![da da da da da, dady dady da da da].
+!!@VERSE:
+!!6. I urwałam tych jabłusków |: dwanaście :|,
+!![da da da da da, dady dady da da da],
+!!i zaniosłam do Warsawy |: staroscie :|,
+!![da da da da da, dady dady da da da].
+!!@@END: VERSES
+!!!role-singer: Young Girl
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=507 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 420} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 420}
 !!!page: 420
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-04
