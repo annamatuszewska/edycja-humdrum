@@ -7,15 +7,15 @@
 *clefG2	*
 *k[f#]	*
 *G:	*
+*M3/4	*
 =1	=1
-!!LO:TX:a:t=Pasterka śpiewa:
+!LO:TX:a:t=Pasterka śpiewa:	!
 {8bq	.
 4.dd;	Losa
 8b	.
 8b	bysiu
 8cc	.
 =2	=2
-*M3/4	*
 4.dd	losa
 8ee	.
 8dd	lo
@@ -47,7 +47,8 @@
 8f#J	.
 2g;	lo
 =8	=8
-!!LO:TX:a:t=Byk czarny (v. parobek).
+!LO:TX:a:t=(v. parobek).	!
+!LO:TX:a:t=Byk czarny	!
 2.B;}	bu!
 !!LO:LB:g=esac
 =9	=9
@@ -61,27 +62,15 @@
 8bL	ho
 8aJ	.
 4g;	lo,
-=	=
-!!UNCATEGORIZED MEASURE
-!!LO:TX:a:t=Byk.
-2d}	bu!
-!!LO:LB:g=esac
-=	=
-!!UNCATEGORIZED MEASURE
-!!LO:TX:a:t=Ona (żwawiéj głosem).
-*M3/8	*
-{16bL	.
-16cc	.
-8bJ	.
-16ddL	.
-16cc#J	.
 =11	=11
-16aL	.
-16gJ	.
-8.eeL	.
-16ddJ	.
+!LO:TX:a:t=Byk.	!
+!LO:N:vis=2	!
+2d.}	bu!
+!!LO:LB:g=esac
 =12	=12
-16bL	.
+*M3/8	*
+!LO:TX:a:t=Ona (żwawiéj głosem).	!
+{16bL	.
 16cc	.
 8bJ	.
 16ddL	.
@@ -89,81 +78,65 @@
 =13	=13
 16aL	.
 16gJ	.
+8.eeL	.
+16ddJ	.
+=14	=14
+16bL	.
+16cc	.
+8bJ	.
+16ddL	.
+16cc#J	.
+=15	=15
+16aL	.
+16gJ	.
 16bL	.
 16a	.
 8gJ}	.
 !!LO:LB:g=esac
-=14	=14
+=16	=16
 {16bL	.
 16cc	.
 8bJ	.
 16aL	.
 16gJ	.
-=15	=15
+=17	=17
 16bL	.
 16aJ\	.
 8.dd;L	.
 16gJ	.
-=16	=16
+=18	=18
 16bL	.
 16cc	.
 8bJ	.
 16aL	.
 16gJ	.
-=17	=17
+=19	=19
 16aL	.
 16gJ	.
 16bL	.
 16a	.
 8g;J	.
-=	=
-!!UNCATEGORIZED MEASURE
-2d}	bu,
+=20	=20
+*M3/4	*
+!LO:N:vis=2	!
+2d.}	bu,
 !!LO:LB:g=esac
-=	=
-!!UNCATEGORIZED MEASURE
+=21	=21
 {4g	bu
 4g	bu
 4g;	bu
-=18	=18
+=22	=22
 *M3/8	*
 8g	bu
 8g	bu
 8g	bu
-=19	=19
+=23	=23
 8g	bu
 8g	bu
 8g}	bu
 !!LO:LB:g=esac
-=20	=20
-!!LO:TX:a:t=Ona. (Presto)
-{16gL	.
-16bJ	.
-16gL	.
-16bJ	.
-16gL	.
-16bJ	.
-=21	=21
-16ccL	.
-16bJ	.
-16gL	.
-16f#	.
-8dJ	.
-=22	=22
-16dL	.
-16eJ	.
-16f#L	.
-16d	.
-16f#	.
-16aJ	.
-=23	=23
-16aL	.
-16bJ	.
-16cc#L	.
-[16dd}	.
-8ddJ]	.
-!!LO:LB:g=esac
 =24	=24
+!!LO:TX:a:t=Ona. (Presto)
 {16gL	.
 16bJ	.
 16gL	.
@@ -184,33 +157,58 @@
 16f#	.
 16aJ	.
 =27	=27
+16aL	.
+16bJ	.
+16cc#L	.
+[16dd}	.
+8ddJ]	.
+!!LO:LB:g=esac
+=28	=28
+{16gL	.
+16bJ	.
+16gL	.
+16bJ	.
+16gL	.
+16bJ	.
+=29	=29
+16ccL	.
+16bJ	.
+16gL	.
+16f#	.
+8dJ	.
+=30	=30
+16dL	.
+16eJ	.
+16f#L	.
+16d	.
+16f#	.
+16aJ	.
+=31	=31
 16bmL	.
 16aJ	.
 8gL	.
 8gJ}	.
 !!LO:LB:g=esac
-=28	=28
+=32	=32
 8r	.
 {16gL	.
 16gMJ	.
 16f#L	.
 16eJ	.
-=	=
-!!UNCATEGORIZED MEASURE
+=33	=33
 16.dL	.
 32eJ	.
 16f#L	.
 16aJ	.
 16gL	.
 16bJ	.
-=29	=29
-*M3/8	*
+=34	=34
 8r	.
 16gL	.
 16gMJ	.
 16f#L	.
 16eJ	.
-=30	=30
+=35	=35
 16dL	.
 16eJ	.
 16f#L	.
@@ -218,26 +216,26 @@
 16f#	.
 16d}J	.
 !!LO:LB:g=esac
-=31	=31
+=36	=36
 8r	.
 {16gL	.
 16gMJ	.
 16f#L	.
 16eJ	.
-=32	=32
+=37	=37
 16.dL	.
 32eJ	.
 16f#L	.
 16aJ	.
 16gL	.
 16bJ	.
-=33	=33
+=38	=38
 8r	.
 16gL	.
 16gMJ	.
 16f#L	.
 16eJ	.
-=34	=34
+=39	=39
 16dL	.
 16eJ	.
 16f#L	.
@@ -257,6 +255,7 @@
 !!ho lo lo bysiu ho lo, bu!
 !!@@END: VERSES
 !!!ONB: Forma dialogowana
+!!!ONB@texture: Only voice or instrument is playing at a time
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=294 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 278-279} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 278-279}
@@ -264,3 +263,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-05-11
+!!!ENC: Anna Matuszewska
+!!!END: 2026-07-27

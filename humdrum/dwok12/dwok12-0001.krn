@@ -21,7 +21,7 @@
 4cc	będzie
 4dd	.
 =2	=2
-q8cc	.
+8ccq	.
 8.ee	słońce
 16ee	.
 8ee	i
@@ -29,7 +29,7 @@ q8cc	.
 8ff	.
 8dd	.
 =3	=3
-q8cc	.
+8ccq	.
 8.ee	słońce
 16ee	.
 8ee	i
@@ -38,7 +38,7 @@ q8cc	.
 8dd}	.
 !!LO:LB:g=esac
 =4	=4
-{q8cc	.
+{8ccq	.
 4ee	przyjdź
 4cc	do
 4dd	mnie
@@ -68,7 +68,7 @@ q8cc	.
 4cc	.
 4dd	się
 =9	=9
-q8cc	.
+8ccq	.
 8.ee	moji
 16ee	.
 8eeL>	rumieności,
@@ -76,7 +76,7 @@ q8cc	.
 8ff	.
 8dd	.
 =10	=10
-q8cc	.
+8ccq	.
 8.ee	moji
 16ee	.
 8eeL>	rumieności,
@@ -85,7 +85,7 @@ q8cc	.
 8dd}	.
 !!LO:LB:g=esac
 =11	=11
-{q8cc	.
+q8ccq	.
 8eeL>	a
 8eeJ	.
 4cc	będziesz
