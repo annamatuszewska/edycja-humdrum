@@ -3,54 +3,168 @@
 !!!source: DWOK41
 !!!id: 411030
 !!!signature: 41103000002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8b
-4dd
-16cc
-16b
-=2
-8a
-4cc
-8a
-=3
-16g
-16g
-8g
-8b
-8g
-=4
-16a
-16f#
-4.d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8b	Pa-
+4dd	-ni
+16cc/L	me-
+16b/J	.
+=2	=2
+8a	-go
+4cc	ser-
+8a	-ca,
+=3	=3
+16g\L	racz
+16g\J	.
+8g	się
+8b/	faty-
+8g	.
+=4	=4
+16aL	-go-
+16f#J	.
+4.d}	-wać,
 !!LO:LB:g=esac
-=5
-{8cc
-8ee
-8ee
-8ee
-=6
-8dd
-4g
-8g
-=7
-16f#
-16e
-8f#
-16f#
-16e
-8f#
-=8
-8g
-4.g}
-==
-*-
+=5	=5
+{8cc	że-
+8ee/L	-lim
+8ee/J	.
+8ee	nie
+=6	=6
+8dd	za-
+4g	-pom-
+8g	-niał,
+=7	=7
+16f#\L	to
+16e\J	.
+8f#	bę-
+16f#\L	-dę
+16e\J	.
+8f#	pró-
+=8	=8
+8g	-bo-
+4.g}	-wać.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Pani mego serca,
+!!racz się fatygować,
+!!żelim nie zapomniał,
+!!to będę próbować.
+!!@VERSE:
+!!2. Kwiateckiem jest panna,
+!!drzewiną mężatka,
+!!co mnie po drzewinie,
+!!kiedy kwaśne jabka.
+!!@VERSE:
+!!3. Tańcujcie, dziewczęta,
+!!tańcujcie, chłopaki,
+!!z nami wolność swięta,
+!!dalej krakowiaki.
+!!@VERSE:
+!!4. Ta piekna, ta brzydka,
+!!ta ma wdzięk zupełny,
+!!lecz ta najpiękniejsza,
+!!co ma worek pełny.
+!!@VERSE:
+!!5. Stworzył Pan Bóg Ewę,
+!!kochała Adama,
+!!i my też potomki,
+!!natura ta sama.
+!!@VERSE:
+!!6. U mego konika
+!!biała nożka, biała,
+!!powiedz mi, dziewczyno,
+!!komuś słowo dała.
+!!@VERSE:
+!!7. Dziewczyno, nie bój się,
+!!pojdz do mnie, połóż się,
+!!ja cię jak matulę
+!!do siebie przytulę.
+!!@VERSE:
+!!8. Nie dałam nikomu,
+!!tylko, chłopcze, tobie,
+!!jeżeliś zapomniał,
+!!przypómnijże sobie.
+!!@VERSE:
+!!9. Przyznam się wam, moje panie,
+!!zem bałamut wielki,
+!!moje serce takie tanie
+!!jak Lesla karmelki1.
+!!@VERSE:
+!!10. Scieli dąbek, scieni,
+!!już się nie zieleni,
+!!dałam chłopcu słowo,
+!!już się nie odmieni.
+!!@VERSE:
+!!11. Kochaj mnie, dziewczyno,
+!!bo ja dobry człowiek,
+!!i ja ciebie będę
+!!do zawarcia powiek.
+!!@VERSE:
+!!12. Dałam chłopcu słowo,
+!!ale wiem, jakiemu,
+!!on mnie jest kochany,
+!!ja nawzajem jemu.
+!!@VERSE:
+!!13. Zmiłuj się nade mną,
+!!bo mi dawno stoi
+!!konicek za bramą
+!!dla miłości twoji.
+!!@VERSE:
+!!14. Dudni woda, dudni
+!!w cembrowany studni,
+!!kochają mnie chłopcy,
+!!a wszystko obłudni.
+!!@VERSE:
+!!15. Zaszumiały boru,
+!!zaszumiały lasy,
+!!kochałam chłopcynę,
+!!minęły te czasy.
+!!@VERSE:
+!!16. Tam się pszczółka cisnie,
+!!gdzie są słodkie wisnie,
+!!i ja tez tam dąże,
+!!gdzie mnie miłość wiąże.
+!!@VERSE:
+!!17. Kochałam chłopcynę,
+!!prawda, że pięknego,
+!!ale on niegodzien
+!!kochania mojego.
+!!@VERSE:
+!!18. Siwy konik, siwy,
+!!malowane sanki,
+!!pojadę, pojadę
+!!do swoji kochanki.
+!!@VERSE:
+!!19. Pono on mnie, pono
+!!próżno bałamuci,
+!!spokojność odbierze,
+!!a potem porzuci.
+!!@VERSE:
+!!20. Carne ocy mamy,
+!!oboje się znamy,
+!!co komu do tego,
+!!choć my się kochamy.
+!!@VERSE:
+!!21. Od ula do ula
+!!pszczółka przeskakuje,
+!!tam się chłopiec żeni,
+!!gdzie majątek cuje.
+!!@VERSE:
+!!22. Carne ocy mamy,
+!!ale niejednakie,
+!!moje są poćciwe,
+!!a twoje nie takie.
+!!@@END: VERSES
+!!!role-singer: Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=518 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 431-432} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 431-432}
 !!!page: 431-432
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-06

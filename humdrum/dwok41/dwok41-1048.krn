@@ -3,52 +3,61 @@
 !!!source: DWOK41
 !!!id: 411048
 !!!signature: 41104800000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8b
-4dd
-16cc
-16b
-=2
-8dd
-8cc
-4cc}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8b	Moj
+4dd	Bo-
+16ccL	-że,
+16bJ	.
+=2	=2
+8dd	dyszcz
+8cc	pa-
+4cc}	-da,
 !!LO:LB:g=esac
-=3
-{8g
-4b
-8g
-=4
-8a
-8b
-4cc}
+=3	=3
+{8g	dziew-
+4b	-czy-
+8bm	-na
+=4	=4
+8a	nie
+8b	ga-
+4cc}	-da,
 !!LO:LB:g=esac
-=5
-{8b
-4dd
-16ee
-16ff#
-=6
-8gg
-8dd
-4b}
+=5	=5
+{8b	nie
+4dd	ga-
+16eLe	-da,
+16ffJ#	.
+=6	=6
+8gg	ni
+8dd	mo-
+4b}	-że
 !!LO:LB:g=esac
-=7
-{8dd
-4gg
-8b
-=8
-8a
-8b
-4cc}
-==
-*-
+=7	=7
+{8dd	bez
+4gg	lu-
+8bm	-dzi,
+=8	=8
+8a	mój
+8b	Bo-
+4cc}	-że.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Moj Boże, dyszcz pada,
+!!dziewczyna nie gada,
+!!nie gada, ni może
+!!bez ludzi, mój Boże.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=528 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 441} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 441}
 !!!page: 441
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-08

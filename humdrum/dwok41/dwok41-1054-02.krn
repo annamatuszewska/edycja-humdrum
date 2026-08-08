@@ -3,60 +3,76 @@
 !!!source: DWOK41
 !!!id: 411054
 !!!signature: 41105400002
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16cc
-16cc
-8b
-8g
-=2
-16b
-16cc
-8ee
-8ee}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16cc	Le-
+16cc	-ci
+8b	wo-
+8g\	-da
+=2	=2
+16b	mię-
+16cc	-dzy
+8ee	dę-
+8ee}	-by,
 !!LO:LB:g=esac
-=3
-{16ee
-16ee
-8.dd
-16ff
-=4
-16ff
-16cc
-8ee
-8ee}
+=3	=3
+{16ee	mo-
+16ee	-je
+8.dd	dziew-
+16ff	-ce,
+=4	=4
+16ff	daj
+16cc	mi
+8ee	gę-
+8ee}	-by,
 !!LO:LB:g=esac
-=5
-{16cc
-16cc
-8b
-8g
-=6
-16b
-16cc
-8ee
-16ee
-16dd}
+=5	=5
+{16cc	nie
+16cc	bę-
+8b	-de
+8g	ja
+=6	=6
+16b	gę-
+16cc	-by
+8ee	da-
+16eLe	-wać,
+16ddJ}	.
 !!LO:LB:g=esac
-=7
-{16b
-16cc
-8g
-8ff
-=8
-16ff
-16cc
-8ee
-16ee
-16dd}
-==
-*-
+=7	=7
+{16b	bę-
+16cc	-dzie
+8g	na
+8ff	mnie
+=8	=8
+16ff	ma-
+16cc	-tka
+8ee	ga-
+16eeL	-dać.
+16dd}J	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Leci woda między dęby,
+!!moje dziewce, daj mi gęby,
+!!nie będe ja gęby dawać,
+!!będzie na mnie matka gadać.
+!!@VERSE:
+!!2. Matka gada, ojciec fuka,
+!!a bracisek kija suka,
+!!ojciec łaje, matka łaje,
+!!a bracisek kija daje,
+!!a jakiego, dębowego,
+!!na siestryckę nic godnego.
+!!@@END: VERSES
+!!!role-singer: Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=530 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 443} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 443}
 !!!page: 443
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-08

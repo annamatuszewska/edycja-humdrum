@@ -3,54 +3,73 @@
 !!!source: DWOK41
 !!!id: 411039
 !!!signature: 41103900000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{8g
-8ff
-8ff
-=2
-16ff
-16ff
-8ee
-8gg}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{8g	Oj,
+8ff	ze-
+8ff	-by
+=2	=2
+16ff	nie
+16ff	Ma-
+8ee	-ry-
+8gg}	-sia
 !!LO:LB:g=esac
-=3
-{8dd
-8cc
-8g
-=4
-16a
-16f
-8g
-8b}
+=3	=3
+{8ddM	nie
+8cc	o-
+8g	-ze-
+=4	=4
+16aL	-nił-
+16fJ	-bym
+8g	.
+8b}	się,
 !!LO:LB:g=esac
-=5
-{8dd
-8cc
-8b
-=6
-16cc
-16dd
-8ff
-8ee}
+=5	=5
+{8dd	car-
+8cc	-ne
+8b	o-
+=6	=6
+16ccL	-cy
+16ddJ	.
+8ff	mia-
+8ee}	-ła,
 !!LO:LB:g=esac
-=7
-{8dd
-8cc
-8g
-=8
-16a
-16f
-8g
-8g}
-==
-*-
+=7	=7
+{8dd	spo-
+8cc	-do-
+8g	-ba-
+=8	=8
+16aL	-ła
+16fJ	.
+8g	mi
+8g}	się.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj, zeby nie Marysia
+!!nie ozeniłbym się,
+!!carne ocy miała,
+!!spodobała mi się.
+!!@VERSE:
+!!2. Oj, zebym ja wiedziała,
+!!da, kogo będę miała,
+!!jak ciebie, Jasienku,
+!!będę cię kochała.
+!!@VERSE:
+!!3. Jasienku kochany,
+!!do kogoś podany,
+!!Marysiu, do ciebie,
+!!przytul mnie do siebie.
+!!@@END: VERSES
+!!!role-singer: Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=524 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 437} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 437}
 !!!page: 437
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-07

@@ -3,56 +3,65 @@
 !!!source: DWOK41
 !!!id: 411040
 !!!signature: 41104000000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{8ee
-8ee
-8ee
-=2
-16ff#
-16ee
-8dd#
-16cc
-16b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{8ee	Ej,
+8ee	nie
+8ee	chodź
+=2	=2
+16ff#	kie-
+16ee	-le
+8dd#	wo-
+16ccL	-zu,
+16b}J	.
 !!LO:LB:g=esac
-=3
-{16a
-16b
-8cc
-16b
-16a
-=4
-8g#
-4e}
+=3	=3
+{16a	nie
+16b	trzy-
+8cc	-maj
+16b/L	się
+16aJ	.
+=4	=4
+8g#	o-
+4e}	-si,
 !!LO:LB:g=esac
-=5
-{8e
-8g#
-8a
-=6
-16cc
-16b
-8dd
-16cc
-16b}
+=5	=5
+{8e	ej,
+8g#	nie
+8a	daj
+=6	=6
+16cc	chło-
+16b	-pcu
+8dd	gę-
+16ccL	-by,
+16b}J	.
 !!LO:LB:g=esac
-=7
-{16a
-16b
-8cc
-16b
-16a
-=8
-8g#
-4e}
-==
-*-
+=7	=7
+{16a	choc
+16b	cie
+8cc	ła-
+16b/L	-dnie
+16aJ	.
+=8	=8
+8g#	pro-
+4e}	-si.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Ej, nie chodź kiele wozu,
+!!nie trzymaj się osi,
+!!ej, nie daj chłopcu gęby,
+!!choc cie ładnie prosi.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=525 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 438} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 438}
 !!!page: 438
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-07

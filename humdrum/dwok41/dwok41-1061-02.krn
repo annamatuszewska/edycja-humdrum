@@ -3,54 +3,75 @@
 !!!source: DWOK41
 !!!id: 411061
 !!!signature: 41106100002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8dd
-8b
-16dd
-16ee
-=2
-16ee
-16dd
-8a
-8d
-=3
-16f#
-16a
-8b
-8g
-=4
-16g
-16f#
-4d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8dd	Ej,
+8b	cie-
+16dd/L	-sę
+16ee/J	.
+=2	=2
+16ee	się
+16dd	i
+8a	pła-
+8d	-ce,
+=3	=3
+16f#	i
+16a	spie-
+8b	-wam,
+8g	jak
+=4	=4
+16gL	mo-
+16f#J	.
+4d}	-gę,
 !!LO:LB:g=esac
-=5
-{8g
-8b
-16b
-16cc
-=6
-16b
-16g
-8a
-8d
-=7
-16f#
-16a
-8b
-8g
-=8
-16g
-16f#
-4d}
-==
-*-
+=5	=5
+{8g	da,
+8b	o
+16b/L	swo-
+16cc/J	.
+=6	=6
+16b	-im
+16g	ko-
+8a	-cha-
+8d	-niu
+=7	=7
+16f#	za-
+16a	-pom-
+8b	-nieć
+8g	nie
+=8	=8
+16gL	mo-
+16f#J	.
+4d}	-gę.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Ej, ciesę się i płace,
+!!i spiewam, jak mogę,
+!!da, o swoim kochaniu
+!!zapomnieć nie mogę.
+!!@VERSE:
+!!2. Ej, kochanie, przyjdź do mnie
+!!albo mi się przysni,
+!!a bo ja bez kochania
+!!odchodzę od mysli.
+!!@VERSE:
+!!3. Ej, zebym ja wiedziała,
+!!ze mę będzies bijał,
+!!oj, nie słabym za ciebie,
+!!niechbyś był osiwiał.
+!!@@END: VERSES
+!!!role-singer: Wife
+!!!role-listener: Husband
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=534 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 447} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 447}
 !!!page: 447
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-08

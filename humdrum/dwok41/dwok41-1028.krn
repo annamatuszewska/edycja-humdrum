@@ -9,46 +9,61 @@
 *a:
 *M3/8
 =1
-{16g#
-16a
-8cc
-8ee
+{16g#L
+16aJ
+8ccL
+8eeJ
 =2
-8dd
+8ddL
 8b
-8g#
+8g#\J
 =3
-16b
-16a
-8cc
-8a
+16b/L
+16aJ
+8ccL
+8a\J
 =4
-8e
+8eL
 8g#
-8e}
+8e}J
 !!LO:LB:g=esac
 =5
-{16e
-16g#
-8a
-8b
+{16eL
+16g#J
+8a\L
+8bJ
 =6
-8cc
+8ccL
 8b
-8a
+8a\J
 =7
-16b
-16a
-8cc
-8a
+16b/L
+16aJ
+8ccL
+8a\J
 =8
-8e
+8eL
 8g#
-8e}
+8e}J
 ==
 *-
+!!@@BEGIN: VERSES
+!!1. Ej, idź, głosie, po rosie,
+!!da, do Jasieńka mego,
+!!oj, gdzie wołki pasie,
+!!da, i konika wronego.
+!!@VERSE:
+!!2. Ej, idź, głosie, po rosie,
+!!ej, do matki moji,
+!!ej, niech się nie frasuje,
+!!da, pojdę ja tam do nij.
+!!@@END: VERSES
+!!!role-singer: Mistress
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=518 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 431} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 431}
 !!!page: 431
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-06

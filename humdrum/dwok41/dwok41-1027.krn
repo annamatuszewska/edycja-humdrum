@@ -3,47 +3,81 @@
 !!!source: DWOK41
 !!!id: 411027
 !!!signature: 41102700000
-**kern
-*clefG2
-*k[f#]
-*e:
-*M3/8
-=1
-{16e
-16e
-8e
-8e
-=2
-16f#
-16a
-16a
-16f#
-8d
-=3
-16e
-16g
-8.f#
-16g
-=4
-16e
-16r
-16f#
-16r
-16d#}
-16r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*e:	*
+*M3/8	*
+=1	=1
+{16e	A
+16e	w_nie-
+8e	-dzie-
+8e	-lę
+=2	=2
+16f#	ra-
+16a	-niu-
+16aL	-si-
+16f#J	.
+8d	-czko,
+=3	=3
+16e	dys-
+16g	-cyk
+8.f#	po-
+(8aq	.
+16g)	-ra-
+=4	=4
+16e	-nia,
+16r	.
+16f#	by,
+16r	.
+16d#}	ha,
+16r	.
 !!LO:LB:g=esac
-=5
-{16e
-16g
-8.f#
-16g
-=6
-4e}
-8r
-==
-*-
+=5	=5
+{16e	[dys-
+16g	-cyk
+8.f#	po-
+(8aq	.
+16g)	-ra-
+=6	=6
+4e}	-nia]
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A w niedzielę raniusiczko,
+!!dyscyk porania, by, ha,
+!![dyscyk porania]
+!!Maryś moja, Marysienka
+!!wołki wygania, [hy ha,
+!!wołki wygania].
+!!@VERSE:
+!!2. I wygnała, popętała,
+!!idzie do domu, [hy ha,
+!!idzie do domu],
+!!zastąpił ij Jasio drogę
+!!na siwym koniu, [hy ha,
+!!na siwym koniu].
+!!@VERSE:
+!!3. Maryś m[oja], M[arysienka],
+!!co za gości mas, [hy ha,
+!!co za gości mas],
+!!co tak [rano, raniusieńko
+!!wołki wyganias, hy ha,
+!!wołki wyganias].
+!!@VERSE:
+!!4. A co tobie, mój Jasieńku,
+!!do moich gości, [hy ha,
+!!do moich gości],
+!!oddałbyś ty koniceńka
+!!do jegomości, [hy ha,
+!!do jegomości].
+!!@@END: VERSES
+!!!role-singer: Many characters 
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=517 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 430} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 430}
 !!!page: 430
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-06

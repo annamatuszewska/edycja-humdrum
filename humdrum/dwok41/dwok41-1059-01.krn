@@ -3,52 +3,93 @@
 !!!source: DWOK41
 !!!id: 411059
 !!!signature: 41105900001
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{8g
-4gg
-8ee
-=2
-8ee
-8ee
-8gg
-8gg
-=3
-8ff
-8dd
-8dd
-8b
-=4
-4cc
-8b
-8g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+=1	=1
+{8g	Oj,
+4gg	cy
+8ee	cie-
+=2	=2
+8ee	-bie,
+8ee	Ma-
+8gg	-ry-
+8gg	-siu,
+=3	=3
+8ff	od-
+8dd	-ma-
+8dd	-lo-
+8b	-wał
+=4	=4
+4cc	ma-
+8b/L	-larz,
+8g}J	.
 !!LO:LB:g=esac
-=5
-{8b
-4dd
-8ff
-=6
-8ee
-8ee
-8ee
-8ee
-=7
-8ff
-8dd
-8b
-8g
-=8
-4cc
-8b
-8g}
-==
-*-
+=5	=5
+{8b	da,
+4dd	w_ca-
+8ff	-łej
+=6	=6
+8ee	pa-
+8ee	-ra-
+8ee	-fi-
+8ee	-i
+=7	=7
+8ff	ta-
+8dd	-kiej
+8b	by
+8g\	nie
+=8	=8
+4cc	na-
+8b/L	-laz.
+8g}J	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj, cy ciebie, Marysiu,
+!!odmalował malarz,
+!!da, w całej parafii
+!!takiej by nie nalaz.
+!!@VERSE:
+!!2. Oj, widziałem cię, widział,
+!!jakeś wodę niosła,
+!!da, od jednego razu
+!!w mojeś serce wrosła.
+!!@VERSE:
+!!3. Oj, widziałem cię, widział,
+!!jakem orał wydział,
+!!i ja cię widziała,
+!!jakem wółki gnała.
+!!@VERSE:
+!!4. Oj, widziałem cię, widział,
+!!jakeś wodę brała,
+!!oj, zaraześ mi się wtedy,
+!!dziéwce, spodobała.
+!!@VERSE:
+!!5. Oj, widziałem cię, widział
+!!w kosciele klęcący,
+!!oj, małom z chóru nie spad
+!!na cię patrzający.
+!!@VERSE:
+!!6. O, stukałem, pukał,
+!!nie chciałaś otworzyć,
+!!musiałem na progu
+!!głowickę położyć.
+!!@VERSE:
+!!7. Głowenke na progu,
+!!rąckę koło proga,
+!!oj, otworz mi dziewcyno,
+!!boj sie Pana Boga.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Girl
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=532 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 445} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 445}
 !!!page: 445
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-08

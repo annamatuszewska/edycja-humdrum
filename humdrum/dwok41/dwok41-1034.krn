@@ -3,69 +3,81 @@
 !!!source: DWOK41
 !!!id: 411034
 !!!signature: 41103400000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16ee
-16ee
-8dd
-8cc
-=2
-4b
-8a
-=3
-16a
-16a
-8g
-8f#
-=4
-4g
-8e}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{16ee	Mas,
+16ee	dziew-
+8dd	-cy-
+8cc	-no?
+=2	=2
+4b	Mam,
+8a	mam.
+=3	=3
+16a	Das,
+16a	dziew-
+8g	-cy-
+8f#i	-no?
+=4	=4
+4g	Dam,
+8e}	dam.
 !!LO:LB:g=esac
-=5
-{16e
-16e
-8d
-8c
-=6
-16a
-16a
-4g
-=7
-16a
-16a
-8e
-8g
-=8
-16g
-16f
-4d}
+=5	=5
+{16e	Ma-
+16e	-ją
+8d	lu-
+8c	-dzie,
+=6	=6
+16a	mam
+16a	i
+4g	ja,
+=7	=7
+16a	da-
+16a	-ją
+8e	lu-
+8g	-dzie,
+=8	=8
+16g	dam
+16f	i
+4d}	ja.
 !!LO:LB:g=esac
-=9
-{16e
-16e
-8d
-8c
-=10
-16a
-16a
-4g
-=11
-16a
-16a
-8e
-8g
-=12
-16g
-16f
-4d}
-==
-*-
+=9	=9
+{16e	Ma-
+16e	-ją
+8d	lu-
+8c	-dzie,
+=10	=10
+16a	mam
+16a	i
+4g	ja,
+=11	=11
+16a	da-
+16a	-ją
+8e	lu-
+8g	-dzie,
+=12	=12
+16g	dam
+16f	i
+4d}	ja.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Mas, dziewcyno? Mam, mam.
+!!Das, dziewcyno? Dam, dam.
+!!|:ją ludzie, mam i ja,
+!!dają ludzie, dam i ja:|
+!!@@END: VERSES
+!!!role-singer: Lover. Mistress
+!!!role-listener: Mistress, Lover
+!!!singer-sex: Male, Female
+!!!RDF**kern: i = editorial accidental
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=522 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 435} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 435}
 !!!page: 435
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-07

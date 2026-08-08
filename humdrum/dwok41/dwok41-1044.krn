@@ -3,58 +3,70 @@
 !!!source: DWOK41
 !!!id: 411044
 !!!signature: 41104400000
-**kern
-*clefG2
-*k[]
-*a:
-*M2/4
-=1
-{8a
-8cc
-8ee
-8dd#
-=2
-8b
-8dd#
-8ee
-8b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M2/4	*
+=1	=1
+{8a	Daj
+8cc	mie,
+8ee	ma-
+8dd#	-tu-
+=2	=2
+8b	-lu,
+8dd#	za
+8ee	Jo-
+(8ccq	.
+8b)}	-zia,
 !!LO:LB:g=esac
-=3
-{8a
-8cc
-8ee
-8dd
-=4
-8cc
-8a
-8g#
-8e}
+=3	=3
+{8a	daj
+8cc	mnie
+8ee	za
+8dd	Jó-
+=4	=4
+8cc	-zia,
+8a	[za
+8g#	Jó-
+8e}	-zia],
 !!LO:LB:g=esac
-=5
-{8e
-8e
-8e
-8g#
-=6
-8b
-8a
-8cc
-8a}
+=5	=5
+{8e	a
+8e	bo
+8e	mi
+8g#	[się]
+=6	=6
+8b	spo-
+8a	-do-
+8cc	-ba-
+8a}	-ła
 !!LO:LB:g=esac
-=7
-{8cc
-8ee
-8dd
-8b
-=8
-8cc
-8b
-8g#
-8e}
-==
-*-
+=7	=7
+{8cc	bu-
+8ee	-zia
+8dd	u
+8b	Jó-
+=8	=8
+8cc	-zia,
+8b	u
+8g#	Jó-
+8e}	-zia.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Daj mie, matulu, za Jozia,
+!!daj mnie za Józia, [za Józia],
+!!a bo mi [się] spodobała
+!!buzia u Józia, u Józia.
+!!@@END: VERSES
+!!!role-singer: Daughter
+!!!role-listener: Mother
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=527 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 440} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 440}
 !!!page: 440
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-08

@@ -3,58 +3,67 @@
 !!!source: DWOK41
 !!!id: 411022
 !!!signature: 41102200000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{8cc
-8ee
-4ee
-4ee
-=2
-8dd
-8dd
-4.ee
-8dd}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+{8cc	Pa-
+8ee	-ro-
+4ee	-be-
+4ee	-czek
+=2	=2
+8dd	nic
+8dd	nie
+4.ee	wi-
+8dd}	-nien,
 !!LO:LB:g=esac
-=3
-{8cc
-8ee
-4ee
-4ee
-=4
-8dd
-8dd
-4.ee
-8cc}
+=3	=3
+{8cc	ze
+8ee	po-
+4ee	-ko-
+4ee	-chał,
+=4	=4
+8dd	bo
+8dd	po-
+4.ee	-wi-
+8cc}	-nien,
 !!LO:LB:g=esac
-=5
-{8a
-8cc
-4b
-4g#
-=6
-8a
-8cc
-4b
-4g#}
+=5	=5
+{8a	a
+8cc	dziew-
+4b	-czy-
+4g#	-na
+=6	=6
+8a	bar-
+8cc	-dzo
+4b	win-
+4g#}	-na,
 !!LO:LB:g=esac
-=7
-{8a
-8cc
-4.ee
-8e
-=8
-8b
-8b
-4cc
-4a}
-==
-*-
+=7	=7
+{8a	po-
+8cc	-ko-
+4.ee	-cha-
+8e	-ła,
+=8	=8
+8b	nie
+8b	po-
+4cc	-win-
+4a}	-na.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Parobeczek nic nie winien,
+!!ze pokochał, bo powinien,
+!!a dziewczyna bardzo winna,
+!!pokochała, nie powinna.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=515 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 428} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 428}
 !!!page: 428
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-06

@@ -3,52 +3,74 @@
 !!!source: DWOK41
 !!!id: 411074
 !!!signature: 41107400002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8g
-8a
-8b
-8cc
-=2
-8ee
-4dd
-8b
-=3
-8dd
-4cc
-8a
-=4
-8cc
-4b
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8g	A
+8a	cho-
+8b	-dzi-
+8cc	-ła
+=2	=2
+8ee	po
+4dd	bo-
+8b	-ru,
+=3	=3
+8dd	po
+4cc	le-
+8a	-sie,
+=4	=4
+8cc	po
+4b	le-
+8g}	-sie,
 !!LO:LB:g=esac
-=5
-{8gg
-8ff#
-16aa
-16gg
-16ff#
-16ee
-=6
-8ee
-4dd
-8b
-=7
-8dd
-4cc
-8cc
-=8
-8ee
-4dd
-8b}
-==
-*-
+=5	=5
+{8gg	py-
+8ff#	-tam
+16aaL	ij
+16ggJ	.
+16ff#L	się,
+16eeJ	.
+=6	=6
+8ee	co
+4dd	nie-
+8b	-sie,
+=7	=7
+8dd	co
+4cc	nie-
+8cc	-sie,
+=8	=8
+8ee/	co
+4dd/	nie-
+8b/}	-sie?
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A chodziła po boru, |:po lesie:|,
+!!pytam ij się, co niesie, |:co niesie:|?
+!!@VERSE:
+!!2. Spodnicyny podniosła, |:podniosła:|,
+!!pokazała, co niosła, |:co niosła:|.
+!!@VERSE:
+!!3. Miała taki jak krucek, |:jak krucek:|,
+!!pyscek taki jak mucek, |:jak mucek:|.
+!!@VERSE:
+!!4. Miała taki jak sowa, |:jak sowa:|,
+!!nie rzekło ani słowa, |:ni słowa:|.
+!!@VERSE:
+!!5. Miała taki jak wrona, |:jak wrona:|,
+!!a ni miało ogona, |:ogona:|.
+!!@VERSE:
+!!6. Trzeba by się zabawić, |:zabawić:|,
+!!wronie ogon przyprawić, |:przyprawić:|.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=539 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 452} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 452}
 !!!page: 452
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-08

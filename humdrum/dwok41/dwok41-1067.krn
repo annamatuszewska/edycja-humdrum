@@ -3,57 +3,88 @@
 !!!source: DWOK41
 !!!id: 411067
 !!!signature: 41106700000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16cc
-16ee
-8gg
-8ee
-=2
-16gg
-16gg
-8dd
-8ff}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16cc	A
+16ee	gdzie-
+8gg	-ześ
+8ee	to,
+=2	=2
+16gg	co-
+16gg	-ruś,
+8dd	[by-
+8ff}	-ła],
 !!LO:LB:g=esac
-=3
-{16dd
-16ee
-8ff
-8dd
-=4
-16ff
-16ee
-8dd
-8ee}
+=3	=3
+{16dd	coś
+16ee	trze-
+8ff	-wi-
+8dd	-ki
+=4	=4
+16ff	u-
+16ee	-ro-
+8dd	-si-
+8ee}	-ła?
 !!LO:LB:g=esac
-=5
-{8cc
-8a
-16cc
-16b
-=6
-16g
-16b
-8dd
-16ff
-16ee}
+=5	=5
+{8cc	[U
+8a	lnum
+16cc	by-
+16b	-ła,
+=6	=6
+16g	ma-
+16b	-tu-
+8dd	-lin-
+16ffL	-ku,
+16ee}J	.
 !!LO:LB:g=esac
-=7
-{8cc
-8a
-16cc
-16b
-=8
-4g}
-8r
-==
-*-
+=7	=7
+{8cc	u
+8a	lnum
+16ccL	by-
+16bJ	.
+=8	=8
+4g}	-ła].
+8r	_
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A gdzieześ to, coruś, [była],
+!!coś trzewiki urosiła?
+!![U lnum była, matulinku,
+!!u lnum była].
+!!@VERSE:
+!!2. A coz tam za rzepka była,
+!!coś mi tak bardzo styła?
+!!Zwiędła była, matulinku,
+!![zwiędła była].
+!!@VERSE:
+!!3. A coześ [to], coruś, jadła,
+!![coś mi tak bardzo zbladła]?
+!!Rzepkęm jadła, matulinku,
+!![rzepkęm jadła].
+!!@VERSE:
+!!4. A [coześ to, coruś], piła,
+!![. . . . . . . . . .]
+!!W zdroju wodę, [matulinku,
+!!w zdroju wodę].
+!!@VERSE:
+!!5. A coz tam za woda [była,
+!!. . . . . . . . . ] odęła?
+!!Mętna była, [matulinku,
+!!mętna była].
+!!@@END: VERSES
+!!!role-singer: Mother, Daughter
+!!!role-listener: Daughter, Mother
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=537 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 450} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 450}
 !!!page: 450
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-08
