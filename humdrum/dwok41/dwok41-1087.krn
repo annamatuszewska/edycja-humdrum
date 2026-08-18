@@ -3,71 +3,126 @@
 !!!source: DWOK41
 !!!id: 411087
 !!!signature: 41108700000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8a
-8a
-4cc
-4cc
-=2
-4b
-2dd
-=3
-8a
-8cc
-4.ee
-8cc
-=4
-4b
-2g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8a	Z_tam-
+8a	-tej
+4cc	stro-
+4cc	-ny
+=2	=2
+4b	[Wi-
+2dd	-sły]
+=3	=3
+8a	kom-
+8cc	-pa-
+4.ee	-ne-
+8cc	-czka
+=4	=4
+4b	to-
+2g}	-nie,
 !!LO:LB:g=esac
-=5
-{8a
-8a
-4.cc
-8a
-=6
-8g
-8g
-4cc
-4e
-=7
-8g
-8g
-4.f
-8d
-=8
-8e
-8f
-2g}
+=5	=5
+{8a	oj,
+8a	że-
+4.cc	-bym
+8a	miał
+=6	=6
+8g	czo-
+8g	-łe-
+4cc	-ne-
+4e	-czko,
+=7	=7
+8g	po-
+8g	-je-
+4.f	-chał-
+8d	-bym
+=8	=8
+8eL	po
+8fJ	.
+2g}	nię,
 !!LO:LB:g=esac
-=9
-{8a
-8a
-4.cc
-8a
-=10
-8g
-8g
-4cc
-4e
-=11
-8g
-8g
-4.f
-8d
-=12
-8d
-8e
-2c}
-==
-*-
+=9	=9
+{8a	oj,
+8a	że-
+4.cc	-bym
+8a	miał
+=10	=10
+8g	czo-
+8g	-łe-
+4cc	-ne-
+4e	-czko,
+=11	=11
+8g	po-
+8g	-je-
+4.f	-chał-
+8d	-bym
+=12	=12
+8dL	po
+8eJ	.
+2c}	nię.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Z tamtej strony [Wisły]
+!!kompaneczka tonie,
+!!|:oj, żebym miał czołeneczko,
+!!pojechałbym po nię:|.
+!!@VERSE:
+!!2. Skoro nazbierali,
+!!ona mu się skryła
+!!|: i zieloną rutulenkę
+!!na głowę przykryła :|.
+!!@VERSE:
+!!3. Ani czołeneczka,
+!!ani wiosełeczka,
+!!|: tonie, tonie, [tonie, tonie]
+!!moja kochaneczka :|.
+!!@VERSE:
+!!4. Wiem ci ja te bory,
+!!wiem ci ja te lasy,
+!!|: mam w Bogu [nadzieję
+!!. . . . . . . . . .] :|.
+!!@VERSE:
+!!5. Puszczę konia z lejcą,
+!!niech tę pannę schwycą,
+!!|: ona stoi zadu[mana
+!!w polu na granicy] :|.
+!!@VERSE:
+!!6. Skoro ją znalazł,
+!![. . . . .] pocieszył,
+!![. . . . . . . . . . . .
+!!. . . . . . . . . . .]
+!!@VERSE:
+!!7. Gdzie to panna idzie,
+!!gdzie panna wędruje?
+!!|: Na jagody do dąbrowy,
+!!gdzie waspan [poluje] :|.
+!!@VERSE:
+!!8. [Za śklaneckę wina,
+!!za] sera krajankę,
+!!|: czem ja będę kołysała
+!!tę swoją komp[ankę] :|.
+!!@VERSE:
+!!9. Będziemy ich zbierac,
+!!będziemy się spieszyc,
+!!|: a jak nazbieramy,
+!!będziemy się cieszyć :|.
+!!@VERSE:
+!!10. Kołyszże mnie, kołysz,
+!!moja kompaneczko,
+!!|: już mi nikt nie powie:
+!!dzień dobry, dzieweczko :|.
+!!@@END: VERSES
+!!!role-singer: Many characters
+!!!singer-sex: Male, Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=547 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 460} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 460}
 !!!page: 460
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-12

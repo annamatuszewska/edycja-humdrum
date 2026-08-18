@@ -3,56 +3,67 @@
 !!!source: DWOK41
 !!!id: 411110
 !!!signature: 41111000000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{8cc
-8ee
-8ee
-=2
-16ee
-16cc
-8ee
-8ee
-=3
-8b
-8dd
-8dd
-=4
-16dd
-16a
-16cc
-16b
-8a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{8cc	Oj,
+8ee	sie-
+8ee	-ro-
+=2	=2
+16ee	-ta
+16cc	ja,
+8ee	Ja-
+8ee	-siu,
+=3	=3
+8b	da,
+8dd	wie-
+8dd	-dzia-
+=4	=4
+16dd	-łeś
+16a	ty
+16ccL	o
+16bJ	.
+8a}	tem,
 !!LO:LB:g=esac
-=
-{8e
-8e
-24g#
-24e
-24g#
-=5
-16g#
-16a
-8cc
-8cc
-=6
-8b
-8dd
-8dd
-=7
-16dd
-16a
-16cc
-16b
-8a}
-==
-*-
+=5	=5
+{8e	da,
+8e	by-
+24g#	-ło
+24eL	mnie
+24g#J	.
+=6	=6
+16g#	jes-
+16a	-ce
+8cc	nie
+8cc	brać,
+=7	=7
+8b	da,
+8dd	nie
+8dd	wy-
+=8	=8
+16dd	-ma-
+16a	-wiać
+16ccL	po-
+16bJ	.
+8a}	-tem.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oj, sierota ja, Jasiu,
+!!da, wiedziałeś ty o tem,
+!!da, było mnie jesce nie brać,
+!!da, nie wymawiać potem.
+!!@@END: VERSES
+!!!role-singer: Girl
+!!!role-listener: Lover
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=561 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 474} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 474}
 !!!page: 474
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-17

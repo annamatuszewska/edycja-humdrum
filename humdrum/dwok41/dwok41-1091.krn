@@ -3,52 +3,62 @@
 !!!source: DWOK41
 !!!id: 411091
 !!!signature: 41109100000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16cc
-16dd
-8cc
-8b
-=2
-16cc
-16dd
-8cc
-8b
-=3
-16cc
-16ee
-8ff
-8ee
-=4
-4dd
-8b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16cc	I
+16dd	wy-
+8cc	-je-
+8b	-chał
+=2	=2
+16cc	p[an]
+16dd	sta-
+8cc	-ro-
+8b	-sta
+=3	=3
+16cc	z_ra-
+(8ddq	.
+16ee)	-na
+8ff	na
+8ee	za-
+=4	=4
+4dd	-ją-
+8b}	-ce,
 !!LO:LB:g=esac
-=5
-{16cc
-16ee
-8ff
-8dd
-=6
-16gg
-16ee
-8dd
-8g
-=7
-16b
-16dd
-8cc
-8b
-=8
-4g
-8g}
-==
-*-
+=5	=5
+{16cc	i
+16ee	na-
+8ff	-po-
+8dd	-tkał
+=6	=6
+16gg	trzy
+16ee	p[a-
+8dd	-nien-
+8g	-ki]
+=7	=7
+16b	na
+16dd	zie-
+8cc	-lo-
+8b	-nej
+=8	=8
+4g	[łą-
+8g}	-ce].
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!I wyjechał p[an] starosta
+!!z rana na zające,
+!!i napotkał trzy p[anienki]
+!!na zielonej [łące].
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=550 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 463} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 463}
 !!!page: 463
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-12

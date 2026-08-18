@@ -3,57 +3,64 @@
 !!!source: DWOK41
 !!!id: 411117
 !!!signature: 41111700001
-**kern
-*clefG2
-*k[]
-*a:
-=1
-*M3/4
-{8a
-8a
-4.ee
-8cc
-=2
-*M2/4
-8cc
-8ee
-8gg
-16ff
-16ee
-=3
-8dd
-8dd
-8dd
-8cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+=1	=1
+*M3/4	*
+{8a	Na
+8a	Po-
+4.ee	-do-
+8cc	-lu
+=2	=2
+*M2/4	*
+8cc	bia-
+8ee	-ły
+8gg	ka-
+16ffL	-mień,
+16eeJ	.
+=3	=3
+8dd	[bia-
+8dd	-ły
+8dd	ka-
+8cc}	-mień,
 !!LO:LB:g=esac
-=4
-*M3/4
-{8dd
-16ff
-16dd
-4.ee
-8g
-=5
-8g
-8g
-4b
-4cc}
+=4	=4
+*M3/4	*
+{8dd	Po-
+16ffL	-do-
+16ddJ	.
+4.ee	-lan-
+8g	-ka
+=5	=5
+8g	sie-
+8g	-dzi
+4b	na
+4cc}	nim,
 !!LO:LB:g=esac
-=6
-{8dd
-16ff
-16dd
-4.ee
-8cc
-=7
-8dd
-8cc
-4.a
-8a}
-==
-*-
+=6	=6
+{8dd	Po-
+16ffL	-do-
+16ddJ	.
+4.ee	-lan-
+8cc	-ka
+=7	=7
+8dd	sie-
+8cc	-dzi
+4.a	na-
+8a}	-nim].
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Na Podolu biały kamień, [biały kamień,
+!!Podolanka siedzi na nim]:|.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=567 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 480} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 480}
 !!!page: 480
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-17

@@ -3,60 +3,92 @@
 !!!source: DWOK41
 !!!id: 411099
 !!!signature: 41109900002
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8cc
-8ee
-4gg
-4dd
-=2
-8ee
-8gg
-8gg
-8ff
-8dd
-8cc
-=3
-8dd
-8dd
-4ee
-4cc
-=4
-8dd
-8dd
-4cc}
-4r
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8cc	Kie-
+8ee	-dym
+4gg	ja
+4dd	był
+=2	=2
+8ee	pod
+8gg	two-
+8gg	-im
+8ff	o-
+8dd	-kien-
+8cc	-kiem,
+=3	=3
+8dd	świe-
+8dd	-ciał
+4ee	mie-
+4cc	-siąc
+=4	=4
+8dd	wy-
+8dd	-so-
+4cc}	-ko,
+4r	.
 !!LO:LB:g=esac
-=5
-{8dd
-8dd
-4ee
-4ff#
-=6
-8gg
-8gg
-8aa
-8aa
-8gg
-8ee
-=7
-8dd
-8dd
-4ee
-4cc
-=8
-8dd
-8dd
-4cc}
-4r
-==
-*-
+=5	=5
+{8dd/	tyś
+8dd/	.
+4ee	na
+4ff#i	mnie
+=6	=6
+8gg	o-
+8gg	-knem
+8aa	wy-
+8aa	-glą-
+8gg	-da-
+8ee	-ła,
+=7	=7
+8dd	cym
+8dd	ja
+4ee	u-
+4cc	-sedł
+=8	=8
+8dd	da-
+8dd	-le-
+4cc}	-ko.
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Kiedym ja był pod twoim okienkiem,
+!!świeciał miesiąc wysoko,
+!!tyś na mnie oknem wyglądała, 
+!!cym ja usedł daleko.
+!!@VERSE:
+!!2. A ja used ćtyry staje pola,
+!!a tyś na mnie wołała,
+!!a wróćze się, moj Jasieńku, do mnie,
+!!cemzem cię rozgniewała.
+!!@VERSE:
+!!3. Nie wrocę się, moja Kasiulenko,
+!!ale nie wies, dlacego,
+!!kiedym ja był pod twoim oki[enkiem],
+!!toś ty mi[ała] insego.
+!!@VERSE:
+!!4. Kiedym ja był pod twoim okienkiem,
+!!stojał jawór zielony,
+!!jakeś z niego gałązki łamała,
+!!wtencas ja był wzgardzony.
+!!@VERSE:
+!!5. Nie frasuj się, moj Jasieńku, o to,
+!!choć ja miała insego,
+!!to ja jemu serca nie oddała,
+!!ciebie kocham piersego.
+!!@@END: VERSES
+!!!RDF**kern: i = editorial accidental
+!!!role-singer: Lover, Mistress
+!!!role-listener: Mistress, Lover
+!!!singer-sex: Male, Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=555 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 468} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 468}
 !!!page: 468
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-14

@@ -3,56 +3,73 @@
 !!!source: DWOK41
 !!!id: 411101
 !!!signature: 41110100002
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{4gg
-4dd
-4ff
-=2
-8ee
-8cc
-4dd
-4g
-=3
-8g
-8cc
-4ee
-4cc
-=4
-4a
-4b
-4g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{4gg	Da,
+4dd	kie-
+4ff	-dy
+=2	=2
+8ee	ja
+8cc	po-
+4dd	-ja-
+4g	-dę,
+=3	=3
+8g	da,
+8cc	z_pa-
+4ee	-na-
+4cc	-mi,
+=4	=4
+4a	z_pa-
+(8ccq	.
+4b)	-na-
+4g}	-mi,
 !!LO:LB:g=esac
-=5
-{8g
-8b
-4cc
-8ee
-8gg
-=6
-8ff
-8ff
-4ee
-8gg
-8cc
-=7
-8g
-8cc
-4ee
-4cc
-=8
-8a
-8cc
-4b
-4g}
-==
-*-
+=5	=5
+{8g\L	bę-
+8b\J	.
+4cc/	-dziesz
+8ee/L	ci
+8gg/J	.
+=6	=6
+8ff	wy-
+8ff	-glą-
+4ee	-da-
+8gg/L	-ła,
+8cc/J	.
+=7	=7
+8g	dziew-
+8cc	-czy-
+4ee	-no,
+4cc	da,
+=8	=8
+8a\L	za
+8ccJ	.
+4b	na-
+4g}	-mi.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Da, kiedy ja pojadę,
+!!da, z panami, z panami,
+!!będziesz ci wyglądała,
+!!dziewczyno, da, za nami.
+!!@VERSE:
+!!2. Da, kiedy ja pojadę,
+!!da, i pojechać muszę,
+!!oj, zapłaczesz, dziewczyno,
+!!a ja ci tam nie usłyszę.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Girl
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=557 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 470} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 470}
 !!!page: 470
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-14

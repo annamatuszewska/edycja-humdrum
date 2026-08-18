@@ -3,74 +3,97 @@
 !!!source: DWOK41
 !!!id: 411090
 !!!signature: 41109000000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8gg
-8dd
-4dd
-4dd
-=2
-4ee
-2dd
-=3
-8b
-8b
-4cc
-4a
-=4
-4ee
-2dd}
+**kern	**text
+*clefG2	*
+*k[]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8gg	Za-
+8dd	-wsze
+4dd	ja
+4dd	to
+=2	=2
+4ee	to-
+2dd	-bie,
+=3	=3
+8b	A-
+8b	-nu-
+4cc	-siu,
+4a	ma-
+=4	=4
+4ee	-wia-
+2dd}	-ła,
 !!LO:LB:g=esac
-=5
-{8gg
-8dd
-4dd
-4dd
-=6
-4ee
-2dd
-=7
-8b
-8b
-4cc
-4a
-=8
-4cc
-2b}
+=5	=5
+{8gg	że-
+8dd	-byś
+4dd	tu
+4dd	z_Fra-
+=6	=6
+4ee	-nu-
+2dd	-siem
+=7	=7
+8b	woł-
+8b	-ków
+4cc	nie
+4a	pa-
+=8	=8
+4cc	-sa-
+2b}	-ła,
 !!LO:LB:g=esac
-=9
-{4b
-2b
-=10
-8dd
-8dd
-4dd
-4cc}
+=9	=9
+{4b	pa-
+2b	-sa-
+=10	=10
+8dd	-ją-
+8dd	-cy
+4dd	woł-
+4cc}	-ki,
 !!LO:LB:g=esac
-=11
-{4b
-2b
-=12
-8dd
-8dd
-4dd
-4cc}
+=11	=11
+{4b	po-
+2b	-ką-
+=12	=12
+8dd	-sa-
+8dd	-ły
+4dd	pszczoł-
+4cc}	-ki,
 !!LO:LB:g=esac
-=13
-{8a
-8a
-4a
-4cc
-=14
-2.b}
-==
-*-
+=13	=13
+{8a	wi-
+8a	-na
+4a	to
+4cc	two-
+=14	=14
+2.b}	-ja.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Zawsze ja to tobie, Anusiu, mawiała,
+!!żebyś tu z Franusiem wołków nie pasała,
+!!pasający wołki, pokąsały pszczołki,
+!!wina to twoja.
+!!@VERSE:
+!!2. Franuś mi tak mawiał, że się będzie żenił,
+!!myśleć o tem nie dał, żeby się odmienił,
+!!i wziął moj wianeczek
+!!na podaruneczek,
+!!a on mnie zdradza.
+!!@VERSE:
+!!3. Nie prośże, Anusiu, na nas boskiej kary,
+!!pojdziem do koscioła, wezmiem ślub u fary,
+!!w sobotę zmówiny,
+!!w niedzielę wesele,
+!!a w piątek chrzciny.
+!!@@END: VERSES
+!!!role-singer: Narrator, Young Girl
+!!!role-listener: Young Girl
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=549 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 462-463} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 462-463}
 !!!page: 462-463
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-12

@@ -3,49 +3,88 @@
 !!!source: DWOK41
 !!!id: 411114
 !!!signature: 41111400001
-**kern
-*clefG2
-*k[]
-*C:
-=1
-*M3/4
-{8g
-8g
-4dd
-4b
-=2
-8cc
-8cc
-4b
-4g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+=1	=1
+*M3/4	*
+{8g	Kła-
+8g	-niam
+4dd	ci
+4b	się,
+=2	=2
+8cc	ma-
+8cc	-tko
+4b	mo-
+4g}	-ja,
 !!LO:LB:g=esac
-=3
-*M2/4
-{8cc
-8b
-8a
-8g
-=4
-8f#
-8g
-8a
-8g}
+=3	=3
+*M2/4	*
+{8cc	gdzieś
+8b	po-
+8a\	-dzia-
+8g\	-ła
+=4	=4
+8f#	cor-
+8g	-ke
+8a	swo-
+8g}	-je,
 !!LO:LB:g=esac
-=5
-*M3/4
-{8g
-8aa
-4gg
-4dd
-=6
-8ff
-8dd
-4cc
-4cc}
-==
-*-
+=5	=5
+*M3/4	*
+{8g	gdzieś
+8aa	po-
+4gg	-dzia-
+4dd	-ła
+=6	=6
+8ff	cor-
+8dd	-ke
+4cc	swo-
+4cc}	-je?
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Kłaniam ci się, matko moja,
+!!|:gdzieś podziała corke swoje:|.
+!!@VERSE:
+!!2. Wydałam ją za insego,
+!!|: za starostę warsiawskiego :|.
+!!@VERSE:
+!!3. Podaj, chłopce, skrzypki moje,
+!!|: pojde ij grać na wesele :|.
+!!@VERSE:
+!!4. Pan Dąbrowa, nie jezdzijcie,
+!!|: bo wy sie ta pobijecie :|.
+!!@VERSE:
+!!5. Nie pobiję, matko moja,
+!!stanę sobie u podwoja,
+!!cy mnie ujrzy Kasia moja.
+!!@VERSE:
+!!6. Jak go Ka[sia zobaczyła],
+!!cztery stoły p[rzeskoczyła],
+!!piąty nozką uderzyła.
+!!@VERSE:
+!!6. Kłaniam, kłaniam, mój mąz pirszy,
+!!|: idźze sobie pośledniejsy :|.
+!!@VERSE:
+!!7. Wsiad na konia i zapłakał,
+!!|: wróc mi, Kasiu, com ci zadał :|.
+!!@VERSE:
+!!8. Zadałem ci ctyry kopy,
+!!|: wrąć mi, Kasiu, dobry złoty :|.
+!!@VERSE:
+!!9. Lipo, lipo, rozwijaj się,
+!!|: Kasiu moja, rozmyślaj się :|.
+!!@VERSE:
+!!10. Już ci ja sie rozmyślała,
+!!|: pan staroscie wianek dała :|.
+!!@@END: VERSES
+!!!role-singer: Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=564 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 477} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 477}
 !!!page: 477
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-17

@@ -3,53 +3,125 @@
 !!!source: DWOK41
 !!!id: 411111
 !!!signature: 41111100001
-**kern
-*clefG2
-*k[]
-*a:
-*M2/4
-=1
-{8cc
-8cc
-8ee
-8ee
-=2
-16ee
-16dd
-8cc
-4b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M2/4	*
+=1	=1
+{8cc	Słu-
+8cc	-żył
+8ee	Ja-
+8ee	-sio
+=2	=2
+16eeL	u
+16ddJ	.
+8cc	pa-
+4b}	-na
 !!LO:LB:g=esac
-=3
-{8dd
-16cc
-16b
-8a
-8cc
-=4
-16b
-16a
-8g#
-4e
-=5
-8dd
-8b
-4ee}
+=3	=3
+{8dd	ze
+16ccL	sie-
+16bJ	.
+8a	-dmio-
+8cc	-ma
+=4	=4
+16b/L	słu-
+16aJ	.
+8g#	-go-
+4e	-ma,
+=5	=5
+8ddL	[hej
+8bJ	.
+4ee;}	hej,
 !!LO:LB:g=esac
-=6
-{8dd
-16cc
-16b
-8a
-8cc
-=7
-16b
-16a
-8g#
-4a}
-==
-*-
+=6	=6
+{8dd	ze
+16ccL	sie-
+16bJ	.
+8a	-dmio-
+8cc	-ma
+=7	=7
+16b/L	słu-
+16aJ	.
+8g#	-go-
+4a}	-ma].
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Służył Jasio u pana
+!!ze siedmioma sługoma, [hej hej,
+!!ze siedmioma sługoma].
+!!@VERSE:
+!!2. Wysłużył se Kasinkę,
+!!w siedmiu laty dz[iewecke, hej hej,
+!!w siedmiu laty dziewecke].
+!!@VERSE:
+!!3. Sam na wojnę pojechał
+!!i siedem lat wojował,
+!!jaz ósmego przyjechał, [hej hej,
+!!jaz ósmego przyjechał].
+!!@VERSE:
+!!4. Przyjechał przede dwor,
+!!otwórz, Kasiu, nowy dwor, [hej hej,
+!!otwórz, Kasiu, nowy dwor].
+!!@VERSE:
+!!5. Juz ci Kasia nie zyje,
+!!na ij grobie lelija, [hej hej,
+!!na ij grobie lelija].
+!!@VERSE:
+!!6. Wysła do niego starsa swieść1,
+!!prosiła go z konia zsieśc, [hej hej,
+!!prosiła go z konia zsieśc].
+!!@VERSE:
+!!7. A ja z konia nie zsiądę,
+!!az swą Kasię oglądne, [hej hej,
+!!az swą Kasię oglądne].
+!!@VERSE:
+!!8. Twoja Kasia nie żyje,
+!!na jej grobie lelija, [hej hej,
+!!na jej grobie lelija].
+!!@VERSE:
+!!9. Siedm razy gróby objechał,
+!!niźli na ij grób najechał, [hej hej,
+!!niźli na ij grób najechał].
+!!@VERSE:
+!!10. Połozył głowę na ij grobie,
+!!przytchnąn serca wątrobie, [hej hej,
+!!przytchnąn serca wątrobie].
+!!@VERSE:
+!!11. Kas[iu], K[asiu], K[asieczko],
+!!przem[ów] do m[nie] słow[eczko, hej hej,
+!!przemów do mnie słoweczko].
+!!@VERSE:
+!!12. Zeby to to mogło być,
+!!by po smierci przemówić, [hej hej,
+!!by po smierci przemówić].
+!!@VERSE:
+!!13. Ledwom Boga uprosiła,
+!!żem do cię przemówiła, [hej hej,
+!!żem do cię przemówiła].
+!!@VERSE:
+!!14. Jest na swiecie rozy kwiat,
+!!mas ich tamój pełny świat, [hej hej,
+!!mas ich tamój pełny świat].
+!!@VERSE:
+!!15. Zagrajcie i w organy
+!!m[ojej] K[asi] k[ochany, hej hej,
+!!mojej Kasi kochany].
+!!@VERSE:
+!!16. Zadz[wońcie jej w duży dzwon],
+!!bo już idzie wiecny dom, [hej hej,
+!!bo już idzie wiecny dom].
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: (1) siostra żony
+!!@@END:
+!!!role-singer: Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=562 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 475} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 475}
 !!!page: 475
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-17

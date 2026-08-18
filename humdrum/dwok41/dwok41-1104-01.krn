@@ -3,52 +3,61 @@
 !!!source: DWOK41
 !!!id: 411104
 !!!signature: 41110400001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{4dd
-4dd
-4dd
-=2
-8dd
-8b
-4dd
-4dd
-=3
-4dd
-4cc
-4cc
-=4
-8b
-8g
-4b
-4a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{4dd	Oj,
+4dd	le-
+4dd	-cia-
+=2	=2
+8dd	-ły
+8b	gą-
+4dd	-se-
+4dd	-czki,
+=3	=3
+4dd	da,
+4cc	le-
+4cc	-cia-
+=4	=4
+8b	-ły
+8g	ła-
+4b	-bę-
+4a}	-dzie,
 !!LO:LB:g=esac
-=5
-4r
-{4a
-4a
-=6
-8a
-8g
-4g
-4dd
-=7
-4cc
-4b
-4b
-=8
-8a
-8a
-4a
-4g}
-==
-*-
+=5	=5
+4r	.
+{4a	przy-
+4a	-po-
+=6	=6
+8a	-wie-
+8g	-dzie
+4g	wy-
+4dd	-szły,
+=7	=7
+4cc	[da],
+4b	we-
+4b	-se-
+=8	=8
+8a	-la
+8a	nie
+4a	bę-
+4g}	-dzie.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oj, leciały gąseczki,
+!!da, leciały łabędzie,
+!!przypowiedzie wyszły,
+!![da], wesela nie będzie.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=558 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 471} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 471}
 !!!page: 471
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-14

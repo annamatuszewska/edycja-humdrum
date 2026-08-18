@@ -3,58 +3,89 @@
 !!!source: DWOK41
 !!!id: 411120
 !!!signature: 41112000001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8dd
-8dd
-4.ee
-8cc
-=2
-8b
-8a
-4a
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8dd	Je-
+8dd	-dzie,
+4.ee	je-
+8cc	-dzie
+=2	=2
+8b	ry-
+8a	-cerz
+4a	zbroj-
+4g}	-ny
 !!LO:LB:g=esac
-=3
-{8gg
-8gg
-4aa
-4gg
-=4
-8ff#
-8ee
-4ee
-4dd}
+=3	=3
+{8gg	i
+(8ff#q	.
+8gg)	po-
+4aa	-wra-
+4gg	-ca
+=4	=4
+8ff#	z_dal-
+8ee	-széj
+4ee	woj-
+4dd}	-ny,
 !!LO:LB:g=esac
-=5
-{8gg
-8gg
-4.gg
-8dd
-=6
-8ee
-8ff#
-4.gg
-8b}
+=5	=5
+{8gg	sza-
+8gg	-bla
+4.gg	je-
+8dd	-go
+=6	=6
+8ee	wysz-
+8ff#	-czer-
+4.gg	-bio-
+8b}	-na,
 !!LO:LB:g=esac
-=7
-{8dd
-8dd
-4.ee
-8cc
-=8
-8b
-8a
-4a
-4g}
-==
-*-
+=7	=7
+{8dd	zbro-
+8dd	-ja
+4.ee	je-
+8cc	-go
+=8	=8
+8b	po-
+8a	-krwa-
+(8bq	.
+4a)	-wio-
+4g}	-na.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Jedzie, jedzie rycerz zbrojny
+!!i powraca z dalszéj wojny,
+!!szabla jego wyszczerbiona,
+!!zbroja jego pokrwawiona.
+!!@VERSE:
+!!2. I przywitał ojciec stary,
+!!siostry mu wyniesły dary,
+!!bracia mili się cieszyli,
+!!a samsiedzi się bawili.
+!!@VERSE:
+!!3. Miła matko, wyńdź z pokoju,
+!!wyńdź, przywitaj syna z boju.
+!!Wyńdź, przywitaj syna z drogi,
+!!niech uściskam twoje nogi.
+!!@VERSE:
+!!4. A jakżeż ma wyjść do ciebie,
+!!już od roku po pogrzebie.
+!!Pokój w ziemi ma zrobiony,
+!!kamieniami przywalony.
+!!@VERSE:
+!!5. Jam ten pokój jem to sprawił,
+!!żem na wojnie długo bawił.
+!!Pozosteńcie się, siostry, sobie,
+!!ze przeze mnie matka w grobie.
+!!@@END: VERSES
+!!!role-singer: Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=569 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 482} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 482}
 !!!page: 482
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-18

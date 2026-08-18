@@ -3,65 +3,85 @@
 !!!source: DWOK41
 !!!id: 411085
 !!!signature: 41108500002
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{4g
-8ff
-8dd
-8ee
-8cc
-=2
-8dd
-8dd
-8dd
-8b
-8cc
-8a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{4g	Zie-
+8ff	-lo-
+8dd	-na
+8ee	ry-
+8cc	-bka
+=2	=2
+8dd	po
+8dd	wo-
+8dd	-dzie
+8b	la-
+8cc	-ta-
+8a}	-ła,
 !!LO:LB:g=esac
-=3
-{8g
-8g
-8ff
-8dd
-8ee
-8cc
-=4
-8b
-8dd
-8dd
-8b
-8cc
-8a}
+=3	=3
+{8gL\	głu-
+8gJ\	.
+8ff	-pia
+8dd	dziew-
+8ee	-cy-
+8cc	-na,
+=4	=4
+8b	co
+8dd	z_Ja-
+8dd	-siem
+8b	ga-
+8cc	-da-
+8a}	-ła,
 !!LO:LB:g=esac
-=5
-{4dd
-8dd
-8dd
-8b
-8g
-=6
-8cc
-8ee
-2cc}
+=5	=5
+{4dd	wléź
+8dd	na
+8dd	ja-
+8b	-błu-
+8g	-szko,
+=6	=6
+8cc	o-
+8ee	-rze-
+2cc}	-chy,
 !!LO:LB:g=esac
-=7
-{4g
-8ff
-8dd
-8ee
-8cc
-=8
-8b
-8dd
-2cc}
-==
-*-
+=7	=7
+{4g	nie
+8ff	bę-
+8dd	-dzies
+8ee	mia-
+8cc	-ła
+=8	=8
+8b	po-
+8dd	-cie-
+2cc}	-chy.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Zielona rybka po wodzie latała,
+!!głupia dziewcyna, co z Jasiem gadała,
+!!wléź na jabłuszko, orzechy,
+!!nie będzies miała pociechy.
+!!@VERSE:
+!!Przysła do karcmy, tam grają, tam skaczą,
+!!przysła do domu, rzywnie sobie płace,
+!!matula ij się pytała,
+!!cego córusia płakała?
+!!@VERSE:
+!!Cicho, córusiu, otrzyj sobie ocy,
+!!przyjdzie on do ciebie, chociaz o północy,
+!!póki go wilko nie udusi,
+!!to on do ciebie przyjść musi.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!role-listener: Girl
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=545 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 458} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 458}
 !!!page: 458
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-12

@@ -3,50 +3,58 @@
 !!!source: DWOK41
 !!!id: 411113
 !!!signature: 41111300000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/4
-=1
-{8g
-8g
-4ee
-4dd
-=2
-8cc
-8dd
-2g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*F:	*
+*M3/4	*
+=1	=1
+{8g	Słu-
+8g	-żył
+4ee	Ja-
+4dd	-sio
+=2	=2
+8cc	u
+8dd	pa-
+2g}	-na
 !!LO:LB:g=esac
-=3
-{8cc
-8cc
-8cc
-8b
-4a
-=4
-8g
-8a
-2f
-=5
-4g
-4b
-4g}
+=3	=3
+{8cc	za
+8cc	star-
+8ccL	-sze-
+8bJ	.
+4a	-go
+=4	=4
+8g	dwo-
+8a	-rza-
+2f	-na,
+=5	=5
+4g	[hej
+(4b	hej,
+4g)}	.
 !!LO:LB:g=esac
-=6
-{8b
-8dd
-8cc
-8b
-4a
-=7
-8g
-8a
-2f}
-==
-*-
+=6	=6
+{8b	za
+8dd	star-
+8ccL	-sze-
+8bJ	.
+4a	-go
+=7	=7
+8g	dwo-
+8a	-rza-
+2f}	-na].
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Służył Jasio u pana
+!!za starszego dworzana, [hej hej,
+!!za starszego dworzana].
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=564 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 477} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 477}
 !!!page: 477
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-17

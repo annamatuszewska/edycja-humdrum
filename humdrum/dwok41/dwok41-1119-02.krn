@@ -3,105 +3,144 @@
 !!!source: DWOK41
 !!!id: 411119
 !!!signature: 41111900002
-**kern
-*clefG2
-*k[]
-*C:
-*M4/4
-=1
-{8cc
-8cc
-8cc
-8ee
-4.gg
-8ee
-=2
-8gg
-8gg
-8gg
-8dd
-8ff
-8dd
-8dd
-8b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M4/4	*
+=1	=1
+{8cc	I
+8cc	roz-
+8cc	-le-
+8ee	-cia-
+4.gg	-ły
+8ee	się
+=2	=2
+8gg/L	go-
+8gg/J	-łę-
+8gg	-bie
+8dd	-bie
+8ff/L	po
+8dd/J	.
+8dd	po-
+8b}	-lu,
 !!LO:LB:g=esac
-=3
-{4cc
-8ee
-8ff
-4.gg
-8ee
-=4
-8gg
-8gg
-8gg
-8dd
-4ff
-4ee}
+=3	=3
+{4cc	i
+8ee/L	wy-
+8ff/J	-bie-
+4.gg	-ra-
+8ee	-ły
+=4	=4
+8gg	pse-
+8gg	-ni-
+8gg	-ckę
+8dd	z_ką-
+4ff	-ko-
+4ee}	-lu,
 !!LO:LB:g=esac
-=5
-{8g
-8b
-8dd
-8ee
-4cc
-4g
-=6
-8ee
-8dd
-8ee
-8gg
-4ff
-4ee}
+=5	=5
+{8g	na-
+8b	-do-
+8dd/L	-bna
+8ee/J	Ma-
+4cc	-ry-
+4g	-sia
+=6	=6
+8ee	te-
+8dd	-mu
+8ee	się
+8gg	dzi-
+4ffM	-wu-
+4ee}	-je,
 !!LO:LB:g=esac
-=7
-{8g
-8b
-8dd
-8b
-4cc
-4g
-=8
-8a
-8g
-8a
-8b
-4cc
-4cc}
+=7	=7
+{8g\L	z_prze-
+8b\J	.
+8dd	-śli-
+8b	-cnej
+4cc	ró-
+4g	-zy
+=8	=8
+8a	wia-
+8g	-ne-
+8a	-cek
+8b	śnu-
+4cc	-ru-
+4cc}/	-je,
 !!LO:LB:g=esac
-=9
-{8g
-8b
-8dd
-8ee
-4cc
-4g
-=10
-8ee
-8dd
-8ee
-8gg
-4ff
-4ee}
+=9	=9
+{8g	na-
+8b	-do-
+8dd/L	-bna
+8ee/J	Ma-
+4cc	-ry-
+4g	-sia
+=10	=10
+8ee	te-
+8dd	-mu
+8ee	się
+8gg	dzi-
+4ffM	-wu-
+4ee}	-je,
 !!LO:LB:g=esac
-=11
-{8g
-8b
-8dd
-8b
-4cc
-4g
-=12
-8a
-8g
-8a
-8b
-4cc
-4cc}
-==
-*-
+=11	=11
+{8g\L	z_prze-
+8b\J	.
+8dd	-śli-
+8b	-cnej
+4cc	ró-
+4g	-zy
+=12	=12
+8a	wia-
+8g	-ne-
+8a	-cek
+8b	śnu-
+4cc	-ru-
+4cc}/	-je.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. I rozleciały się gołębie po polu,
+!!i wybierały psenickę z kąkolu,
+!!|:nadobna Marysia temu się dziwuje,
+!!z prześlicnej rózy wianecek śnuruje:|.
+!!@VERSE:
+!!2. Patrzała Kasia na Jasia z urodą,
+!!puściła dziecie z pudełkiem na wodę.
+!!|: Siedzi rybacek maleńki przy wodzie,
+!!złapał dzieciątko z pudełkiem na wodzie :|.
+!!@VERSE:
+!!3. Tam na dzwonecku tam zadzwoniono,
+!!wsystkie panienki na ratus zwołano.
+!!|: Wsystkie panianki do sędziego izby,
+!!tylko Kasienka ostała za drzwiami :|.
+!!@VERSE:
+!!4. Przysed mistrz do ni, wzion ją za rąckę
+!!i poprowadził na zieloną łąckę.
+!!|: Chciejze, Kasienko, chciejze ty moją być,
+!!mógby ja ciebie od smierci ubronić :|.
+!!@VERSE:
+!!5. Nie była matka polską królową,
+!!a ja nie będe zoną mistrzową.
+!!|: Com zasłuzyła, niech to otrzymam,
+!!od całego światu więcej wstydu ni ma :|.
+!!@VERSE:
+!!6. Napalcie ze mnie miałkiego popiołu
+!!i rozsiejcie go po warsiawskim polu.
+!!|: Niek to wiatrowce po polu rozwieją,
+!!niek sie więcej ludzi ze mnie ni naśmieją :|.
+!!@VERSE:
+!!7. Idź prec ode mnie, z kochania mojego,
+!!coś mie przyprowadził do zalu takiego,
+!!|: idź prec ode mnie, niek cie nie widze,
+!!jak pies słoniną, tak sie tobą brzydzę :|.
+!!@@END: VERSES
+!!!role-singer: Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=567 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 480-481} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 480-481}
 !!!page: 480-481
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-18

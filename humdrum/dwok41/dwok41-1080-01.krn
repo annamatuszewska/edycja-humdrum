@@ -3,88 +3,107 @@
 !!!source: DWOK41
 !!!id: 411080
 !!!signature: 41108000001
-**kern
-*clefG2
-*k[]
-*a:
-*M2/4
-=1
-{8ee
-8ee
-8ee
-8ee
-=2
-4cc
-4b
-=3
-2e}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M2/4	*
+=1	=1
+{8ee	Z_tam-
+8ee	-tej
+8ee	stro-
+8ee	-ny
+=2	=2
+4cc	je-
+4b/	-zio-
+=3	=3
+2e}	-ra
 !!LO:LB:g=esac
-=4
-{8cc
-8b
-8a
-8b
-=5
-4a
-4g#
-=6
-2e}
+=4	=4
+{8cc	sto-
+8b	-i
+8a	li-
+8b	-pka
+=5	=5
+4a	zie-
+4g#	-lo-
+=6	=6
+2e}	-na,
 !!LO:LB:g=esac
-=7
-{4ee
-8dd
-8cc
-=8
-4.b
-8g#
-=9
-4cc
-8b
-8a
-=10
-4g#
-4e}
+=7	=7
+{4ee	a
+8dd	na
+8cc	tej
+=8	=8
+4.b	li-
+8g#	-pce,
+=9	=9
+4cc/	[na
+8b	tej
+8a	zie-
+=10	=10
+4g#	-lo-
+4e}	-nej],
 !!LO:LB:g=esac
-=11
-{8a
-8b
-8cc
-8dd
-=12
-4ee
-4dd
-=13
-2b}
+=11	=11
+{8a	trzej
+8b	ptasz-
+8cc	-ko-
+8dd	-wie
+=12	=12
+4ee	s[ia-
+4dd	-da-
+=13	=13
+2b}	-li].
 !!LO:LB:g=esac
-=14
-{4ee
-8dd
-8cc
-=15
-4.b
-8g#
-=16
-4cc
-8b
-8a
-=17
-4g#
-4e}
+=14	=14
+{4ee	a
+8dd	na
+8cc	tej
+=15	=15
+4.b	li-
+8g#	-pce,
+=16	=16
+4cc/	[na
+8b	tej
+8a	zie-
+=17	=17
+4g#	-lo-
+4e}	-nej],
 !!LO:LB:g=esac
-=18
-{8a
-8b
-8cc
-8dd
-=19
-4ee
-4dd
-=20
-2b}
-==
-*-
+=18	=18
+{8a	trzej
+8b	ptasz-
+8cc	-ko-
+8dd	-wie
+=19	=19
+4ee	s[ia-
+4dd	-da-
+=20	=20
+2b}	-li].
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Z tamtej strony jeziora
+!!stoi lipka zielona,
+!!|:a na tej lipce, [na tej zielonej],
+!!trzej ptaszkowie s[iadali]:|.
+!!@VERSE:
+!!2. Nie byłyc to ptasięta,
+!!tylko było chłopięta
+!![. . . . . . . . . . . . . .
+!!. . . . . . . . . . . . . .]
+!!@VERSE:
+!!3. Jeden mowi: Moja to,
+!!drugi [mowi]: Jak Bóg da,
+!!|: trzeci mowi: Serdenko m[oja],
+!!cegozes smutna taka je[st] :|.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=543 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 456} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 456}
 !!!page: 456
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-12

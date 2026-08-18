@@ -3,84 +3,118 @@
 !!!source: DWOK41
 !!!id: 411106
 !!!signature: 41110600001
-**kern
-*clefG2
-*k[]
-*a:
-*M2/4
-=1
-{8ee
-8ee
-8ff
-8ee
-=2
-8dd
-8ff
-8ee
-8dd
-=3
-8cc
-8cc
-8dd
-16cc
-16b
-=4
-2a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M2/4	*
+=1	=1
+{8ee	O-
+8ee	-ze-
+8ff	-nił
+8ee	sie
+=2	=2
+8dd	po-
+8ff	-pa-
+8eeL	-dia
+8ddJ	.
+=3	=3
+8cc	ze
+8cc	mną
+8dd	je-
+16ccL	-go-
+16bJ	.
+=4	=4
+2a}	-mość,
 !!LO:LB:g=esac
-=5
-{8ee
-8ee
-8ff
-8ee
-=6
-8dd
-8ff
-8ee
-8dd
-=7
-8cc
-8cc
-8dd
-16cc
-16b
-=8
-2a}
+=5	=5
+{8ee	a
+8ee	ja
+8ff	grze-
+8ee	-sna,
+=6	=6
+8dd	nie
+8ff	wie-
+8ee	-dzia-
+8dd	-ła,
+=7	=7
+8cc	że
+8cc	ma
+8dd	bro-
+16ccL	-dy
+16bJ	.
+=8	=8
+2a}	dość.
 !!LO:LB:g=esac
-=9
-{4cc
-8g
-8g
-=10
-2cc
-=11
-4gg
-8gg
-8gg
-=12
-4ee
-4cc}
+=9	=9
+{4cc	Ach,
+8g	to
+8g	my
+=10	=10
+2cc	zal,
+=11	=11
+4gg	ach,
+8gg	to
+8gg	my
+=12	=12
+4ee	nu-
+4cc}	-dno,
 !!LO:LB:g=esac
-=13
-{4a
-8ff
-8ee
-=14
-8dd
-8ff
-8ee
-8dd
-=15
-8cc
-8cc
-8b
-8g
-=16
-4a
-4a}
-==
-*-
+=13	=13
+{4a	stos
+8ffL	pop,
+8eeJ	.
+=14	=14
+8dd	z_bo-
+8ff	-ro-
+8eeL	-do
+8ddJ	.
+=15	=15
+8cc	ży-
+8cc	-cia
+8b	me-
+8g	-go
+=16	=16
+4a	tru-
+4a}	-dno.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Ozenił sie popadia ze mną jegomość,
+!!a ja grzesna, nie wiedziała, że ma brody dość.
+!!Ach, to my zal, ach, to my nudno, stos pop,
+!!z borodo życia mego trudno.
+!!@VERSE:
+!!2. Zaprosili nas na chrzciny, prosili nas jeść,
+!!co ja spojrze na popa, to nie moge jeść.
+!!Ach, to my [zal, ach, to my nudno,
+!!stos pop, z borodo życia mego trudno].
+!!@VERSE:
+!!3. Dali kury, dali husi, dali i jendyki,
+!!zakładajcie, zaprzęgajcie te kare koniki.
+!!Ach, to my [zal, ach, to my nudno,
+!!stos pop, z borodo życia mego trudno].
+!!@VERSE:
+!!4. Trzeba by sie popytać pana Krakowica,
+!!czy pozwoli popu memu brodę ogolitsa.
+!![Ach, to my zal, ach, to my nudno,
+!!stos pop, z borodo życia mego trudno].
+!!@VERSE:
+!!5. Oj, nie wolno, nie wolno brody ogolitsa,
+!!jak sie dowi pan Krakowie, będzie w d. bitsa.
+!![Ach, to my zal, ach, to my nudno,
+!!stos pop, z borodo życia mego trudno].
+!!@VERSE:
+!!6. Skoda moji urody i ładnego wzrostu,
+!!pojdę ja utopitsa z wysokiego mostu.
+!![Ach, to my zal, ach, to my nudno,
+!!stos pop, z borodo życia mego trudno].
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=559 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 472} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 472}
 !!!page: 472
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-14

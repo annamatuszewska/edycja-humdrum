@@ -9,50 +9,63 @@
 *a:
 *M2/4
 =1
-{8dd
+{8ddL
 8dd
 8ee
-8a
+8a\J
 =2
-8cc
+8ccL
 8ee
 8ff#
-8b
+8bJ
 =3
-8dd
+8ddL
 8dd
 8ee
-8a
+8a\J
 =4
-8cc
-8b
-8a
-8e}
+8ccL
+8bJ
+8a\L
+8e}\J
 !!LO:LB:g=esac
 =5
-{8g#
+{8g#iL
 8g#
 8a
-8d
+8dJ
 =6
-8e
+8eL
 8a
-8b
-8e
+8b/
+8eJ
 =7
-8g#
+8g#iL
 8g#
 8a
-8d
+8dJ
 =8
-8f
+8fL
 8e
 8d
-8e}
+8e}J
 ==
 *-
+!!@@BEGIN: VERSES
+!!Ej, idzie ksiądz1 po grobli,
+!!da, Kasia chusty pierze,
+!!ej, cisnąn on brewiarze,
+!!da, do K[asi] się bierze.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!@@BEGIN:
+!!@COMMENTARY: (1) [nadpisane przez O. K.: ,,klecha".]
+!!@@END:
+!!!RDF**kern: i = editorial accidental
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=540 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 453} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 453}
 !!!page: 453
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-09
