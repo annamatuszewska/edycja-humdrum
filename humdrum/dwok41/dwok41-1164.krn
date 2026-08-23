@@ -3,63 +3,84 @@
 !!!source: DWOK41
 !!!id: 411164
 !!!signature: 41116400000
-**kern
-*clefG2
-*k[]
-*a:
-*M2/4
-=1
-{8dd
-8dd
-8dd
-8dd
-=2
-8ee
-8ee
-8b
-8a
-=3
-8dd
-8dd
-8dd
-8dd
-=4
-4b
-4ee}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M2/4	*
+=1	=1
+{8dd	Pę-
+8dd	-dzi
+8dd	wo-
+8dd	-ły
+=2	=2
+8ee	od
+8ee	dą-
+8b	-bro-
+8a	-wy
+=3	=3
+8dd	Ma-
+8dd	-ry-
+8dd	-sia,
+8dd	Ma-
+=4	=4
+4b	-ry-
+4ee}	-sia,
 !!LO:LB:g=esac
-=5
-{8cc
-8cc
-8b
-8e
-=6
-8g#
-8a
-8b
-8dd
-=7
-8cc
-8cc
-8b
-8e
-=8
-8g#
-8a
-8b
-8dd}
+=5	=5
+{8cc	za-
+8cc	-wo-
+8b	-ła-
+8e	-ła
+=6	=6
+8g#	na
+8a	sło-
+8b	-weń-
+8dd	-ko
+=7	=7
+8cc	za-
+8cc	-wo-
+8b	-ła-
+8e	-ła
+=8	=8
+8g#	na
+8a	sło-
+8b	-weń-
+8dd}	-ko
 !!LO:LB:g=esac
-=9
-{8cc
-8cc
-8b
-8a
-=10
-4e
-4e}
-==
-*-
+=9	=9
+{8cc	Woj-
+8cc	-ty-
+8b	-sia,
+8a	Woj-
+=10	=10
+4e	-ty-
+4e}	-sia.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Pędzi woły od dąbrowy
+!!Marysia, Marysia,
+!!|:zawołała na słoweńko:|
+!!Wojtysia, Wojtysia.
+!!@VERSE:
+!!2. A moj miły, [a moj miły]
+!!Wojtysiu, [Wojtysiu],
+!!|: trzeba [będzie] kolibecki :|,
+!!Wojtysiu, Wojtysiu.
+!!@VERSE:
+!!3. Pojadę ja do Krakowa,
+!![Marysiu, Marysiu],
+!!|: jest tam kolibka gotowa :|,
+!!Marysiu, Marysiu.
+!!@@END: VERSES
+!!!role-singer: Mistress, Lover
+!!!role-listener: Lover, Mistress
+!!!singer-sex: Female, Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=589 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 502} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 502}
 !!!page: 502
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-23

@@ -3,73 +3,109 @@
 !!!source: DWOK41
 !!!id: 411124
 !!!signature: 41112400001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{16dd
-8.b
-4cc
-4b
-=2
-8g
-8a
-4b
-4g
-=3
-4dd
-4b
-16cc
-8.cc
-=4
-4dd
-2g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{16dd	Dzię-
+8.b	-ku-
+4cc	-je
+4b	ci,
+=2	=2
+8g\	mo-
+8a\	-ja
+4b	ma-
+4g	-tko,
+=3	=3
+4dd	coś
+4b	mnie
+16cc	wy-
+8.cc	-cho-
+=4	=4
+4dd/	-wa-
+2g}	-ła,
 !!LO:LB:g=esac
-=5
-{8b
-8dd
-4cc
-4b
-=6
-8a
-8g
-4b
-4g
-=7
-4a
-4cc
-16g
-8.a
-=8
-4b
-4g}
-4r
+=5	=5
+{8b	a
+8dd	za
+4cc	to
+4b	ci
+=6	=6
+8a	nie
+8g	dzię-
+(8aq	.
+4b)	-ku-
+4g	-ję,
+=7	=7
+4a	coś
+4cc	do
+16g	woj-
+8.a	-ska
+=8	=8
+4b	da-
+4g}	-ła.
+4r	.
 !!LO:LB:g=esac
-=9
-{8b
-8dd
-4cc
-4b
-=10
-8a
-8g
-4b
-4g
-=11
-4a
-4cc
-16g
-8.a
-=12
-4b
-4g}
-4r
-==
-*-
+=9	=9
+{8b	a
+8dd	za
+4cc	to
+4b	ci
+=10	=10
+8a	nie
+8g	dzię-
+(8aq	.
+4b)	-ku-
+4g	-ję,
+=11	=11
+4a	coś
+4cc	do
+16g	woj-
+8.a	-ska
+=12	=12
+4b	da-
+4g}	-ła.
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Dziękuje ci, moja matko,
+!!coś mnie wychowała,
+!!|:a za to ci nie dziękuję,
+!!coś do wojska dała:|.
+!!@VERSE:
+!!2. I wysłała matka syna
+!!w ludzkie ukraine,
+!!|: ostajze sie, matuleńku,
+!!w scęśliwej godzinie :|.
+!!@VERSE:
+!!3. Zagnali Polacenki
+!!za to Carne Morze,
+!!|: stamtąd zaden Polaceniek
+!!powrócić nie moze :|.
+!!@VERSE:
+!!4. I stanęni Polaceńki
+!!na zachód słonecka,
+!!|: obacyli, jak leciała
+!!z Polski kukawecka :|.
+!!@VERSE:
+!!5. Powiedzze nam, kukawecko,
+!!coś w Polsce słysała.
+!!|: Niejedna tam matuleńka
+!!syna zapłakała :|.
+!!@VERSE:
+!!6. Powiedzze jam, kukawecko,
+!!niech ony nie płacą,
+!!|: niekze ony we swym syrcu
+!!żałosci nie nosą :|.
+!!@@END: VERSES
+!!!role-singer: Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=571 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 484} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 484}
 !!!page: 484
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-19

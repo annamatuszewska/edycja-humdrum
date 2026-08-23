@@ -3,91 +3,104 @@
 !!!source: DWOK41
 !!!id: 411138
 !!!signature: 41113800002
-**kern
-*clefG2
-*k[b-]
-*F:
-*M2/4
-=1
-{8f
-8a
-8cc
-8ff
-=2
-4ff
-4ee
-=3
-8g
-8g
-8b-
-8dd
-=4
-8dd
-8cc
-4cc}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M2/4	*
+=1	=1
+{8f	W_po-
+8a	-nie-
+8cc	-dzia-
+8ff	-łek
+=2	=2
+4ff	na-
+4ee	-pić,
+=3	=3
+8g	we
+8g	wto-
+8b-	-rek
+8dd	tań-
+=4	=4
+8dd/L	-co-
+8cc/J	.
+4cc}	-wać,
 !!LO:LB:g=esac
-=5
-{8f
-8f
-8a
-8cc
-=6
-8cc
-8b-
-8b-
-8g
-=7
-8dd
-8cc
-8b-
-8g
-=8
-8g
-8f
-4f}
+=5	=5
+{8f	[a]
+8f	we
+8a	śro-
+8cc	-dę
+=6	=6
+8cc	trze-
+8b-	-ba
+8b-	by
+8g	się
+=7	=7
+8dd	z_kar-
+8cc	-cmar-
+8b-	-ką
+8g	ra-
+=8	=8
+8gL	-cho-
+8fJ	.
+4f}	-wać.
 !!LO:LB:g=esac
-=9
-{8f
-8f
-8a
-8cc
-=10
-8cc
-8b-
-4b-
-=11
-8e
-8e
-8g
-8b-
-=12
-8b-
-8a
-4a}
+=9	=9
+{8f	We
+8f	czwar-
+8a	-tek
+8cc	sie
+=10	=10
+8cc/L	wys-
+8b-/J	.
+4b-	-pać,
+=11	=11
+8e	w_pią-
+8e	-tek
+8g	se
+8b-	po-
+=12	=12
+8b-/L	-cho-
+8aJ	.
+4a}	-dzić,
 !!LO:LB:g=esac
-=13
-{8f
-8f
-8a
-8cc
-=14
-8cc
-8b-
-8b-
-8b-
-=15
-8dd
-8cc
-8b-
-8g
-=16
-8g
-8f
-4f}
-==
-*-
+=13	=13
+{8f	a
+8f	w_so-
+8a	-bo-
+8cc	-tę
+=14	=14
+8cc	na
+8b-	nie-
+8b-	-dzie-
+8b-	-lę
+=15	=15
+8dd	trze-
+8cc	-ba
+8b-	co
+8g	za-
+=16	=16
+8gL	-ro-
+8fJ	.
+4f}	-bić.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!W poniedziałek napić,
+!!we wtorek tańcować,
+!![a] we środę trzeba by się
+!!z karcmarką rachować.
+!!We czwartek sie wyspać,
+!!w piątek se pochodzić,
+!!a w sobotę na niedzielę
+!!trzeba co zarobić.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=577 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 490-491} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 490-491}
 !!!page: 490-491
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-22

@@ -3,82 +3,93 @@
 !!!source: DWOK41
 !!!id: 411144
 !!!signature: 41114400000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16g
-8b
-8cc
-=2
-4.dd
-=3
-16ee
-16ee
-8ee
-8ee
-=4
-4.dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	A-
+16g	-bo
+8b	ja
+8cc	Ma-
+=2	=2
+4.dd	-zur
+=3	=3
+16ee	szum-
+16ee	-nie
+8ee	bo-
+8ee	-ga-
+=4	=4
+4.dd}	-ty,
 !!LO:LB:g=esac
-=5
-{16g
-16g
-8b
-8cc
-=6
-4.dd
-=7
-16ee
-16ee
-8ee
-8ee
-=8
-4.dd}
+=5	=5
+{16g	swi-
+16g	-cą
+8b	się
+8cc	na
+=6	=6
+4.dd	mnie
+=7	=7
+16ee	prze-
+16ee	-śli-
+8ee	-czne
+8ee	sza-
+=8	=8
+4.dd}	-ty,
 !!LO:LB:g=esac
-=9
-{16dd
-16dd
-8ee
-8cc
-=10
-16b
-16g
-8a
-8d}
+=9	=9
+{16dd	[ko-
+16dd	-su-
+8ee	-li-
+8cc	-na
+=10	=10
+16b	dre-
+16g	-li-
+8a	-cho-
+8d}	-wa,
 !!LO:LB:g=esac
-=11
-{16dd
-16dd
-8ee
-8cc
-=12
-16b
-16g
-8a
-8d}
+=11	=11
+{16dd	a-
+16dd	-le
+8ee	ja-
+8cc	-ko
+=12	=12
+16b	mu-
+16g	-śli-
+8a	-no-
+8d}	-wa,
 !!LO:LB:g=esac
-=13
-{16a
-16a
-8a
-8b
-=14
-4.g
-=15
-16e
-16e
-8e
-8f#
-=16
-4d}
-8r
-==
-*-
+=13	=13
+{16a	choć
+16a	dra-
+8a	-twą
+8b	sy-
+=14	=14
+4.g	-ta,
+=15	=15
+16e	choć
+16e	dra-
+8e	-twą
+8f#	sy-
+=16	=16
+4d}	-ta].
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Abo ja Mazur szumnie bogaty,
+!!swicą się na mnie prześliczne szaty, 
+!![kosulina drelichowa,
+!!ale jako muślinowa,
+!!|:choć dratwą syta:|].
+!!@@END: VERSES
+!!!role-singer: Man 
+!!!singer-sex: Male 
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=581 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 494} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 494}
 !!!page: 494
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-22

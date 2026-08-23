@@ -3,56 +3,93 @@
 !!!source: DWOK41
 !!!id: 411155
 !!!signature: 4115500000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8dd
-8b
-8dd
-=2
-16a
-16b
-16g
-16f#
-8d
-=3
-8d
-8f#
-8g
-=4
-16a
-16b
-16g
-16f#
-8d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8dd	Ej,
+8b	ty
+8dd	bę-
+=2	=2
+16a	-dzies,
+16b	Ja-
+16gL	-siu,
+16f#J	.
+8d	grał,
+=3	=3
+8dM	ja
+8f#	bę-
+8g	-dę
+=4	=4
+16aL	śpi-
+16b/J	.
+16gL	-wa-
+16f#J	.
+8d}	-ła,
 !!LO:LB:g=esac
-=5
-{8d
-8f#
-8g
-=6
-16a
-16b
-16cc
-16b
-8g
-=7
-8a
-8a
-8a
-=8
-16a
-16b
-16g
-16f#
-8d}
-==
-*-
+=5	=5
+{8d	da,
+8f#	bę-
+8g	-dzie-
+=6	=6
+16a	-wa
+16b	się,
+16ccL	Ja-
+16bJ	.
+8g	-siu,
+=7	=7
+8a	da,
+8a	chle-
+8a	-ba
+=8	=8
+16a	do-
+16b	-ra-
+16gL	-bia-
+16f#J	.
+8d}	-ła.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Ej, ty będzies, Jasiu, grał,
+!!ja będę śpiwała,
+!!da, będziewa się, Jasiu,
+!!da, chleba dorabiała1.
+!!@VERSE:
+!!2. Ej, nie tak się, dziewcyno,
+!!da, chleba dorabiają,
+!!z wiecora posiedzą,
+!!da, raniuteńko wstają.
+!!@VERSE:
+!!3. Ej, bida, bida, bida,
+!!da, jesce gorsa będzie,
+!!jak matuli na swiecie
+!![da, nie będzie], nie będzie.
+!!@VERSE:
+!!4. Ej, bida, bida, bida,
+!!daj ci Boze zdrowie,
+!!mam ci ja piniązki
+!!za stodołą w rowie.
+!!@VERSE:
+!!5. Ej, mam ci ja piniązki,
+!!da, mam ci ja talary,
+!!ej, niechze się uciesy,
+!!da, jak duzy, tak mały.
+!!@VERSE:
+!!6. Ej, bida, moja bida,
+!!jakze cie bidować,
+!!ej, trzeba, moja bida,
+!!od ciebie wędrować.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: (1) [W rkp.: ,,dorabiają".]
+!!@@END:
+!!!role-singer: Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=585 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 498} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 498}
 !!!page: 498
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-22

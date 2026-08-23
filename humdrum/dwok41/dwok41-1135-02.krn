@@ -3,64 +3,73 @@
 !!!source: DWOK41
 !!!id: 411135
 !!!signature: 41113500002
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=
-{24ff#
-24ee
-24ff#
-8gg
-8cc
-=1
-16dd
-16ff#
-8aa
-16gg
-16dd}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{24ff#L/	Oj,
+24ee/	.
+24ff#/J	.
+8gg	pi-
+8cc	-je-
+=2	=2
+16dd	-cie,
+16ff#	pi-
+8aa	-je-
+16ggL	-cie,
+16dd}J	.
 !!LO:LB:g=esac
-=
-{24ff#
-24ee
-24ff#
-8gg
-8cc
-=2
-16ee
-16dd
-8cc
-8g}
+=3	=3
+{24ff#/L	da,
+24ee/	.
+24ff#/J	.
+8gg	cém
+8cc	pła-
+=4	=4
+16ee	-cić
+16dd	bę-
+8cc	-dzie-
+8g}	-cie,
 !!LO:LB:g=esac
-=
-{24b
-24a
-24b
-8cc
-8f
-=3
-16a
-16cc
-8dd
-16b
-16g}
+=5	=5
+{24bL/	oj,
+24a	.
+24b/J	.
+8cc	za-
+8f	-pła-
+=6	=6
+16a	-cą
+16cc	oj-
+8ddM	-co-
+16b/L	-wie,
+16g}J	.
 !!LO:LB:g=esac
-=
-{24b
-24a
-24b
-8cc
-8f
-=4
-16a
-16g
-8f
-8g}
-==
-*-
+=7	=7
+{24b/L	da,
+24a/	.
+24b/J	.
+8cc	sprze-
+8f	-da-
+=8	=8
+16a	-dzą
+16g	po
+8f	kro-
+8g}	-wie.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oj, pijecie, pijecie,
+!!da, cém płacić będziecie,
+!!oj, zapłacą ojcowie,
+!!da, sprzedadzą po krowie.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=576 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 489} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 489}
 !!!page: 489
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-22

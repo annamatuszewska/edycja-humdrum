@@ -3,58 +3,68 @@
 !!!source: DWOK41
 !!!id: 411147
 !!!signature: 41114700000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8cc
-8cc
-4b
-4g
-=2
-8cc
-8aa
-4gg
-4ff}
+**kern	**text
+*clefG2	*
+*k[]	*
+*G:	*
+*M3/4	*
+=1	=1
+{(8aq	.
+8cc)	Oj-
+8cc	-ciec
+4b	u-
+4g	-marł,
+=2	=2
+8cc	syn
+8aa	się
+4gg	zo-
+4ff}	-stał,
 !!LO:LB:g=esac
-=3
-{8ee
-8cc
-4b
-4g
-=4
-8a
-8cc
-4a
-4g}
+=3	=3
+{8ee	syn
+8cc	po
+4b	oj-
+4g	-cu
+=4	=4
+8a	nic
+8cc	nie
+4a	do-
+4g}	-stał,
 !!LO:LB:g=esac
-=5
-{8a
-8cc
-4b
-4g
-=6
-8a
-8cc
-4ee
-4cc}
+=5	=5
+{8a	ni
+8cc	pie-
+4b	-nię-
+4g	-dzy,
+=6	=6
+8a	ni
+8cc	for-
+4ee	-tu-
+4cc}	-ny,
 !!LO:LB:g=esac
-=7
-{8a
-8cc
-4b
-4g
-=8
-8f#
-8d
-4f#
-4g}
-==
-*-
+=7	=7
+{8a	tyl-
+8cc	-ko
+4b	na
+4g	łbie
+=8	=8
+8f#	dwa
+8d	koł-
+4f#	-tu-
+4g}	-ny.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Ojciec umarł, syn się został,
+!!syn po ojcu nic nie dostał,
+!!ni pieniędzy, ni fortuny,
+!!tylko na łbie dwa kołtuny.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=582 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 495} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 495}
 !!!page: 495
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-22

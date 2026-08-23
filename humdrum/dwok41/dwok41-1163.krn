@@ -3,52 +3,66 @@
 !!!source: DWOK41
 !!!id: 411163
 !!!signature: 41116300000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{4cc
-4a
-4cc
-=2
-8cc
-8b
-4.g
-8d
-=3
-4f#
-4a
-4a
-=4
-8cc
-8b
-4.g
-8d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{4cc	O,
+4a	po-
+4cc	-pę-
+=2	=2
+8cc	-dzę
+8b	ja
+4.g	wo-
+8d	-ły,
+=3	=3
+4f#	oj,
+4a	przez
+4a	las
+=4	=4
+8cc	do
+8b	dą-
+4.g	-bro-
+8d}	-wy,
 !!LO:LB:g=esac
-=5
-{4f#
-4a
-4a
-=6
-8cc
-8cc
-4a
-4a
-=7
-4f#
-4a
-4a
-=8
-8cc
-8b
-4.a
-8d}
-==
-*-
+=5	=5
+{4f#	oj,
+4a	bę-
+4a	-dą
+=6	=6
+8cc	o-
+8cc	-ne
+4a	ja-
+4a	-dły,
+=7	=7
+4f#	oj,
+4a	li-
+4a	-stek
+=8	=8
+8cc	ja-
+8b	-wo-
+4.a	-ro-
+8d}	-wy.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. O, popędzę ja woły,
+!!oj, przez las do dąbrowy,
+!!oj, będą one jadły,
+!!oj, listek jaworowy.
+!!@VERSE:
+!!2. Oj, popędzę ja woły,
+!!oj, czemu nie mam ich gnać,
+!!oj, wołki będą jadły,
+!!oj, ja se będę spiewać.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=588 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 501} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 501}
 !!!page: 501
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-23

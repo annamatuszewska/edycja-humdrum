@@ -3,52 +3,63 @@
 !!!source: DWOK41
 !!!id: 411133
 !!!signature: 41113300001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8dd
-8dd
-8dd
-=2
-16b
-16cc
-8dd
-8g
-=3
-8dd
-8dd
-8dd
-=4
-16b
-16cc
-8dd
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8dd	Oj,
+8dd	za-
+(8eeq	.
+8dd)	-bi-
+=2	=2
+16b	-li,
+16cc	za-
+8dd	-bi-
+8g	-li,
+=3	=3
+8dd	da,
+8dd	Ja-
+8dd	-si-
+=4	=4
+16b	-ne-
+16cc	-cka
+(8eeq	.
+8dd)	w_le-
+8g}	-sie,
 !!LO:LB:g=esac
-=5
-{8g
-8b
-8g
-=6
-16f#
-16a
-8dd
-8a
-=7
-8g
-8b
-8g
-=8
-16f#
-16d
-8f#
-8g}
-==
-*-
+=5	=5
+{8g	oj,
+8b	tyl-
+8g	-ko
+=6	=6
+16f#	wro-
+16a	-ny
+8dd	ko-
+8a	-nik,
+=7	=7
+8g	da,
+8b	sio-
+8g	-de-
+=8	=8
+16f#	-łe-
+16d	-cko
+8f#	nie-
+8g}	-sie.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oj, zabili, zabili,
+!!da, Jasinecka w lesie,
+!!oj, tylko wrony konik,
+!!da, siodełecko niesie.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=576 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 489} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 489}
 !!!page: 489
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-22

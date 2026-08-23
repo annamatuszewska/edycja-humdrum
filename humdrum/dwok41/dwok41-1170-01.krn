@@ -3,73 +3,127 @@
 !!!source: DWOK41
 !!!id: 411170
 !!!signature: 41117000001
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{8gg
-8gg
-8gg
-8gg
-=2
-8aa
-8aa
-8aa
-8gg}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+=1	=1
+{8gg	A
+8gg	ze-
+8gg	-ni-
+8gg	-li
+=2	=2
+8aa	się
+8aa	z_daw-
+8aa	-nych
+8gg}	lat
 !!LO:LB:g=esac
-=3
-{8ff
-8ee
-8ff
-8gg
-=4
-8aa
-8gg
-4gg}
+=3	=3
+{8ff	o
+8ee	tak
+8ff	pta-
+8gg	-stwa
+=4	=4
+8aaL	wie-
+8ggJ	.
+4gg}	-le,
 !!LO:LB:g=esac
-=5
-{8ee
-8ee
-8ee
-8ee
-=6
-8gg
-8ff
-4ff}
+=5	=5
+{8ee	a
+8ee	pan
+8ee	o-
+8ee	-rzeł,
+=6	=6
+8gg	ja-
+8ff	-ko
+4ff}	król,
 !!LO:LB:g=esac
-=7
-{8dd
-8dd
-8dd
-8dd
-=8
-4ee
-4gg}
+=7	=7
+{8dd	spra-
+8dd	-wiał
+8dd	im
+8dd	we-
+=8	=8
+4ee	-se-
+4gg}	-le,
 !!LO:LB:g=esac
-=9
-{8ee
-8dd
-8ee
-8ee
-=10
-8gg
-8ff
-4ff}
+=9	=9
+{8ee	a
+8dd	pan
+8ee	o-
+8ee	-rzeł,
+=10	=10
+8gg	ja-
+8ff	-ko
+4ff}	król,
 !!LO:LB:g=esac
-=11
-{8dd
-8dd
-8dd
-8dd
-=12
-4ee
-4cc}
-==
-*-
+=11	=11
+{8dd	spra-
+8dd	-wiał
+8dd	im
+8dd	we-
+=12	=12
+4ee	-se-
+4cc}	-le.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A zenili się z dawnych lat
+!!o tak ptastwa wiele,
+!!|:a pan orzeł, jako król,
+!!sprawiał im wesele:|.
+!!@VERSE:
+!!2. Pojął sobie panią gęś,
+!!sokół panią kaczkę,
+!!|: a malutką cyraneczkę
+!!wzięli se za szwaczkę :|.
+!!@VERSE:
+!!3. A jastrząb zawzięty, nie chciał wziąc
+!!za małżonkę ptaka,
+!!|: pojął sobie za małżonkę
+!!zająca, nieboraka :|.
+!!@VERSE:
+!!4. A jemu też za to
+!!kuropatwę dali,
+!!|: a kobusa do lasa
+!!po księdza posłali :|.
+!!@VERSE:
+!!5. A ksiądz gawron szlub dawał
+!!skrzydłem i kropidłem,
+!!|: a gołąbeczek jak kozaczek,
+!!niósł ogień z kadzidłem :|.
+!!@VERSE:
+!!6. Wróble żyto młociły,
+!!trznadle pomagały,
+!!|: co umłocą, to zjedzą,
+!!a nigdy nie wiały :|.
+!!@VERSE:
+!!7. Sroka placki piekła,
+!!kawka pomagała,
+!!|: przez to sobie w czeluściach
+!!plecy powalała :|.
+!!@VERSE:
+!!8. Sikoreczka skakała
+!!po słomianym stole,
+!!|: a pająk jej przygrywał
+!!na bącie w stodole :|.
+!!@VERSE:
+!!9. Przygrywał im, przygrywał
+!!zielonym honorem,
+!!|: a co mieli sami zjeść,
+!!wilk im porwał z worem :|.
+!!@VERSE:
+!!10. I na ono wesele
+!!wszyscy się zrządzali,
+!!|: a bociana z długim nosem
+!!na ryby wysłali :|.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=592 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 505} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 505}
 !!!page: 505
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-23

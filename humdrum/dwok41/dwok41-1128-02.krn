@@ -1,57 +1,92 @@
 !!!!SEGMENT: DWOK41112800002-poszli_poszli_kozaczenki.krn
-!!!OTL: Poszli, poszli Kozaczeńki
+!!!OTL: Poszli poszli Kozaczeńki
 !!!source: DWOK41
 !!!id: 411128
 !!!signature: 41112800002
-**kern
-*clefG2
-*k[]
-*a:
-*M2/4
-=1
-{8ee
-8ee
-8dd#
-8ee
-=2
-8b
-8cc
-8a
-8a
-=3
-8dd
-8dd
-8dd
-8ee
-=4
-4b
-4ee}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M2/4	*
+=1	=1
+{8ee	Po-
+8ee	-szli,
+8dd#	po-
+8ee	-szli
+=2	=2
+8b	Ko-
+8cc	-za-
+8a	-czeń-
+8a	-ki
+=3	=3
+8dd	w_no-
+8dd	-cy
+8dd	o
+8ee/	pół-
+=4	=4
+4b	-no-
+4ee}	-cy,
 !!LO:LB:g=esac
-=5
-{8a
-16b
-16a
-8g#
-8e
-=6
-8g#
-8a
-8b
-8ee
-=7
-8a
-8cc
-16dd
-16cc
-16b
-16a
-=8
-4e
-4e}
-==
-*-
+=5	=5
+{8a	za-
+16b/L	-pła-
+16aJ	.
+8g#	-ka-
+8e	-ła
+=6	=6
+8g#	Ma-
+8a	-ry-
+8b	-sień-
+8ee	-ka
+=7	=7
+8a	swo-
+8cc	-je
+16ddL	czor-
+16ccJ	.
+16b/L	-ne
+16aJ	.
+=8	=8
+4e	o-
+4e}	-czy.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Poszli, poszli Kozaczeńki
+!!w nocy o północy,
+!!zapłakała Marysieńka
+!!swoje czorne oczy.
+!!@VERSE:
+!!2. A id'że ty, moj syneczko,
+!!a ne zabawlaj się,
+!!na woronym, na koniku
+!!wsiejczas powracaj się.
+!!@VERSE:
+!!3. Ne płacz, ne płacz, Marysieńku,
+!!my wezmiem z soboju,
+!!my tiebie wezmiem z soboju,
+!!narodna siostroju.
+!!@VERSE:
+!!4. Poszli szlachta na trzy trakta,
+!!Moskal na czetyry,
+!!dali, dali, Poniatowski,
+!!jużeś jest pod nami.
+!!@VERSE:
+!!5. Ne tak, ne tak jak rodnoju,
+!!sołdacka żenoju,
+!!matulinka swego synka
+!!w pachod wyrządzała.
+!!@VERSE:
+!!6. Moskal w Wilnie, Moskal
+!!w Grodnie,
+!!Moskal i w Warszawie,
+!!już Polakom zastupili
+!!w karauł ich wziali.
+!!@@END: VERSES
+!!!role-singer: Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=573 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 486} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 486}
 !!!page: 486
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-19

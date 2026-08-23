@@ -3,58 +3,67 @@
 !!!source: DWOK41
 !!!id: 411141
 !!!signature: 41114100010
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{4.g
-=2
-16b
-16cc
-8ee
-8gg
-=3
-8ff
-8ee
-8gg}
+**kern	**text
+*clefG2	*
+*k[]	*
+*G:	*
+*M3/8	*
+=1	=1
+{4.g;	.
+=2	=2
+16b	Nie
+16cc	za-
+8ee	-grom
+8gg	ja
+=3	=3
+8ff	ni-
+8ee	-ko-
+8gg}	-mu,
 !!LO:LB:g=esac
-=4
-{16ff
-16dd
-8ee
-16cc
-16b
-=5
-8g
-8a
-8g}
+=4	=4
+{16ff	idź-
+16dd	-cie,
+8ee	ba-
+16ccL	-by,
+16bJ	.
+=5	=5
+8g	do
+8a	do-
+8g}	-mu,
 !!LO:LB:g=esac
-=6
-{16b
-16cc
-8ee
-8dd
-=7
-8ff
-8ee
-8dd}
+=6	=6
+{16b	do
+16cc	wie-
+8ee	-cze-
+8dd	-rzy
+=7	=7
+8ff	go-
+8ee	-to-
+8dd}	-wać,
 !!LO:LB:g=esac
-=8
-{16b
-16cc
-8ee
-16cc
-16b
-=9
-8g
-8a
-8g}
-==
-*-
+=8	=8
+{16b	a
+16cc	wy,
+8ee	mło-
+16ccL	-dzi,
+16bJ	.
+=9	=9
+8g	tań-
+8a	-co-
+8g}	-wać.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Nie zagrom ja nikomu,
+!!idźcie, baby, do domu,
+!!do wieczerzy gotować,
+!!a wy, młodzi, tańcować.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=579 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 492} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 492}
 !!!page: 492
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-22

@@ -3,63 +3,92 @@
 !!!source: DWOK41
 !!!id: 411143
 !!!signature: 41114300000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16b
-8dd
-16dd
-16cc#
-=2
-16a
-16cc
-8dd
-8b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Py-
+16b	-ta-
+8dd	-ła
+16ddL	się
+16cc#J	.
+=2	=2
+16a	ma-
+16cc	-tka
+8dd	có-
+8b}	-ry,
 !!LO:LB:g=esac
-=3
-{16g
-16b
-8dd
-16dd
-16cc#
-=4
-16a
-16f#
-8.d
-16f#}
+=3	=3
+{16g	cy
+16b	tań-
+8dd	-co-
+16ddL	-wał
+16cc#J	.
+=4	=4
+16a	z_to-
+16f#	-bą
+8.d	któ-
+16f#}	-ry,
 !!LO:LB:g=esac
-=5
-{16a
-16g
-8e
-16g
-16b
-=6
-16a
-16f#
-16d
-16f#
-8a}
+=5	=5
+{16a	a
+16g	tań-
+8e	-co-
+16gL	-wał
+16b/J	.
+=6	=6
+16a	o-
+16f#	-drzy-
+16dL	-kie-
+16f#J	.
+8a}	-cka,
 !!LO:LB:g=esac
-=7
-{16a
-16g
-8e
-16g
-16b
-=8
-16a
-16f#
-8.d
-16f#}
-==
-*-
+=7	=7
+{16a	co
+16g	za-
+8e	-wra-
+16gL	-cał
+16bJ	.
+=8	=8
+16a	od
+16f#	za-
+8.d	-pie-
+16f#}	-cka.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Pytała się matka córy,
+!!cy tańcował z tobą który,
+!!a tańcował odrzykiecka,
+!!co zawracał od zapiecka.
+!!@VERSE:
+!!2. Pytała się matulenka,
+!!kaj ja nocował, nocował,
+!!konik stojał w stajenecce1,
+!!a ja tańcował, [tańcował].
+!!@VERSE:
+!!3. A i koniki kaliki,
+!!da, i ja i tez ni mogę,
+!!da, i bo mi nakazali
+!!do Warszawy w drogę.
+!!@VERSE:
+!!4. W Oleksiance po miesiącu
+!!są tam dziwki po tysiącu,
+!!cegoz ony takie drogie,
+!!chociaz małe, to chędogie,
+!!cegoz ony takie drogie,
+!!chociaz duze, to zasrane.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: (1)lub: pod jaworem
+!!@@END:
+!!!role-singer: Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=580 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 493} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 493}
 !!!page: 493
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-22

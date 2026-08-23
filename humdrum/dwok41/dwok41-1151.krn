@@ -3,56 +3,67 @@
 !!!source: DWOK41
 !!!id: 411151
 !!!signature: 41115100000
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M3/4
-=1
-{8f
-8f
-4a
-4b-
-=2
-8dd
-8ff
-4ee-
-4dd
-=3
-8ff
-8ff
-4gg
-4ff
-=4
-8ff
-8cc
-4ee-
-4dd}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M3/4	*
+=1	=1
+{8f	Oj,
+8f	bie-
+4a	-dna
+4b-	ja
+=2	=2
+8dd	sie-
+8ff	-ro-
+4ee-	-te-
+4dd	-cka,
+=3	=3
+8ff	nie
+8ff	mam
+4gg	pie-
+4ff	-rzy-
+=4	=4
+8ff	-ny,
+8cc	pie-
+4ee-	-rzy-
+4dd}	-ny,
 !!LO:LB:g=esac
-=5
-{8f
-8f
-4a
-4b-
-=6
-8dd
-8ff
-4ee-
-4dd
-=7
-8ff
-8cc
-4ee-
-4dd
-=8
-8cc
-8a
-4b-
-4b-}
-==
-*-
+=5	=5
+{8f	oj,
+8f	cém-
+4a	-ze
+4b-	się
+=6	=6
+8dd	o-
+8ff	-dzie-
+4ee-	-je-
+4dd	-my,
+=7	=7
+8ff	moj
+8cc	Ja-
+4ee-	-siń-
+4dd	-ku,
+=8	=8
+8cc	moj
+8a	je-
+4b-	-dy-
+4b-}	-ny.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oj, biedna ja sierotecka,
+!!nie mam pierzyny, pierzyny,
+!!oj, cémze się odziejemy,
+!!moj Jasińku, moj jedyny.
+!!@@END: VERSES
+!!!role-singer: Orphan
+!!!role-listener: Lover
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=584 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 497} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 497}
 !!!page: 497
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-22
