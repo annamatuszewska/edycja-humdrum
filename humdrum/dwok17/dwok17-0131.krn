@@ -3,106 +3,121 @@
 !!!source: DWOK17
 !!!id: 17131
 !!!signature: 1713100000
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M3/8
-=1
-{16f
-16a
-8b-
-8cc
-=2
-16ee-
-16dd
-4ff
-=
-24dd
-24b-
-24dd
-8ff
-8dd
-=3
-16cc
-16a
-4f}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M3/8	*
+=1	=1
+!!LO:TX:a:t=W tańcu.
+{16f\	Żo-
+16a\	-na
+8b-	mę-
+8cc	-ża
+=2	=2
+16ee-	o-
+16dd	-de-
+4ff	-sła
+=3	=3
+*Xtuplet	*
+8ee-q	.
+24ddL	bo
+24b-J	.
+24dd	nie
+8ff	umiał
+8dd	.
+=4	=4
+16cc	rzemiesła.
+16a	.
+4f\}	.
 !!LO:LB:g=esac
-=4
-{16b-
-16dd
-8ff
-16dd
-16b-
-=5
-16a
-16cc
-4ee-
-=
-24dd
-24b-
-24dd
-8ff
-16dd
-16b-
-=6
-16cc
-16a
-4f}
+=5	=5
+{16b-	Ani
+16dd	.
+8ff	o-
+16ddL	-rać
+16b-J	.
+=6	=6
+16a\	ni
+16cc	ko-
+4ee-	-sić
+=7	=7
+24ddL	a-
+24b-J	.
+24dd	-ni
+8ff	żonki
+16ddL	.
+16b-J	.
+=8	=8
+16cc	po-
+16a\	-dno-
+4f\}	-sić.
 !!LO:LB:g=esac
-=
-{24f
-24g
-24a
-8b-
-8cc
-=7
-16ee-
-16gg
-8.ff
-16cc
-=
-24dd
-24b-
-24dd
-8ff
-8dd
-=8
-16cc
-16a
-8.f
-16a}
+=9	=9
+{24fL	Żo-
+24g	.
+24aJ	-na
+8b-	mę-
+8cc	-ża
+=10	=10
+16ee-L	o-
+16ggJ/	-de-
+8.ffL	-sła
+16ccJ/	.
+=11	=11
+8ee-q	.
+24ddL	bo
+24b-J	.
+24dd	nie
+8ff	umiał
+16ddL	.
+16b-J/	.
+=12	=12
+16cc	rzemiesła.
+16a	.
+8.fL	.
+16aJ}	.
 !!LO:LB:g=esac
-=9
-{16b-
-16dd
-8ff
-16dd
-16b-
-=
-24b-
-24a
-24cc
-8.ee-
-16ff
-=
-24dd
-24b-
-24dd
-8ff
-16dd
-16b-
-=
-24b-
-24cc
-24a
-8.f
-16a}
-==
-*-
+=13	=13
+{16b-	Ani
+16dd	.
+8ff	o-
+16ddL	-rać
+16b-J	.
+=14	=14
+24b-L	ni
+24a	ko-
+24ccJ/	.
+8.ee-L	-sić
+16ffJ/	.
+=15	=15
+24ddL	a-
+24b-J	.
+24dd	-ni
+8ff	żonki
+16ddL	.
+16b-J	.
+=16	=16
+24b-L	po-
+24cc	.
+24aJ/	-dno-
+8.fL	-sić.
+16aJ}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Żona męża odesła
+!!bo nie umiał rzemiesła.
+!!Ani orać ni kosić
+!!ani żonki podnosić.
+!!@@END: VERSES
 !!!ONB: Nuta ob. Ser. XIII n. 277. W tańcu
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=67 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 45} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 45}
 !!!page: 45
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

@@ -3,111 +3,125 @@
 !!!source: DWOK17
 !!!id: 17147
 !!!signature: 1714700000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=
-{24g
-24a
-24b
-8cc
-16dd
-16ff#
-=1
-8gg
-16ff#
-16gg
-16ff#
-16ee
-=2
-8cc
-8.dd
-16b
-=3
-16cc
-16a
-8g
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+*Xtuplet	*
+{24gL	Oj
+24a	.
+24bJ	w
+8cc	po-
+16ddL	-lu
+16ff#J/	ber
+=2	=2
+8ggL	w_polu
+16ff#	.
+16gg	.
+16ff#	ber,
+16eeJ/	.
+=3	=3
+8cc	da
+8.dd	na
+16b	po-
+=4	=4
+16cc	-rę-
+16a	-bach
+8gL	proso,
+8gJ}	.
 !!LO:LB:g=esac
-=4
-{16g
-16b
-8cc
-16dd
-16b
-=5
-8.cc
-16dd
-16ff#
-16ee
-=6
-8cc
-8.dd
-16b
-=7
-16cc
-16a
-4g}
+=5	=5
+{16gL	kup
+16bJ\	mi
+8cc	Jasiu
+16ddL	.
+16bJ	.
+=6	=6
+8.ccL	trzewicz-
+16ddJ	.
+16ff#L	-ki,
+16eeJ	.
+=7	=7
+8cc	da
+8.dd	niech
+16b	nie
+=8	=8
+16cc	cho-
+16a	-dzę
+4g\}	boso.
 !!LO:LB:g=esac
-=
-{24gg
-24ff#
-24gg
-16ff#
-16dd
-16ff#
-16dd
-=8
-16b
-16g
-16a
-16b
-16a
-16g
-=9
-16g
-16b
-16dd
-16cc
-16ee
-16cc
-=10
-16b
-16g
-8a
-8g}
+=9	9
+{24ggL	.
+24ff#	.
+24ggJ	.
+16ff#L	.
+16dd	.
+16ee	.
+16ccJ/	.
+=10	=10
+16bL	.
+16gJ\	.
+16aL	.
+16b	.
+16a	.
+16gJ	.
+=11	=11
+16gL	.
+16bJ\	.
+16ddL	.
+16cc	.
+16ee	.
+16ccJ	.
+=12	=12
+16bL	.
+16gJ	.
+8aL	.
+8gJ\}	.
 !!LO:LB:g=esac
-=11
-{16cc
-16b
-16dd
-16cc
-16ee
-16cc
-=
-24dd
-24ee
-24ff#
-8ee
-8g
-=12
-16g
-16b
-16dd
-16cc
-16ee
-16cc
-=13
-16b
-16g
-8a
-8g}
-==
-*-
+=13	=13
+{16ccL	.
+16bJ/	.
+16ddL	.
+16cc	.
+16ee	.
+16ccJ	.
+=14	=14
+24ddL	.
+24ee	.
+24ff#J/	.
+8eeL	.
+8gJ/	.
+=15	=15
+16gL	.
+16b	.
+16dd	.
+16cc	.
+16ee	.
+16ccJ	.
+=16	=16
+16bL	.
+16gJ\	.
+8aL	.
+8gJ\}	.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!role-listener: Bachelor
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Oj w polu ber w polu ber,
+!!da na porębach proso,
+!!kup mi Jasiu trzewiczki,
+!!da niech nie chodzę boso.
+!!@@END: VERSES
+!!!ONB@texture: Only voice or instrument is playing at a time
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=72 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 50} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 50}
 !!!page: 50
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

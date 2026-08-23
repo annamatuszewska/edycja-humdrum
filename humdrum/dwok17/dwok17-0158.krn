@@ -9,43 +9,45 @@
 *C:
 *M3/8
 =1
+!!LO:TX:a:t=Owczarek.
 {8cc
-16dd
+16ddL
 16ee
-8ff
+8ffJ
 =2
-16ee
+16eeL
 16cc
 16dd
 16ee
-8ff
+8ffJ
 =3
-16ee
-16cc
-8dd
-8b
+16eeL
+16ccJ
+8ddL
+8bJ
 =4
-16a
-16f
+16aL
+16fJ
 4g}
 !!LO:LB:g=esac
 =5
-{8f
+{8fL
 8a
-8g
+8gJ
 =6
-16g
-16cc
-8dd
-8dd
+16gL
+16ccJ
+8ddL
+8ddJ
 =7
-16ee
-16cc
-8dd
-8b
+16eeL
+16ccJ
+8ccq
+8ddL
+8bJ
 =8
-16a
-16f
+16aL
+16fJ
 4g}
 ==
 *-
@@ -55,3 +57,5 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=75 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 53} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 53}
 !!!page: 53
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

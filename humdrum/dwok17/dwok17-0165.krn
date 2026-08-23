@@ -3,59 +3,79 @@
 !!!source: DWOK17
 !!!id: 17165
 !!!signature: 1716500000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16g
-16g
-8ff
-16ee
-16dd
-=2
-8cc
-8ee
-8dd}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16g\	Siedzi
+16g\	.
+8ff	wróbel
+16eeL	.
+16ddJ	.
+=2	=2
+8ccL	na
+8ee	des-
+8ddJ/}	-ce,
 !!LO:LB:g=esac
-=
-{24g
-24b
-24dd
-8ff
-16ee
-16dd
-=3
-8cc
-8a
-8g}
+=3	=3
+*Xtuplet	*
+{24gL	szyje
+24b	.
+24ddJ/	.
+8ff	bu-
+16eeL	-ty
+16ddJ	.
+=4	=4
+8cc	Te-
+8a\	-resce.
+8g\}	.
 !!LO:LB:g=esac
-=4
-{16.b
-32dd
-8g
-16a
-16b
-=5
-8cc
-8cc
-8dd}
+=5	=5
+{16.b	Te-
+32dd	-res-
+8g	-ka
+16aL	się
+16bJ	.
+=6	=6
+8ccL	ra-
+8cc	-du-
+8ddJ/}	-je
 !!LO:LB:g=esac
-=6
-{16.b
-32dd
-8g
-16a
-16b
-=7
-8cc
-8a
-8g}
-==
-*-
+=7	=7
+{16.b	no-
+32dd	-we
+8g	bu-
+16aL	-ty
+16bJ	.
+=8	=8
+8cc	o-
+8a\	-bu-
+8g\}	-je.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Siedzi wróbel na desce,
+!!szyje buty Teresce.
+!!Tereska się raduje
+!!nowe buty obuje.
+!!Nie raduj się Tereska
+!!bo te buty dla pieska.
+!!@VERSE:
+!!2. Siedzi szczygieł na płocie,
+!!szyje buty Dorocie.
+!!Dorota się raduje
+!!nowe buty obuje.
+!!Nie raduj się Dorotka,
+!!bo te buty dla kotka.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=77 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 55} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 55}
 !!!page: 55
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

@@ -3,62 +3,87 @@
 !!!source: DWOK17
 !!!id: 17148
 !!!signature: 1714800002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16cc
-16ee
-8dd#
-8ee
-=2
-16cc
-16cc
-8b
-8dd
-=3
-16b
-16cc
-16a
-16g
-16b
-16g
-=4
-16b
-16a
-8f#
-8d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16cc	Mazurecz-
+16ee	.
+8dd#	.
+8ee	-ka
+=2	=2
+16cc	kro-
+8ddq	.
+16cc	-wy
+8b	do-
+8dd	-ji,
+=3	=3
+16b	a
+16cc	Ma-
+16aL	-zu-
+16gJ	.
+16bL	-rek
+16gJ	.
+=4	=4
+16b	przy
+16a\	niej
+8f#\	stoji.
+8d\}	.
 !!LO:LB:g=esac
-=
-{24d
-24e
-24f#
-8g
-16a
-16b
-=
-24cc
-24b
-24cc
-8ee
-8dd
-=5
-16cc
-16ee
-8dd
-16b
-16g
-=6
-16b
-16a
-8f#
-8g}
-==
-*-
+=5	=5
+*Xtuplet	*
+{24dL	Si-
+24e	.
+24f#J	-wa
+8g	krówko
+16aL	.
+16bJ\	.
+=6	=6
+24ccL	stójze
+24b	.
+24ccJ/	.
+8ee	stójze,
+8dd	.
+=7	=7
+8bq	.
+16cc	ty
+16ee	Mazur-
+8dd	.
+16bL	-ko
+16gJ	.
+=8	=8
+16b	dójze,
+16a\	.
+8f#	dójze.
+8g}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Man from Mazury
+!!!role-listener: Woman from Mazury, Cow
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Mazureczka krowy doji,
+!!a Mazurek przy niej stoji.
+!!Siwa krówko stójze stójze,
+!!ty Mazurko dójze, dójze.
+!!@VERSE:
+!!2. Nadojiła mlika skopek
+!!aż się jéj raduje chłopek.
+!!Krowa nóżką potrąciła,
+!!skopek mlika wywróciła.
+!!@VERSE:
+!!3. Bodaj ciebie wilcy zjedli,
+!!z czém my będziem kluski jedli?
+!!a bodaj cię rozerwali,
+!!czém my będziem zaliwali?
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=72 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 50} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 50}
 !!!page: 50
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

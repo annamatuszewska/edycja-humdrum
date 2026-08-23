@@ -3,58 +3,69 @@
 !!!source: DWOK17
 !!!id: 17186
 !!!signature: 1718600000
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M2/4
-=1
-{8b-
-4b-
-8b-
-=2
-8b-
-8a
-4g}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M2/4	*
+=1	=1
+!!LO:TX:a:t=Krakowiak.
+{8b-	Za
+4b-	górą
+8b-	.
+=2	=2
+8b-	za
+8a\	gó-
+4g\}	-rą
 !!LO:LB:g=esac
-=3
-{16b-
-16cc
-4b-
-8b-
-=4
-8b-
-8a
-4g}
+=3	=3
+{16b-L	tam
+16ccJ/	.
+4b-/	się
+8b-	coś
+=4	=4
+8b-	zie-
+8a\	-le-
+4g\}	-ni.
 !!LO:LB:g=esac
-=5
-{4cc
-16b-
-16a
-16g
-16f
-=6
-8f
-16g
-16a
-4b-}
+=5	=5
+{4cc	To
+16b-L	mo-
+16aJ	.
+16gL	-ja
+16fJ	.
+=6	=6
+8f	przenicz-
+16gL	.
+16aJ	.
+4b-}	-ka,
 !!LO:LB:g=esac
-=7
-{4cc
-16b-
-16a
-16g
-16f
-=8
-8f
-16g
-16a
-4b-}
-==
-*-
+=7	=7
+{4cc	bę-
+16b-L	-dzie
+16aJ	.
+16gL	grosz
+16fJ	.
+=8	=8
+8f	w_kiesze-
+16gL	.
+16aJ	.
+4b-}	-ni.
+==	==
+*-	*-
+!!!role-singer: Farmer
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Za górą za górą
+!!tam się coś zieleni.
+!!To moja przeniczka,
+!!będzie grosz w kieszeni.
+!!@@END: VERSES
 !!!ONB: Text ob. Ser. VI n. 641: Nuta Ser. VI n. 686. W t. 1 skorygowano rytm
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=82 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 60} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 60}
 !!!page: 60
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

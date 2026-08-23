@@ -3,108 +3,126 @@
 !!!source: DWOK17
 !!!id: 17127
 !!!signature: 1712700000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8g
-8a
-16cc
-16b
-=2
-16a
-16cc
-8a
-8dd
-=3
-8ee
-8dd
-16cc
-16b
-=4
-16a
-16cc
-8a
-16f#
-16g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8g\	Oj
+8a\	czy
+16ccL	ja
+16bJ	.
+=2	=2
+16a\	marchew
+16cc	.
+8aL	skrobię,
+8ddJ/	.
+=3	=3
+8eeL	da
+8ddJ/	czy
+16ccL	ja
+16bJ	.
+=4	=4
+16a\	kaczkę
+16cc	.
+8a\	skubię,
+16f#L	.
+16gJ\}	.
 !!LO:LB:g=esac
-=5
-{8b
-8dd
-16b
-16g
-=6
-16a
-16cc
-8a
-16f#
-16g
-=7
-16a
-16b
-8dd
-16b
-16g
-=8
-16a
-16cc
-8ee
-16ee
-16dd}
+=5	=5
+{8b	oj
+8dd	zawsze
+16bL	.
+16gJ	.
+=6	=6
+16a\	sobie
+16cc	.
+8a\	myślę
+16f#L	.
+16gJ\	.
+=7	=7
+16aL	da
+16bJ	.
+8dd	o
+16bL	swoj-
+16gJ	.
+=8	=8
+16aL	-im
+16ccJ/	Jakubie.
+8eeL	.
+16ee	.
+16ddJ/}	.
 !!LO:LB:g=esac
-=9
-{16a
-16g
-16a
-16cc#
-8ee
-=10
-16ee
-16a
-8cc
-16b
-16g
-=11
-16a
-16g
-16a
-16cc#
-8ee
-=12
-16ee
-16cc
-8a
-16f#
-16g}
+=9	=9
+{16aL	.
+16gJ	.
+16aL	.
+16cc#	.
+8eeJ	.
+=10	=10
+16eeL	.
+16aJ	.
+8ccnL	.
+16b	.
+16gJ	.
+=11	=11
+16aL	.
+16gJ	.
+16aL	.
+16cc#	.
+8eeJ	.
+=12	=12
+16eeL	.
+16ccnJ	.
+8aL	.
+16f#	.
+16gJ}	.
 !!LO:LB:g=esac
-=13
-{16d
-16e
-16f#
-16g
-8b
-=14
-16b
-16a
-8.cc
-16g
-=15
-16a
-16cc
-16b
-16g
-8b
-=16
-16b
-16a
-8.f#
-16g}
-==
-*-
+=13	=13
+{16dL	.
+16e	.
+16f#	.
+16g	.
+8bJ\	.
+=14	=14
+16bL	.
+16aJ\	.
+8.ccL	.
+16gJ	.
+=15	=15
+16aL	.
+16cc	.
+16b	.
+16g	.
+8bJ	.
+=16	=16
+16bL	.
+16aJ\	.
+8.f#L	.
+16gJ\}	.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Oj czy ja marchew skrobię,
+!!da czy ja kaczkę skubię,
+!!oj zawsze sobie myślę
+!!da o swojim Jakubie.
+!!@VERSE:
+!!2. Oj czy mi rosół zbiegnie,
+!!da czy pieczeń się spali,
+!!ej to ja o to nie dbam,
+!!byleśmy się kochali.
+!!@@END: VERSES
+!!!ONB: Obacz nr 67.
+!!!ONB@texture: Only voice or instrument is playing at a time
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=66 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 44} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 44}
 !!!page: 44
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

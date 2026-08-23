@@ -3,59 +3,71 @@
 !!!source: DWOK17
 !!!id: 17157
 !!!signature: 1715700000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8g
-8b
-8b
-=2
-16cc
-16a
-16f#
-16g
-8b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8g	Oj
+8b	kocha-
+8b	.
+=2	=2
+16cc	-łem
+16a\	cię
+16f#L	dziew-
+16g	.
+8bJ}	-cze,
 !!LO:LB:g=esac
-=3
-{8g
-8b
-8b
-=4
-16cc
-16a
-8f#
-8d}
+=3	=3
+{8g	da
+8b	kocha-
+8b	.
+=4	=4
+16cc	-łem
+16a\	cię
+8f#\	skrycie
+8d\}	.
 !!LO:LB:g=esac
-=5
-{8e
-16e
-16d
-16f#
-16a
-=6
-16cc
-16a
-16f#
-16g
-8b}
+=5	=5
+{8e	Oj
+16eL	chcia-
+16dJ	.
+16f#L	-łem
+16aJ	po-
+=6	=6
+16cc	-żartować
+16a\	.
+16f#L	.
+16g	.
+8bJ}	da
 !!LO:LB:g=esac
-=7
-{8e
-8e
-16f#
-16a
-=8
-16cc
-16a
-8f#
-8d}
-==
-*-
+=7	=7
+{8e	zro-
+8e\	-bi-
+16f#L	-ło
+16aJ	się
+=8	=8
+16cc	.
+16a\	dziécię.
+8f#\	.
+8d\}	.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!role-listener: Maiden
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Oj kochałem cię dziewcze,
+!!da kochałem cię skrycie
+!!Oj chciałem pożartować
+!!da zrobiło się dziécię.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=75 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 53} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 53}
 !!!page: 53
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

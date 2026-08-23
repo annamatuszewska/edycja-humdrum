@@ -3,68 +3,90 @@
 !!!source: DWOK17
 !!!id: 17116
 !!!signature: 1711600000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{8b
-8cc
-16dd
-16ff
-=
-24ee
-24gg
-24ee
-8.dd
-16cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{8b	Oj
+8cc	da
+16ddL	mo-
+16ffJ	.
+=2	=2
+*Xtuplet	*
+24eeL	-ja
+24gg	.
+24eeJ/	ma-
+8.ddL	-tu-
+16ccJ/}	-lu,
 !!LO:LB:g=esac
-=2
-{8b
-8cc
-16dd
-16ff
-=
-16ee
-16ee
-8dd
-24b
-24a
-24g}
+=3	=3
+{8b	da
+8cc	za
+16ddL	ko-
+16ffJ	.
+=4	=4
+16ee	-goś
+16ee	mnie
+8dd	da-
+24bL	-ła,
+24a	.
+24gJ\}	.
 !!LO:LB:g=esac
-=
-{16b
-16cc
-8dd
-24b
-24a
-24g
-=3
-16f
-16a
-8f
-16g
-16a}
+=5	=5
+{16bL	oj
+16ccJ	.
+8ddM	za
+24bL	te-
+24a	.
+24gJ	.
+=6	=6
+16fni	-go
+16a	hul-
+8f	-ta-
+16gL	-ja,
+16aJ/}	.
 !!LO:LB:g=esac
-=
-{24a
-24b
-24cc
-8dd
-24b
-24a
-24g
-=4
-16f
-16a
-8f
-8g}
-==
-*-
+=7	=7
+{24aL	da
+24b	.
+24ccJ/	.
+8ddM	co
+24bL	ja
+24a	.
+24gJ	.
+=8	=8
+16fni	go
+16a	nie
+8f	zna-
+8g\}	-ła.
+==	==
+*-	*-
+!!!RDF**kern: i = editorial accidental
+!!!role-singer: Daughter, Mother
+!!!role-listener: Mother, Daughter
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Oj da moja matulu,
+!!da za kogoś mnie dała,
+!!oj za tego hultaja,
+!!da co ja go nie znała.
+!!@VERSE:
+!!2. Oj da moja córusiu,
+!!da poznasz ty go teraz,
+!!oj jak ci ponarabia
+!!da sinaceńków nieraz.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: 1) Siniaki (blaue Beulen).
+!!@@END:
 !!!ONB: Obacz nr 42
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=61 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 39} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 39}
 !!!page: 39
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

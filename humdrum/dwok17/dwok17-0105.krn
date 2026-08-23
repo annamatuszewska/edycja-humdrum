@@ -3,55 +3,70 @@
 !!!source: DWOK17
 !!!id: 17105
 !!!signature: 1710500000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{8cc
-8ee
-8ee
-=2
-16ee
-32aa
-32gg
-8ff
-8ee}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{8ccL	Oj
+8ee	pła-
+8eeJ/	-ka-
+=2	=2
+16eeL	-ła
+32aa	dzie-
+32ggJ/	.
+8ff	-wczyna,
+8ee}	.
 !!LO:LB:g=esac
-=3
-{16dd
-32cc
-32b
-8a
-8cc
-=4
-8ee
-4dd}
+=3	=3
+{16ddL	jak
+32cc	nie
+32bJ/	.
+8a\	mia-
+8cc	-ła
+=4	=4
+8ee/	pła-
+4dd/}	-kać?
 !!LO:LB:g=esac
-=5
-{8g
-8cc
-8b
-=6
-16cc
-16dd
-8ff
-8ee}
+=5	=5
+{8g\	da
+8cc	puści-
+8b	.
+=6	=6
+16cc	-ła
+16dd	wia-
+8ff	-neńko,
+8ee}	.
 !!LO:LB:g=esac
-=7
-{16dd
-16b
-8a
-8cc
-=8
-8b
-4a}
-==
-*-
+=7	=7
+{16dd	nie
+16b	mo-
+8a\	-gła
+8cc	go
+=8	=8
+8b	zła-
+4a\}	-pać.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Oj płakała dziewczyna,
+!!jak nie miała płakać?
+!!da puściła wianeńko,
+!!nie mogła go złapać.
+!!@VERSE:
+!!2. Oj płakała dziewczyna
+!!o chłopca ładnego, —
+!!oj choć on sobie ładny
+!!ale nic dobrego.
+!!@@END: VERSES
 !!!ONB: U Kolberga błędnie zapisano metrum 3/4
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=58 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 36} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 36}
 !!!page: 36
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

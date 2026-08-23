@@ -3,48 +3,76 @@
 !!!source: DWOK17
 !!!id: 17141
 !!!signature: 1714100000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16f#
-16a
-4g
-=2
-8cc
-8b
-8dd
-=3
-16cc
-16a
-4g
-=4
-8e
-8f#
-8d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+!!LO:TX:a:t=Sierota.
+{16f#	Czyliż
+16a	.
+4g	ty
+=2	=2
+8cc	dziewczy-
+8b	.
+8dd	-no
+=3	=3
+16cc	z_kamie-
+16a\	.
+4g	-nia
+=4	=4
+8e	wy-
+8f#	-bi-
+8d}	-ta,
 !!LO:LB:g=esac
-=5
-{16f#
-16a
-4g
-=6
-8cc
-8b
-8dd
-=7
-16cc
-16a
-4g
-=8
-8e
-8f#
-8d}
-==
-*-
+=5	=5
+{16f#	kto
+16a	je-
+4g	-dzie,
+=6	=6
+8cc	to
+8b	jedzie,
+8dd	.
+=7	=7
+16cc	to
+16a\	się
+4g	o
+=8	=8
+8e	cię
+8f#	py-
+8d}	-ta.
+==	==
+*-	*-
+!!!role-singer: Narrator, Maiden
+!!!role-listener: Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Czyliż ty dziewczyno
+!!z kamienia wybita,
+!!kto jedzie, to jedzie,
+!!to się o cię pyta.
+!!@VERSE:
+!!2. Z kamienia wybita
+!!z cegły murowaná,
+!!kto blady to blady
+!!ja sobie rumianá.
+!!@VERSE:
+!!3. Czyliż cię dziewczyno,
+!!wymalował malarz,
+!!w Krakowie, we Lwowie
+!!takiéj by nie znalaz.
+!!@VERSE:
+!!4. Wymalował malarz,
+!!sam Pan Jezus z nieba,
+!!do mojego wiana
+!!urody potrzeba.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=70 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 48} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 48}
 !!!page: 48
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

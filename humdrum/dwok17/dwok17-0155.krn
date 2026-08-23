@@ -3,65 +3,76 @@
 !!!source: DWOK17
 !!!id: 17155
 !!!signature: 1715500000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16b
-16g
-8dd
-16ff
-16ee
-=2
-16ff
-16aa
-8gg
-16ee
-16cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16b	Z_tamtéj
+16g\	.
+8dd	.
+16ffL	strony
+16eeJ	.
+=2	=2
+*Xtuplet	*
+16ffL	.
+16aaJ/	Ja-
+8ggL	-wo-
+16ee	-rowa,
+16ccJ/}	.
 !!LO:LB:g=esac
-=
-{24b
-24g
-24b
-8dd
-16ff
-16ee
-=3
-16b
-16dd
-8cc
-8g}
+=3	=3
+{24bL	.
+24g	leci
+24bJ	.
+8dd	dziwka
+16ffL	.
+16eeJ	.
+=4	=4
+16b	ni-
+16dd	-by
+8cc	krowa.
+8g\}	.
 !!LO:LB:g=esac
-=4
-{16b
-16g
-8dd
-16ff
-16ee
-=5
-16b
-16dd
-8cc
-16ee
-16cc}
+=5	=5
+{16b	Strzelec
+16g	.
+8dd	mówi,
+16ffL	.
+16eeJ	.
+=6	=6
+16b	że
+16dd	to
+8ccL	zając,
+16ee	.
+16ccJ/}	.
 !!LO:LB:g=esac
-=6
-{16b
-16g
-8dd
-16ff
-16ee
-=7
-16b
-16dd
-8cc
-8g}
-==
-*-
+=7	=7
+{16b	puszcza
+16g	.
+8dd	charty
+16ffL	.
+16eeJ	.
+=8	=8
+16b	by
+16dd	ją
+8cc	zająć.
+8g\}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Z tamtéj strony Jaworowa,
+!!leci dziwka niby krowa.
+!!Strzelec mówi, że to zając,
+!!puszcza charty by ją zająć.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=74 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 52} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 52}
 !!!page: 52
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

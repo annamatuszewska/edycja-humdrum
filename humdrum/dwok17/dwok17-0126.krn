@@ -3,80 +3,92 @@
 !!!source: DWOK17
 !!!id: 17126
 !!!signature: 1712600000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8.dd
-16cc#
-16dd
-16cc#
-=2
-16dd
-16cc#
-8dd
-8b
-=3
-16b
-16dd
-8cc
-8a
-=4
-16a
-16cc
-8b
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8.ddL	Oj
+16cc#J	.
+16dd	poszed
+16cc#	.
+=2	=2
+16dd	Niemiec
+16cc#	.
+8dd	orać,
+8b	.
+=3	=3
+16bL	da
+16ddJ/	.
+8ccn	w_po-
+8a	-le
+=4	=4
+16a	z_jedną
+16cc	.
+8b	kro-
+8g}	-wą.
 !!LO:LB:g=esac
-=5
-{16b
-16dd
-16cc
-16a
-16f#
-16a
-=6
-16cc
-16cc
-8ee
-8dd
-=7
-16b
-16dd
-8cc
-8a
-=8
-16a
-16cc
-8b
-8g}
+=5	=5
+{16bL	Oj
+16ddJ	.
+16ccL	zło-
+16a	.
+16f#	-ma-
+16aJ/	.
+=6	=6
+16ccL	-ła
+16ccJ/	mu
+8eeL	jarzmo,
+8ddJ/	.
+=7	=7
+16bL	da
+16ddJ	.
+8cc	jak
+8a\	ru-
+=8	=8
+16a	-szy-
+16cc	-ła
+8b	głową.
+8g}	.
 !!LO:LB:g=esac
-=9
-{8.g
-16f#
-16g
-16f#
-=
-24g
-24a
-24cc
-8b
-8f#
-=10
-8.g
-16f#
-16g
-16f#
-=
-24g
-24a
-24cc
-4b}
-==
-*-
+=9	=9
+{8.gL	.
+16f#J	.
+16gL	.
+16f#J	.
+=10	=10
+*Xtuplet	*
+24gL	.
+24a	.
+24ccJ	.
+8bL	.
+8f#J	.
+=11	=11
+8.gL	.
+16f#J	.
+16gL	.
+16f#J	.
+=12	=12
+24gL	.
+24a	.
+24ccJ	.
+4b}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Oj poszed Niemiec orać,
+!!da w pole z jedną krową.
+!!Oj złomała mu jarzmo,
+!!da jak ruszyła głową.
+!!@@END: VERSES
+!!!ONB@texture: Only voice or instrument is playing at a time
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=65 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 43} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 43}
 !!!page: 43
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

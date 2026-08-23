@@ -3,56 +3,67 @@
 !!!source: DWOK17
 !!!id: 17180
 !!!signature: 1718000000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M2/4
-=1
-{8a
-8cc
-8b-
-8b-
-=2
-8a
-8cc
-8g
-8g}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M2/4	*
+=1	=1
+{8a\	A
+8cc	za
+8b-	rzeczką
+8b-	.
+=2	=2
+8a\	a
+8cc	za
+8g	bystrą
+8g}	.
 !!LO:LB:g=esac
-=3
-{8a
-8cc
-8b-
-8b-
-=4
-4g
-8g
-8f}
+=3	=3
+{8a\	tam
+8cc	ja
+8b-	baczył
+8b-	.
+=4	=4
+4g\	cie-
+8gL	-bie,
+8fJ}	.
 !!LO:LB:g=esac
-=5
-{8cc
-8ee
-8ff
-8dd
-=6
-8b-
-8dd
-8cc
-8cc}
+=5	=5
+{8ccL	i
+8ee	za-
+8ff	-baczył
+8ddJ/	.
+=6	=6
+8b-L	za-
+8ddJ/	-py-
+8ccL	-tać
+8ccJ/}	się,
 !!LO:LB:g=esac
-=7
-{8cc
-8ee
-8ff
-8dd
-=8
-4b-
-8g
-8f}
-==
-*-
+=7	=7
+{8ccL	kto
+8ee	to
+8ff	był
+8ddJ/	u
+=8	=8
+4b-/	cie-
+8gL	-bie.
+8fJ}	.
+==	==
+*-	*-
+!!!role-singer: Lover
+!!!role-listener: Lover
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!A za rzeczką a za bystrą
+!!tam ja baczył ciebie,
+!!i zabaczył zapytać się,
+!!kto to był u ciebie.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=81 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 59} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 59}
 !!!page: 59
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

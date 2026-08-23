@@ -3,118 +3,147 @@
 !!!source: DWOK17
 !!!id: 17113
 !!!signature: 1711300000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{8ff
-8ff
-16ee
-16dd
-=2
-16cc
-16ee
-8dd
-8b-
-=3
-8g
-8g
-16b
-16g
-=
-24a
-24b
-24cc
-8dd
-24a
-24b-
-24a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{8ff	Oj
+8ff	u-
+16eeL	-wiód
+16ddJ	.
+=2	=2
+16cc	żeś
+16ee	mnie
+8dd	u-
+8b-i	-wiód
+=3	=3
+8g	da
+8g	z_go-
+16bnL	-rza-
+16gJ\	-łecz-
+=4	=4
+*Xtuplet	*
+24aL	-ki
+24b	.
+24ccJ	.
+8dd	na
+8cc}	miód,
 !!LO:LB:g=esac
-=
-{8gg
-8ff
-24ff
-24ee
-24dd
-=4
-16ee
-16cc
-8dd
-8b
-=
-8g
-8g
-24b
-24a
-24g
-=
-24a
-24b
-24cc
-8dd
-8cc}
+=5	=5
+{8ggL	da
+8ffJ/	i
+24ffL	ja
+24ee	.
+24ddJ/	.
+=6	=6
+16eeL	cię
+16cc	u-
+8ddJ/	-wie-
+24aL	-de
+24b-i	.
+24aJ	.
+=7	=7
+8g	da
+8g	bo
+24bL	dtwo-
+24a	.
+24gJ	.
+=8	=8
+24aL	-ją
+24b	.
+24cc	.
+8ddJ/	nie
+24ffL	bede.
+24ee	.
+24ddJ/}	.
 !!LO:LB:g=esac
-=5
-{8ff
-16ff
-16gg
-16ee
-16dd
-=
-24ff
-24gg
-24aa
-8dd
-24cc
-24b
-24a
-=6
-8g
-16g
-16a
-16b
-16g
-=
-24a
-24b
-24cc
-8dd
-24ff
-24ee
-24dd}
+=9	=9
+{8ff	.
+8eeq	.
+16ffL	.
+16gg	.
+16ee	.
+16ddJ	.
+=10	=10
+24ffL	.
+24gg	.
+24aaJ	.
+8dd	.
+24ccL	.
+24b	.
+24aJ	.
+=11	=11
+8gL	.
+16g	.
+16a	.
+16b	.
+16gJ	.
+=12	=12
+24aL	.
+24b	.
+24ccJ	.
+8ddL	.
+24ff	.
+24ee	.
+24ddJ/}	.
 !!LO:LB:g=esac
-=7
-{8ff
-16ff
-16gg
-16ee
-16dd
-=
-16ff
-16aa
-8dd
-24cc
-24b
-24a
-=8
-8g
-16g
-16a
-16b
-16g
-=
-24a
-24b
-24cc
-8dd
-8cc}
-==
-*-
+=13	=13
+{8ff	.
+8eeq	.
+16ffL	.
+16gg	.
+16ee	.
+16ddJ	.
+=14	=14
+16ffL	.
+16aaJ	.
+8dd	.
+24ccL	.
+24b	.
+24aJ	.
+=15	=15
+8gL	.
+16g	.
+16a	.
+16b	.
+16gJ	.
+=16	=16
+24aL	.
+24b	.
+24ccJ	.
+8ddL	.
+8ccJ}	.
+==	==
+*-	*-
+!!!RDF**kern: i = editorial accidental
+!!!role-singer: Maiden, Bachelor
+!!!role-listener: Bachelor, Maiden
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Oj uwiód żeś mnie uwiód
+!!da z gorzałeczki na miód,
+!!da i ja cię uwiede
+!!da bo twoją nie bede.
+!!@VERSE:
+!!2. Ej po co żeś mnie Jasiu
+!!da do sadeczku zawiód,
+!!ej nima-ci ta wiśni
+!!da ani żadnych jagód.
+!!@VERSE:
+!!3. Oj jak'em ja cie zawiód,
+!!da tak cie wyprowadzę;
+!!ej nie bój się dziewczyno
+!!da ja ciebie nie zdradzę.
+!!@@END: VERSES
+!!!ONB@texture: Only voice or instrument is playing at a time
 !!!ONB: Text ob. Ser. XVI n. 456.
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=60 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 38} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 38}
 !!!page: 38
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

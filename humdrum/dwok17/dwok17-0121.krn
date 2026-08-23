@@ -3,55 +3,70 @@
 !!!source: DWOK17
 !!!id: 17121
 !!!signature: 1712100000
-**kern
-*clefG2
-*k[f#c#g#d#]
-*E:
-*M3/8
-=1
-{8g#
-8b
-8dd#
-=2
-16ee
-32cc
-32b
-8a
-8e}
+**kern	**text
+*clefG2	*
+*k[f#c#g#d#]	*
+*E:	*
+*M3/8	*
+=1	=1
+{8g#	Ej
+8bL	rada
+8dd#J/	.
+=2	=2
+16eeL	bym
+32cc	sie
+32bJ/	.
+8aL	ra-
+8eJ}	-da,
 !!LO:LB:g=esac
-=3
-{8g#
-8b
-8g#
-=4
-16f#
-16a
-8f#
-8e}
+=3	=3
+{8g#	da
+8b	z_rodzi-
+8g#\	.
+=4	=4
+16f#\	-ną
+16a\	napi-
+8f#\	.
+8e}	-ła,
 !!LO:LB:g=esac
-=5
-{8g#
-8b
-8g#
-=6
-16f#
-16a
-8cc#
-8e}
+=5	=5
+{8g#	oj
+8b	je-
+8g#	-nom
+=6	=6
+16f#	se
+16a	pie-
+8cc#L	-niążki
+8eJ}	.
 !!LO:LB:g=esac
-=7
-{8g#
-8b
-8g#
-=8
-16f#
-16a
-8f#
-8e}
-==
-*-
+=7	=7
+{8g#	da
+8b	do-
+8g#	-ma
+=8	=8
+16f#	zo-
+16a	-sta-
+8f#\	-wi-
+8e\}	-ła.
+==	==
+*-	*-
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Ej rada bym sie rada,
+!!da z rodziną napiła,
+!!oj jenom se pieniążki
+!!da doma zostawiła.
+!!@VERSE:
+!!2. Ej zostawiłam je se
+!!da doma pod pierzyną,
+!!oj już się nie napiję
+!!da ze swoją rodziną.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=64 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 42} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 42}
 !!!page: 42
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

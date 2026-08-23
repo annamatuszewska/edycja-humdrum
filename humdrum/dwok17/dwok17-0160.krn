@@ -3,83 +3,95 @@
 !!!source: DWOK17
 !!!id: 17160
 !!!signature: 1716000000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16cc
-16b
-8g
-8a
-=2
-16cc
-16b
-8g
-8a
-=3
-16cc
-16b
-8f#
-8a
-=4
-[8g
-16g]
-16f#
-8d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16cc	Siedmiu
+16b	.
+8g	mi
+8a	się
+=2	=2
+16cc	zale-
+16b	.
+8g	-ca-
+8a	-ło,
+=3	=3
+16cc	siedmiu
+16b	.
+8f#\	za
+8a	mną
+=4	=4
+[8g	bie-
+16g]L	.
+16f#J\	-gło,
+8d}	.
 !!LO:LB:g=esac
-=
-{24d
-24e
-24f#
-4a
-=5
-4g
-16b
-16dd
-=
-24d
-24e
-24f#
-8a
-16f#
-16d
-=6
-8g
-8g
-16b
-16dd}
+=5	=5
+*Xtuplet	*
+{24dL	sied-
+24e	.
+24f#J	-miu
+4a\	mi_się
+=6	=6
+4g\	o-
+16b	-biecało,
+16dd	.
+=7	=7
+24dL	sied-
+24e	.
+24f#J	-miu
+8aL	mi
+16f#	się
+16dJ	.
+=8	=8
+8gL	o-
+8gJ	-biecało
+16b	.
+16dd}	.
 !!LO:LB:g=esac
-=7
-{16cc
-16b
-8a
-8f#
-=
-[8g
-24g]
-24f#
-24e
-8d
-=8
-16cc
-16b
-16a
-16b
-16a
-16f#
-=
-[8g
-24g]
-24f#
-24e
-8d}
-==
-*-
+=9	=9
+{16cc	a
+16b	siedmiu
+8a\	.
+8f#\	mnie
+=10	=10
+[8gL	strzegło,
+24g]	.
+24f#	.
+24e	.
+8dJ	.
+=11	=11
+16cc	a
+16b	siedmiu
+16aL	.
+16b	.
+16a	mnie
+16f#J	.
+=12	=12
+[8gL	strzegło.
+24g]	.
+24f#	.
+24e	.
+8dJ}	.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Siedmiu mi się zalecało,
+!!siedmiu za mną biegło,
+!!siedmiu mi się obiecało
+!!a siedmiu mnie strzegło.
+!!@@END: VERSES
 !!!ONB: Text. Ser. I. n. 79. Nuta zbliżona ob. Ser. II. nr 255. 310. Ser. I. n. 70, 74, 111, 134, 410, 464. Wariant t. 3-4: 431-72_  1_(^-7-6)-5_
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=76 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 54} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 54}
 !!!page: 54
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

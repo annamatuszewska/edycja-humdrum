@@ -3,56 +3,70 @@
 !!!source: DWOK17
 !!!id: 17135
 !!!signature: 1713500000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{8ff
-8ff
-8ee
-=2
-16cc
-16ee
-8ff
-8dd}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{8ddq	.
+8ff	Oj
+8ff	niech
+8ee	mnie
+=2	=2
+16ccL	matka
+16eeJ/	.
+8ffL	bi-
+8ddJ/}	-je
 !!LO:LB:g=esac
-=3
-{8ff
-8ff
-8ee
-=4
-16cc
-16a
-8g
-8b-}
+=3	=3
+{8ddq	.
+8ff	da
+8ff	bo
+8ee	mnie
+=4	=4
+16cc	wychowa-
+16a\	.
+8g\	.
+8b-}	-ła,
 !!LO:LB:g=esac
-=5
-{8a
-8cc
-8ee
-=6
-16dd
-32ee
-32ff
-8dd
-8b-}
+=5	=5
+{8a\	a
+8cc	ty
+8ee	mnie
+=6	=6
+16ddL	Jasiu
+32ee	.
+32ffJ/	.
+8ddL	nie
+8b-J/}	bij,
 !!LO:LB:g=esac
-=7
-{8a
-8cc
-8ee
-=8
-16dd
-32cc
-32a
-8g
-8b-}
-==
-*-
+=7	=7
+{8a\	da
+8cc	nié-
+8ee	-masz
+=8	=8
+16dd	do
+32ccL	mnie
+32aJ	.
+8g\	pra-
+8b-}	-wa.
+==	==
+*-	*-
+!!!role-singer: Wife
+!!!role-listener: Husband
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Oj niech mnie matka bije
+!!da bo mnie wychowała,
+!!a ty mnie Jasiu nie bij,
+!!da niémasz do mnie prawa.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=68 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 46} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 46}
 !!!page: 46
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

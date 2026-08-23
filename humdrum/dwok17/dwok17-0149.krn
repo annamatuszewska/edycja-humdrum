@@ -3,61 +3,72 @@
 !!!source: DWOK17
 !!!id: 17149
 !!!signature: 1714900000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16dd
-16ee
-8ff
-16dd
-16e
-=2
-8ff
-8ee
-16dd
-16gg}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16dd	A
+16ee	ja
+8ff	so-
+16ddL	-bie
+16eeJ/	.
+=2	=2
+8ff	Ta-
+8ee	-tarzanka,
+16ddL	.
+16ggJ/}	.
 !!LO:LB:g=esac
-=3
-{16dd
-16ee
-8ff
-8dd
-=4
-8ff
-8ee
-16dd
-16cc}
+=3	=3
+{16dd	poprawiam
+16ee	.
+8ff	.
+8dd	se
+=4	=4
+8ff	za-
+8ee	-wse
+16ddL	wianka,
+16ccJ}	.
 !!LO:LB:g=esac
-=5
-{16dd
-16cc
-8b
-16g
-16f
-=6
-8ff
-8ee
-16dd
-16b}
+=5	=5
+{16dd	A
+16cc	ja
+8b	sobie
+16gL	.
+16fJ	.
+=6	=6
+8ffL	Ta-
+8eeJ/	-ta-
+16ddL	-rzaczek,
+16bJ/}	.
 !!LO:LB:g=esac
-=7
-{16dd
-16cc
-8b
-8g
-=8
-8e
-8g
-16a
-16f}
-==
-*-
+=7	=7
+{16dd	poprawiam
+16cc	.
+8b	.
+8g\	se
+=8	=8
+8e\	rzemie-
+8g\	.
+16aL	-nia-
+16fJ}	-czek.
+==	==
+*-	*-
+!!!role-singer: Tatar Woman, Tatar
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!A ja sobie Tatarzanka,
+!!poprawiam se zawse wianka,
+!!A ja sobie Tatarzaczek,
+!!poprawiam se rzemieniaczek.
+!!@@END: VERSES
 !!!ONB: Obacz nr. 63
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=73 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 51} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 51}
 !!!page: 51
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

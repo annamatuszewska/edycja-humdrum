@@ -3,61 +3,73 @@
 !!!source: DWOK17
 !!!id: 17169
 !!!signature: 1716900000
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M3/8
-=1
-{16ff
-16ee
-16ff
-16gg
-16ff
-16ee
-=2
-16ff
-16gg
-8ff
-16ee-
-16cc}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M3/8	*
+=1	=1
+{16ffL	Oj
+16ee	.
+16ff	dziew-
+16gg	.
+16ff	-czy-
+16eeJ/	-no
+=2	=2
+16ffL	nie
+16ggJ/	.
+8ffL	chcesz
+16ee-	mnie,
+16ccJ/}	.
 !!LO:LB:g=esac
-=3
-{8b-
-8dd
-8ff
-=4
-16ee-
-16dd
-8b-
-16cc
-16a}
+=3	=3
+{8b-	pa-
+8dd	-miętaj,
+8ff	.
+=4	=4
+16ee-	wspomnisz
+16dd	.
+8b-	.
+16ccL	mnie.
+16aJ}	.
 !!LO:LB:g=esac
-=5
-{8b-
-8a
-8f
-=6
-16a
-16b-
-8dd
-16cc
-16a}
+=5	=5
+{8b-	Wspomnisz
+8a\	.
+8f\	mię
+=6	=6
+16a\	w_każdy
+16b-	.
+8dd	dzień,
+16ccL	.
+16aJ}	.
 !!LO:LB:g=esac
-=7
-{8b-
-8dd
-8ff
-=8
-16ee-
-16dd
-8b-
-16cc
-16a}
-==
-*-
+=7	=7
+{8b-	ja
+8dd	ciebie
+8ff	.
+=8	=8
+16ee-	raz
+16dd	.
+8b-	w_tydzień.
+16ccL	.
+16aJ}	.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!role-listener: Maiden
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Oj dziewczyno nie chcesz mnie,
+!!pamiętaj, wspomnisz mnie.
+!!Wspomnisz mię w każdy dzień,
+!!ja ciebie raz w tydzień.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=78 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 56} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 56}
 !!!page: 56
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

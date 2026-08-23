@@ -3,67 +3,80 @@
 !!!source: DWOK17
 !!!id: 17110
 !!!signature: 1711000000
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M3/8
-=1
-{16ff
-16ee
-8cc
-16dd
-16ee
-=2
-16ff
-32ee
-32cc
-8.b-
-16dd}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M3/8	*
+=1	=1
+{16ff	Oj
+16ee	sie-
+8cc	-ro-
+16ddL	-ta
+16eeJ	.
+=2	=2
+16ff	ja
+32eeL	by-
+32ccJ	.
+8.b-L	-ła,
+16ddJ/}	.
 !!LO:LB:g=esac
-=3
-{16ff
-16ee
-8cc
-16dd
-16ee
-=4
-16ff
-32ee
-32cc
-8b-
-8f}
+=3	=3
+{16ff	da
+16ee	wie-
+8cc	-działeś
+16ddL	.
+16eeJ	.
+=4	=4
+16ff	ty
+32eeL	o
+32ccJ	.
+8b-L	tem,
+8fJ\}	.
 !!LO:LB:g=esac
-=5
-{16e-
-32g
-32a
-8cc
-16cc
-16a
-=6
-16b-
-16dd
-16b-
-16cc
-16dd
-16b-}
+=5	=5
+{16e-	A
+32gL	to
+32aJ	.
+8ccL	mnie
+16cc	by-
+16aJ/	.
+=6	=6
+16b-	-ło
+16dd	nie
+16b-L	brać,
+16cc	.
+16dd	.
+16b-J/}	.
 !!LO:LB:g=esac
-=7
-{16e-
-32g
-32a
-8cc
-8a
-=8
-16b-
-16dd
-8b-
-8f}
-==
-*-
+=7	=7
+{16e-	da
+32gL	nie
+32aJ	.
+8cc	wy-
+8a\	-ma-
+=8	=8
+16b-	-wiać
+16dd	po-
+8b-L	-tém.
+8fJ\}	.
+==	==
+*-	*-
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Oj sierota ja była,
+!!da wiedziałeś ty o tem,
+!!A to mnie było nie brać,
+!!da nie wymawiać potém.
+!!@@END: VERSES
+!!!ONB: Ob. Nr. 127.
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=59 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 37} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 37}
 !!!page: 37
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

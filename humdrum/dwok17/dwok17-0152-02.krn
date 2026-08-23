@@ -3,77 +3,88 @@
 !!!source: DWOK17
 !!!id: 17152
 !!!signature: 1715200002
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{4cc
-16dd
-16ff
-=2
-16ee
-16cc
-16dd
-16ee
-8ff
-=
-24dd
-24b
-24a
-8g
-16a
-16b
-=3
-8cc
-8f
-8a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{4cc	Oj
+16dd	ucie-
+16ff	.
+=2	=2
+16ee	-kaj
+16cc	Jasien-
+16ddL	.
+16ee	.
+8ffJ/	-ku
+=3	=3
+*Xtuplet	*
+24ddL	choć
+24b	o
+24aJ/	.
+8gL	czte-
+16a	-ry
+16bJ	.
+=4	=4
+8cc	mile
+8fL	.
+8aJ}	.
 !!LO:LB:g=esac
-=
-{4g
-24g
-24a
-24b
-=4
-16cc
-16ee
-8dd
-16b
-16a
-=
-16g
-16g
-8g
-24g
-24a
-24b
-=5
-8cc
-8f
-8a}
+=5	=5
+{4g	da
+16g\	mo-
+16b	-że
+=6	=6
+16cc	cię
+16ee	Jasieńku
+8dd	.
+8b	.
+=7	=7
+4g\	ka--ra-
+16gL	-bi-
+16bJ\	-nek
+=8	=8
+8cc	minie,
+8fL	.
+8aJ}	.
 !!LO:LB:g=esac
-=6
-{4g
-16g
-16b
-=7
-16cc
-16ee
-8dd
-8b
-=8
-4g
-16g
-16b
-=9
-8cc
-8f
-8a}
-==
-*-
+=9	=9
+*Xtuplet	*
+{4g	da
+24gL	mo-
+24a	.
+24bJ	-że
+=10	=10
+16cc	cię
+16ee	Jasieńku
+8dd	.
+16bL	.
+16aJ	.
+=11	=11
+16gL	ka-
+16g	.
+8gJ	-ra-
+24gL	-bi-
+24a	.
+24bJ	-nek
+=12	=12
+8cc	minie.
+8fL	.
+8aJ}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!!role-listener: Bachelor
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Oj uciekaj Jasieńku choć o cztery mile
+!!da może cię Jasieńku karabinek minie.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=74 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 52} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 52}
 !!!page: 52
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

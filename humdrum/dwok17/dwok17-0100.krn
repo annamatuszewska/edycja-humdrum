@@ -3,52 +3,62 @@
 !!!source: DWOK17
 !!!id: 17100
 !!!signature: 1710000000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{8g
-8b
-8cc
-=2
-16ee
-16cc
-8.ff
-16ee
-=3
-8dd
-8dd
-8cc
-=4
-16a
-16a
-8dd
-8b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{8g	Ej
+8b	głosie
+8cc	.
+=2	=2
+16eeL	bo
+16ccJ/	mój
+8.ffL	głosie,
+16eeJ/	.
+=3	=3
+8ddL	da
+8ddJ/	graj
+8cc	mi
+=4	=4
+16a\	jak
+16a\	orga-
+8dd	.
+8b}	-ny,
 !!LO:LB:g=esac
-=5
-{8g
-8b
-8cc
-=6
-16a
-16a
-8b
-8dd
-=7
-8g
-8b
-8cc
-=8
-16a
-16a
-8dd
-8b}
-==
-*-
+=5	=5
+{8g	oj
+8b	niech
+8cc	mi
+=6	=6
+16a\	się
+16a\	nasłu-
+8b	.
+8dd	-cha,
+=7	=7
+8g	da
+8b	mój
+8cc	Ja-
+=8	=8
+16a\	-sio
+16a\	kochany.
+8dd	.
+8b}	.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!role-listener: Voice
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Ej głosie bo mój głosie, da graj mi jak organy,
+!!oj niech mi się nasłucha, da mój Jasio kochany.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=57 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 35} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 35}
 !!!page: 35
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

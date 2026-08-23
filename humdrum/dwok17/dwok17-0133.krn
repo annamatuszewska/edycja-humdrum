@@ -3,54 +3,71 @@
 !!!source: DWOK17
 !!!id: 17133
 !!!signature: 1713300000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8.g
-16dd
-16ee
-16cc
-=2
-8b
-8a
-8a
-=3
-16b
-16dd
-8cc
-8cc
-=4
-8b
-8a
-8a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8.g\	Wie-
+16dd	-le
+16ee	się
+16cc	chłop
+=2	=2
+8b	za-
+8a	-ło-
+8a	-żył,
+=3	=3
+16b	co
+16dd	na
+8cc	ba-
+8cc	-bie
+=4	=4
+8b	gnój
+8a	wo-
+8a}	-ził.
 !!LO:LB:g=esac
-=5
-{16b
-16dd
-8cc
-8cc
-=6
-8dd
-16ee
-16cc
-8a
-=7
-16b
-16dd
-8cc
-8ee
-=8
-8b
-8a
-8a}
-==
-*-
+=5	=5
+{16b	Dużo
+16dd	.
+8cc	do
+8cc	niéj
+=6	=6
+8dd	nie
+16eeL	ga-
+16ccJ	.
+8a	-dał
+=7	=7
+16b	wielgie
+16dd	.
+8cc	fu-
+8ee	-ry
+=8	=8
+8b	nakładał.
+8a	.
+8a}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Husband
+!!!role-listener: Wife
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Wiele się chłop założył,
+!!co na babie gnój woził.
+!!Dużo do niéj nie gadał
+!!wielgie fury nakładał.
+!!@VERSE:
+!!2. I u jechał pu-staja,
+!!bo mu baba ustała.
+!!—Ciąg-ze babo, pałubo,
+!!bo juz zdechnies niedługo.
+!!@@END: VERSES
 !!!ONB: Nuta Ser. I n. 188, 235. Wariant t. 1: 5_.564
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=68 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 46} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 46}
 !!!page: 46
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

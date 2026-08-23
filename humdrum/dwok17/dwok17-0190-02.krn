@@ -3,63 +3,85 @@
 !!!source: DWOK17
 !!!id: 17190
 !!!signature: 1719000002
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{8.ee
-16dd
-16cc
-16b
-16a
-16g
-=2
-8g
-8g
-8e
-8c
-=3
-8.dd
-16cc
-8b
-8a
-=4
-8g
-8g
-8f
-8d}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+=1	=1
+!!LO:TX:a:t=Krakowiak.
+{8.ee	Chodziłam
+16dd	.
+16ccL	.
+16b	.
+16a	po
+16gJ	.
+=2	=2
+8gL	sa-
+8gJ	.
+8eL	-dzie
+8cJ	.
+=3	=3
+8.dd	rwałam
+16cc	.
+8b	sobie
+8a\	.
+=4	=4
+8gL	śliw-
+8gJ	.
+8fL	-ki
+8dJ}	.
 !!LO:LB:g=esac
-=5
-{8.ee
-16dd
-16cc
-16b
-16a
-16g
-=6
-8g
-8g
-8cc
-8ee
-=7
-8.gg
-16ff
-16ee
-16ff
-16ee
-16cc
-=8
-16dd
-16ee
-16dd
-16b
-4cc}
-==
-*-
+=5	=5
+{8.ee	ko-
+16dd	-chałam
+16ccL	.
+16b	.
+16a	chłop-
+16gJ	.
+=6	=6
+8gL	-czy-
+8gJ	.
+8ccL	-ka
+8eeJ	.
+=7	=7
+8.gg	tyl-
+16ff	-ko
+16eeL	dla
+16ff	.
+16ee	.
+16ccJ/	.
+=8	=8
+16ddL	rozryw-
+16ee	.
+16dd	.
+16bJ/	.
+4cc}	-ki.
+==	==
+*-	*-
+!!!role-singer: Maiden, Narrator
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Chodziłam po sadzie
+!!rwałam sobie śliwki
+!!kochałam chłopczyka
+!!tylko dla rozrywki.
+!!@VERSE:
+!!2. Kocham chłopczyka
+!!nad upodobanie,
+!!bo był taki zgrabny
+!!jak żydowskie sanie.
+!!@VERSE:
+!!3. Teraźniejsza młodzież
+!!karmelkiem częstuje,
+!!a jak się ożeni,
+!!kartofla żałuje.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=83 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 61} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 61}
 !!!page: 61
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

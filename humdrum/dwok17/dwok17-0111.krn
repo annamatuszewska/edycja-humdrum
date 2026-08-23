@@ -3,60 +3,82 @@
 !!!source: DWOK17
 !!!id: 17111
 !!!signature: 1711100000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{8dd
-16ff
-16dd
-8ff
-=2
-16ee
-16cc
-16ee
-16gg
-16ee
-16cc}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{8dd	Si-
+16ffL	-wy
+16dd	.
+8ffJ/	ko-
+=2	=2
+16eeL	-nik
+16ccJ/	za-
+16eeL	-ry-
+16gg	.
+16ee	-żał,
+16ccJ/}	.
 !!LO:LB:g=esac
-=3
-{8dd
-8ff
-8ff
-=4
-16ee
-16cc
-8.b-
-16a}
+=3	=3
+{8dd	sza-
+8ff	-dy
+8ff	wół
+=4	=4
+16ee	za-
+16cc	.
+8.b-	-ry-
+16a\}	-czał,
 !!LO:LB:g=esac
-=5
-{8f
-16a
-16f
-16a
-16cc
-=6
-16b-
-16dd
-16ff
-16ee
-8gg}
+=5	=5
+{8f	juz
+16aL	ci
+16f	.
+16a	.
+16ccJ	.
+=6	=6
+16b-L	się
+16dd	dziewczy-
+16ff	.
+16ee	.
+8ggJ/}	-no
 !!LO:LB:g=esac
-=7
-{8f
-8a
-8a
-=8
-16b-
-16g
-8.b-
-16a}
-==
-*-
+=7	=7
+{8f	nie
+8a\	bę-
+8a\	.
+=8	=8
+16b-	-de
+16g\	za-
+8.b-	-li-
+16a\}	-cał.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!role-listener: Maiden
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Siwy konik zaryżał,
+!!szady wół zaryczał,
+!!juz ci sie dziewczyno
+!!nie będe zalicał.
+!!@VERSE:
+!!2. Żalu-ż mi nie będzie,
+!!choć na wojnie zginę,
+!!bo ja pocałował
+!!nie jedne dziewczyne.
+!!@VERSE:
+!!3. Nie jedne dziewczyne
+!!ani jedne wdowę,
+!!żalu-ż mi nie będzie
+!!choć mi zetną głowe.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=59 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 37} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 37}
 !!!page: 37
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

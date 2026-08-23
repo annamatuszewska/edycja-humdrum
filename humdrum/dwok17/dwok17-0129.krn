@@ -1,60 +1,71 @@
-!!!!SEGMENT: DWOK1712900000-osenil_sie_rano.krn
-!!!OTL: Ośenił się rano
+!!!!SEGMENT: DWOK1712900000-ozenil_sie_rano.krn
+!!!OTL: Ożenił się rano
 !!!source: DWOK17
 !!!id: 17129
 !!!signature: 1712900000
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M3/8
-=1
-8r
-{8dd
-16cc
-16cc
-=2
-8gg
-16ff
-16dd
-8b-
-=
-24dd
-24cc
-24ee-
-8gg
-8ff
-=3
-8f
-16a
-16cc
-8b-}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M3/8	*
+=1	=1
+8r	.
+{8dd	O-
+16cc	-że-
+16cc	-nił
+=2	=2
+8ggL	się
+16ff	ra-
+16dd	.
+8b-J/	-no
+=3	=3
+*Xtuplet	*
+24ddL	da
+24cc	.
+24ee-J/	py-
+8ggL	-tał
+8ffJ/	się
+=4	=4
+8f	o
+16aL	wia-
+16ccJ/	.
+8b-}	-no.
 !!LO:LB:g=esac
-=4
-8r
-{8dd
-16cc
-16cc
-=5
-16cc
-16a
-16cc
-16a
-16cc
-16ee-
-=6
-16dd
-16dd
-8cc
-8ee-
-=7
-8f
-8a
-8b-}
-==
-*-
+=5	=5
+8r	.
+{8dd	Nie
+16cc	py-
+16cc	-taj-
+=6	=6
+16cc	-że
+16a\	się
+16ccL	głup-
+16aJ	.
+16ccL	-ce,
+16ee-J	.
+=7	=7
+16dd	da
+16dd	masz
+8cc	wia-
+8ee-	-no
+=8	=8
+8f	przy
+8a\	.....
+8b-}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Ożenił się rano
+!!da pytał się o wiano.
+!!Nie pytaj że się głupce,
+!!da masz wiano przy .....
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=66 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 44} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 44}
 !!!page: 44
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

@@ -3,52 +3,67 @@
 !!!source: DWOK17
 !!!id: 17115
 !!!signature: 1711500000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{8ee
-8ee
-8ee
-=2
-16dd
-16ff
-8ee
-8a
-=3
-8cc
-8dd
-8a
-=4
-16b
-16g#
-8a
-8e}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{8eeL	Oj
+8ee	nowy
+8eeJ/	.
+=2	=2
+16ddL	dwór,
+16ffJ/	nowy
+8eeL	.
+8aJ/	dwór,
+=3	=3
+8cc	da
+8dd	da-
+8a	-le-
+=4	=4
+16b	-ko
+16g#	go
+8aL	wi-
+8eJ}	-dać,
 !!LO:LB:g=esac
-=5
-{8g#
-8a
-8cc
-=6
-16ee
-16ee
-8dd
-8a
-=7
-8cc
-8dd
-8a
-=8
-16b
-16g#
-8a
-8e}
-==
-*-
+=5	=5
+{8g#\	oj
+8a\	jest
+8cc	tu
+=6	=6
+16ee	pięć
+16ee	panienek,
+8dd	.
+8a\	.
+=7	=7
+8cc	da
+8dd	trze-
+8a	-ba-
+=8	=8
+16b	-by
+16g#	ich
+8a\	wy-
+8e\}	-dać.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Oj nowy dwór, nowy dwór,
+!!da daleko go widać,
+!!oj jest tu pięć panienek,
+!!da trzebaby ich wydać.
+!!@VERSE:
+!!2. Oj wydać by ich, wydać (za mąż)
+!!da nikogo nie widać.
+!!Oj ni ptaszka na gaju,
+!!da ni ciebie hultaju.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=61 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 39} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 39}
 !!!page: 39
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

@@ -3,63 +3,76 @@
 !!!source: DWOK17
 !!!id: 17138
 !!!signature: 1713800000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=
-{24d
-24e
-24f#
-8g
-16b
-16cc#
-=1
-16dd
-16b
-8dd
-8ee}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+*Xtuplet	*
+{24dL	Ej
+24e	.
+24f#J\	.
+8g	go-
+16bL	-rza-
+16cc#J	.
+=2	=2
+16dd	-łeczko
+16b	.
+8ddL	moja,
+8eeJ/}	.
 !!LO:LB:g=esac
-=2
-{16dd
-16b
-8g
-16b
-16cc#
-=3
-16dd
-16b
-8dd
-8cc#}
+=3	=3
+{16ddL	da
+16bJ/	.
+8g	nie
+16bL	pi-
+16cc#J	-łem
+=4	=4
+16dd	cię
+16b	wczora,
+8dd	.
+8cc#}	oj
 !!LO:LB:g=esac
-=4
-{16a
-16f#
-8d
-16e
-16f#
-=5
-16g
-16b
-8dd
-8ee}
+=5	=5
+{16aL	.
+16f#J	a-
+8d	-le
+16eL	dziś
+16f#J	będe
+=6	=6
+16gL	.
+16bJ/	pił
+8ddL	od
+8eeJ/}	.
 !!LO:LB:g=esac
-=6
-{16a
-16f#
-8d
-16e
-16f#
-=7
-16g
-16e
-8g
-8f#}
-==
-*-
+=7	=7
+{16aL	ra-
+16f#J	-na
+8d	.
+16eL	do
+16f#J	wieczora.
+=8	=8
+16g\	.
+16e\	.
+8g\	.
+8f#\}	.
+==	==
+*-	*-
+!!!role-singer: Drunkard
+!!!role-listener: Vodka
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Ej gorzałeczko moja,
+!!da nie piłem cię wczora,
+!!oj ale dziś będe pił
+!!od rana do wieczora.
+!!@@END: VERSES
+!!!ONB: ob. nr 159.
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=69 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 47} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 47}
 !!!page: 47
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

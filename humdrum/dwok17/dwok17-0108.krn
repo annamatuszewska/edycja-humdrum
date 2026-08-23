@@ -3,103 +3,121 @@
 !!!source: DWOK17
 !!!id: 17108
 !!!signature: 1710800000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16cc
-16ee
-4gg
-=2
-8ff
-16ee
-16dd
-8cc
-=3
-16dd
-16cc
-8ee
-8ff#
-=4
-8gg
-4dd}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16cc	Wara
+16ee	.
+4gg	chło-
+=2	=2
+8ffM	-pcy
+16eeL	wa-
+16ddJ	.
+8cc	-ra,
+=3	=3
+16ddL	jam
+16ccJ/	se
+8eeL	grać
+8ff#J/	ka-
+=4	=4
+8gg/	-za-
+4dd/}	-ła,
 !!LO:LB:g=esac
-=5
-{16cc
-16ee
-4gg
-=6
-8ff
-16ee
-16dd
-8ee
-=7
-16dd
-16cc
-8g
-16a
-16b
-=8
-8cc
-4g}
+=5	=5
+{16cc	dałam
+16ee	.
+4gg	grosz,
+=6	=6
+8ffM	mu-
+16eeL	-zy-
+16ddJ	-ce,
+8ee	będę
+=7	=7
+16dd	.
+16cc	se
+8g\	hu-
+16aL	.
+16bJ\	-la-
+=8	=8
+8cc	-ła.
+4g\}	.
 !!LO:LB:g=esac
-=
-{24g
-24a
-24b
-8cc
-16ee
-16dd
-=9
-8ff
-16ee
-16dd
-16ee
-16cc
-=
-24dd
-24ee
-24ff
-8dd
-16ee
-16ee
-=10
-8gg
-16gg
-16ff#
-8gg}
+=9	=9
+*Xtuplet	*
+{24gL	.
+24a	.
+24bJ	.
+8ccL	.
+16ee	.
+16ddJ	.
+=10	=10
+8ffM	.
+16eeL	.
+16ddJ	.
+16eeL	.
+16ccJ/	.
+=11	=11
+24ddL	.
+24ee	.
+24ffJ/	.
+8ddL	.
+16ee	.
+16eeJ/	.
+=12	=12
+8ggL	.
+16gg	.
+16ff#	.
+8ggJ/}	.
 !!LO:LB:g=esac
-=
-{24dd
-24ee
-24ff
-8aa
-16aa
-16gg
-=11
-8ff
-16ee
-16dd
-16cc
-16cc
-=12
-16b
-16dd
-8a
-16a
-16f
-=13
-8g
-16g
-16b
-8cc}
-==
-*-
+=13	=13
+{24ddL	.
+24ee	.
+24ffJ/	.
+8aaL	.
+16aa	.
+16ggJ/	.
+=14	=14
+8ffM	.
+16eeL	.
+16dd	.
+16cc	.
+16ccJ	.
+=15	=15
+16bL	.
+16ddJ	.
+8aL	.
+16a	.
+16fJ\	.
+=16	=16
+8gL	.
+16g	.
+16b	.
+8ccJ\}	.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!role-listener: Bachelors
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Wara chłopcy wara,
+!!jam se grać kazała,
+!!dałam grosz, muzyce,
+!!będe se hulała.
+!!@VERSE:
+!!2. Dałam grosz muzyce,
+!!dwa grosze na świce,
+!!trzy grosze na piwo,
+!!będę hulać żywo.
+!!@@END: VERSES
 !!!ONB: U Kolberga błędnie podano metrum 3/4
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=59 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 37} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 37}
 !!!page: 37
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

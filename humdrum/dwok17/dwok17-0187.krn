@@ -3,93 +3,130 @@
 !!!source: DWOK17
 !!!id: 17187
 !!!signature: 1718700000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M2/4
-=1
-{4cc
-8cc
-8cc
-=2
-8cc
-8cc
-8cc
-8cc
-=3
-8f
-8a
-8b-
-8b-
-=4
-4a
-4f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M2/4	*
+=1	=1
+!!LO:TX:a:t=Krakowiak.
+{4cc	Ej
+8cc	o-
+8cc	-sa
+=2	=2
+8cc	o-
+8cc	-sa
+8cc	o-
+8cc	-sa
+=3	=3
+8f	po
+8a	ce-
+8b-	-mu
+8b-	ta-
+=4	=4
+4a	-tar-
+16aqL	.
+16gqJ	.
+4f}	-ka?
 !!LO:LB:g=esac
-=5
-{8f
-16g
-16a
-8b-
-8b-
-=6
-4cc
-4cc
-=7
-8a
-8a
-8b-
-8b-
-=8
-4a
-4f}
+=5	=5
+{8f	powiem
+16gL	.
+16aJ	.
+8b-	ja
+8b-	ci
+=6	=6
+4cc	powiem
+4cc	powiem
+=7	=7
+8a\	po
+8a\	seść
+8b-	gro-
+8b-	-sy
+=8	=8
+4a	miar-
+4f}	-ka.
 !!LO:LB:g=esac
-=9
-{4cc
-8cc
-8cc
-=10
-4cc
-4cc
-=11
-8f
-8a
-8b-
-8b-
-=12
-8a
-16a
-16g
-4f}
+=9	=9
+{4cc	Ej
+8cc	o-
+8cc	-sa
+=10	=10
+8cc	o-
+8cc	-sa
+8cc	o-
+8cc	-sa
+=11	=11
+8f	po
+8a	ce-
+8b-	-mu
+8b-	ta-
+=12	=12
+4a	-tar-
+16aqL	.
+16gqJ	.
+4f}	-ka?
 !!LO:LB:g=esac
-=13
-{8f
-16g
-16a
-8b-
-8b-
-=14
-8cc
-8cc
-8cc
-8cc
-=15
-8a
-16g
-16a
-8b-
-16cc
-16b-
-=16
-8a
-16a
-16g
-4f}
-==
-*-
+=13	=13
+{8f	powiem
+16gL	.
+16aJ	.
+8b-	ja
+8b-	ci
+=14	=14
+8ccL	powiem
+8cc	.
+8cc	powiem
+8ccJ/	.
+=15	=15
+8aL	po
+16g	seść
+16aJ	.
+8b-L	gro-
+16cc	-sy
+16b-J/	.
+=16	=16
+8aL	miar-
+16a	.
+16g	.
+4fJ}	-ka.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!role-listener: Maiden
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Ej osa osa osa
+!!po cemu tatarka?
+!!powiem ja ci powiem powiem
+!!po seść grosy miarka.
+!!@VERSE:
+!!2. Ej, osa osa osa,
+!!za moje dwa grosa.
+!!Dwa grosa mi wzięli
+!!z karcmy mnie wypchnęli.
+!!@VERSE:
+!!3. Ej, osa zimna rosa,
+!!będzie jutro mróz, mróz.
+!!Dobre kluski bez pietruszki,
+!!ino masła włóż, włóż.
+!!@VERSE:
+!!4. Ej, moja ty Ursula
+!!wartaś ręki króla,
+!!bo mas buzie słodką
+!!jak czosnek cebula.
+!!Na tęż nutę:
+!!Ej spadła mucha z pieca
+!!wybiła se zęby,
+!!i przystawił jéj pan doktór
+!!pijawki do gęby.
+!!@@END: VERSES
 !!!ONB: W t. 8 i 12 skorygowano rytm
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=82 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 60} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 60}
 !!!page: 60
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

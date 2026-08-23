@@ -3,65 +3,98 @@
 !!!source: DWOK17
 !!!id: 17146
 !!!signature: 1714600001
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{8ff
-8cc
-8ee
-=2
-8ff
-8ee
-8gg
-=3
-8ff
-8cc
-8dd
-=4
-8a
-4f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{8ff	Koś-
+8cc	-ciołek
+8ee	.
+=2	=2
+8ff	z_de-
+8ee	-scu-
+8gg	-łek
+=3	=3
+8ff	z_dembo-
+8cc	.
+8dd	-wych
+=4	=4
+8a\	tar-
+4f}	-cic,
 !!LO:LB:g=esac
-=5
-{8b-
-8f
-8g
-=6
-16b-
-16a
-8f
-8g
-=
-8b-
-8f
-24g
-24a
-24g
-=7
-16b-
-16a
-8f
-8g}
+=5	=5
+{8b-/	szynkarka
+8f	.
+8g\	.
+=6	=6
+16b-	rakarka
+16a\	.
+8f	.
+8g	.
+=7	=7
+*Xtuplet	*
+8b-/	rocznica
+8f	.
+24gL	.
+24a	.
+24gJ	.
+=8	=8
+16b-	flacznica
+16a\	.
+8f	.
+8g}	.
 !!LO:LB:g=esac
-=8
-{32a
-16.b-
-32a
-16.b-
-16dd
-16cc
-=
-24a
-24g
-24a
-4f}
-==
-*-
+=9	=9
+{32aL	ja
+16.b-J\	.
+32aL	so-
+16.b-J\	.
+16ddL	-bie
+16ccJ	.
+=10	=10
+24aL	ślach-
+24g	.
+24aJ	.
+4f}	-cic.
+==	==
+*-	*-
+!!!role-singer: Nobleman
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Kościołek z descułek
+!!z dembowych tarcic,
+!!szynkarka rakarka
+!!rocznica flacznica
+!!ja sobie ślachcic.
+!!@VERSE:
+!!1. Oj nima, bo to nima,
+!!da jako w tej Turcynie,
+!!oj ruciany wianeńko
+!!da na każdéj dziewcynie.
+!!@VERSE:
+!!2. Oj nie zjadę, nie zjadę
+!!da z tej tureckiéj góry,
+!!oj aże se wystoję,
+!!da wianecek u któréj.
+!!@VERSE:
+!!3. Oj nie zjadę, nie zjadę
+!!da z tureckiego pola,
+!!oj aże mi cię dadzą
+!!da Turcanecko moja.
+!!@VERSE:
+!!4. Oj koniu mój koniu mój,
+!!da utrateńko moja,
+!!oj co ja się najeździł,
+!!da dziewcyna nie moja.
+!!@@END: VERSES
 !!!ONB: Lud, Ser. XVII. W t. 1, 5, 7 dwudźwięki
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=71 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 49} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 49}
 !!!page: 49
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

@@ -3,60 +3,81 @@
 !!!source: DWOK17
 !!!id: 17104
 !!!signature: 1710400000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=
-{4dd
-24cc#
-24dd
-24ee
-=
-16dd
-16cc#
-8dd
-24b
-24a
-24g}
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*b:	*
+*M3/8	*
+=1	=1
+*Xtuplet	*
+{4dd/	Ej_a
+24cc#L	wy
+24dd	.
+24eeJ/	.
+=2	=2
+16ddL	sie-
+16cc#	-ro-
+8ddJ/	-teń-
+24bL	-ki
+24a	.
+24gJ/}	.
 !!LO:LB:g=esac
-=1
-{16b
-16dd
-8cc#
-8a
-=2
-16a
-16g
-4b}
+=3	=3
+{16b	każcie
+16dd	.
+8cc#	so-
+8a	-bie
+=4	=4
+16aL	za-
+16gJ	.
+4b}	-grać,
 !!LO:LB:g=esac
-=3
-{16b
-16dd
-8cc#
-8a
-=
-24a
-24b
-24cc#
-8dd
-16b
-16g}
+=5	=5
+{16b	a
+16dd	tych
+8cc#	a
+8a\	tych
+=6	=6
+24aL	oj-
+24b	.
+24cc#J	-co-
+8dd	-wi-
+16bL	.
+16gJ\}	-czków
 !!LO:LB:g=esac
-=4
-{16b
-16dd
-8cc#
-8a
-=5
-16f#
-16g
-4b}
-==
-*-
+=7	=7
+{16b	do
+16dd	świ-
+8cc#	-nień-
+8a	-ca
+=8	=8
+16f#L	za-
+16gJ\	.
+4b}	-gnać.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!!role-listener: Orphans
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Ej a wy sieroteńki
+!!każcie sobie zagrać,
+!!a tych a tych ojcowiczków
+!!do świnieńca zagnać.
+!!@VERSE:
+!!2. Ej bo wam sieroteńkom
+!!trza raneńko wstaty,
+!!a wam a wam ojcowiczkom
+!!do południa spaty.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Ojcowiczek = mający żyjących rodziców.
+!!@@END:
+!!!ONB: Obacz Nr. 85.
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=58 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 36} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 36}
 !!!page: 36
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

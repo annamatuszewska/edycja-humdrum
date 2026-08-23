@@ -3,71 +3,92 @@
 !!!source: DWOK17
 !!!id: 17164
 !!!signature: 1716400000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16f
-16g
-8a
-8b
-=2
-8cc
-8cc
-8cc
-=3
-16cc
-16cc
-8b
-8g
-=4
-8a
-8e
-8f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16f	Oj
+16g	sie-
+8a	-je
+8bi	sie
+=2	=2
+8cc	sie-
+8cc	-je
+8cc	sie
+=3	=3
+16cc	ta-
+16cc	-ta-
+8b	-reczka
+8g	.
+=4	=4
+8a	po
+8e	le-
+8f}	-sie.
 !!LO:LB:g=esac
-=5
-{16a
-16cc
-8b
-8g
-=6
-8cc
-8b
-8dd
-=7
-16a
-16cc
-8b
-8g
-=8
-8a
-8e
-8f}
+=5	=5
+{16a	A
+16cc\	któż
+8b	mi
+8g\	ją
+=6	=6
+8ccL	bedzie
+8b	.
+8ddJ/	żął
+=7	=7
+16a\	kiej
+16cc	mi
+8b	Pan
+8g\	Bóg
+=8	=8
+8a\	żonkę
+8e	.
+8f}	wzioł,
 !!LO:LB:g=esac
-=9
-{16cc
-16cc
-8dd
-8dd
-=10
-8e
-8f
-8a
-=11
-16cc
-16cc
-8b
-8g
-=12
-8a
-8e
-8f}
-==
-*-
+=9	=9
+{16ccL	a
+16ccJ/	któż
+8ddL	mi
+8ddJ/	ją
+=10	=10
+8e\	bedzie
+8f\	.
+8a\	żął
+=11	=11
+16ccL	kiej
+16ccJ/	mi
+8b	Pan
+8g\	Bóg
+=12	=12
+8a\	żonkę
+8e	.
+8f}	wzioł.
+==	==
+*-	*-
+!!!RDF**kern: i = editorial accidental
+!!!role-singer: Widower, Narrator
+!!!role-listener: Widower
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Oj sieje sie sieje sie
+!!tatareczka po lesie.
+!!A któż mi ją bedzie żął
+!!kiej mi Pan Bóg żonkę wzioł.
+!!@VERSE:
+!!2. Nie frasuj sie o żonkę
+!!da ci Pan Bóg ślachcionkę.
+!!Ożenisz się drugi raz,
+!!tatareczkę pozbierasz.
+!!@VERSE:
+!!3. Nie frasuj się durniu, kpie,
+!!da ci Pan Bóg razem dwie.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=77 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 55} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 55}
 !!!page: 55
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

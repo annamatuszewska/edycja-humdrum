@@ -3,79 +3,91 @@
 !!!source: DWOK17
 !!!id: 17173
 !!!signature: 1717300001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8b
-8dd
-8dd
-=2
-16cc
-16a
-8cc
-8dd
-=3
-8b
-8dd
-8ee
-=4
-16cc
-16b
-8a
-8b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8b	Oj
+8dd	mo-
+8dd	-je
+=2	=2
+16cc	dziew-
+16a\	.
+8cc	-czyny
+8dd	.
+=3	=3
+8b	da
+8dd	złóz-
+8ee	-cie
+=4	=4
+16cc	się
+16b	na
+8a\	ta-
+8b}	-lar,
 !!LO:LB:g=esac
-=5
-{8f#
-8a
-8a
-=6
-16g
-16e
-8g
-16b
-16a
-=7
-8f#
-8a
-8a
-=8
-16g
-16e
-16g
-16f#
-8d}
+=5	=5
+{8f#	i
+8a	kup-
+8a	-cie
+=6	=6
+16g	mi
+16e	ku-
+8g\	-ni-
+16bL	-ka,
+16aJ\	.
+=7	=7
+8f#\	da
+8a\	bę-
+8a\	-de
+=8	=8
+16g	z_wami
+16e	.
+16gL	szalał,
+16f#J	.
+8d}	.
 !!LO:LB:g=esac
-=9
-{8f#
-8a
-8a
-=10
-16g
-16e
-16g
-16a
-16b
-16g
-=11
-8b
-16a
-16b
-16a
-16f#
-=12
-16g
-16e
-16g
-16f#
-8d}
-==
-*-
+=9	=9
+{8f#	i
+8a	kup-
+8a	-cie
+=10	=10
+16g	mi
+16e	ku-
+16gL	-ni-
+16aJ	.
+16bL	-ka,
+16gJ	.
+=11	=11
+8bL	da
+16a	bę-
+16bJ	.
+16aL	-de
+16f#J	.
+=12	=12
+16g	z_wami
+16e	.
+16gL	szalał.
+16f#J	.
+8d}	.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!role-listener: Maidens
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Oj moje dziewczyny
+!!da złózcie się na talar,
+!!i kupcie mi kunika,
+!!da będe z wami szalał.
+!!@@END: VERSES
 !!!ONB: Text Ser. I. nr. 275.
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=79 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 57} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 57}
 !!!page: 57
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

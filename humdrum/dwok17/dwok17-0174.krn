@@ -9,46 +9,47 @@
 *C:
 *M3/8
 =1
-{8g
+!!LO:TX:a:t=Mazur.
+{8gL
 8g
-8ee
+8eeJ/
 =2
-16dd
+16ddL
 16ff
 16dd
 16b
-8cc}
+8ccJ/}
 !!LO:LB:g=esac
 =3
-{4g
+{4g\
 8cc
 =4
 16b
-16g
-16a
-16b
+16g\
+16aL
+16bJ\
 8cc}
 !!LO:LB:g=esac
 =5
-{16ee
-16gg
-16ff#
-16gg
-16ee
-16cc
+{16eeL
+16ggJ
+16ff#L
+16ggJ
+16eeL
+16ccJ
 =6
-16b
-16dd
-8ff
-8aa}
+16bL
+16ddJ/
+8ffL
+8aaJ/}
 !!LO:LB:g=esac
 =7
-{16ee
-16gg
-16ff#
-16gg
-16ee
-16cc
+{16eeL
+16ggJ
+16ff#L
+16ggJ
+16eeL
+16ccJ
 =8
 16ff
 16dd
@@ -61,3 +62,5 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=79 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 57} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 57}
 !!!page: 57
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

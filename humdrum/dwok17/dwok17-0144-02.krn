@@ -3,56 +3,70 @@
 !!!source: DWOK17
 !!!id: 17144
 !!!signature: 1714400002
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M3/8
-=
-{8ff
-24dd
-24cc
-24b-
-16dd
-16ee-
-=1
-4ff
-8gg
-=
-24dd
-24ee-
-24dd
-8b-
-24cc
-24b-
-24a
-=2
-4.f}
+**kern	**text	**text
+*clefG2	*	*
+*k[b-e-]	*	*
+*B-:	*	*
+*M3/8	*	*
+=1	=1	=1
+*Xtuplet	*	*
+{8ff	Ja-	Ja
+24ddL	-sień-	-sień-
+24cc	.	.
+24b-J/	-ku	-ku
+16ddL	Ja-	Ja-
+16ee-J/	.	.
+=2	=2	=2
+4ff	-sień-	-sień-
+8gg	-ku	-ku
+=3	=3	=3
+24ddL	Boga	a_boj-
+24ee-	.	.
+24dd	.	.
+8b-J/	się	-ze
+24ccL	nie	się
+24b-	.	.
+24aJ/	bo-	Bo-
+=4	=4	=4
+4.f}	-jis	-ga,
 !!LO:LB:g=esac
-=3
-{8b-
-8dd
-8b-
-=
-8ee-
-8cc
-24a
-24g
-24f
-=4
-8b-
-8dd
-16ff
-16ee-
-=5
-16cc
-32b-
-32a
-4f}
-==
-*-
+=5	=5	=5
+{8b-	wziąłeś	niechsie
+8ddm	.	.
+8b-	mi	ja
+=6	=6	=6
+8ee-M	wiane-	nie
+8cc	.	téram
+24aL	-cek	.
+24g	.	.
+24fJ	.	.
+=7	=7	=7
+8b-	a	po
+8ddm	o	świe-
+16ffL	mnie	-cie
+16eeniJ/	.	.
+=8	=8	=8
+16ccL	nie	u-
+32b-	sto-	-bo-
+32aJ/	.	.
+4f}	-jis.	-ga.
+==	==	==
+*-	*-	*-
+!!!RDF**kern: i = editorial accidental
+!!!role-singer: Maiden
+!!!role-listener: Bachelor
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Jasieńku Jasieńku Boga się nie bojis
+!!wziąłeś mi wianecek a o mnie nie stojis.
+!!Jasieńku Jasieńku a bojze się Boga,
+!!niechsie ja nie téram po świecie uboga.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=71 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 49} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 49}
 !!!page: 49
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

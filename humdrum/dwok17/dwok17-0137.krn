@@ -3,67 +3,78 @@
 !!!source: DWOK17
 !!!id: 17137
 !!!signature: 1713700000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=
-{16cc
-16ee
-8gg
-24ff#
-24gg
-24ff#
-=
-24dd
-24ee
-24ff#
-8gg
-8ee}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+*Xtuplet	*
+{16cc	Ty
+16ee	muzyczku
+8gg	.
+24ff#L	.
+24gg	.
+24ff#J/	.
+=2	=2
+24ddL	ła-
+24ee	.
+24ff#J/	.
+8ggL	-dno
+8eeJ/}	grasz,
 !!LO:LB:g=esac
-=1
-{16cc
-16ee
-8gg
-8ff#
-=2
-16dd
-16b
-8cc
-8g}
+=3	=3
+{16cc	bo
+16ee	nie
+8gg	swoje
+8ff#	.
+=4	=4
+16dd	skrzy-
+16b	.
+8cc	-pce
+8g\}	masz.
 !!LO:LB:g=esac
-=
-{24gg
-24ff#
-24gg
-8dd
-24gg
-24ff#
-24gg
-=
-24g
-24a
-24b
-8cc
-24ee
-24gg
-24ff#}
+=5	=5
+{24ggL	Ej
+24ff#	.
+24ggJ/	.
+8dd/	ja-
+24ggL	-keś
+24ff#	.
+24ggJ/	.
+=6	=6
+24gL	był
+24a	.
+24bJ\	na
+8ccL	Ru-
+24ee	-si,
+24gg	.
+24ff#J/}	.
 !!LO:LB:g=esac
-=3
-{8gg
-8dd
-8gg
-=4
-16dd
-16b
-8cc
-8g}
-==
-*-
+=7	=7
+{8gg	da
+8dd	u-
+8gg	-krad-
+=8	=8
+16dd/	-eś
+16b/	ich
+8cc	mu-
+8g\}	-si.
+==	==
+*-	*-
+!!!role-listener: Musician
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Ty muzyczku ładno grasz,
+!!bo nie swoje skrzypce masz.
+!!Ej jakeś był na Rusi,
+!!da ukradeś ich musi.
+!!@@END: VERSES
 !!!ONB: Ob. nr 15.
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=69 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 47} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 47}
 !!!page: 47
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

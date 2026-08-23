@@ -3,63 +3,73 @@
 !!!source: DWOK17
 !!!id: 17107
 !!!signature: 1710700000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16b
-8dd
-8gg
-=2
-16gg
-16ff#
-16ee
-16ff#
-8gg}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	W_po-
+16b	-niedział-
+8dd	.
+8gg	-ki
+=2	=2
+16ggL	i
+16ff#	we
+16ee	wtor-
+16ff#	.
+8ggJ/}	-ki,
 !!LO:LB:g=esac
-=3
-{16g
-16b
-8dd
-8gg
-=4
-16ee
-16dd
-16cc
-16b
-8g}
+=3	=3
+{16g	pi-
+16b	-ja-
+8dd	-ły
+8gg	wód-
+=4	=4
+16ee	-kę
+16dd	parob-
+16ccL	.
+16bJ	.
+8a\}	-ki,
 !!LO:LB:g=esac
-=5
-{16cc
-16cc
-8b
-8b
-=6
-16a
-16a
-16a
-16g
-16b
-16dd}
+=5	=5
+{16cc	Go-
+16cc	-spo-
+8b	-da-
+8b	-rze
+=6	=6
+16aL	pić
+16aJ	też
+16aL	chcie-
+16g	.
+16b	-li
+16ddJ/}	.
 !!LO:LB:g=esac
-=7
-{16cc
-16cc
-8b
-8b
-=8
-16a
-16f#
-16g
-16e
-8d}
-==
-*-
+=7	=7
+{16cc	a-
+16cc	-le
+8b	pie-
+8b	-nię-
+=8	=8
+16a\	-dzy
+16f#\	nie
+16gL	mie-
+16eJ\	.
+8d\}	-li.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!W poniedziałki i we wtorki,
+!!pijały wódkę parobki,
+!!Gospodarze pić też chcieli
+!!ale pieniędzy nie mieli.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=58 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 36} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 36}
 !!!page: 36
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

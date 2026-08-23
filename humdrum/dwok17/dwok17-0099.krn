@@ -3,60 +3,71 @@
 !!!source: DWOK17
 !!!id: 17099
 !!!signature: 1709900000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16b
-8dd
-8dd
-=2
-16dd
-16ee
-8dd
-16dd
-16cc
-=3
-16b
-16g
-8a
-16a
-16f#
-=4
-8d
-16d
-16f#
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16gL	Tutaj
+16bJ/	.
+8ddL	buty,
+8ddJ/	.
+=2	=2
+16ddL	tam
+16eeJ/	bu-
+8ddL	-ci-
+16dd	-ki,
+16ccJ/	.
+=3	=3
+16b	hej
+16g	na
+8a	le-
+16aL	-wo
+16f#J	.
+=4	=4
+8d	na
+16dL	prawo,
+16f#J	.
+8g}	.
 !!LO:LB:g=esac
-=5
-{16d
-16f#
-8g
-16b
-16a
-=6
-16b
-16dd
-8cc
-8cc
-=7
-16b
-16g
-8a
-16a
-16f#
-=8
-8d
-16d
-16f#
-8g}
-==
-*-
+=5	=5
+{16d\	grajcie
+16f#\	.
+8g\	skrzypki
+16bL	.
+16aJ\	.
+=6	=6
+16b	i
+16dd	skrzypecki,
+8cc	.
+8cc	.
+=7	=7
+16b	raźno
+16g	.
+8a	dla
+16aL	nas
+16f#J	.
+=8	=8
+8d	z_odpra-
+16dL	.
+16f#J	.
+8g}	-wą.
+==	==
+*-	*-
+!!!role-singer: Dancer
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Tutaj buty, tam buciki,
+!!hej na lewo na prawo,
+!!grajcie skrzypki i skrzypecki,
+!!raźno dla nas z odprawą.
+!!@@END: VERSES
+!!!ONB: Ob. nr 5.
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=57 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 35} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 35}
 !!!page: 35
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

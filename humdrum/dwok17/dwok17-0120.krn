@@ -3,57 +3,74 @@
 !!!source: DWOK17
 !!!id: 17120
 !!!signature: 1712000000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16dd
-16ff#
-8.gg
-16gg
-=2
-8ff#
-8gg
-8ee}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16dd	Ej
+16ff#	ko-
+8.gg	-wa-
+16gg	-lu
+=2	=2
+8ff#L	ko-
+8gg	-wa-
+8eeJ}	-lu,
 !!LO:LB:g=esac
-=3
-{16dd
-16ff#
-8.gg
-16gg
-=4
-8ff#
-16ee
-16cc
-8ee}
+=3	=3
+{16dd	zróbże
+16ff#	.
+8.gg	mi
+16gg	ty
+=4	=4
+8ff#	za-
+16eeL	-me-
+16ccJ	.
+8ee}	-czek.
 !!LO:LB:g=esac
-=5
-{16dd
-16b
-8.g
-16b
-=6
-8cc
-8a
-8cc}
+=5	=5
+{16dd	Będę
+16b	.
+8.g	sobie
+16b	.
+=6	=6
+8cc	za-
+8a\	-my-
+8cc}	-kać
 !!LO:LB:g=esac
-=7
-{16dd
-16b
-8.g
-16b
-=8
-8cc
-16cc
-16cc
-8ee}
-==
-*-
+=7	=7
+{16dd	da
+16b	ru-
+8.g	-ciany
+16b	.
+=8	=8
+8cc	wia-
+16ccL	-ne-
+16cc	.
+8eeJ/}	-czek.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!role-listener: Blacksmith
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Ej kowalu kowalu,
+!!zróbże mi ty zameczek.
+!!Będę sobie zamykać
+!!da ruciany wianeczek.
+!!@VERSE:
+!!2. Ej kowalu, kowalu,
+!!żle'ś mi zamek naprawiuł,
+!!kiedy mi się Jasieńko
+!!oj do wianeczka dobył.
+!!@@END: VERSES
 !!!ONB: Lud, Ser. XVII.
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=63 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 41} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 41}
 !!!page: 41
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

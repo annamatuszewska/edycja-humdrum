@@ -3,64 +3,78 @@
 !!!source: DWOK17
 !!!id: 17159
 !!!signature: 1715900000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16g
-8a
-16b
-16dd
-=2
-16cc
-16cc
-16b
-16dd
-16cc#
-16dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16gL	Ej
+8f#q	.
+16gJ	staremu
+8a	.
+16bL	.
+16ddJ/	.
+=2	=2
+16cc	rze-
+8ddq	.
+16cc	-pę
+16bL	pa-
+16dd	.
+16cc#	-rzyć,
+16ddJ/}	.
 !!LO:LB:g=esac
-=3
-{16g
-16g
-8a
-8b
-=4
-16cc
-16cc
-8b
-8g}
+=3	=3
+{16gL	a
+8f#q	.
+16gJ	młodemu
+8a	.
+8b	.
+=4	=4
+16cc	klu-
+8ddq	.
+16cc	-ski
+8b	smażyć.
+8g\}	.
 !!LO:LB:g=esac
-=
-{24g
-24f#
-24g
-8b
-16g
-16e
-=5
-16d
-16d
-8f#
-8a}
+=5	=5
+{24g	Dla
+24f#	.
+24g	sta-
+8b	-re-
+16gL	-go
+16eJ	.
+=6	=6
+16d\	dobra
+16d\	.
+8f#\	rzepa,
+8a\}	.
 !!LO:LB:g=esac
-=6
-{16g
-16g
-8b
-8g
-=7
-16d
-16f#
-16e
-16f#
-8d}
-==
-*-
+=7	=7
+{16g	dla
+16g	mło-
+8b	-dego
+8g\	.
+=8	=8
+16dL	klusków
+16f#	.
+16e	trzeba.
+16f#	.
+8dJ}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Ej staremu rzepę parzyć,
+!!a młodemu kluski smażyć.
+!!Dla starego dobra rzepa,
+!!dla młodego klusków trzeba.
+!!@@END: VERSES
 !!!ONB: Ob. Nr. 149. Nuta Ser. II n. 300. Ser. XIII n. 142.
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=23 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. } @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. }
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

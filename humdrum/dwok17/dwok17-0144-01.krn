@@ -3,47 +3,59 @@
 !!!source: DWOK17
 !!!id: 17144
 !!!signature: 1714400001
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M3/8
-=1
-{8ff
-16dd
-16b-
-8dd
-=2
-4ff
-8gg
-=3
-8dd
-8b-
-16cc
-16a
-=4
-4.f}
+**kern	**text	**text
+*clefG2	*	*
+*k[b-e-]	*	*
+*B-:	*	*
+*M3/8	*	*
+=1	=1	=1
+{8ff	Ja-	Ja-
+16ddL	-sień-	-sień-
+16b-J	-ku	-ku
+8dd	Ja-	Ja-
+=2	=2	=2
+4ff	-sień-	-sień-
+8gg	-ku	-ku
+=3	=3	=3
+8dd	Boga	a_boj-
+8b-	się	-ze
+16ccL	nie	się
+16aJ	bo-	Bo-
+=4	=4	=4
+4.f}	-jis	-ga,
 !!LO:LB:g=esac
-=5
-{8b-
-8dd
-8b-
-=6
-8ee-
-8cc
-8a
-=7
-8b-
-8dd
-8ff
-=8
-16cc
-16a
-4f}
-==
-*-
+=5	=5	=5
+{8b-	wziąłeś	niechsie
+8ddm	.	.
+8b-	mi	ja
+=6	=6	=6
+8ee-M	wiane-	nie
+8cc	.	téram
+8a\	-cek	.
+=7	=7	=7
+8b-	a	po
+8ddm	o	świe-
+8ff	mnie	-cie
+=8	=8	=8
+16ccL	nie	u-
+16aJ	sto-	-bo-
+4f}	-jis.	-ga.
+==	==	==
+*-	*-	*-
+!!!role-singer: Maiden
+!!!role-listener: Bachelor
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Jasieńku Jasieńku Boga się nie bojis
+!!wziąłeś mi wianecek a o mnie nie stojis.
+!!Jasieńku Jasieńku a bojze się Boga,
+!!niechsie ja nie téram po świecie uboga.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=71 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 49} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 49}
 !!!page: 49
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

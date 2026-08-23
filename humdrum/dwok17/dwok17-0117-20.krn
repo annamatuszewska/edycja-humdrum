@@ -3,57 +3,88 @@
 !!!source: DWOK17
 !!!id: 17117
 !!!signature: 1711700020
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16dd
-16dd
-8ff#
-8gg
-=2
-16ee
-16gg
-8ff#
-8gg
-=3
-16g
-16b
-16dd
-16ff#
-8gg
-=4
-16ee
-16cc
-8a
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16dd	W_tenczas
+16dd	.
+8ff#L	kowal
+8ggJ/	.
+=2	=2
+16ee	młotem
+16gg	.
+8ff#L	bi-
+8ggJ/	-je,
+=3	=3
+16g\	kie-
+16b	-dy
+16ddL	go-
+16ff#J	.
+8gg	-rzał-
+=4	=4
+16ee	-ki
+16cc	na-
+8a	-pi-
+8g}	-je.
 !!LO:LB:g=esac
-=5
-{16dd
-16dd
-8a
-8g
-=6
-16ee
-16gg
-8a
-8g
-=7
-16dd
-16dd
-8ff#
-8gg
-=8
-16ee
-16cc
-8a
-8g}
-==
-*-
+=5	=5
+{16dd	W_tenczas
+16dd	.
+8a\	kowal
+8g\	.
+=6	=6
+16ee	młotem
+16gg	.
+8a\	bi-
+8g\	-je,
+=7	=7
+16ddL	kie-
+16dd	-dy
+8ff#	go-
+8ggJ/	-rzał-
+=8	=8
+16ee	-ki
+16cc	na-
+8a	-pi-
+8g}	-je.
+==	==
+*-	*-
+!!!role-singer: Narrator, Farmhand
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Wtenczas kowal młotem bije,
+!!kiedy gorzałki napije.
+!!Siedzi sobie na kamyku,
+!!gorzalinę łyku, łyku!
+!!@VERSE:
+!!2. Gorzalina przepalona,
+!!leci w garło jak szalona.
+!!Gorzalina grunt, grunt, grunt,
+!!i tabaczki funt, funt, funt.
+!!@VERSE:
+!!3. Służyłem ja u kowala
+!!cztery lata za fornala.
+!!Wadziłem się o śl(n)iadanie
+!!złapał kowal młota na mnie.
+!!@VERSE:
+!!4. Złapał młota, młotem wali,
+!!a i kowalka międlice;
+!!i tak bili, i tak gnali
+!!pod same Modliborzyce.
+!!@VERSE:
+!!5. Żebym się był więcéj swarzył,
+!!toby mnie był szyną sparzył.
+!!Żebym nie wziął nóżek za pas (uciekł),
+!!toby mnie był szyną roztrzas.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=62 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 40} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 40}
 !!!page: 40
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

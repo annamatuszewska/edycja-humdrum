@@ -3,55 +3,73 @@
 !!!source: DWOK17
 !!!id: 17130
 !!!signature: 1713000000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16a
-8b
-8cc
-=2
-8dd
-8ee
-8ff#}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Ej
+16a	o-
+8b	-bie-
+8cc	-cał
+=2	=2
+8ddL	mi
+8ee	ko-
+8ff#J/}	-wal
 !!LO:LB:g=esac
-=3
-{16dd
-16b
-8dd
-8cc
-=4
-8g
-8b
-8a}
+=3	=3
+{16ddL	da
+16bJ/	ko-
+8ddL	-ni-
+8ccJ/	-ka
+=4	=4
+8g	o-
+8ccq	.
+8b	-ko-
+8a\}	-wać
 !!LO:LB:g=esac
-=5
-{16g
-16a
-8b
-8cc
-=6
-8a
-8dd
-8f#}
+=5	=5
+{16g	a
+16a	ko-
+8b	-wal-
+8cc	-ka
+=6	=6
+8a\	pa-
+8dd	-ni
+8f#\}	mat-
 !!LO:LB:g=esac
-=7
-{16g
-16a
-8b
-8cc
-=8
-8g
-8b
-8a}
-==
-*-
+=7	=7
+{16g\	-ka
+16a\	da
+8b	có-
+8cc	-recz-
+=8	=8
+8g	-kę
+8ccq	.
+8b	wychować.
+8a\}	.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Ej obiecał mi kowal
+!!da konika okować
+!!a kowalka pani matka
+!!da córeczkę wychować.
+!!@VERSE:
+!!2. Ej obiecał mi kowal
+!!da konia z podkówkami,
+!!a kowalka, pani matka,
+!!da córkę z koralami.
+!!@@END: VERSES
 !!!ONB: Nuta ob. Ser. XIII n. 150.
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=67 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 45} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 45}
 !!!page: 45
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

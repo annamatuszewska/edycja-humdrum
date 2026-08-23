@@ -3,54 +3,64 @@
 !!!source: DWOK17
 !!!id: 17166
 !!!signature: 1716600000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{8gg
-8gg
-8dd
-=2
-16dd
-32ee
-32ff
-8gg
-8dd}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{8gg	Oj
+8gg	Boże
+8dd	.
+=2	=2
+16ddL	da
+32ee	mój
+32ffJ/	.
+8ggL	Boże,
+8ddJ/}	.
 !!LO:LB:g=esac
-=3
-{8gg
-8gg
-8dd
-=4
-8dd
-8cc
-8g}
+=3	=3
+{8gg	da
+8gg	daj
+8dd	mi
+=4	=4
+8dd	przy-
+8cc	-ja-
+8g\}	.
 !!LO:LB:g=esac
-=5
-{8b
-8cc
-8dd
-=6
-16ff
-16ee
-8cc
-8dd}
+=5	=5
+{8b	-ciela,
+8cc	.
+8dd	oj
+=6	=6
+16ff	nimam
+16ee	.
+8ccL	z_kim
+8ddJ/}	pogadać
 !!LO:LB:g=esac
-=7
-{8b
-8cc
-8dd
-=8
-16ff
-16ee
-8cc
-8g}
-==
-*-
+=7	=7
+{8b	.
+8cc	.
+8dd	da
+=8	=8
+16ff	jak
+16ee	przyjdzie
+8cc	.
+8g\}	niedziela.
+==	==
+*-	*-
+!!!role-listener: God
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Oj Boże da mój Boże,
+!!da daj mi przyjaciela,
+!!oj nimam z kim pogadać
+!!da jak przyjdzie niedziela.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=77 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 55} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 55}
 !!!page: 55
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

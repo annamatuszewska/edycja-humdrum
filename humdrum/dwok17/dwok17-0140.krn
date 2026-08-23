@@ -3,124 +3,143 @@
 !!!source: DWOK17
 !!!id: 17140
 !!!signature: 1714000000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8g
-8b
-8cc#
-=2
-8dd
-8ee
-8ee
-=3
-8dd
-8ee
-16cc
-16a
-=4
-16f#
-16a
-16cc
-16b
-8b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8g	Oj
+8b	mo-
+8cc#	-ja
+=2	=2
+8dd	ma-
+8ee	-tu-
+8ee	-leńku
+=3	=3
+8dd	da
+8ee	spraw-
+16ccL	-ze
+16aJ	.
+=4	=4
+16f#L	mi
+16aJ	.
+16ccL	kora-
+16bJ	.
+8b}	-le,
 !!LO:LB:g=esac
-=5
-{8g
-16b
-16dd
-16cc
-16b
-=6
-16a
-16cc
-16ee
-16dd
-8dd
-=7
-8g
-16b
-16dd
-16cc
-16a
-=8
-16f#
-16a
-16cc
-16b
-8b}
+=5	=5
+{8g\	bo
+16bL	mi
+16ddJ	.
+16ccL	się
+16bJ	.
+=6	=6
+16aL	za-
+16ccJ	.
+16eeL	-leca-
+16ddJ	.
+8dd	-ją
+=7	=7
+8g\	da
+16bL	ze
+16ddJ	.
+16ccL	dwo-
+16aJ	.
+=8	=8
+16f#L	-ra
+16aJ	.
+16ccL	for-
+16bJ	.
+8b}	-nale.
 !!LO:LB:g=esac
-=9
-{8g
-8b
-8cc#
-=10
-16dd
-16ee
-8ee
-16ee
-16dd
-=11
-16dd
-16ee
-8ee
-16cc
-16a
-=12
-16f#
-16a
-16cc
-16b
-8b}
+=9	=9
+{8g	Oj
+8b	mo-
+8cc#	-ja
+=10	=10
+16ddL	ma-
+16ee	.
+8eeJ/	-tu-
+16eeL	-leńku
+16ddJ/	.
+=11	=11
+16ddL	da
+16ee	.
+8eeJ/	spraw-
+16ccL	-ze
+16aJ	.
+=12	=12
+16f#L	mi
+16aJ	.
+16ccL	kora-
+16bJ	.
+8b}	-le,
 !!LO:LB:g=esac
-=13
-{8b
-16b
-16dd
-16cc
-16b
-=14
-16a
-16cc
-16ee
-16dd
-8dd
-=15
-8b
-16b
-16dd
-16cc
-16a
-=16
-16f#
-16a
-16cc
-16b
-8b}
+=13	=13
+{8b/	bo
+16bL	mi
+16ddJ	.
+16ccL	się
+16bJ	.
+=14	=14
+16aL	za-
+16ccJ	.
+16eeL	-leca-
+16ddJ	.
+8dd	-ją
+=15	=15
+8b/	da
+16bL	ze
+16ddJ	.
+16ccL	dwo-
+16aJ	.
+=16	=16
+16f#L	-ra
+16aJ	.
+16ccL	for-
+16bJ	.
+8b}	-nale.
 !!LO:LB:g=esac
-=17
-{8g
-8b
-8b
-=18
-8g
-8b
-8b
-=19
-8g
-8b
-8b
-=20
-8g
-8b
-8b}
-==
-*-
+=17	=17
+{8gL	.
+8b	.
+8bJ	.
+=18	=18
+8gL	.
+8b	.
+8bJ	.
+=19	=19
+8gL	.
+8b	.
+8bJ	.
+=20	=20
+8gL	.
+8b	.
+!!LO:TX:a:t=da Capo.
+8bJ}	.
+==	==
+*-	*-
+!!!role-singer: Daughter, Mother
+!!!role-listener: Mother, Daughter
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Oj moja matuleńku
+!!da sprawze mi korale,
+!!bo mi się zalecają
+!!da ze dwora fornale.
+!!@VERSE:
+!!2. Jedną'm ja wydała
+!!da korali ni-miała,
+!!oj da i ciebie wydám,
+!!da choć koráli nimám.
+!!@@END: VERSES
+!!!ONB@texture: Only voice or instrument is playing at a time
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=69 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 47} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 47}
 !!!page: 47
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

@@ -3,57 +3,68 @@
 !!!source: DWOK17
 !!!id: 17150
 !!!signature: 1715000000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8a
-8ee
-8dd
-=2
-16cc#
-16dd
-8ee
-8a
-=3
-8a
-8ee
-8dd
-=
-16cc#
-16dd
-24b
-24a
-24b
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8a\	Ej
+8ee	ko-
+8dd	-by-
+=2	=2
+16cc#	-ła
+16dd	w_ol-
+8eeL	-szynie,
+8aJ/	.
+=3	=3
+8a\	da
+8ee	dali-
+8dd	.
+=4	=4
+*Xtuplet	*
+16cc#	-bóg
+16dd	nie
+24bL	zginie.
+24a	.
+24b	.
+8gJ\}	.
 !!LO:LB:g=esac
-=4
-{8a
-8b
-8g
-=5
-16f#
-16g
-8a
-8b
-=
-8cc
-24b
-24a
-24b
-8g
-=6
-16a
-16cc#
-8dd
-8g}
-==
-*-
+=5	=5
+{8a\	Wilcy
+8b	.
+8g	téż
+=6	=6
+16f#\	jéj
+16g\	nie
+8a\	zjedzą,
+8b	.
+=7	=7
+8ccL	da
+24b	bo
+24a	.
+24bJ/	.
+8g	o
+=8	=8
+16aL	niéj
+16cc#J/	nie
+8ddL	wiedzą.
+8gJ/}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Ej kobyła w olszynie,
+!!da dalibóg nie zginie.
+!!Wilcy téż jéj nie zjedzą,
+!!da bo o niéj nie wiedzą.
+!!@@END: VERSES
 !!!ONB: Obacz nr 97
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=73 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 51} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 51}
 !!!page: 51
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

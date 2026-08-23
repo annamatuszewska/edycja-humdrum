@@ -3,106 +3,134 @@
 !!!source: DWOK17
 !!!id: 17114
 !!!signature: 1711400000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16f#
-16g
-8ee
-8ee
-=
-24dd
-24cc#
-24dd
-8ee
-8ee
-=2
-16dd
-16dd
-8cc
-8cc
-=3
-8a
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16f#L	Oj
+16g	da
+8ee	to
+8eeJ/	w_tych
+=2	=2
+*Xtuplet	*
+24ddL	Ta-
+24cc#	.
+24ddJ/	.
+8eeL	-ta-
+8eeJ/	-rach
+=3	=3
+16ddL	nima
+16ddJ/	.
+8ccL	nic
+8ccJ/	do-
+=4	=4
+8a	-bre-
+4g}	-go,
 !!LO:LB:g=esac
-=4
-{16f#
-16g
-16a
-16b
-8cc
-=5
-4dd
-16cc
-16a
-=6
-16a
-16cc
-8b
-8cc
-=7
-8a
-4g}
+=5	=5
+{16f#	troche
+16g	.
+16aL	lu-
+16bJ\	.
+8cc	-do-
+=6	=6
+4dd	-wi-
+16ccL	-ny,
+16aJ	.
+=7	=7
+16a\	i
+16cc	to
+8b	ob-
+8cc	-mów-
+=8	=8
+8a\	-ne-
+4g}	-go.
 !!LO:LB:g=esac
-=
-{24a
-24b
-24cc
-8dd
-16dd
-16cc#
-=8
-16dd
-16ee
-8dd
-16cc
-16b
-=
-24b
-24g
-24g
-16d
-16f#
-16a
-16f#
-=9
-16g
-16b
-8a
-16cc
-16b}
+=9	=9
+{16aL	.
+16bJ\	.
+8ddL	.
+16dd	.
+16cc#J	.
+=10	=10
+16ddL	.
+16eeJ	.
+8ddL	.
+16cc	.
+16bJ	.
+=11	=11
+8g\	.
+16dL	.
+16f#	.
+16a	.
+16f#J	.
+=12	=12
+16gL	.
+16bJ	.
+8aL	.
+16cc	.
+16bJ}	.
 !!LO:LB:g=esac
-=10
-{16a
-16b
-8dd
-16dd
-16cc#
-=11
-16dd
-16ee
-8dd
-16cc
-16b
-=12
-8g
-16d
-16f#
-16a
-16f#
-=13
-16g
-16b
-8a
-16cc
-16b}
-==
-*-
+=13	=13
+{24aL	.
+24b	.
+24ccJ/	.
+8ddL	.
+16dd	.
+16cc#J	.
+=14	=14
+16ddL	.
+16eeJ	.
+8ddL	.
+16cc	.
+16bJ	.
+=15	=15
+24bL	.
+24g	.
+24gJ	.
+16dL	.
+16f#	.
+16a	.
+16f#J	.
+=16	=16
+16gL	.
+16bJ	.
+8aL	.
+16cc	.
+16bJ}	.
+==	==
+*-	*-
+!!!role-singer: Maiden, Bachelor
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Oj da to w tych Tatarach
+!!nima nic dobrego,
+!!troche ludowiny,
+!!i to obmównego.
+!!@VERSE:
+!!2. Oj za nic, bo mi za nic
+!!Tatarzanie za nic,
+!!da mam ja kochanecka
+!!u Trześniowskich granic.
+!!@VERSE:
+!!3. Oj da te Tatarzanie
+!!to wielkie filuty,
+!!da na bakier czapeczka,
+!!bez podeszwów buty.
+!!@VERSE:
+!!4. Ej nie chcę Tatarzanki
+!!bo bladzieńka, blada,
+!!da wolę Trześniowiankę,
+!!bo rumiána, ładná.
+!!@@END: VERSES
+!!!ONB@texture: Only voice or instrument is playing at a time
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=61 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 39} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 39}
 !!!page: 39
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

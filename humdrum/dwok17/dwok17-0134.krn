@@ -3,57 +3,68 @@
 !!!source: DWOK17
 !!!id: 17134
 !!!signature: 1713400000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16dd
-16ff
-8ee
-16ee
-16cc
-=2
-8dd
-8b
-8cc
-=3
-16dd
-16ff
-8ee
-8gg
-=4
-16dd
-16ee
-8ff
-8cc}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16dd	Oj
+16ff	ze
+8ee	główka
+16eeL	.
+16ccJ	.
+=2	=2
+8dd	mnie
+8bn	bo-
+8cc	-li,
+=3	=3
+16dd	da
+16ff	i
+8eeL	brzusek
+8ggJ/	.
+=4	=4
+16ddL	sie
+16eeJ/	.
+8ffL	odąn.
+8ccJ/}	.
 !!LO:LB:g=esac
-=5
-{16dd
-16b-
-8a
-8cc
-=6
-16g
-16a
-8b-
-8f
-=7
-16g
-16b-
-8a
-16a
-16f
-=8
-8g
-8e
-8f}
-==
-*-
+=5	=5
+{16ddL	Oj
+16b-XJ/	bo
+8aL	ja
+8ccJ/	się
+=6	=6
+16gL	o-
+16aJ	.
+8b-L	-tru-
+8fJ	-ła
+=7	=7
+16g	da
+16b-	i
+8a\	w_Go-
+16aL	-ra-
+16fJ\	.
+=8	=8
+8g\	-ju
+8e\	wo-
+8f\}	-dą.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Oj ze główka mnie boli,
+!!da i brzusek się odąn.
+!!Oj bo ja się otruła
+!!da i w Goraju wodą.
+!!@@END: VERSES
 !!!ONB: W t. 5 skorygowano rytm, zgodnie z przebiegiem dla t. 7
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=68 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 46} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 46}
 !!!page: 46
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

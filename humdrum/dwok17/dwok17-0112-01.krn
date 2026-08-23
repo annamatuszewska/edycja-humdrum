@@ -3,80 +3,107 @@
 !!!source: DWOK17
 !!!id: 17112
 !!!signature: 1711200001
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16ff
-16ee
-8.cc
-16ee
-=2
-16ff
-16gg
-8ff
-8ee
-=3
-16ff
-16dd
-8b-
-16a
-16f
-=4
-8g
-8g
-8f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16cc	Oj
+16ee	nie
+8.cc	pój-
+16ee	-dę
+=2	=2
+8ff	nie
+8ff	pój-
+8ddq	.
+8ee	-dę,
+=3	=3
+16ff	da
+16dd	za
+8b-	psa
+8a\	za
+=4	=4
+8g	Ru-
+8g	-si-
+8eq	.
+8f}	-na,
 !!LO:LB:g=esac
-=5
-{16b-
-16dd
-8b-
-16a
-16f
-=6
-8b-
-8dd
-16cc
-16a
-=7
-16b-
-16dd
-16b-
-16a
-16cc
-16a
-=8
-8g
-8g
-8f}
-!!LO:LB:g=esac
-=9
-{16b-
-16dd
-8b-
-8a
-=10
-8b-
-8dd
-8cc
-=11
-16b-
-16dd
-16b-
-16a
-16f
-16a
-=12
-8g
-8g
-8f}
-==
-*-
+=5	=5
+{16b-	a
+16dd	i-
+8b-	-no
+8a\	se
+=6	=6
+8b-	téż
+8dd	pój-
+8cc	-dę
+=7	=7
+16b-	da
+16dd	za
+16b-L	miej-
+16aJ\	.
+16fL	-skie-
+16aJ\	.
+=8	=8
+8g	-go
+8g	sy-
+8eq	.
+8f}	-na,
+=9	=9
+{16b-	a
+16dd	i-
+8b-	-no
+16aL	se
+16fJ	.
+=10	=10
+8b-	téż
+8dd	pój-
+16ccL	-dę
+16aJ/	.
+=11	=11
+16b-	da
+16dd	za
+16b-L	miej-
+16aJ	.
+16ccL	-skie-
+16aJ/	.
+=12	=12
+8g	-go
+8g	sy-
+8eq	.
+8f}	-na.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Oj nie pójdę nie pójdę,
+!!da za psa za Rusina,
+!!a ino se téż pójdę
+!!da za miejskiego syna.
+!!@VERSE:
+!!2. Oj abo se téż pójdę
+!!da za chłopa rolnika, —
+!!oj nagotuję se klusków
+!!da naleję se mlika.
+!!@VERSE:
+!!3. Oj nie pójdę, nie pójdę
+!!da właśnie za m(ł)ynarza,
+!!oj boby mnie uwiązał
+!!da za łeb u stragarza (belka).
+!!@VERSE:
+!!4. Oj dobrze ja zrobiła,
+!!da co'm szewca nie chciała,
+!!oj boby moja skóra
+!!wnet na płocie wisiała.
+!!@@END: VERSES
 !!!ONB: Nuta Ser. II n 279.
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=60 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 38} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 38}
 !!!page: 38
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

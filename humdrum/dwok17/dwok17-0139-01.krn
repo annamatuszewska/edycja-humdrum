@@ -3,68 +3,82 @@
 !!!source: DWOK17
 !!!id: 17139
 !!!signature: 1713900001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=
-{24d
-24e
-24f#
-8g
-8a
-=1
-8cc
-8ee
-8dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+*Xtuplet	*
+{24dL	A
+24e	ja
+24f#J	.
+8g	to-
+8a	-bie,
+=2	=2
+8cc	a
+8ee	ty
+8dd}	mnie
 !!LO:LB:g=esac
-=
-{24cc
-24b
-24a
-8g
-8a
-=2
-8cc
-8ee
-8dd
-=
-24cc
-24b
-24a
-8g
-8d
-=3
-8f
-8e
-8d}
+=3	=3
+{24ccL	damy
+24b	.
+24aJ	.
+8gL	so-
+8aJ	-bie
+=4	=4
+8ccL	wzajemnie,
+8ee	.
+8ddJ/	.
+=5	=5
+24ccL	damy
+24b	.
+24aJ	.
+8g\	sobie
+8d\	.
+=6	=6
+8fn\	wzajemnie.
+8e\	.
+8d\}	.
 !!LO:LB:g=esac
-=
-{24d
-24f#
-24a
-8g
-8d
-=4
-8f#
-8g
-8b
-=
-24a
-24cc
-24a
-8g
-8a
-=5
-8f
-8e
-8d}
-==
-*-
+=7	=7
+{24dL	A
+24f#X	ty
+24aJ	.
+8g	mi
+8d	das
+=8	=8
+8f#	wia-
+8g	-neń-
+8b	-ko
+=9	=9
+24aL	a
+24cc	ja
+24aJ	.
+8gL	ci
+8aJ	dam
+=10	=10
+8f	ser-
+8e	-deńko.
+8d}	.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!role-listener: Maiden
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!A ja tobie, a ty mnie
+!!damy sobie wzajemnie,
+!!damy sobie wzajemnie.
+!!A ty mi das wianeńko
+!!a ja ci dam serdeńko.
+!!@@END: VERSES
 !!!ONB: Ob. nr 159. Wariant t. 9: (242)1_2_
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=69 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 47} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 47}
 !!!page: 47
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

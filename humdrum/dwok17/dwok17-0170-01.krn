@@ -3,72 +3,83 @@
 !!!source: DWOK17
 !!!id: 17170
 !!!signature: 1717000001
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{8gg
-8gg
-8aa
-=2
-8gg
-8gg
-8dd
-=3
-16dd
-16b
-8dd
-8dd
-=4
-4gg
-8dd}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{8gg	Koś-
+8gg	-ció-
+8aa	-łek
+=2	=2
+8gg	z_descułek,
+8ffq	.
+8gg	.
+8dd	.
+=3	=3
+16dd	a
+16b	dzwoni-
+8dd	.
+8dd	-ca
+=4	=4
+4gg	z_tar-
+8ddT}	-cic,
 !!LO:LB:g=esac
-=5
-{8cc
-8ee
-8ee
-=6
-16ee
-16ff
-8dd
-8b
-=7
-16cc
-16a
-8f
-8a
-=8
-16g
-16b
-4dd}
+=5	=5
+{8cc	tyś
+8ee	sobie
+8ee	.
+=6	=6
+16ee	ślachcianka
+16ff	.
+8dd	.
+8b	.
+=7	=7
+16cc	a
+16a	ja
+8f	so-
+8a\	-bie
+=8	=8
+16gL	ślachcic,
+16bJ	.
+4dd}	.
 !!LO:LB:g=esac
-=9
-{8cc
-8ee
-8gg
-=10
-16gg
-16ff
-8dd
-16b
-16dd
-=11
-16cc
-16a
-8f
-16a
-16cc
-=12
-16dd
-16b
-4g}
-==
-*-
+=9	=9
+{8cc	tyś
+8eeL	sobie
+8ggJ/	.
+=10	=10
+16ggL	ślachcianka
+16ffJ/	.
+8dd	.
+16bL	.
+16ddJ/	.
+=11	=11
+16cc	a
+16a	ja
+8f	so-
+16aL	-bie
+16ccJ/	.
+=12	=12
+16ddL	ślachcic.
+16bJ	.
+4g}	.
+==	==
+*-	*-
+!!!role-singer: Nobleman
+!!!role-listener: Noblewoman
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Kościółek z descułek, a dzwonica z tarcic,
+!!tyś sobie ślachcianka a ja sobie ślachcic.
+!!@@END: VERSES
 !!!ONB: Ob. nr 146
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=78 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 56} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 56}
 !!!page: 56
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

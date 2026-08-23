@@ -3,60 +3,78 @@
 !!!source: DWOK17
 !!!id: 17094
 !!!signature: 1709400000
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M3/8
-=1
-{8ee-
-8ee-
-16ee-
-16cc
-=2
-16dd
-16ff
-8dd
-16cc
-16a}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M3/8	*
+=1	=1
+{8ee-	A
+8ee-	jesce
+8ffq	.
+16ee-L	.
+16ccJ	.
+=2	=2
+16ddL	ja
+16ffJ/	nie
+8ddL	hultaj,
+16cc	.
+16aJ/}	.
 !!LO:LB:g=esac
-=3
-{8ee-
-8ee-
-16ee-
-16cc
-=4
-16dd
-16b-
-8dd
-8cc}
+=3	=3
+{8ee-	da
+8ee-	bom
+8ffq	.
+16ee-L	se
+16ccJ	.
+=4	=4
+16dd	kupił
+16b-	.
+8dd	kosę.
+8cc}	.
 !!LO:LB:g=esac
-=5
-{8f
-16g
-16a
-8b-
-=6
-16dd
-16ff
-8dd
-16cc
-16a}
+=5	=5
+{8f	I
+16gL	su-
+16aJ	.
+8b-	-kna
+=6	=6
+16ddL	na
+16ffJ/	żupanik
+8ddL	.
+16cc	.
+16aJ/}	.
 !!LO:LB:g=esac
-=7
-{8f
-16g
-16a
-8b-
-=8
-16dd
-16b-
-8dd
-8cc}
-==
-*-
+=7	=7
+{8f	da
+16gL	ło-
+16aJ	.
+8b-	-kieć
+=8	=8
+16dd	po
+16b-	trzy
+8dd	grose.
+8cc}	.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. A jesce ja nie hultaj,
+!!da bom se kupił kosę.
+!!I sukna na żupanik
+!!da łokieć po trzy grose.
+!!@VERSE:
+!!2. Do tego da zupana
+!!da haftek osiemnaście,
+!!da i capkę jak dzizę
+!!da za grosy pietnaście.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=56 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 34} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 34}
 !!!page: 34
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20

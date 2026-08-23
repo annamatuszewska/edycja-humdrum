@@ -3,50 +3,62 @@
 !!!source: DWOK17
 !!!id: 17179
 !!!signature: 1717900000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8g
-8b
-8dd
-8dd
-=2
-4cc
-4a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8g	Da-
+8b	-na
+8dd	mo-
+8dd	-ja
+=2	=2
+4cc	da-
+4a\}	-na
 !!LO:LB:g=esac
-=3
-{8a
-8cc
-8ee
-8ee
-=4
-4dd
-4b}
+=3	=3
+{8aL	pod
+8ccJ/	ko-
+8eeL	-pi-
+8eeJ/	-cą
+=4	=4
+4dd/	sia-
+4b/}	-na,
 !!LO:LB:g=esac
-=5
-{8g
-8b
-8dd
-8dd
-=6
-4cc
-4a}
+=5	=5
+{8g	Ko-
+8b	-pi-
+8dd	-ca
+8dd	się
+=6	=6
+4cc	wa-
+4a\}	-li,
 !!LO:LB:g=esac
-=7
-{8a
-8f#
-8a
-8cc
-=8
-4b
-4g}
-==
-*-
+=7	=7
+{8a\	chodźmy
+8f#	.
+8a\	Ja-
+8cc	-siu
+=8	=8
+4b	da-
+4g\}	-léj.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!role-listener: Bachelor
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Dana moja dana
+!!pod kopicą siana,
+!!Kopica się wali,
+!!chodźmy Jasiu daléj.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=80 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 58} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 58}
 !!!page: 58
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-20
