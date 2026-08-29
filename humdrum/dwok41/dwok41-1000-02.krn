@@ -3,56 +3,76 @@
 !!!source: DWOK41
 !!!id: 411000
 !!!signature: 41100000002
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{8g
-8ff
-8ff
-=2
-8ff
-4ee
-=3
-8ee
-8dd
-8dd
-=4
-4cc
-16b
-16g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{8g	Ro-
+8ff	-dzi-
+8ff	-no
+=2	=2
+8ff	mo-
+4ee	-ja,
+=3	=3
+8ee	stań-
+8dd	-ze
+8dd	se
+=4	=4
+4cc	w_rzę-
+16b/L	-dzie,
+16gJ}	.
 !!LO:LB:g=esac
-=
-{24g
-24a
-24b
-4cc
-=5
-8ee
-8ff
-8ee
-=6
-16ee
-16dd
-4cc
-=
-24g
-24a
-24b
-4dd
-=7
-4dd
-8cc
-=8
-8b
-8cc}
-8r
-==
-*-
+=5	=5
+{24gL	bo
+24a	.
+24b/J	.
+4cc	cię
+=6	=6
+8ee	Ka-
+8ff/L	-sień-
+8ee/J	.
+=7	=7
+(16eeL	-ka
+16ddJ	.
+4cc)	.
+=8	=8
+24gL	prze-
+24a	.
+24b/J	.
+4dd	-pra-
+=9	=9
+(4dd	-sać
+8cc)	.
+=10	=10
+8b	bę-
+8cc}	-dzie.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Rodzino moja,
+!!stańze se w rzędzie,
+!!bo cię Kasieńka
+!!przeprasać będzie.
+!!@VERSE:
+!!2. Upadnij, Kasiulu,
+!!matuli do nóg,
+!!niechze cię pobłogosławi
+!!najsamprzód Pan Bóg.
+!!@VERSE:
+!!3. Upadnij, Kasiulu,
+!!systkiem dobrém ludziom do nóg,
+!!niechze cię pobłogosławi
+!!najsamprzód Pan Bóg.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!role-listener: Woman
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=505 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 418} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 418}
 !!!page: 418
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-04

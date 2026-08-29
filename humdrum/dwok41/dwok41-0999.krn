@@ -3,52 +3,62 @@
 !!!source: DWOK41
 !!!id: 41999
 !!!signature: 4199900000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8g
-8b
-4cc
-4ee
-=2
-4gg
-4ee
-4gg
-=3
-8gg
-8ee
-4gg
-4ff
-=4
-4b
-4cc
-4g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8g	Oj,
+8b	ze-
+4cc	-by
+4ee	ja
+=2	=2
+4gg	wie-
+4ee	-dzia-
+4gg	-ła,
+=3	=3
+8gg	da,
+8ee	że
+4gg	poj-
+4ff	-dę
+=4	=4
+4b	za
+4cc	wdow-
+4g}	-ca,
 !!LO:LB:g=esac
-=5
-{8cc
-8ee
-4gg
-4ff
-=6
-4b
-4cc
-4ee
-=7
-8cc
-8ee
-4gg
-4ff
-=8
-4b
-4cc
-4g}
-==
-*-
+=5	=5
+{8cc	u-
+8ee	-wi-
+4gg	-ła-
+4ff	-bym
+=6	=6
+4b	se
+4cc	wia-
+4ee	-nek,
+=7	=7
+8cc	da,
+8ee	z_sa-
+4gg	-me-
+4ff	-go
+=8	=8
+4b	ja-
+4cc	-łow-
+4g}	-ca.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oj, zeby ja wiedziała, da,
+!!że pojdę za wdowca,
+!!uwiłabym se wianek,
+!!da, z samego jałowca.
+!!@@END: VERSES
+!!!role-singer: Single Girl
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=504 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 417} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 417}
 !!!page: 417
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-04

@@ -3,85 +3,66 @@
 !!!source: DWOK41
 !!!id: 41175
 !!!signature: 4117500000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{16g
-16a
-16b
-16cc
-8dd
-8g
-=2
-8ee
-16ee
-16cc
-8.dd
-16b
-=3
-8ee
-16ee
-16cc
-8.dd
-16b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{16g	Sie-
+16a	-dzi
+16b	so-
+16cc	-bie
+8dd	za-
+8g	-jąc
+=2	=2
+8ee	pod
+16eeL	mie-
+16ccJ	.
+8.ddL	-dzą,
+16bJ	.
+=3	=3
+8ee	pod
+16eeL	mie-
+16ccJ	.
+8.ddL	-dzą,
+16b}J	.
 !!LO:LB:g=esac
-=4
-{16cc
-16dd
-16ee
-16cc
-8a
-8f#
-=5
-8g
-8b
-8dd
-8b
-=6
-16cc
-16dd
-16ee
-16cc
-8a
-8f#
-=7
-8g
-8b
-8b
-8g}
-!!LO:LB:g=esac
-=8
-{16cc
-16dd
-16ee
-16cc
-8a
-8f#
-=9
-8g
-16g
-16b
-8dd
-8b
-=10
-16cc
-16dd
-16ee
-16cc
-8a
-8f#
-=11
-8g
-8b
-8b
-8g}
-==
-*-
+=4	=4
+{16cc	a
+16dd	my-
+16ee	-śli-
+16cc	-wi
+8a	o
+8f#	nim
+=5	=5
+8g	nie
+8b/	wie-
+8ddL	-dzą,
+8bJ	.
+=6	=6
+16cc	a
+16dd	my-
+16ee	-śli-
+16cc	-wi
+8a	o
+8f#	nim
+=7	=7
+8g	nie
+8b	wie-
+8b/L	-dzą.
+8g}J	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Siedzi sobie zając |:pod miedzą:|,
+!!|:a myśliwi o nim nie wiedzą:|.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=193 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 114} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 114}
 !!!page: 114
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-01

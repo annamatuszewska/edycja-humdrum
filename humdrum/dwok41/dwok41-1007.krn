@@ -3,55 +3,66 @@
 !!!source: DWOK41
 !!!id: 411007
 !!!signature: 41100700000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8g
-8cc
-4cc
-8b
-8a
-=2
-8cc
-8ee
-4gg
-4ff
-=3
-8cc
-8cc
-4cc
-8b
-8a
-=4
-2.cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8g	Pię-
+8cc	-kną
+4cc	róz-
+8b/L	-gę
+8aJ	.
+=2	=2
+8cc	mam,
+8ee	druż-
+4gg	-bo-
+4ff	-wie,
+=3	=3
+8cc	pię-
+8cc	-kną
+4cc	róz-
+8b/L	-gę
+8aJ	.
+=4	=4
+2.cc}	mam,
 !!LO:LB:g=esac
-=5
-{8ee
-8gg
-4gg
-8ff
-8ee
-=6
-8dd
-8ff
-4ff
-8ee
-8dd
-=7
-8cc
-8cc
-4cc
-8b
-8a
-=8
-2.cc}
-==
-*-
+=5	=5
+{8ee	kto
+8gg	mnie
+4gg	bę-
+8ffL	-dzie
+8eeJ	.
+=6	=6
+8dd	pię-
+8ff	-knie
+4ff	pro-
+8eeL	-sił,
+8ddJ	.
+=7	=7
+8cc	te-
+8cc	-mu
+4cc	ją
+8b/L	od-
+8aJ	.
+=8	=8
+2.cc}	-dam.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Piękną rózgę mam, drużbowie,
+!!piękną rózgę mam,
+!!kto mnie będzie pięknie prosił,
+!!temu ją oddam.
+!!@@END: VERSES
+!!!role-singer: Woman
+!!!role-listener: Bridesman
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=508 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 421} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 421}
 !!!page: 421
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-06

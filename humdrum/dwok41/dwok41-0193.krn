@@ -3,59 +3,79 @@
 !!!source: DWOK41
 !!!id: 41193
 !!!signature: 4119300000
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M2/4
-=1
-{8a
-8cc
-8cc
-16dd
-16ee
-=2
-8ff
-8a
-8b-
-8b-}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*B-:	*
+*M2/4	*
+=1	=1
+{8a	Wy-
+8cc	-sed
+8cc	so-
+16ddL	-bie
+16eeJ	.
+=2	=2
+8ff	Ma-
+8a	-ciek
+8b-	dro-
+8b-}	-gą,
 !!LO:LB:g=esac
-=3
-{8a
-8cc
-8cc
-16dd
-16ee
-=4
-8ff
-8a
-8b-
-8b-}
+=3	=3
+{8a	żo-
+8cc	-na
+8cc	za
+16ddL	nim
+16eeJ	.
+=4	=4
+8ff	wiuk,
+8a	wiuk
+8b-	no-
+8b-}	-gą.
 !!LO:LB:g=esac
-=5
-{8a
-8cc
-4g
-=6
-8f
-16g
-16a
-4b-}
+=5	=5
+{8a	Tu
+8cc	mi
+4g	stój,
+=6	=6
+8f	Ma-
+16gL	-ćku
+16aJ	.
+4b-}	mój,
 !!LO:LB:g=esac
-=7
-{8a
-8cc
-8g
-8g
-=8
-8f
-16g
-16a
-4b-}
-==
-*-
+=7	=7
+{8a	a
+8cc	nie
+8g	mi-
+8g	-jaj
+=8	=8
+8f	do-
+16gL	-mek
+16aJ	.
+4b-}	swój.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Wysed sobie Maciek drogą,
+!!żona za nim wiuk, wiuk nogą.
+!!Tu mi stój, Maćku mój,
+!!a nie mijaj domek swój.
+!!@VERSE:
+!!2. Maciek stanoł, nie rzek nic,
+!!powalił się, wskazał rzyć;
+!!żona w śmiech: Maćku mój.
+!!pokazałeś zadek swój.
+!!@VERSE:
+!!3. Byłabym go uderzyła,
+!!alem sobie uważyła,
+!!że to grzéch Maćka bić
+!!gołą ręką w gołą rzyć.
+!!@@END: VERSES
+!!!role-singer: Narrator, Wife
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=203 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 124} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 124}
 !!!page: 124
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-03

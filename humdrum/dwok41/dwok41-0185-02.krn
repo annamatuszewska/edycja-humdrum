@@ -3,55 +3,87 @@
 !!!source: DWOK41
 !!!id: 41185
 !!!signature: 4118500002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8dd
-8cc
-8b
-8cc
-=2
-4b
-8g
-8a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8dd	Na
+8cc	zie-
+8b	-lo-
+8cc	-néj
+=2	=2
+4b	ła-
+8gL\	-ce
+8aJ\}	.
 !!LO:LB:g=esac
-=3
-{8b
-8cc
-8b
-8cc
-=4
-4a
-8f#
-8d}
+=3	=3
+{8b	pa-
+8cc	-sie
+8b	kiep
+8cc	za-
+=4	=4
+4a	-ją-
+8f#L	-ce;
+8d}J	.
 !!LO:LB:g=esac
-=5
-{8g
-8g
-8a
-8a
-=6
-8b
-8ee
-8dd
-8cc}
+=5	=5
+{8g	sza-
+8g	-ra-
+8a	-ba-
+8a	-ra
+=6	=6
+8b	w_bę-
+8ee	-ben
+8dd/L	bi-
+8cc/J}	-je,
 !!LO:LB:g=esac
-=7
-{8b
-8dd
-8a
-8f#
-=8
-4g
-8a
-8g}
-==
-*-
+=7	=7
+{8b	ły-
+8dd	-sa
+8a	pa-
+8f#	-ła
+=8	=8
+4g\	wyska
+8a	-ku-
+8g}	-je.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Na zielonéj łace
+!!pasie kiep zające;
+!!szarabara w bęben bije,
+!!łysa pała wyskakuje.
+!!@VERSE:
+!!2. Wyskoczże ty, Janku,
+!!w lewandowym wianku,
+!!com ci jeden dała,
+!!drugi obiecała.
+!!@VERSE:
+!!3. A i ty czartek
+!!z popiołu Bartek,
+!!a z węgielka Marcinek,
+!!kupił sobie bębenek.
+!!Na bębenku sztuk puk,
+!!na piszczałce fiu fiu.
+!!@VERSE:
+!!4. Cztéry pánny w tońcu
+!!łopucha1 na końcu,
+!!łopucha się okociła,
+!!trzysta Miemców porodziła
+!!i dwadzieścia Miemków2.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: (1)ognicha, ziele, (2) Niemek
+!!@@END:
+!!!role-singer: Narrator, Woman
+!!!role-listener: Lover
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=198 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 119} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 119}
 !!!page: 119
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-03

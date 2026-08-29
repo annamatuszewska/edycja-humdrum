@@ -3,59 +3,76 @@
 !!!source: DWOK41
 !!!id: 411012
 !!!signature: 41101200000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16b
-16dd
-8ee
-8a
-=2
-16cc
-16cc
-8ee
-8dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Drużbowie do druhen	!
+{16b	Na-
+16dd	-se
+8ee	dru-
+8a	-hny
+=2	=2
+16cc	po-
+16cc	-so-
+8ee	-wia-
+8dd}	-ły,
 !!LO:LB:g=esac
-=3
-{16b
-16dd
-8ee
-8a
-=4
-16cc
-16cc
-8b
-8g}
+=3	=3
+{16b	pas-
+16dd	-ter-
+8ee	-na-
+8a	-ku
+=4	=4
+16cc	nie
+16cc	na-
+8b	-ja-
+8g}	-dły,
 !!LO:LB:g=esac
-=5
-{16cc
-16a
-8b
-8b
-=6
-16cc
-16a
-8b
-8dd}
+=5	=5
+{16cc	na-
+16a	-pot-
+8b	-ka-
+8b	-ły
+=6	=6
+16cc	je-
+16a	-den
+8b	w_bruz-
+8dd}	-dzie,
 !!LO:LB:g=esac
-=7
-{16cc
-16a
-8b
-8b
-=8
-16a
-16f#
-8g
-8g}
-==
-*-
+=7	=7
+{16cc	ka-
+16a	-za-
+8b	-ły
+8b	go
+=8	=8
+16a	ko-
+16f#	-pać
+8g	druz-
+8g}	-bie.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Nase druhny posowiały,
+!!pasternaku nie najadły,
+!!napotkały jeden w bruzdzie,
+!!kazały go kopać druzbie.
+!!@VERSE:
+!!2. Cemu, druhny, nie spiewata,
+!!cy dębowe pyski mata?
+!!Nie dębowe, papierowe,
+!!do spiewania są gotowe.
+!!@@END: VERSES
+!!!role-singer: Groomsmen
+!!!role-listener: Bridesmaids
+!!!singer-sex: Male
 !!!ONB: Drużbowie do druhen
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=510 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 423} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 423}
 !!!page: 423
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-06

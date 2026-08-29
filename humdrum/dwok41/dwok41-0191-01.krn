@@ -3,63 +3,73 @@
 !!!source: DWOK41
 !!!id: 41191
 !!!signature: 4119100001
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16f
-16a
-8cc
-8cc
-=2
-16cc
-16ee
-8gg
-16ff
-16dd}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16f	Mo-
+16a	-ja
+8cc	ma-
+8cc	-tka
+=2	=2
+16cc	do-
+16ee	-bra
+8gg	by-
+16ffL	-ła,
+16dd}J	.
 !!LO:LB:g=esac
-=
-{24ff
-24ee
-24ff
-8cc
-8f
-=
-24g
-24a
-24b-
-8g
-16g
-16e}
+=3	=3
+{24ffL	bo
+24eeJ	.
+24ff	mnie
+8cc	ro-
+8f	-bić
+=4	=4
+24gL	nie
+24aJ	.
+24b-/	u-
+8g	-czy-
+16gL	-ła,
+16e}J	.
 !!LO:LB:g=esac
-=3
-{16f
-16a
-8cc
-8f
-=4
-16a
-16b-
-8dd
-8dd}
+=5	=5
+{16f	tyl-
+16a	-ko
+8cc	ska-
+8f	-kać
+=6	=6
+16a	i
+16b-	tań-
+8dd	-co-
+8dd}	-wać,
 !!LO:LB:g=esac
-=
-{24cc
-24ee
-24ff
-8cc
-8f
-=5
-16a
-16b-
-8g
-8e}
-==
-*-
+=7	=7
+{24ccL	i
+24eeJ	.
+24ff	ła-
+8cc	-dne
+8f	dziew-
+=8	=8
+16a	-cze
+16b-	ca-
+8g	-ło-
+8e}	-wać.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Moja matka dobra była,
+!!bo mnie robić nie uczyła,
+!!tylko skakać i tańcować,
+!!i ładne dziewcze całować.
+!!@@END: VERSES
+!!!role-singer: Son
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=202 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 123} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 123}
 !!!page: 123
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-03

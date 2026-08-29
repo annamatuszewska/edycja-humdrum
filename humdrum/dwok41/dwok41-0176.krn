@@ -3,100 +3,110 @@
 !!!source: DWOK41
 !!!id: 41176
 !!!signature: 4117600000
-**kern
-*clefG2
-*k[f#]
-*e:
-*M2/4
-=1
-{16a
-16g#
-16a
-16b
-8cc
-8dd
-=2
-8ee
-8ee
-8dd
-8ee
-=3
-8cc
-8cc
-8b
-8cc
-=4
-16a
-16g#
-8g#
-4e}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*e:	*
+*M2/4	*
+=1	=1
+{16a	Sie-
+16g#	-dzi
+16a	so-
+16b	-bie
+8cc	za-
+8dd	-jąc
+=2	=2
+8ee	pod
+8ee	mie-
+8ddL	-dzą,
+8eeJ	.
+=3	=3
+8cc	pod
+8cc	mie-
+8bL	-dzą,
+8ccJ	.
+=4	=4
+16aL	pod
+16g#J	mie-
+8g#	-dzą,
+4e}	.
 !!LO:LB:g=esac
-=5
-{16a
-16g#
-16a
-16b
-8cc
-8dd
-=6
-8ee
-8ee
-8dd
-8ee
-=7
-8cc
-8cc
-8b
-8cc
-=8
-16a
-16g#
-8g#
-4e}
+=5	=5
+{16a	a
+16g#	my-
+16a	-śli-
+16b	-wi
+8cc	o
+8dd	nim
+=6	=6
+8ee	nie
+8ee	wie-
+8ddL	-dzą,
+8eeJ	.
+=7	=7
+8cc	nie
+8cc	.
+8bL	wie-
+8ccJ	-dzą,
+=8	=8
+16aL	nie
+16g#J	.
+8g#	wie-
+4e}	-dzą;
 !!LO:LB:g=esac
-=9
-{8e
-8e
-8g#
-8b
-=10
-8a
-8ee
-16cc
-16b
-8a}
+=9	=9
+{8e	sie-
+8e	-dzi,
+8g#	sie-
+8b	-dzi,
+=10	=10
+8a	la-
+8ee	-men-
+16ccL	-tu-
+16bJ	.
+8a}	-je,
 !!LO:LB:g=esac
-=11
-{8e
-8e
-8g#
-8b
-=12
-8a
-8ee
-16cc
-16b
-8a}
+=11	=11
+{8e	tes-
+8e	-ta-
+8g#	-ment
+8b	so-
+=12	=12
+8a	-bie
+8ee	spi-
+16ccL	-su-
+16bJ	.
+8a}	-je
 !!LO:LB:g=esac
-=13
-{8ee
-8ee
-8dd
-8ee
-=14
-8cc
-8cc
-8b
-8cc
-=15
-16a
-16g#
-8g#
-4e}
-==
-*-
+=13	=13
+{8ee	śmier-
+8ee	-tel-
+8ddL	-ny,
+8eeJ	.
+=14	=14
+8cc	śmier-
+8cc	-tel-
+8bL	-ny,
+8ccJ	.
+=15	=15
+16aL	śmier-
+16g#J	.
+8g#	-tel-
+4e}	-ny.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Siedzi sobie zając pod miedzą, |:pod miedzą:|,
+!!a myśliwi o nim nie wiedzą, |:nie wiedzą:|;
+!!siedzi, siedzi, lamentuje,
+!!testament sobie spisuje
+!!smiertelny, |:smiertelny:|.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=194 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 115} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 115}
 !!!page: 115
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-01

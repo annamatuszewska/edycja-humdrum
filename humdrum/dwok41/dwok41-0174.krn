@@ -3,66 +3,79 @@
 !!!source: DWOK41
 !!!id: 41174
 !!!signature: 4117400000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{8cc
-8ee
-8ff
-=2
-4ee
-8a
-=3
-16g#
-16b
-16dd
-16cc
-8a
-=4
-4.b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{8cc	Ow-
+8ee	-cza-
+8ff	-rysz-
+=2	=2
+4ee	-ko-
+8a	-wie,
+=3	=3
+16g#	skur-
+16b	-wy-
+16ddL	-sy-
+16ccJ	.
+8a	-no-
+=4	=4
+(8aq	.
+4.b)}	-wie,
 !!LO:LB:g=esac
-=5
-{16a
-16b
-16cc
-16dd
-8cc
-=6
-4b
-8e
-=7
-16g#
-16b
-16dd
-16ee
-8cc
-=8
-4.a}
+=5	=5
+{16a	wy-
+16b	-gna-
+16ccL	-li
+16ddJ	.
+8cc	o-
+=6	=6
+4b	-wiecz-
+8e	-ki
+=7	=7
+16g#	na
+16b	cu-
+16ddL	-dze
+16eeJ	.
+8cc	po-
+=8	=8
+(8bq	.
+4.a)}	-le.
 !!LO:LB:g=esac
-=9
-{16a
-16b
-16cc
-16dd
-8cc
-=10
-4b
-8e
-=11
-16g#
-16b
-16dd
-16ee
-8cc
-=12
-4.a}
-==
-*-
+=9	=9
+{16a	wy-
+16b	-gna-
+16ccL	-li
+16ddJ	.
+8cc	o-
+=10	=10
+4b	-wiecz-
+8e	-ki
+=11	=11
+16g#	na
+16b	cu-
+16ddL	-dze
+16eeJ	.
+8cc	po-
+=12	=12
+(8bq	.
+4.a)}	-le.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Owczaryszkowie, skurwysynowie,
+!!|:wygnali owieczki na cudze pole:|.
+!!@VERSE:
+!!2. Owieczka wlazła na trzęsawice.
+!!|: zmaczała nóżki po same cyce:|.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=193 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 114} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 114}
 !!!page: 114
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-01

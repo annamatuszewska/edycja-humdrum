@@ -3,89 +3,120 @@
 !!!source: DWOK41
 !!!id: 41198
 !!!signature: 4119800000
-**kern
-*clefG2
-*k[]
-*C:
-*M6/8
-=1
-{4cc
-8cc
-8cc
-8b
-8a
-=2
-8a
-8g
-8g
-4g
-8g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M6/8	*
+=1	=1
+!LO:TX:a:t=Szlachecka	!
+{4cc	A
+8cc	czy-
+8ccL	-li-
+8bJ	.
+8a	-żeś
+=2	=2
+8aL	w_za-
+8gJ	.
+8g	-du-
+4g	-ma-
+8g}	-niu,
 !!LO:LB:g=esac
-=3
-{4a
-8f
-8cc
-8b
-8a
-=4
-8a
-8g
-8g
-4g
-8g}
+=3	=3
+{4a	czy
+8f\	nie
+8ccL	my-
+8bJ	.
+8a	-ślisz
+=4	=4
+8aL	o
+8gJ	.
+8g	ko-
+4g	-cha-
+8g}	-niu?
 !!LO:LB:g=esac
-=5
-{8g
-8b
-8dd
-4dd
-8f
-=6
-4e
-8cc
-4cc
-8e}
+=5	=5
+{8gL	Lecz
+8b/J	.
+8dd	mo-
+4dd	-ja
+8f	myśl
+=6	=6
+4e	nic
+8cc	nie
+4cc	zna-
+8e}	-czy,
 !!LO:LB:g=esac
-=7
-{4d
-8b
-4b
-8g
-=8
-8g
-8a
-8b
-4cc
-8cc}
+=7	=7
+{4d	tyl-
+8b	-ko
+4b	co
+8g	mi
+=8	=8
+8gL	Bóg
+8aJ	.
+8b	prze-
+4cc	-zna-
+8cc}	-czy.
 !!LO:LB:g=esac
-=9
-{8g
-8b
-8dd
-4dd
-8f
-=10
-8e
-8g
-8cc
-4cc
-8e}
+=9	=9
+{8gL	Lecz
+8b/J	.
+8dd	mo-
+4dd	-ja
+8f	myśl
+=10	=10
+8e\L	nic
+8g\J	.
+8cc	nie
+4cc	zna-
+8e}	-czy,
 !!LO:LB:g=esac
-=11
-{4d
-8b
-4b
-8g
-=12
-8g
-8a
-8b
-4cc
-8cc}
-==
-*-
+=11	=11
+{4d	tyl-
+8b	-ko
+4b	co
+8g	mi
+=12	=12
+8gL	Bóg
+8aJ	.
+8b	prze-
+4cc	-zna-
+8cc}	-czy.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A czyliżeś w zadumaniu,
+!!czy nie myślisz o kochaniu?
+!!|:Lecz moja myśl nic nie znaczy,
+!!tylko co mi Bóg przeznaczy:|.
+!!@VERSE:
+!!2. Przez boskiego przeznaczenia
+!!próżne myśli i westchnienia,
+!!|: Bóg zaczyna i Bóg kończy,
+!!kto się kocha, w parę łączy:|.
+!!@VERSE:
+!!3. Kiedy idę rano w pole,
+!!osobliwie kiedy żniwa,
+!!|: nogi swoje do krwi skolę.
+!!ach, ja biedna, nieszczęśliwa:|.
+!!@VERSE:
+!!4. Wieczór idę do swej chatki,
+!!gdzie mi dobrze u swej matki,
+!!|: a jak chłopczynę zastanę,
+!!już ja szczęśliwą zostanę:|.
+!!@VERSE:
+!!5. Jak się nie widzę z chłopczyną,
+!!to ja biédna, nieszczęśliwą;
+!!|: Bożeś zaczął, Boże i skończ,
+!!kto się kocha, w parę połącz:|.
+!!@@END: VERSES
+!!!role-singer: Young Girl
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=206 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 127} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 127}
 !!!page: 127
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-04

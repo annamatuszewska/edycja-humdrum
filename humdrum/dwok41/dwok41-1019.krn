@@ -3,79 +3,91 @@
 !!!source: DWOK41
 !!!id: 411019
 !!!signature: 41101900000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16b
-16dd#
-8ff#
-8ee
-=2
-16dd#
-16ee
-16cc
-16b
-8a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{16b	Ej,
+16dd#	po-
+8ff#	-sed-
+8ee	-bym
+=2	=2
+16dd#L	ja,
+16eeJ	.
+16ccL	po-
+16bJ	.
+8a}	-sed,
 !!LO:LB:g=esac
-=3
-{8b
-8.e
-16g#
-=4
-16b
-16dd
-16cc
-16b
-8a}
+=3	=3
+{8bm	ej,
+8.e	za
+16g#	dziew-
+=4	=4
+16b	-cy-
+16dd	-ną
+16ccL	po-
+16bJ	.
+8a}	-sed,
 !!LO:LB:g=esac
-=5
-{8b
-8e
-8g#
-=6
-16b
-16dd
-8ee
-8a}
+=5	=5
+{8b	ej,
+8e	po-
+8g#	-sed-
+=6	=6
+16b	-bym
+16dd	i
+8ee	da-
+8a}	-li,
 !!LO:LB:g=esac
-=7
-{8b
-8.e
-16g#
-=8
-16b
-16dd
-16cc
-16b
-8a}
+=7	=7
+{8b	ej,
+8.e	ze-
+16g#	-by
+=8	=8
+16b	mi
+16dd	ją
+16ccL	da-
+16bJ	.
+8a}	-li,
 !!LO:LB:g=esac
-=9
-{8b
-8e
-8g#
-=10
-16b
-16dd
-8ee
-8a}
+=9	=9
+{8b	ej,
+8e	po-
+8g#	-sed-
+=10	=10
+16b	-bym
+16dd	w_po-
+8ee	-krzy-
+8a}	-wy,
 !!LO:LB:g=esac
-=11
-{8b
-8.e
-16g#
-=12
-16b
-16dd
-16cc
-16b
-8a}
-==
-*-
+=11	=11
+{8b	da,
+8.e	ze-
+16g#	-by
+=12	=12
+16b	nie
+16dd	pa-
+16ccL	-rzy-
+16bJ	.
+8a}	-ły.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Ej, posedbym ja, posed,
+!!ej, za dziewcyną posed,
+!!ej, posedbym i dali, ej,
+!!zeby mi ją dali,
+!!ej, posedbym w pokrzywy,
+!!da, zeby nie parzyły.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=514 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 427} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 427}
 !!!page: 427
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-06
