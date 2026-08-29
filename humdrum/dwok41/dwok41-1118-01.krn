@@ -3,48 +3,57 @@
 !!!source: DWOK41
 !!!id: 411118
 !!!signature: 41111800001
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16b
-16g#
-8a
-8cc
-=2
-8dd
-4a
-=3
-16b
-16g#
-8a
-8cc
-=4
-8dd
-4a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{16b	Ja-
+16g#	-sio
+8a	ko-
+8cc	-nie
+=2	=2
+8dd	po-
+4a	-ił,
+=3	=3
+16b	Ka-
+16g#	-sia
+8a	wo-
+8cc	-dę
+=4	=4
+8dd	bra-
+4a}	-ła,
 !!LO:LB:g=esac
-=5
-{4cc
-8ee
-=6
-16gg
-16ee
-8dd
-8b
-=7
-16g
-16b
-8dd
-8dd
-=8
-8cc
-4a}
-==
-*-
+=5	=5
+{4cc	[on
+8ee	so-
+=6	=6
+16gg/	-bie
+16ee	za-
+8dd	-śpie-
+8b	-wał,
+=7	=7
+16g	o-
+16b/	-na
+8dd	za-
+8dd	-pła-
+=8	=8
+8cc	-ka-
+4a}	-ła].
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Jasio konie poił,
+!!Kasia wodę brała,
+!![on sobie zaśpiewał,
+!!ona zapłakała].
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=567 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 480} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 480}
 !!!page: 480
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-18

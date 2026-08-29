@@ -3,64 +3,128 @@
 !!!source: DWOK41
 !!!id: 411115
 !!!signature: 41111500002
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8g
-8cc
-8cc
-8ee
-8.gg
-16cc
-=2
-8cc
-8b
-4b}
-4r
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8g	Po-
+8cc	-je-
+8cc	-chał
+8ee	Ja-
+8.gg	-sio
+16cc	na
+=2	=2
+8ccL	ło-
+8bJ	.
+4b}	-wy
+4r	.
 !!LO:LB:g=esac
-=3
-{8b
-8dd
-8dd
-8ee
-8ff
-8b
-=4
-8dd
-8cc
-4cc}
-4r
+=3	=3
+{8b	i
+8dd	snem
+8dd	był
+8ee	prędkim
+8ff	.
+8b	zmo-
+=4	=4
+8dd/L	-rzo-
+8cc/J	.
+4cc}	-ny,
+4r	.
 !!LO:LB:g=esac
-=5
-{8g
-8cc
-8cc
-8ee
-8.gg
-16cc
-=6
-8cc
-8b
-4b}
-4r
+=5	=5
+{8g	pus-
+8cc	-ca
+8cc	ko-
+8ee	-ni-
+8.gg	-ki
+16cc	na
+=6	=6
+8cc/L	tra-
+8b/J	.
+4b}	-we,
+4r	.
 !!LO:LB:g=esac
-=7
-{4.aa
-8dd
-8dd
-8ee
-=8
-8ff
-8b
-4dd
-4cc}
-==
-*-
+=7	=7
+{4.aa;	sam
+8dd	sie
+8dd	kła-
+8ee	-dzie
+=8	=8
+8ff	na
+8b	mu-
+4dd	-ra-
+4cc}	-we.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Pojechał Jasio na łowy
+!!i snem był prędkim zmorzony,
+!!pusca koniki na trawe,
+!!sam sie kładzie na murawe.
+!!@VERSE:
+!!2. Śniło mu sie, gdy na jawie
+!!sła do niego gołębica,
+!!sła do niego gołębica
+!!jak najślicniejsa księznica.
+!!@VERSE:
+!!3. Co prędzy na koń siada
+!!i o wrózce sie bada:
+!!Wrózko, wrózko, co mi powis,
+!!jak sie o moim śnie dowis.
+!!@VERSE:
+!!4. Wrózka sie do carów wziena,
+!!z trzech śklanek wode przelała,
+!!sen mu dziwnie odgadnena,
+!!Jasiowi zialu dodała.
+!!@VERSE:
+!!5. Mija lasy i dąbrowy,
+!!jedzie do swoij stęsknionyj,
+!!jesce nadziei nie traci,
+!!ze zastanie ulubionyj.
+!!@VERSE:
+!!6. Przyjezdza przed ij wrota,
+!!ogląda swego klejnota,
+!!matka wychodzi ze łzami,
+!!kłaniam, zięciu mój kochany.
+!!@VERSE:
+!!7. Kłaniam, zięciu, kłaniam, luby,
+!!chocieś nie mój, ale cudzy,
+!!juz ni ma twoij na świecie,
+!!będo cie kochali drudzy.
+!!@VERSE:
+!!8. I przychodzi do pokoja,
+!!a ona w trune włozona,
+!!a ona w trune włozona,
+!!w biało sate oblecona.
+!!@VERSE:
+!!9. A moje białe nogi,
+!!a cemuz wy nie chodzicie,
+!!a moje ciarne ocy,
+!!cemu na mnie nie patrzycie?
+!!@VERSE:
+!!10. I upad koło niebogi,
+!!ocy mu sen wiecny mrocy,
+!!Bóg tak rządzi, los odmiany,
+!!wami wy dzieci kochany.
+!!@VERSE:
+!!11. A nad jeich mogiło
+!!dwie brzezinki wyrastajo,
+!!obie do siebie pochiło,
+!!gałązkami sie stykajo.
+!!@VERSE:
+!!12. A nad jeich mogiło
+!!dwóch ptasecków podlatuje,
+!!jako bracisek z siostrzycko
+!!dziobkami sie pogłaskuje.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=565 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 478} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 478}
 !!!page: 478
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-17

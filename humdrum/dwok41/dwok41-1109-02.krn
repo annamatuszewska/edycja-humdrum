@@ -3,52 +3,72 @@
 !!!source: DWOK41
 !!!id: 411109
 !!!signature: 41110900002
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{4dd
-4ff
-4ff
-=2
-8dd
-8ff
-4aa
-4gg
-=3
-8gg
-8ee
-4cc
-8ee
-8cc
-=4
-4dd
-2b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{4dd/	Oj, bi-
+4ff/	-ja-
+4ff/	-ła
+=2	=2
+8dd	mnie
+8ff	ma-
+4aa	-tu-
+4gg	-l
+=3	=3
+8gg	o-
+8ee	-pa-
+4cc	-lo-
+8eeL	-nym
+8ccJ	.
+=4	=4
+4dd	ki-
+(8ccq	.
+2b)}	-jem,
 !!LO:LB:g=esac
-=5
-{4dd
-4b
-4b
-=6
-8b
-8b
-4dd
-4ff
-=7
-8gg
-8dd
-4cc
-8ee
-8cc
-=8
-4dd
-2b}
-==
-*-
+=5	=5
+{4ddM	[oj],
+4b	co
+4b	ja
+=6	=6
+8b	tań-
+8b	-co-
+4dd	-wa-
+4ff	-ła
+=7	=7
+8gg	z_są-
+8dd	-sia-
+4cc	-do-
+8eeL	-wym
+8ccJ	.
+=8	=8
+4dd	sy-
+(8ccq	.
+2b)}	-nem.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj, bijała mnie matul
+!!opalonym kijem,
+!![oj], co ja tańcowała
+!!z sąsiadowym synem1.
+!!@VERSE:
+!!2. Oj, bijała mnie matula
+!!kijem po komorze,
+!!oj, moja matulu,
+!!nic to nie pomoze.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: (1) [W rkp.: ,,kijem"]
+!!@@END:
+!!!role-singer: Daughter
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=561 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 474} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 474}
 !!!page: 474
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-17

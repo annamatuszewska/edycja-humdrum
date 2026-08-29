@@ -3,71 +3,81 @@
 !!!source: DWOK41
 !!!id: 411103
 !!!signature: 41110300000
-**kern
-*clefG2
-*k[f#c#g#d#a#]
-*B:
-*M3/4
-=1
-{4dd#
-4ff#
-4ff#
-=2
-8gg#
-8cc#
-4ee
-4dd#
-=3
-4dd#
-4ff#
-4ff#
-=4
-8gg#
-8cc#
-4ee
-4dd#}
+**kern	**text
+*clefG2	*
+*k[f#c#g#d#a#]	*
+*B:	*
+*M3/4	*
+=1	=1
+{4dd#	Ej,
+4ff#	nie-
+4ff#	-raz
+=2	=2
+8gg#	ci
+8cc#	ja,
+4ee	nie-
+4dd#	-raz,
+=3	=3
+4dd#	da,
+4ff#	przez
+4ff#	ten
+=4	=4
+8gg#	pło-
+8cc#	-tek
+4ee	prze-
+4dd#}	-lazł,
 !!LO:LB:g=esac
-=5
-{4a#
-4a#
-4cc#
-=6
-8a#
-8cc#
-4ee
-4dd#
-=7
-4dd#
-4ff#
-4gg#
-=8
-8ee
-8cc#
-4ee
-4dd#}
+=5	=5
+{4a#	oj,
+4a#	by-
+4cc#	-ła
+=6	=6
+8a#	tu
+8cc#	dziew-
+4ee	-czy-
+4dd#	-na,
+=7	=7
+4dd#	da,
+4ff#	nie
+4gg#	ma
+=8	=8
+8ee	jej
+8cc#	tu
+4ee	te-
+4dd#}	-raz,
 !!LO:LB:g=esac
-=9
-{4a#
-4f#
-4cc#
-=10
-8a#
-8cc#
-4ee
-4dd#
-=11
-4dd#
-4ff#
-4gg#
-=12
-8ee
-8cc#
-4ee
-4dd#}
-==
-*-
+=9	=9
+{4a#	oj,
+4f#	by-
+4cc#	-ła
+=10	=10
+8a#	tu
+8cc#	dziew-
+4ee	-czy-
+4dd#	-na,
+=11	=11
+4dd#	da,
+4ff#	nie
+4gg#	ma
+=12	=12
+8ee	jej
+8cc#	tu
+4ee	te-
+4dd#}	-raz.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Ej, nieraz ci ja, nieraz,
+!!da, przez ten płotek przelazł,
+!!|:oj, była tu dziewczyna,
+!!da, nie ma jej tu teraz:|.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=558 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 471} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 471}
 !!!page: 471
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-14

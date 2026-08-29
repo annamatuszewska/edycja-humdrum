@@ -3,42 +3,59 @@
 !!!source: DWOK41
 !!!id: 411116
 !!!signature: 41111600000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{4ee
-2gg
-=2
-4cc
-2ee
-=3
-4dd
-4.ff
-8ee
-=4
-4ee
-2gg}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{4ee	Na
+2gg	Po-
+=2	=2
+4cc	-do-
+2ee	-lu
+=3	=3
+4dd	bia-
+(4.ff	-ły
+8ee)	.
+=4	=4
+4ee	ka-
+2gg}	-mien,
 !!LO:LB:g=esac
-=5
-{4gg
-2gg
-=6
-4cc
-2ee
-=7
-4dd
-4.ff
-8dd
-=8
-4dd
-2cc}
-==
-*-
+=5	=5
+{4gg	Po-
+2gg	-do-
+=6	=6
+4cc	-lan-
+2ee	-ka
+=7	=7
+4dd	sie-
+(4.ff	-[dzi
+8dd)	.
+=8	=8
+4dd	na
+2cc}	niem].
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Na Podolu biały kamien,
+!!Podolanka sie[dzi na niem].
+!!@VERSE:
+!!2. A czemże go czarować mam,
+!!kiej zadn[ego] ziołka nie znam.
+!!@VERSE:
+!!3. Siedzi krawczyk na warsztacie,
+!!spiewa piesni o mym bracie.
+!!@VERSE:
+!!4. Choćbym jeich tysiąc miała,
+!!już bym ich nie czarowała.
+!!@@END: VERSES
+!!!role-singer: Narrator, Woman 
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=566 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 479} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 479}
 !!!page: 479
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-17

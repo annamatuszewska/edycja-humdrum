@@ -3,73 +3,80 @@
 !!!source: DWOK41
 !!!id: 411082
 !!!signature: 41108200002
-**kern
-*clefG2
-*k[]
-*a:
-=1
-*M2/4
-{8b
-8cc
-8b
-8a
-=2
-4b
-8dd#
-8b
-=3
-2ee}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+=1	=1
+*M2/4	*
+{8b	Z_tam-
+8cc	-tej
+8b	stro-
+8a	-ny
+=2	=2
+4b	je-
+8dd#L	-zio-
+8bJ	.
+=3	=3
+2ee}	-ra
 !!LO:LB:g=esac
-=4
-{8dd#
-8ee
-16gg
-16ff#
-8ee
-=5
-8gg
-8ff#
-4dd#
-=6
-2b}
+=4	=4
+{8dd#	sto-
+8ee	-i
+16gLg	li-
+16ffJ#	.
+8ee	-pka
+=5	=5
+8ggL	zie-
+8ff#J	.
+4dd#	-lo-
+=6	=6
+2b}	-na[...]
 !!LO:LB:g=esac
-=7
-{4ee
-8ee
-8ee
-=8
-4dd#
-8b
-8ee
-=9
-8a
-8cc
-8b
-8a
-=
-!!UNCATEGORIZED MEASURE
-4g#
-4e}
+=7	=7
+{4ee	.
+8ee	.
+8ee	.
+=8	=8
+4dd#	.
+8bL	.
+8eeJ	.
+=9	=9
+8a	.
+8cc	.
+8b	.
+8a	.
+=10	=10
+4g#i	.
+4e}	.
 !!LO:LB:g=esac
-=
-!!UNCATEGORIZED MEASURE
-{12e
-12g#
-12a
-4b
-4ee
-=10
-*M3/4
-32dd
-32cc
-32b
-32cc
-8g#
-2a}
-==
-*-
+=11	=11
+*M3/4	*
+!LO:TUP:b	!
+{12eL	.
+12g#iJ	.
+12a	.
+4b	.
+4ee	.
+=12	=12
+32dd/L	.
+32cc/	.
+32b/	.
+32cc/J	.
+8g#i	.
+2a}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Z tamtej strony jeziora
+!!stoi lipka zielona[...]
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!RDF**kern: i = editorial accidental
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=544 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 457} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 457}
 !!!page: 457
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-12

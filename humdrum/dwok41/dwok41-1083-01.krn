@@ -3,53 +3,70 @@
 !!!source: DWOK41
 !!!id: 411083
 !!!signature: 41108300001
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/8
-=1
-{8ee
-8dd#
-8ee
-=2
-16ff#
-16ee
-8b
-8a
-=3
-8b
-8g#
-8b
-=4
-16a
-16g
-8e
-8e}
+**kern	**text
+*clefG2	*
+*k[]	*
+*A:	*
+*M3/8	*
+=1	=1
+{8ee	Ej,
+8dd#	za-
+8ee	-ro-
+=2	=2
+16ff#	-sła
+16ee	mi
+8b	dróz-
+8a	-ka,
+=3	=3
+8b	da,
+8g#i	dro-
+8b	-bną
+=4	=4
+16a	ro-
+16g	-ki-
+8e	-ci-
+8e}	-ną,
 !!LO:LB:g=esac
-=5
-{16e
-16g#
-8b
-8g#
-=6
-16a
-16cc
-8ee
-8b
-=7
-8b
-8g#
-8b
-=8
-16a
-16g
-8e
-8e}
-==
-*-
+=5	=5
+{16eL	oj,
+16g#iJ	.
+8b	we-
+8g#	-zmę
+=6	=6
+16a	sie-
+16cc	-kie-
+8ee	-re-
+8b	-cki,
+=7	=7
+8b	to
+8g#i	ją
+8b	po-
+=8	=8
+16aL	-wy-
+16gJ	.
+8e	-ci-
+8e}	-nam.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Ej, zarosła mi drózka, da,
+!!drobną rokiciną,
+!!oj, wezmę siekierecki,
+!!to ją powycinam.
+!!@VERSE:
+!!2. Ej, zarosła mi drózka,
+!!da, drobną brzezinecką,
+!!którędy ja chodził
+!!ze swą kochanecką.
+!!@@END: VERSES
+!!!role-singer: Mistress, Lover
+!!!role-listener: Lover, Mistress
+!!!singer-sex: Female, Male
+!!!RDF**kern: i = editorial accidental
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=544 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 457} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 457}
 !!!page: 457
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-12

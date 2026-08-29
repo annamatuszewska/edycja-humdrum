@@ -3,98 +3,144 @@
 !!!source: DWOK41
 !!!id: 411078
 !!!signature: 41107800000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8b
-8cc
-8dd
-8b
-=2
-4dd
-4ff#
-=3
-2gg}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{(8gq	.
+8b)	Z_tam-
+8cc	-tej
+8dd	stro-
+8b	-ny
+=2	=2
+4dd	je-
+(8eeq	.
+4ff#)	-zio-
+=3	=3
+2gg}	-ra
 !!LO:LB:g=esac
-=4
-{8ff#
-8gg
-8aa
-8ff#
-=5
-8gg
-8ff#
-8ee
-8ff#
-=6
-2dd}
+=4	=4
+{8ff#	sto-
+8gg	-i
+8aa	li-
+8ff#	-pa
+=5	=5
+8gg/L	zie-
+8ff#/J	.
+8eeL	-lo-
+8ff#J	.
+=6	=6
+2dd}	-na,
 !!LO:LB:g=esac
-=7
-{4gg
-8ff#
-8gg
-=8
-4ee
-4a
-=9
-8cc
-8ee
-8dd
-8cc
-=10
-8b
-8a
-4g}
+=7	=7
+{4gg	a
+8ff#	[na
+8gg	tej
+=8	=8
+4ee	li-
+4a	-pie],
+=9	=9
+8ccL	na
+8eeJ	.
+8dd	tej
+8cc	[zie-
+=10	=10
+8b/L	-lo-
+8aJ	.
+4g}	-nej],
 !!LO:LB:g=esac
-=11
-{8b
-8cc
-8dd
-8gg
-=12
-4cc
-8b
-8a
-=13
-4g}
-4r
+=11	=11
+{8b	trzej
+8cc	ptas-
+8dd	-ko-
+8gg	-wie
+=12	=12
+4cc	sia-
+8b/L	-da-
+8aJ	.
+=13	=13
+4g}	-ją.
+4r	.
 !!LO:LB:g=esac
-=14
-{4gg
-8ff#
-8gg
-=15
-4ee
-4a
-=16
-8cc
-8ee
-8dd
-8cc
-=17
-8b
-8a
-4g}
+=14	=14
+{4gg	a
+8ff#	[na
+8gg	tej
+=15	=15
+4ee	li-
+4a	-pie],
+=16	=16
+8ccL	na
+8eeJ	.
+8dd	tej
+8cc	[zie-
+=17	=17
+8b/L	-lo-
+8aJ	.
+4g}	-nej],
 !!LO:LB:g=esac
-=18
-{8b
-8cc
-8dd
-8gg
-=19
-4cc
-8b
-8a
-=20
-4g}
-4r
-==
-*-
+=18	=18
+{8b	trzej
+8cc	ptas-
+8dd	-ko-
+8gg	-wie
+=19	=19
+4cc	sia-
+8b/L	-da-
+8aJ	.
+=20	=20
+4g}	-ją.
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Z tamtej strony jeziora
+!!stoi lipa zielona,
+!!|:a [na tej lipie], na tej [zielonej],
+!!trzej ptaskowie siadają:|.
+!!@VERSE:
+!!Nie byli to ptaskowie
+!!tylo kawalerowie,
+!!|:radzili sobie o grzecny dziewcynie,
+!!ktora jem się dostanie:|.
+!!@VERSE:
+!!Jeden mowi: Moja to,
+!!drugi mowi: Jak Bog da,
+!!|:a trzeci m[owi]: M[oja] naj[milejsa],
+!!cegozes mi smutna [jest]:|.
+!!@VERSE:
+!!Jak ja ni mam sm[utna] być,
+!!za star[ego] kazą iść,
+!!|:zasmuciło się syrce moje we mnie,
+!!nie mogę go utalić1:|.
+!!@VERSE:
+!!U mej matki w komorze
+!!jest malowane łoze,
+!!|:oj, łoze, ło[ze malowane],
+!!chto na tobie spać będzie:|.
+!!@VERSE:
+!!Jesli będ[zie] st[ary spał].
+!!bodaj z niego nie wstał,
+!!|:a ześli młody, przesli[cnej] urody,
+!!a Boze mu zdrowie daj:|.
+!!@VERSE:
+!!Po sadecku chodziła,
+!!kawalerow wodziła
+!!|:i wyglądała suchej lescynecki,
+!!która listek puściła:|.
+!!@VERSE:
+!!Cięzko tobie, dziwcyno,
+!!swego Jasinka dostać,
+!!|:tak tez i mnie, lescynie,
+!!zielony listek puscać:|.
+!!@@END: VERSES
+!!!role-singer: Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=541 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 454} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 454}
 !!!page: 454
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-09

@@ -3,58 +3,77 @@
 !!!source: DWOK41
 !!!id: 411098
 !!!signature: 41109800002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{4.dd
-8cc#
-8ee
-8dd
-=2
-8cc
-8d
-4f#
-4a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{4.dd	Cze-
+8cc#	-go
+8ee	sie-
+8dd	-dzisz
+=2	=2
+8cc	w_za-
+8d	-du-
+4f#	-ma-
+4a}	-niu,
 !!LO:LB:g=esac
-=3
-{4.cc
-8cc
-8ee
-8dd
-=4
-8dd
-8g
-4b
-4dd}
+=3	=3
+{4.cc	czy
+8cc	nie
+8ee	my-
+8dd	-ślisz
+=4	=4
+8dd/	o
+8g	ko-
+4b	-cha-
+4dd}	-niu?
 !!LO:LB:g=esac
-=5
-{4.gg
-8ff#
-8aa
-8gg
-=6
-8ff#
-8a
-4gg
-4ee}
+=5	=5
+{4.gg	Nie
+8ff#	wy-
+8aa	-my-
+8gg	-ślisz
+=6	=6
+8ff#	nie
+8a	i-
+4gg/)	-na-
+4ee/}	-czy,
 !!LO:LB:g=esac
-=7
-{4.dd
-8dd
-8ff#
-8ee
-=8
-8cc
-8f#
-4g
-4g}
-==
-*-
+=7	=7
+{4.dd	tyl-
+8dd	-ko
+8ff#	co
+8ee	ci
+=8	=8
+8cc	Bóg
+8f#	prze-
+4g	-zna-
+4g}	-cy.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Czego siedzisz w zadumaniu,
+!!czy nie myślisz o kochaniu?
+!!Nie wymyślisz nie inaczy,
+!!tylko co ci Bóg przeznacy.
+!!@VERSE:
+!!2. Bez boskiego przeznacenia
+!!próżne myśli i wecchnienia,
+!!ponurzona1 ziemia cała,
+!!wiosna nam się ukazała,
+!!podobno juz wiosny ni ma,
+!!zginęła nadzieja cała.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: (1) [lub:] pochmurzona
+!!@@END:
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=554 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 467} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 467}
 !!!page: 467
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-13

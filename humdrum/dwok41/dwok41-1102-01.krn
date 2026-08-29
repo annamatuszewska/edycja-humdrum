@@ -3,55 +3,76 @@
 !!!source: DWOK41
 !!!id: 411102
 !!!signature: 41110200001
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{8ee
-8dd#
-8ee
-=2
-16ff#
-16ee
-8dd#
-16cc
-16b
-=3
-8b
-8a
-8g#
-=4
-16e
-16d
-8e
-8e}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{8ee	Ej,
+8dd#	jak
+8ee	ci
+=2	=2
+16ff#	ja
+16ee	po-
+8dd#	-ja-
+16cc/L	-de,
+16b/J	.
+=3	=3
+8b	da,
+8a	z_ko-
+8g#	-ni-
+=4	=4
+16e	-ka-
+16d	-mi
+8e	do
+8e}	dnia,
 !!LO:LB:g=esac
-=5
-{8b
-8a
-8g#
-=6
-16a
-16cc
-8dd
-16cc
-16a
-=7
-8b
-8a
-8g#
-=8
-16e
-16d
-8e
-8e}
-==
-*-
+=5	=5
+{8bm	ej,
+8a	da,
+8g#	mo-
+=6	=6
+16a	-ja
+16cc	dziew-
+8dd	-cy-
+16ccL	-no,
+16a\J	.
+=7	=7
+8bm	da,
+8a	nie
+8g#	za-
+=8	=8
+16e	-ga-
+16d	-saj
+8e	o-
+8e}	-gnia.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Ej, jak ci ja pojade, da,
+!!z konikami do dnia,
+!!ej, da, moja dziewcyno,
+!!da, nie zagasaj ognia.
+!!@VERSE:
+!!2. Ej, jak ci ja pojade,
+!!da, i pojechać muszę,
+!!ej, zapłaces dziewcyno,
+!!a ja nie usłysę.
+!!@VERSE:
+!!3. Ej, jak ci ja pojade,
+!!da, z panami, z panami,
+!!ej, będzies wyglądała,
+!!dziewcy[no], za nami.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: Male
 !!!ONB: 654#_6_
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=557 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 470} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 470}
 !!!page: 470
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-14

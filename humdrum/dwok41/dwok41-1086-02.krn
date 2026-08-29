@@ -3,49 +3,99 @@
 !!!source: DWOK41
 !!!id: 411086
 !!!signature: 41108600002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8g
-8b
-4dd
-=2
-8g
-8b
-4dd
-=3
-8cc
-8ee
-4ee
-=4
-8cc
-8ee
-4gg}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8g	A
+8b	wi-
+4dd	-dzis,
+=2	=2
+8g	dziew-
+8b	-cy-
+4dd	-no,
+=3	=3
+8cc	ten
+8ee	ka-
+4ee	-mień
+=4	=4
+8cc	nad
+8ee	wo-
+4gg}	-dą?
 !!LO:LB:g=esac
-=5
-{8dd
-8dd
-4dd
-=6
-8g
-8b
-4dd
-=7
-8ee
-8b
-8cc
-8a
-=8
-8a
-8g
-4g}
-==
-*-
+=5	=5
+{8dd	Jak
+8dd	ka-
+4dd	-mień
+=6	=6
+8g	po-
+8b	-pły-
+4dd	-nie,
+=7	=7
+8ee	o-
+8b	-ze-
+8cc	-nię
+8a	się
+=8	=8
+8aL\	z_to-
+8gJ\	.
+4g}	-bą.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A widzis, dziewcyno,
+!!ten kamień nad wodą?
+!!Jak kamień popłynie,
+!!ozenię się z tobą.
+!!@VERSE:
+!!2. Sto lat pokutuję
+!!i wypokutuję,
+!!a na niebie gwiazdów
+!!nigdy nie zrachuję.
+!!@VERSE:
+!!3. Cyś ty, durniu, widział,
+!!zeby kamień pływał,
+!!a ja cie nie prosę,
+!!byś ty u mnie bywał.
+!!@VERSE:
+!!4. A widzis, dziewcyno,
+!!tę suchą tąpole?
+!!Jak ci sie rozwinie,
+!!wtencas bedzies moją.
+!!@VERSE:
+!!5. A widzis, Jasienku,
+!!te gwiazdy na niebie?
+!!Jak je porachujes,
+!!pojdę ja za ciebie.
+!!@VERSE:
+!!6. Weznę konewecki,
+!!będę wodę nosić,
+!!będe ją poliwać,
+!!będe Boga prosić.
+!!@VERSE:
+!!7. Wolałbym, dziewcyno,
+!!sto lat pokutować,
+!!nizeli na niebie
+!!gwiazdy porachować.
+!!@VERSE:
+!!8. Patrzyła z daleka,
+!!patrzyła i z bliska,
+!!cy ij nie puściła
+!!zielonego listka.
+!!@VERSE:
+!!9. Cięzko ci, dziewcyno,
+!!Jasinka opuscić,
+!!tak i mej tąpolecce
+!!zielony lisć puscić.
+!!@@END: VERSES
+!!!role-singer: Many characters
+!!!singer-sex: Male, Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=546 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 459} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 459}
 !!!page: 459
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-12

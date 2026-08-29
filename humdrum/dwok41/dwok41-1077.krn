@@ -3,64 +3,73 @@
 !!!source: DWOK41
 !!!id: 411077
 !!!signature: 41107700000
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/4
-=1
-{4ee
-4ee
-8cc#
-8dd
-=2
-2ee
-4cc#
-=3
-4ee
-4ee
-4cc#
-=4
-2a
-4e}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M3/4	*
+=1	=1
+{4ee	A
+4ee	w_sie-
+8cc#L	-ni,
+8ddJ	.
+=2	=2
+2ee	w_sie-
+4cc#	-ni
+=3	=3
+4ee	mię-
+4ee	-dzy
+4cc#	be-
+=4	=4
+2a	-czka-
+4e}	-mi,
 !!LO:LB:g=esac
-=5
-{4b
-4b
-4dd
-=6
-4cc#
-4cc#
-4a
-=7
-8f#
-8d
-4f#
-4a
-=8
-4g#
-2b}
+=5	=5
+{4b	sto-
+4b	-i
+4dd	tam
+=6	=6
+4cc#	ka-
+4cc#	-na-
+4a	-pka
+=7	=7
+8f#L	z_po-
+8dJ	.
+4f#	-du-
+4a	-szecz-
+=8	=8
+4g#	-ka-
+2b}	-mi,
 !!LO:LB:g=esac
-=9
-{4b
-4b
-4dd
-=10
-4cc#
-4cc#
-4a
-=11
-8f#
-8d
-4f#
-4a
-=12
-4g#
-2e}
-==
-*-
+=9	=9
+{4b	sto-
+4b	-i
+4dd	tam
+=10	=10
+4cc#	ka-
+4cc#	-na-
+4a	-pka
+=11	=11
+8f#L	z_po-
+8dJ	.
+4f#	-du-
+4a	-szecz-
+=12	=12
+4g#	-ka-
+2e}	-mi.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A w sieni, w sieni
+!!między beczkami,
+!!|:stoi tam kanapka
+!!z poduszeczkami:|.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=541 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 454} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 454}
 !!!page: 454
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-09

@@ -3,53 +3,64 @@
 !!!source: DWOK41
 !!!id: 411094
 !!!signature: 41109400000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{4ff
-4dd
-4ff
-=2
-8ff
-8ee
-4.cc
-8g
-=3
-4b
-4dd
-4dd
-=4
-8ff
-8ee
-4.cc
-8g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{4ff	Oj,
+4dd	wian-
+4ff	-ku,
+=2	=2
+8ff	ty
+8ee	mój
+4.cc	wian-
+8g	-ku,
+=3	=3
+4b	ty
+4dd	wian-
+4dd	-ku
+=4	=4
+8ff	le-
+8ee	-wan-
+4.cc	-do-
+8g}	-wy,
 !!LO:LB:g=esac
-=5
-{4b
-4dd
-4dd
-=6
-8.ff
-16ee
-4dd
-8dd
-8cc
-=7
-4b
-4dd
-4ff
-=8
-8ff
-8ee
-4.cc
-8g}
-==
-*-
+=5	=5
+{4b	wie-
+4dd	-trzy-
+4dd	-sko
+=6	=6
+8.ffL	zer-
+16eeJ	.
+4dd	-wa-
+(8eeq	.
+8dd)L	-ło,
+8ccJ	.
+=7	=7
+4b	oj,
+4dd	cie-
+4ff	-bie
+=8	=8
+8ff	z_mo-
+8ee	-jej
+4.cc	gło-
+8g}	-wy.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oj, wianku, ty mój wianku,
+!!ty wianku lewandowy,
+!!wietrzysko zerwało,
+!!oj, ciebie z mojej głowy.
+!!@@END: VERSES
+!!!role-singer: Girl
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=552 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 465} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 465}
 !!!page: 465
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-13

@@ -3,64 +3,88 @@
 !!!source: DWOK41
 !!!id: 411108
 !!!signature: 41110800000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{8gg
-8ee
-8dd
-=2
-8cc
-4ee
-=3
-8gg
-8ee
-8dd
-=4
-16cc
-16b
-4a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{8gg	Po-
+8ee	-je-
+8dd	-chał
+=2	=2
+8cc	Ja-
+4ee	-sio
+=3	=3
+8gg	na
+8ee	po-
+8dd	-lo-
+=4	=4
+16ccL	-wa-
+16bJ	.
+4a}	-nie,
 !!LO:LB:g=esac
-=5
-{8g#
-8b
-8dd
-=6
-8a
-8cc
-8ee
-=7
-8b
-8b
-8dd
-=8
-16cc
-16b
-4a}
+=5	=5
+{8g#	miał
+8b	żon-
+8dd	-kę
+=6	=6
+8a	ła-
+8ccL	-dną
+8eeJ	.
+=7	=7
+8b	jak
+8b	ma-
+8dd	-lo-
+=8	=8
+16ccL	-wa-
+16bJ	.
+4a}	-nie.
 !!LO:LB:g=esac
-=9
-{8g#
-8b
-8dd
-=10
-8a
-8cc
-8ee
-=11
-8dd
-8b
-8dd
-=12
-16cc
-16b
-4a}
-==
-*-
+=9	=9
+{8g#	miał
+8b	żon-
+8dd	-kę
+=10	=10
+8a	ła-
+8ccL	-dną
+8eeJ	.
+=11	=11
+8dd	jak
+8b	ma-
+8dd	-lo-
+=12	=12
+16ccL	-wa-
+16bJ	.
+4a}	-nie.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Pojechał Jasio na polowanie,
+!!|:miał żonkę ładną jak malowanie:|.
+!!@VERSE:
+!!2. Przyjeżdża w nocy i o północy
+!!|:zastukał w okienko, zapłakał ocy :|.
+!!@VERSE:
+!!3. Kasińka wstała, gdyby nie spała,
+!!|:oczki utarła, pocałowała :|.
+!!@VERSE:
+!!4. Idźże mi, Kasiu, napój mi konia,
+!!|:nie twojam żona, bym ci poiła :|.
+!!@VERSE:
+!!5. Chociaż nie zona, aleć kochanka,
+!!|:napój mi, napój mego kaśtanka :|.
+!!@VERSE:
+!!6. A twój konicek wielki śkódnicek,
+!!|:wyjad(ł) łąceńkę i pastewnicek :|.
+!!@@END: VERSES
+!!!role-singer: Narrator, Lover, Mistress
+!!!role-listener: Mistress, Lover
+!!!singer-sex: Male, Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=560 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 473} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 473}
 !!!page: 473
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-14

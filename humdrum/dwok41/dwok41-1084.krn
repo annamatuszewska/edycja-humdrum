@@ -3,56 +3,72 @@
 !!!source: DWOK41
 !!!id: 411084
 !!!signature: 41108400000
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M3/4
-=1
-{4ff
-8ee-
-8cc
-8ee-
-8gg
-=2
-4ff
-4dd
-4ff
-=3
-8ff
-8ee-
-4cc
-8a
-8f
-=4
-4b-
-4dd
-4b-}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M3/4	*
+=1	=1
+{4ff	Oj,
+8ee-L	kie-
+8ccJ	.
+8ee-	-dy
+8gg	ja
+=2	=2
+4ff	po-
+4dd	-ja-
+4ff	-dę,
+=3	=3
+8ff	da,
+8ee-	i
+4cc	po-
+8aL	-je-
+8fJ	.
+=4	=4
+4b-	-chać
+4dd	mu-
+4b-}	-szę,
 !!LO:LB:g=esac
-=5
-{8dd
-8ee-
-4cc
-8a
-8f
-=6
-4b-
-4dd
-4ff
-=7
-8ff
-8ee
-4cc
-8a
-8f
-=8
-4b-
-4dd
-4b-}
-==
-*-
+=5	=5
+{8dd	da,
+8ee-	za-
+4cc	-pła-
+8aL	-czesz,
+8fJ	.
+=6	=6
+4b-	dziew-
+4dd	-czy-
+4ff	-no,
+=7	=7
+8ff	oj,
+8ee	a
+4cc	ja
+8aL	nie
+8fJ	.
+=8	=8
+4b-	u-
+4dd	-sły-
+4b-}	-szę.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj, kiedy ja pojadę, da,
+!!i pojechać muszę,
+!!da, zapłaczesz, dziewczyno,
+!!oj, a ja nie usłyszę.
+!!@VERSE:
+!!2. Oj, nie płaczże, dziewczyno,
+!!da, nie płaczże, nie płaczże,
+!!a już ci twój wianeczek,
+!!da, w Warszawie na Pradze.
+!!@@END: VERSES
+!!!role-singer: Lover, Narrator
+!!!role-listener: Girl 
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=545 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 458} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 458}
 !!!page: 458
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-12

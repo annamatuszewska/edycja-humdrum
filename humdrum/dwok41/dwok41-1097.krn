@@ -3,58 +3,84 @@
 !!!source: DWOK41
 !!!id: 411097
 !!!signature: 41109700000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8g
-8g
-4.ee
-8dd
-=2
-8cc
-8ee
-4g
-4g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8g	Cze-
+8g	-go
+4.ee	sie-
+8dd	-dzisz
+=2	=2
+8cc	w_za-
+8ee	-du-
+4g	-ma-
+4g}	-niu,
 !!LO:LB:g=esac
-=3
-{8a
-8b
-4.cc
-8a
-=4
-8g
-8g
-4.cc
-8e}
+=3	=3
+{8a	czy
+8b	nie
+4.cc	my-
+8a	-ślisz
+=4	=4
+8g	o
+8g	ko-
+4.cc	-cha-
+8e}	-niu?
 !!LO:LB:g=esac
-=5
-{4.f
-8a
-8g
-8f
-=6
-8e
-8g
-4cc
-4ee}
+=5	=5
+{4.f	Nie
+8a	wy-
+8g	-du-
+8f	-masz
+=6	=6
+8e	nic
+8g	i-
+4cc	-na-
+4ee}	-czej,
 !!LO:LB:g=esac
-=7
-{4.ff
-8g
-8b
-8dd
-=8
-8cc
-8cc
-4ee
-4cc}
-==
-*-
+=7	=7
+{4.ff	tyl-
+8g	-ko
+8b	co
+8dd	ci
+=8	=8
+8cc	Bóg
+8cc	prze-
+4ee	-zna-
+4cc}	-czy.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Czego siedzisz w zadumaniu,
+!!czy nie myślisz o kochaniu?
+!!Nie wydumasz nic inaczej,
+!!tylko co ci Bóg przeznaczy.
+!!@VERSE:
+!!2. Kiedy pójdę do kościoła,
+!!będę z innym przysięgała,
+!!tobie będzie żal na sercu,
+!!ja się będę z ciebie smiała.
+!!@VERSE:
+!!3. Bog zaczyna, Bog to konczy,
+!!kochających serca łączy,
+!!przez boskiego przeznaczenia
+!!nie będzie nic i westchnienia.
+!!@VERSE:
+!!4. Sama z siebie śmiać się będziesz,
+!!grzeczniejszego mieć nie będziesz,
+!!a ja tobie zeznam prawdę,
+!!że sobie grzeczniejszą znajdę.
+!!@@END: VERSES
+!!!role-singer: Narrator, Girl
+!!!role-listener: Boy, Girl
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=553 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 466-467} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 466-467}
 !!!page: 466-467
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-13

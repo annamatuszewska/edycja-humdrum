@@ -3,74 +3,115 @@
 !!!source: DWOK41
 !!!id: 411088
 !!!signature: 41108800001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16g
-8g
-8b
-=2
-16dd
-16dd
-8b
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Po-
+16g	-szła
+8g	Zo-
+8b	-sia
+=2	=2
+16dd	na
+16dd	ja-
+8b	-go-
+8g}	-dy,
 !!LO:LB:g=esac
-=3
-{16gg
-16gg
-8ff#
-8aa
-=4
-4gg
-8g}
+=3	=3
+{16gg	Zo-
+16gg	-sia
+8ff#	mu
+8aa	się
+=4	=4
+4gg	skry-
+8g}	-ła
 !!LO:LB:g=esac
-=5
-{16gg
-16gg
-8ff#
-8aa
-=6
-4gg
-8g}
+=5	=5
+{16gg	Zo-
+16gg	-sia
+8ff#	mu
+8aa	się
+=6	=6
+4gg	skry-
+8g}	-ła
 !!LO:LB:g=esac
-=7
-{16gg
-16gg
-8ff#
-8a
-=8
-16ee
-16ee
-8dd
-8g}
+=7	=7
+{16gg	pod
+16gg	ja-
+8ff#	-wo-
+8a	-rem,
+=8	=8
+16ee	pod
+16ee	zie-
+8dd	-lo-
+8g}	-nym,
 !!LO:LB:g=esac
-=9
-{8b
-16b
-16a
-16cc
-16ee
-=10
-16dd
-16dd
-4b}
+=9	=9
+{8b	rom
+16b	tra-
+16a	-dy
+16cc	ra-
+16ee	-dy
+=10	=10
+16dd	rad
+(8eeq	.
+16dd)	ra-
+4b}	-dom,
 !!LO:LB:g=esac
-=11
-{16a
-16a
-8cc
-8b
-=12
-4g
-8g}
-==
-*-
+=11	=11
+{16a	lis-
+16a	-tkiem
+8cc	się
+8b	na-
+=12	=12
+4g	-kry-
+8g}	-ła.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Poszła Zosia na jagody,
+!!|:Zosia mu się skryła:|,
+!!pod jaworem, pod zielonym,
+!!rom trady rady rad radom,
+!!listkiem się nakryła.
+!!@VERSE:
+!!2. Za szklaneczkę wina,
+!!|: za masła łyżeczkę :|,
+!!bandę sobie kołysała,
+!![rom trady rady rad radom],
+!!małe kukaweczkę.
+!!@VERSE:
+!!3. Skoro on je znalaz,
+!!|: skoczył z konia zaraz :|
+!!i uściskał, ucałował,
+!!rom [trady rady rad radom],
+!!i cieszył się zaraz.
+!!@VERSE:
+!!4. A spijże mi,
+!!|: mała kukaweczko :|,
+!!a już mi nikt nie powi,
+!![rom trady rady rad radom],
+!!dzien dobry, [dzieweczko].
+!!@VERSE:
+!!5. Oj, co ja zrobiła,
+!!|: co ja uczyniła :|,
+!!Jasienkoju buzi dała,
+!![rom trady rady rad radom],
+!!za sklaneckę wina.
+!!@VERSE:
+!!6. Tylko mi powi,
+!!|: dzień dobry, pani :|,
+!!a co spojrzę w kolibeczkę,
+!![rom trady rady rad rad radom],
+!!zaleje się łzami.
+!!@@END: VERSES
+!!!role-singer: Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=548 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 461} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 461}
 !!!page: 461
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-12

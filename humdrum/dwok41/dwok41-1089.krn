@@ -3,74 +3,103 @@
 !!!source: DWOK41
 !!!id: 411089
 !!!signature: 41108900000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8d
-8d
-4g
-4g
-=2
-2b
-4dd
-=3
-8dd
-8cc
-4a
-4cc
-=4
-4ee
-2dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8d	Nio-
+8d	-sła
+4g	pa-
+4g	-sty-
+=2	=2
+2b	-re-
+4dd	-cka
+=3	=3
+8dd	na
+8cc	gło-
+4a	-wie
+4cc	pio-
+=4	=4
+4ee	-re-
+2dd}	-cka,
 !!LO:LB:g=esac
-=5
-{8d
-8d
-4g
-4g
-=6
-2b
-4dd
-=7
-8dd
-8cc
-4cc
-4f#
-=8
-4g
-2g}
+=5	=5
+{8d	pa-
+8d	-sty-
+4g	-re-
+4g	-czek
+=6	=6
+2b	do
+4dd	ni,
+=7	=7
+8dd	ó-
+8cc	-na
+4cc	mu
+4f#	sie
+=8	=8
+4g	bro-
+2g}	-ni.
 !!LO:LB:g=esac
-=9
-{2dd
-4a
-=10
-8b-
-8a
-2a
-=11
-2dd
-4a
-=12
-8b-
-8a
-2a}
+=9	=9
+{2dd	Daj
+4a	mi
+=10	=10
+8b-/L	po-
+8aJ	.
+2a	-kój,
+=11	=11
+2dd	jak
+4a	cię
+=12	=12
+8b-/L	pro-
+8aJ	.
+2a}	-szę,
 !!LO:LB:g=esac
-=13
-{8g
-8a
-8b-
-8a
-4g
-=14
-8g
-8f#
-2f#}
-==
-*-
+=13	=13
+{8g	bo
+8a	se
+8b-	trzó-
+8a	-dę
+4g	z_po-
+=14	=14
+8g	-la
+8f#	spło-
+2f#}	-sę.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Niosła pastyrecka na głowie piorecka,
+!!pastyreczek do ni, óna mu sie broni.
+!!Daj mi pokój, jak cię proszę,
+!!bo se trzódę z pola spłosę.
+!!@VERSE:
+!!2. Moja pastyreczko, zawróce ci trzody,
+!!ale mi musisz dać gębuleńki wprzódy.
+!!Ach, moj Boże, nie dam gęby,
+!!tu murawka, tu jest wszędy.
+!!@VERSE:
+!!3. A ja na to nie dbam i prosić nie będę,
+!!scisnę, pocałuję, wszystkiego nabędę.
+!!Coż ci winien, ach, moj wianek,
+!!wywrócisz mi z mlikiem dzbanek.
+!!@VERSE:
+!!4. Nie wywrócę dzbanka, wywrócę ja ciebie,
+!!jak ci ją przewrócił, ona nozką grzebie.
+!!Ach, moj Boże, mocny Boże,
+!!tu z murawki moje łoże.
+!!@VERSE:
+!!5. Ach, jak nięscęśliwa, uboga dziewcyna,
+!!jestem pokrzywdzona od ciebie, chłopcyno.
+!!Jeśli ci o to chodzi, zagram na fujarce,
+!!ja więcy nie płacę w Warszawie synkarce.
+!!@@END: VERSES
+!!!role-singer: Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=548 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 461-462} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 461-462}
 !!!page: 461-462
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-12
