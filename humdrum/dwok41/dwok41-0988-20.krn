@@ -5,37 +5,37 @@
 !!!signature: 4198800020
 **kern
 *clefG2
-*k[b-e-]
+*k[]
 *B-:
 *M3/4
 =1
-{8f
-8a
-8b-
+{8fL
+8aJ
+8b-L
 8dd
 8ff
-8ee
+8eeJ
 =2
-8cc
+8ccL
 8ee
 8ff
 8dd
-8ff
-8ee
+8ffM
+8eeJ
 =3
-8cc
-8a
+8ccL
+8a\
 8b-
 8dd
 8ff
-8ee
+8eeJ
 =4
-8cc
+8ccL
 8ee
 8ff
 8dd
 8b-
-8a}
+8a}\J
 ==
 *-
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
@@ -43,3 +43,5 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=498 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 411} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 411}
 !!!page: 411
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-10
