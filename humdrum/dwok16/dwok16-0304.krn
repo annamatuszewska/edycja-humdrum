@@ -3,81 +3,93 @@
 !!!source: DWOK16
 !!!id: 16304
 !!!signature: 1630400000
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/4
-=1
-4r
-{8e
-8g#
-8a
-8b
-=2
-8dd
-8ee
-8dd
-8a
-4b
-=3
-4b
-4dd
-4ee}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M3/4	*
+=1	=1
+4r	.
+{8e	W_poć-
+8g#	-ciwości
+8a	.
+8b/	.
+=2	=2
+8dd	sie
+8ee	Mary-
+8ddL	.
+8aJ	.
+4b	-sia
+=3	=3
+4b	chowała,
+4dd	.
+4ee;}	.
 !!LO:LB:g=esac
-=4
-4r
-{8ff#
-8ee
-8ee
-8b
-=5
-8dd
-8ee
-8dd
-8a
-4b
-=6
-4cc
-4b
-4a}
+=4	=4
+4r	.
+{8ff#	bo
+8ee	przy
+8ee	świcy
+8b	.
+=5	=5
+8dd	swój
+8ee	wianeczek
+8ddL	.
+8aJ	.
+4b	.
+=6	=6
+4cc	oddała.
+4b	.
+4a}	.
 !!LO:LB:g=esac
-=7
-4r
-{8e
-8g#
-8a
-8b
-=8
-8dd
-8ee
-8dd
-8a
-4b
-=9
-4b
-4dd
-4ee}
+=7	=7
+4r	.
+{8e	Dzięku-
+8g#	.
+8a	-ję
+8b/	ta-
+=8	=8
+8dd	-tuleńku
+8ee	.
+8ddL	.
+8aJ	.
+4b	dzię-
+=9	=9
+4b	-kuję
+4dd	.
+4ee;}	ci,
 !!LO:LB:g=esac
-=10
-4r
-{8ff#
-8ee
-8ee
-8b
-=11
-8dd
-8ee
-8dd
-8a
-4b
-=12
-4dd
-4b
-4a}
-==
-*-
+=10	=10
+4r	.
+{8ff#	coście
+8ee	.
+8ee	mnie
+8b	wy-
+=11	=11
+8dd	-chowali
+8ee	.
+8ddL	.
+8aJ	.
+4b	w_poć-
+=12	=12
+4dd/	-ciwości.
+4b/	.
+4a}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Maiden
+!!!role-listener: Father
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. W poćciwości sie Marysia chowała,
+!!bo przy świcy swój wianeczek oddała.
+!!Dziękuję tatuleńku dziękuję ci,
+!!coście mnie wychowali w poćciwości.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=246 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 226} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 226}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

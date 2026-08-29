@@ -3,61 +3,75 @@
 !!!source: DWOK16
 !!!id: 16302
 !!!signature: 1630200000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16a
-16cc
-8ee
-8dd
-=2
-16cc
-16a
-8g
-8a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16a\	Trzeba
+16cc	.
+8ee	jej
+8dd	dać
+=2	=2
+16cc	na
+16a	garnu-
+8g\	.
+8a\}	-sek,
 !!LO:LB:g=esac
-=3
-{16a
-16cc
-8ee
-8dd
-=4
-16cc
-16a
-16g
-16f#
-16a
-16cc}
+=3	=3
+{16a\	bo
+16cc	jej
+8ee	stłuce
+8dd	.
+=4	=4
+16cc	bombełu-
+16a	.
+16gL	.
+16f#J	.
+16aL	-sek,
+16ccJ/}	.
 !!LO:LB:g=esac
-=5
-{16a
-16f#
-8g
-8a
-=6
-16a
-16f#
-8g
-8a}
+=5	=5
+{16a	Trzeba
+16f#	.
+8g	jej
+8a\	dać
+=6	=6
+16aM	na
+16f#	sit-
+8gq	.
+8a\}	-ko,
 !!LO:LB:g=esac
-=7
-{16a
-16f#
-8g
-16a
-16f#
-=8
-16a
-16f#
-8g
-16a
-16cc}
-==
-*-
+=7	=7
+{16a	trzeba
+16f#	.
+8g	jej
+16aL	dać
+16f#J	.
+=8	=8
+16aM	na
+16f#	wsytko.
+8gq	.
+16aL	.
+16ccJ/}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Trzeba jej dać na garnusek,
+!!bo jej stłuce bombełusek,
+!!Trzeba jej dać na sitko,
+!!trzeba jej dać na wsytko.
+!!@VERSE:
+!!2. Trzeba jéj dać, nie żałować,
+!!trzeb a jéj dać, ulitować.
+!!Trzeba jéj dać, gosponi,
+!!żeby nimiał nic do nij.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=245 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 225} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 225}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

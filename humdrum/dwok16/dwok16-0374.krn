@@ -3,62 +3,84 @@
 !!!source: DWOK16
 !!!id: 16374
 !!!signature: 1637400000
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/4
-=1
-{8cc#
-8dd
-8ee
-8ff#
-8ee
-8ee
-=2
-8gg#
-8ff#
-8ee
-8dd
-4cc#
-=3
-8cc#
-8b
-8cc#
-8dd
-8cc#
-8a
-=4
-4.b
-8g#
-4a}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M3/4	*
+=1	=1
+{8cc#L	A
+8dd	gdzieżeś
+8ee	.
+8ff#J/	ty
+8eeL	był
+8eeJ/	.
+=2	=2
+8gg#L	Jasieńku
+8ff#	.
+8ee	.
+8ddJ/	miły
+4cc#/	.
+=3	=3
+8cc#	kiedym
+8b	.
+8cc#	do
+8dd	ciebie
+8cc#L	.
+8aJ	.
+=4	=4
+(4.b	sła-
+8g#)	.
+4a}	-ła?
 !!LO:LB:g=esac
-=5
-{8a
-8b
-8cc#
-8dd
-4cc#
-=6
-8ee
-8dd
-8cc#
-8b
-4a
-=7
-8cc#
-8b
-8cc#
-8dd
-8cc#
-8a
-=8
-4.b
-8g#
-4a}
-==
-*-
+=5	=5
+{8a\	Cyś
+8b	nie
+8cc#	był
+8dd	doma,
+4cc#	.
+=6	=6
+8ee	cyś
+8dd	nimiał
+8cc#	.
+8b	konia,
+4a\	.
+=7	=7
+8cc#	cy
+8b	ci
+8cc#	matka
+8dd	.
+8cc#L	nie
+8aJ	.
+=8	=8
+(4.b	da-
+8g#)	.
+4a}	-ła?
+==	==
+*-	*-
+!!!role-singer: Maiden/Sister, Bachelor
+!!!role-listener: Bachelor, Maiden, Brother
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. A gdzieżeś ty był Jasieńku miły
+!!kiedym do ciebie słała?
+!!cyś nie był doma, cyś nimiał konia,
+!!cy ci matka nie dała?
+!!@VERSE:
+!!2. Ja byłem doma, i miałem konia,
+!!matula mi kazała,
+!!starsa siostrzycka, starsa siostrzycka,
+!!ta mi nie dozwalała.
+!!@VERSE:
+!!3. Nie jedź bracisku, nie jedź rodzony,
+!!o w tak dalekie strony;
+!!konika strudzis, i sam się znudzis,
+!!nie dostanies tam zony.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=264 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 244} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 244}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

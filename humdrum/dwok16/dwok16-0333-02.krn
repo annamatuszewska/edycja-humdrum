@@ -3,52 +3,72 @@
 !!!source: DWOK16
 !!!id: 16333
 !!!signature: 1633300002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8cc
-8b
-8a
-=2
-8cc
-8b
-8g
-=3
-8cc
-8b
-8a
-=4
-4g
-16f#
-16d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8cc	Oj
+8b	w_lesie
+8a\	.
+=2	=2
+8aq	.
+8cc	w_lesie
+8bL	.
+8gJ	.
+=3	=3
+8cc	a
+8b	w_orze-
+8a\	.
+=4	=4
+4g	-chowie,
+(16f#L	.
+16dJ)}	.
 !!LO:LB:g=esac
-=5
-{8a
-8a
-8b
-=6
-8f#
-4g
-=7
-8a
-8a
-8b
-=8
-8cc
-4b
-=9
-8a
-8g
-8b
-=10
-8f#
-4g}
-==
-*-
+=5	=5
+{8a\	zbiera
+8a\	.
+8b	Ja-
+=6	=6
+8f#	-sieńko,
+4g	.
+=7	=7
+8a\	zbiera
+8a\	.
+8b	Ja-
+=8	=8
+8cc	-Sieńko
+4b	.
+=9	=9
+8a	druży-
+8g	.
+8b	-nę
+=10	=10
+8f#	swoją.
+4g}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!!role-listener: Bachelor
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Oj w lesie w lesie a w orzechowie,
+!!zbiera Jasieńko, zbiera Jasieńko drużynę swoją.
+!!@VERSE:
+!!2. Oj już nazbierał — oj już ma dosyć,
+!!a tylko trzeba ojca, mateńkę prosić.
+!!@VERSE:
+!!3. Przeproś mateńkę, jakeś rozgniewał,
+!!jak nie przeprosisz, jak nie przebłagasz,
+!!doli nie będziesz miał.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Nuta ob. nr 216.
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=254 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 234} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 234}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

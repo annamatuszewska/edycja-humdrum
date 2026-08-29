@@ -3,71 +3,97 @@
 !!!source: DWOK16
 !!!id: 16250
 !!!signature: 1625000002
-**kern
-*clefG2
-*k[]
-*C:
-*M4/4
-=1
-{4ff
-8ff
-8ff
-4ee
-8ee
-8dd
-=2
-4dd
-8b
-8g
-4cc}
-4r
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M4/4	*
+*met(c)	*
+=1	=1
+{4ff	Tu
+8ffL	lipieńka,
+8ffJ/	.
+4ee	.
+8eeL	.
+8ddJ/	.
+=2	=2
+4dd	tu
+8bL	jawór
+8gJ	.
+4cc}	.
+4r	.
 !!LO:LB:g=esac
-=3
-{8g
-8a
-8b
-8cc
-4ee
-4dd
-=4
-4b
-8g
-8b
-4cc}
-4r
+=3	=3
+{8g	gdzieżeś
+8a	.
+8b	się
+8cc	Jasieńku
+4ee	.
+4dd	.
+=4	=4
+4b	zabawił.
+8gL	.
+8bJ	.
+4cc}	.
+4r	.
 !!LO:LB:g=esac
-=5
-{4g
-8a
-8b
-4cc
-4ee
-=6
-4dd
-8b
-8g
-4cc}
-4r
+=5	=5
+{4g	Zabawiłem
+8a	.
+8b/	.
+4cc	.
+4ee	się
+=6	=6
+4dd	u
+8bL	Zosie,
+8gJ	.
+4cc}	.
+4r	.
 !!LO:LB:g=esac
-=7
-{8g
-8a
-8b
-8cc
-8g
-8a
-8b
-8cc
-=8
-8ee
-8dd
-8cc
-8b
-4cc}
-4r
-==
-*-
+=7	=7
+{8g	a
+8a	moje
+8b	.
+8cc	koniki
+8gL	.
+8aJ	.
+8bL	.
+8ccJ	.
+=8	=8
+8eeL	na
+8dd	.
+8cc	rosie.
+8bJ/	.
+4cc}	.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Tu lipieńka, tu jawór -
+!!gdzieżeś się Jasieńku zabawił?
+!!Zabawiłem się u Zosie,
+!!a moje koniki na rosie.
+!!@VERSE:
+!!2. Zabawiłem się u Jagny
+!!a moje koniki nie jadły;
+!!da i nie jadły, nie piły,
+!!da bo u dziwczyny były.
+!!@VERSE:
+!!3. Zielona ruta, jałowiec,
+!!lepszy kawaler niż wdowiec;
+!!bo wdowiec będzie wymawiał,
+!!lepszą ja pierszą żonę miał.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Na zaręczynach:
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=232 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 212} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 212}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

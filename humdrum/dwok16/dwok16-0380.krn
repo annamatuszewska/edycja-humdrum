@@ -3,65 +3,76 @@
 !!!source: DWOK16
 !!!id: 16380
 !!!signature: 1638000000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8d
-4dd
-=2
-8dd
-4b
-=3
-8b
-4dd
-=4
-8dd
-4b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8d\	Podzię-
+4dd	.
+=2	=2
+8dd	-kujmyż
+4b	.
+=3	=3
+8b/	Panu
+4dd/	.
+=4	=4
+8dd	Bogu
+4b}	.
 !!LO:LB:g=esac
-=5
-{8dd
-8dd
-8dd
-=6
-8dd
-4b
-=7
-8dd
-8dd
-16dd
-16b
-=8
-8dd
-8b
-16b
-16a
-=9
-4.g
-=10
-16f#
-16d}
-4r
+=5	=5
+{8dd	gospoda-
+8dd	.
+8dd	.
+=6	=6
+8dd	-rzowi
+4b	.
+=7	=7
+8dd	z_gospody-
+8dd	.
+16ddL	.
+16bJ/	.
+=8	=8
+8dd	-nią
+8bL	za
+16b	.
+16aJ	.
+=9	=9
+4.g	o-
+=10	=10
+(16f#L	-biad,
+16dJ)}	.
+4r	.
 !!LO:LB:g=esac
-=11
-{4dd
-8b
-=12
-8g
-4b
-=13
-8g
-8f#
-16e
-16f#
-=14
-4g}
-8r
-==
-*-
+=11	=11
+{4dd	hej
+8b	za
+=12	=12
+8g	o-
+4bm	-biad
+=13	=13
+8g	za
+4f#	do-
+16eqL	.
+16f#qJ	.
+=14	=14
+4g}	-bry.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Guests
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Podziękujmyż Panu Bogu
+!!gospodarzowi z gospodynią
+!!za obiad, hej za obiad za dobry.
+!!Były nam tu stoły, talirze,
+!!każdy drużebka swój liże.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=265 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 245} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 245}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

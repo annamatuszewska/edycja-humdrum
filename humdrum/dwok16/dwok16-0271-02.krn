@@ -3,72 +3,85 @@
 !!!source: DWOK16
 !!!id: 16271
 !!!signature: 1627100002
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{8a
-8ee
-8ee
-=2
-8ee
-8dd#
-8ee
-=3
-8ee
-16dd#
-16b
-8b
-=4
-8dd#
-4ee}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{8a\	A
+8eeL	wisi
+8eeJ/	.
+=2	=2
+8ee	wia-
+8dd#	-neńko
+8ee	.
+=3	=3
+8ee	wi-
+16dd#L	-si
+16bJ	.
+8b	ru-
+=4	=4
+8dd#	-cia-
+4ee}	-ny,
 !!LO:LB:g=esac
-=5
-{8ee
-16dd#
-16b
-8b
-=6
-16cc
-16b
-4a
-=7
-4.b
-=8
-16cc
-16a}
-4r
+=5	=5
+{8ee	na
+16dd#L	jedło-
+16bJ	.
+8b	.
+=6	=6
+16ccL	-wej
+16bJ	.
+4a\	ró-
+=7	=7
+4.b	-żeń-
+=8	=8
+16ccL	-ce;
+16aJ}	.
+4r	.
 !!LO:LB:g=esac
-=9
-{8a
-8b
-8ee
-=10
-8ee
-8dd#
-8b
-=11
-8dd#
-4ee}
+=9	=9
+{8a\	na
+8b	jedło-
+8ee	.
+=10	=10
+8ee	-wej
+8dd#L	ró-
+8bJ	.
+=11	=11
+8dd#	-żeńce,
+4ee}	.
 !!LO:LB:g=esac
-=12
-{8ee
-8b
-8ee
-=13
-16cc
-16a
-4b
-=14
-4.a
-=15
-8a}
-4r
-==
-*-
+=12	=12
+{8ee	w_tej
+8b	nowej
+8ee	.
+=13	=13
+16ccL	ko-
+16aJ	.
+4b	-mó-
+=14	=14
+4.a	-reń-
+=15	=15
+8a}	-ce.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE
+!!A wisi wianeńko wisi ruciany,
+!!na jedłowej różeńce;
+!!na jedłowej różeńce,
+!!w tej nowej komóreńce.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Nuta ob. nr 166.
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=238 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 218} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 218}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

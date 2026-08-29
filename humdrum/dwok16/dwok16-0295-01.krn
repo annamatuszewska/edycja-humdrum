@@ -3,75 +3,99 @@
 !!!source: DWOK16
 !!!id: 16295
 !!!signature: 1629500001
-**kern
-*clefG2
-*k[]
-*a:
-*M2/4
-=1
-{4a
-8a
-8ff
-=2
-4ee
-4dd
-=3
-8cc#
-8a
-8g
-8b-
-=4
-2a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M2/4	*
+=1	=1
+{4a\	Oj
+8a	chmielu
+8ff	.
+=2	=2
+4ee	chmielu
+4dd	.
+=3	=3
+8cc#	ty
+8a\	bujne
+8g	.
+8b-/	zie-
+=4	=4
+2a}	-le,
 !!LO:LB:g=esac
-=5
-{8a
-8a
-8a
-8ff
-=6
-4.ee
-8dd
-=7
-8cc#
-16b-
-16a
-8g
-8b-
-=8
-2a}
+=5	=5
+{8a	a
+8a	jakże
+8a	.
+8ff	bez
+=6	=6
+4.ee	ciebie
+8dd	.
+=7	=7
+8cc#	bę-
+16b-L	-dzie
+16aJ\	.
+8g	wese-
+8b-/	.
+=8	=8
+2a}	-le.
 !!LO:LB:g=esac
-=9
-{4cc
-8g
-8a
-=10
-8cc
-16b-
-16a
-8g
-8a
-=11
-4cc
-8g
-8a
-=12
-8cc
-16g
-16a
-8g
-8a}
+=9	=9
+{4ccn	Oj
+8g	chmielu
+8a	.
+=10	=10
+8cc	to
+16b-L	nie-
+16aJ\	.
+8g	-boże,
+8a	.
+=11	=11
+4cc	to
+8g	na
+8a	dół
+=12	=12
+8cc	to
+16gL	ku
+16aJ\	.
+8g	górze,
+8a}	.
 !!LO:LB:g=esac
-=13
-{8cc
-8dd
-8a
-8g
-=14
-2a}
-==
-*-
+=13	=13
+{8cc	chmielu
+8dd	.
+8a	niebo-
+8g	.
+=14	=14
+2a}	-że.
+==	==
+*-	*-
+!!!role-listener: Hop
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Oj chmielu chmielu ty bujne ziele,
+!!a jakże bez ciebie będzie wesele.
+!!Oj chmielu to nieboże,
+!!to na dół to ku górze,
+!!chmielu nieboże.
+!!Oj chmielu chmielu po tycach łazis,
+!!nie jednę ty dziwkę wianka pozbawis.
+!!Oj chmielu to nieboże,
+!!to na dół to ku górze,
+!!chmielu nieboże.
+!!Oj chmielu chmielu ty rozbójniku,
+!!pozbawiłeś dziwkę na pasterniku.
+!!Oj chmielu to nieboże,
+!!to na dół to ku górze,
+!!chmielu nieboże.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Ob. nr 239.
+!!@@END:
 !!!ONB: W t. 11 skorygowano błędny zapis rytmiczny: 7b_4_5_, analogicznie do t. 9
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=244 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 224} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 224}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

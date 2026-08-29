@@ -3,113 +3,142 @@
 !!!source: DWOK16
 !!!id: 16266
 !!!signature: 1626600000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8a
-8cc
-8ee
-8ee
-=2
-8dd
-8dd
-8cc
-8b
-=3
-8a
-8cc
-4dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8a\	Od
+8cc	Krakowa
+8ee	.
+8ee	.
+=2	=2
+8dd	czarna
+8dd	.
+8cc	chmura,
+8b	.
+=3	=3
+8a\	deszcz
+8cc	leje,
+4dd}	.
 !!LO:LB:g=esac
-=4
-{8a
-8cc
-8ee
-8ee
-=5
-8dd
-8dd
-8cc
-8b
-=6
-8a
-8a
-4g}
+=4	=4
+{8a\	a
+8cc	gdzie
+8ee	ja
+8ee	się
+=5	=5
+8dd	a
+8dd	gdzie
+8cc	ja
+8b	się
+=6	=6
+8a	podzieję.
+8a	.
+4g}	.
 !!LO:LB:g=esac
-=7
-{4cc
-16b
-16dd
-8b
-=8
-8a
-8a
-4g
-=9
-4cc
-16b
-16dd
-8b
-=10
-8a
-8a
-8g
-8b}
+=7	=7
+{4cc	Oj
+16bL	dana
+16dd	.
+8bJ	.
+=8	=8
+8a	dana
+8a	.
+4g\	dana
+=9	=9
+4cc	oj
+16b	dana
+16dd	.
+8b	.
+=10	=10
+8a	dana
+8a	.
+8g	da
+8b}	da.
 !!LO:LB:g=esac
-=11
-{8d
-8f#
-8g
-8a
-=12
-8cc
-8cc
-8b
-8g
-=13
-8f#
-8a
-4dd}
+=11	=11
+{8d	A
+8f#	pójdę
+8g	.
+8a	ja
+=12	=12
+8cc	do
+8cc	Marysi
+8b	.
+8g\	.
+=13	=13
+8f#	do
+8a	sadku
+4dd}	.
 !!LO:LB:g=esac
-=14
-{8d
-8f#
-8g
-8a
-=15
-8cc
-8cc
-8b
-8dd
-=16
-8f#
-8a
-4g}
+=14	=14
+{8d	przyjmij
+8f#	.
+8g	ty
+8a	mnie
+=15	=15
+8cc	moja
+8cc	.
+8bL	Maryś
+8ddJ/	.
+=16	=16
+8f#	kochanko.
+8a	.
+4g}	.
 !!LO:LB:g=esac
-=17
-{4cc
-16b
-16dd
-8b
-=18
-8a
-8a
-4g
-=19
-4cc
-16b
-16dd
-8b
-=20
-8a
-8a
-8g
-8dd}
-==
-*-
+=17	=17
+{4cc	Oj
+16bL	dana
+16dd	.
+8bJ	.
+=18	=18
+8a	dana
+8a	.
+4g\	dana
+=19	=19
+4cc	oj
+16bL	dana
+16dd	.
+8bJ	.
+=20	=20
+8a	dana
+8a	.
+8gL	da
+8ddJ/}	da.
+==	==
+*-	*-
+!!!role-singer: Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Od Krakowa czarna chmura,
+!!deszcz leje, —
+!!a gdzie ja się a gdzie ja się
+!!podzieję?
+!!Oj dana dana dana
+!!oj dana dana da da.
+!!@VERSE:
+!!2. A pójdę ja do Marysi
+!!do sadku
+!!przyjmij ty mnie moja Maryś
+!!kochanku.
+!!@VERSE:
+!!3. Nie mogę cię mój Jasieńku
+!!nocować,
+!!bo ty będziesz po sadeńku
+!!figlować.
+!!@VERSE:
+!!4. A nie będę, moja Maryś,
+!!nie będę,
+!!układę się na łóżeńku,
+!!spać będę.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=236 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 216} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 216}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

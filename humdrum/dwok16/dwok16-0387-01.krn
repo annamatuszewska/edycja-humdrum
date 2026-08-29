@@ -3,58 +3,73 @@
 !!!source: DWOK16
 !!!id: 16387
 !!!signature: 1638700001
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{8ee
-8ee
-8ee
-8cc
-4ee
-=2
-8dd
-8dd
-8dd
-8a
-4cc
-=3
-8ee
-8ee
-8ee
-8cc
-4ee
-=4
-2dd
-8a}
-8r
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+{8ee	Wyjechał
+8ee	.
+8ee	.
+8cc	w_pole
+4ee	.
+=2	=2
+8dd	krzyknął
+8dd	.
+8dd	na
+8a\	konie,
+4cc;	.
+=3	=3
+8ee	ku
+8ee	zielonéj
+(8eeL	.
+8ccJ	.
+4ee)	dą-
+=4	=4
+2dd;	-bro-
+16ccqL	.
+16aqJ	.
+8a\}	-wie,
+8r	.
 !!LO:LB:g=esac
-=5
-{8g#
-8a
-8cc
-8dd
-4ee
-=6
-8dd
-8dd
-8cc
-8b
-4g
-=7
-8a
-8cc
-8dd
-8ee
-4cc
-=8
-2a
-4a}
-==
-*-
+=5	=5
+{8g#	rozproszył
+8a	.
+8ccL	.
+8ddJ	sobie
+4ee	.
+=6	=6
+8dd	trusie
+8dd	.
+8cc	pióre-
+8b	.
+4gn	-czka
+=7	=7
+8a\	konikowi
+8cc	.
+8dd	.
+8ee	.
+4cc	po
+=8	=8
+2a;	gło-
+4a}	-wie.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Wyjechał w pole krzyknął na konie,
+!!ku zielonéj dąbrowie,
+!!rozproszył sobie trusie pióreczka
+!!konikowi po głowie.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Nuta nr 251.
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=267 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 247} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 247}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

@@ -3,74 +3,84 @@
 !!!source: DWOK16
 !!!id: 16251
 !!!signature: 1625100002
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16ee
-16ee
-8.ee
-16cc
-=2
-4.ee
-=3
-16ee
-16dd
-8dd
-8a
-=4
-4.cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{16eeL	Przyjechał
+16eeJ/	.
+8.ee	.
+16cc	do
+=2	=2
+4.ee	nij,
+=3	=3
+16eeL	oj
+16ddJ/	czterma
+8dd	.
+8a\	koń-
+=4	=4
+4.cc}	-mi,
 !!LO:LB:g=esac
-=5
-{16a
-16cc
-8.ee
-16cc
-=6
-8ee
-[4dd
-=7
-8dd]
-4ee
-=8
-16cc
-16a}
-4r
+=5	=5
+{16a\	przed
+16cc	.
+8.ee	ganek
+16cc	.
+=6	=6
+8ee	malo-
+[4dd	.
+=7	=7
+8dd]	-wa-
+4ee	.
+=8	=8
+16ccL	-ny,
+16aJ}	.
+4r	.
 !!LO:LB:g=esac
-=9
-{16ee
-16cc
-8dd
-8ee
-=10
-8dd
-4b
-=11
-16a
-16a
-8a
-8a
-=12
-4.g}
+=9	=9
+{16ee	i
+16cc	jął
+8dd	ją
+8ee	prosić
+=10	=10
+(8dd	.
+4b)	.
+=11	=11
+16a	pięknie
+16a	.
+8a	nadobnie,
+8a	.
+=12	=12
+4.g}	.
 !!LO:LB:g=esac
-=13
-{16ee
-16cc
-8.dd
-16ee
-=14
-8dd
-4b
-=15
-4.a
-=16
-8a}
-4r
-==
-*-
+=13	=13
+{16ee	by
+16cc	dała
+8.dd	.
+16ee	wia-
+=14	=14
+8dd	-nek
+4b	ru-
+=15	=15
+4.a	-cia-
+=16	=16
+8a}	-ny.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Przyjechał do nij, oj czterma końmi,
+!!przed ganek malowany,
+!!i jął ją prosić pięknie nadobnie,
+!!by dała wianek ruciany.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=232 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 212} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 212}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

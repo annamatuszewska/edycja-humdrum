@@ -3,81 +3,65 @@
 !!!source: DWOK16
 !!!id: 16286
 !!!signature: 1628600000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8g
-8b
-8cc
-=2
-8dd
-4b
-=3
-16b
-16dd
-8ee
-8dd
-=4
-8b
-8cc
-8b
-=5
-8g
-8b
-16b
-16a
-=6
-8b
-8cc
-8b
-=7
-8dd
-8b
-8a
-=8
-8g}
-4r
+**kern	**text	**text	**text
+*clefG2	*	*	*
+*k[f#]	*	*	*
+*G:	*	*	*
+*M3/8	*	*	*
+=1	=1	=1	=1
+{8g	A	Kiedy	A
+8b	po	.	obie-
+8cc	cóż	my	.
+=2	=2	=2	=2
+8dd	my	tutaj	-cała
+4b	tu	.	.
+=3	=3	=3	=3
+16bL	do	ku-	nam
+16dd	.	-fy	synka-
+8ee	tej	go-	.
+8ddJ/	kar-	.	.
+=4	=4	=4	=4
+8b	-cminy	rza-	-re-
+8ccL	.	-łki	-cka,
+8bJ	.	.	.
+=5	=5	=5	=5
+8g\	do	ku-	nam
+8b	tej	-fy	synka-
+16bL	kar-	go-	.
+16aJ\	.	.	.
+=6	=6	=6	=6
+8b	-cminy	-rza-	-re-
+8ccL	.	-łki	-cka
+8bJ	.	.	.
+=7	=7	=7	=7
+8dd	i-	nie	swo-
+8bL	-die-	ma-	-ją
+8aJ	.	.	.
+=8	=8	=8	=8
+8g}	-my,	-my,	dać,
+4r	.	.	.
 !!LO:LB:g=esac
-=9
-{8g
-8b
-16cc
-16b
-=10
-8dd
-8b
-8g
-=11
-16b
-16dd
-8ee
-8dd
-=12
-8b
-8cc
-8b
-=13
-8g
-8b
-16b
-16a
-=14
-8b
-8cc
-8b
-=15
-8dd
-8b
-8a
-=16
-8g}
-4r
-==
-*-
+=9	=9	=9	=9
+8dd	i-	nie	swo-
+8bL	-die-	ma-	-ją
+8aJ	.	.	.
+=10	=10	=10	=10
+8g}	my,	-my.	dać.
+4r	.	.	.
+==	==	==	==
+*-	*-	*-	*-
+!!!role-singer: Drinkers
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. A po cóż my tu do tej karcminy idiemy,
+!!@VERSE:
+!!2. Kiedy my tutaj kufy gorzałki nie mamy.
+!!@VERSE:
+!!3. A obiecała nam synkarecka swoją dać.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=242 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 222} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 222}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25

@@ -3,58 +3,70 @@
 !!!source: DWOK16
 !!!id: 16372
 !!!signature: 1637200001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8d
-4dd
-=2
-8dd
-16b
-16cc
-8dd
-=3
-8dd
-16dd
-16cc
-[8dd
-=4
-8dd]
-8dd
-16b
-16a
-=5
-4g
-16f#
-32d}
-32r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8d	A
+4dd	przez
+=2	=2
+8dd	progi
+16bL	.
+16ccJ	.
+8dd	nado-
+=3	=3
+8dd	-bna
+16ddL	Marysiu,
+16ccJ	.
+[8dd	.
+=4	=4
+8dd]	.
+8dd	przez
+16bL	pro-
+16aJ\	.
+=5	=5
+4g\	.
+(16f#L	-gi,
+32dJ)}	.
+32r	.
 !!LO:LB:g=esac
-=6
-8r
-{16d
-16f#
-8g
-=7
-16a
-16g
-8b
-8dd
-=8
-8dd
-16cc
-16g
-16b
-16a
-=9
-16g
-16f#
-4g}
-==
-*-
+=6	=6
+8r	.
+{16dL	u-
+16f#J	.
+8g	-pa-
+=7	=7
+16aL	-dnij-
+16gJ	-że
+8b	swojéj
+[8dd	.
+=8	=8
+8dd]	ma-
+16ccL	-tu-
+16gJ\	.
+16bL	-li
+16aJ\	pod
+=9	=9
+16gL	no-
+16f#J	.
+4g}	-gi.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!!role-listener: Maiden
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!A przez progi nadobna Marysiu, przez progi,
+!!upadnijże swojéj matuli pod nogi.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Nuta ob. nr 163.
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=263 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 243} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 243}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-07-25
