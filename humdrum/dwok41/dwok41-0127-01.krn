@@ -3,61 +3,76 @@
 !!!source: DWOK41
 !!!id: 41127
 !!!signature: 4112700001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{4dd
-4dd
-8dd
-8ff#
-=2
-8ee
-16cc
-16b
-4a
-4ee}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{4dd	U-
+4dd	-bo-
+8dd	-ga
+8ff#	ja
+=2	=2
+8ee	sie-
+16ccL	-ro-
+16bJ	.
+4a	-te-
+4ee}	-czka,
 !!LO:LB:g=esac
-=3
-{4dd
-4dd
-8dd
-8ff#
-=4
-8ee
-16cc
-16b
-4a
-4g}
+=3	=3
+{4dd	czy-
+4dd	-ja-
+8dd	-ja
+8ff#	te-
+=4	=4
+8ee	-raz,
+16ccL	da,
+16bJ	.
+4a	te-
+4g}	-raz,
 !!LO:LB:g=esac
-=5
-{8g
-8g
-4.a
-8g
-=6
-8b
-8dd
-4ee
-4dd}
+=5	=5
+{8g	jak
+8g	ja
+4.a	so-
+8g	-bie
+=6	=6
+8b	-roz-
+8dd	-pa
+4ee	-mię-
+4dd}	-tam,
 !!LO:LB:g=esac
-=7
-{8g
-8g
-4.a
-8g
-=8
-8b
-8dd
-8cc
-8a
-4g}
-==
-*-
+=7	=7
+{8g	-za-
+8g	-pła-
+4.a	-czę
+8g	nie-
+=8	=8
+8b	-raz
+8dd	-da,
+8ccL	nie-
+8a\J	.
+4g}	-raz.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Uboga ja sieroteczka,
+!!czyja ja teraz, da, teraz,
+!!jak ja sobie rozpamiętam,
+!!zapłaczę nieraz, da, nieraz.
+!!@VERSE:
+!!2. Oj, nie raz, nie dwa razy,
+!!będzie tego kilka razy,
+!!oj, i nie raz i nie tysiąc,
+!!nie mam tego, co mi przysiągł.
+!!@@END: VERSES
+!!!role-singer: Orphan
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=169 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 90} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 90}
 !!!page: 90
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-25

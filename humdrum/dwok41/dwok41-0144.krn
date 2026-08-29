@@ -3,64 +3,91 @@
 !!!source: DWOK41
 !!!id: 41144
 !!!signature: 4114400000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{8b
-8dd
-8dd
-8cc
-8ee
-8ee
-=2
-8b
-8dd
-8dd
-8cc
-8ee
-8ee
-=3
-8dd
-16cc
-16b
-4a
-4b
-=4
-8e
-8g#
-2e}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+{8b	Co
+8dd	to
+8dd	za
+8cc	dziew-
+8ee	-czy-
+8ee	-na,
+=2	=2
+8b	co
+8dd	to
+8dd	za
+8cc	je-
+8ee	-dy-
+8ee	-na,
+=3	=3
+8dd	co
+16ccL	tak
+16bJ	.
+4a	ła-
+(8ccq	.
+4b)	-dnie
+=4	=4
+8e	tań-
+8g#	-cu-
+2e}	-je;
 !!LO:LB:g=esac
-=5
-{8e
-8f#
-8g#
-8e
-8a
-8a
-=6
-8e
-8f#
-8g#
-8e
-8a
-8a
-=7
-8b
-16cc
-16b
-4a
-4b
-=8
-8e
-8g#
-2e}
-==
-*-
+=5	=5
+{8e	a
+8f#	ja
+8g#	sa-
+8e	-ma
+8a	wi-
+8a	-dzę,
+=6	=6
+8e	że
+8f#	ja
+8g#	ła-
+8e	-dnie
+8a	i-
+8a	-dę,
+=7	=7
+8b	ka-
+16ccL	-żdy
+16bJ	.
+4a	mi
+4b	się
+=8	=8
+8e	dzi-
+8g#	-wu-
+2e}	-je.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Co to za dziewczyna,
+!!co to za jedyna,
+!!co tak ładnie tańcuje;
+!!a ja sama widzę,
+!!że ja ładnie idę,
+!!każdy mi się dziwuje.
+!!@VERSE:
+!!2. W karczmie ładnie grają,
+!!do domu wołają,
+!!pójdź do domu, dziewulo;
+!!a ja jeszcze myślę,
+!!że sie jeszcze wyśpię,
+!!niedaleko do domu.
+!!@VERSE:
+!!3. A pognám ja woły
+!!na zielone doły,
+!!będą mi je chłopcy paść;
+!!a ja będe spała,
+!!póki będe chciała,
+!!będą mi je zawracać.
+!!@@END: VERSES
+!!!role-singer: Young Girl
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=179 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 100} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 100}
 !!!page: 100
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-27

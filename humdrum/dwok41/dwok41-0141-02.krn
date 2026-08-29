@@ -3,58 +3,65 @@
 !!!source: DWOK41
 !!!id: 41141
 !!!signature: 4114100002
-**kern
-*clefG2
-*k[]
-*a:
-=1
-*M3/4
-{8a
-8a
-4ee
-4cc
-=2
-*M2/4
-8gg
-8gg
-8gg
-16ff
-16ee
-=3
-*M3/4
-8dd
-8dd
-4ee
-4cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+=1	=1
+*M3/4	*
+{8a	I-
+8a	-dzie
+4ee	żoł-
+4cc	-nierź
+=2	=2
+*M2/4	*
+8gg/L	bo-
+8gg/J	-rem,
+8gg/	la-
+16ffL	-sem,
+16eeJ	.
+=3	=3
+*M3/4	*
+8dd	bo-
+8dd	-rem,
+4ee	la-
+4cc}	-sem,
 !!LO:LB:g=esac
-=4
-{8dd
-8ff
-4ee
-4a
-=5
-*M2/4
-8cc
-8ee
-8dd
-16cc
-16b
-=6
-*M3/4
-8dd
-8ff
-4ee
-4a
-=7
-8dd
-16cc
-16b
-4a
-4a}
-==
-*-
+=4	=4
+{8ddL/	przy-
+8ff/J	-mie-
+4ee	-ra-
+4a	-jąc
+=5	=5
+*M2/4	*
+8cc/L	gło-
+8ee/J	-du
+8dd/L	cza-
+16cc/	-sem,
+16b/J	.
+=6	=6
+*M3/4	*
+8dd/L	przy-
+8ff/J	-mie-
+4ee	-ra-
+4a	-jąc
+=7	=7
+8dd/L	gło-
+16cc/	.
+16b/J	-du
+4a	cza-
+4a}	-sem.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Idzie żołnierz |:borem, lasem:|,
+!!|:przymierając głodu czasem:|.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=178 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 99} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 99}
 !!!page: 99
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-27

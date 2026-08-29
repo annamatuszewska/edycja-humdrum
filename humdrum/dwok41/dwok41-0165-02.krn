@@ -3,58 +3,67 @@
 !!!source: DWOK41
 !!!id: 41165
 !!!signature: 4116500002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16b
-8.dd
-16cc
-=2
-8ee
-8dd
-16b
-16g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	A-
+16b	-ni
+8.ddL	ja,
+16ccJ	.
+=2	=2
+8ee	a-
+8dd	-ni
+16b/L	ty
+16g}J	.
 !!LO:LB:g=esac
-=3
-{16g
-16b
-8.dd
-16cc
-=4
-8ee
-8dd
-16b
-16g}
+=3	=3
+{16g	nie
+16b	ma-
+8.ddL	-my
+16ccJ	.
+=4	=4
+8ee	ro-
+8dd	-bo-
+16b/L	-ty;
+16g}J	.
 !!LO:LB:g=esac
-=5
-{16a
-16b
-8.cc
-16a
-=6
-8g
-8b
-16dd
-16g}
+=5	=5
+{16a	ku-
+16b	-pim
+8.cc	so-
+16a	-bie
+=6	=6
+8g	wó-
+8b	-ze-
+16dd/L	-czek,
+16g}J	.
 !!LO:LB:g=esac
-=7
-{16a
-16b
-8.cc
-16a
-=8
-8dd
-8b
-16g
-16d}
-==
-*-
+=7	=7
+{16a	bę-
+16b	-dziem
+8.cc	wo-
+16a	-zić
+=8	=8
+8dd	pia-
+8b	-se-
+16gL	-czek.
+16d}J	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Ani ja, ani ty
+!!nie mamy roboty;
+!!kupim sobie wózeczek,
+!!będziem wozić piaseczek.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=189 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 110} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 110}
 !!!page: 110
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-31

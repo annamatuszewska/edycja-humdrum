@@ -3,73 +3,84 @@
 !!!source: DWOK41
 !!!id: 41152
 !!!signature: 4115200000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16f
-16a
-8f
-8a
-=2
-8b-
-4dd
-=3
-16cc
-16ee
-8cc
-8ee
-=4
-8gg
-4ff}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16f	I-
+16a	-dzie
+8f	Ma-
+8a	-ciek,
+=2	=2
+8b-	i-
+4dd	-dzie
+=3	=3
+16cc	środ-
+16ee	-kiem
+8cc	bez
+8ee	psze-
+=4	=4
+8gg	-ni-
+4ff}	-ce,
 !!LO:LB:g=esac
-=5
-{16f
-16a
-8f
-8a
-=6
-8b-
-4dd
-=7
-16cc
-16ee
-8cc
-8ee
-=8
-8gg
-4ff}
+=5	=5
+{16f	a
+16a	karcz-
+8f	-mar-
+8a	-ka
+=6	=6
+8b-	za
+4dd	nim
+=7	=7
+16cc	bez
+16ee	ca-
+8cc	-łą
+8ee	gra-
+=8	=8
+8gg	-ni-
+4ff}	-ce.
 !!LO:LB:g=esac
-=9
-{8ff
-8ff
-8dd
-=10
-16dd
-16dd
-8b-
-8dd}
+=9	=9
+{8ff	Oj,
+8ff	do-
+8dd	-brzeć
+=10	=10
+16dd	z_Maćkiem
+16dd	.
+8b-	by-
+8dd}	-ło,
 !!LO:LB:g=esac
-=11
-{8cc
-8f
-16a
-16cc
-=12
-16a
-16cc
-8g
-16b-
-16a
-=13
-4f}
-8r
-==
-*-
+=11	=11
+{8cc	boć
+8f	nam
+16a	ku-
+16cc	-pał
+=12	=12
+16a	wód-
+16cc	-kę,
+8g	pi-
+16b-/L	-wo,
+16aJ	.
+=13	=13
+4f}	toć.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Idzie Maciek, idzie
+!!środkiem bez pszenice,
+!!a karczmarka za nim
+!!bez całą granice.
+!!Oj, dobrzeć z Maćkiem było,
+!!boć nam kupał wódkę, piwo, toć.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=184 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 105} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 105}
 !!!page: 105
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-29

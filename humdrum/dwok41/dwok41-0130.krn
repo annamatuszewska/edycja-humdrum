@@ -3,52 +3,68 @@
 !!!source: DWOK41
 !!!id: 41130
 !!!signature: 4113000000
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{8.cc
-16b
-8cc
-8dd
-=2
-8.ee
-16dd
-8ee
-8cc
-=3
-8ee
-8dd
-8ee
-8ff
-=4
-4dd
-4b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+=1	=1
+{8.cc	Za-
+16b	-chcia-
+8cc	-ło
+8dd	sie
+=2	=2
+8.ee	sta-
+16dd	-réj
+8ee	ba-
+8cc	-bie
+=3	=3
+8ee	mło-
+8dd	-de-
+8ee	-go
+8ff	ga-
+=4	=4
+4dd	-lan-
+4b}	-ta,
 !!LO:LB:g=esac
-=5
-{8.b
-16cc
-8dd
-8dd
-=6
-8.b
-16cc
-8dd
-8dd
-=7
-8b
-8cc
-8dd
-8ee
-=8
-4cc
-4cc}
-==
-*-
+=5	=5
+{8.b	ro-
+16cc	-zu-
+8dd	-mia-
+8dd	-ła,
+=6	=6
+8.b	że
+16cc	on
+8dd	głu-
+8dd	-pi,
+=7	=7
+8b	tra-
+8cc	-fi-
+8dd	-ła
+8ee	na
+=8	=8
+4cc	fran-
+4cc}	-ta.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Zachciało sie staréj babie
+!!młodego galanta,
+!!rozumiała, że on głupi,
+!!trafiła na franta.
+!!@VERSE:
+!!2. Kiedym ja ci się zalécał.
+!!smażyłaś mi kluski,
+!!jakem się z tobą ożenił,
+!!nie dasz i kapusty.
+!!@@END: VERSES
+!!!role-singer: Narrator, Husband
+!!!role-listener: Wife
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=170 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 91-92} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 91-92}
 !!!page: 91-92
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-26

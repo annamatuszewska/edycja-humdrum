@@ -3,58 +3,67 @@
 !!!source: DWOK41
 !!!id: 41149
 !!!signature: 4114900001
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{4cc
-8f
-=2
-16a
-16b-
-8g
-8f
-=3
-16a
-16cc
-8dd
-8f
-=4
-16a
-16b-
-8g
-8f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{4cc	A
+8f	za-
+=2	=2
+16a	-raz
+16b-	to
+8g	wi-
+8f	-dać,
+=3	=3
+16a\	któ-
+16cc	-ra
+8dd	dziw-
+8f	-ka
+=4	=4
+16a	je
+16b-	poć-
+8g	-ci-
+8f}	-wa,
 !!LO:LB:g=esac
-=5
-{16a
-16cc
-8dd
-8ff
-=6
-16dd
-16cc#
-16dd
-16ee
-16g
-16f
-=7
-16.a
-32b-
-16cc
-16dd
-16ee
-16dd
-=8
-16cc
-16a
-8g
-8f}
-==
-*-
+=5	=5
+{16a\	i-
+16cc	-dzie
+8dd	z_karcz-
+8ff	-my
+=6	=6
+16dd	we-
+16cc#	-se-
+16ddL	-luch-
+16eeJ	.
+16gL	-na
+16fJ	.
+=7	=7
+16.a	i
+32b-	chu-
+16ccL	-stecz-
+16ddJ	.
+16eeL	-ką
+16ddJ	.
+=8	=8
+16cc	so-
+16a	-bie
+8g	ki-
+8f}	-wa.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A zaraz to widać,
+!!która dziwka je poćciwa,
+!!idzie z karczmy weseluchna
+!!i chusteczką sobie kiwa.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=182 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 103} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 103}
 !!!page: 103
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-29

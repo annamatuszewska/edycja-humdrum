@@ -3,60 +3,69 @@
 !!!source: DWOK41
 !!!id: 41143
 !!!signature: 4114300001
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M3/8
-=1
-{16f
-16a
-8b-
-8dd
-=2
-16ee-
-16cc
-16b-
-16a
-16b-
-16dd}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M3/8	*
+=1	=1
+{16f	Po-
+16a	-je-
+8b-	-dzie-
+8dd	-my
+=2	=2
+16ee-	do
+16cc	Do-
+16b-/L	-brzy-
+16aJ	.
+16b-L	-nia,
+16dd}J	.
 !!LO:LB:g=esac
-=3
-{16f
-16a
-8b-
-8dd
-=4
-16ee-
-16cc
-8a
-8f}
+=3	=3
+{16f	a
+16a	z_Do-
+8b-	-brzy-
+8dd	-nia
+=4	=4
+16ee-	do
+16cc	Dzia-
+8a	-ły-
+8f}	-nia,
 !!LO:LB:g=esac
-=5
-{8g
-16g
-16f
-8a
-=6
-16b-
-16g
-8a
-8cc}
+=5	=5
+{8g	bo
+16gL	w_Dzia-
+16fJ	-ły-
+8a\	-niu
+=6	=6
+16b-	ła-
+16g	-dnie
+8a	gra-
+8cc}	-ją,
 !!LO:LB:g=esac
-=7
-{8g
-16g
-16f
-8a
-=8
-16b-
-16g
-8a
-8f}
-==
-*-
+=7	=7
+{8g	sa-
+16gL	-me
+16fJ	nóż-
+8a\	-ki
+=8	=8
+16b-	po-
+16g	-dry-
+8a	-ga-
+8f}	-ją.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Pojedziemy do Dobrzynia,
+!!a z Dobrzynia do Działynia,
+!!bo w Działyniu ładnie grają,
+!!same nóżki podrygają.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=179 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 100} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 100}
 !!!page: 100
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-27

@@ -3,61 +3,73 @@
 !!!source: DWOK41
 !!!id: 41155
 !!!signature: 4115500002
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=
-{24e
-24g#
-24b
-8dd
-8ee
-=1
-16ee
-16ee
-8cc
-16a
-16g#
-=2
-8b
-4dd
-=3
-16ee
-16ee
-8cc
-16a
-16g#}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Kujawiak	!
+{24e	A
+24g#	bo-
+24b	-daj
+8dd	ci
+8ee	ja
+=2	=2
+16ee	na
+16ee	Ku-
+8cc	-ja-
+16aL	-wach,
+16g#J	.
+=3	=3
+8b	da,
+4dd	ni-
+=4	=4
+16ee	-gdy
+16ee	nie
+8cc	pos-
+16aL	-tał,
+16g#J}	.
 !!LO:LB:g=esac
-=
-{24e
-24g#
-24g#
-8e
-8g#
-=
-16a
-16cc
-8a
-24b
-24a
-24g#
-=4
-8e
-16g#
-16g#
-16e
-16g#
-=5
-16a
-16a
-8cc
-8a}
-==
-*-
+=5	=5
+{24e	a
+24g#	był-
+24g#	-by
+8e	ci
+8g#	ja
+=6	=6
+!!LO:TUP:b	!
+16a	na
+16cc	Do-
+8a	-brzyńs-
+24bL	-ce,
+24a\	.
+24g#\J	.
+=7	=7
+8e	da,
+16g#\L	le-
+16g#\J	.
+16eL	-pszy
+16g#J	.
+=8	=8
+16a	żo-
+16a	-ny
+8cc	do-
+8a}	-stał.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A bodaj ci ja na Kujawach,
+!!da, nigdy nie postał,
+!!a byłby ci ja na Dobrzyńsce,
+!!da, lepszy żony dostał.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=185 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 106} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 106}
 !!!page: 106
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-29
