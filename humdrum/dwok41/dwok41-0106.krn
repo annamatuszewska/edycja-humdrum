@@ -3,51 +3,82 @@
 !!!source: DWOK41
 !!!id: 41106
 !!!signature: 4110600000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{4.gg
-8ee
-8cc
-16g
-16b
-=2
-2dd
-4g
-=3
-4.ff
-8dd
-8g
-8b
-=4
-2cc
-4ee}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{4.gg	Dzie-
+8ee	-sią-
+8cc	-ta
+16gL	go-
+16b/J	.
+=2	=2
+2dd	-dzi-
+4g	-na
+=3	=3
+4.ff	na
+8dd	ze-
+8g	-ga-
+8b	-rze
+=4	=4
+2cc	bi-
+4ee}	-ła,
 !!LO:LB:g=esac
-=5
-{4.gg
-8ee
-8cc
-16g
-16b
-=6
-2dd
-4g
-=7
-4.ff
-8dd
-8g
-16a
-16b
-=8
-2cc
-4cc}
-==
-*-
+=5	=5
+{4.gg	kiej
+8ee	ja
+8cc	swe-
+16g\L	-go
+16bJ	.
+=6	=6
+2dd	Ja-
+4g	-sia
+=7	=7
+4.ff	do
+8dd	dom
+8g	pro-
+16aL	-wa-
+16b/J	.
+=8	=8
+2cc	-dzi-
+4cc}	-ła.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Dziesiąta godzina
+!!na zegarze biła,
+!!kiej ja swego Jasia
+!!do dom prowadziła.
+!!@VERSE:
+!!2. Na działyńskiém połu
+!!stoi kierz powoju,
+!!a moj Jasienieczku,
+!!nie dodaj mi żalu.
+!!@VERSE:
+!!3. A moj Jasienieczku,
+!!dajże o mnie pamięć,
+!!niech ja się nie tułam
+!!jak na morzu łabędź.
+!!@VERSE:
+!!4. Łabędź morzem płynie,
+!!na lądzie odpocznie,
+!!a ja, sieroteczka.
+!!ja nie wiem, co pocznę.
+!!@VERSE:
+!!5. A ja sieroteczka
+!!ubogiego domu,
+!!dorobię się chleba,
+!!jeszcze go dam komu.
+!!@@END: VERSES
+!!!role-singer: Girl
+!!!role-listener: Lover 
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=157 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 78} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 78}
 !!!page: 78
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-23

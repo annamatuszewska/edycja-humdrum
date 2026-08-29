@@ -3,53 +3,72 @@
 !!!source: DWOK41
 !!!id: 41076
 !!!signature: 4107600002
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16a
-16cc
-8ff
-8ff
-=2
-4cc
-16a
-16f
-=3
-16cc
-16cc
-8b-
-16g
-16e
-=4
-4f
-16a
-16f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16a	Za-
+16cc	-szło
+8ff/L	słoń-
+8ff/J	-ce,
+=2	=2
+(8ddq	.
+4cc)	za-
+16a\L	-szło
+16f\J	.
+=3	=3
+16cc	za
+(8ddq	.
+16cc)	wy-
+8b-	-so-
+16g\L	-kie
+16e\J	.
+=4	=4
+4f	dę-
+16aL	-by,
+16f}J	.
 !!LO:LB:g=esac
-=5
-{16e
-16g
-8b-
-8b-
-=6
-4a
-8cc
-=7
-16cc
-16dd
-8b-
-16g
-16e
-=8
-4f
-16a
-16f}
-==
-*-
+=5	=5
+{16e	po-
+16g	-wiedz,
+8b-	ko-
+(8ccq	.
+8b-)	-cha-
+=6	=6
+4a	-necz-
+8cc	-ko,
+=7	=7
+16cc	ko-
+16dd	-muś
+8b-	da-
+16g\L	-ła
+16e\J	.
+=8	=8
+4f	gę-
+16aL	-by?
+16fJ}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Zaszło słońce, zaszło
+!!za wysokie dęby,
+!!powiedz, kochaneczko,
+!!komuś dała gęby?
+!!@VERSE:
+!!2. Jeśli dworakowi.
+!!żal się, mocny Boże,
+!!jeśli chłopu ze wsi,
+!!dopomóż ci, Boże.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=143 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 64} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 64}
 !!!page: 64
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-19

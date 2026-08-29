@@ -3,67 +3,77 @@
 !!!source: DWOK41
 !!!id: 41062
 !!!signature: 4106200000
-**kern
-*clefG2
-*k[b-e-]
-*g:
-*M3/8
-=1
-{16f#
-16a
-8cc
-16cc
-16ee-
-=2
-16a
-16cc
-16b-
-16a
-16g
-16f#}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*g:	*
+*M3/8	*
+=1	=1
+{16f#	Z_tam-
+16a	-ty
+8cc	stro-
+16ccL	-ny
+16ee-J	.
+=2	=2
+16a	je-
+16cc	-zio-
+16b-/L	-recz-
+16aJ	.
+16gL	-ka
+16f#J}	.
 !!LO:LB:g=esac
-=3
-{16g
-16a
-16b-
-16g
-16b-
-16dd
-=4
-16cc
-16dd
-8a
-16f#
-16d}
+=3	=3
+{16g	ki-
+16a	-wa
+16b-/L	na
+16gJ	.
+16b-L	mnie
+16ddJ	.
+=4	=4
+16cc	Ma-
+16dd	-zu-
+8a	-recz-
+16f#L	-ka,
+16d}J	.
 !!LO:LB:g=esac
-=5
-{16f#
-16a
-8f#
-8d
-=6
-16a
-16cc
-16g
-16f#
-16g
-16d}
+=5	=5
+{16f#	a
+16a	ja
+8f#	jéj
+8d	się
+=6	=6
+16a	nie
+16cc	na-
+16gL	-wi-
+16f#J	.
+16gL	-nę,
+16d}J	.
 !!LO:LB:g=esac
-=7
-{16g
-16a
-8b-
-8dd
-=8
-16cc
-16dd
-8a
-16f#
-16d}
-==
-*-
+=7	=7
+{16g	bo
+16a	mi
+8b-	cho-
+8dd	-dzi
+=8	=8
+16cc	o
+16dd	czu-
+8a	-pry-
+16f#L	-nę.
+16d}J	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Z tamty strony jezioreczka
+!!kiwa na mnie Mazureczka,
+!!a ja jéj się nie nawinę,
+!!bo mi chodzi o czuprynę.
+!!@@END: VERSES
+!!!role-singer: Man
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=136 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 57} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 57}
 !!!page: 57
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-18

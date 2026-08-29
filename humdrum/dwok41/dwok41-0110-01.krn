@@ -3,86 +3,96 @@
 !!!source: DWOK41
 !!!id: 41110
 !!!signature: 4111000001
-**kern
-*clefG2
-*k[b-e-]
-*g:
-*M3/8
-=1
-{8dd
-8a
-8cc#
-=2
-4dd
-8a}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*g:	*
+*M3/8	*
+=1	=1
+{8dd	Mię-
+8a	-dzy
+8cc#	o-
+=2	=2
+4dd	-gro-
+8a}\	-dy
 !!LO:LB:g=esac
-=3
-{8g
-8.b-
-16g
-=4
-8f#
-4d}
+=3	=3
+{8g	tam
+8.b-	by-
+16g	-stre
+=4	=4
+8f#	wo-
+4d}	-dy,
 !!LO:LB:g=esac
-=5
-{8d
-8f#
-8g
-=6
-4b-
-8g}
+=5	=5
+{8d	zbié-
+8f#	-ra-
+8g	-ły
+=6	=6
+4b-	pan-
+8g}	-ny,
 !!LO:LB:g=esac
-=7
-{8g
-8b-
-8cc
-=8
-4dd
-8b-}
+=7	=7
+{8g	zbié-
+8b-	-ra-
+8cc	-ły
+=8	=8
+4dd	pan-
+8b-}	-ny
 !!LO:LB:g=esac
-=9
-{4dd
-8cc
-=10
-16b-
-16a
-8g
-8f#
-=11
-4g
-8g}
+=9	=9
+{(4dd	czar-
+8cc)	.
+=10	=10
+16b-/L	-ne
+16aJ	.
+8gL	ja-
+8f#J	.
+=11	=11
+4g	-go-
+8g}	-dy.
 !!LO:LB:g=esac
-=12
-{8d
-8f#
-8g
-=13
-4b-
-8g}
+=12	=12
+{8d	zbié-
+8f#	-ra-
+8g	-ły
+=13	=13
+4b-	pan-
+8g}	-ny,
 !!LO:LB:g=esac
-=14
-{8g
-8b-
-8cc
-=15
-4dd
-8b-}
+=14	=14
+{8g	zbié-
+8b-	-ra-
+8cc	-ły
+=15	=15
+4dd	pan-
+8b-}	-ny
 !!LO:LB:g=esac
-=16
-{4dd
-8cc
-=17
-16b-
-16a
-8g
-8f#
-=18
-4g
-8g}
-==
-*-
+=16	=16
+{(4dd	czar-
+8cc)	.
+=17	=17
+16b-/L	-ne
+16aJ	.
+8gL	ja-
+8f#J	.
+=18	=18
+4g	-go-
+8g}	-dy.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Między ogrody
+!!tam bystre wody,
+!!zbiérały panny,
+!!zbiérały panny
+!!czarne jagody.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=160 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 81} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 81}
 !!!page: 81
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-23

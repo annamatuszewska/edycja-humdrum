@@ -3,114 +3,145 @@
 !!!source: DWOK41
 !!!id: 41086
 !!!signature: 4108600000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8b
-8dd
-8dd
-=2
-16dd
-16cc#
-4a
-=3
-8b
-8.g
-16e
-=4
-16e
-16f#
-8d}
-8r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8b	Mo-
+8dd	-ja
+8dd	Ma-
+=2	=2
+16ddL	-rych-
+16cc#J	.
+4a	-na
+=3	=3
+8b	ro-
+8.g	-bot-
+16e	-na
+=4	=4
+16eL	by-
+16f#J	.
+8d}	-ła,
+8r	.
 !!LO:LB:g=esac
-=5
-{8b
-8dd
-8dd
-=6
-16dd
-16cc#
-4a
-=7
-8b
-8.g
-16e
-=8
-16e
-16f#
-8d}
-8r
+=5	=5
+{8b	wzię-
+8dd	-na
+8dd	ką-
+=6	=6
+16ddL	-dzioł-
+16cc#J	.
+4a	-kę,
+=7	=7
+8b	po
+8.g	wsi
+16e	cho-
+=8	=8
+16eL	-dzi-
+16f#J	.
+8d}	-ła.
+8r	.
 !!LO:LB:g=esac
-=9
-{8f#
-4a
-=10
-8f#
-8d
-8r
-=11
-8b
-4dd
-=12
-8cc#
-8a}
-8r
+=9	=9
+{8f#	Oj,
+4a	cho-
+=10	=10
+8f#L	-dzi
+8dJ	.
+8r	.
+=11	=11
+8b	i
+4dd	mo-
+=12	=12
+8cc#L	-ta,
+8a}\J	.
+8r	.
 !!LO:LB:g=esac
-=13
-{16g
-16a
-8b
-8dd
-=14
-16dd
-16cc#
-8a
-16b
-16g
-=15
-16f#
-16a
-8g}
-8r
+=13	=13
+{16g	wszyst-
+16a	-koć
+8b	to
+8dd	Ma-
+=14	=14
+16ddL	-rych-
+16cc#J	.
+8a	-ny
+16b/L	ro-
+16gJ	.
+=15	=15
+16f#L	-bo-
+16aJ	.
+8g}	-ta.
+8r	.
 !!LO:LB:g=esac
-=16
-{8f#
-4a
-=17
-8f#
-8d
-8r
-=18
-8b
-4dd
-=19
-8cc#
-8a}
-8r
+=16	=16
+{8f#	Oj,
+4a	cho-
+=17	=17
+8f#L	-dzi
+8dJ	.
+8r	.
+=18	=18
+8b	i
+4dd	mo-
+=19	=19
+8cc#L	-ta,
+8a}\J	.
+8r	.
 !!LO:LB:g=esac
-=20
-{16g
-16a
-8b
-8dd
-=21
-16dd
-16cc#
-8a
-16b
-16g
-=22
-16f#
-16a
-8g}
-8r
-==
-*-
+=20	=20
+{16g	wszyst-
+16a	-koć
+8b	to
+8dd	Ma-
+=21	=21
+16ddL	-rych-
+16cc#J	.
+8a	-ny
+16b/L	ro-
+16gJ	.
+=22	=22
+16f#L	-bo-
+16aJ	.
+8g}	-ta.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Moja Marychna robotna była,
+!!wzięna kądziołkę, po wsi chodziła.
+!!|:Oj, chodzi i mota,
+!!wszystkoć to Marychny robota:|.
+!!@VERSE:
+!!2. Wzięna bębenek i skrzypowisko,
+!!pognała byśki na trzęsawisko.
+!!|: Tam grała, bębniła,
+!!boć ona Jasieńka lubiła:|.
+!!@VERSE:
+!!3. Bębenek stłukła, byśki zgubiła,
+!!cóż ja, nieszczęsna, będe robiła.
+!!|: Oj, chodzi i woła.
+!!jaka mnie ciężka niedola:|.
+!!@VERSE:
+!!4. Żebyś mi, Jasiu, bysieczki znaláz,
+!!zapłaciłabym ja tobie zaraz.
+!!|: Nie teraz, to późnij.
+!!abyś mi, Jasiu, byśki przywiód(ł):|.
+!!@VERSE:
+!!5. Znaláz Jasieniek byśki w krzewinie.
+!!zajmał je, przywiód swoji dziewczynie.
+!!|: Marychno, nie płaczże,
+!!znalázem bysieczki, zapłaćże:|.
+!!@@END: VERSES
+!!!role-singer: Narrator, Girl
+!!!role-listener: Complex, Boy
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=149 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 70-71} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 70-71}
 !!!page: 70-71
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-21

@@ -3,50 +3,67 @@
 !!!source: DWOK41
 !!!id: 41084
 !!!signature: 4108400001
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{8g#
-8a
-4b
-4dd
-=2
-4ee
-4dd
-4b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+{8g#	Przy-
+8a	-sła-
+4b	-ła
+4dd	na-
+=2	=2
+4ee	-do-
+(4dd	-bna,
+4b)}	.
 !!LO:LB:g=esac
-=3
-{4ee
-4ee
-8cc
-8b
-=4
-8a
-8g#
-2e}
+=3	=3
+{4ee	oj,
+4ee	da,
+8ccL	da,
+8bJ	.
+=4	=4
+8a	dziew-
+8g#	-czy-
+2e}	-na,
 !!LO:LB:g=esac
-=5
-{8g#
-8a
-4b
-4dd
-=6
-4ee
-8dd
-8b
-4a
-=7
-4b
-8a
-8g#
-4e}
-==
-*-
+=5	=5
+{8g#L	że-
+8aJ	.
+4b	-bym
+4dd	się
+=6	=6
+4ee	z_nią
+8ddL	że-
+8bJ	.
+4a	-nił,
+=7	=7
+4b	da,
+8aL	że-
+8g#J	.
+4e}	-nił.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Przysłała nadobna,
+!!oj, da, da, dziewczyna,
+!!żebym się z nią żenił, da, żenił.
+!!@VERSE:
+!!2. A ja nieboraczek,
+!!ciężki na mnie roczek.
+!!czemże bym ją używił?
+!!@VERSE:
+!!3. A są w stawie ryby,
+!!kole stawu grzyby,
+!!tém ci bym ją używił.
+!!@@END: VERSES
+!!!role-singer: Single Man
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=148 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 69-70} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 69-70}
 !!!page: 69-70
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-20

@@ -3,64 +3,79 @@
 !!!source: DWOK41
 !!!id: 41108
 !!!signature: 4110800000
-**kern
-*clefG2
-*k[]
-*C:
-*M4/4
-=1
-{4cc
-4cc
-2cc
-=2
-16cc
-8.b
-16b
-8.dd
-2dd}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M4/4	*
+=1	=1
+{4cc	My-
+4cc	-śli-
+2cc	-wy
+=2	=2
+16ccL	cho-
+8.bJ	.
+16bL	-dzą-
+8.ddJ	.
+2dd}	-cy
 !!LO:LB:g=esac
-=3
-{8g
-8cc
-8b
-8a
-4g
-4cc
-=4
-8ee
-8dd
-8dd
-8cc
-2cc}
+=3	=3
+{8g	na-
+8cc	-pot-
+8b	-kał
+8a	dziew-
+4g	-czą-
+4cc	-tko
+=4	=4
+8ee	na
+8dd	gó-
+8dd	-rze
+8cc	śpią-
+2cc}	-cy.
 !!LO:LB:g=esac
-=5
-{4g
-4ee
-4.g
-8cc
-=6
-16cc
-8.b
-4b
-2b}
+=5	=5
+{4g	Z_ko-
+4ee	-nia
+(<4.g	zsiadł,
+8cc)	.
+=6	=6
+16ccL	ża-
+8.bJ	.
+4b	-łu-
+2b}	-je,
 !!LO:LB:g=esac
-=7
-{8g
-8ff
-8ff
-8ff
-4.g
-8dd
-=8
-16ff
-8.ee
-8ee
-8ee
-2ee}
-==
-*-
+=7	=7
+{8g	by
+8ff	ze
+8ff	snu
+8ff	nie
+4.g	zbu-
+8dd	-dził,
+=8	=8
+16ff	to
+8.ee	o-
+8ee	-bser-
+8ee	-wu-
+2ee}	-je.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Myśliwy chodzący napotkał dziewczątko
+!!na górze śpiący.
+!!Z konia zsiadł, żałuje,
+!!by ze snu nie zbudził, to obserwuje.
+!!@VERSE:
+!!2. Coś ty jest? Tak pyta.
+!!Toć nie wilk ni sarna, jeno kobita.
+!!Coś ty jest? Jaka zwierzyna,
+!!ni ma nic lepszego jako dziewczyna.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!RDF**kern: <= below
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=159 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 80} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 80}
 !!!page: 80
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-23

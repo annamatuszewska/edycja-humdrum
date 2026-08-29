@@ -3,62 +3,75 @@
 !!!source: DWOK41
 !!!id: 41063
 !!!signature: 4106300000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=
-{12d
-12f#
-12a
-4d
-4dd
-=1
-8dd
-8b
-4a
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{12dL	Z_tam
+12f#J	.
+12a	tej
+4d	stro-
+4dd	-ny
+=2	=2
+8dd	je-
+8b	-zio-
+4a	-recz-
+4g}	-ka
 !!LO:LB:g=esac
-=
-{12d
-12f#
-12a
-4d
-4f#
-=2
-8g
-8g
-4b
-4g}
+=3	=3
+{12dL	ki-
+12f#J	.
+12a	-wa
+4d	na
+4f#	mnie
+=4	=4
+8g	Ma-
+(8f#q	.
+8g)	-zu-
+(8aq	.
+4b)	-recz-
+4g}	-ka,
 !!LO:LB:g=esac
-=
-{12d
-12f#
-12a
-4d
-4f#
-=3
-8g
-8g
-4b
-4dd}
+=5	=5
+{12dL	a
+12f#J	.
+12a	ja
+4d	te-
+4f#	-go
+=6	=6
+8g	nie
+(8f#q	.
+8g)	u-
+4b	-czy-
+4dd}	-nię,
 !!LO:LB:g=esac
-=
-{12d
-12f#
-12a
-4d
-4f#
-=4
-8g
-8g
-4b
-4g}
-==
-*-
+=7	=7
+{12Ld	bo
+12f#J	.
+12a	się
+4d	bo-
+4f#	-ję
+=8	=8
+8g	o
+8g	czu-
+4b	-pry-
+4g}	-nę.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Z tam tej strony jezioreczka
+!!kiwa na mnie Mazureczka,
+!!a ja tego nie uczynię,
+!!bo się boję o czuprynę.
+!!@@END: VERSES
+!!!role-singer: Man
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=136 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 57} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 57}
 !!!page: 57
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-18

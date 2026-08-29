@@ -3,54 +3,68 @@
 !!!source: DWOK41
 !!!id: 41109
 !!!signature: 4110900000
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{8cc
-8cc
-8b
-8dd
-=2
-8ff
-8dd
-8b
-8g
-=3
-8cc
-8cc
-8ee
-8ff#
-=4
-8gg
-8ff#
-4dd}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+=1	=1
+{8cc	I
+8cc	wy-
+8b	-je-
+8dd	-chał
+=2	=2
+8ff	_ra-
+8dd	-na
+8b	w_po-
+8g	-le,
+=3	=3
+8cc	z_po-
+8cc	-la
+8ee	na
+8ff#	za-
+=4	=4
+8ggL	-ją-
+8ff#J	.
+4dd}	-ce
 !!LO:LB:g=esac
-=5
-{8cc
-8cc
-8b
-8g
-=6
-8cc
-8cc
-8b
-8g
-=7
-8a
-8a
-8b
-8dd
-=8
-8cc
-8b
-4g}
-==
-*-
+=5	=5
+{8cc	i
+8cc	na-
+8b	-pot-
+8g	-kał
+=6	=6
+8cc	trzy
+8cc	pa-
+8b	-nien-
+8g	-ki
+=7	=7
+8a	sie-
+8a	-dzą-
+8b	-ce
+8dd	na
+=8	=8
+8ccL	łą-
+8bJ	.
+4g}	-ce.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!I wyjechał z rana w pole,
+!!z pola na zające
+!!i napotkał trzy panienki
+!!siedzące na łące.
+!!@VERSE:
+!!Jednéj było Katarzyna
+!!a drugij Zochfija,
+!!a o trzecij nie gada się,
+!!boć to jego miła.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=159 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 80} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 80}
 !!!page: 80
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-23

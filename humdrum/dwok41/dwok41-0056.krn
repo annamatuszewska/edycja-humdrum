@@ -3,63 +3,73 @@
 !!!source: DWOK41
 !!!id: 41056
 !!!signature: 4105600000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16d
-16f#
-8a
-8cc
-=2
-16ee
-16ee
-8dd
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16d	Mój
+16f#	ko-
+8a	-ni-
+8cc	-czek,
+=2	=2
+16ee	swy-
+(8ggq	.
+16ee)	-wol-
+8dd	-ni-
+8g}\	-czek
 !!LO:LB:g=esac
-=3
-{16d
-16f#
-8g
-16e
-16c
-=4
-16c
-16e
-16g
-16f#
-8d}
+=3	=3
+{16d	po-
+16f#	-le-
+8g	-ciał
+16eL	mi
+16cJ	.
+=4	=4
+16c	na
+16e	pa-
+16gL	-śni-
+16f#J	.
+8d}	-czek.
 !!LO:LB:g=esac
-=5
-{16d
-16f#
-8a
-16a
-16d
-=6
-16f#
-16g
-8b
-8b}
+=5	=5
+{16d	Na
+16f#	pa-
+8a	-śni-
+16aL	-ku
+16dJ	.
+=6	=6
+16f#	tra-
+16g	-wy
+8b	nié
+8b}	ma,
 !!LO:LB:g=esac
-=7
-{16b
-16cc
-8a
-16f#
-16d
-=8
-16c
-16e
-16g
-16f#
-8d}
-==
-*-
+=7	=7
+{16b	a
+16cc	u
+8a	chłop-
+16f#L	-ców
+16dJ	.
+=8	=8
+16c	praw-
+16e	-dy
+16gL	nié
+16f#J	ma.
+8d}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Mój koniczek, swywolniczek
+!!poleciał mi na paśniczek.
+!!Na paśniku trawy nié ma,
+!!a u chłopców prawdy nié ma.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=133 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 54} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 54}
 !!!page: 54
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-18

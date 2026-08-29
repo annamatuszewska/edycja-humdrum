@@ -3,55 +3,74 @@
 !!!source: DWOK41
 !!!id: 41111
 !!!signature: 4111100002
-**kern
-*clefG2
-*k[b-e-]
-*g:
-*M3/8
-=1
-{8dd
-8b-
-8cc
-=2
-4dd
-16cc
-16a}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*g:	*
+*M3/8	*
+=1	=1
+{8dd	Mię-
+8b-	-dzy
+8cc	o-
+=2	=2
+4dd	-gro-
+16cc/L	-dy
+16a}J	.
 !!LO:LB:g=esac
-=3
-{8b-
-8g
-16a
-16g
-=4
-8f#
-4d}
+=3	=3
+{8b-	są
+8g	by-
+16a\L	-stre
+16g\J	.
+=4	=4
+8f#	wo-
+4d}	-dy,
 !!LO:LB:g=esac
-=5
-{16g
-16f#
-16g
-16a
-16b-
-16cc
-=6
-16dd
-16ee-
-16dd
-16cc
-16b-
-16a}
+=5	=5
+{16gL	zbié-
+16f#J	.
+16g	-ra-
+16a	-ły
+16b-	pan-
+16cc	-ny,
+=6	=6
+16ddL	zbie-
+16ee-J	.
+16dd	-ra-
+16cc	-ły
+16b-	pan-
+16a}	-ny
 !!LO:LB:g=esac
-=7
-{8dd
-8.d
-16f#
-=8
-4g
-8g}
-==
-*-
+=7	=7
+{8dd	czar-
+8.d	-ne
+16f#	ja-
+=8	=8
+4g	-go-
+8g}	-dy.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Między ogrody
+!!są bystre wody,
+!!|:zbiérały panny:|,
+!!czarne jagody.
+!!@VERSE:
+!!2. Z konika pryśnie,
+!!za rączkę ściśnie,
+!!|: ojwo, dziewczyno:|,
+!!proszę na wiśnie.
+!!@VERSE:
+!!3. Co to za wiśnie,
+!!za owoc taki?
+!!|: Którna panna zasmakuje:|,
+!!rumieniec nie taki.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=160 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 81} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 81}
 !!!page: 81
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-23

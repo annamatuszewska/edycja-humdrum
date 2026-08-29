@@ -3,59 +3,75 @@
 !!!source: DWOK41
 !!!id: 41078
 !!!signature: 4107800000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{8ee
-8ee
-16ff
-16ee
-=2
-16dd
-16cc
-8b
-8dd}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{8ee	W_o-
+8ee	-gró-
+16ff	-de-
+16ee	-czku
+=2	=2
+16dd	stu-
+16cc	-dzie-
+8b	-ne-
+8dd}	-czka,
 !!LO:LB:g=esac
-=3
-{8a
-16a
-16b
-16cc
-16ee
-=4
-16b
-16a
-8g#
-8e}
+=3	=3
+{8a	sku-
+16a\L	-beł-
+16bJ	.
+16cc	-ki
+16ee	nad
+=4	=4
+16b	nią,
+16a	da,
+8g#	nad
+8e}	nią,
 !!LO:LB:g=esac
-=5
-{8e
-8e
-16g#
-16b
-=6
-16dd
-16b
-8a
-8cc}
+=5	=5
+{8e	a
+8e	o-
+16g#	-patrz
+16b	mnie,
+=6	=6
+16dd	Pa-
+16b	-nie
+8a	Je-
+8cc}	-zu,
 !!LO:LB:g=esac
-=7
-{8e
-8a
-16cc
-16ee
-=8
-16b
-16a
-8g#
-8e}
-==
-*-
+=7	=7
+{8e	żo-
+8a	-necz-
+16cc	-ką
+16ee	ła-
+=8	=8
+16b	-dną,
+16a	da,
+8g#	ła-
+8e}	-dną.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. W ogródeczku studzieneczka, 
+!!skubełki nad nią, da, nad nią,
+!!a opatrz mnie, Panie Jezu,
+!!żoneczką ładną, da, ładną.
+!!@VERSE:
+!!2. Nie stoje ja o fortune,
+!!byle ja miał ładną żonę;
+!!fortuna mnie nie urodzi,
+!!ładna żona za mną chodzi.
+!!@@END: VERSES
+!!!role-singer: Single Man
+!!!role-listener: God
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=145 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 66} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 66}
 !!!page: 66
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-19

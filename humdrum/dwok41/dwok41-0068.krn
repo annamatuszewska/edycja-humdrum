@@ -3,50 +3,69 @@
 !!!source: DWOK41
 !!!id: 41068
 !!!signature: 4106800000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16b
-16a
-8b
-8cc
-=2
-8ee
-8.dd
-16b
-=3
-8dd
-8.cc
-16a
-=4
-8cc
-8.b
-16g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16b	U-
+16a	-cie-
+8b	-ka-
+8cc	-ła
+=2	=2
+8ee	po
+8.dd	ro-
+16b	-wie,
+=3	=3
+8dd	po
+8.cc	ro-
+16a	-wie,
+=4	=4
+8cc	po
+8.b	ro-
+16g}	-wie,
 !!LO:LB:g=esac
-=5
-{16b
-16a
-8b
-8cc
-=6
-8ee
-8.dd
-16b
-=7
-8dd
-8.cc
-16a
-=8
-8cc
-8.b
-16g}
-==
-*-
+=5	=5
+{16b	go-
+16a	-ni-
+8b	-li
+8cc	ją
+=6	=6
+8ee	pa-
+8.dd	-no-
+16b	-wie,
+=7	=7
+8dd	pa-
+8.cc	-no-
+16a	-wie,
+=8	=8
+8cc	pa-
+8.b	-no-
+16g}	-wie.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Uciekała po rowie, |:po rowie:|,
+!!gonili ją panowie, |:panowie:|.
+!!@VERSE:
+!!2. Nie uciekaj, nie bój się,|:nie bój sie:|.
+!!na trzewiczki, obój się, |:obój się:|.
+!!@VERSE:
+!!3. Ja trzewiczków nie schodzę, |: nie schodzę:|
+!!z panami się nie zgodzę, |:nie zgodzę:|.
+!!@VERSE:
+!!4. Uciekała po lesie, |:po lesie:|,
+!!pytali się, co niesie, |:co niesie:|.
+!!@VERSE:
+!!5. Ani kruszki, ni jabka, |:ni jabka:|,
+!!tylko panom zabawka, |:zabawka:|.
+!!@@END: VERSES
+!!!role-singer: Narrator, Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=139 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 60} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 60}
 !!!page: 60
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-19
