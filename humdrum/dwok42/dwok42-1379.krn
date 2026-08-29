@@ -3,51 +3,81 @@
 !!!source: DWOK42
 !!!id: 421379
 !!!signature: 42137900000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/4
-=1
-{2cc
-4a
-=2
-8f
-8a
-4cc
-4dd
-=3
-4b-
-4a
-4f
-=4
-8a
-8a
-4e
-4f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/4	*
+=1	=1
+{2cc	Po-
+4a	-wiedz-
+=2	=2
+8f	-że
+8a	mi,
+4cc	po-
+4dd	-wiedz,
+=3	=3
+(4b-	coś
+4a)	.
+4f	mia-
+=4	=4
+8a	-ła
+8a	po-
+4e	-wie-
+4f}	-dziéć,
 !!LO:LB:g=esac
-=5
-{2g
-4g
-=6
-8g
-8f
-4a
-4cc
-=7
-4b-
-4a
-8f
-8g
-=8
-8a
-8a
-4e
-4f}
-==
-*-
+=5	=5
+{2g	przyj-
+4g	-dzie
+=6	=6
+8g	nie-
+8f	-dzio-
+4a	-łe-
+4cc	-czka,
+=7	=7
+(4b-	da-
+4a)	.
+8fL	-my
+8gJ	.
+=8	=8
+8a	na
+8a	za-
+4e	-po-
+4f}	-wiedź.
+==	==
+*-	*-
+!!!role-singer: Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Powiedzże mi, powiedz,
+!!coś miała powiedziéć,
+!!przyjdzie niedziołeczka,
+!!damy na zapowiedź.
+!!@VERSE:
+!!Moja matuleńka
+!!na takiego pragnie,
+!!co gorzałką poi
+!!i tańcuje ładnie.
+!!@VERSE:
+!!Moja matuleńka
+!!na takiego łoży,
+!!co ma cztery konie,
+!!szybowane wozy.
+!!@VERSE:
+!!U mojej matuli,
+!!u mojej kochanej,
+!!kryształowe okna,
+!!marmurowe ściany.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: 1 [okute, mocne]
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=29 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 20-21} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, pp. 20-21}
 !!!page: 20-21
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

@@ -3,57 +3,73 @@
 !!!source: DWOK42
 !!!id: 421392
 !!!signature: 42139200000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{4ee
-4ee
-4ee
-=2
-8dd#
-8ee
-4ff#
-4ee
-=3
-4ee
-4ee
-4ee
-=4
-8dd#
-8ee
-8cc
-8b
-4a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+{4ee	Ej,
+4ee	a
+4ee	pod
+=2	=2
+8dd#	mo-
+8ee	-ją
+4ff#	kla-
+4ee	-czą,
+=3	=3
+4ee	da,
+4ee	pod-
+4ee	-ko-
+=4	=4
+8dd#	-wy
+8ee	ko-
+8ccL	-ła-
+8bJ	.
+4a}	-czą,
 !!LO:LB:g=esac
-=5
-{4dd
-8cc
-8b
-4a
-=6
-8g#
-8a
-8b
-8cc
-4ee
-=7
-4dd
-8cc
-8b
-4a
-=8
-8g#
-8a
-8b
-8cc
-4a}
-==
-*-
+=5	=5
+{4ddM	ej,
+8ccL	nie
+8bJ	.
+4a	chcie-
+=6	=6
+8g#	-li
+8a	mnie
+8bL	pan-
+8ccJ	.
+4ee	-ny,
+=7	=7
+4ddM	da,
+8ccL	a
+8bJ	.
+4a	te-
+=8	=8
+8g#	-raz
+8a	mnie
+8bL	pła-
+8ccJ	.
+4a}	-czą.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Ej, a pod moją klaczą,
+!!da, podkowy kołaczą,
+!!ej, nie chcieli mnie panny,
+!!da, a teraz mnie płaczą.
+!!@VERSE:
+!!Ej, a pod moją klaczą,
+!!da, półtory podkowy,
+!!ej, nie chcieli mnie panny,
+!!da, pojadę do wdowy.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=35 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 26} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 26}
 !!!page: 26
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

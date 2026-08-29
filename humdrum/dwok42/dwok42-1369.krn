@@ -3,53 +3,72 @@
 !!!source: DWOK42
 !!!id: 421369
 !!!signature: 42136900000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{4dd
-4gg
-4gg
-=2
-8ff#
-8dd
-4ee
-4cc
-=3
-8b
-8a
-4g
-4b
-=4
-4a
-4g
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{4dd	Oj,
+4gg	pra-
+4gg	-gną
+=2	=2
+8ff#	o-
+8dd	-czki,
+4ee	pra-
+4cc	-gną,
+=3	=3
+8b	da,
+8a	za
+4g	dziew-
+4bm	-czy-
+=4	=4
+4a	-ną
+4g	ła-
+(8aq	.
+4g)}	-dną,
 !!LO:LB:g=esac
-=5
-{4a
-4dd
-4ee
-=6
-8ff#
-8dd
-4ee
-4cc
-=7
-8b
-8a
-4g
-4b
-=8
-4a
-4g
-4g}
-==
-*-
+=5	=5
+{4a	oj,
+4dd	a-
+4ee	-le
+=6	=6
+8ff#	za
+8dd	mo-
+4ee	-ru-
+4cc	-sem,
+=7	=7
+8b/	da,
+8a	to
+4g	tyl-
+4b	-ko
+=8	=8
+4a	z_przy-
+4g	-mu-
+(8aq	.
+4g)}	-sem.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!role-listener: Mother
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Oj, pragną oczki, pragną,
+!!da, za dziewczyną ładną,
+!!oj, ale za morusem,
+!!da, to tylko z przymusem.
+!!@VERSE:
+!!Ej, matko moja, matko,
+!!da, chowajże mnie gładko
+!!od niedzieli do niedzieli,
+!!da, jak sadowe jabko.
+!!@@END: VERSES
 !!!ONB: Wariant w takcie piątym 245_6_
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=26 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 17} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 17}
 !!!page: 17
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

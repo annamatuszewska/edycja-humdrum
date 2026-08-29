@@ -3,63 +3,116 @@
 !!!source: DWOK42
 !!!id: 421472
 !!!signature: 42147200000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M2/4
-=1
-{8f
-8g
-8a
-8b-
-=2
-4cc
-4dd
-=3
-2cc
-=4
-8cc
-8ff
-8a
-8cc}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M2/4	*
+=1	=1
+{8f	Wyj-
+8g	-rzyj,
+8a	dziew-
+8b-	-ce,
+=2	=2
+4cc	w_ciem-
+4dd	-ny
+=3	=3
+2cc	las,
+=4	=4
+8cc	cy
+8ff	nie
+8a	je-
+8cc}	-dzie
 !!LO:LB:g=esac
-=5
-{4b-
-4dd
-=6
-2g
-=7
-8cc
-8dd
-8b-
-8a
-=8
-4.g
-8e}
+=5	=5
+{4b-	kto
+4dd	do
+=6	=6
+2g	nas?
+=7	=7
+8ccL	Ach,
+8ddJ	.
+8b-	je-
+8a	-dzie,
+=8	=8
+4.g	je-
+8e}	-dzie
 !!LO:LB:g=esac
-=9
-{8f
-8g
-8a
-8b-
-=10
-4cc
-4ff
-=11
-8cc
-8dd
-8b-
-8a
-=12
-4g
-4g
-=13
-2f}
-==
-*-
+=9	=9
+{8f	Ja-
+8g	-sio
+8a	mój
+8b-	naj-
+=10	=10
+4cc	-mil-
+4ff	-sy,
+=11	=11
+8cc	je-
+8dd	-dzie
+8b-	tu
+8a	pro-
+=12	=12
+4g	-sto
+4g	do
+=13	=13
+2f}	nas.
+==	==
+*-	*-
+!!!role-singer: Maiden, Housemaid, Narrator, Bachelor, Mother
+!!!role-listener: Housemaid, Maiden, Mother, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Wyjrzyj, dziewce, w ciemny las,
+!!cy nie jedzie kto do nas?
+!!Ach, jedzie, jedzie
+!!Jasio mój najmilsy,
+!!jedzie tu prosto do nas.
+!!@VERSE:
+!!Po cemześ go poznała?
+!!Po wronym, po koniku;
+!!i przypinał sobie
+!!ostrą siabeleckę,
+!!a, do léwygo boku.
+!!@VERSE:
+!!Ach, sabelki nie przypiął
+!!i przyjechał przed swój dom,
+!!serdecnie westchnął
+!!i rzywnie zapłakał,
+!!az ci pod nim zarzał koń.
+!!@VERSE:
+!!Matka oknem wyjrzała,
+!!na ulice wybiegła.
+!!Witam cię, mój synu.
+!!kto ci był przycyną.
+!!kto cię do wojska oddał?
+!!@VERSE:
+!!Pan Sciankowski selma był,
+!!ten mnie do wojska oddał.
+!!do wojska oddał,
+!!w kajdany okował,
+!!jesce do mnie wartę dał.
+!!@VERSE:
+!!A ta warta stojała
+!!Od wiecora do rana.
+!!Skoro Pan Bóg dzień dał,
+!!już mnie do wojska oddał.
+!!@VERSE:
+!!Ach, wy moje rodzice,
+!!a juz wy mnie nie płaccie,
+!!mojej Kasiulińce,
+!!mojej najmilejsyj
+!!zalu nie dodawajcie.
+!!@VERSE:
+!!Bo przed moją Kasieńką
+!!ślicnie roza zakwita
+!!ach, mnie najmilsemu
+!!cięzko listu przecytać.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=72 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 63} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 63}
 !!!page: 63
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

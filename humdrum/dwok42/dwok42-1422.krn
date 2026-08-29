@@ -3,130 +3,156 @@
 !!!source: DWOK42
 !!!id: 421422
 !!!signature: 42142200000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8b
-8g
-2dd
-=2
-8ee
-8dd
-2dd
-=3
-8ee
-8dd
-4.cc
-8a
-=4
-4cc
-2b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8b	A
+8g	w_nie-
+2dd	-dzie-
+=2	=2
+8ee	-le
+8dd	ra-
+2dd	-no
+=3	=3
+8ee	słoń-
+8dd	-ce
+4.cc	przy-
+8a	-grzy-
+=4	=4
+4cc	-wa-
+2b}	-ło,
 !!LO:LB:g=esac
-=5
-{8b
-8g
-2dd
-=6
-8ee
-8dd
-2dd
-=7
-8ee
-8dd
-4.cc
-8a
-=8
-4cc
-2b}
+=5	=5
+{8b	ach,
+8g	mo-
+2dd	-jej
+=6	=6
+8ee	Ma-
+8dd	-ry-
+2dd	-ni
+=7	=7
+8ee	na
+8dd	sen
+4.cc	sie
+8a	zbie-
+=8	=8
+4cc	-ra-
+2b}	-ło.
 !!LO:LB:g=esac
-=9
-{8b
-8b
-4.b
-8cc
-=10
-8ee
-8dd
-8dd
-8cc
-4b
-=11
-8a
-8a
-4.a
-8b
-=12
-8cc
-8b
-4cc
-4a}
+=9	=9
+{8b	Ma-
+8b	-ry-
+4.b	-sia
+8cc	się
+=10	=10
+8ee	po-
+8dd	-ło-
+8ddL	-ży-
+8ccJ	.
+4b	-ła,
+=11	=11
+8a	mo-
+8a	-dre
+4.a	o-
+8b	-czki
+=12	=12
+8cc	za-
+8b	-mru-
+4cc	-zy-
+4a}	-ła,
 !!LO:LB:g=esac
-=13
-{8dd
-8dd
-4ee
-4dd
-=14
-8dd
-8gg
-2b
-=15
-8ee
-8dd
-4cc
-4f#
-=16
-8a
-8g
-2g}
+=13	=13
+{8dd	nóż-
+8dd	-ki
+4ee	wy-
+4dd	-cią-
+=14	=14
+8ddL	-gny-
+8ggJ	.
+2b	-ła,
+=15	=15
+8ee	nóż-
+8dd	-ki
+4cc	wy-
+4f#	-cią-
+=16	=16
+8aL	-gny-
+8gJ	.
+2g}	-ła,
 !!LO:LB:g=esac
-=17
-{8b
-8b
-4.b
-8cc
-=18
-8ee
-8dd
-8dd
-8cc
-4b
-=19
-8a
-8a
-4.a
-8b
-=20
-8cc
-8b
-4cc
-4a}
+=17	=17
+{8b	Ma-
+8b	-ry-
+4.b	-sia
+8cc	się
+=18	=18
+8ee	po-
+8dd	-ło-
+8ddL	-ży-
+8ccJ	.
+4b	-ła,
+=19	=19
+8a	mo-
+8a	-dre
+4.a	o-
+8b	-czki
+=20	=20
+8cc	za-
+8b	-mru-
+4cc	-zy-
+4a}	-ła,
 !!LO:LB:g=esac
-=21
-{8dd
-8dd
-4ee
-4dd
-=22
-8dd
-8gg
-2b
-=23
-8ee
-8dd
-4cc
-4f#
-=24
-8a
-8g
-2g}
-==
-*-
+=21	=21
+{8dd	nóż-
+8dd	-ki
+4ee	wy-
+4dd	-cią-
+=22	=22
+8ddL	-gny-
+8ggJ	.
+2b	-ła,
+=23	=23
+8ee	nóż-
+8dd	-ki
+4cc	wy-
+4f#	-cią-
+=24	=24
+8aL	-gny-
+8gJ	.
+2g}	-ła.
+==	==
+*-	*-
+!!!role-singer: Narrator, Bachelor
+!!!role-listener: Maiden
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!A w niedziele rano słońce przygrzywało,
+!!ach, mojej Maryni na sen sie zbierało.
+!!|:Marysia się położyła,
+!!modre oczki zamruzyła,
+!!nóżki wyciągnyła,
+!!nóżki wyciągnyła:|.
+!!@VERSE:
+!!Przyszed do nij ranij, jak potrzeba:
+!!Wstajaj, Marysiu, dorabiać się chleba,
+!!bo ta rola pusta leży,
+!!ni ma tego, co należy,
+!!ach, ja bym ci pięknie zorał,
+!!pięknie zasiał, zabronował,
+!!byś pożytek miała
+!!i mie dziękowała.
+!!@VERSE:
+!!Dziura w płocie, po cożeś tam właził,
+!!ciężkoś Boga, hultaju, obraził.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=47 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 38-39} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, pp. 38-39}
 !!!page: 38-39
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

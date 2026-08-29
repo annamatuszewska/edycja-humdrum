@@ -3,60 +3,77 @@
 !!!source: DWOK42
 !!!id: 421370
 !!!signature: 42137000000
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M3/4
-=1
-{8cc
-8ee-
-4gg
-8gg
-8dd
-=2
-4ff
-4cc
-8dd
-8b-
-=3
-8cc
-8ee-
-4gg
-8gg
-8dd
-=4
-4ff
-8cc
-8dd
-4b-}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M3/4	*
+=1	=1
+{8cc	Oj,
+8ee-	si-
+4gg	-wa
+8ggL	gą-
+8ddJ	.
+=2	=2
+4ffM	-ska,
+4cc	si-
+8ddL	-wa,
+8b-J	.
+=3	=3
+8cc	da,
+8ee-	po
+4gg	du-
+8ggL	-na-
+8ddJ	.
+=4	=4
+4ff	-ju
+8ccL	pły-
+8ddJ	.
+4b-}	-wa,
 !!LO:LB:g=esac
-=5
-{8f
-8a
-4b-
-8dd
-8cc
-=6
-4ee-
-4b-
-8dd
-8ff
-=7
-8gg
-8cc
-4dd
-8dd
-8b-
-=8
-4ee-
-8cc
-8dd
-4b-}
-==
-*-
+=5	=5
+{8f	oj,
+8a	powiedz-
+4b-	.
+8ddL	-że,
+8ccJ	.
+=6	=6
+4ee-M	dziew-
+4b-	-czy-
+8ddL	-no,
+8ffJ	.
+=7	=7
+8gg	da,
+8cc	kto
+4dd	u
+8ddL	cie-
+8b-J	.
+=8	=8
+4ee-M	-bie
+8ccL	by-
+8ddJ	.
+4b-}	-wa.
+==	==
+*-	*-
+!!!role-singer: Narrator, Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Oj, siwa gąska, siwa,
+!!da, po dunaju pływa,
+!!oj, powiedzże, dziewczyno,
+!!da, kto u ciebie bywa.
+!!@VERSE:
+!!Oj, jak pływa, tak pływa,
+!!da, od brzega do brzega,
+!!oj, mojemu Jasiowi,
+!!da, kochania nie trzeba.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=26 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 17} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 17}
 !!!page: 17
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

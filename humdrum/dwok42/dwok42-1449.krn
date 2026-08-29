@@ -3,59 +3,74 @@
 !!!source: DWOK42
 !!!id: 421449
 !!!signature: 42144900000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16cc
-16ee
-8.gg
-16ff
-=2
-16ee
-16cc
-8ff
-8dd}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16cc	O-
+16ee	-staj
+8.gg	mi
+16ff	z_Bo-
+=2	=2
+16ee	-giem,
+16cc	dziew-
+8ff	-cy-
+8dd}	-no,
 !!LO:LB:g=esac
-=3
-{16cc
-16cc
-8dd
-16ff
-16ee
-=4
-16dd
-16dd
-8b
-8g
-=5
-16cc
-16ee
-8.gg
-16ee}
+=3	=3
+{16cc	o-
+16cc	-staj
+8dd	mi
+16ffL	z_Bo-
+16eeJ	.
+=4	=4
+16dd	-giem,
+16dd	da,
+8b	z_Bo-
+8g	-giem,
+=5	=5
+16cc	two-
+16ee	-ja
+8.gg	ról-
+16ee}	-ka
 !!LO:LB:g=esac
-=6
-{16gg
-16ff
-8dd
-16ff
-16ee
-=7
-16.cc
-32dd
-8dd
-8cc
-=8
-16g
-16g
-8a
-8g}
-==
-*-
+=6	=6
+{16gg	za-
+16ff	-o-
+8dd	-ra-
+16ffL	-na,
+16eeJ	.
+=7	=7
+16.cc	mo-
+32dd	-ja
+8dd	o-
+8cc	-dło-
+=8	=8
+16g	-giem,
+16g	o-
+8a	-dło-
+8g}	-giem.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!role-listener: Maiden
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Ostaj mi z Bogiem, dziewcyno,
+!!ostaj mi z Bogiem, da, z Bogiem,
+!!twoja rólka zaorana,
+!!moja odłogiem, odłogiem.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: leży
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=60 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 51} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 51}
 !!!page: 51
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

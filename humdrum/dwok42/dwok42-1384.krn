@@ -3,62 +3,72 @@
 !!!source: DWOK42
 !!!id: 421384
 !!!signature: 42138400000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M4/4
-=1
-{8g
-8a
-8b
-8cc
-4.dd
-8b
-=2
-8dd
-8dd
-8dd
-16ee
-16dd
-4.cc
-8a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M4/4	*
+=1	=1
+{8g	Z_tam-
+8a	-tej
+8b	stro-
+8cc	-ny
+4.dd	dwo-
+8b	-ra
+=2	=2
+8dd	zie-
+8dd	-lo-
+8dd	-na
+16eeL	mu-
+16ddJ	.
+4.cc	-ra-
+8a}	-wa,
 !!LO:LB:g=esac
-=3
-{8cc
-8b
-8g
-8g
-4e
-4d
-=4
-8f#
-8g
-8b
-16b
-16a
-4.cc
-8a}
+=3	=3
+{8cc	pa-
+8b	-sła
+8g	pa-
+8g	-nie-
+4e	-ne-
+4d	-cka
+=4	=4
+8f#	prze-
+8g	-śli-
+8b	-cne-
+16bL	-go
+16aJ	.
+4.cc	pa-
+8a}	-wia,
 !!LO:LB:g=esac
-=5
-{8cc
-8b
-8g
-16g
-16f#
-4.e
-8d
-=6
-8f#
-8g
-8b
-8a
-4.g
-8g}
-==
-*-
+=5	=5
+{8cc	pa-
+8b	-sła
+8g	pa-
+16gL	-nie-
+16f#J	.
+4.e	-ne-
+8d	-cka
+=6	=6
+8f#	prze-
+8g	-śli-
+8b	-cne-
+8a	-go
+4.g	pa-
+8g}	-wia.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Z tamtej strony dwora
+!!zielona murawa,
+!!|:pasła panienecka
+!!prześlicnego pawia:|.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=32 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 23} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 23}
 !!!page: 23
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

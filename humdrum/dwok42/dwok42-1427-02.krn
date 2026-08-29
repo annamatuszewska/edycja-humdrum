@@ -3,55 +3,67 @@
 !!!source: DWOK42
 !!!id: 421427
 !!!signature: 42142700002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16b
-16dd
-8dd
-8dd
-=2
-16cc
-16cc
-8.cc
-16cc
-=3
-16a
-16cc
-8a
-8cc
-=4
-16b
-16a
-8.b
-16g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16b	Có-
+16dd	-ruś
+8ddL	mo-
+8ddJ/	-ja,
+=2	=2
+16ccL	gdzie-
+16ccJ/	-ześ
+8.ccL	by-
+16ccJ/	-ła,
+=3	=3
+16a	coś
+16cc	trze-
+8a	-ji-
+8cc	-cki
+=4	=4
+16b	tak
+16a	zro-
+8.b	-si-
+16g}	-ła?
 !!LO:LB:g=esac
-=5
-{16g
-16g
-8f#
-8d
-=6
-16f#
-16a
-8.cc
-16a
-=7
-16g
-16g
-8f#
-8d
-=8
-16f#
-16a
-4g}
-==
-*-
+=5	=5
+{16g	U
+16g	lnum
+8f#	by-
+8d	-ła,
+=6	=6
+16f#	ma-
+16a	-mu-
+8.cc	-leń-
+16a	-ku,
+=7	=7
+16g	u
+16g	lnum
+8f#	by-
+8d	-ła,
+=8	=8
+16f#	ma-
+16a	-mu-
+4g}	-lu.
+==	==
+*-	*-
+!!!role-singer: Mother, Daughter
+!!!role-listener: Daughter, Mother
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Córuś moja, gdzieześ była,
+!!coś trzejicki tak zrosiła?
+!!U lnum była, mamuleńku,
+!!u lnum była, mamulu.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=49 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 40} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 40}
 !!!page: 40
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

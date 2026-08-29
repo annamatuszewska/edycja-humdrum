@@ -3,48 +3,75 @@
 !!!source: DWOK42
 !!!id: 421411
 !!!signature: 42141100000
-**kern
-*clefG2
-*k[f#]
-*e:
-*M3/4
-=1
-{8b
-8dd
-4cc
-4a
-=2
-4e
-2d
-=3
-8e
-8e
-4g
-4a
-=4
-4ee
-2dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*e:	*
+*M3/4	*
+=1	=1
+{8b	Lą-
+8dd	-dem,
+4cc	dziew-
+4a	-cze,
+=2	=2
+4e	lą-
+2d	-dem,
+=3	=3
+8e	ja
+8e	za
+4g	to-
+4a	-bą
+=4	=4
+4ee	wo-
+2dd}	-dą,
 !!LO:LB:g=esac
-=5
-{8b
-8dd
-4cc
-4a
-=6
-4e
-2d
-=7
-8e
-8g
-4b
-4a
-=8
-4g
-2e}
-==
-*-
+=5	=5
+{8b	je-
+8dd	-śli
+4cc	masz
+4a	ta-
+=6	=6
+4e	-lar-
+2d	-ki,
+=7	=7
+8e	o-
+8g	-że-
+4b	-nię
+4a	się
+=8	=8
+4g	z_to-
+2e}	-bą.
+==	==
+*-	*-
+!!!role-singer: Bachelor, Maiden, Narrator
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Lądem, dziewcze, lądem,
+!!ja za tobą wodą,
+!!jeśli masz talarki,
+!!ożenię się z tobą.
+!!@VERSE:
+!!Nie mam ja talarków,
+!!ale będę miała,
+!!spytaj się mnie, Jasiu,
+!!czy cię będę chciała.
+!!@VERSE:
+!!Wyszła na poleńko,
+!!tak sobie mówiła:
+!!pojdę za dworaka,
+!!nie będę robiła.
+!!@VERSE:
+!!Poszła za dworaka
+!!i robić musiała.
+!!A bodaj ja była
+!!dworaka nie znała!
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=43 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 34} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 34}
 !!!page: 34
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

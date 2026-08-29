@@ -3,56 +3,94 @@
 !!!source: DWOK42
 !!!id: 421450
 !!!signature: 42145000010
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M3/8
-=1
-{16d
-16d
-8d
-8f#
-=2
-4a
-8cc#
-=3
-16ee
-16ee
-8dd
-8e
-=4
-4b
-8a}
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M3/8	*
+=1	=1
+{16d	Za-
+16d	-szło
+8d	słoń-
+8f#	-ce,
+=2	=2
+4a	za-
+8cc#	-szło,
+=3	=3
+16ee	zo-
+16ee	-rza
+8dd	za-
+8e	-świ-
+=4	=4
+4b	-ta-
+8a}	-ła,
 !!LO:LB:g=esac
-=5
-{16ee
-16dd
-8cc#
-8e
-=6
-4b
-8a
-=7
-16a
-16a
-8g
-8c#
-=8
-4d
-8f#
-=9
-16b
-16a
-8g
-8c#
-=10
-4d
-8d}
-==
-*-
+=5	=5
+{16ee	zo-
+16dd	-rza
+8cc#	za-
+8e	-świ-
+=6	=6
+4b	-ta-
+8a	-ła,
+=7	=7
+16a	a
+16a	gdzie
+8g	mój
+8c#	jest
+=8	=8
+4d	Jó-
+8f#	-zio
+=9	=9
+16b	szcze-
+16a	-re-
+8g	-go
+8c#	ko-
+=10	=10
+4d	-cha-
+8d}	-nia.
+==	==
+*-	*-
+!!!role-singer: Maiden, Bachelor
+!!!role-listener: Bachelors, Maiden
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Zaszło słońce, zaszło,
+!!|:zorza zaświtała:|,
+!!a gdzie mój jest Józio
+!!szczerego kochania.
+!!@VERSE:
+!!Pójdę do ogródka,
+!!zerwę z rutki kwiatek,
+!!rozejdzie się wszędzie;
+!!podobno z méj rutki
+!!już wianka nie będzie.
+!!@VERSE:
+!!Zerwę z rutki kwiatek,
+!!|:zerwę z głowy wianek:|,
+!!cóż mi już po wszystkiém,
+!!zginął mój kochanek.
+!!@VERSE:
+!!A jak ci ja będę
+!!|:z tej Łomży wędrować:|,
+!!będziecie, będziecie
+!!chłopczęta żałować.
+!!@VERSE:
+!!Nie tak wy, chłopczęta,
+!!|:jak jeden młodzieniec:|,
+!!wyprowadził on mnie
+!!na prosty gościeniec.
+!!@VERSE:
+!!Z prostego gościeńca
+!!|:na zieloną łączkę:|,
+!!podaj mnie, dziewczyno,
+!!ostatni raz rączkę.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=60 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 51-52} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, pp. 51-52}
 !!!page: 51-52
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

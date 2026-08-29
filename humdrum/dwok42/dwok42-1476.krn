@@ -3,72 +3,86 @@
 !!!source: DWOK42
 !!!id: 421476
 !!!signature: 42147600000
-**kern
-*clefG2
-*k[f#]
-*e:
-=1
-*M2/4
-{8b
-8a
-8b
-16cc#
-16dd
-=2
-4ee
-4b
-=3
-8b
-8a
-8b
-8dd
-=4
-4ee
-4b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*e:	*
+=1	=1
+*M2/4	*
+{8b	Gdzież
+8a	to
+8b	je-
+16cc#L	-dziesz,
+16ddJ	.
+=2	=2
+4ee	Ja-
+4b	-siu?
+=3	=3
+8b	Na
+8a	wo-
+8b	-jen-
+8dd	-kę,
+=4	=4
+4ee	Ka-
+4b}	-siu,
 !!LO:LB:g=esac
-=5
-*M3/4
-{8b
-8dd#
-4ee
-4gg
-=6
-8ff#
-8dd#
-2b
-=7
-*M2/4
-4b
-4ee
-=8
-8b
-8dd
-8cc
-8b}
+=5	=5
+*M3/4	*
+{8b	na
+8dd#	wo-
+4ee	-jen-
+4ggM	-kę
+=6	=6
+8ff#	[da-
+8dd#	-le-
+2b	-cą.
+=7	=7
+*M2/4	*
+4b	Weź
+4ee	mnie,
+=8	=8
+8b	Ja-
+8dd	-siu,
+8cc	z_s-
+8b}	-obą,
 !!LO:LB:g=esac
-=9
-{4a
-4a
-=10
-8g
-8f#
-8e
-8d#
-=11
-*M3/4
-8e
-8g
-4a
-4cc
-=12
-8b
-8g
-2e}
-==
-*-
+=9	=9
+{4a	po-
+4a	-ja-
+=10	=10
+8g	-dę
+8f#	ja
+8e	z_to-
+8d#	-bą
+=11	=11
+*M3/4	*
+8e	na
+8g	wo-
+4a	-jen-
+4cc	-kę
+=12	=12
+8b	da-
+8g	-le-
+2e}	-cą].
+==	==
+*-	*-
+!!!role-singer: Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Gdzież to jedziesz, Jasiu?
+!!Na wojenkę, Kasiu,
+!!na wojenkę [dalecą.
+!!Weź mnie, Jasiu, z sobą,
+!!pojadę ja z tobą
+!!na wojenkę dalecą].
+!!@@END: VERSES
 !!!ONB: wariant w takcie szóstym +2_+17b5___
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=74 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 65} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 65}
 !!!page: 65
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

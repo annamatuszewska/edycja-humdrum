@@ -8,45 +8,45 @@
 *k[f#c#]
 *D:
 *M3/8
-=
-{24d
-24e
-24d
-8c#
-8B
 =1
+{24dL
+24e
+24dJ
+8c#L
+8BJ
+=2
 4B
 8A
-=2
-16b
+=3
+16bL
 16a
 16f#
 16g
 16e
-16c#
-=3
+16c#J
+=4
 4d
 8f#}
 !!LO:LB:g=esac
-=
-{24d
+=5
+{24dL
 24e
-24d
-8c#
-8B
-=4
+24dJ
+8c#L
+8BJ
+=6
 4B
 8A
-=5
-16b
+=7
+16bL
 16a
 16f#
 16g
 16e
-16c#
-=6
+16c#J
+=8
 4d
-8d}
+8d\}
 ==
 *-
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
@@ -54,3 +54,5 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=61 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 52} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 52}
 !!!page: 52
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

@@ -3,65 +3,83 @@
 !!!source: DWOK42
 !!!id: 421468
 !!!signature: 42146800000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8g
-8b
-8b
-8b
-8b
-8g
-=2
-4.dd
-8cc
-4cc
-=3
-8a
-8b
-8cc
-8dd
-8ee
-8ee}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8g	Po-
+8b	-je-
+8b	-chał
+8b	Ja-
+8b	-sio
+8g	na
+=2	=2
+(4.dd	ło-
+8cc)	.
+4cc	-wy,
+=3	=3
+8a	pod
+8b	niem
+8cc	i-
+8dd	-grał
+8ee	ko-
+8ee}	-nik
 !!LO:LB:g=esac
-=4
-{4.ee
-8dd
-4dd
-=5
-8gg
-8ff#
-8ee
-8dd
-16cc
-16b
-8ee
-=6
-8ee
-8dd
-2dd}
+=4	=4
+{(4.eeM	wro-
+8dd)	.
+4dd	-ny,
+=5	=5
+8gg	o-
+8ff#	-bjeż-
+8ee	-dża-
+8dd	-jąc
+16ccL	la-
+16bJ	.
+8ee	-sy,
+=6	=6
+8eeML	bo-
+8ddJ	.
+2dd}	-ry,
 !!LO:LB:g=esac
-=7
-{8dd
-8dd
-4.gg
-8dd
-=8
-8b
-4dd
-4cc
-8a
-=9
-8a
-8g
-2g}
-==
-*-
+=7	=7
+{8dd	nie
+8dd	wie-
+(4.gg	-dział
+8dd)	.
+=8	=8
+8b	o
+(4dd	swej
+4cc)	.
+8a	nie-
+=9	=9
+8aL	-do-
+8gJ	.
+2g}	-li.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Pojechał Jasio na łowy,
+!!pod niem igrał konik wrony,
+!!objeżdżając lasy, bory,
+!!nie wiedział o swej niedoli.
+!!@VERSE:
+!!Sni mu się jakby na jawie,
+!!że do nieba gołębica
+!!wzbiła się w slicny postaci,
+!!jasniejsza nad blask księżyca.
+!!@VERSE:
+!!Zrywa się i na koń siada,
+!!jedzie do wróżki i bada.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=69 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 60} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 60}
 !!!page: 60
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

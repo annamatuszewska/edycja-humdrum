@@ -3,53 +3,63 @@
 !!!source: DWOK42
 !!!id: 421448
 !!!signature: 42144800000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{4ee
-4a
-8cc
-8ee
-=2
-4ee
-4cc
-4cc
-=3
-8b
-8dd
-4dd
-8cc
-8b
-=4
-4a
-2g#}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+{4ee	Zie-
+4a	-lo-
+8ccL	-no
+8eeJ	.
+=2	=2
+4ee	ja
+4cc	sia-
+4cc	-ła,
+=3	=3
+8b	a
+8dd	mo-
+4dd	-dro
+8ccL	mi
+8bJ	.
+=4	=4
+4a	we-
+2g#}	-szło,
 !!LO:LB:g=esac
-=5
-{4g#
-4a
-8cc
-8ee
-=6
-4ee
-4cc
-8ff
-8ee
-=7
-8b
-8dd
-4ee
-8cc
-8b
-=8
-4a
-2g#}
-==
-*-
+=5	=5
+{4g#	nie
+4a	wié
+8ccL	mo-
+8eeJ	.
+=6	=6
+4ee	-ja
+4cc	ma-
+8ffL	-tka,
+8eeJ	.
+=7	=7
+8b	do
+8dd	ko-
+4ee	-go
+8ccL	mi
+8bJ	tę-
+=8	=8
+4a	-skno.
+2g#}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Zielono ja siała,
+!!a modro mi weszło,
+!!nie wié moja matka,
+!!do kogo mi tęskno.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=60 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 51} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 51}
 !!!page: 51
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

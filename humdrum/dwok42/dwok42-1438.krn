@@ -3,54 +3,64 @@
 !!!source: DWOK42
 !!!id: 421438
 !!!signature: 42143800000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8dd
-8b
-8g
-8b
-=2
-8dd
-8cc
-4a
-=3
-8b
-8b
-8g
-8b
-=4
-8a
-8f#
-4d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8dd	Po-
+8b	-je-
+8g	-chał
+8b	pan
+=2	=2
+8dd	sta-
+8cc	-ro-
+4a	-sta
+=3	=3
+8b	z_ra-
+8b	-na
+8g	na
+8b	za-
+=4	=4
+8aL	-ją-
+8f#J	.
+4d}	-ce
 !!LO:LB:g=esac
-=5
-{8g
-8b
-8a
-8a
-=6
-8cc
-8ee
-8dd
-8dd
-=7
-8dd
-8b
-8g
-8b
-=8
-8a
-8f#
-4d}
-==
-*-
+=5	=5
+{8g	i
+8b	na-
+8a	-pot-
+8a	-kał
+=6	=6
+8cc	trzy
+8ee	pa-
+8dd	-nien-
+8dd	-ki
+=7	=7
+8dd	na
+8b	zie-
+8g	-lo-
+8b	-nej
+=8	=8
+8aL	łą-
+8f#J	.
+4d}	-ce.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Pojechał pan starosta
+!!z rana na zające
+!!i napotkał trzy panienki
+!!na zielonej łące.
+!!@@END: VERSES
 !!!ONB: wariant w takcie 5 i 6 132_  465_
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=55 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 46} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 46}
 !!!page: 46
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

@@ -3,68 +3,95 @@
 !!!source: DWOK42
 !!!id: 421408
 !!!signature: 42140800000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8f#
-8e
-4f#
-4d
-=2
-8g
-8a
-4b
-4g
-=3
-8cc
-8a
-4f#
-4d
-=4
-4g
-2b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8f#	Nic
+8e	mnie
+4f#	też
+4d	bar-
+=2	=2
+8g	-dziej
+8a	nie
+4b	cie-
+4g	-szy,
+=3	=3
+8cc	bie-
+8a	-rze
+4f#	mnie
+4d	mój
+=4	=4
+4g	Fra-
+2b}	-nek,
 !!LO:LB:g=esac
-=5
-{8f#
-8e
-4f#
-4d
-=6
-8g
-8a
-4b
-4dd
-=7
-8cc
-8a
-4f#
-4d
-=8
-4g
-2g}
+=5	=5
+{8f#	nic
+8e	mi
+4f#	w_ży-
+4d	-ciu
+=6	=6
+8g	tak
+8a	nie
+4b	cię-
+4dd	-ży
+=7	=7
+8cc	jak
+8a	na
+4f#	gło-
+4d	-wie
+=8	=8
+4g	wia-
+2g}	-nek,
 !!LO:LB:g=esac
-=9
-{4gg
-2dd
-=10
-4dd
-4.gg
-8ee
-=11
-8cc
-8a
-4f#
-4d
-=12
-4g
-2g}
-==
-*-
+=9	=9
+{4gg	oj
+2dd	tak,
+=10	=10
+4dd	oj
+(4.gg	tak,
+8ee)	.
+=11	=11
+8cc	jak
+8a	na
+4f#	gło-
+4d	-wie
+=12	=12
+4g	wia-
+2g}	-nek,
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Nic mnie też bardziej nie cieszy,
+!!bierze mnie mój Franek,
+!!nic mi w życiu tak nie cięży
+!!jak na głowie wianek,
+!!|:oj tak, oj tak,
+!!jak na głowie wianek:|.
+!!@VERSE:
+!!Skoro kwiaty z głowy zdejmę,
+!!czépcem się ozdobie,
+!!nie będę się turbowała,
+!!będe panią sobie,
+!![|:oj tak, oj tak,
+!!będę panią sobie:|].
+!!@VERSE:
+!!Ociec łajał, matka także,
+!!brat i siostra za nią,
+!!byłam dziwką, byłam dziwką,
+!!będe sobie panią,
+!![|:oj tak, oj tak,
+!!będe sobie panią:|].
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=41 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 32-33} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, pp. 32-33}
 !!!page: 32-33
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

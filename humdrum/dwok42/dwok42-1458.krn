@@ -3,74 +3,84 @@
 !!!source: DWOK42
 !!!id: 421458
 !!!signature: 42145800000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{8g
-8cc
-8cc
-=2
-4ee
-8cc
-=3
-8gg
-8gg
-8gg
-=4
-4gg
-8gg
-=5
-8ff
-8ee
-8ff}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{8g	Mo-
+8cc	-ja
+8cc	bzia-
+=2	=2
+4ee	-łe-
+8cc	-cki,
+=3	=3
+8gg	byś-
+8gg	-ta
+8gg	wzie-
+=4	=4
+4gg/	-dzia-
+8gg/	-ły,
+=5	=5
+8ff	jek
+8ee	to
+8ff}	nie-
 !!LO:LB:g=esac
-=6
-{8dd
-4cc
-=7
-8b
-8dd
-8gg
-=8
-4cc
-8cc
-=9
-8ee
-8cc
-8cc
-=10
-4b
-8dd}
+=6	=6
+{8dd	-do-
+4cc	-brze,
+=7	=7
+8b	kie-
+8dd	-dy
+8gg	chłop
+=8	=8
+4cc	sta-
+8cc	-ry,
+=9	=9
+8ee	to
+8cc	i
+8cc	o
+=10	=10
+4b	do-
+8dd}	-da,
 !!LO:LB:g=esac
-=11
-{8ff
-8dd
-8dd
-=12
-4cc
-8ee
-=13
-8ee
-8dd
-8cc
-=14
-4b
-8dd
-=15
-8ff
-8ee
-8gg
-=16
-4cc
-8cc}
-==
-*-
+=11	=11
+{8ff	to
+8dd	i
+8dd	o
+=12	=12
+4cc	do-
+8ee	-da,
+=13	=13
+8ee	to
+8dd	i
+8cc	o
+=14	=14
+4b	do-
+8dd	-da,
+=15	=15
+8ff	to
+8ee	i
+8gg	o
+=16	=16
+4cc	do-
+8cc}	-da.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!!role-listener: Women
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Moja bziałecki, byśta wziedziały,
+!!jek to niedobrze, kiedy chłop stary,
+!!|:to i o doda, to i o doda:|.
+!!@@END: VERSES
 !!!ONB: wariant w takcie czwartym +3__+3_, wariant w takcie dwunastym: +1__+3+5
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=64 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 55} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 55}
 !!!page: 55
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

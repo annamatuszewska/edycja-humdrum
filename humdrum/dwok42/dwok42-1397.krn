@@ -3,61 +3,84 @@
 !!!source: DWOK42
 !!!id: 421397
 !!!signature: 42139700000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8b
-8dd
-4cc#
-8a
-8b
-=2
-8f#
-8a
-4cc
-4ee}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8b	Cze-
+8dd	-go
+4cc#i	żeś
+8aL	się
+8bJ\	.
+=2	=2
+8f#	za-
+8a	-du-
+4cc	-ma-
+4eeM}	-ła,
 !!LO:LB:g=esac
-=3
-{8dd
-8ee
-4dd
-8a
-8b
-=4
-8g
-8a
-4f#
-4g
-=5
-8b
-8dd
-4cc#
-4b}
+=3	=3
+{8dd	dziew-
+8ee	-czy-
+4dd	-no
+8aL	mo-
+8bJ	.
+=4	=4
+8g	-ja,
+8a	da,
+4f#	mo-
+4g	-ja?
+=5	=5
+8b	Te-
+8dd	-gom
+4cc#i	ja
+4b}	się
 !!LO:LB:g=esac
-=6
-{4.dd
-8a
-8f#
-8g
-=7
-8b
-8dd
-4cc#
-8a
-8b
-=8
-8g
-8a
-4f#
-4g}
-==
-*-
+=6	=6
+{4.dd	za-
+8a	-du-
+8f#	-ma-
+8g	-ła,
+=7	=7
+8b	nie
+8dd	bę-
+4cc#i	-dę
+8aL	two-
+8bJ	.
+=8	=8
+8g	-ja,
+8a	da,
+4f#	two-
+4g}	-ja.
+==	==
+*-	*-
+!!!RDF**kern: i = editorial accidental
+!!!role-singer: Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Czegożeś się zadumała,
+!!dziewczyno moja, da, moja?
+!!Tegom ja się zadumała,
+!!nie będę twoja, da, twoja.
+!!@VERSE:
+!!Będziesz ci ty moją, dziewcze,
+!!będziesz ci moją, da, moją,
+!!jak ci mi się przysieweczki
+!!w polu dostoją, dostoją.
+!!@VERSE:
+!!Już ci mi się przysieweczki
+!!w polu dostały, dostały,
+!!jużeś ci ty, moj chłopalu,
+!!dla mnie za stary, [za stary].
+!!@@END: VERSES
 !!!ONB: wariant w takcie trzecim: 565423
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=37 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 28} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 28}
 !!!page: 28
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

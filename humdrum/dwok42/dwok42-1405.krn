@@ -3,67 +3,79 @@
 !!!source: DWOK42
 !!!id: 421405
 !!!signature: 42140500000
-**kern
-*clefG2
-*k[]
-*C:
-*M6/8
-=1
-{8g
-8cc
-8ee
-8cc
-8b
-8a
-=2
-8a
-8ff
-8ff
-8ff
-8ee
-8dd}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M6/8	*
+=1	=1
+{8g	Choć-
+8cc	-bym
+8ee	ja
+8ccL	jeź-
+8bJ	.
+8a	-dził
+=2	=2
+8a	[we
+8ff	dnie
+8ff	i
+8ffL	w_no-
+8eeJ	.
+8dd}	-cy,
 !!LO:LB:g=esac
-=3
-{8g
-8cc
-8ee
-8cc
-8b
-8a
-=4
-8a
-8ff
-8ff
-8ff
-8ee
-8dd
-=5
-8cc
-8cc
-8g
-4ee
-8dd}
+=3	=3
+{8g	choć-
+8cc	-bym
+8ee	ko-
+8ccL	-nio-
+8bJ	.
+8a	-wi
+=4	=4
+8a	za-
+8ff	-wią-
+8ff	-zał
+8ffL	o-
+8eeJ	.
+8dd	-czy,
+=5	=5
+8cc	jed-
+8cc	-nak
+8g	ty
+4ee	mo-
+8dd}	-ją
 !!LO:LB:g=esac
-=6
-{8g
-8a
-8b
-4.cc
-=7
-8cc
-8cc
-8g
-4ee
-8dd
-=8
-8g
-8a
-8b
-4.cc}
-==
-*-
+=6	=6
+{8gL	mu-
+8aJ	.
+8b	-sisz
+4.cc	być,
+=7	=7
+8cc	jed-
+8cc	-nak
+8g	mą
+4ee	wo-
+8dd	-lę
+=8	=8
+8gL	u-
+8aJ	.
+8b	-czy-
+4.cc}	-nić].
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!role-listener: Maiden
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Choćbym ja jeździł [we dnie i w nocy,
+!!choćbym koniowi zawiązał oczy,
+!!jednak ty moją musisz być,
+!!jednak mą wolę uczynić].
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=40 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 31} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 31}
 !!!page: 31
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

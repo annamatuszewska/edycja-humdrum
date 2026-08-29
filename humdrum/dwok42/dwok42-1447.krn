@@ -3,87 +3,100 @@
 !!!source: DWOK42
 !!!id: 421447
 !!!signature: 42144700000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8cc
-8cc
-4ee
-8dd
-8b
-=2
-8cc
-8ee
-8gg
-8ff
-8ee
-8g
-=3
-8cc
-8cc
-4ee
-8dd
-8b
-=4
-4.cc
-8g
-8a
-8g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8cc	Bo-
+8cc	-daj
+4ee	u-
+8ddL	-mar,
+8bJ	.
+=2	=2
+8cc	nie
+8ee	cho-
+8ggL	-ro-
+8ffJ	.
+8eeL	-wał,
+8gJ	.
+=3	=3
+8cc	kto
+8cc	ko-
+4ee	-cha-
+8ddL	-nie
+8bJ	.
+=4	=4
+4.cc	skom-
+8g	-po-
+8aM	-no-
+8g}	-wał,
 !!LO:LB:g=esac
-=5
-{4b
-4g
-8a
-8g
-=6
-8cc
-8ee
-8gg
-8ff
-8ee
-8g
-=7
-8dd
-8ff
-4dd
-8b
-8g
-=8
-4.cc
-8cc
-8cc
-8cc}
+=5	=5
+{4b	bo-
+4g	-daj
+8a	u-
+8g	-mar
+=6	=6
+8cc	w_la-
+8ee	-da
+8ggL	ką-
+8ffJ	.
+8eeL	-tku,
+8gJ	.
+=7	=7
+8dd	kto
+8ff	się
+4dd	że-
+8bL	-ni
+8gJ	.
+=8	=8
+4.cc	dla
+8cc	ma-
+8cc	-ją-
+8cc}	-tku,
 !!LO:LB:g=esac
-=9
-{4b
-4g
-8a
-8g
-=10
-8cc
-8ee
-8gg
-8ff
-8ee
-8g
-=11
-8dd
-8ff
-4dd
-8b
-8g
-=12
-4.cc
-8cc
-8cc
-8cc}
-==
-*-
+=9	=9
+{4b	bo-
+4g	-daj
+8a	u-
+8g	-mar
+=10	=10
+8cc	w_la-
+8ee	-da
+8ggL	ką-
+8ffJ	.
+8eeL	-tku,
+8gJ	.
+=11	=11
+8dd	kto
+8ff	się
+4dd	że-
+8bL	-ni
+8gJ	.
+=12	=12
+4.cc	dla
+8cc	ma-
+8cc	-ją-
+8cc}	-tku.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Bodaj umar, nie chorował,
+!!kto kochanie skomponował,
+!!|:bodaj umar w lada kątku,
+!!kto się żeni dla majątku:|.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: 2 lub: przychorował
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=59 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 50} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 50}
 !!!page: 50
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

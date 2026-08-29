@@ -3,66 +3,82 @@
 !!!source: DWOK42
 !!!id: 421459
 !!!signature: 42145900000
-**kern
-*clefG2
-*k[f#]
-*e:
-*M3/4
-=1
-{8g
-8b
-8dd
-8ee
-8cc
-8a
-=2
-8cc
-8ee
-8ff#
-8ee
-8dd
-8b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*e:	*
+*M3/4	*
+=1	=1
+{8g	A
+8b	ja-
+8dd	-keś
+8ee	mi
+8cc	ma-
+8a	-wiał,
+=2	=2
+8cc	kie-
+8ee	-dyś
+8ff#	mnie
+8ee	na-
+8dd	-ma-
+8b}	-wiał,
 !!LO:LB:g=esac
-=3
-{8g
-8b
-8dd
-8ee
-8cc
-8a
-=4
-8g
-8g
-4f#
-4e
-=5
-8g
-8g
-4f#
-8a
-8e}
+=3	=3
+{8g	mó-
+8b	-wi-
+8ddL	-łeś
+8eeJ	.
+8ccL	mi:
+8aJ	.
+=4	=4
+8g	mo-
+8g	-jaś
+(4f#	ty.
+4e)	.
+=5	=5
+8g	Te-
+8g	-raz
+4f#	mnie
+8a	bi-
+8e}	-jes,
 !!LO:LB:g=esac
-=6
-{8g
-8f#
-8g
-8b
-8dd
-8b
-=7
-8g
-8g
-4a
-4dd
-=8
-8b
-8g
-4f#
-4e}
-==
-*-
+=6	=6
+{8g	choć
+8f#	za
+8g	mo-
+8b	-je
+8dd	pi-
+8b	-jes
+=7	=7
+8g	i
+8g	mó-
+4a	-wis
+(8ccq	.
+4dd)	mi:
+=8	=8
+(8ccq	.
+8b)	a
+8g	złaś
+(4f#	ty.
+4e)}	.
+==	==
+*-	*-
+!!!role-singer: Wife
+!!!role-listener: Husband
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!A jakeś mi mawiał,
+!!kiedyś mnie namawiał,
+!!mówiłeś mi: mojaś ty.
+!!Teraz mnie bijes,
+!!choć za moje pijes
+!!i mówis mi: a złaś ty.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=65 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 56} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 56}
 !!!page: 56
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

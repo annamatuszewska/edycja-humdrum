@@ -3,44 +3,63 @@
 !!!source: DWOK42
 !!!id: 421351
 !!!signature: 42135100000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{8ee
-8cc
-8dd
-8ee
-8dd
-8cc
-=2
-8a
-8cc
-8b
-8cc
-8a
-8g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+!!LO:TX:a:t=Andante.
+{8ee	Ka-
+8cc	-li-
+8dd	-na,
+8ee	ma-
+8dd	-li-
+8cc;	-na.
+=2	=2
+8a	czer-
+8cc	-wo-
+8b	-na
+8cc	ja-
+8a	-go-
+8g;}	-da,
 !!LO:LB:g=esac
-=3
-{8g#
-8a
-8cc
-8ee
-8dd
-8cc
-=4
-8a
-8cc
-16b
-16dd
-8cc
-4a}
-==
-*-
+=3	=3
+{8g#i	cze
+8a	-goż
+8cc	o-
+8ee	-pła-
+8dd	-ku-
+8cc;	-jesz,
+=4	=4
+8a	dziew-
+8cc	-czy-
+16b	-no
+16dd	nie-
+8cc	-bo-
+4a;}	-ga?
+==	==
+*-	*-
+!!!RDF**kern: i = editorial accidental
+!!!role-singer: Narrator, Maiden
+!!!role-listener: Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Kalina, malina.
+!!czerwona jagoda,
+!!czegoż opłakujesz,
+!!dziewczyno nieboga?
+!!@VERSE:
+!!Tego opłakuję
+!!wianka rucianego,
+!!com go utraciła
+!!dla ciebie marnego.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=18 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 9} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 9}
 !!!page: 9
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

@@ -3,56 +3,69 @@
 !!!source: DWOK42
 !!!id: 421373
 !!!signature: 42137300010
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16b
-8dd
-8dd
-=2
-16dd
-16ee
-8a
-8cc
-=3
-16b
-16dd
-8cc
-8b
-=
-24a
-24b
-24a
-8f#
-8d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Zie-
+16b	-le-
+8dd	-ni
+8dd	się
+=2	=2
+16dd	mu-
+16ee	-ra-
+8a	-we-
+8cc	-cka,
+=3	=3
+16b	zie-
+16dd	-le-
+8cc	-ni
+8b	się
+=4	=4
+24aL	smug,
+24bJ	.
+24a	da,
+8f#	i
+8d}	smug,
 !!LO:LB:g=esac
-=4
-{8g
-8a
-8d
-=5
-16g
-16b
-8a
-8d
-=6
-8g
-8a
-16cc
-16b
-=7
-16a
-16f#
-8e
-8d}
-==
-*-
+=5	=5
+{8g	nie
+8a	je-
+8d	-dną
+=6	=6
+16g	ja
+16b	pod-
+8a	-ków-
+8d	-kę
+=7	=7
+8g	do
+8a	dziew-
+16cc	-cy-
+16b	-ny
+=8	=8
+16a	tłuk,
+16f#	da,
+8e	i
+8d}	tłukł.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Zieleni się murawecka,
+!!zieleni się smug, da, i smug,
+!!nie jedną ja podkówkę
+!!do dziewcyny tłuk, da, i tłukł.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: 1 [wąski a długi pas ziemi, łąki lub lasu między rolami albo lasami]
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=28 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 19} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 19}
 !!!page: 19
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

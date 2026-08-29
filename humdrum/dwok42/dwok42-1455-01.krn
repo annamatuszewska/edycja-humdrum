@@ -3,52 +3,74 @@
 !!!source: DWOK42
 !!!id: 421455
 !!!signature: 42145500001
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16cc
-16dd
-8ee
-8ee
-=2
-16.ff
-32ee
-8dd
-8cc
-=3
-16dd
-16ee
-8ff
-8ee
-=4
-8ee
-4dd}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16ccL	O
+16ddJ/	dla-
+8ee/	-bo-
+8ee/	-ga,
+=2	=2
+16.ff/	o
+32ee/	dla-
+8dd/	-bo-
+8cc/	-ga,
+=3	=3
+16dd/	co
+16ee/	wy
+8ff/	to
+8ee/	ro-
+=4	=4
+8ee/	-bi-
+4dd/}	-cie?
 !!LO:LB:g=esac
-=5
-{16b
-16cc
-8dd
-8dd
-=6
-16dd
-16dd
-8b
-8g
-=7
-16dd
-16ff
-8ee
-8dd
-=8
-8dd
-4cc}
-==
-*-
+=5	=5
+{16b/	Da-
+16cc/	-liś-
+8dd/	-cie
+8dd/	mnie
+=6	=6
+16dd/	do
+16dd/	klasz-
+8b/	-to-
+8g	-ru,
+=7	=7
+16dd/	ta-
+16ff/	.
+8ee/	-kie
+8dd/	małe
+=8	=8
+8dd/	dzié-
+4cc/}	-cie!
+==	==
+*-	*-
+!!!role-singer: Child/Maiden
+!!!role-listener: Parents, Nuns
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!O dlaboga, o dlaboga.
+!!co wy to robicie?
+!!Daliście mnie do klasztoru,
+!!takie małe dziécie!
+!!@VERSE:
+!!A w klasztorze twarde łoże,
+!!ostre dyscyplinki,
+!!trzeba wstawać o północy
+!!i śpiewać godzinki.
+!!@VERSE:
+!!Wlazła na chór, spojrzy na dół.
+!!ujrzała miłego.
+!!trzymajcież mnie, zakonnice,
+!!bo spadnę do niego.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=63 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 54} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 54}
 !!!page: 54
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

@@ -3,59 +3,87 @@
 !!!source: DWOK42
 !!!id: 421425
 !!!signature: 42142500000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M4/4
-=1
-{8cc
-8b
-8cc
-8ee
-8dd
-8cc#
-8dd
-8g
-=2
-8b
-8b
-8b
-8dd
-4b
-4a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M4/4	*
+=1	=1
+{8cc	Ma-
+8b	-ry-
+8cc	-sien-
+8ee	-ku,
+8dd	có-
+8cc#i	-ru-
+8dd	-sien-
+8g	-ku,
+=2	=2
+8b	kto
+8b	u
+8b	drzwi
+8dd	ko-
+4b	-ła-
+4a}	-cze?
 !!LO:LB:g=esac
-=3
-{4b
-4g
-8b
-8dd
-4b
-=4
-8a
-8b
-8a
-8g
-4f#
-4d}
+=3	=3
+{4b	Toc
+4g	to,
+8b	ma-
+8dd	-tu-
+4b	-lu,
+=4	=4
+8a	są-
+8b	-sia-
+8a	-da
+8g	o-
+4f#	-gnia
+4d}	chce,
 !!LO:LB:g=esac
-=5
-{4b
-4g
-8b
-8dd
-4b
-=6
-8a
-8b
-8a
-8g
-4a
-4d}
-==
-*-
+=5	=5
+{4b	toc
+4g	to,
+8b	ma-
+8dd	-tu-
+4b	-lu,
+=6	=6
+8a	są-
+8b	-sia-
+8a	-da
+8g	o-
+4a	-gnia
+4d}	chce.
+==	==
+*-	*-
+!!!RDF**kern: i = editorial accidental
+!!!role-singer: Mother, Daughter
+!!!role-listener: Daughter, Mother
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Marysienku. córusienku,
+!!kto u drzwi kołacze?
+!!|:Toc to, matulu,
+!!sąsiada ognia chce:|.
+!!@VERSE:
+!!Mar[ysienku], cór[usienku].
+!!kto na gorze puka?
+!!|:Toć to, matulu,
+!!kotek myszki szuka:|.
+!!@VERSE:
+!!M[arysienku], cór[usienku],
+!!pierzyna się rucha,
+!!|:Toć to, [matulu],
+!!wiatrek na nią dmucha:|.
+!!@VERSE:
+!![Marysienku, córusienku],
+!!czyje łózko skrzypi?
+!!|:[Toć to, matulu].
+!!naszej komornicy:|.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=49 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 40} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 40}
 !!!page: 40
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

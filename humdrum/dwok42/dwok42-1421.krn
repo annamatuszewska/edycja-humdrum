@@ -3,74 +3,93 @@
 !!!source: DWOK42
 !!!id: 421421
 !!!signature: 42142100000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{4dd
-4dd
-4g
-=2
-4b
-2cc
-=3
-4b
-4b
-4g
-=4
-4f#
-2a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{4dd	Sa-
+4dd	-ma
+4g	ja
+=2	=2
+4b	nie
+2cc	wiem,
+=3	=3
+4b	co
+4b	mnie
+4g	się
+=4	=4
+4f#	sta-
+2a}	-ło,
 !!LO:LB:g=esac
-=5
-{4dd
-4dd
-4g
-=6
-4b
-2cc
-=7
-4b
-4b
-4g
-=8
-4f#
-2d}
+=5	=5
+{4dd	co
+4dd	mnie
+4g	brzu-
+=6	=6
+4b	-szeń-
+2cc	-ko
+=7	=7
+4b	do
+4b	gó-
+4g	-ry
+=8	=8
+4f#	sta-
+2d}	-ło,
 !!LO:LB:g=esac
-=9
-{4a
-4a
-4g
-=10
-4b
-2cc
-=11
-4b
-4g
-4a
-=12
-4f#
-2d}
+=9	=9
+{4a	czy-
+4a	-li
+4g	od
+=10	=10
+4b	Bo-
+2cc	-ga,
+=11	=11
+4b	czy-
+4g	-li
+4a	od
+=12	=12
+4f#	lu-
+2d}	-dzi,
 !!LO:LB:g=esac
-=13
-{4b
-4a
-4g
-=14
-4b
-2cc
-=15
-4b
-4g
-4a
-=16
-4f#
-2d}
-==
-*-
+=13	=13
+{4b	[a]
+4a	co
+4g	ja
+=14	=14
+4b	za-
+(8ddq	.
+2cc)	-snę,
+=15	=15
+4b	to
+(8bqL	.
+8aqJ	.
+4g)	on
+4a	mnie
+=16	=16
+4f#	zbu-
+2d}	-dzi.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Sama ja nie wiem, co mnie się stało,
+!!co mnie brzuszeńko do góry stało,
+!!czyli od Boga, czyli od ludzi,
+!![a] co ja zasnę, to on mnie zbudzi.
+!!@VERSE:
+!!Ej, bym wiedziała, ej, taką dróżkę,
+!!ej, bym wiedziała, ej, taką steczkę,
+!!oddałabym mu, oddałabym mu
+!!tę chusteczkę, wyszytą chusteczkę.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=47 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 38} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 38}
 !!!page: 38
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

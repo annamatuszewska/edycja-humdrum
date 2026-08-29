@@ -3,56 +3,76 @@
 !!!source: DWOK42
 !!!id: 421362
 !!!signature: 42136200000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8g
-8a
-4.cc
-8ee
-=2
-8dd
-8b
-4g
-4a
-=3
-8g
-8a
-4.cc
-8a
-=4
-8g
-8b
-4g
-4f#}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8g	I
+8a	cho-
+4.cc	-dzi-
+8ee	-ła
+=2	=2
+8dd	we-
+8b	-dle
+4g	rzé-
+4a	-czki,
+=3	=3
+8g	po-
+8a	-gu-
+4.cc	-bi-
+8a	-ła
+=4	=4
+8g	ko-
+8b	-ra-
+4g	-li-
+4f#}	-czki.
 !!LO:LB:g=esac
-=5
-{8g
-8a
-4.cc
-8a
-=6
-8g
-8b
-4g
-4dd
-=7
-8g
-8a
-4.cc
-8a
-=8
-8dd
-8b
-4g
-4f#}
-==
-*-
+=5	=5
+{8g	Że-
+8a	-by
+4.cc	mi
+8a	to
+=6	=6
+8g	Ja-
+8b	-sio
+4g	zna-
+4dd	-lazł,
+=7	=7
+8g	da-
+8a	-ła-
+4.cc	-bym
+8a	mu
+=8	=8
+8dd	bu-
+8b	-zi
+4g	za-
+4f#}	-raz.
+==	==
+*-	*-
+!!!role-singer: Narrator, Maiden, Bachelor
+!!!role-listener: Bachelor, Maiden
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!I chodziła wedle rzéczki,
+!!pogubiła koraliczki.
+!!Żeby mi to Jasio znalazł,
+!!dałabym mu buzi zaraz.
+!!@VERSE:
+!!Buzi by mi nie ubyło,
+!!w koraliczkach ładnie było.
+!!@VERSE:
+!!Ty dziewczyno podufała,
+!!wziąłbym ja cię, aleś mała.
+!!Nie bój się ty, Jasiuleczku,
+!!wyciągnę się na łóżeczku.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=23 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 14} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 14}
 !!!page: 14
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

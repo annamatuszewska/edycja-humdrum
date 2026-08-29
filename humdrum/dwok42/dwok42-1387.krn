@@ -3,57 +3,72 @@
 !!!source: DWOK42
 !!!id: 421387
 !!!signature: 42138700000
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M3/4
-=1
-{8b-
-8dd
-4dd
-4cc
-=2
-8b-
-8dd
-4dd
-4cc}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M3/4	*
+=1	=1
+{8b-	Ty
+8dd	ka-
+4dd	-li-
+4cc	-no,
+=2	=2
+8b-	mo-
+8dd	-dry
+4dd	kwie-
+4cc}	-cie,
 !!LO:LB:g=esac
-=3
-{8b-
-8dd
-4ff
-4gg
-=4
-8ee-
-8dd
-4dd
-4cc
-=5
-8a
-8cc
-4cc
-4dd}
+=3	=3
+{8b-	ry-
+8dd	-wa-
+4ff	-ły
+4gg	cię
+=4	=4
+8ee-	pan-
+8dd	-ny
+4dd	le-
+4cc	-cie.
+=5	=5
+8a	Je-
+8cc	-dna
+4cc	to-
+4dd}	-czkiem,
 !!LO:LB:g=esac
-=6
-{8b-
-8a
-4g
-4b-
-=7
-8a
-8cc
-4cc
-4dd
-=8
-8b-
-8a
-4g
-4f}
-==
-*-
+=6	=6
+{8b-	dru-
+8a	-ga
+4g	to-
+4b-	-czkiem,
+=7	=7
+8a	trze-
+8cc	-cia
+4cc	na
+4dd	mnie
+=8	=8
+8b-	mru-
+8a	-ga
+4g	o-
+4f}	-czkiem.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Ty kalino, modry kwiecie,
+!!rywały cię panny lecie.
+!!Jedna toczkiem, druga toczkiem,
+!!trzecia na mnie mruga oczkiem.
+!!A czwarta mnie szydłem kole,
+!!pomruguje ku stodole.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: 1 [wabi zalotnym krokiem]
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=33 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 24} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 24}
 !!!page: 24
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

@@ -3,51 +3,63 @@
 !!!source: DWOK42
 !!!id: 421419
 !!!signature: 42141900000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8g
-8b
-4dd
-4b
-=2
-8dd
-8dd
-4cc
-4a
-=3
-8f#
-8a
-4.cc
-8b
-=4
-2.g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8g	Do
+8b	mnie,
+4dd	Ja-
+4b	-siu,
+=2	=2
+8dd	do
+8dd	mnie,
+4cc	Ja-
+4a	-siu,
+=3	=3
+8f#\	do-
+8a	-bre
+4.cc	pi-
+8b	-wko
+=4	=4
+2.g}	mam,
 !!LO:LB:g=esac
-=5
-{8g
-8b
-4a
-4d
-=6
-8f#
-8a
-4.cc
-8b
-=7
-8b
-8g
-4.cc
-8a
-=8
-2.g}
-==
-*-
+=5	=5
+{8g	ko-
+8b	-mu
+4a	te-
+4d	-mu
+=6	=6
+8f#	po
+8a	zło-
+4.cc	-te-
+8b	-mu,
+=7	=7
+8b	to-
+8g	-bie
+4.cc	dar-
+8a	-mo
+=8	=8
+2.g}	dam.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!role-listener: Bachelor
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Do mnie, Jasiu, do mnie, Jasiu,
+!!dobre piwko mam,
+!!komu temu po złotemu,
+!!tobie darmo dam.
+!!@@END: VERSES
 !!!ONB: wariant w takcie trzecim 224_.3
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=46 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 37} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 37}
 !!!page: 37
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

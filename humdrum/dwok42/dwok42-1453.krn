@@ -3,78 +3,104 @@
 !!!source: DWOK42
 !!!id: 421453
 !!!signature: 42145300000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8dd
-8cc
-4b
-4cc
-=2
-8dd
-8cc
-4b
-8cc
-8dd
-=3
-8b
-8dd
-8gg
-8ff#
-8ee
-8dd
-=4
-2ee
-8cc
-8a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8ddL	Wy-
+8ccJ	.
+4b	-szła
+4cc	Ka-
+=2	=2
+8ddL	-si-
+8ccJ	.
+4b	-ne-
+8ccL	-czka
+8ddJ	.
+=3	=3
+8b	na
+8dd	te
+8ggL	by-
+8ff#J	.
+8eeL	-stre
+8ddJ	.
+=4	=4
+(2ee	po-
+8ccL)	-le,
+8aJ}	.
 !!LO:LB:g=esac
-=5
-{8cc
-8a
-4f#
-4a
-=6
-8g
-8b
-4dd
-4gg
-=7
-8ee
-8cc
-4a
-8a
-8f#
-=8
-2g
-4g}
+=5	=5
+{8cc/	wy-
+8a	-cho-
+4f#	-wa-
+4a	-ła
+=6	=6
+8g	go-
+8b	-łą-
+4dd	-be-
+4gg	-cka
+=7	=7
+8ee	w_tej
+8cc	no-
+4a	-wej
+8aL	ku-
+8f#J	.
+=8	=8
+2g	-mo-
+4g}	-rze,
 !!LO:LB:g=esac
-=9
-{8a
-8a
-4f#
-4a
-=10
-8g
-8b
-4dd
-8ff#
-8gg
-=11
-8ee
-8cc
-4a
-8a
-8f#
-=12
-2g
-4g}
-==
-*-
+=9	=9
+{8aL	wy-
+8aJ\	-cho-
+4f#	-wa-
+4a	-ła
+=10	=10
+8g	go-
+8b	-łą-
+4dd	-be-
+8ff#L	-cka
+8ggJ/	.
+=11	=11
+8ee	w_tej
+8cc	no-
+4a	-wej
+8aL	ku-
+8f#J	.
+=12	=12
+2g	-mo-
+4g}	-rze.
+==	==
+*-	*-
+!!!role-singer: Narrator, Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Wyszła Kasineczka
+!!na te bystre pole,
+!!|:wychowała gołąbecka
+!!w tej nowej kumorze:|.
+!!@VERSE:
+!!Wychowała, wychowała
+!!jako sama siebie,
+!!|:a on ją tez tak opuścił.
+!!bodajże Bóg ciebie:|.
+!!@VERSE:
+!!Skocyła Kasiulka
+!!a mostu wysokiego
+!!|:i wyrwała ostre miece
+!!z boku ...:|.
+!!@VERSE:
+!!Lubiłam go, kochała
+!!jako sama siebie,
+!!|:a on mnie tez tak opuscił,
+!!bodajże Bóg [ciebie]:|.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=62 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 53} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 53}
 !!!page: 53
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

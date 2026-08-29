@@ -3,84 +3,104 @@
 !!!source: DWOK42
 !!!id: 421407
 !!!signature: 42140700000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8dd
-8dd
-4ff
-4ff
-=2
-8gg
-8ee
-4cc
-4cc
-=3
-8dd
-8b
-4g
-4g
-=4
-4cc
-2ee}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8dd	O
+8dd	nic
+4ff	się
+4ff	ja
+=2	=2
+8gg	nie
+8ee	fra-
+4cc	-su-
+4cc	-ję
+=3	=3
+8dd	bie-
+8b	-rze
+4g	mnie
+4g	mój
+=4	=4
+4cc	Fra-
+2ee}	-nek,
 !!LO:LB:g=esac
-=5
-{8dd
-8dd
-4ff
-4aa
-=6
-8bb
-8gg
-4ee
-4cc
-=7
-8dd
-8b
-4b
-4g
-=8
-4cc
-2cc}
+=5	=5
+{8dd	nic
+8dd	pa-
+4ff	-nien-
+4aa	-kom
+=6	=6
+8bb	tak
+8gg	nie
+4ee	cię-
+4cc	-ży
+=7	=7
+8dd	jak
+8b	na
+4b	gło-
+4g	-wie
+=8	=8
+4cc	wia-
+2cc}	-nek,
 !!LO:LB:g=esac
-=9
-{4dd
-2ff
-=10
-4ee
-2gg
-=11
-8aa
-8ff
-4dd
-4b
-=12
-4cc
-4cc}
-4r
+=9	=9
+{4dd	hej
+2ff	tak,
+=10	=10
+4ee	[hej
+2gg	tak,
+=11	=11
+8aa	jak
+8ff	na
+4dd	gło-
+4b	-wie
+=12	=12
+4cc	wia-
+4cc}	-nek],
+4r	,
 !!LO:LB:g=esac
-=13
-{4dd
-2ff
-=14
-4ee
-2gg
-=15
-8aa
-8ff
-4dd
-4b
-=16
-4cc
-4cc}
-4r
-==
-*-
+=13	=13
+{4dd	hej
+2ff	tak,
+=14	=14
+4ee	[hej
+2gg	tak,
+=15	=15
+8aa	jak
+8ff	na
+4dd	gło-
+4b	-wie
+=16	=16
+4cc	wia-
+4cc}	-nek].
+4r	.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!O nic się ja nie frasuję,
+!!bierze mnie mój Franek,
+!!nic panienkom tak nie cięży
+!!jak na głowie wianek,
+!!hej tak, [hej tak,
+!!jak na głowie wianek].
+!!@VERSE:
+!!Prędko wianek z głowy zrucę,
+!!czypkiem przyozdobię,
+!![nie będę się turbowała,
+!!będę żoną sobie],
+!!hej tak, hej tak,
+!!będę żoną sobie.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=41 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 32} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 32}
 !!!page: 32
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

@@ -3,65 +3,82 @@
 !!!source: DWOK42
 !!!id: 421403
 !!!signature: 42140300000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8ee
-8cc
-8b
-8cc
-4dd
-=2
-8ee
-8cc
-8b
-8cc
-4dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8ee	Wla-
+8cc	-zam
+8b	na
+8cc	krza-
+4dd	-cek,
+=2	=2
+8ee	z_krza-
+8cc	-cka
+8b	na
+8cc	dru-
+4dd}	-gi,
 !!LO:LB:g=esac
-=3
-{8ee
-8cc
-8b
-8cc
-4dd
-=4
-8ee
-8cc
-8a
-8f#
-4g
-=5
-4b
-8cc
-8a
-8f#
-8d}
+=3	=3
+{8ee	a
+8cc	jak
+8b	na
+8cc	trze-
+4dd	-ci,
+=4	=4
+8ee	Jó-
+8cc	-ziu-
+8a	-lek
+8f#	le-
+4g	-ci.
+=5	=5
+4b	Oj,
+8cc	le-
+8a	-ci,
+8f#	le-
+8d}	-ci
 !!LO:LB:g=esac
-=6
-{8g
-8a
-8b
-8cc
-4dd
-=7
-4b
-8cc
-8a
-8f#
-8d
-=8
-8g
-8b
-8cc
-8f#
-4g}
-==
-*-
+=6	=6
+{8g	na
+8a	wszy-
+8b	-stkie
+8cc	stro-
+4dd	-ny,
+=7	=7
+4b	mój
+8cc	Jó-
+8a	-ziu-
+8f#	-le-
+8d	-cku,
+=8	=8
+8g	su-
+8b	-kaj
+8cc	se
+8f#	zo-
+4g}	-ny.
+==	==
+*-	*-
+!!!role-singer: Maiden, Bachelor
+!!!role-listener: Bachelor, Maiden
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Wlazam na krzacek, z krzacka na drugi,
+!!a jak na trzeci, Józiulek leci.
+!!Oj, leci, leci na wszystkie strony,
+!!mój Józiulecku, sukaj se zony.
+!!@VERSE:
+!!Niedalecko mam zonecki sukać,
+!!tylko u Ludwisi w okienko pukać.
+!!Jest tam Ludwisia jak malowanie,
+!!ocki niebieskie, usta rumiane.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=39 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 30} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 30}
 !!!page: 30
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

@@ -3,48 +3,59 @@
 !!!source: DWOK42
 !!!id: 421469
 !!!signature: 42146900000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M7/8
-=1
-{8cc
-8a
-8cc
-8b
-8dd
-8ee
-8dd
-=2
-8cc
-8a
-8cc
-8b
-8g
-8e
-8d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M7/8	*
+=1	=1
+{8cc	Oj,
+8a	pro-
+8cc	-si-
+8b	-łam
+8dd	ja
+8ee	Bo-
+8dd	-ga
+=2	=2
+8cc	i
+8a	świę-
+8cc	-tej
+8b	Bar-
+8gL	-ba-
+8eJ	.
+8d}	-ry
 !!LO:LB:g=esac
-=3
-{8d
-8d
-8f#
-8g
-8b
-8cc
-8a
-=4
-8a
-8g
-8b
-8cc
-8a
-8a
-8g}
-==
-*-
+=3	=3
+{8d	a-
+8d	-ze-
+8f#	-by
+8g	mój
+8b	ko-
+8cc	-cha-
+8a	-nek
+=4	=4
+8a	[da],
+8g	nie
+8b	sta-
+8cc	-wał
+8a	do
+8a	mia-
+8g}	-ry.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Oj, prosiłam ja Boga
+!!i świętej Barbary
+!!azeby mój kochanek
+!![da], nie stawał do miary.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=70 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 61} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 61}
 !!!page: 61
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

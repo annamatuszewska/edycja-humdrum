@@ -3,58 +3,72 @@
 !!!source: DWOK42
 !!!id: 421388
 !!!signature: 42138800000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{8g#
-8a
-8ee
-=2
-16dd
-16b
-8cc
-8ee
-=3
-16g#
-16g#
-8a
-8ee
-=4
-16dd
-32cc
-32b
-8a
-8e}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{8g#	Oj,
+8a	do
+8ee	nij,
+=2	=2
+16dd	Ja-
+16b	-siu,
+8cc	do
+8ee	nij,
+=3	=3
+16g#	nie
+16g#	u-
+8a	-wa-
+8ee	-zaj,
+=4	=4
+16dd	choć
+32ccL	się
+32bJ	bro-
+8a	.
+(8g#q	-ni,
+8e)}	nie
 !!LO:LB:g=esac
-=5
-{16g#
-16g#
-8a
-8cc
-=6
-16b
-16dd
-16ee
-16dd
-16cc
-16b
-=7
-16g#
-16g#
-8a
-8cc
-=8
-16b
-16g#
-8a
-8e}
-==
-*-
+=5	=5
+{16g#	u-
+16g#	-wa-
+8a	-zaj,
+8cc	ka-
+=6	=6
+16b	-wa-
+16dd	-li-
+16eeL	.
+16ddJ	-rze,
+16ccL	.
+16bJ	choć
+=7	=7
+16g#	sie
+16g#	bro-
+8a	-ni,
+8cc	.
+=8	=8
+(8ccq	to
+16b)	nie-
+16g#	-scy-
+8a	.
+(8g#q	-rze.
+8e)}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!!role-listener: Bachelor
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Oj, do nij, Jasiu, do nij,
+!!nie uwazaj, choć sie broni,
+!!nie uwazaj, kawalirze,
+!!choć sie broni, to niescyrze.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=34 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 25} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 25}
 !!!page: 25
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

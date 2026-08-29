@@ -3,66 +3,85 @@
 !!!source: DWOK42
 !!!id: 421473
 !!!signature: 42147300000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M2/4
-=1
-{8f
-8g
-8a
-8b-
-=2
-4cc
-4ff
-=3
-2cc
-=4
-8ff
-8cc
-8a
-8f
-=5
-4b-
-4dd}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M2/4	*
+=1	=1
+{8f	Z_tam-
+8g	-tej
+8a	stro-
+8b-	-ny
+=2	=2
+4cc	mia-
+4ff	-ste-
+=3	=3
+2cc	-czka
+=4	=4
+8ff	zie-
+8cc	-le-
+8a	-ni
+8f	się
+=5	=5
+4b-	ciem-
+4dd}	-ny
 !!LO:LB:g=esac
-=6
-{2g
-=7
-8cc
-8dd
-8cc
-8b-
-=8
-4a
-8g
-8e
-=9
-8f
-8g
-8a
-8b-}
+=6	=6
+{2g	las,
+=7	=7
+8cc	a
+8dd	wyj-
+8cc	-rzyj-
+8b-	-że,
+=8	=8
+4a	ma-
+8gL	-tka,
+8eJ	.
+=9	=9
+8f	wyj-
+8g	-rzyj,
+8a	naj-
+8b-}	-mi-
 !!LO:LB:g=esac
-=10
-{4cc
-8dd
-8ee
-=11
-8ff
-8cc
-8dd
-8b-
-=12
-4a
-8g
-8e
-=13
-2f}
-==
-*-
+=10	=10
+{4cc	-lej-
+8ddL	-sza,
+8eeJ	.
+=11	=11
+8ff	czy
+8cc	nie
+8dd	je-
+8b-	-dzie
+=12	=12
+4a	kto
+8gL	do
+8eJ	.
+=13	=13
+2f}	nas.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!role-listener: Mother
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Z tamtej strony miasteczka
+!!zieleni się ciemny las,
+!!a wyjrzyjże, matka,
+!!wyjrzyj, najmilejsza,
+!!czy nie jedzie kto do nas.
+!!@VERSE:
+!!Jedzie Jasio z szabelką,
+!!jedzie Jasio do Płocka,
+!!a przypina sobie
+!!szabelkę do boku,
+!!do boku, do lewego.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=72 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 63-64} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, pp. 63-64}
 !!!page: 63-64
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

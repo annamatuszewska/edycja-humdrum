@@ -3,50 +3,95 @@
 !!!source: DWOK42
 !!!id: 421431
 !!!signature: 42143100000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{4dd
-4dd
-4gg
-=2
-2dd
-4b
-=3
-4cc
-4b
-4b
-=4
-2.a
-=5
-4g}
-4r
-4r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{4dd	Mię-
+4dd	-dzy
+4gg	o-
+=2	=2
+2dd	-gro-
+4b	-dy,
+=3	=3
+4cc	tam
+4b	by-
+4b	-stre
+=4	=4
+2.a	wo-
+=5	=5
+4g}	-dy,
+4r	.
+4r	.
 !!LO:LB:g=esac
-=6
-{4g
-4g
-4g
-=7
-2dd
-4b
-=8
-4cc
-4b
-4b
-=9
-2.a
-=10
-4g}
-4r
-4r
-==
-*-
+=6	=6
+{4g	zbie-
+4g	-ra-
+4g	-ła
+=7	=7
+2dd	Ka-
+4b	-sia
+=8	=8
+4cc	czar-
+4b	-ne
+4b	ja-
+=9	=9
+2.a	-go-
+=10	=10
+4g}	-dy.
+4r	.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Między ogrody,
+!!tam bystre wody,
+!!zbierała Kasia
+!!czarne jagody.
+!!@VERSE:
+!!Tam je zbierała.
+!!tam się błąkała,
+!!bo się nikogo
+!!nie spodziewała.
+!!@VERSE:
+!!Przyjechał do niej
+!!kawaler młody:
+!!Mości panno,
+!!czarne jagody.
+!!@VERSE:
+!!Ona krzyknęła:
+!!Reta, dlaboga,
+!!noc mnie zachodzi,
+!!daleka droga.
+!!@VERSE:
+!!On z konia siusnął,
+!!za rączkę scisnął:
+!!I proszę panny
+!!do sadu na wiśnie.
+!!@VERSE:
+!!Nie potrzebuję
+!!kontentow czynić,
+!!parę poduszek,
+!!trzeci pierzyny.
+!!@VERSE:
+!!Trzeci pierzyny,
+!!grzeczny dziewczyny,
+!!nie potrzebuję
+!!kontentow czynić.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Być może pieśń szlachecka.
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=51 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 42} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 42}
 !!!page: 42
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

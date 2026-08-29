@@ -3,57 +3,78 @@
 !!!source: DWOK42
 !!!id: 421430
 !!!signature: 42143000000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8d
-8f#
-4a
-4cc
-=2
-8a
-8b
-2g
-=3
-8g
-8b
-4dd
-4gg
-=4
-8ff#
-8aa
-2dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8d	U
+8f#	mej
+4a	mat-
+4cc	-ki
+=2	=2
+8a	ro-
+8b	-dzo-
+2g	-nej
+=3	=3
+8g	[sto-
+8b	-i
+4dd	ja-
+4gg	-wor
+=4	=4
+8ff#	zie-
+8aa	-lo-
+2dd}	-ny...]
 !!LO:LB:g=esac
-=5
-{8gg
-8gg
-8gg
-8gg
-8gg
-8g
-=6
-8g
-8b
-8dd
-8cc
-8a
-8f#
-=7
-8d
-8f#
-4a
-4cc
-=8
-8a
-8b
-2g}
-==
-*-
+=5	=5
+{8gg	.
+8gg	.
+8gg	.
+8gg	.
+8gg	.
+8g	.
+=6	=6
+8g	.
+8b	.
+8dd	.
+8cc	.
+8a	.
+8f#	.
+=7	=7
+8d	.
+8f#	.
+4a	.
+4cc	.
+=8	=8
+8a	.
+8b	.
+2g}	.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!U mej matki rodzonej
+!![stoi jawor zielony].
+!!...................
+!!...................
+!!@VERSE:
+!!A wiem ci ja, wiem dobrze,
+!!co młodemu usmażą:
+!!|:gołębiąt i kurcząt:|
+!!i masełkiem okraszą.
+!!@VERSE:
+!!A wiem ci ja, wiem dobrze,
+!!co staremu usmażą:
+!!|:kapuściny czarny:|
+!!i głębami ukraszą.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=51 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 42} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 42}
 !!!page: 42
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

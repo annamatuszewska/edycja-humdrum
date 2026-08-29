@@ -3,75 +3,112 @@
 !!!source: DWOK42
 !!!id: 421460
 !!!signature: 42146000000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{4.ee
-8dd
-8b
-8dd
-=2
-4.ee
-8dd
-8cc
-8b
-=3
-8a
-8cc
-4b
-4cc
-=4
-2.a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+{(4.ee	A
+8dd)	.
+8b	sta-
+8dd	-ła
+=2	=2
+(4.ee	nam
+8dd)	.
+8ccL	się
+8bJ	.
+=3	=3
+8a	ta-
+8cc	-ka
+4b	o-
+4cc	-gło-
+=4	=4
+2.a}	-ska,
 !!LO:LB:g=esac
-=5
-{4.ee
-8dd
-8b
-8dd
-=6
-4.ee
-8dd
-8cc
-8b
-=7
-8a
-8cc
-4b
-4cc
-=8
-2.a
-=9
-4b
-4b
-4b}
+=5	=5
+{(4.ee	wy-
+8dd)	.
+8b	-bi-
+8dd	-ła
+=6	=6
+(4.ee	mę-
+8dd)	.
+8ccL	-ża
+8bJ	.
+=7	=7
+8a	pa-
+8cc	-ni
+4b	Pa-
+4cc	-wło-
+=8	=8
+2.a	-wska,
+=9	=9
+4b	wy-
+4b	-bi-
+4b}	-ła,
 !!LO:LB:g=esac
-=10
-{8g#
-8b
-4dd
-8cc
-8b
-=11
-4a
-4cc
-4cc
-=12
-8cc
-8ee
-4dd
-8cc
-8b
-=13
-8a
-8cc
-2a}
-==
-*-
+=10	=10
+{8g#L	wy-
+8bJ	.
+4dd	-pra-
+8ccL	-ła
+8bJ	.
+=11	=11
+4a	i
+4cc	za
+4cc	drzwi
+=12	=12
+8ccL	wy-
+8eeJ	.
+4dd	-pcha-
+8ccL	-ła
+8bJ	.
+=13	=13
+8a	do
+8cc	sie-
+2a}	-ni.
+==	==
+*-	*-
+!!!role-singer: Narrator, Husband, Wife
+!!!role-listener: Wife, Husband
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!A stała nam się taka ogłoska,
+!!wybiła męża pani Pawłowska,
+!!wybiła, wyprała
+!!i za drzwi wypchała
+!!do sieni.
+!!@VERSE:
+!!Stoi Pawłowski na pół płaczący,
+!!na swoją dolą narzekający.
+!!Ujął się za głowę
+!!i mówi tę mowę
+!!do żony:
+!!@VERSE:
+!!Żono kochana, co ja ci winien,
+!!ja to ci czynię, com ci powinien:
+!!w domu nie nocuję,
+!!w polu nie pracuję
+!!dla ciebie.
+!!@VERSE:
+!!Cicho, hultaju, już tego dosyć,
+!!jak cię pochwycę, będziesz się prosić.
+!!I wyszła za mężem
+!!z okrutnym orężem
+!!z głowniami.
+!!@VERSE:
+!!Widzi Pawłowski, że to nie żarty:
+!!i plecy zbite, i łeb obdarty -
+!!wygiął się do pasa,
+!!gic, gic, gic do lasa
+!!przed żoną.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=65 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 56} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 56}
 !!!page: 56
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

@@ -3,66 +3,78 @@
 !!!source: DWOK42
 !!!id: 421445
 !!!signature: 42144500000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8g
-8g
-4g
-4g
-=2
-4b
-2dd
-=3
-8ff
-8ff
-4ff
-4ff
-=4
-4aa
-2gg}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8g	Oj,
+8g	Bo-
+4g	-że
+4g	moj,
+=2	=2
+4b	Bo-
+2dd	-że,
+=3	=3
+8ff	ska-
+8ff	-ra-
+4ff	-łeś
+4ff	mnie
+=4	=4
+4aa	mar-
+2gg}	-nie,
 !!LO:LB:g=esac
-=5
-{2ee
-4ee
-=6
-8ee
-8dd
-4b
-4b
-=7
-8dd
-8cc
-4a
-4cc
-=8
-4ee
-2dd}
+=5	=5
+{2ee	[ko-
+4ee	-go
+=6	=6
+8ee	ja
+8dd	nie
+4b	lu-
+4b	-bię,
+=7	=7
+8dd	to
+8cc	się
+4a	do
+4cc	mnie
+=8	=8
+4ee	gar-
+2dd}	-nie,
 !!LO:LB:g=esac
-=9
-{2ee
-4ee
-=10
-8ee
-8dd
-4b
-8g
-8b
-=11
-8dd
-8cc
-4a
-4f
-=12
-4a
-2g}
-==
-*-
+=9	=9
+{2ee	ko-
+4ee	-go
+=10	=10
+8ee	ja
+8dd	nie
+4b	lu-
+8gL	-bię,
+8bJ	.
+=11	=11
+8dd	to
+8cc	się
+4a	do
+4f	mnie
+=12	=12
+4a	gar-
+2g}	-nie].
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!role-listener: God
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Oj, Boże moj, Boże,
+!!skarałeś mnie marnie,
+!![|:kogo ja nie lubię,
+!!to się do mnie garnie:|].
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=58 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 49} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 49}
 !!!page: 49
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

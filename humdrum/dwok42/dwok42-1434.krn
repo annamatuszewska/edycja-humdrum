@@ -3,68 +3,112 @@
 !!!source: DWOK42
 !!!id: 421434
 !!!signature: 42143400000
-**kern
-*clefG2
-*k[]
-*a:
-=1
-*M3/4
-{4ee
-8ee
-8ee
-8aa
-8ee
-=2
-4b
-8dd
-8dd
-8ee
-8cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+=1	=1
+*M3/4	*
+{4ee	Ach,
+8ee	ty
+8ee	dziew-
+8aa	-cy-
+8ee	-no,
+=2	=2
+4b	ach,
+8dd	ty
+8dd	je-
+8ee	-dy-
+8cc}	-na,
 !!LO:LB:g=esac
-=3
-{8a
-8cc
-4cc
-8ee
-8dd
-=4
-8cc
-8b
-2a
-=5
-*M4/4
-4a
-4g#
-8a
-8b
-8dd
-16cc
-16b}
+=3	=3
+{8a	[co]
+8cc	tak
+4cc	śli-
+8eeL	-cnie
+8ddJ	.
+=4	=4
+8cc	tań-
+8b	-cu-
+2a	-jes,
+=5	=5
+*M4/4	*
+4a	[oj],
+4g#	tak
+8a	pię-
+8b	-knie
+8dd	gra-
+16ccL	-ją,
+16bJ}	.
 !!LO:LB:g=esac
-=6
-{4a
-4g#
-8a
-8b
-8dd
-16cc
-16b
-=7
-*M3/4
-8a
-8b
-4cc
-8ee
-8dd
-=8
-8cc
-8b
-2a}
-==
-*-
+=6	=6
+{4a	mnie
+4g#	do
+8a	dom
+8b	wo-
+8dd	-ła-
+16ccL	-ją,
+16bJ	.
+=7	=7
+*M3/4	*
+8a	chodź,
+8b	dziew-
+4cc	-cy-
+8eeL	-no,
+8ddJ	.
+=8	=8
+8cc	do
+8b	do-
+2a}	-mu.
+==	==
+*-	*-
+!!!role-singer: Bachelor, Maiden, Narrator
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Ach, ty dziewcyno,
+!!ach, ty jedyna,
+!![co] tak ślicnie tańcujes,
+!![oj], tak pięknie grają,
+!!mnie do dom wołają,
+!!chodź, dziewcyno, do domu.
+!!@VERSE:
+!!A ja jesce myśle,
+!!dyć sie jesce wyśpie,
+!!jesce do dnia dalecko.
+!!@VERSE:
+!!Rano o siódmej godzinie
+!!juz dziewcyna z wołkami płynie,
+!!a Jasio tém samym torem za nią woła.
+!!Cekaj, dziewcyno.
+!!cekaj, jedyna,
+!!rozmówiém się oboje.
+!!@VERSE:
+!!Tak długo stali,
+!!tak długo rozmawiali.
+!!az sie w tém miejscu dzieciątka docekali.
+!!Zdymze, Jasiu, te kosuleckę,
+!!co ja powinę te małą córeckę
+!!i pódę ja do domu.
+!!I przysła do domu, i stała za drzwiami,
+!!matka wyjrzała, zalała się łzami.
+!!@VERSE:
+!!A, moja matecko,
+!![mam ja małe dziecko],
+!!niedługo ja tu będę,
+!!tylko jedną nockę [przenocuję],
+!!dzieciątko przepowinę
+!!i pójdę ja do Jasia.
+!!@VERSE:
+!!Zeby nie ta mała córecka,
+!!byłabym jesce panienecka.
+!!@@END: VERSES
 !!!ONB: wariant w takcie 1 i 2 4_4_4_4_+1_5_  2_4_4_4_5_3b2
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=53 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 44} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 44}
 !!!page: 44
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

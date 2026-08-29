@@ -3,54 +3,86 @@
 !!!source: DWOK42
 !!!id: 421382
 !!!signature: 42138200000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{8b
-8b
-4.b
-8dd
-=2
-8ee
-16cc
-16b
-4.a
-8b
-=3
-8cc
-8a
-4g#
-8e
-8a
-=4
-2.e}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+!!LO:TX:a:t=Polacca
+{8b	I
+8b	pod
+4.b	bo-
+8dd	-rem,
+=2	=2
+8ee	pod
+16ccL	ja-
+16bJ	.
+4.a	-wo-
+8b	-rem
+=3	=3
+8cc	sto-
+8a	-i
+(4g#	o-
+8e)	.
+8a	-ba-
+=4	=4
+2.e;}	-rek,
 !!LO:LB:g=esac
-=5
-{8e
-8e
-4.e
-8d
-=6
-8e
-8g#
-4.a
-8b
-=7
-8cc
-8a
-4g#
-8e
-8a
-=8
-2.e}
-==
-*-
+=5	=5
+{8e	ża-
+8e	-den
+4.e	mi
+8d	się
+=6	=6
+8e	nie
+8g#	spo-
+4.a	-do-
+8b	-bał,
+=7	=7
+(8ddq	.
+8cc)	tyl-
+8a	-ko
+(4g#	ow-
+8e)	.
+8a	-cza-
+=8	=8
+2.e;}	-rek.
+==	==
+*-	*-
+!!!role-singer: Daughter, Mother
+!!!role-listener: Mother, Daughter
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!I pod borem, pod jaworem
+!!stoi obarek,
+!!żaden mi się nie spodobał,
+!!tylko owczarek.
+!!@VERSE:
+!!A wyjrzyjże, coruś moja,
+!!oknem na pole,
+!!czy nie pędzą stada owiec
+!!owczarczykowie.
+!!@VERSE:
+!!Pędzą, pędzą, mamuleńku
+!!wszyscy w zieleni.
+!!Schowajże się, coruś moja,
+!!by cię nie wzięli.
+!!@VERSE:
+!!Chociaz ci mnie i wezmą,
+!!toć ci ja nie zginę,
+!!będę sobie u owczarków
+!!za gospodynię.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: 1 drzewo smolne
+!!@@END:
 !!!ONB: oznaczenie ,Polacca
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=31 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 22} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 22}
 !!!page: 22
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

@@ -3,53 +3,63 @@
 !!!source: DWOK42
 !!!id: 421437
 !!!signature: 42143700000
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M2/4
-=1
-{8b-
-8b-
-8dd
-8b-
-=2
-8cc
-8ee-
-8cc
-8a
-=3
-8b-
-8dd
-8ff
-8dd
-=4
-4dd
-4cc}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M2/4	*
+=1	=1
+{8b-	Wy-
+8b-	-je-
+8dd	-cha-
+8b-	-ło
+=2	=2
+8cc	trzech
+8ee-	pa-
+8cc	-ni-
+8a	-ców
+=3	=3
+8b-	ra-
+8dd	-no
+8ff	na
+8dd	za-
+=4	=4
+4dd	-ją-
+4cc}	-ce,
 !!LO:LB:g=esac
-=5
-{8cc
-8cc
-8cc
-8dd
-=6
-8cc
-8cc
-8cc
-8dd
-=7
-8cc
-8b-
-8a
-8g
-=8
-8g
-8f
-4f}
-==
-*-
+=5	=5
+{8cc	na-
+8cc	-po-
+8cc	-tka-
+8dd	-li
+=6	=6
+8cc	trzy
+8cc	pa-
+8cc	-nie-
+8dd	-nek
+=7	=7
+8cc	na
+8b-	zie-
+8a	-lo-
+8g	-ny
+=8	=8
+8gL	łą-
+8fJ	.
+4f}	-ce.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Wyjechało trzech paniców
+!!rano na zające,
+!!napotkali trzy panienek
+!!na zielony łące.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=55 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 46} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 46}
 !!!page: 46
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

@@ -31,13 +31,13 @@
 !!LO:LB:g=esac
 =5
 {4ee
-8dd
-8b
+8ddL
+8bJ
 =6
 8cc
 8cc
-8dd
-8b
+8ddL
+8bJ
 =7
 8cc
 8cc
@@ -49,13 +49,13 @@
 !!LO:LB:g=esac
 =9
 {4ee
-8dd
-8b
+8ddL
+8bJ
 =10
 8cc
 8cc
-8dd
-8b
+8ddL
+8bJ
 =11
 8cc
 8cc
@@ -66,8 +66,35 @@
 4a}
 ==
 *-
+!!!role-singer: Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Mowiła mi Kasia wcora,
+!!bym do nij przysed z wiecora.
+!!Ach, ja tobie tak mówiła,
+!!nóz bym w tobie utopiła!
+!!@VERSE:
+!!Kasia łaje, a se myśli,
+!!ażebyśmy do nij przyśli.
+!!Ach, ja bidna /..
+!!bidna głowa moja!
+!!@VERSE:
+!!Ja do Kasi, Kasia [leży]
+!!przez pierzynki, przez odzieży,
+!!spojrzę w ręce - ni ma noża,
+!!niech się dzieje wola Boża.
+!!@VERSE:
+!!Nożyckiem mnie przebić chciała,
+!!w ten moment mi buzi dała.
+!!Pojąn sobie ślicne rzecy,
+!!starą babę z trojgiem dzieci.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=57 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 48} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 48}
 !!!page: 48
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

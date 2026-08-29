@@ -3,51 +3,99 @@
 !!!source: DWOK42
 !!!id: 421439
 !!!signature: 42143900000
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M2/4
-=1
-{8a
-8ee
-8dd#
-8ee
-=2
-8b
-8cc
-4a
-=3
-8dd
-8dd
-8dd
-8ee
-=4
-4b
-4ee}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M2/4	*
+=1	=1
+{8a	I
+8ee	wy-
+8dd#	-je-
+8ee	-chał
+=2	=2
+8b	pan
+8cc	z_ra-
+4a	-na
+=3	=3
+8dd	z_char-
+8dd	-tem
+8dd	na
+8ee	za-
+=4	=4
+4b	-ją-
+4ee}	-ce,
 !!LO:LB:g=esac
-=5
-{8dd
-8cc
-8b
-8g#
-=6
-8a
-8a
-8cc#
-8dd
-=7
-8cc#
-8b
-8a
-8b
-=8
-4e
-4e}
-==
-*-
+=5	=5
+{8dd	i
+8cc#i	na-
+8b	-pot-
+8g#	-kał
+=6	=6
+8a	trzy
+8a	pa-
+8cc#	-nien-
+8dd	-ki
+=7	=7
+8cc#	na
+8b	zie-
+8a#i	-lo-
+8b	-nej
+=8	=8
+4e	łą-
+4e}	-ce.
+==	==
+*-	*-
+!!!RDF**kern: i = editorial accidental
+!!!role-singer: Narrator, Servant, Maiden
+!!!role-listener: Lord, Servant
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!I wyjechał pan z rana
+!!z chartem na zające,
+!!i napotkał trzy panienki
+!!na zielonej łące.
+!!@VERSE:
+!!Jednej było panna Anna.
+!!a drugiej Zofija,
+!!a trzeciej też nie wyjawił,
+!!bo to jego miła.
+!!@VERSE:
+!!I przysłał ci pierwszego:
+!!Co ta panna czyni?
+!!Wije wianki z macierzanki
+!!na zielonej skrzyni.
+!!@VERSE:
+!!I przysłał ci drugiego.
+!!by mu wianek dała,
+!!a ona mu nic nie rzekła.
+!!tylko się zdumała.
+!!@VERSE:
+!!I przysłał ci trzeciego,
+!!by łożeńko słała,
+!!a ona mu nic nie rzekła,
+!!tylko zapłakała.
+!!@VERSE:
+!!I przysłał ci piątego
+!!w czarnym aksamicie:
+!!Grzeczna damo, grzeczna damo,
+!!sam jegomość idzie.
+!!@VERSE:
+!!Niech tam idzie, niech tam idzie,
+!!ja go się nie boję,
+!!on przede mną czapkę zdejmie,
+!!ja mu się ukłonie.
+!!@VERSE:
+!!I wziął ci ją za rączenkę,
+!!wziął ci ją za obie,
+!!prowadzi ja do łożenka
+!!przez pokoik sobie.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=56 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 47} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 47}
 !!!page: 47
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

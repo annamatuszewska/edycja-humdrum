@@ -3,59 +3,85 @@
 !!!source: DWOK42
 !!!id: 421381
 !!!signature: 42138100000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M2/4
-=1
-{8f
-8g
-8a
-8a
-=2
-8a
-8g
-8b-
-8a
-=3
-8a
-8g
-8b-
-8a}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M2/4	*
+=1	=1
+{8f	Tam
+8g	na
+8a	mły-
+8a	-nie
+=2	=2
+8aL	dwie
+8gJ	.
+8b-	do-
+8a	-cze,
+=3	=3
+8aL	dwie
+8gJ	.
+8b-	do-
+8a}	-cze,
 !!LO:LB:g=esac
-=4
-{8g
-8g
-8g
-8a
-=5
-8g
-8g
-8g
-8a
-=6
-8g
-8g
-8g
-8a
-=7
-8g
-8g
-8g
-8a}
+=4	=4
+{8g	jer-
+8g	-wer
+8g	per-
+8a	-jer
+=5	=5
+8g	sex-
+8g	-ter
+8g	we-
+8a	-ster,
+=6	=6
+8g	jer-
+8g	-wer
+8g	per-
+8a	-jer
+=7	=7
+8g	sex-
+8g	-ter
+8g	we-
+8a}	-ster,
 !!LO:LB:g=esac
-=8
-{4ff
-8ee
-8cc
-=9
-4ff}
-4r
-==
-*-
+=8	=8
+{4ff	dwie
+8eeL	do-
+8ccJ	.
+=9	=9
+4ff}	-cze.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Tam na młynie |:dwie docze:|.
+!!|:perjer jerwer sexter wester:|.
+!!dwie docze.
+!!@VERSE:
+!!Jednej było |:Maryna:|.
+!!|:perjer jerwer sexter wester:|.
+!!Maryna.
+!!@VERSE:
+!!Drugiej bylo |:Kałyna:|.
+!!|:perjer jerwer sexter wester:|.
+!!Kałyna.
+!!@VERSE:
+!!Na Maryni |:ja lubił sa:|.
+!!|:perjer jerwer sexter wester:|.
+!!lubił sa.
+!!@VERSE:
+!!Na Kałyni |: ja żenił sa:|.
+!!|:perjer jerwer sexter wester:|.
+!!żenił sa.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=30 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 21} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 21}
 !!!page: 21
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

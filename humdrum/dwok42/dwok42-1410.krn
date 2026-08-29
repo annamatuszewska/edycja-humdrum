@@ -3,85 +3,100 @@
 !!!source: DWOK42
 !!!id: 421410
 !!!signature: 42141000000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16b-
-16dd
-8ff
-8ee
-=2
-4cc
-8g
-=3
-16f
-16a
-8cc
-8g
-=4
-4f
-8a}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16b-	O,
+16dd	mo-
+8ff	-ja
+8ee	ma-
+=2	=2
+4cc	-tu-
+8g	-lu,
+=3	=3
+16f	toć
+16a	was
+8cc	Pan
+8g	Bóg
+=4	=4
+4f	ska-
+8a}	-rze,
 !!LO:LB:g=esac
-=5
-{16b-
-16dd
-8ff
-8ee
-=6
-4cc
-8g
-=7
-16a
-16a
-8b-
-8g
-=8
-4f
-8f}
+=5	=5
+{16b-	ce-
+16dd	-mu
+8ff	mnie
+8ee	was-
+=6	=6
+4cc	-pa-
+8g	-ni
+=7	=7
+16a	nie
+16a	da-
+8b-	-ła
+8g	zyć
+=8	=8
+4f	w_pa-
+8f}	-rze?
 !!LO:LB:g=esac
-=9
-{4b-
-8b-
-=10
-16a
-16g
-8a
-8f
-=11
-4cc
-8cc
-=12
-16b-
-16cc
-8dd
-8b-}
+=9	=9
+{4b-	Tra-
+8b-	-fia-
+=10	=10
+16a	-li
+16g	się
+8a	róż-
+8f	-ni,
+=11	=11
+4cc	swo-
+8cc	-ji
+=12	=12
+16b-	i
+16cc	po-
+8dd	-dró-
+8b-}	-żni,
 !!LO:LB:g=esac
-=13
-{16b-
-16dd
-8ff
-16ee
-16dd
-=14
-4cc
-8b-
-=15
-16a
-16a
-8b-
-16g
-16e
-=16
-4f
-8f}
-==
-*-
+=13	=13
+{16b-	a
+16dd	ja
+8ff	za
+16eeL	mąż
+16ddJ	.
+=14	=14
+4cc	chcia-
+8b-	-ła,
+=15	=15
+16a	ma-
+(8fq	.
+16a)	-tka
+8b-	mi
+16gL	nie
+16eJ	.
+=16	=16
+4f	da-
+8f}	-ła.
+==	==
+*-	*-
+!!!role-singer: Daughter
+!!!role-listener: Mother
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!O, moja matulu, toć was Pan Bóg skarze,
+!!cemu mnie waspani nie dała zyć w parze?
+!!Trafiali się różni,
+!!swoji i podróżni,
+!!a ja za mąż chciała,
+!!matka mi nie dała.
+!!@@END: VERSES
 !!!ONB: wariant w takcie 14 i 15 565_52  335_2-7
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=42 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 33-34} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, pp. 33-34}
 !!!page: 33-34
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

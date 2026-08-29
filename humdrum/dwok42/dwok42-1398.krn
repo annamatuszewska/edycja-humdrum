@@ -3,89 +3,102 @@
 !!!source: DWOK42
 !!!id: 421398
 !!!signature: 42139800000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/4
-=1
-{4ee
-4ff
-4ff
-=2
-4ff
-4ff
-4ff
-=3
-4dd
-4dd
-4dd
-=4
-4ee
-4ff
-4dd}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/4	*
+=1	=1
+{4ee	Oj,
+4ff	ty
+4ff	smro-
+=2	=2
+4ff	-dzki
+4ff	bę-
+4ff	-bnie,
+=3	=3
+4dd	nie
+4dd	ko-
+4dd	-chaj
+=4	=4
+4ee	sie
+4ff	we
+4dd}	mnie,
 !!LO:LB:g=esac
-=5
-{4cc
-4ff
-4ff
-=6
-4ff
-4ff
-4a
-=7
-4b-
-4a
-4b-
-=8
-4g
-4e
-4c}
+=5	=5
+{4cc	bo
+4ff	jak
+4ff	ko-
+=6	=6
+4ff	-pnę
+4ff	no-
+4a	-gą,
+=7	=7
+4b-	pój-
+4a	-dzies
+4b-	prec
+=8	=8
+4g	o-
+4e	-de
+4c}	mnie.
 !!LO:LB:g=esac
-=9
-{2f
-4f
-=10
-4a
-4cc
-4a
-=11
-4g
-4a
-4b-
-=12
-4g
-4e
-4c
-=13
-2f
-8f
-8e}
+=9	=9
+{2f	.
+4f	.
+=10	=10
+4a	.
+4cc	.
+4a	.
+=11	=11
+4g	.
+4a	.
+4b-	.
+=12	=12
+4g	.
+4e	.
+4c	.
+=13	=13
+2f	.
+(8gq	.
+8fL)	.
+8eJ}	.
 !!LO:LB:g=esac
-=14
-{4f
-4a
-4cc
-=15
-4g
-4a
-4b-
-=16
-4g
-4e
-4c
-=17
-4f
-4a
-4g
-=18
-4f}
-4r
-4r
-==
-*-
+=14	=14
+{4f	.
+4a	.
+4cc	.
+=15	=15
+4g	.
+4a	.
+4b-	.
+=16	=16
+4g	.
+4e	.
+4c	.
+=17	=17
+4f	.
+4a	.
+4g	.
+=18	=18
+4f}	.
+4r	.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!role-listener: Bachelor
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Oj, ty smrodzki bębnie,
+!!nie kochaj sie we mnie,
+!!bo jak kopnę nogą,
+!!pójdzies prec ode mnie.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=37 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 28-29} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, pp. 28-29}
 !!!page: 28-29
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

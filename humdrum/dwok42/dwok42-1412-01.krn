@@ -3,37 +3,49 @@
 !!!source: DWOK42
 !!!id: 421412
 !!!signature: 42141200001
-**kern
-*clefG2
-*k[]
-*a:
-*M2/4
-=1
-{8a
-8g#
-8a
-8cc
-=2
-4ee
-4cc
-=3
-4b
-4g#
-=4
-8a
-8g#
-8a
-8b
-=5
-4cc
-4b
-=6
-4g#
-4e}
-==
-*-
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M2/4	*
+=1	=1
+{8a	Nie
+8g#	wiesz,
+8a	pa-
+8cc	-nie,
+=2	=2
+4ee	co
+4cc	ja
+=3	=3
+(4b	wiem,
+4g#)	.
+=4	=4
+8a	proś
+8g#	mnie
+8a	pię-
+8b	-knie,
+=5	=5
+4cc	to
+4b	po-
+=6	=6
+(>4g#	-wiem.
+4e)}	.
+==	==
+*-	*-
+!!!RDF**kern: > = above
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Nie wiesz, panie, co ja wiem,
+!!proś mnie pięknie, to powiem.
+!!@VERSE:
+!!U naszego młynarza
+!!jest tam Kasia jak zarza.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=44 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 35} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 35}
 !!!page: 35
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

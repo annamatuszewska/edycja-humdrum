@@ -3,54 +3,71 @@
 !!!source: DWOK42
 !!!id: 421400
 !!!signature: 42140000000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{8e
-8a
-4cc
-8b
-8a
-=2
-8cc
-8ee
-4dd
-8cc
-8a
-=3
-8cc
-8dd
-4ee
-4cc
-=4
-4dd
-2g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+{8e	Słoń-
+8a	-ce
+4cc	świe-
+8bL	-ci,
+8aJ	.
+=2	=2
+8cc	wia-
+8ee	-trek
+4dd	wie-
+8ccL	-je
+8aJ	.
+=3	=3
+8cc	po
+8dd	bia-
+4ee	-łej
+4cc	brze-
+=4	=4
+4dd	-zi-
+2g}	-nie,
 !!LO:LB:g=esac
-=5
-{8cc
-8dd
-4.ee
-8dd
-=6
-8ff
-8ee
-4dd
-4b
-=7
-8dd
-8b
-4cc
-4g#
-=8
-2a
-4a}
-==
-*-
+=5	=5
+{8cc	ko-
+8dd	-chaj-
+4.ee	-że
+8dd	mnie,
+=6	=6
+8ff	moj
+8ee	Ja-
+4dd	-sien-
+4b	-ku,
+=7	=7
+8dd	szczé-
+8b	-rze,
+4cc	nie
+4g#	zdra-
+=8	=8
+2a	-dli-
+4a}	-wie.
+==	==
+*-	*-
+!!!role-singer: Maiden, Bachelor
+!!!role-listener: Bachelor, Maiden
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Słońce świeci, wiatrek wieje
+!!po białej brzezinie,
+!!kochajże mnie, moj Jasienku,
+!!szczérze, nie zdradliwie.
+!!@VERSE:
+!!Kocham, kocham, dziewcze moje,
+!!widzi Bóg na niebie,
+!!a bodaj ja szyję złamał.
+!!jadący od ciebie.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=38 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 29} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 29}
 !!!page: 29
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

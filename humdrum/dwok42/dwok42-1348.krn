@@ -3,70 +3,83 @@
 !!!source: DWOK42
 !!!id: 421348
 !!!signature: 42134800000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8g
-8b
-8dd
-8ee
-=2
-4.dd
-8cc
-=3
-8b
-8a
-8cc
-16a
-16f#
-=4
-2g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8gL	Sto-
+8bJ	.
+8dd	-i
+8ee	by-
+=2	=2
+4.dd	-li-
+8cc	-czka
+=3	=3
+8bL	przy
+8aJ	.
+8cc	o-
+16aL	-dło-
+16f#J	.
+=4	=4
+2g}	-gu,
 !!LO:LB:g=esac
-=5
-{8g
-8b
-8dd
-8ee
-=6
-4.dd
-8cc
-=7
-8b
-8a
-8cc
-16a
-16f#
-=8
-2g}
+=5	=5
+{8g	do-
+8b	-żę-
+8dd	-li-
+8ee	-śmy
+=6	=6
+4.dd	[ży-
+8cc	-tka,
+=7	=7
+8bL	chwa-
+8aJ	.
+8cc	-ła
+16aL	Bo-
+16f#J	.
+=8	=8
+2g}	-gu].
 !!LO:LB:g=esac
-=9
-{4b
-8dd
-8cc
-=10
-8a
-8b
-4g
-=11
-8b
-8b
-8cc
-8ee
-=12
-8dd
-4cc
-16a
-16b
-=13
-4g}
-4r
-==
-*-
+=9	=9
+{4b	Plon
+8ddL	nie-
+8ccJ	.
+=10	=10
+8a	-sie-
+8b	-my,
+4g;	plon,
+=11	=11
+8b	do
+8b	na-
+8cc	-sze-
+8ee	-go
+=12	=12
+(8dd	pa-
+4cc)	.
+16aL	-na
+16bJ	-
+=13	=13
+4g}	w_dom.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Peasants
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Stoi byliczka przy odłogu,
+!!dożęliśmy [żytka, chwała Bogu].
+!!Plon niesiemy, plon,
+!!do naszego pana w dom.
+!!@VERSE:
+!!U naszej pani w sadzie murawa,
+!!a nasza pani chodzi jak pawa.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=15 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 6-7} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, pp. 6-7}
 !!!page: 6-7
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

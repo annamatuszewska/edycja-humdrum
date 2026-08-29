@@ -3,77 +3,91 @@
 !!!source: DWOK42
 !!!id: 421383
 !!!signature: 42138300000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8g
-8b
-4.dd
-8b
-=2
-8dd
-8ee
-4dd
-4cc
-=3
-8b
-8a
-2g
-=4
-8dd
-8ee
-4dd
-4cc
-=5
-8b
-8a
-2g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8g	Z_tam-
+8b	-tej
+4.dd	stro-
+8b	-ny
+=2	=2
+8dd	zie-
+8ee	-lo-
+4dd	-ne-
+4cc	-go
+=3	=3
+8bL	dwo-
+8aJ	.
+2g	-ra,
+=4	=4
+8dd	ie-
+8ee	-lo-
+4dd	-ne-
+4cc	-go
+=5	=5
+8bL	dwo-
+8aJ	.
+2g}	-ra
 !!LO:LB:g=esac
-=6
-{8b
-8b
-4a
-4cc
-=7
-8b
-8b
-4a
-4g
-=8
-8b
-8dd
-4cc
-4b
-=9
-4a
-2g}
+=6	=6
+{8b	pa-
+8b	-sła
+4a	pan-
+4cc	-na,
+=7	=7
+8b	pa-
+8b	-sła
+4a	pan-
+4g	-na
+=8	=8
+8b	prze-
+8dd	-śli-
+4cc	-czne-
+4b	-go
+=9	=9
+4a\	pa-
+2g}	-wa,
 !!LO:LB:g=esac
-=10
-{8b
-8b
-4a
-4cc
-=11
-8b
-8b
-4a
-4g
-=12
-8b
-8dd
-4cc
-4dd
-=13
-8b
-8a
-2g}
-==
-*-
+=10	=10
+{8b	pa-
+8b	-sła
+4a	pan-
+4cc	-na,
+=11	=11
+8b	pa-
+8b	-sła
+4a	pan-
+4g	-na
+=12	=12
+8b	prze-
+8dd	-śli-
+4cc	-czne-
+4dd/	-go
+=13	=13
+8bL	pa-
+8aJ	.
+2g}	-wa.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Z tamtej strony |:zielonego dwora:|
+!!|:pasła panna, pasła panna prześlicznego pawa:|.
+!!@VERSE:
+!!Zacięła go |:w ogonek niechcący:|.
+!!|:paw jej uciekł, paw jej uciekł do boru krzyczący:|.
+!!@VERSE:
+!!Ona za nim |:prędko poskoczyła:|.
+!!|:wpadła w rzéczkę, wpadła w rzéczkę, zmaczała spodniczkę:|.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=31 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 22} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 22}
 !!!page: 22
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

@@ -3,58 +3,113 @@
 !!!source: DWOK42
 !!!id: 421365
 !!!signature: 42136500002
-**kern
-*clefG2
-*k[b-]
-*F:
-*M4/4
-=1
-{8f
-8f
-8a
-8b-
-2cc
-=2
-8cc
-8ff
-8ee
-8dd
-2cc
-=3
-8cc
-8ff
-8ee
-8dd
-2cc
-=4
-8b-
-8b-
-8.b-
-16g
-8a
-8a
-8a
-8f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M4/4	*
+=1	=1
+{8f	Przy
+8f	o-
+8a	-nej
+8b-	gó-
+2cc	-rze
+=2	=2
+8cc	sto-
+8ff	-i
+8ee	pan
+8dd	sta-
+2cc	-ry,
+=3	=3
+8cc	sto-
+8ff	-i
+8ee	pan
+8dd	sta-
+2cc	-ry,
+=4	=4
+8b-L	przed
+8b-J/	.
+8.b-M	mo-
+16g	-im
+8a	o-
+8a	-kie-
+8a	-ne-
+8f}	-ckiem,
 !!LO:LB:g=esac
-=5
-{8g
-8g
-8g
-8e
-8f
-8f
-8a
-8cc
-=6
-8g
-8g
-8.b-
-16a
-2f}
-==
-*-
+=5	=5
+{8gL	przed
+8gJ\	.
+8g	mo-
+8e	-im
+8f	o-
+8f	-kie-
+8a	-ne-
+8cc	-ckiem
+=6	=6
+8g	koń
+8g	je-
+8.b-	-go
+16a	ka-
+2f}	-ry.
+==	==
+*-	*-
+!!!role-singer: Maiden, Lord, Narrator
+!!!role-listener: Lord, Maiden
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Przy onej górze
+!!|:stoi pan stary:|.
+!!przed moim okieneckiem.
+!!przed moim okieneckiem
+!!koń jego kary.
+!!@VERSE:
+!!Przyjechał w nocy
+!!|:ośród północy:|.
+!!Stuk, puk w okie[necko],
+!!wyjdź, [wyjdź], koch[anecko],
+!!daj kon[iom wody].
+!!@VERSE:
+!!Nie moge ja wstać,
+!!|:ko[niom] wo[dy dać]:|.
+!!matula mi przyk[azała].
+!!bym ja z panem nie gadała,
+!!matki się boję.
+!!@VERSE:
+!!Matki [się nie bój.
+!!|:siadaj na koń mój:|],
+!!pojed[ziemy w cudze kraje],
+!!tam jest piękne obycaje
+!![malowany dwór].
+!!@VERSE:
+!!Przez wieś jechali,
+!!|:ludzie [patrzali]:|.
+!!Ach, co to [za] dzi[ewcyna],
+!![ach, co to] za jedyna
+!!jedzie z panami?
+!!@VERSE:
+!!Oj, jedzie, jedzie
+!!|:po złotym rzędzie:|.
+!!sześć par sługów za nią,
+!!jak za [jaką panie].
+!!bo panią będzie.
+!!@VERSE:
+!!Wyjechał w pole.
+!!|:krzyknął na konie:|.
+!!Obejrzyj się ...............
+!!.............. będzie twoje
+!!..................
+!!@VERSE:
+!!Wszystkoć to moje
+!!|: i nas oboje:|.
+!!tylko nie wianusecek,
+!!com go zostawiła
+!!w sieni na stole.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=24 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 15} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 15}
 !!!page: 15
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

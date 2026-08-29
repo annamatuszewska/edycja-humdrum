@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK42139000000-ty_dziewcyno_z_biala_twarza.krn
+!!!OTL: Ty, dziewcyno, z białą twarzą
+!!!source: DWOK42
+!!!id: 421389
+!!!signature: 42139000000
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M3/4	*
+=1	=1
+{8f	Ty,
+8a	dziew-
+4cc	-cy-
+4ee-	-no,
+=2	=2
+8dd	z_bia-
+8cc	-łą
+4dd	twa-
+4b-}	-rzą,
+!!LO:LB:g=esac
+=3	=3
+{8b-	wszys-
+8dd	-tkie
+4dd	chło-
+4ff	-pcy
+=4	=4
+8ee-	na
+8dd	cie
+4ee-	wa-
+4cc	-żą,
+=5	=5
+8f	i
+8a	sto-
+4cc	-lar-
+4ee-}	-cyk,
+!!LO:LB:g=esac
+=6	=6
+{8dd	i
+8cc	mu-
+4dd	-lar-
+4b-	-cyk,
+=7	=7
+8b-	i
+8g	ten
+4e-	trą-
+4g	-ba
+=8	=8
+8g	ko-
+8b-	-mi-
+4a	-sar-
+4f}	-cyk.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!!role-listener: Maiden
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Ty, dziewczyno, z białą twarzą,
+!!wszystkie chłopcy na cie ważą,
+!!i stolarcyk, i mularcyk,
+!!i ten trąba komisarcyk.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: 1 [nadpisane przez O. K. ,,Wy”]
+!!2 [nadpisane przez O. K. ,,was”]
+!!@@END:
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=34 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 25} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 25}
+!!!page: 25
+!!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

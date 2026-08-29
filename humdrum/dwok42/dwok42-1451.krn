@@ -3,60 +3,83 @@
 !!!source: DWOK42
 !!!id: 421451
 !!!signature: 42145100000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8b
-8dd
-8cc#
-8dd
-8ee
-8b
-=2
-8dd
-8cc
-2a
-=3
-8d
-8f#
-8a
-8b
-8cc
-8f#
-=4
-8a
-8g
-2g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8b	Sie-
+8dd	-dzi
+8cc#	pta-
+8dd	-szek
+8ee	na
+8b	to-
+=2	=2
+8ddL	-po-
+8ccJ	.
+2a	-li,
+=3	=3
+8d	od
+8f#	kło-
+8a	-po-
+8b	-tu
+8cc	głów-
+8f#	-ka
+=4	=4
+8aL	bo-
+8gJ	.
+2g}	-li,
 !!LO:LB:g=esac
-=5
-{8g
-8b
-4a
-4g
-=6
-8cc
-8dd
-8ee
-8dd
-4dd
-=7
-4.dd
-8a
-8cc
-8ee
-=8
-8dd
-8f#
-8a
-8g
-4g}
-==
-*-
+=5	=5
+{8g	jak
+8b	ci
+4a	u-
+4g	-siad,
+=6	=6
+8cc	tak
+8dd	ci
+8eeL	du-
+8ddJ	.
+4dd	-ma,
+=7	=7
+4.dd	że
+8a	ko-
+8cc	-cha-
+8ee	-nia
+=8	=8
+8dd	w_do-
+8f#	-mu
+8aL	ni
+8gJ	.
+4g}	ma.
+==	==
+*-	*-
+!!!role-singer: Narrator, Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Siedzi ptaszek na topoli,
+!!od kłopotu główka boli,
+!!jak ci usiad, tak ci duma,
+!!że kochania w domu ni ma.
+!!@VERSE:
+!!Już odjeżdżam w obce kraje.
+!!Panu Bogu cię oddaję.
+!!Już odjeżdżasz, o mnie nie dbasz,
+!!bo zapewne tam inszą masz.
+!!@VERSE:
+!!Ni mam inny, tylko ciebie,
+!!swiadkiem duszy ten, co w niebie.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: [Na karcie rkp. notatka O. K. ,,Giżyńska w Kosinie”.]
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=61 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 52} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 52}
 !!!page: 52
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

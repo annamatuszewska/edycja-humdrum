@@ -3,64 +3,76 @@
 !!!source: DWOK42
 !!!id: 421391
 !!!signature: 42139100000
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M3/4
-=1
-{8b-
-8dd
-4ff
-4gg
-=2
-8ff
-8cc
-4a
-4f}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M3/4	*
+=1	=1
+{8b-	Mo-
+8dd	-je
+4ff	dziew-
+4gg	-cze,
+=2	=2
+8ff	mój
+8cc	so-
+4a	-ko-
+4f}	-le,
 !!LO:LB:g=esac
-=3
-{8b-
-8dd
-8ff
-8ee
-8gg
-8ee
-=4
-4ff
-4a
-8cc
-8f
-=5
-8b-
-8dd
-4dd
-8cc
-8b-}
+=3	=3
+{8b-	szu-
+8dd	-ka-
+8ffL	-łem
+8eeJ	.
+8ggL	cię
+8eeJ	.
+=4	=4
+4ffM	po
+4a	sto-
+8cc	-do-
+8f	-le,
+=5	=5
+8b-	nie
+8dd	mo-
+4ddm	-głem
+8ccL	cię
+8b-J}	.
 !!LO:LB:g=esac
-=6
-{8a
-8b-
-8cc
-8dd
-8ee-
-8cc
-=7
-8b-
-8dd
-4dd
-8cc
-8b-
-=8
-8a
-8f
-8g
-8a
-4b-}
-==
-*-
+=6	=6
+{8a	prę-
+8b-	-dko
+8ccL	zna-
+8ddJ	.
+8ee-L	-leźć,
+8ccJ	.
+=7	=7
+8b-	mu-
+8dd	-sia-
+4ddm	-łaś
+8ccL	mi
+8b-J	.
+=8	=8
+8a	w_sno-
+8f	-pki
+8gL	za-
+8aJ	.
+4b-}	-léźć.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!role-listener: Maiden
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Moje dziewcze, mój sokole,
+!!szukałem cię po stodole,
+!!nie mogłem cię prędko znaléźć,
+!!musiałaś mi w snopki zaléźć.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=35 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 26} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 26}
 !!!page: 26
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

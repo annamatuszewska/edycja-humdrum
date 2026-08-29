@@ -3,56 +3,69 @@
 !!!source: DWOK42
 !!!id: 421372
 !!!signature: 42137200000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8dd
-8ee
-4dd
-4a
-=2
-8dd
-8ee
-4dd
-4a
-=3
-4b
-8dd
-8cc
-8b
-8a
-=4
-4g
-2d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8dd	W_sa-
+8ee	-dzie
+4dd	wi-
+4a	-śnie,
+=2	=2
+8dd	w_sa-
+8ee	-dzie
+4dd	po-
+4a	-wy-
+=3	=3
+4b	.
+8ddL	-ry-
+8ccJ	-wać
+8b	my-
+8a	.
+=4	=4
+4g	-ślę,
+(8f#q	a
+2d)}	do
 !!LO:LB:g=esac
-=5
-{8e
-8e
-4e
-4g
-=6
-8f#
-8f#
-4f#
-4a
-=7
-4b
-8dd
-8cc
-8b
-8a
-=8
-4g
-4f#
-4d}
-==
-*-
+=5	=5
+{8e	swe-
+8e	-go
+4e	Ja-
+4g	-si-
+=6	=6
+8f#	-ne-
+8f#	-czka
+4f#	po-
+4a	-wę-
+=7	=7
+4b	.
+8ddL	-dro-
+8ccJ	-wać
+8b	my-
+8a	.
+=8	=8
+(>4g	-ślę.
+4f#)	.
+4d}	.
+==	==
+*-	*-
+!!!RDF**kern: > = above
+!!!role-singer: Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!|:W sadzie wiśnie:|
+!!powyrywać myślę,
+!!a do swego Jasineczka
+!!powędrować myślę.
+!!@@END: VERSES
 !!!ONB: wariant w takcie drugim 546_5__2__
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=27 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 18} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 18}
 !!!page: 18
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

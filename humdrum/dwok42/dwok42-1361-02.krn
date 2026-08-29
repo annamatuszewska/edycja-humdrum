@@ -3,52 +3,63 @@
 !!!source: DWOK42
 !!!id: 421361
 !!!signature: 42136100002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{4cc
-4a
-4cc
-=2
-8b
-8dd
-4ee
-4cc
-=3
-4b
-4a
-4cc
-=4
-8b
-8g
-4e
-4d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{4cc	Hej,
+4a	Ka-
+4cc	-siu,
+=2	=2
+8b	mo-
+8dd	-ja
+4ee	K[a-
+4cc	-siu],
+=3	=3
+4b	da,
+4a	nie
+4cc	chodź
+=4	=4
+8b	po
+8g	po-
+4e	-dla-
+4d}	-siu,
 !!LO:LB:g=esac
-=5
-{4d
-4d
-4f#
-=6
-8g
-8b
-4cc
-4a
-=7
-4d
-4d
-4f#
-=8
-8g
-8e
-4d
-4d}
-==
-*-
+=5	=5
+{4d	nie
+4d	zbie-
+4f#	-raj
+=6	=6
+8gL	ko-
+8bJ	.
+4cc	-rze-
+4a	-ni,
+=7	=7
+4d\	nie
+4d\	truj
+4f#\	chło-
+=8	=8
+8gL	-pców
+8eJ\	.
+4d\	nie-
+4d\}	-mi.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!!role-listener: Maiden
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Hej, Kasiu, moja K[asiu],
+!!da, nie chodź po podlasiu,
+!!nie zbieraj korzeni,
+!!nie truj chłopców niemi.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=23 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 14} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 14}
 !!!page: 14
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

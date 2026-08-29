@@ -3,52 +3,72 @@
 !!!source: DWOK42
 !!!id: 421474
 !!!signature: 42147400000
-**kern
-*clefG2
-*k[]
-*C:
-*M6/8
-=1
-{8cc
-8cc
-8b
-4dd
-8g
-=2
-8a
-8cc
-8b
-4g
-8e
-=3
-8d
-8e
-8f#
-4g
-8a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M6/8	*
+=1	=1
+{8cc	Pię-
+8cc	-knie
+8b	w_o-
+4dd	-gro-
+8g	-dzie,
+=2	=2
+8a	jak
+8cc	gdy
+8b	mak
+4g	za-
+8e	-krzcie,
+=3	=3
+8d	tak
+8e	i
+8f#	żoł-
+4g	-nié-
+8a}	-rze,
 !!LO:LB:g=esac
-=4
-{8b
-8cc
-8b
-4g
-8g
-=5
-8g
-8ff
-8dd
-4cc
-8dd
-=6
-8g
-8a
-8b
-4cc
-8cc}
-==
-*-
+=4	=4
+{8b	sto-
+8cc	-jąc
+8b	w_pa-
+4g	-ra-
+8g	-dzie,
+=5	=5
+8g	tak
+8ff	i
+8dd	żoł-
+4cc	-nié-
+8dd	-rze,
+=6	=6
+8g	sto-
+8a	-jąc
+8b	w_pa-
+4cc	-ra-
+8cc}	-dzie.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Pieknie w ogrodzie,
+!!jak gdy mak zakrzcie,
+!!|:tak i żołniérze,
+!!stojąc w paradzie:|.
+!!@VERSE:
+!!Boć to zołnierze
+!!niejednej matki.
+!!|:jak się ubiorą -
+!!jak w połu kwiatki:|.
+!!@VERSE:
+!!Jak maszeruje,
+!!tym się dziwują
+!!|:i tam im radzi,
+!!gdzie nie wstępują:|.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=73 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 64} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 64}
 !!!page: 64
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

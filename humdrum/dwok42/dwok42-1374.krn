@@ -3,56 +3,68 @@
 !!!source: DWOK42
 !!!id: 421374
 !!!signature: 42137400000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8f#
-8g
-4b
-4d
-=2
-8f#
-8g
-4e
-4a
-=3
-8f#
-8g
-4b
-4d
-=4
-8f#
-8g
-4e
-4d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8f#	Oj,
+8g	i
+4b	do
+4d	dom,
+=2	=2
+8f#	pan-
+8g	-no,
+4e	do
+4a	dom,
+=3	=3
+8f#	bo
+8g	ja
+4b	da-
+4d	-wno
+=4	=4
+8f#	ga-
+8g	-dam
+4e	z_to-
+4d}	-bą,
 !!LO:LB:g=esac
-=5
-{8f#
-8g
-4b
-4a
-=6
-8cc
-8ee
-4.dd
-8cc
-=7
-8a
-8g
-4b
-4d
-=8
-8f#
-8g
-4e
-4d}
-==
-*-
+=5	=5
+{8f#	ka-
+8g	-pu-
+4b	-sta
+4a	się
+=6	=6
+8cc	przy-
+8ee	-pa-
+4.dd	-li-
+8cc	-ła,
+=7	=7
+8a	trze-
+8g	-ba
+4b	ją
+4d	za-
+=8	=8
+8f#	-lać,
+8g	da,
+4e	wo-
+4d}	-dą.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!role-listener: Maiden
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Oj, i do dom, panno, do dom,
+!!bo ja dawno gadam z tobą,
+!!kapusta się przypaliła,
+!!trzeba ją zalać, da, wodą.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=28 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 19} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 19}
 !!!page: 19
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

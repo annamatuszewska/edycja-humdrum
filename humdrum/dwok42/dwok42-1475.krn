@@ -3,44 +3,53 @@
 !!!source: DWOK42
 !!!id: 421475
 !!!signature: 42147500000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{2ee
-4dd#
-=2
-4ee
-2b
-=3
-2dd
-4ee
-=4
-4cc
-2a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+{2ee	Za
+4dd#	go-
+=2	=2
+4ee	-ra-
+2b	-mi,
+=3	=3
+2dd	za
+4ee	la-
+=4	=4
+4cc	-sa-
+2a}	-mi
 !!LO:LB:g=esac
-=5
-{8a
-8b
-4cc
-4b
-=6
-8dd
-8cc
-4b
-4a
-=7
-2b
-4e
-=8
-4g#
-2a}
-==
-*-
+=5	=5
+{8a	tań-
+8b	-co-
+4cc	-wa-
+4b	-ła
+=6	=6
+8dd	Mał-
+8cc	-go-
+4b	-rza-
+4a	-ta
+=7	=7
+2b	z_hu-
+4e	-za-
+=8	=8
+4g#	-ra-
+2a}	-mi.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Za gorami, za lasami
+!!tańcowała Małgorzata
+!!z huzarami.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=73 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 64} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 64}
 !!!page: 64
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

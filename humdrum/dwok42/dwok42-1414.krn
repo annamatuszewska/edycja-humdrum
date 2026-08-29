@@ -3,50 +3,66 @@
 !!!source: DWOK42
 !!!id: 421414
 !!!signature: 42141400000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8b
-8a
-8b
-8cc
-=2
-8ee
-4dd
-8b
-=3
-8dd
-4cc
-8a
-=4
-8g
-8b
-4dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8b	Szła
+8a	dziew-
+8b	-czy-
+8cc	-na
+=2	=2
+8ee	po
+4dd	ro-
+8b	-wie,
+=3	=3
+8dd	po
+4cc	ro-
+8a	-wie,
+=4	=4
+8g	po
+8b	ro-
+4dd}	-wie,
 !!LO:LB:g=esac
-=5
-{8gg
-8ff#
-8gg
-8ee
-=6
-8ee
-4dd
-8b
-=7
-8dd
-4cc
-8a
-=8
-8f#
-8g
-4g}
-==
-*-
+=5	=5
+{8gg	go-
+8ff#	-ni-
+8gg	-li
+8ee	ją
+=6	=6
+8ee	pa-
+4dd	-no-
+8b	-wie,
+=7	=7
+8dd	pa-
+4cc	-no-
+8a	-wie,
+=8	=8
+8f#	pa-
+8g	-no-
+4g}	-wie.
+==	==
+*-	*-
+!!!role-singer: Narrator, Rapists
+!!!role-listener: Maiden
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Szła dziewczyna po rowie, |:po rowie:|.
+!!gonili ją panowie, |:panowie:|.
+!!@VERSE:
+!!Ty dziewcyno, co tu masz, |:co tu masz:|.
+!!co fartuszkiem przykrywasz, |:przykrywasz:|.
+!!@VERSE:
+!!Cy grusecki, cy jabka, |:cy jabka:|.
+!!cy dla chłopców zabawka, |:zabawka:|.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=44 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 35} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 35}
 !!!page: 35
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

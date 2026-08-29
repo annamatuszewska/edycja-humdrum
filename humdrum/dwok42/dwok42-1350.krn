@@ -3,50 +3,60 @@
 !!!source: DWOK42
 !!!id: 421350
 !!!signature: 42135000000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{8ee
-8cc
-4dd
-4ee
-=2
-4dd
-2cc
-=3
-8ff
-8ee
-4dd
-4cc
-=4
-4a
-2g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+{8ee	W_po-
+8cc	-lu
+4dd	o-
+4ee	-gró-
+=2	=2
+4dd	-de-
+2cc	-czek,
+=3	=3
+8ff	w_po-
+8ee	-lu
+4dd	ma-
+4cc	-lo-
+=4	=4
+4a	-wa-
+2g}	-ny
 !!LO:LB:g=esac
-=5
-{8g
-8a
-4cc
-4ee
-=6
-4dd
-2cc
-=7
-8cc
-8ee
-8dd
-8b
-4cc
-=8
-2a
-4a}
-==
-*-
+=5	=5
+{8g	a
+8a	ktoż
+4cc	go
+4ee	ma-
+=6	=6
+4dd	-lo-
+2cc	-wał?
+=7	=7
+8cc	Ja-
+8ee	-siu-
+8ddL	-lo
+8bJ	.
+4cc	ko-
+=8	=8
+2a	-cha-
+4a}	-ny.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!W polu ogródeczek,
+!!w polu malowany
+!!a ktoż go malował?
+!!Jasiulo kochany.
+!!@@END: VERSES
 !!!ONB: Melodia nr 1350
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=17 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 8} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 8}
 !!!page: 8
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

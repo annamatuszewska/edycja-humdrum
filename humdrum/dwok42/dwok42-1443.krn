@@ -3,58 +3,80 @@
 !!!source: DWOK42
 !!!id: 421443
 !!!signature: 42144300000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8g
-8b
-4.dd
-8b
-=2
-8dd
-8b
-4.cc
-8a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8g	W_ciem-
+8b	-nym
+4.dd	la-
+8b	-sku
+=2	=2
+8dd	pta-
+8b	-szek
+4.cc	spie-
+8a}	-wa,
 !!LO:LB:g=esac
-=3
-{8b
-8b
-4.dd
-8b
-=4
-8dd
-8b
-4.cc
-8a
-=5
-8cc
-8ee
-4.ee
-8cc}
+=3	=3
+{8b	gdzie
+8b	dziew-
+4.dd	-czy-
+8b	-na
+=4	=4
+8dd	traw-
+8b	-kę
+4.cc	zży-
+8a\	-na.
+=5	=5
+8cc	I
+8ee	na-
+4.ee	-żę-
+8cc}	-ła,
 !!LO:LB:g=esac
-=6
-{8ee
-8dd
-4.b
-8dd
-=7
-8dd
-8dd
-4.cc
-8f#
-=8
-8a
-8g
-4.g
-8g}
-==
-*-
+=6	=6
+{8ee	na-
+8dd	-wią-
+4.b	-za-
+8dd	-ła,
+=7	=7
+8dd	i
+8dd	Ja-
+4.cc	-sien-
+8f#	-ka
+=8	=8
+8a	za-
+8g	-wo-
+4.g	-ła-
+8g}	-ła.
+==	==
+*-	*-
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!W ciemnym lasku ptaszek spiewa.
+!!gdzie dziewczyna trawkę zżyna.
+!!I nażęła, nawiązała,
+!!i Jasienka zawołała.
+!!@VERSE:
+!!Pojdź mnie, Jasiu, trawkę zadaj,
+!!tylko do mnie nic nie gadaj.
+!!Jeszcze trawka nie zadana,
+!!już dziewczyna obgadana.
+!!@VERSE:
+!!Bodaj była trawka zgniła,
+!!niż ja po nią, da, i była.
+!!Bodaj była nie urosła,
+!!niż ja po nią, da, i poszła!
+!!@@END: VERSES
 !!!ONB: wariant w takcie czwartym 5_3_4_.32
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=57 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 48-49} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, pp. 48-49}
 !!!page: 48-49
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26
