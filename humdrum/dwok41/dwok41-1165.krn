@@ -3,60 +3,85 @@
 !!!source: DWOK41
 !!!id: 411165
 !!!signature: 41116500000
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M2/4
-=1
-{8a
-8a
-8a
-8cc#
-=2
-4.ee
-8cc#
-=3
-4.ee
-8dd}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M2/4	*
+=1	=1
+{8a	Po-
+8a	-je-
+8a	-dzie-
+8cc#	-my
+=2	=2
+4.ee	na
+8cc#	łów,
+=3	=3
+4.ee	na
+8dd}	łów,
 !!LO:LB:g=esac
-=4
-{8cc#
-8cc#
-8b
-8b
-=5
-2a
-=6
-8a
-8cc#
-4b
-=7
-8cc#
-8ee
-4dd}
+=4	=4
+{8cc#	na
+8cc#	łów,
+8b	na
+8b	ło-
+=5	=5
+2a	-wy,
+=6	=6
+8a\L	na
+8cc#J	.
+4b	łów,
+=7	=7
+8cc#	na
+8ee	ło-
+4dd}	-wy
 !!LO:LB:g=esac
-=8
-{8cc#
-8cc#
-8b
-16b
-16a
-=9
-8cc#
-8ee
-4dd
-=10
-8cc#
-8cc#
-8b
-8b
-=11
-2a}
-==
-*-
+=8	=8
+{8cc#	pod
+8cc#	ten
+8b	ga-
+16b/L	-ik
+16aJ	.
+=9	=9
+8cc#	ma-
+(8cc#q	.
+8ee)	-jo-
+4dd	-wy
+=10	=10
+8cc#	to-
+8cc#	-wa-
+8b	-rzy-
+8b	-szu
+=11	=11
+2a}	mój.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Pojedziemy |:na łów:|,
+!!na łów, na łowy,
+!!na łów, na łowy
+!!pod ten gaik majowy
+!!towarzyszu mój.
+!!@VERSE:
+!!2. Leci tamoj |: panna :|,
+!!towarzyszu mój.
+!!Puszczaj charty na wolą,
+!!niech tę pannę dogonią,
+!!towarzyszu moj.
+!!@VERSE:
+!!3. A kiedy ci |: krzywda :|,
+!!towarzyszu moj.
+!!Tobie siodło, a mnie koń,
+!!teraz sobie pannę goń,
+!!towarzyszu moj.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!role-listener: Boy
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=589 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 502-503} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 502-503}
 !!!page: 502-503
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-23

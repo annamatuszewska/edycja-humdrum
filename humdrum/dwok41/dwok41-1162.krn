@@ -3,61 +3,78 @@
 !!!source: DWOK41
 !!!id: 411162
 !!!signature: 41116200000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8cc
-8ee
-4gg
-8gg
-8ee
-=2
-4gg
-8gg
-8ee
-4gg
-=3
-8gg
-8aa
-4dd
-8ff
-8ee
-=4
-4cc
-8cc
-8b
-4g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8cc	Oj,
+8ee	po-
+4gg	-pę-
+8ggL	-dzę
+8eeJ	.
+=2	=2
+4gg	ja
+8ggL	wo-
+8eeJ	.
+4gg	-ły,
+=3	=3
+8gg	da,
+8aa	przez
+4dd	las
+8ffL	do
+8eeJ	.
+=4	=4
+4cc	dą-
+8ccL	-bro-
+8bJ	.
+4g}	-wy,
 !!LO:LB:g=esac
-=5
-{8b
-8dd
-4ff
-8dd
-8b
-=6
-8cc
-8ee
-8dd
-8b
-4g
-=7
-8b
-8dd
-4ff
-8dd
-8b
-=8
-4cc
-8cc
-8b
-4g}
-==
-*-
+=5	=5
+{8bL	oj,
+8ddJ	.
+4ff	bę-
+8ddL	-dą
+8bJ	.
+=6	=6
+8cc	o-
+8ee	-ne
+8ddL	ja-
+8bJ	.
+4g	-dły,
+=7	=7
+8b	da,
+8dd	li-
+4ff	-stek
+8ddL	ja-
+8bJ	.
+=8	=8
+4cc	-wo-
+8ccL	-ro-
+8bJ	.
+4g}	-wy.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj, popędzę ja woły, da,
+!!przez las do dąbrowy,
+!!oj, będą one jadły,
+!!da, listek jaworowy.
+!!@VERSE:
+!!2. Oj, popędzę ja woły,
+!!da, czemu nie mam ich gnać,
+!!oj, wołki będą jadły,
+!!da, a ja se będę i grać2.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: (2) [lub:] śpiewać
+!!@@END:
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=588 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 501} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 501}
 !!!page: 501
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-23

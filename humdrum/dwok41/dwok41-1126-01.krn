@@ -3,53 +3,87 @@
 !!!source: DWOK41
 !!!id: 411126
 !!!signature: 41112600001
-**kern
-*clefG2
-*k[f#]
-*e:
-*M3/4
-=1
-{8g
-8b
-4b
-8dd
-8cc
-=2
-8a
-8e
-4g
-4e
-=3
-4dd
-4b
-8cc
-8ee
-=4
-4dd
-2a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*e:	*
+*M3/4	*
+=1	=1
+{8g	Cię-
+8b	-zko
+4b	te-
+8ddL	-mu
+8ccJ	.
+=2	=2
+8a	żoł-
+8e	-nie-
+4g	-rzo-
+4e	-ju,
+=3	=3
+4dd	jak
+4b	woj-
+8cc	-na
+8ee	na-
+=4	=4
+4dd	-sta-
+2a}	-je,
 !!LO:LB:g=esac
-=5
-{8g
-8b
-4b
-4dd
-=6
-8a
-8e
-4g
-4e
-=7
-4b
-4dd
-8a
-8e
-=8
-4g
-2e}
-==
-*-
+=5	=5
+{8g	kie-
+8b	-dy
+4b	ka-
+4dd	-zą
+=6	=6
+8a	ma-
+8e	-sie-
+4g	-ro-
+4e	-wać,
+=7	=7
+4b	ko-
+4dd	-cha-
+8a	-nie
+8e	zo-
+=8	=8
+4g	-sta-
+2e}	-je.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Cięzko temu żołnierzoju,
+!!jak wojna nastaje,
+!!kiedy kazą masierować,
+!!kochanie zostaje.
+!!@VERSE:
+!!2. Dadzą siodło, dadzą mundur
+!!i konia wronego,
+!!zapłace se młody żołnierz,
+!!siadając na niego.
+!!@VERSE:
+!!3. Kiedy w boru drzewo rąbią,
+!!wtencas wióry lecą,
+!!na wojence biją, rubią,
+!!rodzice nie wiedzą.
+!!@VERSE:
+!!4. Oj, matko, moja matko,
+!!cemuześ mnie nie budziła,
+!!kiedy piersa kompanija
+!!z miasta wychodziła?
+!!@VERSE:
+!!5. I najstarsa siostra wysła,
+!!i nic nie mowiła,
+!!i od zalu jak upadła,
+!!zaraz i zemglała.
+!!@VERSE:
+!!6. Oj, corko, moja corko,
+!!ze ja nie wiedziała,
+!!ześ ty w piersy kompanii
+!!kochanecka miała.
+!!@@END: VERSES
+!!!role-singer: Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=572 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 485} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 485}
 !!!page: 485
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-19

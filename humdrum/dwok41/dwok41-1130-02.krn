@@ -3,67 +3,104 @@
 !!!source: DWOK41
 !!!id: 411130
 !!!signature: 41113000002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8g
-8a
-8b
-8cc
-=2
-4dd
-4ee
-=3
-2dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8g	A
+8a	u
+8b	mo-
+8cc	-jej
+=2	=2
+4dd	ma-
+4ee	-tu-
+=3	=3
+2dd}	-li
 !!LO:LB:g=esac
-=4
-{8gg
-8dd
-8b
-8cc
-=5
-4dd
-4ee
-=6
-2a}
+=4	=4
+{8gg	śli-
+8dd	-cznie
+8b	ro-
+8cc	-ża
+=5	=5
+4dd	za-
+4ee	-kwi-
+=6	=6
+2a}	-ta,
 !!LO:LB:g=esac
-=7
-{8cc
-8ee
-8dd
-8cc
-=8
-4b
-8a
-8f#}
+=7	=7
+{8ccL	a
+8eeJ	.
+8dd	mnie
+8cc	bie-
+=8	=8
+4b	-dne-
+8a\L	-mu,
+8f#\J}	.
 !!LO:LB:g=esac
-=9
-{8g
-8a
-8b
-8cc
-=10
-4dd
-8ee
-8ff#}
+=9	=9
+{8g	tak
+8a	nie-
+8b	-szczę-
+8cc	-śli-
+=10	=10
+4dd	-we-
+8eeL	-mu,
+8ff#J}	.
 !!LO:LB:g=esac
-=11
-{8gg
-8dd
-8ee
-8cc
-=12
-4b
-4a
-=13
-2g}
-==
-*-
+=11	=11
+{8gg	nikt
+8dd	li-
+8ee	-stu
+8cc	nie
+=12	=12
+4b	prze-
+4a	-czy-
+=13	=13
+2g}	-ta.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A u mojej matuli
+!!ślicznie roża zakwita,
+!!a mnie biednemu,
+!!tak nieszczęśliwemu,
+!!nikt listu nie przeczyta.
+!!@VERSE:
+!!2. A moja matuli,
+!!a co wy też nie dbacie,
+!!co przed waszym domem
+!!na k[oniu] tak dł[ugo.......].
+!!@VERSE:
+!!3. Skoro matka spostrzegła,
+!!na ulicę wybiegła,
+!!ach, moj miły synu,
+!!ktoż ci był przycz[yną],
+!!któż cię od[dał do wojska]?
+!!@VERSE:
+!!4. Ktoż mnie do wojska miał dać,
+!!ten warszawski winowac,
+!!a skoro mnie wzięli,
+!!w powrozy związali,
+!!jeszcze do mnie wartę dał.
+!!@VERSE:
+!!5. A ta warta stojała
+!!z wiecz[ora] do ra[na].
+!!|: skoro Pan Bóg dzień dał :|,
+!!on mnie do wojska oddał.
+!!@VERSE:
+!!6. Więc za mną rekruty,
+!!te warszawskie huncfoty.
+!!@@END: VERSES
+!!!role-singer: Son
+!!!role-listener: Mother
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=574 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 487} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 487}
 !!!page: 487
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-19

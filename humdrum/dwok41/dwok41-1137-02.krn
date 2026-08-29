@@ -3,55 +3,75 @@
 !!!source: DWOK41
 !!!id: 411137
 !!!signature: 41113700002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8dd
-8b
-8dd
-=2
-16cc
-16a
-8b
-16g
-16f#
-=3
-8d
-8f#
-8g
-=4
-16e
-16c
-8e
-8d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8dd	Ej,
+8b	ku-
+8dd	-mo,
+=2	=2
+16cc	mo-
+16a	-ja
+8b	ku-
+16gL	-mo,
+16f#J	.
+=3	=3
+8d	da,
+8f#	mo-
+8g	-ja
+=4	=4
+16e	ku-
+16c	-mo-
+8e	-si-
+8d}	-cko,
 !!LO:LB:g=esac
-=5
-{16f#
-16g
-8b
-8cc
-=6
-16a
-16cc
-8b
-16g
-16f#
-=7
-8d
-8f#
-8g
-=8
-16e
-16c
-8e
-8d}
-==
-*-
+=5	=5
+{16f#	da-
+16g	-łam
+8b	ci
+8cc	się
+=6	=6
+16a	tro-
+16cc/	-che
+8b	na-
+16g\L	-pić,
+16f#\J	.
+=7	=7
+8d	da,
+8f#	tyś
+8g	wy-
+=8	=8
+16e	-pi-
+16c	-ła
+8e	wszys-
+8d}	-tko.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Ej, kumo, moja kumo,
+!!da, moja kumosicko,
+!!dałam ci się troche napić,
+!!da, tyś wypiła wszystko.
+!!@VERSE:
+!!2. Ej, kumo, moja kumo,
+!!da, pokumaliswa się,
+!!wlazła swinia do ogroda,
+!!da, pogniwaliśwa się.
+!!@VERSE:
+!!3. Ej, wlazła swinia w ogrod
+!!i ryje, i ryje,
+!!a kuma z kumusią,
+!!da, gorzałeckę piją.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=577 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 490} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 490}
 !!!page: 490
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-22

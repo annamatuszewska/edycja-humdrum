@@ -3,58 +3,69 @@
 !!!source: DWOK41
 !!!id: 411160
 !!!signature: 41116000001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16cc
-16cc
-8a
-8cc
-=2
-16g
-16f#
-8d
-8d
-=3
-16f#
-16f#
-8g
-8b
-=4
-16g
-16f#
-8d
-8d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16cc	U-
+16cc	-ra
+8a	gą-
+(8bq	.
+8cc)	-ski
+=2	=2
+16g	na
+16f#	ga-
+8d	-łą-
+8d	-zki,
+=3	=3
+16f#	u-
+16f#	-ra
+8g	na
+8b	wo-
+=4	=4
+16g	-dę,
+16f#	na
+8d	wo-
+8d}	-dę,
 !!LO:LB:g=esac
-=5
-{16f#
-16g
-8b
-16cc
-16b
-=6
-16a
-16cc
-16b
-16cc
-8a
-=7
-16f#
-16g
-8b
-8b
-=8
-16g
-16f#
-8d
-8d}
-==
-*-
+=5	=5
+{16f#	mo-
+16g	-je
+8b	gą-
+16ccL	-ski
+16bJ	.
+=6	=6
+16a	prze-
+16cc	-pły-
+16bL	-nę-
+16ccJ	.
+8a\	-ły,
+=7	=7
+16f#	a
+16g	ja
+8b	ni
+(8ccq	.
+8b)	mo-
+=8	=8
+16g	-gę,
+16f#	[ni
+8d	mo-
+8d}	-gę].
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Ura gąski na gałązki,
+!!ura na wodę, na wodę,
+!!moje gąski przepłynęły,
+!!a ja ni mogę, [ni mogę].
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=587 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 500} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 500}
 !!!page: 500
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-23

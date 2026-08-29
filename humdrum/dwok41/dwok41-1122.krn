@@ -3,58 +3,107 @@
 !!!source: DWOK41
 !!!id: 411122
 !!!signature: 41112200000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{8g#
-8a
-4cc
-4ee
-=2
-8dd
-8cc
-4b
-4dd}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+{8g#	Oj,
+8a	dziew-
+4cc	-czy-
+4ee	-no
+=2	=2
+8ddL	z_Po-
+8ccJ	.
+4b	-do-
+4dd}	-la,
 !!LO:LB:g=esac
-=3
-{4ee
-4a
-8cc
-8ee
-=4
-8dd
-8cc
-4b
-4e}
+=3	=3
+{4ee	oj,
+4a	coż
+8ccL	ci
+8eeJ	.
+=4	=4
+8dd	za
+8cc	nie-
+4b	-wo-
+4e}	-la,
 !!LO:LB:g=esac
-=5
-{4g#
-4a
-8e
-8d
-=6
-8e
-8g#
-4b
-4b}
+=5	=5
+{4g#	Ja-
+4a	-sia
+8eL	masz
+8dJ	.
+=6	=6
+8eL	do-
+8g#J	.
+4b	-bre-
+4b}	-go,
 !!LO:LB:g=esac
-=7
-{4g#
-4a
-8e
-8d
-=8
-8f#
-8a
-4g#
-4e}
-==
-*-
+=7	=7
+{4g#	sa-
+4a	-mas
+8eL	nic
+8dJ	.
+=8	=8
+8f#L	go-
+8aJ	.
+4g#	-dne-
+4e}	-go.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj, dziewczyno z Podola,
+!!oj, coż ci za niewola,
+!!Jasia masz dobrego,
+!!samas nic godnego.
+!!@VERSE:
+!!2. Oj, dziewczyno z Powisla,
+!!oj, ja o tobie myślał,
+!!a tobie kto inny
+!!podarunek przysłał.
+!!@VERSE:
+!!3. Oj, płakała dziewczyna,
+!!da, trzy godziny w sieni,
+!!da, co jej kochaneczka,
+!!da, do żołnierzy wzięli.
+!!@VERSE:
+!!4. Oj, jeszcze go nie wzięli,
+!!oj, jeszcze stoi w sieni,
+!!czerwone jabłuszko
+!!kładzie do kieszeni.
+!!@VERSE:
+!!5. Jeszcze go nie wzięli,
+!!jeszcze stoi w ganku,
+!!granatowy mundur
+!!na moim kochanku.
+!!@VERSE:
+!!6. Oj, grali mi, grali,
+!!co mi nie mają grać,
+!!oj, wzięli mi Jasienka,
+!!nie chcą mi go oddać.
+!!@VERSE:
+!!7. Oddajcie, oddajcie
+!!Jasienka mojego,
+!!bo będę płakała
+!!do roczku siodmego.
+!!@VERSE:
+!!8. Oj, zapłakały okna,
+!!oj, zapłakały i sciany,
+!!i te poduszeczki,
+!!da, co ja sypiał na nich.
+!!@VERSE:
+!!9. Oj, nie ta to matula,
+!!co mnie wychowała,
+!!tylo ta matula,
+!!da, co mi syna dała.
+!!@@END: VERSES
+!!!role-singer: Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=570 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 483} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 483}
 !!!page: 483
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-18

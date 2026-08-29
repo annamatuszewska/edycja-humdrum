@@ -3,51 +3,57 @@
 !!!source: DWOK41
 !!!id: 411131
 !!!signature: 41113100002
-**kern
-*clefG2
-*k[f#]
-*e:
-*M4/4
-=1
-{8b
-8b
-4b
-4b
-4g
-=2
-8ee
-8ee
-4ee
-4b
-4ee
-=3
-8dd
-8cc
-2b}
-4r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*e:	*
+*M4/4	*
+=1	=1
+{8b	[Ej,
+8b	za-
+4b	-pła-
+4b	-ka-
+4g	-li
+=2	=2
+8ee	mło-
+8ee	-dzi
+4ee	re-
+4b	-kru-
+4ee	-ci
+=3	=3
+8dd/L	w_po-
+8cc/J	-cho-
+2b}	-dzie]
+4r	.
 !!LO:LB:g=esac
-=4
-{8g
-8b
-4b
-4b
-4cc
-=5
-8cc
-8b
-8a
-8a
-4e
-4g
-=6
-8f#
-8f#
-2e}
-4r
-==
-*-
+=4	=4
+{8g	.
+8b	.
+4b	.
+4b	.
+4cc	.
+=5	=5
+8ccL	.
+8bJ	.
+8a	.
+8a	.
+4e	.
+4g	.
+=6	=6
+8f#	.
+8f#	.
+2e}	.
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!![Ej, zapłakali młodzi rekruci w pochodzie]
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=575 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 488} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 488}
 !!!page: 488
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-19

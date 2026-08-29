@@ -3,39 +3,55 @@
 !!!source: DWOK41
 !!!id: 411121
 !!!signature: 41112100020
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/4
-=1
-{8a
-8cc
-8cc
-8a
-8cc
-8a
-=2
-8b-
-8dd
-8b-
-8dd
-8cc
-8b-}
+**kern	**text
+*clefG2	*
+*k[]	*
+*F:	*
+*M3/4	*
+=1	=1
+{8a	za-
+8cc	-stę-
+8cc	-pu-
+8a	-je
+8cc	dro-
+8a	-gi,
+=2	=2
+8b-	nie
+8dd	pusz-
+8b-	-cza
+8dd	nie-
+8cc	-[bo-
+8b-}	-gi,
 !!LO:LB:g=esac
-=3
-{8a
-8cc
-4bb-
-4aa
-=4
-8gg
-8ee
-2ff}
-==
-*-
+=3	=3
+{8a	sam
+8cc	na
+4bb-	ło-
+4aa	-wy
+=4	=4
+8gg	nie
+8ee	je-
+2ff}	-dzie].
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Szła Kasieńka po wodę, 
+!!Jasio jechał od wody,
+!!zastępuje drogi,
+!!nie puszcza nie[bogi,
+!!sam na łowy nie jedzie].
+!!@VERSE:
+!!2. Przenocuj [u mnie, Kasieńko,
+!!każę posłać łóżeńko],
+!!przenocujes sobie,
+!!pokazę ja tobie
+!!tę drożenke do domu.
+!!@@END: VERSES
+!!!role-singer: Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=569 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 482} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 482}
 !!!page: 482
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-18

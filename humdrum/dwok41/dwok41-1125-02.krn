@@ -3,61 +3,95 @@
 !!!source: DWOK41
 !!!id: 411125
 !!!signature: 41112500002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8b
-8cc
-8dd
-8ee
-8ff
-8ee
-=2
-8cc
-8dd
-8b
-8a
-4g
-=3
-4ff
-4cc
-8ee
-8gg
-=4
-8ff
-8ee
-2dd}
+**kern	**text
+*clefG2	*
+*k[]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8b	Dzię-
+8cc	-ku-
+8dd/L	-ję
+8ee/J	.
+8ff/L	ci,
+8ee/J	.
+=2	=2
+8cc	pa-
+8dd	-ni
+8b/L	ma-
+8a/J	.
+4g	-tko
+=3	=3
+4ff	ześ
+4cc	mię
+8ee	wy-
+8gg	-cho-
+=4	=4
+8ffL	-wa-
+8eeJ	.
+2dd}	-ła,
 !!LO:LB:g=esac
-=5
-{8b
-8cc
-8dd
-8ee
-8ff
-8ee
-=6
-8cc
-8dd
-8b
-8a
-4g
-=7
-8dd
-8ee
-8ff
-8ee
-8cc
-8cc
-=8
-4b
-2g}
-==
-*-
+=5	=5
+{8b	a-
+8cc	-le
+8ddL	za
+8eeJ	.
+8ffL	to
+8eeJ	.
+=6	=6
+8cc	nie
+8dd	dzię-
+8b/L	-ku-
+8a/J	.
+4g	-ję,
+=7	=7
+8ddL	ześ
+8eeJ	.
+8ffL	do
+8eeJ	.
+8cc	woj-
+8cc	-ska
+=8	=8
+4b	da-
+2g}	-ła.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Dziękuję ci, pani matko
+!!ześ mię wychowała,
+!!ale za to nie dziękuję,
+!!ześ do wojska dała.
+!!@VERSE:
+!!2. I ujrzeli, zobaczyli
+!!siwą kukaweckę,
+!!|: oj, niesie nam :|
+!!polską nowineckę.
+!!@VERSE:
+!!3. I pognali Polacenków
+!!za to Carne Morze,
+!!już biedny Polaceniek
+!!powrócić nie moze.
+!!@VERSE:
+!!4. Powiedzze nam, kukawecko,
+!!coś tam usłysała,
+!!o niejedna matuleńka
+!!za synem płakała.
+!!@VERSE:
+!!5. Płacze ojciec, płacze matka,
+!!płaczą wszystkie siostry,
+!!brat siada na konia,
+!!trzyma pałasz ostry.
+!!@VERSE:
+!!6. [Powiedzze] im, kukawecko,
+!!niech oni nie płaczą,
+!!na Jozefata dolinie
+!!wszyscy się zobacą.
+!!@@END: VERSES
+!!!role-singer: Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=572 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 485} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 485}
 !!!page: 485
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-19

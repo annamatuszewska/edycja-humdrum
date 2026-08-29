@@ -3,52 +3,67 @@
 !!!source: DWOK41
 !!!id: 411146
 !!!signature: 41114600001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-8r
-{8dd
-8dd
-=2
-16dd
-16b
-8dd
-8dd
-=3
-16ee
-16cc
-8b
-8g
-=4
-8a
-8g
-8d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+8r	.
+{8dd	Oj,
+8dd	mo-
+=2	=2
+16dd	-ja
+16b	dziew-
+8dd	-czy-
+8dd	-no,
+=3	=3
+16ee	nie
+16cc	ko-
+8b	-chaj
+8g\	dwo-
+=4	=4
+8a	-ra-
+8gL	-ka,
+8d}J	.
 !!LO:LB:g=esac
-=5
-{8d
-8f#
-8g
-=6
-16a
-16cc
-8b
-8b
-=7
-16a
-16cc
-8b
-8b
-=8
-8a
-8g
-8d}
-==
-*-
+=5	=5
+{8d	bo
+8f#L	go
+8gJ	.
+=6	=6
+16a	nie
+16cc	zo-
+8b	-ba-
+8b	-czysz,
+=7	=7
+16a	jak
+16cc	na
+8b	po-
+8b	-lu
+=8	=8
+8a	pta-
+8gL	-ka.
+8d}J	_
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj, moja dziewczyno,
+!!nie kochaj dworaka,
+!!bo go nie zobaczysz,
+!!jak na polu ptaka.
+!!@VERSE:
+!!2. Oj, ni mas ci to, ni ma,
+!!jako dworakoju,
+!!oj, siądzie na konika,
+!!da, jedzie ku boroju.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!role-listener: Girl
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=582 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 495} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 495}
 !!!page: 495
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-22

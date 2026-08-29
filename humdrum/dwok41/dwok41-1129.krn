@@ -3,68 +3,80 @@
 !!!source: DWOK41
 !!!id: 411129
 !!!signature: 41112900000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M2/4
-=1
-{8f
-8a
-8cc
-8cc
-=2
-4cc
-4dd
-=3
-2cc}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M2/4	*
+=1	=1
+{8f	Z_tam-
+8a	-tej
+8cc	stro-
+8cc	-ny
+=2	=2
+4cc	War-
+4dd	-sza-
+=3	=3
+2cc}	-wy
 !!LO:LB:g=esac
-=4
-{8ff
-8cc
-8cc
-8a
-=5
-4b-
-4dd
-=6
-2g}
+=4	=4
+{8ff	sto-
+8cc	-i
+8ccL	tam
+8a\J	.
+=5	=5
+4b-	ciem-
+4dd	-ny
+=6	=6
+2g}	las,
 !!LO:LB:g=esac
-=7
-{8cc
-8cc
-8cc
-8b-
-=8
-4a
-8g
-8e}
+=7	=7
+{8cc	a
+8cc	wyj-
+8cc	-dzi,
+8b-	ma-
+=8	=8
+4a	-tu-
+8gL	-lu,
+8e}J	.
 !!LO:LB:g=esac
-=9
-{8f
-8g
-8a
-8b-
-=10
-4cc
-8ee
-8gg}
+=9	=9
+{8f	mo-
+8g	-ja
+8a	naj-
+8b-	-mi-
+=10	=10
+4cc	-lej-
+8eeL	-sza,
+8gg}J	.
 !!LO:LB:g=esac
-=11
-{8ff
-8cc
-8cc
-8b-
-=12
-4a
-8g
-8e
-=13
-2f}
-==
-*-
+=11	=11
+{8ff	czy
+8cc	nie
+8cc	je-
+8b-	-dzie
+=12	=12
+4a	kto
+8gL	do
+8eJ	.
+=13	=13
+2f}	nas?
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Z tamtej strony Warszawy
+!!stoi tam ciemny las,
+!!a wyjdzi, matulu,
+!!moja najmilejsza,
+!!czy nie jedzie kto do nas?
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!role-listener: Mother
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=574 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 487} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 487}
 !!!page: 487
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-19

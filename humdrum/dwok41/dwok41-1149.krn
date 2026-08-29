@@ -3,54 +3,68 @@
 !!!source: DWOK41
 !!!id: 411149
 !!!signature: 41114900000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/4
-=1
-{8cc
-8dd
-4ee
-4cc
-=2
-4ff
-4ff
-4ff}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/4	*
+=1	=1
+{8cc	A
+8dd	bie-
+4ee	-dać
+4cc	nam
+=2	=2
+4ff	Ma-
+4ff	-zu-
+4ff}	-ry,
 !!LO:LB:g=esac
-=3
-{8ee
-8gg
-4ee
-4cc
-=4
-4ff
-4ff
-4ff}
+=3	=3
+{8ee	Niem-
+8gg	-cy
+4ee	nas
+4cc	drą
+=4	=4
+4ff	ze
+4ff	sko-
+4ff}	-ry,
 !!LO:LB:g=esac
-=5
-{8ff
-8gg
-4aa
-4ff
-=6
-4dd
-4dd
-4dd}
+=5	=5
+{8ff	cze-
+8gg	-go
+4aa	daw-
+4ff	-niej
+=6	=6
+4dd	nie
+4dd	by-
+4dd}	-ł
 !!LO:LB:g=esac
-=7
-{8cc
-8dd
-4ee
-4cc
-=8
-4ff
-4ff
-4ff}
-==
-*-
+=7	=7
+{8cc	a-
+8dd	-ni
+4ee	nam
+4cc	się
+=8	=8
+4ff	nie
+4ff	sni-
+4ff}	-ło.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A biedać nam Mazury,
+!!Niemcy nas drą ze skory,
+!!czego dawniej nie był
+!!ani nam się nie sniło.
+!!@VERSE:
+!!2. Co podatek to nowy
+!!każą płacić od głowy,
+!!Bóg nam głowy darował,
+!!a Niemiec ich staksował.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=583 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 496} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 496}
 !!!page: 496
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-22
