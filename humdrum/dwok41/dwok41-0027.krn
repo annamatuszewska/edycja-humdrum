@@ -3,67 +3,79 @@
 !!!source: DWOK41
 !!!id: 41027
 !!!signature: 4102700000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16b
-16cc
-8a
-16b
-16cc#
-=2
-16dd
-16cc#
-8dd
-16a
-16g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16b	Po-
+16cc	-ja-
+8a	-dę
+16bL	ja
+16ccJ#	.
+=2	=2
+16dd	do
+16cc#	Lu-
+(8eeq	.
+8dd)	-bi-
+16aL	-cza,
+16g}J	.
 !!LO:LB:g=esac
-=3
-{16b
-16dd
-8a
-16b
-16cc#
-=4
-16a
-16cc#
-8dd
-16a
-16g}
+=3	=3
+{16b	ku-
+16dd	-pię
+8a	so-
+16bL	-bie
+16ccJ#	.
+=4	=4
+16a	ka-
+16cc#	-wał
+(8eeq	.
+8dd)	bi-
+16aL	-cza,
+16g}J	.
 !!LO:LB:g=esac
-=5
-{16b
-16cc
-8a
-16b
-16g
-=6
-16f#
-16d
-16ee
-16dd
-16a
-16g}
+=5	=5
+{16b	bę-
+16cc	-de
+8a	pę-
+16b/L	-kał,
+16gJ	.
+=6	=6
+16f#	bę-
+16d	-de
+16eeL	hu-
+16ddJ	.
+16aL	-kał
+16g}J	.
 !!LO:LB:g=esac
-=7
-{16b
-16dd
-16cc
-16a
-16b
-16g
-=8
-16f#
-16d
-8f#
-8g}
-==
-*-
+=7	=7
+{16b	i
+16dd	dziew-
+16ccL	-czy-
+16a\J	.
+16b/L	-ny
+16gJ	.
+=8	=8
+16f#	so-
+16d	-bie
+8f#	szu-
+8g}	-kał.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Pojadę ja do Lubicza,
+!!kupię sobie kawał bicza,
+!!będe pękał, będe hukał
+!!i dziewczyny sobie szukał.
+!!@@END: VERSES
+!!!role-singer: Single Man
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=118 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 41} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 41}
 !!!page: 41
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-15

@@ -3,72 +3,101 @@
 !!!source: DWOK41
 !!!id: 41052
 !!!signature: 4105200000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16g
-16cc
-8cc
-8cc
-=2
-16dd
-16b
-4dd
-=3
-16cc
-16dd
-8ee
-16cc
-16b
-=4
-8a
-4g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16g	Py-
+16cc	-tał
+8cc	się
+8cc	Jaś
+=2	=2
+16ddL	Ka-
+16bJ	.
+4dd	-si:
+=3	=3
+16cc	Gdzie,
+16dd	pan-
+8ee	-na,
+16ccL	wę-
+16bJ	.
+=4	=4
+8a	-dru-
+4g}	-jesz?
 !!LO:LB:g=esac
-=5
-{16b
-16dd
-8.cc
-16a
-=6
-16a
-16g
-8.cc
-16g
-=7
-16g
-16g
-8f
-8d
-=8
-8f
-4e}
+=5	=5
+{16b	Na
+16dd	ja-
+8.cc	-go-
+16a	-dy,
+=6	=6
+16a	ka-
+16g	-wa-
+8.cc	-li-
+16g	-rze,
+=7	=7
+16g	gdzie
+16g	wa-
+8f	-san
+8d	po-
+=8	=8
+8f	-lu-
+4e}	-jesz.
 !!LO:LB:g=esac
-=9
-{16b
-16dd
-8.cc
-16a
-=10
-16a
-16g
-8.e
-16g
-=11
-16a
-16g
-8f
-8d
-=12
-16d
-16c
-4c}
-==
-*-
+=9	=9
+{16b	Na
+16dd	ja-
+8.cc	-go-
+16a	-dy,
+=10	=10
+16a	ka-
+16g	-wa-
+8.e	-li-
+16g	-rze,
+=11	=11
+16a	gdzie
+16g	wa-
+8f	-san
+8d	po-
+=12	=12
+16dL	-lu-
+16cJ	.
+4c}	-jesz.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Pytał się Jaś Kasi:
+!!Gdzie, panna, wędrujesz?
+!!|:Na jagody, kawalirze,
+!!gdzie wasan polujesz:|.
+!!@VERSE:
+!!2. Będziema zbiérali.
+!!będziem się spieszyli,
+!!|: a jak jagód nazbiéramy,
+!!będziem się cieszyli:|.
+!!@VERSE:
+!!3. Jagód nazbiérali,
+!!zaraz mu się skryła
+!!|: pod zielony jaworeczek,
+!!listkiem się przykryła:|.
+!!@VERSE:
+!!4. A znám ci ja bory,
+!!a znám ci ja knieje,
+!!|: jednak ci ja ciebie znájde,
+!!mám w Bogu nadzieję:|.
+!!@VERSE:
+!!5. A jak ci ją znalaz.
+!!skoczył z konia zaráz,
+!!|: z konia skoczył, wycałował,
+!!pocieszył się zaraz:|.
+!!@@END: VERSES
+!!!role-singer: Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=131 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 52} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 52}
 !!!page: 52
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-16

@@ -2,71 +2,92 @@
 !!!OTL: I wzięła koszyczek, w ryneczek poszła
 !!!source: DWOK41
 !!!id: 41013
-!!!signature: 4101300002
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{8a
-8b
-8cc
-8dd
-8ee
-8g#
-=2
-8a
-8cc
-8b
-8cc
-4a}
+!!!signature: 4101300001
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+!LO:TX:a:t=Po oczepinach	!
+{8a	I
+8b	wzię-
+8cc	-ła
+8dd	ko-
+8ee	-szy-
+8g#	-czek,
+=2	=2
+8a	w_ry-
+8cc	-ne-
+8b	-czek
+8cc	po-
+4a}	-szła,
 !!LO:LB:g=esac
-=3
-{8g
-8b
-8cc
-8dd
-8ee
-8g#
-=4
-8a
-8cc
-8b
-8cc
-4a}
+=3	=3
+{8g	i
+8b	wzię-
+8cc	-ła
+8dd	ko-
+8ee	-szy-
+8g#	-czek,
+=4	=4
+8a	w_ry-
+8cc	-ne-
+8b	-czek
+8cc	po-
+4a}	-szła,
 !!LO:LB:g=esac
-=5
-{8b
-8dd
-8dd
-8ee
-8dd
-8b
-=6
-8cc
-8dd
-8ee
-8dd
-8cc
-8b}
+=5	=5
+{8b	i
+8dd	w_ry-
+8dd	-ne-
+8ee	-czku
+8dd	sta-
+8b	-ła,
+=6	=6
+8cc	pła-
+8dd	-ka-
+(<2ee	-ła,
+8dd/L	.
+8cc/	.
+8b/J)}	.
 !!LO:LB:g=esac
-=7
-{8cc
-8ee
-8dd
-8cc
-8b
-8dd
-=8
-8b
-8g#
-2a}
-==
-*-
+=7	=7
+{8cc	cóż
+8ee	ja
+8dd	te-
+8cc	-raz
+8b	bę-
+8dd	-dę
+=8	=8
+8b/	ku-
+8g#	-pa-
+2a}	-ła?
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. |:I wzięła koszyczek, w ryneczek poszła:|,
+!!i w ryneczku stała,
+!!płakała, cóż ja teraz będę kupała?
+!!@VERSE:
+!!2. Ani ja targować, ani ja kupić,
+!!przyńdzie mi się teraz pono nauczyć,
+!!przyńdzie drogie wstążki pochować,
+!!nie będzie się czasu fryzować.
+!!@VERSE:
+!!3. I przyńdzie rozkazać czeladzi,
+!!i saméj też robić nie wadzi,
+!!rękawy na łokieć zagiąwszy,
+!!roboty się swej nie wstydziwszy.
+!!@@END: VERSES
+!!!RDF**kern: <= below
+!!!role-singer: Narrator, Woman
+!!!singer-sex: Female
 !!!ONB: Po oczepinach
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=105 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 30} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 30}
 !!!page: 30
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-14

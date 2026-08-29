@@ -3,65 +3,102 @@
 !!!source: DWOK41
 !!!id: 41050
 !!!signature: 4105000002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-{16a
-32r
-8cc
-8ff#
-=1
-16ee
-16dd
-16b
-16cc
-16ee
-16cc}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Kujawiak	!
+{16a	Oj,
+32r	.
+8cc	nie
+8ff#	mój
+=2	=2
+16ee	o-
+16dd	-gró-
+16bL	-de-
+16ccJ	.
+16ee/L	-czek,
+16cc/J}	.
 !!LO:LB:g=esac
-=2
-{8a
-8cc
-8ff#
-=3
-16ee
-16dd
-16b
-16cc
-16a
-16f#}
+=3	=3
+{8a	oj,
+8cc	nie
+8ff#	mo-
+=4	=4
+16ee	-je
+16dd	to
+16bL	o-
+16ccJ	.
+16a\L	.
+16f#\J}	-ba,
 !!LO:LB:g=esac
-=4
-{16d
-16r
-8cc
-16g
-16f#
-=5
-16g
-32a
-32b
-8dd
-16a
-16f#}
+=5	=5
+{16d	za-
+16r	.
+8cc	-ro-
+16gL	-sła
+16f#J	.
+=6	=6
+16g	mi,
+32aL	za-
+32b/J	.
+8dd	-ro-
+16aL	-sła,
+16f#J}	.
 !!LO:LB:g=esac
-=6
-{8d
-8cc
-16g
-16f#
-=7
-16d
-16f#
-16g
-16f#
-8d}
-==
-*-
+=7	=7
+{8d	da,
+8cc	do
+16gL	dziew-
+16f#J	.
+=8	=8
+16d	-czy-
+16f#	-ny
+16gL	dro-
+16f#J	.
+8d}	-ga.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj, nie mój ogródeczek,
+!!oj, nie moje to oba,
+!!zarosła mi, zarosła,
+!!da, do dziewczyny droga.
+!!@VERSE:
+!!2. Oj, wytnę ja ją, wytnę,
+!!da, ostrą siekiereczką,
+!!oj, nie za ośnie ci mi,
+!!da, drobną choinecką.
+!!@VERSE:
+!!3. Oj, nie mój ogródeczek,
+!!da, bom go nie grodziła,
+!!oj, ino ziółko moje,
+!!da, bom go nasadziła.
+!!@VERSE:
+!!4. Oj, cztéry ogródeczki,
+!!da, i saméj ruteczki
+!!da, a piąty nalików1
+!!dla pańskich fornalików.
+!!@VERSE:
+!!5. A szósty i turków2,
+!!da, dla tych wiejskich szurków3,
+!!a siódmy szarańców4,
+!!dla pańskich oberwańców,
+!!a óśmy i szaleju
+!!dla ciebie, psie złodzieju.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: (1) goździków, (2) błękitny kwiat, (3) Schurken - [hultaje], (4) szary kwiat
+!!@@END:
+!!!role-singer: Lover, Mistress
+!!!singer-sex: Male, Female
 !!!ONB: Kujawiak
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=130 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 51} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 51}
 !!!page: 51
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-16

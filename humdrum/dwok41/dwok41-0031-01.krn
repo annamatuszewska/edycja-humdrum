@@ -3,59 +3,71 @@
 !!!source: DWOK41
 !!!id: 41031
 !!!signature: 4103100001
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8cc
-8dd
-8ee
-8cc
-8dd
-8cc
-=2
-8gg
-8gg
-8aa
-8gg
-8ff
-8dd}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8cc	Wy-
+8dd	-glą-
+8ee	-da-
+8cc	-ła
+8dd	o-
+8cc	-knem,
+=2	=2
+8gg	wy-
+8gg	-glą-
+8aa	-da-
+8gg	-ła
+8ff	szy-
+8dd}	-bą.
 !!LO:LB:g=esac
-=3
-{8.cc
-16dd
-8ee
-8cc
-8dd
-8b
-=4
-8g
-8g
-8g
-8g
-8ff
-8dd}
+=3	=3
+{8.cc	mo-
+16dd	-ja
+8ee	ma-
+8cc	-tu-
+8dd	-le-
+8b	-czko,
+=4	=4
+8g	dwo-
+8g	-ra-
+8g	-cy
+8g	tu
+8ff	i-
+8dd}	-dą.
 !!LO:LB:g=esac
-=5
-{8cc
-8dd
-8ee
-8cc
-8dd
-8b
-=6
-8g
-8g
-8g
-8b
-8cc
-8g}
-==
-*-
+=5	=5
+{8cc	mo-
+8dd	-ja
+8ee	ma-
+8cc	-tu-
+8dd	-le-
+8b	-czko,
+=6	=6
+8g	dwo-
+8g	-ra-
+8g	-cy
+8b	tu
+8cc	i-
+8g}\	-dą.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Wyglądała oknem, wyglądała szybą.
+!!|:moja matuleczko, dworacy tu idą:|.
+!!@VERSE:
+!!2. Moja matuleczko, dajcie mi się ubrać.
+!!|: a cobym się mogła dworaczkowi udać:|.
+!!@@END: VERSES
+!!!role-singer: Daughter
+!!!role-listener: Mother
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=120 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 43} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 43}
 !!!page: 43
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-15

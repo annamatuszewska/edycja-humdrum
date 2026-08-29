@@ -1,0 +1,78 @@
+!!!!SEGMENT: DWOK4102200002-ja_z_nia_do_pszeniczki_ja_z_nia_do_zytka.krn
+!!!OTL: Ja z nią do pszeniczki, ja z nią do żytka
+!!!source: DWOK41
+!!!id: 41022
+!!!signature: 4102200002
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*e:	*
+*M3/8	*
+=1	=1
+{4b	Ja
+8g	z_nią
+=2	=2
+16a	do
+16cc	psze-
+8ee	-ni-
+16ddL	-czki,
+16cc}J	.
+!!LO:LB:g=esac
+=3	=3
+{4b	ja
+8g	z_nią
+=4	=4
+16a	do
+32gL	ży-
+32f#J	.
+4e}	-tka
+!!LO:LB:g=esac
+=5	=5
+{16e	a
+16f#	ja
+8g	my-
+8g	-ślał,
+=6	=6
+16a	że
+16b	to
+8a	pan-
+16aL	-na,
+16f#J}	.
+!!LO:LB:g=esac
+=7	=7
+{4e	a
+8b/\	to
+=8	=8
+16a	ko-
+32gL	-bi-
+32f#J	.
+4e}	-tka.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Ja z nią do pszeniczki, 
+!!ja z nią do żytka
+!!a ja myślał, że to panna, 
+!!a to kobitka.
+!!@VERSE:
+!!2. Ja jéj wirtel żyta,
+!!ja jéj półtora,
+!!mówiłem jéj, żeby przyszła
+!!do mnie z wieczora.
+!!@VERSE:
+!!3. Ja jéj na trzewiczek,
+!!ja jéj na oba,
+!!ona idzie po ryneczku,
+!!nosi dziécie w fartuszeczku,
+!!płacze nieboga.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!singer-sex: Male
+!!!ONB: W ostatnim takcie błędne wartości zapisano poprawnie tak jak w t. czwartym
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=115 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 38} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 38}
+!!!page: 38
+!!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-15

@@ -3,63 +3,85 @@
 !!!source: DWOK41
 !!!id: 41002
 !!!signature: 4100200001
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{4a
-8cc
-=2
-16a
-16b-
-4g
-=3
-8g
-8g
-16b-
-16a
-=4
-4.f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{4a	Plon
+8cc	nie-
+=2	=2
+16aL	-siem,
+16b-J/	.
+4g	plon
+=3	=3
+8g	ze
+8g	wszy-
+16b-/L	-stkich
+16aJ	.
+=4	=4
+4.f}	stron.
 !!LO:LB:g=esac
-=5
-{16f
-16g
-8a
-8b-
-=6
-4cc
-8dd
-=7
-8cc
-16g
-16b-
-16g
-16a
-=8
-4.f}
+=5	=5
+{16f	Do-
+16g	-żę-
+8a	-liś-
+8b-	-my
+=6	=6
+4cc	ży-
+8dd	-ta
+=7	=7
+8cc	na
+16g/L	od-
+16b-J	.
+16gL	-ło-
+16aJ	.
+=8	=8
+4.f}	-gu,
 !!LO:LB:g=esac
-=9
-{16f
-16g
-8a
-8b-
-=10
-4cc
-8dd
-=11
-8cc
-16g
-16b-
-16g
-16a
-=12
-4.f}
-==
-*-
+=9	=9
+{16f	po-
+16g	-dzię-
+8a	-kuj-
+8b-	-my
+=10	=10
+4cc	Pa-
+8dd	-nu,
+=11	=11
+8cc	Pa-
+16gL	-nu
+16b-J/	.
+16gL	Bo-
+16aJ	.
+=12	=12
+4.f}	-gu.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Plon niesiem, plon
+!!ze wszystkich stron.
+!!Dożęliśmy żyta na odłogu,
+!!podziękujmy Panu, Panu Bogu.
+!!@VERSE:
+!!2. Bodaj za rok my dożali
+!!i tu na dworze tańcowali.
+!!nie żałuj, panie, swego dryganta1,
+!!a poślej choćby za morze
+!!po muzykanta,
+!!bo my tu bawić się będziem
+!!do rannej zorze.
+!!@@END: VERSES
+!!@@BEGIN:
+!! @COMMENTARY: [rączego konia]
+!!@@END:
+!!!role-singer: Group
+!!!role-listener: Complex
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=95 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 20} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 20}
 !!!page: 20
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-14

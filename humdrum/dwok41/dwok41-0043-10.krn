@@ -3,57 +3,69 @@
 !!!source: DWOK41
 !!!id: 41043
 !!!signature: 4104300010
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8.g
-16b
-16dd
-16ee
-=2
-16cc
-16b
-8g
-8a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8.g	Oj,
+(8aq	.
+16b)	nie
+16ddL	mój
+16eeJ	.
+=2	=2
+16cc	ko-
+16b	-nik,
+8g	nie
+8a}	mój,
 !!LO:LB:g=esac
-=3
-{8.g
-16b
-8dd
-=4
-16cc
-16b
-8g
-8f#}
+=3	=3
+{8.g	da,
+(8aq	.
+16b)	bom
+8dd	go
+=4	=4
+16cc	nie
+16b	kul-
+8g	-ba-
+8f#}	-czył,
 !!LO:LB:g=esac
-=5
-{8.d
-16f#
-16g
-16b
-=6
-16cc
-16b
-8dd
-8a}
+=5	=5
+{8.d	a-
+16f#	-le
+16gL	mo-
+16b/J	.
+=6	=6
+16cc	-ja
+16b	dziew-
+8dd	-czy-
+8a}	-na,
 !!LO:LB:g=esac
-=7
-{8.d
-16f#
-8g
-=8
-16cc
-16b
-8g
-8f#}
-==
-*-
+=7	=7
+{8.d	da,
+16f#	bom
+8g	ją
+=8	=8
+16cc	już
+16b	na-
+8g	-zna-
+8f#}	-czył.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oj, nie mój konik, nie mój,
+!!da, bom go nie kulbaczył,
+!!ale moja dziewczyna,
+!!da, bom ją już naznaczył.
+!!@@END: VERSES
+!!!role-singer: Man
+!!!singer-sex: Male
 !!!ONB: Część wokalna
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=124 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 47} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 47}
 !!!page: 47
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-16

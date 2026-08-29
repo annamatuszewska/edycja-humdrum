@@ -3,74 +3,88 @@
 !!!source: DWOK41
 !!!id: 14041
 !!!signature: 4104100002
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M3/8
-=
-{24f
-24a
-24b-
-8dd
-24cc
-24dd
-24ff
-=1
-16ff
-16gg
-8ee-
-16cc
-16f}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M3/8	*
+=1	=1
+!LO:TUP:b	!
+{24fL\	A
+24a\	.
+24b-J	mnie
+8dd	ma-
+24cc/L	-tka
+24dd/	.
+24ff/J	.
+=2	=2
+16ff	przy-
+16gg	-ka-
+8ee-	-za-
+16cc/L	-ła,
+16f}J	.
 !!LO:LB:g=esac
-=
-{24f
-24a
-24b-
-8dd
-24cc
-24dd
-24ff
-=2
-16ff
-16gg
-8ee-
-16cc
-16f}
+=3	=3
+!LO:TUP:b	!
+{24fL\	że-
+24a\	.
+24b-J	-bym
+8dd	chło-
+24cc/L	-pców
+24dd/	.
+24ff/J	.
+=4	=4
+16ff	nie
+16gg	ko-
+8ee-	-cha-
+16cc/L	-ła,
+16f}J	.
 !!LO:LB:g=esac
-=
-{16a
-16b-
-8dd
-24f
-24a
-24b-
-=3
-16cc
-16b-
-16a
-16g
-16g
-16f}
+=5	=5
+{16a	a
+16b-	ja
+8dd	chło-
+24fL	-pca
+24a	.
+24b-/J	.
+=6	=6
+16cc	łap
+16b-	za
+16aL	szy-
+16gJ	.
+(8aq	.
+16g)L	-ję,
+16f}J	.
 !!LO:LB:g=esac
-=
-{24f
-24a
-24b-
-8dd
-16cc
-16dd
-=4
-16ff
-16ee-
-16dd
-16cc
-16cc
-16b-}
-==
-*-
+=7	=7
+{24fL	ko-
+24aJ	.
+24b-	-chać
+8dd	bę-
+16ccL	-de,
+16ddJ	.
+=8	=8
+16ff	pó-
+16ee-	-ki
+16ddL	ży-
+16ccJ	.
+(8ddq	.
+16cc)L	-ję.
+16b-}J	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A mnie matka przykazała,
+!!żebym chłopców nie kochała,
+!!a ja chłopca łap za szyję,
+!!kochać będe, póki żyję.
+!!@@END: VERSES
+!!!role-singer: Girl
+!!!singer-sex:Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=123 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 46} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 46}
 !!!page: 46
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-16

@@ -3,81 +3,108 @@
 !!!source: DWOK41
 !!!id: 41010
 !!!signature: 4101000000
-**kern
-*clefG2
-*k[b-]
-*d:
-*M3/4
-=1
-{4dd
-4dd
-4ee
-=2
-8ff
-8ee
-4dd
-4a
-=3
-4cc
-4.cc
-8b-}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*d:	*
+*M3/4	*
+=1	=1
+{4dd	Oj,
+4dd	ko-
+4ee	-łem,
+=2	=2
+8ffL	wián-
+8eeJ	.
+(4dd	-ku,
+4a)	.
+=3	=3
+4cc	ko-
+(8ddq	.
+(4.cc)	-łem,
+8b-)}	.
 !!LO:LB:g=esac
-=4
-{4a
-8f
-8d
-4r
-=5
-4dd
-4dd
-4ee
-=6
-8ff
-8ee
-4dd
-4a
-=7
-4cc
-4.cc
-8b-}
+=4	=4
+{4a	ko-
+8fL	-łem,
+8dJ	.
+4r	.
+=5	=5
+4dd	nad
+4dd	mo-
+4ee	-im
+=6	=6
+8ffL	nis-
+8eeJ	.
+(4dd	-kim
+4a)	.
+=7	=7
+4cc	czo-
+(8ddq	.
+(4.cc)	-łem,
+8b-)}	.
 !!LO:LB:g=esac
-=8
-{4a
-8f
-8d
-4r
-=9
-8g
-8a
-4b-
-4b-
-=10
-4cc
-4cc
-4a
-=11
-4dd
-4.cc
-8b-}
+=8	=8
+{4a	czo-
+8fL	-łem,
+8dJ	.
+4r	.
+=9	=9
+8g	bom
+8a	ja
+4b-	cie-
+4b-	-bie
+=10	=10
+4cc	ko-
+(4cc	-łem
+4a)	.
+=11	=11
+4dd	wi-
+(4.c;c	-ła,
+8b-)}	.
 !!LO:LB:g=esac
-=12
-{8g
-8a
-4b-
-4dd
-=13
-4cc
-4.cc
-8b-
-=14
-4a
-8f
-8d}
-4r
-==
-*-
+=12	=12
+{8g	pó-
+8a	-kim
+4b-	jesz-
+4dd	-cze
+=13	=13
+4cc	pan-
+(8ddq	.
+(4.cc)	-ną
+8b-)	.
+=14	=14
+4a	by-
+8fL	-ła.
+8d}J	.
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1.Oj, kołem, wiánku, |:kołem:|,
+!!nad moim niskim1 |:czołem:|,
+!!bom ja ciebie kołem wiła,
+!!pókim jeszcze panną była.
+!!@VERSE:
+!!2. Już cię teraz wić nie będę,
+!!bo ja sobie panią będę,
+!!panną byłam, panią będę.
+!!już ja ciebie wić nie będę.
+!!@VERSE:
+!!3. Oj, wianku, wianku lewandowy,
+!!nie spadajże mi z mojéj głowy,
+!!bo jak prędko wianek spadnie.
+!!Wianek spadszy roskruszy się,
+!!moje serce zasmuci się.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: (1) [W ,,Zbiorze Wiadomości do Antropologii Krajowej" w zapisie kolumnowym: mojém niskiem.]
+!!@@END:
+!!!role-singer: Single Girl
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=104 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 29} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 29}
 !!!page: 29
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-14

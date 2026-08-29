@@ -3,45 +3,69 @@
 !!!source: DWOK41
 !!!id: 41020
 !!!signature: 4102000000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16g
-16b
-8dd
-8ff
-=2
-16dd
-16b
-8cc
-8ee
-=3
-8gg
-8ee
-8cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Nuta pasterska	!
+{16g	Nie
+16b	bę-
+8dd	-dę
+8ff	ja
+=2	=2
+16ddL	ro-
+16bJ	.
+8cc	-li
+8ee	siał
+=3	=3
+8gg	przy
+8ee	łą-
+(<8cc	-ce,
+8bq)}	.
 !!LO:LB:g=esac
-=4
-{16g
-16b
-8dd
-8ff
-=5
-16dd
-16b
-8g
-8b
-=6
-8cc
-8ee
-8cc}
-==
-*-
+=4	=4
+{16g	a
+16b	boć
+8dd	by
+8ff	mi
+=5	=5
+16dd	po-
+16b	-de-
+8g	-pta-
+8b	-ły
+=6	=6
+8cc	za-
+8ee	-ją-
+8cc}	-ce.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Nie będę ja roli siał przy łące,
+!!a boć by mi podeptały zające.
+!!@VERSE:
+!!2. Nie będe ja roli siał przy rowie,
+!!boćby mi ją podeptały żuráwie.
+!!@VERSE:
+!!3. Nie będe ja roli orał ani siał,
+!!jenoć będe malusieczką kołysał.
+!!@VERSE:
+!!4. Oj, zabaczysz, malusieńka, swobody,
+!!a jak pójdziesz z pieluszkami do wody.
+!!@VERSE:
+!!5. Oj, zabaczysz, malusieńka, i stroju,
+!!a jak pójdziesz z widelkami do gnoju.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!role-listener: Young Girl
+!!!singer-sex: Male
+!!!RDF**kern: <= below
 !!!ONB: Nuta pasterska
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=114 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 37} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 37}
 !!!page: 37
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-15

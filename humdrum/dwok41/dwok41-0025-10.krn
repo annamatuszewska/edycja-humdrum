@@ -3,59 +3,68 @@
 !!!source: DWOK41
 !!!id: 41025
 !!!signature: 4102500010
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8b
-8dd
-16dd
-16ee
-=2
-16cc
-16cc
-8a
-8dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8b	Za
+8dd	prze-
+16dd	-gaj-
+16ee	-ta
+=2	=2
+16cc	wro-
+16cc	-ne
+8a	ko-
+8dd}	-nie,
 !!LO:LB:g=esac
-=3
-{8b
-8dd
-16dd
-16ee
-=4
-16cc
-16cc
-8a
-8g}
+=3	=3
+{8b	po-
+8dd	-je-
+16dd	-dziem
+16ee	po
+=4	=4
+16cc	po-
+16cc	-sag
+8a	żo-
+8g}	-nie.
 !!LO:LB:g=esac
-=5
-{8b
-8g
-16f#
-16d
-=6
-16f#
-16a
-8cc
-8dd}
+=5	=5
+{8b	A
+8g	cóż
+16f#	to
+16d	za
+=6	=6
+16f#	po-
+16a	-sag
+8cc	żo-
+8dd}	-ny,
 !!LO:LB:g=esac
-=7
-{8b
-8g
-16f#
-16d
-=8
-16f#
-16a
-8f#
-8g}
-==
-*-
+=7	=7
+{8b	a
+8g	snop
+16f#	gro-
+16d	-cho-
+=8	=8
+16f#	-win
+16a	i
+8f#	sło-
+8g}	-my.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Za przegajta wrone konie, 
+!!pojedziem po posag żonie. 
+!!A cóż to za posag żony, 
+!!a snop grochowin i słomy.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!ONB: Część wokalna
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=117 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 40} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 40}
 !!!page: 40
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-15
