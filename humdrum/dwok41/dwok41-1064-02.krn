@@ -3,64 +3,73 @@
 !!!source: DWOK41
 !!!id: 411064
 !!!signature: 41106400002
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{4.ee
-8dd#
-8ee
-8b
-=2
-8b
-8dd
-8ee
-8b
-4b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+{4.ee	Ką-
+8dd#	-pa-
+8ee	-ła
+8b	się
+=2	=2
+8b	Ka-
+8dd	-sia
+8ee/L	w_mo-
+8b/J	.
+4b}	-rzu,
 !!LO:LB:g=esac
-=3
-{4.dd
-8ee
-8ff#
-8dd
-=4
-8ee
-16cc
-16b
-4a
-16g#
-8.e}
+=3	=3
+{4.dd	pa-
+8ee	-sła
+8ff#	ko-
+8dd	-ni-
+=4	=4
+8ee	-ki
+16ccL	we
+16bJ	.
+4a	zbo-
+16g#L	-żu,
+8.e}J	.
 !!LO:LB:g=esac
-=5
-{8e
-8g#
-4g#
-8b
-8dd
-=6
-8cc
-8b
-4a
-4b}
+=5	=5
+{8e\	a
+8g#	Ja-
+4g#	-sien-
+8bL	-ko
+8ddJ	.
+=6	=6
+8cc	je-
+8b	-chał
+4a	z_po-
+4b}	-la,
 !!LO:LB:g=esac
-=7
-{8e
-8g#
-4g#
-8b
-8dd
-=8
-8cc
-8b
-4a
-16g#
-8.e}
-==
-*-
+=7	=7
+{8e\	za
+8g#	za-
+4g#	-jąn
+8bL	ko-
+8ddJ	-ni-
+=8	=8
+8cc	-ki
+8b	do
+4a	dwo-
+16g#L	-ra.
+8.eJ}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Kąpała się Kasia w morzu,
+!!pasła koniki we zbożu,
+!!a Jasienko jechał z pola,
+!!zająn koniki do dwora.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
-!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=535 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 448} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 448}
-!!!page: 448
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=535 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 448-449} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 448-449}
+!!!page: 448-449
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-08

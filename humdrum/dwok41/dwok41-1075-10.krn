@@ -3,69 +3,92 @@
 !!!source: DWOK41
 !!!id: 411075
 !!!signature: 41107500010
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8b
-8dd
-4dd
-=2
-8a
-8b
-4g
-=3
-8b
-8dd
-8dd
-8a
-=4
-8cc
-8b
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8b	Je-
+8dd	-dzie
+4dd	ksiądz
+=2	=2
+8a	goś-
+8b	-cień-
+4g	-cem,
+=3	=3
+8b	dziew-
+8dd	-ka
+8dd	chu-
+8a	-sty
+=4	=4
+8ccL	pie-
+8bJ	.
+4g}	-rze,
 !!LO:LB:g=esac
-=5
-{8a
-8a
-8a
-8cc#
-=6
-8dd
-8b
-4b
-=7
-8cc
-8a
-8a
-8f#
-=8
-4g
-4g}
+=5	=5
+{8a	cis-
+8a	-nął
+8a	ksią-
+8cc#	-żki
+=6	=6
+8dd	na
+8b	wo-
+4b	-dę,
+=7	=7
+8cc	do
+8a	dziew-
+8a	-ki
+8f#	się
+=8	=8
+4g	bie-
+4g}\	-rze.
 !!LO:LB:g=esac
-=9
-{8a
-8a
-8a
-8cc#
-=10
-8dd
-8b
-4b
-=11
-8cc
-8a
-8a
-8f#
-=12
-4g
-4b}
-==
-*-
+=9	=9
+{8a	cis-
+8a	-nął
+8a	ksią-
+8cc#	-żki
+=10	=10
+8dd	na
+8b	wo-
+4b	-dę,
+=11	=11
+8cc	do
+8a	dziew-
+8a	-ki
+8f#	się
+=12	=12
+4g	bie-
+4b}/	-rze.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Jedzie ksiądz gościeńcem,
+!! dziewka chusty pierze,
+!!|:cisnął książki na wodę,
+!!do dziewki się bierze:|.
+!!@VERSE:
+!!2. A księdzu, co robis,
+!!będę krzycyć na cię.
+!!|: Cicho, dziéwcze, nie mów nic,
+!!zmówię pacierz za cię :|.
+!!@VERSE:
+!!3. Ja do księdza, do spowiedzi
+!!i do rozgrzeszenia,
+!!a on mi się sam spowieda,
+!!szuka pocieszenia.
+!!|:Uch, uch, powoli, 
+!!ksiądz kapucyn swywoli:|.
+!!@@END: VERSES
+!!!role-singer: Narrator, Girl
+!!!role-listener: Priest
+!!!singer-sex: Female
 !!!ONB: Pierwsza zwrotka
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=539 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 452} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 452}
 !!!page: 452
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-08

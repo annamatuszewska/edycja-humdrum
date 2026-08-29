@@ -3,88 +3,111 @@
 !!!source: DWOK41
 !!!id: 411075
 !!!signature: 41107500020
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8b
-8dd
-8dd
-8dd
-=2
-8b
-8dd
-8dd
-8dd
-=3
-8ee
-8cc
-8a
-8cc
-=4
-8cc
-8b
-4b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8b	Ja
+8dd	do
+8dd	księ-
+8dd	-dza,
+=2	=2
+8b	do
+8dd	spo-
+8dd	-wie-
+8dd	-dzi
+=3	=3
+8ee	i
+8cc	do
+8a	roz-
+8cc	-grze-
+=4	=4
+8ccL	-sze-
+8bJ	.
+4b}	-nia,
 !!LO:LB:g=esac
-=5
-{8b
-8dd
-8dd
-8dd
-=6
-8b
-8dd
-8dd
-8dd
-=7
-8ee
-8cc
-8a
-8f#
-=8
-4g
-4g}
+=5	=5
+{8b	a
+8dd	on
+8dd	mi
+8dd	się
+=6	=6
+8b	sam
+8dd	spo-
+8dd	-wie-
+8dd	-da,
+=7	=7
+8ee	szu-
+8cc	-ka
+8a	po-
+8f#	-cie-
+=8	=8
+4g	-sze-
+4g}	-nia.
 !!LO:LB:g=esac
-=9
-{4gg
-4gg
-=10
-8a
-8a
-4a
-=11
-8cc
-8cc
-8b
-8a
-=12
-8g
-8b
-4dd}
+=9	=9
+{4gg	Uch,
+4gg	uch,
+=10	=10
+8a	po-
+8a	-wo-
+4a	-li,
+=11	=11
+8cc	księdz
+8cc	ka-
+8b	-pu-
+8a	-cyn
+=12	=12
+8g	swy-
+8b	-wo-
+4dd}	-li,
 !!LO:LB:g=esac
-=13
-{4gg
-4gg
-=14
-8a
-8a
-4a
-=15
-8cc
-8cc
-8b
-8a
-=16
-8g
-8g
-4g}
-==
-*-
+=13	=13
+{4gg	uch,
+4gg	uch,
+=14	=14
+8a	po-
+8a	-wo-
+4a	-li,
+=15	=15
+8cc	ksiądz
+8cc	ka-
+8b	-pu-
+8a	-cyn
+=16	=16
+8g	swa-
+8g	-wo-
+4g}	-li.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Jedzie ksiądz gościeńcem,
+!! dziewka chusty pierze,
+!!|:cisnął książki na wodę,
+!!do dziewki się bierze:|.
+!!@VERSE:
+!!2. A księdzu, co robis,
+!!będę krzycyć na cię.
+!!|: Cicho, dziéwcze, nie mów nic,
+!!zmówię pacierz za cię :|.
+!!@VERSE:
+!!3. Ja do księdza, do spowiedzi
+!!i do rozgrzeszenia,
+!!a on mi się sam spowieda,
+!!szuka pocieszenia.
+!!|:Uch, uch, powoli, 
+!!ksiądz kapucyn swywoli:|.
+!!@@END: VERSES
+!!!role-singer: Narrator, Girl
+!!!role-listener: Priest
+!!!singer-sex: Female
 !!!ONB: Trzecia zwrotka
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=539 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 452-453} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 452-453}
 !!!page: 452-453
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-08

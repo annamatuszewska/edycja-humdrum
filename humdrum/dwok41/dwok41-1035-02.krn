@@ -1,54 +1,63 @@
-!!!!SEGMENT: DWOK41103500002-z_wysokiego_mostu.krn
+!!!!SEGMENT: DWOK41103500001-z_wysokiego_mostu.krn
 !!!OTL: Z wysokiego mostu
 !!!source: DWOK41
 !!!id: 411035
-!!!signature: 41103500002
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16a
-16g#
-16a
-16b
-16cc
-16b
-=2
-8a
-4g#
-=3
-16a
-16cc
-8ee
-8ee
-=4
-8dd
-4cc}
+!!!signature: 41103500001
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{16a	Z_wy-
+16g#	-so-
+16aL	-kie-
+16b/J	.
+16ccL	-go
+16bJ	.
+=2	=2
+8a	mo-
+4g#	-stu
+=3	=3
+16a	ko-
+16cc	-nie
+8ee	wo-
+8ee	-dę
+=4	=4
+8dd	pi-
+4cc}	-ją,
 !!LO:LB:g=esac
-=5
-{16cc
-16b
-16a
-16b
-16cc
-16b
-=6
-8a
-4g#
-=7
-16a
-16cc
-8ee
-8b
-=8
-8a
-4a}
-==
-*-
+=5	=5
+{16cc	oj,
+16b	gdzie
+16a	ła-
+16b	-dne
+16ccL	dziew-
+16bJ	.
+=6	=6
+8a	-cy-
+4g#	-ny,
+=7	=7
+16a	tam
+16cc	się
+8ee	chło-
+8b/	-pcy
+=8	=8
+8a	bi-
+4a}	-ją.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Z wysokiego mostu
+!!konie wodę piją,
+!!oj, gdzie ładne dziewcyny,
+!!tam się chłopcy biją.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=522 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 435} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 435}
 !!!page: 435
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-07

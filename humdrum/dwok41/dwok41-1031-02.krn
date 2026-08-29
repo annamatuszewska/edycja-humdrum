@@ -1,72 +1,122 @@
 !!!!SEGMENT: DWOK41103100002-matulu_matulu_przedaj_te_boczule.krn
 !!!OTL: Matulu, Matulu przedaj te boczulę
 !!!source: DWOK41
-!!!id: 411031
+!!!id: 41103
 !!!signature: 41103100002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8.dd
-16cc
-4b
-=2
-8.dd
-16cc
-4b
-=3
-8.gg
-16ff#
-16ee
-16dd
-16cc
-16b
-=4
-8dd
-4.cc}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8.dd	Ma-
+16cc	-tu-
+4b	-lu,
+=2	=2
+8.dd	ma-
+16cc	-tu-
+4b	-lu,
+=3	=3
+8.gg	prze-
+16ff#	-daj
+16eeL	te
+16ddJ	.
+16ccL	bo-
+16bJ	.
+=4	=4
+8dd	-czu-
+(8ddq	.
+4.cc)}	-lę,
 !!LO:LB:g=esac
-=5
-{16a
-16cc
-8cc
-4a
-=6
-16a
-16cc
-8cc
-4a
-=7
-8ee
-8ee
-8dd
-8f#
-=8
-8a
-4.g}
+=5	=5
+{16a/L	bo
+16cc/	.
+8cc/J	ja
+4a	dla
+=6	=6
+{16a/L	bo-
+16cc/	.
+8cc/J	-czu-
+4a	-li
+=7	=7
+8ee	w_do-
+8ee	-mu
+8dd	nie
+8f#	no-
+=8	=8
+8a	-cu-
+4.g}	-ję.
 !!LO:LB:g=esac
-=9
-{16dd
-16dd
-8dd
-8ee
-8ff#
-=10
-8gg
-4.b
-=11
-8ee
-8dd
-8cc
-8f#
-=12
-8a
-4.g}
-==
-*-
+=9	=9
+{16dd/L	.
+16dd	.
+8ddJ	.	
+8eeL	.
+8ff#J	.
+=10	=10
+8gg	.
+4.b	.
+=11	=11
+8eeL	.
+8dd	.
+8cc	.
+8f#\J	.
+=12	=12
+8a	.
+4.g}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Matulu, matulu,
+!!przedaj te boczulę,
+!!bo ja dla boczuli
+!!w domu nie nocuję.
+!!@VERSE:
+!!2. Pięknaś, pani, piękna,
+!!piekne twoje wnioski,
+!!żeniłbym się z tobą,
+!!gdybyś miała wioski.
+!!@VERSE:
+!!3. Pięknaś, pani, piękna
+!!i twe ocy siwe,
+!!lecz moje przy twoich
+!!byłyby szczęśliwe.
+!!@VERSE:
+!!4. Siadam na konika,
+!!już nóżka w strzemieniu,
+!!pamiętaj, dziewczyno,
+!!o mym i[mieniu].
+!!@VERSE:
+!!5. U mego konika
+!!półtory podkowy,
+!!nie chciały mnie panny,
+!!pojadę do wdowy.
+!!@VERSE:
+!!6. Siadam na konika,
+!!rączkę mi dawała,
+!!nie odjeżdżaj, Jasiu,
+!!bo będę płakała.
+!!@VERSE:
+!!7. A pod moją klacą
+!!podkowki kołacą,
+!!nie chciały mnie panny,
+!!teraz o mnie płacą.
+!!@VERSE:
+!!8. Wojskowego kochać
+!!to dla jednej cnoty.
+!!że się dobrze bije
+!!i nosi krzyz złoty.
+!!@VERSE:
+!!9. Wojskowy mi we śnie,
+!!wojskowy na jawie,
+!!wojskowy najmilszy
+!!w każdziuchnej zabawie.
+!!@@END: VERSES
+!!!role-singer: Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=520 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 433} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 433}
 !!!page: 433
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-07

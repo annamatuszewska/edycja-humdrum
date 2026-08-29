@@ -3,74 +3,88 @@
 !!!source: DWOK41
 !!!id: 411037
 !!!signature: 41103700000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16b
-8dd
-8ee
-=2
-16cc
-16a
-8cc
-8ee
-=3
-8dd
-8cc
-8b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Wstań-
+16b	-ze
+8dd	ra-
+8ee	-no,
+=2	=2
+16cc	Ku-
+16a	-ja-
+8cc	-wian-
+8ee	-ko,
+=3	=3
+8dd	wstań
+8cc	ra-
+8b}	-no,
 !!LO:LB:g=esac
-=4
-{16g
-16a
-8b
-8cc
-=5
-16b
-16a
-8b
-8g
-=6
-8a
-8g
-8f#}
+=4	=4
+{16g	po-
+16a	-je-
+8b	-dzie-
+8cc	-my
+=5	=5
+16b	na
+16a	Ku-
+8b	-ja-
+8g	-wy
+=6	=6
+8a	po
+8g	sia-
+8f#}	-no,
 !!LO:LB:g=esac
-=7
-{16g
-16a
-8b
-8cc
-=8
-16b
-16a
-8b
-8g
-=9
-8a
-8dd
-8a}
+=7	=7
+{16g	nie
+16a	chcia-
+8b	-ło
+8cc	się
+=8	=8
+16b	Ku-
+16a	-ja-
+8b	-wian-
+8g	-ce
+=9	=9
+8a	ra-
+8dd	-no
+8a}	wstać,
 !!LO:LB:g=esac
-=10
-{16g
-16a
-8b
-8cc
-=11
-16b
-16a
-8b
-8g
-=12
-8a
-8g
-8f#}
-==
-*-
+=10	=10
+{16g	wo-
+16a	-la-
+8b	-ła
+8cc	się
+=11	=11
+16b	w_lu-
+16a	-ste-
+8b	-re-
+8g	-cku
+=12	=12
+8a	fry-
+8g	-zo-
+8f#}	-wać.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Wstańze rano, Kujawianko, wstań rano,
+!!pojedziemy na Kujawy po siano, 
+!!nie chciało się Kujawiance rano wstać,
+!!wolała się w lusterecku fryzować.
+!!@VERSE:
+!!Oj, ustanie fryz[owanie], ustanie,
+!![da, kiedy się w moje rącki] dostanie,
+!!oj, ustanie, moj Jasieńku, albo nie,
+!!twoje rącki spracowane, moje nie.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=523 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 436} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 436}
 !!!page: 436
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-07

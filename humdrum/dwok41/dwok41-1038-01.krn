@@ -3,49 +3,65 @@
 !!!source: DWOK41
 !!!id: 411038
 !!!signature: 41103800001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8dd
-8dd
-8ee
-=2
-16b
-16a
-4b
-=3
-8dd
-8gg
-8ee
-=4
-16b
-16a
-4b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8dd	La-
+8dd	-taj,
+8ee	pta-
+=2	=2
+16b	-sku,
+16a	la-
+4b	-taj,
+=3	=3
+8dd	na-
+8gg	-la-
+8ee	-tas
+=4	=4
+16b	się,
+16a	pa-
+4b}	-dnies,
 !!LO:LB:g=esac
-=5
-{8g
-8b
-8a
-=6
-16g
-16b
-8cc
-8a
-=7
-8b
-8a
-8g
-=8
-16f
-16g
-4e}
-==
-*-
+=5	=5
+{8g\	oj,
+8b	i
+8a\	tak
+=6	=6
+16g	ty,
+16b	hul-
+8cc	-ta-
+8a\	-ju,
+=7	=7
+8b/	na
+8a	moj
+8g	wia-
+=8	=8
+16f	-nek
+16g	pra-
+4e}	-gnies.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Lataj, ptasku, lataj,
+!!nalatas się, padnies,
+!!oj, i tak ty, hultaju,
+!!na moj wianek pragnies.
+!!@VERSE:
+!!2. Pragnies, hultaj, pragnies,
+!!ale nie upragnies,
+!!jaz moij matuli
+!!u nózek upadnies.
+!!@@END: VERSES
+!!!role-singer: Single Girl
+!!!role-listener: Lover
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=524 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 437} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 437}
 !!!page: 437
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-07

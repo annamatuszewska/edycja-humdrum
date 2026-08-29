@@ -3,56 +3,73 @@
 !!!source: DWOK41
 !!!id: 411056
 !!!signature: 41105600000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16dd
-16b
-8dd
-16dd
-16cc#
-=2
-8a
-8cc#
-8dd
-=3
-16dd
-16b
-8dd
-16dd
-16cc#
-=4
-8a
-8f#
-8d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16dd	Ej,
+16b	da,
+8dd	mo-
+16ddL	-ja
+16cc#iJ	.
+=2	=2
+8a	dziew-
+8cc#i	-cy-
+8dd	-no,
+=3	=3
+16ddL	da,
+16bJ	.
+8dd	mam
+16ddL	ci
+16cc#iJ	.
+=4	=4
+8a	się
+8f#	spy-
+8d}	-tać,
 !!LO:LB:g=esac
-=5
-{16d
-16f#
-8a
-16cc
-16a
-=6
-8g
-8g
-8b
-=7
-16d
-16f#
-8a
-16cc
-16a
-=8
-8g
-8g
-8d}
-==
-*-
+=5	=5
+{16d	da,
+16f#	cy
+8a	mas
+16ccL	po-
+16a\J	.
+=6	=6
+8g	-du-
+8g	-se-
+8b	-cki,
+=7	=7
+16d	da,
+16f#	cy
+8a	mas
+16ccL	na
+16a\J	.
+=8	=8
+8g	cém
+8g	sy-
+8d}	-piać?
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Ej, da, moja dziewcyno,
+!!da, mam ci się spytać,
+!!da, cy mas podusecki,
+!!da, cy mas na cémsypiać?
+!!@VERSE:
+!!2. Ej, da, moj Jasieniecku,
+!!da, powiem ci po prostu,
+!!da, mam ja podusecki,
+!!da, z kolącego ostu.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Girl
+!!!singer-sex: Male
+!!!RDF**kern: i = editorial accidental
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=531 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 444} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 444}
 !!!page: 444
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-08

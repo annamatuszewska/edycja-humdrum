@@ -3,54 +3,91 @@
 !!!source: DWOK41
 !!!id: 411043
 !!!signature: 41104300000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8dd
-8ee
-8dd
-=2
-16cc
-16a
-8g
-16b
-16cc
-=3
-8dd
-8ee
-8dd
-=4
-16cc
-16a
-8g
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8dd	Ej,
+8ee	spi-
+8dd	-waj-
+=2	=2
+16cc	-ta,
+16a	dziew-
+8g	-cy-
+16bL	-ny,
+16ccJ	.
+=3	=3
+8dd	ej,
+8ee	bo
+8dd	ja
+=4	=4
+16cc	już
+16a	nie
+8g	bę-
+8g}	-dę,
 !!LO:LB:g=esac
-=5
-{8f#
-8a
-8cc
-=6
-16cc
-16a
-8g
-16b
-16g
-=7
-8f#
-8a
-8cc
-=8
-16cc
-16a
-8g
-8g}
-==
-*-
+=5	=5
+{8f#	ej,
+8a	bo
+8cc	ja
+=6	=6
+(8ddq	.
+16cc)	u
+16a	Ja-
+8g	-sien-
+16b/L	-ka,
+16gJ	.
+=7	=7
+8f#	da,
+8a	gos-
+8cc	-po-
+=8	=8
+(8ddq	.
+16cc)	-dy-
+16a	-nią
+8g	bę-
+8g}	-dę.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Ej, spiwajta, dziewcyny,
+!!ej, bo ja już nie będę,
+!!ej, bo ja u Jasienka,
+!!da, gospodynią będę.
+!!@VERSE:
+!!2. Ej, nie dlatego spiewam,
+!!aby ludzie słyseli,
+!!ej, smutne moje serce,
+!!da, niech się rozweseli.
+!!@VERSE:
+!!3. Dziewcyny, dziewcyny,
+!!zebyśta wiedziały,
+!!jak grosika ni ma,
+!!da, jaki ja nieśmiały.
+!!@VERSE:
+!!4. Ej, na boru ptaskowie,
+!!oj, nie sieją, nie orzą,
+!!ej, dlatego swych dziatek,
+!!da, głodem nie pomorzą.
+!!@VERSE:
+!!5. Dziewcyny, dziewcyny,
+!!zły obycaj mata,
+!!jak jednę pocęstuje,
+!!wsystkie się gniewata.
+!!@VERSE:
+!!6. Ej, chodziła, chodziła,
+!!da, po boru, po lesie,
+!!ej, nalazła dzieciątko,
+!!da, do domu je niesie.
+!!@@END: VERSES
+!!!role-singer: Women, Narrator
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=526 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 439} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 439}
 !!!page: 439
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-08

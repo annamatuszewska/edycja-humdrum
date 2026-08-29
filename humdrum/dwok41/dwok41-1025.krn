@@ -3,51 +3,67 @@
 !!!source: DWOK41
 !!!id: 411025
 !!!signature: 41102500000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8b
-8cc
-4dd
-4dd
-=2
-8dd
-8gg
-2gg
-=3
-8b
-8cc
-4dd
-4ee
-=4
-8dd
-8cc
-2cc}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8b	Szła
+8cc	Ka-
+4dd	-sin-
+4dd	-ka
+=2	=2
+8ddL	przez
+8ggJ	.
+2gg	wieś,
+=3	=3
+8b	gna-
+8cc	-ła
+4dd	by-
+4ee	-de-
+=4	=4
+8ddL	-łe-
+8ccJ	.
+2cc}	-czko,
 !!LO:LB:g=esac
-=5
-{8a
-8b
-4cc
-4b
-=6
-4cc
-2aa
-=7
-8ff#
-8dd
-4ff#
-4aa
-=8
-8aa
-8gg
-2gg}
-==
-*-
+=5	=5
+{8a	zas-
+8b	-ta-
+4cc	-wiał
+4b	ci
+=6	=6
+4cc	Ja-
+2aa	-sio
+=7	=7
+8ff#	na
+8dd	nie
+4ff#	si-
+4aa	-de-
+=8	=8
+8aaL	-łe-
+8ggJ	.
+2gg}	-czko.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Szła Kasinka przez wieś,
+!!gnała bydełeczko,
+!!zastawiał ci Jasio
+!!na nie sidełeczko.
+!!@VERSE:
+!!2. Nie ułowisz ty mnie
+!!żadnym sidełeczkiem,
+!!jak mnie [nie namówis
+!!łagodnem słóweckiem].
+!!@@END: VERSES
+!!!role-singer: Narrator, Single Girl
+!!!role-listener: Lover
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=516 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 429} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 429}
 !!!page: 429
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-06

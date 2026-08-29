@@ -3,48 +3,63 @@
 !!!source: DWOK41
 !!!id: 411060
 !!!signature: 41106000000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16a
-16cc
-4ee
-=2
-8dd
-8b
-8g
-=3
-16a
-16cc
-4a
-=4
-8b
-8g
-8d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16a	Ze-
+16cc	-bym
+4ee	był
+=2	=2
+8dd	ma-
+8b	-la-
+8g	-rzem,
+=3	=3
+16a	to
+16cc	bym
+4a	cię
+=4	=4
+8b	ma-
+8g	-lo-
+8d}	-wał,
 !!LO:LB:g=esac
-=5
-{16a
-16cc
-4a
-=6
-8b
-8dd
-8b
-=7
-16a
-16cc
-4a
-=8
-8b
-8g
-8g}
-==
-*-
+=5	=5
+{16a	co
+16cc	bym
+4a	na
+=6	=6
+8b	cię
+8dd	spój-
+8bm	-rzał,
+=7	=7
+16a	to
+16cc	bym
+4a	cię
+=8	=8
+8b	ca-
+8g	-ło-
+8g}	-wał.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Zebym był malarzem,
+!!to bym cię malował,
+!!co bym na cię spójrzał,
+!!to bym cię całował.
+!!@VERSE:
+!!2. Malarz ci ja, malarz,
+!!modro ja maluję,
+!!chtóra panna ładna,
+!!to ją pocałuję.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=533 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 446} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 446}
 !!!page: 446
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-08

@@ -3,58 +3,69 @@
 !!!source: DWOK41
 !!!id: 411033
 !!!signature: 41103300000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8cc
-8cc
-4dd
-4dd
-=2
-8ff
-8aa
-4gg
-4ff}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8cc	Czté-
+8cc	-ry
+4dd	o
+4dd	da-
+=2	=2
+8ff	-na,
+8aa	o
+4gg	da-
+4ff}	-na,
 !!LO:LB:g=esac
-=3
-{8ee
-8ee
-4dd
-4cc
-=4
-8b
-8dd
-4gg
-4g}
+=3	=3
+{8ee	czte-
+8ee	-ry
+4dd	o
+4cc	da-
+=4	=4
+8b	-na,
+8dd	o
+4gg	da-
+4g}	-na,
 !!LO:LB:g=esac
-=5
-{8cc
-8cc
-4dd
-4dd
-=6
-8ff
-8aa
-4gg
-4ff}
+=5	=5
+{8cc	jak
+8cc	mi
+4dd	nie
+4dd	dasz
+=6	=6
+8ff	gę-
+8aa	-bu-
+4gg	-len-
+4ff}	-ki,
 !!LO:LB:g=esac
-=7
-{8ee
-8ee
-4dd
-4cc
-=8
-8b
-8dd
-4cc
-4cc}
-==
-*-
+=7	=7
+{8ee	pój-
+8ee	-dę
+4dd	do
+4cc	pa-
+=8	=8
+8b	-na,
+8dd	do
+4cc	pa-
+4cc}	-na.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Cztéry o dana, o dana,
+!!cztery o dana, o dana,
+!!jak mi nie dasz gębulenki,
+!!pójdę do pana, do pana.
+!!@@END: VERSES
+!!!role-singer: Mistress
+!!!role-listener: Lover
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=522 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 435} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 435}
 !!!page: 435
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-07

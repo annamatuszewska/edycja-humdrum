@@ -3,57 +3,69 @@
 !!!source: DWOK41
 !!!id: 411066
 !!!signature: 41106600000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{8cc
-8ee
-4ee
-4ee
-=2
-8ee
-8ee
-4dd
-4b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+{8cc	A
+8ee	gdzie-
+4ee	-żeś
+4ee	to,
+=2	=2
+8ee	có-
+8ee	-ruś,
+4dd	by-
+4b}	-ła,
 !!LO:LB:g=esac
-=3
-{8dd
-8dd
-4b
-4dd
-=4
-8ee
-8ee
-4cc
-4a}
+=3	=3
+{8dd	[coś
+8dd	trze-
+4b	-wi-
+4dd	-ki
+=4	=4
+8ee	u-
+8ee	-ro-
+4cc	-si-
+4a}	-ła]?
 !!LO:LB:g=esac
-=5
-{4a
-4b
-8g#
-8e
-=6
-8g
-8b
-4dd
-4cc}
+=5	=5
+{4a	U
+4b	lnum
+8g#i	by-
+8e	-ła,
+=6	=6
+8g	ma-
+8b	-mu-
+(4dd	-lu,
+4cc)}	.
 !!LO:LB:g=esac
-=7
-{4a
-4b
-8g
-8e
-=8
-8g
-8b
-2a}
-==
-*-
+=7	=7
+{4a	u
+4b	lnum
+8g	[by-
+8e	-ła,
+=8	=8
+8g	ma-
+8b	-mu-
+2a}	-lu].
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A gdzieżeś to, córuś, była,
+!![coś trzewiki urosiła]?
+!!U lnum była, mamulu,
+!!u lnum [była, mamulu].
+!!@@END: VERSES
+!!!role-singer: Mother, Daughter
+!!!role-listener: Daughter, Mother
+!!!singer-sex: Female
+!!!RDF**kern: i = editorial accidental
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=536 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 449} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 449}
 !!!page: 449
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-08

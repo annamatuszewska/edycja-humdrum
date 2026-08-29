@@ -3,48 +3,64 @@
 !!!source: DWOK41
 !!!id: 411041
 !!!signature: 41104100000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M2/4
-=1
-{8ff
-8ff
-8dd
-8dd
-=2
-4cc
-4f
-=3
-8b-
-8b-
-8g
-8g
-=4
-4f
-4f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M2/4	*
+=1	=1
+{8ff	Od
+8ff	sa-
+8dd	-mej
+8dd	War-
+=2	=2
+4cc	-sa-
+4f	-wy
+=3	=3
+8b-	to-
+8b-	-po-
+8g	-li-
+8g	-nę
+=4	=4
+4f	sa-
+4f}	-dzą,
 !!LO:LB:g=esac
-=5
-{8a
-8b-
-8dd
-8ff
-=6
-4cc
-4f
-=7
-8b-
-8b-
-8g
-8g
-=8
-4f
-4f}
-==
-*-
+=5	=5
+{8a	jes-
+8b-	-cem
+8dd	nie
+8ff	u-
+=6	=6
+4cc	-ro-
+4f	-sła,
+=7	=7
+8b-	juz
+8b-	się
+8g	o
+8g	mnie
+=8	=8
+4f	wa-
+4f}	-dzą.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Od samej Warsawy
+!!topolinę sadzą,
+!!jescem nie urosła,
+!!juz się o mnie wadzą.
+!!@VERSE:
+!!2. Nie wadźcie się, ludzie,
+!!dla Boga świantego,
+!!nie pojdę za wsystkich,
+!!tylo za jednego.
+!!@@END: VERSES
+!!!role-singer: Single Girl
+!!!role-listener: Group
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=525 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 438} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 438}
 !!!page: 438
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-07

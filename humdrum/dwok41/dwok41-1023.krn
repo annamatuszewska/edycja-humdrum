@@ -3,58 +3,68 @@
 !!!source: DWOK41
 !!!id: 411023
 !!!signature: 41102300000
-**kern
-*clefG2
-*k[f#c#g#d#]
-*E:
-*M3/4
-=1
-{8f#
-8a
-4g#
-4b
-=2
-8f#
-8a
-4g#
-4b}
+**kern	**text
+*clefG2	*
+*k[f#c#g#d#]	*
+*E:	*
+*M3/4	*
+=1	=1
+{8f#	A
+8a	ja
+4g#	bie-
+4b	-dny
+=2	=2
+8f#	pa-
+8a	-ro-
+4g#	-be-
+4b}	-czek,
 !!LO:LB:g=esac
-=3
-{8f#
-8a
-4g#
-4b
-=4
-8a
-8f#
-4d#
-4e}
+=3	=3
+{8f#	nie
+8a	mam
+4g#	szczęś-
+4b	-cia
+=4	=4
+8a	do
+8f#	dzie-
+4d#	-we-
+4e}	-czek,
 !!LO:LB:g=esac
-=5
-{8f#
-8f#
-4a
-4cc#
-=6
-8b
-8b
-4g#
-4e}
+=5	=5
+{8f#	a-
+8f#	-le
+4a	o-
+4cc#	-ne
+=6	=6
+8b	szczęś-
+8b	-cie
+4g#	ma-
+4e}	-ją,
 !!LO:LB:g=esac
-=7
-{8f#
-8a
-4g#
-4b
-=8
-8a
-8f#
-4d#
-4e}
-==
-*-
+=7	=7
+{8f#	sa-
+8a	-me
+4g#	do
+4b	mnie
+=8	=8
+8a	przy-
+8f#	-bie-
+4d#	-ga-
+4e}	-ją.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A ja biedny parobeczek,
+!!nie mam szczęścia do dzieweczek,
+!!ale one szczęście mają,
+!!same do mnie przybiegają.
+!!@@END: VERSES
+!!!role-singer: Single Man
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=516 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 429} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 429}
 !!!page: 429
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-06
