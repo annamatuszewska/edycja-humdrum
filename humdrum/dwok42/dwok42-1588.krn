@@ -3,44 +3,119 @@
 !!!source: DWOK42
 !!!id: 421588
 !!!signature: 42158800000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M4/4
-=1
-{4dd
-8.cc
-16a
-4g
-4e
-=2
-8.g
-16g
-8.b
-16g
-4e
-4d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M4/4	*
+=1	=1
+{4dd	I-
+8.cc	-dąc
+16a	ja
+4g	w_po-
+4e	-le,
+=2	=2
+8.g	roz-
+16g	-my-
+8.b	-śla-
+16g	-jąc
+4e	so-
+4d}	-bie,
 !!LO:LB:g=esac
-=3
-{8g
-8a
-8.b
-16b
-4a
-4ee
-=4
-8.dd
-16dd
-8.cc
-16a
-4g
-4g}
-==
-*-
+=3	=3
+{8g	ze
+8a	juz
+8.b	mo-
+16b	-je
+4a	ser-
+4ee	-ce
+=4	=4
+8.dd	zo-
+16dd	-sta-
+8.cc	-ło
+16a\	w_za-
+4g\	-łoś-
+4g\}	-ci.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Idąc ja w pole,
+!!rozmyślając sobie,
+!!ze juz moje serce
+!!zostało w załości.
+!!@VERSE:
+!!Ach, serce, serce,
+!!powiédz mi sekretnie,
+!!wydaj się z niewoli,
+!!o co serce boli.
+!!@VERSE:
+!!Nic mnie nie boli,
+!!nic mnie nie przycynia,
+!!gdzie ta przysięga,
+!!co przed nami była.
+!!@VERSE:
+!!Gdzie ta przysięga
+!!i ten waler dawny,
+!!ze przódy kochankiem,
+!!a teraz tyranem.
+!!@VERSE:
+!!Siądę ja w oknie
+!!i spojrze na drogę,
+!!westchnę, zapłaczę,
+!!udam się do Boga.
+!!@VERSE:
+!!Zebym ja miała
+!!ptaska lecącego,
+!!to bym go posłała
+!!do kochanka swego.
+!!@VERSE:
+!!Ptasecek przylata
+!!i przynosi pierzcień,
+!!ze juz mój najmilsy
+!!już sie z inną pieści.
+!!@VERSE:
+!!A niech sie pieści,
+!!bo ma cystą wolę,
+!!skarze jego Pan Bóg
+!!na dusy, na ciele.
+!!@VERSE:
+!!Skarze go Pan Bóg
+!!piorunem ognistym
+!!albo i powietrzem,
+!!i deszczem rzęsistym.
+!!@VERSE:
+!!Skarze jego Pan Bóg
+!!z natury sumienia,
+!!kto się w kim zakocha,
+!!a później odmienia.
+!!@VERSE:
+!!Jechałem koło cię,
+!!stał jawór zielony,
+!!tyś gałązki rwała,
+!!a ja był wzgardzony.
+!!@VERSE:
+!!Kiedy się zejdą
+!!chmury z gałęziami,
+!!to wtencas nastanie
+!!miłość między nami.
+!!@VERSE:
+!!O, widzis, juz nisko
+!!te chmury ogromne,
+!!już ci ja o tobie
+!!nigdy nie zapomnę.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: 1 [walor]
+!!1 lub: ogniem czystym
+!!@@END:
 !!!ONB: wariant w takcie 4: 5_.56_.43__1__
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=597 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 588} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 588}
 !!!page: 588
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

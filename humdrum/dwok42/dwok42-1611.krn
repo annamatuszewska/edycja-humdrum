@@ -3,65 +3,95 @@
 !!!source: DWOK42
 !!!id: 421611
 !!!signature: 42161100000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M6/8
-=1
-{4b
-8g
-4g
-8g
-=2
-8cc
-8cc
-8b
-8cc
-8b
-8a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M6/8	*
+=1	=1
+{4b	Mi-
+8g	-łoś-
+4g	-ci,
+8g	o
+=2	=2
+8cc	nie-
+8ccL	-bios
+8bJ	da-
+8ccL	.
+8bJ	-rze,
+8a}	.
 !!LO:LB:g=esac
-=3
-{8a
-8g
-8f#
-4f#
-8f#
-=4
-4dd
-8dd
-8dd
-8cc
-8a
-=5
-8g
-8b
-8dd
-4gg
-8ff#}
+=3	=3
+{8aL	jak-
+8gJ	.
+8f#	-że
+4f#	cie-
+8f#	-bie
+=4	=4
+4dd	czcić
+8dd	na-
+8ddL	-le-
+8ccJ	.
+8a	-ży,
+=5	=5
+8g	niech-
+8b	-że
+8dd	ci
+4gg	z_mir-
+8ff#}	-tą
 !!LO:LB:g=esac
-=6
-{8gg
-8ff#
-8ee
-4ee
-8ee
-=7
-8a
-8b
-8cc
-4ee
-8dd
-=8
-8dd
-8cc
-8a
-4g
-8g}
-==
-*-
+=6	=6
+{8ggL	oł-
+8ff#	.
+8eeJ	.
+4ee	-ta-
+8ee	-rze
+=7	=7
+8aL	wy-
+8b	.
+8ccJ/	.
+4ee	-sta-
+8dd	-wi
+=8	=8
+8dd	każ-
+8cc	-den
+8a	z_mło-
+4g	-dzie-
+8g}	-ży.
+==	==
+*-	*-
+!!!role-listener: Love
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Miłości, o niebios darze,
+!!jakże ciebie czcić należy,
+!!niechże ci z mirtą ołtarze
+!!wystawi każden z młodzieży.
+!!@VERSE:
+!!Dla ciebie gardzę skarbami,
+!!za próżną sławą nie gonię,
+!!żadna mnie trudność nie mami
+!!na lubej kochanki łonie.
+!!@VERSE:
+!!Szczęście jak zwodnicza mara
+!!słabego ludzi człowieka:
+!!im sie więcej o nie stara,
+!!tem bardziej przed nim ucieka.
+!!@VERSE:
+!!Nikt go nie zna, każdy szuka,
+!!każdy go styka z zapałem,
+!!ale szczęśliwość prawdziwa
+!!jest tylko cnoty udziałem.
+!!@VERSE:
+!!Gdy żeglarzem burza miota
+!!nadzieję dajesz mu, Boże,
+!!lecz gdy mnie gnębi zgryzota,
+!!czyż przyszłość pocieszyć może.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=137 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 128} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 128}
 !!!page: 128
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

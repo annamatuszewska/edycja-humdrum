@@ -3,59 +3,76 @@
 !!!source: DWOK42
 !!!id: 421485
 !!!signature: 42148500000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8g
-8g
-4b
-4cc
-=2
-8cc
-8g
-4ee
-8cc
-8b
-=3
-8g
-8g
-4b
-4cc
-=4
-8cc
-8g
-4ee
-8cc
-8b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8g	Ku-
+8g	-ja-
+4b	-wia-
+4cc	-czek
+=2	=2
+8cc	ja,
+8g	chło-
+4ee	-pa-
+8ccL	-czek,
+8bJ	.
+=3	=3
+8g	Ku-
+8g	-ja-
+4b	-wia-
+4cc	-czek
+=4	=4
+8cc	ja,
+8g	da,
+4ee	i
+8ccL	ja,
+8bJ}	.
 !!LO:LB:g=esac
-=5
-{8g
-8g
-4e
-4f
-=6
-8g
-8g
-4a
-4f
-=7
-8g
-8g
-4e
-4f
-=8
-8c
-8c
-4e
-4f}
-==
-*-
+=5	=5
+{8g	o-
+8g	-na
+4e	by-
+4f	-ła
+=6	=6
+8g	Ku-
+8g	-ja-
+4a	-wian-
+(8gq	.
+4f)	-ka,
+=7	=7
+8g	po-
+8g	-pra-
+4e	-wia-
+4f	-ła
+=8	=8
+8c	swe-
+8c	-go
+4e	wian-
+4f}	-ka.
+==	==
+*-	*-
+!!!role-singer: Man from Kujawy
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Kujawiaczek ja, chłopaczek,
+!!Kujawiaczek ja, da, i ja,
+!!ona była Kujawianka,
+!!poprawiała swego wianka.
+!!@VERSE:
+!!Zeby ja był na Kujawach
+!!nigdy nie postał, [nie postał],
+!!to byłby ja mąkolankę
+!![za zonę] dostał, [da, dostał].
+!!@@END: VERSES
 !!!ONB: wariant w takcie ostanim 113_41
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=77 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 68-69} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, pp. 68-69}
 !!!page: 68-69
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

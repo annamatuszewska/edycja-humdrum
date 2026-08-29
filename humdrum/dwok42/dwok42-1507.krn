@@ -3,69 +3,90 @@
 !!!source: DWOK42
 !!!id: 421507
 !!!signature: 42150700000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8b
-8dd
-8dd
-8dd
-=2
-8b
-8dd
-8dd
-8dd
-=3
-8ee
-8dd
-8cc
-8b
-=4
-4cc
-4a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8b	Mo-
+8dd	-ja
+8dd	Jó-
+8dd	-ziu,
+=2	=2
+8b	mo-
+8dd	-je
+8dd	ser-
+8dd	-ce,
+=3	=3
+8ee	be-
+8dd	-dzies
+8cc	za
+8b	to
+=4	=4
+4cc	w_nie-
+4a}	-bie,
 !!LO:LB:g=esac
-=5
-{8a
-8cc
-8cc
-8cc
-=6
-8a
-8cc
-8cc
-8cc
-=7
-8ee
-8dd
-8dd
-8a
-=8
-4b
-4g}
+=5	=5
+{8a	ksiądz
+8cc	ka-
+8cc	-pu-
+8cc	-cyn
+=6	=6
+8a	z_du-
+8cc	-żą
+8cc	bro-
+8cc	-dą
+=7	=7
+8ee	przy-
+8dd	-tu-
+8dd	-la
+8a	do
+=8	=8
+4b	sie-
+4g}	-bie,
 !!LO:LB:g=esac
-=9
-{4gg
-4gg
-=10
-8g
-8g
-4g
-=11
-8ee
-8gg
-8ee
-8gg
-=12
-8g
-8g
-4g}
-==
-*-
+=9	=9
+{4gg	uś
+4gg	uś,
+=10	=10
+8g	po-
+8g	-wo-
+4g	-li,
+=11	=11
+8ee	ksiądz
+8gg	ka-
+8ee	-pu-
+8gg	-cyn
+=12	=12
+8g	swy-
+8g	-wo-
+4g}	-li.
+==	==
+*-	*-
+!!!role-singer: Monk Capuchin
+!!!role-listener: Maiden
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Moja Józiu, moje serce,
+!!bedzies za to w niebie.
+!!ksiądz kapucyn z dużą brodą
+!!przytula do siebie,
+!!uś uś, powoli,
+!!ksiądz kapucyn swywoli.
+!!@VERSE:
+!!Gonił ci ją, gonił ci ją
+!!po podwórzu w trepkach.
+!!dogonił ją, dogonił ją
+!!za piecem na drewkach.
+!!uś uś, powoli,
+!![ksiądz kapucyn swywoli].
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=86 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 77-78} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, pp. 77-78}
 !!!page: 77-78
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

@@ -3,74 +3,101 @@
 !!!source: DWOK42
 !!!id: 421612
 !!!signature: 42161200000
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M3/4
-=1
-{16d
-16f#
-4a
-8a
-8a
-8a
-=2
-16a
-16dd
-4ff#
-8ee
-8dd
-8dd}
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M3/4	*
+=1	=1
+!!LO:TX:a:t=Polski
+{16d	Dla
+16f#	mo-
+4a	-je-
+8a	-go
+8a	lo-
+8a	-su
+=2	=2
+16a	nie-
+16dd	-wie-
+4ff#	-le
+8ee	po-
+8dd	-trze-
+8dd}	-ba:
 !!LO:LB:g=esac
-=3
-{16ee
-16e
-4g
-8g
-8g
-8g
-=4
-16e
-16g
-4b
-8e
-8g
-8f#}
+=3	=3
+{16ee	tyl-
+16e	-ko
+4g	do-
+8g	-brej
+8g	żon-
+8g	-ki
+=4	=4
+16e	i
+16g	ka-
+4b	-wał-
+8e	-ka
+8g	chle-
+8f#}	-ba,
 !!LO:LB:g=esac
-=5
-{16d
-16f#
-4a
-8e
-8g
-8g
-=6
-16d
-16f#
-4a
-8e
-8g
-8g}
+=5	=5
+{16d	i
+16f#	do
+4a	te-
+8e	-go
+8g	jesz-
+8g	-cze
+=6	=6
+16d	le-
+16f#	-gu-
+4a	-min-
+8e	-ki
+8g	w_cieś-
+8g}	-cie,
 !!LO:LB:g=esac
-=7
-{16f#
-16a
-4dd
-8dd
-8a
-8f#
-=8
-16e
-16g
-4b
-8c#
-8e
-8d}
-==
-*-
+=7	=7
+{16f#	i
+16a	do
+4dd	te-
+8dd	-go
+8a	jesz-
+8f#	-cze
+=8	=8
+16e	ka-
+16g	-mie-
+4b	-ni-
+8c#	-czki
+8e	w_mieś-
+8d}	-cie.
+==	==
+*-	*-
+!!!role-singer: Man
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Dla mojego losu niewiele potrzeba:
+!!tylko dobrej żonki i kawałka chleba,
+!!i do tego jeszcze leguminki w cieście,
+!!i do tego jeszcze kamieniczki w mieście.
+!!@VERSE:
+!!I do tego jeszcze sto złotych czerwonych,
+!!i do tego jeszcze parę koni wronych;
+!!kare konie kare, złote na nich szory,
+!!i do tego jeszcze, żebym nie był chory.
+!!@VERSE:
+!!I do tego jeszcze stangret wyćwiczony,
+!!i do tego jeszcze lokaj wygalony,
+!!i do tego jeszcze dzieciątko malutkie,
+!!dzieciątko — paniątko, zgrabniutkie, cichutkie.
+!!@VERSE:
+!!I do tego jeszcze, żeby się chowało,
+!!i do tego jeszcze przyjacioł niemało,
+!!i do tego jeszcze pełniutkiej piwniczki,
+!!i do tego jeszcze drugiej kamieniczki.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=138 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 129} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 129}
 !!!page: 129
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

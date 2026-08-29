@@ -3,83 +3,96 @@
 !!!source: DWOK42
 !!!id: 421478
 !!!signature: 42147800001
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16a
-16b
-8cc
-8cc
-=2
-16dd
-32dd
-32ee
-4ff
-=3
-16ff
-16cc
-8ee
-8cc
-=4
-16dd
-32cc
-32b
-4a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{16a	Ze-
+16b	-byś-
+8cc	-ta
+8cc	wy
+=2	=2
+16dd	wie-
+32ddL	-dzie-
+32eeJ	.
+4ff	-li,
+=3	=3
+16ff	jak
+16cc	ja
+8ee	ra-
+8cc	-da
+=4	=4
+16dd	nie-
+32ccL	-dzie-
+32bJ	.
+4a}	-li,
 !!LO:LB:g=esac
-=5
-{16dd
-16ee
-8ff
-16ff
-16dd
-=6
-16ee
-32dd
-32b
-8dd
-16cc
-16b
-=7
-16dd
-16cc
-8ee
-8cc
-=8
-16dd
-32cc
-32b
-4a}
+=5	=5
+{16dd	w_niedzie-
+16ee	.
+8ff	-lę
+16ffL	się
+16ddJ	wys-
+=6	=6
+16ee	-ka-
+32ddL	.
+32bJ	-cę,
+8ddL	.
+16cc	.
+16bJ	z_chłopca-
+=7	=7
+16dd	.
+16cc	-mi
+8ee	się
+8cc	zo-
+=8	=8
+16dd	-ba-
+32ccL	.
+32bJ	-cę,
+4a}	w_wianu-
 !!LO:LB:g=esac
-=9
-{16dd
-16ee
-8ff
-16ff
-16dd
-=10
-16ee
-32dd
-32b
-8dd
-16cc
-16b
-=11
-16dd
-16cc
-8ee
-8cc
-=12
-16dd
-32cc
-32b
-4a}
-==
-*-
+=9	=9
+{16dd	.
+16ee	-sku
+8ff	się
+16ffL	na-
+16ddJ	-cho-
+=10	=10
+16ee	.
+32ddL	-dzę
+32bJ	.
+8ddL	.
+16cc	i
+16bJ	chłopców
+=11	=11
+16dd	.
+16cc	się
+8ee	na-
+8cc	-zwo-
+=12	=12
+16dd	.
+32ccL	-dzę.
+32bJ	.
+4a}	.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Zebyśta wy wiedzieli,
+!!jak ja rada niedzieli,
+!!w niedzielę się wyskacę,
+!!z chłopcami się zobacę,
+!!w wianusku się nachodzę
+!!i chłopców się nazwodzę.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=75 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 66} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 66}
 !!!page: 66
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

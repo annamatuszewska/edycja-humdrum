@@ -3,52 +3,71 @@
 !!!source: DWOK42
 !!!id: 421560
 !!!signature: 42156000020
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16d
-16d
-8f#
-8f#
-=2
-16g
-16g
-8b
-8b
-=3
-16cc
-16cc
-8a
-8a
-=4
-16g
-16g
-8b
-8b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+!!LO:TX:a:t=Gęś&colon;
+{16d	A
+16d	ja
+8f#	jes-
+8f#	-ce
+=2	=2
+16g	nie
+16g	sły-
+8b	-sa-
+8b	-ła,
+=3	=3
+16cc	ze-
+16cc	-by
+8a	ku-
+8a	-ra
+=4	=4
+16g	cie-
+16g	-le
+8b	mia-
+8b}	-ła.
 !!LO:LB:g=esac
-=5
-{16d
-16d
-8f#
-8f#
-=6
-8g
-8g
-8g
-=7
-16d
-16d
-8f#
-8f#
-=8
-4.g}
-==
-*-
+=5	=5
+!!LO:TX:a:t=Kaczka&colon;
+{16d	Ma,
+16d	ma-
+8f#	-tu-
+8f#	-lu,
+=6	=6
+8g	ma,
+8g	tak
+8g	tak,
+=7	=7
+16d	ma,
+16d	ma-
+8f#	-tu-
+8f#	-lu,
+=8	=8
+4.g}	tak.
+==	==
+*-	*-
+!!!role-singer: Goose-Child, Duck-Mother
+!!!role-listener: Duck-Mother, Goose-Child
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Gęś: Kura ciele ma, matulu,
+!!kura ciele ma, matulu?
+!!Kaczka: Ma, matulu, tak tak tak,
+!!ma, matulu, tak.
+!!@VERSE:
+!!Gęś: A ja jesce nie słysała,
+!!zeby kura ciele miała.
+!!Kaczka: Ma, matulu, ma, tak tak,
+!!ma, matulu, tak.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=105 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 96} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 96}
 !!!page: 96
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

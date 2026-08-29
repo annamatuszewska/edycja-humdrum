@@ -3,61 +3,71 @@
 !!!source: DWOK42
 !!!id: 421575
 !!!signature: 42157500000
-**kern
-*clefG2
-*k[b-e-a-]
-*E-:
-*M6/8
-=1
-{8e-
-8B-
-8e-
-4g
-8e-
-=2
-4f
-8g
-4e-}
-8r
+**kern	**text
+*clefG2	*
+*k[b-e-a-]	*
+*E-:	*
+*M6/8	*
+=1	=1
+{8e-	Chcia-
+8B-	-ło
+8e-	się
+4g	Zo-
+8e-	-si
+=2	=2
+4f	ja-
+8g	-gó-
+4e-}	-dek,
+8r	.
 !!LO:LB:g=esac
-=3
-{8e-
-8B-
-8e-
-4g
-8e-
-=4
-4a-
-8g
-4f
-8r
-=5
-8f
-8f
-8f
-4g
-8g}
+=3	=3
+{8e-	[ku-
+8B-	-pić
+8e-	ich
+4g	za
+8e-	co
+=4	=4
+4a-	nie
+8g	mia-
+4f	-ła,
+8r	.
+=5	=5
+8f	Jaś
+8f	ich
+8f	miał
+4g	pe-
+8g}	-łen
 !!LO:LB:g=esac
-=6
-{4a-
-8cc
-4b-
-8r
-=7
-8b-
-8cc
-8a-
-4g
-8f
-=8
-4e-
-8B-
-4e-}
-8r
-==
-*-
+=6	=6
+{4a-	o-
+8cc	-gró-
+4b-	-dek,
+8r	.
+=7	=7
+8b-	a-
+8cc	-le
+8a-	go
+4g	pro-
+8f	-sić
+=8	=8
+4e-	nie
+8B-	śmia-
+4e-}	-ła].
+8r	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Chciało się Zosi jagódek,
+!![kupić ich za co nie miała,
+!!Jaś ich miał pełen ogródek,
+!!ale go prosić nie śmiała].
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=113 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 104} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 104}
 !!!page: 104
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

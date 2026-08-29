@@ -3,74 +3,110 @@
 !!!source: DWOK42
 !!!id: 421541
 !!!signature: 42154100001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16a
-8b
-8cc
-=2
-4dd
-16ee
-16ff#
-=3
-8gg
-8ff#
-8ee
-=4
-4dd
-16ee
-16ff#}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Prze-
+16a	-sko-
+8b	-czy-
+8cc	-ła
+=2	=2
+4dd	przez
+16eeL	piec,
+16ff#J	.
+=3	=3
+8gg	zgu-
+8ff#	-bi-
+8ee	-ła
+=4	=4
+4dd	kiec,
+16eeL	kiec,
+16ff#J}	.
 !!LO:LB:g=esac
-=5
-{8gg
-8ff#
-8ee
-=6
-4dd
-8b
-=7
-8cc
-8a
-8cc
-=8
-8b
-8g
-8b
-=9
-8a
-8cc
-16a
-16f#}
+=5	=5
+{8gg	zgu-
+8ff#	-bi-
+8ee	-ła
+=6	=6
+4dd	kiec,
+8b	kiec,
+=7	=7
+8cc	.
+8a	kiec,
+8cc	kiec,
+=8	=8
+8b	kiec.
+8g	.
+8b	.
+=9	=9
+8a	.
+8cc	.
+16aL	.
+16f#J}	.
 !!LO:LB:g=esac
-=10
-{16g
-16b
-4dd
-=11
-8cc
-8a
-8cc
-=12
-8b
-8g
-8b
-=13
-8a
-8cc
-16a
-16f#
-=14
-4g
-8g}
-==
-*-
+=10	=10
+{16gL	.
+16bJ	.
+4dd	.
+=11	=11
+8cc	.
+8a	.
+8cc	.
+=12	=12
+8b	.
+8g	.
+8b	.
+=13	=13
+8a	.
+8cc	.
+16aL	.
+16f#J	.
+=14	=14
+4g	.
+8g}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Sister, Peasant, Woman
+!!!role-listener: Woman
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Przeskoczyła przez piec,
+!!|:zgubiła kiec, kiec:|.
+!!kiec, kiec, kiec.
+!!@VERSE:
+!!A siostra ją też
+!!|:po dupie prała:|:
+!!|:Morowa bestyja,
+!!gdzieś kieckę działa:|.
+!!@VERSE:
+!!Grycan sie upił.
+!!|:skóre jej łupił:|:
+!!|:[Morowa bestyja].
+!!cym ci dawno kupił:|.
+!!@VERSE:
+!!Anim przepiła,
+!!|:ani przchulała:|,
+!!|:tylkom ją owcarkom
+!!na piwo dała:|.
+!!@VERSE:
+!!A pojdę ja, pojdę
+!!|:ode wsi do wsi:|,
+!!|:a cy ten moj kiecan
+!!na płocie nie wisi:|.
+!!@VERSE:
+!![A pojdę ja, pojde]
+!!|:od domu do domu:|,
+!!|:a cy się [moj kiecan]
+!!nie udał komu:|.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=100 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 91} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 91}
 !!!page: 91
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

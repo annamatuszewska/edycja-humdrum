@@ -3,52 +3,78 @@
 !!!source: DWOK42
 !!!id: 421502
 !!!signature: 42150200000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/4
-=1
-{8cc
-8cc
-4cc
-4a
-=2
-8cc
-8dd
-2b-
-=3
-8b-
-8dd
-4dd
-4b-
-=4
-8cc
-8ee
-2cc}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/4	*
+=1	=1
+{8cc	Le-
+8cc	-cia-
+4cc	-ły
+4a	gą-
+=2	=2
+8ccL	-se-
+8ddJ	.
+2b-	-czki,
+=3	=3
+8b-	u-
+8dd	-sia-
+4dd	-dły
+4b-	na
+=4	=4
+8ccL	dę-
+8eeJ	.
+2cc}	-bie.
 !!LO:LB:g=esac
-=5
-{8cc
-8cc
-4cc
-4a
-=6
-8cc
-8dd
-2b-
-=7
-8g
-8g
-4g
-4f
-=8
-8g
-8a
-2f}
-==
-*-
+=5	=5
+{8cc	nie
+8cc	ko-
+4cc	-chaj
+4a	dwo-
+=6	=6
+8ccL	-ra-
+8ddJ	.
+2b-	-ka
+=7	=7
+8g	choć
+8g	pię-
+4g	-kny
+4f	na
+=8	=8
+8gL	gę-
+8aJ	.
+2f}	-bie.
+==	==
+*-	*-
+!!!role-singer: Counselor
+!!!role-listener: Maiden
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Leciały gąseczki,
+!!usiadły na dębie.
+!!nie kochaj dworaka
+!!choć piękny na gębie.
+!!@VERSE:
+!!Nie kochaj dworaka,
+!!bo cię zbałamuci,
+!!z wieczora pokocha,
+!!nade dniem porzuci.
+!!@VERSE:
+!!Jedną pocałuje.
+!!kole drugiej siędzie,
+!!a trzeciej się obiecuje,
+!!że się żenić będzie.
+!!@VERSE:
+!!Jedną kocha tydzień,
+!!a drugą półtora,
+!!trzecią zacznie z rana —
+!!ledwie do wieczora.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=84 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 75} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 75}
 !!!page: 75
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

@@ -3,85 +3,96 @@
 !!!source: DWOK42
 !!!id: 421573
 !!!signature: 42157300000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8dd
-8ee
-4cc
-4a
-=2
-2b
-4g
-=3
-8f#
-8a
-4cc
-4ee
-=4
-2dd
-4b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8dd	Kie-
+8ee	-dy
+4cc	ja
+4a	był
+=2	=2
+2b	chło-
+4g	-pcem,
+=3	=3
+8f#	Ma-
+8a	-ry-
+4cc	-sia
+4ee	dziew-
+=4	=4
+2dd	-czy-
+4b}	-ną,
 !!LO:LB:g=esac
-=5
-{8ee
-8dd
-4cc
-4a
-=6
-2b
-4g
-=7
-8f#
-8a
-4d
-4f#
-=8
-2g
-4g}
+=5	=5
+{8ee	toś-
+8dd	-my
+4cc	się
+4a	go-
+=6	=6
+2b	-ni-
+4g	-li
+=7	=7
+8f#	pod
+8a	du-
+4d	-żą
+4f#	ol-
+=8	=8
+2g	-szy-
+4g}	-ną.
 !!LO:LB:g=esac
-=9
-{8a
-8f#
-4d
-4d
-=10
-8g
-8a
-4b
-8b
-8dd
-=11
-8a
-8b
-4cc
-4ee
-=12
-2dd
-4b}
+=9	=9
+{8a	.
+8f#	.
+4d	.
+4d	.
+=10	=10
+8g	.
+8a	.
+4b	.
+8bL	.
+8ddJ	.
+=11	=11
+8a	.
+8b	.
+4cc	.
+4ee	.
+=12	=12
+2dd	.
+4b}	.
 !!LO:LB:g=esac
-=13
-{8ee
-8dd
-4cc
-4a
-=14
-2b
-4g
-=15
-8f#
-8a
-4d
-4f#
-=16
-2g
-4g}
-==
-*-
+=13	=13
+{8ee	.
+8dd	.
+4cc	.
+4a	.
+=14	=14
+2b	.
+4g	.
+=15	=15
+8f#	.
+8a	.
+4d	.
+4f#	.
+=16	=16
+2g	.
+4g}	.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Kiedy ja był chłopcem,
+!!Marysia dziewczyną,
+!!tośmy się gonili
+!!pod dużą olszyną.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=111 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 102} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 102}
 !!!page: 102
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

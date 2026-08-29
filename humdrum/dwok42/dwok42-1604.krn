@@ -3,63 +3,78 @@
 !!!source: DWOK42
 !!!id: 421604
 !!!signature: 42160400000
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M6/8
-=1
-{4dd
-8ff
-4dd
-8ff
-=2
-8ff
-8ee-
-8dd
-8dd
-8cc
-8b-}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M6/8	*
+=1	=1
+{4dd	Wi-
+8ff	-wat
+4dd	dziś
+8ff	gos-
+=2	=2
+8ffL	-po-
+8ee-J	.
+8dd	-da-
+8ddL	-rzo-
+8ccJ	.
+8b-}	-wi,
 !!LO:LB:g=esac
-=3
-{4dd
-8ff
-4f
-8ee-
-=4
-8ee-
-8cc
-8a
-4b-
-8b-
-=5
-4cc
-8ee-
-4cc
-8ee-}
+=3	=3
+{4dd	wi-
+8ff	-wat
+4f	i
+8ee-	je-
+=4	=4
+8ee-L	-go
+8ccJ	.
+8a	do-
+4b-	-mo-
+8b-	-wi,
+=5	=5
+4cc	wi-
+8ff	-wat,
+4cc	wi-
+8ff}	-wat
 !!LO:LB:g=esac
-=6
-{8cc
-8ff
-8ee-
-8dd
-8cc
-8b-
-=7
-4dd
-8ff
-4f
-8ee-
-=8
-8ee-
-8cc
-8a
-4b-
-8b-}
-==
-*-
+=6	=6
+{8ccL	go-
+8ffJ	.
+8ee-	-spo-
+8ddL	-dy-
+8ccJ	.
+8b-	-ni,
+=7	=7
+4dd	wi-
+8ff	-wat
+4f	i
+8ee-	ca-
+=8	=8
+8ee-L	-łej
+8ccJ	.
+8a	ro-
+4b-	-dzi-
+8b-}	-ny.
+==	==
+*-	*-
+!!!role-singer: Groom
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Wiwat dziś gospodarzowi,
+!!wiwat i jego domowi,
+!!wiwat, wiwat gospodyni,
+!!wiwat i całej rodziny.
+!!@VERSE:
+!!Wiwat, wiwat bratu memu,
+!!wiwat i mnie i samemu,
+!!wiwat, wiwat i tej damie,
+!!która dzisiaj idzie za mnie.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=133 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 124} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 124}
 !!!page: 124
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

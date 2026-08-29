@@ -3,78 +3,93 @@
 !!!source: DWOK42
 !!!id: 421591
 !!!signature: 42159100000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{8cc
-8.cc
-16ee
-=2
-8gg
-4ff
-=3
-8dd
-8.b
-16dd
-=4
-8ff
-4ee}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{8cc	Już
+8.cc	mi
+16ee	mi-
+=2	=2
+8gg	-nę-
+4ff	-ło
+=3	=3
+8dd	szes-
+(8ccq	.
+8.b)	-naś-
+16dd	-cie
+=4	=4
+8ff	la-
+4ee}	-tek,
 !!LO:LB:g=esac
-=5
-{8cc
-8.cc
-16ee
-=6
-8gg
-4ff
-=7
-8dd
-8.b
-16dd
-=8
-8dd
-4cc}
+=5	=5
+{8cc	czas
+8.cc	mi
+16ee	się
+=6	=6
+8gg	wpi-
+4ff	-sać
+=7	=7
+8dd	w_re-
+(8ccq	.
+8.b)	-jestr
+16dd	mę-
+=8	=8
+8dd	-ża-
+4cc}	-tek.
 !!LO:LB:g=esac
-=9
-{16g
-16ee
-8cc
-8cc
-=10
-16g
-16ee
-8cc
-8cc
-=11
-4ff
-8ee
-=12
-4dd
-8cc}
+=9	=9
+{16g	Stań-
+16ee	-cie,
+8cc	chło-
+8cc	-pcy,
+=10	=10
+16g	wszys-
+16ee	-cy
+8cc	ra-
+8cc	-zem,
+=11	=11
+4ff	a
+8ee	sko-
+=12	=12
+(8eeq	.
+(4dd)	-ro,
+8cc)}	.
 !!LO:LB:g=esac
-=13
-{16b
-16dd
-8b
-8cc
-=14
-16b
-16dd
-8b
-8cc
-=15
-4ee
-8dd
-=16
-4cc}
-8r
-==
-*-
+=13	=13
+{16b	mo-
+16dd	-że
+8b	mi
+8cc	tu
+=14	=14
+16b	z_was
+16dd	któ-
+8b	-re-
+8cc	-go
+=15	=15
+4ee	wy-
+8dd	-bio-
+=16	=16
+4cc}	-rą.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!role-listener: Bachelors
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Już mi minęło szesnaście latek,
+!!czas mi się wpisać w rejestr mężatek.
+!!Stańcie, chłopcy, wszyscy razem, a skoro,
+!!może mi tu z was którego wybiorą.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=124 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 115} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 115}
 !!!page: 115
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

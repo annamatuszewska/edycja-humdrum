@@ -3,73 +3,88 @@
 !!!source: DWOK42
 !!!id: 421483
 !!!signature: 42148300000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8g
-8b
-4b
-4cc
-=2
-2.dd
-=3
-8dd
-8cc
-4a
-4cc
-=4
-2.dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8g	Ma-
+8b	-zur
+4b	ja,
+4cc	Ma-
+=2	=2
+2.dd	-zur
+=3	=3
+8dd	sro-
+8cc	-dze
+4a	bo-
+(8bq	.
+4cc)	-ga-
+=4	=4
+2.dd}	-ty,
 !!LO:LB:g=esac
-=5
-{8g
-8b
-4b
-4cc
-=6
-2.dd
-=7
-8dd
-8cc
-4a
-4cc
-=8
-2.dd}
+=5	=5
+{8g	[świe-
+8b	-cą
+4b	się
+4cc	na
+=6	=6
+2.dd	mnie
+=7	=7
+8dd	dro-
+8cc	-guś-
+4a	-kie
+(8bq	.
+4cc)	sa-
+=8	=8
+2.dd}	-ty:
 !!LO:LB:g=esac
-=9
-{8dd
-8dd
-4ee
-4cc
-=10
-8b
-8g
-4a
-4d
-=11
-8f#
-8a
-4a
-4b}
+=9	=9
+{8dd	ko-
+8dd	-su-
+4ee	-li-
+4cc	-na
+=10	=10
+8b	dry-
+8g	-li-
+4a	-cho-
+4d	-wa,
+=11	=11
+8f#	kaz-
+8a	-dy
+4a	myś-
+4b}	-li
 !!LO:LB:g=esac
-=12
-{8g
-8g
-4b
-4a
-=13
-8f#
-8a
-4a
-4b
-=14
-2.g}
-==
-*-
+=12	=12
+{8g	mu-
+8g	-śli-
+4b	-no-
+(8bq	.
+4a)	-wa,
+=13	=13
+8f#	ca-
+8a	-ła
+4a	je-
+4b	-dy-
+=14	=14
+2.g}	-na].
+==	==
+*-	*-
+!!!role-singer: Man from Mazury
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Mazur ja, Mazur srodze bogaty,
+!![świecą się na mnie droguśkie saty:
+!!kosulina drylichowa,
+!!kazdy myśli — muślinowa,
+!!cała jedyna].
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=76 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 67-68} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, pp. 67-68}
 !!!page: 67-68
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

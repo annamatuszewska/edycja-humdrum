@@ -3,63 +3,76 @@
 !!!source: DWOK42
 !!!id: 421579
 !!!signature: 42157900001
-**kern
-*clefG2
-*k[]
-*a:
-*M4/4
-=
-{8a
-8b
-8cc
-8a
-4ee
-12dd
-12cc
-12b
-=1
-8a
-8b
-8cc
-8g#
-4a
-4e}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M4/4	*
+=1	=1
+{8aL	A-
+8bJ	.
+8cc	-stro-
+8a	-lo-
+4ee	-go-
+12ddL	-wie,
+12cc	.
+12bJ	.
+=2	=2
+8a	co
+8b	gwiaz-
+8cc	-dy
+8g#	li-
+4a	-cy-
+4e\}	-cie,
 !!LO:LB:g=esac
-=2
-{4cc
-8ee
-8cc
-4.gg
-8ff
-=
-8ee
-8dd
-8dd
-8cc
-4ee
-12dd
-12cc
-12b}
+=3	=3
+{4cc	cy
+8ee	wy
+8cc	o
+4.gg	mo-
+8ff	-jém
+=4	=4
+8ee	ko-
+8dd	-cha-
+8dd	-niu
+8cc	nie
+4ee	wié-
+12ddL	-cie,
+12cc	.
+12bJ}	.
 !!LO:LB:g=esac
-=
-{4a
-8cc
-8a
-4ee
-12dd
-12cc
-12b
-=3
-8a
-8b
-8cc
-8g#
-4a
-4a}
-==
-*-
+=5	=5
+{4a	cy
+8cc	wy
+8a	o
+4ee	mo-
+12ddL	-jém
+12cc	.
+12bJ	.
+=6	=6
+8a	ko-
+8b	-cha-
+8cc	-niu
+8g#	nie
+4a	wié-
+4a}	-cie?
+==	==
+*-	*-
+!!!role-singer: Maiden, Narrator, Birds
+!!!role-listener: Astrologers, Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Astrologowie, co gwiazdy licycie,
+!!|:cy wy o mojém kochaniu nie wiécie:|?
+!!@VERSE:
+!!A i ptaskowie, i te ją ciesyły:
+!!|:Nie płacz, nie płacz, już jedzie miły:|.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=115 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 106} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 106}
 !!!page: 106
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

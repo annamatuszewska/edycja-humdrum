@@ -3,42 +3,68 @@
 !!!source: DWOK42
 !!!id: 421577
 !!!signature: 42157700000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M4/4
-=1
-8r
-{8dd
-8g
-8b
-4.dd
-8dd
-=2
-4dd
-8ee
-8dd
-4.b
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M4/4	*
+=1	=1
+8r	.
+{8d	Trze-
+8g	-ba
+8b	się
+4.dd	ko-
+8dd	-chać,
+=2	=2
+4dd	pię-
+8ee	-kna
+8dd	Lu-
+4.b	-cy-
+8g}	-no,
 !!LO:LB:g=esac
-=3
-8r
-{8b
-8dd
-8cc
-4.a
-8a
-=4
-4a
-8cc
-8b
-4g
-4g}
-==
-*-
+=3	=3
+8r	.
+{8b	pó-
+8dd	-ki
+8cc	ci
+4.a	mło-
+8a	-de
+=4	=4
+4a	la-
+8cc	-ta
+8b	nie
+4g	mi-
+4g}	-ną.
+==	==
+*-	*-
+!!!role-singer: Counselor
+!!!role-listener: Maiden
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Trzeba się kochać, piękna Lucyno,
+!!póki ci młode lata nie miną,
+!!na to ci rozum i serce dano,
+!!żebyś kochała i była kochaną.
+!!@VERSE:
+!!Kiedy się trafią oczy przychylne,
+!!przód cię szukają przez drogi mylne,
+!!potem zdybanie, niby niechcący,
+!!rozpalają się w miłość gorącą.
+!!@VERSE:
+!!Prawda, że czasem miłość dokuczy,
+!!nie śpi, nie jada, troszczy się, smuci,
+!!ale i wtenczas, kiedy ją kląłem,
+!!czułem, że była moim żywiołem.
+!!@VERSE:
+!!Miłość zgromadza ludzi w gromady,
+!!miłość w pokoju zabrania zwady,
+!!miłość pociecha w szczęsciu jedyna,
+!!trzeba się kochać, piękna Lucyna.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=113 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 104} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 104}
 !!!page: 104
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

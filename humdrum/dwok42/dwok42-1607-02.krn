@@ -3,50 +3,81 @@
 !!!source: DWOK42
 !!!id: 421607
 !!!signature: 42160700002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8g
-8b
-8dd
-8ee
-=2
-4cc
-4dd
-=3
-8dd
-8gg
-8gg
-8ff#
-=4
-8ff#
-8dd
-4gg}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8g	Grun-
+8b	-ta
+8dd	się
+8ee	sty-
+=2	=2
+4cc	-ka-
+4dd	-ją,
+=3	=3
+8dd	for-
+8gg	-tu-
+8gg	-na
+8ff#	mi
+=4	=4
+8ff#L	zda-
+8ddJ/	.
+4gg}	-je,
 !!LO:LB:g=esac
-=5
-{8g
-8b
-8dd
-8ee
-=6
-4cc
-8dd
-8cc
-=7
-8b-
-8b-
-8a
-8a
-=8
-4g
-4g}
-==
-*-
+=5	=5
+{8g	a
+8b	ze
+8dd	pan
+8ee	Cy-
+=6	=6
+4cc	-bul-
+8ddL	-ski
+8ccJ/	.
+=7	=7
+8b-	swą
+8b-	żo-
+8a	-nę
+8a	sprze-
+=8	=8
+4g	-da-
+4g}	-je.
+==	==
+*-	*-
+!!!role-singer: Narrator, Lord
+!!!role-listener: Russian
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Grunta się stykają, fortuna mi zdaje,
+!!a ze pan Cybulski swą żonę sprzedaje.
+!!@VERSE:
+!!I przyjechało do nij trzech Moskali,
+!!wyprowadzili ją na pokoik dalij.
+!!@VERSE:
+!!A jak ci wypili wina po sklanicy,
+!!juz ci mi Moskalik tysiącami licy.
+!!@VERSE:
+!!Odlicył ci mi czterdzieści tysięci,
+!!pan Cybulski mowi: Licz, Moskalik, więcy.
+!!@VERSE:
+!!Moskal mu sie skłonił, by mu pan darował,
+!!p[an] Cy[bulski] zgarnął, do skatułki schował.
+!!@VERSE:
+!!Nicego mi nie zal, tylko trojga dzieci,
+!!bo mi sie rozlecą, jak róze, po swiecie.
+!!@VERSE:
+!!Pójdziem do koscioła, tam nas Bóg rozrządzi,
+!!cyli ja, cyli ty, które z nas zabłądzi.
+!!@VERSE:
+!!Będę Boga prosic w domu i w kosciele,
+!!że cie Pan Bóg skarze na dusy, na ciele.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=135 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 126} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 126}
 !!!page: 126
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

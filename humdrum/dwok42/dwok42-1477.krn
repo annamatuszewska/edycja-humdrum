@@ -3,69 +3,80 @@
 !!!source: DWOK42
 !!!id: 421477
 !!!signature: 42147700000
-**kern
-*clefG2
-*k[f#]
-*e:
-*M2/4
-=1
-{8b
-8a
-8b
-8dd
-=2
-4ee
-4b
-=3
-8b
-8a
-8b
-8dd
-=4
-4ee
-4b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*e:	*
+*M2/4	*
+=1	=1
+{8b	Gdzież
+8a#i	to
+8b	je-
+8dd#i	-dziesz,
+=2	=2
+4ee	Ja-
+4b	-siu?
+=3	=3
+8b	Na
+8a	wo-
+8b	-jen-
+8dd	-kę,
+=4	=4
+4ee	Ka-
+4b}	-siu_[...]
 !!LO:LB:g=esac
-=5
-{8b
-8a
-8b
-8dd
-=6
-4ee
-4ff#
-=7
-2ee
-=8
-4b
-4ee
-=9
-8a
-8b
-8cc
-8b}
+=5	=5
+{8b	.
+8a	.
+8b	.
+8dd	.
+=6	=6
+4ee	.
+4ff#	.
+=7	=7
+2ee	.
+=8	=8
+4b	.
+4ee	.
+=9	=9
+8a	.
+8b	.
+8cc	.
+8b}	.
 !!LO:LB:g=esac
-=10
-{4a
-4b
-=11
-8a
-8g
-8f#
-8e
-=12
-8a
-8b
-8cc
-8ee
-=13
-4dd
-4ee
-=14
-2a}
-==
-*-
+=10	=10
+{4a	.
+4b	.
+=11	=11
+8a	.
+8g#i	.
+8f#	.
+8e	.
+=12	=12
+8a	.
+8b	.
+8cc	.
+8ee	.
+=13	=13
+4dd	.
+4ee	.
+=14	=14
+2a}	.
+==	==
+*-	*-
+!!!RDF**kern: i = editorial accidental
+!!!role-singer: Maiden
+!!!role-listener: Bachelor
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Gdzież to jedziesz, Jasiu?
+!!Na wojenkę, Kasiu [...]
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=74 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 65} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 65}
 !!!page: 65
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

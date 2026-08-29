@@ -3,90 +3,116 @@
 !!!source: DWOK42
 !!!id: 421578
 !!!signature: 42157800000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M4/4
-=1
-{8f
-8f
-8f
-8f
-4.ff
-8cc
-=2
-8dd
-8cc
-8dd
-8ee
-4ff
-4cc}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M4/4	*
+=1	=1
+{8f	Czer-
+8f	-wo-
+8f	-ne
+8f	gwoź-
+4.ff	-dzi-
+8cc	-ki,
+=2	=2
+8dd	pię-
+8cc	-kne
+8dd	tu-
+8ee	-li-
+4ff	-pa-
+4cc}	-ny,
 !!LO:LB:g=esac
-=3
-{4cc
-8ff
-8ee
-4.dd
-8cc
-=4
-8dd
-8cc
-8b-
-8e
-4g
-8f}
-8r
+=3	=3
+{4cc	gdzie
+8ff	się
+8ee	o-
+4.dd	-bra-
+8cc	-ca
+=4	=4
+8dd	mój
+8cc	Jó-
+8b-	-ziek
+8e	ko-
+4g	-cha-
+8f}	-ny?
+8r	.
 !!LO:LB:g=esac
-=5
-{4a
-8a
-8b-
-4.cc
-8cc
-=6
-8dd
-8cc
-8b-
-8e
-4g
-8f}
-8r
+=5	=5
+{4a	Czy-
+8a	-li
+8b-	go
+4.cc	wzie-
+8cc	-li
+=6	=6
+8dd	że-
+8b-	-gla-
+8a	-rze
+8b-	na
+4.cc	mo-
+8cc}	-rze,
 !!LO:LB:g=esac
-=7
-{4a
-8a
-8b-
-4.cc
-8cc
-=8
-8dd
-8b-
-8a
-8b-
-4.cc
-8cc}
-!!LO:LB:g=esac
-=9
-{8cc
-8cc
-8ff
-8ee
-4.dd
-8cc
-=10
-8dd
-8cc
-8b-
-8e
-4g
-8f}
-8r
-==
-*-
+=7	=7
+{8cc	co
+8cc	się
+8ff	mo-
+8ee	-je
+4.dd	ser-
+8cc	-ce
+=8	=8
+8dd	u-
+8cc	-tu-
+8b-	-lić
+8e	nie
+4g	mo-
+8f}	-że?
+8r	.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!role-listener: Astrologers, Bachelor
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Czerwone gwoździki, piękne tulipany,
+!!gdzie się obraca mój Józiek kochany?
+!!Czyli go wzieli żeglarze na morze,
+!!co się moje serce utulić nie może?
+!!@VERSE:
+!!O wy, ostroludy, co gwiazdy liczycie,
+!!czy wy o moim kochanku nie wiécie?
+!!Widzieliśmy go w sadzie cytrynowym,
+!!czesał sobie głowę grzebieniem perłowym.
+!!@VERSE:
+!!Po sadeczku chodzę i rozważam sobie,
+!!a wszystkie mam myśli, Józieńku, o tobie,
+!!po sadeczku chodzę, twe imie rysuje.
+!!każdego momentu kanarem cukruję.
+!!@VERSE:
+!!Oj, przyjedź, przyjedź, pocieszenie moje,
+!!a jak nie przyjedziesz, smętne serce moje,
+!!a jak nie przyjedziesz, to ja umrzeć muszę,
+!!a jak ja umrę, wszystko na twą duszę.
+!!@VERSE:
+!!A jak umrzemy, rozkażemy sobie
+!!złote litery wybić na swym grobie,
+!!a kto będzie jechał, to przeczyta sobie:
+!!Złączona miłość leży tu w tym grobie.
+!!@VERSE:
+!!Leży tu, leży dziewczyna bez winy,
+!!a czém zabita? Afektem chłopczyny.
+!!Leży tu ciało, leżą tu i kości,
+!!tu spoczywają dziewczyny miłości.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: 1 [astrologowie]
+!! 2 [cukrem trzcinowym]
+!!@@END:
 !!!ONB: warint w takcie 2: 6567+155_, wariant w takcie 3: 55+176_.5, wariant w takcie 5:32345_.5
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=114 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 105} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 105}
 !!!page: 105
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

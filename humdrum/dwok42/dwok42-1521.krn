@@ -3,61 +3,79 @@
 !!!source: DWOK42
 !!!id: 421521
 !!!signature: 42152100000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/4
-=1
-{8f
-8a
-4cc
-8gg
-8ff
-=2
-8ee
-8ee
-4ff
-8dd
-8b-}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/4	*
+=1	=1
+{8f	A
+8a	juz
+4cc	ci
+(8aaq	.
+8ggL)	to
+8ffJ	.
+=2	=2
+8ee	ty-
+8ee	-dziń
+4ff	mi-
+8ddL	-nąn,
+8b-J}	.
 !!LO:LB:g=esac
-=3
-{8cc
-8a
-4f
-4ff
-=4
-8dd
-8ff
-4a
-4b-
-=5
-4cc
-4a
-8b-
-8dd}
+=3	=3
+{8cc	jak
+8a	mi
+4f	si-
+4ff	-wy
+=4	=4
+8dd	gą-
+8ff	-sior
+4a	zgi-
+4b-	-nąn,
+=5	=5
+4ccM	a
+4a	weń-
+8b-	-dę
+8dd}	ja
 !!LO:LB:g=esac
-=6
-{4cc
-4a
-8b-
-8g
-=7
-8f
-8a
-4cc
-8ff
-8ee
-=8
-8dd
-8ff
-4a
-4b-}
-==
-*-
+=6	=6
+{4ccM	na
+4a	wie-
+8b-	-zys-
+8g	-ko,
+=7	=7
+8f	sto-
+8a	-i
+4cc	si-
+8ffL	-we
+8eeJ	.
+=8	=8
+8dd	gą-
+8ff	-sio-
+4a	-rzy-
+4b-}	-sko.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!A juz ci to tydziń minąn,
+!!jak mi siwy gąsior zginąn,
+!!a weńdę ja na wiezysko,
+!!stoi siwe gąsiorzysko.
+!!@VERSE:
+!!A ja wołam: Piluś, gąsior!
+!!A on mnie tez w ud zakąsił.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: 1 gdzie drwa rąbią
+!!@@END:
 !!!ONB: wariant w takcie 3: 531_+17
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=92 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 83} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 83}
 !!!page: 83
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

@@ -3,65 +3,92 @@
 !!!source: DWOK42
 !!!id: 421581
 !!!signature: 42158100000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8.dd
-16b
-8g
-8g
-8.ee
-16dd
-=2
-8dd
-8cc
-4a}
-4r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8.dd	Już
+16b	się
+8g	wio-
+8g	-sna
+8.eeM	roz-
+16dd	-po-
+=2	=2
+8ddL	-czy-
+8ccJ	.
+4a}	-na,
+4r	.
 !!LO:LB:g=esac
-=3
-{8a
-8f#
-8d
-8ee
-8dd
-8cc
-=4
-8cc
-8b
-4b
-4r
-=5
-8b
-8cc
-8dd
-8dd
-8ee
-8ff#}
+=3	=3
+{8a	swiat
+8f#	przy-
+8d	-bie-
+8ee	-ra
+8dd	in-
+8cc	-ną
+=4	=4
+8ccL	po-
+8bJ	.
+4b	-stać,
+4r	.
+=5	=5
+8b	a
+8cc	ja
+8dd	w_ser-
+8dd	-cu
+8ee	ra-
+8ff#}	-nę
 !!LO:LB:g=esac
-=6
-{8gg
-8ee
-4cc
-4r
-=7
-8dd
-8dd
-8ee
-8dd
-8cc
-8f#
-=8
-8a
-8g
-4g}
-4r
-==
-*-
+=6	=6
+{8ggL	czu-
+8eeJ	.
+4cc	-ję,
+4r	.
+=7	=7
+8dd	sa-
+8dd	-ma
+8ee	smu-
+8dd	-tna
+8cc	mu-
+8f#	-sze
+=8	=8
+8aL	zo-
+8gJ	.
+4g}	-stać.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Maiden, Bachelor
+!!!role-listener: God
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Już się wiosna rozpoczyna,
+!!swiat przybiera inną postać,
+!!a ja w sercu ranę czuję,
+!!sama smutna musze zostać.
+!!@VERSE:
+!!Com ci winna, Boże Panie,
+!!żeś mnie wplątał w to kochanie,
+!!ja go kocham nad swe życie,
+!!a on inszych patrzy skrycie.
+!!@VERSE:
+!!Ten, co go kocham nad życie,
+!!z tego się nic nie spodziewam,
+!!tylko muszę płakać skrycie
+!!i łzy ze swych ócz wyléwam.
+!!@VERSE:
+!!Pójdę tam nad róg strumika.
+!!gdzie tam płynie przy mej lubej,
+!!zaszię jej ciężkie westchnienia,
+!!co jest przyczyną mej zguby.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=116 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 107} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 107}
 !!!page: 107
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

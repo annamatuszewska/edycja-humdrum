@@ -3,77 +3,105 @@
 !!!source: DWOK42
 !!!id: 421582
 !!!signature: 42158200000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8g
-8f#
-4g
-4b
-=2
-8g
-8d
-4g
-4b
-=3
-8g
-8f#
-8g
-8a
-8b
-8cc}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8g	Pa-
+8f#	-ste-
+4g	-re-
+4b	-czka
+=2	=2
+8g	swit
+8d	spo-
+4g	-strze-
+4b	-ga,
+=3	=3
+8g	z_roz-
+8f#	-ko-
+8g	-szą
+8a	się
+8b	w_gaj
+8cc}	od-
 !!LO:LB:g=esac
-=4
-{2dd
-4b
-=5
-8cc
-8b
-4a
-4cc
-=6
-8b
-8a
-4g
-4g}
+=4	=4
+{2dd	-da-
+4b	-la
+=5	=5
+8cc	i
+8b	nu-
+4a	-cąc
+4cc	po
+=6	=6
+8b	po-
+8a	-lu
+4g	bie-
+4g}	-ga,
 !!LO:LB:g=esac
-=7
-{8a
-8g
-8f#
-8d
-8ee
-8dd
-=8
-2dd
-4b
-=9
-8b
-8g
-2dd}
+=7	=7
+{8a	a
+8g	jej
+8f#	głos
+8d	się
+8ee	tak
+8dd	roz-
+=8	=8
+2dd	-le-
+4b	-ga:
+=9	=9
+8b	la
+8g	la
+2dd}	la.[...].
 !!LO:LB:g=esac
-=10
-{8a
-8f#
-2dd
-=11
-8a
-8g
-8f#
-8a
-8dd
-8f#
-=12
-8g
-8b
-2g}
-==
-*-
+=10	=10
+{8a	.
+8f#	.
+2dd	.
+=11	=11
+8a	.
+8g	.
+8f#	.
+8a	.
+8dd	.
+8f#	.
+=12	=12
+8g	.
+8b	.
+2g}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Pastereczka swit spostrzega,
+!!z rozkoszą się w gaj oddala
+!!i nucąc po polu biega,
+!!a jej głos się tak rozlega:
+!!la la la [...].
+!!@VERSE:
+!!Z pasterzem się wdzięcznie,
+!!że Goral gust jej wychwala,
+!!on ją prosi, a ta nuci:
+!!la la la [...].
+!!@VERSE:
+!!Wieczor poszła między sosny,
+!!w sosnach ozwał się głos z dala,
+!!nucił pasterz zadumiały,
+!!a głosy się rozlegały
+!!z cicha tak: la la la [...].
+!!@VERSE:
+!!Ten ją podarkiem wstążeczek,
+!!ten łzą, ten sercem zniewala,
+!!ona żartuje z piosneczek,
+!!z głosu, serca i wstążeczek,
+!!tylko nuci: la la la [...].
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=117 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 108} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 108}
 !!!page: 108
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

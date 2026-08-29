@@ -3,77 +3,98 @@
 !!!source: DWOK42
 !!!id: 421601
 !!!signature: 42160100000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16d
-16d
-8d
-8d
-=2
-16g
-16g
-8g
-8g
-=3
-16a
-16cc
-8cc
-8ee
-=4
-4dd
-8dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16d	Ku-
+16d	-ka-
+8d	-we-
+8d	-czka
+=2	=2
+16g	w_le-
+16g	-sie
+8g	ku-
+8g	-ka,
+=3	=3
+16a\	bo
+16cc	po-
+8cc	-ra-
+8ee	-nek
+=4	=4
+4dd	czu-
+8dd}	-je.
 !!LO:LB:g=esac
-=5
-{16d
-16d
-8d
-8d
-=6
-16g
-16g
-8g
-8g
-=7
-16a
-16cc
-8cc
-8ee
-=8
-4dd
-8dd}
+=5	=5
+{16d	dzię-
+16d	-cio-
+8d	-łe-
+8d	-czek
+=6	=6
+16g	w_drze-
+16g	-wo
+8g	pu-
+8g	-ka,
+=7	=7
+16a\	sło-
+16cc	-wik
+8cc	wy-
+8ee	-śpie-
+=8	=8
+4dd	-wu-
+8dd}	-je:
 !!LO:LB:g=esac
-=9
-{8dd
-8.dd
-16cc
-=
-16b
-16a
-24cc
-24b
-24a
-16b
-16g
-=10
-16f#
-16a
-16dd
-16cc#
-16dd
-16f#
-=11
-8a
-8g}
-8r
-==
-*-
+=9	=9
+{8dd	Hej,
+8.dd	da-
+16cc	-na,
+=10	=10
+16b	mo-
+16a	-ja
+(24ccL	da-
+24b	.
+24aJ	.
+16b)	.
+16g	-na,
+=11	=11
+16f#	Fe-
+16a	-li-
+(16ddL	-niu
+16cc#J	.
+16dd)	.
+16f#	ko-
+=12	=12
+8a	-cha-
+8g}	-na.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Kukaweczka w lesie kuka,
+!!bo poranek czuje.
+!!dzięciołeczek w drzewo puka,
+!!słowik wyśpiewuje.
+!!Hej, dana, moja dana,
+!!Feliniu kochana.
+!!@VERSE:
+!!Próżno główkę tkasz w poduszkę,
+!!nie uśniesz, nieboże,
+!!kiedy ciężkie masz serduszko,
+!!nic to nie pomoże.
+!!Hej, dana, moja dana,
+!!Feliniu kochana.
+!!@@END: VERSES
 !!!ONB: wariant w takcie 3 i 7: 444_6_. wariant w ostatnim takcie: 211_0_
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=131 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 122} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 122}
 !!!page: 122
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

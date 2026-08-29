@@ -3,57 +3,74 @@
 !!!source: DWOK42
 !!!id: 421565
 !!!signature: 42156500000
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M3/4
-=1
-{8b-
-8dd
-4ff
-4ff
-=2
-8ff
-8cc
-4ee-
-4ee-
-=3
-8ff
-8dd
-4b-
-4cc
-=4
-8f
-8f
-4a
-4b-}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M3/4	*
+=1	=1
+{8b-	Kot
+8dd	ko-
+4ff	-te-
+4ff	-ckę
+=2	=2
+8ff	o-
+8cc	-ka-
+4ee-	-li-
+4ee-	-cył,
+=3	=3
+8ff	ach,
+8dd	ko-
+4b-	-te-
+4cc	-ckę
+=4	=4
+8f	be-
+8f\	-dzie
+4a\	[le-
+4b-/}	-cył],
 !!LO:LB:g=esac
-=5
-{8b-
-8dd
-4b-
-4cc
-=6
-8b-
-8dd
-4ee-
-4ee-
-=7
-8ff
-8dd
-4b-
-4cc
-=8
-8f
-8a
-4b-
-4f}
-==
-*-
+=5	=5
+{8b-	niech
+8dd	ko-
+4b-	-te-
+4cc	-cka
+=6	=6
+8b-	nie
+8dd	swy-
+4ee-	-wo-
+4ee-	-li,
+=7	=7
+8ff	bo
+8dd	ko-
+4b-	-te-
+4cc	-ckę
+=8	=8
+8f	brzu-
+8a	-sek
+4b-	bo-
+4f}	-li.
+==	==
+*-	*-
+!!!role-singer: Narrator, Cat
+!!!role-listener: She-Cat
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Kot koteckę okalicył,
+!!ach, koteckę bedzie [lecył],
+!!niech kotecka nie swywoli,
+!!bo koteckę brzusek boli.
+!!@VERSE:
+!!Kot pojechał po doktora,
+!!boć kotecka bardzo chora.
+!!Kot przyjeżdża z doktorami,
+!!kotka leży z bachorami.
+!!@@END: VERSES
 !!!ONB: wariant w takcie 4: -5-71_1_
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=107 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 98} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 98}
 !!!page: 98
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

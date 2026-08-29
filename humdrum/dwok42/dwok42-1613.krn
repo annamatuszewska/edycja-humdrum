@@ -3,93 +3,107 @@
 !!!source: DWOK42
 !!!id: 421613
 !!!signature: 42161300000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M4/4
-=1
-{4b
-8cc
-8cc
-4.dd
-8b
-=2
-8dd
-8ee
-8dd
-8cc
-4b
-4a
-=3
-4b
-8cc
-8cc
-4.dd
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M4/4	*
+=1	=1
+{4b	O
+8cc	wio-
+8cc	-sno,
+4.dd	wio-
+8b	-sno,
+=2	=2
+8dd	nie
+8ee	mo-
+8dd	-gę
+8cc	cię
+4b	po-
+4a	-jąć,
+=3	=3
+4b	każ-
+8cc	-dy
+8cc	gos-
+4.dd	-po-
+8g}	-darz
 !!LO:LB:g=esac
-=4
-{4a
-4a
-2g
-=5
-4a
-8dd
-8cc
-8b
-8gg
-8ff#
-8ee
-=6
-8dd
-8ee
-8dd
-8cc
-4b
-4a}
+=4	=4
+{4a	stros-
+4a	-ka-
+2g	-ny,
+=5	=5
+4a	ca-
+8dd	-łe
+8cc	się
+8bL	po-
+8ggJ	.
+8ff#L	-le
+8eeJ	.
+=6	=6
+8ddL	za-
+8eeJ	.
+8dd	-zie-
+8cc	-le-
+4b	-ni-
+4a}	-ło,
 !!LO:LB:g=esac
-=7
-{4g
-8b
-8cc
-8dd
-8gg
-8ee
-8cc
-=8
-4a
-4a
-2b
-=9
-4a
-8dd
-8cc
-8b
-8gg
-8ff#
-8ee}
+=7	=7
+{4g	mo-
+8b	-jej
+8cc	psze-
+8ddL	-ni-
+8gg	.
+8eeJ	.
+8cc	-czki
+=8	=8
+4a	nie
+4a	wi-
+2b	-dać,
+=9	=9
+4a	zie-
+8dd	-mia
+8cc	ob-
+8bL	-ru-
+8gg	.
+8ff#J	.
+8ee}	-sza,
 !!LO:LB:g=esac
-=10
-{8dd
-8ee
-8dd
-8cc
-4b
-4a
-=11
-4d
-8g
-8b
-4.dd
-8f#
-=12
-4a
-4a
-2g}
-==
-*-
+=10	=10
+{8ddL	po-
+8eeJ	.
+8dd	-wróć
+8cc	u-
+4b	-ro-
+4a	-dzaj,
+=11	=11
+4d	po-
+8g	-wróć
+8b	u-
+4.dd	-ro-
+8f#	-dzaj,
+=12	=12
+4a	ko-
+4a	-cha-
+2g}	-ny.
+==	==
+*-	*-
+!!!role-singer: Farmer
+!!!role-listener: Spiring
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!O wiosno, wiosno, nie mogę cię pojąć,
+!!każdy gospodarz stroskany,
+!!całe się pole zazieleniło,
+!!mojej pszeniczki nie widać,
+!!ziemia obrusza, powróć urodzaj,
+!!powróć urodzaj, kochany.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=138 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 129-130} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, pp. 129-130}
 !!!page: 129-130
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

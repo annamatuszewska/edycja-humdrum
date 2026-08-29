@@ -3,78 +3,88 @@
 !!!source: DWOK42
 !!!id: 421602
 !!!signature: 42160200000
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M3/8
-=1
-{8f#
-8.a
-16g#
-=2
-8a
-4b
-=3
-16dd
-16cc#
-8dd
-8ff#
-=4
-8ee
-4a}
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M3/8	*
+=1	=1
+{8f#	Co
+8.a	to
+16g#	za
+=2	=2
+8a	wio-
+4b	-sna,
+=3	=3
+16dd	że
+16cc#	ro-
+8dd	-la
+8ff#	tak
+=4	=4
+8ee	zry-
+4a}	-ta,
 !!LO:LB:g=esac
-=5
-{8f#
-8.a
-16g#
-=6
-8a
-4b
-=7
-16dd
-16cc#
-8dd
-8ff#
-=8
-8ee
-4a}
+=5	=5
+{8f#	że
+8.a	za-
+16g#	-miast
+=6	=6
+8a	kwia-
+4b	-tów
+=7	=7
+16dd	i
+16cc#	tra-
+8dd	-wy
+8ff#	zie-
+=8	=8
+8ee	-le-
+4a}	-ni
 !!LO:LB:g=esac
-=9
-{8f#
-8.f#
-16g
-=10
-8f#
-4f#
-=11
-8a
-8.cc#
-16ee
-=12
-4gg
-8ff#}
+=9	=9
+{8f#	pię-
+8.f#	-kna
+16g	mu-
+=10	=10
+8f#	-ra-
+4f#	-wa
+=11	=11
+8a	krwią
+8.cc#	się
+16ee	czer-
+=12	=12
+4gg	-wie-
+8ff#}	-ni,
 !!LO:LB:g=esac
-=13
-{8ee
-8.dd
-16b
-=14
-8a
-4f#
-=15
-16f#
-16a
-8.g
-16e
-=16
-8e
-4d}
-==
-*-
+=13	=13
+{8ee	ro-
+8.dd	-la
+16b	bla-
+=14	=14
+8a	-de-
+4f#	-mi
+=15	=15
+16f#	tru-
+16a	-pa-
+8.g	-mi
+16e	po-
+=16	=16
+8e	-kry-
+4d}	-ta.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Co to za wiosna, że rola tak zryta,
+!!że zamiast kwiatów i trawy zieleni
+!!piękna murawa krwią się czerwieni,
+!!rola blademi trupami pokryta.
+!!@@END: VERSES
 !!!ONB: wariant w takcie 2 i 6: 5_+1__
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=132 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 123} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 123}
 !!!page: 123
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

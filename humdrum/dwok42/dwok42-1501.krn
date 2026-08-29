@@ -3,59 +3,70 @@
 !!!source: DWOK42
 !!!id: 421501
 !!!signature: 42150100000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{4dd
-4dd
-8dd
-8cc#
-=2
-8dd
-8ee
-4a
-4g
-=3
-4b
-4b
-8cc
-8b
-=4
-8f#
-8g
-4b
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{4dd	Pa-
+4dd	-ro-
+8dd	-be-
+8cc#	-czku
+=2	=2
+8dd	ja-
+8ee	-ki
+4a	ta-
+4g	-ki,
+=3	=3
+4b	nie
+4b	chodź-
+8cc	-że
+8b	ty
+=4	=4
+8f#	do
+8g	bo-
+4b	-ga-
+4g}	-téj,
 !!LO:LB:g=esac
-=5
-{4b
-8b
-8a
-8f#
-8d
-=6
-8f#
-8g
-4b
-4dd
-=7
-4b
-8b
-8a
-8f#
-8d
-=8
-8f#
-8g
-4b
-4g}
-==
-*-
+=5	=5
+{4b	bo
+8bL	bo-
+8aJ	.
+8f#	-ga-
+8d	-ta
+=6	=6
+8f#	py-
+8g	-ska
+4b	wzno-
+4dd	-si,
+=7	=7
+4b	a
+8bL	u-
+8aJ	.
+8f#	-bo-
+8d	-ga
+=8	=8
+8f#	Bo-
+8g	-ga
+4b	pro-
+4g}	-si.
+==	==
+*-	*-
+!!!role-singer: Counselor
+!!!role-listener: Farmhand
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Parobeczku jaki taki,
+!!nie chodźże ty do bogatéj,
+!!bo bogata pyska wznosi,
+!!a uboga Boga prosi.
+!!@@END: VERSES
 !!!ONB: wariant w takcie siódmym 3432-7-5
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=83 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 74} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 74}
 !!!page: 74
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

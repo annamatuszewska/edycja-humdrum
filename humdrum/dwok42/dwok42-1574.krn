@@ -3,73 +3,104 @@
 !!!source: DWOK42
 !!!id: 421574
 !!!signature: 42157400000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M4/4
-=1
-{4a
-8cc
-8cc
-4a
-4f
-=2
-8b-
-8b-
-8dd
-8b-
-4b-
-4g}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M4/4	*
+=1	=1
+{4a	Słoń-
+8cc	-ce
+8cc	nie
+4a	we-
+4f	-szło,
+=2	=2
+8b-	nie
+8b-	wsta-
+8dd	-ły
+8b-	zwie-
+4b-	-rzę-
+4g}	-ta,
 !!LO:LB:g=esac
-=3
-{8e
-8g
-8g
-8g
-4e
-4c
-=4
-8a
-8a
-8cc
-8cc
-4a
-4f}
+=3	=3
+{8eL	i-
+8gJ	.
+8g	-gra-
+8g	-ły
+4e	chło-
+4c	-pcy,
+=4	=4
+8a	a
+8a	z_nie-
+8cc	-mi
+8cc	dziew-
+4a	-czę-
+4f}	-ta,
 !!LO:LB:g=esac
-=5
-{4g
-8b-
-8g
-4e
-4c
-=6
-8f
-8g
-8a
-8b-
-4.cc
-8b-}
+=5	=5
+{4g	i
+8b-	ja
+8g	tak
+4e	i-
+4c	-grał
+=6	=6
+8f	ze
+8g	swo-
+8a	-ją
+8b-	Ma-
+4.cc	-ry-
+8b-}	-nią,
 !!LO:LB:g=esac
-=7
-{8a
-8b-
-8cc
-8dd
-4.cc
-8b-
-=8
-8a
-8a
-8g
-8g
-4f
-4f}
-==
-*-
+=7	=7
+{8aL	kie-
+8b-J	.
+8cc	-dym
+8dd	był
+4.cc	chło-
+8b-	-pcem,
+=8	=8
+8a	a
+8a	o-
+8g	-na
+8g	dziew-
+4f	-czy-
+4f}	-ną.
+==	==
+*-	*-
+!!!role-singer: Narrator, Bachelor
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Słońce nie weszło, nie wstały zwierzęta,
+!!igrały chłopcy, a z niemi dziewczęta,
+!!i ja tak igrał ze swoją Marynią,
+!!kiedym był chłopcem, a ona dziewczyną.
+!!@VERSE:
+!!Moja Marynia posła na jagody,
+!!posedem i ja dla lepsej wygody,
+!!zbierałem i ja ze swoją Marynią,
+!!kiedym [był chłopcem, a ona dziewczyną].
+!!@VERSE:
+!!Moja Marynia posła na orzechy,
+!!posedem i ja dla lepsej uciechy,
+!!zbierałem i ja [ze swoją Marynią],
+!!kiedym [był chłopcem, a ona dziewczyną].
+!!@VERSE:
+!!Moja Marynia posła na grzyby,
+!!cyli do stawu łowić drobne ryby,
+!!łowiłem i ja [ze swoją Marynią],
+!!kiedym [był chłopcem, a ona dziewczyną].
+!!@VERSE:
+!!Moja Marynia namówila gacha,
+!!wzięła za rąckę i do boru macha,
+!!tak i ja machał ze [swoją Marynią],
+!!kiedym [był chłopcem, a ona dziewczyną].
+!!@@END: VERSES
 !!!ONB: wariant w takcie 2: 4464422_, wariant w takcie 4: 3_553_1_
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=112 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 103} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 103}
 !!!page: 103
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

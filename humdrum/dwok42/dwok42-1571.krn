@@ -3,57 +3,68 @@
 !!!source: DWOK42
 !!!id: 421571
 !!!signature: 42157100000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{4.cc
-8g
-8cc
-8ee
-=2
-8gg
-8gg
-4ff
-4dd
-=3
-8dd
-8dd
-4dd
-8ff
-8aa
-=4
-8gg
-8ff
-4gg
-4ff}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{4.cc	We-
+8g	-so-
+8cc	-ły
+8ee	ja
+=2	=2
+8gg	pa-
+8gg	-ro-
+4ff	-be-
+4dd	-czek,
+=3	=3
+8dd	za-
+8dd	-le-
+4dd	-cam
+8ffL	się
+8aaJ	.
+=4	=4
+8gg	do
+8ff	dzie-
+4gg	-we-
+4ff}	-czek,
 !!LO:LB:g=esac
-=5
-{4.ee
-8dd
-8ee
-8ff
-=6
-8ee
-8dd
-4cc
-4a
-=7
-8a
-8a
-4a
-4dd
-=8
-8g
-8b
-4cc
-4g}
-==
-*-
+=5	=5
+{4.ee	[do
+8dd	dzie-
+8ee	-we-
+8ff	-czek
+=6	=6
+8ee	się
+8dd	za-
+4cc	-le-
+4a	-cam,
+=7	=7
+8a	każ-
+8a	-déj
+4a	ta-
+4dd	-niec
+=8	=8
+8g	przy-
+8b	-o-
+4cc	-bie-
+4g}	-cam].
+==	==
+*-	*-
+!!!role-singer: Farmhand
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Wesoły ja parobeczek,
+!!zalecam się do dzieweczek,
+!![do dzieweczek się zalecam,
+!!każdéj taniec przyobiecam].
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=110 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 101} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 101}
 !!!page: 101
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

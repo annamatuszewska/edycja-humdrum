@@ -3,61 +3,77 @@
 !!!source: DWOK42
 !!!id: 421518
 !!!signature: 42151800000
-**kern
-*clefG2
-*k[]
-*a:
-*M2/4
-=1
-{8a
-8cc
-8ee
-8ee
-=2
-8dd
-8dd
-8ee
-16cc
-16b
-=3
-8a
-8cc
-8ee
-8ee
-=4
-8dd
-8ff
-8ee
-16cc
-16b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M2/4	*
+=1	=1
+{8a	[W_ol-
+8cc	-sy-
+8ee	-nie
+8ee	ja
+=2	=2
+8dd	woł-
+8dd	-ki
+8ee	pa-
+16ccL	-sła],
+16bJ	.
+=3	=3
+8a	w_ol-
+8cc	-sy-
+8ee	-nie
+8ee	mnie
+=4	=4
+8dd	no-
+8ff	-cka
+8ee	za-
+16ccL	-sła,
+16bJ}	.
 !!LO:LB:g=esac
-=5
-{8dd
-16cc
-16b
-8a
-8a
-=6
-8g#
-8g#
-8a
-16b
-16cc
-=7
-8dd
-16cc
-16b
-8a
-8a
-=8
-8g#
-8g#
-8a
-8e}
-==
-*-
+=5	=5
+{8dd	[w_ol-
+16ccL	-sy-
+16bJ	.
+8a	-nie
+8a	ich]
+=6	=6
+8g#	po-
+8g#	-gu-
+8a	-bi-
+16bL	-ła,
+16ccJ	.
+=7	=7
+8dd	[su-
+16ccL	-ka-
+16bJ	.
+8a	-ją-
+8a	-cy
+=8	=8
+8g#	ka-
+8g#	-wa-
+8a	-li-
+8e}	-ra].
+==	==
+*-	*-
+!!!role-singer: Sherpherdess
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!![W olsynie ja wołki pasła].
+!!w olsynie mnie nocka zasła,
+!![w olsynie ich] pogubiła,
+!![sukający kawalira].
+!!@VERSE:
+!![..................]
+!!przynieśli mi z garkiem kasę,
+!!kasę wyjem, garnek stłukę,
+!!całujze mnie [.........].
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=91 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 82} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 82}
 !!!page: 82
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

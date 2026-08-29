@@ -3,110 +3,138 @@
 !!!source: DWOK42
 !!!id: 421593
 !!!signature: 42159300000
-**kern
-*clefG2
-*k[]
-*C:
-*M4/4
-=1
-{8e
-8g
-8cc
-8cc
-4.cc
-8g
-=2
-8e
-8g
-8cc
-8cc
-8cc
-8b
-4b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M4/4	*
+=1	=1
+{8e	A
+8g	ty,
+8cc	pta-
+8cc	-sku,
+4.cc	w_la-
+8g	-sku,
+=2	=2
+8e	co
+8g	wszys-
+8cc	-tkich
+8cc	spo-
+8ccL	-ko-
+8bJ	.
+4b}	-isz,
 !!LO:LB:g=esac
-=3
-{8g
-8b
-8dd
-8dd
-4.dd
-8g
-=4
-8g
-8g
-8a
-8g
-8g
-8cc
-4cc}
+=3	=3
+{8g	a
+8b	mnie
+8dd	nie-
+8dd	-szczę-
+4.dd	-sne-
+8g	-go
+=4	=4
+8g	go-
+8g	-ry-
+8a	-ca-
+8g	-mi
+8gL	po-
+8ccJ	.
+4cc}	-isz.
 !!LO:LB:g=esac
-=5
-{8e
-8g
-8cc
-8dd
-4.ee
-8dd
-=6
-8cc
-8b
-8cc
-8a
-8f
-8a
-4a}
+=5	=5
+{8e	A
+8g	tę
+8cc	je-
+8dd	-dną
+4.ee	bo-
+8dd	-leść,
+=6	=6
+8cc	co
+8b	ją
+8cc	zno-
+8a	-sić
+8fL	mu-
+8aJ	.
+4a}	-szę,
 !!LO:LB:g=esac
-=7
-{8g
-8g
-8g
-8g
-4.g
-8g
-=8
-8g
-8g
-8a
-8b
-8dd
-8cc
-4cc}
+=7	=7
+{8g	że
+8g	mo-
+8g	-ja
+8g	ko-
+4.g	-chan-
+8g	-ka
+=8	=8
+8g	za-
+8g	-pła-
+8a\	-ka-
+8b	-ła
+8ddL	du-
+8ccJ	.
+4cc}	-szę.
 !!LO:LB:g=esac
-=9
-{8e
-8g
-8cc
-8dd
-4.ee
-8dd
-=10
-8cc
-8b
-8cc
-8a
-8f
-8a
-4a}
+=9	=9
+{8e	A
+8g	tę
+8cc	je-
+8dd	-dną
+4.ee	bo-
+8dd	-leść,
+=10	=10
+8cc	co
+8b	ją
+8cc	zno-
+8a	-sić
+8fL	mu-
+8aJ	.
+4a}	-szę,
 !!LO:LB:g=esac
-=11
-{8g
-8g
-8g
-8g
-4.g
-8g
-=12
-8g
-8g
-8ff
-8b
-8dd
-8cc
-4cc}
-==
-*-
+=11	=11
+{8g	że
+8g	mo-
+8g	-ja
+8g	ko-
+4.g	-chan-
+8g	-ka
+=12	=12
+8g	za-
+8g	-pła-
+8ff/	-ka-
+8b/	-ła
+8ddL	du-
+8ccJ	.
+4cc}	-szę.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!role-listener: Bird
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!A ty, ptasku, w lasku, co wszystkich spokoisz,
+!!a mnie nieszczęsnego gorycami poisz.
+!!A tę jedną boleść, co ją znosić muszę,
+!!że moja kochanka zapłakała duszę.
+!!@VERSE:
+!!A tę drugą boleść mama mi zadała,
+!!że się z moją lubą żenić zabraniała.
+!!I tak te tęskności, te smutne doliny,
+!!przykryłyć go ciężkie, grobowe mogiły.
+!!@VERSE:
+!!Chodziła matka po rogu smętarza,
+!!usłyszała ciężkie grobowe jęczenia.
+!!Czyli ci, synu, tu cięży mogiła,
+!!czyli ci ta deska grobowa niemiła?
+!!@VERSE:
+!!Ani mi, matko, tu cięży mogiła,
+!!ani mi deska grobowa niemiła;
+!!żal mi kochanki, kiedy ona płacze.
+!!Kiedy ona płacze i mnie przeklina,
+!!wtenczas drzy ciało, matko, twego syna.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=125 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 116} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 116}
 !!!page: 116
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

@@ -3,92 +3,114 @@
 !!!source: DWOK42
 !!!id: 421551
 !!!signature: 42155100002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8cc
-8ee
-4ee
-4gg
-=2
-8dd
-8b
-4dd
-8cc
-8a
-=3
-8cc
-8ee
-4ee
-4gg}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8cc	Te-
+8ee	-go
+4ee	ro-
+(8ff#q	.
+4gg)	-ku,
+=2	=2
+8dd	tej
+8b	je-
+4ddM	-sie-
+8ccL	-ni,
+8aJ	.
+=3	=3
+(8bq	.
+8cc)	ty
+8ee	się,
+4ee	Ja-
+(8ff#q	.
+4gg)}	-siu,
 !!LO:LB:g=esac
-=4
-{8gg
-8ff#
-8dd
-8ee
-8cc
-8a
-=5
-8g
-8a
-4b
-8a
-8cc
-=
-8ee
-24dd
-24ee
-24dd
-4b
-8a
-8f#}
+=4	=4
+{8ggL	nie
+8ff#J/	o-
+8ddL	-ze-
+8eeJ	.
+8ccL	-nis,
+(8bq	.
+8aJ)	.
+=5	=5
+8gL	boś
+8aJ\	.
+4b	ty
+8a	prze-
+(8bq	.
+8cc)	-sed
+=6	=6
+8ee	ta-
+24ddL	-kie
+24ee	.
+24ddJ/	.
+4b	mies-
+8aL	-ce,
+(8gq	.
+8f#J)}	.
 !!LO:LB:g=esac
-=6
-{8g
-8a
-4b
-8a
-8cc
-=7
-8b
-8a
-4g
-4g
-=8
-8g
-8a
-4b
-8a
-8cc}
+=7	=7
+{8g	co
+8a	cię
+4b	za-
+8aL	-dna
+8ccJ	.
+=8	=8
+8bL	pan-
+8aJ/	-na
+4g	nie
+4g	chce,
+=9	=9
+8gL	boś
+8aJ\	.
+4b	ty
+8a	prze-
+(8bq	.
+8cc)}	-sed
 !!LO:LB:g=esac
-=
-{8ee
-24dd
-24ee
-24dd
-4b
-8a
-8f#
-=9
-8g
-8a
-4b
-8a
-8cc
-=10
-8dd
-8b
-4dd
-8cc
-8a}
-==
-*-
+=10	=10
+{8ee	ta-
+24ddL	-kie
+24ee	.
+24ddJ/	.
+4b	mie-
+8aL	-sce,
+(8gq	.
+8f#J)	.
+=11	=11
+8g	co
+8a	cię
+4b	za-
+8aL	-dna
+8ccJ	.
+=12	=12
+8dd	pan-
+8b	-na
+4ddM	nie
+8ccL	chce.
+8aJ}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!!role-listener: Bachelor
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Tego roku, tej jesieni,
+!!ty się, Jasiu, nie ozenis,
+!!|:boś ty przesed takie miesce,
+!!co cię zadna panna nie chce:|.
+!!@VERSE:
+!!Ani panna, ani wdowa,
+!!tylko świnia z Bodzanowa.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=102 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 93-94} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, pp. 93-94}
 !!!page: 93-94
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

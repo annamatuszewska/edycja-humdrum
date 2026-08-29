@@ -3,59 +3,68 @@
 !!!source: DWOK42
 !!!id: 421517
 !!!signature: 42151700000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8g
-8b
-4dd
-4dd
-=2
-8dd
-8b
-4g
-4b
-=3
-4cc
-4ee
-4a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8g	A
+8b	za
+4dd	la-
+4dd	-sem
+=2	=2
+8dd	mo-
+8b	-je
+4g	by-
+4b	-dło,
+=3	=3
+4cc	za
+4ee	la-
+4a}	-sem,
 !!LO:LB:g=esac
-=4
-{8f#
-8a
-4cc
-4cc
-=5
-8cc
-8a
-4f#
-4a
-=6
-4a
-4cc
-4dd}
+=4	=4
+{8f#	nie
+8a	pój-
+4cc	-dzie
+4cc	tam
+=5	=5
+8cc	ko-
+8a	-cha-
+4f#	-ne-
+4a	-cka,
+=6	=6
+4a	mu-
+4cc	-sę
+4dd}	sam,
 !!LO:LB:g=esac
-=7
-{8f#
-8a
-4cc
-4cc
-=8
-8cc
-8a
-4f#
-4a
-=9
-4a
-4b
-4g}
-==
-*-
+=7	=7
+{8f#	nie
+8a	pój-
+4cc	-dzie
+4cc	tam
+=8	=8
+8cc	ko-
+8a	-cha-
+4f#	-ne-
+4a	-cka,
+=9	=9
+4a	mu-
+4b	-sę
+4g}	sam.
+==	==
+*-	*-
+!!!role-singer: Shepherd
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!A za lasem moje bydło, za lasem,
+!!|:nie pójdzie tam kochanecka, musę sam:|.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=90 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 81-82} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, pp. 81-82}
 !!!page: 81-82
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

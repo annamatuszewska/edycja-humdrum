@@ -3,45 +3,69 @@
 !!!source: DWOK42
 !!!id: 421490
 !!!signature: 42149000000
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M2/4
-=1
-{4ee
-8cc#
-8ee
-=2
-8ee
-8dd
-4b
-=3
-4b
-8cc#
-8dd#
-=4
-4ee
-4a}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M2/4	*
+=1	=1
+{4ee	Przy-
+8cc#	-je-
+8ee	-chał
+=2	=2
+8eeL	pa-
+8ddJ	.
+4b	-nicz
+=3	=3
+4b	zza
+8cc#	sie-
+8dd#	-dmiu
+=4	=4
+4ee	gra-
+4a}	-nic,
 !!LO:LB:g=esac
-=5
-{4cc#
-8dd
-8b
-=6
-4a
-4cc#
-=7
-4e
-8f#
-8g#
-=8
-4a
-4e}
-==
-*-
+=5	=5
+{4cc#	chciał
+8dd	się
+8b	o-
+=6	=6
+4a	-że-
+4cc#	-nić,
+=7	=7
+4e	a-
+8f#	-le
+8g#	nie
+=8	=8
+4a	miał
+4e}	nic.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Przyjechał panicz
+!!zza siedmiu granic,
+!!chciał się ożenić,
+!!ale nie miał nic.
+!!@VERSE:
+!!Czapeczka — krymka,
+!!szabelka — dymka,
+!!koniczek — turek,
+!!a chłop — Mazurek.
+!!@VERSE:
+!!Kapciuch malowany,
+!!Słodziną napchany,
+!!koniczek pląsa,
+!!słodziny wytrząsa.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: 1490. [W zapisie z teki 33/1305 k. 30 nad mel. nazwa tańca: polka.]
+!![damasceńska, ze stali damasceńskiej]
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=79 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 70} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 70}
 !!!page: 70
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

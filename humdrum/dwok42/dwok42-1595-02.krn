@@ -3,74 +3,108 @@
 !!!source: DWOK42
 !!!id: 421595
 !!!signature: 42159500002
-**kern
-*clefG2
-*k[b-]
-*F:
-*M4/4
-=1
-{4f
-8a
-8f
-4ff
-8ee
-8dd
-=2
-8cc
-8dd
-8cc
-8b-
-4a
-8g
-8f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M4/4	*
+=1	=1
+!!LO:TX:a:t=Dworska (znana i między ludem)
+{4f	Mo-
+8a	-ja
+8f	dziew-
+(4ff	-czy-
+8ee)	.
+8dd	-no,
+=2	=2
+8ccL	by-
+8ddJ/	.
+8cc	-waj
+8b-	mi
+(4a	zdro-
+8g)	.
+8f}	-wa,
 !!LO:LB:g=esac
-=3
-{8g
-8f
-8e
-8g
-4.b-
-8g
-=4
-8a
-8b-
-8cc
-8a
-4f}
-4r
+=3	=3
+{8gL	bo
+8fJ\	.
+8e	już
+8g	się
+4.b-	z_to-
+8g	-bą
+=4	=4
+8aL	roz-
+8b-J\	.
+8ccL	-sta-
+8aJ/	.
+4f}	-ję,
+4r	.
 !!LO:LB:g=esac
-=5
-{8g
-8f
-8e
-8g
-4.b-
-8dd
-=6
-8cc
-8a
-8b-
-8g
-4.f
-8a}
+=5	=5
+{8gL	bo
+8fJ\	.
+8e	już
+8g	o-
+4.b-	-djeż-
+8dd	-dżam
+=6	=6
+8ccL	w_cu-
+8aJ/	.
+8b-	-dze
+8g	kra-
+4.f	-i-
+8a}	-ny,
 !!LO:LB:g=esac
-=7
-{8g
-8f
-8e
-8g
-4.b-
-8g
-=8
-4a
-4cc
-4f}
-4r
-==
-*-
+=7	=7
+{8gL	Pa-
+8fJ\	.
+8e	-nu
+8g	cię
+4.b-	Bo-
+8g	-gu
+=8	=8
+4a	od-
+4cc	-da-
+4f}	-ję.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Moja dziewczyno, bywaj mi zdrowa,
+!!bo już się z tobą rozstaję,
+!!bo już odjeżdżam w cudze krainy,
+!!Panu cię Bogu oddaję.
+!!@VERSE:
+!!Bodaj mnie była ziemia pożarła,
+!!nim ja się w tobie kochała,
+!!w takim chłopcu obłudnym na świecie,
+!!bodaj cię była nie znała!
+!!@VERSE:
+!!I tys tez ze mną obłudnie zyła,
+!!z innemiś nocki trawiła,
+!!tak mi mówili me przyjaciele,
+!!tak mi powiedzieli somsiedzi.
+!!@VERSE:
+!!Jakiś ty głupi z twoim rozumem,
+!!ześ ty uwierzył somsiadom,
+!!a oni tobie dobrze nie zycyli,
+!!tylko jesce, owszem, z twą zdradą.
+!!@VERSE:
+!!Moja dziewcyno, moje kochanie,
+!!wyjdź na pole na pozegnanie,
+!!wyjdź, wyjdź, podaj rąckę,
+!!niech zagasi tę gorąckę,
+!!która dodaje żałości.
+!!@@END: VERSES
 !!!ONB: Melodia dworska, znana też między ludem
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=127 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 118} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 118}
 !!!page: 118
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

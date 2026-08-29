@@ -3,63 +3,100 @@
 !!!source: DWOK42
 !!!id: 421596
 !!!signature: 42159600000
-**kern
-*clefG2
-*k[]
-*a:
-*M6/8
-=1
-{8ee
-8ee
-8ee
-4ff
-8ee
-=2
-8dd
-8dd
-8dd
-4ee
-8cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M6/8	*
+=1	=1
+{8ee	Już
+8ee	noc
+8ee	swym
+4ff	płasz-
+8ee	-czem
+=2	=2
+8dd	zie-
+8dd	-mię
+8dd	po-
+4ee	-kry-
+8cc}	-wa,
 !!LO:LB:g=esac
-=3
-{8cc
-8b
-8a
-4ee
-8cc
-=4
-4ee
-8ee
-4ee
-8r
-=5
-8e
-8g#
-8b
-4ee
-8dd}
+=3	=3
+{8cc	księ-
+8b	-życ
+8a	u-
+4ee	-bie-
+8cc	-ga
+=4	=4
+4ee	w_pół
+8ee	dro-
+4ee	-gi,
+8r	.
+=5	=5
+8e	ka-
+8g#	-żdy
+8b	spo-
+4ee	-koj-
+8dd}	-nie
 !!LO:LB:g=esac
-=6
-{8cc
-8b
-8a
-4ee
-8e
-=7
-8e
-8g#
-8b
-4ee
-8dd
-=8
-4cc
-8b
-4a}
-8r
-==
-*-
+=6	=6
+{8cc	z_tru-
+8b	-dów
+8a	spo-
+4ee	-czy-
+8e	-wa,
+=7	=7
+8e	mnie
+8g#	tyl-
+8b	-ko
+4ee	tra-
+8dd	-pi
+=8	=8
+4cc	los
+8b	sro-
+4a}	-gi.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!role-listener: God
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Już noc swym płaszczem ziemię pokrywa,
+!!księżyc ubiega w pół drogi,
+!!każdy spokojnie z trudów spoczywa,
+!!mnie tylko trapi los srogi.
+!!@VERSE:
+!!Na próżno oczy zamykam smutne,
+!!sen powiek moich nie skleja,
+!!miłość mnie dręczy, miłość okrutna,
+!!w których stargana nadzieja.
+!!@VERSE:
+!!Za cóś mnie ściga cień okrutnika,
+!!on w sercu mojem wyryty,
+!!niestety, kocham jeszcze zmiennika,
+!!ogień pożera mnie skryty.
+!!@VERSE:
+!!Gdy ja łzy leje, może w tej chwili
+!!szuka on ze mnie swej chluby,
+!!zdrajca, na łonie innych się myli,
+!!czyniąc igraszkę z mej zguby.
+!!@VERSE:
+!!Boże, ty widzisz nieszczęsne jęki,
+!!uderz go gromem straszliwym,
+!!niechaj on dozna najsroższe męki,
+!!niech nie zna, co być szczęśliwym.
+!!@VERSE:
+!!Albo zatrzymaj wyrok okrutny,
+!!lubo nie dla mnie, niech żyje,
+!!niechaj on będzie zawsze szczęśliwym,
+!!a mnie niech ciemny grób kryje.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=128 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 119} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 119}
 !!!page: 119
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

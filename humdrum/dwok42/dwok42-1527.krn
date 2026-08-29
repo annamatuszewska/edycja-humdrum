@@ -3,54 +3,67 @@
 !!!source: DWOK42
 !!!id: 421527
 !!!signature: 42152700000
-**kern
-*clefG2
-*k[f#c#]
-*b:
-*M3/4
-=1
-{8cc#
-8ee#
-4b
-4a#
-=2
-8b
-8dd
-4ff#
-8ff#
-8cc#
-=3
-4ee#
-4b
-4a#
-=4
-8g
-8e
-2f#}
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*b:	*
+*M3/4	*
+=1	=1
+{8cc#	A
+(8ddq	.
+8ee#)	źle
+4b	o-
+4a#	-rzesz,
+=2	=2
+8b	Ja-
+(8cc#q	.
+8dd)	-siu-
+4ff#	-le-
+8ff#L	-czku,
+8cc#J	.
+=3	=3
+4ee#m	źle
+4b	o-
+4a#	-rzesz,
+=4	=4
+8g	źle
+8e	o-
+2f#}	-rzesz,
 !!LO:LB:g=esac
-=5
-{8f#
-8a#
-4b
-4dd
-=6
-8cc#
-8ff#
-4ee#
-4cc#
-=7
-8dd
-8b
-4cc#
-4a#
-=8
-8g
-8e
-2f#}
-==
-*-
+=5	=5
+{8f#	nie
+8a#	bę-
+4b	-dzie
+4dd	to
+=6	=6
+8cc#	tu
+8ff#	ja-
+4ee#	-re-
+4cc#m	-czka
+=7	=7
+8ddL	ni
+8bJ	.
+4cc#	o-
+4a#	-wies,
+=8	=8
+8g	ni
+8e	o-
+2f#}	-wies.
+==	==
+*-	*-
+!!!role-singer: Counselor
+!!!role-listener: Bachelor
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!A źle orzesz, Jasiuleczku,
+!!źle orzesz, źle orzesz,
+!!nie będzie to tu jareczka
+!!ni owies, ni owies.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=95 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 86} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 86}
 !!!page: 86
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

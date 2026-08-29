@@ -3,73 +3,115 @@
 !!!source: DWOK42
 !!!id: 421491
 !!!signature: 42149100000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8g
-8g
-4b
-4b
-=2
-8dd
-8dd
-4b
-4g
-=3
-8dd
-8dd
-4b
-4g
-=4
-8cc
-8dd
-4ee
-4ee
-=5
-2.dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8g	Czte-
+8g	-ry
+4b	la-
+4b	-ta
+=2	=2
+8dd	wier-
+8dd	-niem
+4b	slu-
+4g	-żył,
+=3	=3
+8dd	wier-
+8dd	-niem
+4b	slu-
+4g	-żył
+=4	=4
+8cc	[go-
+8dd	-spo-
+4ee	-da-
+4ee	-rzo-
+=5	=5
+2.dd}	-wi],
 !!LO:LB:g=esac
-=6
-{8cc
-8a
-4.dd
-8cc
-=7
-8b
-8g
-4.cc
-8b
-=8
-8a
-8b
-4cc
-4ee
-=9
-2.dd}
+=6	=6
+{8cc	ra-
+8a	-nom
+4.dd	wsta-
+8cc	-jał,
+=7	=7
+8b	[sie-
+8g	-czkę
+4.cc	kra-
+8b	-jał,
+=8	=8
+8a	niech
+8b	on
+4cc	sam
+4ee	po-
+=9	=9
+2.dd}	-wié],
 !!LO:LB:g=esac
-=10
-{8cc
-8a
-4.dd
-8cc
-=11
-8b
-8g
-4.cc
-8b
-=12
-8a
-8ee
-4.dd
-8f#
-=13
-2.g}
-==
-*-
+=10	=10
+{8cc	ra-
+8a	-nom
+4.dd	wsta-
+8cc	-jał,
+=11	=11
+8b	[sie-
+8g	-czkę
+4.cc	kra-
+8b	-jał,
+=12	=12
+8a	niech
+8ee	on
+4.dd	sam
+8f#	po-
+=13	=13
+2.g}	-wié].
+==	==
+*-	*-
+!!!role-singer: Farmhand, Maiden
+!!!role-listener: Farmhand
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Cztery lata |:wierniem slużył:|
+!![gospodarzowi],
+!!|:ranom wstajał, [sieczkę krajał,
+!!niech on sam powié]:|.
+!!@VERSE:
+!!A to wszystko |:dla dziewczyny:|,
+!![miło mi było,
+!!|:bo mi serce, jak do smoły,
+!!do nij lepiło:|].
+!!@VERSE:
+!!Kubek srybny. |:wyzłacany:|
+!!i pierścień złoty,
+!!|:i fartuszek srybłem tkany,
+!!cudnej roboty:|.
+!!@VERSE:
+!!Aleć mi sie |:nadarzyła:|
+!!dziewczęcia zguba,
+!!|:kiedym swoje wołki pasał,
+!!a ze mną Kuba:|.
+!!@VERSE:
+!!Przyleciała |:zadyszana:|:
+!!Ach, ratuj, Stachu,
+!!|:wilk mi owce porozganiał,
+!!umrę ze strachu:|.
+!!@VERSE:
+!!Cóż to mi dasz |:za znaleźne:|,
+!!dziewcyno miła?
+!!|:Odpowiada: Dam ci siebie,
+!!jeśli chcesz tego:|.
+!!@VERSE:
+!!I wianeczek |:z rozmarynu:|,
+!!piękny, świeżuchny,
+!!|:czegoż więcej można żądać
+!!od tej dziewuchny:|.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=80 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 71} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 71}
 !!!page: 71
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

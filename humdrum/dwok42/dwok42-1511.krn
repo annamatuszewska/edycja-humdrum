@@ -3,59 +3,69 @@
 !!!source: DWOK42
 !!!id: 421511
 !!!signature: 42151100000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8dd
-8cc
-8b
-=2
-4a
-8g
-=3
-8b
-8cc
-8b
-=4
-8dd
-8cc
-8b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8dd	Je-
+8cc	-dna
+8b	dziew-
+=2	=2
+4a	-cy-
+8g	-na,
+=3	=3
+8b	je-
+8ccL	-dna,
+8bJ	.
+=4	=4
+8dd	po
+8cc	o-
+8b}	-gró-
 !!LO:LB:g=esac
-=5
-{4a
-8g
-=6
-8f#
-4d
-=7
-8d
-8f#
-8g
-=8
-4a
-8g}
+=5	=5
+{4a	-de-
+8g	-cku
+=6	=6
+8f#	bie-
+4d	-gła,
+=7	=7
+8d	dro-
+8f#	-bne
+8g	kwia-
+=8	=8
+4a	-te-
+8g}	-cki
 !!LO:LB:g=esac
-=9
-{8b
-8cc
-8b
-=10
-8dd
-8cc
-8b
-=11
-4a
-8g
-=12
-8f#
-4d}
-==
-*-
+=9	=9
+{8b	rwa-
+8ccL	-ła,
+8bJ	.
+=10	=10
+8dd	na
+8cc	słuz-
+8b	-bę
+=11	=11
+4a	na-
+8g	-rze-
+=12	=12
+8f#	-ka-
+4d}	-ła.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Jedna dziewcyna, jedna,
+!!po ogródecku biegła,
+!!drobne kwiatecki rwała,
+!!na słuzbę narzekała.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=88 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 79} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 79}
 !!!page: 79
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

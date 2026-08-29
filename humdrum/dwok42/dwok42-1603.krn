@@ -3,99 +3,109 @@
 !!!source: DWOK42
 !!!id: 421603
 !!!signature: 42160300000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16f
-16g
-8a
-8b-
-=2
-16cc
-16cc
-8a
-8f
-=3
-16cc
-16cc
-8a
-8f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16f	Pij-
+16g	-my
+8a	zdro-
+8b-	-wie
+=2	=2
+16cc	go-
+16cc	-spo-
+8a	-da-
+8f	-rza,
+=3	=3
+16cc	go-
+16cc	-spo-
+8a	-da-
+8f}	-rza,
 !!LO:LB:g=esac
-=4
-{16b-
-16dd
-16ff
-16ee
-8dd
-=5
-16cc
-16cc
-8a
-8ff
-=6
-16b-
-16dd
-16ff
-16ee
-8dd}
+=4	=4
+{16b-	kie-
+16dd	-dy
+16ffL	się
+16eeJ	.
+8dd	nam
+=5	=5
+16cc	po-
+16cc	-ra
+8a	zda-
+8ff	-rza,
+=6	=6
+16b-	kie-
+16dd	-dy
+16ffL	się
+16eeJ	.
+8dd}	nam
 !!LO:LB:g=esac
-=7
-{16cc
-16cc
-8a
-8ff
-=8
-16b-
-16b-
-8.dd
-16b-
-=9
-16a
-16a
-8cc
-8a}
+=7	=7
+{16cc	po-
+16cc	-ra
+8a	zda-
+8ff	-rza.
+=8	=8
+16b-	Pi-
+16b-	-jmy
+8.dd	zdro-
+16b-	-wie
+=9	=9
+16a	gos-
+16a	-po-
+8cc	-dy-
+8a}	-ni,
 !!LO:LB:g=esac
-=10
-{16g
-16g
-8g
-8g
-=11
-16f
-16a
-16cc
-16b
-16dd
-16cc
-=12
-16b-
-16b-
-8.dd
-16b-}
+=10	=10
+{16g	te-
+16g	-go
+8g	do-
+8g	-mu
+=11	=11
+16f	och-
+16a	-mis-
+16ccL	-trzy-
+16bJ	.
+16ddL	-ni,
+16ccJ	.
+=12	=12
+16b-	pij-
+16b-	-my
+8.dd	zdro-
+16b-}	-wie
 !!LO:LB:g=esac
-=13
-{16a
-16a
-8cc
-8a
-=14
-16g
-16g
-16b-
-16a
-8g
-=15
-16f
-16f
-8a
-8f}
-==
-*-
+=13	=13
+{16a	gos-
+16a	-po-
+8cc	-dy-
+8a	-ni,
+=14	=14
+16g	te-
+16g	-go
+16b-L	do-
+16aJ	.
+8g	-mu
+=15	=15
+16f	och-
+16f	-mis-
+8a	-trzy-
+8f}	-ni.
+==	==
+*-	*-
+!!!role-singer: Guests
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Pijmy zdrowie |:gospodarza:|,
+!!|:kiedy się nam pora zdarza:|.
+!!|:Pijmy zdrowie gospodyni,
+!!tego domu ochmistrzyni:|.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=132 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 123-124} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, pp. 123-124}
 !!!page: 123-124
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

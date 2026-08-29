@@ -3,56 +3,73 @@
 !!!source: DWOK42
 !!!id: 421533
 !!!signature: 42153300000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8b
-8dd
-4ee
-4a
-=2
-8cc
-8ee
-4dd
-4g
-=3
-8b
-8dd
-4ee
-4cc
-=4
-8d
-8d
-4f#
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8b	Wiel-
+8dd	-ka
+4ee	szko-
+4a	-da,
+=2	=2
+8cc	com
+8ee	się
+4dd	u-
+4g	-pił,
+=3	=3
+8b	sta-
+8dd	-rą
+4ee	ba-
+4cc	-bę
+=4	=4
+8d	so-
+8d	-bie
+4f#	ku-
+4g}	-pił;
 !!LO:LB:g=esac
-=5
-{8b
-8b
-4a
-4cc
-=6
-8dd
-8dd
-4a
-4g
-=7
-8b
-8b
-4a
-4cc
-=8
-8d
-8d
-4f#
-4g}
-==
-*-
+=5	=5
+{8b	ja
+8b	na
+4a	ba-
+4cc	-bce
+=6	=6
+8dd	nic
+8dd	nie
+(8bq	.
+4a)	stra-
+4g	-cę,
+=7	=7
+8b	ba-
+8b	-bkę
+4a	sprze-
+4cc	-dam,
+=8	=8
+8d	ku-
+8d	-pię
+4f#	kla-
+4g}	-cę.
+==	==
+*-	*-
+!!!role-singer: Man
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Wielka szkoda, com się upił,
+!!starą babę sobie kupił;
+!!ja na babce nic nie stracę,
+!!babkę sprzedam, kupię klacę.
+!!@VERSE:
+!!Zdechnie klacza, złupię skórę
+!!kupię ja sobie fortunę.
+!!Mam fortunę, mam talary,
+!!dostanę ja teraz panny.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=97 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 88-89} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, pp. 88-89}
 !!!page: 88-89
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

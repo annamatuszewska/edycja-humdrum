@@ -3,61 +3,83 @@
 !!!source: DWOK42
 !!!id: 421566
 !!!signature: 42156600011
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8a
-8cc
-4ee
-4gg
-=2
-4dd
-4b
-8dd
-8cc
-=3
-8a
-8cc
-4ee
-4gg}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8a	Oj,
+(8bq	.
+8cc)	ju-
+4ee	-zem
+4gg	był,
+=2	=2
+4dd	oj,
+4b	ju-
+8dd	-zem
+8cc	był.
+=3	=3
+8a	da,
+(8bq	.
+8cc)	i
+4ee	za
+4gg}	wiś-
 !!LO:LB:g=esac
-=4
-{4dd
-4b
-8g
-8f#
-=5
-8a
-8cc
-4cc
-8a
-8cc
-=6
-8ee
-8dd
-4b
-8dd
-8cc}
+=4	=4
+{4dd	-lańs-
+4b	-kim
+8g	sa-
+8f#	-dem,
+=5	=5
+8a	oj,
+8cc	wam,
+(8ddq	.
+4cc)	mo-
+8aL	-je
+8ccJ	.
+=6	=6
+8eeL	dzie-
+8ddJ	.
+4b	-wu-
+8ddL	-chy,
+8ccMJ}	.
 !!LO:LB:g=esac
-=7
-{8a
-8cc
-4cc
-8a
-8cc
-=8
-8ee
-8dd
-4b
-8g
-8f#}
-==
-*-
+=7	=7
+{8a	da,
+(8bq	.
+8cc)	i
+(8ddq	.
+4cc)	ja-
+8aL	-błu-
+8ccJ	.
+=8	=8
+8ee	-sek
+8dd	przy-
+4b	-wio-
+8gL	-zem.
+8f#J}	.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!role-listener: Maidens
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Oj, juzem był, oj, juzem był.
+!!da, i za wiślańskim sadem,
+!!oj, wam, moje dziewuchy,
+!!da, i jabłusek przywiozem.
+!!@VERSE:
+!!By ja to miał, co wy macie,
+!!ja bym wam dał, wy nie dacie,
+!!gdyby ja to z sobą nosił,
+!!kaduk by was o to prosił.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=107 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 98-99} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, pp. 98-99}
 !!!page: 98-99
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

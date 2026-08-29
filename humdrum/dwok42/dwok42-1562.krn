@@ -3,52 +3,64 @@
 !!!source: DWOK42
 !!!id: 421562
 !!!signature: 42156200000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{4ee
-4gg
-4gg
-=2
-8aa
-8gg
-4ff
-4ee
-=3
-8gg
-8gg
-4ff
-4ee
-=4
-4cc
-4a
-4g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{4ee	Oj,
+4gg	hu-
+4gg	-lał
+=2	=2
+8aa	ci
+8gg	ja,
+4ff	hu-
+4ee	-lał,
+=3	=3
+8gg	ja-
+8gg	-kem
+4ff	żon-
+4ee	-ki
+=4	=4
+4cc	nie
+(>4a	miał,
+4g)}	.
 !!LO:LB:g=esac
-=5
-{4g
-4.dd
-8b
-=6
-8cc
-8ee
-4dd
-4ff
-=7
-8ee
-8gg
-4ff
-4ee
-=8
-4cc
-4a
-4g}
-==
-*-
+=5	=5
+{4g	da,
+4.dd	ja-
+8b	-kem
+=6	=6
+8cc	żon-
+8ee	-kę
+4dd	do-
+4ff	-stał,
+=7	=7
+8ee	hu-
+8gg	-lać-
+4ff	-em
+4ee	za-
+=8	=8
+4cc	-prze-
+(>4a	-stał.
+4g)}	.
+==	==
+*-	*-
+!!!RDF**kern: > = above
+!!!role-singer: Husband
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Oj, hulał ci ja, hulał,
+!!jakem żonki nie miał,
+!!da, jakem żonkę dostał,
+!!hulaćem zaprzestał.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=106 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 97} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 97}
 !!!page: 97
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

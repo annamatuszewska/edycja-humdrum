@@ -3,57 +3,74 @@
 !!!source: DWOK42
 !!!id: 421513
 !!!signature: 42151300000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8g
-8b
-4cc
-4ee
-=2
-8gg
-8ee
-4gg
-4gg
-=3
-8gg
-8ee
-4gg
-4gg
-=4
-8gg
-8ee
-4gg
-4gg}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8g	Pa-
+8b	-ro-
+4cc	-be-
+4ee	-cku,
+=2	=2
+8gg	wstań-
+8ee	-ze
+4gg	do
+4gg	dnia,
+=3	=3
+8gg	wy-
+8ee	-bij
+4gg	sno-
+4gg	-pek,
+=4	=4
+8gg	wy-
+8ee	-bij
+4gg	ze
+4gg}	dwa.
 !!LO:LB:g=esac
-=5
-{8ee
-8gg
-4.g
-8b
-=6
-8cc
-8cc
-4ee
-4cc
-=7
-8ee
-8gg
-4.g
-8b
-=8
-8cc
-8a
-4cc
-4g}
-==
-*-
+=5	=5
+{8ee	Gos-
+8gg	-po-
+4.g	-da-
+8b	-rzu,
+=6	=6
+8cc	ma-
+8cc	-łe
+4ee	my-
+4cc	-to,
+=7	=7
+8ee	du-
+8gg	-zy
+4.g	sno-
+8b	-pek,
+=8	=8
+8cc	tę-
+8a	-gie
+4cc	zy-
+4g}	-to.
+==	==
+*-	*-
+!!!role-singer: Farmer, Farmhand
+!!!role-listener: Farmhand, Farmer
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Parobecku, wstańze do dnia,
+!!wybij snopek, wybij ze dwa.
+!!Gospodarzu, małe myto.
+!!duzy snopek, tęgie zyto.
+!!@VERSE:
+!!Parobecku, wstańze do dnia,
+!!wybij snopek, wybij ze dwa.
+!!Gospodarzu, wstałbyś i ty,
+!!nie chce ci sie od kobity.
+!!@@END: VERSES
 !!!ONB: wariant w takcie 5 i 6: +5+55_.7  +1+1+3_+3_
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=88 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 79-80} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, pp. 79-80}
 !!!page: 79-80
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

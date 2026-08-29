@@ -3,53 +3,67 @@
 !!!source: DWOK42
 !!!id: 421479
 !!!signature: 42147900000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{4g
-4b
-4g
-=2
-8b
-8cc
-4dd
-4ee
-=3
-4cc
-4ee
-4cc
-=4
-8ee
-8gg
-4ff#
-4dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{4g	Ej,
+4b	szyn-
+4g	-ka-
+=2	=2
+8b	-re-
+8cc	-czka
+4dd	na-
+4ee	-sza,
+=3	=3
+4cc	ej,
+4ee	sto-
+4cc	-i
+=4	=4
+8ee	u
+8gg	kon-
+4ff#	-wa-
+4dd}	-sa,
 !!LO:LB:g=esac
-=5
-{4dd
-4dd
-4g
-=6
-8b
-8cc
-4dd
-4ee
-=7
-4cc
-4a
-4a
-=8
-8a
-8cc
-4b
-4g}
-==
-*-
+=5	=5
+{4dd	ej-
+4dd	-po-
+4g	-la-
+=6	=6
+8b	-ła
+8cc	far-
+4dd	-tu-
+4ee	-szek.
+=7	=7
+4cc	ej,
+4a	do
+4a	sa-
+=8	=8
+8a	-me-
+8cc	-go
+4b	pa-
+4g}	-sa.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Ej, szynkareczka nasza,
+!!ej, stoi u konwasa,
+!![ej], polała fartuszek.
+!!ej, do samego pasa.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: 1 [beczka w szynku]
+!! [lub:] ulała
+!!@@END:
 !!!ONB: Wariant w taktach 2-3:345_56, Wariant w takcie 7:4_2_2-7
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=75 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 66} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 66}
 !!!page: 66
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

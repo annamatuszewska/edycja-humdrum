@@ -3,56 +3,88 @@
 !!!source: DWOK42
 !!!id: 421584
 !!!signature: 42158400001
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{8cc
-8ee
-4.aa
-8ee
-=2
-8dd
-8cc
-4b
-4a
-=3
-8cc
-8ee
-4.aa
-8ee
-=4
-8dd
-8dd
-2ee}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+{8cc	Po-
+8ee	-tok
+(4.aa	pły-
+8ee)	.
+=2	=2
+8dd	-nie
+8cc	do-
+4b	-li-
+4a	-ną,
+=3	=3
+8cc	przy
+8ee	po-
+4.aa	-to-
+8ee	-ku
+=4	=4
+8dd	ja-
+8dd	-wo-
+2ee}	-ry,
 !!LO:LB:g=esac
-=5
-{8a
-8cc
-4.ee
-8b
-=6
-16dd
-16cc
-16b
-16a
-4g#
-4e
-=7
-8b
-8g#
-4.e
-8cc
-=8
-8b
-8a
-2g#}
-==
-*-
+=5	=5
+{8a\	ta-
+8cc	-mój
+(4.ee	z_mo-
+8b)	.
+=6	=6
+16ddL	-ją
+16ccJ	.
+16bL	Jó-
+16aJ	.
+4g#	-ziń-
+4e	-ką,
+=7	=7
+8b	tra-
+8g#	-wię
+4.e	mi-
+8cc	-łe
+=8	=8
+8b	wie-
+8a\	-co-
+2g#}	-ry.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!role-listener: Maiden
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Potok płynie doliną,
+!!przy potoku jawory,
+!!tamój z moją Józińką,
+!!trawię miłe wiecory.
+!!@VERSE:
+!!Oto pod tym jaworem,
+!!oto przy téj jabłoni,
+!!wiele razy ja spragniony
+!!piłem wodę z jej dłoni.
+!!@VERSE:
+!!Oto pod tym jaworem,
+!!oto przy tej dębinie
+!!szeptałem jej, ściskałem ją.
+!!świadkiem niebo jedynie.
+!!@VERSE:
+!!Dusza z duszą gadała,
+!!rączka rączkę ściskała.
+!!oczka w oczka spoglądały,
+!!usta z ustami się zlipiały.
+!!@VERSE:
+!!Niebo raz się zachmurzyło,
+!!piorun trzasnął w dębinę.
+!!jam się do mojej przytulił:
+!!Z tobą razem niech ginę!
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=119 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 110} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 110}
 !!!page: 110
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

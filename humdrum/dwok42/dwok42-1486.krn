@@ -3,55 +3,72 @@
 !!!source: DWOK42
 !!!id: 421486
 !!!signature: 42148600000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16a
-16cc
-8.ee
-16dd
-=2
-16cc
-16b
-8a
-8gg
-=3
-16a
-16cc
-8.ee
-16dd
-=4
-16cc
-16b
-8a
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16a	Ku-
+16cc	-ja-
+8.ee	-wiak
+16dd	ci
+=2	=2
+16cc	ja,
+16b	dziew-
+8a	-cy-
+8gg	-no,
+=3	=3
+16a	Ku-
+16cc	-ja-
+8.ee	-wiak
+16dd	ci
+=4	=4
+16cc	ja,
+16b	Ku-
+8a	-ja-
+8g}	-wiak,
 !!LO:LB:g=esac
-=5
-{8a
-8.a
-16g
-=6
-16b
-16dd
-8cc
-8ee
-=7
-16a
-16cc
-8.b
-16g
-=8
-16b
-16dd
-8cc
-8b}
-==
-*-
+=5	=5
+{8a	i
+8.a	ty
+16g	ześ
+=6	=6
+16b	Ku-
+16dd	-ja-
+8cc	-wian-
+8ee	-ka,
+=7	=7
+16a	po-
+16cc	-pra-
+8.b	-wia-
+16g	-łaś
+=8	=8
+16b	swe-
+16dd	-go
+8cc	wian-
+8b}	-ka.
+==	==
+*-	*-
+!!!role-singer: Man from Kujawy
+!!!role-listener: Woman from Kujawy
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Kujawiak ci ja, dziewcyno,
+!!Kujawiak ci ja, Kujawiak,
+!!i ty ześ Kujawianka,
+!!poprawiałaś swego wianka.
+!!@VERSE:
+!!Kujawiak ci ja, dziewcyno,
+!!z kujawskiej strony, da, strony,
+!!pyta się Kujawiánka.
+!!da, cy ja ni mám zony,
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=78 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 69} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 69}
 !!!page: 69
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

@@ -3,57 +3,69 @@
 !!!source: DWOK42
 !!!id: 421519
 !!!signature: 42151900000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8g
-8cc
-4cc
-4cc
-=2
-8cc
-8ee
-4cc
-8cc
-8b
-=3
-4g
-4b
-4b
-=4
-8g
-8b
-8dd
-8b
-4cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8g	W_ol-
+8cc	-sy-
+4cc	-nie
+4cc	ja
+=2	=2
+8cc	woł-
+8ee	-ki
+4cc	pa-
+8ccL	-sła,
+8bJ	.
+=3	=3
+4g	rom
+4b/	tam
+4b/	tam
+=4	=4
+8g	tam,
+8b	di
+8dd	ri
+8b	dy
+4cc}	da,
 !!LO:LB:g=esac
-=5
-{8g
-8g
-4cc
-4cc
-=6
-8cc
-8ee
-4cc
-8cc
-8b
-=7
-4g
-4g
-8a
-8b
-=8
-2cc}
-4r
-==
-*-
+=5	=5
+{8g	[w_ol-
+8g	-sy-
+4cc	-nie
+4cc	mnie
+=6	=6
+8cc	no-
+8ee	-cka
+4cc	za-
+8ccL	-sła,
+8bJ	.
+=7	=7
+4g	tam
+4g	di
+8a	ry
+8b	dy
+=8	=8
+2cc}	da].
+4r	.
+==	==
+*-	*-
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!W olsynie ja wołki pasła,
+!!rom tam tam tam, di ri dy da,
+!![w olsynie mnie nocka zasła,
+!!tam di ry dy da].
+!!@@END: VERSES
 !!!ONB: wariant w takcie 3:5_5_5_
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=91 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 82} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 82}
 !!!page: 82
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

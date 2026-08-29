@@ -3,72 +3,94 @@
 !!!source: DWOK42
 !!!id: 421514
 !!!signature: 42151400000
-**kern
-*clefG2
-*k[]
-*C:
-*M4/4
-=1
-{4g
-8cc
-8dd
-4ee
-8ff
-8ee
-=2
-4dd
-8ee
-8dd
-4cc
-8g
-8e}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M4/4	*
+=1	=1
+{4g	O,
+8cc	bra-
+8dd	-cia
+4ee	o-
+8ff	-pry-
+8ee	-szki,
+=2	=2
+4dd	da-
+8ee	-lej-
+8dd	-że
+4cc	do
+8g	czar-
+8e}	-ki,
 !!LO:LB:g=esac
-=3
-{4g
-8cc
-8dd
-4ee
-8gg
-8gg
-=4
-8gg
-8ff
-4dd
-2r
-=5
-4g
-8cc
-8dd
-4ee
-8cc
-8a}
+=3	=3
+{4g	do
+8cc	o-
+8dd	-gnia
+4ee	przy-
+8gg	-rzuć-
+8gg	-cie
+=4	=4
+8ggL	tu
+8ffJ	.
+4dd	drew,
+2r	.
+=5	=5
+4g	na-
+8cc	-strój-
+8dd	-cie
+4ee	mi
+8cc	gar-
+8a}	-ło
 !!LO:LB:g=esac
-=6
-{4a
-16b
-16cc
-8ee
-8aa
-8ee
-8ff
-8dd
-=7
-4cc
-8cc
-8ee
-8gg
-8gg
-8b
-8dd
-=8
-4cc}
-4r
-2r
-==
-*-
+=6	=6
+{4a	nad
+16bL	gło-
+16ccJ	.
+8ee	-sem
+8aaL	fu-
+8eeJ	.
+8ff	-jar-
+8dd	-ki,
+=7	=7
+4cc	we-
+8cc	-so-
+8ee	-ły
+8gg	wam
+8gg	za-
+8b	-nu-
+8dd	-cę
+=8	=8
+4cc}	śpiew.
+4r	.
+2r	.
+==	==
+*-	*-
+!!!role-singer: Robbers' Chief
+!!!role-listener: Robbers
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!O, bracia opryszki, dalejże do czarki,
+!!do ognia przyrzućcie tu drew,
+!!nastrójcie mi garło nad głosem fujarki,
+!!wesoły wam zanucę śpiew.
+!!@VERSE:
+!!Bezpieczniśmy póki na ziemi zielono,
+!!liściem pokrywa się las,
+!!w zaroślach i krzakach, za kłodą zwaloną,
+!!w gałęziach nie ujrzy nikt nas.
+!!@VERSE:
+!!Barany z poludnia dają nam pieczeń,
+!![...............]
+!!tytuniu dostaniem z węgierskiej granicy,
+!!a Żyda przybijem do drzwi.
+!!@@END: VERSES
 !!!ONB: wariant w takcie 5: 5__+1_+2_+3__+176_
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=89 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 80} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 80}
 !!!page: 80
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

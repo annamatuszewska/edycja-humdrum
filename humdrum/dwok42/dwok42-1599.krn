@@ -3,89 +3,123 @@
 !!!source: DWOK42
 !!!id: 421599
 !!!signature: 42159900000
-**kern
-*clefG2
-*k[]
-*a:
-*M4/4
-=1
-{4a
-8cc
-16ee
-16gg
-4dd
-4cc
-=2
-4a
-8b
-8cc
-4a
-4g#
-=3
-4a
-8cc
-16ee
-16gg
-4dd
-4cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M4/4	*
+=1	=1
+{4a	Tam
+8cc	przy
+16eeL	do-
+16ggJ	.
+4dd	-li-
+4cc	-nie,
+=2	=2
+4a	tam
+8b	przy
+8cc	stru-
+4a	-mień-
+4g#	-ku,
+=3	=3
+4a	gdzie
+8cc	się
+16eeL	dro-
+16ggJ	.
+4dd	-zy-
+4cc}	-na
 !!LO:LB:g=esac
-=4
-{4b
-4b
-2a
-=5
-4a
-8cc
-8ee
-4gg
-4ee
-=6
-8aa
-8ff
-8dd
-8ff
-8ee
-8cc
-4a}
+=4	=4
+{4b	roz-
+4b	-sta-
+2a	-je,
+=5	=5
+4a	sto-
+8cc	-i
+8ee	mo-
+4gg	-gi-
+4ee	-ła,
+=6	=6
+8aa	a
+8ff	na
+8dd	mo-
+8ff	-gil-
+8eeL	-ni-
+8ccJ	.
+4a}	-ku
 !!LO:LB:g=esac
-=7
-{4gg
-8dd
-8ee
-4a
-4cc
-=8
-4b
-4b
-2a
-=9
-4a
-8cc
-8ee
-4gg
-4ee}
+=7	=7
+{(8eeq	.
+4gg)	krzyż
+8dd	i
+8ee	o-
+4a	-braz
+4cc	Zba-
+=8	=8
+4b	-wi-
+4b	-cie-
+2a	-la,
+=9	=9
+4a	sto-
+8cc	-i
+8ee	mo-
+4gg	-gi-
+4ee}	-ła,
 !!LO:LB:g=esac
-=10
-{8aa
-8ff
-8dd
-8ff
-4ee
-4cc
-=11
-4ff
-8dd
-8dd
-4a
-4cc
-=12
-4b
-4b
-2a}
-==
-*-
+=10	=10
+{8aa	a
+8ff	na
+8dd	mo-
+8ff	-gil-
+4ee	-ni-
+4cc	-ku
+=11	=11
+(8ddq	.
+4ff)	krzyż
+8dd	i
+8dd	o-
+4a	-braz
+4cc	Zba-
+=12	=12
+4b	-wi-
+4b	-cie-
+2a}	-la.
+==	==
+*-	*-
+!!!role-singer: Narrator, Maiden
+!!!role-listener: Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Tam przy dolinie, tam przy strumieńku,
+!!gdzie się drozyna rozstaje,
+!!|:stoi mogiła, a na mogilniku
+!!krzyż i obraz Zbawiciela:|.
+!!@VERSE:
+!!Stała pod krzyzem cysta dziewica,
+!!biała jo sata osłania,
+!!|:łzy z ocu płyno, gdy cysta zrzenica,
+!!a głos przejmuje jękania:|.
+!!@VERSE:
+!!A cegoz płaces, cysta dziewico,
+!!cyli ci ociec zsed z świata?
+!!|:Ani mnie ociec, ani mnie matka,
+!!ani mnie pomarli bracia:|.
+!!@VERSE:
+!!Płace kochania z serca tak drogiego,
+!!co w ty mogile tu lezy,
+!!|:juz mnie w tem grobie, w ty moi ciemnicy
+!!niewiele się zycia nalezy:|.
+!!@VERSE:
+!!Bede płakała odtąd co rano,
+!!odtąd co wiecór swy straty,
+!!|:rozmawiam z duso ukochajo jego,
+!!a łzamy poliwam kwiaty:|.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=130 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 121} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 121}
 !!!page: 121
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

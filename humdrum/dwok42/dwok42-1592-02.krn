@@ -3,75 +3,102 @@
 !!!source: DWOK42
 !!!id: 421592
 !!!signature: 42159200002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16dd
-16dd
-8cc#
-8dd
-=2
-16ee
-16dd
-8cc#
-8dd
-=3
-16a
-16f#
-8d
-16cc
-16b
-=4
-16g
-16a
-8b
-8b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16ddL	Czy
+16ddJ/	pa-
+8cc#	-mię-
+8dd	-tasz,
+=2	=2
+16ee	Ka-
+16dd	-siu
+8cc#L	dro-
+8ddJ/	-ga,
+=3	=3
+16a	te-
+16f#	-go
+8d	Mar-
+16ccL	-ci-
+16bJ	.
+=4	=4
+16g	-na,
+16a	da
+8b	da-
+8b}	-na,
 !!LO:LB:g=esac
-=5
-{16cc
-16b
-8a
-8dd
-=6
-4g
-8r
-=7
-16dd
-16dd
-8cc#
-8dd
-=8
-16ee
-16dd
-8cc#
-8dd}
+=5	=5
+{16cc	te-
+16b	-go
+8a	Mar-
+8dd	-ci-
+=6	=6
+4g	-na,
+8r	.
+=7	=7
+16ddL	co
+16ddJ/	to
+8cc#	raz
+8dd	na
+=8	=8
+16ee	na-
+16dd	-szym
+8cc#L	wień-
+8ddJ/}	-cu
 !!LO:LB:g=esac
-=9
-{16a
-16f#
-8d
-16cc
-16b
-=10
-16g
-16a
-8b
-8b
-=11
-16cc
-16b
-8a
-8dd
-=12
-4g}
-8r
-==
-*-
+=9	=9
+{16a	z_to-
+16f#	-bą
+8d	wy-
+16ccL	-wi-
+16bJ	.
+=10	=10
+16g	-jał,
+16a	da
+8b	da-
+8b	-na,
+=11	=11
+16cc	z_to-
+16b	-bą
+8a	wy-
+8dd	-wi-
+=12	=12
+4g}	-jał?
+8r	.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!role-listener: Maiden
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Czy pamiętasz, Kasiu droga,
+!!tego Marcina, da dana,
+!!tego Marcina,
+!!co to raz na naszym wieńcu
+!!z tobą wywijał, da dana,
+!!z tobą wywijał?
+!!@VERSE:
+!!Właśnie mnie też wczoraj wzięła
+!!taka tęsknica, da dana,
+!!taka tęsknica.
+!!że musiałem iść do dworu
+!!prosić dziedzica, da dana,
+!!prosić dziedzica.
+!!@VERSE:
+!!Aby mi dziedzic pozwolił
+!!iść w tamtą stronę, da dana,
+!!i zobaczyć swych przyjacioł,
+!!i przyszłą żonę, da dana,
+!!i przyszłą żonę.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=125 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 116} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 116}
 !!!page: 116
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

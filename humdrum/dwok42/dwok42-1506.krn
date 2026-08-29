@@ -3,91 +3,142 @@
 !!!source: DWOK42
 !!!id: 421506
 !!!signature: 42150600000
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/8
-=1
-{16e
-16a
-16a
-16g#
-8a
-=2
-16b
-16a
-8g#
-8f#
-=3
-4dd
-8cc#
-=4
-16cc#
-16b
-4b}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M3/8	*
+=1	=1
+{16e	By
+16a	się
+16a	wró-
+16g#	-ci-
+8a	-ły
+=2	=2
+16b	da-
+16a	-wne
+8g#	la-
+8f#	-ta,
+=3	=3
+4dd	o,
+8cc#	ja
+=4	=4
+16cc#L	bie-
+16bJ	.
+4b}	-dna,
 !!LO:LB:g=esac
-=5
-{16e
-16a
-8a
-8a
-=6
-16b
-16a
-8g#
-8f#
-=7
-4f#
-8g#
-=8
-8g#
-4a}
+=5	=5
+{16e	jak
+16a	ja
+8a	by-
+8a	-ła
+=6	=6
+16b	u
+16a	swej
+8g#	ma-
+8f#	-my
+=7	=7
+4f#	ze
+8g#	trzech
+=8	=8
+8g#	je-
+4a}	-dna,
 !!LO:LB:g=esac
-=9
-{16a
-16cc#
-8.ee
-16cc#
-=10
-16dd
-16dd
-8ee
-8ff#
-=11
-16e
-16g#
-8.b
-16g#
-=12
-8a
-16a
-16b
-8cc#}
+=9	=9
+{16a	la
+16cc#	la
+8.ee	la
+16cc#	la,
+=10	=10
+16dd	tra
+16dd	la
+8ee	la
+8ff#	la,
+=11	=11
+16e	la
+16g#	la
+8.b	la
+16g#	la
+=12	=12
+8a	la
+16a\	la
+16b	la
+8cc#}	la
 !!LO:LB:g=esac
-=13
-{16a
-16cc#
-8.ee
-16cc#
-=14
-16.dd
-32dd
-8ee
-8ff#
-=15
-16e
-16g#
-8.b
-16g#
-=16
-8a
-4a}
-==
-*-
+=13	=13
+{16a	la
+16cc#	la
+8.ee	la
+16cc#	la
+=14	=14
+16.dd	la
+32dd	la
+8ee	la
+8ff#	la,
+=15	=15
+16e	la
+16g#	la
+8.b	la
+16g#	la
+=16	=16
+8a	la
+4a}	la.
+==	==
+*-	*-
+!!!role-singer: Lady
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!By się wróciły dawne lata,
+!!o, ja biedna,
+!!jak ja była u swej mamy
+!!ze trzech jedna,
+!!la la la la, tra la la la,
+!!la la la la la la la la
+!!la la la la la la la la,
+!!la la la la la la.
+!!@VERSE:
+!!Na śniadaniem żur pijała
+!!lub kapustę,
+!!teraz kapłon, teraz kaczkę,
+!!kurę tłustę,
+!!la la la la itd.
+!!@VERSE:
+!!W sieni na werkum sypiała
+!!bez pościeli,
+!!teraz sobie w puchach ligam,
+!!zaraz śmieléj,
+!!la la la la itd.
+!!@VERSE:
+!!Do kościoła piechty biegłam,
+!!teraz nie chcę;
+!!krzyknę, tępnę: Zaprzągajcie
+!!do karoce!
+!!La la la la itd.
+!!@VERSE:
+!!Do żniwam z sierzpem chodziła
+!!dzień wedle dnia,
+!!teraz jestem tego żonką,
+!!co to z Wiédnia,
+!!la la la la itd.
+!!@VERSE:
+!!I pan ojciec często bijał
+!!teraz boi,
+!!jak to Pan Bóg wszystko łatwo
+!!uspokoi,
+!!la la la la itd.
+!!@VERSE:
+!!I pan szwagier często mruczał,
+!!jam milczała,
+!!teraz on jest mym poddanym,
+!!panim cała,
+!!la la la la itd.
+!!@@END: VERSES
 !!!ONB: wariant w takcie 10:4__6__5__6__, wariant w takcie12: 1__3__3__
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=85 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 76} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 76}
 !!!page: 76
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

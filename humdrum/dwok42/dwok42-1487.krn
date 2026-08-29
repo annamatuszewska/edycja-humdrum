@@ -3,58 +3,70 @@
 !!!source: DWOK42
 !!!id: 421487
 !!!signature: 42148700000
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/4
-=
-{12e
-12f#
-12g#
-4a
-4cc#
-=1
-8b
-8ee
-4e
-4ee
-=
-12e
-12f#
-12g#
-4a
-4cc#
-=2
-8b
-8g#
-4e
-4a}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M3/4	*
+=1	=1
+{12eL	Na
+12f#J	.
+12g#	Po-
+4a	-dla-
+4cc#	-siu
+=2	=2
+8b	po-
+8ee	-wia-
+4e	-da-
+4ee	-ją,
+=3	=3
+12eL	że
+12f#J	.
+12g#	tam
+4a	do-
+4cc#	-bry
+=4	=4
+8b	po-
+8g#	-sag
+4e	da-
+4a}	-ją:
 !!LO:LB:g=esac
-=3
-{8ee
-8ee
-4ee
-4ee
-=4
-8gg#
-8ff#
-4dd
-4b
-=5
-8cc#
-8b
-4a
-4ee
-=6
-8e
-8g#
-4b
-4a}
-==
-*-
+=5	=5
+{8ee	czte-
+8ee	-ry
+4ee	my-
+4ee	-szy
+=6	=6
+8gg#	i
+8ff#	dwa
+4dd	ko-
+4b	-ty,
+=7	=7
+(8ddq	.
+8cc#)	sió-
+8b	-dma
+4a	su-
+(8dd#q	.
+4ee)	-ka
+=8	=8
+8e	do
+8g#	ro-
+4b	-bo-
+4a}	-ty.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Na Podlasiu powiadają,
+!!że tam dobry posag dają:
+!!cztery myszy i dwa koty,
+!!siódma suka do roboty.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=78 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 69} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 69}
 !!!page: 69
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

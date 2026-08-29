@@ -3,78 +3,84 @@
 !!!source: DWOK42
 !!!id: 421520
 !!!signature: 42152000000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8cc
-8ee
-4gg
-4gg
-=2
-8ff#
-8gg
-8ff#
-8dd
-8ee
-8dd
-=3
-8cc
-8ee
-2gg
-=4
-8cc
-8ee
-4gg
-4gg}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8cc	Woł-
+8ddq	.
+8ee-	-ki
+4gg	mo-
+4gg	-je_[...]
+=2	=2
+8ff#L	.
+8ggJ	.
+8ff#L	.
+8dd	.
+8ee-	.
+8ddJ	.
+=3	=3
+8ccL	.
+(8ddq	.
+8ee-J)	.
+2gg	.
+=4	=4
+8ccL	.
+(8ddq	.
+8ee-J)	.
+4gg	.
+4gg}	.
 !!LO:LB:g=esac
-=5
-{8ff#
-8gg
-8ff#
-8dd
-8ee
-8dd
-=6
-8g
-8b
-2cc
-=7
-4cc
-16dd
-8.ee
-16dd
-8.ee
-=8
-2dd
-4g}
+=5	=5
+{8ff#L	.
+8gg	.
+8ff#	.
+8dd	.
+8ee-	.
+8ddJ	.
+=6	=6
+8gL	.
+(8a-q	.
+8b-J)	.
+2cc	.
+=7	=7
+4cc	.
+16ddL	.
+8.ee-J	.
+16ddL	.
+8.ee-J	.
+=8	=8
+2dd	.
+4g}	.
 !!LO:LB:g=esac
-=9
-{8b
-8dd
-4ff
-8ee
-8dd
-=10
-8.cc
-16dd
-8.ee
-16dd
-4ee
-=11
-2dd
-4g
-=12
-8b
-8dd
-2cc}
-==
-*-
+=9	=9
+{8bL	.
+8ddJ	.
+4ffM	.
+8ee-L	.
+8ddJ	.
+=10	=10
+8.ccL	.
+16dd	.
+8.ee-	.
+16ddJ	.
+4ee-	.
+=11	=11
+2dd	.
+4g	.
+=12	=12
+8b-L	.
+8ddJ	.
+2cc}	.
+==	==
+*-	*-
 !!!ONB: wariant w takcie 5: +4#_+5_+4#_+2_+3_+5_
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=92 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 83} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 83}
 !!!page: 83
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

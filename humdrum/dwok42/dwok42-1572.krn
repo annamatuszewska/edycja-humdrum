@@ -3,54 +3,102 @@
 !!!source: DWOK42
 !!!id: 421572
 !!!signature: 42157200000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8g
-8g
-4ff
-4ff
-=2
-8ee
-8ee
-4cc
-4cc
-=3
-8cc
-8dd
-4ee
-4ff
-=4
-8dd
-8dd
-4b
-4g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8g	A
+8g	wie-
+4ff	-co-
+4ffM	-rem
+=2	=2
+8ee	w_mi-
+8ee	-łym
+4cc	chło-
+4cc	-dzie
+=3	=3
+8cc	ba-
+8dd	-wi-
+4ee	-łem
+4ff	się
+=4	=4
+8dd	po
+8dd	o-
+4b	-gro-
+4g}	-dzie
 !!LO:LB:g=esac
-=5
-{8cc
-8cc
-4a
-4cc
-=6
-4g
-4.ff
-8ee
-=7
-8dd
-8cc
-4b
-4dd
-=8
-4g
-2cc}
-==
-*-
+=5	=5
+{8cc	raz
+(8bq	.
+8cc)	tro-
+4a	-se-
+4cc	-ckę
+=6	=6
+4g	gra-
+(4.ff	-niem,
+8ee)	.
+=7	=7
+8dd	dru-
+8cc	-gi
+4b	raz
+4dd	spie-
+=8	=8
+4g	-wa-
+2cc}	-niem.
+==	==
+*-	*-
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!A wiecorem w miłym chłodzie
+!!bawiłem się po ogrodzie
+!!raz troseckę graniem,
+!!drugi raz spiewaniem.
+!!@VERSE:
+!!Ale przypominam sobie,
+!!że mam floterwers przy sobie,
+!!dobywam go, składam,
+!!pod spalerem siadam.
+!!@VERSE:
+!!Na kanapce, na zielonyj.
+!!kwiateckami przyzdobionyj
+!!toć pocnę cichuchno
+!!grać sobie miluchno.
+!!@VERSE:
+!!Usłysałem jakiś selest,
+!!oglądam się, cy kto nie jest,
+!!oglądam się wsędy,
+!!cy nie jest kto kędy.
+!!@VERSE:
+!!Gdy ujrzalem jakąś damę.
+!!gdyby wyszła, gdyby łanię,
+!!w białym nocnym stroju,
+!!znać wysła z pokoju.
+!!@VERSE:
+!!Skorom tylko damę zocył,
+!!do altany jam przyskocył,
+!!stoję u altany
+!!i cekam tej damy.
+!!@VERSE:
+!!A ona sic przyblizyła,
+!!rąceńki mnie pozwolila
+!!do pocałowania,
+!!sama do ściskania.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: [flet poprzeczny; z wł. flauto traverso]
+!![nadpisane: ,,słych”]
+!![wyżła?]
+!!@@END:
 !!!ONB: wariant w takcie 5: +1+16_+17
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=110 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 101} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 101}
 !!!page: 101
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

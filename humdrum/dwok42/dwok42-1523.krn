@@ -3,57 +3,68 @@
 !!!source: DWOK42
 !!!id: 421523
 !!!signature: 42152300000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{8cc
-8ee
-4dd#
-4ee
-=2
-8b
-8a
-4dd#
-4a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+{8cc	Chu-
+8ee	-de-
+4dd#	-go,
+4ee	Ja-
+=2	=2
+8b	-siu,
+8a	ko-
+4dd#	-nia
+4a}	masz,
 !!LO:LB:g=esac
-=3
-{8cc
-8ee
-4dd#
-4ee
-=4
-8cc
-8b
-4g#
-4a
-=5
-8cc
-8cc
-4b
-4dd}
+=3	=3
+{8cc	bo
+8ee	mu
+4dd#	o-
+4ee	-bro-
+=4	=4
+8cc	-ku
+8b	nie
+4g#	da-
+4a	-wasz,
+=5	=5
+8cc	daj
+8cc	mu
+4b	o-
+4dd}	-bro-
 !!LO:LB:g=esac
-=6
-{8b
-8a
-4dd
-4a
-=7
-8cc
-8cc
-4b
-4dd
-=8
-8cc
-8b
-4g#
-4a}
-==
-*-
+=6	=6
+{8bm	-ku
+8a	i
+4dd	sia-
+4a	-na,
+=7	=7
+8cc	będziesz
+8cc	.
+4b	miał
+4dd	ko-
+=8	=8
+8cc	-nia
+8b	jak
+4g#	sar-
+4a}	-na.
+==	==
+*-	*-
+!!!role-singer: Counselor
+!!!role-listener: Bachelor
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Chudego, Jasiu, konia masz,
+!!bo mu obroku nie dawasz,
+!!daj mu obroku i siana,
+!!będziesz miał konia jak sarna.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=93 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 84} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 84}
 !!!page: 84
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

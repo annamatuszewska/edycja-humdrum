@@ -3,67 +3,78 @@
 !!!source: DWOK42
 !!!id: 421496
 !!!signature: 42149600000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8d
-8ee
-4.dd
-8cc
-=2
-8b
-8dd
-4a
-4f#
-=3
-8d
-8ee
-4.dd
-8cc}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8d	Oj-
+8ee	-ciec
+4.dd	u-
+8cc	-mar,
+=2	=2
+8b	da,
+8dd	ja
+4a	zo-
+4f#	-stał,
+=3	=3
+8d	ja
+8ee	po
+4.dd	oj-
+8cc}	-cu
 !!LO:LB:g=esac
-=4
-{8b
-8dd
-4a
-8a
-8f#
-=5
-8d
-8f#
-4d
-4cc
-=6
-8b
-8b
-4a
-8a
-8f#}
+=4	=4
+{8b	nic
+8dd	nie
+4a	do-
+8aL	-stał,
+8f#J	.
+=5	=5
+8d	ni
+8f#	ma-
+4d	-ją-
+4cc	-tku,
+=6	=6
+8b	ni
+8b	for-
+4a	-tu-
+8aL	-ny,
+8f#J}	.
 !!LO:LB:g=esac
-=7
-{8d
-8f#
-4d
-4cc
-=8
-8b
-8b
-4a
-4f#
-=9
-4d
-4d
-4d
-=10
-4d
-4d
-4d}
-==
-*-
+=7	=7
+{8d	tyl-
+8f#	-ko
+4d	na
+4ccM	łbie
+=8	=8
+8b	dwa
+8b	koł-
+4a	-tu-
+4f#	-ny.
+=9	=9
+4d	.
+4d	.
+4d	.
+=10	=10
+4d	.
+4d	.
+4d}	.
+==	==
+*-	*-
+!!!role-singer: Son
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Ojciec umar, da, ja został,
+!!ja po ojcu nic nie dostał,
+!!ni majątku, ni fortuny,
+!!tylko na łbie dwa kołtuny.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=82 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 73} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 73}
 !!!page: 73
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

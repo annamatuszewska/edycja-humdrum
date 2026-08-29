@@ -3,90 +3,116 @@
 !!!source: DWOK42
 !!!id: 421606
 !!!signature: 42160600000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16f
-16a
-8cc
-8a
-=2
-16.cc
-32f
-8dd
-8cc
-=3
-16cc
-16cc
-8b-
-8g
-=4
-8dd
-4cc}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16f	A
+16a	ja
+8cc	Ma-
+8a	-zur
+=2	=2
+16.cc	ro-
+32f	-do-
+8dd	-wi-
+8cc	-ty,
+=3	=3
+16cc	ja
+16cc	Ma-
+8b-	-zur
+8g	praw-
+=4	=4
+8dd	-dzi-
+4cc}	-wy,
 !!LO:LB:g=esac
-=5
-{16f
-16a
-8cc
-8cc
-=6
-16.cc
-32f
-8dd
-8cc
-=7
-16cc
-16cc
-8e
-8e
-=8
-8g
-4f}
+=5	=5
+{16f	rzeź-
+16a	-wy,
+8cc	ho-
+8cc	-ży,
+=6	=6
+16.cc	pra-
+32f	-co-
+8dd	-wi-
+8cc	-ty,
+=7	=7
+16cc	trzeź-
+16cc	-wy
+8e	i
+8e	pocz-
+=8	=8
+8g	-ci-
+4f}	-wy.
 !!LO:LB:g=esac
-=9
-{8.cc
-16ff
-16ff
-16ff
-=10
-16ff
-16a
-8dd
-8cc
-=11
-16cc
-16cc
-8b-
-8g
-=12
-8dd
-4cc}
+=9	=9
+{8.cc	Za
+16ff	mą
+16ff	zie-
+16ff	-mię,
+=10	=10
+16ff	za
+16a	jej
+8dd	sła-
+8cc	-wę,
+=11	=11
+16cc	za
+16cc	jej
+8b-	świe-
+8g	-tne
+=12	=12
+8dd	by-
+4cc}	-cie
 !!LO:LB:g=esac
-=13
-{16cc
-16ee
-8gg
-8gg
-=14
-8.aa
-16ff
-16cc
-16a
-=15
-16cc
-16cc
-8e
-8e
-=16
-8g
-4f}
-==
-*-
+=13	=13
+{16cc	po-
+16ee	-świę-
+8gg	-cił-
+8gg	-bym
+=14	=14
+8.aa	rę-
+16ff	-kę
+16cc	pra-
+16a	-wą,
+=15	=15
+16cc	po-
+16cc	-świę-
+8e	-cił-
+8e	-bym
+=16	=16
+8g	ży-
+4f}	-cie.
+==	==
+*-	*-
+!!!role-singer: Man from Mazury
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!A ja Mazur rodowity,
+!!ja Mazur prawdziwy,
+!!rzeźwy, hoży, pracowity,
+!!trzeźwy i poczciwy.
+!!@VERSE:
+!!Za mą ziemię, za jej sławę,
+!!za jej świetne bycie
+!!poświęciłbym rękę prawą,
+!!poświęciłbym życie.
+!!@VERSE:
+!!Choć nie mamy przewodnika,
+!!Choć nas tyran ciśnie,
+!!bądźmy stali do krzemyka
+!!i nam iskra błyśnie.
+!!@VERSE:
+!!Oj, błyśnie nam iskra, błyśnie,
+!!takie mám przeczucie,
+!!jeszcze ostrogą zabrzęczę
+!!w mazowieckim bucie.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=134 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 125} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 125}
 !!!page: 125
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

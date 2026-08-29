@@ -3,58 +3,70 @@
 !!!source: DWOK42
 !!!id: 421498
 !!!signature: 42149800000
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/4
-=1
-{2dd
-4dd
-=2
-8b
-8dd
-4cc#
-4a
-=3
-2ee
-4ee}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M3/4	*
+=1	=1
+{2dd	Nie
+4dd	do
+=2	=2
+8b	cie-
+8dd	-bie
+4cc#	ja-
+4a	-dę,
+=3	=3
+2ee	zie-
+4ee}	-lo-
 !!LO:LB:g=esac
-=4
-{8ee
-8ff#
-4dd
-4b
-=5
-2dd
-4dd
-=6
-8b
-8dd
-4cc#
-4a}
+=4	=4
+{8ee	-ny
+8ff#	ja-
+4dd	-wo-
+4b	-rze,
+=5	=5
+2dd	tyl-
+4dd	-ko
+=6	=6
+8b	do
+8dd	dziew-
+4cc#	-czy-
+4a}	-ny,
 !!LO:LB:g=esac
-=7
-{2b
-4g#
-=8
-8e
-8g#
-4a
-8cc#
-8dd
-=9
-2b
-4g#
-=10
-8e
-8g#
-4f#
-4e}
-==
-*-
+=7	=7
+{2b	co
+4g#	słu-
+=8	=8
+8e	-ży
+8g#	we
+4a	dwo-
+8cc#L	-rze,
+8ddJ	.
+=9	=9
+2b	co
+4g#	słu-
+=10	=10
+8e	-ży
+8g#	we
+4f#	dwo-
+4e}	-rze.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!role-listener: Sycamore
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Nie do ciebie jadę,
+!!zielony jaworze,
+!!tylko do dziewczyny,
+!!|:co służy we dworze:|.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=82 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 73} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 73}
 !!!page: 73
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

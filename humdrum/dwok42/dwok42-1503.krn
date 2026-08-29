@@ -3,67 +3,86 @@
 !!!source: DWOK42
 !!!id: 421503
 !!!signature: 42150300000
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/4
-=1
-{8b
-8ff#
-4ee
-8dd
-8b
-=
-12a
-12b
-12cc#
-4ee
-4b}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M3/4	*
+=1	=1
+{8bL	Ej,
+8ff#J	.
+4ee	za-
+8ddL	-sie,
+8bJ	.
+=2	=2
+12aL	chło-
+12bJ	.
+12cc#	-pie,
+4ee	za-
+4b}	-sie,
 !!LO:LB:g=esac
-=2
-{8b
-8ff#
-4ee
-8dd
-8b
-=
-12a
-12b
-12cc#
-4a
-4g#
-=3
-8b
-8dd
-8cc#
-8dd
-8ee
-8b}
+=3	=3
+{8bL	da,
+8ff#J	.
+4ee	nie
+8ddL	poj-
+8bJ	.
+=4	=4
+12aL	-dę
+12bJ	.
+12cc#	ja
+4a	za
+4g#	cię,
+=5	=5
+8bL	ej,
+8ddJ	.
+8cc#L	boś
+8ddJ	.
+8eeL	ty
+(8ccnq	.
+8bJ)}	.
 !!LO:LB:g=esac
-=
-{12b
-12cc
-12dd
-4ee
-4b
-=4
-8b
-8dd
-8cc#
-8dd
-8ee
-8b
-=
-12a
-12b
-12cc#
-4a
-4g#}
-==
-*-
+=6	=6
+{12bL	chłop
+12ccJ	.
+12dd	pod-
+4ee	-da-
+4b	-ny,
+=7	=7
+8bL	da,
+8ddJ	.
+8cc#L	trze-
+8ddJ	.
+8eeL	-ba
+(8ccnq	.
+8bJ)	.
+=8	=8
+12aL	ro-
+12bJ	.
+12cc#	-bić
+4a	na
+4g#}	cię.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!role-listener: Derf
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Ej, zasie, chłopie, zasie,
+!!da, nie pojdę ja za cię,
+!!ej, boś ty chłop poddany,
+!!da, trzeba robić na cię.
+!!@VERSE:
+!!Ej, zasie, chłopie, zasie,
+!!da, nie pójdę ja za cię,
+!!złe buty masz, wiecheć wylaz,
+!!da, trzeba robić na cię.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=84 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 75} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 75}
 !!!page: 75
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

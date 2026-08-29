@@ -3,91 +3,154 @@
 !!!source: DWOK42
 !!!id: 421589
 !!!signature: 42158900000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/4
-=1
-{8f
-8f
-4f
-4a
-=2
-8cc
-8dd
-4ee
-4ff
-=3
-4.gg
-8ee
-8ff
-8dd
-=4
-2cc
-4g}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/4	*
+=1	=1
+{8f	O,
+8f	ko-
+4f	-cham
+4a	cię
+=2	=2
+8cc	nad
+8dd	me
+4ee	ży-
+4ff	-cie,
+=3	=3
+4.gg	mój
+8ee	Wa-
+8ff	-cła-
+8dd	-wie
+=4	=4
+2cc	dro-
+(8b-q	.
+4g)}	-gi,
 !!LO:LB:g=esac
-=5
-{8a
-8cc
-4ff
-4ff
-=6
-8dd
-8g
-4b-
-4dd
-=7
-8dd
-8cc
-4e
-4e
-=8
-2f
-4f}
+=5	=5
+{8a	a-
+8cc	-le
+4ff	dłu-
+4ff	-żej
+=6	=6
+8dd	ko-
+8g	-chać
+4b-	skry-
+4dd	-cie
+=7	=7
+8dd	nie
+8cc	mo-
+4e	-gę
+4e	bez
+=8	=8
+2f	trwo-
+4f}	-gi.
 !!LO:LB:g=esac
-=9
-{8f
-8g
-4a
-4c
-=10
-8f
-8g
-4a
-4c
-=11
-8f
-8e
-4f
-4a
-=12
-4dd
-2cc}
+=9	=9
+{8f	Do-
+8g	-bry
+4a	wie-
+4c	-czór
+=10	=10
+8f	ci,
+8g	He-
+4a	-le-
+4c	-no.
+=11	=11
+8f	Bóg
+8e	za-
+4f	-płać,
+4a	Wa-
+=12	=12
+4dd	-cła-
+2cc}	-wie,
 !!LO:LB:g=esac
-=13
-{8c
-8c
-4b-
-4b-
-=14
-8a
-8g
-4a
-4f
-=15
-8e
-8e
-4d
-4e
-=16
-4g
-2f}
-==
-*-
+=13	=13
+{8c	gdzie-
+8c	-żeś
+4b-	mi
+4b-	się
+=14	=14
+8a	[...]
+8g	.
+4a	wy-
+4f	-brał
+=15	=15
+8e	w_tak
+8e	pó-
+4d	-źną
+4e	go-
+=16	=16
+4g	-dzi-
+2f}	-nę?
+==	==
+*-	*-
+!!!role-singer: Maiden, Mother, Bachelor
+!!!role-listener: Bachelor, Maiden
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!O, kocham cię nad me życie,
+!!mój Wacławie drogi,
+!!ale dłużej kochać skrycie
+!!nie mogę bez trwogi.
+!!@VERSE:
+!!Oj, sądzą mnie ludzie,
+!!że ja jestem płocha,
+!!moja mama to przeczuwa,
+!!że mnie Wacław kocha.
+!!@VERSE:
+!!Pójdzmy, Wacławie, do matki,
+!!do tej jasnej chatki,
+!!tam i Wacław prośby wnosi
+!!do swej drogiej matki.
+!!@VERSE:
+!!Pójdź, Wacławie, do mej matki,
+!!matka wszystko sprawi,
+!!oj, i przyjmie drogie dzieci,
+!!i pobłogosławi.
+!!@VERSE:
+!!Matka na dzieci spojrzała
+!!i mówi nieznacznie:
+!!Maryniu, Wacławie,
+!!moje dzieci, moje drogie,
+!!ja was błogosławię.
+!!@VERSE:
+!!Matko moja, matko moja,
+!!kocham Marynię lubą,
+!!moja matko, moja droga
+!!połącz ty nas ślubem.
+!!@VERSE:
+!!Dobry wieczór ci, Heleno.
+!!Bóg zapłać, Wacławie,
+!!gdzieżeś mi się [...] wybrał
+!!w tak późną godzinę?
+!!@VERSE:
+!!Wybrałem się do kościoła.
+!!Dziś mój ślub w kościele,
+!!widzisz wianek na mej głowie,
+!!dziś moje wesele,
+!!@VERSE:
+!!Aniś o tém nie mówiła,
+!!że mnie kochasz stale,
+!!aniś o tem nie mówiła,
+!!że cie inszy bierze.
+!!@VERSE:
+!!A i tyś ci nic nie mówił,
+!!ani mi się śniło,
+!!kiedy mi się inny trafił,
+!!jak odmówić było.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: 1589. [W zapisie z teki 43/1352 k. 94 mel. transponowana o sekundę wielką
+!!w górę, bez tekstu.]
+!!@@END:
 !!!ONB: wariant w takcie 11: 1-71_34
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=122 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 113} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 113}
 !!!page: 113
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

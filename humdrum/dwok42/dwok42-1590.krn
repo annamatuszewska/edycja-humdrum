@@ -3,73 +3,115 @@
 !!!source: DWOK42
 !!!id: 421590
 !!!signature: 42159000000
-**kern
-*clefG2
-*k[]
-*C:
-*M4/4
-=1
-{8g
-8cc
-8cc
-8cc
-8cc
-8dd
-8ee
-8cc
-=2
-8dd
-8dd
-8dd
-8dd
-8dd
-8ee
-8ff
-8dd}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M4/4	*
+=1	=1
+{8g	Ten
+8cc	pa-
+8cc	-nien-
+8cc	-ki
+8cc	szu-
+8dd	-ka
+8ee	ład-
+8cc	-nej,
+=2	=2
+8dd	ten
+8dd	przy-
+8dd	-je-
+8dd	-mnej,
+8dd	ten
+8ee	u-
+8ff	-kła-
+8dd}	-dnej,
 !!LO:LB:g=esac
-=3
-{8cc
-8cc
-8cc
-8cc
-8cc
-8dd
-8ee
-8cc
-=4
-8ff
-8ee
-8dd
-8cc
-8b
-8cc
-8dd
-8b}
+=3	=3
+{8cc	ten
+8cc	u-
+8cc	-czci-
+8cc	-wej,
+8cc	ten
+8dd	u-
+8ee	-czo-
+8cc	-nej,
+=4	=4
+8ff	ten
+8ee	do
+8dd	pra-
+8cc	-cy
+8b	u-
+8cc	-ło-
+8dd	-żo-
+8b}	-nej.
 !!LO:LB:g=esac
-=5
-{4.ff
-8dd
-4b
-4b
-=6
-4cc
-4ee
-4.gg
-8ee
-=7
-4ff
-4dd
-4ee
-4cc
-=8
-4dd
-4g
-4cc
-4cc}
-==
-*-
+=5	=5
+{4.ff	Mnie
+8dd	ta
+4b	próż-
+4b	-ność
+=6	=6
+4cc	nic
+4ee	nie
+4.gg	ma-
+8ee	-mi,
+=7	=7
+4ff	daj-
+4dd	-cie
+4ee	żon-
+4cc	-ki
+=8	=8
+4dd	z_du-
+4g	-ka-
+4cc	-ta-
+4cc}	-mi!
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!role-listener: Money
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Ten panienki szuka ładnej,
+!!ten przyjemnej, ten układnej,
+!!ten uczciwej, ten uczonej,
+!!ten do pracy ułożonej.
+!!Mnie ta próżność nic nie mami,
+!!dajcie żonki z dukatami!
+!!@VERSE:
+!!Piękność wprawdzie, lubij kwiatek,
+!!bawi oko w wczesnej wiosnie,
+!!lecz usycha na ostatek
+!!i dla płochej młodzi rośnie.
+!!Ja nie będę żył kwiatami,
+!!dajcie żonki z dukatami!
+!!@VERSE:
+!!Rozum mało nas zaleci,
+!!kiedy pełza w przykrej nędzy,
+!!przy brylantach dowcip świeci,
+!!niknie jednak bez pieniędzy.
+!!Głodny walczy z przykrościami,
+!!dajcie żonki z dukatami!
+!!@VERSE:
+!!Niech na głowie będą rogi,
+!!byle one złote były,
+!!niechaj błyszczy potwór drogi,
+!!niechaj będzie na kształt bryły.
+!!Swiat nas uczci i z rogami,
+!!dajcie żonki z dukatami!
+!!@VERSE:
+!!O pieniądze, duszo swiata,
+!!duszo uciech i pożycia,
+!!przy was mile płyną lata,
+!!was do mego wzywam skrycia,
+!!Gardzę pięknością, wdziękami,
+!!mając żonkę z dukatami.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=123 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 114} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 114}
 !!!page: 114
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26

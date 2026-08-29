@@ -3,50 +3,61 @@
 !!!source: DWOK42
 !!!id: 421504
 !!!signature: 42150400000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{4ff
-4dd
-4ff
-=2
-8ee
-8cc
-4dd
-4g
-=3
-8g
-8b
-4cc
-4b
-=4
-4a
-2g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{4ff	Oj,
+4dd	da-
+4ff	-na,
+=2	=2
+8ee	[mo-
+8cc	-ja
+4dd	da-
+4g	-na],
+=3	=3
+8g	nie
+8b	pój-
+4cc	-dę
+4b	za
+=4	=4
+4a	pa-
+2g}	-na,
 !!LO:LB:g=esac
-=5
-{4a
-4a
-4g
-=6
-8g
-8b
-4cc
-4ee
-=7
-8dd
-8ff
-4ee
-4cc
-=8
-4b
-2g}
-==
-*-
+=5	=5
+{4a	[oj,
+4a	ty-
+4g	-lo
+=6	=6
+8g	za
+8b	ta-
+4cc	-kie-
+4ee	-go,
+=7	=7
+8dd	ja-
+8ff	-ka
+4ee	i
+4cc	ja
+=8	=8
+4b	sa-
+2g}	-ma].
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Oj, dana, [moja dana],
+!!nie pójdę za pana,
+!![oj, tylo za takiego,
+!!jaka i ja sama].
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=85 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 76} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 76}
 !!!page: 76
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-08-26
