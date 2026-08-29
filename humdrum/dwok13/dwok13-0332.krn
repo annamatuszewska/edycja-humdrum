@@ -1,64 +1,86 @@
-!!!!SEGMENT: DWOK1333200000-oj_zeby_to_tak_moglo_byc.krn
+﻿!!!!SEGMENT: DWOK1333200000-oj_zeby_to_tak_moglo_byc.krn
 !!!OTL: Oj żeby to tak mogło być
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gniezna
+!!!AR1: wielkopolskie ; gnieźnieński ; Gniezno-gmina miejska
+!!!GE1: 52.533333 , 17.601388
 !!!source: DWOK13
 !!!id: 13332
 !!!signature: 1333200000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{4ee
-8cc
-8gg
-8ff#
-8ee
-=2
-4dd
-8b
-8dd
-8cc
-8b
-=3
-4ee
-8cc
-8gg
-8ff#
-8ee
-=4
-4dd
-8b
-8dd
-8cc
-8b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{4ee	Oj
+8cc	że-
+8gg	-by
+8ff#	to
+8ee	tak
+=2	=2
+4dd	mo-
+8bL	-gło
+8ddJ	.
+8ccL	być,
+8bJ	.
+=3	=3
+4ee	o-
+8ccL	-że-
+8ggJ	.
+8ff#	-nić
+8ee	się,
+=4	=4
+4dd	nie
+8bL	ro-
+8ddJ	.
+8ccL	-bić.
+8b}J	.
 !!LO:LB:g=esac
-=5
-{8a
-8cc
-4ee
-4f#
-=6
-8g
-8g
-4b
-4dd
-=7
-8a
-8cc
-4ee
-4f#
-=8
-8g
-8g
-8b-
-8a
-4g}
-==
-*-
-!!!ONB: U Kolberga metrum 3/8, zapisano poprawnie na 3/4
+=5	=5
+{8a\	A-
+8cc	-le
+4ee	to
+4f#	tak
+=6	=6
+8g	być
+8g	nie
+4b	mo-
+4dd	-że,
+=7	=7
+8a\	trze-
+8cc	-ba
+4ee	ro-
+4f#	-bić,
+=8	=8
+8g	o
+8g	mój
+8b-/L	Bo-
+8aJ	.
+4g}	-że!
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj żeby to tak mogło być,
+!!ożenić się, nie robić.
+!!Ale to tak być nie może,
+!!trzeba robić, o mój Boże!
+!!@VERSE:
+!!Od Buku:
+!!2. Z tejtam strony, od Bolewic,
+!!fto (kto) nie robi, ten nima nic.
+!!A fto robi, dorobi się,
+!!przyjdzie jesień, ożeni się.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=170 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 146-147} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, pp. 146-147}
 !!!page: 146-147
+!!!BEM: U Kolberga metrum 3/8, zapisano poprawnie na 3/4
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-22
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-26

@@ -1,57 +1,95 @@
-!!!!SEGMENT: DWOK1240800002-siedzi_panna_we_wioneczku.krn
+﻿!!!!SEGMENT: DWOK1240800001-siedzi_panna_we_wioneczku.krn
 !!!OTL: Siedzi panna we wioneczku
+!!!FKT: Pieśni i Dumy. Dumy. Zdrada. Zabójstwo
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Wielenia
+!!!AR1: wielkopolskie ; czarnkowsko-trzcianecki ; Wieleń-miasto
+!!!GE1: 52.888563 , 16.167865
 !!!source: DWOK12
 !!!id: 12408
 !!!signature: 1240800002
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{4f
-8a
-=2
-4g
-16cc
-16b-
-=3
-4a
-8f
-=4
-8g
-4f
-=5
-4a
-8b-
-=6
-4cc
-8dd
-=7
-4b-
-8g}
+**kern	**text	**text
+*clefG2	*	*
+*k[b-]	*	*
+*F:	*	*
+*M3/8	*	*
+=1	=1	=1
+{4f	Siedzi	Przyszed
+8a	.	.
+=2	=2	=2
+4g	panna	do
+16cc/L	.	ni
+16b-J	.	.
+=3	=3	=3
+4a	we	podo-
+8f	wio-	.
+=4	=4	=4
+8g	-neczku,	-leniec,
+4f	.	.
+=5	=5	=5
+4a\	siedzi	przyszed
+8b-	.	.
+=6	=6	=6
+4cc	panna	do
+8dd	.	nij
+=7	=7	=7
+4b-	symon	symon
+8g}	.	.
 !!LO:LB:g=esac
-=8
-{4b-
-8cc
-=9
-16a
-16g
-8a
-8f
-=10
-4g
-8cc
-=11
-4a
-8f
-=12
-8g
-4f}
-==
-*-
+=8	=8	=8
+{4b-	rechtum	rechtum
+8cc	.	.
+=9	=9	=9
+16a	prawerechtum	prawerechtum
+16g	.	.
+8a	.	.
+8f	.	.
+=10	=10	=10
+4g	dechtum	dechtum
+8cc	.	.
+=11	=11	=11
+4a	we	we
+8f	wio-	podo-
+=12	=12	=12
+8g	-neczku.	-leniec.
+4f}	.	.
+==	==	==
+*-	*-	*-
+!!!role-singer: Narrator, Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Siedzi panna we wioneczku,
+!!siedzi panna symon rechtum
+!!prawerechtum dechtum
+!!we wioneczku.
+!!@VERSE:
+!!2. Przyszed do ni podoleniec,
+!!przyszed do nij symon rechtum
+!!prawerechtum dechtum
+!!podoleniec.
+!!@VERSE:
+!!12. Skorno Jasio w usta włożył
+!!zaraz pod stół główkę złożył.
+!!Bracie, bracie, upiłeś się,
+!!idź na łóżko, prześpij-że się.
+!!@VERSE:
+!!13. A cóż po mojém przespaniu,
+!!całém światu pożegnaniu.
+!!Bratu (d)zwonią na zbawienie,
+!!siostrę wiezą na stracenie.
+!!@VERSE:
+!!14. Siedzą cieśle na murlacie,
+!!wyśpiewują o mym bracie.
+!!Spuśćcie na mnie m(ł)yński kamiń,
+!!niech nie słyszę pieśni o nim.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=227 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 211} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 211}
 !!!page: 211
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

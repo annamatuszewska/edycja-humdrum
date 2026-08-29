@@ -3,52 +3,63 @@
 !!!source: DWOK41
 !!!id: 41345
 !!!signature: 4134500001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{4g
-4b
-4cc
-=2
-8dd
-8ff#
-4gg
-4a
-=3
-4g
-4a
-4b
-=4
-8cc
-8dd
-4b
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{4g	Oj,
+4b	szy-
+4cc	-ne-
+=2	=2
+8dd	-czko
+8ff#	ko-
+4gg	-cha-
+4a	-na,
+=3	=3
+4g	da,
+4a	jesz-
+4b	-cześ
+=4	=4
+8cc	nie
+8dd	ty-
+4b	-ka-
+4g}	-na;
 !!LO:LB:g=esac
-=5
-{4b
-4b
-4cc
-=6
-8dd
-8ff#
-4.gg
-8a
-=7
-4g
-4a
-4b
-=8
-8cc
-8dd
-4b
-4g}
-==
-*-
+=5	=5
+{4b	oj,
+4b	i-
+4cc	-no
+=6	=6
+8dd	se
+8ff#	od-
+(8aaq	.
+4.gg)	-po-
+8aM	-cznę,
+=7	=7
+4g	da,
+4a	to
+4b	cie-
+=8	=8
+8cc	-bie
+8dd	na-
+4b	-po-
+4g}	-cznę.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oj, szyneczko kochana,
+!!da, jeszcześ nie tykana;
+!!oj, ino se odpocznę,
+!!da, to ciebie napocznę.
+!!@@END: VERSES
+!!!role-singer: Complex
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=279 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 200} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 200}
 !!!page: 200
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-30

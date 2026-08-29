@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1211200000-pocozes_chodzila_przez_las.krn
-!!!OTL: Pocóżeś chodziła przez las
+﻿!!!!SEGMENT: DWOK1211200000-pocozes_chodzila_przez_las.krn
+!!!OTL: Pocóżeś chodziła przez las. Chodzony
+!!!FKT: Pieśni i Dumy. Pieśni przed Weselem i wśród Wesela śpiewane
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Zaniemyśla
+!!!AR1: wielkopolskie ; średzki ; Zaniemyśl-gmina wiejska
+!!!GE1: 52.156121 , 17.164291
 !!!source: DWOK12
 !!!id: 12112
 !!!signature: 1211200000
@@ -87,6 +92,7 @@
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=71 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 55-56} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 55-56}
 !!!page: 55-56
+!!!BEM: Chodzony
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-02-25

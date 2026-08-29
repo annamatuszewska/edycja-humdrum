@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1330400000-instrumentalna-wiatrak.krn
-!!!OTL: Instrumentalna-Wiatrak
+﻿!!!!SEGMENT: DWOK1330400000-instrumentalna-wiatrak.krn
+!!!OTL: Oj siano siano. Wiatrak. Instrumentalna
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Miłosławia, Wrześni
+!!!AR1: wielkopolskie ; wrzesiński ; Miłosław-miasto
+!!!GE1: 52.202819 , 17.488615
+!!!AR2: wielkopolskie ; wrzesiński ; Września-miasto
+!!!GE2: 52.325822 , 17.565352
 !!!source: DWOK13
 !!!id: 13304
 !!!signature: 1330400000
@@ -9,110 +16,128 @@
 *C:
 *M3/8
 =1
-{16g
-16b
-16dd
+!LO:TX:a:t=Wiatrak.
+{16gL
+16b/J
+16ddL
 16ff
-8aa
+8aaJ
 =2
-16gg
+16ggL
 16ee
 16cc
 16ff
-8dd
+8ddJ
 =3
-16g
-16b
-16dd
+16gL
+16b/J
+16ddL
 16ee
-8cc
+8ccJ
 =4
-16a
-16f
-16a
-16b
-8g}
+16aL
+16fJ
+16aL
+16b/
+8g}J
 !!LO:LB:g=esac
 =5
-{16g
-16b
-16dd
+{16gL
+16b/J
+16ddL
 16ee
-8cc
+8ccJ
 =6
-16ee
-16ee
-8gg
+16eeL
+16eeJ
+8ggL
 16ff
-16dd
+16ddJ
 =7
-16g
-16b
-16dd
+16gL
+16b/J
+16ddL
 16ee
-8cc
+8ccJ
 =8
-16a
-16f
-16a
-16b
-8g}
+16aL
+16fJ
+16aL
+16b/
+8g}J
 !!LO:LB:g=esac
 =9
-{16g
-16b
-16dd
+{16gL
+16b/J
+16ddL
 16ff
-8aa
+8aaJ
 =10
-16gg
+16ggL
 16ee
 16cc
 16ff
-8dd
+8ddJ
 =11
-16g
-16b
-16dd
+16gL
+16b/J
+16ddL
 16ee
-8cc
+8ccJ
 =12
-16a
-16f
-16a
-16b
-8g}
+16aL
+16fJ
+16aL
+16b/
+8g}J
 !!LO:LB:g=esac
 =13
-{16g
-16b
-16dd
+{16gL
+16b/J
+16ddL
 16ee
-8cc
+8ccJ
 =14
-16ee
-32dd
-32ee
-8gg
+16eeL
+32dd/
+32ee/J
+8ggL
 16ff
-16dd
+16ddJ
 =15
-16g
-16b
-16dd
+16gL
+16b/J
+16ddL
 16ee
-8cc
+8ccJ
 =16
-16a
-16f
-16a
-16b
-8g}
+16aL
+16fJ
+16aL
+16b/
+8g}J
 ==
 *-
-!!!ONB: Alternatywnie możliwe kodowanie w G
+!!@@BEGIN: VERSES
+!!Gdy się gra w wolniejszem tempie, wtedy śpiewają.
+!!1. Oj siano, siano, 
+!!pod sianem woda, 
+!!u ciebie dziewcze, 
+!!wszelka wygoda.
+!!@VERSE:
+!!2. Oj siano, siano, 
+!!bardzo zielone; 
+!!obróć się dziewcze 
+!!na prawą stronę...
+!!@@END: VERSES
+!!!role-listener: Girl
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=161 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 137-138} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, pp. 137-138}
 !!!page: 137-138
+!!!BEM: Alternatywnie możliwe kodowanie w G
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-19
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-24

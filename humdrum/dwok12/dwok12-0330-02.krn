@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1233000002-niesczesliwy_ten_ganeczek.krn
+﻿!!!!SEGMENT: DWOK1233000002-niesczesliwy_ten_ganeczek.krn
 !!!OTL: Niesczęśliwy ten ganeczek
+!!!FKT: Pieśni i Dumy. Strata wianka. Żale
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Koźmina
+!!!AR1: wielkopolskie ; krotoszyński ; Koźmin Wielkopolski-miasto
+!!!GE1: 51.827192 , 17.452901
 !!!source: DWOK12
 !!!id: 12330
 !!!signature: 1233000002
@@ -60,7 +65,7 @@
 16g	by-
 8b	-ło
 8g	cho-
-=	=
+=12	=12
 *Xtuplet	*
 24aL	-dzić
 24b	.
@@ -68,35 +73,35 @@
 16ccL	ganku
 16bJ/	.
 8a	.
-=12	=12
+=13	=13
 4dd	ach
 8a	ciuch
-=13	=13
+=14	=14
 4g}	ciuch,
 8r	.
 !!LO:LB:g=esac
-=14	=14
+=15	=15
 {16f#	była-
 16g	.
 8b	-byś
 8g	cho-
-=15	=15
+=16	=16
 16b	-dziła
 16dd	.
 16ccL	w_wianku,
 16bJ/	.
 8a	.
-=16	=16
+=17	=17
 16b	ram
 16cc	ta
 8dd	dia
 16aL	ta
 16f#J	.
-=17	=17
+=18	=18
 4g}	da.
 8r	.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Maiden, Bachelor
 !!!role-listener: Bachelor, Maiden
 !!!singer-sex: female, male
@@ -192,11 +197,13 @@
 !!ram ta dja da,
 !!dja da da da da.
 !!@@END: VERSES
-!!!ONB: U Kolberga nie ma oznaczenia trioli w takcie 7, zapisano w układzie triolowym
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=190 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 174} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 174}
 !!!page: 174
+!!!BEM: U Kolberga nie ma oznaczenia trioli w takcie 7, zapisano w układzie triolowym
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-26
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

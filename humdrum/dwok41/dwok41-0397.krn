@@ -3,59 +3,68 @@
 !!!source: DWOK41
 !!!id: 41397
 !!!signature: 4139700000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M4/4
-=1
-{4dd
-4gg
-8ee
-8cc
-4a
-=2
-8g
-8g
-8a
-8a
-8b
-8b
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M4/4	*
+=1	=1
+{4dd	Na,
+4gg	na,
+8ee	na,
+8cc	na,
+4a	na,
+=2	=2
+8g	zje-
+8g	-dli
+8a	wil-
+8a	-cy
+8b	ba-
+8b	-ra-
+4g}	-na,
 !!LO:LB:g=esac
-=3
-{4dd
-4gg
-8ee
-8cc
-4a
-=4
-8g
-8g
-8a
-8a
-2g}
+=3	=3
+{4dd	a
+4gg	o-
+8eeL	-wie-
+8ccJ	.
+4a	-cka
+=4	=4
+8g	psi,
+8g	psi,
+8a	[psi,
+8a	psi,
+2g}	psi],
 !!LO:LB:g=esac
-=5
-{4g
-4b
-8a
-8b
-8a
-8g
-=6
-8d
-8d
-8b
-8b
-8a
-8a
-4g}
-==
-*-
+=5	=5
+{4g	ma-
+4b	-ła
+8aL	Ka-
+8b/J	.
+8aL	-sia
+8gJ	.
+=6	=6
+8d	śpi,
+8d	śpi,
+8b	bzi,
+8b	bzi,
+8a	bzi,
+8a	bzi,
+4g}	[bzi].
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Na, na, na, na, na,
+!!zjedli wilcy barana,
+!!a owiecka psi, psi, [psi, psi, psi],
+!!mała Kasia śpi, śpi, bzi, bzi, bzi, bzi, [bzi].
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!ONB: Pieśni kołyskowe
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=300 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 219} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 219}
 !!!page: 219
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-14

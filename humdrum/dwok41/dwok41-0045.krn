@@ -3,63 +3,98 @@
 !!!source: DWOK41
 !!!id: 41045
 !!!signature: 4104500000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16cc
-32dd
-32ee
-8ff
-8dd
-=2
-16cc
-32b-
-32a
-8g
-16ff
-16dd}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16cc	I
+32ddL	przy-
+32eeJ	.
+8ff	-je-
+8dd	-chał
+=2	=2
+16cc	przed
+32b-/L	po-
+32aJ	.
+8g	-ko-
+16ffL	-je,
+16dd}J	.
 !!LO:LB:g=esac
-=3
-{16cc
-16ee
-8ff
-8dd
-=4
-16cc
-16b-
-8g
-8f}
+=3	=3
+{16cc	i
+16ee	za-
+8ff	-wo-
+8dd	-łał
+=4	=4
+16cc	dziew-
+16b-	-cze
+8g	mo-
+8f}	-je.
 !!LO:LB:g=esac
-=5
-{16.a
-32a
-8.a
-16cc
-=6
-16cc
-32b-
-32a
-8g
-16cc
-16b-}
+=5	=5
+{16.a	O-
+32a	-na
+8.a	o-
+16cc	-kien-
+=6	=6
+16cc	-kiem
+32b-/L	wyj-
+32aJ	.
+8g	-rza-
+16ccL	-ła,
+16b-}J	.
 !!LO:LB:g=esac
-=7
-{16.a
-32a
-8.a
-16cc
-=8
-16cc
-16b-
-8g
-8f}
-==
-*-
+=7	=7
+{16.a	czar-
+32a	-ne
+8.a	o-
+16cc	-czka
+=8	=8
+16cc	u-
+16b-	-pła-
+8g	-ka-
+8f}	-ła.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. I przyjechał przed pokoje,
+!!i zawołał dziewcze moje.
+!!Ona okienkiem wyjrzała,
+!!czarne oczka upłakała.
+!!@VERSE:
+!!2. On się pyta: A cóż ci to,
+!!czy cię łają, czy cię bito?
+!!Mateńka na mnie gadała,
+!!żem z wacpanem rozmawiała.
+!!@VERSE:
+!!3. Już ci widzę, że zła sprawa,
+!!że wacpanna nie łaskawa;
+!!skłoniłem się inszej damie,
+!!wacpanna się gniewasz na mnie.
+!!@VERSE:
+!!4. I kanarek w klatce siada,
+!!i ten cukier słodki jada.
+!!@VERSE:
+!!5. Gołąbki nasze gruchają,
+!!a przecie się téż kochają,
+!!a ja, biédny, pary nie mám,
+!!przed wszystkiémi czapkę trzymám.
+!!@VERSE:
+!!6. Dyziu, dyziu, gołąbeczku,
+!!nie odjeżdżaj, kochaneczku.
+!!@VERSE:
+!!7. Mám ja z ojca, mám ja z matki
+!!ciebie kochać, choś nie gładki,
+!!choć nie gładki, ale grzeczny,
+!!dopomóż nám, Boże wieczny.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=125 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 48} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 48}
 !!!page: 48
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-16

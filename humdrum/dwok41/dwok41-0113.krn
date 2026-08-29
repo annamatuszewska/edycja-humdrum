@@ -3,63 +3,77 @@
 !!!source: DWOK41
 !!!id: 41113
 !!!signature: 4111300000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{8g
-8cc
-8ee
-=2
-8dd
-8cc
-8b
-=3
-8a
-4dd}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{8g	Pod
+8cc	bo-
+8ee	-rem
+=2	=2
+8ddL	na
+8ccJ	.
+8b	mu-
+=3	=3
+8a	-raw-
+4dd}	-ce
 !!LO:LB:g=esac
-=4
-{8g
-8cc
-8ee
-=5
-8dd
-8cc
-8b
-=6
-8a
-4g}
+=4	=4
+{8g	pa-
+8cc	-sła
+8ee	dziew-
+=5	=5
+8ddL	-czy-
+8ccJ	.
+8b	-na
+=6	=6
+8a	ow-
+4g}	-ce.
 !!LO:LB:g=esac
-=7
-{8e
-8g
-8a
-=8
-8g
-8f
-8e
-=9
-8d
-4g}
+=7	=7
+{8e	Przy-
+8g	-szed
+8a	do
+=8	=8
+8gL	nij
+8fJ	.
+8e	wo-
+=9	=9
+8d	-ło-
+4g}	-szyn,
 !!LO:LB:g=esac
-=10
-{16c
-16d
-8e
-8a
-=11
-8g
-8f
-8e
-=12
-8d
-4c}
-==
-*-
+=10	=10
+{16Lc	o-
+16dJ	.
+8e	-wiecz-
+8a	-ki
+=11	=11
+8gL	jéj
+8fJ	.
+8e	roz-
+=12	=12
+8d	-pró-
+4c}	-szył.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Pod borem na murawce
+!!pasła dziewczyna owce.
+!!Przyszed do nij wołoszyn,
+!!owieczki jéj rozprószył.
+!!@VERSE:
+!!2. Sam sie jegomość pyta,
+!!keń ta dziewczyna sipia?
+!!Sam się jegomość dobył,
+!!dziewczyny wionek zdobył.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=161 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 82} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 82}
 !!!page: 82
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-23

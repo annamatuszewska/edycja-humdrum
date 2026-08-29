@@ -1,0 +1,98 @@
+!!!!SEGMENT: DWOK4182600020-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK41
+!!!id: 41826
+!!!signature: 4182600020
+**kern
+*clefG2
+*k[]
+*F:
+*M3/8
+=1
+{8aL
+8a
+8aJ
+=2
+16dLd
+16ee
+8ff
+16ee
+16ddJ
+=3
+8ccL
+8cc
+8ccJ
+=4
+16ccL
+16g\J
+8b-/L
+8a}J
+!!LO:LB:g=esac
+=5
+{8aL
+8a
+8aJ
+=6
+16dLd
+16ee
+8ff
+16ee
+16ddJ
+=7
+8ccL
+8cc
+8ccJ
+=8
+16ccL
+16g\J
+8b-/L
+8a}J
+!!LO:LB:g=esac
+=9
+{4f
+16gL
+16aJ
+=10
+16ddL
+16ee
+8ff
+16ee
+16ddJ
+=11
+4ff
+16eeL
+16ddJ
+=12
+16ccL
+16g\J
+8b-/L
+8a}J
+!!LO:LB:g=esac
+=13
+{4f
+16gL
+16aJ
+=14
+16ddL
+16ee
+8ff
+16ee
+16ddJ
+=15
+4ff
+16eeL
+16ddJ
+=16
+16ccL
+16g\J
+8b-/L
+8a}J
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=455 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 368} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 368}
+!!!page: 368
+!!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-06-30

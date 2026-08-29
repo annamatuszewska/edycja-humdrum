@@ -3,62 +3,72 @@
 !!!source: DWOK41
 !!!id: 41447
 !!!signature: 4144700000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{4g
-8a
-8cc
-8dd
-8dd
-=2
-8ff#
-8dd
-4ee
-4cc}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{4g	Da,
+8a	nie
+8cc	po-
+8dd	-pę-
+8dd	-dzę
+=2	=2
+8ff#	woł-
+8dd	-ków
+4ee	z_ra-
+4cc}	-na,
 !!LO:LB:g=esac
-=3
-{4b
-8a
-8cc
-8dd
-8b
-=4
-8a
-8a
-4b
-4g}
+=3	=3
+{4b	da,
+8a	bo
+8cc	się
+8dd	bo-
+8b	-ję
+=4	=4
+8a	Per-
+8a	-sy-
+4b	-ja-
+4g}	-na,
 !!LO:LB:g=esac
-=5
-{4g
-8a
-8cc
-8dd
-8b
-=6
-8b
-8a
-4.dd
-8f#}
+=5	=5
+{4g	da,
+8a	bo
+8cc	Per-
+8dd	-sy-
+8b	-jan
+=6	=6
+8b	sie-
+8a	-dzi
+(8eeq	.
+4.dd)M	w_li-
+8f#}	-pie,
 !!LO:LB:g=esac
-=7
-{4g
-8a
-8cc
-8dd
-8b
-=8
-8a
-8a
-4b
-4g}
-==
-*-
+=7	=7
+{4g	da,
+8a	i
+8cc	wy-
+8dd	-trzész-
+8b	-czył
+=8	=8
+8a	na
+8a	mnie
+4b	śli-
+4g}	-pie.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Da, nie popędzę wołków z rana,
+!!da, bo się boję Persyjana,
+!!da, bo Persyjan siedzi w lipie,
+!!da, i wytrzészczył na mnie ślipie.
+!!@@END: VERSES
+!!!role-singer: Complex
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=323 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 240} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 240}
 !!!page: 240
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-15

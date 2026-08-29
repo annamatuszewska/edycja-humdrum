@@ -3,46 +3,56 @@
 !!!source: DWOK41
 !!!id: 41021
 !!!signature: 4102100000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{8g
-8ff
-8ff
-=2
-8ff
-8ee
-8dd
-=3
-8g
-8ee
-8ee
-=4
-8ee
-8dd
-8a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{8g	Przy-
+8ff	-je-
+8ff	-chał
+=2	=2
+8ffL	pa-
+8eeJ	.
+8dd	-nicz
+=3	=3
+8g	z_da-
+8dd	-le-
+8dd	-kich
+=4	=4
+8ddL	gra-
+8ccJ	.
+8a}	-nic,
 !!LO:LB:g=esac
-=5
-{8g
-8b
-8cc
-=6
-4gg
-8ee
-=7
-8dd
-8g
-8b
-=8
-4cc
-8cc}
-==
-*-
+=5	=5
+{8g	chciał-
+8b	-by
+8cc	się
+=6	=6
+4gg	że-
+8ee	-nić,
+=7	=7
+8dd	a-
+8g	-le
+8b	nie
+=8	=8
+4cc	miał
+8cc}	nic.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Przyjechał panicz z dalekich granic,
+!!chciałby się żenić, ale nie miał nic.
+!!@VERSE:
+!!2. Czapeczka krymka, szabla ordynka,
+!!koniczek turek, sam pan mazurek.
+!!@@END: VERSES
+!!!role-singer: Narrator 
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=114 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 37} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 37}
 !!!page: 37
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-15

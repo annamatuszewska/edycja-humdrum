@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1224900002-pojmij_mnie_jasiu_za_zone.krn
+﻿!!!!SEGMENT: DWOK1224900002-pojmij_mnie_jasiu_za_zone.krn
 !!!OTL: Pojmij mnie Jasiu za żonę
+!!!FKT: Pieśni i Dumy. Skarga. Niechęć. Rozstanie
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Rawicza (Pakosław)
+!!!AR1: wielkopolskie ; rawicki ; Pakosław-gmina wiejska
+!!!GE1: 51.611323 , 17.058539
 !!!source: DWOK12
 !!!id: 12249
 !!!signature: 1224900002
@@ -80,7 +85,7 @@
 8b	.
 2g}	.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Maiden
 !!!role-listener: Bachelor
 !!!singer-sex: female
@@ -99,3 +104,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

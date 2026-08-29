@@ -3,61 +3,71 @@
 !!!source: DWOK41
 !!!id: 41067
 !!!signature: 4106700001
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16g
-16cc
-8ee
-16cc
-16ee
-=2
-8gg
-16gg
-16ff#
-8gg
-=3
-16g
-16cc
-8ee
-16cc
-16ee
-=4
-8ff
-16dd
-16b
-8cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16g	A
+16cc	ko-
+8ee	-cha-
+16ccL	-łem
+16eeJ	.
+=2	=2
+8gg	dzie-
+(8aaq	.
+16gg)L	-wu-
+16ff#J	.
+8gg	-che,
+=3	=3
+16g	a
+16cc	o-
+8ee	-na
+16cLc	mnie
+16eeJ	.
+=4	=4
+8ff	nie
+16ddL	chcia-
+16bJ	.
+8cc}	-ła,
 !!LO:LB:g=esac
-=5
-{8g
-8b
-16b
-16dd
-=6
-16dd
-16ee
-8a
-16cc
-16b
-=7
-8g
-8b
-16b
-16dd
-=8
-16dd
-16cc
-16a
-16f#
-8g}
-==
-*-
-!!!ONB: zakodowac w G?
+=5	=5
+{8g	ja
+8b	se
+16b	za-
+16dd	-ráz
+=6	=6
+16dd	in-
+16ee	-szą
+8a	zna-
+16ccL	-láz,
+16bJ	.
+=7	=7
+8g	a
+8b	o-
+16b	-na
+16dd	dziew-
+=8	=8
+16dd	-ką
+16cc	zo-
+16aL	-sta-
+16f#J	.
+8g}	-ła.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A kochałem dziewuche,
+!!a ona mnie nie chciała,
+!!ja se zaráz inszą znaláz,
+!!a ona dziewką została.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=138 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 59-60} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 59-60}
 !!!page: 59-60
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-19

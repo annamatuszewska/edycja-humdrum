@@ -1,71 +1,87 @@
-!!!!SEGMENT: DWOK1330500001-pytala_sie_matka.krn
+﻿!!!!SEGMENT: DWOK1330500001-pytala_sie_matka.krn
 !!!OTL: Pytała się matka
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Krzywinia
+!!!AR1: wielkopolskie ; kościański ; Krzywiń-miasto
+!!!GE1: 51.961720 , 16.820761
 !!!source: DWOK13
 !!!id: 13305
 !!!signature: 1330500001
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16g
-16b
-8dd
-16ff
-16aa
-=2
-4gg
-8ee
-=3
-16gg
-16aa
-4ff}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16g	Py-
+16b	-ta-
+8dd	-ła
+16ffL	się
+16aaJ	.
+=2	=2
+4gg	ma-
+8ee	-tka
+=3	=3
+16gg	sło-
+16aa	-wi-
+4ff}	-ka,
 !!LO:LB:g=esac
-=4
-{16gg
-16aa
-8ff
-16dd
-16ee
-=5
-4cc
-8a
-=6
-16cc
-16b
-4g}
+=4	=4
+{16gg	że-
+16aa	-li
+8ff	wiel-
+16ddL	-ga
+16eeJ	.
+=5	=5
+4cc	gę-
+8a\	-ba
+=6	=6
+16cc	u
+16b	wil-
+4g}	-ka.
 !!LO:LB:g=esac
-=7
-{16dd
-16ee
-8ff
-8ee
-=8
-4cc
-8a
-=9
-16g
-16b
-4dd}
+=7	=7
+{16dd	A
+16ee	sło-
+8ff	-wik
+8ee	jej
+=8	=8
+4cc	od-
+8a\	-po-
+=9	=9
+16g\L	-wie-
+16bJ	.
+4dd}	-dział
 !!LO:LB:g=esac
-=10
-{16dd
-16ee
-8ff
-8ee
-=11
-4cc
-8a
-=12
-16cc
-16b
-4g}
-==
-*-
-!!!ONB: Alternatywnie możliwe kodowanie w G
+=10	=10
+{16dd	że
+16ee	w_jego
+8ff	.
+8ee	gę-
+=11	=11
+4cc	-bie
+8a\	nie
+=12	=12
+16ccL	sie-
+16bJ	.
+4g}	-dział.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Pytała się matka słowika,
+!!żeli wielga gęba u wilka.
+!!A słowik jej odpowiedział
+!!że w jego gębie nie siedział.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=162 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 138} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 138}
 !!!page: 138
+!!!BEM: Alternatywnie możliwe kodowanie w G
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-19
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-24

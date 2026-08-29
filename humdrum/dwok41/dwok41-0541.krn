@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK4154100001-co_za_kara_pana_boga.krn
+!!!OTL: Co za kara Pana Boga
+!!!source: DWOK41
+!!!id: 41541
+!!!signature: 4154100002
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/4	*
+=1	=1
+{8f\	Co
+8e\	za
+4f\	ka-
+4g\	-ra
+=2	=2
+8a\	Pa-
+8g\	-na
+4a	Bo-
+4b-/}	-ga,
+!!LO:LB:g=esac
+=3	=3
+{8cc	[nie
+(8bq	.
+8cc)	u-
+4.aa	-wa-
+8ff	-żasz,
+=4	=4
+8cc	ze
+8a\	zła
+4dd	dro-
+4cc/}	-ga,
+!!LO:LB:g=esac
+=5	=5
+{8cc	tyl-
+(8ddq	.
+8cc)	-ko
+4b-	jeź-
+4e	-dzisz
+=6	=6
+8f\L	na
+16e\	.
+16f\J	.
+4a	-li-
+4cc}	-ki,
+!!LO:LB:g=esac
+=7	=7
+{8cc	siaz-
+8cc	-drzesz
+4b-	su-
+4e	-knie,
+=8	=8
+8f\L	drzesz
+16g\	.
+16a\J	.
+4f\	-ci-
+4f}	-ki].
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Co za kara Pana Boga,
+!![nie uważasz, ze zła droga,
+!!tylko jeździsz na baliki,
+!!siazdrzesz suknie, drzesz buciki].
+!!@@END: VERSES
+!!!role-singer: Complex
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=364 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 281-282} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 281-282}
+!!!page: 281-282
+!!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-27

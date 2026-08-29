@@ -12,14 +12,14 @@
 {8cc#
 8ee
 4ee
-8ff#
-8ee
+8ff#L
+8eeJ
 =2
 8b
 8dd
 4cc#
-8ff#
-8ee
+8ff#L
+8eeJ
 =3
 8ee
 8cc#
@@ -29,8 +29,8 @@
 8e
 8g#
 4b
-8dd
-8cc#}
+8ddL
+8cc#J}
 !!LO:LB:g=esac
 =5
 {2ee
@@ -39,17 +39,17 @@
 =6
 8a
 8cc#
-8b
-8dd
-8b
-8a
+8bL
+8ddJ
+8b/L
+8aJ
 =7
 8b
 8dd
-8cc#
-8dd
-8ff#
-8ee
+8ccL#
+8ddJ
+8ff#L
+8eeJ
 =8
 8e
 8g#
@@ -63,22 +63,22 @@
 =10
 8a
 8cc#
-8b
-8dd
-8b
-8a
+8bL
+8ddJ
+8b/L
+8aJ
 =11
 8b
 8dd
-8cc#
-8dd
-8ff#
-8ee
+8ccL#
+8ddJ
+8ff#L
+8eeJ
 =12
 8e
 8g#
 4b
-4a}
+4a}\
 ==
 *-
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
@@ -86,3 +86,5 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=474 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 387} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 387}
 !!!page: 387
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-08

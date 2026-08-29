@@ -3,104 +3,121 @@
 !!!source: DWOK41
 !!!id: 41091
 !!!signature: 4109100000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16g
-16b
-8dd
-8g
-=2
-8cc
-16cc
-16a
-8cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Pasterska	!
+{16g	A
+16b	ja
+8dd	z_to-
+8g	-bą,
+=2	=2
+8cc	ty
+16ccL	ze
+16a\J	.
+8cc}	mną,
 !!LO:LB:g=esac
-=3
-{16g
-16b
-8dd
-8g
-=4
-8cc
-8a
-8f}
+=3	=3
+{16g	a
+16b	zmi-
+8dd	-łuj
+8g	się
+=4	=4
+8cc	na-
+8a	-de
+8f}	mną,
 !!LO:LB:g=esac
-=5
-{16g
-16b
-8dd
-8dd
-=6
-8ff
-8aa
-8gg}
+=5	=5
+{16g	a
+16b	ja
+8dd	z_to-
+8dd	-bą,
+=6	=6
+8ff	byś-
+8aa	-ki
+8gg}	paść,
 !!LO:LB:g=esac
-=7
-{16cc
-16b
-8dd
-8dd
-=8
-8cc
-16cc
-16a
-8f}
+=7	=7
+{16cc	a
+16b	ty
+8dd	ze
+8dd	mną
+=8	=8
+8cc	noc-
+16cc/L	-kę
+16aJ	.
+8f}	spać.
 !!LO:LB:g=esac
-=9
-{16g
-16b
-8dd
-16b
-16g
-=10
-8ff
-16ee
-16gg
-8ff}
+=9	=9
+{16gL	.
+16b/J	.
+8dd	.
+16b/L	.
+16gJ	.
+=10	=10
+8ff	.
+16eeL	.
+16ggJ	.
+8ff}	.
 !!LO:LB:g=esac
-=11
-{16ee
-16gg
-8dd
-16b
-16g
-=12
-8cc
-16cc
-16a
-8f}
+=11	=11
+{16eeL/	.
+16gg/J	.
+8dd	.
+16b/L	.
+16gJ	.
+=12	=12
+8ccL	.
+16cc	.
+16a\J	.
+8f}	.
 !!LO:LB:g=esac
-=13
-{16g
-16b
-8dd
-16b
-16g
-=14
-8ff
-16ee
-16gg
-8ff}
+=13	=13
+{16gL	.
+16b/J	.
+8dd	.
+16b/L	.
+16gJ	.
+=14	=14
+8ff	.
+16eeL	.
+16ggJ	.
+8ff}	.
 !!LO:LB:g=esac
-=15
-{16cc
-16b
-8dd
-16b
-16g
-=16
-8cc
-16cc
-16a
-8f}
-==
-*-
+=15	=15
+{16ccL	.
+16bJ	.
+8dd	.
+16b/L	.
+16gJ	.
+=16	=16
+8ccL	.
+16cc	.
+16a\J	.
+8f}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A ja z tobą, ty ze mną,
+!!a zmiłuj się nade mną,
+!!a ja z tobą, byśki paść,
+!!a ty ze mną nockę spać.
+!!@VERSE:
+!!2. A ja dałam co swego.
+!!a co komu do tego,
+!!lepsa u mnie żywioła
+!!jak u chłopa stodoła.
+!!@@END: VERSES
+!!!role-singer: Mistress
+!!!role-listener:Lover 
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=152 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 73-74} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 73-74}
 !!!page: 73-74
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-21

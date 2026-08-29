@@ -3,65 +3,77 @@
 !!!source: DWOK41
 !!!id: 41035
 !!!signature: 4103500000
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M3/8
-=1
-{16d
-16f#
-8a
-16cc#
-16b
-=2
-16g
-16f#
-16g
-16b
-8a}
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M3/8	*
+=1	=1
+{16d	A
+16f#	ja
+8a	ja-
+16cc#L	-dę
+16bJ	.
+=2	=2
+16g	od
+16f#	Ka-
+16gL	-li-
+16b/J	.
+8a}	-sza,
 !!LO:LB:g=esac
-=3
-{16d
-16f#
-8a
-16cc#
-16b
-=4
-16g
-16e
-8f#
-8d}
+=3	=3
+{16d	pie-
+16f#	-le
+8a	mo-
+16cc#L	-ja
+16bJ	.
+=4	=4
+16g	mak
+16e	Ma-
+8f#	-ry-
+8d}	-sia,
 !!LO:LB:g=esac
-=5
-{16f#
-16a
-8g
-16e
-16f#
-=6
-16g
-16a
-16dd
-16cc#
-8a}
+=5	=5
+{16f#	a
+16a	ja
+8g	do
+(8f#q	.
+16e)L	ni
+16f#J	.
+=6	=6
+16g	przez
+16a	za-
+16ddL	-go-
+16cc#J	.
+8a}	-ny,
 !!LO:LB:g=esac
-=7
-{16f#
-16a
-8g
-16e
-16f#
-=8
-16g
-16e
-16c#
-16e
-8d}
-==
-*-
+=7	=7
+{16f#	po-
+16a	-ła-
+8g	-ma-
+(8f#q	.
+16e)L	-łem
+16f#J	.
+=8	=8
+16g	mak
+16e	zie-
+16c#L	-lo-
+16eJ	.
+8d}	-ny.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A ja jadę od Kalisza,
+!!piele moja mak Marysia,
+!!a ja do ni przez zagony,
+!!połamałem mak zielony.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=121 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 44} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 44}
 !!!page: 44
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-15

@@ -1,108 +1,119 @@
-!!!!SEGMENT: DWOK1336100000-instrumentalna_-_owczarek.krn
-!!!OTL: Instrumentalna - Owczarek
+﻿!!!!SEGMENT: DWOK1336100000-instrumentalna_-_owczarek.krn
+!!!OTL: Instrumentalna. Owczarek
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Strzelna (Ostrowo)
+!!!AR1: kujawsko-pomorskie ; mogileński ; Strzelno-obszar wiejski
+!!!GE1: 52.556442 , 18.110263
 !!!source: DWOK13
 !!!id: 13361
 !!!signature: 1336100000
 **kern
 *clefG2
-*k[f#]
-*G:
+*k[]
+*C:
 *M3/8
-=
-{16cc
-16cc
-8b
-24g
-24a
-24b
 =1
-16cc
-16a
-8g
-16e
-16d
+*Xtuplet
+!LO:TX:a:t=Owczarek.
+{16ccL
+16ccJ
+8bL
+24g\
+24a\
+24bJ
 =2
-16c
-16c
-8d
-16f
-16a
+16ccL
+16a\J
+8gL
+16em
+16dJ
 =3
-16b
-16dd
-16ff#
-16ee
-8a}
-!!LO:LB:g=esac
-=
-{16cc
-16cc
-8b
-24g
-24a
-24b
-=4
-16cc
-16a
-8g
-16e
-16d
-=5
-16c
-16c
-8d
+16cL
+16cJ
+8dL
 16f
-16a
-=
-24d
-24e
-24f#
-8g
-8d}
+16aJ
+=4
+16bL
+16ddJ
+16ff#L
+16ee
+8a}\J
 !!LO:LB:g=esac
+=5
+{16ccL
+16ccJ
+8b/L
+8ddJ
 =6
-{8cc
-8cc
-8ee
+16ccL
+16a\J
+8gL
+16em
+16dJ
 =7
-16ff#
-16ee
-8dd
-16b
-16a
+16cL
+16cJ
+8dL
+16f
+16aJ
 =8
-8g
-8g
-8a
-=9
-16b
-16dd
-16ff#
-16ee
-8a}
+24dL
+24e
+24f#J
+8g\L
+8d}\J
 !!LO:LB:g=esac
-=10
-{8cc
+=9
+{8bq
+8ccL
+8bq
 8cc
-8ee
+8ddq
+8eeJ
+=10
+16ff#L
+16eeM
+8ddJ
+16b/L
+16aJ
 =11
-16ff#
-16ee
-8dd
-16b
-16a
+8gL
+8gJ
+8a\
 =12
-8g
-8g
-16a
-16cc
+16bL
+16ddJ
+16ff#L
+16ee
+8a\J}
+!!LO:LB:g=esac
 =13
-16b
-16dd
-16cc
-16b
-16a
-16g}
+{8bq
+8ccL
+8bq
+8cc
+8ddq
+8eeJ
+=14
+16ff#L
+16eeM
+8ddJ
+16b/L
+16aJ
+=15
+8gL
+8gJ
+16aL
+16c/cJ
+=16
+16bL
+16ddJ
+16ccL
+16bJ
+16aL
+16g}J
 ==
 *-
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
@@ -110,3 +121,7 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=179 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 155} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 155}
 !!!page: 155
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-26

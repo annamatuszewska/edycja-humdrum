@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1217700002-widzisz_ty_dziewucho.krn
+﻿!!!!SEGMENT: DWOK1217700002-widzisz_ty_dziewucho.krn
 !!!OTL: Widzisz ty dziewucho
+!!!FKT: Pieśni i Dumy. Pieśni przed Weselem i wśród Wesela śpiewane
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Poznania (Górczyn)
+!!!AR1: wielkopolskie ; m. Poznań ; Poznań-gmina miejska
+!!!GE1: 52.383495 , 16.876515
 !!!source: DWOK12
 !!!id: 12177
 !!!signature: 1217700002
@@ -12,18 +17,19 @@
 {4cc;	Widzisz
 (>4.g	.
 8f)	.
-=	=
+=2	=2
+*Xtuplet	*
 8d	ty
 8f	dziewucho
 4a	.
 12gL	.
 12e	.
 12cJ	.
-=2	=2
+=3	=3
 4e	ten
 (>4.g	ka-
 8a)	.
-=	=
+=4	=4
 8b	-mień
 8cc	nad
 4ee	wodą,
@@ -31,18 +37,18 @@
 12b	.
 12gJ/}	.
 !!LO:LB:g=esac
-=3	=3
+=5	=5
 {2cc	jak
 4g	on
-=4	=4
+=6	=6
 8g	pójdzie
 8b	.
 4dd	z_wodą,
 4cc	.
-=5	=5
+=7	=7
 2cc	oże-
 4e	.
-=6	=6
+=8	=8
 8g	-nię
 8f	się
 4d	z_tobą.
@@ -74,3 +80,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-02-27
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

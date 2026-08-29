@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1248000012-dozynaj_do_samego_konca.krn
+﻿!!!!SEGMENT: DWOK1248000012-dozynaj_do_samego_konca.krn
 !!!OTL: Dożynaj do samego końca
+!!!FKT: Pieśni i Dumy. Zabawa. Karczma. Tańce. Hulanka
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Dolska, Książa
+!!!AR1: wielkopolskie ; śremski ; Dolsk-miasto
+!!!GE1: 51.987105 , 17.063780
+!!!AR2: wielkopolskie ; śremski ; Książ Wielkopolski-miasto
+!!!GE2: 52.062403 , 17.239231
 !!!source: DWOK12
 !!!id: 12480
 !!!signature: 1248000012
@@ -12,55 +19,55 @@
 {16b	Dożynaj
 16cc	.
 8dd	.
-16dd	do
-16dd	sa-
+16dd/L	do
+16ddJ	sa-
 =2	=2
-4dd	-mego
-8a	.
+(4dd	-mego
+8a)	.
 =3	=3
-16b	końca,
-16a	.
-4g}	bo
+16bL	końca,
+16aJ	.
+4g}	.
 !!LO:LB:g=esac
 =4	=4
-{16b	ja
-16cc	i-
-16dd	-de
-16ee	z_go-
-8cc#	-ścinną
+{16b	bo
+16cc	ja
+16dd	i-
+16ee	-dę
+8cc#	z_go-
 =5	=5
+16dd/L	-ścinną
 16dd	.
-16dd	.
-8dd	do
-8a	tońca.
+8ddJ	.
+8a	do
 =6	=6
-16b	.
-16a	.
-4g}	Rom
+16bL	tońca.
+16aJ	.
+4g}	.
 !!LO:LB:g=esac
 =7	=7
-{8b	tadyda,
-16a	.
+{8b	Rom
+16aL	tadyda,
 16f#	.
-8g	rom
+8gJ	.
 =8	=8
-8b	tadyda
-16a	.
+8b	rom
+16aL	tadyda
 16f#	.
-8g	tum
+8gJ	.
 =9	=9
-16b	da
-16dd	dy-
-8.cc	-da
-16g	da-
+16b	tum
+16dd	da
+8.cc	dy-
+16g	-da
 =10	=10
-16b	.
-16a	-na.
-4g}	.
+16bL	da-
+16aJ	.
+4g}	-na.
 ==	==
 *-	*-
 !!!role-singer: Lover
-!!!role-listener: Mistress
+!!!role-listener: Mistress, Hostess
 !!!singer-sex: male
 !!@@BEGIN: VERSES
 !!@VERSE:
@@ -108,6 +115,9 @@
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=264 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 248} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 248}
 !!!page: 248
+!!!BEM: Złodziejska
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

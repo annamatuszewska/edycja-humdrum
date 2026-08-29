@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1248600000-jakem_wedrowal_kapela_grala.krn
+﻿!!!!SEGMENT: DWOK1248600000-jakem_wedrowal_kapela_grala.krn
 !!!OTL: Jak'em wędrował, kapela grała
+!!!FKT: Pieśni i Dumy. Wojsko. Łowy
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Środy (Dębicz, Bagrowo)
+!!!AR1: wielkopolskie ; średzki ; Środa Wielkopolska-obszar wiejski
+!!!GE1: 52.265702 , 17.311801
+!!!AR2: wielkopolskie ; średzki ; Dominowo-gmina wiejska
+!!!GE2: 52.287385 , 17.316166
 !!!source: DWOK12
 !!!id: 12486
 !!!signature: 1248600000
@@ -8,6 +15,7 @@
 *k[]	*
 *C:	*
 *M4/4	*
+*met(c)	*
 =1	=1
 {4g	Jak'em
 8g	.
@@ -19,9 +27,9 @@
 8cc	.
 8dd	-la
 8b	grała,
-2cc	.
+2cc}	.
 =3	=3
-4g	jak'em
+{4g	jak'em
 8g	.
 8b	wędrował,
 4.dd	.
@@ -31,17 +39,17 @@
 8cc	.
 8dd	-la
 8b	grała,
-2cc	.
+2cc}	.
 =5	=5
-8ee	jag'em
+{8ee	jag'em
 8cc	.
 8cc	masierował,
 8cc	.
 4ee	.
-4ee}	.
+4ee	.
 !!LO:LB:g=esac
 =6	=6
-{8dd	jag'em
+8dd	jag'em
 8b	.
 8b	masiero-
 8b	.
@@ -55,9 +63,9 @@
 2cc}	.
 ==	==
 *-	*-
-!!!role-singer: Lover
-!!!role-listener: Mistress
-!!!singer-sex: male
+!!!role-singer: Lover, Mistress
+!!!role-listener: Mistress, Lover
+!!!singer-sex: male, female
 !!@@BEGIN: VERSES
 !!@VERSE:
 !!1. Jak'em wędrował, kapela grała,
@@ -86,3 +94,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

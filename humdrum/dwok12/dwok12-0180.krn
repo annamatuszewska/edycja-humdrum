@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1218000000-siedzi_kruczek_nad_woda.krn
+﻿!!!!SEGMENT: DWOK1218000000-siedzi_kruczek_nad_woda.krn
 !!!OTL: Siedzi kruczek nad wodą
+!!!FKT: Pieśni i Dumy. Pieśni przed Weselem i wśród Wesela śpiewane
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gostynia
+!!!AR1: wielkopolskie ; gostyński ; Gostyń-miasto
+!!!GE1: 51.882066 , 17.012312
 !!!source: DWOK12
 !!!id: 12180
 !!!signature: 1218000000
@@ -49,7 +54,7 @@
 16d	.
 16f#	miejskie
 16a	.
-16d;	panny?
+16d;	panny.
 16g;}	.
 ==	==
 *- 	*-
@@ -88,3 +93,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

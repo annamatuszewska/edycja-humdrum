@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1203700001-cos_ty_za_pan_co_gardzisz_mna.krn
+﻿!!!!SEGMENT: DWOK1203700001-cos_ty_za_pan_co_gardzisz_mna.krn
 !!!OTL: Coś ty za pan co gardzisz mną
+!!!FKT: Pieśni i Dumy. Miłość. Pieśni zalotne
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Poznania
+!!!AR1: wielkopolskie ; m. Poznań ; Poznań-gmina miejska
+!!!GE1: 52.407918 , 16.933467
 !!!source: DWOK12
 !!!id: 12037
 !!!signature: 1203700001
@@ -91,11 +96,11 @@
 !!i pościołeczkę
 !!gdyby sołtyska.
 !!@@END: VERSES
-!!!ONB: Weselna
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=34 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 18-19} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 18-19}
 !!!page: 18-19
+!!!BEM: Weselna
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-13-02

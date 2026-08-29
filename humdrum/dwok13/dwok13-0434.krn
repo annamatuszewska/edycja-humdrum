@@ -1,164 +1,217 @@
-!!!!SEGMENT: DWOK1343400000-wesoly_szczesliwy_krakowiaczek_ci_ja.krn
-!!!OTL: Wesoły szczęśliwy krakowiaczek ci ja
+﻿!!!!SEGMENT: DWOK1343400000-wesoly_szczesliwy_krakowiaczek_ci_ja.krn
+!!!OTL: Wesoły szczęśliwy krakowiaczek ci ja. Krakowiak
+!!!FKT: Pieśni. Krakowiak
+!!!REG: Wielkie Księstwo Poznańskie
 !!!source: DWOK13
 !!!id: 13434
 !!!signature: 1343400000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8d
-8d
-4g
-=2
-8d
-8d
-4g
-=3
-8b
-8cc
-8.dd
-16cc
-=4
-8b
-4dd}
-8r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+!LO:TX:a:t=Krakowiak.	!
+{8d	We-
+8d	-so-
+4g	-ły,
+=2	=2
+8d	szczę-
+8d	-śli-
+4g	-wy,
+=3	=3
+8b	kra-
+8cc	-ko-
+8.dd	-wia-
+16cc	-czek
+=4	=4
+8b	ci
+4dd}	ja,
+8r	.
 !!LO:LB:g=esac
-=5
-{8.a
-16g
-8f#
-8e
-=6
-8d
-4.g
-=7
-8f#
-8e
-8f#
-8d
-=8
-8g
-4g}
-8r
+=5	=5
+{8.a	a
+16g	mój
+8f#	ko-
+8e	-nik
+=6	=6
+8d	si-
+4.g	-wy,
+=7	=7
+8f#	ra-
+8e	-źno
+8f#	się
+8d	u-
+=8	=8
+8g	-wi-
+4g}	-ja.
+8r	.
 !!LO:LB:g=esac
-=9
-{8.b
-16a
-8g
-8f#
-=10
-8e
-8a
-4d
-=11
-8g
-8b
-8.dd
-16cc
-=12
-8b
-8cc
-4dd}
+=9	=9
+{8.b/	U-
+16a	-wi-
+8g	-jaj
+8f#	się,
+=10	=10
+8e	ra-
+8a	-źno
+4d	bież,
+=11	=11
+8g	ko-
+8b	-pyt-
+8.dd;	-ka-
+16cc	-mi
+=12	=12
+8b	o-
+8cc	-gnia
+4dd}	krzesz!
 !!LO:LB:g=esac
-=13
-{8.gg
-16dd
-8cc
-8b
-=14
-8a
-8dd
-4d
-=15
-8g
-8b
-8.dd
-16cc
-=16
-8b
-8a
-4g}
+=13	=13
+{8.gg;	u-
+16dd	-wi-
+8cc;	-jaj
+8b	się
+=14	=14
+8a\	ra-
+8dd	źno
+4d	bież
+=15	=15
+8g	ko-
+8b	-pyt-
+8.dd	-ka-
+16cc	-mi
+=16	=16
+8b	o-
+8a	-gnia
+4g}	krzesz.
 !!LO:LB:g=esac
-=17
-{8cc
-8b
-8cc
-8ee
-=18
-8dd
-4.a
-=19
-8g
-8f#
-8g
-8e
-=20
-8a
-4d}
-8r
+=17	=17
+{8cc	Cza-
+8b	-pecz-
+8cc	-ka
+8ee	czer-
+=18	=18
+8dd	-wo-
+4.a	-na,
+=19	=19
+8g	na
+8f#	gło-
+8g	-wie
+8e	mi
+=20	=20
+8a\	pło-
+4d}	-nie,
+8r	.
 !!LO:LB:g=esac
-=21
-{8cc
-8b
-8cc
-8ee
-=22
-8dd
-4.a
-=23
-8b
-8a
-8b
-8cc#
-=24
-4.dd
-8cc}
+=21	=21
+{8cc	po-
+8b	-ka-
+8cc	-zu-
+8ee	-je
+=22	=22
+8dd	o-
+4.a	-na
+=23	=23
+8ccq	.
+8b	że
+8a\	mi
+8b	go-
+8cc#	-re
+=24	=24
+4.d;d	w_ło-
+8ccn}	-nie.
 !!LO:LB:g=esac
-=25
-{8.b
-16a
-8g
-8f#
-=26
-8e
-8a
-4d
-=27
-8g
-8b
-8.dd
-16cc
-=28
-8b
-8cc
-4dd}
+=25	=25
+{8.b/	Go-
+16a	-re
+8g	ser-
+8f#	-ce,
+=26	=26
+8e	pę-
+8a	-dzi
+4d	koń,
+=27	=27
+8g	a
+8b	dziew-
+8.dd;	-czy-
+16cc	-na
+=28	=28
+8b	klaska
+8cc	.
+4dd}	w_dłoń!
 !!LO:LB:g=esac
-=29
-{8.gg
-16dd
-8cc
-8b
-=30
-8a
-8dd
-4d
-=31
-8g
-8b
-8.dd
-16cc
-=32
-8b
-8a
-4g}
-==
-*-
-!!!ONB: Krakowiak, muzyka Wojkowskiego
+=29	=29
+{8.gg;	go-
+16dd	-re
+8cc;	ser-
+8b	-ce
+=30	=30
+8a	pę-
+8dd	-dzi
+4d	koń
+=31	=31
+8g	a
+8b	dziew-
+8.dd	-czy-
+16cc	-na
+=32	=32
+8b	kla-
+8a	-ska
+4g}	w_dłoń.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Wesoły, szczęśliwy,
+!!krakowiaczek ci ja,
+!!a mój konik siwy,
+!!raźno się uwija.
+!!Uwijaj się, raźno bież,
+!!kopytkami ognia krzesz!
+!!@VERSE:
+!!2. Czapeczka czerwona,
+!!na głowie mi płonie,
+!!pokazuje ona
+!!że mi gore w łonie.
+!!Gore serce, pędzi koń,
+!!a dziewczyna klaska w dłoń!
+!!@VERSE:
+!!3. Z czapki pawie pióro
+!!barwami się mieni,
+!!jak dzionek za chmurą,
+!!gdy ją świt zrumieni.
+!!Dumnie błyszczy pawi puch,
+!!i ja dumny — i ja zuch!
+!!@VERSE:
+!!4. Krakowiaczek ci ja,
+!!pędzę sobie żwawo,
+!!kto mię nie wymija,
+!!plunę w twarz kurzawą!
+!!Bo ja tu pan! bo ja król!
+!!pośród swoich niw i pól.
+!!@VERSE:
+!!5. W koło szumi zboże,
+!!kłania mi się kłosem,
+!!kiedy zbiorę — z'orzę,
+!!to pobrzęknę trzosem.
+!!A dziewczęta w całej wsi
+!!będą się przymilać mi!
+!!@VERSE:
+!!6. I ta, i ta ładna,
+!!lecz próżne ich chęci!
+!!o! bo mnie już żadna
+!!nie zwabi, nie znęci!
+!!Jedno tylko serce mam.
+!!jedną tylko Halkę znam.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=215 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 191} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 191}
 !!!page: 191
+!!!BEM: Krakowiak, muzyka Wojkowskiego
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-09
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-16

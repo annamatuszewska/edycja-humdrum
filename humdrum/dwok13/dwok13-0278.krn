@@ -1,62 +1,80 @@
-!!!!SEGMENT: DWOK1327800000-woda_wre_niech_przewre.krn
+﻿!!!!SEGMENT: DWOK1327800000-woda_wre_niech_przewre.krn
 !!!OTL: Woda wre niech przewre
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kobylina (Ochla)
+!!!AR1: wielkopolskie ; gostyński ; Pogorzela-obszar wiejski
+!!!GE1: 51.778660 , 17.240811
 !!!source: DWOK13
 !!!id: 13278
 !!!signature: 1327800000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{8g
-8b
-8cc
-=2
-8ee
-8gg
-8ff
-=3
-8ee
-8gg
-8ff
-=4
-16ee
-16cc
-8dd
-8dd
-=5
-16b
-16g
-4cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Kołyskowa.	!
+{8g	Wo-
+8b	-da
+8cc	wre,
+=2	=2
+8ee	niech
+8gg	przewre,
+8ff	.
+=3	=3
+8ee	niech
+8gg	przewre,
+8ff	.
+=4	=4
+16ee	a
+16cc	niech-
+8dd	-że
+8dd	nie
+=5	=5
+16b/L	ki-
+16gJ	.
+4cc}	-pi,
 !!LO:LB:g=esac
-=6
-{8g
-8b
-8cc
-=7
-16g
-16a
-8f
-8e
-=8
-16g
-16a
-8f
-8e
-=9
-8g
-8b
-8cc
-=10
-16a
-16f
-4e}
-==
-*-
-!!!ONB: Kołyskowa
+=6	=6
+{8g	niech
+8b	Kazio
+8cc	.
+=7	=7
+16gL	mi
+16aJ	.
+8f	u-
+8e	-śnie,
+=8	=8
+16gL	mi
+16aJ	.
+8f	u-
+8e	-śnie,
+=9	=9
+8g	niech
+8b	Ka-
+8cc	-zio
+=10	=10
+16aL	śpi
+16fJ	.
+4e}	śpi.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Woda wre, niech przewre, niech przewre,
+!!a niechże nie kipi,
+!!niech Kazio mi uśnie, mi uśnie,
+!!niech Kazio śpi śpi.
+!!@@END: VERSES
+!!!role-singer: Mother
+!!!singer-sex: female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=153 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 129-130} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, pp. 129-130}
 !!!page: 129-130
+!!!BEM: Kołyskowa
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-18
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-23

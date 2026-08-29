@@ -1,75 +1,104 @@
-!!!!SEGMENT: DWOK1234500000-stoji_kasia_w_ogrodenku.krn
+﻿!!!!SEGMENT: DWOK1234500000-stoji_kasia_w_ogrodenku.krn
 !!!OTL: Stoji Kasia w ogródeńku
+!!!FKT: Pieśni i Dumy. Igraszka. Swawola
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Szmigla (Morownica)
+!!!AR1: wielkopolskie ; kościański ; Śmigiel-obszar wiejski
+!!!GE1: 51.989996 , 16.475680
 !!!source: DWOK12
 !!!id: 12345
 !!!signature: 1234500000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M2/4
-=1
-{8cc
-8dd
-8ee
-8ff
-=2
-8ee
-8dd
-8cc
-8b-
-=3
-8a
-8b-
-8a
-8b-
-=4
-8cc
-8b-
-8a
-8g}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M2/4	*
+=1	=1
+{8cc	Stoji
+8dd	.
+8ee	Kasia
+8ff	.
+=2	=2
+8ee	w_ogródeńku,
+8dd	.
+8cc	.
+8b-	.
+=3	=3
+8a\	zawo-
+8b-	.
+8a\	-ła-
+8b-	-ła:
+=4	=4
+8cc	Jasio-
+8b-	.
+8a	-reńku,
+8g}	.
 !!LO:LB:g=esac
-=5
-{8.f
-16a
-8b-
-8cc
-=6
-8dd
-8b-
-4r
-=7
-8.cc
-16a
-8b-
-8dd
-=8
-8cc
-8a}
-4r
+=5	=5
+{8.f\	Jasiu
+16a\	.
+8b-	pójdź
+8cc	ty
+=6	=6
+8dd	do
+8b-	mnie,
+4r	.
+=7	=7
+8.cc	ściśnij,
+16a	.
+8b-	poca-
+8dd	.
+=8	=8
+8cc	-łuj
+8a}	mnie.
+4r	.
 !!LO:LB:g=esac
-=9
-{8.cc
-16a
-8b-
-8cc
-=10
-8dd
-8b-
-4r
-=11
-8.cc
-16a
-8b-
-8dd
-=12
-8cc
-8a}
-4r
-==
-*-
+=9	=9
+{8.ccL	Jasio
+16aJ/	.
+8b-	pójdź
+8cc	ty
+=10	=10
+8dd	do
+8b-	mnie,
+4r	.
+=11	=11
+8.cc	ściśnij,
+16a	.
+8b-	poca-
+8dd	.
+=12	=12
+8cc	-łuj
+8a}	mnie.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Maiden
+!!!role-listener: Bachelor, Bachelors
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Stoji Kasia w ogródeńku
+!!Zawołała: Jasioreńku,
+!!Jasiu pójdź ty do mnie,
+!!ściśnij, pocałuj mnie.
+!!@VERSE:
+!!2. Jasio leci jak szälony,
+!!bo on myśli że do żony;
+!!ścisko i całuje,
+!!jeszcze ją próbuje.
+!!@VERSE:
+!!3. A wy chłopcy, wy filuty,
+!!przychodzicie co minuty,
+!!gąbki dostaniecie,
+!!chodzić przestaniecie.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=199 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 183} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 183}
 !!!page: 183
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

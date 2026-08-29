@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1224000012-juz_was_bogu_oddaje.krn
+﻿!!!!SEGMENT: DWOK1224000012-juz_was_bogu_oddaje.krn
 !!!OTL: Już was Bogu oddaję
+!!!FKT: Pieśni i Dumy. Skarga. Niechęć. Rozstanie
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kurnika, Środy
+!!!AR1: wielkopolskie ; poznański ; Kórnik-miasto
+!!!GE1: 52.248594 , 17.089676
+!!!AR2: wielkopolskie ; średzki ; Środa Wielkopolska-miasto
+!!!GE2: 52.229003 , 17.275115
 !!!source: DWOK12
 !!!id: 12240
 !!!signature: 1224000012
@@ -50,7 +57,7 @@
 16aJ	.
 8g}	-cam.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Maiden, Baichelor
 !!!role-listener: Bachelor, Maiden
 !!!singer-sex: female, male
@@ -93,3 +100,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

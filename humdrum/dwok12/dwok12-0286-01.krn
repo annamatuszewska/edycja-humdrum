@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1228600001-oj_juz_ja_sama_nie_wiem.krn
+﻿!!!!SEGMENT: DWOK1228600001-oj_juz_ja_sama_nie_wiem.krn
 !!!OTL: Oj już ja sama nie wiem
+!!!FKT: Pieśni i Dumy. Strata wianka. Żale
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gośliny mur. (Owińska)
+!!!AR1: wielkopolskie ; poznański ; Czerwonak-gmina wiejska
+!!!GE1: 52.511436 , 16.976343
 !!!source: DWOK12
 !!!id: 12286
 !!!signature: 1228600001
@@ -68,25 +73,25 @@
 16a	.
 8b\	mi
 8b\	wia-
-=	=
+=14	=14
 *Xtuplet	*
 24ccL	-nek
 24dd	.
 24bJ	.
 8aL	wróć,
 8bJ\	.
-=14	=14
+=15	=15
 16a	albo
 16f#	.
 8d	mi
 8d	go
-=15	=15
-8f#q	.
+=16	=16
+8f#qq	.
 8g	zapłać.
 4e}	.
 ==	==
-*- 	*-
-!!!role-singer: Maiden, Bachelor
+*-	*-
+!!!role-singer: Maiden, Bachelor, Narrator
 !!!role-listener: Bachelor, Maiden
 !!!singer-sex: female, male
 !!@@BEGIN: VERSES
@@ -143,3 +148,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

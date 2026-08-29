@@ -3,52 +3,95 @@
 !!!source: DWOK41
 !!!id: 41064
 !!!signature: 4106400002
-**kern
-*clefG2
-*k[f#]
-*e:
-*M3/8
-=1
-{16b
-16dd#
-8ee
-8dd#
-=2
-4ee
-8b
-=3
-16dd#
-16ff#
-8ee
-8dd#
-=4
-4ee
-8ee}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*e:	*
+*M3/8	*
+=1	=1
+{16b	A
+16dd#	choć-
+8ee	-by
+8dd#	ja
+=2	=2
+4ee	uj-
+8b	-rzał
+=3	=3
+16dd#	cho-
+16ff#	-ciaż
+8ee	prze-
+8dd#	-pió-
+=4	=4
+4ee	-recz-
+8ee/}	-kę,
 !!LO:LB:g=esac
-=5
-{16b
-16dd
-8ee
-16cc
-16b
-=6
-16a
-16b
-8e
-16g
-16f#
-=7
-16e
-16g
-8f#
-8g
-=8
-4e
-8e}
-==
-*-
+=5	=5
+{16b	po-
+16dd	-my-
+8ee	-ślał-
+16ccL	-bym
+16bJ	.
+=6	=6
+16a\L	so-
+16bJ	.
+8e\L	-bie,
+16g\	.
+16f#J\	.
+=7	=7
+16e	że
+16g	swą
+8f#	Ma-
+8g	-ry-
+=8	=8
+4e	-siecz-
+8e}	-ke,
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A choćby ja ujrzał
+!!chociaż przepióreczkę,
+!!pomyślałbym sobie,
+!!że swą Marysieczke1.
+!!@VERSE:
+!!2. Marychna mi we śnie,
+!!Marychna na jawie,
+!!ja Marychnę pocałuję2,
+!!posadzę na lawie.
+!!@VERSE:
+!!3. Ja Marychnie wódki,
+!!ja Marychnie piwa,
+!!a Marychna kata zjadła,
+!!ledwie na mnie żywa.
+!!@VERSE:
+!!4. Ja Marychnie kruszki,
+!!ja Marychnie wiśni,
+!!a Marychna kata zjadła,
+!!już o inszym myśli.
+!!@VERSE:
+!!5. Posłałbym gołąbka,
+!!posłałbym siwego,
+!!czyli minie, czy nie minie
+!!kochania mojego.
+!!@VERSE:
+!!6. Co ja za dziewczyna,
+!!co ja uczyniła!
+!!A dalam się ułudzić
+!!za kieliszek wina.
+!!@VERSE:
+!!7. Za kieliszek wina,
+!!za dwa gorzałeczki,
+!!a już ci mnie odstąpiły
+!!moje kompaneczki.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: (1) [W ,,Zbiorze Wiadomości do Antropologii Krajowej" w zapisie kolumnowym: Maryneczkę.], (2) vel. ja Marychnę łap za rączki
+!!@@END:
+!!!role-singer: Lover, Mistress
+!!!singer-sex: Male, Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=136 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 57-58} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 57-58}
 !!!page: 57-58
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-18

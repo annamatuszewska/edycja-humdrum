@@ -3,52 +3,65 @@
 !!!source: DWOK41
 !!!id: 41277
 !!!signature: 4127700000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{4dd
-4b
-4b
-=2
-8dd
-8ee
-4a
-4cc
-=3
-4dd
-4cc
-4b
-=4
-8b
-8a
-4f#
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{4dd	Da,
+4b	ty
+4b	dziew-
+=2	=2
+8dd	-czy-
+8ee	-no
+4a	ła-
+4cc	-dna,
+=3	=3
+4ddM	da,
+4cc	ko-
+4b	-chaj
+=4	=4
+8b	mnie
+8a	brzydkie-
+4f#	.
+4g}	-go,
 !!LO:LB:g=esac
-=5
-{4d
-4f#
-4a
-=6
-8b
-8dd
-4cc
-4ee
-=7
-4dd
-4cc
-4b
-=8
-8g
-8a
-4f#
-4g}
-==
-*-
+=5	=5
+{4d	da,
+4f#	bę-
+4a	-dzie-
+=6	=6
+8b	-my
+8dd	się
+4cc	kra-
+4ee	-sić,
+=7	=7
+4ddM	da,
+4cc	je-
+4b	-dno
+=8	=8
+8g	o
+8a	dru-
+4f#	-gie-
+4g}	-go.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Da, ty dziewczyno ładna,
+!!Da, kochaj mnie brzydkiego.
+!!da, będziemy się krasić,
+!!da, jedno o drugiego.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Girl
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=249 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 170} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 170}
 !!!page: 170
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-24
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-27

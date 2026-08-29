@@ -1,73 +1,92 @@
-!!!!SEGMENT: DWOK4144200002-poszly_panny_na_jagody.krn
+!!!!SEGMENT: DWOK4144200001-poszly_panny_na_jagody.krn
 !!!OTL: Poszły panny na jagody
 !!!source: DWOK41
 !!!id: 41442
 !!!signature: 4144200002
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/4
-=1
-{8g
-8g
-4ff
-4ff
-=2
-8ee
-8dd
-4ee
-4cc
-=3
-8dd
-8ee
-4ff
-4b
-=4
-4dd
-2cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*F:	*
+*M3/4	*
+=1	=1
+{8g\	Po-
+8g\	-szły
+4ff	pan-
+4ff	-ny
+=2	=2
+8ee	na
+8dd	ja-
+4ee	-go-
+4cc	-dy,
+=3	=3
+8dd	za-
+8ee	-błą-
+4ff	-dzi-
+4b	-ły
+=4	=4
+4dd	w_le-
+2cc}	-sie,
 !!LO:LB:g=esac
-=5
-{8b-
-8dd
-4b-
-4b-
-=6
-8a
-8cc
-4a
-4f
-=7
-8g
-8a
-4b-
-4e
-=8
-4f
-2ff}
+=5	=5
+{8b-	na-
+8dd	-po-
+4b-	-tka-
+4b-	-ły
+=6	=6
+8a	be-
+8cc	-dnar-
+4a	-czy-
+4f	-ka,
+=7	=7
+8g	co
+8a	o-
+4b-	-brą-
+4e	-czki
+=8	=8
+4f	nie-
+2ff}	-sie.
 !!LO:LB:g=esac
-=9
-{8b-
-8dd
-4b-
-4b-
-=10
-8a
-8cc
-4a
-4f
-=11
-8g
-8a
-4b-
-4e
-=12
-4g
-2f}
-==
-*-
+=9	=9
+{8b-	na-
+8dd	-po-
+4b-	-tka-
+4b-	-ły
+=10	=10
+8a	be-
+8cc	-dnar-
+4a	-czy-
+4f	-ka,
+=11	=11
+8g	co
+8a	o-
+4b-	-brą-
+4e	-czki
+=12	=12
+4g	nie-
+2f}	-sie.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Poszły panny na jagody,
+!!zabłądziły w lesie,
+!!|:napotkały bednarczyka,
+!!co obrączki niesie:|.
+!!@VERSE:
+!!2. A moj miły b[ednarczyku,
+!!o co ja cię proszę,
+!!|: pobijże mi koneweczkę,
+!!co nią wodę noszę:|].
+!!@VERSE:
+!!3. Pobijże mi koneweczkę,
+!!pobijże mi dzieżę,
+!!|: dam ci jedno drewno suche
+!!na obrączki świeże:|.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=320 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 237-238} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 237-238}
 !!!page: 237-238
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-15

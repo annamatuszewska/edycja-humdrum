@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1230900000-idzie_konik_bez_las.krn
-!!!OTL: Idzie konik bez las
+﻿!!!!SEGMENT: DWOK1230900000-idzie_konik_bez_las.krn
+!!!OTL: Idzie konik bez las. Chodzony
+!!!FKT: Pieśni i Dumy. Strata wianka. Żale
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gniezna
+!!!AR1: wielkopolskie ; gnieźnieński ; Gniezno-gmina miejska
+!!!GE1: 52.533333 , 17.601388
 !!!source: DWOK12
 !!!id: 12309
 !!!signature: 1230900000
@@ -58,7 +63,7 @@
 8dJ	.
 2e}	.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Narrator, Maiden, Bachelor
 !!!role-listener: Bachelor, Maiden
 !!!singer-sex: female, male
@@ -92,6 +97,9 @@
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=181 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 165-166} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 165-166}
 !!!page: 165-166
+!!!BEM: taniec chodzony do koła
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

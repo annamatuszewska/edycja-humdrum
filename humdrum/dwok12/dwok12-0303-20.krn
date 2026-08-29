@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1230300020-instrumentalna-powiedziales_ze_mnie_wezniesz.krn
-!!!OTL: Instrumentalna-Powiedziałeś że mnie weźniesz
+﻿!!!!SEGMENT: DWOK1230300020-instrumentalna-powiedziales_ze_mnie_wezniesz.krn
+!!!OTL: Powiedziałeś że mnie weźniesz. Instrumentalna
+!!!FKT: Pieśni i Dumy. Strata wianka. Żale
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Inowrocławia
+!!!AR1: kujawsko-pomorskie ; inowrocławski ; Inowrocław-gmina miejska
+!!!GE1: 52.796459 , 18.261581
 !!!source: DWOK12
 !!!id: 12303
 !!!signature: 1230300020
@@ -31,7 +36,7 @@
 16bJ
 4g}
 !!LO:LB:g=esac
-=
+=5
 *Xtuplet
 {16ddL
 16ff
@@ -40,48 +45,48 @@
 24ggL
 24ff
 24eeJ
-=
+=6
 24ddL
 24ee
 24ffJ
 8ggL
 16dd
 16ccJ
-=
+=7
 24ddL
 24ee
 24ffJ
 8ccL
 16ff
 16eeJ
-=5
+=8
 8ddM
 4g}
 !!LO:LB:g=esac
-=6
+=9
 {16ddL
 16ffJ
 8ggL
 16gg
 16ffJ
-=7
+=10
 16eeL
 16ddJ
 8ggL
 16dd
 16ccJ
-=8
+=11
 16eeL
 16ffJ
 8ggL
 16gg
 16ffJ
-=9
+=12
 16ddL
 16bJ
 4g}
 !!LO:LB:g=esac
-=
+=13
 {16ddL
 16ff
 16ee
@@ -89,30 +94,32 @@
 24ggL
 24ff
 24eeJ
-=
+=14
 24ddL
 24ee
 24ffJ
 8ggL
 16dd
 16ccJ
-=
+=15
 24ddL
 24ee
 24ffJ
 8ccL
 16ff
 16eeJ
-=10
+=16
 8ddM
 4g}
 ==
 *-
-!!!ONB: U Kolberga w taktach 5,6,7 brak oznaczenia triol, zapisano poprawnie
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=178 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 162} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 162}
 !!!page: 162
+!!!BEM: U Kolberga w taktach 5,6,7 brak oznaczenia triol, zapisano poprawnie
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

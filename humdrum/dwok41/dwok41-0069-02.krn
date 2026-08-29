@@ -3,54 +3,74 @@
 !!!source: DWOK41
 !!!id: 41069
 !!!signature: 4106900002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8b
-8dd
-8dd
-8ee
-=2
-16dd
-16cc
-8dd
-8a
-8g
-=3
-8b
-8dd
-8dd
-8ee
-=4
-16dd
-16cc
-4.a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8b	Kę-
+8dd	-dy
+8dd	mo-
+8ee	-je
+=2	=2
+16dd/L	ka-
+16cc/	.
+8dd/J	-re
+8a	ko-
+8g	-nie,
+=3	=3
+8b	tam
+8dd	i
+8dd	mo-
+8ee	-je
+=4	=4
+16dd/L	lej-
+16cc/J	.
+4.a}	-ce,
 !!LO:LB:g=esac
-=5
-{8a
-8cc
-8a
-8g
-=6
-8b
-8dd
-8dd
-8ee
-=7
-8a
-8cc
-8a
-8dd
-=8
-8a
-4.g}
-==
-*-
+=5	=5
+{8a	kę-
+8cc	-dy
+8a	mo-
+8g	-ja
+=6	=6
+8b	ko-
+8dd	-cha-
+8dd	-necz-
+8ee	-ka,
+=7	=7
+8a	tam
+8cc	i
+8a	mo-
+8dd	-je
+=8	=8
+8a	ser-
+4.g}	-ce.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Kędy moje kare konie,
+!!tam i moje lejce,
+!!kędy moja kochaneczka,
+!!tam i moje serce.
+!!@VERSE:
+!!2. Kędy moje kare konie,
+!!tam są moje oba,
+!!a już ci mi i zarosła
+!!do dziewczyny droga.
+!!@VERSE:
+!!3. Oj, ni nie zarosła mechem,
+!!ani kamieniami,
+!!oj, ino ona zarosła
+!!ludzkiemi słowami.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=139 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 60} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 60}
 !!!page: 60
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-19

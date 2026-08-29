@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1233000001-niesczesliwy_ten_ganeczek.krn
+﻿!!!!SEGMENT: DWOK1233000001-niesczesliwy_ten_ganeczek.krn
 !!!OTL: Niesczęśliwy ten ganeczek
+!!!FKT: Pieśni i Dumy. Strata wianka. Żale
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Koźmina
+!!!AR1: wielkopolskie ; krotoszyński ; Koźmin Wielkopolski-miasto
+!!!GE1: 51.827192 , 17.452901
 !!!source: DWOK12
 !!!id: 12330
 !!!signature: 1233000001
@@ -92,7 +97,7 @@
 4g}	da.
 8r	.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Maiden, Bachelor
 !!!role-listener: Bachelor, Maiden
 !!!singer-sex: female, male
@@ -195,3 +200,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-26
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

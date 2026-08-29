@@ -1,5 +1,7 @@
-!!!!SEGMENT: DWOK1220000000-lec_glosie_po_rosie.krn
+﻿!!!!SEGMENT: DWOK1220000000-lec_glosie_po_rosie.krn
 !!!OTL: Leć głosie po rosie
+!!!FKT: Pieśni i Dumy. Stałość. Życzliwość. Wymówka
+!!!REG: Wielkie Księstwo Poznańskie
 !!!source: DWOK12
 !!!id: 12200
 !!!signature: 1220000000
@@ -27,19 +29,19 @@
 4dd#	leszczy-
 4ee	.
 =5	=5
-2b;	-nie,
-4ee	idź
-4ee}	po-
+2b;}	-nie,
 !!LO:LB:g=esac
+{4ee	idź
+4ee	po-
 =6	=6
-{4dd	-wiedz
+4dd	-wiedz
 4b	.
 4cc	o-
 8bL	-de
 8g#J	.
 =7	=7
-2e;	mnie
-4g#	dobrą
+2e;}	mnie
+{4g#	dobrą
 4a	.
 =8	=8
 4b	noc
@@ -104,6 +106,9 @@
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=119 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 103} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 103}
 !!!page: 103
+!!!BEM: napisał z ust ludu (?) F. J. Dobrzański. Sielańka nadwiślańska
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

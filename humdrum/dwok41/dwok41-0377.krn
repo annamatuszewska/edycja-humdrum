@@ -3,78 +3,89 @@
 !!!source: DWOK41
 !!!id: 41377
 !!!signature: 4137700000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8g
-8b
-4dd
-4dd
-=2
-8cc#
-8a
-4cc#
-4ee
-=3
-4dd
-4dd
-8cc
-8b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8g	A
+8b	gdzie-
+4dd	-żeś
+4dd	się,
+=2	=2
+8cc#	mój
+8a	Ja-
+4cc#	-sien-
+4ee	-ku,
+=3	=3
+4dd	za-
+4dd	-ba-
+8ccL	-wił,
+8b}J	.
 !!LO:LB:g=esac
-=4
-{8g
-8a
-4b
-4cc
-=5
-8b
-8a
-4b
-8g
-8f#
-=6
-4d
-4f#
-4g}
+=4	=4
+{8g	cze-
+8a	-mu
+4b	żeś
+4cc	się
+=5	=5
+8b	na
+8a	słó-
+4b	-we-
+8gL	-czku
+8f#J	.
+=6	=6
+4d	nie
+4f#	sta-
+4g}	-wił?
 !!LO:LB:g=esac
-=7
-{8d
-8f#
-4a
-4cc
-=8
-8b
-8a
-4b
-8g
-8f#
-=9
-4a
-4cc#
-4dd}
+=7	=7
+{8d	Oj,
+8f#	w_War-
+4a	-sza-
+4cc	-wie,
+=8	=8
+8b	mo-
+8a	-ja
+4b	Jó-
+8gL	-ziu,
+8f#J	.
+=9	=9
+4a	w_War-
+4cc#	-sza-
+4dd}	-wie,
 !!LO:LB:g=esac
-=10
-{8d
-8f#
-4a
-4cc
-=11
-8b
-8a
-4b
-8g
-8f#
-=12
-4d
-4f#
-4g}
-==
-*-
+=10	=10
+{8d	oj,
+8f#	na
+4a	do-
+4cc	-brym,
+=11	=11
+8b	na
+8a	pi-
+4b	-we-
+8gL	-czku,
+8f#J	.
+=12	=12
+4d	na
+4f#	ka-
+4g}	-wie.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A gdzieżeś się, mój Jasienku, zabawił,
+!!czemu żeś się na słóweczku nie stawił?
+!!Oj, w Warszawie, moja Józiu, w Warszawie,
+!!oj, na dobrym, na piweczku, na kawie.
+!!@@END: VERSES
+!!!role-singer: Girl
+!!!role-listener: Lover
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=292 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 211} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 211}
 !!!page: 211
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-30

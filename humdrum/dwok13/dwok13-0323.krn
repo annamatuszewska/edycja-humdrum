@@ -1,60 +1,82 @@
-!!!!SEGMENT: DWOK1332300000-bez_przelazik.krn
+﻿!!!!SEGMENT: DWOK1332300000-bez_przelazik.krn
 !!!OTL: Bez przełazik
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gołańczy (Czeszewo)
+!!!AR1: wielkopolskie ; wągrowiecki ; Gołańcz-obszar wiejski
+!!!GE1: 52.908722 , 17.382633
 !!!source: DWOK13
 !!!id: 13323
 !!!signature: 1332300000
-**kern
-*clefG2
-*k[b-e-]
-*g:
-*M3/8
-=1
-{16g
-16b-
-8.dd
-16b-
-=2
-16g
-16f
-8c
-8b-}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*d:	*
+*M3/8	*
+=1	=1
+{16g	Bez
+16b-	prze-
+8.dd	-ła-
+16b-	-zik
+=2	=2
+16g	bez
+16e	dé-
+8cL	-la-
+8b-/J}	-ny,
 !!LO:LB:g=esac
-=3
-{16g
-16b-
-8.dd
-16b-
-=4
-16g
-16f
-8c
-8f}
+=3	=3
+{16g	bez
+16b-	o-
+8.dd	-gro-
+16b-	-dze-
+=4	=4
+16g	-nia
+16f	da
+8c\	moje,
+8f}\	.
 !!LO:LB:g=esac
-=5
-{16g
-16f
-8.d
-16f
-=6
-16g
-16e
-8c
-8b-}
+=5	=5
+{16g	da-
+16f	-łaś
+8.d	bu-
+16f	-zi
+=6	=6
+16g	Ja-
+16e	-sień-
+8cL	-kowi
+8b-J}/	.
 !!LO:LB:g=esac
-=7
-{16g
-16f
-8.d
-16f
-=8
-16g
-16e
-8c
-8f}
-==
-*-
+=7	=7
+{16g	na
+16f	spró-
+8.d	-bo-
+16f	-wa-
+=8	=8
+16g	-nie
+16e	da
+8c\	twoje.
+8f}\	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Bez przełazik bez délany,
+!!bez ogrodzenia da moje,
+!!dałaś buzi Jasieńkowi
+!!na spróbowanie da twoje.
+!!@VERSE:
+!!2. Bez to pole, bez oboje,
+!!bez zielony brzost, da i brzost,
+!!dałaś buzi Jasieńkowi,
+!!będziesz teraz rość, da i rość.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!role-listener: Girl
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=168 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 144} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 144}
 !!!page: 144
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-22
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-26

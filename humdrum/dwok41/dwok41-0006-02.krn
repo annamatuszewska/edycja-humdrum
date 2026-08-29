@@ -3,95 +3,105 @@
 !!!source: DWOK41
 !!!id: 41006
 !!!signature: 41006000002
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{8g
-8g
-8a
-8b
-=2
-8cc
-8ee
-16cc
-16b
-8a
-=3
-8g
-8g
-8a
-8b
-=4
-4cc}
-4r
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+=1	=1
+{8g	A
+8g	w_sa-
+8a	-de-
+8b	-czku
+=2	=2
+8cc	ja-
+8ee	-bło-
+16ccL	-ne-
+16bJ	.
+8a	-czka,
+=3	=3
+8g	w_o-
+8g	-gró-
+8a	-de-
+8b	-czku
+=4	=4
+4cc}	dwie,
+4r	.
 !!LO:LB:g=esac
-=5
-{8g
-8g
-8a
-8b
-=6
-8cc
-8ee
-16cc
-16b
-8a
-=7
-8g
-8g
-8a
-8b
-=8
-4cc}
-4r
+=5	=5
+{8g	po-
+8g	-lu-
+8a	-bi-
+8b	-łem
+=6	=6
+8cc	ko-
+8ee	-cha-
+16ccL	-ne-
+16bJ	.
+8a	-czkę
+=7	=7
+8g	lu-
+8g	-dziom,
+8a	nie
+8b	so-
+=8	=8
+4cc}	-bie.
+4r	.
 !!LO:LB:g=esac
-=9
-{4ff
-8ff
-8ee
-=10
-8gg
-8ff
-16ee
-16dd
-8cc
-=11
-4dd
-8dd
-8ff
-=12
-8ee
-8dd
-16cc
-16b
-8a}
+=9	=9
+{4ff	Ach,
+8ff/L	żal
+8ee/J	.
+=10	=10
+8gg	mnie
+8ff	ji
+16eeL	bę-
+16ddJ	.
+8cc	-dzie,
+=11	=11
+4dd	we-
+8dd/L	-zmą
+8ff/J	.
+=12	=12
+8ee	mi
+8dd	ją
+16ccL	lu-
+16bJ	.
+8a}	-dzie,
 !!LO:LB:g=esac
-=13
-{8g
-8g
-8a
-8b
-=14
-8cc
-8ee
-16cc
-16b
-8a
-=15
-8g
-8g
-8a
-8b
-=16
-4cc}
-4r
-==
-*-
+=13	=13
+{8g	mo-
+8g	-ją
+8a	nie
+8b	bę-
+=14	=14
+8cc	-dzie,
+8ee	nie
+16ccL	bę-
+16bJ	.
+8a	-dzie,
+=15	=15
+8g	mo-
+8g	-ją
+8a	nie
+8b	bę-
+=16	=16
+4cc}	-dzie.
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A w sadeczku jabłoneczka, w ogródeczku dwie,
+!!polubiłem kochaneczkę ludziom, nie sobie.
+!!Ach, żal mnie ji będzie, wezmą mi ją ludzie,
+!!moją nie będzie, nie będzie, moją nie będzie.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=99 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 24} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 24}
 !!!page: 24
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-14

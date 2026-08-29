@@ -1,51 +1,168 @@
-!!!!SEGMENT: DWOK1242100001-sluzyl_jasio_we_dworze.krn
+﻿!!!!SEGMENT: DWOK1242100001-sluzyl_jasio_we_dworze.krn
 !!!OTL: Służył Jasio we dworze
+!!!FKT: Pieśni i Dumy. Dumy. Zdrada. Zabójstwo
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kcyni, Łabiszyna
+!!!AR1: kujawsko-pomorskie ; nakielski ; Kcynia-miasto
+!!!GE1: 52.991733 , 17.487238
+!!!AR2: kujawsko-pomorskie ; żniński ; Łabiszyn-miasto
+!!!GE2: 52.952981 , 17.919040
 !!!source: DWOK12
 !!!id: 12421
 !!!signature: 1242100001
-**kern
-*clefG2
-*k[]
-*a:
-*M2/4
-=1
-{8ee
-8ee
-8b
-8dd
-=2
-8ee
-16cc
-16b
-4a
-=3
-8b
-8b
-8f#
-8b
-=4
-8g#
-8g#
-4e}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M2/4	*
+=1	=1
+{8ee	Służył
+8ee	.
+8b	Jasio
+8dd	.
+=2	=2
+8ee	we
+16ccL	dworze,
+16bJ	.
+4a	.
+=3	=3
+8b	przy
+8b	królewskim
+8f#	.
+8b	.
+=4	=4
+8g#	obozie,
+8g#	.
+4e}	.
 !!LO:LB:g=esac
-=5
-{4ee
-4ee
-=6
-8cc
-16cc
-16b
-8a
-8ee
-=7
-8e
-16f#
-16g#
-4a}
-==
-*-
+=5	=5
+{4ee	hej
+4ee;}	hej
+=6	=6
+{8cc	przy
+16ccL	królewskim
+16bJ	.
+8a	.
+8ee	.
+=7	=7
+8e	o-
+16f#L	-bo-
+16g#J	.
+4a}	-zie.
+==	==
+*-	*-
+!!!role-singer: Narrator, Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Służył Jasio we dworze,
+!!przy królewskim obozie,
+!!hej hej
+!!przy królewskim obozie.
+!!@VERSE:
+!!1. Służył Jasio we dworze,
+!!przy niemieckim kantorze.
+!!@VERSE:
+!!2. I wysłużył Kasieńkę,
+!!w siódmym roku dzieweńkę.
+!!@VERSE:
+!!3. A skorno ją wysłużył,
+!!zaraz się z nią ożenił.
+!!@VERSE:
+!!4. A skorno się ożenił.,
+!!na wojenkę odjachał.
+!!@VERSE:
+!!5. Pan na wojnę rozkazał,
+!!sługa konia szykował.
+!!@VERSE:
+!!6. Siódmy roczek już idzie,
+!!mój Jasinek już jedzie.
+!!@VERSE:
+!!7. Wjachał na podwóreczko,
+!!i zapukał w okieneczko.
+!!@VERSE:
+!!8. Wyszła do niego pierwsza część.
+!!prosi go się z konia zęść.
+!!@VERSE:
+!!9. Wyszła druga w żałobie,
+!!już Kasinka śpi w grobie.
+!!@VERSE:
+!!10.Wyszła trzecia w zieleni,
+!!już Kasińka śpi w ziemi.
+!!@VERSE:
+!!11. Ja z kónika nie zeńdę,
+!!póki Kasi nie obaczę.
+!!@VERSE:
+!!12. Już-ci Kasia nie żyje,
+!!leżą na nij kaminie.
+!!@VERSE:
+!!13. Pokażcie my jeji grób,
+!!zmówię za nią: wierzę Bóg.
+!!@VERSE:
+!!14. Trzy razy kościół objechał,
+!!czém na jeji grób trafił.
+!!@VERSE:
+!!15. Uklęknął na jeji grób,
+!!prosto w serce ji wątrób.
+!!@VERSE:
+!!16. A moja Kasieńko,
+!!przemów do mnie słóweńko.
+!!@VERSE:
+!!17. Gdzieś podziała te szmaty,
+!!com ci sprawił przed laty?
+!!@VERSE:
+!!18. Dałam perły w organy,
+!!(że)by mi pięknie zagrały.
+!!@VERSE:
+!!19. A pierścienie we dzwony,
+!!by mi pięknie dzwoniły.
+!!@VERSE:
+!!20. Powiedzże mi Kasieńko,
+!!czyje to to dzieciątko?
+!!@VERSE:
+!!21. A jak moje, tak twoje,
+!!weź je Jasiu za swoje.
+!!@VERSE:
+!!22. Wszystkie panny w wianeczku,
+!!moja Kasia w piaseczku.
+!!@VERSE:
+!!23. Wszystkie panny w leliji,
+!!moja Kasia śpi w ziemi.
+!!@VERSE:
+!!24. Wszystkie panny w lewendzie,
+!!moji Kasi nie będzie.
+!!@VERSE:
+!!25. Wszystkie panny w rozmarynie,
+!!moja Kasia marnie ginie.
+!!@VERSE:
+!!26. Już cię Bogu oddaję,
+!!już się z tobą rozstąję.
+!!@VERSE:
+!!27. Już cię Bogu polecam,
+!!już się innym zalécam.
+!!@VERSE:
+!!28. Spojrzał w niebo oczami,
+!!i zalał się Jaś łzami.
+!!@VERSE:
+!!29. Ostaj z Bogiem Kasieńko!
+!!Jedźże z Bogiem Jasieńku!
+!!@VERSE:
+!!30. Puścił konia do dwora,
+!!sam poszed do kościoła.
+!!@VERSE:
+!!31. Zagrajcie ji w piszczele,
+!!mojéj Kasi w kościele.
+!!@VERSE:
+!!32. Zagrajcie ji w organy,
+!!mojéj Kasi kochanéj.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=234 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 218} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 218}
 !!!page: 218
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

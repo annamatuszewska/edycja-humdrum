@@ -3,97 +3,108 @@
 !!!source: DWOK41
 !!!id: 41449
 !!!signature: 4144900000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16d
-16g
-8g
-8g
-=2
-16g
-16b
-8g
-16g
-16f#
-=3
-8d
-8d
-8d
-=4
-16d
-16f#
-16a
-16f#
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16d	W_ol-
+16g	-sy-
+8g	-nie
+8g	ja
+=2	=2
+16g	woł-
+16b	-ki
+8g	pa-
+16gL	-sła,
+16f#J	.
+=3	=3
+8d	rom
+8d	tom
+8d	tom
+=4	=4
+16d	ta-
+16f#	-dy
+16a	ry-
+16f#	-dy
+8g}	da,
 !!LO:LB:g=esac
-=5
-{16d
-16g
-8g
-8g
-=6
-16g
-16b
-8g
-16g
-16f#
-=7
-8d
-8d
-16e
-16f#
-=8
-4g}
-8r
+=5	=5
+{16d	w_ol-
+16g	-sy-
+8g	-nie
+8g	mie
+=6	=6
+16g	no-
+16b	-cka
+8g	za-
+16gL	-sła,
+16f#J	.
+=7	=7
+8d	rom
+8d	tom
+16e	ta
+16f#	di
+=8	=8
+4g}	ra,
+8r	.
 !!LO:LB:g=esac
-=9
-{16g
-16b
-8dd
-8dd
-=10
-16dd
-16ff#
-8gg
-8b
-=11
-8cc
-8cc
-8cc
-=12
-16a
-16cc
-16ee
-16dd
-8dd}
+=9	=9
+{16g	w_ol-
+16b	-sy-
+8dd	-nie
+8dd	ich
+=10	=10
+16dd	po-
+16ff#	-gu-
+8gg	-bi-
+(8ddq	.
+8b)	-ła,
+=11	=11
+8cc	rom
+8cc	to
+8cc	tom
+=12	=12
+16a	ta-
+16cc	-dy
+16ee	ry-
+16dd	-da
+8dd}	da,
 !!LO:LB:g=esac
-=13
-{16g
-16b
-8b
-8b
-=14
-16b
-16dd
-8b
-16g
-16f#
-=15
-8d
-8d
-16f#
-16a
-=16
-4g}
-8r
-==
-*-
+=13	=13
+{16g	su-
+16b	-ka-
+8b	-ją-
+8b	-cy,
+=14	=14
+16b	za-
+16dd	-błą-
+8b	-dzi-
+16gL	-ła,
+16f#J	.
+=15	=15
+8d	rom
+8d	tom
+16f#	ta
+16a	di
+=16	=16
+4g}	ra.
+8r	_
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!W olsynie ja wołki pasła, rom tom tom tady rydy da,
+!!w olsynie mie nocka zasła, rom tom tadira,
+!!w olsynie ich pogubiła, rom to tom tady ryda da,
+!!sukający, zabłądziła, rom tom tadi ra.
+!!@@END: VERSES
+!!!role-singer: Herdswoman
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=324 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 241} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 241}
 !!!page: 241
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-18

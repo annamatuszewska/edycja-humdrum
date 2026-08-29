@@ -3,83 +3,96 @@
 !!!source: DWOK41
 !!!id: 41256
 !!!signature: 4125600002
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16a
-16g#
-8a
-8b
-=2
-8cc
-4b
-=3
-16a
-16b
-8a
-16g
-16f
-=4
-4.e}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{16aL	W_o-
+16g#J	.
+8aL	-gró-
+8b/J	.
+=2	=2
+8cc	-de-
+4b	-cku
+=3	=3
+16aL	wąz
+16b/J	.
+8aL	.
+16g	się
+16fJ	.
+=4	=4
+4.e}	wije
 !!LO:LB:g=esac
-=5
-{16a
-16g#
-8a
-8b
-=6
-8cc
-4b
-=7
-16a
-16b
-8a
-16g
-16f
-=8
-4.e}
+=5	=5
+{16aL	o
+16g#J	.
+8aL	dla-
+8b/J	.
+=6	=6
+8cc	-bo-
+4b	-ga,
+=7	=7
+16aL	mąz
+16b/J	.
+8aL	mnie
+16g	.
+16fJ	.
+=8	=8
+4.e}	bije.
 !!LO:LB:g=esac
-=9
-{16a
-16a
-8e
-16f#
-16g#
-=10
-16a
-16a
-8e
-16f#
-16g#}
+=9	=9
+{16aL	.
+16aJ	.
+8eL	.
+16f#	.
+16gJ#	.
+=10	=10
+16aL	.
+16aJ	.
+8eL	.
+16f#	.
+16gJ#}	.
 !!LO:LB:g=esac
-=11
-{16a
-16a
-8e
-16f#
-16g#
-=12
-16a
-16a
-8e
-16f#
-16g#}
+=11	=11
+{16aL	.
+16aJ	.
+8eL	.
+16f#	.
+16gJ#	.
+=12	=12
+16aL	.
+16aJ	.
+8eL	.
+16f#	.
+16gJ#}	.
 !!LO:LB:g=esac
-=13
-{16a
-16b
-8a
-16g
-16f
-=14
-4.e}
-==
-*-
+=13	=13
+{16aL	.
+16b/J	.
+8aL	.
+16g	.
+16fJ	.
+=14	=14
+4.e}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!W ogródecku wąz się wije.
+!!o dlaboga, mąz mnie bije.
+!![......................................]
+!![......................................]
+!![......................................]
+!!@@END: VERSES
+!!!role-singer: Wife
+!!!singer-sex: female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=239 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 160} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 160}
 !!!page: 160
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-23
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-27

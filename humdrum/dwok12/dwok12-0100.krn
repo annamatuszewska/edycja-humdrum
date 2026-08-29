@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1210000000-matulo_matulo_hina_jedzie_pierwszy.krn
-!!!OTL: Matulo, matulo, hina jedzie pierwszy
+﻿!!!!SEGMENT: DWOK1210000000-matulo_matulo_hina_jedzie_pierwszy.krn
+!!!OTL: Matulo, matulo, hina jedzie pierwszy. Krakowiak
+!!!FKT: Pieśni i Dumy. Chęć ożenku. Wymówka
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Leszna (Machcin)
+!!!AR1: wielkopolskie ; kościański ; Śmigiel-obszar wiejski
+!!!GE1: 51.962163 , 16.437410
 !!!source: DWOK12
 !!!id: 12100
 !!!signature: 1210000000
@@ -94,6 +99,7 @@
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=64 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 48} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 48}
 !!!page: 48
+!!!BEM: Krakowiak
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-02-25

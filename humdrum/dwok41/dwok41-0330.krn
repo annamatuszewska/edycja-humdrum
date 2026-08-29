@@ -3,67 +3,84 @@
 !!!source: DWOK41
 !!!id: 41330
 !!!signature: 4133000000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8b
-8a
-4b
-4g
-=2
-8f#
-8e
-4f#
-4d
-=3
-8cc
-8a
-4f#
-4d
-=4
-4g
-2g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8b/L	Już
+8aJ	.
+4b	mię
+4g	tak
+=2	=2
+8f#	nic
+8e	nie
+4f#	cie-
+4d	-szy.
+=3	=3
+8cc	bie-
+8a	-rze
+4f#	mię
+4d	mój
+=4	=4
+4g	Fra-
+2g}	-nek,
 !!LO:LB:g=esac
-=5
-{8b
-8g
-4b
-4g
-=6
-8f#
-8e
-4f#
-4d
-=7
-8cc
-8b
-4f#
-4d
-=8
-4g
-2g}
+=5	=5
+{8b	nic
+8g	mię
+4b	w_ży-
+4g	-ciu
+=6	=6
+8f#	tak
+8e	nie
+4f#	cię-
+4d	-ży,
+=7	=7
+8cc	jak
+8a	na
+4f#	gło-
+4d	-wie
+=8	=8
+4g	wia-
+2g}	-nek,
 !!LO:LB:g=esac
-=9
-{4dd
-2gg
-=10
-4dd
-2gg
-=11
-8cc
-8a
-4f#
-4d
-=12
-4g
-2g}
-==
-*-
+=9	=9
+{4dd	oj
+2gg	tak,
+=10	=10
+4dd	oj
+2gg	tak,
+=11	=11
+8cc	[jak
+8a	na
+4f#	gło-
+4d	-wie
+=12	=12
+4g	wia-
+2g}	-nek].
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Już mię tak nic nie cieszy.
+!!bierze mię mój Franek,
+!!nic mię w życiu tak nie cięży,
+!!jak na głowie wianek, oj tak, oj tak,
+!![jak na głowie wianek].
+!!@VERSE:
+!!2. Skoro kwiaty z głowy zdejmę,
+!!czepcem się ozdobię,
+!!nie będę się turbowała,
+!!będę panie sobie, oj tak, [oj tak,
+!!będę panią sobie].
+!!@@END: VERSES
+!!!role-singer: Bride
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=273 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 194-195} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 194-195}
 !!!page: 194-195
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-30

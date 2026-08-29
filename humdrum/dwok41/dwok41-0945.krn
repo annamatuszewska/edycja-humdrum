@@ -11,10 +11,10 @@
 =1
 {16dd
 16ff#
-16gg
-16ff#
-16dd
-16ff#
+16ggL
+16ff#J
+16ddL
+16ff#J
 =2
 16gg
 16dd
@@ -23,10 +23,10 @@
 =3
 16a
 16cc
-16dd
-16cc
-16a
-16f
+16ddL
+16ccJ
+16aL
+16fJ
 =4
 16g
 16g
@@ -46,10 +46,10 @@
 =7
 16a
 16cc
-16dd
-16cc
-16a
-16f#
+16ddL
+16ccJ
+16aL
+16f#J
 =8
 16g
 16b-
@@ -69,10 +69,10 @@
 =11
 16a
 16cc
-16dd
-16cc
-16a
-16f#
+16ddL
+16ccJ
+16aL
+16f#J
 =12
 16g
 16g
@@ -85,3 +85,5 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=486 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 399} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 399}
 !!!page: 399
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-09

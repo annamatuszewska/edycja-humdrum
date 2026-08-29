@@ -1,87 +1,107 @@
-!!!!SEGMENT: DWOK1325400000-nie_wymowie_nie_wyslowie.krn
+﻿!!!!SEGMENT: DWOK1325400000-nie_wymowie_nie_wyslowie.krn
 !!!OTL: Nie wymówię nie wysłowię
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Bnina
+!!!AR1: wielkopolskie ; poznański ; Kórnik-miasto
+!!!GE1: 52.224002 , 17.087303
 !!!source: DWOK13
 !!!id: 13254
 !!!signature: 1325400000
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M3/8
-=1
-{8ff
-8ff
-16gg
-16gg
-=2
-16ff
-16ff
-8ee-
-8dd}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M3/8	*
+=1	=1
+{8ff	Nie
+8ff	wy-
+16gg	-mówię
+16gg	.
+=2	=2
+16ff	nie
+8ggq	.
+16ff	wy-
+8ee-	-sło-
+8dd}	-wię,
 !!LO:LB:g=esac
-=3
-{8ff
-8ff
-16gg
-16gg
-=4
-16ff
-16ff
-8ee-
-8dd}
+=3	=3
+{8ff	żem
+8ff	cię
+16gg	sza-
+16gg	-no-
+=4	=4
+16ff	-wał,
+8ggq	.
+16ff	sza-
+8ee-	-no-
+8dd}	-wał
 !!LO:LB:g=esac
-=5
-{8dd
-16dd
-16b-
-16dd
-16ff
-=6
-16ff
-32ee-
-32dd
-8cc
-8f}
+=5	=5
+{8dd	sa-
+16ddL	-ma
+16b-J	.
+16dd	powiedz
+16ff	.
+=6	=6
+16ff	przed
+32ee-L	ma-
+32ddJ	.
+8cc	-tu-
+8f}	-sią,
 !!LO:LB:g=esac
-=7
-{8cc
-8cc
-16cc
-16f
-=8
-16a
-16cc
-8ee-
-16ee-
-16dd}
+=7	=7
+{8cc/	żem
+8cc/	koniom
+16cc	.
+16f	da-
+=8	=8
+16a	-wał
+16cc	da
+8ee-	da-
+16eeL-	-wał.
+16dd}J	.
 !!LO:LB:g=esac
-=9
-{8dd
-16dd
-16b-
-16dd
-16ff
-=10
-16ff
-32ee-
-32dd
-8cc
-8f}
+=9	=9
+{8dd	sa-
+16ddL	-ma
+16b-J	.
+16dd	powiedz
+16ff	.
+=10	=10
+16ff	przed
+32ee-L	ma-
+32ddJ	.
+8cc	-tu-
+8f}	-sią,
 !!LO:LB:g=esac
-=11
-{8cc
-8cc
-16cc
-16f
-=12
-16a
-16cc
-8dd
-8b-}
-==
-*-
+=11	=11
+{8cc/	żem
+8cc/	koniom
+16cc	.
+16f	da-
+=12	=12
+16a\	-wał
+16cc	da
+8dd	da-
+8b-}	-wał.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Nie wymówię nie wysłowię,
+!!żem cię szanował, szanował
+!!sama powiedz przed matusią,
+!!żem koniom dawał da dawał.
+!!@@END: VERSES
+!!!role-singer: Ex-boyfriend
+!!!role-listener: Ex-girlfriend
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=145 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 121} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 121}
 !!!page: 121
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-11
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-23

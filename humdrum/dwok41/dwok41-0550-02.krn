@@ -1,104 +1,156 @@
-!!!!SEGMENT: DWOK4155000002-o_slicne_laki_o_slicne_krzaki.krn
+!!!!SEGMENT: DWOK4155000001-o_slicne_laki_o_slicne_krzaki.krn
 !!!OTL: O ślicne łąki, o ślicne krzaki
 !!!source: DWOK41
 !!!id: 41550
 !!!signature: 4155000002
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{8cc
-4cc
-=2
-8b-
-8a
-8g
-=3
-8cc
-4cc
-=4
-8b-
-8a
-8g
-=5
-8a
-8a
-8b-
-=6
-4cc
-8b-
-=7
-8a
-8cc
-8g
-=8
-4g
-8f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Śpiew wieśniaków czerniakowskich	!
+{8cc	O
+4cc	śli-
+=2	=2
+8b-	-cne
+8a	łą-
+8g	-ki,
+=3	=3
+8a\	o
+4a\	śli-
+=4	=4
+8b-	-cne
+8a	krza-
+8g	-ki,
+=5	=5
+8a	nie
+8a	wiem,
+8b-	czy
+=6	=6
+4cc	gdzie
+8b-	jest
+=7	=7
+8a	kraj
+8cc	in-
+8g	-ny
+=8	=8
+4g	ta-
+8f}	-ki,
 !!LO:LB:g=esac
-=9
-{8g
-4g
-=10
-8b-
-8a
-8g
-=11
-8a
-4a
-=12
-8cc
-8b-
-8a
-=13
-8a
-8a
-8b-
-=14
-4cc
-8b-
-=15
-8a
-8cc
-8g
-=16
-4g
-8f}
+=9	=9
+{8g	smie-
+4g	-le
+=10	=10
+8b-	rzec
+8a	mo-
+8g	-gę,
+=11	=11
+8a	na
+4a	to
+=12	=12
+8cc	przy-
+8b-	-się-
+8a	-gę,
+=13	=13
+8a	ze
+8a	wio-
+8b-	-ska
+=14	=14
+4cc	na-
+8b-	-sa
+=15	=15
+8a	prze-
+8cc	-sła
+8g	War-
+=16	=16
+4g	-sę-
+8f}	-gę.
 !!LO:LB:g=esac
-=17
-{8g
-4g
-=18
-8b-
-8a
-8g
-=19
-8a
-4a
-=20
-8cc
-8b-
-8a
-=21
-8a
-8a
-8b-
-=22
-4cc
-8b-
-=23
-8a
-8cc
-8g
-=24
-4g
-8f}
-==
-*-
+=17	=17
+{8g	smie-
+4g	-le
+=18	=18
+8b-	rzec
+8a	mo-
+8g	-gę,
+=19	=19
+8a	na
+4a	to
+=20	=20
+8cc	przy-
+8b-	-się-
+8a	-gę,
+=21	=21
+8a	ze
+8a	wio-
+8b-	-ska
+=22	=22
+4cc	na-
+8b-	-sa
+=23	=23
+8a	prze-
+8cc	-sła
+8g	War-
+=24	=24
+4g	-sę-
+8f}	-gę.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. O ślicne łąki, o ślicne krzaki, 
+!!nie wiem, czy gdzie jest kraj inny taki,
+!!smiele rzec mogę, na to przysięgę,
+!!ze wioska nasa przesła Warsęgę.
+!!smiele rzec mogę, na to przysięgę,
+!!ze wioska nasa przesła Warsęgę.
+!!@VERSE:
+!!2. Bartku, coś kręcił nieraz z tej brzozy
+!!idącym flisom w górę powrozy,
+!!|: wsak głowa twoja siwa pamięta,
+!!widziałeś kiedy takie panięta:|?
+!!@VERSE:
+!!3. Jedni w kontusach, drudzy z niemiecka,
+!!wsytkim na piersiach świeci gwiazdecka,
+!!|:wsyscy wielmozni i wsyscy radzi,
+!!kazdy pod rąckę jéjmość prowadzi:|.
+!!@VERSE:
+!!4. Król nas łaskawy, pan miłościwy.
+!!wiernych poddanych ojciec prawdziwy,
+!!|: wsytkich przewyżsył, jak jawor w lesie,
+!!pod którym drobny chwaścik kryje się:|.
+!!@VERSE:
+!!5. Siostra nasego dobrego króla.
+!!niechaj jéj będzie scęsliwa dola.
+!!|: dobrać to pani, grzecna i luba,
+!!błyscy się na niéj słocista suba:|.
+!!@VERSE:
+!!6. Córka wedle niej, kochanej matki.
+!!nié ma nas(z) pan wójt nigdy tak gładkiéj.
+!!|: choć się o sto mil jeśdzić nie lenił.
+!!aby się tylko z gładką ozenił:|.
+!!@VERSE:
+!!7. Umykaj, Bartku, na stronę trochę.
+!!bo cię roztrzęsą słapaki płoche:
+!!|: widzis, jak pędzi zawodnik srogi.
+!!co go unosi koń białonogi:|.
+!!@VERSE:
+!!8. Mam ci ja w kiesce ze słotych dwieście.
+!!com je zarobił na węglach w mieście:
+!!|: kupie go sobie, daj Boze zdrowie,
+!!będę wywijał po Czerzniakowie:|.
+!!@VERSE:
+!!9. Za zdrowie, państwo wielmożni, wase.
+!!wypijem sobie wódki dwié flase,
+!!|: za zdrowie wase, grzecne dziewecki.
+!!wypijem sobie piwa dwie becki:|.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!ONB: Śpiew wieśniaków czerniakowskich
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=371 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 288} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 288}
 !!!page: 288
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-27

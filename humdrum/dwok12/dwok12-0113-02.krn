@@ -1,8 +1,15 @@
-!!!!SEGMENT: DWOK1211300001-jasio_moj_jasienku.krn
+﻿!!!!SEGMENT: DWOK1211300001-jasio_moj_jasienku.krn
 !!!OTL: Jasio mój Jasieńku
+!!!FKT: Pieśni i Dumy. Pieśni przed Weselem i wśród Wesela śpiewane
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kruszwicy, Strzelna
+!!!AR1: kujawsko-pomorskie ; inowrocławski ; Kruszwica-miasto
+!!!GE1: 52.676219 , 18.323047
+!!!AR2: kujawsko-pomorskie ; mogileński ; Strzelno-miasto
+!!!GE2: 52.628026 , 18.172506
 !!!source: DWOK12
 !!!id: 12113
-!!!signature: 1211300001
+!!!signature: 1211300002
 **kern	**text
 *clefG2	*
 *k[b-]	*
@@ -93,11 +100,11 @@
 !!dwa złote'm napiła,
 !!cztéry napisała.
 !!@@END: VERSES
-!!!ONB: U Kolberga jest metrum 3/8 powinno byc 3/4 i tak zapisano
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=72 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 56} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 56}
 !!!page: 56
+!!!BEM: U Kolberga jest metrum 3/8 powinno byc 3/4 i tak zapisano
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-02-25

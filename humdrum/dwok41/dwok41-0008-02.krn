@@ -3,47 +3,99 @@
 !!!source: DWOK41
 !!!id: 41008
 !!!signature: 4100800002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8g
-8g
-8a
-8f#
-8g
-8d
-=2
-8g
-8b
-8a
-8f#
-8g
-8d}
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8g	Po-
+8g	-szła
+8a	do
+8f#	koś-
+8g	-cio-
+8d	-ła,
+=2	=2
+8g/L	klę-
+8b/J	-kła
+8a	za
+8f#	ław-
+8g	-ka-
+8d}	-mi,
 !!LO:LB:g=esac
-=3
-{8g
-8g
-16a
-16g
-16a
-16cc#
-8dd
-8dd
-=4
-8gg
-8ff#
-8ee
-8cc#
-8dd
-8dd}
-==
-*-
+=3	=3
+{8g	słu-
+8g	-ży-
+16a\L	-li
+16g\	.
+16a\	ji
+16cc#\J	.
+8dd	słu-
+8dd	-dzy,
+=4	=4
+8gg	wszys-
+8ff#	-cy
+8ee	pod
+8cc#	pió-
+8dd/L	-ra-
+8dd}/J	-mi.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Poszła do kościoła, 
+!!klękła za ławkami,
+!!służyli ji1 słudzy, 
+!!wszyscy pod piórami2.
+!!@VERSE:
+!!2. Wyszła, da, z kościoła,
+!!już ci nie dzieweczka,
+!!rozświeca się na jéj główce
+!!złocista czapeczka.
+!!@VERSE:
+!!3. Czapeczka nad oczko,
+!!wianuszek wysoczko;
+!!któż mnie teraz powié:
+!!dzień dobry, dzieweczko!
+!!@VERSE:
+!!4. Ale ci mnie powié:
+!!a dzień dobry, pani.
+!!gdzieżeś to podziała
+!!ten wianek ruciany?
+!!@VERSE:
+!!5. Toć ja samá nie wiem.
+!!gdzie on mnie się podział,
+!!czy z wodą popłynął,
+!!czy się z wiatrem rozwiał.
+!!@VERSE:
+!!6. Siegajże go, sięgaj
+!!prawą rączką do dna,
+!!jeśli go dosiegniesz,
+!!to go będziesz godna.
+!!@VERSE:
+!!7. Dosięgła, dosięgła.
+!!ale już nie cały,
+!!cztery różezki rozmarynu
+!!z niego wyleciały.
+!!@VERSE:
+!!8. Obwińże go, obwiń
+!!w czerwone wstążeczki,
+!!żeby się nie śmiały
+!!te drugie dzieweczki.
+!!@VERSE:
+!!9. Obwija, obwija,
+!!ale zapérzały3,
+!!wiatry już powonie4
+!!z niego porozwiały5.
+!!@@END: VERSES
+!!@@BEGIN:  
+!! @COMMENTARY: (1) [W ,,Zbiorze Wiadomości do Antropologii Krajowej" w tekście kolumnowym i w rkp. O. K.: jéj.], (2) [W ,,Zbiorze Wiadomości do Antropologii Krajowej" w tekście kolumnowym i w rkp. O. K.: pierzami v. pioramy, (3) nikły, [w rkp.: już nie cały.], (4) woń, (5) [lub] wiatry, v.: wody już listeczki z niego oberwały
+!!@@END:
+!!!role-singer: Narrator
 !!!ONB: W drodze, w czasie powrotu z kościoła
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=101 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 26-27} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 26-27}
 !!!page: 26-27
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-14

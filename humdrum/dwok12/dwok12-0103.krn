@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1210300000-hola_matusiu_moja.krn
+﻿!!!!SEGMENT: DWOK1210300000-hola_matusiu_moja.krn
 !!!OTL: Hola! Matusiu moja
+!!!FKT: Pieśni i Dumy. Chęć ożenku. Wymówka
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kurnika, Bnina
+!!!AR1: wielkopolskie ; poznański ; Kórnik-miasto
+!!!GE1: 52.248594 , 17.089676
+!!!AR2: wielkopolskie ; poznański ; Kórnik-miasto
+!!!GE2: 52.224002 , 17.087303
 !!!source: DWOK12
 !!!id: 12103
 !!!signature: 1210300000
@@ -131,11 +138,11 @@
 !!a mnie pierzynę dawajcie,
 !!matusiu moja!
 !!@@END: VERSES
-!!!ONB: W taktach 10 i 16 brakuje osemki
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=66 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 50} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 50}
 !!!page: 50
+!!!BEM: W taktach 10 i 16 brakuje osemki
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-02-25

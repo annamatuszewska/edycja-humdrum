@@ -3,48 +3,58 @@
 !!!source: DWOK41
 !!!id: 41427
 !!!signature: 4142700000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16cc
-16ee
-8ff
-8dd
-=2
-8b
-4cc
-=3
-16ee
-16gg
-8dd
-8cc
-=4
-8ee
-4cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16cc	Pa-
+16ee	-ro-
+8ff	-be-
+8dd	-czek
+=2	=2
+8b	ci
+4cc	ja
+=3	=3
+16ee	nad
+16gg	ca-
+8dd	-łą
+8cc	gro-
+=4	=4
+8ee	-ma-
+4cc}	-dę,
 !!LO:LB:g=esac
-=5
-{16ee
-16gg
-8dd
-8ee
-=6
-8b
-4cc
-=7
-16ee
-16gg
-8dd
-8cc
-=8
-8ee
-4cc}
-==
-*-
+=5	=5
+{16ee	na
+16gg	stró-
+8dd	-żą
+8ee	nie
+=6	=6
+8b	pój-
+4cc	-dę,
+=7	=7
+16ee	w_dro-
+16gg	-gę
+8dd	nie
+8cc	po-
+=8	=8
+8ee	-ja-
+4cc}	-dę.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Parobeczek ci ja
+!!nad całą gromadę,
+!!na stróżą nie pójdę,
+!!w drogę nie pojadę.
+!!@@END: VERSES
+!!!role-singer: Farmhand
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=314 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 231} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 231}
 !!!page: 231
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-14

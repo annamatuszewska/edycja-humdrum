@@ -1,105 +1,141 @@
-!!!!SEGMENT: DWOK1324700000-da_co_bys_wolala.krn
+﻿!!!!SEGMENT: DWOK1324700000-da_co_bys_wolala.krn
 !!!OTL: Da co byś wolała
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Książa (Mchy)
+!!!AR1: wielkopolskie ; śremski ; Książ Wielkopolski-obszar wiejski
+!!!GE1: 52.015706 , 17.234114
 !!!source: DWOK13
 !!!id: 13247
 !!!signature: 1324700000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/4
-=1
-{4cc
-8cc
-8dd
-8cc
-8b-
-=2
-8a
-8f
-4a
-4cc
-=3
-4cc
-8cc
-8dd
-8cc
-8b-
-=4
-8b-
-8b-
-4dd
-4b-}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/4	*
+=1	=1
+{4cc	Da
+8cc	co-
+8dd	-byś
+8cc	wo-
+8b-	-la-
+=2	=2
+8a	-ła
+8f	ko-
+4a	-chanko,
+4cc	.
+=3	=3
+4cc	da
+8cc	co-
+8dd	-byś
+8cc	wo-
+8b-	-la-
+=4	=4
+8b-	-ła
+8b-	wo-
+4dd	-la-
+4b-}	-ła.
 !!LO:LB:g=esac
-=5
-{4cc
-8cc
-8dd
-8cc
-8b-
-=6
-8a
-8f
-4a
-4cc
-=7
-4cc
-8cc
-8dd
-8cc
-8b-
-=8
-8b-
-8b-
-4dd
-4b-}
+=5	=5
+{4cc	Da
+8cc	co-
+8dd	-byś
+8cc	wo-
+8b-	-la-
+=6	=6
+8a	-ła
+8f	ko-
+4a	-chanko,
+4cc	.
+=7	=7
+4cc	da
+8cc	co-
+8dd	-byś
+8cc	wo-
+8b-	-la-
+=8	=8
+8b-	-ła
+8b-	wo-
+4dd	-la-
+4b-}	-ła.
 !!LO:LB:g=esac
-=9
-{4.f
-8a
-8a
-8a
-=10
-8g
-8g
-4e
-4c
-=11
-8c
-8e
-4g
-4b-
-=12
-8b-
-8b-
-4dd
-4cc}
+=9	=9
+{4.f	Da
+8a	wo-
+8a	-la-
+8a	-ła-
+=10	=10
+8g	-bym
+8g	chusteczkę,
+4e	.
+4c	.
+=11	=11
+8c	bo
+8e	się
+4g	u-
+4b-	-stro-
+=12	=12
+8b-	-ję,
+8b-	u-
+4dd	-stro-
+4cc}	-ję.
 !!LO:LB:g=esac
-=13
-{4.f
-8a
-8a
-8a
-=14
-8g
-8g
-4e
-4c
-=15
-8c
-8e
-4g
-4b-
-=16
-8b-
-8b-
-4dd
-4cc}
-==
-*-
-!!!ONB: U Kolberga zapis w metrum 3/8, zapisano poprawnie na 3/4
+=13	=13
+{4.f	Da
+8a	wo-
+8a	-la-
+8a	-ła-
+=14	=14
+8g	-bym
+8g	chusteczkę,
+4e	.
+4c	.
+=15	=15
+8c	bo
+8e	się
+4g	u-
+4b-	-stro-
+=16	=16
+8b-	-ję,
+8b-	u-
+4dd	-stro-
+4cc}	-ję.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Da cobyś wolała kochanko,
+!!da cobyś wolała wolała.
+!!Da wolałabym chusteczkę,
+!!bo się ustroję, ustroję.
+!!@VERSE:
+!!2. Da cobyś wolała, kochanko,
+!!da cobyś wolała, wolała,
+!!da czy chusteczkę muślinową,
+!!czyli Mchowiana, Mchowiana?
+!!@VERSE:
+!!3. Da wolałabym chusteczkę,
+!!bo się ustroję, ustroję;
+!!da i o tego Mchowiana
+!!to ja nie stoję, nie stoję.
+!!@VERSE:
+!!4. Da wolałabym Mchowiana,
+!!bo ładnie orze, da orze, —
+!!da chusteczka wyszywana
+!!wnet mi się podrze, da podrze.
+!!@VERSE:
+!!5. Da i z Mchowianem ucieszę się,
+!!da chusteczka podrze mi się.
+!!@@END: VERSES
+!!!role-singer: Lover, Mistress
+!!!role-listener: Mistress, Lover
+!!!singer-sex: male, female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=143 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 119} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 119}
 !!!page: 119
+!!!BEM: U Kolberga zapis w metrum 3/8, zapisano poprawnie na 3/4
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-09
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-23

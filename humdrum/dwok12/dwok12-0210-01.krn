@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1221000001-cztery_lata_wierniem_sluzyl.krn
+﻿!!!!SEGMENT: DWOK1221000001-cztery_lata_wierniem_sluzyl.krn
 !!!OTL: Cztery lata wierniem służył
+!!!FKT: Pieśni i Dumy. Stałość. Życzliwość. Wymówka
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Szremu, Kościana
+!!!AR1: wielkopolskie ; śremski ; Śrem-miasto
+!!!GE1: 52.095371 , 17.020534
+!!!AR2: wielkopolskie ; kościański ; Kościan-gmina miejska
+!!!GE2: 52.085881 , 16.644239
 !!!source: DWOK12
 !!!id: 12210
 !!!signature: 1221000001
@@ -45,7 +52,7 @@
 8r	.
 !!LO:LB:g=esac
 =8	=8
-{16g	rano
+{16g	Rano
 16f#	.
 8.a	wstajał,
 16f#	.
@@ -73,7 +80,7 @@
 8g}	-wi.
 4r	.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Bachelor
 !!!singer-sex: male
 !!@@BEGIN: VERSES
@@ -134,3 +141,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

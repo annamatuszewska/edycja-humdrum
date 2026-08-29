@@ -3,73 +3,83 @@
 !!!source: DWOK41
 !!!id: 41358
 !!!signature: 4135800000
-**kern
-*clefG2
-*k[]
-*a:
-*M2/4
-=
-{8g
-8g
-8cc
-24b
-24cc
-24dd
-=
-8cc
-24b
-24cc
-24dd
-4cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M2/4	*
+=1	=1
+{8g	[Z_tam-
+8g	-tej
+8cc	stro-
+24bL	-ny
+24cc	.
+24ddJ	.
+=2	=2
+8cc	je-
+24bL	-zio-
+24cc	.
+24ddJ	.
+4cc}	-ra
 !!LO:LB:g=esac
-=
-{8dd
-8ee
-8ff
-24ff
-24gg
-24ff
-=
-8ee
-24dd
-24cc
-24b
-4a}
+=3	=3
+{8dd	sto-
+8ee	-i
+8ff	li-
+24ffL	-pka
+24gg	.
+24ffJ	.
+=4	=4
+8ee	zie-
+24ddL	-lo-
+24cc	.
+24bJ	.
+4a}	-na,
 !!LO:LB:g=esac
-=1
-{8ee
-16ee
-16cc
-8dd
-8g
-=
-8cc
-8b
-8dd
-24cc
-24b
-24a
-=2
-4a
-4g}
+=5	=5
+{8ee	a]
+16ee	na
+16cc	tej
+8dd	li-
+8g	-pce,
+=6	=6
+8cc	[a]
+8b	na
+8dd	[tej]
+24ccL	zie-
+24b	.
+24a\J	.
+=7	=7
+4a	-lo-
+4g}	-nej
 !!LO:LB:g=esac
-=
-{8cc
-8b
-8cc
-24dd
-24ee
-24ff
-=
-8ee
-24dd
-24cc
-24b
-4a}
-==
-*-
+=8	=8
+{8cc	[trzej
+8b	ptasz-
+8cc	-ko-
+24ddL	-wie
+24ee	.
+24ffJ	.
+=9	=9
+8ee	śpie-
+24ddL	-wa-
+24cc	.
+24bJ	.
+4a}	-ją].
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!![Z tamtej strony jeziora
+!!stoi lipka zielona,
+!!a] na tej lipce,
+!![a] na [tej] zielonej
+!![trzej ptaszkowie śpiewają].
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=283 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 204} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 204}
 !!!page: 204
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-30

@@ -3,57 +3,72 @@
 !!!source: DWOK41
 !!!id: 41317
 !!!signature: 4131700011
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8a
-8cc
-4dd
-4dd
-=2
-8ee
-8cc
-4a
-4ff#
-=3
-8ee
-16dd
-16cc
-4dd
-4dd
-=4
-8ee
-8cc
-4a
-4a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8a	Zie-
+8cc	-le-
+4dd	-ni
+4dd	się
+=2	=2
+8ee	mu-
+8cc	-ra-
+4a	-we-
+4ff#	-czka,
+=3	=3
+8ee	zie-
+16ddL	-le-
+16ccJ	.
+4dd	-ni
+4dd	się
+=4	=4
+8ee	ślaz,
+8cc	da,
+4a	i
+4a}	ślaz,
 !!LO:LB:g=esac
-=5
-{8cc
-8dd
-4.ee
-8cc
-=6
-8a
-8cc
-4a
-4a
-=7
-8g
-8b
-4g
-4e
-=8
-8d
-8f#
-4a
-4g}
-==
-*-
+=5	=5
+{8cc	mó-
+8dd	-wi-
+4.ee	-ła
+8cc	mi
+=6	=6
+8a	Ku-
+8cc	-ja-
+4a	-wian-
+4a	-ka.
+=7	=7
+8g	że-
+8b	-bym
+4g	do
+4e	niej
+=8	=8
+8d	wlazł,
+8f#	da,
+4a	i
+4g}	wlazł.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Zieleni się muraweczka,
+!!zieleni się ślaz, da, i ślaz,
+!!mówiła mi Kujawianka.
+!!żebym do niej wlazł, da, i wlazł.
+!!@VERSE:
+!!2. A ja tego nie uczynię,
+!!bo bym dostał po czuprynie,
+!!jak to ono raz, mój Boże,
+!![ jak to ono raz].
+!!@@END: VERSES
+!!!role-singer: Man
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=267 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 188-189} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 188-189}
 !!!page: 188-189
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-27

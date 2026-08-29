@@ -3,71 +3,113 @@
 !!!source: DWOK41
 !!!id: 41060
 !!!signature: 4106000002
-**kern
-*clefG2
-*k[]
-*a:
-*M2/4
-=1
-{8cc
-4ee
-8ee
-=2
-8ee
-16dd
-16ee
-4ff
-=3
-8ee
-4dd
-8dd
-=4
-8ff
-16ee
-16dd
-4cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M2/4	*
+=1	=1
+!LO:TX:a:t=Krakowiak.	!
+{8cc	Si-
+4ee	-wy
+8ee	ko-
+=2	=2
+8ee/L	-nik,
+16dd/	si-
+16ee/J	.
+4ff	-wy,
+=3	=3
+8ee	si-
+4dd	-wo
+8dd	jab-
+=4	=4
+8ff	-ko-
+16eeL	-wi-
+16ddJ	.
+4cc}	-ty,
 !!LO:LB:g=esac
-=5
-{8cc
-4a
-8b
-=6
-8dd
-16cc
-16b
-4a
-=7
-8e
-4g#
-8g#
-=8
-8a
-8cc
-4ee}
+=5	=5
+{8cc	do
+4a	mo-
+8b	-ji
+=6	=6
+8dd	dziew-
+16ccL	-czy-
+16bJ	.
+4a	-ny
+=7	=7
+8e	goś-
+4g#	-ci-
+8g#	-niec
+=8	=8
+8a	wy-
+8cc	-bi-
+4ee}	-ty,
 !!LO:LB:g=esac
-=9
-{8cc
-4a
-8b
-=10
-8dd
-16cc
-16b
-4a
-=11
-8e
-4g#
-8g#
-=12
-8b
-16a
-16g#
-4a}
-==
-*-
+=9	=9
+{8cc	do
+4a	mo-
+8b	-ji
+=10	=10
+8dd	dziew-
+16ccL	-czy-
+16bJ	.
+4a	-ny
+=11	=11
+8e	goś-
+4g#	-ci-
+8g#	-niec
+=12	=12
+8b	wy-
+16aL	-bi-
+16g#J	.
+4a}	-ty.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Siwy konik, siwy,
+!!siwo jabkowity,
+!!|:do moji dziewczyny
+!!gościniec wybity:|.
+!!@VERSE:
+!!2. Nie tak jest wybity,
+!!jak jest torowany,
+!!|: któś ci go torował?
+!!Jasinek kochany:|.
+!!@VERSE:
+!!3. Z bitego gościńca
+!!na zieloną łączkę,
+!!|: podaj mi, Kasiulu,
+!!swoją prawą rączkę:|.
+!!@VERSE:
+!!4. Ona rączkę dała,
+!!trzy razy omglała;
+!!|: bodajm cię, Jasieńku,
+!!była nie zaznała:|.
+!!@VERSE:
+!!5. Kto kochania nie zna,
+!!od Boga szczęśliwy,
+!!|: nocka kole nocki
+!!sypia nietęskliwy:|.
+!!@VERSE:
+!!6. Bodaj się przepadło
+!!to działyńskie bagno,
+!!|: co ja się nachodził
+!!do dziewczyny darmo:|.
+!!@VERSE:
+!!7. Ani ja się wyspał,
+!!ani ja co zyskał,
+!!|: ino tyla mego,
+!!com jéj się naściskał:|.
+!!(cicho: Tyla mego zysku,
+!!com dostał po pysku).
+!!@@END: VERSES
+!!!role-singer: Narrator, many charakters
 !!!ONB: Krakowiak
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=134 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 55-56} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 55-56}
 !!!page: 55-56
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-18

@@ -1,63 +1,85 @@
-!!!!SEGMENT: DWOK1328300000-dziewcze_moje_podzma_do_dom.krn
+﻿!!!!SEGMENT: DWOK1328300000-dziewcze_moje_podzma_do_dom.krn
 !!!OTL: Dziewcze moje pódźma do dom
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kostrzyna (Siekierki)
+!!!AR1: NIE ; NIE ; NIE
+!!!GE1: 52.383122 , 17.155401
 !!!source: DWOK13
 !!!id: 13283
 !!!signature: 1328300000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16g
-16b
-8cc
-16dd
-16ff
-=2
-16.aa
-32gg
-8dd
-8cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16g	Dziew-
+16b	-cze
+8cc	mo-
+16ddL	-je
+16ffJ	.
+=2	=2
+16.aa	pódź-
+32gg	-ma
+8dd	do
+8cc}	dom,
 !!LO:LB:g=esac
-=3
-{16g
-16b
-8cc
-16dd
-16ff
-=4
-16.aa
-32gg
-8dd
-8gg}
+=3	=3
+{16g	bo
+16b	sie
+8cc	z_to-
+16ddL	-bą
+16ffJ	.
+=4	=4
+16.aa	nie
+32gg	ná-
+8dd/L	-gádam.
+8gg}/J	.
 !!LO:LB:g=esac
-=5
-{8dd
-8dd
-16dd
-16ee
-=6
-16.cc
-32cc
-8a
-8g}
+=5	=5
+{8dd	Nie
+8dd	na-
+16dd	-ga
+16ee	-dam,
+=6	=6
+16.cc	nie
+32cc	na-
+8a\	-stoję,
+8g}\	.
 !!LO:LB:g=esac
-=7
-{8dd
-8dd
-16dd
-16ee
-=8
-16.cc
-32cc
-8a
-8dd}
-==
-*-
-!!!ONB: Alternatywnie możliwe kodowanie w G
+=7	=7
+{8dd	bo
+8dd	się
+16dd	oj-
+16ee	-ca
+=8	=8
+16.cc	ma-
+32cc	-tki
+8aL	boję.
+8dd/J}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Dziewcze moje pódźma do dom,
+!!bo sie z tobą nie nágádam.
+!!@VERSE:
+!!2. Nie nagadam, nie nastoję,
+!!bo się ojca, matki boję.
+!!@VERSE:
+!!3. Nie nastaję, nie nacieszę,
+!!bo się do dom bardzo spieszę.
+!!@@END: VERSES
+!!!role-singer: Lover, Mistress
+!!!role-listener: Mistress, Lover
+!!!singer-sex: male, female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=155 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 131} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 131}
 !!!page: 131
+!!!BEM: Alternatywnie możliwe kodowanie w G
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-18
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-23

@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1223500000-o_wy_matusiu_wy_moja.krn
+﻿!!!!SEGMENT: DWOK1223500000-o_wy_matusiu_wy_moja.krn
 !!!OTL: O wy matusiu, wy moja
+!!!FKT: Pieśni i Dumy. Skarga. Niechęć. Rozstanie
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Środy (Dębicz)
+!!!AR1: wielkopolskie ; średzki ; Środa Wielkopolska-obszar wiejski
+!!!GE1: 52.265702 , 17.311801
 !!!source: DWOK12
 !!!id: 12235
 !!!signature: 1223500000
@@ -83,8 +88,8 @@
 16gJ)}	.
 16r	.
 ==	==
-*- 	*-
-!!!role-singer: Mother
+*-	*-
+!!!role-singer: Daughter, Mother
 !!!role-listener: Mother
 !!!singer-sex: female
 !!@@BEGIN: VERSES
@@ -117,3 +122,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1246000001-chciala_pani_winno_pic.krn
+﻿!!!!SEGMENT: DWOK1246000001-chciala_pani_winno_pic.krn
 !!!OTL: Chciała pani winno pić
+!!!FKT: Pieśni i Dumy. Małżeństwo. Kłótnia. Zgoda
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Krotoszyna, Borku
+!!!AR1: wielkopolskie ; krotoszyński ; Krotoszyn-miasto
+!!!GE1: 51.695729 , 17.437623
+!!!AR2: wielkopolskie ; gostyński ; Borek Wielkopolski-miasto
+!!!GE2: 51.916469 , 17.242234
 !!!source: DWOK12
 !!!id: 12460
 !!!signature: 1246000001
@@ -77,3 +84,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

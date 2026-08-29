@@ -3,62 +3,72 @@
 !!!source: DWOK41
 !!!id: 41072
 !!!signature: 4107200001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16b
-8dd
-16ff#
-16dd
-=2
-16cc
-16ee
-8dd
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Po
+16b/	có-
+8dd	-żeś
+16ffL#	ty
+16ddJ	.
+=2	=2
+16cc	wą-
+16ee	-sy
+8dd	o-
+8g}	-dąn,
 !!LO:LB:g=esac
-=3
-{16g
-16b
-8dd
-16ff#
-16dd
-=4
-16a
-16cc
-8a
-8g}
+=3	=3
+{16g	kie-
+16b/	-dy
+8dd	ci
+16ffL#	się
+16ddJ	.
+=4	=4
+16a	nie
+16cc	po-
+8a	-do-
+8g}	-bám?
 !!LO:LB:g=esac
-=5
-{8a
-16cc
-16b
-16a
-16b
-=6
-16a
-16cc
-8ee
-8g}
+=5	=5
+{8a	Ja-
+16ccL	-kem
+16bJ	.
+16a	o-
+16b	-dąn,
+=6	=6
+16a	tak
+16cc/	i
+8ee	spusz-
+8g}	-czę,
 !!LO:LB:g=esac
-=7
-{8a
-16cc
-16ee
-16dd
-16b
-=8
-16a
-16cc
-8a
-8g}
-==
-*-
+=7	=7
+{8a	cie-
+16ccL	-bie,
+16eeJ	.
+16dd	dziew-
+16b	-czë,
+=8	=8
+16a	nie
+16cc	o-
+8a	-pusz-
+8g}	-czę.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Po cóżeś ty wąsy odąn, 
+!!kiedy ci się nie podobám? 
+!!Jakem odąn, tak i spuszczę,
+!!ciebie, dziewczë, nie opuszczę.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=141 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 62} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 62}
 !!!page: 62
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-19

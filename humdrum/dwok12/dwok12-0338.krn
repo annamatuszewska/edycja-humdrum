@@ -1,91 +1,111 @@
-!!!!SEGMENT: DWOK1233800000-na_naszej_dolinie_i_w_gestej_krzewinie.krn
+﻿!!!!SEGMENT: DWOK1233800000-na_naszej_dolinie_i_w_gestej_krzewinie.krn
 !!!OTL: Na naszej dolinie i w gęstej krzewinie
+!!!FKT: Pieśni i Dumy. Igraszka. Swawola
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Szmigla (Morownica)
+!!!AR1: wielkopolskie ; kościański ; Śmigiel-obszar wiejski
+!!!GE1: 51.989996 , 16.475680
 !!!source: DWOK12
 !!!id: 12338
 !!!signature: 1233800000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8cc
-8b
-8cc
-8dd
-8ee
-8cc
-=2
-8b
-8cc
-8dd
-8dd
-8b
-8g
-=3
-8cc
-8b
-8cc
-8dd
-8ee
-8cc
-=4
-8b
-8cc
-8dd
-8dd
-8b
-8g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8cc	Na
+8b	naszej
+8cc	.
+8dd	dolinie
+8ee	.
+8cc	.
+=2	=2
+8b	i
+8cc	w_gęstéj
+8dd	.
+8eeq	.
+8dd	krzewinie,
+8b	.
+8g	.
+=3	=3
+8cc	stała
+8b	.
+8cc	się
+8dd	nowina
+8ee	.
+8cc	.
+=4	=4
+8b	téj
+8cc	młodéj
+8dd	.
+8dd	dziewczynie.
+8b	.
+8g}	.
 !!LO:LB:g=esac
-=5
-{4cc
-4g
-4cc
-=6
-4a
-4d
-4a
-=7
-8f
-8e
-8d
-8c
-8d
-8f
-=8
-8e
-8f
-8g
-8e
-4d}
+=5	=5
+{4cc	Oj
+4g	ty
+4cc	psie,
+=6	=6
+4a\	śmiejesz
+4d\	.
+4a\	się
+=7	=7
+8f	a
+8e	za
+8d	mój
+8c	wianeczek
+8d	.
+8f	.
+=8	=8
+8e	Boże
+8f	.
+8g	zemścij
+8e	.
+4d}	się,
 !!LO:LB:g=esac
-=9
-{4cc
-4g
-4cc
-=10
-8a
-8f
-8d
-8f
-4a
-=11
-8f
-8e
-8d
-8c
-8d
-8f
-=12
-8e
-8f
-8g
-8e
-4c}
-==
-*-
+=9	=9
+{4cc	oj
+4g	ty
+4cc	psie,
+=10	=10
+8aL	śmiejesz
+8fJ	.
+8dL	.
+8fJ	.
+4a	się
+=11	=11
+8f	a
+8e	za
+8d	mój
+8c	wianeczek
+8d	.
+8f	.
+=12	=12
+8e	Boże
+8f	.
+8g	zemścij
+8e	.
+4c}	się.
+==	==
+*-	*-
+!!!role-singer: Narrator, Maiden
+!!!role-listener: Bachelor, God
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!Na naszéj dolinie i w gęstéj krzewinie,
+!!stała się nowina téj młodéj dziewczynie.
+!!Oj ty psie, śmiejesz się
+!!a za mój wianeczek
+!!Boże zemścij się.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=195 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 179} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 179}
 !!!page: 179
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

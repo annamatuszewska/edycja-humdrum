@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1221900000-pani_palac_buduje.krn
+﻿!!!!SEGMENT: DWOK1221900000-pani_palac_buduje.krn
 !!!OTL: Pani pałac buduje
+!!!FKT: Pieśni i Dumy. Stałość. Życzliwość. Wymówka
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Książa (Zawory)
+!!!AR1: wielkopolskie ; śremski ; Książ Wielkopolski-obszar wiejski
+!!!GE1: 52.072000 , 17.159093
 !!!source: DWOK12
 !!!id: 12219
 !!!signature: 1221900000
@@ -70,7 +75,7 @@
 8g	-wana.
 8g}	.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Widow/Wife, Soldier/Husband
 !!!role-listener: Soldier/Husband, Widow/Wife
 !!!singer-sex: female, male
@@ -121,11 +126,13 @@
 !!a téj piątéj połowa, —
 !!już ja pani, nie wdowa.
 !!@@END: VERSES
-!!!ONB: wariant w takcie trzecim 5_5_3_1_
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=129 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 113-114} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 113-114}
 !!!page: 113-114
+!!!BEM: wariant w takcie trzecim 5_5_3_1_
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

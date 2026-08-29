@@ -3,78 +3,86 @@
 !!!source: DWOK41
 !!!id: 41107
 !!!signature: 4110700002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M4/4
-=1
-{8d
-8g
-8g
-8b
-8b
-8a
-8a
-8g
-=2
-8f#
-8a
-8a
-8cc
-8cc
-8b
-4b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M4/4	*
+=1	=1
+{8d	A
+8g	kie-
+8g	-dy
+8b	my-
+8b/L	-śli-
+8aJ	.
+8aL	-wy
+8gJ	.
+=2	=2
+8f#	ca-
+8a	-ły
+8a	dzień
+8cc	po-
+8ccL	-lu-
+8bJ	.
+4b}	-je
 !!LO:LB:g=esac
-=3
-{8d
-8g
-8g
-8b
-8b
-8a
-8a
-8b
-=4
-8a
-8g
-8f#
-8e
-8e
-8d
-4d}
+=3	=3
+{8d	i
+8g	nic
+8g	nie
+8b	za-
+8b/L	-bi-
+8aJ	.
+8aL\	-je,
+8bJ\	.
+=4	=4
+8a	mo-
+8g	-cno
+8f#	się
+8e	fra-
+8eL	-su-
+8dJ	.
+4d}	-je.
 !!LO:LB:g=esac
-=5
-{4g
-4b
-2dd
-=6
-8dd
-8ee
-8dd
-16cc
-16b
-2a}
+=5	=5
+{4g	Cóż
+4b	to
+2dd/	jest,
+=6	=6
+8dd	mó-
+8ee	-wi,
+8dd	o
+8cc	Bo-
+2a}	-że,
 !!LO:LB:g=esac
-=7
-{8a
-8g
-8f#
-8a
-4cc
-4ee
-=8
-8dd
-8b
-8cc
-16a
-16f#
-4g}
-4r
-==
-*-
+=7	=7
+{8a	bym
+8g	był
+8f#	bez
+8a	zwie-
+4cc	-rzy-
+4ee	-ny,
+=8	=8
+8dd	to
+8b	być
+8cc	nie
+16aL	mo-
+16f#J	.
+4g}	-że.
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A kiedy myśliwy cały dzień poluje
+!!i nic nie zabije, mocno się frasuje.
+!!Cóż to jest, mówi, o Boże,
+!!bym był bez zwierzyny, to być nie może.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=158 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 79} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 79}
 !!!page: 79
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-23

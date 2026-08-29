@@ -3,68 +3,82 @@
 !!!source: DWOK41
 !!!id: 41054
 !!!signature: 4105400010
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=
-{24d
-24f#
-24a
-8cc
-8ee
-=1
-16ee
-16dd
-8b
-16cc
-16b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{24d	Da,
+24f#	oj-
+24a	-ca,
+8cc	ma-
+8ee	-tki
+=2	=2
+16ee	ja
+16dd	się
+8b	bo-
+16ccL	-ję,
+16b}J	.
 !!LO:LB:g=esac
-=
-{24d
-24f#
-24a
-8cc
-8ee
-=2
-16b
-16cc
-8g
-16cc
-16b}
+=3	=3
+{24d	da,
+24f#	że
+24a	tu
+8cc	z_to-
+8ee	-bą
+=4	=4
+16b	Ja-
+16cc	-siu
+8g	sto-
+16ccL	-ję.
+16b}J	.
 !!LO:LB:g=esac
-=
-{24d
-24f#
-24a
-8cc
-16a
-16g
-=3
-16b
-16cc
-8b
-16g
-16f#}
+=5	=5
+{24d	Da,
+24f#	oj-
+24a	-ca,
+8cc	ma-
+16aL	-tki
+16gJ	.
+=6	=6
+16b	się
+16cc	nie
+8b	bo-
+16gL	-jić,
+16f#J}	.
 !!LO:LB:g=esac
-=
-{24d
-24f#
-24a
-8d
-8g
-=4
-16b
-16cc
-8b
-16g
-16f#}
-==
-*-
+=7	=7
+{24d	da,
+24f#	i-
+24a	no
+8d	so-
+8g	-bie,
+=8	=8
+16b	da,
+16cc	poz-
+8b	-wo-
+16gL	-lić.
+16f#J}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Da, ojca, matki ja się boję, 
+!!da, że tu z toba, Jasiu, stoję. 
+!!Da, ojca, matki się nie bojić,
+!!da, ino sobie, da, pozwolić.
+!!@VERSE:
+!!2. Da, ojca, matkę ja przeproszę,
+!!da, z tobą, Kasiu, się ucieszę.
+!!@@END: VERSES
+!!!role-singer: Single Girl, Lover
+!!!role-listener: Lover, Single Girl
+!!!singer-sex: Female, Male
 !!!ONB: Część wokalna
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=132 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 53} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 53}
 !!!page: 53
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-16

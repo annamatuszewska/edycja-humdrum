@@ -1,12 +1,17 @@
-!!!!SEGMENT: DWOK1225400000-cztery_mile_lasu_jade.krn
+﻿!!!!SEGMENT: DWOK1225400000-cztery_mile_lasu_jade.krn
 !!!OTL: Cztery mile lasu jadę
+!!!FKT: Pieśni i Dumy. Skarga. Niechęć. Rozstanie
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Szmigla (Morownica)
+!!!AR1: wielkopolskie ; kościański ; Śmigiel-obszar wiejski
+!!!GE1: 51.989996 , 16.475680
 !!!source: DWOK12
 !!!id: 12254
 !!!signature: 1225400000
 **kern	**text
 *clefG2	*
 *k[]	*
-*G:	*
+*C:	*
 *M3/8	*
 =1	=1
 {4gg	Cztery
@@ -84,8 +89,8 @@
 8b	Kasiu.
 8g}	.
 ==	==
-*- 	*-
-!!!role-singer: Bachelor, Maiden
+*-	*-
+!!!role-singer: Bachelor, Narrator, Maiden
 !!!role-listener: Maiden, Bachelor
 !!!singer-sex: male, female
 !!@@BEGIN: VERSES
@@ -142,3 +147,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

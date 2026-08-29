@@ -3,59 +3,78 @@
 !!!source: DWOK41
 !!!id: 41090
 !!!signature: 4109000002
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16g
-16cc
-8cc
-8cc
-=2
-16b
-16dd
-4g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16g	Nie
+16cc	wiés,
+8cc	pa-
+8cc	-nie,
+=2	=2
+16b	co
+16dd	ja
+4g}	wiem,
 !!LO:LB:g=esac
-=3
-{16cc
-16cc
-8ee
-8ff
-=4
-16dd
-16ee
-4cc}
+=3	=3
+{16cc/L	proś
+16cc/J	me
+8ee	ła-
+8ff	-dnie,
+=4	=4
+16dd	to
+16ee	po-
+4cc}	-wiem.
 !!LO:LB:g=esac
-=5
-{16e
-16g
-16g
-16g
-16g
-16g
-=6
-16e
-16g
-16g
-16g
-16g
-16g}
+=5	=5
+{16e.	Rom-
+32g	-ta
+16g	ra-
+16g	-dia
+16g	dia,
+16g	dia,
+=6	=6
+16e.	rom-
+32g	-ta
+16g	ra-
+16g	-dia
+16g	dia,
+16g}	dia,
 !!LO:LB:g=esac
-=7
-{16cc
-16cc
-8ee
-8ff
-=8
-16dd
-16ee
-4cc}
-==
-*-
+=7	=7
+{16cc	proś
+16cc	me
+8ee	ła-
+8ff	-dnie,
+=8	=8
+16dd	to
+16ee	po-
+4cc}	-wiem.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Nie wiés, panie, co ja wiem,
+!!proś me ładnie, to powiem.
+!!|:Romta radia dia, dia:|,
+!!proś me ładnie, to powiem.
+!!@VERSE:
+!!2. Bo i pan téś nie wiedział,
+!!aż mu dworzan powiedział.
+!![|: Romta radia dia dia:|,
+!!aż mu dworzan powiedział.]
+!!@VERSE:
+!!3. U Marcina młynarza
+!!jest Kasiuchna jak róża.
+!![|: Romta radia dia dia:|,
+!!jest Kasiuchna jak róża.]
+!!@@END: VERSES
+!!!role-singer: Complex
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=152 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 73} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 73}
 !!!page: 73
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-21

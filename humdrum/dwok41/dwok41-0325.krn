@@ -3,60 +3,91 @@
 !!!source: DWOK41
 !!!id: 41325
 !!!signature: 4132500000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{8a
-8cc
-4ee
-8b
-8g#
-=2
-8a
-8cc
-4.ee
-8b
-=3
-8a
-8cc
-4ee
-8dd
-8b
-=4
-4.g#
-8cc
-8b
-8a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+{8a	.
+8cc	.
+4ee	.
+8b	.
+8g#	.
+=2	=2
+8a\L	.
+8ccJ	.
+4.ee	.
+8b	.
+=3	=3
+8a	.
+8cc	.
+4ee	.
+8dd	.
+8b	.
+=4	=4
+4.g#	.
+8cc	.
+8b	.
+8a}	.
 !!LO:LB:g=esac
-=5
-{8a
-8cc
-4a
-8dd
-8cc
-=6
-8b
-8dd#
-4.ee
-8b
-=7
-8a
-8cc
-4a
-8dd
-8cc
-=8
-4.g#
-8cc
-8b
-8a}
-==
-*-
+=5	=5
+{8a	.
+8cc	.
+4a	.
+8ddL	.
+8ccJ	.
+=6	=6
+8bL	.
+8ddJ#	.
+4.ee	.
+8b	.
+=7	=7
+8a	.
+8cc	.
+4a	.
+8ddL	.
+8ccJ	.
+=8	=8
+4.g#	.
+8cc	.
+8b	.
+8a}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj, da, i moja Juliś,
+!!oj, da, i moje sto tysięcy,
+!!oj, gdybym ciebie dostał,
+!!da, nie chciałbym nic więcej.
+!!@VERSE:
+!!2. Oj, da, kocham Julis,
+!!oj, da, kocham cię, Bóg widzi,
+!!oj, jeżeli mi nie wierzysz,
+!!oj, da, spytaj ludzi.
+!!@VERSE:
+!!3. Oj, da, żebym Boga kochał,
+!!oj, jak, Julisiu, ciebie,
+!!oj, da, zostałbym ja, został,
+!!oj, z aniołami w niebie.
+!!@VERSE:
+!!4. Oj, inoś mi się, moja Julis,
+!!oj, z tego udała,
+!!jakeś wyszła na poleczko,
+!!ładnieś spiewała.
+!!@VERSE:
+!!5. Oj, da, jak ci ja zaspiewam,
+!!oj, da, w ogródku nad wodą,
+!!oj, zobaczysz, [mój] Jasiulku,
+!!da, jak ci się spodobam.
+!!@@END: VERSES
+!!!role-singer: Lover, Mistress
+!!!role-listener: Mistress, Lover
+!!!singer-sex: Male, Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=271 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 192} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 192}
 !!!page: 192
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-27

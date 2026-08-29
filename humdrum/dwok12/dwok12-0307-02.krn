@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1230700002-kalina_malina_czerwona_jagoda.krn
+﻿!!!!SEGMENT: DWOK1230700002-kalina_malina_czerwona_jagoda.krn
 !!!OTL: Kalina malina czerwona jagoda
+!!!FKT: Pieśni i Dumy. Strata wianka. Żale
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Środy (Dębicz)
+!!!AR1: wielkopolskie ; średzki ; Środa Wielkopolska-obszar wiejski
+!!!GE1: 52.265702 , 17.311801
 !!!source: DWOK12
 !!!id: 12307
 !!!signature: 1230700002
@@ -91,7 +96,7 @@
 16ccJ/	danam.
 2a}	.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Narrator, Maiden
 !!!role-listener: Bachelor, Brother
 !!!singer-sex: female
@@ -200,3 +205,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

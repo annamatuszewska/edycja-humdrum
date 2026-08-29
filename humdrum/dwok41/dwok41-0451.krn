@@ -3,71 +3,86 @@
 !!!source: DWOK41
 !!!id: 41451
 !!!signature: 4145100000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8ff
-8ff
-8ee
-8ee
-8dd
-8dd
-=2
-8cc
-8ee
-8dd
-8dd
-8cc
-8cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+!LO:TX:a:t=Polski.	!
+{8ff	Prze-
+8ff	-dać
+8ee	ko-
+8ee	-nia,
+8dd	prze-
+8dd	-dać,
+=2	=2
+8cc	bo
+8ee	mu
+8dd	nie
+8dd	ma
+8cc	co
+8cc}	dać,
 !!LO:LB:g=esac
-=3
-{8ff
-8ff
-8ee
-8ee
-8dd
-8dd
-=4
-8cc
-8ee
-8dd
-8dd
-4cc}
+=3	=3
+{8ff	prze-
+8ff	-dać
+8ee	ko-
+8ee	nia,
+8dd	prze-
+8dd	-dać,
+=4	=4
+8cc	nie
+8ee	ma
+8dd	mu
+8dd	co
+4cc}	dać.
 !!LO:LB:g=esac
-=5
-{4g
-4a
-8b
-8g
-=6
-8cc
-8ee
-8dd
-8dd
-8cc
-8ee}
+=5	=5
+{4g	Jęcz-
+4a	-mio-
+8b	-ne-
+8g	-czka,
+=6	=6
+8cc	ta
+8ee	zu-
+8dd	-peł-
+8dd	-nie
+8cc	zgni-
+8ee}	-ła
 !!LO:LB:g=esac
-=7
-{8g
-8g
-8a
-8a
-8b
-8g
-=8
-8cc
-8ee
-8dd
-8dd
-4cc}
-==
-*-
+=7	=7
+{8g	łą-
+8g	-czka
+8a	na-
+8a	-sza
+8b	jesz-
+8g	-cze
+=8	=8
+8cc	nie
+8ee	po-
+8dd	-cię-
+8dd	-ła
+4cc}	się.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Przedać konia, przedać.
+!!bo mu nie ma co dać,
+!!przedać konia, przedać,
+!!nie ma mu co dać.
+!!@VERSE:
+!!2. Jęczmioneczka,
+!!ta zupełnie zgniła
+!!łączka nasza jeszcze
+!!nie pocięła się.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!ONB: Polski
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=325 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 242} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 242}
 !!!page: 242
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-18

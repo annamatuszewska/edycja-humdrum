@@ -1,78 +1,97 @@
-!!!!SEGMENT: DWOK1333700000-nie_uwazaj_dziewcze_moje.krn
+﻿!!!!SEGMENT: DWOK1333700000-nie_uwazaj_dziewcze_moje.krn
 !!!OTL: Nie uważaj dziewcze moje
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Raszkowa
+!!!AR1: wielkopolskie ; ostrowski ; Raszków-miasto
+!!!GE1: 51.718450 , 17.725980
 !!!source: DWOK13
 !!!id: 13337
 !!!signature: 1333700000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8dd
-8dd
-16ee
-16cc
-=2
-16a
-16cc
-16dd
-16ee
-8gg
-=3
-16dd
-16dd
-16dd
-16dd
-16ee
-16cc
-=4
-16a
-16f#
-16f#
-16b
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8dd	Nie
+8dd	u-
+16ee	-wa-
+16cc	-żaj
+=2	=2
+16aL	dziewcze
+16ccJ/	.
+16dd/L	mo-
+16ee/	.
+8gg/J	-je,
+=3	=3
+16dd/L	choć
+16dd/J	.
+16dd/L	ja
+16dd/J	.
+16ee	o-
+16cc	-dar-
+=4	=4
+16a\	-ty,
+16f#\	o-
+16f#L\	-dar-
+16bJ	.
+8g}\	-ty
 !!LO:LB:g=esac
-=5
-{16d
-16f#
-8g
-8g
-=6
-16b
-16a
-16cc
-16b
-8dd
-=7
-16d
-16f#
-8g
-8g
-=8
-16b
-16a
-16cc
-16b
-8dd}
+=5	=5
+{16d	nie-
+16f#	-da-
+8g\	-le-
+8g\	-ko
+=6	=6
+16b	do
+16a\	nie-
+16ccL/	-dzie-
+16b/	.
+8dd/J	-le,
+=7	=7
+16d	ku-
+16f#	-pię
+8g\	so-
+8g\	-bie
+=8	=8
+16b	ka-
+16a\	-mi-
+16cc/L	-ze-
+16b/	.
+8dd}/J	-lę
 !!LO:LB:g=esac
-=9
-{16d
-16f#
-16g
-16f#
-16g
-16b
-=10
-16b
-16a
-16f#
-16b
-8g}
-==
-*-
+=9	=9
+{16d	be-
+16f#	-de
+16gL	bo-
+16f#J	.
+16gL	-ga-
+16b/J	.
+=10	=10
+16b	-ty,
+16a\	bo-
+16f#\L	-ga-
+16bJ	.
+8g}\	-ty.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Nie uważaj dziewcze moje,
+!!choć ja odarty, odarty
+!!niedaleko do niedziele,
+!!kupię sobie kamizelę
+!!bede bogaty, bogaty.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=172 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 148} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 148}
 !!!page: 148
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-23
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-26

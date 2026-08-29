@@ -1,64 +1,84 @@
-!!!!SEGMENT: DWOK1335000000-miala_matka_nieruchaja.krn
+﻿!!!!SEGMENT: DWOK1335000000-miala_matka_nieruchaja.krn
 !!!OTL: Miała matka nieruchaja
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Pakości, Mogilna
+!!!AR1: kujawsko-pomorskie ; inowrocławski ; Pakość-miasto
+!!!GE1: 52.807005 , 18.087691
+!!!AR2: kujawsko-pomorskie ; mogileński ; Mogilno-miasto
+!!!GE2: 52.657733 , 17.949932
 !!!source: DWOK13
 !!!id: 13350
 !!!signature: 1335000000
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M3/4
-=1
-{8a
-8cc
-4dd
-8a
-8b
-=2
-8g
-8b
-4dd
-8ff#
-8ee
-=3
-8a
-8cc
-4dd
-8a
-8b
-=4
-8g
-8e
-4c
-8e
-8f#}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8a\	Mia-
+8cc	-ła
+4dd	mat-
+8a\L	-ka
+8bJ	.
+=2	=2
+8gL	nieru-
+8b/J	.
+4dd/	-cha-
+8ff#L/	-ja,
+8ee/J	.
+=3	=3
+8a\	na-
+8cc	-sa-
+4dd	-dzi-
+8a\L	-ła
+8bJ	go
+=4	=4
+8g\	na
+8e\	dwa
+4c\	ja-
+8e\L	-ja:
+8f#\J}	.
 !!LO:LB:g=esac
-=5
-{4d
-4d
-8d
-8f#
-=6
-8g
-8e
-4g
-8a
-8f#
-=7
-4d
-4d
-8d
-8f#
-=8
-8g
-8e
-4c
-8e
-8f#}
-==
-*-
+=5	=5
+{4d	siedź
+4d	tam
+8d	chło-
+8f#	-pie
+=6	=6
+8g	nie-
+8e	-do-
+4g	-łę-
+8aL	-go,
+8f#J	.
+=7	=7
+4d	wy-
+4d	-lę-
+8d	-żesz
+8f#	mi
+=8	=8
+8g	je-
+8e	-dno
+4c\	gę-
+8e\L	-go.
+8f#\J}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Miała matka nieruchaja,
+!!nasadziła go na dwa jaja:
+!!siedź tam chłopie niedołęgo,
+!!wylężesz mi jedno gęgo.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!role-listener: Man
+!!!singer-sex: female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=176 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 152} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 152}
 !!!page: 152
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-26

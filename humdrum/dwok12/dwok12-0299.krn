@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1229900000-a_jak_ja_byla_nadobna_dzieweczka.krn
+﻿!!!!SEGMENT: DWOK1229900000-a_jak_ja_byla_nadobna_dzieweczka.krn
 !!!OTL: A jak ja była nadobną dzieweczką
+!!!FKT: Pieśni i Dumy. Strata wianka. Żale
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kostrzyna (Siekierki)
+!!!AR1: NIE ; NIE ; NIE
+!!!GE1: 52.383122 , 17.155401
 !!!source: DWOK12
 !!!id: 12299
 !!!signature: 1229900000
@@ -93,7 +98,7 @@
 8aJ	.
 2g}	.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Maiden
 !!!role-listener: Bachelor
 !!!singer-sex: female
@@ -123,3 +128,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

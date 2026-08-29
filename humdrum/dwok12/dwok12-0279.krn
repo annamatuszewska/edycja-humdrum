@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1227900000-za_stodola_beliczka.krn
+﻿!!!!SEGMENT: DWOK1227900000-za_stodola_beliczka.krn
 !!!OTL: Za stodołą beliczka
+!!!FKT: Pieśni i Dumy. Strata wianka. Żale
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Pniew
+!!!AR1: wielkopolskie ; szamotulski ; Pniewy-miasto
+!!!GE1: 52.507931 , 16.255280
 !!!source: DWOK12
 !!!id: 12279
 !!!signature: 1227900000
@@ -51,7 +56,7 @@
 16g#J	.
 8a}	-sia.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Narrator, Maiden, Bachelor
 !!!role-listener: Bachelor, Maiden
 !!!singer-sex: female, male
@@ -83,3 +88,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

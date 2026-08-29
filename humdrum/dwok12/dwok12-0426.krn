@@ -1,81 +1,165 @@
-!!!!SEGMENT: DWOK1242600000-da_robilo_dwoch_rybakow.krn
+﻿!!!!SEGMENT: DWOK1242600000-da_robilo_dwoch_rybakow.krn
 !!!OTL: Da robiło dwóch rybaków
+!!!FKT: Pieśni i Dumy. Dumy. Zdrada. Zabójstwo
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Środy (Dębicz)
+!!!AR1: wielkopolskie ; średzki ; Środa Wielkopolska-obszar wiejski
+!!!GE1: 52.265702 , 17.311801
 !!!source: DWOK12
 !!!id: 12426
 !!!signature: 1242600000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8g
-8b
-4cc
-4ee
-=2
-8dd
-16cc
-16b
-4cc
-4ee
-=3
-4gg
-4dd
-4ee}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8g	Da
+8b	robiło
+4cc	.
+4ee	.
+=2	=2
+8dd	dwóch
+16ccL	rybaków
+16bJ	.
+4cc	.
+4ee	.
+=3	=3
+4gg	na
+4dd	rzéce,
+4eem}	.
 !!LO:LB:g=esac
-=4
-{8g
-8b
-4cc
-4ee
-=5
-8dd
-16cc
-16b
-4a
-4g
-=6
-4cc
-4g
-4a}
+=4	=4
+{8g\	wyło-
+8b	.
+4cc	-wiło
+4ee	.
+=5	=5
+8dd	dziecią-
+16ccL	.
+16bJ	.
+4a	-teczko
+4g	.
+=6	=6
+8bq	.
+4cc	w_kolébce.
+4g	.
+4a}	.
 !!LO:LB:g=esac
-=7
-{8g
-8b
-4cc
-4ee
-=8
-8dd
-16cc
-16b
-4cc
-4ee
-=9
-4gg
-4dd
-4ee}
+=7	=7
+{8g	Da
+8b	robiło
+4cc	.
+4ee	.
+=8	=8
+8dd	dwóch
+16ccL	rybaków
+16bJ	.
+4cc	.
+4ee	.
+=9	=9
+4gg	na
+4dd	rzéce,
+4eem}	.
 !!LO:LB:g=esac
-=10
-{8dd
-8b
-4cc
-4ee
-=11
-8dd
-16cc
-16b
-4a
-4g
-=12
-4cc
-4g
-4a}
-==
-*-
-!!!ONB: Alternatywnie można zakodować w G - jako heksachord g-e
+=10	=10
+{8ddL	wyło-
+8bJ/	.
+4cc	-wiło
+4ee	.
+=11	=11
+8dd	dziecią-
+16ccL	.
+16bJ	.
+4a	-teczko
+4g	.
+=12	=12
+8bq	.
+4cc	w_kolébce.
+4g	.
+4a}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Maiden, Sister, Brother
+!!!role-listener: Sister, Maiden, Brother
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Da robiło dwóch rybaków na rzéce,
+!!wyłowiło dzieciąteczko w kolébce.
+!!@VERSE:
+!!2. I zwołano miejskie panny, zwołano,
+!!o dzieciątko i o matkę pytano.
+!!@VERSE:
+!!3. I w czerwieni miejskie panny, w czerwieni?
+!!tylko jedna burmistrzanka w zieleni. (?)
+!!@VERSE:
+!!4. I tonęła burmistrzanka, tonęła,
+!!obaczyła siostrę swoją, mówiła:
+!!@VERSE:
+!!5. O ratuj mnie siostro moja, ratuj mnie!
+!!niech nie ginę sama jedna tu na dnie!
+!!@VERSE:
+!!6. A toń do dna siostro moja, toń do dna.
+!!a boś-ci ty ratowania niegodna.
+!!7 I tonęła burmistrzanka, tonęła,
+!!obaczyła brata swego, mówiła:
+!!@VERSE:
+!!8. Ratujże-ż mnie, o bracie mój, ratuj mnie,
+!!bo tu zimno — ach i ciemno tam na dnie.
+!!@VERSE:
+!!9. A toń do dna, siostro moja, toń do dna,
+!!a boś-ci ty ratowania niegodna.
+!!@VERSE:
+!!10. I tonęła burmistrzanka, tonęła,
+!!obaczyła ojca swego, mówiła:
+!!@VERSE:
+!!11. Ojcze wyciąg rękę twoją tu do mnie,
+!!bo tu zimno i okropnie, tam na dnie.
+!!@VERSE:
+!!12. Nie podam ci córko moja, niegodna,
+!!ach toń do dna, nieszczęśliwa, toń do dna!
+!!@VERSE:
+!!13. I tonęła córka jego, tonęła,
+!!i jeszcze raz ponad wodę spłynęła.
+!!@VERSE:
+!!14. Utonęła burmistrzanka niegodna,
+!!utonęła siostra, córka, aż do dna.
+!!Obacz także: Serya I (Pieśni ludu, 1857 r.) str. 162.— gdzie
+!!od strofki 9, śpiewają pod Wrześnią:
+!!@VERSE:
+!!10. I płynęła burmistrzonka, płynęła,
+!!obaczyła ojca, matkę, stanęła.
+!!@VERSE:
+!!11. Oj retuj mnie, ojcze z matką, retuj mnie,
+!!podajże mi prawą rączkę, wyciąg mnie.
+!!@VERSE:
+!!12. A co ci to, moja córko, co ci to?
+!!a co ci tak twoje oczka podbito.
+!!@VERSE:
+!!13. Oj nic ci mi, matusinku, nic ci mi,
+!!bo ino tak ci dworacy zmyślili.
+!!@VERSE:
+!!15. Dobrze było, matusińku, dary brać,
+!!a mnie kazać z dworakami w karty grać.
+!!@VERSE:
+!!16. Tyś myślała, matusińku, że żarty,
+!!jam wygrała, matuś, syna, w te karty.
+!!Na tęż samą nutę śpiewają i pieśń następującą:
+!!Zasadziła jabłoneczkę przy drodze,
+!!wyglądała Jasineczka zkąd pójdzie i t. d.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Obacz także: Serya I (Pieśni ludu, 1857 r.) str. 162.— gdzie
+!!od strofki 9, śpiewają pod Wrześnią:
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=236 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 220} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 220}
 !!!page: 220
+!!!BEM: Alternatywnie można zakodować w G - jako heksachord g-e
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

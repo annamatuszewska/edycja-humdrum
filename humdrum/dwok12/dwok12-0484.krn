@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1248400000-grali_trabili_kapela_grala.krn
+﻿!!!!SEGMENT: DWOK1248400000-grali_trabili_kapela_grala.krn
 !!!OTL: Grali, trąbili, kapela grała
+!!!FKT: Pieśni i Dumy. Wojsko. Łowy
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Rawicza, Pakosław (Golejewko)
+!!!AR1: wielkopolskie ; rawicki ; Pakosław-gmina wiejska
+!!!GE1: 51.618845 , 17.025443
 !!!source: DWOK12
 !!!id: 12484
 !!!signature: 1248400000
@@ -8,6 +13,7 @@
 *k[f#]	*
 *G:	*
 *M4/4	*
+*met(c)	*
 =1	=1
 {4g	Grali,
 8g	.
@@ -60,7 +66,7 @@
 2g}	-ła.
 ==	==
 *-	*-
-!!!role-singer: Lover
+!!!role-singer: Narrator, Lover
 !!!role-listener: Mistress
 !!!singer-sex: male
 !!@@BEGIN: VERSES
@@ -92,3 +98,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

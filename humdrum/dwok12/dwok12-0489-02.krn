@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1248900002-a_co_sie_to_w_polsce_znaczy.krn
+﻿!!!!SEGMENT: DWOK1248900002-a_co_sie_to_w_polsce_znaczy.krn
 !!!OTL: A co się to w Polsce znaczy
+!!!FKT: Pieśni i Dumy. Wojsko. Łowy
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gołańczy (Czeszewo)
+!!!AR1: wielkopolskie ; wągrowiecki ; Gołańcz-obszar wiejski
+!!!GE1: 52.908722 , 17.382633
 !!!source: DWOK12
 !!!id: 12489
 !!!signature: 1248900002
@@ -16,21 +21,21 @@
 8b	w_Polsce
 8dd	.
 =2	=2
-8cc	znaczy,
-8b	.
+8cc/L	znaczy,
+8bJ	.
 2a	.
 =3	=3
 8cc	pewnieć
 8dd	.
-4.ee	ci
+4.ee;	ci
 8ee	to
 =4	=4
 8eeq	.
 8dd	nie
 8dd	ina-
 4b	.
-8g#	-czy,
-8e}	.
+8g#L	-czy,
+8eJ}	.
 !!LO:LB:g=esac
 =5	=5
 {4cc	zabie-
@@ -45,11 +50,11 @@
 =7	=7
 8cc	do
 8b	niewczasu,
-4.a	.
+4.a;	.
 8a	.
 =8	=8
-8e	wiecznej
-8d	.
+8e\	wiecznej
+8d\	.
 4e	nędzy,
 4e}	.
 !!LO:LB:g=esac
@@ -66,17 +71,17 @@
 =11	=11
 8cc	do
 8b	niewczasu,
-4.a	.
+4.a;	.
 8a	.
 =12	=12
-8g#	wiecznej
-8g#	.
+8g#L	wiecznej
+8g#J	.
 4e	nędzy.
 4e}	.
 ==	==
 *-	*-
-!!!role-singer: Lover
-!!!role-listener: Mistress
+!!!role-singer: Husband
+!!!role-listener: Wife, Kids, Parents, Friends, God
 !!!singer-sex: male
 !!@@BEGIN: VERSES
 !!@VERSE:
@@ -137,3 +142,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-04-29
+!!!ENC: Anna Matuszewska
+!!!END: 2026-05-04

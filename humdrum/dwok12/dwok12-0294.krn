@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1229400000-s_tej_ta_strony_jeziora.krn
+﻿!!!!SEGMENT: DWOK1229400000-s_tej_ta_strony_jeziora.krn
 !!!OTL: S tej ta strony jęziora
+!!!FKT: Pieśni i Dumy. Strata wianka. Żale
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Gniezna
+!!!AR1: wielkopolskie ; gnieźnieński ; Gniezno-gmina miejska
+!!!GE1: 52.533333 , 17.601388
 !!!source: DWOK12
 !!!id: 12294
 !!!signature: 1229400000
@@ -85,7 +90,7 @@
 8a	-gody.
 4g}	.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Narrator, Bachelor, Maiden
 !!!role-listener: Maiden, Bachelor
 !!!singer-sex: male, female
@@ -205,6 +210,9 @@
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=174 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 158} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 158}
 !!!page: 158
+!!!BEM: Andante
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

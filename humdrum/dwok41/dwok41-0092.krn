@@ -3,88 +3,105 @@
 !!!source: DWOK41
 !!!id: 41092
 !!!signature: 4109200000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16.g
-32b
-8g
-8b
-=2
-16.g
-32b
-8g
-8b
-=3
-16g
-16ee
-8dd
-8cc
-=4
-8b
-4a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16.g	Có-
+32b	-ru-
+8g	-leń-
+8b	-ku,
+=2	=2
+16.g	dzie-
+32b	-cie
+8g	mo-
+8b	-je,
+=3	=3
+16g	co
+16ee	w_ko-
+8dd	-mo-
+8cc	-rze
+=4	=4
+8b	pu-
+4a}	-ka?
 !!LO:LB:g=esac
-=5
-{16f#
-16g
-8a
-8b
-=6
-16a
-16g#
-8a
-8g
-=7
-16f#
-16ee
-8dd
-8cc
-=8
-8b
-4g}
+=5	=5
+{16f#	Ma-
+16g	-tu-
+8a	-leń-
+8b	-ko,
+=6	=6
+(8bq	.
+16a)	do-
+16g#	-bro-
+8a	-dzij-
+8g	-ko
+=7	=7
+16f#	ko-
+16ee	-tek
+8dd	my-
+8cc	-szki
+=8	=8
+(8aq	.
+8b)	szu-
+4g}	-ka.
 !!LO:LB:g=esac
-=9
-{8g
-4b
-=10
-8g
-4b
-=11
-16g
-16ee
-8dd
-8cc
-=12
-8b
-4a}
+=9	=9
+{8g	Kot,
+4b	kot,
+=10	=10
+8g	kot,
+4b	kot,
+=11	=11
+16g	ma-
+16ee	-tu-
+8dd	-liń-
+8cc	-ku,
+=12	=12
+8b	kot,
+4a}	kot,
 !!LO:LB:g=esac
-=13
-{16f#
-16g
-8a
-16a
-16b
-=14
-16a
-16g#
-8a
-16a
-16g
-=15
-16f#
-16ee
-8dd
-8a
-=16
-8b
-4g}
-==
-*-
+=13	=13
+{16f#	na-
+16g	-ro-
+8a	-bił
+16aL	mi,
+16b/J	.
+=14	=14
+16a	na-
+16g#	-ro-
+8a	-bił
+16aL	mi
+16gJ	.
+=15	=15
+16f#	w_kó-
+16ee	-mó-
+8dd	-recz-
+8a	-ce
+=16	=16
+8b	łos-
+4g}	-kot.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Córuleńku, dziecie moje,
+!!co w komorze puka?
+!!Matuleńko, dobrodzijko,
+!!kotek myszki szuka.
+!!Kot, kot, kot, kot,
+!!matulińku, kot, kot,
+!!narobił mi, narobił mi
+!!w kómóreczce łoskot.
+!!@@END: VERSES
+!!!role-singer: Daughter
+!!!role-listener: Mother
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=153 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 74} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 74}
 !!!page: 74
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-23

@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1220200001-jak_ja_jachal_do_swoji_kochanki.krn
+﻿!!!!SEGMENT: DWOK1220200001-jak_ja_jachal_do_swoji_kochanki.krn
 !!!OTL: Jak ja jachał do swoji kochanki
+!!!FKT: Pieśni i Dumy. Stałość. Życzliwość. Wymówka
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Krzywinia, Leszna
+!!!AR1: wielkopolskie ; kościański ; Krzywiń-miasto
+!!!GE1: 51.961720 , 16.820761
+!!!AR2: wielkopolskie ; m. Leszno ; Leszno-gmina miejska
+!!!GE2: 51.843312 , 16.574423
 !!!source: DWOK12
 !!!id: 12202
 !!!signature: 1220200001
@@ -52,8 +59,9 @@
 8g\	-le-
 2f}	-ko.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Bachelor
+!!!role-listener: Mistress
 !!!singer-sex: male
 !!@@BEGIN: VERSES
 !!@VERSE:
@@ -84,3 +92,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

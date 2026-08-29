@@ -3,57 +3,71 @@
 !!!source: DWOK41
 !!!id: 41423
 !!!signature: 4142300000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16d
-16f#
-8a
-8ee
-=2
-16ee
-16ff#
-8dd
-[8b
-=3
-16b]
-16cc
-8a
-8f#
-=4
-16e
-16e
-8g
-16g
-16f#}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16dL	Oj,
+16f#J	.
+8a	Ma-
+8ee	-ryś,
+=2	=2
+16ee	mo-
+16ff#	-ja
+8dd	Ma-
+[8b	-ryś,
+=3	=3
+16b]	.
+16cc	da,
+8a	po-
+8f#	-je-
+=4	=4
+16e	-dzie-
+16e	-my
+8g	na
+16gL	ryś,
+16f#J}	.
 !!LO:LB:g=esac
-=5
-{16d
-16f#
-8a
-8a
-=6
-16d
-16g
-8b
-8g
-=7
-16b
-16cc
-8a
-8f#
-=8
-16.d
-32d
-8g
-8f#}
-==
-*-
+=5	=5
+{16dL	a
+16f#J	.
+8a	od
+8a	ry-
+=6	=6
+16d	-si
+16g	do
+8b	ry-
+8g	-si,
+=7	=7
+16bL	ku-
+16ccJ	.
+8a	-pię
+8f#	wia-
+=8	=8
+16.d	-nek
+32d	Ma-
+8g	-ry-
+8f#}	-si.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj, Maryś, moja Maryś.
+!!da, pojedziemy na ryś,
+!!a od rysi do rysi,
+!!kupię wianek Marysi.
+!!@VERSE:
+!!2. Oj, Maryś, moja Maryś,
+!!da, z tysiącaś wybrana,
+!!oj, całą nockę piłaś,
+!!da, jeszcześ nie pijana.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=312 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 229} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 229}
 !!!page: 229
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-14

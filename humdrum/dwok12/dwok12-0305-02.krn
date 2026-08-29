@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1230500002-poszla_kasia_po_wode.krn
+﻿!!!!SEGMENT: DWOK1230500002-poszla_kasia_po_wode.krn
 !!!OTL: Poszła Kasia po wodę
+!!!FKT: Pieśni i Dumy. Strata wianka. Żale
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Ziernik (Jancewo)
+!!!AR1: kujawsko-pomorskie ; żniński ; Janowiec Wielkopolski-obszar wiejski
+!!!GE1: 52.833714 , 17.528121
 !!!source: DWOK12
 !!!id: 12305
 !!!signature: 1230500002
@@ -56,7 +61,7 @@
 8b-	głowę.
 8g}	.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Narrator
 !!BEGIN: VERSES
 !!VERSE:
@@ -70,3 +75,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

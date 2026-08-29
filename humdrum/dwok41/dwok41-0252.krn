@@ -3,81 +3,94 @@
 !!!source: DWOK41
 !!!id: 41252
 !!!signature: 4125200000
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{8g
-8g
-8a
-8b
-=2
-8cc
-8dd
-8b
-8a
-=3
-8g
-8g
-8a
-8b
-=4
-4cc}
-4r
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+=1	=1
+{8g	A
+8g	w_sa-
+8a	-de-
+8b	-cku
+=2	=2
+8cc	ja-
+8dd	-bło-
+8b	-ne-
+8a	-cka,
+=3	=3
+8g	w_o-
+8g	-gró-
+8a	-de-
+8b	-cku
+=4	=4
+4cc}	dwie,
+4r	.
 !!LO:LB:g=esac
-=5
-{8g
-8g
-8a
-8b
-=6
-8cc
-8dd
-8b
-8a
-=7
-8g
-8g
-8a
-8b
-=8
-4cc}
-4r
+=5	=5
+{8g	u-
+8g	-lu-
+8a	-bi-
+8b	-łem
+=6	=6
+8cc	ko-
+8dd	-cha-
+8b	-ne-
+8a	-ckę
+=7	=7
+8g	lu-
+8g	-dziom,
+8a	nie
+8b	so-
+=8	=8
+4cc}	-bie.
+4r	.
 !!LO:LB:g=esac
-=9
-{4ee
-4ee
-=10
-8dd
-8dd
-8dd
-8b}
+=9	=9
+{4ee	Ej,
+4ee	zal
+=10	=10
+8dd	mi
+8dd	ją
+8dd	bę-
+8b}	-dzie,
 !!LO:LB:g=esac
-=11
-{8dd
-8dd
-8dd
-8dd
-=12
-8dd
-8dd
-8b
-8a}
+=11	=11
+{8dd	bio-
+8dd	-rą
+8dd	mi
+8dd	ją
+=12	=12
+8dd	do-
+8dd	-brzy
+8b	lu-
+8a}	-dzie,
 !!LO:LB:g=esac
-=13
-{8g
-8g
-8a
-8b
-=14
-4cc}
-4r
-==
-*-
+=13	=13
+{8g	mo-
+8g	-ją
+8a	nie
+8b	bę-
+=14	=14
+4cc}	-dzie.
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A w sadecku jabłonecka, w ogródecku dwie,
+!!ulubiłem kochaneckę ludziom, nie sobie.
+!!Ej, zal mi ją będzie,
+!!biorą mi ją dobrzy ludzie,
+!!moją nie będzie.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!singer-sex: male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=237 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 158} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 158}
 !!!page: 158
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-22
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-27

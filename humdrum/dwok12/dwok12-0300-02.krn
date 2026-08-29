@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1230000002-a_w_tem_mojim_ogrodeczku.krn
+﻿!!!!SEGMENT: DWOK1230000002-a_w_tem_mojim_ogrodeczku.krn
 !!!OTL: A w tem mojim ogródeczku
+!!!FKT: Pieśni i Dumy. Strata wianka. Żale
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Poznania (Głuszyna)
+!!!AR1: wielkopolskie ; m. Poznań ; Poznań-gmina miejska
+!!!GE1: 52.319799 , 16.951414
 !!!source: DWOK12
 !!!id: 12300
 !!!signature: 1230000002
@@ -45,17 +50,17 @@
 16e	kochanek,
 8f#	.
 8d	.
-=	=
+=8	=8
 *Xtuplet	*
 24f#L	by
 24d	.
 24f#J	go
 8a	Bóg
 8g#	za-
-=8	=8
+=9	=9
 4.e}	-bił.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Maiden, Bachelor
 !!!role-listener: Bachelor, Maiden
 !!!singer-sex: female, male
@@ -93,6 +98,9 @@
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=177 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 161} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 161}
 !!!page: 161
+!!!BEM: Owczarska
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-14

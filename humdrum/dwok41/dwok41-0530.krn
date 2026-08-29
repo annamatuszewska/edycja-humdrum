@@ -3,54 +3,88 @@
 !!!source: DWOK41
 !!!id: 41530
 !!!signature: 4153000000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16f
-16a
-8.cc
-16a
-=2
-16cc
-16a
-8b-
-8g
-=3
-16a
-16a
-8.cc
-16f
-=4
-16a
-16g
-4g}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16f	Przy-
+16a	-szedł
+8.cc	Ja-
+16a	-sio
+=2	=2
+16cc	do
+16a	Ma-
+8b-	-ry-
+8g	-si
+=3	=3
+16a	do-
+16a	-bra-
+8.cc	-noc
+16f	po-
+=4	=4
+16aL	-wie-
+16gJ	.
+4g}	-dzieć,
 !!LO:LB:g=esac
-=5
-{16b-
-16b-
-8.dd
-16b-
-=6
-16dd
-16cc
-8cc
-8a
-=7
-16cc
-16b-
-8b-
-8e
-=8
-16g
-16f
-4f}
-==
-*-
+=5	=5
+{16b-	a
+16b-	o-
+8.dd	-na
+16b-	go
+=6	=6
+16dd	bar-
+16cc	-dzo
+8cc	pro-
+8a	-si
+=7	=7
+16cc	na
+16b-	łó-
+8b-	-że-
+8e	-czku
+=8	=8
+16gL	sie-
+16fJ	.
+4f}	-dzieć.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Przyszedł Jasio do Marysi
+!!dobranoc powiedzieć,
+!!a ona go bardzo prosi
+!!na łóżeczku siedzieć.
+!!@VERSE:
+!!2. Moja Maryś, moja droga.
+!!w podróż mi się spieszy,
+!!zostawię ci na zabawę
+!!tureckie orzechy.
+!!@VERSE:
+!!3. Zawołała na służącą.
+!!podaj mi zwierciadło,
+!!co się będe przeglądała.
+!!czy ja bardzo zbladła.
+!!@VERSE:
+!!4. Podajże mi sznuróweczkę
+!!i zieloną wstęgę,
+!!co się będę sznurowała,
+!!jeszcze panną będę.
+!!@VERSE:
+!!5. Żebyś ty się sznurowała
+!!złotem i perłami,
+!!już nie będziesz honor miała
+!!między panienkami.
+!!@VERSE:
+!!6. Wczoraj była panieneczka,
+!!dzisiaj białagłowa,
+!!a już ci się głos odmienił
+!!i panieńska mowa.
+!!@@END: VERSES
+!!!role-singer: Narrator, Mistress, Lover
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=356 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 273} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 273}
 !!!page: 273
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-20

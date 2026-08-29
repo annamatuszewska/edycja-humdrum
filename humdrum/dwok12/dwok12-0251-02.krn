@@ -1,5 +1,10 @@
-!!!!SEGMENT: DWOK1225100002-pojmij_mnie_jasku.krn
+﻿!!!!SEGMENT: DWOK1225100002-pojmij_mnie_jasku.krn
 !!!OTL: Pojmij mnie Jaśku
+!!!FKT: Pieśni i Dumy. Skarga. Niechęć. Rozstanie
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Sierakowa (Chalin)
+!!!AR1: wielkopolskie ; międzychodzki ; Sieraków-obszar wiejski
+!!!GE1: 52.601314 , 16.040855
 !!!source: DWOK12
 !!!id: 12251
 !!!signature: 1225100002
@@ -89,7 +94,7 @@
 16g	.
 4f}	mnie.
 ==	==
-*- 	*-
+*-	*-
 !!!role-singer: Maiden
 !!!role-listener: Bachelor
 !!!singer-sex: female
@@ -109,3 +114,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

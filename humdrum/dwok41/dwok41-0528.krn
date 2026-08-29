@@ -3,64 +3,85 @@
 !!!source: DWOK41
 !!!id: 41528
 !!!signature: 4152800000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=
-{12dd
-12ee
-12cc
-4dd
-4ff
-=
-4gg
-4aa
-12gg
-12ff
-12ee
-=
-12dd
-12ee
-12cc
-4dd
-4ff
-=
-4gg
-4aa
-12gg
-12ff
-12ee}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+!LO:TUP:a	!
+{12dd	Da,
+12ee	pier-
+12cc	-wszem
+4dd	le-
+4ff	-pszém
+=2	=2
+4gg	mię
+4aa	czę-
+12ggL	-stu-
+12ffJ	.
+12ee	-ją,
+=3	=3
+12ddL	da,
+12eeJ	.
+12cc	i
+4dd	za-
+4ff	-miast
+=4	=4
+4gg	kar-
+4aa	-mel-
+12ggL	-ka-
+12ffJ	.
+12ee}	-mi,
 !!LO:LB:g=esac
-=
-{12dd
-12ee
-12cc
-4.dd
-8cc
-=1
-8b
-8cc
-4ee
-8gg
-8ff
-=
-12dd
-12ee
-12cc
-4.dd
-8cc
-=
-12b
-12cc
-12ee
-4ff
-4ee}
-==
-*-
+=5	=5
+{12ddL	ja
+12eeJ	.
+12cc	mi-
+4.dd	-łoś-
+8cc	-ci
+=6	=6
+8bL	nie
+8ccJ	.
+4ee	czu-
+8ggL	-je,
+8ffJ	.
+=7	=7
+12ddL	da,
+12eeJ	.
+12cc	choć
+(4.dd	się
+8cc)	.
+=8	=8
+12bL	ba-
+12ccJ	.
+12ee	-wię
+4ff	z_wa-
+4ee}	-mi.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Da, pierwszem lepszém mię częstują,
+!!da, i zamiast karmelkami,
+!!ja miłości nie czuje,
+!!da, choć się bawię z wami.
+!!@VERSE:
+!!2. Oj, w mojem całkiem życiu,
+!!da, taka straszna zbrodnia.
+!!da, kochałam chłopaka,
+!!da, półtora tygodnia.
+!!@VERSE:
+!!3. Smutne wieczory i ranki,
+!!kto nie widzi swej kochanki,
+!!zniszczę zabawy i tany,
+!!com dziś kochał, tem się brzydzę.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!role-listener: Group
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=355 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 272} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 272}
 !!!page: 272
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-05-20

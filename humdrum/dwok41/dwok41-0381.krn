@@ -3,61 +3,77 @@
 !!!source: DWOK41
 !!!id: 41381
 !!!signature: 4138100000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16b
-16dd
-16ee
-16cc
-16dd
-16b
-=2
-16a
-16dd
-4b
-=3
-16b
-16dd
-16ee
-16cc
-32dd
-32cc
-16b
-=4
-16a
-16b
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16b	A
+16dd	do
+16ee	cie-
+16cc	-bie
+16dd	ja-
+16b	-dę,
+=2	=2
+16a	Ma-
+16dd	-ry-
+4b	-siu,
+=3	=3
+16b	a
+16dd	do
+16ee	cie-
+16cc	-bie
+32ddL	ja-
+32ccJ	.
+16b	-dę,
+=4	=4
+16a	da,
+16b	ja-
+4g}	-dę,
 !!LO:LB:g=esac
-=5
-{8.d
-16g
-16b
-16cc
-=6
-16.b
-32a
-8dd
-8d
-=7
-16d
-16d
-8g
-16b
-16cc
-=8
-16.b
-32a
-16b
-16a
-8g}
-==
-*-
+=5	=5
+{8.d	a
+16g	jak
+16b	ci
+16cc	mi
+=6	=6
+16.b	ra-
+32a	-dy
+8dd	nie
+8d	dasz,
+=7	=7
+16d	a
+16d	tak
+8g	cię
+16b	o-
+16cc	-dja-
+=8	=8
+16.b	-dę,
+32a	o-
+16b/L	-dja-
+16aJ	.
+8g}	-dę.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A do ciebie jadę, Marysiu,
+!!a do ciebie jadę, da, jadę,
+!!a jak ci mi rady nie dasz,
+!!a tak cię odjadę, odjadę.
+!!@VERSE:
+!!2. A bywał ci Jasio, da, bywał.
+!!oj, da, teraz i nie postoi,
+!!oj, da, czy konika nié ma,
+!!oj, da, czy się matki boi.
+!!@@END: VERSES
+!!!role-singer: Lover, Narrator
+!!!role-listener: Mistress
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=293 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 212} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 212}
 !!!page: 212
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-04-30

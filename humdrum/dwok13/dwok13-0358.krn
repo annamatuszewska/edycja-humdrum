@@ -1,101 +1,118 @@
-!!!!SEGMENT: DWOK1335800000-oj_niedaleko_leszna.krn
+﻿!!!!SEGMENT: DWOK1335800000-oj_niedaleko_leszna.krn
 !!!OTL: Oj niedaleko Leszna
+!!!FKT: Śpiewki i tańce. Polonezy, Obertasy, Mazury 3/4 3/8
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Kobylina (Lutogniewo)
+!!!AR1: wielkopolskie ; krotoszyński ; Krotoszyn-obszar wiejski
+!!!GE1: 51.719321 , 17.379659
 !!!source: DWOK13
 !!!id: 13358
 !!!signature: 1335800000
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/4
-=1
-{8b
-8dd
-4ee
-4cc
-=2
-4a
-4g#
-4b
-=3
-8b
-8dd
-4ee
-8cc
-8b
-=4
-4a
-4g#
-4e}
+**kern	**text
+*clefG2	*
+*k[]	*
+*A:	*
+*M3/4	*
+=1	=1
+{8b	Oj
+8dd	nie-
+4ee	-da-
+4cc	-le-
+=2	=2
+4a	-ko
+4g#	Lesz-
+4b/	-na,
+=3	=3
+8b	żo-
+8dd	-na
+4ee	mę-
+8ccL/	-ża
+8b/J	.
+=4	=4
+4a	o-
+4g#\	-de-
+4e}\	-szła.
 !!LO:LB:g=esac
-=5
-{8e
-8g#
-4a
-4cc
-=6
-4a
-4g#
-4b
-=7
-8e
-8g#
-4a
-8cc
-8b
-=8
-4a
-4g#
-4e}
+=5	=5
+{8e	Dla
+8g#	cze-
+4a	-goż
+4cc	go
+=6	=6
+4a	o-
+4g#	-de-
+4b/	-szła?
+=7	=7
+8e	Bo
+8g#	nie
+4a	u-
+8ccL/	-miał
+8b/J	.
+=8	=8
+4a	rze-
+4g#\	-mie-
+4e}\	-sła.
 !!LO:LB:g=esac
-=9
-{8cc#
-8ee
-4ff#
-4b
-=10
-8.dd
-16ff#
-8dd
-8b
-4g#
-=11
-8b
-8dd
-4ee
-4g#
-=12
-4a
-8cc#
-8b
-4a}
+=9	=9
+{8ccL#	.
+8eeJ	.
+4ff#	.
+4b	.
+=10	=10
+8.ddL	.
+16ff#J	.
+8ddL	.
+8bJ	.
+4g#	.
+=11	=11
+8bL	.
+8ddJ	.
+4ee	.
+4g#	.
+=12	=12
+4a\	.
+8ccL#	.
+8bJ	.
+4a}\	.
 !!LO:LB:g=esac
-=13
-{8cc#
-8ee
-4ff#
-4b
-=14
-8.dd
-16ff#
-8dd
-8b
-4g#
-=15
-8b
-8dd
-4ee
-4g#
-=16
-8a
-8a
-8cc#
-8b
-4a}
-==
-*-
+=13	=13
+{8ccL#	.
+8eeJ	.
+4ff#	.
+4b	.
+=14	=14
+8.ddL	.
+16ff#J	.
+8ddL	.
+8bJ	.
+4g#	.
+=15	=15
+8bL	.
+8ddJ	.
+4ee	.
+4g#	.
+=16	=16
+8aL	.
+8aJ	.
+8ccL#	.
+8bJ	.
+4a}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oj niedaleko Leszna,
+!!żona męża odeszła.
+!!Dla czegoż go odeszła?
+!!Bo nie umiał rzemiesła.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=178 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 154} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 154}
 !!!page: 154
+!!!ONB@texture: Only voice or instrument is playing at a time
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-03-26

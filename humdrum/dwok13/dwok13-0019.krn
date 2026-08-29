@@ -1,5 +1,7 @@
-!!!!SEGMENT: DWOK1301900000-odko_moja_lodko.krn
+﻿!!!!SEGMENT: DWOK1301900000-odko_moja_lodko.krn
 !!!OTL: Łódko moja łódko
+!!!FKT: Pieśni. Miasta i Dwory. Świat. Los
+!!!REG: Wielkie Księstwo Poznańskie
 !!!source: DWOK13
 !!!id: 13019
 !!!signature: 1301900000
@@ -108,6 +110,7 @@
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=37 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 13} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 13}
 !!!page: 13
+!!!BEM: Młody rybak
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Agata Krajewska-Mikosz
 !!!END: 2026-02-03

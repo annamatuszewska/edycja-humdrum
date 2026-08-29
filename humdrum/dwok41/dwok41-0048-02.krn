@@ -3,76 +3,88 @@
 !!!source: DWOK41
 !!!id: 41048
 !!!signature: 4104800002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8b
-8dd
-8cc
-=2
-8ee
-4dd
-=3
-8dd
-8cc
-8a
-=4
-8ee
-4dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8b	A
+8dd	le-
+8cc	-cie,
+=2	=2
+8ee	le-
+4dd	-cie,
+=3	=3
+8dd	słoń-
+8cc	-ce
+8a	go-
+=4	=4
+8ee	-rą-
+4dd}	-ce,
 !!LO:LB:g=esac
-=5
-{8b
-8dd
-8cc
-=6
-8ee
-4dd
-=7
-8dd
-8cc
-8f#
-=8
-8a
-4g}
+=5	=5
+{8b	pa-
+8dd	-sła
+8cc	dziew-
+=6	=6
+8ee	-cy-
+4dd	-na
+=7	=7
+8dd	byś-
+8cc	-ki
+8f#	na
+=8	=8
+8a	łą-
+4g}	-ce.
 !!LO:LB:g=esac
-=9
-{8f#
-8a
-8a
-=10
-8g
-8b
-8b
-=11
-8dd
-8dd
-8cc
-=12
-8ee
-4dd}
+=9	=9
+{8f#	Bań-
+8a	-dur
+8a	dur,
+=10	=10
+8g	bań-
+8b	-dur
+8b	dur,
+=11	=11
+8dd	bań-
+8dd	-du-
+8cc	-ra
+=12	=12
+8ee	ho-
+4dd}	-psa,
 !!LO:LB:g=esac
-=13
-{8f#
-8a
-8a
-=14
-8g
-8b
-8b
-=15
-8dd
-8dd
-8f#
-=16
-8a
-4g}
-==
-*-
+=13	=13
+{8f#	bań-
+8a	-dur
+8a	dur,
+=14	=14
+8g	bań-
+8b	-dur
+8b	dur,
+=15	=15
+8dd/L	bań-
+8dd/J	-du-
+8f#	-ra,
+=16	=16
+8a	ho-
+4g}	-psa.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A lecie, lecie, słońce gorące,
+!!pasła dziewcyna byśki na łące.
+!!|:Bańdur dur, bańdur dur, bańdura hopsa:|.
+!!@VERSE:
+!!2. Przyjechał do nij na biały szkapie,
+!!chustka w kieszeni, a z nosa kapie.
+!!|: Bańdur dur, bańdur dur, bańdura hopsa:|.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=128 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 49-50} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 49-50}
 !!!page: 49-50
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-16

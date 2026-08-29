@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1217900002-a_widzisz_dziewcze_ten_kamien.krn
+﻿!!!!SEGMENT: DWOK1217900002-a_widzisz_dziewcze_ten_kamien.krn
 !!!OTL: A widzisz dziewcze ten kamień
+!!!FKT: Pieśni i Dumy. Pieśni przed Weselem i wśród Wesela śpiewane
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Opalenicy, Grodziska
+!!!AR1: wielkopolskie ; nowotomyski ; Opalenica-miasto
+!!!GE1: 52.307491 , 16.413073
+!!!AR2: wielkopolskie ; grodziski ; Grodzisk Wielkopolski-miasto
+!!!GE2: 52.224563 , 16.364179
 !!!source: DWOK12
 !!!id: 12179
 !!!signature: 1217900002
@@ -41,7 +48,7 @@
 8f#	się
 =8	=8
 4g	z_tobą,
-4b}	.
+4b/}	.
 !!LO:LB:g=esac
 =9	=9
 {4d	jak
@@ -95,11 +102,13 @@
 !!nie popłynie z wodą,
 !!upadnie na ziemię.
 !!@@END: VERSES
-!!!ONB: Kolberg zapisał na 3/4 zapisano poprawnie na 2/4
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=107 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 91} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 91}
 !!!page: 91
+!!!BEM: Kolberg zapisał na 3/4 zapisano poprawnie na 2/4
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13

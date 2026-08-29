@@ -1,5 +1,12 @@
-!!!!SEGMENT: DWOK1222300020-instrumentalna-a_moj_jasinek_nic_nie_robil.krn
-!!!OTL: Instrumentalna-A mój Jasinek nic nie robił
+﻿!!!!SEGMENT: DWOK1222300020-instrumentalna-a_moj_jasinek_nic_nie_robil.krn
+!!!OTL: A mój Jasinek nic nie robił. Instrumentalna
+!!!FKT: Pieśni i Dumy. Stałość. Życzliwość. Wymówka
+!!!REG: Wielkie Księstwo Poznańskie
+!!!LOK: od Poznania (Górczyn, Wyry)
+!!!AR1: wielkopolskie ; m. Poznań ; Poznań-gmina miejska
+!!!GE1: 52.383495 , 16.876515
+!!!AR2: wielkopolskie ; poznański ; Komorniki-gmina wiejska
+!!!GE2: 52.321086 , 16.853628
 !!!source: DWOK12
 !!!id: 12223
 !!!signature: 1222300020
@@ -8,42 +15,42 @@
 *k[b-e-]
 *B-:
 *M3/4
-=
+=1
 {(>12fL
 12a
 12b-J)
 4.ee-
 8dd
-=
+=2
 (>12ddL
 12ff
 12ggJ)
 16ee-L
 8.ddJ
 4f
-=1
+=3
 8aL
 8b-J\
 4.ee-
 8dd
-=2
+=4
 8b-L
 8gJ
 4e-
 4f}
 !!LO:LB:g=esac
-=3
+=5
 {8aL
 8ccJ\
 4.b-
 8f
-=4
+=6
 8aL
 8ccJ
 16b-L
 8.aJ\
 4f
-=
+=7
 *Xtuplet
 12fL
 12a
@@ -56,30 +63,30 @@
 4e-
 4f}
 !!LO:LB:g=esac
-=6
+=8
 {8aL
 8ccJ
 4.b-
 8f
-=7
+=9
 8aL
 8ccJ
 16b-L
 8.aJ\
 4f
-=
+=10
 12fL
 12a
 12b-J
 4.ee-
 8dd
-=8
+=11
 8b-L
 8gJ
 4e-
 4f}
 ==
-*- 
+*-
 !!!RDF**kern: > = above
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
@@ -88,3 +95,5 @@
 !!!ONB: Converted on 2024/12/26 with esac2hum
 !!!ENC: Klara Amelia Zienkiewicz
 !!!END: 2026-03-25
+!!!ENC: Anna Matuszewska
+!!!END: 2026-04-13
