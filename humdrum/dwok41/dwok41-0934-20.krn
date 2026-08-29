@@ -5,29 +5,29 @@
 !!!signature: 4193400020
 **kern
 *clefG2
-*k[]
+*k[b-]
 *C:
 *M3/4
 =1
-{8c
-8e
+{8cL
+8eJ
 4g
 4a
 =2
-8g
+8gL
 8f
 8e
 8f
 8d
-8B
+8BJ
 =3
-8c
-8e
+8cL
+8eJ
 4g
 4a
 =4
-8g
-8f
+8gL
+8fJ
 4e
 4d}
 ==
@@ -37,3 +37,5 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=483 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 396} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 396}
 !!!page: 396
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-07-09
