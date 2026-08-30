@@ -3,77 +3,86 @@
 !!!source: DWOK41
 !!!id: 411182
 !!!signature: 41118200000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{8b
-8g#
-4a
-4b
-=2
-8cc
-8b
-4a}
-4r
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+{8b/	Sła
+8g#	sie-
+4a	-ro-
+4b	-ta
+=2	=2
+8ccL	bez
+8bJ	.
+4a}	wieś
+4r	.
 !!LO:LB:g=esac
-=3
-{8b
-8g#
-4a
-4b
-=4
-8cc
-8b
-4a}
-4r
+=3	=3
+{8b	i
+8g#	o-
+4a	-pad
+4b	ją
+=4	=4
+8ccL	zły
+8bJ	.
+4a}	pies,
+4r	.
 !!LO:LB:g=esac
-=5
-{4a
-4cc
-4ee
-=6
-4ee
-4dd
-4cc}
+=5	=5
+{4a	nie
+4cc	miał
+4ee	sie
+=6	=6
+4ee	chto
+4dd	o-
+4cc}	-bra
 !!LO:LB:g=esac
-=7
-{8b
-8g
-4b
-4dd
-=8
-8cc
-8b
-4a}
-4r
+=7	=7
+{8b	i
+8g	sie-
+4b	-ro-
+4dd	-ty
+=8	=8
+8ccL	o-
+8bJ	.
+4a}	-gnać.
+4r	.
 !!LO:LB:g=esac
-=9
-{4a
-4cc
-4ee
-=10
-8ee
-8ee
-4dd
-4cc}
+=9	=9
+{4a	nie
+4cc	miał
+4ee	sie
+=10	=10
+8ee/L	chto
+8ee/J	.
+4dd	o-
+4cc}	-bra
 !!LO:LB:g=esac
-=11
-{8b
-8g
-4b
-4dd
-=12
-8cc
-8b
-4a}
-4r
-==
-*-
+=11	=11
+{8b	i
+8g	sie-
+4b	-ro-
+4dd	-ty
+=12	=12
+8ccL	o-
+8bJ	.
+4a}	-gnać.
+4r	_
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Sła sierota bez wieś
+!!i opad ją zły pies,
+!!|:nie miał sie chto obra
+!!i sieroty ognać:|.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=600 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 513} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 513}
 !!!page: 513
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-28

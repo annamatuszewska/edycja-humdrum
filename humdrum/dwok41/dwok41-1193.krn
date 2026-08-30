@@ -3,65 +3,91 @@
 !!!source: DWOK41
 !!!id: 411193
 !!!signature: 41119300000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{4b
-8dd
-8cc
-8b
-8a
-=2
-8b
-8dd
-8dd
-8cc
-8b
-8a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{4b	Niech
+8dd	bę-
+8cc	-dzie
+8b	Je-
+8a	-zus
+=2	=2
+8b	Chry-
+8dd	-stus
+8dd	po-
+8cc	-chwa-
+8b	-lo-
+8a}	-ny,
 !!LO:LB:g=esac
-=3
-{4b
-8dd
-8cc
-8b
-8a
-=4
-8b
-8dd
-8dd
-8cc
-8b
-8a}
+=3	=3
+{4b	po-
+8dd	-wiedz
+8cc	mi,
+8b	pan-
+8a	-no,
+=4	=4
+8b	cym
+8dd	jest
+8dd	od-
+8cc	-da-
+8b	-lo-
+8a}	-ny,
 !!LO:LB:g=esac
-=5
-{4b
-8cc
-8a
-8f#
-8d
-=6
-8g
-8b
-2dd}
+=5	=5
+{4b	niech
+8cc	swe-
+8a	-go
+8f#	ko-
+8d	-nia
+=6	=6
+8g	nie
+8b	tru-
+2dd}	-dzę
 !!LO:LB:g=esac
-=7
-{4dd
-8ee
-8cc
-8dd
-8b
-=8
-8a
-8a
-4g}
-4r
-==
-*-
+=7	=7
+{4dd/	i
+8ee	ca-
+8cc	-sów
+8dd	swo-
+8b	-ich
+=8	=8
+8a	nie
+8a	mu-
+4g}	-dzę.
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Niech będzie Jezus Chrystus pochwalony,
+!!powiedz mi, panno, cym jest oddalony,
+!!niech swego konia nie trudzę
+!!i casów swoich nie mudzę.
+!!@VERSE:
+!!2. Ty swego konia we złocie sacujes,
+!!co go na moment do mnie fatygujes.
+!!Nie turbuj konia, sam siebie,
+!!ja się obyńdę bez ciebie.
+!!@VERSE:
+!!3. Do nóg upadam, grzecna białogłowo,
+!!wybac mi, wybac, com wyrzék te słowo.
+!!Zartyć to, zarty, panienko,
+!!wybac mi, wybac, serdeńko.
+!!@VERSE:
+!!4. Ja się na takich zartach nie rozumię,
+!!jesce na takich, jakie waspan umié.
+!!Prosę tu, Jasiu, nie bywać,
+!!więcy mnie tego nie śpiwać.
+!!@@END: VERSES
+!!!role-singer: Lover, Woman
+!!!role-listener: Woman, Lover
+!!!singer-sex: Male, Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=608 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 521-522} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 521-522}
 !!!page: 521-522
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-28

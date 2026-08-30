@@ -3,89 +3,103 @@
 !!!source: DWOK41
 !!!id: 411201
 !!!signature: 41120100000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8cc
-8dd
-4ee
-4ff
-=2
-4aa
-2gg
-=3
-8gg
-8gg
-4ff
-4dd
-=4
-4ff
-2ee}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8cc	Już
+8dd	mi
+4ee	się
+4ff	sprzy-
+=2	=2
+4aa	-krzy-
+2gg	-ło
+=3	=3
+8gg	w_ka-
+8gg	-wa-
+4ff	-ler-
+4dd	-skim
+=4	=4
+4ff	gro-
+2ee}	-nie,
 !!LO:LB:g=esac
-=5
-{8cc
-8dd
-4ee
-4ff
-=6
-8aa
-8gg
-2gg
-=7
-8gg
-8gg
-4ff
-4b
-=8
-4dd
-2cc}
+=5	=5
+{8cc	trze-
+8dd	-ba
+4ee	mnie
+4ff	po-
+=6	=6
+8aaL	-do-
+8ggJ	.
+2gg	-bno
+=7	=7
+8gg	po-
+8gg	-my-
+4ff	-śleć
+4b	o
+=8	=8
+4dd	żo-
+2cc}	-nie.
 !!LO:LB:g=esac
-=9
-{8gg
-8ff
-4ff
-4dd
-=10
-8ff
-8ee
-4ee
-4ee}
+=9	=9
+{8gg	Wszys-
+8ff	-tko
+4ff	mi
+4dd	się
+=10	=10
+8ff	w_my-
+8ee	-śli
+4ee	kré-
+4ee}	-śli,
 !!LO:LB:g=esac
-=11
-{8gg
-8ff
-4ff
-4dd
-=12
-8ff
-8ee
-4ee
-4ee}
+=11	=11
+{8gg	ża-
+8ff	-dna
+4ff	nie
+4dd	do
+=12	=12
+8ff	mo-
+8ee	-jej
+4ee	my-
+4ee}	-śli,
 !!LO:LB:g=esac
-=13
-{8cc
-8dd
-4ee
-4ff
-=14
-4aa
-2gg}
+=13	=13
+{8cc	mam
+8dd	ja
+4ee	myśl
+4ff	nie
+=14	=14
+4aa	ta-
+2gg}	-ką,
 !!LO:LB:g=esac
-=15
-{8gg
-8gg
-4ff
-4b
-=16
-4dd
-2cc}
-==
-*-
+=15	=15
+{8gg	po-
+8gg	-jąć
+4ff	by-
+4b	-le
+=16	=16
+4dd	ja-
+2cc}	-ką.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Już mi się sprzykrzyło
+!!w kawalerskim gronie,
+!!trzeba mnie podobno
+!!pomyśleć o żonie.
+!!Wszystko mi się w myśli kréśli,
+!!żadna nie do mojej myśli,
+!!mam ja myśl nie taką,
+!!pojąć byle jaką.
+!!@@END: VERSES
+!!!role-singer: Single Boy
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=614 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 527} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 527}
 !!!page: 527
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-29

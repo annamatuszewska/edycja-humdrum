@@ -3,58 +3,79 @@
 !!!source: DWOK41
 !!!id: 411175
 !!!signature: 41117500002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16b
-16dd
-8ee
-8a
-=2
-8cc
-8dd
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16b	Mo-
+16dd	-ja
+8ee	ma-
+8a	-tka
+=2	=2
+16cc	ra-
+16cc	-no
+8dd	wsta-
+8g}	-ła,
 !!LO:LB:g=esac
-=3
-{16b
-16dd
-8ee
-8a
-=4
-16cc
-16cc
-8b
-8g}
+=3	=3
+{16b	ką-
+16dd	-dzio-
+8ee	-łe-
+8a	-cke
+=4	=4
+16cc	se
+16cc	przą-
+8b	-da-
+8g}	-ła,
 !!LO:LB:g=esac
-=5
-{16d
-16d
-8.f#
-16a
-=6
-16cc
-16ee
-8dd
-8b}
+=5	=5
+{16d	cor-
+16d	-ka
+8.f#	wsta-
+16a	-ła
+=6	=6
+16cc/L	jes-
+16ee/J	-ce
+8dd/L	ra-
+8b/J}	-nij,
 !!LO:LB:g=esac
-=7
-{16d
-16d
-8.f#
-16a
-=8
-16cc
-16cc
-16b
-16f#
-8g}
-==
-*-
+=7	=7
+{16d	u-
+16d	-przą-
+8.f#	-dła
+16a	se
+=8	=8
+16cc	jes-
+16cc	-ce
+16b/L	cia-
+16f#J	.
+8g}	-niéj.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Moja matka rano wstała,
+!!kądziołecke se prządała,
+!!corka wstała jesce ranij,
+!!uprządła se jesce cianiéj.
+!!@VERSE:
+!!2. Moj Boze, Boze wiecny,
+!!nie dajze mi męza z dziećmi,
+!!bo ja bym nic nie robiła,
+!!tylko bym się z dziećmi biła.
+!!@VERSE:
+!!3. I ja Mazur, i ty Mazur,
+!!pozycze mi garka na zur,
+!!ja ci garka nie pozycę,
+!!bo mi trzeba na gorcycę.
+!!@@END: VERSES
+!!!role-singer: Daughter, Man
+!!!singer-sex: Female, Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=594 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 507-508} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 507-508}
 !!!page: 507-508
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-27

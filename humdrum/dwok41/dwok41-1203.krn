@@ -3,91 +3,105 @@
 !!!source: DWOK41
 !!!id: 411203
 !!!signature: 41120300000
-**kern
-*clefG2
-*k[b-e-]
-*g:
-*M3/4
-=1
-{8g
-8g
-4.dd
-8cc
-=2
-8dd
-8b-
-4a
-4g
-=3
-8f#
-8a
-8cc
-8ee-
-8dd
-8f#
-=4
-2.g}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*g:	*
+*M3/4	*
+=1	=1
+{8g	Sia-
+8g	-łem
+4.dd	pro-
+8cc	-so
+=2	=2
+8dd	na
+8b-	za-
+4a	-go-
+4g	-nie,
+=3	=3
+8f#	nie
+8a	mo-
+8ccL	-głem
+8ee-J	.
+8ddL	go
+8f#\J	.
+=4	=4
+2.g}	żąć,
 !!LO:LB:g=esac
-=5
-{8g
-8g
-4.dd
-8cc
-=6
-8dd
-8b-
-4a
-4g
-=7
-8f#
-8a
-8cc
-8ee-
-8dd
-8f#
-=8
-2.g}
+=5	=5
+{8g	[po-
+8g	-ko-
+4.dd	-cha-
+8cc	-łem
+=6	=6
+8dd	lu-
+8b-	-be
+4a	dziew-
+4g	-cze,
+=7	=7
+8f#	nie
+8a	mo-
+8ccL	-głem
+8ee-J	.
+8ddL	jej
+8f#\J	.
+=8	=8
+2.g}	wziąć].
 !!LO:LB:g=esac
-=9
-{4f#
-4.f#
-8d
-=10
-8b-
-8a
-2g}
+=9	=9
+{4f#	Ko-
+4.f#	-cha-
+8d	-łem,
+=10	=10
+8b-	nie
+8a	wzią-
+2g}	-łem,
 !!LO:LB:g=esac
-=11
-{4f#
-4.f#
-8d
-=12
-8b-
-8a
-2g}
+=11	=11
+{4f#	po-
+4.f#	-sia-
+8d	-łem,
+=12	=12
+8b-	nie
+8a	żą-
+2g}	-łem,
 !!LO:LB:g=esac
-=13
-{8dd
-8dd
-4.dd
-8ff#
-=14
-4gg
-2dd}
+=13	=13
+{8dd	[jak
+8dd	ja
+4.dd	wspom-
+8ff#	-nę
+=14	=14
+4gg	lu-
+2dd}	-bą,
 !!LO:LB:g=esac
-=15
-{8cc
-8ee-
-4dd
-4f#
-=16
-8a
-8g
-2g}
-==
-*-
+=15	=15
+{8ccL	nie
+8ee-J	.
+4dd	mo-
+4f#	-gę
+=16	=16
+8aL	ją
+8gJ	.
+2g}	kląć].
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Siałem proso na zagonie,
+!!nie mogłem go żąć,
+!![pokochałem lube dziewcze,
+!!nie mogłem jej wziąć].
+!!Kochałem, nie wziąłem,
+!!posiałem, nie żąłem,
+!![jak ja wspomnę lubą,
+!!nie mogę ją kląć].
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=616 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 529} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 529}
 !!!page: 529
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-29

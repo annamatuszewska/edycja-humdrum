@@ -3,94 +3,143 @@
 !!!source: DWOK41
 !!!id: 411186
 !!!signature: 41118600001
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{4dd
-4.ee
-8cc
-=
-12b
-12dd
-12b
-2a
-=2
-4b
-4.cc
-8f#
-=3
-8a
-8g
-4g}
-4r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*C:	*
+*M3/4	*
+=1	=1
+{4dd	Zdro-
+4.ee	-waś
+8cc	Ma-
+=2	=2
+12bL	-ry-
+12dd	.
+12bJ	.
+2a	-jo,
+=3	=3
+4b	Bo-
+4.cc	-ga
+8f#	Ro-
+=4	=4
+8aL	-dzi-
+8gJ	.
+4g}	-co,
+4r	.
 !!LO:LB:g=esac
-=4
-{4dd
-4.ee
-8cc
-=
-12b
-12dd
-12b
-2a
-=5
-4b
-4.cc
-8f#
-=6
-8a
-8g
-4g}
-4r
+=5	=5
+{4dd	bła-
+4.ee	-ga-
+8cc	-my
+=6	=6
+12bL	cie-
+12dd	.
+12bJ	.
+2a	-bie,
+=7	=7
+4b	swię-
+4.cc	-ta
+8f#	dzie-
+=8	=8
+8aL	-wi-
+8gJ	.
+4g}	-co,
+4r	.
 !!LO:LB:g=esac
-=7
-{8d
-8f#
-4.a
-8g
-=
-12g
-12b
-12a
-2a
-=8
-8a
-8cc
-4.ee
-8dd
-=9
-8dd
-8cc
-4b}
-4r
+=9	=9
+{8dL	niech
+8f#J	.
+4.a	ła-
+8g	-ska
+=10	=10
+12gL	two-
+12b/	.
+12aJ	.
+2a	-ja
+=11	=11
+8a\L	za-
+8ccJ	.
+4.ee	-wsze
+8dd	nam
+=12	=12
+8ddML	sprzy-
+8ccJ	.
+4b}	-ja,
+4r	.
 !!LO:LB:g=esac
-=10
-{8gg
-8ff#
-4.gg
-8ee
-=11
-8dd
-8gg
-4.b
-8cc
-=12
-8b
-8dd
-4.cc
-8f#
-=13
-8a
-8g
-2g}
-==
-*-
-!!!ONB: zakodować w G
+=13	=13
+{8ggL	módl
+8ff#J	.
+4.gg	się
+8ee	za
+=14	=14
+8ddL	na-
+8ggJ	.
+(4.b	-mi,
+8cc)	.
+=15	=15
+8bL	zdro-
+8ddJ	.
+4.cc	-waś
+8f#	Ma-
+=16	=16
+8aL	-ry-
+8gJ	.
+2g}	-ja.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Zdrowaś Maryjo, Boga Rodzico,
+!!błagamy ciebie, swięta dziewico,
+!!niech łaska twoja zawsze nam sprzyja,
+!!módl się za nami, zdrowaś Maryja.
+!!@VERSE:
+!!2. Zdrowaś Maryjo, Boga Rodzico,
+!!błagamy ciebie, swięta dziewico,
+!!niech łaska twoja zawsze nam sprzyja,
+!!módl się za nami, zdrowaś Maryja.
+!!@VERSE:
+!!3. Panno przeczysta, panno bez zmazy,
+!!broń nas od chorób, strzeż od zarazy.
+!!Ty jak cudowna, wonna lilija
+!!oczyść powietrze, zdrowaś Maryja.
+!!@VERSE:
+!!4. Ty, coś karmiła swiata zbawienie,
+!!ty nam, jak matka, daj pożywienie.
+!!Niech brak żywności nas nie zabija,
+!!broń nas od głodu, zdrowaś Maryja.
+!!@VERSE:
+!!5. Ty, coś płakała nad śmiercią Syna,
+!!przez te łzy gorzkie, Matko jedyna,
+!!oddal chorobę, co lud zabija,
+!!broń nas od moru, zdrowaś Maryja.
+!!@VERSE:
+!!6. Ty, coś płomieni innych nie znała,
+!!tylko miłością Boską gorzała,
+!!spraw, niechaj pożar dom nasz omija,
+!!strzeż nas od ognia, zdrowaś Maryja.
+!!@VERSE:
+!!7. Panno pokorna, łagodna, cicha,
+!!daj, niech pokojem kraj nasz oddycha,
+!!niech się niezgoda w nas nie rozwija,
+!!broń nas od wojny, zdrowaś Maryja.
+!!@VERSE:
+!!8. Matko najswiętsza, niepokalana,
+!!twoja opieka nam pożądana
+!!i twoja łaska niechaj nam sprzyja,
+!!módl się za nami, zdrowaś Maryja.
+!!@VERSE:
+!!9. Królowo nasza, wśród cherubinów
+!!usłysz pokorny głos ziemi synów,
+!!co się do tronu twojego wzbija,
+!!módl się za nami, zdrowaś Maryja.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!role-listener: Blessed Virgin Mary
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=602 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 515} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 515}
 !!!page: 515
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-28

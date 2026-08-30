@@ -3,54 +3,128 @@
 !!!source: DWOK41
 !!!id: 411214
 !!!signature: 41121400000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16b
-16dd
-8dd
-8dd
-=2
-16ee
-16dd
-8cc#
-8dd
-=3
-16a
-16a
-8.cc
-16b
-=4
-16dd
-16b
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16b	Hej,
+16dd	skąd
+8dd	żeś-
+(8cc#q	.
+8dd)	-cie
+=2	=2
+16ee	w_tej
+16dd	su-
+8cc#	-kma-
+8dd	-nie,
+=3	=3
+16a	hej-
+16a	-że
+8.ccL	ho,
+16bJ	.
+=4	=4
+16dd	hej-
+16b	-że
+4g}	ho
 !!LO:LB:g=esac
-=5
-{16f#
-16a
-8a
-8a
-=6
-16b
-16a
-8.dd
-16a
-=7
-16e
-16e
-8.g
-16f#
-=8
-16a
-16f#
-4d}
-==
-*-
+=5	=5
+{16f#	a
+16a	z_Kaź-
+8a	-mie-
+(8g#q	.
+8a)	-rza,
+=6	=6
+16b	moś-
+16a	-ci
+8.dd	pa-
+16a	-nie,
+=7	=7
+16e	hej-
+16e	-że
+8.gL	ho,
+16f#J	.
+=8	=8
+16a	hej-
+16f#	-że
+4d}	ho.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Hej, skąd żeście w tej sukmanie, 
+!!hejże ho, hejże ho
+!!a z Kaźmierza, mości panie,
+!!hejże ho, hejże ho.
+!!@VERSE:
+!!2. Znacie tamtejszego pana,
+!![hejże ho, hejże ho],
+!!któż by nie znał szambelana,
+!![hejże ho, hejże ho].
+!!@VERSE:
+!!3. Nie znacie tam Przybędnicy,
+!![hejże ho, hejże ho],
+!!dyć to w waszej okolicy,
+!![hejże ho, hejże ho].
+!!@VERSE:
+!!4. Dawniej się tam sługiwało,
+!![hejże ho, hejże ho],
+!!znam jego rodzinę całą,
+!![hejże ho, hejże ho].
+!!@VERSE:
+!!5. Pewnie znacie córkę, syna,
+!![hejże ho, hejże ho].
+!!Znam, och, ładna to dziewczyna,
+!!ale trochę nieszczęśliwa,
+!![hejże ho, hejże ho].
+!!@VERSE:
+!!6. I cóż jeji, czy choruje,
+!![hejże ho, hejże ho]?
+!!Nie, ale trochę fałsuje,
+!![hejże ho, hejże ho].
+!!@VERSE:
+!!7. Gdzieżeście się dowiedzieli,
+!![hejże ho, hejże ho]?
+!!Dziewki w karczmie powiedzieli,
+!![hejże ho, hejże ho].
+!!@VERSE:
+!!8. Że już niejednego miała,
+!![hejże ho, hejże ho],
+!!i słowa nie dotrzymała,
+!![hejże ho, hejże ho]?
+!!@VERSE:
+!!9. Teraz mi, jegomość, powiedz,
+!![hejże ho, hejże ho],
+!!oj, czyś sam nie z Jakubowic,
+!![hejże ho, hejże ho]?
+!!@VERSE:
+!!10. Boć ona nie jest tak płocha,
+!![hejże ho, hejże ho],
+!!słyszałem, że pana kocha,
+!![hejże ho, hejże ho].
+!!@VERSE:
+!!11. Nieszczęśliwa moja głowa,
+!![hejże ho, hejże ho],
+!!wszakże to kochanka moja,
+!![hejże ho, hejże ho].
+!!@VERSE:
+!!12. I czegoż się panu smucić,
+!![hejże ho, hejże ho],
+!!kiedy taka, to ją rzucić,
+!![hejże ho, hejże ho].
+!!@VERSE:
+!!13. Ach, ja rzucić ją nie mogę,
+!![hejże ho, hejże ho],
+!!jest to życie moje drogie,
+!![hejże ho, hejże ho].
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!role-listener: Interlocutor
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=625 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 538} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 538}
 !!!page: 538
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-30

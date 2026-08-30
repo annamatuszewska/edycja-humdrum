@@ -3,71 +3,81 @@
 !!!source: DWOK41
 !!!id: 411190
 !!!signature: 41119000001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M4/4
-=1
-{4d
-8dd
-8dd
-4b
-4g
-=2
-8ee
-8ee
-8ee
-8ee
-4cc
-4a
-=3
-4f#
-8a
-8f#
-4.d
-8d
-=4
-8dd
-8dd
-8dd
-8dd
-4b
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M4/4	*
+=1	=1
+{4d	Nim
+8dd	słoń-
+8dd	-ce
+4b	wzni-
+4g	-sło,
+=2	=2
+8ee	nim
+8ee	wsta-
+8ee	-ły
+8ee	zwie-
+4cc	-rzę-
+4a	-ta,
+=3	=3
+4f#	wten-
+8a	-czas
+8f#	i-
+4.d	-gra-
+8d	-li
+=4	=4
+8dd	z_chłop-
+8dd	-ca-
+8dd	-mi
+8dd	dziew-
+4b	-czę-
+4g}	-ta.
 !!LO:LB:g=esac
-=5
-{8dd
-8cc
-8a
-8f#
-4.g
-8b
-=6
-8a
-8cc
-8a
-8f#
-8g
-8b
-4b
-=7
-8a
-8a
-8cc
-8ee
-4.dd
-8b
-=8
-8dd
-8cc
-8a
-8f#
-4g
-4g}
-==
-*-
+=5	=5
+{8ddL	I-
+8ccJ	.
+8a	-gra-
+8f#	-łem
+4.g	i
+8b	ja
+=6	=6
+8a\	ze
+8cc	swo-
+8a	-ją
+8f#	Ma-
+8gL	-ry-
+8b/J	.
+4b	-ną,
+=7	=7
+8a	kie-
+8a	-dym
+8cc	ja
+8ee	był
+4.dd	chło-
+8b	-pcem,
+=8	=8
+8dd	a
+8cc	o-
+8a	-na
+8f#	dziew-
+4g	-czy-
+4g}	-ną.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Nim słońce wznisło, nim wstały zwierzęta,
+!!wtenczas igrali z chłopcami dziewczęta.
+!!Igrałem i ja ze swoją Maryną,
+!!kiedym ja był chłopcem, a ona dziewczyną.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=607 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 520} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 520}
 !!!page: 520
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-28

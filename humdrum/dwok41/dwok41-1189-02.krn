@@ -3,89 +3,101 @@
 !!!source: DWOK41
 !!!id: 411189
 !!!signature: 41118900002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{4d
-4g
-4b
-=2
-2dd
-4b
-=3
-8dd
-8cc
-8a
-8f#
-8a
-8b
-=4
-2.g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{4d	A
+4g	kie-
+4b	-dy
+=2	=2
+2dd	ra-
+4b	-no
+=3	=3
+8dd	sło-
+8cc	-nius-
+8aL	-cko
+8f#J	.
+8aL	świ-
+8b/J	.
+=4	=4
+2.g}	-ci,
 !!LO:LB:g=esac
-=5
-{4d
-4g
-4b
-=6
-2dd
-4b
-=7
-8dd
-8cc
-8a
-8f#
-8a
-8b
-=8
-2.g}
+=5	=5
+{4d	dzień
+4g	przy
+4b	ro-
+=6	=6
+2dd	-bo-
+4b	-cie
+=7	=7
+8dd	prę-
+8cc	-dko
+8aL	u-
+8f#J	.
+8aL	-le-
+8b/J	.
+=8	=8
+2.g}	-ci
 !!LO:LB:g=esac
-=9
-{8a
-8a
-4cc
-4d
-=10
-8g
-8g
-8b
-8a
-4g
-=11
-8a
-8a
-4cc
-4cc
-=12
-8b
-8dd
-8dd
-8b
-4g}
+=9	=9
+{8a	i
+8a	go-
+4cc	-dzi-
+4d	-na
+=10	=10
+8g	za
+8g	go-
+8b/L	-dzi-
+8a/J	.
+4g	-ną
+=11	=11
+8a	z_mo-
+8a	-ją
+4cc	dziew-
+4cc	-cy-
+=12	=12
+8b	-ną,
+8dd	je-
+8ddL	-dy-
+8bJ	.
+4g}	-ną,
 !!LO:LB:g=esac
-=13
-{8a
-8a
-4cc
-4d
-=14
-8g
-8g
-4ee
-4dd
-=15
-8dd
-8d
-4e
-4f#
-=16
-2.g}
-==
-*-
+=13	=13
+{8a	z_mo-
+8a	-ją
+4cc	Ma-
+4d	-ry-
+=14	=14
+8g	-[sią],
+8g	ma-
+4ee	-tu-
+4dd	-lu,
+=15	=15
+8dd	z_mo-
+8d	-ją
+4e	je-
+4f#	-dy-
+=16	=16
+2.g}	-[ną].
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A kiedy rano słoniuscko świci,
+!!dzień przy robocie prędko uleci
+!!i godzina za godziną
+!!z moją dziewcyną, jedyną,
+!!z moją Mary[sią], matulu,
+!!z moją jedy[ną].
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=606 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 519} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 519}
 !!!page: 519
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-28

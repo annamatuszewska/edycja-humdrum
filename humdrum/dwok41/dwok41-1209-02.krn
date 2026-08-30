@@ -3,79 +3,109 @@
 !!!source: DWOK41
 !!!id: 411209
 !!!signature: 41120900002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M4/4
-=1
-{8dd
-8cc
-8b
-8cc
-8ee
-8dd
-4dd
-=2
-8ee
-8ee
-8dd
-8f#
-4g
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M4/4	*
+=1	=1
+{8ddL	Lo-
+8ccJ	.
+8b	-sie
+8cc	fa-
+8ee/L	-tal-
+8dd/J	.
+4dd	-ny,
+=2	=2
+8ee	for-
+8ee	-tu-
+8dd	-no
+8f#	zaw-
+4g	-zię-
+4g}	-ta,
 !!LO:LB:g=esac
-=3
-{16dd
-16ee
-16dd
-16cc
-8b
-8cc
-8ee
-8dd
-4dd
-=4
-8cc
-8ee
-8dd
-8f#
-4g
-4g}
+=3	=3
+{16dd/L	cze-
+16ee/	.
+16dd/	.
+16cc/J	.
+8b	-go
+8cc	mnie
+8ee/L	plą-
+8dd/J	.
+4dd	-czesz
+=4	=4
+8cc	w_tak
+8ee	o-
+8dd	-kru-
+8f#	-tne
+4g	pę-
+4g}	-ta?
 !!LO:LB:g=esac
-=5
-{4a
-8a
-8cc
-8cc
-8b
-4dd
-=6
-8.gg
-16dd
-8cc
-8b
-8b
-8a
-8e}
-8r
+=5	=5
+{4a	Już
+8a	pod
+8cc	cię-
+8cc/L	-ża-
+8b/J	.
+4dd	-rem
+=6	=6
+8.gg	cho-
+16dd	-dzę
+8cc	téj
+8b	nie-
+8b/L	-do-
+8aJ	.
+8e}	-li,
+8r	.
 !!LO:LB:g=esac
-=7
-{4b
-8.cc
-16cc
-4.dd
-8gg
-=8
-8ee
-8ee
-8dd
-8f#
-4g
-4g}
-==
-*-
+=7	=7
+{4b	nic
+8.cc	nie
+16cc	po-
+4.dd	-mo-
+8gg	-gę
+=8	=8
+8ee	téj
+8ee	niesz-
+8dd	-czę-
+8f#	-snej
+4g	do-
+4g}	-li.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Losie fatalny, fortuno zawzięta,
+!!czego mnie plączesz w tak okrutne pęta?
+!!Już pod ciężarem chodzę téj niedoli,
+!!nic nie pomogę téj nieszczęsnej doli.
+!!@VERSE:
+!!2. Kiedy ja miała śrybło i złoto,
+!!szli przyjaciele do mnie z ochotą,
+!!jak tylko doszli nieszczęśliwe lata,
+!!ni ja przyjaciela, ni siostry, ni brata.
+!!@VERSE:
+!!3. Ni ma, kto by mnie poratował w nędzy,
+!!odwraca oczy, ucieka czém prędzéj.
+!!Chyba ty, Boże, jesteś moim panem,
+!!czy się zmiłujesz nad mym biédnym stanem.
+!!@VERSE:
+!!4. Matko, któraś mnie w żywocie nosiła,
+!!możeś się Bogu na to zasłużyła,
+!!czyli ja sama przez moje płochości
+!!Bogum zasłużyła te nieszczęśliwości.
+!!@VERSE:
+!!5. Chyba ty, Boże, mocno rozgniéwany,
+!!co jesteś panem nad najwyższe pany,
+!!spuść na mnie oczy, litościwy Panie,
+!!niechże się nie męczę w tym mizernym stanie.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=620 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 533} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 533}
 !!!page: 533
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-29

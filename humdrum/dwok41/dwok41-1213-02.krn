@@ -3,54 +3,81 @@
 !!!source: DWOK41
 !!!id: 411213
 !!!signature: 41121300002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8b
-8dd
-8dd
-=2
-16dd
-16gg
-8dd
-8b
-=3
-16a
-16a
-8a
-8a
-=4
-16b
-16dd
-8b
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8b	Ej,
+8dd	wi-
+8dd	-wat
+=2	=2
+16dd	w_na-
+16gg	-szem
+8dd/L	ko-
+8b/J	-le,
+=3	=3
+16a	niech
+16a	gos-
+8a	-po-
+8a	-darz
+=4	=4
+16b	sto
+16dd	lat
+8b	ży-
+8g}	-je,
 !!LO:LB:g=esac
-=5
-{16a
-16a
-8a
-8a
-=6
-16g
-16a
-8b
-8b
-=7
-8cc
-8cc
-8cc
-=8
-16b
-16dd
-8b
-8b}
-==
-*-
+=5	=5
+{16a\L	do-
+16a\J	.
+8a	-po-
+8a	-ki
+=6	=6
+16g	ko-
+16a	-mar
+8b	z_mu-
+8b	-chą
+=7	=7
+8cc/L	mo-
+8cc/	.
+8cc/J	-rza
+=8	=8
+16b	nie
+16dd	wy-
+8b	-pi-
+8b}	-je.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Ej, wiwat w naszem kole,
+!!niech gospodarz sto lat żyje,
+!!dopoki komar z muchą
+!!morza nie wypije.
+!!@VERSE:
+!!2. Niech komar i z tą muchą
+!!wode sobie ciuchą1,
+!!a gospodarz z kompaniją
+!!starą małmazyją.
+!!@VERSE:
+!!3. A pijże, ty komorze,
+!!z tą muchą powoli,
+!!niech gospodarz z gospodynią
+!!nażyje się dowoli.
+!!@VERSE:
+!!4. Kto pije i wypije,
+!!to mu naléwajcie,
+!!kto pije, nie dopija,
+!!to mu nie dawajcie.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: (1) po kropelce piją
+!!@@END:
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=624 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 537} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 537}
 !!!page: 537
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-30

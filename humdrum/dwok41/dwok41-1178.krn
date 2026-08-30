@@ -3,66 +3,106 @@
 !!!source: DWOK41
 !!!id: 411178
 !!!signature: 41117800000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8dd
-8b
-8g
-8b
-=2
-4.dd
-8dd
-=3
-8dd
-8b
-8g
-8b
-=4
-4dd
-4gg}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8dd	Pro-
+8b	-si-
+8g	-ła
+8b	Ka-
+=2	=2
+4.dd	-sin-
+8dd	-ka
+=3	=3
+8dd	raz
+8b	o
+8g	je-
+8b	-dne
+=4	=4
+4dd	ła-
+4gg}	-skę,
 !!LO:LB:g=esac
-=5
-{8ee
-4cc
-8cc
-=6
-8b
-4b
-8g
-=7
-8a
-8cc
-8f#
-8a
-=8
-4g
-8gg
-8ee}
+=5	=5
+{8ee	a-
+4cc	-by
+8cc	ij
+=6	=6
+8b	zgo-
+4b	-to-
+8g	-wać
+=7	=7
+8a	z_bars-
+8cc	-cy-
+8f#	-kiem
+8a	kieł-
+=8	=8
+4g	-ba-
+8ggL	-skę,
+8ee}J	.
 !!LO:LB:g=esac
-=9
-{8ee
-4cc
-8cc
-=10
-8b
-4b
-8g
-=11
-8a
-8cc
-8f#
-8a
-=12
-4g
-4g}
-==
-*-
+=9	=9
+{8ee	a-
+4cc	-by
+8cc	ij
+=10	=10
+8b	zgo-
+4b	-to-
+8g	-wać
+=11	=11
+8a	z_bars-
+8cc	-cy-
+8f#	-kiem
+8a	kieł-
+=12	=12
+4g	-ba-
+4g}	-skę.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Prosiła Kasinka
+!!raz o jedne łaskę,
+!!|:aby ij zgotować
+!!z barscykiem kiełbaskę:|.
+!!@VERSE:
+!!2. A moj Jasienku,
+!!coz to za łaska,
+!!|: barscyku zgotował,
+!!a gdzie ta kiełbaska :|.
+!!@VERSE:
+!!3. A moja Kasinku,
+!!a co to za łaska,
+!!|: u ciebie kuchenka,
+!!a u mnie kiełbaska :|.
+!!@VERSE:
+!!4. Boje się, Kasinku,
+!!byś nie chorowała,
+!!|: bo się ta kiełbaska
+!!nie ugotowała :|.
+!!@VERSE:
+!!5. A skoro Jasienko
+!!barscyku zgotował,
+!!|: wyjon se kiełbaskę,
+!!do kieseni schował :|.
+!!@VERSE:
+!!6. Dajze mi ją w rękę,
+!!niechaj się zabawię,
+!!|: jezeli surowa,
+!!jesce ją raz wstawie :|.
+!!@VERSE:
+!!7. Boje się, Kasienku,
+!!zeby nie chorować,
+!!bo te kiełbaskę,
+!!mozna raz po raz
+!!sześć razy gotować.
+!!@@END: VERSES
+!!!role-singer: Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=596 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 509} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 509}
 !!!page: 509
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-27

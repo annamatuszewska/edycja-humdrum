@@ -3,77 +3,103 @@
 !!!source: DWOK41
 !!!id: 411202
 !!!signature: 41120200002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{4.dd
-8ee
-8dd
-8cc
-=2
-8dd
-8g
-4b
-4dd
-=3
-8ee
-8ee
-4gg
-4ee
-=4
-8dd
-8g
-4b
-4dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{4.dd	Hej-
+8ee	-że,
+8dd	ko-
+8cc	-cha-
+=2	=2
+8dd	-ne
+8g	chłop-
+4b	-czy-
+4dd	-ska,
+=3	=3
+8ee/L	za-
+8ee/J	-po-
+4gg	-mnij-
+4ee	-my
+=4	=4
+8dd	dziś
+8g	o
+4b	bi-
+4dd}	-dzie,
 !!LO:LB:g=esac
-=5
-{8cc
-8cc
-4a
-4a
-=6
-8b
-8g
-4b
-4dd
-=7
-8a
-8a
-4f#
-4d
-=8
-8g
-8g
-4b
-4g}
+=5	=5
+{8cc	daj-
+8cc	-cie
+4a	o-
+4a	-gni-
+=6	=6
+8b	-ska
+8g	z_pod-
+4b	-kó-
+4dd	-wek,
+=7	=7
+8a	Zo-
+8a	-sia
+4f#	mo-
+4d	-ja
+=8	=8
+8g	za
+8g	mąż
+4b	i-
+4g}	-dzie.
 !!LO:LB:g=esac
-=9
-{8cc
-8cc
-4a
-4a
-=10
-8b
-8g
-4b
-4dd
-=11
-8a
-8a
-4f#
-4d
-=12
-8g
-8g
-4b
-4g}
-==
-*-
+=9	=9
+{8cc	daj-
+8cc	-cie
+4a	o-
+4a	-gni-
+=10	=10
+8b	-ska
+8g	z_pod-
+4b	-kó-
+4dd	-wek,
+=11	=11
+8a	Zo-
+8a	-sia
+4f#	mo-
+4d	-ja
+=12	=12
+8g	za
+8g	mąż
+4b	i-
+4g}	-dzie.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Hejże, kochane chłopczyska,
+!!zapomnijmy dziś o bidzie,
+!!|: dajcie ogniska z podkówek,
+!!Zosia moja za mąż idzie :|.
+!!@VERSE:
+!!2. Dziewczyno, kochajże jego,
+!!pilnuj obory i sprzęty,
+!!|: zła żona najbogatszego
+!!przywiedzie męża do nędzy :|.
+!!@VERSE:
+!!3. Muszę ją oddać Stachowi,
+!!długo mnie prosił i scyrze,
+!!|: niechże im szczęscie stanowi,
+!!niechże sobie ją i bierze :|.
+!!@VERSE:
+!!4. A i ty też, panie młody,
+!!bądźze grzeczny dla żoneczki,
+!!|: bo ni ma w małżeństwie zgody,
+!!skoro przyjdzie raz do sprzeczki :|.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!role-listener: Group
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=615 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 528} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 528}
 !!!page: 528
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-29

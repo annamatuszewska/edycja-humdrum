@@ -3,106 +3,127 @@
 !!!source: DWOK41
 !!!id: 411191
 !!!signature: 41119100000
-**kern
-*clefG2
-*k[]
-*a:
-*M2/4
-=1
-{16a
-16b
-16cc
-16dd
-8ee
-8cc
-=2
-16b
-16a
-16dd
-16cc
-16b
-16g#
-8a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M2/4	*
+=1	=1
+{16a\L	Ty
+16b	.
+16ccJ	.
+16dd	dziew-
+8ee	-czy-
+8cc	-no,
+=2	=2
+16bL	cna
+16a\	.
+16ddJ	.
+16cc	ru-
+16b/L	-mian-
+16g#J	.
+8a}	-ko,
 !!LO:LB:g=esac
-=3
-{16a
-16b
-16cc
-16dd
-8ee
-8cc
-=4
-16b
-16a
-16dd
-16cc
-8.b
-16a}
+=3	=3
+{16a\L	w_ży-
+16b	.
+16ccJ	.
+16dd	-ciu
+8ee	naj-
+8cc	-mil-
+=4	=4
+16b	-sza
+16a	ko-
+16ddL	-chan-
+16ccJ	.
+8.b/L	-ko,
+16a}J	.
 !!LO:LB:g=esac
-=5
-{8.g#
-16e
-16cc
-16b
-8a
-=6
-8a
-16cc
-16b
-16dd
-16cc
-16b
-16a}
+=5	=5
+{8.g#	u-
+16e	-lécz
+16ccL	w_ser-
+16bJ	.
+8a	-cu
+=6	=6
+8a	ra-
+16ccL	-ny
+16bJ	.
+16ddL	mo-
+16cc	.
+16bJ	.
+16a}	-je
 !!LO:LB:g=esac
-=7
-{8.g#
-16e
-16cc
-16b
-16a
-16g
-=8
-16a
-16b
-16cc
-16b
-8a
-8a}
+=7	=7
+{8.g#	przez
+16e	naj-
+16ccL	-mil-
+16bJ	.
+16aL	-sze
+16g#J	.
+=8	=8
+16aL	wdzię-
+16b/J	.
+16ccL	-ki
+16bJ	.
+8a	two-
+8a}	-je.
 !!LO:LB:g=esac
-=9
-{8.g#
-16e
-16cc
-16b
-16a
-16g
-=10
-8a
-16cc
-16b
-16dd
-16cc
-16b
-16a}
+=9	=9
+{8.g#	u-
+16e	-lécz
+16ccL	w_ser-
+16bJ	.
+16a\L	-cu
+16g#\J	.
+=10	=10
+8a	ra-
+16ccL	-ny
+16bJ	.
+16ddL	mo-
+16cc	.
+16bJ	.
+16a}	-je
 !!LO:LB:g=esac
-=11
-{8.g#
-16e
-16cc
-16b
-16a
-16g
-=12
-16a
-16b
-16cc
-16b
-8a
-8a}
-==
-*-
+=11	=11
+{8.g#	przez
+16e	naj-
+16ccL	-mil-
+16bJ	.
+16aL	-sze
+16g#J	.
+=12	=12
+16aL	wdzię-
+16b/J	.
+16ccL	-ki
+16bJ	.
+8a	two-
+8a}	-je.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Ty dziewczyno, cna rumianko,
+!!w życiu najmilsza kochanko,
+!!|:ulécz w sercu rany moje
+!!przez najmilsze wdzięki twoje:|.
+!!@VERSE:
+!!2. Jeśli kochasz, kochaj dużo,
+!!a nie kochasz, nie żartujże,
+!!|: nie zadawaj sercu rany,
+!!nie będziesz ty mój kochany :|.
+!!@VERSE:
+!!3. Jeśli kochasz, kochaj ważnie,
+!!a nie kochasz, przestań, błaźnie,
+!!|: nie zadawaj sercu trudy,
+!!nie będziesz ty, będzie drugi :|.
+!!@@END: VERSES
+!!!role-singer: Lover, Mistress
+!!!role-listener: Mistress, Lover
+!!!singer-sex: Male, Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=607 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 520} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 520}
 !!!page: 520
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-28

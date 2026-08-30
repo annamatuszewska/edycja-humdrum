@@ -3,57 +3,72 @@
 !!!source: DWOK41
 !!!id: 411171
 !!!signature: 41117100002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16g
-8g
-8b
-=2
-16dd
-16dd
-8b
-8g
-=3
-16dd
-16dd
-8b
-8g
-=4
-16ee
-16ee
-8ee
-8cc
-=5
-4dd
-8b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Oj,
+16g	wi-
+8g	-dzi-
+8b	-cie
+=2	=2
+16dd	na
+16dd	go-
+8b	-rec-
+8g	-ce,
+=3	=3
+16dd	na
+16dd	go-
+8b	-rec-
+8g	-ce,
+=4	=4
+16ee	jak
+16ee/	tam
+8ee	wilk
+8cc	tań-
+=5	=5
+4dd	-cu-
+8b}	-je,
 !!LO:LB:g=esac
-=6
-{16b
-16cc
-8.ee
-16cc
-=7
-16b
-16b
-8.dd
-16b
-=8
-16a
-16b
-8cc
-8f#
-=9
-4g
-8g}
-==
-*-
+=6	=6
+{16b	a
+16cc	pew-
+8.ee	-no
+16cc	on
+=7	=7
+16b	żon-
+16b	-ki
+8.dd	ni
+16b	ma,
+=8	=8
+16a	bo
+16b	sie
+8cc	nie
+8f#	fra-
+=9	=9
+4g	-su-
+8g}	-je.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj, widzicie |:na gorecce:|,
+!!jak tam wilk tańcuje,
+!!a pewno on żonki ni ma,
+!!bo sie nie frasuje.
+!!@VERSE:
+!!2. Wilcysko się |: ozeniło :|,
+!!ogon opuściło,
+!!au, au, au, au,
+!!lepi przedtem było.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!role-listener: Group
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=593 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 506} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 506}
 !!!page: 506
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-23

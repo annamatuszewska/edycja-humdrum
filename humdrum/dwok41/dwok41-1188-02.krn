@@ -3,56 +3,96 @@
 !!!source: DWOK41
 !!!id: 411188
 !!!signature: 41118800002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M4/4
-=1
-{8dd
-8ee
-8dd
-8cc
-8cc
-8b
-4b
-=2
-8gg
-8dd
-16dd
-16ee
-16dd
-16cc
-8b
-8a
-4a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M4/4	*
+=1	=1
+{8ddL	Bia-
+8eeJ	.
+8dd	-łe
+8cc	goź-
+8ccML	-dzi-
+8bJ	.
+4b	-ki,
+=2	=2
+8gg	żół-
+8dd	-te
+16ddL	tu-
+16eeJ	.
+16ddL	-li-
+16ccJ	.
+8bm/L	-pa-
+8aJ	.
+4a}	-ny,
 !!LO:LB:g=esac
-=3
-{8b
-8b
-8cc
-8b
-8cc
-16dd
-32ee
-32ff#
-4gg
-=4
-8ee
-16ee
-16dd
-16dd
-16f#
-16f#
-16a
-8a
-8g
-8g}
-8r
-==
-*-
+=3	=3
+{8b/L	gdzie
+8b/J	.
+8ccL	się
+8bJ	.
+8cc	o-
+16dLd	-bra-
+32ee	.
+32ffJ#	.
+4gg	-casz,
+=4	=4
+8ee	mój
+16ee/L	Jó-
+16dd/J	.
+16dd/L	-ziu
+16f#J	.
+16f#L	ko-
+16aJ	.
+8aL	-cha-
+8gJ	.
+8g}	-ny?
+8r	_
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Białe goździki, żółte tulipany,
+!!gdzie się obracasz, mój Józiu kochany?
+!!@VERSE:
+!!2. Cyli zeglarze wzięli go za morze,
+!!co moje serce odżalić nie może.
+!!@VERSE:
+!!3. Astrologowie, co gwiazdy liczycie,
+!!cyli wy o mojm kochaniu nie wiecie?
+!!@VERSE:
+!!4. Widzieliśmy go w cieniu cyprysowym,
+!!cesał główeckę grzebieniem perłowym.
+!!@VERSE:
+!!5. Widzieliśmy go w smutku i niemocy,
+!!ucirał chustecką zapłakane ocy.
+!!@VERSE:
+!!6. Ja chodząc po sadzie, desperując sobie,
+!!oj, wszystkoć to, wszystko, Józiuniu, o tobie.
+!!@VERSE:
+!!7. Ja twoje imie na drzewie rysuje,
+!!na kożdą minutkę kanarkiem1 cukruje.
+!!@VERSE:
+!!8. Oj, przyjedź, przyjedź, pocieszenie moje,
+!!bo jak nie przyjedziesz, smętne serce moje.
+!!@VERSE:
+!!9. Jeżeli ón mnie afektem uwodzi,
+!!to nie tylko ón mnie, ale sobie szkodzi.
+!!@VERSE:
+!!10. Sinogarlica, gdy pary pozbędzie,
+!!już ta na wysokim drzewie nie usiędzie.
+!!@VERSE:
+!!11. Tylko się tuła po niski krzewinie,
+!!ach, cóz tam za prefit, kto kochanie minie.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: (1) [kanar - gatunek wyborowy cukru trzcinowego]
+!!@@END:
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=605 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 518} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 518}
 !!!page: 518
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-28

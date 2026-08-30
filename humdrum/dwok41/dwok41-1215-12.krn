@@ -3,55 +3,65 @@
 !!!source: DWOK41
 !!!id: 411215
 !!!signature: 41121500012
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8b
-8dd
-8dd
-16cc
-16b
-=2
-8a
-8cc
-8cc
-8cc
-=3
-8b
-8dd
-8dd
-16cc
-16b
-=4
-8a
-4.cc}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8b/	Za
+8dd^<	Kra-
+8dd	.
+16ccL	-ku-
+16bJ	-sa
+=2	=2
+8a	lu-
+8cc	-dzie
+8cc	ży-
+8cc	-li,
+=3	=3
+8b/	choć
+8dd^<	nie
+8dd	.
+16ccL	zna-
+16bJ	-li
+=4	=4
+8a	zło-
+4.cc}	-ta,
 !!LO:LB:g=esac
-=5
-{8b
-8dd
-8dd
-16cc
-16b
-=6
-8a
-8cc
-8cc
-8cc
-=7
-8b
-8dd
-8f#
-8a
-=8
-8g
-4.g}
-==
-*-
+=5	=5
+{8b	a-
+8dd	-le
+8dd	ucz-
+16ccL	-ciw-
+16bJ	.
+=6	=6
+8a	-sze-
+8cc	-mi
+8cc	by-
+8cc	-li,
+=7	=7
+8b	bo
+8dd	błysz-
+8f#	-cza-
+8a	-ła
+=8	=8
+8g	cno-
+4.g}	-ta.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Za Krakusa ludzie żyli,
+!!choć nie znali złota,
+!!ale uczciwszemi byli,
+!!bo błyszczała cnota.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!RDF**kern: <= above
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=626 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 539} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 539}
 !!!page: 539
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-30

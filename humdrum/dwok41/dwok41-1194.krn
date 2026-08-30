@@ -3,66 +3,112 @@
 !!!source: DWOK41
 !!!id: 411194
 !!!signature: 41119400000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8b
-8dd
-8cc#
-8dd
-8ee
-8dd
-=2
-8b
-8dd
-8cc#
-8dd
-8ee
-8dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8b	Niech-
+8dd	-że
+8cc#	bę-
+8dd	-dzie
+8ee	[Je-
+8dd	-zus]
+=2	=2
+8b	Ch[ry-
+8dd	-stus]
+8cc#	po-
+8dd	-chwa-
+8ee	-lo-
+8dd}	-ny,
 !!LO:LB:g=esac
-=3
-{8a
-8cc
-8b
-8cc
-8dd
-8cc
-=4
-8a
-8cc
-8b
-8cc
-8dd
-8cc}
+=3	=3
+{8a	z_ser-
+8cc	-cem
+8b	go-
+8cc	-re-
+8dd	-ją-
+8cc	-cym
+=4	=4
+8a	przy-
+8cc	-by-
+8b	-wam
+8cc	w_te
+8dd	stro-
+8cc}	-ny,
 !!LO:LB:g=esac
-=5
-{4b
-8a
-8g
-8f#
-8e
-=6
-8e
-8cc
-2cc}
+=5	=5
+{4b	jak
+8a	do-
+8g	-ku-
+8f#	-czli-
+8e	-we
+=6	=6
+8e	in-
+8cc	-se-
+2cc}	-kta
 !!LO:LB:g=esac
-=7
-{4f#
-8ee
-8dd
-8cc
-8a
-=8
-8g
-8ee
-2dd}
-==
-*-
+=7	=7
+{4f#	ser-
+8ee	-ce
+8dd	o-
+8cc	-pa-
+8a	-dli
+=8	=8
+8g	a-
+8ee	-fe-
+2dd}	-kta.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Niechże będzie [Jezus] Ch[rystus] pochwalony,
+!!z sercem gorejącym przybywam w te strony,
+!!jak dokuczliwe insekta serce
+!!opadli afekta.
+!!@VERSE:
+!!2. Raczże mi powiedzić, aścka miłosciwa,
+!!czy tu nie na prożno konkurent przybywa,
+!!żeby raz przecie nareście
+!!pozostać wiernym niewieście.
+!!@VERSE:
+!!3. Czym nie darmo strudził skorogniade konie,
+!!czy nie darmo bije serce w moim łonie,
+!!ażeby sroga rekuza
+!!nie dała sercu arbuza.
+!!@VERSE:
+!!4. Jeśli waść żałujesz skorogniadych koni,
+!!afekt mój serdeczny k'niemu się nie skłoni,
+!!niech stoją konie w stajence,
+!!ja waści k'sobie nie nęcę.
+!!@VERSE:
+!!5. A niechże będzie J[ezus] Ch[rystus] pochwalony,
+!!z wielką konfuzyją opuszczam te strony,
+!!lecz się do Wisły nie wrzucę,
+!!do innej afekt obrocę.
+!!@VERSE:
+!!6. Mosci dobrodzieju, po cóś taki chybki,
+!!na co tobie szukać w innym stawie rybki,
+!!gdy rybka w wędkę złapana,
+!!czeka przysięgi wacpana.
+!!@VERSE:
+!!7. Niechże sobie stoją konie skorogniade,
+!!sama własną ręką siana im nakładę,
+!!jedna im męka zagraza,
+!!zaciągnąć nas do ołtarza.
+!!@VERSE:
+!!8. Mościa dobrodziejko, najsłodsza jagodko,
+!!męczyłaś mnie srodze, lecz męczyłaś krótko,
+!!wiec się do stópek twych scielę,
+!!za tydzień nasze wesele.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!role-listener: Mistress
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=609 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 522} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 522}
 !!!page: 522
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-29

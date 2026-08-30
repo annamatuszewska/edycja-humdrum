@@ -3,52 +3,83 @@
 !!!source: DWOK41
 !!!id: 411200
 !!!signature: 41120000000
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/8
-=1
-{16a
-16cc#
-8.ee
-16dd#
-=2
-16b
-16dd#
-8.ee
-16cc#
-=3
-16ee
-16dd#
-4b
-=4
-16cc#
-16ee
-4a}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M3/8	*
+=1	=1
+{16a	Gdy
+16cc#	się
+8.ee	że-
+16dd#	-nisz,
+=2	=2
+16b	przy-
+16dd#	-ja-
+8.ee	-cie-
+16cc#	-lu,
+=3	=3
+16ee	to
+16dd#	się
+4b	żeń,
+=4	=4
+16cc#	to
+16ee	się
+4a}	żeń,
 !!LO:LB:g=esac
-=5
-{16cc#
-16cc#
-8b
-8g#
-=6
-16a
-16a
-8.ff#
-16cc#
-=7
-16ee
-16dd#
-4b
-=8
-16b
-16cc#
-4a}
-==
-*-
+=5	=5
+{16cc#	ja
+16cc#	ci
+8b	po-
+8g#	-wiem
+=6	=6
+16a	po
+16a	we-
+8.ff#	-se-
+16cc#	-lu:
+=7	=7
+16ee	do-
+16dd#	-bry
+4b	dzień,
+=8	=8
+16b	do-
+16cc#	-bry
+4a}	dzień.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Gdy się żenisz, przyjacielu,
+!!to się żeń, to się żeń,
+!!ja ci powiem po weselu:
+!!dobry dzień, dobry dzień.
+!!@VERSE:
+!!2. A gdy zgościsz dobrej żony,
+!!to ją ceń, to ją ceń,
+!!a za taką piękną mowę:
+!!dobry dzień, dobry dzień!
+!!@VERSE:
+!!3. Gdy dostaniesz i w złej żony
+!!padniesz moc, padniesz moc,
+!!a za taką brzydką mowę:
+!!dobranoc, dobranoc!
+!!@VERSE:
+!!4. Będę ciebie, żonę, bawić,
+!!hopa hop, hoca hoc,
+!!odprowadzę was do łoża:
+!!dobranoc, dobranoc!
+!!@VERSE:
+!!5. Pięci, pięci, łyk szampanem,
+!!pięci w pień, pięci w pień,
+!!ja(k) ci łyknę na sniadanie:
+!!dobry dzień dobry dzień!
+!!@@END: VERSES
+!!!role-singer: Friend
+!!!role-listener: Friend
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=614 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 527} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 527}
 !!!page: 527
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-29

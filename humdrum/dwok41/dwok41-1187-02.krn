@@ -3,110 +3,150 @@
 !!!source: DWOK41
 !!!id: 411187
 !!!signature: 41118700002
-**kern
-*clefG2
-*k[]
-*a:
-*M4/4
-=1
-{4a
-8cc
-8ee
-4.ee
-8dd
-=2
-8cc
-8b
-16dd
-16cc
-16b
-16a
-8a
-8g#
-4g#}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M4/4	*
+=1	=1
+{4a	Bia-
+8cc	-łe
+8ee	goź-
+4.ee	-dzi-
+8dd	-ki,
+=2	=2
+8cc	żół-
+8b	-te
+16ddL	tu-
+16ccJ	.
+16b/L	-li-
+16aJ	.
+8aL	-pa-
+8g#J	.
+4g#}	-ny,
 !!LO:LB:g=esac
-=3
-{4cc
-8ee
-8gg
-4.gg
-8ee
-=4
-8dd
-8dd
-8gg
-8ff
-8ee
-8dd
-8cc
-8b}
+=3	=3
+{4cc/	gdzie
+8ee/L	się
+8gg/J	o-
+4.gg	-bra-
+8ee	-ca
+=4	=4
+8dd	mój
+8dd	mi-
+8gg	-ły,
+8ff	ko-
+8eeL	-cha-
+8ddJ	.
+8ccL	-ny,
+8b}J	.
 !!LO:LB:g=esac
-=5
-{4ee
-8gg
-8ee
-4.ee
-8dd
-=6
-4ee
-8gg
-8ee
-4.ee
-8dd}
+=5	=5
+{4ee	gdzie
+8gg	się
+8ee	o-
+4.ee	-bra-
+8dd	-ca,
+=6	=6
+4ee	gdzie
+8gg	się
+8ee	o-
+4.ee	-bra-
+8dd}	-ca,
 !!LO:LB:g=esac
-=7
-{8ff
-8ee
-8dd
-8dd
-8ee
-8cc
-8cc
-8b
-=8
-8.a
-16a
-8ee
-8g#
-4b
-8a}
-8r
+=7	=7
+{8ffL	gdzie
+8eeJ	.
+8dd	się
+8dd	o-
+8eeL	-bra-
+8ccJ	.
+8ccL	-ca,
+8bJ	.
+=8	=8
+8.a	mój
+16a	mi-
+8ee	-ły,
+8g#	ko-
+4b	-cha-
+8a}	-ny
+8r	.
 !!LO:LB:g=esac
-=9
-{4a
-8cc
-8ee
-4.ee
-8dd
-=10
-4ee
-8gg
-8ee
-4.ee
-8dd}
+=9	=9
+{4a	gdzie
+8cc	się
+8ee	o-
+4.ee	-bra-
+8dd	-ca,
+=10	=10
+4ee	gdzie
+8gg	się
+8ee	o-
+4.ee	-bra-
+8dd}	-ca,
 !!LO:LB:g=esac
-=11
-{8ff
-8ee
-8dd
-8dd
-8ee
-8cc
-8cc
-8b
-=12
-16a
-16cc
-8ee
-8ee
-8g#
-4b
-8a}
-8r
-==
-*-
+=11	=11
+{8fLf	gdzie
+8eeJ	.
+8dd	się
+8dd	o-
+8eeL	-bra-
+8ccJ	.
+8ccL	-ca,
+8bJ	.
+=12	=12
+16a\L	mój
+16cc\J	.
+8ee	mi-
+8ee	-ły,
+8g#	ko-
+4b	-cha-
+8a}	-ny?
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Białe goździki, żółte tulipany,
+!!gdzie się obraca mój miły, kochany,
+!!|:gdzie się obraca, gdzie się obraca,
+!!gdzie się obraca, mój miły, kochany:|.
+!!@VERSE:
+!!2. Czy go porwali żeglarze na morze,
+!!co moje serce bez niego nie może,
+!!|: co moje serce, co moje serce,
+!!co moje serce bez niego nie może :|.
+!!@VERSE:
+!!3. Zerwę kwiatuszek, zbiję dzbanek z wodą,
+!!zginął kochanek, cośwa żyli z sobą,
+!!|: zginął kochanek, zginął kochanek,
+!!zginął kochanek, cośwa żyli z sobą :|.
+!!@VERSE:
+!!4. On zginął, zginął, mój kochanek drogi,
+!!już mi niemiłe ogrodowe progi,
+!!|: już mi niemiłe, już mi niemiłe,
+!!już mi niemiłe ogrodowe progi :|.
+!!@VERSE:
+!!5. Od ciemnéj nocy czekam do porania,
+!!zginął mój chłopczyna szczérego kochania,
+!!|: zginął mój chłopczyna, zginął mój chłopczyna,
+!!zginął mój chłopczyna szczérego kochania :|.
+!!@VERSE:
+!!6. A sio, ptaszeczku, już więcyk nie bywaj,
+!!i ty, słowiku, już więcyk nie śpiwaj,
+!!|: i ty, słowiku, i ty, słowiku,
+!!i ty, słowiku, już więcyk nie śpiwaj :|.
+!!@VERSE:
+!!7. Żyli my se, żyli jak gołąbki w parze,
+!!a kto nas rozłączył, to go Pan Bóg skarze,
+!!|: a kto nas rozłączył, a kto nas rozłączył,
+!!a kto nas rozłączył, to go Pan Bóg skarze :|.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=604 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 517} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 517}
 !!!page: 517
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-28

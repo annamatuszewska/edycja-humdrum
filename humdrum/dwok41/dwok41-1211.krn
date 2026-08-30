@@ -3,60 +3,112 @@
 !!!source: DWOK41
 !!!id: 411211
 !!!signature: 41121100000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8g
-8a
-8b
-8cc
-=2
-4dd
-8b
-8g
-=3
-8ee
-8dd
-8b
-8cc
-=4
-4dd
-8b
-8g
-=5
-8ee
-8dd
-8b
-8cc
-=6
-4dd
-8b
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8g	Nie
+8a	by-
+8b	-ło,
+8cc	nie
+=2	=2
+4dd	by-
+8b/L	-ło,
+8gJ	.
+=3	=3
+8ee	jak
+8dd	te-
+8b	-raz
+8cc	na-
+=4	=4
+4dd	-sta-
+8b/L	-je,
+8gJ	.
+=5	=5
+8ee	jak
+8dd	te-
+8b	-raz
+8cc	na-
+=6	=6
+4dd	-sta-
+8b/L	-je,
+8g}J	.
 !!LO:LB:g=esac
-=7
-{8b
-8dd
-8ee
-8b
-=8
-4cc
-8a
-8g
-=9
-8b
-8dd
-8cc
-8g
-=10
-4a
-4g}
-==
-*-
+=7	=7
+{8b	Po-
+8dd	-la-
+8ee	-ki
+8b	swe
+=8	=8
+4cc	żo-
+8aL	-ny
+8gJ	.
+=9	=9
+8b	Mos-
+8dd	-ka-
+8cc	-lom
+8g	sprze-
+=10	=10
+4a	-da-
+4g}	-je.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Nie było, nie było, |:jak teraz nastaje:|,
+!!Polaki swe żony Moskalom sprzedaje.
+!!@VERSE:
+!!2. I pan Cybulski |:swoją żonę sprzedał:|,
+!!z pierwszego pojęcia złe życie z nią miał.
+!!@VERSE:
+!!3. A jak ją sprzedał, |:zrobił z nimi zgodę:|:
+!!Bierzcie ją, panowie, trzymać jej nie mogę.
+!!@VERSE:
+!!4. Pani wyskoczyła, |:piwa utoczyła:|,
+!!sama się napiła, na stół postawiła.
+!!@VERSE:
+!!5. Pan Cybulski mowi: |:Utocz, pani, więcej:|,
+!!a ty, psie Rusinie, dobywaj pieniędzy.
+!!@VERSE:
+!!6. Odrachowali mu |:dwadzieścia tysięcy:|,
+!!pan Cybulski mówi: Rachuj waspan więcej.
+!!@VERSE:
+!!7. Pan Cybulski |:niewiele frasował:|,
+!!wziął pieniądze, zgarnął do kieszeni, schował.
+!!@VERSE:
+!!8. Wziął ją za rączkę, |:prowadzi do ganku:|,
+!!ona go jeszcze woła: Ratuj mnie, kochanku.
+!!@VERSE:
+!!9. Na cożem cię przedał, |:żebym cię ratował:|,
+!!kiedy ja pieniądze do kieszeni schował.
+!!@VERSE:
+!!10. I wyjechali |:w tak dalekie pole:|,
+!!ona się obejrzała na swoje pokoje.
+!!@VERSE:
+!!11. Jak się obejrzała, |:rzewnie zapłakała:|,
+!!jakże się czeladka moja tam została.
+!!@VERSE:
+!!12. Czeladka chodzi |:wkoło tego dwora:|
+!!zawsze zasmęcona, nigdy nie wesoła.
+!!@VERSE:
+!!13. Czego, czego |:tak smętno chodzicie:|,
+!!że swojej jejmosci w dworze nie widzicie.
+!!@VERSE:
+!!14. Tego, tego |:tak smętno chodzimy:|,
+!![że swojej jejmości w dworze nie widzi]my.
+!!@VERSE:
+!!15. Wyjechali |:w tak dalekie lasy:|,
+!!Moskal, skurwysyn, wyskoczył z kolasy.
+!!@VERSE:
+!!16. Wszyscy wyskoczyli, |:wkoło otoczyli:|,
+!!pana Cybulskiego na czernie spalili.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=622 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 535} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 535}
 !!!page: 535
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-29

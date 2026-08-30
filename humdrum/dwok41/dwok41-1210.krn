@@ -3,59 +3,75 @@
 !!!source: DWOK41
 !!!id: 411210
 !!!signature: 41121000000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M4/4
-=1
-{8dd
-8dd
-8dd
-8ee
-8dd
-8b
-8cc
-8dd
-=2
-8ee
-8dd
-2cc
-4b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M4/4	*
+=1	=1
+{8dd	Co
+8dd	to
+8dd	te-
+8ee	-raz
+8dd	za
+8b	la-
+8ccL	-ta
+8ddJ	.
+=2	=2
+8eeL	na
+8ddJ	.
+2cc	sta-
+4b}	-ją,
 !!LO:LB:g=esac
-=3
-{8a
-8g#
-8a
-8b
-8cc
-8b
-8cc
-8ee
-=4
-8dd
-8b
-2g
-4b}
+=3	=3
+{8a	co
+8g#	pa-
+8a	-no-
+8b	-wie
+8cc	swe
+8b	żo-
+8ccL	-ny
+8eeJ	.
+=4	=4
+8ddL	sprze-
+8bJ	.
+2g	-da-
+4b}	-ją,
 !!LO:LB:g=esac
-=5
-{8a
-8a
-8a
-8b
-8cc
-8a
-8cc
-8ee
-=6
-8dd
-8b
-2g
-4b}
-==
-*-
+=5	=5
+{8a	co
+8a	pa-
+8a	-no-
+8b	-wie
+8cc	swe
+8a	żo-
+8ccL	-ny
+8eeJ	.
+=6	=6
+8ddL	sprze-
+8bJ	.
+2g	-da-
+4b}	-ją.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Co to teraz za lata na stają,
+!!|:co panowie swe żony sprzedają:|.
+!!@VERSE:
+!!2. A i pan Cybulski swoją żonę sprzedał,
+!!|:iści pewnie czartu swoją duszę sprzedał:|.
+!!@VERSE:
+!!3. I przyjechało trzech Kozaków w gości,
+!!|:pan Cybulski kazał zawołać jéjmości:|.
+!!@VERSE:
+!!4. Pan Cybulski mówi: bądźże gosciom rada,
+!!|:a Moskal się patrzy, jaka jejmość ładna:|.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=621 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 534} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 534}
 !!!page: 534
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-29

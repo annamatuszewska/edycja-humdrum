@@ -3,72 +3,97 @@
 !!!source: DWOK41
 !!!id: 411192
 !!!signature: 41119200001
-**kern
-*clefG2
-*k[b-]
-*F:
-*M4/4
-=1
-{4cc
-8cc
-8cc
-4cc
-4cc
-=2
-8b-
-8dd
-8ff
-8dd
-4cc
-4cc}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M4/4	*
+=1	=1
+{4cc	W_zie-
+8cc	-lo-
+8cc	-nym
+4cc	gaj-
+4cc	-ku,
+=2	=2
+8b-L	przy
+8ddJ	.
+8ff	mi-
+8dd	-łym
+4cc	chło-
+4cc}	-dzie
 !!LO:LB:g=esac
-=3
-{4b-
-8dd
-8b-
-4a
-8f
-8a
-=4
-8cc
-8b-
-8g
-8e
-4f
-4f}
+=3	=3
+{4b-	rwa-
+8dd	-li
+8b-	ma-
+(4a	-li-
+8f)	.
+8a	-ny
+=4	=4
+8ccL	w_rów-
+8b-J	.
+8g	-nej
+8e	u-
+4f	-ro-
+4f}	-dzie
 !!LO:LB:g=esac
-=5
-{4.g
-8b-
-4a
-4f
-=6
-8ff
-8ee
-8ff
-8dd
-8dd
-8cc
-4cc}
+=5	=5
+{4.g	dwie
+8b-	dzi-
+4a	-we-
+4f	-czki,
+=6	=6
+8ffL	bar-
+8eeJ	.
+8ffL	-dzo
+8ddJ	.
+8ddML	ła-
+8ccJ	.
+4cc}	-dne
 !!LO:LB:g=esac
-=7
-{4b-
-8dd
-8b-
-4a
-8f
-8a
-=8
-8cc
-8b-
-8g
-8e
-4f
-4f}
-==
-*-
+=7	=7
+{4b-/	i
+8ddL	na
+8b-J	.
+4a	wy-
+8fL	-bór
+8aJ	.
+=8	=8
+8ccL	so-
+8b-J	.
+8gL	-bie
+8eJ	.
+4f	skła-
+4f}	-dne.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. W zielonym gajku, przy miłym chłodzie
+!!rwali maliny w równej urodzie
+!!dwie dziweczki, bardzo ładne
+!!i na wybór sobie składne.
+!!@VERSE:
+!!2. Ja za niemi w kónia, a óni stronią,
+!!co po chruścinie wiatreczek gonią,
+!!i stanąłem zadumiały
+!!na ten widok tak spaniały.
+!!@VERSE:
+!!3. Rozumiałem, że dwie boginie
+!!. . . . . . . . . . . . . .
+!!aż to, aż to dwie dzieweczki,
+!!z mojéj wioski pastereczki.
+!!@VERSE:
+!!4. Lelija kwitnie, róża opada,
+!!narcyz, tulipan swe listki składa,
+!!za czasem się wszystko psuje,
+!!żadna piękność nie wiekuje.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=608 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 521} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 521}
 !!!page: 521
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-28

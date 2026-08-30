@@ -3,60 +3,85 @@
 !!!source: DWOK41
 !!!id: 411195
 !!!signature: 41119500001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8b
-8b
-8b
-=2
-4b
-8b
-=3
-4cc
-8b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8b	Ko-
+8b	-cha-
+8b	-liś-
+=2	=2
+4b	-wa
+8b	się
+=3	=3
+4cc	z_Ba-
+8b}	-sią,
 !!LO:LB:g=esac
-=4
-{8a
-8a
-8a
-=5
-8a
-8g
-8a
-=6
-4b
-8a}
+=4	=4
+{8a	a-
+8a	-le
+8a	sie
+=5	=5
+8aL	juz
+8gJ	.
+8a	roz-
+=6	=6
+4b	-chwia-
+8a}	-ło,
 !!LO:LB:g=esac
-=7
-{8dd
-8b
-8b
-=8
-8b
-8a
-8b
-=9
-4cc
-8b}
+=7	=7
+{8dd	nie
+8b	da-
+8b	-ła
+=8	=8
+8b/L	pa-
+8aJ	.
+8b	-trzéć
+=9	=9
+4cc	na
+8b}	się,
 !!LO:LB:g=esac
-=10
-{8dd
-8dd
-8dd
-=11
-4f#
-8a
-=12
-4g
-8g}
-==
-*-
+=10	=10
+{8dd	mnie
+8dd	się
+8dd	tez
+=11	=11
+4f#	o-
+8a	-de-
+=12	=12
+4g	-chcia-
+8g}	-ło.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Kochaliśwa się z Basią,
+!!ale sie juz rozchwiało,
+!!nie dała patrzéć na się,
+!!mnie się tez odechciało.
+!!@VERSE:
+!!2. Miałem piękną dziewcynę,
+!!wszyscy to przyznawali,
+!!byłaby moją, była,
+!!rodzice mi nie dali.
+!!@VERSE:
+!!3. Poszedłem do Hanusi
+!!z zupełném zaświadczeniem,
+!!óna mnie kochać umie,
+!!bo spogląda z niechceniem.
+!!@VERSE:
+!!4. Kończę ja tym wyrazem,
+!!żyjcie wy sobie razem,
+!!skońcyłem miłość moją,
+!!juz o zadnę nie stoję.
+!!@@END: VERSES
+!!!role-singer: Single Man
+!!!singer-sex: Male 
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=611 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 524} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 524}
 !!!page: 524
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-29

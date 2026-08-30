@@ -3,50 +3,106 @@
 !!!source: DWOK41
 !!!id: 411212
 !!!signature: 41121200000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8g
-8g
-8g
-8b
-=2
-4.dd
-8b
-=3
-8dd
-8dd
-8gg
-8ee
-=4
-4.dd
-8b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8g	O
+8g	co
+8g	to
+8b	to
+=2	=2
+4.dd	te-
+8b	-raz,
+=3	=3
+8dd	co
+8dd	za
+8gg	świat
+8ee	na-
+=4	=4
+4.dd	-sta-
+8b}	-je,
 !!LO:LB:g=esac
-=5
-{8dd
-8dd
-8ee
-8cc
-=6
-8b
-8b
-8cc
-8a
-=7
-8g
-8g
-8a
-8a
-=8
-4.g
-8g}
-==
-*-
+=5	=5
+{8dd	a
+8dd	co
+8eeL	pan
+8ccJ	.
+=6	=6
+8b	Kraw-
+8b	-czyń-
+8ccL	-ski
+8a\J	.
+=7	=7
+8g	swą
+8g	żo-
+8a	-nę
+8a	prze-
+=8	=8
+4.g	-da-
+8g}	-je.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. O co to to teraz, co za świat nastaje,
+!!a co1 pan Krawczyński swą żonę przedaje.
+!!@VERSE:
+!!2. A przyjechało, oj, cztéry Moskale,
+!!a pani Krawczyńska o tém poduchwale2.
+!!@VERSE:
+!!3. Oknem wyskoczyła, piwa potoczyła,
+!!sama się napiła, na stół postawiła.
+!!@VERSE:
+!!4. A Krawczyński mówi: Natocz, pani, więcy!
+!!A Moskale1, bestyje, rachują pieniędzy.
+!!@VERSE:
+!!5. Rachują, rachują, dosyć tych pieniędzy,
+!!a Krawczyński mówi: Rachuj, waspan, więcy!
+!!@VERSE:
+!!6. Oj, hola, oj, hola, pieniążka mojego,
+!!a ja sobie wezmę kochania swojego.
+!!@VERSE:
+!!7. A poszli sobie na zielony ganek,
+!!ratujże mnie, ratuj, Ignasiu, kochanek.
+!!@VERSE:
+!!8. O jakże ja cię mam, żoneczko, ratować,
+!!kiedym ja pieniążki do szkatuły schował.
+!!@VERSE:
+!!9. Służki moje, służki, czego się smucicie,
+!!pewno tego, co swej pani w domu nie widzicie.
+!!@VERSE:
+!!10. Krzyknął na fornale: Zaprzęgajcie konie!
+!!Dogonię, dogonię kochania swojego2.
+!!@VERSE:
+!!11. Oj, gnali, dognali pod zielonym lasem,
+!!a Moskal3, bestyja, juz z gołym pałaszem.
+!!@VERSE:
+!!12. Wojnę rozpoczyli, ognia napalili,
+!!panu Krawczyńskiemu głowę osmalili.
+!!@VERSE:
+!!13. A moj mocny Boże, co się ze mną staje,
+!!wszyscy się tu cieszą, jak wiosna nastaje.
+!!@VERSE:
+!!14. Ino ja się smutna ciągle poniewieram,
+!!a ja sobie teraz przyjaciela nie mam.
+!!@VERSE:
+!!15. Niczego mi nie żal, tylko dwoje dziatek,
+!!com ich porzuciła jak różowy kwiatek.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: (1) [nadpisane przez O. K.:] co ten
+!! (2) [nadpisane przez O. K.:] A przyjechało do nich oj cztéroch Kozaków, a pani Krawczyńska zdradę zmiarkowała
+!! (1)[nadpisane przez O. K.:] Kozaki tymczasem
+!! (2) [nadpisane przez O. K.:] dogonię kochania, dogonię, dogonię.
+!! (3) [nadpisane przez O. K.:] Kozaki tymczasem
+!!@@END:
+!!!role-singer: Narrator, Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=623 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 536} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 536}
 !!!page: 536
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-30

@@ -3,96 +3,128 @@
 !!!source: DWOK41
 !!!id: 411206
 !!!signature: 41120600000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M6/8
-=1
-{8g
-8b
-8b
-8b
-8a
-8b
-=2
-4dd
-8cc
-4a}
-8r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M6/8	*
+=1	=1
+{8g	Ma-
+8b	-ry-
+8b	-niu,
+(8ccq	.
+8b)	co
+8a	ci
+8b	się
+=2	=2
+(4dd	sta-
+8cc)	.
+4a}	-ło,
+8r	.
 !!LO:LB:g=esac
-=3
-{8a
-8cc
-8cc
-8cc
-8b
-8cc
-=4
-4ee
-8dd
-4b}
-8r
+=3	=3
+{8a	co
+8cc	pa-
+8cc	-trzysz
+(8ddq	.
+8cc)	na
+8b	mnie
+8cc	nie-
+=4	=4
+(4ee	-śmia-
+8dd)	.
+4b}	-ło,
+8r	.
 !!LO:LB:g=esac
-=5
-{8gg
-8ff#
-8ee
-8dd
-8.cc
-16b
-=6
-4.b
-8a}
-8r
-8r
+=5	=5
+{8gg	spuść
+8ff#	na
+8ee	mnie
+8dd	swo-
+8.cc	-je
+16b	po-
+=6	=6
+4.b	-wie-
+(16ccqL	.
+16bqJ	.
+8a)}	-ki,
+8r	.
+8r	.
 !!LO:LB:g=esac
-=7
-{8b
-8dd
-8gg
-8b
-8dd
-8cc
-=8
-8a
-8.cc
-16b
-8b}
-8r
-8r
+=7	=7
+{8b	bę-
+8dd	-dę
+8gg	cię
+8b	ko-
+8dd	-chał
+8cc	na
+=8	=8
+8a\L	wie-
+8.cc	.
+16bJ	.
+8b}	-ki.
+8r	.
+8r	.
 !!LO:LB:g=esac
-=9
-{8gg
-8ff#
-8ee
-8dd
-8.cc
-16b
-=10
-4.b
-8a}
-8r
-8r
+=9	=9
+{8gg	spuść
+8ff#	na
+8ee	mnie
+8dd	swo-
+8.cc	-je
+16b	po-
+=10	=10
+4.b	-wie-
+(16ccqL	.
+16bqJ	.
+8a)}	-ki,
+8r	.
+8r	.
 !!LO:LB:g=esac
-=11
-{8b
-8dd
-8gg
-8b
-8dd
-8cc
-=12
-8a
-8.cc
-16b
-8b}
-8r
-8r
-==
-*-
+=11	=11
+{8b	bę-
+8dd	-dę
+8gg	cię
+8b	ko-
+8dd	-chał
+8cc	na
+=12	=12
+8a\L	wie-
+8.cc	.
+16bJ	.
+8b}	-ki.
+8r	.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Maryniu, co ci się stało,
+!!co patrzysz na mnie nieśmiało,
+!!|:spuść na mnie swoje powieki,
+!!będę cię kochał na wieki:|.
+!!@VERSE:
+!!2. Wyjdę ja, wyjdę w tę chwile,
+!!będę cię wyglądać o mile,
+!!będę cię wołać do siebie
+!!. . . . . . . . . . . . . .
+!!@VERSE:
+!!3. Wtenczas miał usta nieśmiałe,
+!!a teraz'em ci tyranką
+!!. . . . . . . . . . . . . .
+!!. . . . . . . . . . . . . .
+!!@VERSE:
+!!4. Gdzie ten strumiczek zielony,
+!!gdzie te zabawy śmiejące?
+!!|:Strumik, zielona murawa,
+!!tam w życiu nasza zabawa:|.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=618 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 531} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 531}
 !!!page: 531
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-29

@@ -3,64 +3,89 @@
 !!!source: DWOK41
 !!!id: 411208
 !!!signature: 41120800002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8g
-8g
-8a
-8f#
-=2
-8g
-8e
-8d
-8d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8g	Gdy
+8g	do
+8a	mia-
+8f#	-sta
+=2	=2
+8g	za
+8e	spra-
+8d	-wun-
+8d}	-kiem
 !!LO:LB:g=esac
-=3
-{8cc
-8cc
-8b
-16b
-16a
-=4
-8a
-8dd
-16dd
-16cc
-16b
-16a}
+=3	=3
+{8cc	na
+8cc	ja-
+8b	-ki
+16b/L	mo-
+16a/J	.
+=4	=4
+8a	-ment
+8dd	po-
+16ddL	-ja-
+16cc	.
+16bJ	.
+16a}	-dę,
 !!LO:LB:g=esac
-=5
-{8g
-16g
-16b
-8a
-8f#
-=6
-8g
-8e
-8d
-8d}
+=5	=5
+{8g	ca-
+16g\L	-ły
+16b\J	.
+8a	dom
+8f#	o
+=6	=6
+8g	mnie
+8e	w_fra-
+8d	-sun-
+8d}	-ku,
 !!LO:LB:g=esac
-=7
-{8g
-8e
-16e
-16cc
-16a
-16f#
-=8
-8g
-8f#
-8g
-8g}
-==
-*-
+=7	=7
+{8g	a
+8e	z_przy-
+16eL	-jaz-
+16cc/J	.
+16aL	-du
+16f#J	.
+=8	=8
+8g	wszy-
+8f#	-scy
+8g	ra-
+8g}	-de.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Gdy do miasta za sprawunkiem
+!!na jaki moment pojadę,
+!!cały dom o mnie w frasunku,
+!!a z przyjazdu wszyscy rade.
+!!@VERSE:
+!!2. Siądę za stół, o jak smaczne
+!!są te kluski moji Basi,
+!!lepsze od potraw dziwacznych,
+!!co jedzą panowie nasi.
+!!@VERSE:
+!!3. O, jak radość mają dziatki
+!!ściskający ojca swego,
+!!a i od kochanyj matki
+!!brać z serca cułego.
+!!@VERSE:
+!!4. Pełen szczęscia jestem trwogi,
+!!spiwam sobie na zagónie,
+!!o, jak kląsnę dłonią w dłonie
+!!i na lubej spocznie łonie.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=620 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 533} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 533}
 !!!page: 533
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-29

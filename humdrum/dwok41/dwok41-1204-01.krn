@@ -3,60 +3,85 @@
 !!!source: DWOK41
 !!!id: 411204
 !!!signature: 41120400001
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8g
-8f
-4e
-4g
-=
-12d
-12a
-12g
-4e
-4c
-=2
-8g
-8g
-4a
-4f
-=
-12f
-12cc
-12b
-4a
-4g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8g	Już
+8f	się
+4e	wio-
+4g	-sna
+=2	=2
+12dL	roz-
+12aJ	.
+12g	-we-
+4e	-se-
+4c	-la
+=3	=3
+8g	świat
+8g	przy-
+4a	-bie-
+4f	-ra
+=4	=4
+12fL	mi-
+12cc/J	.
+12b/	-łą
+4a	po-
+4g}	-stać,
 !!LO:LB:g=esac
-=3
-{8g
-8g
-4ff
-4dd
-=4
-8g
-8g
-4ee
-4cc
-=5
-8g
-8g
-8ff
-8dd
-4b
-=
-12g
-12a
-12b
-4dd
-4cc}
-==
-*-
+=5	=5
+{8g	a
+8g	ja
+4ff	ra-
+4dd	-ny
+=6	=6
+8g	w_ser-
+8g	-cu
+4ee	czu-
+4cc	-je,
+=7	=7
+8g	zaw-
+8g	-sze
+8ffL	mu-
+8ddJ	.
+4b	-szę
+=8	=8
+12gL	smę-
+12aJ	.
+12b	-tny
+4dd	zo-
+4cc}	-stać.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Już się wiosna rozwesela
+!!świat przybiera miłą postać,
+!!a ja rany w sercu czuje,
+!!zawsze muszę smętny zostać.
+!!@VERSE:
+!!2. Pójdę ja nad brzeg strumienia,
+!!co płynie wedle méj lubéj,
+!!i puszczę ja me westchnienia,
+!!co przyczyną moji zguby.
+!!@VERSE:
+!!3. Już słowiczek nuci pienia,
+!!ciesząc się z przykrycia wiosny,
+!!a moje ciężkie westchnienia
+!!przynoszą mi czas nieznośny.
+!!@VERSE:
+!!4. Słońce świci, a ja płaczę,
+!!w południe mam większą trwogę,
+!!z wieczora ciężkie wzdychania,
+!!a w nocy usnąć nie mogę.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=616 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 529} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 529}
 !!!page: 529
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-29

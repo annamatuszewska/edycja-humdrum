@@ -3,44 +3,64 @@
 !!!source: DWOK41
 !!!id: 411196
 !!!signature: 41119600001
-**kern
-*clefG2
-*k[]
-*a:
-*M4/4
-=1
-{8a
-8b
-8cc
-8dd
-4.ee
-8ee
-=2
-8dd
-8ee
-8ff
-8dd
-4.ee
-8cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M4/4	*
+=1	=1
+{8a	Kie-
+8b	-dy
+8cc	ja
+8dd	u-
+4.ee	-sią-
+8ee	-de
+=2	=2
+8dd	przy
+8ee	mo-
+8ff	-ji
+8dd	Do-
+4.ee	-ry-
+8cc}	-dzie,
 !!LO:LB:g=esac
-=3
-{4ee
-8ee
-8ee
-4dd
-8ee
-8cc
-=4
-8a
-8b
-8cc
-8a
-4.b
-8g#}
-==
-*-
+=3	=3
+{4ee/	o-
+8ee	-cy
+8ee	w_nią
+(4dd	wle-
+8ee)	.
+8cc	-pię,
+=4	=4
+8a	za-
+8b	-póm-
+8cc	-nę
+8a	o
+4.b	bi-
+8g#}	-dzie.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Kiedy ja usiąde przy moji Dorydzie,
+!!ocy w nią wlepię, zapómnę o bidzie,
+!!a kiedy ją jesce scisnę, pocałuję,
+!!wtencas Doryda najwięcej smakuje.
+!!@VERSE:
+!!2. Powiadają ludzie, ludzie nieżyczliwi,
+!!że się Doryda przy mnie nie wyżywi;
+!!spiewać będę piosnkę o swoji Dorydzie,
+!!rzezę mój zagon, zapomnę o bidzie.
+!!@VERSE:
+!!3. Cyli pali słońce, cyli będą słoty,
+!!dla moji Dorydy pójdę do roboty,
+!!cyli siąde w cieniu, cyli tez na jawie,
+!!kpię z wszystkich krolow, skoro z nią się bawię.
+!!@@END: VERSES
+!!!role-singer: Narrator 
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=611 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 524} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 524}
 !!!page: 524
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-29

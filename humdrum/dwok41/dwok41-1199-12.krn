@@ -3,60 +3,81 @@
 !!!source: DWOK41
 !!!id: 411199
 !!!signature: 41119900012
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16g
-16g
-8a
-8g
-=2
-16f#
-16g
-8a
-8g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16g	O,
+16g	da-
+8a	-lij-
+8g	-ze,
+=2	=2
+16f#	o,
+16g	ma-
+8a	-zu-
+8g}	-ra,
 !!LO:LB:g=esac
-=3
-{16g
-16g
-8cc
-16ee
-16ff
-=4
-16gg
-16b
-8dd
-8cc}
+=3	=3
+{16g	po-
+16g	-daj-
+8cc	-ciez
+16ee/L	mi
+16ff/J	.
+=4	=4
+16gg	rą-
+16b	-ckę
+8dd	kto-
+8cc}	-ra,
 !!LO:LB:g=esac
-=5
-{16g
-16g
-8a
-8g
-=6
-16f#
-16g
-8a
-8g}
+=5	=5
+{16g	po-
+16g	-daj-
+8a	-ciez
+8g	mi
+=6	=6
+16f#	o-
+16g	-bie
+8a	rę-
+8g}	-ce,
 !!LO:LB:g=esac
-=7
-{16g
-16g
-8cc
-16ee
-16ff
-=8
-16gg
-16b
-8dd
-8cc}
-==
-*-
+=7	=7
+{16g	niech
+16g	się
+8cc	z_wa-
+16ee/L	-mi
+16ff/J	.
+=8	=8
+16gg	raz
+16b	wy-
+8dd	-krę-
+8cc}	-cę.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. O, dalijze, o, mazura,
+!!podajciez mi rąckę ktora,
+!!podajciez mi obie ręce,
+!!niech się z wami raz wykręcę.
+!!@VERSE:
+!!2. Oj, dziewcyno, oj, dziewcyno,
+!!pozwól się pocałować,
+!!oj, co natura dała,
+!!oj, to nie trza załować.
+!!@VERSE:
+!!3. Ej, jak się pobierzemy,
+!!ej, wszak łaskawe nieba,
+!!ty igiełką, a ja piorkiem,
+!!ej, dorobiem się chleba.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Group
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=613 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 526} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 526}
 !!!page: 526
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-08-29
