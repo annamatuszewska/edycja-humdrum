@@ -3,58 +3,83 @@
 !!!source: DWOK41
 !!!id: 411218
 !!!signature: 41121800000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{8b
-8cc
-4.dd
-8a
-=2
-8b
-8cc
-4b
-4a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+{8b	U
+8cc	są-
+4.dd	-sia-
+8a	-da
+=2	=2
+8b	do-
+8cc	-mek
+4b	lu-
+4a;}	-by,
 !!LO:LB:g=esac
-=3
-{8b
-8cc
-4.dd
-8a
-=4
-8b
-8cc
-4b
-4a}
+=3	=3
+{8b	żon-
+8cc	-ka
+4.dd	je-
+8a	-go
+=4	=4
+8b	war-
+8cc	-ta
+4b	chlu-
+4a;}	-by,
 !!LO:LB:g=esac
-=5
-{8ee
-8ee
-4dd
-4a
-=6
-8b
-8cc
-4dd
-4a}
+=5	=5
+{8ee	a
+8ee	ja
+4dd	nie
+4a	mam
+=6	=6
+8b	swo-
+8cc	-i
+4dd	cha-
+4a}	-ty,
 !!LO:LB:g=esac
-=7
-{8a
-8a
-4ee
-4g
-=8
-4.a
-8b
-8cc
-8a}
-==
-*-
+=7	=7
+{8a	do-
+8a	-tąd
+4ee	jesz-
+4g	-cze
+=8	=8
+4.a	nie-
+8b	-żo-
+8cc	-na-
+8a}	-ty.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. U sąsiada domek luby,
+!!żonka jego warta chluby,
+!!a ja nie mam swoi chaty,
+!!dotąd jeszcze nieżonaty.
+!!@VERSE:
+!!2. U sąsiada żonka ładna,
+!!u sąsiada żonka żwawa,
+!!a ja nie mam ni kochanki,
+!!ani kawy przepalanki.
+!!@VERSE:
+!!3. Sąsiad umie grać przyjemnie,
+!!spiewać i grać a przyjemnie,
+!!a ja i tego nie umiem,
+!!ledwo na los płakać umiem.
+!!@VERSE:
+!!4. Pojdę między lasy, bory,
+!!między zarośl i jawory,
+!!między zarośl i puszczyki,
+!!wspomną mnie ludzkie języki.
+!!@@END: VERSES
+!!!role-singer: Single Man 
+!!!singer-sex: Male 
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=628 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 541} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 541}
 !!!page: 541
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-02

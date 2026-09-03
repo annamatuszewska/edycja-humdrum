@@ -3,69 +3,99 @@
 !!!source: DWOK41
 !!!id: 411219
 !!!signature: 41121900002
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/4
-=1
-{8a
-8b-
-4cc
-4cc
-=2
-4cc
-2ff
-=3
-8ee
-8gg
-8bb-
-8aa
-8gg
-8ff
-=4
-4ff
-2cc}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/4	*
+=1	=1
+{8a	Do
+8b-	mo-
+4cc	-je-
+4cc	-go
+=2	=2
+4cc	szczę-
+2ff	-ścia
+=3	=3
+8ee	trze-
+8gg	-ba
+8bb-L	bar-
+8aaJ	.
+8gg/L	-dzo
+8ff/J	.
+=4	=4
+4ff	ma-
+2cc}	-ło,
 !!LO:LB:g=esac
-=5
-{8dd
-8cc
-4b-
-4a
-=6
-4g
-2dd
-=7
-8cc
-8b
-4.cc
-8e
-=8
-4g
-4f}
-4r
+=5	=5
+{8dd	pie-
+8cc	-kne-
+4b-	-go
+4a	chłop-
+=6	=6
+4g	-czy-
+2dd	-ny,
+=7	=7
+8cc	a-
+8b	-by
+4.cc	ko-
+8e	-chał
+=8	=8
+4g	sta-
+4f}	-ło.
+4r	.
 !!LO:LB:g=esac
-=9
-{8dd
-8cc
-4b-
-4a
-=10
-4g
-2dd
-=11
-8cc
-8b
-4.cc
-8e
-=12
-4g
-4f}
-4r
-==
-*-
+=9	=9
+{8dd	pie-
+8cc	-kne-
+4b-	-go
+4a	chłop-
+=10	=10
+4g	-czy-
+2dd	-ny,
+=11	=11
+8cc	a-
+8b	-by
+4.cc	ko-
+8e	-chał
+=12	=12
+4g	sta-
+4f}	-ło.
+4r	_
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Do mojego szczęścia
+!!trzeba bardzo mało,
+!!|:pieknego chłopczyny,
+!!aby kochał stało:|.
+!!@VERSE:
+!!2. Aby kochał stało,
+!!we wszystkiém dogadzał,
+!!|: aby w mojem życiu
+!!nigdy mnie nie zdradzał :|.
+!!@VERSE:
+!!3. Karyta angielska,
+!!cztyry konie w cugu
+!!|: i parę służących
+!!do mojej usługi :|.
+!!@VERSE:
+!!4. Balik za balikiem,
+!!muzyka domowa,
+!!|: abym tańcowała,
+!!zawsze była zdrowa :|.
+!!@VERSE:
+!!5. A kiedy przyjaciel
+!!dómek mój najedzie,
+!!|: wypijemy sobie
+!!wina przy obiedzie :|.
+!!@@END: VERSES
+!!!role-singer: Single Girl
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=628 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 541} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 541}
 !!!page: 541
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-02

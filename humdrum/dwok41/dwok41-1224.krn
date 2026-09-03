@@ -3,65 +3,89 @@
 !!!source: DWOK41
 !!!id: 411224
 !!!signature: 41122400000
-**kern
-*clefG2
-*k[]
-*C:
-*M6/8
-=1
-{8dd
-8cc#
-8dd
-4ee
-8dd
-=2
-8dd
-8cc#
-8dd
-4ee
-8dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*C:	*
+*M6/8	*
+=1	=1
+{8dd	By-
+8cc#	-waj
+8dd	mi
+4ee	zdro-
+8dd	-wy,
+=2	=2
+8dd	kra-
+8cc#	-ju
+8dd	ko-
+4ee	-cha-
+8dd}	-ny,
 !!LO:LB:g=esac
-=3
-{8dd
-8gg
-8gg
-8ff#
-8ee
-8dd
-=4
-4.gg
-4ff#}
-8r
+=3	=3
+{8dd	już
+8gg	w_mgli-
+8gg	-stej
+8ff#	ni-
+8ee	-kniesz
+8dd	po-
+=4	=4
+4.gg	-wło-
+4ff#}	-ce,
+8r	.
 !!LO:LB:g=esac
-=5
-{8ee
-8dd
-8cc
-4aa
-8gg
-=6
-8cc
-8cc
-8cc
-4ee
-8dd}
+=5	=5
+{8ee	swi-
+8dd	-snę-
+8cc	-ły
+4aa	wia-
+8gg	-try,
+=6	=6
+8cc	szu-
+8cc	-mią
+8cc	bał-
+4ee	-wa-
+8dd}	-ny,
 !!LO:LB:g=esac
-=7
-{8dd
-8cc
-8cc
-8b
-8a
-8b
-=8
-4.cc
-4cc}
-8r
-==
-*-
+=7	=7
+{8dd	a
+8cc	mor-
+8cc	-skie
+8b	pta-
+8a	-stwo
+8b	swir-
+=8	=8
+4.cc	-go-
+4cc}	-ce.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Bywaj mi zdrowy, kraju kochany,
+!!już w mglistej nikniesz powłoce,
+!!swisnęły wiatry, szumią bałwany,
+!!a morskie ptastwo swirgoce.
+!!@VERSE:
+!!2. Dalej za słońcem, gdzie jasną głowe
+!!w morskie pogrąża piany,
+!!|: tymczasem słońce, bywaj mi zdrowe,
+!!bywaj zdrów, kraju kochany :|.
+!!@VERSE:
+!!3. Za kilka godzin różane zorze
+!!promieńmi błysnie jasnemi,
+!!|: obaczę niebo, obaczę morze,
+!!lecz nie zobaczę mej ziemi :|.
+!!@VERSE:
+!!4. Zamek, na ktorym brzmiało wesele,
+!!wieczną żałobą pokryje,
+!!|: na wałach dzikie porośnie ziele,
+!!w bramie moj wierny pies wyje :|.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!ONB: prawdopodobna błędna intonacja 2 frazy
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=632 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 545} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 545}
 !!!page: 545
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-02

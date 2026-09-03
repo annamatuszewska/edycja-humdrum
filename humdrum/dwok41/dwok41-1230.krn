@@ -3,57 +3,63 @@
 !!!source: DWOK41
 !!!id: 411230
 !!!signature: 41123000000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8g
-8d
-8g
-8a
-=2
-4b
-4a
-=3
-2g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8g	A
+8d	pod
+8g	bo-
+8a	-rem
+=2	=2
+4b	na
+4a	dę-
+=3	=3
+2g}	-bie
 !!LO:LB:g=esac
-=4
-{8b
-8cc
-8ee
-8b
-=5
-4dd
-8dd
-16cc
-16b}
+=4	=4
+{8b	.
+8cc	.
+8ee	.
+8b	.
+=5	=5
+4dd	.
+8dd	.
+16ccL	.
+16b}J	.
 !!LO:LB:g=esac
-=6
-{8a
-8b
-8cc
-8a
-=7
-4cc
-8b
-8a}
+=6	=6
+{8a	.
+8b	.
+8cc	.
+8a	.
+=7	=7
+4cc	.
+8b	.
+8a}	.
 !!LO:LB:g=esac
-=8
-{8g
-8a
-8b
-8cc
-=9
-4b
-4a
-=10
-2g}
-==
-*-
+=8	=8
+{8g	.
+8a	.
+8b	.
+8cc	.
+=9	=9
+4b	.
+4a	.
+=10	=10
+2g}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A pod borem na dębie [...]
+!!@@END: VERSES
+!!!role-singer: Complex
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=635 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 548} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 548}
 !!!page: 548
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-03

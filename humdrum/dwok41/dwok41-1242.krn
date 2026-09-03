@@ -3,79 +3,85 @@
 !!!source: DWOK41
 !!!id: 411242
 !!!signature: 41124200000
-**kern
-*clefG2
-*k[]
-*C:
-=1
-*M3/4
-{4gg
-4gg
-4aa
-=2
-2gg
-4ff
-=3
-2ee
-4aa
-=4
-2.gg}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+=1	=1
+*M3/4	*
+{4gg	Gdzie
+4gg	żeś
+4aa	to
+=2	=2
+2gg	by-
+4ff	-ła
+=3	=3
+2ee	Do-
+4aa	-ro-
+=4	=4
+2.gg}	-tko [...]
 !!LO:LB:g=esac
-=5
-{4gg
-4gg
-4aa
-=6
-2gg
-4ff
-=7
-2ee
-4dd
-=8
-2.cc}
+=5	=5
+{4gg	.
+4gg	.
+4aa	.
+=6	=6
+2gg	.
+4ff	.
+=7	=7
+2ee	.
+4dd	.
+=8	=8
+2.cc}	.
 !!LO:LB:g=esac
-=9
-*M2/4
-{8dd
-8dd
-8cc
-8dd
-=10
-8ee
-8ee
-8ee
-8ee
-=11
-8dd
-8dd
-8cc
-8dd
-=12
-4ee
-4ccc}
+=9	=9
+*M2/4	*
+{8ddL	.
+8dd	.
+8cc	.
+8ddJ	.
+=10	=10
+8eeL	.
+8ee	.
+8ee	.
+8eeJ	.
+=11	=11
+8ddL	.
+8dd	.
+8cc	.
+8ddJ	.
+=12	=12
+4ee	.
+4ccc}	.
 !!LO:LB:g=esac
-=13
-{8dd
-8dd
-8cc
-8dd
-=14
-8ee
-8ee
-8ee
-8ee
-=15
-8dd
-8dd
-8cc
-8dd
-=16
-4cc
-4cc}
-==
-*-
+=13	=13
+{8ddL	.
+8dd	.
+8cc	.
+8ddJ	.
+=14	=14
+8eeL	.
+8ee	.
+8ee	.
+8eeJ	.
+=15	=15
+8ddL	.
+8dd	.
+8cc	.
+8ddJ	.
+=16	=16
+4cc	.
+4cc}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Gdzie żeś to była Dorotko [...]
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=638 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 551} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 551}
 !!!page: 551
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-03

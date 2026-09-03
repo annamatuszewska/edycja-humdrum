@@ -3,56 +3,97 @@
 !!!source: DWOK41
 !!!id: 411223
 !!!signature: 41122300012
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16b
-16dd
-8dd
-8dd
-=2
-16ff
-16ee
-8cc
-8cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16b	Słu-
+16dd	-ży-
+8dd	-łem
+8dd	u
+=2	=2
+16ff	go-
+16ee	-spo-
+8cc	-da-
+8cc}	-rza
 !!LO:LB:g=esac
-=3
-{16ff
-16dd
-8b
-8b
-=4
-8cc
-8ee
-8g}
+=3	=3
+{16ff	z_pra-
+16dd	-cą
+8b	'mem
+8b	się
+=4	=4
+8cc	sła-
+8eeL/	-wił,
+8gJ}	.
 !!LO:LB:g=esac
-=5
-{16b
-16dd
-8dd
-8ff
-=6
-16ff
-16ee
-8cc
-8cc}
+=5	=5
+{16b	gdy
+16dd	gos-
+8dd/L	-po-
+8ff/J	-darz
+=6	=6
+16ff	pił
+16ee	i
+8cc	hu-
+8cc}	-lał,
 !!LO:LB:g=esac
-=7
-{16ff
-16dd
-8b
-8b
-=8
-16dd
-16cc
-4cc}
-==
-*-
+=7	=7
+{16ff	ja
+16dd	mu
+8b	ro-
+8b	-lą
+=8	=8
+16dd/L	spra-
+16cc/J	.
+4cc}	-wił.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Służyłem u gospodarza
+!!z pracą'mem się sławił,
+!!gdy gospodarz pił i hulał,
+!!ja mu rolą sprawił.
+!!Sama rola okazała,
+!!że się plon urodził,
+!!gospodyni to przyznała,
+!!żem roli dogodził.
+!!@VERSE:
+!!2. Głęboko zaorzę,
+!!z wierzchu nie zasieję,
+!!rolę dobrze wychędożę
+!!i pług nie stępieje.
+!!Kiedy parobek leniwy,
+!!robić mu się nie chce,
+!!to on i rolę wysuszy
+!!i po wierzchu klechce.
+!!@VERSE:
+!!3. Czyli w piątek, czy w niedzielę
+!!nie zrobię mitręgi,
+!!kto mię najmie, zyska wiele,
+!!bom parobek tęgi.
+!!Umiem skiby poukładać
+!!i przegonę zrobię,
+!!przyznajcie mnie, moje panny,
+!!że ja w każdéj dobie.
+!!@VERSE:
+!!4. Mam pług, mam i woły,
+!!mam i dobrą wolą,
+!!pracowałbym jak należy,
+!!byle bym miał rolą.
+!!Żeby najtwardsze odłogi
+!!i nowiny harde,
+!!pracowałbym jak należy
+!!mam żelazo twarde.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=631 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 544} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 544}
 !!!page: 544
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-02

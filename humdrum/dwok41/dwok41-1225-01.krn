@@ -3,68 +3,87 @@
 !!!source: DWOK41
 !!!id: 411225
 !!!signature: 41122500001
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16g
-16g
-8a
-8b
-=2
-4cc
-8g
-=3
-16dd
-16g
-8g
-16cc
-16dd
-=4
-4ee
-8cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16g	Le-
+16g	-cą
+8a	liś-
+8b	-cie
+=2	=2
+4cc	z_drze-
+8g	-wa,
+=3	=3
+16dd	co
+16g	wy-
+8g	-ro-
+16ccL	-sły
+16ddJ	.
+=4	=4
+4ee	wol-
+8cc}	-ne,
 !!LO:LB:g=esac
-=5
-{16cc
-16cc
-8b
-8a
-=6
-4a
-8g
-=7
-16g
-16g
-8f
-8d
-=8
-4a
-8g}
+=5	=5
+{16cc	na
+16cc	mo-
+8b	-gi-
+8a	-le
+=6	=6
+4a	śpie-
+8g	-wa
+=7	=7
+16g	ja-
+16g	-kieś
+8f	pta-
+8d	-sze
+=8	=8
+4a	pol-
+8g}	-ne,
 !!LO:LB:g=esac
-=9
-{16dd
-16cc
-8b
-8a
-=10
-8.a
-16g
-16f#
-16g
-=11
-16a
-16g
-8f
-8d
-=12
-8d
-4c}
-==
-*-
+=9	=9
+{16dd	na
+16cc	mo-
+8b	-gi-
+8a	-le
+=10	=10
+8.aL	śpie-
+16gJ	.
+16f#L	-wa
+16gJ	.
+=11	=11
+16a	ja-
+16g	-kieś
+8f	pta-
+8d	-sze
+=12	=12
+8d	pol-
+4c}	-ne.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Lecą liście z drzewa,
+!!co wyrosły wolne,
+!!|:na mogile śpiewa
+!!jakieś ptasze polne :|.
+!!@VERSE:
+!!2. Już przez chwilę, Polsko,
+!!dobrze było tobie,
+!!|: wszystko się zmieniło,
+!!twe dzieci w żałobie :|.
+!!@VERSE:
+!!3. Poniszczone miasta,
+!!popalone sioła,
+!!|: a w polu niewiasta
+!!krząta się dokoła :|.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=632 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 545-546} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 545-546}
 !!!page: 545-546
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-02

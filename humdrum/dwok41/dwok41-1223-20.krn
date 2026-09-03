@@ -3,54 +3,95 @@
 !!!source: DWOK41
 !!!id: 411223
 !!!signature: 41122300020
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16b
-16a
-8a
-8a
-=2
-16cc
-16b
-8g
-8g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16b	Sa-
+16a	-ma
+8a	ro-
+8a	-la
+=2	=2
+16cc	o-
+16b	-ka-
+8g	-za-
+8g}	-ła,
 !!LO:LB:g=esac
-=3
-{16cc
-16a
-8f#
-8f#
-=4
-8g
-4b}
+=3	=3
+{16cc	że
+16a	się
+8f#	plon
+8f#	u-
+=4	=4
+8g	-ro-
+4b}	-dził,
 !!LO:LB:g=esac
-=5
-{16b
-16a
-8a
-8a
-=6
-16cc
-16b
-8g
-8g}
+=5	=5
+{16b	gos-
+16a	-po-
+8a	-dy-
+8a	-ni
+=6	=6
+16cc	to
+16b	przy-
+8g	-zna-
+8g}	-ła,
 !!LO:LB:g=esac
-=7
-{16cc
-16a
-8f#
-8f#
-=8
-8a
-4g}
-==
-*-
+=7	=7
+{16cc	żem
+16a	ro-
+8f#	-li
+8f#	do-
+=8	=8
+8a	-go-
+4g}	-dził.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Służyłem u gospodarza
+!!z pracą'mem się sławił,
+!!gdy gospodarz pił i hulał,
+!!ja mu rolą sprawił.
+!!Sama rola okazała,
+!!że się plon urodził,
+!!gospodyni to przyznała,
+!!żem roli dogodził.
+!!@VERSE:
+!!2. Głęboko zaorzę,
+!!z wierzchu nie zasieję,
+!!rolę dobrze wychędożę
+!!i pług nie stępieje.
+!!Kiedy parobek leniwy,
+!!robić mu się nie chce,
+!!to on i rolę wysuszy
+!!i po wierzchu klechce.
+!!@VERSE:
+!!3. Czyli w piątek, czy w niedzielę
+!!nie zrobię mitręgi,
+!!kto mię najmie, zyska wiele,
+!!bom parobek tęgi.
+!!Umiem skiby poukładać
+!!i przegonę zrobię,
+!!przyznajcie mnie, moje panny,
+!!że ja w każdéj dobie.
+!!@VERSE:
+!!4. Mam pług, mam i woły,
+!!mam i dobrą wolą,
+!!pracowałbym jak należy,
+!!byle bym miał rolą.
+!!Żeby najtwardsze odłogi
+!!i nowiny harde,
+!!pracowałbym jak należy
+!!mam żelazo twarde.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=631 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 544} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 544}
 !!!page: 544
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-02

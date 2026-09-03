@@ -3,90 +3,113 @@
 !!!source: DWOK41
 !!!id: 411222
 !!!signature: 41122200000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16b
-8dd
-8dd
-=2
-16dd
-16dd
-8ee
-8cc
-=3
-16cc
-16ee
-8ee
-8gg
-=4
-8ff#
-4dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Pa-
+16b	-ro-
+8dd	-be-
+8dd	-cek
+=2	=2
+16dd	jez-
+16dd	-dem
+8ee	ci
+8cc	ja,
+=3	=3
+16cc	mam
+16ee	pług,
+8ee	mam
+8gg	i
+=4	=4
+8ff#	wo-
+4dd}	-ły,
 !!LO:LB:g=esac
-=5
-{16g
-16b
-8dd
-8dd
-=6
-16dd
-16dd
-8ee
-8cc
-=7
-16cc
-16a
-8a
-8a
-=8
-8b
-4g}
+=5	=5
+{16g	pra-
+16b	-co-
+8dd	-wał-
+8dd	-bym
+=6	=6
+16dd	i
+16dd	z_o-
+8ee	-cho-
+8cc	-tą,
+=7	=7
+16cc	a-
+16a	-le
+8a	ni
+8a	mam
+=8	=8
+8b	ro-
+4g}	-li.
 !!LO:LB:g=esac
-=9
-{16f#
-16a
-8a
-8d
-=10
-8g
-4b}
+=9	=9
+{16f#	Głę-
+16a	-bo-
+8a	-ko
+8d	za-
+=10	=10
+8g	-o-
+4b}	-rzę,
 !!LO:LB:g=esac
-=11
-{16f#
-16a
-8a
-8d
-=12
-8g
-4b}
+=11	=11
+{16f#	na
+16a	wierzch
+8a	nie
+8d	za-
+=12	=12
+8g	-sie-
+4b}	-je,
 !!LO:LB:g=esac
-=13
-{16g
-16b
-8dd
-8dd
-=14
-16dd
-16dd
-8ee
-8cc}
+=13	=13
+{16g	ro-
+16b	-lę
+8dd	do-
+8dd	-brze
+=14	=14
+16dd	wy-
+16dd	-chę-
+8ee	-do-
+8cc}	-żę,
 !!LO:LB:g=esac
-=15
-{16cc
-16a
-8a
-8a
-=16
-8b
-4g}
-==
-*-
+=15	=15
+{16cc	pług
+16a	mi
+8a	nie
+8a	stę-
+=16	=16
+8b	-pie-
+4g}	-je.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Parobecek jezdem ci ja,
+!!mam pług, mam i woły,
+!!pracowałbym i z ochotą,
+!!ale ni mam roli.
+!!Głęboko zaorzę,
+!!na wierzch nie zasieje,
+!!rolę dobrze wychędożę,
+!!pług mi nie stępieje.
+!!@VERSE:
+!!2. Służyłem u gospodarza,
+!!bym się z pracy wsławił,
+!!gdy gospodarz pił, tańcował,
+!!jam mu rolę sprawił.
+!!Moja praca dokazała,
+!!że mu się plon rodził,
+!!gospodyni dobrze znała,
+!!żem roli dogodził.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=630 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 543} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 543}
 !!!page: 543
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-02

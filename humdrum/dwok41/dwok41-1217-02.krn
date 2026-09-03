@@ -3,69 +3,92 @@
 !!!source: DWOK41
 !!!id: 411217
 !!!signature: 41121700002
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16f
-16ff
-8ff
-8ff
-=2
-8gg
-8ee
-8cc
-=3
-4cc}
-8r
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16f	Już
+16ff	ci
+8ff	o-
+8ff	-pak
+=2	=2
+8gg	świat
+8ee/L	i-
+8cc/J	.
+=3	=3
+4cc}	-dzie,
+8r	.
 !!LO:LB:g=esac
-=4
-{16b-
-16dd
-8b-
-8b-
-=5
-8cc
-8a
-8f
-=6
-4f}
-8r
+=4	=4
+{16b-	do-
+16dd	-brze
+8b-	się
+8b-	miéć
+=5	=5
+8cc	nie
+8a\L	przy-
+8f\J	.
+=6	=6
+4f}	-dzie,
+8r	.
 !!LO:LB:g=esac
-=7
-{4b-
-8b-
-=8
-16cc
-16a
-8a
-8a}
+=7	=7
+{4b-	co
+8b-	da-
+=8	=8
+16cc	-lej,
+16a	to
+8a	go-
+8a}	-rzej,
 !!LO:LB:g=esac
-=9
-{4b-
-8b-
-=10
-16cc
-16a
-8a
-8a}
+=9	=9
+{4b-	w_ka-
+8b-	-le-
+=10	=10
+16cc	-cie
+16a	nic
+8a	spo-
+8a}	-rzej
 !!LO:LB:g=esac
-=11
-{8cc
-8b-
-8b-
-=12
-8cc
-4a
-=13
-4f}
-8r
-==
-*-
+=11	=11
+{8cc	grosz
+8b-	li-
+8b-	-zie,
+=12	=12
+8cc	grosz
+8a\L	li-
+8f\J	.
+=13	=13
+4f}	-zie.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Już ci opak świat idzie,
+!!dobrze się miéć nie przydzie,
+!!co dalej, to gorzej,
+!!w kalecie nic sporzej
+!!grosz lizie, grosz lizie.
+!!@VERSE:
+!!2. A za czasu dawnego
+!!było dosyć wszystkiego,
+!![co dalej, to gorzej,
+!!w kalecie nic sporzej
+!!|: grosz lizie :|].
+!!@VERSE:
+!!3. Był też i grosz w kalicie,
+!!jak o tem dobrze wiécie,
+!!teraz ni ma grosa,
+!!wsy gryzą Bartosa,
+!!|: toć bida :|.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=627 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 540} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 540}
 !!!page: 540
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-02

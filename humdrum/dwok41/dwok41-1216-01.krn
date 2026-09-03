@@ -3,72 +3,81 @@
 !!!source: DWOK41
 !!!id: 411216
 !!!signature: 41121600001
-**kern
-*clefG2
-*k[]
-*a:
-*M4/4
-=1
-{8a
-8b
-8cc
-8dd
-4.ee
-8dd
-=2
-8cc
-8b
-16cc
-16b
-8a
-8a
-8g#
-4g#}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M4/4	*
+=1	=1
+{8aL	Niech
+8b/J	.
+8cc	cię,
+8dd	ma-
+4.ee	-tu-
+8dd	-lu,
+=2	=2
+8ccL	zło-
+8bJ	.
+16cLc	-to
+16bJ	.
+8a	nie
+8aL	śle-
+8g#J	.
+4g#}	-pi,
 !!LO:LB:g=esac
-=3
-{4cc
-8cc
-8ee
-4gg
-8aa
-8ff
-=4
-4ee
-4dd
-2ee}
+=3	=3
+{4cc	a-
+8cc	-ni
+8ee	ma-
+(4gg	-ją-
+8aa)	.
+8ff	-tek
+=4	=4
+4ee	u-
+4dd	-wo-
+2ee}	-dzi,
 !!LO:LB:g=esac
-=5
-{8a
-8b
-8cc
-8dd
-4.ee
-8dd
-=6
-8a
-8b
-16cc
-16b
-8a
-4a
-4g#}
+=5	=5
+{8aL	w_mi-
+8b/J	.
+8cc	-łem
+8dd	u-
+4.ee	-bós-
+8dd	-twie
+=6	=6
+8aL	bę-
+8b/J	.
+16ccL	-dzie
+16bJ	.
+8a	mi
+4a	le-
+4g#}	-pij,
 !!LO:LB:g=esac
-=7
-{4ee
-8ee
-8dd#
-8ee
-8cc
-8b
-8a
-=8
-4ee
-4g#
-2a}
-==
-*-
+=7	=7
+{4ee	nie
+8ee	z_mi-
+8dd#	-łym
+8eeL	roz-
+8cc	.
+8bJ	.
+8a	-kosz
+=8	=8
+4ee	za-
+4g#	-szko-
+2a}	-dzi.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Niech cię, matulu, złoto nie ślepi,
+!!ani majątek uwodzi,
+!!w miłem ubóstwie będzie mi lepij,
+!!nie z miłym rozkosz zaszkodzi.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=627 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 540} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 540}
 !!!page: 540
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-02
