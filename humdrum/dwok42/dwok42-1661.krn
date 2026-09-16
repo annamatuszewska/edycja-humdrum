@@ -9,9 +9,11 @@
 *G:
 *M3/4
 =1
-{8b
+{(8aq
+8b)
 8cc
-4ee
+(8ddq
+4ee)
 4gg
 =2
 8gg
@@ -21,11 +23,13 @@
 =3
 8ff
 8aa
-2gg
+2ggM
 =4
-8b
+(8aq
+8b)
 8cc
-4ee
+(8ddq
+4ee)
 4gg}
 !!LO:LB:g=esac
 =5
@@ -36,7 +40,7 @@
 =6
 8cc
 8a
-2g
+2gT
 =7
 8g
 8b
@@ -65,7 +69,7 @@
 =12
 8a
 8cc
-2g}
+2gT}
 ==
 *-
 !!!ONB: wariant w takcie 3: 7b+2+1_64
@@ -74,3 +78,5 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=155 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 146} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 146}
 !!!page: 146
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

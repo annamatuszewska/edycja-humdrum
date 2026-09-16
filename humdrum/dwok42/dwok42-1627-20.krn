@@ -9,49 +9,50 @@
 *g:
 *M3/8
 =1
-{16f#
+!LO:TX:a:t=Prędki w koło
+{16f#L
 16g
 16a
 16b-
 16a
-16g
+16gJ
 =2
-8a
+8aL
 8f#
-8g
+8gJ
 =3
-16d
+16dL
 16g
 16a
 16b-
 16a
-16g
+16gJ
 =4
-8a
+8aL
 8f#
-8g}
+8gJ}
 !!LO:LB:g=esac
 =5
-{16f#
+{16f#L
 16g
 16a
 16b-
 16a
-16g
+16gJ
 =6
-8a
+8aL
 8cc#
-8dd
+8ddJ
 =7
-16cc
-16b-
-8b-
+16ccL
+16b-J
+8b-L
 16a
-16g
+16gJ
 =8
-8a
+8aL
 8f#
-8g}
+8gJ}
 ==
 *-
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
@@ -59,3 +60,5 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=146 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 137} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 137}
 !!!page: 137
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

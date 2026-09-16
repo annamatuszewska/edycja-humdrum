@@ -14,16 +14,18 @@
 4b
 4dd
 =2
-8dd
+(8eeq
+8dd)
 8g
 4b
 4dd
 =3
-8dd
+(8eeq
+8dd)
 8cc
 4a
-8b
-8a
+8bL
+8aJ
 =4
 8g
 8g
@@ -41,11 +43,13 @@
 4b
 4dd
 =7
-8dd
+(8eeq
+8dd)
 8cc
 4a
-8b
-8a
+(8ccq
+8bL)
+8aJ
 =8
 8g
 8g
@@ -58,3 +62,5 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=159 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 150} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 150}
 !!!page: 150
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

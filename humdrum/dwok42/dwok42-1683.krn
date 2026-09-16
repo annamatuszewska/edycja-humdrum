@@ -3,59 +3,61 @@
 !!!source: DWOK42
 !!!id: 421683
 !!!signature: 42168300000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8cc
-8ee
-4ee
-4gg
-=2
-8gg
-8ff
-4ee
-8dd
-8cc
-=3
-8b
-8dd
-4dd
-4ff
-=4
-8b
-8dd
-4dd
-4cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8ccL	a
+8eeJ	w_niedzie-
+4ee	.
+4gg	-lę_[...]
+=2	=2
+8ggL	.
+8ffJ	.
+4ee	.
+8ddL	.
+8ccJ	.
+=3	=3
+8bL	.
+8ddJ	.
+4dd	.
+4ff	.
+=4	=4
+8bL	.
+8ddJ	.
+4dd	.
+4cc}	.
 !!LO:LB:g=esac
-=
-{8cc
-8ee
-4ee
-12dd
-12ee
-12dd
-=5
-8cc
-8ee
-4ee
-4dd
-=6
-8b
-8dd
-4dd
-4ff
-=7
-8b
-8dd
-4dd
-4cc}
-==
-*-
+=	=
+{8ccL	.
+8eeJ	.
+4ee	.
+12ddL	.
+12ee	.
+12ddJ	.
+=5	=5
+8ccL	.
+8eeJ	.
+4ee	.
+4dd	.
+=6	=6
+8bL	.
+8ddJ	.
+4dd	.
+4ff	.
+=7	=7
+8bL	.
+8ddJ	.
+4dd	.
+4cc}	.
+==	==
+*-	*-
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=161 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 152} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 152}
 !!!page: 152
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

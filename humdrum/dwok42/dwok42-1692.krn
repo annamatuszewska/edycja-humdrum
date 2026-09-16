@@ -9,22 +9,22 @@
 *G:
 *M3/4
 =1
-{8g
-8b
+{8gL
+8bJ
 4g
 4b
 =2
-8g
-8b
+8gL
+8bJ
 4dd
-8cc
-8b
+8ccL
+8bJ
 =3
 8a
 8cc
 4a
-8cc
-8b}
+8ccL
+8bJ}
 !!LO:LB:g=esac
 =4
 {8a
@@ -40,8 +40,8 @@
 8g
 8b
 4dd
-8cc
-8b}
+8ccL
+8bJ}
 !!LO:LB:g=esac
 =7
 {8a
@@ -54,20 +54,20 @@
 8d
 8g
 4b
-8a
-8g
+8aL
+8gJ
 =10
 8f#
 8a
 4cc
-4b}
+4bm}
 !!LO:LB:g=esac
 =11
 {8a
 8cc
 4ee
-8dd
-8cc#
+8ddL
+8cc#J
 =12
 8dd
 8a
@@ -77,13 +77,13 @@
 8d
 8g
 4b
-8a
-8g
+8aL
+8gJ
 =14
 8f#
 8a
 4cc
-4b}
+4bm}
 !!LO:LB:g=esac
 =15
 {8a
@@ -99,3 +99,5 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=164 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 155} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 155}
 !!!page: 155
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

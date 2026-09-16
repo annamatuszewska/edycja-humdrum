@@ -9,52 +9,55 @@
 *G:
 *M3/4
 =1
-{8cc
+{8ccL
 16dd
-16ee
+16eeJ
 4gg
 4dd
 =2
 4ff
 4aa
-4gg
+4ggM
 =3
-8ff
-8ee
+8ffL
+8eeJ
 4cc
-16b-
+16b-L
 16a
-8g
+8gJ\
 =4
 4a
 4a
 4g}
 !!LO:LB:g=esac
 =5
-{8b-
-8dd
+{8b-iL
+8ddJ
 4cc
-8a
-8g
+8aL
+8gJ
 =6
-4b-
+4b-i
 4dd
 4ff
 =7
-8gg
-8ee
+8ggL
+8eeJ
 4cc
-16b
+16bL
 16a
-8g
+8gJ
 =8
 4a
 4f
 4g}
 ==
 *-
+!!!RDF**kern: i = editorial accidental
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=155 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 146} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 146}
 !!!page: 146
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14
