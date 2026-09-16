@@ -3,64 +3,166 @@
 !!!source: DWOK42
 !!!id: 421835
 !!!signature: 42183500000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8cc
-8cc
-8cc
-8cc
-8b
-8cc
-=2
-8ee
-8dd
-4.dd
-8b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8cc	Już
+8cc	mój
+8cc	ci-
+8cc	-sak
+8b	o-
+8cc	-sio-
+=2	=2
+8eeL	-dła-
+8ddJ	.
+(4.dd	-ny,
+8b)}	.
 !!LO:LB:g=esac
-=3
-{8dd
-8dd
-8dd
-8dd
-8ff
-8ee
-=4
-4ee
-4dd
-4r
-=5
-8ee
-8ee
-8ee
-8ee
-8dd
-8ee}
+=3	=3
+{8dd	ja-
+8dd	-dę
+8dd	do
+8dd	teś-
+8gg	-ci
+8ff	w_goś-
+=4	=4
+4ff	-ci-
+4ee	-nę,
+4r	.
+=5	=5
+8ee	roz-
+8ee	-swi-
+8ee	-tał
+8ee	już
+8dd	dzień
+8ee}	ró-
 !!LO:LB:g=esac
-=6
-{8gg
-8ff
-4.ff
-8ee
-=7
-8ff
-8dd
-8b
-8b
-8g
-8ff
-=8
-8dd
-8cc
-4cc}
-4r
-==
-*-
+=6	=6
+{8gg	-ża-
+8ff	.
+(4.ff	-ny,
+8ee)	.
+=7	=7
+8ff	że-
+8dd	-gnam,
+8b	o,
+8b	że-
+8g	-gnam
+8ff	He-
+=8	=8
+8ddL	-le-
+8ccJ	.
+4cc}	-nę.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Już mój cisak osiodłany,
+!!jade do teści w gościnę,
+!!rozswitał już dzień różany,
+!!żegnam, o, żegnam Helenę.
+!!@VERSE:
+!!Helena wstaje z poscieli,
+!!na ręku dziecię wynosi,
+!!raz się jeszcze uścisnęli,
+!!Pana Boga za nim prosi.
+!!@VERSE:
+!!Boże, strzeż go od zguby,
+!!strzeż i ochraniaj go wszędzie,
+!!ty się nie baw, Stasiu luby,
+!!bez ciebie nam tęskno będzie.
+!!@VERSE:
+!!Słysząc to dziecie nadobne
+!!oczka do nieba podnosi,
+!!składając swe rączki drobne
+!!i za ojcem Boga prosi.
+!!@VERSE:
+!!Boże, strzeż tatę od zguby.
+!!strzeż i ochraniaj go wszędzie,
+!!ty sie nie baw, tato luby,
+!!bez ciebie nam tęskno będzie.
+!!@VERSE:
+!!Ruszył w drogę cisak skory,
+!!długo za sobą patrzyli,
+!!niós go przez doliny, góry,
+!!aż na dole zniknął wcale.
+!!@VERSE:
+!!Dniem i nocą od poranku
+!!jedzie spieszno do swej teści,
+!!ta go sciska: Luby Stasiu,
+!!powiedz, jakie niesiesz wieści?
+!!@VERSE:
+!!Łaska boska na nas swieci,
+!!mamy zdrowie w piekném mieniu,
+!!ode mnie, żony i dzieci
+!!przyjmij, matko, pozdrowienie.
+!!@VERSE:
+!!Rzekła matka z radości,
+!!łza w jej oku zabłysnęła,
+!!wprowadziwszy do światlicy,
+!!tam go jeszcze uścisnęła.
+!!@VERSE:
+!!Tam on spoczywa z podróży,
+!!nazajutrz raniuchno wstaje,
+!!idzie do teści zięć luby,
+!!ale mu się serce kraje.
+!!@VERSE:
+!!Sniło mi się, jakby pszczoły
+!!uciekały we dwa roje,
+!!pierścień się rozpęk na poły,
+!!gwiazda spadła na wieś moję.
+!!@VERSE:
+!!Ach, zięciu mój, synie luby,
+!!jedźże, jedźże do swej żony,
+!!przygoda ciebie nie minie,
+!!znajdziesz żal nieutulony.
+!!@VERSE:
+!!Bo lecących pszczół dwa roje
+!!są płynących łez dwa zdroje,
+!!a twój pierścień rozłamany
+!!związek ślubu rozerwany.
+!!@VERSE:
+!!Gwiazdy, co z nieba spadają
+!!w pogodnej wieczornej dobie,
+!!te niestety oznaczają,
+!!że ktoś z krewnych poległ w grobie.
+!!@VERSE:
+!!Przyjeżdża on pod swe wrota,
+!!pyta, gdzie jest żona młoda,
+!!nie wyszła jego pieszczota,
+!!kryła ją świeża mogiła.
+!!@VERSE:
+!!Synek siedzi nad mogiłą,
+!!a na nią wiatrek powiewa,
+!!sadzi kwiaty on tam mile
+!!i cichą je łzą polewa.
+!!@VERSE:
+!!Bóg cię, ojcze, strzeg od zguby,
+!!strzeg i ochraniał cie wszędzie,
+!!wszakżeś wiedział, ojcze luby,
+!!bez ciebie nam tęskno będzie.
+!!@VERSE:
+!!Ach, tu mamę pochowali,
+!!poszła w gościnę do Boga,
+!!i wszyscy mnie powiedają,
+!!że tędy do Boga droga.
+!!@VERSE:
+!!Tu ja jej wyglądać chodze,
+!!tu dawno, dawno łzy leję,
+!!sadzę kwiaty na jej grobie,
+!!ale mnie każdy więdnieje.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=241 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 232} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 232}
 !!!page: 232
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

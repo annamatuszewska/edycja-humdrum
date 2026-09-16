@@ -3,92 +3,140 @@
 !!!source: DWOK42
 !!!id: 421871
 !!!signature: 42187100000
-**kern
-*clefG2
-*k[]
-*C:
-*M6/8
-=1
-{8cc
-8cc
-8cc
-16cc
-16cc
-8b
-8cc
-=2
-4dd
-8r
-4r
-8r
-=3
-8dd
-8dd
-8dd
-8dd
-8cc
-8dd}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M6/8	*
+=1	=1
+{8cc	Nie
+8cc	masz
+8cc	jak
+16cc	ka-
+16cc	-wa-
+8b	-ler-
+8cc	-ski
+=2	=2
+4dd	stan,
+8r	.
+4r	.
+8r	.
+=3	=3
+8dd	człek
+8dd	ży-
+8dd	-je
+8dd	so-
+8cc	-bie
+8dd}	jak
 !!LO:LB:g=esac
-=4
-{4ee
-8r
-4r
-8r
-=5
-8cc
-8ee
-8ee
-8ee
-8dd
-8ee
-=6
-4ff}
-8r
-4r
-8r
+=4	=4
+{4ee	pan,
+8r	.
+4r	.
+8r	.
+=5	=5
+8cc	gdzie
+8ee	chcę,
+8ee	to
+8ee	ja-
+8dd	-dę
+8ee	na
+=6	=6
+4ff}	bal,
+8r	.
+4r	.
+8r	.
 !!LO:LB:g=esac
-=7
-{8b
-8b
-8b
-8b
-8a
-8b
-=8
-4cc
-8r
-4r
-8r
-=9
-8cc
-8ee
-8ee
-8ee
-8dd
-8ee}
+=7	=7
+{8b	któr-
+8b	-nej
+8b	chcę,
+8b	to
+8a	ku-
+8b	-pię
+=8	=8
+4cc	szal,
+8r	.
+4r	.
+8r	.
+=9	=9
+8cc	co
+8ee	wie-
+8ee	-czór
+8ee	gram
+8dd	so-
+8ee}	-bie
 !!LO:LB:g=esac
-=10
-{4ff
-8a
-4dd
-8cc
-=11
-8b
-8b
-8b
-8b
-8a
-8b
-=12
-8cc
-8cc}
-8r
-4r
-8r
-==
-*-
+=10	=10
+{(4ff	w_wis-
+8a	.
+4dd)	.
+8cc	-ta,
+=11	=11
+8b	prze-
+8b	-gry-
+8b	-wam
+8b	po
+8a	zło-
+8b	-tych
+=12	=12
+8cc	trzy-
+8cc}	-sta.
+8r	.
+4r	.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Nie masz jak kawalerski stan,
+!!człek żyje sobie jak pan,
+!!gdzie chcę, to jadę na bal,
+!!którnej chcę, to kupię szal,
+!!co wieczór gram sobie w wista,
+!!przegrywam po złotych trzysta.
+!!@VERSE:
+!!Od żony, gdy złotych pięć,
+!!to już się tu przed nią kręć.
+!!Otóż to żoneczkę masz,
+!!mężowie, biedny stan wasz.
+!!@VERSE:
+!!Na panienki nie patrzaj już,
+!!choć nie chcesz, to oczy zmruż.
+!!Otóż to żoneczkę masz,
+!!mężowie, biedny stan wasz.
+!!@VERSE:
+!!Nie dogodź jej, gdy chora,
+!!sprowadzaj dla niej doktora.
+!!Otóż to żoneczkę masz,
+!!mężowie, biedny stan wasz.
+!!@VERSE:
+!!Na różne spazmy, katary
+!!i insze choroby bez miary.
+!!Otóż to żoneczkę masz,
+!!mężowie, biedny stan wasz.
+!!@VERSE:
+!!A mężu, kupże mi kocz,
+!!a nie, to ustąp mnie z ocz.
+!!Otóż to żoneczkę masz,
+!!mężowie, biedny stan wasz.
+!!@VERSE:
+!!Do kocza kupuj i szory,
+!!jedź, nie chodź na wieczory.
+!!Otóż to żoneczkę masz,
+!!mężowie, biedny stan wasz.
+!!@VERSE:
+!!Przysięgnijmy sobie wraz
+!!nie żenić się nigdy wczas
+!!i nie brać dotąd żon,
+!!nim się nie zbliży nasz zgon.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=272 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 263} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 263}
 !!!page: 263
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

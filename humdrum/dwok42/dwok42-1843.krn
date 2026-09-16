@@ -3,54 +3,86 @@
 !!!source: DWOK42
 !!!id: 421843
 !!!signature: 42184300000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8cc
-8cc
-8cc
-8cc
-=2
-8b
-8a
-4g
-=3
-8f#
-8a
-8d
-8f#
-=4
-8g
-8b
-4dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8cc	Ma-
+8cc	-ryś
+8cc	mo-
+8cc	-ja,
+=2	=2
+8bL	Ma-
+8aJ	.
+4g	-ryś,
+=3	=3
+8f#	Bo-
+8a	-ga
+8d	się
+8f#	nie
+=4	=4
+8gL	bo-
+8bJ	.
+4dd}	-is,
 !!LO:LB:g=esac
-=5
-{8cc
-8cc
-8cc
-8cc
-=6
-8dd
-8cc
-8b
-8g
-=7
-8f#
-8a
-8d
-32e
-16.f#
-=8
-4g
-4g}
-==
-*-
+=5	=5
+{8cc	wi-
+8cc	-dzia-
+8cc	-łem
+8cc	cie
+=6	=6
+8dd	pod
+8cc	o-
+8b	-kien-
+8g	-kiem,
+=7	=7
+8f#	z_bar-
+8a	-na-
+8d	-dy-
+32eL	-nem
+16.f#J	.
+=8	=8
+4g	sto-
+4g}	-is.
+==	==
+*-	*-
+!!!role-singer: Mother, Daughter
+!!!role-listener: Daughter, Mother
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Maryś moja, Maryś,
+!!Boga się nie bois,
+!!widziałem cie pod okienkiem,
+!!z barnadynem stois.
+!!@VERSE:
+!!Mamulenku, dalibóg,
+!!jam nic nie gadała,
+!!tylko jedną gałązeckę
+!!rozmarynu dała.
+!!@VERSE:
+!!Zawołał mnie ksiądz swiecki
+!!do swej komórecki.
+!!Napijes sie, Maryś moja,
+!!cukrowej wódecki.
+!!@VERSE:
+!!Ksiądz kapucyn z wielgą brodą
+!!przytula do siebie.
+!!Nie bojś, nie bojś, Maryś moja,
+!!będziem razem w niebie.
+!!@VERSE:
+!!Ksiądz frańciskun tka talara,
+!!na suknie darował
+!!i wraz suplikę do nieba
+!!pisać obiecował.
+!!@@END: VERSES
 !!!ONB: wariant w takcie 2: 3__2__1__-5__
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=245 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 236} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 236}
 !!!page: 236
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

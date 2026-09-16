@@ -3,85 +3,106 @@
 !!!source: DWOK42
 !!!id: 421853
 !!!signature: 42185300000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8g
-8b
-8cc#
-=2
-4dd
-8d
-=3
-16g
-16a
-8b
-8f#
-=4
-4.g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8g	Ro-
+8b	-śnie
+8cc#	na
+=2	=2
+4dd	sta-
+8d	-wie
+=3	=3
+16g	trzci-
+16a	-na
+8b	wspa-
+8f#	-nia-
+=4	=4
+4.g}	-ła,
 !!LO:LB:g=esac
-=5
-{8g
-8b
-8cc#
-=6
-4dd
-8d
-=7
-16g
-16a
-8b
-8f#
-=8
-4g}
-8r
+=5	=5
+{8g	ro-
+8b	-śnie
+8cc#	w_o-
+=6	=6
+4dd	-gró-
+8d	-dku
+=7	=7
+16g	le-
+16a	-li-
+8b	-ja
+8f#	bia-
+=8	=8
+4g}	-ła.
+8r	.
 !!LO:LB:g=esac
-=9
-{16.f#
-32g
-8a
-8g
-=10
-16b
-16cc#
-8dd
-8g
-=11
-16b
-16dd
-8gg
-8ee
-=12
-16dd
-16dd
-8b
-8g}
+=9	=9
+{16.f#	To
+32g	le-
+8a	-li-
+8g	-ja,
+=10	=10
+16b	a
+16cc#	to
+8dd	trzci-
+8g	-na,
+=11	=11
+16b	a
+16dd	to
+8gg	na-
+8ee	-do-
+=12	=12
+16dd	-bna
+16dd	dziew-
+8b	-czy-
+8g}	-na,
 !!LO:LB:g=esac
-=13
-{16f#
-16g
-8a
-8g
-=14
-16f#
-16g
-8ee
-8dd
-=15
-16.cc#
-32dd
-8cc
-8f#
-=16
-4g}
-8r
-==
-*-
+=13	=13
+{16f#	ko-
+16g	-chać
+8a	ją
+8g	bę-
+=14	=14
+16f#	-de,
+16g	ma-
+8ee	-mu-
+8dd	-lu,
+=15	=15
+16.cc#	ko-
+32dd	-chać
+8cc	ją
+8f#	bę-
+=16	=16
+4g}	-de.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!role-listener: Mother
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Rośnie na stawie trzcina wspaniała,
+!!rośnie w ogródku lelija biała.
+!!To lelija, a to trzcina,
+!!a to nadobna dziewczyna,
+!!kochać ją będę, mamulu,
+!!kochać ją będę.
+!!@VERSE:
+!!Będe ja żynał pszenicy kłosy
+!!i będe stawiał na polu kopy.
+!!Jak mi się kwiatek nawinie,
+!!poniosę go na dolinę,
+!!oddam dziewcynie, mamulu.
+!!oddam dziewcynie.
+!!@@END: VERSES
 !!!ONB: wariant w takcie 12: 6_5_3__1__
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=252 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 243} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 243}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

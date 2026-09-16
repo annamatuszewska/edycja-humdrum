@@ -3,63 +3,90 @@
 !!!source: DWOK42
 !!!id: 421879
 !!!signature: 42187900000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M6/8
-=1
-{8ff
-8ff
-8ff
-4ee
-8dd
-=2
-8cc
-8dd
-8cc
-4a
-8f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M6/8	*
+=1	=1
+!!LO:TX:a:t=miejska
+{8ff	Bo-
+8ff	-że
+8ff	mój,
+4ee	Bo-
+8dd	-że,
+=2	=2
+8cc	ży-
+8dd	-cia
+8cc	mo-
+4a	-je-
+8f}	-go,
 !!LO:LB:g=esac
-=3
-{8cc
-8cc
-8cc
-4dd
-8g
-=4
-4b-
-8a
-4f
-8r
-=5
-8f
-8e
-8f
-4g
-8e}
+=3	=3
+{8cc	a
+8cc	cóż
+8cc	ja
+4dd	bę-
+8g	-dę
+=4	=4
+4b-	czy-
+8a	-ni-
+4f	-ła?
+8r	.
+=5	=5
+8f	Mia-
+8e	-łam
+8f	ko-
+4g	-chan-
+8e}	-ka
 !!LO:LB:g=esac
-=6
-{8f
-8f
-8f
-4a
-8cc
-=7
-8ff
-8ff
-8ff
-4ee
-8g
-=8
-4b-
-8a
-4f}
-8r
-==
-*-
+=6	=6
+{8f	u-
+8f	-lu-
+8f	-bio-
+4a	-ne-
+8cc	-go
+=7	=7
+8ff	i
+8ff	te-
+8ff	-gom
+4ee	so-
+8g	-bie
+=8	=8
+4b-	stra-
+8a	-ci-
+4f}	-ła.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!role-listener: God, Bachelor
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Boże mój, Boże życia mojego,
+!!a cóż ja będę czyniła?
+!!Miałam kochanka ulubionego
+!!i tegom sobie straciła.
+!!Alboż mi rajcie, albo mi dajcie,
+!!albo mi serce wyjmijcie,
+!!niech ja nie żyje, młoda dziewczyna,
+!!niech ja nie żyję na swiecie.
+!!@VERSE:
+!!A czyś nie doznał miłości mojéj,
+!!o mój kochanku jedyny?
+!!Gdy cię nie widzę w krótkich momentach,
+!!przeklinam swoje godziny.
+!!@VERSE:
+!!O, żebym była lotną ptaszyną,
+!!poleciałabym do niego,
+!!czemuż nie widzę ulubionego?
+!!Złączone serce do niego.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=278 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 269} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 269}
 !!!page: 269
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

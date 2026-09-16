@@ -3,68 +3,75 @@
 !!!source: DWOK42
 !!!id: 421833
 !!!signature: 42183300000
-**kern
-*clefG2
-*k[]
-*a:
-=1
-{8a
-8b
-4cc
-4a
-=2
-*M3/4
-4dd
-8ee
-8ff#
-4gg
-=
-!!UNCATEGORIZED MEASURE
-8ff#
-8gg
-4aa
-8bb
-8aa}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+=1	=1
+*M3/4	*
+{8aL	Szu-
+8bJ	.
+4cc	-mia-
+4a	-ła
+=2	=2
+4dd	lesz-
+8eeL	-czy-
+8ff#J	.
+4gg	-na,
+=3	=3
+8ff#	by-
+8gg	-stra
+4aa	wo-
+8bbL	-da
+8aaJ}	.
 !!LO:LB:g=esac
-=
-!!UNCATEGORIZED MEASURE
-{12gg
-12ff#
-12ee
-2dd
-=
-!!UNCATEGORIZED MEASURE
-8gg
-8ff#
-8gg
-8dd
-4ee
-4a}
+=4	=4
+{12ggL	pły-
+12ff#J	.
+12ee	-nę-
+2dd	-ła,
+=5	=5
+*M4/4	*
+8ggL	cho-
+8ff#J	.
+8ggL	-dzi-
+8ddJ	.
+4ee	-ła
+4a}	[tam]
 !!LO:LB:g=esac
-=
-!!UNCATEGORIZED MEASURE
-{8cc
-8ee
-12dd
-12ee
-12cc
-4a
-4g
-=3
-*M3/4
-8cc
-8a
-4cc
-4ee
-=4
-12dd
-12ee
-12cc
-2a}
-==
-*-
+=6	=6
+{8cc	pie-
+8ee	-kna
+12ddL	Ta-
+12eeJ	.
+12cc	-ta-
+4a	-ro-
+4g	-wna,
+=7	=7
+*M3/4	*
+8cc	dro-
+8a	-bne
+4cc	lis-
+4ee	-cie
+=8	=8
+12ddL	zbie-
+12eeJ	.
+12cc	-ra-
+2a}	-ła.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Szumiała leszczyna,
+!!bystra woda płynęła,
+!!chodziła [tam] piekna Tatarowna,
+!!drobne liscie zbierała.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=240 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 231} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 231}
 !!!page: 231
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

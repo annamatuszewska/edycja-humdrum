@@ -3,52 +3,73 @@
 !!!source: DWOK42
 !!!id: 421812
 !!!signature: 42181200000
-**kern
-*clefG2
-*k[]
-*a:
-*M2/4
-=1
-{8ee
-8ee
-8dd#
-8ee
-=2
-8cc
-8cc
-8b
-8a
-=3
-8cc
-8b
-8cc
-8dd
-=4
-4ee
-4aa}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M2/4	*
+=1	=1
+{8ee	Ko-
+8ee	-mu
+8dd#	bi-
+8ee	-da,
+=2	=2
+8cc	ko-
+8cc	-mu
+8b	bi-
+8a	-da,
+=3	=3
+8cc	a
+8b	mnie,
+8cc	a
+8dd	mnie
+=4	=4
+4ee	bar-
+4aa}	-dzo,
 !!LO:LB:g=esac
-=5
-{8ee
-8ee
-8dd#
-8ee
-=6
-8cc
-8cc
-8a
-8g
-=7
-8cc
-8cc
-8b
-8dd
-=8
-4a
-4a}
-==
-*-
+=5	=5
+{8ee	u-
+8ee	-kła-
+8dd#	-dłam
+8ee	sie
+=6	=6
+8cc	ko-
+8cc	-le
+8a	pie-
+8g	-ca,
+=7	=7
+8cc	cie-
+8cc	-le
+8b	na
+8dd	mnie
+=8	=8
+4a	wla-
+4a}	-zło.
+==	==
+*-	*-
+!!!role-singer: Poor Woman
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Komu bida, komu bida,
+!!a mnie, a mnie bardzo,
+!!układłam sie kole pieca,
+!!ciele na mnie wlazło.
+!!@VERSE:
+!!Ja pogłasce po łusinie.
+!!a to łyse ciele,
+!!ja odsuwam się do pieca,
+!!jono ogonem miele.
+!!@VERSE:
+!!A toś, byśku, a toś, byśku,
+!!cego u mnie chces, chces?
+!!Obadałem kepkę trawy,
+!!chciałemby ją zjeść, zjeść.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=229 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 220} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 220}
 !!!page: 220
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

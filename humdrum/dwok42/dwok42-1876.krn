@@ -3,131 +3,157 @@
 !!!source: DWOK42
 !!!id: 421876
 !!!signature: 42187600000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{4.cc
-8g
-8g
-8f
-=2
-8.f
-16f
-4f
-4e
-=3
-4.cc
-8g
-8g
-8f
-=4
-4e}
-4r
-4r
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{4.cc	Sia-
+8g	-łem
+8g	pro-
+8f	-so
+=2	=2
+8.f	na
+16f	za-
+4f	-go-
+4e	-nie,
+=3	=3
+4.cc	nie
+8g	mo-
+8g	-głem
+8f	go
+=4	=4
+4e}	zżąć,
+4r	.
+4r	.
 !!LO:LB:g=esac
-=5
-{4.cc
-8g
-8g
-8f
-=6
-8.f
-16f
-4f
-4e
-=7
-4.cc
-8g
-8g
-8f
-=8
-4e}
-4r
-4r
+=5	=5
+{4.cc	po-
+8g	-ko-
+8g	-cha-
+8f	-łem
+=6	=6
+8.f	lu-
+16f	-be
+4f	dziew-
+4e	-cze,
+=7	=7
+4.cc	nie
+8g	mo-
+8g	-głem
+8f	jej
+=8	=8
+4e}	wziąść.
+4r	.
+4r	.
 !!LO:LB:g=esac
-=9
-{8cc
-8cc
-2cc
-=10
-4.ee
-8dd
-4dd
-=11
-8dd
-8dd
-4dd
-4e
-=12
-4f
-4e}
-4r
+=9	=9
+{8cc	Co
+8cc	to
+2cc	siać,
+=10	=10
+4.ee	a
+8dd	nie
+4dd	zżąć,
+=11	=11
+8dd	co
+8dd	ko-
+4dd	-chać
+4e	a
+=12	=12
+4f	nie
+4e}	wziąść,
+4r	.
 !!LO:LB:g=esac
-=13
-{4cc
-4cc
-4cc
-=14
-4.ee
-8dd
-8dd
-8dd
-=15
-8dd
-8dd
-4dd
-4e
-=16
-4f
-4e}
-4r
+=13	=13
+{4cc	po-
+4cc	-sia-
+4cc	-łem,
+=14	=14
+(4.ee	nie
+8dd)	.
+8dd	zżą-
+8dd	-łem,
+=15	=15
+8dd	ko-
+8dd	-cha-
+4dd	-łem,
+4e	nie
+=16	=16
+4f	wzią-
+4e}	-łem.
+4r	.
 !!LO:LB:g=esac
-=17
-{4.cc
-8g
-8g
-8f
-=18
-8f
-8f
-4e
-4r
-=19
-4.cc
-8g
-8g
-8f
-=20
-8f
-8f
-4e}
-4r
+=17	=17
+{(4.cc	Gdzie
+8g)	.
+8g	sze-
+8f	-dłem,
+=18	=18
+8f	to
+8f	do
+4e	nij,
+4r	.
+=19	=19
+(4.cc	com
+8g)	.
+8g	my-
+8f	-ślał,
+=20	=20
+8f	to
+8f	o
+4e}	nij,
+4r	.
 !!LO:LB:g=esac
-=21
-{4cc
-4cc
-4cc
-=22
-4.ee
-8dd
-8dd
-8dd
-=23
-8dd
-8dd
-4dd
-4e
-=24
-4f
-4e}
-4r
-==
-*-
+=21	=21
+{4cc	i
+4cc	no-
+4cc	-cy
+=22	=22
+4.ee	nie
+8dd	.
+8dd	do-
+8dd	-spał,
+=23	=23
+8dd	i
+8dd	lu-
+4dd	-bej
+4e	nie
+=24	=24
+4f	do-
+4e}	-stał.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Siałem proso na zagonie, nie mogłem go zżąć,
+!!pokochałem lube dziewcze, nie mogłem jej wziąść.
+!!Co to siać, a nie zżąć,
+!!co to kochać a nie wziąść,
+!!posiałem, nie zżąłem,
+!!kochałem, nie wziąłem.
+!!Gdzie szedłem, to do nij,
+!!com myślał, to o nij,
+!!i nocy nie dospał,
+!!i lubej nie dostał.
+!!@VERSE:
+!!Przysięgała moja miła, że mi będzie stała,
+!!u niej usta koralowe i te pieśni powtarzała,
+!!a gdy dzwony dzwonią na ranne wstawanie,
+!!biegnę w pole słuchać ptasząt śpiewanie,
+!!leciałem, biegłem
+!!i coś spostrzegłem,
+!!zadrzałem, sadrzałem,
+!!już lubej nie chciałem.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=275 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 266} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 266}
 !!!page: 266
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

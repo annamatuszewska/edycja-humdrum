@@ -3,58 +3,77 @@
 !!!source: DWOK42
 !!!id: 421801
 !!!signature: 42180100000
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/4
-=1
-{8a
-8cc#
-4ee
-4ff#
-=2
-8dd
-8b
-4a
-4cc#
-=3
-8a
-8cc#
-4ee
-4ff#
-=4
-8dd
-8b
-4a
-4e}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M3/4	*
+=1	=1
+{8a	Na
+8cc#	Po-
+4ee	-do-
+4ff#	-lu
+=2	=2
+8dd	wo-
+8b	-da
+4a	to-
+4cc#	-pi,
+=3	=3
+8a	tam
+8cc#	bez
+4ee	por-
+4ff#	-tek
+=4	=4
+8dd	cho-
+8b	-dzą
+4a	chło-
+4e}	-pi,
 !!LO:LB:g=esac
-=5
-{8g#
-8b
-4b
-4dd
-=6
-8a
-8cc#
-4ee
-4dd
-=7
-8b
-8b
-4b
-4dd
-=8
-8ee
-16cc#
-16b
-4a
-4e}
-==
-*-
+=5	=5
+{8g#	a
+8b	i
+4b	da-
+4dd	-my
+=6	=6
+8a	bez
+8cc#	ko-
+4ee	-su-
+4dd	-li,
+=7	=7
+8b	kie-
+8b	-dy
+4b	ko-
+4dd	-cha,
+=8	=8
+8ee	to
+16cc#L	się
+16bJ/	.
+4a	tu-
+4e}	-li.
+==	==
+*-	*-
+!!!role-singer: Narrator, Man
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Na Podolu woda topi,
+!!tam bez portek chodzą chłopi,
+!!a i damy bez kosuli,
+!!kiedy kocha, to się tuli.
+!!@VERSE:
+!!Bez kapustę, bez cybule
+!!do damulki się przytulę.
+!!@VERSE:
+!!Hejze, hejze, figlus maglus,
+!!bez kapustę prosto w kalmus,
+!!hejze, hejze, nie zartujze,
+!!jeśliś nie kiep, pocałujze.
+!!@@END: VERSES
 !!!ONB: wariant w takcie 3: 1_3_5__5_6_
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=223 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 214-215} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, pp. 214-215}
 !!!page: 214-215
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

@@ -3,51 +3,68 @@
 !!!source: DWOK42
 !!!id: 421815
 !!!signature: 42181500000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8g
-8b
-8dd
-8cc#
-=2
-4a
-4f#
-=3
-8g
-8b
-8dd
-8cc#
-=4
-4a
-4f#}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8g	Za
+8b	gó-
+8dd	-rec-
+8cc#	-kę
+=2	=2
+4a	za-
+4f#	-sła,
+=3	=3
+8g	trze-
+8b	-wic-
+8dd	-ka-
+8cc#	-mi
+=4	=4
+4a	trza-
+4f#}	-sła.
 !!LO:LB:g=esac
-=5
-{8g
-8b
-8cc
-16cc
-16b
-=6
-8g
-8g
-8f#
-8f#
-=7
-8g
-8b
-8cc
-8b
-=8
-4g
-4f#}
-==
-*-
+=5	=5
+{8g	Nie
+8b	po-
+8cc	-wia-
+16ccL	-daj,
+16bJ	.
+=6	=6
+8g	mój
+8g	Ja-
+8f#	-sień-
+8f#	-ku,
+=7	=7
+8g	z_kim
+8b	ja
+8cc	woł-
+8b	-ki
+=8	=8
+4g	pa-
+4f#}	-sła.
+==	==
+*-	*-
+!!!role-singer: Narrator, Maiden
+!!!role-listener: Bachelor
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Za góreckę zasła,
+!!trzewickami trzasła.
+!!Nie powiadaj, mój Jasieńku,
+!!z kim ja wołki pasła.
+!!@VERSE:
+!!Nie sama ja zasła,
+!!mnie chłopcy zawiedli,
+!!jeden Jasiek, drugi Stasiek,
+!!bodaj kata zjedli.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=230 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 221-222} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, pp. 221-222}
 !!!page: 221-222
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

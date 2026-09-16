@@ -3,87 +3,101 @@
 !!!source: DWOK42
 !!!id: 421854
 !!!signature: 42185400000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8d
-8g
-8b
-=2
-8dd
-4b
-=3
-8b
-8cc
-8a
-=4
-4g
-8d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8d	Gdy
+8g	w_czy-
+8b	-stem
+=2	=2
+8dd	po-
+4b	-lu
+=3	=3
+8b	sło-
+8cc	-ne-
+8a	-czko
+=4	=4
+4g	świé-
+8d}	-ci,
 !!LO:LB:g=esac
-=5
-{8d
-8g
-8b
-=6
-8dd
-4ee
-=7
-16dd
-16ee
-8b
-16cc
-16a
-=8
-4g
-8d}
+=5	=5
+{8d	dzio-
+8g	-nek
+8b	przy
+=6	=6
+8dd	pra-
+4ee	-cy
+=7	=7
+16ddL	prę-
+16eeJ	.
+8b	-dzéj
+16ccL	u-
+16aJ	.
+=8	=8
+4g	-le-
+8d}	-ci,
 !!LO:LB:g=esac
-=9
-{16a
-16cc
-8f#
-8cc
-=10
-16b
-16g
-8.ee
-16dd
-=11
-16b
-16cc
-8a
-8cc
-=12
-16ee
-16dd
-8.b
-16g}
+=9	=9
+{16a	i
+16cc	mnie
+8f#	chwi-
+8cc	-le
+=10	=10
+16b	prę-
+16g	-dko
+8.ee	pły-
+16dd	-ną,
+=11	=11
+16b	i
+16cc	go-
+8a	-dzi-
+8cc	-na
+=12	=12
+16ee	za
+16dd	go-
+8.b	-dzi-
+16g}	-ną
 !!LO:LB:g=esac
-=13
-{16a
-16cc
-8f#
-8cc
-=14
-16b
-16g
-8.ee
-16dd
-=15
-16cc#
-16dd
-16b
-16a
-8cc
-=16
-4.g}
-==
-*-
+=13	=13
+{16a	z_mo-
+16cc/	-ją
+8f#	Ma-
+8cc	-ry-
+=14	=14
+16b	-ną,
+16g	ma-
+8.ee	-tu-
+16dd	-lu,
+=15	=15
+16cc#	z_mo-
+16dd	-ją
+16bL	Ma-
+16aJ	.
+8cc	-ry-
+=16	=16
+4.g}	ną.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!role-listener: Mother
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Gdy w czystem polu słoneczko świéci,
+!!dzionek przy pracy prędzéj uleci,
+!!i mnie chwile prędko płyną,
+!!i godzina za godziną
+!!z moją Maryną, matulu,
+!!z moją Maryną.
+!!@@END: VERSES
 !!!ONB: wariant w takcie 13: (234)-7_4_ wariant w takcie 15: 4#5324-7
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=252 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 243} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 243}
 !!!page: 243
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

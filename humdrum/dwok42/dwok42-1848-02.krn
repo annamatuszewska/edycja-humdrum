@@ -3,44 +3,53 @@
 !!!source: DWOK42
 !!!id: 421848
 !!!signature: 42184800002
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{8a
-8cc
-4ee
-4ee
-=2
-8dd
-8b
-4dd
-4ff
-=3
-4ee
-4cc
-4a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+{8a	A
+8cc	z_po-
+4ee	-do-
+4ee	-la,
+=2	=2
+8dd	mo-
+8b	-je
+4dd	woł-
+4ff	-ki,
+=3	=3
+4ee	z_po-
+4cc	-do-
+4a}	-la,
 !!LO:LB:g=esac
-=4
-{8g
-8b
-4.dd
-8b
-=5
-8dd
-8cc
-4a
-4cc
-=6
-4b
-4g
-4e}
-==
-*-
+=4	=4
+{8g	wy-
+8b	-gna-
+4.dd	-ła
+8b	mnie
+=5	=5
+8dd	od
+8cc	ma-
+4a	-tyń-
+4cc	-ki
+=6	=6
+4b	swy-
+4g	-wo-
+4e}	-la.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!A z podola, moje wołki, z podola,
+!!wygnała mnie od matyńki swywola.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=249 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 240} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 240}
 !!!page: 240
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

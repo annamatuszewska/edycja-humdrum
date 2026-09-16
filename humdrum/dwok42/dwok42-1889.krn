@@ -3,86 +3,136 @@
 !!!source: DWOK42
 !!!id: 421889
 !!!signature: 42188900000
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M6/8
-{8f
-=1
-4b-
-8f
-8b-
-8a
-8b-
-=2
-4.cc
-8g
-8r
-8g}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M6/8	*
+{8f	Nad
+=1	=1
+4b-	rze-
+8f	-czką,
+8b-	gdy
+8a	by-
+8b-	-stro
+=2	=2
+4.cc	pły-
+8g	-nie,
+8r	.
+8g}	je-
 !!LO:LB:g=esac
-=3
-{4cc
-8cc
-8cc
-8b-
-8cc
-=4
-4.dd
-8b-
-8r
-8f}
+=3	=3
+{4cc	-dna
+8cc	dziew-
+8cc	-czy-
+8b-	-na
+8cc	sie-
+=4	=4
+4.dd	-dzia-
+8b-	-ła,
+8r	.
+8f}	za
 !!LO:LB:g=esac
-=5
-{4dd
-8dd
-8dd
-8cc
-8dd
-=6
-4.ee-
-8gg
-8r
-8ff}
+=5	=5
+{4dd	cóż
+8dd	tej
+8dd	bie-
+8cc	-dnej
+8dd	dziew-
+=6	=6
+4.ee-	-czy-
+8gg	-nie
+8r	.
+8ff}	łza
 !!LO:LB:g=esac
-=7
-{4ee-
-8a
-8a
-8g
-8a
-=8
-4.cc
-8b-
-8r
-8f}
+=7	=7
+{4ee-	na
+8a	mu-
+8a	-ra-
+8g	-wę
+8a	pa-
+=8	=8
+4.cc	-da-
+8b-	-ła.
+8r	.
+8f}	.
 !!LO:LB:g=esac
-=9
-{4dd
-8dd
-8dd
-8cc
-8dd
-=10
-4.ee-
-8gg
-8r
-8ff}
+=9	=9
+{4dd	cóż
+8dd	tej
+8dd	bie-
+8cc	-dnej
+8dd	dziew-
+=10	=10
+4.ee-	-czy-
+8gg	-nie
+8r	.
+8ff}	łza
 !!LO:LB:g=esac
-=11
-{4ee-
-8a
-8a
-8g
-8a
-=12
-4.cc
-8b-}
-8r
-==
-*-
+=11	=11
+{4ee-	na
+8a	mu-
+8a	-ra-
+8g	-wę
+8a	pa-
+=12	=12
+4.cc	-da-
+8b-}	-ła.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Nad rzeczką, gdy bystro płynie,
+!!jedna dziewczyna siedziała,
+!!za cóż tej biednej dziewczynie
+!!łza na murawę padała.
+!!@VERSE:
+!!Z kwiateczków wianeczki plecie,
+!!co uplecie, to w wodę wrzuci,
+!!biedna ja jestem sierota,
+!!nikt już do mnie nie powróci.
+!!@VERSE:
+!!Bogacz, przechodząc w tę stronę,
+!!ujrzał płaczącą dziewczynę.
+!!Czegoś łzy lejesz, nieboże,
+!!powiedz mi płaczu przyczynę.
+!!@VERSE:
+!!Nie pytaj mnie, panie, o to
+!!cała ze łzami zalana,
+!!ja jestem biedną sierotą,
+!!Bóg mi tylko pomoc daje.
+!!@VERSE:
+!!Gdy się wykradnę na chwilę
+!!lub opiekunka pozwoli,
+!!siadam na ojca, matki mogile,
+!!tam się napłaczę do woli.
+!!@VERSE:
+!!Może zmarłych zbudzę prędzej,
+!!będą radzić mojej nędzy,
+!!każą ziemi się otworzyć
+!!i przy sobie się położyć.
+!!@VERSE:
+!!Nie płacz, dziewczyno kochana,
+!!w twych troskach doznasz ochłody,
+!!ja twoim ojcem zostanę,
+!!te czucie warte nagrody.
+!!@VERSE:
+!!Precz od ludzi pójdę sobie,
+!!niech się o mnie nic kłopoczą.
+!!@VERSE:
+!!Nie płacz, dziewczyno kochana,
+!!tylko patrz na moje jęki
+!!i ciesz się z tego tyrana,
+!!który cię wyrwał z mej ręki.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=288 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 279} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 279}
 !!!page: 279
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

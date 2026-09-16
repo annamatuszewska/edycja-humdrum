@@ -3,73 +3,81 @@
 !!!source: DWOK42
 !!!id: 421849
 !!!signature: 42184900000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8g
-8b
-4dd
-4gg
-=2
-8ee
-8b
-4cc
-4ee
-=3
-4dd
-4a
-4cc
-=4
-8g
-8a
-4b
-4cc}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8g	A
+8b	za
+4dd	la-
+4gg	-sem_[...]
+=2	=2
+8ee	.
+8b	.
+4cc	.
+4ee	.
+=3	=3
+4dd	.
+4a	.
+4cc	.
+=4	=4
+8g	.
+8a	.
+4b	.
+4cc}	.
 !!LO:LB:g=esac
-=5
-{8b
-8a
-4b
-4cc
-=6
-4a
-4f#
-4g
-=7
-8g
-8a
-4b
-4cc
-=8
-8b
-8a
-4b
-4cc}
+=5	=5
+{8b	.
+8a	.
+4b	.
+4cc	.
+=6	=6
+4a	.
+4f#	.
+4g	.
+=7	=7
+8g	.
+8a	.
+4b	.
+4cc	.
+=8	=8
+8b	.
+8a	.
+4b	.
+4cc}	.
 !!LO:LB:g=esac
-=9
-{4a
-4cc
-4dd
-=10
-8ee
-8a
-4cc
-4cc
-=11
-8b
-8a
-4b
-4cc
-=12
-4a
-4f#
-4g}
-==
-*-
+=9	=9
+{4a	.
+4cc	.
+4dd	.
+=10	=10
+8ee	.
+8a	.
+4cc	.
+(8ddq	.
+4cc)	.
+=11	=11
+8b	.
+8a	.
+4b	.
+4cc	.
+=12	=12
+4a	.
+4f#	.
+4g}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!A za lasem_[...]
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=249 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 240} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 240}
 !!!page: 240
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

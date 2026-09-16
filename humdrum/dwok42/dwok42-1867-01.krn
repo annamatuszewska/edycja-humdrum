@@ -3,91 +3,131 @@
 !!!source: DWOK42
 !!!id: 421867
 !!!signature: 42186700001
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16e
-16f#
-8g#
-8a
-=2
-4b
-8dd#
-=3
-16ee
-16dd#
-8b
-8g#
-=4
-16b
-16cc
-8a}
-8r
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{16e	Do-
+16f#	-po-
+8g#	-móż
+8a	mnie,
+=2	=2
+4b	Bo-
+8dd#	-że,
+=3	=3
+16ee	w_te-
+16dd#	-ra-
+8b	-źniej-
+8g#	-szym
+=4	=4
+16bL	ro-
+16ccJ	.
+8a}	-ku,
+8r	.
 !!LO:LB:g=esac
-=5
-{16e
-16f#
-8g#
-8a
-=6
-4b
-8dd#
-=7
-16ee
-16dd#
-8b
-8g#
-=8
-16b
-16cc
-8a}
-8r
+=5	=5
+{16e	bę-
+16f#	-dę
+8g#	mę-
+8a	-ża
+=6	=6
+4b	szu-
+8dd#	-kać
+=7	=7
+16ee	z_ra-
+16dd#	-na
+8b	aż
+8g#	do
+=8	=8
+16bL	zmro-
+16ccJ	.
+8a}	-ku.
+8r	.
 !!LO:LB:g=esac
-=9
-{16a
-16cc
-8ee
-8ee
-=10
-16b
-16dd
-8cc
-8b
-=11
-16a
-16b
-8cc
-8cc
-=12
-16b
-16g#
-8e
-8e}
+=9	=9
+{16a	Bym
+16cc	do-
+8ee	-bre-
+8ee	-go
+=10	=10
+16b	mę-
+16dd	-ża
+8cc	mia-
+8b	-ła,
+=11	=11
+16a	bym
+16b	się
+8cc	je-
+8cc	-mu
+=12	=12
+16b	po-
+16g#	-do-
+8e	-ba-
+8e}	-ła,
 !!LO:LB:g=esac
-=13
-{16e
-16f#
-8g#
-8a
-=14
-4b
-8dd#
-=15
-16ee
-16dd#
-8b
-8g#
-=16
-16b
-16cc
-4a}
-==
-*-
+=13	=13
+{16e	wo-
+16f#	-lę
+8g#	go
+8a	miéć
+=14	=14
+4b	w_do-
+8dd#	-mu,
+=15	=15
+16ee	niż
+16dd#	kła-
+8b	-niać
+8g#	się
+=16	=16
+16bL	ko-
+16ccJ	.
+4a}	-mu.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!role-listener: God
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Dopomóż mnie, Boże, w teraźniejszym roku,
+!!będę męża szukać z rana aż do zmroku.
+!!Bym dobrego męża miała,
+!!bym się jemu podobała,
+!!wolę go miéć w domu.
+!!niż kłaniać się komu.
+!!@VERSE:
+!!Za dworaka nie pójdę, bo nie spracowany,
+!!nad pańskim dobytkiem jest on sfrasowany.
+!!W jego głowie, jak we młynie,
+!!jedną kocha, drugą minie,
+!!koło trzeciéj siada,
+!!czwartéj sekret gada.
+!!@VERSE:
+!!Bogacza(1) nie wezmę, bo wielki skowera(2),
+!!nad kawałkiem chleba mało nie umiera.
+!!Ubogiego nie daj, Panie,
+!!bo na suknie mnie nie stanie,
+!!kiedy gość przyjedzie.
+!!w co się ubrać bedzie?
+!!@VERSE:
+!!Tylko ja wolę za swego młodziana,
+!!lepiéj na cię patrzyć niżeli na pana.
+!!Bo mój młodzian jest sprawny,
+!!w swej robocie nie zabawny(3),
+!!wolę go mieć w domu,
+!!niż kłaniać się komu.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: (1) lub: skąpego
+!!(2) [sknera]
+!! (3) prędki
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=266 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 257} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 257}
 !!!page: 257
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

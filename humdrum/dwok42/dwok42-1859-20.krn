@@ -3,86 +3,110 @@
 !!!source: DWOK42
 !!!id: 421859
 !!!signature: 42185900020
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8g
-8b
-4dd
-4cc
-=2
-4ee
-2cc
-=3
-8g
-8b
-4dd
-4cc
-=4
-4ee
-2cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8g	Oj,
+8b	nie
+4dd	jest
+4cc	to
+=2	=2
+(8dd#q	.
+4ee)	wprawdzie,
+2cc	.
+=3	=3
+8g	to
+8b	lu-
+4dd	-dzkie
+4cc	u-
+=4	=4
+(8dd#q	.
+4ee)	-da-
+2cc}	-nie,
 !!LO:LB:g=esac
-=5
-{4.g
-8f#
-8e
-8g
-=6
-8g
-8g
-4cc
-4dd
-=7
-8ee
-8g
-4a
-4b
-=8
-4cc
-2cc}
+=5	=5
+{4.g	a
+8f#	są
+8e	da-
+8g	-wne
+=6	=6
+8g	ta-
+8g	-kie
+4cc	cza-
+4dd	-sy,
+=7	=7
+8ee	chło-
+8g	-pcy
+4a	bar-
+4b	-dzo
+=8	=8
+4cc	ta-
+2cc}	-nie.
 !!LO:LB:g=esac
-=9
-{8g
-8cc
-4ee
-4cc
-=10
-4dd
-2cc
-=11
-8g
-8cc
-4ee
-4cc
-=12
-4dd
-2cc}
+=9	=9
+{8g\	Za
+8cc	sto-
+4ee	-do-
+4cc	-łą
+=10	=10
+4dd	scie-
+2cc	-ska,
+=11	=11
+8g\	cho-
+8cc	-waj,
+4ee	ma-
+4cc	-tko,
+=12	=12
+4dd	pie-
+2cc}	-ska,
 !!LO:LB:g=esac
-=13
-{4.g
-8f#
-8e
-8g
-=14
-4g
-4cc
-4dd
-=15
-8ee
-8g
-4a
-4b
-=16
-4cc
-2cc}
-==
-*-
+=13	=13
+{4.g	mas,
+8f#	A-
+8e	-nu-
+8g	-siu,
+=14	=14
+4g	ła-
+(4cc	-dną,
+4dd)	.
+=15	=15
+8ee	chło-
+8g	-pcy
+4a	ci
+4b	u-
+=16	=16
+4cc	-kra-
+2cc}	-dną.
+==	==
+*-	*-
+!!!role-singer: Baschelor, Maiden
+!!!role-listener: Maiden, Bachelor, Mother
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Moja Andziu, czy to ładnie
+!!cudzą rzecz na siebie brać,
+!!twoje oczko serce kradnie,
+!!podobno niepięknie tak.
+!!@VERSE:
+!!Oj, nie jest to wprawdzie,
+!!to ludzkie udanie,
+!!a są dawne takie czasy,
+!!chłopcy bardzo tanie.
+!!@VERSE:
+!!Za stodołą scieska,
+!!chowaj, matko, pieska,
+!!mas, Anusiu, ładną,
+!!chłopcy ci ukradną.
+!!@@END: VERSES
 !!!ONB: wariant w takcie 9 i 11: +1+1+3_+1_, wariant w takci 14{ 55+1_+2_
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=257 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 248-249} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, pp. 248-249}
 !!!page: 248-249
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

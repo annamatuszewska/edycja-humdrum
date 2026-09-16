@@ -3,66 +3,76 @@
 !!!source: DWOK42
 !!!id: 421836
 !!!signature: 42183600000
-**kern
-*clefG2
-*k[]
-*C:
-=1
-*M4/4
-{8g
-8cc
-8cc
-8ee
-4ee
-8dd
-8cc
-=2
-4cc
-4b}
-2r
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+=1	=1
+*M4/4	*
+{8g	Po-
+8cc	-je-
+8cc	-chał
+8ee	Ja-
+(4ee	-sio
+8dd)	.
+8cc	na
+=2	=2
+4cc	ło-
+4b}	-wy
+2r	.
 !!LO:LB:g=esac
-=3
-*M3/4
-{8g
-8b
-8dd
-8ee
-8ff
-8b
-=4
-4dd
-4cc
-4r
-=5
-*M4/4
-4.ee
-8dd
-4dd
-4cc}
+=3	=3
+*M3/4	*
+{8g	[i
+8b	snem
+8dd	był
+8ee	prę-
+8ff	-dkim
+8b	zmo-
+=4	=4
+4dd	-rzo-
+4cc	-ny,
+4r	.
+=5	=5
+*M4/4	*
+4.ee	pus-
+8dd	-ca
+4dd	ko-
+4cc}	-ni-
 !!LO:LB:g=esac
-=6
-{4ff
-8ee
-8ee
-4ee
-4dd
-=7
-*M3/4
-8g
-8b
-8dd
-8ee
-8ff
-8b
-=8
-4dd
-4cc}
-4r
-==
-*-
+=6	=6
+{(4ff	-ki
+8ee)	.
+8ee	na
+4ee	tra-
+4dd	-we,
+=7	=7
+*M3/4	*
+8g	sam
+8b	sie
+8dd	kła-
+8ee	-dzie
+8ff	na
+8b	mu-
+=8	=8
+4dd	-ra-
+4cc}	-we].
+4r	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Pojechał Jasio na łowy
+!![i snem był prędkim zmorzony.
+!!pusca koniki na trawe,
+!!sam sie kładzie na murawe].
+!!@@END: VERSES
 !!!ONB: wariant w takcie 2:+177_0__
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=242 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 233} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 233}
 !!!page: 233
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

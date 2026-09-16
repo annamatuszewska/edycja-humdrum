@@ -3,52 +3,109 @@
 !!!source: DWOK42
 !!!id: 421820
 !!!signature: 42182000002
-**kern
-*clefG2
-*k[]
-*a:
-*M2/4
-=1
-{8a
-8a
-8cc
-8dd
-=2
-4.ee
-8dd
-=3
-8cc
-8b
-8cc
-8a
-=4
-8a
-8g
-8g}
-8r
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M2/4	*
+=1	=1
+{8aL	Ma-
+8aJ\	.
+8cc	-ła
+8dd	ry-
+=2	=2
+4.ee	-be-
+8dd	-czka,
+=3	=3
+8cc	ta
+8b	wo-
+8cc	-dę
+8a	zmą-
+=4	=4
+8aL	-ci-
+8gJ\	.
+8g}	-ła,
+8r	.
 !!LO:LB:g=esac
-=5
-{8ff
-8ee
-8ff
-8dd
-=6
-8ee
-8cc
-8b
-8a
-=7
-8g#
-8ff
-8ee
-8ee
-=8
-4.a
-8a}
-==
-*-
+=5	=5
+{8ff	ach,
+8ee	ja
+8ffL	nie-
+8ddJ/	-szczę-
+=6	=6
+8eeL	-śli-
+8cc	.
+8bJ/	.
+8a	-wa
+=7	=7
+8g#L	cie-
+8ffJ/	-bie
+8ee	się
+8ee	chwy-
+=8	=8
+4.a	-ci-
+8a}	-ła.
+==	==
+*-	*-
+!!!role-singer: Maiden, Bachelor
+!!!role-listener: Bachelor, Maiden
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Mała rybeczka,
+!!ta wodę zmąciła,
+!!ach, ja nieszczęśliwa
+!!ciebie się chwyciła.
+!!@VERSE:
+!!Wysoko, daleko
+!!dwa listeczki w parze,
+!!a kto nas rozłączył,
+!!niech go Pan Bóg skarze.
+!!@VERSE:
+!!Niech go Pan Bóg skarze,
+!!z gruntu wykorzeni,
+!!a kto kogo kocha,
+!!a potem odmieni.
+!!@VERSE:
+!!Już siadam na konia,
+!!już się żegnam z tobą.
+!!pamiętaj, dziewczyno,
+!!jak my żyli z sobą.
+!!@VERSE:
+!!Już siadam na konia,
+!!już noga w strzemieniu,
+!!pamiętaj, dziewczyno,
+!!o mojém imieniu.
+!!@VERSE:
+!!Już siadam na konia,
+!!już noga w poślisku,
+!!pamiętaj, dziewczyno,
+!!o mojém nazwisku.
+!!@VERSE:
+!!Bodaj ci, Jasieńku,
+!!słońce nie świeciło,
+!!bodaj ciebie niebo
+!!ciemnością przykryło.
+!!@VERSE:
+!!Bodajeś nie uszed
+!!piorunowéj strzały,
+!!te chtóre padają
+!!na lasy, na skały.
+!!@VERSE:
+!!Pomsty ty nie wołaj,
+!!niech nas sam Bóg sądzi,
+!!czyli ty, czyli ja,
+!!nie wiem, chto z nas błądzi.
+!!@VERSE:
+!!Drobne wy kamiki
+!!wśród morza padajcie,
+!!a memu serdeńku
+!!żalu umniejszajcie.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=234 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 225} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 225}
 !!!page: 225
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

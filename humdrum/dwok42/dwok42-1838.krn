@@ -3,71 +3,98 @@
 !!!source: DWOK42
 !!!id: 421838
 !!!signature: 42183800000
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M3/4
-=1
-{8ff
-8ee-
-4cc
-8dd
-8ee
-=2
-2ff
-4dd
-=3
-8ff
-8ee-
-4cc
-8dd
-8ee
-=4
-2ff
-4dd}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M3/4	*
+=1	=1
+{8ff	Wi-
+8ee-	-de-
+4cc	-łe-
+8ddL	-cki
+8eeJ	.
+=2	=2
+2ff	stru-
+4dd	-gał,
+=3	=3
+8ff	na
+8ee-	dziew-
+4cc	-cy-
+8ddL	-nę
+8eeJ	.
+=4	=4
+2ff	mru-
+4dd}	-gał,
 !!LO:LB:g=esac
-=5
-{8ff
-8gg
-4cc
-4ee-
-=6
-8cc
-8dd
-2b-
-=7
-8a
-8g
-4f
-4a
-=8
-4b-
-2cc}
+=5	=5
+{8ff	wi-
+8gg	-de-
+4cc	-łe-
+4ee-	-cki
+=6	=6
+8ccL	ci-
+8ddJ	.
+2b-	-snął,
+=7	=7
+8a	dziew-
+8g	-cy-
+4f	-nę
+4a	przy-
+=8	=8
+4b-/	-ci-
+2cc}	-snął,
 !!LO:LB:g=esac
-=9
-{8ff
-8gg
-4cc
-8ee-
-8dd
-=10
-8cc
-8dd
-2b-
-=11
-8a
-8g
-4f
-4a
-=12
-8g
-8b-
-2cc}
-==
-*-
+=9	=9
+{8ff	wi-
+8gg	-de-
+4cc	-łe-
+8ee-L	-cki
+8ddJ/	.
+=10	=10
+8ccL	ci-
+8ddJ	.
+2b-	-snął,
+=11	=11
+8a	dziew-
+8g	-cy-
+4f	-nę
+4a	przy-
+=12	=12
+8gL	-ci-
+8b-J\	.
+2cc}	-snął.
+==	==
+*-	*-
+!!!role-singer: Narrator, Maiden, Bachelor
+!!!role-listener: Bachelor, Maiden
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Widełecki strugał,
+!!na dziewcynę mrugał,
+!!|:widełecki cisnął,
+!!dziewcynę przycisnął:|.
+!!@VERSE:
+!!Pijesz, Jasiu, pijes,
+!!a ja boso chodzę,
+!!|:zmarniałam bez ciebie,
+!!światu sie nie godzę:|.
+!!@VERSE:
+!!Oj, choć ci ja pije,
+!!to o tobie myśle,
+!!|:jednakze ja tobie
+!!na trzewicki przyśle:|.
+!!@VERSE:
+!!Pijes, Jasiu, pijes,
+!!siedzis nad kwartami,
+!!|:a ja w domu biédna
+!!ze swemi dzieciami:|.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=243 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 234} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 234}
 !!!page: 234
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

@@ -3,41 +3,78 @@
 !!!source: DWOK42
 !!!id: 421818
 !!!signature: 42181800010
-**kern
-*clefG2
-*k[f#]
-*G:
-*M4/4
-=1
-{4dd
-8dd
-8ee
-4.dd
-8b
-=2
-8g
-8b
-8dd
-8cc
-4a
-4r
-=3
-4dd
-8dd
-8ee
-4.dd
-8b
-=4
-8g
-8b
-8dd
-8cc
-4a}
-4r
-==
-*-
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M4/4	*
+=1	=1
+{4dd	Ej,
+8dd	cię-
+8ee	-zko,
+4.dd	cię-
+8b	-zko
+=2	=2
+8g	zyć
+8b	bez
+8dd	czło-
+8cc	-wie-
+4a	-ka,
+4r	.
+=3	=3
+4dd	ko-
+8dd	-go
+8ee	ja
+4.dd	ko-
+8b	-cham,
+=4	=4
+8g	wi-
+8b	-dzę
+8dd	z_da-
+8cc	-le-
+4a}	-ka,
+4r	.
+==	==
+*-	*-
+!!!role-singer: Maiden, Bachelor
+!!!role-listener: Bachelor, Maiden
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Ej, cięzko, cięzko zyć bez człowieka,
+!!kogo ja kocham, widzę z daleka,
+!!woda bieleje, las sie zielenieje,
+!!moje serdeńko od załości mgleje.
+!!@VERSE:
+!!Spojrzę ja w okno, skąd idzie droga,
+!!westchnę serdecnie do Pana Boga,
+!!spojrzę drugi raz, już Jasieńko jedzie,
+!!już pewno skutek będzie mojej biedzie.
+!!@VERSE:
+!!Ej, zeń się, Jasiu, albo daj komu,
+!!niech ja nie chodzę po twoim domu,
+!!sam żenić nie będę i nie dam nikomu,
+!!zaprzęgę koniki, odwiozę do domu.
+!!@VERSE:
+!!Scęśliwe wiatry, co wolność mają,
+!!z którnej strony zechcą, z tej powiewają,
+!!a ja niescęśliwa, wolności ja nié mam
+!!i kogo ja kocham, ten u mnie nie bywa.
+!!@VERSE:
+!!Ej, zagraj, zagraj ładnie, muzyka,
+!!niech moje serce zalu unika,
+!!i wy, ptasęta, śpiewać pomagajcie,
+!!moje mnie serdeńka rozweselajcie.
+!!@VERSE:
+!!Ej, pójdę, pójdę, różnemi drogami,
+!!ej, cy nie zejde ze swemi wrogami,
+!!wrogi moje, wrogi, co sobie myślicie,
+!!ja świata uzyję, a wy licha zjécie.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=232 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 223} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 223}
 !!!page: 223
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

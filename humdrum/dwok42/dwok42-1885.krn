@@ -3,57 +3,97 @@
 !!!source: DWOK42
 !!!id: 421885
 !!!signature: 42188500000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16d
-16d
-8b
-8dd
-=2
-16d
-16d
-8b
-8dd
-=3
-16d
-16d
-8.cc
-16b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16d	Cóż
+16d	za
+8b	ka-
+8dd	-ra
+=2	=2
+16d	Pa-
+16d	-na
+8b	Bo-
+8dd	-ga,
+=3	=3
+16d	nie
+16d	u-
+8.cc	-wa-
+16b}	-żasz,
 !!LO:LB:g=esac
-=4
-{16a
-16g
-8f#
-8g
-=5
-16f#
-16a
-8.dd
-16cc
-=6
-16b
-16a
-8b
-8g}
+=4	=4
+{16a	że
+16g	zła
+8f#	dro-
+8g	-ga,
+=5	=5
+16f#	tyl-
+16a	-ko
+8.dd	jeź-
+16cc	-dzisz
+=6	=6
+16b	na
+16a	ba-
+8b	-li-
+8g}	-ki,
 !!LO:LB:g=esac
-=7
-{16f#
-16g
-8a
-8b
-=8
-16a
-16f#
-8g
-8g}
-==
-*-
+=7	=7
+{16f#	siaz-
+16g	-drzesz
+8a	su-
+8b	-knie,
+=8	=8
+16a	drzesz
+16f#	bu-
+8g	-ci-
+8g}	-ki.
+==	==
+*-	*-
+!!!role-singer: Parent
+!!!role-listener: Maiden
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Cóż za kara Pana Boga,
+!!nie uważasz, że zła droga,
+!!tylko jeździsz na baliki,
+!!siazdrzesz(1) suknie, drzesz buciki.
+!!@VERSE:
+!!A ja szewcom drogo płacę,
+!!a to wszystko na twe tańce,
+!!przestań, przestań anglizować(2),
+!!lepij kury porachować.
+!!@VERSE:
+!!Ni masz nici na pończoszki,
+!!tylko stroisz swoje loczki,
+!!przestań, przestań już tej nędzy,
+!!wszak widzisz, ni ma piniędzy.
+!!@VERSE:
+!!Sprzedaj fraczek(3), zastaw duszę,
+!!a ja na bal jechać muszę.
+!!O, szory się połamały,
+!!koła z bryki pospadały.
+!!@VERSE:
+!!Każ to wszystko posporządzać,
+!!bo mi na bal czas wyjeźdźać.
+!!Furman strząsł się i choruje,
+!!lokaj zląkł się i porzucił,
+!!pani na bal sie szykuje.
+!!@VERSE:
+!!Niechaj kona, a niech siada,
+!!bo mi na bal czas wypada.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: (1) szargasz
+!!(2) [przerabiać na sposób angielski]
+!!(3) lub: honor
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=284 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 275} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 275}
 !!!page: 275
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

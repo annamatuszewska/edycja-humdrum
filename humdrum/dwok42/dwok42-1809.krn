@@ -3,63 +3,75 @@
 !!!source: DWOK42
 !!!id: 421809
 !!!signature: 42180900000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8g
-8f#
-8g
-8a
-8b
-8cc
-=2
-8dd
-8ee
-4dd
-4cc#}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8g	Ma-
+8f#	-tu-
+8gL	-lin-
+8aJ	.
+8bL	-ku,
+8ccJ	.
+=2	=2
+8dd	co
+8een	mi
+4dd	da-
+4cc#}	-cie,
 !!LO:LB:g=esac
-=3
-{8a
-8cc#
-4dd
-4b
-=4
-8g
-8b
-8a
-8f#
-4d
-=5
-8g
-8f#
-8g
-8a
-8b
-8cc}
+=3	=3
+{8a	co
+8cc#	mnie
+4dd	zię-
+4bM	-ciem
+=4	=4
+8g	na-
+8b	-zy-
+8aL	-wa-
+8f#J	.
+4d	-cie?
+=5	=5
+8g	Dam
+8f#	ci
+8gL	kro-
+8aJ	.
+8bL	-wę
+8ccJ}	.
 !!LO:LB:g=esac
-=6
-{8dd
-8ee
-4dd
-4cc#
-=7
-8a
-8cc#
-4dd
-4a
-=8
-4.g
-8g
-8g
-8d}
-==
-*-
+=6	=6
+{8dd	i
+8een	ko-
+4dd	-by-
+4cc#	-łę,
+=7	=7
+8a	i
+8cc#	dziew-
+4dd	-cy-
+4a	-nę
+=8	=8
+4.g	car-
+8g	-no-
+8g	-bry-
+8d}	-wę.
+==	==
+*-	*-
+!!!role-singer: Bachelor, Mother-In-Law
+!!!role-listener: Mother-In-Law, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Matulinku, co mi dacie,
+!!co mnie zięciem nazywacie?
+!!Dam ci krowę i kobyłę,
+!!i dziewcynę carnobrywę.
+!!@@END: VERSES
 !!!ONB: wariant w takcie 7: 24#5_(232)
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=227 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 218} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 218}
 !!!page: 218
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

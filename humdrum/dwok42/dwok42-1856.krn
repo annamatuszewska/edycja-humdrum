@@ -3,61 +3,119 @@
 !!!source: DWOK42
 !!!id: 421856
 !!!signature: 42185600000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16f
-16a
-8cc
-8cc
-=2
-4ff
-8a
-=3
-8b-
-4g
-=4
-16gg
-16ff
-8ee
-8dd}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16f	W_sa-
+16a	-dzie
+8cc	gru-
+8cc	-ski,
+=2	=2
+4ff	chło-
+8a	-dek
+=3	=3
+8b-	mi-
+4g	-ły,
+=4	=4
+16gg	mo-
+16ff	-je
+8ee	pie-
+8dd}	-śni
 !!LO:LB:g=esac
-=5
-{4cc
-8g
-=6
-8b-
-4a
-=7
-16f
-16a
-8cc
-8cc
-=8
-4ff
-8a}
+=5	=5
+{4cc	mnie
+8g	ba-
+=6	=6
+8b-	-wi-
+4a	-ły,
+=7	=7
+16f	ja-
+16a	-sne
+8cc	zo-
+8cc	-rze
+=8	=8
+4ff	o-
+8a}	-świe-
 !!LO:LB:g=esac
-=9
-{8b-
-4dd
-=10
-16cc
-16b-
-8a
-8g
-=11
-4cc
-8e
-=12
-8g
-4f}
-==
-*-
+=9	=9
+{8b-	-ci-
+4dd	-ło,
+=10	=10
+16ccM	naj-
+16b-	-mi-
+8a	-lej-
+8g	-sa
+=11	=11
+4cc	mo-
+8e	-ja
+=12	=12
+8g	by-
+4f}	-ła.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!W sadzie gruski, chłodek miły,
+!!moje pieśni mnie bawiły,
+!!jasne zorze oświeciło,
+!!najmilejsa moja była.
+!!@VERSE:
+!!Najmilejsa posła w trzodę,
+!!najślieniejsa kwiatek z rozy.
+!!@VERSE:
+!!Zrywa kwiatek na ten wieniec
+!!i powiada, ze młodzieniec;
+!!zrywa kwiatek na ten wianek
+!!i powiada, ze kochanek.
+!!@VERSE:
+!!Na baliku tańcowałaś,
+!!pierwsy raz sie widzić dałaś,
+!!taką niespokojność miałem,
+!!nigdy nocki nie sypiałem.
+!!@VERSE:
+!!Cyzli ty mnie zcarowała,
+!!cysli ty mnie co zadała,
+!!kiedy ja cię dzień nie widzę,
+!!to ja sam siebie się brzydzę.
+!!@VERSE:
+!!Po innych krajach bywałem,
+!!róznych panienek widziałem,
+!!a żadnej tak nie cierpiałem,
+!!kiedy cię scerze kochałem.
+!!@VERSE:
+!!Kiedy kochas go grzecnego,
+!!nie miej myśli nic insego,
+!!te kochanie w wzajemności,
+!!kto się kocha w statecności.
+!!@VERSE:
+!!Kiedy kochas, kochaj stale,
+!!kiedy nie chces, porzuć wcale,
+!!nie zadawaj sercu nudy,
+!!nie weźmies ty, weźmie drugi.
+!!@VERSE:
+!!Jak usiądę kole ciebie,
+!!to ja myśle, ze ja w niebie,
+!!jak cię w rąckę pocałuje,
+!!tydzień w gębie cukier cuję.
+!!@VERSE:
+!!Kiedy kochas, kochaj z dusy,
+!!kiedy nie checs, niech cię rusy(1),
+!!nie zadawaj sercu rany,
+!!będzie drugi mój kochany.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: (1) Przekleństwo: „Kab (aby) cię rusyło, kab cię sperło (przyparło), kab cię na-
+!!padło”.
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=254 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 245} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 245}
 !!!page: 245
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

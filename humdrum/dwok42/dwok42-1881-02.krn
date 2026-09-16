@@ -3,105 +3,132 @@
 !!!source: DWOK42
 !!!id: 421881
 !!!signature: 42188100002
-**kern
-*clefG2
-*k[]
-*C:
-*M4/4
-=1
-{4cc
-8cc
-8cc
-4b
-4g
-=2
-8cc
-8cc
-8cc
-8cc
-8cc
-8b
-4b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M4/4	*
+=1	=1
+{4cc	Ach
+8cc	ser-
+(8ddq	.
+8cc)	-ce,
+4b	ser-
+4g	-ce,
+=2	=2
+8cc	co
+8cc	za
+8cc	ra-
+8cc	-dę
+8ccL	mi
+8bJ/	.
+4b}	dasz,
 !!LO:LB:g=esac
-=3
-{8g
-8b
-8dd
-8ee
-4.ff
-8dd
-=4
-8ff
-8ee
-8dd
-8b
-8dd
-8cc
-4cc}
+=3	=3
+{8g	ko-
+8b	-go
+8dd	ja
+8ee	tu
+4.ff	ko-
+8dd	-cham,
+=4	=4
+8ff	nie
+8ee	ma
+8dd	go
+8b	tu
+8ddL	te-
+8ccJ/	.
+4cc}	-raz.
 !!LO:LB:g=esac
-=5
-{4cc
-8g
-8g
-4cc
-4g
-=6
-8cc
-8cc
-8b
-8cc
-4dd
-4g}
+=5	=5
+{4cc	.
+8g	.
+8g	.
+4cc	.
+4g	.
+=6	=6
+8cc	.
+8cc	.
+8b	.
+8cc	.
+4dd	.
+4g}	.
 !!LO:LB:g=esac
-=7
-{8dd
-8dd
-8g
-8g
-4.dd
-8cc
-=8
-8b
-8b
-8gg
-8ff
-8ff
-8ee
-4ee}
+=7	=7
+{8dd	.
+8dd	.
+8g	.
+8g	.
+4.dd	.
+8cc	.
+=8	=8
+8b	.
+8b	.
+8gg	.
+8ff	.
+8ffL	.
+8eeJ/	.
+4ee}	.
 !!LO:LB:g=esac
-=9
-{2ee
-8ee
-8dd
-8cc
-8b
-=10
-8a
-8a
-8a
-8a
-8a
-8b
-4cc}
+=9	=9
+{(2ee	.
+8ee)	.
+8dd	.
+8cc	.
+8b	.
+=10	=10
+8a	.
+8a	.
+8a	.
+8a	.
+8aL	.
+8bJ	.
+4cc}	.
 !!LO:LB:g=esac
-=11
-{8dd
-8dd
-8dd
-8dd
-4.dd
-8g
-=12
-8g
-8g
-8a
-8b
-4dd
-4cc}
-==
-*-
+=11	=11
+{8dd	.
+8dd	.
+8dd	.
+8dd	.
+4.dd	.
+8g	.
+=12	=12
+8g	.
+8g	.
+8a	.
+8b	.
+4dd	.
+4cc}	.
+==	==
+*-	*-
+!!!role-singer: Enamoured
+!!!role-listener: Heart
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Ach serce, serce,
+!!co za radę mi dasz,
+!!kogo ja tu kocham,
+!!nie ma go tu teraz.
+!!@VERSE:
+!!Nié ma go tu teraz
+!!i pono nie będzie,
+!!z kimże moje serce
+!!romansować będzie?
+!!@VERSE:
+!!A zakochawszy się,
+!!trzeba żyć w niewoli,
+!!ach, serce, serce,
+!!powiedz, co cię boli?
+!!@VERSE:
+!!Nic mię nie boli,
+!!niemiła godzina.
+!!ach, serce, serce,
+!!cóż to za przyczyna?
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=280 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 271-272} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, pp. 271-272}
 !!!page: 271-272
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

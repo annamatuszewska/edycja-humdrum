@@ -3,62 +3,103 @@
 !!!source: DWOK42
 !!!id: 421888
 !!!signature: 42188800000
-**kern
-*clefG2
-*k[]
-*C:
-*M6/8
-{8g
-=1
-4cc
-8cc
-8b
-8a
-8b
-=2
-4cc
-8cc
-4r
-8g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M6/8	*
+{8g	Nad
+=1	=1
+4cc	rze-
+8cc	-czką,
+8b	co
+8a	by-
+8b	-stro
+=2	=2
+4cc	pły-
+8cc	-nie,
+4r	.
+8g}	bie-
 !!LO:LB:g=esac
-=3
-{4cc
-8cc
-8b
-8a
-8b
-=4
-4cc
-8cc
-4r
-8g
-=5
-4dd
-8dd
-8dd
-8cc
-8dd}
+=3	=3
+{4cc	-dna
+8cc	dziew-
+8b	-czy-
+8a	-na
+8b	sie-
+=4	=4
+4cc	-dzia-
+8cc	-ła,
+4r	.
+8g	a
+=5	=5
+4dd	z_o-
+8dd	-czu
+8dd	bie-
+8cc	-dnej
+8dd}	dziew-
 !!LO:LB:g=esac
-=6
-{4ee
-8cc
-4cc
-8b
-=7
-4b
-8g
-8g
-8a
-8b
-=8
-4cc
-8cc}
-4r
-==
-*-
+=6	=6
+{(4ee	-czy-
+8cc)	.
+4cc	-nie
+8b	łza
+=7	=7
+4b	na
+8g	mu-
+8g	-ra-
+8a	-wę
+8b	spa-
+=8	=8
+4cc	-da-
+8cc}	-ła.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Nad rzeczką, co bystro płynie,
+!!biedna dziewczyna siedziała,
+!!a z oczu biednej dziewczynie
+!!łza na murawę spadała.
+!!@VERSE:
+!!Kwiatki rwała, wianki wiła,
+!!co uwinie, w wodę wrzuci(1),
+!!i woła, że do sieroty
+!!brat nigdy(2) nie powróci.
+!!@VERSE:
+!!Bogacz przejeżdżał w tę stronę,
+!!ujrzał płaczącą dziewczynę.
+!!Czegoż łzy lejesz, nieboże,
+!!powiedz mi smutku przyczynę.
+!!@VERSE:
+!!Tu mojej matki mogiła,
+!!ojciec utonął w tej rzece,
+!!brata tum także straciła
+!!i samam w cudzej opiece.
+!!@VERSE:
+!!Gdy się uwołnię na chwilę,
+!!lub opiekunka dozwoli,
+!!siadam na matki mogile,
+!!tu się napłaczę do woli.
+!!@VERSE:
+!!Nie płacz, me dziecie kochane,
+!!w mem sercu znajdziesz osłodę,
+!!ja twoim mężem zostanę,
+!!twe czucia warte nagrody.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: (1) [lub:] wkinie
+!!(2) [lub:] niby
+!!@@END:
 !!!ONB: wariant w ostatnim takcie +2_+10_
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=287 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 278} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 278}
 !!!page: 278
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

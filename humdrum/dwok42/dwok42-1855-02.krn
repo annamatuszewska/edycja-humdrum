@@ -3,94 +3,130 @@
 !!!source: DWOK42
 !!!id: 421855
 !!!signature: 42185500002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{4g
-8b
-=2
-16dd
-16b
-8b
-16a
-16g
-=3
-4b
-16dd
-16ee
-=4
-16dd
-16b
-8cc
-16a
-16g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{4g	I_wy-_-jeż-
+8b	-dżam
+=2	=2
+16dd	w_pil-
+16b	-ną
+8b	po-
+16aL	-dróz
+16gJ\	.
+=3	=3
+4b	po-
+16ddL	-mi-
+16eeJ/	.
+=4	=4
+16dd	-ną-
+16b	-wszy
+8cc	la-
+16aL	-sy
+16gJ\}	.
 !!LO:LB:g=esac
-=5
-{4b
-16dd
-16ee
-=6
-16dd
-16b
-8cc
-16a
-16g
-=7
-16cc
-16cc
-8cc
-16dd
-16cc
-=8
-16b
-16a
-16b
-16cc
-8dd}
+=5	=5
+{4b	i
+16ddL	swo-
+16eeJ/	.
+=6	=6
+16dd	-bo-
+16b	-dne
+8cc	cza-
+16aL	-sy,
+16gJ\	.
+=7	=7
+16cc	i
+16cc	wy-
+8cc	-jeż-
+16ddL	-dżam
+16ccJ	.
+=8	=8
+16b	na
+16a	ró-
+16bL	-wni-
+16ccJ	.
+8dd}	-nę,
 !!LO:LB:g=esac
-=9
-{16dd
-16dd
-8ee
-16dd
-16b
-=10
-16cc
-16a
-8a
-16g
-16f#
-=11
-16cc
-16cc
-8cc
-16dd
-16cc}
+=9	=9
+{16dd	na-
+16dd	-po-
+8eeL	-ty-
+16ddJ	.
+16b	-kam
+=10	=10
+16cc	tam
+16a	dziewczy-
+8a	.
+16gL	-nę,
+16f#J	.
+=11	=11
+16cc	o-
+16cc	-na
+8cc	się
+16ddL	mi
+16ccJ}	.
 !!LO:LB:g=esac
-=12
-{16b
-16a
-16b
-16cc
-8dd
-=13
-16dd
-16dd
-8ee
-16dd
-16b
-=14
-16cc
-16a
-8a
-8g}
-==
-*-
+=12	=12
+{16b	u-
+16a	-kło-
+16bL	-ni-
+16ccJ	.
+8dd	-ła
+=13	=13
+16ddL	i
+16ddJ/	.
+8eeL	tém
+16ddJ	.
+16b	mnie
+=14	=14
+16cc	znie-
+16a	-wo-
+8a	-li-
+8g}	-ła.
+==	==
+*-	*-
+!!!role-singer: Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!I wyjeżdżam w pilną podróz.
+!!pominąwszy lasy
+!!i swobodne czasy,
+!!i wyjeźdżam na równinę,
+!!napotykam tam dziewczynę,
+!!ona się mi ukłoniła
+!!i tém mnie zniewoliła.
+!!@VERSE:
+!!Ja na wszystko jestem gotów,
+!!dziewczyno kochana,
+!!choć koń rozhukany
+!!i odniós mnie na staję,
+!!a już mnie tchu nie staje,
+!!ona fartuszek rozdziera
+!!i pot ze mnie uciera.
+!!@VERSE:
+!!Pięknę mi nowinę głosi
+!!i na nocleg z sobą prosi.
+!!Zdrów bądź, kawalerze,
+!!ja ci mówię scerze,
+!!i wyścielę tobie łoże,
+!!i odpocniesz w méj komorze.
+!!@VERSE:
+!!Daj, Boże, by takie
+!!noclegi bywali
+!!i mnie nie mijali,
+!!podróżami bym się bawił,
+!!z panienkami chwile trawił.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=253 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 244} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 244}
 !!!page: 244
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

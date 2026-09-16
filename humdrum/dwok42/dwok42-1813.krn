@@ -3,49 +3,66 @@
 !!!source: DWOK42
 !!!id: 421813
 !!!signature: 42181300000
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{8ee
-8ee
-4ff
-=2
-8ee
-8ee
-4ff
-=3
-8ee
-8ee
-8ff
-8dd
-=4
-4cc
-4cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+=1	=1
+{8ee	Co
+8ee	mi
+4ff	das,
+=2	=2
+8ee	to
+8ee	mi
+4ff	das,
+=3	=3
+8ee	to
+8ee	ci
+8ff	zro-
+8dd	-bię
+=4	=4
+4cc	chło-
+4cc}	-pca.
 !!LO:LB:g=esac
-=5
-{4dd
-8dd
-8b
-=6
-8ee
-8cc
-4dd
-=7
-8dd
-8b
-8ee
-8cc
-=8
-4dd
-4dd}
-==
-*-
+=5	=5
+{4dd	Dam
+8dd	ci
+8b	gros
+=6	=6
+8ee	i
+8cc	ko-
+4dd	-kos,
+=7	=7
+8dd	i
+8b	pół
+8ee	kor-
+8cc	-ca
+=8	=8
+4dd	o-
+4dd}	-wsa.
+==	==
+*-	*-
+!!!role-singer: Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Co mi das, to mi das,
+!!to ci zrobię chłopca.
+!!Dam ci gros i kokos,
+!!i pół korca owsa.
+!!@VERSE:
+!!Tylko raz na mnie wlaz,
+!!ocyńkami mrugnął,
+!!takiego mi chłopca zrobił,
+!!jak z drewna wystrugnął.
+!!@@END: VERSES
 !!!ONB: wariant w takcie 4: +16+1_, wariant w takcie 8: +27+2_
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=229 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 220} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 220}
 !!!page: 220
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

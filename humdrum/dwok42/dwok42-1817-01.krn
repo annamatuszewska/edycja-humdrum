@@ -3,48 +3,114 @@
 !!!source: DWOK42
 !!!id: 421817
 !!!signature: 42181700001
-**kern
-*clefG2
-*k[]
-*a:
-*M2/4
-=1
-{8a
-8cc
-4ee
-=2
-8b
-4dd
-8cc
-=3
-8ee
-8dd
-4ee
-=4
-8cc
-4a
-8e}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M2/4	*
+=1	=1
+{8a	Wy-
+8cc	-so-
+4ee	-ki
+=2	=2
+8b	ga-
+4dd	-ne-
+8cc	-cek,
+=3	=3
+8ee	jes-
+8dd	-ce
+4ee	go
+=4	=4
+8cc	bu-
+4a	-du-
+8e}	-ją,
 !!LO:LB:g=esac
-=5
-{8b
-8e
-4g
-=6
-8b
-4dd
-8cc
-=7
-8ee
-8dd
-4ee
-=8
-8cc
-4a
-8a}
-==
-*-
+=5	=5
+{8b	mia-
+8e\	-łam
+4g	ko-
+=6	=6
+8b	-cha-
+4dd	-ne-
+8cc	-cka,
+=7	=7
+8ee	to
+8dd	mi
+4ee	lu-
+=8	=8
+8cc	-dzie
+4a;	psu-
+8a}	-ją.
+==	==
+*-	*-
+!!!role-singer: Maiden, Bachelor
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Wysoki ganecek,
+!!jesce go budują,
+!!miałam kochanecka,
+!!to mi ludzie psują.
+!!@VERSE:
+!!Nie psuje go ojciec,
+!!nie psuje go matka,
+!!o tylko go psuje
+!!pobliska sąsiadka.
+!!@VERSE:
+!!Hej, Boze moj, Boze,
+!!co kochanie może,
+!!a ja za kochaniem
+!!pojadę za morze.
+!!@VERSE:
+!!Hej, cy ja psepłynę.
+!!ej, cy ja utone,
+!!już cię za kochania
+!!nigdy nie pokinę.
+!!@VERSE:
+!!Kochanie, kochanie,
+!!komu się dostanie,
+!!tobie, moj Jasienku,
+!!tylo miej staranie.
+!!@VERSE:
+!!Latała, padała
+!!siwa gęś nad wodą,
+!!psyjdzie sie ogłupieć
+!!za dziewcyną młodą.
+!!@VERSE:
+!!Pada descyk, pada,
+!!na konika slisko,
+!!powiadają ludzie,
+!!ze kochanek blisko.
+!!@VERSE:
+!!Ej, choć go nie widać,
+!!ale on psybędzie.
+!!zasmęcone serce
+!!pocieszone będzie.
+!!@VERSE:
+!!Pukałem, stukałem,
+!!nie mogem otwozyć,
+!!musiałem rubelka
+!!na oknie połozyć.
+!!@VERSE:
+!!Rubelka na oknie,
+!!bocek na kamiuscku,
+!!ej, bolał mnie bocek
+!!psez calutki rocek.
+!!@VERSE:
+!!Kochanie, kochanie
+!!to drogie klejnoty,
+!!kto kochania nie zna,
+!!ten nie ma tęschnoty.
+!!@VERSE:
+!!Kto kochania nie zna,
+!!u Boga scęsliwy,
+!!ma nockę spokojną,
+!!dzionek nie tęschliwy.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=231 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 222} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 222}
 !!!page: 222
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

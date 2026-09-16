@@ -3,68 +3,130 @@
 !!!source: DWOK42
 !!!id: 421846
 !!!signature: 42184600001
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{8ff
-8ee
-8cc
-=2
-16dd
-16dd
-8ff
-8dd
-=3
-16a
-16cc
-8g
-8b-
-=4
-8a
-4g}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+!!LO:TX:a:t=Złodziejki obertas
+{8ff	Hej,
+8ee	sto-
+8cc	-ja-
+=2	=2
+16dd	-ła
+16dd	w_o-
+8ff	-gro-
+8dd	-dzie
+=3	=3
+16a\	w_pół
+16cc	ko-
+8g	-la-
+8b-	-na
+=4	=4
+8a	w_wo-
+4g}	-dzie,
 !!LO:LB:g=esac
-=5
-{8f
-8a
-8g
-=6
-16b-
-16dd
-8ff
-8dd
-=7
-16a
-16cc
-8g
-8b-
-=8
-8a
-4g}
+=5	=5
+{8f\	wy-_-glą-
+8a	-da-
+8g	-ła
+=6	=6
+16b-	na
+16dd	an-
+8ff	-dru-
+8dd	-sa,
+=7	=7
+16a\	czy
+16cc	an-
+8g	-drus
+8b-	nie
+=8	=8
+8a	ja-
+4g}	-dzie,
 !!LO:LB:g=esac
-=9
-{16f
-16f
-8a
-8g
-=10
-16b-
-16dd
-8ff
-8dd
-=11
-16cc
-16cc
-8g
-8b-
-=12
-8a
-4g}
-==
-*-
+=9	=9
+{16f	wy-
+16f	-glą-
+8a	-da-
+8g	-ła
+=10	=10
+16b-	na
+16dd	an-
+8ff	-dru-
+8dd	-sa,
+=11	=11
+16ccL	czy
+16ccJ/	an-
+8g	-drus
+8b-	nie
+=12	=12
+8a	ja-
+4g}	-dzie.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Hej, stojała w ogrodzie
+!!wpół kolana w wodzie,
+!!|:wyglądała na andrusa,
+!!czy andrus nie jadzie:|.
+!!@VERSE:
+!!Knaje(1) andrus, knaje,
+!!do gudłaja(2) pyta
+!!|:i przyknajał do gudlaja.
+!!ze Szlają sie wita:|.
+!!@VERSE:
+!!Mas ci, Szlaja, wichur(3),
+!!zachatraj(4) go sobie,
+!!|:niechże ja też poznam
+!!klawe(5) duszę w tobie:|.
+!!@VERSE:
+!!Miałać ja andrusa,
+!!mialam ja klawego,
+!!|:poknajał z hołotą(6),
+!!zasypali(7) mi go:|.
+!!@VERSE:
+!!Andrusać to kochać,
+!!andrusa szanować,
+!!|:a wszystkich frajerów
+!!pod ławę pochować:|.
+!!@VERSE:
+!!Gdzie andrusy kierzą(8),
+!!tam sie klawo bawią,
+!!|:wystawiaj(9), frajerze.
+!!bo ci kobz wyprawią(10):|.
+!!@VERSE:
+!!Gdzie andrusy kierzą,
+!!tam sie forsa lepi(11),
+!!|:karczmarka szewrana(12),
+!!karczmarz jeszcze lepij:|.
+!!@VERSE:
+!!Gdzie andrusy kierzą,
+!!tamój forsa pęka,
+!!|:niejeden to andrus
+!!manelami (13) brzęka:|.
+!!@VERSE:
+!!A widzisz ty, Florku,
+!!klawiśnik(14) na kołku,
+!!|:ten klawiśnik zemknij,
+!!niedźwiadka(15) odemknij:|.
+!!@VERSE:
+!!Nisko rznij, nisko rznij,
+!!boć kaniołę widać,
+!!|:kapelanka zlipuje(16),
+!!to się będzie gudrać(17):|.
+!!@VERSE:
+!!Przewróć barzybok(18) wełną,
+!!niech ci groch nie brzęczy,
+!!macaj szczeble nogą
+!!......................
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=247 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 238} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 238}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

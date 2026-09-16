@@ -3,68 +3,115 @@
 !!!source: DWOK42
 !!!id: 421882
 !!!signature: 42188200000
-**kern
-*clefG2
-*k[]
-*a:
-*M4/4
-=1
-{4a
-8cc
-8dd
-4.ee
-8dd
-=2
-4cc
-8b
-8cc
-4a
-4g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M4/4	*
+=1	=1
+{4a	Lo-
+8cc	-sie
+8dd	o-
+4.ee	-kro-
+8dd	-pny,
+=2	=2
+4cc	ży-
+8b	-cia
+8cc	ty-
+4a	-ra-
+4g}	-nie,
 !!LO:LB:g=esac
-=3
-{4cc
-8cc
-8ee
-4.gg
-8ee
-=4
-4dd
-4gg
-2ee}
+=3	=3
+{4cc	cze-
+8cc	-muś
+8ee	mię
+4.gg	cią-
+8ee	-gniesz
+=4	=4
+4dd	bez
+4gg	mia-
+2ee}	-ry?
 !!LO:LB:g=esac
-=5
-{4a
-8cc
-8dd
-4.ee
-8dd
-=6
-4cc
-16cc
-16b
-16cc
-16a
-4a
-4g}
+=5	=5
+{4a	Ka-
+8cc	-żesz
+8dd	mi
+4.ee	ko-
+8dd	-chać
+=6	=6
+4cc	nie-
+16ccL	-u-
+16bJ	.
+16cc	-lu-
+16a	-bio-
+4a	-ne-
+4g}	-go,
 !!LO:LB:g=esac
-=7
-{8ff
-8ee
-8dd
-8dd
-8ee
-8cc
-8b
-8a
-=8
-4.ee
-8g#
-4a}
-4r
-==
-*-
+=7	=7
+{8ffL	łą-
+8eeJ	.
+8dd	-czysz
+8dd	me
+8eeL	ser-
+8cc	.
+8bJ	.
+8a	-ce
+=8	=8
+4.ee;	do
+8g#	pa-
+4a}	-ry.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!role-listener: Fate, Mother
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Losie okropny, życia tyranie,
+!!czemuś mię ciągniesz bez miary?
+!!Każesz mi kochać nieulubionego,
+!!łączysz me serce do pary.
+!!@VERSE:
+!!Józio kochany, z natury dany,
+!!on jest rozumny, podciwy,
+!!on zabrał mego serca ofiary,
+!!on mój kochanek prawdziwy.
+!!@VERSE:
+!!Jegom kochała i kochać będę,
+!!sytam o chlebie, o wodzie,
+!!jak w mym kochanku smaku pozbędę,
+!!gorzyczyć będę i w miodzie.
+!!@VERSE:
+!!Bodaj nie doznał szczerości ze mnie,
+!!powiedz, kochanku, mój miły,
+!!przeklęta miłość ta nasza była,
+!!przeklinam moment, godziny.
+!!@VERSE:
+!!Godziny smutne i obłudliwe,
+!!nie widać mego miłego,
+!!żebym wiedziała, smutna dziewczyna,
+!!pobiegłać bym ja do niego.
+!!@VERSE:
+!!Niech cię, o matko, złoto nie ślepi,
+!!ani majątek uwodzi,
+!!z miłym w ubóstwie będzie nam lepij,
+!!z niemiłym rozkosz zaszkodzi.
+!!@VERSE:
+!!Nie staw waspani krosienków, mamulu,
+!!bo mnie myśl do nich nie wiedzie,
+!!tylko my pozwól okienkiem wyjrzyć,
+!!czyli mój Józio nie jedzie.
+!!@VERSE:
+!!Wlazę za krosna na moment mały,
+!!abym tę radość ukryła,
+!!aby nie poznał Józio przybyły,
+!!że ja przez niego tęskniła.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=281 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 272} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 272}
 !!!page: 272
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

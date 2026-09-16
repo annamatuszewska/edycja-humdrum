@@ -3,67 +3,79 @@
 !!!source: DWOK42
 !!!id: 421798
 !!!signature: 42179800000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8g
-8a
-16b
-16cc
-=2
-8dd
-8b
-8r
-=3
-8dd
-16dd
-16cc
-16a
-16b
-=4
-8g}
-8r
-8r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+!!LO:TX:a:t=Allegro
+{8g	Ej,
+8a	z_gó-
+16b	-ry,
+16cc	z_gó-
+=2	=2
+8ddL	-ry
+8bJ	.
+8r	.
+=3	=3
+8dd	ja-
+16ddL	-dą
+16ccJ	.
+16a	Ma-
+16b	-zu-
+=4	=4
+8g}	-ry,
+8r	.
+8r	.
 !!LO:LB:g=esac
-=5
-{8dd
-16dd
-16cc
-16a
-16b
-=6
-8g
-8a
-16b
-16cc
-=7
-8dd
-16dd
-16cc
-16a
-16b}
+=5	=5
+{8dd	je-
+16ddL	-dzie,
+16ccJ	.
+16a	je-
+16b	-dzie
+=6	=6
+8g	Ma-
+8a	-zu-
+16b	-re-
+16cc	-czek.
+=7	=7
+8dd	wie-
+16ddL	-zie,
+16ccJ	.
+16a	wie-
+16b}	-zie
 !!LO:LB:g=esac
-=8
-{8g
-8a
-16b
-16cc
-=9
-8dd
-16dd
-16cc
-16a
-16b
-=10
-4g}
-8r
-==
-*-
+=8	=8
+{8g	wia-
+8a	-nu-
+16b	-sze-
+16cc	-czek,
+=9	=9
+8dd	wia-
+16ddL	-nek
+16ccJ	.
+16a	ru-
+16b	-cia-
+=10	=10
+4g}	-ny.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Ej, z góry, z góry
+!!jadą Mazury,
+!!jedzie, jedzie Mazureczek.
+!!wiezie, wiezie wianuszeczek,
+!!wianek ruciany.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=222 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 213} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 213}
 !!!page: 213
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

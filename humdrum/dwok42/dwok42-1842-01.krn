@@ -3,55 +3,70 @@
 !!!source: DWOK42
 !!!id: 421842
 !!!signature: 42184200001
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8dd
-8dd
-4ee
-4a
-=2
-8cc
-8cc
-4dd
-4dd
-=3
-8b
-8g
-4cc
-4cc
-=4
-8a
-8f#
-4d
-4d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8dd	Mo-
+(8bq	.
+8dd)	-zna
+4ee	po-
+4a\	-znać
+=2	=2
+8cc	chło-
+(8bq	.
+8cc)	-pa
+4dd	ze
+4dd	wsi,
+=3	=3
+8b	bo
+8g	na
+4cc	ba-
+4cc	-kier
+=4	=4
+8a	ca-
+8f#	-pkę
+4d	no-
+4d}	-si,
 !!LO:LB:g=esac
-=5
-{8d
-8f#
-4g
-4g
-=6
-8a
-8f#
-4g
-4g
-=7
-8b
-8g
-4cc
-4cc
-=8
-8a
-8f#
-4d
-4d}
-==
-*-
+=5	=5
+{8d	mo-
+8f#	-zna
+4g	po-
+4g	-znać
+=6	=6
+8a	dwo-
+8f#	-ra-
+4g	-ni-
+4g\	-na,
+=7	=7
+8b	bo
+8g	na
+4cc	tył-
+4cc	-ku
+=8	=8
+8a	spo-
+8f#	-dni
+4d	ni
+4d}	ma.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Mozna poznać chłopa ze wsi,
+!!bo na bakier capkę nosi,
+!!mozna poznać dworanina,
+!!bo na tyłku spodni ni ma.
+!!@VERSE:
+!!Ani spodni, ni sukmana
+!!i kosula podrapana.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=245 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 236} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 236}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

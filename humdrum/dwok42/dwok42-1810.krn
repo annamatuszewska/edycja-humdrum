@@ -3,67 +3,78 @@
 !!!source: DWOK42
 !!!id: 421810
 !!!signature: 42181000000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M6/8
-=1
-{8g
-8b
-8dd
-8dd
-8cc
-8a
-=2
-8f#
-8a
-8dd
-4b
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M6/8	*
+=1	=1
+{8g	Mo-
+8b	-ja
+8dd	dziew-
+8ddL	-czy-
+8ccJ	.
+8a	-na
+=2	=2
+8f#	ro-
+8a	-bo-
+8dd	-tna
+4b	by-
+8g}	-ła,
 !!LO:LB:g=esac
-=3
-{8g
-8b
-8dd
-8dd
-8cc
-8a
-=4
-8f#
-8a
-8dd
-8b
-8g
-8r
-=5
-4cc
-8a
-8a
-8f#
-8d}
+=3	=3
+{8g	wzię-
+8b	-ła
+8dd	ką-
+8ddL	-dzioł-
+8ccJ	.
+8a	-kę,
+=4	=4
+8f#	po
+8a	wsi
+8dd	cho-
+8b	-dzi-
+8g	-ła,
+8r	.
+=5	=5
+(4cc	to
+8a)	.
+8aL	przę-
+8f#J	.
+8d}	-dzie,
 !!LO:LB:g=esac
-=6
-{4g
-8b
-4.dd
-=7
-8a
-8b
-8cc
-8ee
-8dd
-8b
-=8
-8cc
-8a
-8f#
-4g}
-8r
-==
-*-
+=6	=6
+{4g	to
+8b	mo-
+4.dd	-ta,
+=7	=7
+8a	to
+8b	mo-
+8cc	-jej
+8ee	Ma-
+8dd	-ry-
+8b	-ni
+=8	=8
+8ccL	ro-
+8aJ	.
+8f#	-bo-
+4g}	-ta.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Moja dziewczyna robotna była.
+!!wzięła kądziołkę, po wsi chodziła,
+!!to przędzie, to mota,
+!!to mojej Maryni robota.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=228 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 219} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 219}
 !!!page: 219
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

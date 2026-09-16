@@ -3,81 +3,102 @@
 !!!source: DWOK42
 !!!id: 421864
 !!!signature: 42186400001
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{8g
-8cc
-8ee
-=2
-8dd
-8.dd
-16ff
-=3
-8ff
-8b
-8b
-=4
-8dd
-4cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{8g	Już
+8cc	mnie
+8ee	mi-
+=2	=2
+8dd	-nę-
+8.ddL	-ło
+16ffJ	.
+=3	=3
+8ff	szes-
+8b	-naś-
+8b	-cie
+=4	=4
+8dd	la-
+4cc}	-tek,
 !!LO:LB:g=esac
-=5
-{8g
-8cc
-8ee
-=6
-8ee
-8.dd
-16ff
-=7
-8ff
-8b
-8b
-=8
-8dd
-4cc}
+=5	=5
+{8g	już
+8cc	czas
+8ee	się
+=6	=6
+8ee	wpi-
+8.ddL	-sać
+16ffJ	.
+=7	=7
+8ff	w_re-
+8b	-jestr
+8b	mę-
+=8	=8
+8dd	-ża-
+4cc}	-tek.
 !!LO:LB:g=esac
-=9
-{16dd
-16dd
-8b
-8g
-=10
-16dd
-16dd
-8b
-8g
-=11
-4ff
-16ee
-16ff
-=12
-4dd}
-8r
+=9	=9
+{16dd	Hur-
+16dd	-mem,
+8b	chło-
+8g	-pcy,
+=10	=10
+16dd	przy-
+16dd	-by-
+8b	-waj-
+8g	-cie,
+=11	=11
+4ff	a
+16eeL	sko-
+16ffJ	.
+=12	=12
+4dd}	-re,
+8r	.
 !!LO:LB:g=esac
-=13
-{16ee
-16ee
-8cc
-8a
-=14
-16dd
-16dd
-8b
-8g
-=15
-4cc
-8ee
-=16
-4cc}
-8r
-==
-*-
+=13	=13
+{16ee	mo-
+16ee	-że
+8cc	ja
+8a	so-
+=14	=14
+16dd	-bie
+16dd	któ-
+8b	-re-
+8g	-go
+=15	=15
+4cc	o-
+8ee	-bio-
+=16	=16
+4cc}	-rę.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Już mnie minęło szesnaście latek,
+!!już czas się wpisać w rejestr mężatek,
+!!Hurmem, chłopcy, przybywajcie, a skore,
+!!może ja sobie którego obiorę.
+!!@VERSE:
+!!Dworaka nie chcę, bo pięknie chodzi,
+!!swoją pięknością panienki zwodzi.
+!!Bo to dworak, to nieborak, obłudnik,
+!!nie chcę ja jego za męża, paskudnik.
+!!@VERSE:
+!!Mam ja chłopczynę, ten pełen cnoty,
+!!być jego żoną wiele ochoty.
+!!Jest to sekret, jest to sekret, albowiem
+!!wiem, gdzie mieszka, jak się zowie, nie powiem.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=261 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 252-253} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, pp. 252-253}
 !!!page: 252-253
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

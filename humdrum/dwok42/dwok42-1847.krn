@@ -3,52 +3,93 @@
 !!!source: DWOK42
 !!!id: 421847
 !!!signature: 42184700000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8dd
-8dd
-8.dd
-16cc
-=2
-8b
-8b
-8.b
-16a
-=3
-8g
-8g
-8.cc
-16b
-=4
-8b
-4.a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8dd	Je-
+8dd	-stem
+8.dd	sy-
+16cc	-nem
+=2	=2
+8b	kó-
+8b	-mi-
+8.b	-nia-
+16a	-rza,
+=3	=3
+8g	kunszt
+8g	mój
+8.cc	do-
+16b	-brze
+=4	=4
+8b	zna-
+4.a}	-ny,
 !!LO:LB:g=esac
-=5
-{8cc
-8cc
-8cc
-8a
-=6
-8ee
-8ee
-8ee
-8dd
-=7
-8.dd
-16cc
-8.cc
-16f#
-=8
-8a
-4.g}
-==
-*-
+=5	=5
+{8cc	choć
+8cc	nie-
+8cc	-wie-
+8a	-le,
+=6	=6
+8ee	choć
+8ee	nie-
+8ee	-wie-
+8dd	-le
+=7	=7
+8.dd	do
+16cc	ro-
+8.cc	-bót
+16f#	wzy-
+=8	=8
+8a	-wa-
+4.g}	-ny.
+==	==
+*-	*-
+!!!role-singer: Chimney Sweep's Son
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Jestem synem kóminiarza,
+!!kunszt mój dobrze znany,
+!!choć niewiele, choć niewiele
+!!do robót wzywany.
+!!@VERSE:
+!!Jak ja lizę w ciasne dziury.
+!!to sie dusić muszę,
+!!kumin duży, kumin mały
+!!wychędożyć muszę.
+!!@VERSE:
+!!Chędóż bracie, chędóż śmiało,
+!!chędóż w dzień i w nocy,
+!!a jeśli ci sił nie stanie,
+!!weź mnie do pomocy.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: (1) jedzie
+!!(2) Żyda
+!!(3) rubla
+!!(4) schowaj
+!!(5) dobrą
+!!(6) koniem
+!!(7) uwięzili
+!!(8) piją
+!!(9) uciekaj
+!!(10) wybiją
+!!(11) pieniądze lgną
+!!(12) [głupia nie okradziona]
+!!(13) kajdany
+!!(14) klucz
+!!(15) kufer
+!!(16) [karczmarka] zobaczy
+!!(17) bać
+!!(18) kożuch
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=248 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 239} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 239}
 !!!page: 239
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

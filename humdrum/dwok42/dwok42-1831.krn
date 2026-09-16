@@ -3,52 +3,63 @@
 !!!source: DWOK42
 !!!id: 421831
 !!!signature: 42183100000
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{8cc
-4ee
-8ee
-=2
-8dd
-16ee
-16ff
-4gg
-=3
-8ee
-4ee
-8ee
-=4
-8dd
-16ee
-16ff
-4gg}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+=1	=1
+{8cc	We
+4ee	dwo-
+(8ddq	.
+8ee)	-rze
+=2	=2
+8dd	w_Dys-
+16eeL	-pu-
+16ffJ	.
+4gg	-dzie
+=3	=3
+8ee	tam
+4ee	się
+8ee	dziw-
+=4	=4
+8dd	-nie
+16eeL	sta-
+16ffJ	.
+4gg}	-ło,
 !!LO:LB:g=esac
-=5
-{8ff
-4aa
-8ee
-=6
-8gg
-16ff
-16ee
-4dd
-=7
-8gg
-4gg
-8ff
-=8
-8dd
-8b
-4cc}
-==
-*-
+=5	=5
+{8ff	tam
+4aa	Pa-
+8ee	-cow-
+=6	=6
+8gg	-skie
+16ffL	słu-
+16eeJ	.
+4dd	-gi
+=7	=7
+8gg	dziew-
+4gg	-cy-
+8ff	-ne
+=8	=8
+8dd	sko-
+8b	-cha-
+4cc}	-li.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!We dworze w Dyspudzie
+!!tam się dziwnie stało,
+!!tam Pacowskie sługi
+!!dziewcyne skochali.
+!!@@END: VERSES
 !!!ONB: wariant w takcie 1: +1+2+3__+3_
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=239 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 230} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 230}
 !!!page: 230
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

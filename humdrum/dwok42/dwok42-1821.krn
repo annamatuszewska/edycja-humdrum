@@ -3,50 +3,61 @@
 !!!source: DWOK42
 !!!id: 421821
 !!!signature: 42182100000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{4b
-4g
-4a
-=
-12b
-12a
-12b
-4ee
-4dd
-=2
-4b
-4g
-4a
-=3
-4f#
-2d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{4bm	Tup
+4g	nó-
+4a	-żką
+=2	=2
+12ccL	po
+12bJ	.
+12cc	ka-
+4ee	-mie-
+4dd	-niu,
+=3	=3
+4bm	a
+4g	nie
+4aM	po
+=4	=4
+4f#	zie-
+2d}	-mi,
 !!LO:LB:g=esac
-=4
-{4e
-4c
-4d
-=5
-4e
-4a
-4f#
-=6
-8g
-8a
-8b
-8g
-4a
-=7
-4f#
-2d}
-==
-*-
+=5	=5
+{4eM	ej,
+4c	mia-
+4d	-łam
+=6	=6
+4e	ko-
+4a	-chan-
+4f#	-ka,
+=7	=7
+8g	ka-
+8a	-ci
+8bL	mi
+8gJ	.
+4a	go
+=8	=8
+4f#	wzie-
+2d}	-ni.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Tup nóżką po kamieniu,
+!!a nie po ziemi,
+!!ej, miałam kochanka,
+!!kaci mi go wzieni.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=235 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 226} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 226}
 !!!page: 226
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

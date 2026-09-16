@@ -3,51 +3,72 @@
 !!!source: DWOK42
 !!!id: 421800
 !!!signature: 42180000000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{8b
-8cc
-4.dd
-8cc
-=2
-8ee
-8dd
-4cc
-4a
-=3
-8cc
-8dd
-4b
-4g
-=4
-2.e}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+{8b	I
+8cc	wy-
+4.dd	-gna-
+8cc	-ła,
+=2	=2
+8ee	prze-
+8dd	-ze-
+4cc	-gna-
+4a	-ła,
+=3	=3
+8cc	i-
+8dd	-dzie
+4b	do
+4g	do-
+=4	=4
+2.e}	-mu,
 !!LO:LB:g=esac
-=5
-{8b
-8cc
-4.dd
-8cc
-=6
-8ee
-8dd
-4b
-4g
-=7
-8cc
-8dd
-4b
-4g
-=8
-2.e}
-==
-*-
+=5	=5
+{8b	i
+8cc	na-
+4.dd	-po-
+8cc	-tka
+=6	=6
+8ee	Ja-
+8dd	-siu-
+4b	-lin-
+4g	-ka
+=7	=7
+8cc	na
+8dd	wro-
+4b	-nym
+4g	ko-
+=8	=8
+2.e}	-niu.
+==	==
+*-	*-
+!!!role-singer: Narrator, Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!I wygnala, przezegnała,
+!!idzie do domu,
+!!i napotka Jasiulinka
+!!na wronym koniu.
+!!@VERSE:
+!!I Jasieniek sie jej pyta.
+!!co za gości mas,
+!!co tak rano, raniusinko
+!!wołki wyganias?
+!!@VERSE:
+!!Ni mam ni zadnego,
+!!jak ciebie, Jasiu,
+!!miłego, jednego.
+!!@@END: VERSES
 !!!ONB: wariant w taktach 3 i 7: 3b42_-7b-6
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=223 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 214} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 214}
 !!!page: 214
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

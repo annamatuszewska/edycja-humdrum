@@ -3,53 +3,63 @@
 !!!source: DWOK42
 !!!id: 421873
 !!!signature: 42187300002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16d
-16g
-8b
-8g
-=2
-16dd
-16dd
-8cc
-8a
-=3
-16b
-16g
-8.dd
-16b
-=4
-8b
-4a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16dL	[Przy-
+16gJ	-szedł
+8bL	Ja-
+8gJ	.
+=2	=2
+16ddL	-sio
+16ddJ/	do
+8cc	Ma-
+8a	-ry-
+=3	=3
+16b	-si
+16g	do-
+8.dd	-bra-
+16b	-noc
+=4	=4
+8b	po-
+4a}	-wie-
 !!LO:LB:g=esac
-=5
-{16cc
-16ee
-8.gg
-16cc
-=6
-16ee
-16ee
-8.dd
-16b
-=7
-16dd
-32b
-32g
-8.cc
-16f#
-=8
-8a
-4g}
-==
-*-
+=5	=5
+{16cc	-dzieć,
+16ee	a
+8.gg	o-
+16cc	-na
+=6	=6
+16eeL	go]
+16eeJ/	pię-
+8.dd	-knie
+16b	pro-
+=7	=7
+16dd	-si
+32bL	na
+32gJ	łó-
+8.cc	.
+16f#	-że-
+=8	=8
+8a	-czku
+4g}	sie-
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!![Przyszedł Jasio do Marysi
+!!dobranoc powiedzieć,
+!!a ona go] pięknie prosi
+!!na łóżeczku siedzić.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=274 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 265} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 265}
 !!!page: 265
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

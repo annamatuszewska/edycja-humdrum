@@ -3,64 +3,96 @@
 !!!source: DWOK42
 !!!id: 421890
 !!!signature: 42189000000
-**kern
-*clefG2
-*k[]
-*C:
-*M6/8
-{8dd
-=1
-4dd
-8cc
-8b
-8a
-8b
-=2
-4cc
-8g
-8g
-8r
-8g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M6/8	*
+{8dd	Nad
+=1	=1
+4dd	rze-
+8cc	-czką,
+8b	co
+8a	by-
+8b	-stro
+=2	=2
+(4cc	pły-
+8g)	.
+8g	-nie,
+8r	.
+8g}	bie-
 !!LO:LB:g=esac
-=3
-{4cc
-8cc
-8cc
-8dd
-8ee
-=4
-4gg
-8ff
-8ff
-8r
-8ee
-=5
-4ee
-8dd
-8cc
-8dd
-8ee}
+=3	=3
+{4cc	-dna
+8cc	sie-
+8cc	-ro-
+8dd	-ta
+8ee	sie-
+=4	=4
+(4gg	-dzia-
+8ff)	.
+8ff	-ła,
+8r	.
+8ee	a
+=5	=5
+4ee	_o-
+8dd	-czu
+8cc	bie-
+8dd	-dnej
+8ee}	dziew-
 !!LO:LB:g=esac
-=6
-{4ff
-8g
-8g
-8r
-8ee
-=7
-4dd
-8cc
-8b
-8a
-8b
-=8
-4.dd
-8cc}
-8r
-==
-*-
+=6	=6
+{(4ff	-czy-
+8g)	.
+8g	-ny
+8r	.
+8ee	łza
+=7	=7
+4dd	do
+8cc	stru-
+8b	-my-
+8a	-ka
+8b	spa-
+=8	=8
+4.dd	-da-
+8cc}	-ła.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Nad rzeczką, co bystro płynie,
+!!biedna sierota siedziała,
+!!a z oczu biednej dziewczyny
+!!łza do strumyka spadała.
+!!@VERSE:
+!!I wije z kwiatow upłoty,
+!!uwiwszy na wodę rzuci,
+!!o juz do tej sieroty
+!!ojciec i matka nie wróci.
+!!@VERSE:
+!!Idzie bogacz w nocnej chwili,
+!!słysząc te płacze dziewczyny:
+!!O powiedz, o mój Boże,
+!!o powiedz swoje przyczyny.
+!!@VERSE:
+!!Tu mojej matki mogiła,
+!!ojciec utonął w tej rzece
+!!i bratam tu postradała,
+!!sama na ludzkiej opiece.
+!!@VERSE:
+!!lub: Tu się ich łódka rozbiła,
+!!ojciec utonął w tej rzece,
+!!tu matki, brata mogiła,
+!!a jam na ludzkiej opiece.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=899 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 890} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 890}
 !!!page: 890
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

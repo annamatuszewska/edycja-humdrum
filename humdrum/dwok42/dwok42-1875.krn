@@ -3,85 +3,104 @@
 !!!source: DWOK42
 !!!id: 421875
 !!!signature: 42187500000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{8ee
-8ee
-4ff
-4ee
-=2
-8dd
-8ff
-4ee
-8dd
-8cc
-=3
-8b
-8a
-4.ee
-8g#
-=4
-2.a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+{8ee	Sia-
+8ee	-łem
+4ff	gry-
+4ee	-kę
+=2	=2
+8dd	na
+8ff	za-
+4ee	-go-
+8ddL	-nie,
+8ccJ	.
+=3	=3
+8b	a
+8a	nie
+4.ee	żą-
+8g#	-łem
+=4	=4
+2.a}	jej,
 !!LO:LB:g=esac
-=5
-{8ee
-8ee
-4ff
-4ee
-=6
-8dd
-8ff
-4ee
-8dd
-8cc
-=7
-8b
-8a
-4.ee
-8g#
-=8
-2.a}
+=5	=5
+{8ee	po-
+8ee	-ko-
+4ff	-cha-
+4ee	-łem
+=6	=6
+8dd	pię-
+8ff	-kną
+4ee	pan-
+8ddL	-nę
+8ccJ	.
+=7	=7
+8b	a
+8a	nie
+4.ee	wzią-
+8g#	-łem
+=8	=8
+2.a}	jej,
 !!LO:LB:g=esac
-=9
-{4a
-4.b
-8g#
-=10
-4b
-4dd
-8cc
-8b
-=11
-8a
-8b
-4cc
-4cc}
+=9	=9
+{4a	i
+4.b	sia-
+8g#	-łem,
+=10	=10
+4b	nie
+4dd	żą-
+8ccL	-łem,
+8bJ	.
+=11	=11
+8a	po-
+8b	-ko-
+4cc	-cha-
+4cc}	-łem,
 !!LO:LB:g=esac
-=12
-{8b
-8cc
-4dd
-8cc
-8b
-=13
-8dd
-8ff
-4ee
-8dd
-8cc
-=14
-4b
-4a}
-4r
-==
-*-
+=12	=12
+{8bL	nie
+8ccJ	.
+4dd	wzią-
+8ccL	-łem,
+8bJ	.
+=13	=13
+8dd	niesz-
+8ff	-czę-
+4ee	-śli-
+8ddL	-wym
+8ccJ	.
+=14	=14
+4b	zos-
+4a}	-tał.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Siałem grykę na zagonie, a nie żąłem jej,
+!!pokochałem piękną pannę a nie wziąłem jej,
+!!I siałem, nie żąłem,
+!!pokochałem, nie wziąłem,
+!!nieszczęśliwym został.
+!!@VERSE:
+!!Na ogrodzie, na zielonym, na grzędzistej grzędzie
+!!przysięgałem swojej lubej, że jej wiernym będę.
+!!I ja szed, i ja bieg,
+!!i sam przez sie upotniałem,
+!!już kochania mnie nie stało,
+!!nieszczęśliwym został.
+!!@@END: VERSES
 !!!ONB: wariant w takcie 4 i 8: 1_1__, wariant w takcie 12: 23b4345
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=275 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 266} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 266}
 !!!page: 266
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

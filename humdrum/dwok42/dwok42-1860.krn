@@ -3,67 +3,105 @@
 !!!source: DWOK42
 !!!id: 421860
 !!!signature: 42186000000
-**kern
-*clefG2
-*k[]
-*C:
-=1
-*M3/4
-{4b
-8cc
-8a
-8a
-8g
-=2
-8a
-8b
-8cc
-8a
-8a
-8g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+=1	=1
+*M3/4	*
+{4b	Niech
+8cc	bę-
+8a	-dzie
+8a	Je-
+8g	-zus
+=2	=2
+8a	Kry-
+8b	-sztus
+8cc	po-
+8a	-chwa-
+8a	-lo-
+8g}	-ny,
 !!LO:LB:g=esac
-=3
-*M4/4
-{8cc
-8b
-8cc
-8a
-4a
-4g
-=4
-8a
-8f
-8cc
-8a
-8a
-8g
-4g}
+=3	=3
+*M4/4	*
+{8ccL	po-
+8bJ	.
+8cc	-wiédz,
+8a	dziew-
+(8bq	.
+4a)	-cy-
+4g	-no,
+=4	=4
+8a	w_cém
+8f	ja
+8cc	od-
+8a	-da-
+8aL	-lo-
+8gJ	.
+4g}	-ny,
 !!LO:LB:g=esac
-=5
-*M3/4
-{4dd
-8ff
-8dd
-8b
-8g
-=6
-4cc
-4ee
-4gg
-=7
-4dd
-8ff
-8dd
-8b
-8g
-=8
-4a
-4b
-4cc}
-==
-*-
+=5	=5
+*M3/4	*
+{(8cc#q	.
+4dd)	po-
+8ff	-wiedz,
+8dd	dziewcy-
+8b	.
+8g	-no,
+=6	=6
+4cc	bądź
+4ee	pro-
+4gg	-sę,
+=7	=7
+(8cc#q	.
+4dd)	cy
+8ff	się
+8dd	tu
+8b	by-
+8g	-waj
+=8	=8
+4a	o-
+4b	-dwa-
+4cc}	-zę.
+==	==
+*-	*-
+!!!role-singer: Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Niech będzie Jezus Krysztus pochwalony,
+!!powiédz, dziewcyno, w cém ja oddalony,
+!!powiedz, dziewcyno, bądź prosę,
+!!cy się tu bywaj odwazę.
+!!@VERSE:
+!!Powiedz, dziewcyno, scerym dokamentem,
+!!niechze się nie bawię próznym kuklamentem(1),
+!!niech swego konia nie trudzę,
+!!sam sobie casu nie nudzę.
+!!@VERSE:
+!!Cyli ty konia we złocie sacujes,
+!!cyli ty do mnie na moment załujes,
+!!nie trudź ty konia, sam siebie,
+!!ja się obędę przez ciebie.
+!!@VERSE:
+!!Ora ze dwora, idź od serca mego,
+!!ja się obędę przez kochania twego.
+!!Żarty to, zarty, panienko,
+!!ja ciebie kocham, serdeńko.
+!!@VERSE:
+!!Przechodzi przez próg ze wsystkiem zemglony,
+!!niech będzie Jezus Krysztus pochwalony.
+!!Niech teraz będzie na wieki,
+!!ja cię wypuscom z opieki.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: (1) [komplementem]
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=258 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 249} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 249}
 !!!page: 249
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

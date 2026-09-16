@@ -3,56 +3,67 @@
 !!!source: DWOK42
 !!!id: 421829
 !!!signature: 42182900000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{4a
-4cc
-4ee
-=2
-4ee
-2dd
-=3
-4b
-4g#
-4e
-=4
-4b
-2a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+{4a	Ce-
+4cc	-go
+4ee	ka-
+=2	=2
+4ee	-li-
+2dd	-no
+=3	=3
+4b	w_do-
+(4g#	-le
+4e)	.
+=4	=4
+4bm	sto-
+2a}	-isz,
 !!LO:LB:g=esac
-=5
-{4cc
-4ee
-4ee
-=6
-4ff
-2ee
-=7
-4ee
-2a
-=8
-4cc
-2ee}
+=5	=5
+{4cc	[cy
+4ee	ty
+4ee	się
+=6	=6
+4ff	le-
+2ee	-tniej
+=7	=7
+(8ddq	.
+4ee)	su-
+(8ccq	.
+2a)	-sy
+=8	=8
+4cc	bo-
+2ee}	-jis,
 !!LO:LB:g=esac
-=9
-{4a
-4cc
-4ee
-=10
-4ee
-2dd
-=11
-4b
-2e
-=12
-4b
-2a}
-==
-*-
+=9	=9
+{4a	cy
+4cc	ty
+4ee	się
+=10	=10
+4ee	le-
+2ddM	-tniej
+=11	=11
+4b	su-
+2e	-sy
+=12	=12
+4bm	bo-
+2a}	-jis]?
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!!role-listener: Viburnum
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Cego kalino w dole stoisz,
+!![:cy ty się letniej susy bojis:]?
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=238 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 229} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 229}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

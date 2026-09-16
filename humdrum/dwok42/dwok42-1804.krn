@@ -3,90 +3,116 @@
 !!!source: DWOK42
 !!!id: 421804
 !!!signature: 42180400000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8dd
-8b
-8b
-8b
-=2
-8dd
-8b
-8b
-8b
-=3
-8cc
-8a
-8a
-8ee
-=4
-4dd
-4dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8dd	Po-
+8b	-sed
+8b	w_ta-
+8b	-niec
+=2	=2
+8dd	o-
+8b	-ber-
+8b	-wa-
+8b	-niec,
+=3	=3
+8cc	za
+8a	nim
+8a	kur-
+8ee	-pie
+=4	=4
+4dd	trzes-
+4dd}	-cą,
 !!LO:LB:g=esac
-=5
-{8dd
-8b
-8b
-8b
-=6
-8dd
-8b
-8b
-8b
-=7
-8cc
-8a
-8f#
-8a
-=8
-4a
-4g}
+=5	=5
+{8dd	coz
+8b	u
+8b	ka-
+8b	-ta
+=6	=6
+8dd	za
+8b	ka-
+8b	-wa-
+8b	-ler,
+=7	=7
+8cc	ze
+8a	go
+8f#	pan-
+8a	-ny
+=8	=8
+4a	nie
+4g}	chcą.
 !!LO:LB:g=esac
-=9
-{8g
-8b
-8dd
-8dd
-=10
-8dd
-8b
-4dd
-=11
-8cc
-8ee
-8gg
-8ee
-=12
-4dd
-4dd}
+=9	=9
+{8g	Cy
+8b	ja
+8dd	w_pie-
+8dd	-cu
+=10	=10
+8dd	sie
+8b	ro-
+4dd	-dził,
+=11	=11
+8cc	cy-
+8ee	-li
+8gg	na
+8ee	ko-
+=12	=12
+4dd	-mi-
+4dd}	-nie,
 !!LO:LB:g=esac
-=13
-{8dd
-8b
-8dd
-8dd
-=14
-8dd
-8b
-8dd
-8dd
-=15
-8cc
-8a
-8f#
-8a
-=16
-4a
-4g}
-==
-*-
+=13	=13
+{8dd	co
+8b	mnie
+8dd	pan-
+8dd	-ny
+=14	=14
+8dd	nie
+8b	chcą
+8dd	ko-
+8dd	-chać,
+=15	=15
+8cc	ni
+8a	je-
+8f#	-dna
+8a	dziew-
+=16	=16
+4a	-cy-
+4g}	-na.
+==	==
+*-	*-
+!!!role-singer: Narrator, Bachelor
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Posed w taniec oberwaniec,
+!!za nim kurpie trzescą,
+!!coz u kata za kawaler,
+!!ze go panny nie chcą.
+!!@VERSE:
+!!Cy ja w piecu sie rodził,
+!!cyli na kominie,
+!!co mnie panny nie chcą kochać,
+!!ni jedna dziewcyna.
+!!@VERSE:
+!!Cy mnie wrony odziobali,
+!!cy nie jestem gładki,
+!!co mnie panny nie chcą kochać,
+!!a tylko męzatki.
+!!@VERSE:
+!!Ja panience na trzewicek,
+!!ja panience na oba,
+!!ja panience miodu, wina,
+!!aby moja była.
+!!@@END: VERSES
 !!!ONB: wariant w takcie 10-11: 534_  46+17
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=225 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 216} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 216}
 !!!page: 216
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

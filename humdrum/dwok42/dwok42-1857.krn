@@ -3,74 +3,144 @@
 !!!source: DWOK42
 !!!id: 421857
 !!!signature: 42185700000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8cc
-8cc
-4b
-4g
-=2
-4cc
-2cc
-=3
-8cc
-8cc
-4b
-4g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8cc	Przy-
+8cc	-cho-
+4b	-dzę
+4g	do
+=2	=2
+4cc	Jó-
+2cc	-zi,
+=3	=3
+8cc	Jó-
+8cc	-zia
+4b	w_łóż-
+4g}	-ku
 !!LO:LB:g=esac
-=4
-{4cc
-2cc
-=5
-8dd
-8dd
-4ff
-4ff
-=6
-8ee
-8cc
-4cc
-4cc}
+=4	=4
+{4cc	le-
+2cc	-ży,
+=5	=5
+8dd	ja
+8dd	nie
+4ff	chcąc
+4ff	ma-
+=6	=6
+8ee	-my
+8cc	roz-
+4cc	-gnie-
+4cc}	-wać,
 !!LO:LB:g=esac
-=7
-{8b
-8b
-4dd
-4dd
-=8
-8cc
-8ee
-4ee
-4ee
-=9
-8dd
-8dd
-4ff
-4ff}
+=7	=7
+{8b	wo-
+8b	-la-
+4dd	-łem
+4dd	przyjść
+=8	=8
+8cc	po
+8ee	wie-
+4ee	-cze-
+4ee	-rzy,
+=9	=9
+8dd	ja
+8dd	nie
+4ff	chcąc
+4ff}	ma-
 !!LO:LB:g=esac
-=10
-{8ee
-8cc
-4cc
-4cc
-=11
-8b
-8b
-4dd
-4dd
-=12
-8cc
-8cc
-4cc
-4cc}
-==
-*-
+=10	=10
+{8ee	-my
+8cc	roz-
+4cc	-gnie-
+4cc	-wać,
+=11	=11
+8b	wo-
+8b	-la-
+4dd	-łem
+4dd	przyjść
+=12	=12
+8cc	po
+8cc	wie-
+4cc	-cze-
+4cc}	-rzy.
+==	==
+*-	*-
+!!!role-singer: Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor, Mother
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Przychodzę do Józi,
+!!Jósia w łóżku leży,
+!!|:ja nie chcąc mamy rozgniewać,
+!!wolałem przyjść po wieczerzy:|.
+!!@VERSE:
+!!Przychodzę wieczorem
+!!pod pewnym pozorem,
+!!|:leży Józia w łóżku sama,
+!!ja sie pytam, czy jest mama:|.
+!!@VERSE:
+!!Józia odpowiada:
+!!Jest mama, niestety,
+!!|:ale niech pan przy mnie siada,
+!!będziemy śpiewać duety:|.
+!!@VERSE:
+!!Siadam na kanapie,
+!!więc Józia wyznawa,
+!!|:tu nie znajduje się mama,
+!!więc ja śpiewam trala lala:|.
+!!@VERSE:
+!!Siadam na kanapie,
+!!ściskam Józię moje,
+!!|:całujemy się pospołu,
+!!a wtém wchodzi trala lala:|.
+!!@VERSE:
+!!Więc mama troskliwa,
+!!gdy swiece zapala,
+!!|:cy nie wkradli się złodzieje,
+!!a cyli nie jadą oni:|.
+!!@VERSE:
+!!Mama na próg wchodzi,
+!!Józia siada z dala,
+!!niby sobie syje,
+!!ja sie pod stół kryję,
+!!nucąc sobie pod stołem:
+!!azeb cie, babo.
+!!@VERSE:
+!!lub:
+!!Józia z dala siada,
+!!ja sie pod stół kryję,
+!!|:niby cosci sobie syje,
+!!wyspiewuje trala lala:|.
+!!@VERSE:
+!!Pilnaś w swej robocie,
+!!choć masz oczki słabe,
+!!|:ja pod stołem sobie nuce.
+!!żeby diabli wzieli babę:|.
+!!@VERSE:
+!!Mamuleczku droga,
+!!proszę cie na Boga.
+!!|:wychodź z pokoju mojego,
+!!bo nie zniosę swiata tego:|.
+!!@VERSE:
+!!Mamunia troskliwa
+!!zaraz sie wydala,
+!!|:a ja spod stołu wychodze,
+!!spiewam sobie trala lala:|.
+!!@VERSE:
+!!Siadam koło łóżka,
+!!co za piękna nóżka,
+!!|:co za piersi, co za uda,
+!!to są pierwsze świata cuda:|.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=256 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 247} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 247}
 !!!page: 247
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

@@ -3,67 +3,93 @@
 !!!source: DWOK42
 !!!id: 421861
 !!!signature: 42186100000
-**kern
-*clefG2
-*k[f#]
-*e:
-*M3/4
-=1
-{8dd
-8dd
-4ee
-4ee
-=2
-2.g
-=3
-8f#
-8a
-4dd
-4cc
-=4
-2.b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*e:	*
+*M3/4	*
+=1	=1
+{8dd	Ach,
+8dd	stój,
+4ee	or-
+4ee	-le,
+=2	=2
+2.g	stój,
+=3	=3
+8f#	trzy-
+8a	-maj
+4dd	po-
+4cc	-lot
+=4	=4
+2.b}	swój,
 !!LO:LB:g=esac
-=5
-{8b
-8b
-4cc
-4b
-=6
-8ee
-8ff#
-8gg
-8ff#
-4ee
-=7
-4.ff#
-8b
-8b
-8b}
+=5	=5
+{8b	po-
+8b	-leć,
+4cc	or-
+4b	-le,
+=6	=6
+8ee	po-
+8ff#	-nad
+8ggL	ska-
+8ff#J	.
+4ee	-le,
+=7	=7
+4.ff#	gdzie
+8b	mnie
+8b	cze-
+8b}	-ka
 !!LO:LB:g=esac
-=8
-{8b
-8b
-8gg
-8ff#
-4ee
-=9
-8ee
-8ee
-4ee
-4dd#
-=10
-2.b
-=11
-8a
-8b
-4.ee
-8dd#
-=12
-2.b}
-==
-*-
+=8	=8
+{8b	wier-
+8b	-nie
+8ggL	sta-
+8ff#J	.
+4ee	-le
+=9	=9
+8ee	u-
+8ee	-lu-
+4ee	-bio-
+4dd#	-ny
+=10	=10
+2.b	mój,
+=11	=11
+8a	u-
+8b	-lu-
+4.ee	-bio-
+8dd#	-ny
+=12	=12
+2.b}	moj.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!role-listener: Eagle
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Ach, stój, orle, stój,
+!!trzymaj polot swój,
+!!poleć, orle, ponad skale,
+!!gdzie mnie czeka wiernie stale
+!!|:ulubiony moj:|.
+!!@VERSE:
+!!Tam koło dworu,
+!!tam przez uporu,
+!!gdzie największa będzie woda,
+!!tam sie zakończy swoboda,
+!!które ja tu mam
+!!opowiadać wam.
+!!@VERSE:
+!!Ach, stoj, orle, stoj,
+!!trzymaj polot swoj.
+!!Poleć orie, do Lublina,
+!!duża woda koło młyna,
+!!|:jeszcze większy zdrój:|.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=259 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 250} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 250}
 !!!page: 250
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

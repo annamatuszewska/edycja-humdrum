@@ -3,61 +3,73 @@
 !!!source: DWOK42
 !!!id: 421819
 !!!signature: 42181900000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{8b
-8cc
-4dd
-4dd
-=2
-4ff
-2ee
-=3
-4ee
-2b
-=4
-8b
-8cc
-4dd
-4dd}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+{8b	Jak
+8cc	ja
+4dd	by-
+4dd	-łam
+=2	=2
+4ff	grze-
+2ee	-cną
+=3	=3
+4ee	pan-
+2b	-ną,
+=4	=4
+8b	la-
+8cc	-ta-
+4dd	-liś-
+4dd}	-cie
 !!LO:LB:g=esac
-=5
-{4ff
-2ee
-=6
-4ee
-2b
-=7
-8dd
-8cc
-4b
-4g#
-=8
-4a
-2f#}
+=5	=5
+{4ff	wszys-
+2ee	-tko
+=6	=6
+4ee	za
+2b	mną,
+=7	=7
+8dd	jak
+8cc	mam
+4b	te-
+4g#	-raz
+=8	=8
+4a	ma-
+2f#}	-łe
 !!LO:LB:g=esac
-=9
-{4g#
-2b
-=10
-8ee
-8dd
-4cc
-4g#
-=11
-4b
-2g#
-=12
-4b
-2a}
-==
-*-
+=9	=9
+{4g#	dzie-
+2b	-cie,
+=10	=10
+8ee	to
+8dd	te-
+4cc	-raz
+4g#	mnie
+=11	=11
+4b	nie
+2g#	wi-
+=12	=12
+4b	-dzi-
+2a}	-cie.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!role-listener: Bachelors
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Jak ja byłam grzecną panną,
+!!lataliście wszystko za mną,
+!!jak mam teraz małe dziecie,
+!!to teraz mnie nie widzicie.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=233 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 224} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 224}
 !!!page: 224
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

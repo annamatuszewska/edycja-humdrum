@@ -3,47 +3,54 @@
 !!!source: DWOK42
 !!!id: 421850
 !!!signature: 42185000010
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8g
-8a
-4b
-4g
-=2
-4cc
-2ee
-=3
-8gg
-8ff
-4dd
-4ff
-=4
-4aa
-2gg}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8g	I-
+8a	-dzie
+4b	pa-
+4g	-ste-
+=2	=2
+4cc	-re-
+2ee	-czka_[...]
+=3	=3
+8gg	.
+8ff	.
+4dd	.
+4ff	.
+=4	=4
+4aa	.
+2gg}	.
 !!LO:LB:g=esac
-=5
-{8g
-8a
-4b
-4g
-=6
-4cc
-2ee
-=7
-8gg
-8gg
-4ff
-4b
-=8
-4cc
-2cc}
-==
-*-
+=5	=5
+{8g	.
+8a	.
+4b	.
+4g	.
+=6	=6
+4cc	.
+2ee	.
+=7	=7
+8gg	.
+8gg	.
+4ff	.
+4b	.
+=8	=8
+4cc	.
+2cc}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Idzie pastereczka_[...]
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=249 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 240-241} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, pp. 240-241}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

@@ -3,56 +3,78 @@
 !!!source: DWOK42
 !!!id: 421859
 !!!signature: 42185900010
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8g
-8b
-4dd
-4dd
-=2
-8gg
-8ee
-4ee
-4dd
-=3
-8ee
-8cc
-4a
-8b
-8cc
-=4
-8dd
-8dd
-2g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8g	Mo-
+8b	-ja
+4dd	An-
+4dd	-dziu,
+=2	=2
+8gg	czy
+8ee	to
+4ee	ła-
+4dd	-dnie
+=3	=3
+8ee	cu-
+8cc	-dzą
+4a	rzecz
+8bL	na
+8ccJ	.
+=4	=4
+8dd	sie-
+8dd	-bie
+2g}	brać,
 !!LO:LB:g=esac
-=5
-{8g
-8b
-4dd
-4dd
-=6
-8gg
-8ee
-4ee
-4dd
-=7
-8ee
-8cc
-4a
-8b
-8cc
-=8
-8dd
-8dd
-2g}
-==
-*-
+=5	=5
+{8g	two-
+8b	-je
+4dd	o-
+4dd	-czko
+=6	=6
+8gg	ser-
+8ee	-ce
+4ee	kra-
+4dd	-dnie,
+=7	=7
+8ee	po-
+8cc	-do-
+4a	-bno
+8bL	nie-
+8ccJ	.
+=8	=8
+8dd	-pię-
+8dd	-knie
+2g}	tak.
+==	==
+*-	*-
+!!!role-singer: Baschelor, Maiden
+!!!role-listener: Maiden, Bachelor, Mother
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Moja Andziu, czy to ładnie
+!!cudzą rzecz na siebie brać,
+!!twoje oczko serce kradnie,
+!!podobno niepięknie tak.
+!!@VERSE:
+!!Oj, nie jest to wprawdzie,
+!!to ludzkie udanie,
+!!a są dawne takie czasy,
+!!chłopcy bardzo tanie.
+!!@VERSE:
+!!Za stodołą scieska,
+!!chowaj, matko, pieska,
+!!mas, Anusiu, ładną,
+!!chłopcy ci ukradną.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=257 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 248} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 248}
 !!!page: 248
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

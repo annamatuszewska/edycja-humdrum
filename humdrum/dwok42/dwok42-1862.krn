@@ -3,70 +3,120 @@
 !!!source: DWOK42
 !!!id: 421862
 !!!signature: 42186200000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/4
-=1
-{4f
-8f
-8a
-8cc
-8a
-=2
-8.cc
-16dd
-8cc
-8b-
-8a
-8g}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/4	*
+=1	=1
+!!LO:TX:a:t=Polski (taniec)
+{4f	Cóż
+8f	to
+8a	za
+8cc	lu-
+8a	-dzie
+=2	=2
+8.cc	za
+16dd	a-
+8cc	-wen-
+8b-	-taż
+8a	ma-
+8g}	-ją,
 !!LO:LB:g=esac
-=3
-{4f
-8f
-8a
-8cc
-8a
-=4
-8g
-8a
-8g
-8f
-8e
-8c
-=5
-4g
-8b-
-8g
-8g
-8f}
+=3	=3
+{4f	że
+8f	mnie
+8a	mło-
+8cc	-de-
+8a	-go
+=4	=4
+8g\	do
+8a\	ce-
+8g\	-lu
+8f\	sta-
+8e\	-wia-
+8c\	-ją,
+=5	=5
+4g	i
+8b-	my-
+8g	-ślą
+8g	so-
+8f;}	-bie,
 !!LO:LB:g=esac
-=6
-{8cc
-8cc
-8cc
-8ff
-8dd
-8cc
-=7
-4cc
-8ff
-8dd
-8dd
-8cc
-=8
-8.dd
-16b-
-8g
-8e
-8f
-8f}
-==
-*-
+=6	=6
+{8cc	że
+8cc	to
+8cc	mi-
+8ff	-łość
+8dd	pło-
+8cc	-cha,
+=7	=7
+4cc	cóz
+8ff	ko-
+8dd	-mu
+8dd	za
+8cc;	to,
+=8	=8
+8.dd	że
+16b-	kto
+8g	ko-
+8e	-go
+8f	ko-
+8f}	-cha.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!role-listener: Astronomers
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Cóż to za ludzie za awentaż(1) mają,
+!!że mnie młodego do celu stawiają,
+!!i myślą sobie, że to miłość płocha,
+!!cóz komu za to, że kto kogo kocha.
+!!@VERSE:
+!!I myśle ja sobie, że ta miłość sama
+!!pierszy pocątek z raju od Adama,
+!!jeszce Bóg w niebie już się kochać każe
+!!i mnie z rejestrzu pewnie nie wymaże.
+!!@VERSE:
+!!Pójdę ja, pójdę po niskiej dolinie.
+!!gdzie bystry strumień po kamieniu płynie,
+!!wy strenomowie, co gwiazdy liczycie,
+!!co wy o mojém kochaniu nie wiécie.
+!!@VERSE:
+!!Widzieliśmy ją w zielu cyprysowym,
+!!czesała głowę grzebiéniem perłowym;
+!!widzieliśmy ją w smutku i niemocy,
+!!i zapłakała swoje modre oczy.
+!!@VERSE:
+!!Pójdę do sadu, rozmyślam to sobie,
+!!wszystko to, wszystko, dziewcyno, o tobie.
+!!Na kożdym drzewie twe imie rysuję,
+!!a w mojém sercu kanarem cukruję.
+!!@VERSE:
+!!Pójdę do sadu, jabłonka przekwita,
+!!moja najmilsza w złotej księdze czyta,
+!!albo wy dla mnie jedną rzecz wygodźcie,
+!!albo wy dla mnie grób wystawić káżcie.
+!!@VERSE:
+!!A kiedy pomrzem, skażemy to sobie
+!!złote litery wypisać na grobie.
+!!Kto pójdzie drogą, przeczyta to sobie:
+!!złączona miłość leży tu w tym grobie.
+!!@VERSE:
+!!Zączona miłość, choć struchlałe(2) kości,
+!!ludziska pomarli od wielkiej miłości.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: (1) [korzyść, interes]
+!!(2) spróchniałe
+!!@@END:
 !!!ONB: wariant w takcie 4: 6_.42_2_2_1_
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=259 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 250-251} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, pp. 250-251}
 !!!page: 250-251
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

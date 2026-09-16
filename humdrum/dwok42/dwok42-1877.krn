@@ -3,83 +3,116 @@
 !!!source: DWOK42
 !!!id: 421877
 !!!signature: 42187700000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8b
-8dd
-8b
-8dd
-8b
-8dd
-=2
-8cc
-8ee
-8a
-8cc
-8cc
-8b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8bL	Gdzie-
+8ddJ	.
+8b	-żeś
+8dd	o-
+8b	-dje-
+8dd	-chał,
+=2	=2
+8cc	ko-
+8ee	-chan-
+8a	-ku
+8cc	mój
+8cc	mi-
+8b}	-ły,
 !!LO:LB:g=esac
-=3
-{8b
-8dd
-8b
-8dd
-8b
-8dd
-=4
-8cc
-8ee
-8a
-8cc
-8cc
-8b}
+=3	=3
+{8bL	do-
+8ddJ	.
+8b	-kąd
+8dd	cię
+8b	lo-
+8dd	-sy
+=4	=4
+8cc	twe
+8ee	za-
+8a	-pro-
+8cc	-wa-
+8cc	-dzi-
+8b}	-ły,
 !!LO:LB:g=esac
-=5
-{8dd
-8ff#
-4.ff#
-8dd
-=6
-8gg
-8dd
-2b
-=7
-8cc
-8ee
-4.dd
-8cc
-=8
-4cc
-4b}
-4r
+=5	=5
+{8ddL	ty
+8ff#J	.
+4.ff#	wol-
+8dd	-ny
+=6	=6
+8ggL	bu-
+8ddJ	.
+2b	-jasz,
+=7	=7
+8cc	a
+8ee	ja
+4.dd	tu
+8cc	po
+=8	=8
+4cc	to-
+4b}	-bie
+4r	.
 !!LO:LB:g=esac
-=9
-{8dd
-8ff#
-4.ff#
-8dd
-=10
-8gg
-8dd
-4.b
-8a
-=11
-8cc
-8ee
-4dd
-4f#
-=12
-4a
-4g}
-4r
-==
-*-
+=9	=9
+{8ddL	smu-
+8ff#J	.
+4.ff#	-tne
+8dd	prze-
+=10	=10
+8ggL	-pę-
+8ddJ	.
+(4.b	-dzam
+8a)	.
+=11	=11
+8cc	dni
+8ee	mo-
+4dd	-je
+4f#	w_ża-
+=12	=12
+4a	-ło-
+4g}	-bie.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Maiden, Bachelor
+!!!role-listener: Bachelor, Maiden
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Gdzieżeś odjechał, kochanku mój miły,
+!!dokąd cię losy twe zaprowadziły,
+!!ty wolny bujasz, a ja tu po tobie
+!!smutne przepędzam dni moje w żałobie.
+!!@VERSE:
+!!Zasnę, sen twardy obraz mi twój kryśli,
+!!ocknę się, pierwoj ty stawasz na myśli,
+!!czyli sama bawię, czyli z przyjacielem,
+!!tyś pierwszym zawsze serca mego celem.
+!!Zielone łączki, strumików obroty
+!!przypominają mi twoje pieszczoty.
+!!Pszczółka z kwiateczku nabrawszy słodyczy,
+!!bieży na inne dla tejże zdobyczy.
+!!@VERSE:
+!!W polu, gdy kłosy swe głowy schylają,
+!!zda się mi, że się od ciebie kłaniają,
+!!ale témczasem, jeśli się nie mylę,
+!!z inną przepędzasz swe roskośne chwile.
+!!@VERSE:
+!!Jakżebym serce mógł odmienić moje,
+!!wolałbym trupem paść pod nogi twoje.
+!!Jam ciebie kochała, a i tyś mnie kochał,
+!!Jam ciebie przestał, czas byś ty przestała.
+!!Zniknęła dawna serc naszych ponęta,
+!!na cóż obłudne dzwigać mamy pęta?
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=276 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 267-268} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, pp. 267-268}
 !!!page: 267-268
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

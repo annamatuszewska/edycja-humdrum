@@ -3,79 +3,88 @@
 !!!source: DWOK42
 !!!id: 421830
 !!!signature: 42183000000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{4g
-4cc
-4ee
-=2
-8gg
-8ff
-2dd
-=3
-4ee
-4g
-4b
-=4
-4dd
-2cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{4g	Cze-
+4cc	-go
+4ee	ka-
+=2	=2
+8ggL	-li-
+8ffJ	.
+2dd	-no_[...]
+=3	=3
+4ee	.
+(4g	.
+4b)	.
+=4	=4
+4dd	.
+2cc}	.
 !!LO:LB:g=esac
-=5
-{4ee
-4gg
-4gg
-=6
-8aa
-8gg
-2gg
-=7
-8gg
-8ff
-2dd
-=8
-8ee
-8ff#
-2gg}
+=5	=5
+{4ee	.
+4gg	.
+4gg	.
+=6	=6
+8aaL	.
+8ggJ	.
+2gg	.
+=7	=7
+8ggL	.
+8ffJ	.
+2dd	.
+=8	=8
+8eeL	.
+8ff#iJ	.
+2gg}	.
 !!LO:LB:g=esac
-=9
-{4ee
-4ee
-4gg
-=10
-8gg
-8ff
-2dd
-=11
-4ee
-2g
-=12
-4cc
-2ee}
+=9	=9
+{4ee	.
+4ee	.
+4gg	.
+=10	=10
+8ggL	.
+8ffJ	.
+2dd	.
+=11	=11
+4ee	.
+2g	.
+=12	=12
+4cc	.
+2ee}	.
 !!LO:LB:g=esac
-=13
-{4ee
-4ee
-4gg
-=14
-8gg
-8ff
-2dd
-=15
-4ee
-4g
-4b
-=16
-4dd
-4cc}
-4r
-==
-*-
+=13	=13
+{4ee	.
+4ee	.
+4gg	.
+=14	=14
+8ggL	.
+8ffJ	.
+2dd	.
+=15	=15
+4ee	.
+(4g	.
+4b)	.
+=16	=16
+4dd	.
+4cc}	.
+4r	.
+==	==
+*-	*-
+!!!RDF**kern: i = editorial accidental
+!!!role-singer: Narrator
+!!!role-listener: Viburnum
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Czego kalino [...]
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=238 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 229-230} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, pp. 229-230}
 !!!page: 229-230
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

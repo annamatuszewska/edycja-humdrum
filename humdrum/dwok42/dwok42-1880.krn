@@ -3,79 +3,142 @@
 !!!source: DWOK42
 !!!id: 421880
 !!!signature: 42188000000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M4/4
-=1
-{4cc
-8b
-8cc
-8a
-4dd
-8b
-=2
-8g
-8b
-8b
-8b
-4g
-8ee
-8dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M4/4	*
+=1	=1
+{4cc	Ach
+8b	ser-
+8cc	-ce,
+(<8a	ser-
+4dd)	.
+8b	-ce,
+=2	=2
+8g	cóż
+8b	mi
+8b	za
+8b	ra-
+(4g	-dę
+8ee)	.
+8dd}	dasz,
 !!LO:LB:g=esac
-=3
-{4cc
-8b
-8cc
-8a
-4dd
-8cc
-=4
-8b
-8b
-8a
-8a
-4.g
-8g}
+=3	=3
+{4cc	ko-
+8b	-go
+8cc	ja
+(<8a	ko-
+4dd)	.
+8cc	-cham,
+=4	=4
+8b	ni
+8b	ma
+8a	go
+8a	tu
+4.g	te-
+8g}	-raz.
 !!LO:LB:g=esac
-=5
-{8cc
-8ee
-8ee
-8ee
-8ee
-8gg
-8ff#
-8ee
-=6
-8ee
-8dd
-8dd
-8dd
-8b
-4ee
-8dd}
+=5	=5
+{8ccL	.
+8eeJ	.
+8ee	.
+8ee	.
+8eeL	.
+8gg	.
+8ff#J	.
+8ee	.
+=6	=6
+8ee	.
+8dd	.
+8dd	.
+8dd	.
+(8b	.
+4ee)	.
+8dd}	.
 !!LO:LB:g=esac
-=7
-{8dd
-8cc
-8b
-8cc
-8a
-4dd
-8cc
-=8
-8b
-8g
-8a
-8a
-4.g
-8g}
-==
-*-
+=7	=7
+{8dd	.
+8cc	.
+8b	.
+8cc	.
+(<8a	.
+4dd)	.
+8cc	.
+=8	=8
+8b	.
+8g	.
+8a	.
+8a	.
+4.g	.
+8g}	.
+==	==
+*-	*-
+!!!RDF**kern: < = below
+!!!role-singer: Maiden
+!!!role-listener: Heart, Bachelor
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Ach serce, serce,
+!!cóż mi za radę dasz,
+!!kogo ja kocham,
+!!ni ma go tu teraz.
+!!@VERSE:
+!!Ach ni ma, ni ma,
+!!pewno i nie będzie,
+!!z kim sie moje serce
+!!rozweselać będzie?
+!!@VERSE:
+!!Raz się zakochawszy,
+!!trzeba żyć w niewoli,
+!!ach serce, serce,
+!!powiedz, co cię boli?
+!!@VERSE:
+!!Nic mnie nie boli,
+!!niemiła godzina,
+!!gdzie ta przysięga?
+!!...........................
+!!@VERSE:
+!!Powiedziałeś mi,
+!!że mi będziesz wiernym,
+!!a ty w swoim słowie
+!!stałeś sie odmiennym.
+!!@VERSE:
+!!Będę klęczała
+!!całą mszę w kościele
+!!i skarze cie Pan Bóg
+!!na duszy, na ciele.
+!!@VERSE:
+!!I skarzą cię usta,
+!!które cie pieściły,
+!!i skarze cie Pan Bóg
+!!w tej krótkiej chwili.
+!!@VERSE:
+!!Patrz, niewdzięczniku, na moje zdradę,
+!!czarna twa dusza, niestety,
+!!ja ci nic złego więcej nie życzę,
+!!tylko niestałej kobiety.
+!!@VERSE:
+!!Żebyś ją kochał, a nie był kochanym,
+!!żeby ona cię zdradzała,
+!!żebyś ty poznał w sercu ból zmiany,
+!!jaki ja teraz poznała.
+!!@VERSE:
+!!Już jego serce nie dla mnie bije,
+!!już ja w niém nie mam mieszkania,
+!!bo inny obraz drugiej w nim żyje,
+!!która mnie z niego wygania.
+!!@VERSE:
+!!Przestań, słowiku, śpiewać i nucić,
+!!odeńdz od mego mieszkania,
+!!ja sie przestanę troszczyć i smucić,
+!!zginął cel mego kochania.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=279 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 270} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 270}
 !!!page: 270
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14
