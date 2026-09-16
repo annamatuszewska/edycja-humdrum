@@ -3,86 +3,113 @@
 !!!source: DWOK42
 !!!id: 421891
 !!!signature: 42189100000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M6/8
-=1
-{4cc
-8cc
-4cc
-8b-
-=2
-4b-
-8b-
-4b-
-8a
-=3
-4a
-8a
-4a
-8g}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M6/8	*
+=1	=1
+{4cc	W_gniaz-
+8cc	-dku
+4cc	sie-
+8b-	-dzą-
+=2	=2
+4b-	-cy
+8b-	na
+4b-	ska-
+8a	-le,
+=3	=3
+4a	pta-
+8a	-szku,
+4a	nie
+8g}	lę-
 !!LO:LB:g=esac
-=4
-{4d
-8e
-4f
-8f
-=5
-8f
-8a
-8cc
-4ff
-8ee
-=6
-8dd
-8cc#
-8dd
-4ee
-8dd}
+=4	=4
+{4d	-kaj
+8e	się
+4f	wca-
+8f	-le,
+=5	=5
+8f	bo
+8a	o
+8cc	cię
+(4ff	ma-
+8ee)	.
+=6	=6
+8ddL	-tka
+8cc#J	.
+8dd	tros-
+4ee	-kli-
+8dd}	-wa
 !!LO:LB:g=esac
-=7
-{8g
-8g
-8a
-4cc
-8b-
-=8
-4b-
-8e
-4g
-8f
-=9
-8f
-8a
-8cc
-4aa
-16gg
-16ff}
+=7	=7
+{8g	w_dzień
+8g	kar-
+8a	-mi,
+(4cc	w_no-
+8b-)	.
+=8	=8
+4b-	-cy
+8e	o-
+4g	-kry-
+8f	-wa,
+=9	=9
+8f	bo
+8a	o
+8cc	cię
+4aa	ma-
+16ggL	-tka
+16ffJ}	.
 !!LO:LB:g=esac
-=10
-{16ee
-16dd
-8cc#
-8dd
-4ee
-8dd
-=11
-8g
-8g
-8a
-4cc
-8b-
-=12
-4dd
-8ee
-4ff
-8ff}
-==
-*-
+=10	=10
+{16eeL	tros-
+16ddJ	.
+8cc#L	-kli-
+8ddJ	.
+(4ee	-wa
+8dd)	.
+=11	=11
+8g	w_dzień
+8g	kar-
+8a	-mi,
+(4cc	w_no-
+8b-)	.
+=12	=12
+4dd	-cy
+8ee	o-
+4ff	-kry-
+8ff}	-wa.
+==	==
+*-	*-
+!!!role-singer: Narrator, Orphant
+!!!role-listener: Orphant, Parents
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!W gniazdku siedzący na skale,
+!!ptaszku, nie lękaj się wcale,
+!!|:bo o cię matka troskliwa
+!!w dzień karmi, w nocy okrywa:|.
+!!@VERSE:
+!!Jam sierota od powicia,
+!!nie znałam słodyczy życia,
+!!|:moja młodość nieszczęśliwa
+!!w smutku i we łzach upływa:|.
+!!@VERSE:
+!!Ledwom słówko wymówiła,
+!!o moją matkę pytałam,
+!!|:o moją matkę kochaną,
+!!tylko mi jej grób wskazano:|.
+!!@VERSE:
+!!Ojcze drogi, matko miła,
+!!com was tak wczesnie straciła,
+!!|:czemuś nie pod jednym głazem
+!!odpoczywam z wami razem:|?
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=290 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 281} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 281}
 !!!page: 281
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

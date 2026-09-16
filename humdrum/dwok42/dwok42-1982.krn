@@ -3,53 +3,65 @@
 !!!source: DWOK42
 !!!id: 421982
 !!!signature: 42198200000
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M2/4
-=1
-{8dd
-8ff
-8ff
-8ff
-=2
-8ff
-8ee-
-8ee-
-8dd
-=3
-8dd
-8ff
-8ff
-8ff
-=4
-8ff
-8ee-
-8ee-
-8dd}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M2/4	*
+=1	=1
+!!LO:TX:a:t=Zabawa czyli gra
+{8dd	Sie-
+8ff	-dzi
+8ff	pta-
+8ff	-szek
+=2	=2
+8ff	na
+8ee-	u-
+8ee-	-li-
+8dd	-cy,
+=3	=3
+8dd	kto
+8ff	tań-
+8ff	-cu-
+8ff	-je,
+=4	=4
+8ff	to
+8ee-	go
+8ee-	li-
+8dd}	-czy.
 !!LO:LB:g=esac
-=5
-{4cc
-4ee-
-=6
-8b-
-8dd
-4dd
-=7
-8cc
-8cc
-8ee-
-8a
-=8
-8b-
-8dd
-8b-}
-8r
-==
-*-
+=5	=5
+{4cc	Hej,
+4ee-	hej,
+=6	=6
+8b-	ma-
+8dd	-ło
+4dd	nas,
+=7	=7
+8cc	mośc-
+8cc	-ia
+8ee-	pan-
+8a	-no,
+=8	=8
+8b-	pójdź
+8dd	do
+8b-}	nas!
+8r	.
+==	==
+*-	*-
+!!!role-singer: Game Leader
+!!!role-listener: Maiden
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Siedzi ptaszek na ulicy,
+!!kto tańcuje, to go liczy.
+!!Hej, hej, mało nas,
+!!mościa panno, pójdź do nas!
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=630 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 621} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 621}
 !!!page: 621
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

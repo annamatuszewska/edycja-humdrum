@@ -3,60 +3,82 @@
 !!!source: DWOK42
 !!!id: 421896
 !!!signature: 42189600000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8.dd
-16b
-16g
-16b
-=2
-16.dd
-32b
-8b
-8a
-=3
-8.ee
-16a
-16cc
-16ee
-=4
-16gg
-16ee
-16ee
-16dd
-8dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8.dd	Nie
+16b	tyl-
+16g	-ko
+16b	te
+=2	=2
+16.dd	się
+32b	ko-
+(8ccq	.
+8b)	-cha-
+8a	-ją,
+=3	=3
+8.ee	co
+16a	pół-
+16cc	-włó-
+16ee	-czek
+=4	=4
+16gg	po-
+16ee	-la
+16eeL	ma-
+16ddJ	.
+8dd}	-ją,
 !!LO:LB:g=esac
-=5
-{16b
-16dd
-16gg
-16ff#
-16ee
-16ff#
-=6
-16gg
-16dd
-8b
-8g
-=7
-8.ee
-16a
-16cc
-16ee
-=8
-16dd
-16f#
-8a
-8g}
-==
-*-
+=5	=5
+{16b	ja
+16dd	choć
+16ggL	nie
+16ff#J	.
+16eeL	mam
+16ff#J	.
+=6	=6
+16gg	a-
+16dd	-ni
+8b	ćwier-
+8g\	-ci,
+=7	=7
+8.ee	ko-
+16a	-chać
+16cc	bę-
+16ee	-dę
+=8	=8
+16dd	aż
+16f#	do
+8a	śmier-
+8g}	-ci.
+==	==
+*-	*-
+!!!role-singer: Poor Man
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Nie tylko te się kochają,
+!!co półwłóczek pola mają,
+!!ja choć nie mam ani ćwierci,
+!!kochać będę aż do śmierci.
+!!@VERSE:
+!!U sąsiada kłos dojrzały,
+!!sąsiad swe role zasiewa,
+!!ja ciągle biedny, zgłodniały,
+!!na mém polu rodzi plewa.
+!!@VERSE:
+!!U sąsiada chleb gotowy,
+!!kochają go panny, wdowy,
+!!a ja więcej nie rozumiem,
+!!tylko w biedzie płakać umiem.
+!!@@END: VERSES
 !!!ONB: wariant w takcie 6: +1_5_3__5__ wariant w takcie 8: 5_-7_2_1_1__
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=294 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 285} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 285}
 !!!page: 285
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

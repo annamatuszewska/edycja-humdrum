@@ -3,83 +3,97 @@
 !!!source: DWOK42
 !!!id: 421972
 !!!signature: 42197200001
-**kern
-*clefG2
-*k[]
-*a:
-*M2/4
-=1
-{8dd
-8ff
-4ee
-=2
-8dd
-8ff
-4ee
-=3
-8dd
-16cc
-16b
-8a
-8cc
-=4
-4ee
-4ee}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M2/4	*
+=1	=1
+{8dd	Ku-
+8ff	-pi-
+4ee	-łem
+=2	=2
+8dd	ca-
+8ff	-pe-
+4ee	-ckę
+=3	=3
+8dd	za
+16ccL	cer-
+16bJ	.
+8a	-wo-
+8cc	-ny
+=4	=4
+4ee	du-
+4ee}	-kat,
 !!LO:LB:g=esac
-=5
-{8a
-8b
-8cc
-8b
-=6
-8cc
-8ee
-4dd
-=7
-8cc
-16dd
-16cc
-8b
-8b
-=8
-4a
-4a}
+=5	=5
+{8a\	po-
+8b	-je-
+8cc	-cha-
+8b	-łem
+=6	=6
+8cc	do
+8ee	so-
+4dd	-wy
+=7	=7
+8cc	i
+16ddL	zło-
+16ccJ	.
+8b	-dziéj
+8b	mi
+=8	=8
+4a	u-
+4a}	-krad.
 !!LO:LB:g=esac
-=9
-{4ee
-4ee
-=10
-8dd
-8ff
-4ee
-=11
-8dd
-8b
-8cc
-8dd
-=12
-4ee
-4ee}
+=9	=9
+{4ee	Ach
+4ee	waj!
+=10	=10
+8dd	A
+8ff	du-
+4ee	-naj!
+=11	=11
+8dd	Jak
+8b	się
+8cc/	oj-
+8dd/	-ciec
+=12	=12
+4ee	do-
+4ee}	-wie,
 !!LO:LB:g=esac
-=13
-{4a
-4cc
-=14
-8cc
-8ee
-4dd
-=15
-8ee
-8cc
-8b
-8b
-=16
-4a
-4a}
-==
-*-
+=13	=13
+{4a	ach,
+4cc	waj,
+=14	=14
+8cc	a
+8ee	du-
+4dd	-naj,
+=15	=15
+8ee/	a
+8cc/	cóz
+8b	on
+8b	mnie
+=16	=16
+4a	po-
+4a}	-wie?
+==	==
+*-	*-
+!!!role-singer: Game Leader
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Kupiłem capeckę
+!!za cerwony dukat,
+!!pojechałem do sowy
+!!i złodziéj mi ukrad.
+!!Ach waj! A dunaj!
+!!Jak się ojciec dowie,
+!!ach, waj, a dunaj,
+!!a cóz on mnie powie?
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=613 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 604} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 604}
 !!!page: 604
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

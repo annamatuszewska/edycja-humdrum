@@ -3,51 +3,61 @@
 !!!source: DWOK42
 !!!id: 421973
 !!!signature: 42197300000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16b
-8cc
-8cc
-=2
-16dd
-16b
-4g
-=3
-16cc
-16ee
-8gg
-8gg
-=4
-8dd
-4gg}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Ko-
+16b	-muż
+8cc	mam
+8cc	się
+=2	=2
+16dd	u-
+16b	-kło-
+4g	-nić
+=3	=3
+16cc	w_fry-
+16ee	-zo-
+8gg	-wa-
+8gg	-néj
+=4	=4
+8dd	ca-
+4gg}	-pce,
 !!LO:LB:g=esac
-=5
-{16dd
-16dd
-8cc
-8cc
-=6
-16dd
-16b
-8g
-8g
-=7
-16dd
-16dd
-8cc
-8cc
-=8
-4g
-8g}
-==
-*-
+=5	=5
+{16dd	te-
+16dd	-mu
+8cc	do-
+8cc	-brze,
+=6	=6
+16dd	te-
+16b	-mu
+8g	do-
+8g	-brze,
+=7	=7
+16dd	w_fry-
+16dd	-zo-
+8cc	-wa-
+8cc	-néj
+=8	=8
+4g	ca-
+8g}	-pce.
+==	==
+*-	*-
+!!!role-singer: Game Leader
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Komuż mam się ukłonić
+!!w fryzowanéj capce.
+!!temu dobrze, temu dobrze,
+!!w fryzowanéj capce.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=614 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 605} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 605}
 !!!page: 605
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

@@ -3,77 +3,79 @@
 !!!source: DWOK42
 !!!id: 421941
 !!!signature: 42194100000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8dd
-8cc#
-4dd
-4ee
-=2
-8dd
-8g
-4b
-4dd
-=3
-8ee
-8ff#
-4gg
-4ee
-=4
-8ee
-8dd
-4b
-4dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8dd	Hej-
+8cc#	-no
+4dd	ko-
+4ee	-cha-
+=2	=2
+8dd	-ne
+8g	chło-
+4b	-pczys-
+4dd	-ka
+=3	=3
+8eeL	.
+8ff#J	.
+4gg	.
+4ee	.
+=4	=4
+8eeL	.
+8ddJ	.
+4b	.
+4dd}	.
 !!LO:LB:g=esac
-=5
-{8a
-8cc
-4.ee
-8f#
-=6
-8g
-8b
-4dd
-4dd
-=7
-8d
-8f#
-4.a
-8f#
-=8
-8a
-8cc
-4b
-4dd}
+=5	=5
+{8aL	.
+8ccJ	.
+4.ee	.
+8f#	.
+=6	=6
+8gL	.
+8bJ	.
+4dd	.
+4dd	.
+=7	=7
+8dL	.
+8f#J	.
+4.a	.
+8f#	.
+=8	=8
+8aL	.
+8ccJ	.
+4b	.
+4dd/}	.
 !!LO:LB:g=esac
-=9
-{8a
-8cc
-4.ee
-8f#
-=10
-8g
-8b
-4dd
-4dd
-=11
-8d
-8f#
-4.a
-8f#
-=12
-8a
-8cc
-4b
-4g}
-==
-*-
+=9	=9
+{8aL	.
+8ccJ	.
+4.ee	.
+8f#	.
+=10	=10
+8gL	.
+8bJ	.
+4dd	.
+4dd	.
+=11	=11
+8dL	.
+8f#J	.
+4.a	.
+8f#	.
+=12	=12
+8aL	.
+8ccJ	.
+4b	.
+4g\}	.
+==	==
+*-	*-
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=311 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 302} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 302}
 !!!page: 302
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

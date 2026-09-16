@@ -3,66 +3,108 @@
 !!!source: DWOK42
 !!!id: 421901
 !!!signature: 42190100000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{4g
-4cc
-4dd
-=2
-4ee
-4dd
-4b
-=3
-8cc
-8b
-4cc
-4dd
-=4
-4ee}
-4r
-4r
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{4g	Niech
+4cc	ka-
+4dd	-żdy
+=2	=2
+4ee	to
+4dd	przy-
+4b	-zna,
+=3	=3
+8cc	kto
+8b	w_gło-
+4cc	-wie
+4dd	mózg
+=4	=4
+4ee}	ma,
+4r	.
+4r	.
 !!LO:LB:g=esac
-=5
-{4g
-4b
-4dd
-=6
-4ff
-4ee
-4dd
-=7
-8cc
-8cc
-4b
-4dd
-=8
-2.cc}
+=5	=5
+{4g	że
+4b	w_kar-
+4dd	-ty
+=6	=6
+4ff	za-
+4ee	-ba-
+4dd	-wa
+=7	=7
+8cc	jest
+8cc	naj-
+4b	-głu-
+(8bq	.
+4dd)	-psza
+=8	=8
+2.cc}	gra,
 !!LO:LB:g=esac
-=9
-{4cc
-4b
-4a
-=10
-4g
-4b
-4dd
-=11
-8ff
-8g
-4a
-4b
-=12
-4cc}
-4r
-4r
-==
-*-
+=9	=9
+{4cc	że
+4b	w_kar-
+4a	-ty
+=10	=10
+4g	za-
+4b	-ba-
+4dd	-wa
+=11	=11
+8ff	jest
+8g	naj-
+4a	-głu-
+4b	-psza
+=12	=12
+4cc}	gra.
+4r	.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Gambler
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Niech każdy to przyzna,
+!!kto w głowie mózg ma,
+!!|:że w karty zabawa
+!!jest najgłupsza gra:|.
+!!@VERSE:
+!!Przegrywa pieniądze,
+!!a przy tém i czas,
+!!|:a ten co wygrywa,
+!!naśmiewa się z nas:|.
+!!@VERSE:
+!!Ojczysko pracował,
+!!zbijał z grosza w grosz,
+!!|:ze złotej obręczy
+!!naładował trzos:|.
+!!@VERSE:
+!!A syn przybrawszy się
+!!w wszystką swoją moc,
+!!|:co ojczysko zapracował,
+!!przegrał w jedne noc:|.
+!!@VERSE:
+!!Pszeniczka i zboże,
+!!za pszeniczką las,
+!!|:koniki i powóz
+!!zabiera pan nasz:|.
+!!@VERSE:
+!!Wybiera się na tyatr,
+!!z tyatru na bal,
+!!|:nie otwarzają mu się drzwi,
+!!ani żadna sal:|.
+!!@VERSE:
+!!Na ukończenie szulera
+!!zwykle bywa tak,
+!!|:że od kart do kozy,
+!!a z kozy na hak:|.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=297 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 288} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 288}
 !!!page: 288
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

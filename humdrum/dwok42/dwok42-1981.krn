@@ -3,59 +3,76 @@
 !!!source: DWOK42
 !!!id: 421981
 !!!signature: 42198100000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/4
-=1
-{4f
-8f
-8g
-8a
-8b-
-=2
-4cc
-8cc
-8dd
-8ee
-8cc}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/4	*
+=1	=1
+{4f	Sto-
+8f	-i
+8g	ko-
+8a	-zeń-
+8b-	-ka,
+=2	=2
+4cc	sto-
+8cc	-i
+8dd	ko-
+8ee	-zeń-
+8cc}	-ka,
 !!LO:LB:g=esac
-=3
-{8cc
-8cc
-4ff
-4aa
-=4
-8gg
-8ee
-2cc
-=5
-4ff
-8dd
-8b-
-8b-
-8dd}
+=3	=3
+{8cc	sto-
+8cc	-i
+4ff	za
+4aa	go-
+=4	=4
+8ggL	-ra-
+8eeJ	.
+2cc	-mi,
+=5	=5
+4ff	i-
+8dd	-dzie
+8b-	wil-
+8b-	-ce-
+8dd}	-niek,
 !!LO:LB:g=esac
-=6
-{4cc
-8cc
-8b-
-8a
-8g
-=7
-8f
-8f
-4b-
-4dd
-=8
-8cc
-8a
-2f}
-==
-*-
+=6	=6
+{4cc	i-
+8cc	-dzie
+8b-	sta-
+8a	-ru-
+8g	-sek.
+=7	=7
+8f	Pojdz-
+8f	-ze,
+4b-	wa-
+4dd	-seć,
+=8	=8
+8ccL	z_na-
+8aJ	.
+2f}	-mi.
+==	==
+*-	*-
+!!!role-singer: Narrator, Wolf, Goat
+!!!role-listener: Goat, Wolf
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Stoi kozeńka, stoi kozeńka,
+!!stoi za gorami,
+!!idzie wilceniek, idzie starusek.
+!!Pojdzze, waseć, z nami.
+!!@VERSE:
+!!Ach, mój wilceńku, mój braciseńku,
+!!bo mnie nózka boli.
+!!Moja kozeńko, moja serdeńko,
+!!pojdziemy powoli.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=630 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 621} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 621}
 !!!page: 621
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

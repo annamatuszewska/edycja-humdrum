@@ -3,82 +3,133 @@
 !!!source: DWOK42
 !!!id: 421900
 !!!signature: 42190000000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{4g
-4cc
-4dd
-=2
-4ee
-4dd
-4cc
-=3
-8cc
-8cc
-4b
-4cc
-=4
-2dd}
-4r
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{4g	Niech
+4cc	ka-
+4dd	-żdy
+=2	=2
+4ee	to
+4dd	przy-
+4cc	-zna,
+=3	=3
+8cc	co
+8cc	mózg
+4b	w_gło-
+4cc	-wie
+=4	=4
+2dd}	ma,
+4r	.
 !!LO:LB:g=esac
-=5
-{4g
-4b
-4dd
-=6
-4ff
-4ee
-4dd
-=7
-8dd
-8dd
-4cc
-4dd
-=8
-2ee}
-4r
+=5	=5
+{4g	niech
+4b	ka-
+4dd	-żdy
+=6	=6
+4ff	to
+4ee	przy-
+4dd	-zna,
+=7	=7
+8dd	co
+8dd	mózg
+4cc	w_gło-
+4dd	-wie
+=8	=8
+2ee}	ma,
+4r	.
 !!LO:LB:g=esac
-=9
-{4g
-4cc
-4dd
-=10
-4ee
-4dd
-4cc
-=11
-8cc
-8cc
-4b
-4a
-=12
-2.a}
+=9	=9
+{4g	że
+4cc	w_kar-
+4dd	-ty
+=10	=10
+4ee	za-
+4dd	-ba-
+4cc	-wa
+=11	=11
+8cc	jest
+8cc	naj-
+4b	-wię-
+4a	-ksza
+=12	=12
+2.a}	gra,
 !!LO:LB:g=esac
-=13
-{4cc
-4b
-4a
-=14
-4g
-4cc
-4ee
-=15
-8gg
-8ff
-4a
-4b
-=16
-4cc}
-4r
-4r
-==
-*-
+=13	=13
+{4cc	że
+4b	w_kar-
+4a	-ty
+=14	=14
+4g	za-
+4cc	-ba-
+4ee	-wa
+=15	=15
+8gg	jest
+8ff	naj-
+4a	-wię-
+4b	-ksza
+=16	=16
+4cc}	gra.
+4r	.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Gambler
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!|:Niech każdy to przyzna,
+!!co mózg w głowie ma:|,
+!!|:że w karty zabawa
+!!jest największa gra:|.
+!!@VERSE:
+!!|:Człek traci pieniądze,
+!!człowiek traci czas:|,
+!!|:a kto ich wygrywa,
+!!naśmiewa się z nas:|.
+!!@VERSE:
+!!|:Ojczysko pracował,
+!!robił z grosza grosz:|,
+!!|:ze złotą obrączką
+!!napakował trzos:|.
+!!@VERSE:
+!!|:A pan syn zabrawszy
+!!dukaty w swą moc:|,
+!!|:co ojciec zapracował,
+!!przegrał w jedną noc:|.
+!!@VERSE:
+!!|:Za złotem pszeniczka,
+!!za pszeniczką las:|,
+!!|:już zabrał pan konie,
+!!przegrał koczyk nasz:|.
+!!@VERSE:
+!!|:Za złotem pszenica,
+!!za pszenicą zysk:|,
+!!|:postawił lokaja,
+!!a lokaj go w pysk:|.
+!!@VERSE:
+!!|:Wreście na ostatku
+!!idzie gęsi paść:|,
+!!|:jak się nie ma czego chwycić,
+!!idzie później kraść:|.
+!!@VERSE:
+!!|:Skrada się na tyatr,
+!!z tyatru na bal:|.
+!!|:nie oprą mu się zamki
+!!ani żadna stal:|.
+!!@VERSE:
+!!|:Zakończenie szulera
+!!tak to bywa, tak:|,
+!!|:że z kartów do kozy
+!!a z kozy na hak:|.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=296 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 287} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 287}
 !!!page: 287
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

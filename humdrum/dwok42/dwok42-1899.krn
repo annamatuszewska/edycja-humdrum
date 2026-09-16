@@ -3,64 +3,77 @@
 !!!source: DWOK42
 !!!id: 421899
 !!!signature: 42189900000
-**kern
-*clefG2
-*k[b-e-a-]
-*E-:
-*M3/4
-=1
-{8d
-8f
-4.cc
-8b-
-=2
-8.a-
-16d
-8e-
-8e-
-4r
-=3
-8d
-8e-
-4.f
-8g}
+**kern	**text
+*clefG2	*
+*k[b-e-a-]	*
+*E-:	*
+*M3/4	*
+=1	=1
+!!LO:TX:a:t=Do gitary
+{8d	To-
+8f	-wa-
+4.cc	-rzysz-
+8b-	-ko
+=2	=2
+8.a-	ży-
+16d	-cia
+8e-	wio-
+8e-	-sny,
+4r	.
+=3	=3
+8d	po-
+8e-	-wier-
+4.f	-ni-
+8g}	-co
 !!LO:LB:g=esac
-=4
-{8.a-
-16d
-8e-
-8e-
-4r
-=5
-8a-
-8cc
-8cc
-8cc
-8cc
-8dd}
+=4	=4
+{8.a-	tkli-
+16d	-wej
+8e-	du-
+8e-	-szy,
+4r	.
+=5	=5
+8a-	brzmią-
+8cc	-cych
+8cc	strun
+8cc	twych
+8cc	dźwięk
+8dd}	ża-
 !!LO:LB:g=esac
-=6
-{8ee-
-8b-
-8ee-
-8ee-
-4r
-=7
-8dd
-8cc
-4b-
-8a-
-8d
-=8
-8e-
-8e-
-8e-
-8e-}
-4r
-==
-*-
+=6	=6
+{(8ee-L	-ło-
+8b-J	.
+8ee-)	.
+8ee-	-sny
+4r	.
+=7	=7
+8dd	niech
+8cc	wes-
+(4b-	-tchnie-
+8a-)	.
+8d	-nia
+=8	=8
+8e-	me
+8e-	za-
+8e-	-głu-
+8e-}	-szy.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Young Man
+!!!role-listener: Guitar
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Towarzyszko życia wiosny,
+!!powiernico tkliwej duszy,
+!!brzmiących strun twych dźwięk żałosny
+!!niech westchnienia me zagłuszy.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=295 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 286} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 286}
 !!!page: 286
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

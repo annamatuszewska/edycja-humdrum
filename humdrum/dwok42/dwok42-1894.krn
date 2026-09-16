@@ -3,105 +3,178 @@
 !!!source: DWOK42
 !!!id: 421894
 !!!signature: 42189400000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{8ff
-8a
-16b-
-16a
-=2
-16g
-16g
-8b-
-8b-
-=
-24b-
-24dd
-24dd
-8cc
-16cc
-16e}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{8ff	Hej,
+8a	ja
+16b-	so-
+16a	-bie
+=2	=2
+16g	Ma-
+16g	-zu-
+8b-	-re-
+8b-	-czek,
+=3	=3
+24b-L	za-
+24ddJ	.
+24dd	-le-
+8cc	-cam
+16ccL	się
+16eJ}	.
 !!LO:LB:g=esac
-=3
-{16f
-16a
-8cc
-8cc
-=
-24cc
-24ff
-24ff
-8a
-8a
-=4
-16b-
-16dd
-8dd
-8dd}
+=4	=4
+{16f	do
+16a	dzie-
+8cc	-we-
+8cc	-czek,
+=5	=5
+24ccL	do
+24ffJ	.
+24ff	dzie-
+8a	-we-
+8a	-czek
+=6	=6
+16b-	się
+16dd	za-
+8dd	-le-
+8dd}	-cam,
 !!LO:LB:g=esac
-=5
-{16cc
-16dd
-8cc
-8e
-=6
-16f
-16a
-8a
-8f
-=7
-16g
-16a
-16b-
-16a
-16cc
-16b-}
+=7	=7
+{16cc	każ-
+16dd	-dej
+8cc	ta-
+8e	-niec
+=8	=8
+16f	przy-
+16a	-o-
+8a	-bie-
+8f	-cam.
+=9	=9
+16gL	Hej,
+16aJ	.
+16b-	tu-
+16a	-li
+16cc	tu-
+16b-}	-li
 !!LO:LB:g=esac
-=8
-{16a
-16cc
-4ff
-=9
-8gg
-8cc
-16dd
-16ee
-=10
-8.ff
-16a
-16dd
-16cc}
+=10	=10
+{16a	tu-
+16cc	-li
+4ff	ta,
+=11	=11
+8gg	hej,
+8cc	bo-
+16dd	-daj-
+16ee	-że
+=12	=12
+8.ff	ma-
+16a	-tu-
+16ddL	-la,
+16ccJ}	.
 !!LO:LB:g=esac
-=11
-{16g
-16a
-16b-
-16a
-16cc
-16b-
-=12
-16a
-16cc
-4ff
-=13
-8.gg
-16ee
-16b-
-16g
-=14
-16g
-16f
-8f}
-8r
-==
-*-
+=13	=13
+{16gL	hej,
+16aJ	.
+16b-	tu-
+16a	-li
+16cc	tu-
+16b-	-li
+=14	=14
+16a	tu-
+16cc	-li
+4ff	ta,
+=15	=15
+8.ggL	hej,
+16eeJ	.
+16b-L	hej,
+16gJ	.
+=16	=16
+16gL	hej,
+16fJ	.
+8f}	hej.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Bachelor from Mazury
+!!!role-listener: Mother
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Hej, ja sobie Mazureczek,
+!!zalecam się do dzieweczek,
+!!do dzieweczek się zalecam,
+!!każdej taniec przyobiecam.
+!!Hej, tuli tuli tuli ta,
+!!hej, bodajże matula.
+!!hej, tuli tuli tuli ta,
+!!hej, hej, hej, hej.
+!!@VERSE:
+!!W prawo, w lewo pójdę z Basią,
+!!a mazura utnę z Kasią,
+!!dzieweczki mnie też kochają,
+!!oczkiem, boczkiem spoglądają.
+!!Hej, tuli tuli tuli ta,
+!!hej, bodajże matula,
+!!hej, tuli tuli tuli ta,
+!!hej hej hej hej.
+!!@VERSE:
+!!I Rózieczka, gdy mnie zoczy,
+!!nie odwróci ślicznych oczy,
+!!i ja także patrząc na nią,
+!!wszystkie skarby dałbym za nią.
+!!Hej, tuli tuli tuli ta,
+!!hej, bodajże matula.
+!!hej, tuli tuli tuli ta.
+!!hej hej hej hej.
+!!@VERSE:
+!!Wszystkie skarby dałbym za nią,
+!!byle nie ojczyznę moją,
+!!byle nie ojczyznę dana,
+!!hop, moja Zosiu kochana.
+!!Hej, tuli tuli tuli ta,
+!!hej, bodajże matula.
+!!hej, tuli tuli tuli ta,
+!!hej hej hej hej.
+!!@VERSE:
+!!Bo chłopek ze mnie nie lada,
+!!choć niejedna o mnie gada,
+!!bo u dziewcząt zwyczaj taki,
+!!a ten taki, ten owaki.
+!!Hej, tuli tuli tuli ta,
+!!hej, bodajże matula,
+!!hej, tuli tuli tuli ta,
+!!hej hej hej hej.
+!!@VERSE:
+!!Cóż dopiero, kiej w niedzielę
+!!nowiusieńką mam kamzelę,
+!!u koszuli wstążkę burą,
+!!a u czapki pawie pióro.
+!!Hej, tuli tuli tuli ta,
+!!hej, bodajże matula,
+!!hej, tuli tuli tuli ta,
+!!hej hej hej hej.
+!!@VERSE:
+!!Czy do pitki, czy do sytki(1),
+!!czy do tanki, czy do szklanki,
+!!jedna w życiu ukochana,
+!!to cnoty Wielkopolana.
+!!Hej, tuli tuli tuli ta,
+!!hej, bodajże matula,
+!!hej, tuli tuli tuli ta,
+!!hej hej hej hej.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: (1) do pijatyki czy do jadła
+!!@@END:
 !!!ONB: wariant w takcie ostatnim: -722_1_
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=292 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 283} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 283}
 !!!page: 283
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

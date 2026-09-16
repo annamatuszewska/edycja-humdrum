@@ -3,67 +3,105 @@
 !!!source: DWOK42
 !!!id: 421975
 !!!signature: 42197500000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16a
-16b
-16cc
-16dd
-16cc
-=2
-16dd
-16b
-8cc
-8ee
-=3
-8.dd
-16ee
-8cc}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	A
+16a	mo-
+16b	-ja
+16cc	ma-
+16dd	-tu-
+16cc	-lu,
+=2	=2
+16dd	ja-
+16b	-dą
+8cc	do
+8ee	nas
+=3	=3
+8.ddL	goś-
+16eeJ	.
+8cc}	-cie,
 !!LO:LB:g=esac
-=4
-{16b
-16g
-8cc
-16a
-16f#
-=5
-4g
-8g
-=6
-16a
-32f#
-32d
-4g}
+=4	=4
+{(8aq	.
+16b)	ja-
+16g	-dą
+(8bq	.
+8cc)	do
+16aL	nas
+16f#J	.
+=5	=5
+4g	goś-
+8g	-cie.
+=6	=6
+16a	A
+32f#L	prze-
+32dJ	.
+4g}	-cie
 !!LO:LB:g=esac
-=
-{24a
-24b
-24cc
-8cc
-16b
-16g
-=7
-16a
-32f#
-32d
-4g
-=
-24a
-24b
-24cc
-8cc
-16b
-16g}
-==
-*-
+=7	=7
+{24aL	wyj-
+24b	.
+24ccJ	.
+8cc	-dzij-
+16bL	-cie,
+16gJ	.
+=8	=8
+16a	do
+32f#L	iz-
+32dJ	.
+4g	-by
+=9	=9
+24aL	ich
+24b	.
+24ccJ	.
+8cc	proś-
+16bL	-cie.
+16gJ}	.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!role-listener: Mother
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!A moja matulu, |:jadą do nas goście:|.
+!!A przecie wyjdzijcie,
+!!do izby ich proście.
+!!@VERSE:
+!!A moja matulu, kandyz będą siedzieć?
+!!A młody za stołem,
+!!a stary przed stołem,
+!!a mój najmilejsy |:ze mną w pokoiku:|.
+!!@VERSE:
+!!A moja matulu, a cóz bandą jedli?
+!!A młodemu kapłon tłusty,
+!!a staremu kierz kapusty,
+!!a mojemu miłemu przepysna potrawa.
+!!@VERSE:
+!!A moja matulu, a gdziez będą spali?
+!!A młody za stołem,
+!!a stary przed stołem,
+!!a moj najmilejsy se mną na łózecku.
+!!@VERSE:
+!!A moja matulu, na cém będą spali?
+!!A młodemu pięć podusek,
+!!a staremu worek sysek,
+!!a mojemu miłemu przepysne piernaty.
+!!@VERSE:
+!!Wyjdijcie za niemi, co za ukłon dali?
+!!Młody capkę zdjon,
+!!a stary rzyć wypion,
+!!a mój najmilejsy mile się ukłonił.
+!!@@END: VERSES
 !!!ONB: wariant w takcie 2: 5_314_6_5_
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=616 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 607} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 607}
 !!!page: 607
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

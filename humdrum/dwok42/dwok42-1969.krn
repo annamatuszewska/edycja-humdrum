@@ -3,59 +3,83 @@
 !!!source: DWOK42
 !!!id: 421969
 !!!signature: 42196900000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M4/4
-=1
-{8g
-8b
-8b
-8dd
-2cc
-=2
-8b
-8dd#
-8ee
-8cc#
-2dd
-=3
-8b
-8dd#
-8ee
-8cc#
-2dd
-=4
-8b
-8dd
-8cc
-8a
-8f#
-8a
-8.b
-16g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M4/4	*
+=1	=1
+{8g	Graj,
+8b	pas-
+8b	-tusz-
+8dd	-ku,
+2cc	graj,
+=2	=2
+8b	ża-
+8dd#	-lu
+8ee	my
+8cc#	do-
+2dd	-daj,
+=3	=3
+8b	ża-
+8dd#	-lu
+8ee	my
+8cc#	do-
+2dd	-daj,
+=4	=4
+8b	star-
+8dd	-sa
+8cc	sio-
+8a	-stra
+8f#	za-
+8a	-bi-
+8.b	-ja-
+16g}	-ła,
 !!LO:LB:g=esac
-=5
-{8b
-8dd
-8.cc
-16a
-8f#
-8d
-8d
-8d
-=6
-8f#
-8a
-8a
-8a
-2g}
-==
-*-
+=5	=5
+{8b	a
+8dd	młod-
+8.cc	-sa
+16a	mię
+8f#	od-
+8d	-bra-
+8d	-nia-
+8d	-ła,
+=6	=6
+8f#	za
+8a	garz-
+8a	-tkę
+8a	ja-
+2g}	-gód.
+==	==
+*-	*-
+!!!role-singer: Folk Flute
+!!!role-listener: Shepherd, Mother, Eldest Sister
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Graj, pastuszku, graj,
+!!|:żalu my dodaj:|,
+!!starsa siostra zabijała,
+!!a młodsa mię odbraniała,
+!!za garztkę jagód.
+!!@VERSE:
+!!Przyniósł fujarkę do matki jej, która, gdy w nią zadęła, usłyszała:
+!!Graj, matulu, graj itd.
+!!@VERSE:
+!!Gdy zmuszono najstarszą siostrę do zadęcia, wtenczas usłyszano:
+!!Rozbójnico, graj.
+!!Boże cię skaraj.
+!!Rozbójnicka zabijała,
+!!a młodza mię odbraniała,
+!!za garztkę jagód.
+!!@VERSE:
+!!Skazano ją więc na śmierć, a książę pojął pozostałą siostrę.
+!!@@END: VERSES
 !!!ONB: zamiast taktu drugiego:6_4#_4#_4#_5___  3_5_6_4#_5___
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=551 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 542} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 542}
 !!!page: 542
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

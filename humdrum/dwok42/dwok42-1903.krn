@@ -3,95 +3,155 @@
 !!!source: DWOK42
 !!!id: 421903
 !!!signature: 42190300000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8dd
-8dd
-4dd
-4ee
-=2
-8dd
-8cc#
-4dd
-4r
-=3
-8cc
-8a
-4cc
-4a
-=4
-8cc
-8b
-2g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8dd	Oj,
+8dd	bie-
+4dd	-dny
+4ee	ja
+=2	=2
+8dd	chło-
+8cc#	-pczy-
+4dd	-na,
+4r	.
+=3	=3
+8cc	bę-
+8a	-dą-
+4cc	-cy
+4a	w_po-
+=4	=4
+8ccL	-dró-
+8bJ	.
+2g}	-ży,
 !!LO:LB:g=esac
-=5
-{8dd
-8dd
-4dd
-4ee
-=6
-8cc#
-8dd
-2gg
-=7
-8ff#
-8ff#
-4a
-4a
-=8
-8cc
-8b
-4g}
-4r
+=5	=5
+{8dd	nie
+8dd	je-
+4dd	-dna
+4ee	mnie
+=6	=6
+8cc#	pa-
+8dd	-nie-
+2gg	-nka
+=7	=7
+8ff#	ta-
+8ff#	-ki
+4a	pro-
+4a	-jekt
+=8	=8
+8ccL	wró-
+8bJ	.
+4g}	-ży.
+4r	.
 !!LO:LB:g=esac
-=9
-{4.cc
-8a
-8f#
-8d
-=10
-8g
-8b
-4dd
-4gg
-=11
-8ff#
-8ff#
-4a
-4a
-=12
-4cc
-2b}
+=9	=9
+{4.cc	Trom
+8a	ta
+8f#	ra-
+8d	-da,
+=10	=10
+8g	trom
+8b	ta
+4dd	ra-
+4gg	-da,
+=11	=11
+8ff#	ra-
+8ff#	-da
+4a	da
+4a	da
+=12	=12
+4cc	da
+2b}	da,
 !!LO:LB:g=esac
-=13
-{4.cc
-8a
-8f#
-8d
-=14
-8g
-8b
-4dd
-4gg
-=15
-8ff#
-8ff#
-4a
-4a
-=16
-8cc
-8b
-4g}
-4r
-==
-*-
+=13	=13
+{4.cc	[trom
+8a	ta
+8f#	ra-
+8d	-da,
+=14	=14
+8g	trom
+8b	ta
+4dd	ra-
+4gg	-da,
+=15	=15
+8ff#	ra-
+8ff#	-da
+4a	da
+4a	da
+=16	=16
+8ccL	da
+8bJ	.
+4g}	da].
+4r	.
+==	==
+*-	*-
+!!!role-singer: Bachelor, Maiden
+!!!role-listener: Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Oj, biedny ja chłopczyna,
+!!będący w podróży.
+!!niejedna mnie panienka
+!!taki projekt wróży.
+!!|:Trom ta rada, trom ta rada,
+!!rada da da da da:|.
+!!@VERSE:
+!!Ej, stój, nie jadź, ej, stój, nie jadź,
+!!ostrzegam cie, bracie,
+!!ile nieszczęść na świecie
+!!oczekują na cię.
+!!|:Trom ta rada, trom ta rada,
+!!rada da da da da:|.
+!!@VERSE:
+!!Lepiej bym ci życzyła
+!!w mym domu nocować
+!!i tę twoją naturę
+!!z moją zinformować(1).
+!!|:Trom ta rada, trom ta rada,
+!!rada da da da da:|.
+!!@VERSE:
+!!Jak przyjadziesz do miasta
+!!do miasta Kostkowic(2),
+!!to potem sobie postąp(3)
+!!aż do Kolankowic(4).
+!!|:Trom ta rada, trom ta rada,
+!!rada da da da da:|.
+!!@VERSE:
+!!Jak przyjadziesz do Udzisk(5)
+!!prosto przez Podwale,
+!!postap pod bramę fortycy(6),
+!!wnijdź w nia podufale.
+!!|:Trom ta rada, trom ta rada,
+!!rada da da da da:|.
+!!@VERSE:
+!!Wiwat, wiwat, rycerzu,
+!!żem ja już wygrała(7),
+!!żeś mi(8) dobył tej fortycy,
+!!która mnie swędziała(9).
+!!|:Trom ta rada, trom ta rada,
+!!rada da da da da:|.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: (1) i lepiej się w podróży u mnie zinformować
+!!(2) Rączkowic
+!!(3) sie bierz pod górę
+!!(4) wsi Szyjkowic
+!!(5) Podbródzisk
+!!(6) Usteczek
+!!(7) już twoja wygrana
+!!(8) jużeś
+!!(9) co nie była brana
+!!@@END:
 !!!ONB: wariant w takcie 7: 7_762__2__
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=298 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 289} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 289}
 !!!page: 289
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

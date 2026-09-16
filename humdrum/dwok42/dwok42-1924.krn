@@ -18,9 +18,9 @@
 4cc
 =3
 4.g
-8f
+8fL
 8e
-8d
+8dJ
 =4
 4c
 4ee
@@ -35,7 +35,7 @@
 4dd
 =7
 4ee
-4ee
+4eem
 4dd
 =8
 2.cc}
@@ -50,9 +50,9 @@
 4cc
 =11
 4.g
-8f
+8fL
 8e
-8d
+8dJ
 =12
 4c
 4ee
@@ -67,7 +67,7 @@
 4dd
 =15
 4ee
-4ee
+4eem
 4dd
 =16
 2.cc}
@@ -97,8 +97,9 @@
 4b
 =23
 4cc
-8cc
-8b
+(8ddq
+8cc)L
+8bJ
 4cc}
 !!LO:LB:g=esac
 =24
@@ -132,3 +133,5 @@
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=306 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 297} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 297}
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

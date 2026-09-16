@@ -3,81 +3,98 @@
 !!!source: DWOK42
 !!!id: 421897
 !!!signature: 42189700000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8a
-8cc
-4.ee
-8dd
-=2
-8dd
-8b
-4g
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8a	Jak
+8cc	mnie
+4.ee	Pan
+8dd	Bóg
+=2	=2
+8dd	do-
+8b	-po-
+4g	-mo-
+4g}	-że,
 !!LO:LB:g=esac
-=3
-{8d
-8d
-4f#
-4f#
-=4
-8d
-8d
-4g
-4g
-=5
-8a
-8cc
-4.ee
-8dd}
+=3	=3
+{8d	to
+8d	ja
+4f#	sie
+4f#	z_to-
+=4	=4
+8d	-bą
+8d	o-
+4g	-że-
+4g	-nię,
+=5	=5
+8a	fa-
+8cc	-bry-
+4.ee	-czkę
+8dd}	so-
 !!LO:LB:g=esac
-=6
-{8b
-8dd
-4.gg
-8dd
-=7
-8dd
-8ee
-8dd
-8cc
-4a
-=8
-8a
-8a
-4g
-4g}
+=6	=6
+{8b	-bie
+8dd/	za-
+4.gg	-ło-
+8dd	-żę,
+=7	=7
+8dd	stan-
+8ee	-cy-
+8ddL	-ą
+8ccJ	.
+4a\	wca-
+=8	=8
+8a	-le
+8a	o-
+4g	-dmie-
+4g}	-nię,
 !!LO:LB:g=esac
-=9
-{8a
-8cc
-4.ee
-8dd
-=10
-8dd
-8dd
-4.gg
-8gg
-=11
-8dd
-8ee
-8dd
-8cc
-8a
-8f#
-=12
-8a
-8a
-4g
-4g}
-==
-*-
+=9	=9
+{8a	fa-
+8cc	-bry-
+4.ee	-czkę
+8dd	so-
+=10	=10
+8dd/	-bie
+8b	za-
+4.gg	-ło-
+8gg/	-żę,
+=11	=11
+8dd	stan-
+8ee	-cy-
+8ddL	-ą
+8ccJ	.
+8aL	wca-
+8f#J	.
+=12	=12
+8a	-le
+8a	o-
+4g	-dmie-
+4g}	-nię.
+==	==
+*-	*-
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Jak mnie Pan Bóg dopomoże,
+!!to ja sie z tobą ożenię,
+!!|:fabryczkę sobie założę,
+!!stancyą wcale odmienię:|.
+!!@VERSE:
+!!Będę robić jako ludzie,
+!!będę rządzić jakem stała,
+!!|:będą na mnie robić słudzy,
+!!ja bym zawsze tego chciała:|.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=294 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 285-286} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, pp. 285-286}
 !!!page: 285-286
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

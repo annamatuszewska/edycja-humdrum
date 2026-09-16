@@ -3,53 +3,65 @@
 !!!source: DWOK42
 !!!id: 421970
 !!!signature: 42197000000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M4/4
-=1
-{8g
-8a
-8b
-8cc
-2dd
-=2
-8cc#
-8dd
-8ee
-8cc#
-2dd
-=3
-8b
-8dd
-8cc
-8a
-8f#
-8g
-8b
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M4/4	*
+=1	=1
+{8g	Graj,
+8a	pas-
+8b	-tus-
+8cc	-ku,
+2dd	graj,
+=2	=2
+8cc#	ża-
+8dd	-lu
+8ee	mi
+8cc#	do-
+2dd	-daj,
+=3	=3
+8b	star-
+8dd	-sa
+8cc	sio-
+8a	-stra
+8f#	za-
+8g	-bi-
+8b	-ja--ła,
+8g}	młod-
 !!LO:LB:g=esac
-=4
-{8b
-8dd
-8cc
-8a
-8f#
-8d
-8d
-8d
-=5
-8f#
-8g
-8a
-8b
-2g}
-==
-*-
+=4	=4
+{8b	-sa
+8dd	sio-
+8cc	-stra
+8a	od-
+8f#\	-bra-
+8d\	-nia-
+8d\	-ła,
+8d\	za
+=5	=5
+8f#	garz-
+8g	-tkę
+8a	ja-
+8b	-gód.
+2g}	.
+==	==
+*-	*-
+!!!role-singer: Folk Flute
+!!!role-listener: Shepherd, Mother, Eldest Sister
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Graj, pastusku, graj,
+!!żalu mi dodaj,
+!!starsa siostra zabijała,
+!!młodsa siostra odbraniała,
+!!za garztkę jagód.
+!!@@END: VERSES
 !!!ONB: wariant w takcie 2: 6664#5__ wariant w takcie 4: 3542-713-5
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=552 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 543} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 543}
 !!!page: 543
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

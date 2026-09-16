@@ -3,63 +3,125 @@
 !!!source: DWOK42
 !!!id: 421892
 !!!signature: 42189200001
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8g
-8cc
-8.ee
-16ee
-8dd
-8cc
-=2
-8cc
-8b
-4b}
-4r
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8g	Już
+8cc	na
+8.ee	wie-
+16ee	-czor-
+8dd	-ne
+8cc	pa-
+=2	=2
+8ccL	-cie-
+8bJ	.
+4b}	-rze
+4r	.
 !!LO:LB:g=esac
-=3
-{8g
-8b
-8dd
-8ee
-8ff
-8b
-=4
-4dd
-4cc
-4r
-=5
-8.ee
-16dd
-8dd
-8cc
-8.ff
-16ee}
+=3	=3
+{8g	na
+8b	koś-
+8dd	-ciół-
+8ee	-ku
+8ff	prze-
+8b	-dzwo-
+=4	=4
+4dd	-ni-
+4cc	-li,
+4r	.
+=5	=5
+8.ee	Jaś
+16dd	za
+8dd	rą-
+8cc	-czkę
+8.ff;	sio-
+16ee}	-strę
 !!LO:LB:g=esac
-=6
-{8ee
-8dd
-4dd
-4r
-=7
-8g
-8b
-8dd
-8ee
-8ff
-8b
-=8
-4dd
-4cc}
-4r
-==
-*-
+=6	=6
+{8eeL	bie-
+8ddJ	.
+4dd	-rze:
+4r	.
+=7	=7
+8g\	Chodź,
+8b	bę-
+8dd	-dziem
+8ee	so-
+8ff	-bie
+8b	cho-
+=8	=8
+4dd	-dzi-
+4cc}	-li.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Brother, Sister
+!!!role-listener: Sister, Brother, Mother
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Już na wieczorne pacierze
+!!na kościółku przedzwonili,
+!!Jaś za rączkę siostrę bierze.
+!!Chodź, będziem sobie chodzili.
+!!@VERSE:
+!!Idą, idą, już noc zaszła,
+!!już księżyc świeci na niebie,
+!!idzie z wolna para miła
+!!i tak przemawia do siebie.
+!!@VERSE:
+!!Szóste ci dopiero lato,
+!!ty, siostrzyczko, jesteś mała,
+!!jednak cim ja starszy za to,
+!!równo nas mama kochała.
+!!@VERSE:
+!!Nieprawda, siostrzyczko mała,
+!!mama bardzo dobra była,
+!!ach, siostrzyczko, jaka szkoda,
+!!że mama dłużéj nie żyła.
+!!@VERSE:
+!!Już księżyc skrył się za chmury,
+!!grób zielony drzewa cienią,
+!!Jaś swą siostrzyczkę przegonił,
+!!płacze, czyta na kamieniu.
+!!@VERSE:
+!!I stoi jakby nieżywy,
+!!tylko mu łzy w oczach widać,
+!!i wzdycha jak nieszczęśliwy,
+!!ty, braciszku, umiesz czytać?
+!!@VERSE:
+!!Ja jeszcze czytać nie umiem,
+!!mnie jeszcze nie nauczono,
+!!to ja tego nie rozumiem,
+!!co tu mamie napisano.
+!!@VERSE:
+!!I za rączki się pobrali,
+!!na trawce poklękli sobie,
+!!oboje tam zapłakali
+!!i tak mówili przy grobie:
+!!@VERSE:
+!!Piérwsza mamo, coś tu w grobie,
+!!ach, byłabyś bardzo smutna,
+!!żebyś teraz zobaczyła,
+!!jak nam mama jest okrutna.
+!!@VERSE:
+!!Ojciec z drugą matką żyje,
+!!ona depce dzieci twoje,
+!!ona woła, gdy nas bije:
+!!Idźcie, wy nie dzieci moje.
+!!@VERSE:
+!!Już księżyc skrył się za chmury
+!!i wiater zza lasa leci,
+!!rozchwiał się smutek ponury,
+!!uciekają biedne dzieci.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=290 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 281} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 281}
 !!!page: 281
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

@@ -3,64 +3,77 @@
 !!!source: DWOK42
 !!!id: 421898
 !!!signature: 42189800000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M4/4
-=1
-{8g
-8dd
-8dd
-8dd
-8dd
-8dd
-8gg
-8ff#
-=2
-8ee
-8ee
-8ee
-8ee
-8ee
-8ff#
-8gg
-8ee}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M4/4	*
+=1	=1
+!!LO:TX:a:t=Furmańska
+{8g	Wszys-
+8dd	-tkich
+8dd	nas
+8dd	cie-
+8dd	-ka-
+8dd	-wość
+8gg	bu-
+8ff#	-dzi,
+=2	=2
+8ee	kto
+8ee	jest
+8ee	naj-
+8ee	-szczęś-
+8ee	-li-
+8ff#	-wszy
+8gg	z_lu-
+8ee}	-dzi,
 !!LO:LB:g=esac
-=3
-{8dd
-8cc
-8b
-8dd
-8dd
-8dd
-8gg
-8ff#
-=4
-8ee
-8ee
-8ee
-8ee
-8ee
-8ff#
-8gg
-8ee}
+=3	=3
+{8dd	a
+8cc	ja
+8b	mo-
+8dd	-wię:
+8dd	z_wsys-
+8dd	-tkich
+8gg	sta-
+8ff#	-nów
+=4	=4
+8ee	naj-
+8ee	-szczęś-
+8ee	-li-
+8ee	-wsy
+8ee	stan
+8ff#	fur-
+8gg	-ma-
+8ee}	-nów.
 !!LO:LB:g=esac
-=5
-{4dd
-4gg
-8ff#
-8ee
-8ff#
-8ff#
-=6
-4gg}
-4r
-2r
-==
-*-
+=5	=5
+{4dd	Wio,
+4gg	wio,
+8ff#	he-
+8ee	-tta,
+8ff#	he-
+8ff#	-tta,
+=6	=6
+4gg}	wio.
+4r	.
+2r	.
+==	==
+*-	*-
+!!!role-singer: Carter
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Wszystkich nas ciekawość budzi,
+!!kto jest najszczęśliwszy z ludzi,
+!!a ja mowię: z wsystkich stanów
+!!najszczęśliwsy stan furmanów.
+!!Wio, wio, hetta, hetta, wio.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=295 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 286} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 286}
 !!!page: 286
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

@@ -3,82 +3,121 @@
 !!!source: DWOK42
 !!!id: 421979
 !!!signature: 42197900000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M2/4
-=1
-{16f
-16g
-16a
-16b-
-8cc
-8ff
-=2
-16dd
-16dd
-4cc
-8a}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M2/4	*
+=1	=1
+{16f	A
+16g	sie-
+16a	-dzi
+16b-	za-
+8cc	-ją-
+8ff	-cek
+=2	=2
+16dd	pod
+16dd	mie-
+(4cc	-dzą,
+8a)}	.
 !!LO:LB:g=esac
-=3
-{16b-
-16cc
-4a
-8r
-=4
-16f
-16g
-16a
-16b-
-8cc
-8ff
-=5
-16dd
-16dd
-4cc
-8a}
+=3	=3
+{16b-	pod
+16cc	mie-
+4a	-dzą,
+8r	.
+=4	=4
+16f	a
+16g	my-
+16a	-śli-
+16b-	-wi
+8cc	o
+8ff	nim
+=5	=5
+16dd	nie
+16dd	wie-
+(4cc	-dzą,
+8a)}	.
 !!LO:LB:g=esac
-=6
-{16b-
-16cc
-4a
-8r
-=7
-16cc
-16a
-16f
-16f
-16dd
-16cc
-16b-
-16a}
+=6	=6
+{16b-	nie
+16cc	wie-
+4a	-dzą.
+8r	.
+=7	=7
+16cc	Sie-
+16a	-dzi,
+16f\	sie-
+16f\	-dzi,
+16dd	la-
+16cc	-men-
+16b-	-tu-
+16a}	-je,
 !!LO:LB:g=esac
-=8
-{16g
-16a
-16b-
-16dd
-16cc
-16b-
-16a
-16g
-=9
-16f
-16a
-8cc
-8ff
-8dd
-=10
-16b-
-16cc
-4a}
-8r
-==
-*-
+=8	=8
+{16g	dys-
+16a	-ta-
+16b-	-men-
+16dd	-ta
+16cc	se
+16b-	spi-
+16a	-su-
+16g	-je
+=9	=9
+16fL	śmier-
+16aJ	.
+8cc	-tel-
+8ffL	-ne,
+8ddJ	.
+=10	=10
+16b-	śmier-
+16cc	-tel-
+4a}	-ne.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Hare
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!A siedzi zającek |:pod miedzą:|,
+!!a myśliwi o nim |:nie wiedzą:|.
+!!Siedzi, siedzi, lamentuje,
+!!dystamenta(1) se spisuje
+!!|:śmiertelne:|.
+!!@VERSE:
+!!Cóz ja im takiego |:zawinił:|?
+!!Co oni mnie dzisiaj |:zabiją:|.
+!!W ogródecku sobie siadam,
+!!po listecku sobie jadam,
+!!|:nie jak wół:|.
+!!@VERSE:
+!!W zycie i psenicy |:nie bywam:|.
+!!owsa i tatarki |:nie nijam(2):|.
+!!Tylko z łącki trawką zyję.
+!!zamiast wina rosę pije.
+!!|:sirota:|!
+!!@VERSE:
+!!Spuścili myśliwi |:ogary:|,
+!!juz mnie nie obronią |:i doły:|.
+!!O tu tu tu, o sa sa sa,
+!!juz zajecek blisko lasa.
+!!|:juz jest pan:|.
+!!@VERSE:
+!!A kiedy zającek |:juz w lesie:|.
+!!to ón ogónecka |:podniesie:|.
+!!Wy, ogary i myśliwcy,
+!!całujcie mnie w zadek wsyscy,
+!!|:juz ja pan:|.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: (1) [testament]
+!!(2) mijam
+!!@@END:
 !!!ONB: wariant w takcie 7: 53536543
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=627 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 618} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 618}
 !!!page: 618
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

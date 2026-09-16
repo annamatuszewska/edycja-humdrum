@@ -3,63 +3,77 @@
 !!!source: DWOK42
 !!!id: 421974
 !!!signature: 42197400000
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16e
-16g#
-8a
-8cc
-=2
-16b
-16g#
-8e
-8r
-=3
-16cc
-16b
-8cc
-8a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{16e	Ko-
+16g#	-muz
+8a	ja
+8cc	sie
+=2	=2
+16b	u-
+16g#	-kło-
+8e	-nię
+8r	.
+=3	=3
+(8ddq	.
+16cc)	w_ró-
+16b	-ze-
+8cc	-no-
+8a}	-wej
 !!LO:LB:g=esac
-=4
-{4b
-8ee
-=5
-16cc
-16b
-8a
-8g#
-=6
-16e
-16g#
-8a
-8b}
+=4	=4
+{4b	ca-
+8ee	-pce,
+=5	=5
+16cc	te-
+16b	-mu
+8a	do-
+8g#	-brze,
+=6	=6
+16e	te-
+16g#	-mu
+8a	do-
+8b}	-brze,
 !!LO:LB:g=esac
-=7
-{16cc
-16b
-8a
-8g#
-=8
-16e
-16g#
-8a
-8b
-=9
-16cc
-16b
-8a
-8g#
-=10
-4e
-8e}
-==
-*-
+=7	=7
+{16cc	trzy-
+16b	-ma
+8a	wia-
+8g#	-nek
+=8	=8
+16e	na
+16g#	méj
+8a	gło-
+8b	-wie
+=9	=9
+16cc	w_ró-
+16b	-ze-
+8a	-no-
+8g#	-wej
+=10	=10
+4e	ca-
+8e}	-pce.
+==	==
+*-	*-
+!!!role-singer: Game Leader
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Komuz ja sie ukłonię
+!!w rózenowej capce,
+!!temu dobrze, temu dobrze,
+!!trzyma wianek na méj głowie
+!!w rózenowej capce.
+!!@VERSE:
+!!Spiewając to, rzuca chustkę przed siebie. Kto ją złapie, wyjmuje się (wychodzi) z koła i wchodzi na jego miejsce do środka, gdy tymczasem tamten zajął dotychczasowe jego miejsce w kole, biorąc sąsiadów za ręce.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=614 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 605} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 605}
 !!!page: 605
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14
