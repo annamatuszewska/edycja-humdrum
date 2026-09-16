@@ -10,21 +10,21 @@
 *M3/8
 =1
 {16g
-16b
+16b/
 8dd
-16cc#
-16ee
+16cc#L
+16eeJ
 =2
 16dd
 16cc#
 8a
-8b
+8bM
 =3
 16g
-16b
+16b/
 8dd
-16cc#
-16ee
+16cc#L
+16eeJ
 =4
 16dd
 16cc#
@@ -33,21 +33,21 @@
 !!LO:LB:g=esac
 =5
 {16d
-16b
-8b
-16b
-16d
+16b/
+8b/
+16bL
+16dJ
 =6
 16f#
 16g
 8a
-8cc
+8ccM
 =7
 16d
-16b
-8b
-16b
-16d
+16b/
+8b/
+16bL
+16dJ
 =8
 16f#
 16g
@@ -60,3 +60,5 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=179 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 170} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 170}
 !!!page: 170
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

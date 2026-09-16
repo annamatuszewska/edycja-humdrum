@@ -9,27 +9,27 @@
 *G:
 *M3/8
 =1
-{16dd
-16dd
-8dd
-8ee
+{16ddL
+16ddJ
+8ddL
+8eeJ
 =2
-16dd
-16dd
-8dd
-8gg
+16ddL
+16ddJ
+8ddL
+8ggJ
 =3
-16dd
-16dd
-8dd
-8ee
+16ddL
+16ddJ
+8ddL
+8eeJ
 =4
-16dd
+16ddL
 16cc
 16a
 16cc
 16b
-16g}
+16gJ}
 ==
 *-
 !!!ONB: zmiana tonacji
@@ -38,3 +38,5 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=180 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 171} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 171}
 !!!page: 171
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14

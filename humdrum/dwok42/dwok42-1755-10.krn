@@ -8,28 +8,28 @@
 *k[b-]
 *F:
 *M3/4
-=
-{12cc
-12dd
-12ee
-4ff
-8cc
-8a
 =1
-8b-
-8b-
+{12ccL
+12dd
+12eeJ
+4ff
+8ccL
+8aJ
+=2
+8b-L
+8b-J
 4a
 4cc
-=
-12cc
+=3
+12ccL
 12dd
-12ee
+12eeJ
 4ff
-8cc
-8a
-=2
-8b-
-8b-
+8ccL
+8aJ
+=4
+8b-L
+8b-J
 4a
 4f}
 ==
@@ -39,3 +39,5 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=181 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 172} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 172}
 !!!page: 172
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-09-14
