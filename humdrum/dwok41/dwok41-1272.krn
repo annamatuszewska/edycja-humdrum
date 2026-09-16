@@ -3,51 +3,57 @@
 !!!source: DWOK41
 !!!id: 411272
 !!!signature: 41127200000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8cc
-8b
-4a
-4g
-=2
-8cc
-8b
-4a
-4g
-=3
-8g
-8f#
-4g
-4b
-=4
-4a
-2d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8cc	Tam
+8b	za
+4a	dwo-
+4g	-rem_[...]
+=2	=2
+8ccL	.
+8bJ	.
+4a	.
+4g	.
+=3	=3
+8gL	.
+8f#J	.
+4g	.
+4b	.
+=4	=4
+4a	.
+2d}	.
 !!LO:LB:g=esac
-=5
-{8g
-8g
-4g
-4b
-=6
-8g
-8e
-2e
-=7
-8e
-8c
-4e
-4g
-=8
-4f#
-2d}
-==
-*-
+=5	=5
+{8gL	.
+8gJ	.
+4g	.
+4b	.
+=6	=6
+8gL	.
+8eJ	.
+2e	.
+=7	=7
+8eL	.
+8cJ	.
+4e	.
+4g	.
+=8	=8
+4f#	.
+2d}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Tam za dworem [...]
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=646 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 559} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 559}
 !!!page: 559
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-07
