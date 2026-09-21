@@ -9,33 +9,34 @@
 *C:
 *M3/4
 =1
-{8g
+!LO:TX:a:t=Polonez
+{8gL
 16a
-16b
-8cc
-8ee
-8ee
-8dd
+16b/J
+8ccL
+8eeJ
+8eeL
+8ddJ
 =2
-8ee
+8eeL
 8gg
 8aa
 8ee
 8ff
-8dd
+8ddJ
 =3
-8g
+8gL
 16a
-16b
-8cc
+16b/J
+8ccL
 8ee
 8ee
-8dd
+8ddJ
 =4
-8ee
+8eetL
 8cc
 8dd
-8b
+8bJ
 4g}
 ==
 *-
@@ -44,3 +45,5 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=664 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 577} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 577}
 !!!page: 577
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-18
