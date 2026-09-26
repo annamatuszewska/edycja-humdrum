@@ -3,40 +3,52 @@
 !!!source: DWOK02
 !!!id: K0013
 !!!signature:
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M2/4
-=1
-{8a
-8a
-8cc#
-8a
-=2
-4dd
-8cc#
-8a
-=3
-4dd
-4a}
+**kern	**text	**text
+*clefG2	*	*
+*k[f#c#]	*	*
+*D:	*	*
+*M2/4	*	*
+=1	=1	=1
+!LO:TX:a:t=Allegro.	!	!
+{8a\	A	A
+8a\	ce-	wie-
+8cc#	-goz	-zie-
+8a\	na	-my
+=2	=2	=2
+4dd	nas	grze-
+8ccL#	pa-	-cną
+8a\J	.	.
+=3	=3	=3
+4dd	-trzy-	pa-
+4a}	-cie,	-nią,
 !!LO:LB:g=esac
-=4
-{8cc#
-8cc#
-8a
-8cc#
-=5
-8dd
-8dd
-8cc#
-8g
-=6
-2a}
-==
-*-
+=4	=4	=4
+{8cc#	nie	dru-
+8cc#	wie-	-zbi-
+8a\	-zie-	-ne-
+8cc#	-my	-cka
+=5	=5	=5
+8dd	ca-	przed
+8dd	-ro-	nią,
+8ccL#	-wni-	za-
+8g\J	.	.
+=6	=6	=6
+2a}	-cę.	nią.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!A cegoz na nas patrzycie,
+!!nie wieziemy carownicę.
+!!A wieziemy grzecną panią,
+!!druzbinecka przed nią, za nią.
+!!@@END: VERSES
+!!!role-singer: Group
+!!!role-listener: Group
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=41 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 30} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 30}
 !!!page: 30
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-21

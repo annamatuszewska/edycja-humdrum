@@ -3,69 +3,86 @@
 !!!source: DWOK02
 !!!id: K0075
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*d:
-*M3/4
-=1
-{4dd
-4dd
-4ff
-=2
-4ee
-2dd
-=3
-4cc
-4a
-4a
-=4
-4g
-2a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*d:	*
+*M3/4	*
+=1	=1
+{4dd	A
+4dd	mój
+4ff	wia-
+=2	=2
+4ee	-ne-
+2dd	-cku
+=3	=3
+(4cc	z_bar-
+4a\)	.
+4a	-wi-
+=4	=4
+4g	-ne-
+2a}	-cku,
 !!LO:LB:g=esac
-=5
-{4dd
-4dd
-4ff
-=6
-4ee
-2dd
-=7
-4cc
-4a
-4a
-=8
-4g
-2a}
+=5	=5
+{4dd	a
+4dd	mój
+4ff	wia-
+=6	=6
+4ee	-ne-
+2dd	-cku
+=7	=7
+(4cc	z_bar-
+4a\)	.
+4a	-wi-
+=8	=8
+4g	-ne-
+2a}	-cku,
 !!LO:LB:g=esac
-=9
-{8cc
-8g
-4a
-4b-
-=10
-2cc
-4dd
-=11
-4dd
-4.cc
-8a}
+=9	=9
+{8cc	bę-
+8g	-dzies
+4a	wi-
+4b-	-siał
+=10	=10
+2cc	do
+4dd	nie-
+=11	=11
+4dd	-dzie-
+(4.cc	.
+8a\)}	-le
 !!LO:LB:g=esac
-=12
-{8f
-8g
-4a
-4b
-=13
-2cc
-4a
-=14
-4g
-2a}
-==
-*-
+=12	=12
+{8f	jaz
+8g	się
+4a	zja-
+4bn	-dą
+=13	=13
+2cc	przy-
+4a	-ja-
+=14	=14
+4g	-cie-
+2a;}	-le.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A mój wianecku z barwinecku,
+!!będzies wisiał do niedziele
+!!jaz się zjadą przyjaciele.
+!!@VERSE:
+!!2. Zjadą, zjadą cóz uradzą?
+!!za kogoz mnie oni dadzą?
+!!Dadzą, dadzą za jednego—
+!!za Jasieńka nadobnego.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: Bridesmaids singing during the waving of the rod
+!!@@END:
+!!!role-singer: Bride
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=82 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 71} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 71}
 !!!page: 71
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-26

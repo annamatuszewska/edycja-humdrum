@@ -3,48 +3,59 @@
 !!!source: DWOK02
 !!!id: K0034
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16b
-16cc
-4dd
-=2
-16dd
-16ee
-8dd
-8dd
-=3
-16dd
-16b
-4g}
+**kern	**text	**text
+*clefG2	*	*
+*k[f#]	*	*
+*G:	*	*
+*M3/8	*	*
+=1	=1	=1
+{16b	Nie	Nie
+16cc	wy-	wy-
+4dd	-dam	-dam
+=2	=2	=2
+16dd	pa-	pa-
+16ee	-ni-	-ni
+8dd	-mło-	mło-
+8dd	-dy,	-dy
+=3	=3	=3
+16dd	nie	ko-
+16b	wy-	-cha-
+4g}	-dam,	-nyj
 !!LO:LB:g=esac
-=4
-{16g
-16a
-8b
-8b
-=5
-16b
-16cc
-8b
-8b
-=6
-16f#
-16e
-4d
-=7
-16g
-16f#
-8g}
-8r
-==
-*-
+=4	=4	=4
+{16g	pó-	a
+16a	-ki	ze
+8b	do	mi
+8b	mnie	sie
+=5	=5	=5
+16b	z_gorza-	sam
+16cc	.	pan
+8b	-łe-	mło-
+8b	-cką	-dy
+=6	=6	=6
+16f#	nie	u-
+16e	przy-	-kło-
+4d	-jdą	-ni
+=7	=7	=7
+16g	nie	u-
+16f#	przy-	-kło-
+8g}	-jdą.	-ni.
+8r	_	.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. Nie wydam pani-młody, nie wydam,
+!!póki do mnie z gorzałecką nie przyjdą nie przyjdą.
+!!@VERSE:
+!!2. Nie wydam panimłody kochanyj
+!!a ze mi sie sam pan młody ukłoni ukłoni.
+!!@@END: VERSES
+!!!role-singer: The Wedding Elder, Bride
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=52 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 41} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 41}
 !!!page: 41
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-24

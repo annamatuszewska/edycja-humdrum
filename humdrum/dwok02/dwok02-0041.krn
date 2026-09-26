@@ -3,68 +3,125 @@
 !!!source: DWOK02
 !!!id: K0041
 !!!signature:
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16e
-16f#
-8g#
-8e
-=2
-8a
-8.cc
-16a
-=3
-16b
-16dd
-8dd
-8dd
-=4
-8ee
-8cc
-8a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{16e	Na
+16f#	pir-
+8g#	-se
+8e	za-
+=2	=2
+8a\	-lo-
+(8.ccL	-ty
+16a\J)	.
+=3	=3
+16b	stra-
+16dd	-ci-
+8dd	-łem
+8dd	se
+=4	=4
+8ee	zło-
+(8ccL	-ty,
+8a}\J)	.
 !!LO:LB:g=esac
-=5
-{16b
-16g#
-8e
-16f#
-16g#
-=6
-8a
-8cc
-8g#
-=7
-8a
-4r
-=8
-8a
-8ee
-8b
-=9
-8a}
-4r
+=5	=5
+{16b	i
+16g#	tak
+8e	mi
+16f#L	jéj
+16g#J	.
+=6	=6
+8a	nie
+(8ccL	chcą
+8g#\J)	.
+=7	=7
+8a	dać.
+4r	.
+=8	=8
+8a\	nie
+(8eeL	chcą
+8bJ)	.
+=9	=9
+8a}	dać
+4r	.
 !!LO:LB:g=esac
-=10
-{16b
-16g#
-8e
-16f#
-16g#
-=11
-8a
-8cc
-8g#
-=12
-8a}
-4r
-==
-*-
+=10	=10
+{16b	i
+16g#	tak
+8e	mi
+16f#L	jéj
+16g#J	.
+=11	=11
+8a	nie
+8ccL	chcą
+8g#\J	.
+=12	=12
+8a}	dać.
+!LO:TX:a:t=Wreszcie druchny śpiewają, gdy pp. młodzi zabierają się do przenosin (42)&colon;	!
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Na pirse (pierwsze) zaloty
+!!straciłem se złoty,
+!!i tak mi jéj nie chcą dać.
+!!Dadzą ci ją dadzą,
+!!sami przyprowadzą,
+!!nietrza ci sie frasować.
+!!@VERSE:
+!!2. Straciłem i talar
+!!ledwom nie osalał,
+!!i tak mi jéj i t. d.
+!!@VERSE:
+!!3. Straciłem i dukat
+!!com go matce ukrad,
+!!i tak mi i t. d.
+!!@VERSE:
+!!4. Straciłem i konie
+!!co chodziły w bronie,
+!!i tak mi i t. d.
+!!@VERSE:
+!!5. Straciłem i woły
+!!co chodziły w roli,
+!!i tak mi i t. d.
+!!@VERSE:
+!!6. Straciłem i radło
+!!co orało ładno,
+!!i tak mi i t. d.
+!!@VERSE:
+!!7. Straciłem i wózek
+!!i kowany płuzek,
+!!i tak mi i t. d.
+!!Dadzą ci ją dadzą
+!!sami odprowadzą,
+!!nie trzeba się frasować.
+!!@VERSE:
+!!8. A naświęty Jacek
+!!w Osieku jarmacek,
+!!juźcić ci ją wiedzie mać.
+!!Ja jéj teraz nie chce
+!!wedle innyj drepce,
+!!trza mi było w tencas dać
+!!kiedy ja ją sam chciał brać.
+!!@VERSE:
+!!9. Teraz mnie nie draźcie (drażnięjcie)
+!!na dach se ją wraźcie.
+!!Trzeba bylo wtencas dać
+!!kiedy ja ją sam chciał brać.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: Groomsmen sing
+!!@@END:
+!!!role-singer: Single man
+!!!role-listener: Group
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=57 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 46} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 46}
 !!!page: 46
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-24

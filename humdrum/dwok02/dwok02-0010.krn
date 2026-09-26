@@ -3,74 +3,88 @@
 !!!source: DWOK02
 !!!id: K0010
 !!!signature:
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M2/4
-=1
-{8a
-8cc#
-8dd
-8cc#
-=2
-4dd
-8cc#
-8a
-=3
-8a
-8cc#
-8dd
-8cc#
-=4
-4dd
-4a}
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M2/4	*
+=1	=1
+!LO:TX:a:t=Andante.	!
+{8a\	A
+8cc#	wsia-
+8dd	-daj-
+8cc#	-ze
+=2	=2
+4dd	na
+8ccL#	wóz
+8a\J	.
+=3	=3
+8a\	war-
+8cc#	-ko-
+8dd	-cyk
+8cc#	se
+=4	=4
+4dd	za-
+4a}	-łóz,
 !!LO:LB:g=esac
-=5
-{8cc#
-8cc#
-8a
-8cc#
-=6
-4dd
-8cc#
-8g
-=7
-2a}
+=5	=5
+{8cc#	oj
+8cc#	bo
+8a\	juz
+8cc#	cas;
+=6	=6
+4dd	bo
+8cc#L	juz
+8g\J	.
+=7	=7
+2a}	cas,
 !!LO:LB:g=esac
-=8
-{8a
-8cc#
-8dd
-8cc#
-=9
-4dd
-8cc#
-8a
-=10
-8a
-8cc#
-8dd
-8cc#
-=11
-4dd
-4a}
+=8	=8
+{8a\	W_dzie-
+8cc#	-waj-
+8dd	-ze
+8cc#	spó-
+=9	=9
+4dd	-dni-
+8ccL#	-cę
+8a\J	.
+=10	=10
+8a\	bia-
+8cc#	-łą
+8dd	za-
+8cc#	-pa-
+=11	=11
+4dd	-śni-
+4a\}	-cę
 !!LO:LB:g=esac
-=12
-{8a
-8a
-8cc#
-8ee
-=13
-4dd
-8cc#
-8g
-=14
-2a}
-==
-*-
+=12	=12
+{8a	i
+8a	śre-
+8cc#	-bny
+8ee	pas,
+=13	=13
+4dd	śre-
+8cc#L	-bny
+8g\J	.
+=14	=14
+2a}	pas.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A wsiadajze na wóz
+!!warkocyk se załóz,
+!!oj bo juz cas; bo juz cas,
+!!W dziewajze spódnicę
+!!białą zapaśnicę
+!!i śrebny pas, śrebny pas.
+!!@@END: VERSES
+!!!role-singer: Bridesmaids
+!!!role-listener: Bride
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=38 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 27} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 27}
 !!!page: 27
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-21

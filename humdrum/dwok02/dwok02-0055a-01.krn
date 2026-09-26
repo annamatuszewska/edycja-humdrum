@@ -3,55 +3,70 @@
 !!!source: DWOK02
 !!!id: K0055a
 !!!signature: 0205500001
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M3/4
-=1
-{4cc#
-4cc#
-4a
-=2
-4cc#
-2dd
-=3
-4cc#
-4a
-4cc#
-=4
-4cc#
-8cc#
-8b
-4cc#
-=5
-4dd
-4cc#
-[4a}
-=6
-2a]
-4r
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M3/4	*
+=1	=1
+{4cc#	Wy-
+4cc#	-bie-
+4a	-raj
+=2	=2
+4cc#	ze
+2dd	się
+=3	=3
+(4cc#	na-
+4a\)	.
+4cc#	-do-
+=4	=4
+4cc#	-bna
+(>8ddq	.
+8cc#L	.
+8bJ	.
+4cc#)	Ma-
+=5	=5
+4dd	-ry
+(>4cc/#	siu
+[>4a)}	.
+=6	=6
+2a]	.
+4r	.
 !!LO:LB:g=esac
-=7
-{4cc#
-4cc#
-8a
-8cc#
-=8
-4ee
-4dd
-4cc#
-=9
-4a
-4g
-[4a}
-=10
-2a]
-4r
-==
-*-
+=7	=7
+{4cc#	oj
+4cc#	bo
+(8a\L	juz
+8cc#J)	.
+=8	=8
+4ee	cas,
+(>4dd;	bo-
+4cc#)	.
+=9	=9
+(4a	-juz
+4g)	.
+[4a}	cas.
+=10	=10
+2a]	.
+!LO:TX:a:t=albo w ten sposób&colon;	!
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Wybieraj ze się nadobna Marysiu
+!!oj bo juz cas, bo juz cas.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: Bridesmaids and Matchmakers sing
+!!@@END:
+!!!role-singer: Bridesmaids
+!!!role-listener: Bride
+!!!singer-sex: Female
+!!!RDF**kern: >= above
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=70 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 59} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 59}
 !!!page: 59
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-25

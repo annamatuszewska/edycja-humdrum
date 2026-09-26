@@ -3,40 +3,60 @@
 !!!source: DWOK02
 !!!id: K0029
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8g
-8b
-8dd
-8dd
-=2
-8dd
-8ee
-8dd
-8dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8g	Star-
+8b	-sy
+8dd	dru-
+8dd	-zba
+=2	=2
+8dd	nie
+8ee	lu-
+8dd/L	-sy,
+8dd}/J	.
 !!LO:LB:g=esac
-=3
-{8g
-8b
-8dd
-8cc
-=4
-8b
-8dd
-8a
-8a
-=5
-8d
-8f#
-4g}
-==
-*-
+=3	=3
+{8g	Sta-
+8b	-ro-
+8dd	-ści-
+8cc	-ny
+=4	=4
+8b	z_po-
+8dd	-za-
+8a\	sto-
+8a\	-łu
+=5	=5
+8d	nie
+8f#	ru-
+4g}	-sy.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Starsy druzba nie lusy (nie żwawy)
+!!starościny z po za stołu nie rusy.
+!!@VERSE:
+!!2. Starsy druzba nie raźny,
+!!starościnie po za stołem pomarzły
+!!@VERSE:
+!!3. Starsy druzbo kaz zagrać,
+!!bo ci kazą starościnie świnie paść.
+!!@VERSE:
+!!4. Kucharecka w taniec —
+!!kucharecce grajcie,
+!!zapaseckę wypaliła
+!!rącki sobie poparzyła,
+!!na inną jéj dajcie.
+!!@@END: VERSES
+!!!role-singer: Unspecified
+!!!role-listener: Wedding guests
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=48 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 37} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 37}
 !!!page: 37
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-23

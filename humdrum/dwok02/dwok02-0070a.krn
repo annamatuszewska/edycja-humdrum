@@ -3,47 +3,113 @@
 !!!source: DWOK02
 !!!id: K0070a
 !!!signature:
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M2/4
-=1
-8r
-{8cc#
-8a
-8cc#
-=2
-4.dd
-8cc#
-=3
-8dd
-8dd
-8ee
-8cc#
-=4
-8dd
-8cc#
-4a}
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*A:	*
+*M2/4	*
+=1	=1
+8r	.
+{8cc#	Oj
+8a\L	pod
+8cc#J	.
+=2	=2
+4.dd	ła-
+8cc#	-wą
+=3	=3
+8dd	ru-
+8dd	-cia-
+8ee	-ny
+8cc#	wia-
+=4	=4
+8ddL	-ne-
+8cc#J	.
+4a}\	-cku
 !!LO:LB:g=esac
-=5
-{8cc#
-8cc#
-16a
-16cc#
-8ee
-=6
-4dd
-16cc#
-16a
-8b
-=7
-2a}
-==
-*-
+=5	=5
+{8cc#	oj
+8cc#	pod
+16aL	ła-
+16ccJ/#	.
+8ee	-wę
+=6	=6
+!LO:TX:a:i:t=*	!
+4dd;	pod
+(16cc;#L	ła-
+16a\	.
+8bJ)	.
+=7	=7
+2aM}	-wę,
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj pod ławą ruciany wianecku
+!!oj pod ławę pod ławę, pod ławę —
+!!oj na głowę niciany cepcyku
+!!oj na głowę, na głowę.
+!!@VERSE:
+!!2. Oj zrobię ja téj swojéj matuli
+!!oj uciechę, uciechę —
+!!oj rzucę ja swój ruciany wianek
+!!oj na strzechę, na strzechę.
+!!@VERSE:
+!!3. Oj zrobiła się mojéj matuli
+!!oj uciecha, uciecha —
+!!oj nachodzi się w mym rucia
+!!(nym wianku
+!!oj i strzecha i strzecha.
+!!@VERSE:
+!!4. Nie chciała wianka wić,
+!!kazała se cepek włozyć —
+!!nie chciała w rucianym,
+!!chodź se teraz w nicianym.
+!!@VERSE:
+!!5. Panie młody najmilsy
+!!od cię talar najpirsy;
+!!tacaj Jasiu talarami
+!!za wianecek za ruciany.
+!!A tacajze mali tacać
+!!nie dajze Marysi płakać.
+!!@VERSE:
+!!6. Wy myślicie ze po woli
+!!a Marysię główka boli.
+!!niech nie siedzi między wami
+!!jako kołek ociesany.
+!!@VERSE:
+!!7. Pani młoda cepca nima,
+!!w grochowiny łeb owija,
+!!i stanęna u komina,
+!!zajęna się grochowina.
+!!@VERSE:
+!!8. O mój miły panie młody
+!!wystaw ze nam konew wody,
+!!a my tobie za te wodę
+!!Marysieńke jak jagodę.
+!!@VERSE:
+!!9. A sacujcie sie panowie druzyna!
+!!oj sacujcie sie, sacujcie,
+!!a darujcie naséj pani młodyj
+!!na cepcycek darujcie.
+!!@VERSE:
+!!10. Oj zjadłyście, wypiłyście
+!!na cepcycek nie dałyście,
+!!oj zjadłyście i pół krowy
+!!nie nakryłyście ij głowy.
+!!@VERSE:
+!!11. Oj zjadłyście i pół byka
+!!nie dałyście ij cepcyka,
+!!oj zjadłyście i pół cielca
+!!nie dałyście ij cepca.
+!!Dałyście ij to cepcysko
+!!niby stare przetacysko.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!role-listener: Many characters
 !!!ONB: wariant 1
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=78 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 67} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 67}
 !!!page: 67
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-25

@@ -3,40 +3,54 @@
 !!!source: DWOK02
 !!!id: K0020
 !!!signature:
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M2/4
-=1
-{8dd
-8a
-8cc#
-8ee
-=2
-8dd
-8dd
-8cc#
-8g
-=3
-2a}
+**kern	**text	**text
+*clefG2	*	*
+*k[f#c#]	*	*
+*D:	*	*
+*M2/4	*	*
+=1	=1	=1
+{8dd	Ja-	Ja-
+8a	-wo-	-wo-
+8cc#	-ro-	-ro-
+8ee	-we	-we
+=2	=2	=2
+8dd	sto-	a
+8dd	-ły	nie
+8cc#L	ma-	no-
+8g\J	.	.
+=3	=3	=3
+2a}	-cie,	-we
 !!LO:LB:g=esac
-=4
-{8ee
-8dd
-8cc#
-8ee
-=5
-8dd
-8dd
-8cc#
-8g
-=6
-2a}
-==
-*-
+=4	=4	=4
+{8ee	a	u
+8dd	nie	Ka-
+8cc#	ry-	-sie-
+8ee	-chło	-ni
+=5	=5	=5
+8dd	za-	są
+8dd	-sia-	go-
+8cc#L	-da-	-to-
+8g\J	.	.
+=6	=6	=6
+!LO:TX:a:t=Podczass tańca w karczmie, gdy starsza druchna rzuca wstążkę na rózgę starszego drużby, wtenczas śpiewają kobiety &colon; (21)	!	!
+2a}	-cie;	-we.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!Jaworowe stoły macie,
+!!a nie rychło zasiadacie;
+!!Jaworowe a nie nowe,
+!!u Kasieni są gotowe.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Wedding guests
+!!@@END:
+!!!role-singer: Narrator
+!!!role-listener: Group
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=44 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 33} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 33}
 !!!page: 33
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-23

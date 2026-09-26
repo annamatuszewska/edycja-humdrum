@@ -3,75 +3,253 @@
 !!!source: DWOK02
 !!!id: K0053
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8g
-4a
-=2
-8b
-4cc
-=
-16ee
-16dd
-8cc
-24cc
-24a
-24b
-=3
-4.g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Andante.	!
+{8g	Do-
+4a	-bra-
+=2	=2
+8b	-no-
+4cc	-cka
+=3	=3
+(16eeL	we-
+16ddJ)	.
+8cc	-dle
+!LO:TUP:a	!
+(24ccL	pół-
+24a\)J	.
+24b	-no-
+=4	=4
+8bq	.
+4.g}	-cka
 !!LO:LB:g=esac
-=4
-{8b
-8a
-8b
-=5
-8cc
-4dd
-=6
-8cc
-8a
-8b
-=7
-4g}
-8r
+=5	=5
+{8b/	bo-
+8a	-da-
+8b/	-jeś
+=6	=6
+8cc	zdro-
+4dd	-wa
+=7	=7
+(8ccL	spa-
+8a\	.
+8bJ)	.
+=8	=8
+4g}	-ła
+8r	.
 !!LO:LB:g=esac
-=8
-{8a
-8cc
-8cc
-=9
-8g
-8b-
-8a
-=10
-8cc
-8cc
-8b-
-=11
-8a
-4g}
+=9	=9
+{8a	a
+8cc	je-
+8cc	-śli
+=10	=10
+8g	cu-
+(8b-L	-jes,
+8a\)J	.
+=11	=11
+8cc	a
+8cc	nie
+8b-	od-
+=12	=12
+8a	-su-
+4g}	-nies
 !!LO:LB:g=esac
-=12
-{8a
-8cc
-8b-
-=13
-8a
-4g
-=14
-4.a
-=15
-16a
-[16g}
-4g]
-==
-*-
+=13	=13
+{8a\	bo-
+8cc	-da-
+8b-	-jeś
+=14	=14
+8a	zdro-
+4g	-wa
+=15	=15
+4.a;	spa-
+=16	=16
+16aL	-ła.
+[16gJ}	.
+!LO:TX:a:t=Na dobranoc gra grajek (we wsi sąsiedniéj Kichary) (54) &colon;	!
+4g]	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Dobra nocka wedle pu-nocka
+!!bodajeś zdrowa spała,
+!!a jeśli cujes (czuwasz) a nie odsunies (drzwi)
+!!bodajeś zdrowa wstała.
+!!@VERSE:
+!!2. Dobra nocka — moja Marysiu
+!!oj dobranoc, dobranoc,
+!!oj weź ze sobie pana Jezusa
+!!oj na pomoc, na pomoc.
+!!@VERSE:
+!!3. Dobra nocka — moja Marysiu
+!!oj dobranoc, dobranoc,
+!!oj weź ze sobie matkę Najświętsą
+!!oj na pomoc, na pomoc.
+!!@VERSE:
+!!4. Dobranocka — moja Marysiu
+!!oj dobranoc, dobranoc,
+!!oj weź ze sobie i wsytkich świętych
+!!oj na pomoc, na pomoc.
+!!@VERSE:
+!!5. Oj posłała ja ćterech bracisków
+!!zielonéj łącki kosić,
+!!i kazali se, najstarsyj siostrze
+!!śniadanicko przynosić.
+!!@VERSE:
+!!6. Najmłodsa siostra, śniadanie niosła
+!!pod zieloną olsynę —
+!!z koników zsiedli, śniadanie zjedli
+!!oj nadobnéj dziewcynie.
+!!@VERSE:
+!!7. I kazali jéj koniki wodzić
+!!po zielonyj olsynie;
+!!konie wodziła, w dunaj skocyła,
+!!cnoty nie utraciła.
+!!@VERSE:
+!!8. Pływaj ze siostro, pływaj ze nasa,
+!!pływaj ruciany wieniec,
+!!płace cię ojciec, płace cię matka
+!!i nie jeden młodzieniec.
+!!—
+!!@VERSE:
+!!9. Jak ci ja spożrę (spojrzę) pod jasną zorzę
+!!pono mój Jasio jedzie,
+!!spoźrę z wysoka — z prawego oka,
+!!parę koników wiedzie.
+!!@VERSE:
+!!10. Oj jedzie, jedzie Jasień kochany
+!!po zielonéj dąbrowie,
+!!oj i ozpuścił trusie piórecko
+!!konikowi po głowie.
+!!@VERSE:
+!!11. Oj nie tak mi zal trusiego piórka,
+!!com se jego ozpuścił,
+!!oj ale mi zal pirsych (pierwszych)zalotów
+!!com sobie ich opuścił.
+!!@VERSE:
+!!12. Oj juz dobranoc moja Marysiu,
+!!bodajeś zdrowa spała,
+!!oj opuść, opuść pirse zaloty,
+!!a na mnie bądź łaskawa.
+!!@VERSE:
+!!13. Oj juz dobranoc moja Marysiu
+!!o juz od ciebie jadę,
+!!straciłem talar, straciłem drugi.
+!!trzeci na stole kładę.
+!!@VERSE:
+!!14. I przyjechał z podaruneckiemi
+!!stanął sobie za drzwiami,
+!!wysla do niego Marysia jego
+!!oj zalała się łzami.
+!!@VERSE:
+!!15. Oj moje miłe podarunecki
+!!pono wy mnie zdradzicie,
+!!oj pono wy mię— z rucianym wiankiem
+!!na wieki rozłącycie.
+!!@VERSE:
+!!16. Oj juz dobranoc moja Marysiu
+!!oj bez twoje pałace,
+!!oj połozył bym swoją główeckę
+!!da ale nié mam na cém.
+!!@VERSE:
+!!17. Oj połóz połóz, o mój Jasieniu
+!!oj w sadku na kamiéniu.
+!!Oj wolałby ja moja Marysiu
+!!oj na twojem ramiéniu.
+!!@VERSE:
+!!18. Oj juz dobranoc moja Marysiu
+!!oj bez twoje pałace,
+!!oj połozyłbym swoją główeckę
+!!oj ale nie mam na cém.
+!!@VERSE:
+!!19. Oj połóz, połóz o mój Jasieniu
+!!oj w sadecku na śliwce.
+!!Oj wolałby ja moja Marysiu
+!!oj na twojéj podusce.
+!!@VERSE:
+!!20. Zebym ja wiedział moja Marysiu
+!!ześ moja być nie miała,
+!!kopałbym dołki, wbijałbym kołki
+!!zebyś nózkę złamała.
+!!@VERSE:
+!!21. Oj wiele ości, da wiele ości
+!!oj na jęcmiennym snopie—
+!!tyle hardości, nieućciwości
+!!oj w kaździuteńkim chopie.
+!!@VERSE:
+!!22. Oj wiele piórek, da wiele piórek
+!!na téj białéj gąsecce —
+!!tyle dobroci i poćciwości
+!!w kaździuteńkij dziéwecce.
+!!@VERSE:
+!!23. Oj między dwiema topoleckoma
+!!sadzi Marysia wino.
+!!—
+!!Oj wino wino, tak dobre było,
+!!do góry sie burzyło.
+!!@VERSE:
+!!24. Przysed ci do niéj ten to tatusiń:
+!!dajze Marysiu wina!
+!!Oj nie dam, nie dam, nie duzo go mam,
+!!na wesele go schowam.
+!!@VERSE:
+!!25. Przysła ci do nij, ta matusia ij:
+!!dajze Marysiu wina!
+!!Oj nie dam, nie dam, nie duzo go mam
+!!na wesele go schowam.
+!!(w tenże sposób odmawia: braciskowi, siostrzycce, bratunkowi, ciotecce i t. d. wreszcie):
+!!@VERSE:
+!!26. Przysed ci do nij — Jasinecek ij:
+!!dajze Marysiu winał.
+!!Marysia skocyła, wina utocyła
+!!Jasieniowi swojemu.
+!!—
+!!@VERSE:
+!!27. Wsytkoć mi ziółko porozkwitało,
+!!biała lelija jesce—
+!!wsytkoć mi ziółko jasneńko świeci,
+!!biała lelija nie chce.
+!!@VERSE:
+!!28. Cemu mi nie kwnies (kwitniesz) biała lelija
+!!dyć ja cie przesadzała.
+!!Oj temu temu, moja Marysiu—
+!!młodoś wianek styrała.
+!!@VERSE:
+!!29. Biała lelija, biała lelija
+!!spuść latorość po sobie,
+!!oj chociaz ci ja wianek styrała
+!!pamiętam ja o tobie.
+!!—
+!!@VERSE:
+!!30. Oj juz dobranoc moja Marysiu
+!!da przed twojemi syby
+!!a ja do ciebie z scyrego serca
+!!a ty do mnie bez (przez) zęby.
+!!@VERSE:
+!!31. Oj juz dobranoc moja Marysiu
+!!przed twojemi oknami,
+!!oj wyjdź ze do nas moja Marysiu
+!!pozegnaj ze sie z nami.
+!!@VERSE:
+!!33. Oj juz dobranoc moja Marysiu
+!!da przed twoim domeckiem,
+!!oj wyjdź ze do nas moja Marysiu
+!!da z wódką, z kieliseckiem.
+!!@VERSE:
+!!33. Oj juz dobranoc moja Marysiu
+!!bez twoje sienne progi,
+!!oj wyjdź ze do nas, moja Marysiu
+!!pochwytaj nas za nogi. (t. j daj ukłon)
+!!@@END: VERSES
+!!!role-singer: Many characters, Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=66 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 55} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 55}
 !!!page: 55
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-25

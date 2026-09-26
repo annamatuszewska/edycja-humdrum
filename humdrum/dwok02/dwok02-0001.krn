@@ -3,53 +3,67 @@
 !!!source: DWOK02
 !!!id: K0001
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*d:
-*M3/4
-=1
-{4dd
-4dd
-4ff
-=2
-2.ee
-=3
-4dd
-4cc#
-4g
-=4
-4g
-2a}
+**kern	**text	**text
+*clefG2	*	*
+*k[]	*	*
+*d:	*	*
+*M3/4	*	*
+=1	=1	=1
+{4dd	Bóg	To-
+4dd	za-	-bie
+4ff	-czy-	wstą-
+=2	=2	=2
+2.ee	-na	-żka
+=3	=3	=3
+(4dd	i	i
+4cc#)	.	.
+4g\	Bóg	pier-
+=4	=4	=4
+4g	kończy,	-ścio-
+2a}	.	-nek,
 !!LO:LB:g=esac
-=5
-{8cc
-8b-
-4a
-4b-
-=6
-2cc#
-4dd
-=7
-4dd
-4.cc
-8a}
+=5	=5	=5
+{8ccn	Bóg	to-
+8b-	za-	-bie
+4a	-czy-	wstą-
+4b-/	-na	-żka
+=6	=6	=6
+2cc#	i	i
+4dd	Bóg	pier-
+=7	=7	=7
+4dd	koń-	-ścio-
+(4.ccn	-czy,	-nek,
+8a)\}	.	.
 !!LO:LB:g=esac
-=8
-{8g
-8a
-4b-
-4a
-=9
-2cc
-4dd
-=10
-4dd
-2a}
-==
-*-
+=8	=8	=8
+{8g	ko-	a
+8a	-cha-	mnie
+4b-/	-ją-	wianek
+4a	-ce	.
+=9	=9	=9
+2cc	ser-	z_trzech
+4dd	-ca	ró-
+=10	=10	=10
+4dd	łą-	-wnia-
+2a;}	-czy.	-nek.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. Bóg zaczyna i Bóg kończy,
+!!Bóg zaczyna i Bóg kończy,
+!!kochające serca łączy.
+!!@VERSE:
+!!2. Tobie wstążka i pierścionek,
+!!tobie wstążka i pierścionek,
+!!a mnie wianek z trzech równianek.
+!!@@END: VERSES
+!!!role-singer: Matchmaker
+!!!role-listener: Betrotheds
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=34 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 23} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 23}
 !!!page: 23
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-21

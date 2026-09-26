@@ -3,82 +3,92 @@
 !!!source: DWOK02
 !!!id: K0082
 !!!signature:
-**kern
-*clefG2
-*k[b-e-a-]
-*c:
-*M3/8
-=1
-{16dd
-16ff#
-8dd
-8ff#
-=2
-4gg
-8ff#
-=3
-16ee-
-16dd
-8cc
-8b
-=4
-8cc
-8dd
-8cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*c:	*
+*M3/8	*
+=1	=1
+{16ddL	.
+16ff#J	.
+(8ddL	.
+8ff#)J	.
+=2	=2
+4gg	.
+8ff#	.
+=3	=3
+16ee-wL	.
+16ddJ	.
+8ccL	.
+8bJ	.
+=4	=4
+8cc	.
+(8ddLM	.
+8ccJ)}	.
 !!LO:LB:g=esac
-=5
-{4g
-8b
-=6
-4cc
-8dd
-=7
-16ff
-16ee-
-8dd
-8cc
-=8
-16b
-16g
-4cc}
+=5	=5
+{4g	.
+8b	.
+=6	=6
+4cc	.
+8dd	.
+=7	=7
+16ffL	.
+16ee-J	.
+8ddL	.
+8ccJ	.
+=8	=8
+16b/L	.
+16gJ	.
+4cc}	.
 !!LO:LB:g=esac
-=9
-{4dd
-8ff#
-=10
-4gg
-8ff#
-=11
-16ee-
-16dd
-8cc
-8b
-=12
-8cc
-8dd
-8cc}
+=9	=9
+{4dd	A-
+8ff#	-na
+=10	=10
+4gg	zdro-
+8ff#	-wie
+=11	=11
+16ee-	Sta-
+16dd	-ro-
+8cc	-sty
+8b	na-
+=12	=12
+8cc	-se-
+(8ddL	-go
+8cc)J}	.
 !!LO:LB:g=esac
-=13
-{4g
-8b
-=14
-4cc
-8dd
-=15
-16ff#
-16ee-
-16dd
-16cc
-16ee-
-16dd
-=16
-16b
-16g
-4cc}
-==
-*-
+=13	=13
+{4g	co
+8b	nam
+=14	=14
+4cc	zy-
+8dd	-cy
+=15	=15
+16ff#	wsyć-
+16ee-	-kie-
+16ddL	-go
+16ccJ	.
+16ee-L	do-
+16ddJ	.
+=16	=16
+16b/L	-bre-
+16gJ	.
+!LO:TX:a:t=Tu wykrzykują&colon; wiwat! a skrzypek (83.)&colon;	!
+4cc}	-go.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A na zdrowie Starosty nasego
+!!co nam zycy wsyćkiego dobrego.
+!!@@END: VERSES
+!!!role-singer: Violinist
+!!!role-listener: Ceremony headman
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=85 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 74} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 74}
 !!!page: 74
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-26

@@ -3,56 +3,94 @@
 !!!source: DWOK02
 !!!id: K0044
 !!!signature:
-**kern
-*clefG2
-*k[b-e-]
-*g:
-*M3/4
-=1
-{2dd
-8dd
-8ff#
-=2
-8ee
-8cc#
-2dd
-=3
-8cc
-8a
-2cc
-=4
-4dd
-2a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*g:	*
+*M3/4	*
+=1	=1
+{2dd;	Oj
+8dd/	za-
+8ff#/	-cy-
+=2	=2
+8eeL	-naj-
+8cc#J	.
+2dd	-my
+=3	=3
+8ccnL	ten
+8a\J	.
+2cc	wia-
+=4	=4
+4dd;	-nek
+2a};	wić,
 !!LO:LB:g=esac
-=5
-{8cc
-8b-
-4a
-4g
-=6
-2cc
-4dd
-=7
-4dd
-4cc
-4a}
+=5	=5
+{8cc	za-
+8b-	-cy-
+4a	-naj-
+4g	-my
+=6	=6
+2cc	ten
+4dd	wia-
+=7	=7
+4dd	-nek
+(4cc	wić,
+4a\)}	.
 !!LO:LB:g=esac
-=8
-{8f
-8g
-4a
-4b-
-=9
-4cc
-4a
-4cc
-=10
-4dd
-2a}
-==
-*-
+=8	=8
+{8f	mo-
+8g	-ze
+4a	do
+4b-	nas
+=9	=9
+(4cc	Ma-
+4a)\	.
+4cc	-ry-
+=10	=10
+4dd;	-sia
+2a\;}	wyjść.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj zacynajmy ten wianek wić,
+!!zacynajmy ten wianek wić,
+!!moze do nas Marysia wyjść.
+!!@VERSE:
+!!2. Wyńdzie, wyńdzie i zapłace:
+!!marnie ja se wianek tracę!
+!!@VERSE:
+!!3. Nie tracis go Maryś marnie,
+!!bo się do cie Jasio garnie.
+!!@VERSE:
+!!4. Oj mój wianecku z barwinecku,
+!!chowałam cie w puskrzynecku,
+!!@VERSE:
+!!5. Chowałam cie w nowy skrzyni,
+!!jaze mi cie ludzie wziéni.
+!!@VERSE:
+!!6. Oj, ani piórek, ani nici,
+!!z cegoz wianek będzie wity?
+!!@VERSE:
+!!7. Mój wianecku z trojga ziela,
+!!usłuz ze mi do wesela.
+!!@VERSE:
+!!8. Oj od wesela do niedziele,
+!!jaz sie zjadą przyjaciele.
+!!@VERSE:
+!!9. Jak sie zjadą, cóz uradzą,
+!!za kogoz cie Maryś dadzą?
+!!@VERSE:
+!!10. Dadzą, dadzą za jednégo,
+!!za Jasienia nadobnégo.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: The bridesmaids sing
+!!@@END:
+!!!role-singer: Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=59 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 48} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 48}
 !!!page: 48
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-24

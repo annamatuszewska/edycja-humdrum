@@ -3,50 +3,64 @@
 !!!source: DWOK02
 !!!id: K0016
 !!!signature:
-**kern
-*clefG2
-*k[b-e-]
-*g:
-*M3/8
-=1
-{8a
-8cc#
-8ee
-=2
-16dd
-16cc#
-8.dd
-16a
-=3
-16a
-16cc
-8b-
-8a
-=4
-8g
-4dd}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*g:	*
+*M3/8	*
+=1	=1
+{8a	Oj
+8cc#	da
+8ee	mo-
+=2	=2
+16dd	-ja
+16cc#	Ka-
+8.dd	-sie-
+16a	-niu
+=3	=3
+16a	ju-
+16ccn	-ześ
+8b-	ty
+8a	je(st)
+=4	=4
+8g	mo-
+4dd}	-ja,
 !!LO:LB:g=esac
-=5
-{8a
-8cc#
-8ee
-=6
-16dd
-16cc#
-8.dd
-16b-
-=7
-16a
-16cc
-8b-
-8a
-=8
-8f#
-4g}
-==
-*-
+=5	=5
+{8a	o
+8cc#	bom
+8ee	cie
+=6	=6
+16dd	wy-
+16cc#	-pro-
+8.dd	-wa-
+16b-	-dził
+=7	=7
+16a	za
+16ccn	rą-
+8b-	-ckę
+8a	z_ko-
+=8	=8
+8f#	-ścio-
+4g}	-ła.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oj da moja Kasieniu
+!!juześ ty je(st) moja,
+!!o bom cie wyprowadził
+!!za rąckę z kościoła.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: The groomsmen sing
+!!@@END:
+!!!role-singer: Groom
+!!!role-listener: Bride
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=43 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 32} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 32}
 !!!page: 32
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-23

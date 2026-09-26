@@ -3,74 +3,79 @@
 !!!source: DWOK02
 !!!id: K0012
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*d:
-=1
-*M3/4
-{4a
-4cc#
-4dd
-=2
-*M7/8
-4dd
-4cc#
-4a
-=3
-*M3/4
-2dd
-4dd}
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*d:	*
+=1	=1
+*M3/4	*
+{4a\	Wy-
+4cc#	-nijdź-
+4dd	-ze
+=2	=2
+(4dd	ma-
+4cc#)	.
+4a\	-tko
+=3	=3
+2dd	z_gro-
+4dd}	-bu
 !!LO:LB:g=esac
-=4
-{4a
-4cc#
-4dd
-=5
-*M7/8
-4dd
-4cc#
-4g
-=6
-*M3/4
-2a
-4a}
+=4	=4
+{4a\	bło-
+4cc#	-go-
+4dd	-sław
+=5	=5
+4dd	cór-
+4cc#	-ce
+4g	do
+=6	=6
+2a	ślu-
+4a}	-bu
 !!LO:LB:g=esac
-=7
-{4a
-4cc#
-4dd
-=8
-*M7/8
-4dd
-4cc#
-4a
-=9
-4g
-4b-
-4a
-=10
-*M3/4
-4cc
-2g}
+=7	=7
+{4a\	Oj
+4cc#	są
+4dd	ta
+=8	=8
+(4dd	do-
+4cc#)	.
+4a\	-brzy
+=9	=9
+4g	lu-
+4b-	-dzie
+4a\	na
+=10	=10
+4cc	świe-
+2g}	-cie
 !!LO:LB:g=esac
-=11
-{4a
-4cc#
-4dd
-=12
-*M7/8
-4dd
-4cc#
-4g
-=13
-*M3/4
-2a
-4a}
-==
-*-
+=11	=11
+{4a\	po-
+4cc#X	-słu-
+4dd	-żą
+=12	=12
+(4dd	ta
+4cc#)	.
+4g	sie-
+=13	=13
+2a;	-ro-
+4a}	-cie.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Wynijdźze matko z grobu
+!!błogosław córce do ślubu
+!!Oj są ta dobrzy ludzie na świecie
+!!posłużą ta sierocie.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: Bride sings to her deceased mother
+!!@@END:
+!!!role-singer: Orphan
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=39 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 28} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 28}
 !!!page: 28
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-21

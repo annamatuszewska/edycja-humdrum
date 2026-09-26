@@ -3,47 +3,68 @@
 !!!source: DWOK02
 !!!id: K0078
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8b
-8a
-8b
-8cc
-=2
-4dd
-8dd
-8b
-=3
-8cc
-8b
-8cc
-8dd
-=4
-8b
-8f#
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8b/L	Oj
+8aJ	.
+8b	we-
+8cc	-le
+=2	=2
+4dd	mły-
+8ddL	-na
+8bJ	.
+=3	=3
+8cc/	zło-
+8b/	.
+8cc	-ta
+8dd	wierz-
+=4	=4
+8b/L	-bi-
+8f#J	.
+4g}	-na
 !!LO:LB:g=esac
-=5
-{8b
-8a
-16b
-16dd
-8cc
-=
-4cc
-12b
-12a
-12g
-=6
-2g}
-==
-*-
+=5	=5
+{8b	trze-
+8a\	-ba
+16bL	by
+16ddJ	.
+8cc	ją
+=6	=6
+4cc	wy-
+(>12b/L	.
+12a	-rą-
+12gJ)	.
+=7	=7
+2g}	-bać.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj wele (wedle) młyna
+!!złota wierzbina
+!!trzeba by ją wyrąbać.
+!!@VERSE:
+!!2. Oj da jest ci ta
+!!Nadobna Kasienia —
+!!zeby nam ją chcieli dać.
+!!@VERSE:
+!!3. Oj dadzą, dadzą
+!!jesce odprowadzą,
+!!ino po nię zajechać.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: The bridesmaids sing
+!!@@END:
+!!!role-singer: Lover
+!!!singer-sex: Male
+!!!RDF**kern: >= above
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=83 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 72} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 72}
 !!!page: 72
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-26

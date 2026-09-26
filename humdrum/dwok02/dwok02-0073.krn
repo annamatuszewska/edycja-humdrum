@@ -3,60 +3,148 @@
 !!!source: DWOK02
 !!!id: K0073
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8a
-8b
-8cc
-=2
-4dd
-8b
-=3
-8cc
-4a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8a\	Na-
+8b	-sa
+8cc	Ma-
+=2	=2
+4dd	-ry-
+8b	-sia
+=3	=3
+8cc	na-
+4a}\	-sa,
 !!LO:LB:g=esac
-=4
-{16a
-16b
-8cc
-8a
-=5
-4dd
-8b
-=6
-8g
-4a}
+=4	=4
+{16a\	pachnie
+16b	.
+8cc	nam
+8a\	go-
+=5	=5
+4dd	-rzał-
+8b	-ki
+=6	=6
+8g	fla-
+4a}	-sa,
 !!LO:LB:g=esac
-=7
-{8a
-8b
-8cc
-=8
-4dd
-8b
-=9
-8cc
-4a}
+=7	=7
+{8a\	Mru-
+8b	-ga
+8cc	Ma-
+=8	=8
+4dd	-ry-
+8b	-sia
+=9	=9
+8cc	mru-
+4a}\	-ga,
 !!LO:LB:g=esac
-=10
-{16a
-16b
-8cc
-8a
-=11
-4dd
-8b
-=12
-8g
-4a}
-==
-*-
+=10	=10
+{16a\	pa-
+16b	-chnie
+8cc	nam
+8a\	i
+=11	=11
+4dd	fla-
+8b	-sa
+=12	=12
+8g	dru-
+4a}	-ga.
+=13	=13
+{8a\	A
+8b	my
+8cc	se
+=14	=14
+4dd	win-
+8b	-su-
+=15	=15
+16cc/L	-je-
+16b/J	-my
+4a}\	.
+!!LO:LB:g=esac
+=16	=16
+{16a\	że
+16b	i
+8cc	trzecią
+8a\	.
+=17	=17
+4dd	wy-
+8b	-pi-
+=18	=18
+16g\L	-je-
+16a\J	.
+!LO:TX:a:t=Tu tańczą przepióreczkę (we wsi Kichary) (74)&colon;	!
+4a}	-my.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Nasa Marysia nasa,
+!!pachnie nam gorzałki flasa,
+!!Mruga Marysia mruga,
+!!pachnie nam i flasa druga.
+!!A my se winsujemy
+!!że i trzecią wypijemy.
+!!—
+!!@VERSE:
+!!2. Jedna Marysia, jedna,
+!!do ogródecka biegła,
+!!rózowe kwiaty rwała,
+!!na słuzbę narzekała!
+!!@VERSE:
+!!3. Oj słuzbo niesceśliwa!
+!!nie jesteś mi zycliwa.
+!!Ten kawałecek chleba
+!!nie zjem go kiedy trzeba,
+!!do safy go wrzucę
+!!do roboty się rzucę.
+!!@VERSE:
+!!4. Wyleciał ptasek z graba —
+!!juz ci Marysia baba.
+!!Wyleciał ptasek z wiśni —
+!!juz sie Marysia pyśni.
+!!@VERSE:
+!!5. Rycy kawulka (krowa), rycy,
+!!zjedli cielątko wilcy.
+!!Nie ryc kawulko nasa
+!!leci cielątko z lasa.
+!!@VERSE:
+!!6. Rycy kawulka, rycy
+!!zjedli cielątko wilcy.
+!!Nie ryc kawulko moja
+!!leci cielątko z pola.
+!!@VERSE:
+!!7. Rycy kawulka, rycy,
+!!zjedli cielątko wilcy.
+!!Nie ryc kawulko, nie ryc,
+!!leci cielątko z granic.
+!!@VERSE:
+!!8. Rycy kawulka rycy,
+!!zjedli cielątko wilcy.
+!!Oj nie widać kupcyka
+!!oj bo talary licy.
+!!@VERSE:
+!!9. Oj licy on ich, licy,
+!!da kładzie ich na stole,
+!!oj porachuj dziewcyno,
+!!da cy stanie za twoje!
+!!@VERSE:
+!!10. Oj nie stanie, nie stanie,
+!!da trzeba jesce przysuć —
+!!oj za wianek sto złotych
+!!da a za cnotę tysiąc.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: After the oczepiny ceremony, they sing while dancing
+!!@@END:
+!!!role-singer: Women
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=80 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 69} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 69}
 !!!page: 69
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-26

@@ -3,51 +3,97 @@
 !!!source: DWOK02
 !!!id: K0072
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16a
-8b
-8cc
-=2
-16b
-16a
-8f#
-8d
-=3
-16g
-16a
-8b
-8cc
-=4
-4.dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Ju-
+16a	-ześ
+8b	nie-
+8cc	-wia-
+=2	=2
+16b/	-sta
+16a	Ma-
+8f#	-ry-
+8d	-siu
+=3	=3
+16g	ju-
+16a	-ześ
+8b	nie-
+8cc	-wia-
+=4	=4
+4.dd}	-sta,
 !!LO:LB:g=esac
-=5
-{16dd
-16ee
-8dd
-8cc
-=6
-16b
-16a
-8b
-8cc
-=7
-16dd
-16cc
-8b
-8a
-=8
-4g}
-8r
-==
-*-
+=5	=5
+{16dd	na
+16ee	bierz
+8dd	ze
+8cc	se
+=6	=6
+16b/	wę-
+16a	-ze-
+8b	-łe
+8cc	cków
+=7	=7
+16dd	idź
+16cc	se
+8b	do
+8a	mia-
+=8	=8
+!LO:TX:a:t=Po oczepieniu tańczy młoda ze starościnami, od których ją wykupić trzeba (73) &colon;	!
+4g}	-sta.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Juześ niewiasta Marysiu
+!!juześ niewiasta,
+!!na bierz ze se węzełe cków
+!!idź se do miasta.
+!!@VERSE:
+!!2. W jeden kasy, w drugi mąki,
+!!kup se gorzałki —
+!!a powiedz ze przed Jasieniem
+!!ze to na garki.
+!!@VERSE:
+!!3. Ładno ci będzie Marysiu,
+!!ładno ci będzie,
+!!jakci przyjdzie wstępna środa,
+!!juz nie będzies panna młoda,
+!!siądzies se w rzędzie.
+!!@VERSE:
+!!4. Da nie będzies ci u niego
+!!drobnych drewek rąbać,
+!!da bo sie ta oné będą
+!!samy o cie łomać.
+!!@VERSE:
+!!5. Da nie będzies ci u niego
+!!cebrem wody nosić,
+!!da bo jéj ta będzies miała
+!!pod ocami dosić.
+!!@VERSE:
+!!6. Oj miałaś ci ty mnie matko
+!!jak źrenicę w oku,
+!!oj dałaś ci ty mnie, dała,
+!!na zagubę chłopu.
+!!@VERSE:
+!!7. Oj miałaś ci ty mnie matko
+!!jak w oku źrenice —
+!!oj dałaś ci ty mnie, dała
+!!chłopu za granicę.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: ceremony of putting a cap on a bride's head
+!!@@END:
+!!!role-singer: Narrator, Bride
+!!!role-listener: Bride, Mother
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=79 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 68} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 68}
 !!!page: 68
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-26

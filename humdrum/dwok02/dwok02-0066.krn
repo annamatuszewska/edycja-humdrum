@@ -3,41 +3,60 @@
 !!!source: DWOK02
 !!!id: K0066
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-=1
-*M3/8
-{16b
-16b
-8dd
-8dd
-=2
-16dd
-16ee
-8dd
-8cc
-=3
-8b
-4dd
-=4
-*M5/16
-4a}
-16r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+=1	=1
+*M3/8	*
+{16b	A
+16b	kaz
+8dd	se
+8dd	grać
+=2	=2
+16dd	star-
+16ee	-sy
+8dd	dru-
+8cc	-zba
+=3	=3
+8b	kaz
+4dd	se
+=4	=4
+4a}	grać,
+16r	.
 !!LO:LB:g=esac
-=5
-*M3/8
-{8cc
-8.b
-16f#
-=6
-4g}
-8r
-==
-*-
+=5	=5
+{8cc	kaz
+(8.b/L	se
+16f#)J	.
+=6	=6
+4g}	grać.
+!LO:TX:a:t=Kobiety (67.)&colon;	!
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A kaz se grać starsy druzba
+!!kaz se grać (bis)
+!!bo ci kazą starościny
+!!bydło gnać.
+!!@VERSE:
+!!2. A nieraźny starsy druzba
+!!nieraźny,
+!!starościny za stolikiem
+!!pomarzły.
+!!@VERSE:
+!!3. A hasaj ze starsy druzba
+!!hasaj-ze,
+!!Podkuwecka w podkuweckę
+!!krzesaj ze.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!role-listener: Best Man
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=76 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 65} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 65}
 !!!page: 65
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-25

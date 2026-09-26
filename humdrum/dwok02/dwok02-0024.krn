@@ -3,43 +3,56 @@
 !!!source: DWOK02
 !!!id: K0024
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{16g
-16b
-8cc
-8dd
-8ee
-=2
-8dd
-8a
-4dd
-=3
-4a
-8d}
-8r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{(16g	A
+16b)	rzę-
+8cc	-dem
+8dd	go-
+8ee	-ści
+=2	=2
+(8ddL	sa-
+8a\J)	.
+4dd	-dzaj-
+=3	=3
+(4a	-cie
+8d)}	.
+8r	.
 !!LO:LB:g=esac
-=4
-{8f#
-8g
-8b
-8dd
-=5
-4cc
-8b
-8f#
-=6
-4g
-8d}
-8r
-==
-*-
+=4	=4
+{8f#	ko-
+8g	-go
+8b	ni-
+8dd	-ma
+=5	=5
+4cc	su-
+8b/L	-kaj-
+8f#J	.
+=6	=6
+(4gL	-cie.
+8d)}	.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A rzędem gości sadzajcie
+!!kogo nima sukajcie.
+!!@VERSE:
+!!2. A juzci wsyscy siedziemy
+!!pannymłody prosiemy.
+!!@VERSE:
+!!3. Oj rzędem rzędem, rzędoma
+!!za obiema stołoma.
+!!@@END: VERSES
+!!!role-singer: Wedding guests
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=46 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 35} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 35}
 !!!page: 35
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-23

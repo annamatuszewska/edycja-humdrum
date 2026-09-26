@@ -3,70 +3,106 @@
 !!!source: DWOK02
 !!!id: K0030
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*d:
-*M3/8
-=1
-{8a
-8a
-8ff
-=2
-8ee
-4dd
-=3
-16cc#
-16dd
-8cc#
-8g
-=4
-4.a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*d:	*
+*M3/8	*
+=1	=1
+{8a	Oj
+8a	chmie-
+8ff	-lu
+=2	=2
+8ee	chmie-
+4dd	-lu,
+=3	=3
+16cc#	ty
+16dd	buj-
+8cc#	-ne
+8g	zie-
+=4	=4
+4.a}	-le,
 !!LO:LB:g=esac
-=5
-{8a
-8a
-8ff
-=6
-8ee
-4dd
-=7
-16cc#
-16dd
-8cc#
-8g
-=8
-4.a}
+=5	=5
+{8a	nie
+8a	bę-
+8ff	-dzie
+=6	=6
+8ee	bez
+4dd	cie
+=7	=7
+16cc#	za-
+16dd	-dne-
+8cc#	we
+8g	-se-
+=8	=8
+4.a}	-le,
 !!LO:LB:g=esac
-=9
-{8cc
-8g
-8a
-=10
-16cc
-16cc
-8g
-8a
-=11
-8cc
-8g
-8a
-=12
-16cc
-16cc
-8g
-8a
-=13
-16cc
-16dd
-8cc
-8g
-=14
-4.a}
-==
-*-
+=9	=9
+{8ccn	Oj
+8g	chmie-
+8a	-lu
+=10	=10
+16cc	oj
+16cc	nie-
+8g	-bo-
+8a	-ze
+=11	=11
+8cc	co
+8g	na
+8a	dół
+=12	=12
+16cc	to
+16cc	po
+8g	gó-
+8a	-rze
+=13	=13
+16cc	chmie-
+16dd	-lu
+8cc	nie-
+8g	-bo-
+=14	=14
+4.a}	-ze.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj chmielu chmielu, ty bujne ziele,
+!!nie będzie bez cie zadne wesiele.
+!!Oj chmielu, oj nieboze
+!!co na dół, to po górze,
+!!chmielu nieboze.
+!!@VERSE:
+!!2. Oj chmielu chmielu, ty rozbójniku,
+!!goniłeś panny po pasterniku (pastwisku).
+!!Oj chmielu, oj nieboze
+!!niech ci Pan Bóg dopomoze,
+!!chmielu nieboze.
+!!@VERSE:
+!!3. Ja ich nie gonił, same biegały,
+!!jesce mi za to wianecek dały.
+!!Oj chmielu i t. d.
+!!@VERSE:
+!!4. Oj chmielu chmielu, na tobie gałka —
+!!zaprowadź ze nas kady gorzałka.
+!!Oj chmielu i t. d.
+!!@VERSE:
+!!5. Oj chmielu chmielu, na tobie ości —
+!!zaprowadź ze nas do jegomości,
+!!Oj chmielu i t. d.
+!!@VERSE:
+!!6. Oj chmielu chmielu, na tobie rosa —
+!!nie utrzymas ty w kiesieni grosa.
+!!Oj chmielu i t. d.
+!!@VERSE:
+!!7. Oj chmielu chmielu, na tobie liście —
+!!moją panienkę ocepiliście.
+!!Oj chmielu i t. d.
+!!@@END: VERSES
+!!!role-singer: Wedding guests
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=48 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 37} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 37}
 !!!page: 37
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-24

@@ -3,49 +3,96 @@
 !!!source: DWOK02
 !!!id: K0055b
 !!!signature: 0205500002
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M4/4
-=1
-{4cc#
-4cc#
-4a
-4cc#
-=2
-2dd
-4cc#
-4a}
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*A:	*
+*M4/4	*
+*met(c)	*
+=1	=1
+{4cc#/	Oj
+4cc#	wy-
+4a\	-bié-
+4cc#	-raj
+=2	=2
+2dd	ze
+(4cc#	się
+4a\)}	.
 !!LO:LB:g=esac
-=3
-{4cc#
-4cc#
-8cc#
-8b
-4cc#
-=4
-4b
-4cc#
-2a}
+=3	=3
+{4cc#	na-
+4cc#	-do
+8ddq	.
+8cc#L	bna
+8bJ	.
+4cc#	Ma-
+=4	=4
+4b	-ry-
+(4cc#	-siu
+2a)\}	.
 !!LO:LB:g=esac
-=5
-{4cc#
-4cc#
-8a
-8cc#
-4ee
-=6
-4dd
-4cc#
-4a
-4g
-=7
-1a}
-==
-*-
+=5	=5
+{4cc#	oj
+4cc#	bo
+8a\L	już
+8cc#J	.
+4ee	cas,
+=6	=6
+(4dd;	bo
+4cc#)	.
+(4a	juz
+4g)	.
+=7	=7
+1a;}	cas;
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj wybiéraj ze się nadobna Marysiu
+!!oj bo juz cas, bo juz cas;
+!!oj wdziewaj ze wdziewaj turecką spódnicę,
+!!oj śrébny pas, śrybny pas.
+!!@VERSE:
+!!2. Oj wybiéraj ze sie nadobna Marysiu
+!!oj do ślubu, do ślubu,
+!!oj zaprzęgajcie te kare koniki
+!!oj do cugu, do cugu.
+!!@VERSE:
+!!3. Oj wybiéraj ze sie nadobna Marysiu
+!!oj wybiéraj, wybieraj,
+!!oj pojedziemy z rucianym wianeckiem
+!!oj w cudzy kraj, w cudzy kraj.
+!!@VERSE:
+!!4. Oj juz ci ja sie moi dobrzy ludzie
+!!oj wybrała, wybrała,
+!!oj ino mi matula błogosławieństwa
+!!oj nie dała, nie dała.
+!!@VERSE:
+!!5. Oj a za progi, ruciany wianecku
+!!oj a za progi, za progi,
+!!oj a weź ze ty swoją matulę
+!!oj za nogi za nogi.
+!!(toż: ojca, brata, rodzinę i t. d.)
+!!@VERSE:
+!!6. Oj siadajze na wóz, warkocék se załóz
+!!cegoz bedzies płakała?
+!!nie mas ci tu matki, nimas ci tu ojca
+!!s kim sie bedzies śratała.
+!!@VERSE:
+!!7. Zaprzęgajcie konie w bryki,
+!!pojedziemy po mętryki.
+!!Juź ci konie w brykach stoją,
+!!a Marysię jesce stroją.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: Bridesmaids and Matchmakers sing
+!!@@END:
+!!!role-singer: Bridesmaids, Matchmakers
+!!!role-listener: Bride
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=70 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 59} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 59}
 !!!page: 59
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-25

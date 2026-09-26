@@ -3,56 +3,114 @@
 !!!source: DWOK02
 !!!id: K0005
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*d:
-*M2/4
-=1
-{4dd
-8dd
-8ee
-=2
-8ee
-8cc#
-4dd
-=3
-8cc
-8a
-8f
-8g
-=4
-2a}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*d:	*
+*M2/4	*
+=1	=1
+{4dd	Oj
+8dd	ko-
+8ee	-łem
+=2	=2
+8eeL	wian-
+8cc#J	.
+4dd;	-ku
+=3	=3
+8ccnL	ko-
+8a\J	.
+8f	-łem
+8g	ko-
+=4	=4
+2a}	-łem
 !!LO:LB:g=esac
-=5
-{8cc
-16b-
-16a
-8f
-8g
-=6
-4cc
-8dd
-8dd
-=7
-4cc
-4a}
+=5	=5
+{8ccM	ko-
+16b-/L	-łem
+16aJ	.
+8f	wian-
+8g	-ku
+=6	=6
+4cc	ko-
+8dd	-łem
+8dd	ko-
+=7	=7
+(4cc	-łem
+4a)\}	.
 !!LO:LB:g=esac
-=8
-{8f
-8g
-8a
-8b-
-=9
-4cc
-8dd
-8dd
-=10
-2a}
-==
-*-
+=8	=8
+{8f	nad
+8g	tem
+8a	mo-
+8b-	-jem
+=9	=9
+4cc	śli-
+8dd	-cnem
+8dd	co-
+=10	=10
+2a;}	-łem.
+=11	=11
+{4dd	Oj
+8dd	dosić-
+8ee	-em
+=12	=12
+8eeL	sie
+8cc#J	.
+4dd;	na
+=13	=13
+8ccnL	ko-
+8a\J	.
+8f	-ło-
+8g	-wał
+=14	=14
+2a}	Oj
+!!LO:LB:g=esac
+=15	=15
+{8ccM	do-
+16b-/L	-sić-
+16aJ	.
+8f	-em
+8g	sie
+=16	=16
+4cc	na
+8dd	ko-
+8dd	-ło-
+=17	=17
+(4cc	-wał,
+4a)\}	.
+!!LO:LB:g=esac
+=18	=18
+{8f	co
+8g	nie-
+8a	-dzioł-
+8b-	-ka
+=19	=19
+4cc	wy-
+8dd	-słu-
+8dd	-go-
+=20	=20
+!LO:TX:a:t=poczem skrzypek przygrywa im &colon; (6)	!
+2a;}	-wał.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj kołem wianku kołem
+!!kołem kołem wianku kołem
+!!kołem nad tem mojem ślicnem cołem.
+!!@VERSE:
+!!2. Oj dosićem sie na kołował
+!!Oj dosićem sie na kołował,
+!!co niedziołka wysługował.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: The bridesmaids sing and dance
+!!@@END:
+!!!role-singer: Narrator
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=35 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 24} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 24}
 !!!page: 24
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-21

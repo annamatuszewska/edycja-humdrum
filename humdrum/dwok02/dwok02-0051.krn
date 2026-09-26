@@ -3,49 +3,87 @@
 !!!source: DWOK02
 !!!id: K0051
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16b
-16cc
-8dd
-8dd
-=2
-16dd
-16ee
-8dd
-8cc
-=3
-8b
-4dd
-=4
-4a
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16b	A
+16cc	wier-
+8dd	-nie
+8dd	ja
+=2	=2
+16dd	pa-
+16ee	-nu
+8dd	Bo-
+8cc	-gu
+=3	=3
+8b	słu-
+4dd	-zy-
+=4	=4
+(4a	-ła
+8g)}	.
 !!LO:LB:g=esac
-=5
-{16a
-16b
-8cc
-8b
-=6
-16a
-16b
-8cc
-8b
-=7
-8a
-4cc
-=8
-8b
-8g}
-8r
-==
-*-
+=5	=5
+{16a	a
+16b/	kie-
+8cc	-dy
+8b	ja
+=6	=6
+16a	ja-
+16b/	-bło-
+8cc	-ne-
+8b	-cke
+=7	=7
+8a	sa-
+4cc	-dzi-
+=8	=8
+8b/L	-ła.
+8g}J	.
+!LO:TX:a:t=Po czem niosą rózgę do komory, śpiewając (52) &colon;	!
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A wiernie ja panu Bogu
+!!słuzyła —
+!!a kiedy ja jabłonecke
+!!sadziła.
+!!Juźci moji jabłonecce
+!!rok mija,
+!!juz sie moja jabłonecka
+!!ozwija.
+!!Juźci moja jabłonecka
+!!dwie lecie,
+!!juz na moij jabłonecce
+!!są kwiecie.
+!!Juźci moja jabłonecka
+!!trzy lata
+!!juz na moij jabłonecce
+!!są jabka.
+!!Urwała ich starsa druchna
+!!dwanaście,
+!!zaniesła ich na zamecek
+!!staroście.
+!!Pan starosta jabuseckom
+!!bardzo rad,
+!!zaprosił se starse druchne
+!!na objad.
+!!I tak ci ją pan starosta
+!!sacował,
+!!jabusecka z pu-misecka
+!!zdéjmował.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: The bridesmaids sing
+!!@@END:
+!!!role-singer: Narrator
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=65 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 54} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 54}
 !!!page: 54
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-25

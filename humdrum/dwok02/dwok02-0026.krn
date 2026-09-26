@@ -3,55 +3,82 @@
 !!!source: DWOK02
 !!!id: K0026
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8g
-8g
-8a
-=2
-4b
-8cc
-=3
-8dd
-4ee
-=4
-8dd}
-4r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8g	We-
+8g	-so-
+8a	-łu-
+=2	=2
+(4b	-chu
+8cc)	.
+=3	=3
+8dd	cy-
+4ee	-ty
+=4	=4
+8dd}	spis,
+4r	.
 !!LO:LB:g=esac
-=5
-{16dd
-16ee
-8dd
-8dd
-=6
-8cc
-8cc
-8cc
-=7
-16b
-16b
-8b
-16b
-16a
-=8
-8a
-8a
-16b
-16cc
-=9
-8dd
-4a
-=10
-8g}
-4r
-==
-*-
+=5	=5
+{8g	gło-
+8g	-su
+8a	me-
+=6	=6
+(4b	-go
+8cc)	.
+=7	=7
+8dd	nie
+4ee	sły-
+=8	=8
+8dd}	-sys.
+4r	.
+!!LO:LB:g=esac
+=9	=9
+{16dd	Ja
+16ee	ci
+8dd	da-
+8dd	-łam
+=10	=10
+(8bq	.
+8cc)	trzy
+8cc	gro-
+8cc	-se
+=11	=11
+16b	ze-
+16b	-byś
+8b	mi
+(16bL	grał
+16a\J)	.
+=12	=12
+8a	po
+8a	tro-
+16bL	-se
+16ccJ	.
+=13	=13
+8dd	przez
+4a	o-
+=14	=14
+8g}	-biad.
+4r	_
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Wesołuchu cyty spis,
+!!głosu mego nie słysys.
+!!Ja ci dałam trzy grose
+!!zebyś mi grał
+!!po trose przez obiad.
+!!@@END: VERSES
+!!!role-singer: Bridesmaids
+!!!role-listener: Violinist
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=46 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 35} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 35}
 !!!page: 35
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-23

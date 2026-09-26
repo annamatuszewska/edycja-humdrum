@@ -3,45 +3,80 @@
 !!!source: DWOK02
 !!!id: K0057
 !!!signature:
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M2/4
-=1
-{4cc#
-8a
-8cc#
-=2
-4dd
-8cc#
-8a
-=3
-8cc#
-8cc#
-8dd
-8cc#
-=4
-4dd
-8a}
-8r
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M2/4	*
+=1	=1
+{4cc#	Oj
+(8a\L	pa-
+8cc#J)	.
+=2	=2
+4dd	-ra-
+(8cc#L	-mi,
+8a\)J	.
+=3	=3
+8cc#	pa-
+8cc#	-no-
+8dd	-wie
+8cc#	dru-
+=4	=4
+4dd	-ży-
+8a}	-na
+8r	.
 !!LO:LB:g=esac
-=5
-{8cc#
-8cc#
-8a
-8cc#
-=6
-8dd
-8cc#
-8a
-8g
-=7
-2a}
-==
-*-
+=5	=5
+{8cc#	oj
+8cc#	pa-
+8a	-ra-
+8cc#	-mi,
+=6	=6
+(8ddL	pa-
+8cc#J)	.
+(8aL	-ra-
+8gJ)	.
+=7	=7
+!LO:TX:a:t=Wyszedłszy po ślubie z kościoła; (na tęż nutę) (58)	!
+2a}	-mi
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj a parami, panowie druzyna!
+!!oj parami, parami —
+!!Oj wyglądają nasi Kicharzanie
+!!oj śparami, śparami.
+!!@VERSE:
+!!2. Parą druzynecka, parą,
+!!niechze nas ludzie chwalą;
+!!jak parami nie pójdziecie
+!!to wy ludźmi nie będziecie.
+!!@VERSE:
+!!3. Oj a bez błonie, panowie druzyna!
+!!oj bez błonie, bez błonie.
+!!oj wywalają nasi Kicharzanie
+!!oj bałonie, bałonie (duże oczy).
+!!@VERSE:
+!!4. Oj i nade wsią, panowie drużyna
+!!oj nade wsią, nade wsią 
+!!oj niechze sie nam nasi Kicharzanie
+!!oj napatrzą, napatrzą.
+!!@VERSE:
+!!5. Oj a ku górze, ruciany wianecku,
+!!oj ku górze, ku górze,
+!!oj ozpuściła nadobna Marysia
+!!swój wianecek po śnurze.
+!!@VERSE:
+!!6. Nie słychać dzwona, nima plebana,
+!!na jarmacek pojechał —
+!!wesclicka odjechał.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!role-listener: Group
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=72 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 61} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 61}
 !!!page: 61
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-25

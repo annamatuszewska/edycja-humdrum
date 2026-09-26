@@ -3,50 +3,70 @@
 !!!source: DWOK02
 !!!id: K0045
 !!!signature:
-**kern
-*clefG2
-*k[b-e-]
-*g:
-*M3/8
-=1
-{16f#
-16g
-8a
-8b-
-=2
-16a
-16dd
-8cc
-8g
-=3
-4a
-8cc#
-=4
-4dd
-8cc#}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*g:	*
+*M3/8	*
+=1	=1
+{16f#	Za-
+16g	-ku-
+8a	-ka-
+8b-/	-ła
+=2	=2
+16a	ku-
+16dd	-ku-
+8cc	-łe-
+8g	-cka
+=3	=3
+4a	na
+8cc#	śli-
+=4	=4
+(4dd	-wie.
+8cc#)}	.
 !!LO:LB:g=esac
-=5
-{16ee
-16dd
-8a
-8g
-=6
-16b-
-16dd
-8cc
-8a
-=7
-16dd
-16cc#
-8.a
-16f#
-=8
-4g}
-8r
-==
-*-
+=5	=5
+{16ee	za-
+16dd	-cnij
+8a\	ze
+8g	nam
+=6	=6
+16b-	mo-
+16dd	-ja
+8cc	Ma-
+8a	-ryś
+=7	=7
+(16ddL	scę-
+16cc#)J	.
+8.a	-śli-
+16f#	.
+=8	=8
+4g}	-wie.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Zakukała kukułecka
+!!na śliwie—
+!!zacnij ze nam moja Maryś
+!!scęśliwie.
+!!@VERSE:
+!!2. Zakukała kukułecka,
+!!przestała—
+!!cego ja się mocny Boze
+!!docekała?
+!!@VERSE:
+!!3. Docekałam, docekałam—ś
+!!pięknéj sławy—
+!!jako ona biała gąska
+!!leśnéj trawy.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=60 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 49} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 49}
 !!!page: 49
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-24

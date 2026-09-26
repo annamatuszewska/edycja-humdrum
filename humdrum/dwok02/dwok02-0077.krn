@@ -3,69 +3,82 @@
 !!!source: DWOK02
 !!!id: K0077
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*d:
-*M3/4
-=1
-{4dd
-4dd
-4ff
-=2
-4ee
-2dd
-=3
-4cc#
-4a
-4b
-=4
-4cc#
-2a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*d:	*
+*M3/4	*
+=1	=1
+{4dd	O
+4dd	mię-
+4ff	-dzy
+=2	=2
+4ee	dwie-
+2dd	-ma
+=3	=3
+(4cc#	gó-
+4a\)	.
+4b	-re-
+=4	=4
+4cc#	-cko-
+2a}	-ma,
 !!LO:LB:g=esac
-=5
-{4dd
-4dd
-4ff
-=6
-4ee
-2dd
-=7
-4cc#
-4a
-4b
-=8
-4cc#
-2a}
+=5	=5
+{4dd	bie-
+4dd	.
+4ff	-zy
+=6	=6
+4ee	wo-
+2dd	-da
+=7	=7
+(4cc#	stru-
+4a\)	.
+4b	-ze-
+=8	=8
+4cc#	-cko-
+2a}\	-ma.
 !!LO:LB:g=esac
-=9
-{8cc#
-8g
-4a
-4b-
-=10
-2cc
-4dd
-=11
-4dd
-4.a
-8g}
+=9	=9
+{8cc#	po
+8g	tej
+4a	wo-
+4b-	-dzie
+=10	=10
+2cc	kie-
+4dd	-lich
+=11	=11
+(>4dd	pły-
+4.a);	.
+8g}	-nie,
 !!LO:LB:g=esac
-=12
-{8f
-8g
-4a
-4b-
-=13
-2cc
-4dd
-=14
-4g
-2a}
-==
-*-
+=12	=12
+{8f	w_tym
+8g	kie-
+4a	-li-
+4b-	-chu
+=13	=13
+2cc	dwie
+4dd	dzie-
+=14	=14
+4g	-wcy-
+2a;}	-nie.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!O między dwiema góreckoma,
+!!biezy woda struzeckoma.
+!!po tej wodzie kielich płynie,
+!!w tym kielichu dwie dziewcynie.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: The bridesmaids sing
+!!@@END:
+!!!role-singer: Narrator
+!!!RDF**kern: >= below
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=83 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 72} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 72}
 !!!page: 72
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-26

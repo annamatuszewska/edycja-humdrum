@@ -3,55 +3,92 @@
 !!!source: DWOK02
 !!!id: K0067
 !!!signature: 0206700010
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16b
-16cc
-8dd
-8dd
-=2
-16dd
-16ee
-8dd
-8cc
-=3
-16b
-16b
-8cc
-16a
-16f#
-=4
-8g
-4d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16b	W_le-
+16cc	-sie
+8dd	ko-
+8dd	-rze-
+=2	=2
+16dd	-nie,
+16ee	dru-
+8dd	-zbo-
+8cc	-wie
+=3	=3
+16b	w_le-
+16b	-sie
+8cc	ko-
+16aL	-rze-
+16f#J	.
+=4	=4
+(8g	-nie
+4d)}	.
 !!LO:LB:g=esac
-=5
-{16g
-16b
-8dd
-8dd
-=6
-16dd
-16ee
-8dd
-8cc
-=7
-16b
-16b
-8cc
-16a
-16f#
-=8
-8g
-4d}
-==
-*-
+=5	=5
+{16g	a
+16b	już-
+8dd	-ci
+8dd	mi
+=6	=6
+16dd	przy
+16ee	mar-
+8dd	-za-
+8cc	-ją
+=7	=7
+16b	nó-
+16b	-żki
+8ccM	do
+16aL	zie-
+16f#J	.
+=8	=8
+(8g	-mie.
+4d)}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. W lesie korzenie, druzbowie
+!!w lesie korzenie
+!!a jużci mi przymar'zają
+!!nóżki do ziemie.
+!!@VERSE:
+!!2. W polu zagawki, druzbowie
+!!w polu zagawki —
+!!a juzci mi przymar’zają
+!!rącki do ławki.
+!!@VERSE:
+!!3. Wali się ściana druzbiku
+!!wali się ściana,
+!!a jak ci mnie nie wysadzis,
+!!wylazę sama.
+!!@VERSE:
+!!4. Niesława będzie druzbiku
+!!nie sława będzie,
+!!jak wylazę z zastolika
+!!stanę se w rzędzie.
+!!@VERSE:
+!!5. Oj hasała starościna
+!!oj i hasała,
+!!podkuwecka w podkuweckę
+!!da i krzesała.
+!!@VERSE:
+!!6. A hasajze starościna
+!!oj i hasajze;
+!!jezeli cię nózki bolą
+!!to cię na to nie niewolą,
+!!da i przestaj-ze.
+!!@@END: VERSES
+!!!role-singer: Women
+!!!role-listener: Master of Ceremonies, Groomsman
+!!!singer-sex: Female
 !!!ONB: cz. 1 - melodia wokalna
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=76 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 65} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 65}
 !!!page: 65
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-25

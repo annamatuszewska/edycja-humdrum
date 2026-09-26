@@ -3,69 +3,88 @@
 !!!source: DWOK02
 !!!id: K0081
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*d:
-*M3/8
-=1
-{8dd
-8dd
-8ff
-=2
-8ee
-4dd
-=3
-8cc#
-8a
-8g
-=4
-8g
-4a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*d:	*
+*M3/8	*
+=1	=1
+{8dd	Oj
+8dd	juz
+8ff	wia-
+=2	=2
+8ee	-ne-
+4dd	-cka
+=3	=3
+(8cc#L	do-
+8a\)J	.
+8g	-wi-
+=4	=4
+8g	-ja-
+4a}	-my,
 !!LO:LB:g=esac
-=5
-{8dd
-8dd
-8ff
-=6
-8ee
-4dd
-=7
-8cc#
-8a
-8g
-=8
-8g
-4a}
+=5	=5
+{8dd	Oj
+8dd	juz
+8ff	wia-
+=6	=6
+16dd/L	-ne-
+16cc/J	.
+4dd	-cka
+=7	=7
+(8cc#L	do-
+8a\)J	.
+8g	-wi-
+=8	=8
+8g	-ja-
+4a}	-my
 !!LO:LB:g=esac
-=9
-{16cc#
-16g
-8a
-8b-
-=10
-4cc
-8dd
-=11
-8dd
-8.g
-16f}
+=9	=9
+{16cc#	kro-
+16g	-ple
+8a	wo-
+8b-	-dy
+=10	=10
+4cc	nie
+8dd	wi-
+=11	=11
+8dd	-dzi-
+(8.gL	-my
+16f)J}	.
 !!LO:LB:g=esac
-=12
-{16f
-16g
-8a
-8b-
-=13
-4cc
-8g
-=14
-8g
-4a}
-==
-*-
+=12	=12
+{16f	kro-
+16g	-ple
+8a	wo-
+8b-	-dy
+=13	=13
+4cc	nie
+8g	wi-
+=14	=14
+8g	-dzi-
+4a;}	-my.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj juz wianecka dowijamy,
+!!krople wody nie widzimy
+!!@VERSE:
+!!2. Oj da mój miły panie-młody
+!!wystaw ze nam konew wody.
+!!@VERSE:
+!!3. A my tobie za tę wodę
+!!Kasineckę jak jagodę.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: Bridesmaids singing and dancing with a rod
+!!@@END:
+!!!role-singer: Bridesmaids
+!!!role-listener: Groom
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=84 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 73} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 73}
 !!!page: 73
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-26

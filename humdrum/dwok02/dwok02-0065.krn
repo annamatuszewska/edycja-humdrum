@@ -3,88 +3,100 @@
 !!!source: DWOK02
 !!!id: K0065
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8b
-8dd
-8b
-=2
-8dd
-4r
-=3
-16dd
-16cc
-8b
-8dd
-=4
-8dd
-8cc
-8b
-=5
-4b
-16a
-16f#
-=6
-4g
-16d}
-16r
+**kern	**text	**text
+*clefG2	*	*
+*k[f#]	*	*
+*G:	*	*
+*M3/8	*	*
+=1	=1	=1
+{8b	Dzię-	To
+8dd	-ku-	tu
+8b	-je-	by-
+=2	=2	=2
+8dd	-my	-ły
+4r	.	.
+=3	=3	=3
+16dd	najprzód	fla-
+16cc	.	-ki
+8b	pa-	o-
+8dd	-nu	-biad
+=4	=4	=4
+8dd	Bo-	był
+(8ccL	-gu	nie
+8b)J	.	.
+=5	=5	=5
+4b	za	la-
+16aL	o-	-da
+16f#J	.	.
+=6	=6	=6
+(4g	-biad	ja-
+16d)}	.	-ki
+16r	.	.
 !!LO:LB:g=esac
-=7
-{16f#
-16g
-8a
-8cc
-=8
-8b
-4dd
-=9
-4b
-16a
-16f#
-=10
-4g
-16d}
-16r
+=7	=7	=7
+{16f#	i	To
+16g	go-	tu
+8a\	-spo-	by-
+8cc	-da-	-ła
+=8	=8	=8
+8b	-rzo-	ka-
+4dd	-wi	-pu-
+=9	=9	=9
+4b	za	-sta
+16aL	o-	pa-
+16f#J	.	.
+=10	=10	=10
+4g	-biad.	-na
+16d}	.	.
+16r	.	.
 !!LO:LB:g=esac
-=11
-{8b
-4dd
-=12
-8b
-4dd
-=13
-4b
-16a
-16f#
-=14
-4g
-16d}
-16r
+=11	=11	=11
+{8b	To	młode-
+4dd	tu	.
+=12	=12	=12
+8b	by-	-go
+4dd	-ły	roz-
+=13	=13	=13
+4b	ro-	-pu-
+16aL	-so-	-sta.
+16f#J	.	.
+=14	=14	=14
+4g	.	.
+16d}	-ły	.
+16r	.	.
 !!LO:LB:g=esac
-=15
-{16f#
-16g
-8a
-8cc
-=16
-8b
-4dd
-=17
-4b
-16a
-16f#
-=18
-4g
-16d}
-16r
-==
-*-
+=15	=15	=15
+{16f#	nasz	.
+16g	pan	.
+(8a\L	mło-	.
+8cc)J	.	.
+=16	=16	=16
+8b	-dy	.
+4dd	we-	.
+=17	=17	=17
+(4b	-so-	.
+16aL	.	.
+16f#J)	.	.
+=18	=18	=18
+4g	-ły.	.
+16d}	.	.
+!LO:TX:a:t=Gdy się zabierają do tańca (66.)&colon;	!	!
+16r	.	.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. Dziękujemy najprzód panu Bogu za obiad
+!!i gospodarzowi za obiad. 
+!!To tu były rosoły nasz pan młody wesoły.
+!!@VERSE:
+!!2. To tu były flaki obiad był nie lada jaki
+!!To tu była kapusta, pana młodego rozpusta.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=75 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 64-65} @EN{Oskar Kolberg Complete Works 2: Sandomierz, pp. 64-65}
 !!!page: 64-65
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-25

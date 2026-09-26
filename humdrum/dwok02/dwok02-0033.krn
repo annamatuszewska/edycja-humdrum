@@ -3,65 +3,95 @@
 !!!source: DWOK02
 !!!id: K0033
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8g
-8b
-8g
-8b
-=2
-4cc
-8dd
-8b
-=3
-8cc
-8b
-4cc
-=4
-2g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8g	A
+8b	wstydź-
+8g	-cie
+8b	sie
+=2	=2
+4cc	Pa-
+8dd	-no-
+8b	-wie
+=3	=3
+8cc	sta-
+8b	-ro-
+4cc	-sto-
+=4	=4
+2g}	-wie
 !!LO:LB:g=esac
-=5
-{8g
-8b
-8g
-8b
-=6
-4cc
-4g
-=7
-2a}
+=5	=5
+{8g	a
+8b	wstydź-
+8g	-cie
+8b	sie,
+=6	=6
+4cc	wstydź-
+4g	-cie
+=7	=7
+2a;}	sie,
 !!LO:LB:g=esac
-=8
-{8g
-8b
-8g
-8b
-=9
-4cc
-8dd
-8b
-=10
-4.cc
-8g}
+=8	=8
+{8g	pannie
+8b	.
+8g	mło-
+8b	-dej
+=9	=9
+4cc	na
+8ddL	cze-
+8bJ	.
+=10	=10
+(4.cc	-piec
+8g)}	.
 !!LO:LB:g=esac
-=11
-{8g
-8b
-8g
-8b
-=12
-4cc
-4g
-=13
-2a}
-==
-*-
+=11	=11
+{8g	a
+8b	złóż-
+8g	-cie
+8b	sie
+=12	=12
+4cc	złóż-
+4g	-cie
+=13	=13
+2a}	sie.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A wstydźcie sie panowie starostowie
+!!a wstydźcie sie, wstydźcie się,
+!!pannie-młodyj na cépiec
+!!a złózcie sie, złózcie sie.
+!!Panie-młody pozałuj,
+!!Basi na cypiec podaruj.
+!!@VERSE:
+!!2. A wstydźcie sie panowie starostowie
+!!a wstydźcie sie, wstydźcie sie,
+!!pannie-młodyj na śpilki
+!!a złózcie sie, złózcie sie.
+!!Panie-młody pozałuj,
+!!Basi na śpilki podaruj.
+!!@VERSE:
+!!3. Pani młoda cépca nima
+!!w grochowiny łeb owija—
+!!dotknęła sie u komina,
+!!zajęła sie grochowina.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: Wzywają w ten sposób wszystkich obecnych np.
+!!Wielmozny panie z Hronowa pozałuj
+!!Basi na cypiec podaruj. i t. d.
+!!@@END:
+!!!role-singer: Bridesmaids
+!!!role-listener: Master of Ceremonies
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=51 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 40} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 40}
 !!!page: 40
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-24

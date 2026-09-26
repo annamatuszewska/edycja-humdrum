@@ -3,42 +3,60 @@
 !!!source: DWOK02
 !!!id: K0014
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*d:
-*M3/8
-=1
-{8a
-8cc#
-8dd
-=2
-8dd
-8cc#
-8a
-=3
-16dd
-16ee
-8ee
-8dd
-=4
-16b-
-16a
-4g}
+**kern	**text
+*clefG2	*
+*k[c#f#]	*
+*d:	*
+*M3/8	*
+=1	=1
+{8a\	A
+8cc#	nie
+8dd	gnij
+=2	=2
+(8ddL	ze
+8cc#)J	.
+8a\	się
+=3	=3
+16dd	ka-
+16ee	-li-
+8ee	-no-
+8dd	-wy
+=4	=4
+16b-/L	mo-
+16a/J	.
+4g}	-ście
 !!LO:LB:g=esac
-=5
-{8a
-8cc#
-8dd
-=6
-4dd
-8g
-=7
-4.a}
-==
-*-
+=5	=5
+{8a\	nie
+8cc#	gnij
+8dd	się
+=6	=6
+4dd	nie
+8g	gnij
+=7	=7
+!LO:TX:a:t=Gdy już stanęli przed kościołem i z sań powysiadali, skrzypek przygrywa idącym parami do ślubu (rodzaj marsza). (15)	!
+4.a}	się.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A nie gnij ze się kalinowy moście
+!!nie gniéj się, nie gniéj się—
+!!przejedzie tu dziś moje wesele
+!!oj bez cię (przez ciebie), oj bez cię!
+!!@VERSE:
+!!2. A nie gniéj ze się kalinowy moście
+!!pod nami, pod nami—
+!!a niechze ja se przejadę po tobie
+!!z druzbami, z druzbami.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: Groom and Bride
+!!@@END:
+!!!role-singer: Groom and Bride
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=42 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 31} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 31}
 !!!page: 31
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-23

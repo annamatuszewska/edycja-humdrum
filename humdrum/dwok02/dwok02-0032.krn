@@ -3,108 +3,154 @@
 !!!source: DWOK02
 !!!id: K0032
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8g
-8g
-8g
-8g
-=2
-8g
-8g
-8g
-8g
-=3
-8b
-8cc
-8dd
-8dd
-=4
-8dd
-8ee
-8dd
-8cc
-=5
-8b
-8b
-4a
-=6
-8b
-8b
-4a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8gL	.
+8gJ	.
+8gL	.
+8gJ	.
+=2	=2
+8gL	.
+8g	.
+8g	.
+8gJ	.
+=3	=3
+8b	Zro-
+8cc	-bię
+8dd	ja
+8dd	tej
+=4	=4
+8dd	swej
+8ee	ma-
+8dd	-tu-
+8cc	-si
+=5	=5
+8b	u-
+8b	-cie-
+4a	-chę
+=6	=6
+8b	u-
+8b	-cie-
+4a}	-chę,
 !!LO:LB:g=esac
-=7
-{8f#
-8g
-8a
-8a
-=8
-8a
-8a
-4a
-=9
-8a
-8a
-4a
-=10
-8d
-8f#
-8g
-8g
-=11
-8d
-8f#
-4g}
+=7	=7
+{8f#	za-
+8g	-rzu-
+8a	-cę
+8a	ja
+=8	=8
+8a	ru-
+8a	-cia-
+4a	-ny
+=9	=9
+8a	wia-
+8a	-ne-
+4a	-cek
+=10	=10
+8d	na
+8f#	strzechę
+8g\L	.
+8g\J	.
+=11	=11
+8d	na
+8f#	strze-
+4g}	-chę.
 !!LO:LB:g=esac
-=12
-{8b
-8cc
-8dd
-8dd
-=13
-8dd
-8ee
-8dd
-8cc
-=14
-8b
-8b
-4a
-=15
-8b
-8b
-4a}
+=12	=12
+{8b	Zro-
+8cc	-bię
+8dd	ja
+8dd	tej
+=13	=13
+8dd	swej
+8ee	ma-
+8dd	-tu-
+8cc	-si
+=14	=14
+8b	u-
+8b	-cie-
+4a	-chę
+=15	=15
+8b	u-
+8b	-cie-
+4a}	-chę,
 !!LO:LB:g=esac
-=16
-{8f#
-8g
-8a
-8a
-=17
-8a
-8a
-4a
-=18
-8a
-8a
-4a
-=19
-8d
-8f#
-8g
-8g
-=20
-8d
-8f#
-4g}
-==
-*-
+=16	=16
+{8f#	za-
+8g	-rzu-
+8a	-cę
+8a	ja
+=17	=17
+8a	ru-
+8a	-cia-
+4a	-ny
+=18	=18
+8a	wia-
+8a	-ne-
+4a	-cek
+=19	=19
+8d	na
+8f#	strzechę
+8g\L	.
+8g\J	.
+=20	=20
+8d	na
+8f#	strze-
+4g}	-chę.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Zrobię ja téj swéj matusi
+!!uciechę, uciechę—
+!!zarzucę ja ruciany wianecek
+!!na strzechę, na strzechę.
+!!@VERSE:
+!!2. Zrobię ja téj swéj matusi
+!!cięzki zal, cięzki zal —
+!!zarzucę ja ruciany wianecek
+!!kady nigdy nie lezał.
+!!@VERSE:
+!!3. Oj nie wiedziała, co robić miała
+!!od myśli, od myśli —
+!!zabacyła swój ruciany wianecek
+!!na wiśni, na wiśni.
+!!@VERSE:
+!!4. Oj nie wiedziała, co robić miała
+!!od zalu, od zalu —
+!!zabacyła swój ruciany wianecek
+!!na polu, na polu.
+!!—
+!!@VERSE:
+!!5. Nie cięzał ci ruciany wianecek
+!!choć go było kępecka (kupka, spora ilość),
+!!a teraz ci cięzy niciany cepecek
+!!choć go tylko siatecka.
+!!—
+!!@VERSE:
+!!6. Niechciało ci się rutki siać
+!!kazałaś se cepiec wdziać.
+!!Nie chciało ci sie w rucianym,
+!!chodź se teraz w nicianym.
+!!—
+!!@VERSE:
+!!7. Siądź Basieniu, siądź;
+!!trzeba wianecek zdjąć.
+!!Posukajcie stołecka
+!!dla rucianego wianecka.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: The bridesmaids sing
+!!@@END:
+!!!role-singer: Narrator
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=50 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 39} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 39}
 !!!page: 39
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-24

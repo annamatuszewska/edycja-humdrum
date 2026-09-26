@@ -3,48 +3,80 @@
 !!!source: DWOK02
 !!!id: K0061
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8b
-8b
-8a
-=2
-8cc
-8dd
-8b
-=
-4cc
-24b
-24a
-24f#
-=3
-4.g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8b	Ja-
+8b	-wo-
+8a\	-ro-
+=2	=2
+8cc	-we
+(8ddL	drze-
+8bJ)	.
+=3	=3
+4cc	-wo
+24b/L	ma-
+24a	.
+24f#J	.
+=4	=4
+4.g}	-cie
 !!LO:LB:g=esac
-=4
-{8b
-8b
-16b
-16a
-=5
-8cc
-8dd
-8b
-=
-4cc
-24b
-24a
-24f#
-=6
-4g}
-8r
-==
-*-
+=5	=5
+{8b/	nie-
+8b/	-ry-
+16b/L	-chło
+16aJ	.
+=6	=6
+8cc	nas
+8ddL	za-
+8bJ	.
+=7	=7
+4cc	-sa-
+24b/L	-dza-
+24a	.
+24f#J	.
+=8	=8
+4g}	-cie,
+8r	_
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Jaworowe stoły macie
+!!nierychło nas zasadzacie;
+!!@VERSE:
+!!2. Jaworowe a nie nowe
+!!u Marysie są gotowe.
+!!@VERSE:
+!!3. Nakrywajcie stoły, ławy
+!!bielonemi obrusami.
+!!@VERSE:
+!!4. Oj rzędem gości sadzajcie
+!!oj kogo nimas, sukajcie.
+!!@VERSE:
+!!5. Oj sukajciez go po sieni
+!!da by nam cego nie wzieni.
+!!@VERSE:
+!!6. Bo i swoim nietrza wierzyć
+!!bo niedadzą nic połozyć.
+!!@VERSE:
+!!7. Oj rzędem rzędem, rzędzikiem,
+!!za tym nowym stolikiem.
+!!@VERSE:
+!!8. Oj rzędem, rzędem, rzędoma,
+!!za obiema stołoma.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: Parents sit at the wedding table
+!!@@END:
+!!!role-singer: Parents
+!!!singer-sex: Male, Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=73 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 62-63} @EN{Oskar Kolberg Complete Works 2: Sandomierz, pp. 62-63}
 !!!page: 62-63
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-25

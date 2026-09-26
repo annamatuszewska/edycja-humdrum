@@ -3,43 +3,73 @@
 !!!source: DWOK02
 !!!id: K0003
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16a
-8b
-8cc
-=2
-8b
-4dd
-=3
-16dd
-16ee
-8dd
-8cc
-=4
-8b
-4a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	A
+16a	cy-
+8b	-li
+8cc	mi
+=2	=2
+8b	we-
+4dd	-sła
+=3	=3
+16dd	cy-
+16ee	-li
+8dd	mi
+8cc	nie
+=4	=4
+8b	we-
+4a}\	-sła
 !!LO:LB:g=esac
-=5
-{16g
-16a
-8b
-8cc
-=6
-8a
-4dd
-=7
-8g}
-4r
-==
-*-
+=5	=5
+{16g	mo-
+16a	-ja
+8b	ru-
+8cc	-tka
+=6	=6
+8a\	w_o-
+4dd	-gro-
+=7	=7
+!LO:TX:a:t=Podczas śpiewu skrzypek (wesołuch) przygrywa już do tańca &colon; (4)	!
+8g}	-dzie.
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A cyli mi wesła
+!!cyli mi nie wesła
+!!moja rutka w ogrodzie?
+!!A z cegoż ja sobie
+!!wianecek uwię
+!!az mój Jasiń przyjedzie.
+!!@VERSE:
+!!2. Choćby rutki kupić
+!!a wianecek uwić,
+!!Jasieniowi darować!
+!!bo Jasień jedyny
+!!pojedzie do innéj,
+!!i będzie ją sanować.
+!!@VERSE:
+!!3. A jakeś mi mawiał
+!!kiedyś mnie namawiał
+!!mówiłeś mi: mojaś ty!
+!!a teraz mnie bijes
+!!co dzień się upijes,
+!!i wołas mi: cicho ty!
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: The bridesmaids sing
+!!@@END:
+!!!role-singer: Narrator
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=35 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 24} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 24}
 !!!page: 24
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-21

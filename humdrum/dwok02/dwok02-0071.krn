@@ -3,69 +3,90 @@
 !!!source: DWOK02
 !!!id: K0071
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*d:
-*M3/8
-=1
-{8dd
-8dd
-8ff
-=2
-8ee
-4dd
-=3
-8cc
-8dd
-8cc
-=4
-8b-
-4a}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*d:	*
+*M3/8	*
+=1	=1
+{8dd	Za-
+8dd	-wo-
+8ff	-łaj-
+=2	=2
+8ee	-cie
+4dd	tu
+=3	=3
+8cc	ma-
+8dd	-tu-
+8cc	-si
+=4	=4
+8b-	mo-
+4a}	-ij
 !!LO:LB:g=esac
-=5
-{8dd
-8dd
-8ff
-=6
-8ee
-4dd
-=7
-8cc
-8dd
-8cc
-=8
-8b-
-4a}
+=5	=5
+{8dd	niech-
+8dd	-ze
+8ff	tu
+=6	=6
+8ee	przyj-
+4dd	-dzie,
+=7	=7
+8cc	niech
+8dd	sie
+8cc	nie-
+=8	=8
+8b-	-bor,
+4a}	.
 !!LO:LB:g=esac
-=9
-{16f
-16g
-8a
-8b-
-=10
-4cc
-8dd
-=11
-8dd
-8cc
-8a}
+=9	=9
+{16f	niech
+16g	ta-
+8a	-la-
+8b-/	-ra
+=10	=10
+4cc	od
+8dd	za-
+=11	=11
+8dd	-łu-
+(8cc	-je
+8a\)}	.
 !!LO:LB:g=esac
-=12
-{16f
-16g
-8a
-8b-
-=13
-4cc
-8dd
-=14
-8b-
-4a}
-==
-*-
+=12	=12
+{16f	na
+16g	cep-
+8a	-cyk
+8b-	mi
+=13	=13
+4cc	po-
+8dd	-da-
+=14	=14
+8b-	-ru-
+!LO:TX:a:t=(tak się wzywa i braciska, siostrzyckę i t. d.)	!
+4a}	-je.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Zawołajciez tu matusi moij
+!!niech talara od załuje
+!!na cepcyk mi podaruje.
+!!@VERSE:
+!!1. Zawołajciez tu matuli moji
+!!niechze tu przyjdzie, niech sie niebor;
+!!niech talara odzałuje
+!!na cepcyk mi podaruje.
+!!@VERSE:
+!!2. Zawołajciez tu tatula mego
+!!niech sie nie lęka wianecka mego,
+!!niech talara odzałuje
+!!na cepcyk mi podaruje.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!role-listener: Group
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=79 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 68} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 68}
 !!!page: 68
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-25

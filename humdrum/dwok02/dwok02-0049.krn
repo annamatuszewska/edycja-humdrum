@@ -3,43 +3,162 @@
 !!!source: DWOK02
 !!!id: K0049
 !!!signature:
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M3/8
-=1
-{16a
-16a
-8cc#
-8dd
-=2
-8ee
-4cc#
-=3
-16dd
-16ee
-8dd
-8cc#
-=4
-8dd
-4dd}
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M3/8	*
+=1	=1
+{16a	Oj
+16a	co
+8cc#	się
+8dd	to
+=2	=2
+8ee	sta-
+4cc#	-ło
+=3	=3
+16dd	tym
+16ee	na-
+8dd	-sym
+8cc#	Go-
+=4	=4
+8dd	-rza-
+4dd}	-nom
 !!LO:LB:g=esac
-=5
-{16a
-16b
-8cc#
-8a
-=6
-8dd
-8dd
-8cc#
-=7
-4.a}
-==
-*-
+=5	=5
+{16a	co
+16b/	ich
+8cc#	do
+8a	nas
+=6	=6
+8dd	nie
+(8ddL	wi-
+8cc#J)	.
+=7	=7
+!LO:TX:a:t=Wesołuch (skrzypek) gra do rózgi&colon; (we wsi Góry-wysokie) (50a).	!
+4.a}	-dać?
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj co się to stało
+!!tym nasym Gorzanom
+!!co ich do nas nie widać?
+!!My wianek uwiły,
+!!pięknie ustroiły,
+!!nie mamy go komu dać.
+!!@VERSE:
+!!2. Pośli oni na wieś,
+!!pośli na chałupy,
+!!oj i siedzą i siedzą—
+!!gorzały im dali,
+!!placka nakrajali,
+!!oj i jedzą i jedzą.
+!!@VERSE:
+!!3. Poleciał ci ptasek
+!!w kalinowy lasek.
+!!piórka na nim zadrzały—
+!!uwazyć se było
+!!Maryśiu jedyna,
+!!miałaś ci cas nie mały.
+!!@VERSE:
+!!4. Dyć ja uwazała
+!!dyć ja ozmyślała,
+!!matula mi nie dała;
+!!a jak ci mi bedzie
+!!cięzka niewolicka,
+!!będe na nich płakała.
+!!—
+!!@VERSE:
+!!5. Oj chynie, chynie (uwija się)
+!!ptasek po olsynie
+!!oj nieborak, nieborak—
+!!oj lepsy, lepsy
+!!parobecek ze wsi,
+!!oj niz dworak, niz dworak.
+!!@VERSE:
+!!6. Bo u parobecka
+!!z piórami capecka
+!!ej i zupan i zupan—
+!!a u dworzanina
+!!bura sukmanina,
+!!ej jużci pan, južci pan!
+!!@VERSE:
+!!7. Ze wsi parobecek
+!!zrobi se płuzecek
+!!ej i orze i orze—
+!!dworskie parobcysko
+!!nikiéj stare psisko
+!!wychowane przy dworze.
+!!@VERSE:
+!!8. Oj wedle młyna
+!!zielona jedlina,
+!!liście chrzeboscą (szeleszczą)
+!!oj idzie za mąz
+!!nadobna Marysia
+!!oj ludzie jéj zazdroscą.
+!!@VERSE:
+!!9. Oj wedle ogroda
+!!rośnie łoboda,
+!!oj rośnie bez, rosnie bez—
+!!Sanuj ze mnie, sanuj
+!!nadobny Jasieniu,
+!!oj niźli (jeśli) chces,niźli chces
+!!@VERSE:
+!!10. Wedle ogródecka
+!!biją źródełecka,
+!!oj bije dwie, bije dwie,—
+!!nie sanuj ze innyj
+!!Jasieniu jedyny
+!!oj ino mnie, ino mnie.
+!!@VERSE:
+!!11. Wedle ogródecka
+!!biją źródełecka
+!!oj bije seść, bije seść —
+!!oj sanuj mnie sanuj
+!!nadobny Jasieniu
+!!oj jako mać, jak swą mać.
+!!@VERSE:
+!!12. Koniki stoją,
+!!siana nie mają,
+!!oj goły złób, goły złób —
+!!Nie turbuj ze sie
+!!moja Marysiu,
+!!oj ino rób, ino rób.
+!!@VERSE:
+!!13. Ty koniku kary,
+!!nie miałeś ty trawy
+!!na tym górskim gościńcu —
+!!serce mi sie kraje,
+!!płac mi sie udaje
+!!jak małemu dziecięciu.
+!!—
+!!@VERSE:
+!!14. Oj halu, halu
+!!Maryś koralu,
+!!oj cego sie oglądas?
+!!Słonka na niebie,
+!!Jasieniu ciebie
+!!oj bo mi sie podobas.
+!!@VERSE:
+!!15. Oj halu, halu,
+!!ślicny koralu
+!!oj na syję,. na syję—
+!!oj poznam ja cie
+!!nadobna Marysiu
+!!oj o milę, o milę.
+!!@VERSE:
+!!16. Oj halu, halu
+!!Maryś koralu
+!!oj z cego wianecek mas?
+!!Oj z ruty, z ruty
+!!Jasieniu głupi,
+!!oj cego mnie sie pytas?
+!!@@END: VERSES
+!!!role-singer: Many characters, Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=62 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 51} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 51}
 !!!page: 51
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-25

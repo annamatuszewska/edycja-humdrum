@@ -3,42 +3,57 @@
 !!!source: DWOK02
 !!!id: K0025
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{16g
-16b
-8cc
-8dd
-8ee
-=2
-8dd
-8dd
-16cc
-16b
-16a
-16g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{(16g	Oj
+16b)	a
+8cc	z_za-
+8dd	-sto-
+8ee	-la
+=2	=2
+8dd	dru-
+8dd	-zy-
+16ccL	-ne-
+16bJ	.
+16aL	-cka
+16g}J	.
 !!LO:LB:g=esac
-=3
-{8cc
-8b
-4dd
-=4
-2a
-=5
-4a
-8b
-8f#
-=6
-4g}
-4r
-==
-*-
+=3	=3
+{(8ccL	z_za-
+8b)J	.
+4dd	-sto-
+=4	=4
+2a	-la
+=5	=5
+4a	z_za-
+8b/L	-sto-
+8f#J	.
+=6	=6
+4g}	-la.
+!LO:TX:a:t=Jak tylko pierwsze danie zjedzono, druchny zaczynają śpiewać, wzywając skrzypka (wesołucha) do grania (26)&colon;	!
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj a z zastola druzynecka
+!!z zastola, z zastola,
+!!a niechze będzie panna młoda
+!!wesoła, wesoła.
+!!@VERSE:
+!!2. A niechze się pannamłoda
+!!weseli, weseli
+!!a jako w niebie weselą sie
+!!anieli, anieli.
+!!@@END: VERSES
+!!!role-singer: Wedding guests
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=46 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 35} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 35}
 !!!page: 35
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-23

@@ -3,54 +3,96 @@
 !!!source: DWOK02
 !!!id: K0062
 !!!signature:
-**kern
-*clefG2
-*k[b-e-]
-*g:
-*M2/4
-=1
-{8dd
-8dd
-8dd
-8dd
-=2
-8cc#
-8cc#
-8.dd
-16a
-=3
-8b-
-8cc
-8dd
-8cc
-=4
-8b-
-8a
-4g}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*g:	*
+*M2/4	*
+=1	=1
+{8dd	Pro-
+8dd	-si-
+8dd	-li
+8dd	nas
+=2	=2
+8cc#	na
+8cc#	we-
+8.dd;	-se-
+16a	-le
+=3	=3
+8b-	na
+8cc	ba-
+8dd	-ra-
+8cc	-nie
+=4	=4
+8b-/L	ki-
+8aJ	.
+4g}	-ski,
 !!LO:LB:g=esac
-=5
-{8a
-8g
-8f#
-8f#
-=6
-8g
-8a
-8b-
-8b-
-=7
-8cc
-8cc
-8dd
-8cc
-=8
-8b-
-8a
-4g}
-==
-*-
+=5	=5
+{8a	je-
+8g	-dli-
+8f#	-byś-
+8f#	-my,
+=6	=6
+8g	pi-
+8a	-li-
+8b-	-byś-
+8aq	.
+8b-	-my,
+=7	=7
+8cc	nie
+8cc	da-
+8dd	-li
+8cc	nam
+=8	=8
+8b-/L	ły-
+8aJ	.
+!LO:TX:a:t=Po obiedzie zawodzą starościny przy stole (63)&colon;	!
+4g}	-zki.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Prosili nas na wesele
+!!na baranie kiski,
+!!jedlibyśmy, pilibyśmy,
+!!nie dali nam łyzki.
+!!@VERSE:
+!!2. Prosili nas na wesele
+!!na ten barani gnat,
+!!z jednyj strony opalony
+!!z drugiéj kucharz objadł.
+!!@VERSE:
+!!3. Prosili nas na wesele,
+!!zabili barana,
+!!druchenecki zjadły mięso,
+!!druzbowie kolana.
+!!@VERSE:
+!!4. Prosili nas na wesele,
+!!zabili nam byka,
+!!druchenecki zjadły pieceń
+!!druzbowie lelita (wnętrzności)
+!!@VERSE:
+!!5. Prosili nas na wesele
+!!zabili nam boćka (bociana)
+!!druchenecki zjadły ogon
+!!a druzbowie ocka.
+!!—
+!!@VERSE:
+!!6. Świnia wilka potrąciła
+!!słomianą ruślicą (powrósłem)
+!!a kukułka groch młóciła
+!!na piecu przęślicą.
+!!@VERSE:
+!!7. Sowa piwa nawarzyła
+!!w kręzelowyj dziurze (do przędzenia)
+!!a kukułka groch młóciła
+!!w cérwonym kapturze.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=74 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 63} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 63}
 !!!page: 63
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-25

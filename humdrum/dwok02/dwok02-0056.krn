@@ -3,45 +3,105 @@
 !!!source: DWOK02
 !!!id: K0056
 !!!signature:
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/4
-=1
-{4a
-4cc#
-4a
-=2
-4cc#
-4dd
-4dd
-=3
-4cc#
-2dd
-=4
-2a}
-4r
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*A:	*
+*M3/4	*
+=1	=1
+{4a\	Bło-
+4cc#	-go-
+4a\	-sław
+=2	=2
+4cc#	nas
+4dd	ma-
+4dd	-tko
+=3	=3
+4cc#	mo-
+(2dd	.
+=4	=4
+2a)}	-ja,
+4r	.
 !!LO:LB:g=esac
-=5
-{4cc#
-4cc#
-4a
-=6
-4cc#
-4dd
-4ee
-=
-2dd
-12cc#
-12b
-12cc#
-=7
-2.b}
-==
-*-
+=5	=5
+{4cc#	bo
+4cc#	i-
+4a\	-dzie-
+=6	=6
+4cc#	-my
+4dd	do
+4ee	ko-
+=7	=7
+(2dd	-ścio-
+*Xtuplet	*
+12cc#L	.
+12b	.
+12cc#J)	.
+=8	=8
+2.b}	-ła.
+=9	=9
+{4a\	Do
+4cc#	ko-
+4a\	-ścio-
+=10	=10
+4cc#	-ła
+4dd	do
+4dd	Bo-
+=11	=11
+4cc#	-ze-
+(2dd	-go
+=12	=12
+2a)}	.
+4r	.
+!!LO:LB:g=esac
+=13	=13
+{4cc#	i
+4cc#	do
+4a\	sta-
+=14	=14
+4cc#	-nu
+4dd	mał-
+4ee	-zeń-
+=15	=15
+(2dd	-skie-
+12cc#L	.
+12b	.
+12cc#J)	.
+=16	=16
+2.b}	-go.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Błogosław nas matko moja,
+!!bo idziemy do kościoła.
+!!Do kościoła do Bozego
+!!i do stanu małzeńskiego.
+!!@VERSE:
+!!2. Prowadź ze nas panie Boze
+!!do kościoła przed ołtarze.
+!!Ostań z Bogiem sienny progu,
+!!idę za mąz chwała Bogu.
+!!@VERSE:
+!!3. Ostań z Bogiem i powała
+!!pod tobą'm sie wychowała.
+!!Ostańcie z Bogiem i okna,
+!!przy was sobie'm warkoc plotła.
+!!@VERSE:
+!!4. Ostańcie z Bogiem i ławy,
+!!mywałam was cas niemały.
+!!Ostań z Bogiem i kominku
+!!ostanies mi w zapominku.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: Bridesmaids and Matchmakers Sing
+!!@@END:
+!!!role-singer: Groom and Bride
+!!!role-listener: Mother
+!!!singer-sex: Female, Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=71 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 60} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 60}
 !!!page: 60
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-25

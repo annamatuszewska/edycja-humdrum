@@ -5,26 +5,26 @@
 !!!signature:
 **kern
 *clefG2
-*k[b-e-a-]
+*k[]
 *c:
 *M3/8
 =1
-{16dd
-16ff#
-8dd
-8ff#
+{16ddL
+16ff#J
+(8ddL
+8ff#)J
 =2
 4gg
 8ff#
 =3
-16ee-
-16dd
-8cc
-8b
+16ee-wL
+16ddJ
+8ccL
+8bJ
 =4
 8cc
-8dd
-8cc}
+(8ddLM
+8ccJ)}
 !!LO:LB:g=esac
 =5
 {4g
@@ -33,13 +33,13 @@
 4cc
 8dd
 =7
-16ff
-16ee-
-8dd
-8cc
+16ffL
+16ee-J
+8ddL
+8ccJ
 =8
-16b
-16g
+16b/L
+16gJ
 4cc}
 ==
 *-
@@ -49,3 +49,5 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=85 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 74} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 74}
 !!!page: 74
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-26

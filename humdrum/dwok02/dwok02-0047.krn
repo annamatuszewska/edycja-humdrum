@@ -3,64 +3,81 @@
 !!!source: DWOK02
 !!!id: K0047
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16b
-16cc
-8dd
-8dd
-=2
-16dd
-16ee
-8dd
-8cc
-=3
-16b
-16g
-8a
-8f#
-=4
-8g
-8d}
-8r
+**kern	**text	**text
+*clefG2	*	*
+*k[f#]	*	*
+*G:	*	*
+*M3/8	*	*
+=1	=1	=1
+{16b	Łą-	Łą-
+16cc	-cki	-cki
+8dd	i-	i-
+8dd	-no	-no
+=2	=2	=2
+16dd	kraj	brzeg
+16ee	da	da
+8dd	da-	da-
+8cc	-na	-na
+=3	=3	=3
+16b/	łą-	łą-
+16g	-cki	-cki
+8a	i-	i-
+8f#	-no	-no
+=4	=4	=4
+(8g	kraj,	brzeg,
+8d)}	.	.
+8r	.	.
 !!LO:LB:g=esac
-=5
-{16f#
-16g
-8a
-8a
-=6
-16b
-16dd
-8dd
-8cc
-=7
-16b
-16b
-8a
-8f#
-=8
-16g
-16b
-8dd
-8cc
-=9
-16b
-16b
-8a
-8f#
-=10
-8g
-8d}
-8r
-==
-*-
+=5	=5	=5
+{16f#	ra-	ra-
+16g	-da-	-da-
+8a	-bym	-bym
+8a	cię	cię
+=6	=6	=6
+16b	o-	o-
+16dd	-pu-	-pu-
+8dd	-ści-	-ści-
+8cc	-ła,	-ła,
+=7	=7	=7
+16b/	a-	a-
+16b/	-le	-le
+8a	mi	po-
+8f#	cię	-no
+=8	=8	=8
+16g	zal	grzech
+16b	da	da
+8dd	da-	da-
+8cc	-na,	-na,
+=9	=9	=9
+16b	a-	a-
+16b	-le	-le
+8a	mi	po-
+8f#	cię	-no
+=10	=10	=10
+8gL	zal.	grzech.
+8d}J	.	.
+8r	.	.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. Łącki ino kraj da dana
+!!łącki ino kraj,
+!!radabym cię opuściła,
+!!ale mi cię zal da dana,
+!!ale mi cię zal.
+!!@VERSE:
+!!2. Łącki ino brzeg da dana
+!!łącki ino brzeg.
+!!Radabym cię opuściła,
+!!ale pono grzech da dana,
+!!ale pono grzech.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=62 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 51} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 51}
 !!!page: 51
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-25

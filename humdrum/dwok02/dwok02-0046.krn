@@ -3,68 +3,108 @@
 !!!source: DWOK02
 !!!id: K0046
 !!!signature:
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M3/8
-=1
-{8a
-8cc#
-8dd
-=2
-8ee
-4cc#
-=3
-8dd
-8dd
-8cc#
-=4
-8dd
-4dd}
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M3/8	*
+=1	=1
+{8a	Oj
+8cc#	zle-
+8dd	-cia-
+=2	=2
+8ee	-ły
+4cc#	się
+=3	=3
+8dd	si-
+8dd	-we
+8cc#	go-
+=4	=4
+8dd	-łę-
+4dd}	-bie
 !!LO:LB:g=esac
-=5
-{16a
-16b
-8cc#
-8a
-=6
-8dd
-8dd
-8cc#
-=7
-4.a}
+=5	=5
+{16a	i
+16b/	gru-
+8cc#	-cha-
+8a	-ją
+=6	=6
+8dd	gru-
+(8ddL	-cha-
+8cc#)J	.
+=7	=7
+4.a}	-ją
 !!LO:LB:g=esac
-=8
-{8a
-8cc#
-8dd
-=9
-8ee
-4cc#
-=10
-8dd
-8dd
-8cc#
-=11
-8a
-4g}
+=8	=8
+{8a	Gór-
+8cc#	-scy
+8dd	pa-
+=9	=9
+8ee	-ro-
+4cc#	-bcy
+=10	=10
+8dd	bo-
+8dd	-ga-
+8cc#	-tych
+=11	=11
+8a	dzie-
+4g}	wek
 !!LO:LB:g=esac
-=12
-{16a
-16b
-8cc#
-8a
-=13
-8dd
-8dd
-8cc#
-=14
-4.a}
-==
-*-
+=12	=12
+{16a	oj
+16b/	su-
+8cc#	-ka-
+8a	-ją
+=13	=13
+8dd	su-
+(8ddL	-ka-
+8cc#J)	.
+=14	=14
+4.a}	-ją.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Ozleciały się siwe gołębie
+!!i gruchają gruchają—
+!!Górscy parobcy bogatych dzie
+!!wek oj sukają sukają.
+!!@VERSE:
+!!2. Pośli do Dzwikóz, (1) gonią stado kóz,
+!!oj rogate, rogate—
+!!kozy rogate, dziéwki bogate,
+!!oj niezgrabne, niezgrabne.
+!!oj a na Górach, choć uboziuchne,
+!!oj to ładne, to ładne.
+!!@VERSE:
+!!3. Ozleciały sie siwe gołębie
+!!oj po niwie, po niwie—
+!!oj poznam ci ja swoją dziewcynę
+!!oj po minie, po minie.
+!!@VERSE:
+!!4. Ozleciały sie siwe gołębie
+!!oj po polu, po polu—
+!!oj poznam ci ja swoją dziewcynę
+!!oj po stroju, po stroju.
+!!@VERSE:
+!!5. Ozleciały sie siwe gołębie
+!!oj po prosie, po prosie—
+!!oj poznam ci ja swoją dziewcyne
+!!oj po głosie, po głosie.
+!!@VERSE:
+!!6. Ozleciały sie siwe gołębie
+!!oj po dębie, po dębie—
+!!oj poznam ci ja swoją dziewcyne
+!!oj po gębie, po gębie.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: (1) wieś Dwiekozy lub Dzwikozy.
+!!@@END:
+!!!role-singer: Lover
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=61 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 50} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 50}
 !!!page: 50
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-24

@@ -3,75 +3,88 @@
 !!!source: DWOK02
 !!!id: K0069
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*d:
-=1
-{4dd
-4dd
-4ff
-=2
-*M3/4
-4ee
-2dd
-=3
-8cc#
-8dd
-4cc
-4b-
-=4
-2.a}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*d:	*
+=1	=1
+{4dd	Oj
+4dd	chmie-
+4ff	-lu,
+=2	=2
+*M3/4	*
+4ee	chmie-
+2dd	-lu,
+=3	=3
+8cc#	ty
+8dd	buj-
+4cc	-ne
+4b-	zie-
+=4	=4
+2.a}	-le,
 !!LO:LB:g=esac
-=5
-{4dd
-4dd
-4ff
-=6
-4ee
-2dd
-=7
-8cc#
-8dd
-4cc
-4b-
-=8
-2.a}
+=5	=5
+{4dd	nie
+4dd	bę-
+4ff	-dzie
+=6	=6
+4ee	przez
+2dd	cie
+=7	=7
+8cc#	za-
+8dd	-dne
+4cc	we-
+4b-	-se-
+=8	=8
+2.a}	-le.
 !!LO:LB:g=esac
-=9
-*M3/8
-{8cc
-16b-
-16a
-8g
-=10
-16cc
-16cc
-16b-
-16a
-8g
-=11
-8cc
-16b-
-16a
-8g
-=12
-16a
-16cc
-16b-
-16a
-8g
-=13
-16a
-16cc
-8b-
-8g
-=14
-4a}
-==
-*-
+=9	=9
+*M3/8	*
+{8cc	Oj
+16b-L	chmie-
+16a\J	.
+8g	-lu
+=10	=10
+16cc	oj
+16cc	nie-
+16b-/L	-bo-
+16aJ	.
+8g	-że
+=11	=11
+8cc	to
+16b-/L	na
+16aJ	.
+8g	dół
+=12	=12
+16a\	to
+16cc	po
+16b-/L	gó-
+16aJ	.
+8g	-rze
+=13	=13
+16a\	chmie-
+16cc	-lu
+8b-	nie-
+8g	-bo-
+=14	=14
+!LO:TX:a:i:t=patrz N. 30.(70)	!
+4a}	-że
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oj chmielu, chmielu,
+!!ty bujne ziele,
+!!nie będzie przez cie
+!!zadne wesele.
+!!Oj chmielu oj nieboże
+!!to na dół to po górze
+!!chmielu nieboże
+!!@@END: VERSES
+!!!role-singer: Narrator 
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=78 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 67} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 67}
 !!!page: 67
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-25
