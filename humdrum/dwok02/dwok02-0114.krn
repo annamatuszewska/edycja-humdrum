@@ -3,65 +3,76 @@
 !!!source: DWOK02
 !!!id: K0114
 !!!signature:
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M3/8
-=1
-{16d
-16e
-8f#
-8g
-=2
-16e
-16f#
-8e
-8d
-=3
-8.f#
-16e
-16f#
-16g
-=4
-16a
-16b
-4a
-=5
-8.f#
-16e
-16f#
-16g
-=6
-16a
-16b
-4a}
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M3/8	*
+=1	=1
+{16d	We-
+16e	-se-
+8f#	-le
+8g	to
+=2	=2
+16e	tu
+16f#	ma-
+8e	-tu-
+8d	-lu
+=3	=3
+8.f#	da
+16e	i
+16f#	we-
+16g	-se-
+=4	=4
+16aL	-li-
+16b/J	.
+4a	-sko.
+=5	=5
+8.f#	da
+16e	i
+16f#	we-
+16g	-se-
+=6	=6
+16aL	-li-
+16b/J	.
+4a}	-sko.
 !!LO:LB:g=esac
-=7
-{16e
-16g
-8g
-8b
-=8
-16a
-16g
-16e
-16d
-8f#
-=9
-8.a
-16b
-16e
-16f#
-=10
-16d
-16c#
-8d}
-8r
-==
-*-
+=7	=7
+{16e	u-
+16g	-ciesz-
+8g	-cie
+8b/	sie
+=8	=8
+16a	wsy-
+16g	-scy
+16eLM	lu-
+16dJ	.
+8f#	-dzie
+=9	=9
+8.a	da
+16b/	i
+16e	ty
+16f#	sio-
+=10	=10
+16dL	-strzy-
+16c#J	.
+8d}	-cko.
+!LO:TX:a:t=Grajek gra później to samo w 2/4 takcie t. j. biorąc po cztery równéj prędkości nuty.	!
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Wesele to tu matulu
+!!da i weselisko.
+!!ucieszcie sie wsyscy
+!!ludzie da i ty siostrzycko.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!role-listener: Mother
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=97 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 86} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 86}
 !!!page: 86
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-29

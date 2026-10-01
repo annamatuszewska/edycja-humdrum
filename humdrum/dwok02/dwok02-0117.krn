@@ -3,42 +3,112 @@
 !!!source: DWOK02
 !!!id: K0117
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8gg
-8gg
-8ff
-8ee
-4ff
-=2
-4gg
-4dd
-8dd
-8ee
-=3
-8ff
-8ee
-4dd
-8ff
-8ee}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8gg	Oj
+8gg	cy-
+8ff	-li
+8ee	mi
+4ff	we-
+=2	=2
+4gg	-sła,
+4dd	oj
+8dd	cy-
+8ee	-li
+=3	=3
+8ff	mi
+8ee	nie
+4dd	we-
+8ffL	-sła
+8ee}J	.
 !!LO:LB:g=esac
-=4
-{8gg
-8gg
-8ff
-8ee
-4ff
-=5
-2gg
-4cc}
-==
-*-
+=4	=4
+{8gg	ja-
+8gg	-ra
+8ff	ru-
+8ee	-tka
+4ff	w_ogrodzie.
+=5	=5
+2gg;	.
+4cc}	.
+=6	=6
+{8gg	Trze-
+8gg	-ba
+8ff/L	ru-
+8ee/J	-tki
+4ff	ku-
+=7	=7
+4gg	-pić
+4dd	i
+8dd	wia-
+8ee	-ne-
+=8	=8
+8ff/L	-cek
+8ee/J	uwić
+4dd	Ja-
+8ffL	-sie-
+8ee}J	.
+!!LO:LB:g=esac
+=9	=9
+{8gg	-nio-
+8gg	-wi
+8ff/L	da-
+8ee/J	.
+4ff	-ro-
+=10	=10
+2gg;	-wać.
+!LO:TX:a:t=Po przybyciu starostów (117)&colon;	!
+4cc}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj cyli mi wesła,
+!!oj cyli mi nie wesła
+!!jara rutka w ogrodzie.
+!!Trzeba rutki kupić
+!!i wianecek uwić —
+!!Jasieniowi darować.
+!!Bo Jasio najmilsy
+!!pojedzie do insyi
+!!ta będzie go sanować.
+!!@VERSE:
+!!2. Oj rozleciały sie
+!!te siwe gawrysie, (gołębie)
+!!oj po dębach, po dębach —
+!!oj poznać ci to poznać,
+!!rytwiańskich parobków
+!!oj po gębach, po gębach (lub po zębach)
+!!@VERSE:
+!!3. Oj rozleciały się
+!!te siwe gabrysie
+!!oj po ściezkach, po ściezkach—
+!!oj poznać ci to poznać
+!!rytwiańskich parobków,
+!!oj po pyskach, po pyskach.
+!!@VERSE:
+!!4. Oj wysiałem tatarki,
+!!do półtory miarki
+!!oj pod dębem, pod dębem —
+!!pozbierała mi ją
+!!siwa gołębica
+!!da z gołębiem, z gołębiem.
+!!@VERSE:
+!!5. Oj duś duś duś,
+!!siwa gołębico,
+!!oj do sieni, do sieni —
+!!oj mam ja dla ciebie
+!!te jarą pszenickę
+!!oj w kieseni, w kieseni.
+!!@@END: VERSES
+!!!role-singer: Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=98 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 87} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 87}
 !!!page: 87
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-29

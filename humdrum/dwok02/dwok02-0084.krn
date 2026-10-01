@@ -3,70 +3,89 @@
 !!!source: DWOK02
 !!!id: K0084
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8b
-8a
-8b
-8cc
-=2
-4dd
-8dd
-8b
-=3
-2cc}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8b/L	Oj
+8aJ	.
+8b	dru-
+8cc	-zbo-
+=2	=2
+4dd	-wie
+8ddL	mi-
+8bJ	.
+=3	=3
+2cc}	-li,
 !!LO:LB:g=esac
-=4
-{8b
-8a
-8b
-8cc
-=5
-4dd
-8dd
-8b
-=6
-2cc}
+=4	=4
+{8b/L	gdzie-
+8aJ	.
+8b	-ześ-
+8cc	-cie
+=5	=5
+4dd	je-
+8ddL	-ździ-
+8bJ	.
+=6	=6
+2cc}	-li?
 !!LO:LB:g=esac
-=7
-{8b
-8a
-8b
-8cc
-=8
-4dd
-8dd
-8b
-=9
-8cc
-8b
-8a
-8dd
-=10
-8b
-8f#
-4g}
+=7	=7
+{8b/	oj
+8a	je-
+8b	-ździ-
+8cc	-li-
+=8	=8
+4dd	-śmy
+8ddL	w_świat
+8bJ	.
+=9	=9
+8cc	oj
+8b	po
+8a\	ró-
+8dd	-zo-
+=10	=10
+8b/L	-wy
+8f#J	.
+4g}	kwiat
 !!LO:LB:g=esac
-=11
-{8b
-8a
-8b
-8dd
-=
-4cc
-12b
-12a
-12f#
-=12
-2g}
-==
-*-
+=11	=11
+{8b/L	oj
+8aJ	.
+8b	po
+8dd	ró-
+=12	=12
+4cc	-zo-
+*Xtuplet	*
+12b/L	-wy
+12a	.
+12f#J	.
+=13	=13
+!LO:TX:a:t=Drużbowie tańczą z druchnami, gdy starosta za stołem pije.	!
+2g}	kwiat.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj druzbowie mili,
+!!gdziezeście jeździli?
+!!@VERSE:
+!!2. Oj jeździliśmy w świat
+!!oj po rózowy kwiat.
+!!@VERSE:
+!!3. Po chusteckę po jedwabną
+!!po Kasienię po nadobną.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: Women singing
+!!@@END:
+!!!role-singer: Narrator
+!!!role-listener: Best men
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=85 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 74} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 74}
 !!!page: 74
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-29

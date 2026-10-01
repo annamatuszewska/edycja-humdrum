@@ -3,81 +3,161 @@
 !!!source: DWOK02
 !!!id: K0150
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16a
-8b
-8b
-=2
-16b
-16b
-8g
-16a
-16b
-=
-24dd
-24cc
-24b
-8a
-8d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Od
+16a	Kra-
+8b	-ko-
+8b	-wa
+=2	=2
+16b	car-
+16b	-na
+8g	chmu-
+16aL	-ra,
+16b/J	.
+=3	=3
+*Xtuplet	*
+24ddL	desc
+24cc	.
+24bJ	.
+8a	le-
+8d}	-je,
 !!LO:LB:g=esac
-=3
-{16d
-16f#
-8g
-8g
-=4
-16g
-16g
-8e
-8e
-=
-24e
-24f#
-24g
-8a
-8d}
+=4	=4
+{16d	a
+16f#	gdzie
+8g	ja-
+8g	-sie
+=5	=5
+16g	nie-
+16g	-bo-
+8e	-ra-
+8e	-cek
+=6	=6
+24eL	po-
+24f#	.
+24gJ	.
+8a	-dzie-
+8d}	-ję?
 !!LO:LB:g=esac
-=5
-{16g
-16b
-8dd
-8dd
-=6
-16ee
-16cc
-8a
-8a
-=7
-8cc
-8ee
-16cc
-16b}
+=7	=7
+{16g	A
+16b/	pój-
+8dd	-dę
+8dd	ja
+=8	=8
+16ee/	do
+16cc	tej,
+8a	do
+8a	tej,
+=9	=9
+8cc	nie-
+8ee	-chce
+16ccML	mnie,
+16bJ}	_
 !!LO:LB:g=esac
-=8
-{16g
-16b
-8dd
-8dd
-=9
-16ee
-16cc
-8a
-8f#
-=10
-8a
-16cc
-16b
-8g}
-==
-*-
+=10	=10
+{16g	a
+16b	pój-
+8dd	-dę
+8dd	ja
+=11	=11
+16ee	do
+16cc	Ma-
+8a	-ry-
+8f#	-si
+=12	=12
+8a	przy-
+16ccL	-mie
+16bJ	_
+8g}	mię.
+=13	=13
+{16g	Nie
+16a	bę-
+8b	-dę
+8b	ja
+=14	=14
+8b/	dla
+8g	cie
+16aL	gą-
+16b/J	-sek
+=15	=15
+24ddL	cho-
+24cc	.
+24bJ	.
+8a	-wa-
+8d}	-ła.
+!!LO:LB:g=esac
+=16	=16
+{16d	ze-
+16f#	-by
+8g	ja
+8g	ci
+=17	=17
+16g	po-
+16g	-du-
+8e	-se-
+8e	-cki
+=18	=18
+24eL	da-
+24f#	.
+24gJ	.
+8a	-wa-
+8d}	-ła.
+!!LO:LB:g=esac
+=19	=19
+{16g	A
+16b/	pój-
+8dd	-dę
+8dd	ja
+=20	=20
+16cc	do
+16cc	tej,
+8a	do
+8a	tej,
+=21	=21
+8cc	nie-
+8ee	-chce
+16ccML	mnie,
+16bJ}	_
+!!LO:LB:g=esac
+=22	=22
+{16g	a
+16b	pój-
+8dd	-dę
+8dd	ja
+=23	=23
+16ee	do
+16cc	Ma-
+8a	-ry-
+8f#	-si
+=24	=24
+8a	przy-
+16ccL	-mie
+16bJ	_
+8g}	mię.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Od Krakowa carna chmura, desc leje,
+!!a gdzie jasie nieboracek podzieję?
+!!A pójdę ja do tej, do tej, niechce mnie,
+!!a pójdę ja do Marysi przymie mię.
+!!@VERSE:
+!!2. Nie będe ja dla cie gąsek chowała,
+!!zeby ja ci podusecki dawała.
+!!A pójdę ja do tej, do tej, niechce mnie,
+!!a pójdę ja do Marysi przymie mię.
+!!@@END: VERSES
+!!!role-singer: Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=140 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 129} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 129}
 !!!page: 129
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-30

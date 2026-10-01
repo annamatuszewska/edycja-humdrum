@@ -3,42 +3,54 @@
 !!!source: DWOK02
 !!!id: K0088
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8g
-8a
-8b
-16cc
-16b
-=2
-8dd
-8dd
-8dd
-8b
-=3
-4.cc
-8g}
+**kern	**text	**text
+*clefG2	*	*
+*k[f#]	*	*
+*G:	*	*
+*M2/4	*	*
+=1	=1	=1
+{8g	Oj	Oj
+8a	schodźcie	złó-
+8b	.	-zcie
+16ccL	sie	sie
+16bJ	.	.
+=2	=2	=2
+8dd	pa-	na
+8dd	-no-	ru-
+8dd	-wie	-cia-
+8b	dru-	-ny
+=3	=3	=3
+4.cc	-zbo-	wia-
+8g}	-wie	-nek
 !!LO:LB:g=esac
-=4
-{8b
-16b
-16a
-8b
-16cc
-16ee
-=5
-4cc
-4f#
-=6
-2g}
-==
-*-
+=4	=4	=4
+{8b	oj	oj
+16bL	schodźcie	złó-
+16a\J	.	.
+8b	.	zcie
+16ccL	sie	sie
+16eeJ	.	.
+=5	=5	=5
+4cc	schodźcie	złó-
+4f#	.	-zcie
+=6	=6	=6
+!LO:TX:a:t=Na dobranoc pannie-młodéj (89)&colon;	!	!
+2g}	sie	sie.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj schodźcie sie panowie druzbowie
+!!oj schodźcie sie schodźcie sie
+!!@VERSE:
+!!2. Oj złózcie sie na ruciany wianek
+!!oj złózcie sie złózcie sie.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!role-listener: Best men
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=87 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 76} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 76}
 !!!page: 76
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-29

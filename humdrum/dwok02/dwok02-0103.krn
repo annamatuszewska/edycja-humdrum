@@ -3,52 +3,68 @@
 !!!source: DWOK02
 !!!id: K0103
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8b
-8cc
-8dd
-8dd
-=2
-8dd
-8ee
-8dd
-8cc
-=3
-8b
-8dd
-4a
-=4
-8d
-8f#
-4g}
+**kern	**text	**text
+*clefG2	*	*
+*k[f#]	*	*
+*G:	*	*
+*M2/4	*	*
+=1	=1	=1
+{8b	A	A
+8cc	nie	nie
+8dd	wy-	wy-
+8dd	-dam	-dam
+=2	=2	=2
+8dd	pa-	pa-
+8ee	-ni	-ni
+8dd	mło-	mło-
+8cc	-dyj	-dyj
+=3	=3	=3
+8b	ko-	nie
+8dd	-cha-	wy-
+4a	-nyj	-dam,
+=4	=4	=4
+8d	ko-	nie
+8f#	-cha-	wy-
+4g}	-nyj,	-dam,
 !!LO:LB:g=esac
-=5
-{8g
-8b
-8a
-8a
-=6
-8g
-8b
-8dd
-8cc
-=7
-8b
-8dd
-4a
-=8
-8d
-8f#
-4g}
-==
-*-
+=5	=5	=5
+{8g	a	a
+8b/	ze	ze
+8a	mi	do
+8a	się	mnie
+=6	=6	=6
+8g	sam	z_go-
+8b	pan	-rza-
+8dd	mło-	-łe-
+8cc	-dy	-cką
+=7	=7	=7
+8b	u-	na-
+8dd	-kło-	-dyj-
+4a\	-ni,	dą,
+=8	=8	=8
+8d	u-	na-
+8f#	-kło-	-dyj-
+!LO:TX:a:t=Pan-młody pije do panny-młodéj, i w koło do obecnych, co ciż powtarzają (104)&colon;	!	!
+4g}	-ni.	-dą.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. A nie wydam pani młodyj
+!!kochanyj kochanyj,
+!!a ze mi się sam pan młody
+!!ukłoni, ukłoni.
+!!@VERSE:
+!!2. A nie wydam pani młodyj
+!!nie wydam, nie wydam,
+!!a ze do mnie z gorzałecką
+!!nadyjdą, nadyjdą.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=93 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 82} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 82}
 !!!page: 82
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-29

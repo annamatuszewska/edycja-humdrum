@@ -3,39 +3,50 @@
 !!!source: DWOK02
 !!!id: K0149
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{8b
-8dd
-8ee
-8dd
-=2
-8cc
-8ee
-8dd
-8cc
-=3
-8b
-4.dd
-=4
-4.a
-8g}
+**kern	**text	**text
+*clefG2	*	*
+*k[]	*	*
+*C:	*	*
+*M2/4	*	*
+=1	=1	=1
+{8b	A	Cer-
+8dd	u	-wie-
+8ee	mo-	-nią
+8dd	-jej	-się
+=2	=2	=2
+8cc	pa-	ja-
+8ee	-ni	-błu-
+8dd	ma-	-se-
+8cc	-tki	-cka
+=3	=3	=3
+8b	przed	cer-
+4.dd	sie-	-wie-
+=4	=4	=4
+(4.a	-nią,	-nią,
+8g)}	.	.
 !!LO:LB:g=esac
-=5
-{8a
-4b
-8f
-=6
-4g}
-4r
-==
-*-
+=5	=5	=5
+{8a	przed	cer-
+(4b/	sie-	-wie-
+8f)	.	.
+=6	=6	=6
+4g}	-nią	-nią.
+4r	.	.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!A u mojej pani matki przed sienią, przed sienią
+!!Cerwienią się jabłusecka cerwienią, cerwienią.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: (text dokładniejszy patrz Nr. 51).
+!!@@END:
+!!!role-singer: Daughter
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=160 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 149} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 149}
 !!!page: 149
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-30

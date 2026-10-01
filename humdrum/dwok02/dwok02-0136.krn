@@ -3,48 +3,71 @@
 !!!source: DWOK02
 !!!id: K0136
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8g
-8a
-4b
-4cc
-=2
-2.dd
-=3
-8cc#
-8dd
-4.ee
-8b
-=4
-2.dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+!LO:TX:a:t=Allegro&colon;	!
+{8g	Se-
+8a	-rzy
+4b	się
+4cc	se-
+=2	=2
+2.dd	-rzy
+=3	=3
+8cc#	be-
+8dd	-li-
+4.ee	-ca
+8b	po
+=4	=4
+2.dd}	wsi,
 !!LO:LB:g=esac
-=5
-{8a
-8cc
-4.ee
-8cc
-=6
-8b
-8a
-4.b
-8g
-=7
-8f#
-8g
-4.a
-8b
-=8
-2g}
-4r
-==
-*-
+=5	=5
+{8aL	oj
+8ccn/J	wygna-
+4.ee	.
+8cc	-ła
+=6	=6
+8b/	Sce-
+8a	-pa-
+4.b/	-no-
+8g	-wa
+=7	=7
+8f#	Sa-
+8g	-me-
+4.a	-go
+8b/	ze
+=8	=8
+2g}	wsi.
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Sérzy się serzy belica po wsi,
+!!oj wygnała Scepanowa Samego ze wsi.
+!!A gdzieześ bywał — Scepuś nieboze?
+!!Oj spałem, moja Maryś, z końmi na dworze.
+!!@VERSE:
+!!2. Sérzy się sérzy — bélica po wsi—
+!!oj wygnała Franciskowa — samego ze wsi.
+!!A gdzieześ bywał — Franuś nieboże?
+!!Oj pasłem, moja Zuziu — konie na dworze.
+!!@VERSE:
+!!3. Sérzy się sérzy—belica po wsi—
+!!oj wygnała JAntoniowa — samego ze wsi.
+!!Gdzieześ się podział — JAntoś nieboze?
+!!Oj ziąbłem moja Heliś—z końmi na dworze. i td.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: Midsummer
+!!@@END:
+!!!role-singer: Narrator, Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=122 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 111} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 111}
 !!!page: 111
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-30

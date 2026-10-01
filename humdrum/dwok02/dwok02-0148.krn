@@ -3,53 +3,78 @@
 !!!source: DWOK02
 !!!id: K0148
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M4/4
-=1
-{4dd
-8dd
-8ee
-4.cc
-8a
-=2
-4g
-16a
-8.b
-4cc}
-4r
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M4/4	*
+=1	=1
+{4dd	Wy-
+8dd	-ro-
+8ee	-sła
+4.cc	ru-
+8a	-tka
+=2	=2
+4g	z_ja-
+16aL	-ło-
+8.b/J	.
+4cc}	-wca,
+4r	.
 !!LO:LB:g=esac
-=3
-{4ee
-8ee
-8ff
-4.gg
-8ff
-=4
-4aa
-4gg
-4ff
-4ee}
+=3	=3
+{4ee	nie
+8ee	chodź
+8ff	dziewcyno
+4.gg	.
+8ff	.
+=4	=4
+4aa	za
+4gg	wdo-
+(4ff	-wca,
+4ee)}	.
 !!LO:LB:g=esac
-=5
-{8dd
-8ee
-8dd
-8dd
-4.cc
-8a
-=6
-4g
-16a
-8.b
-4cc}
-4r
-==
-*-
+=5	=5
+{8dd	beńdziu
+8ee	.
+8dd	beńdziu
+8dd	.
+4.cc	by-
+8a	-lu
+=6	=6
+4g	za
+16aL	wdo-
+8.b/J	.
+4cc}	-wca.
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Wyrosła rutka z jałowca —
+!!nie chodź dziewcyno za wdowca.
+!!@VERSE:
+!!2. Gorzała lipka i jawór —
+!!Gdzieześ się Jasiu zabawiuł?
+!!@VERSE:
+!!3. Zabawiułem sie u Resie (Reginy)
+!!pasła koniki na rosie.
+!!@VERSE:
+!!4. Gorzała lipka gorzała —
+!!dziewcyna pod nią lezała.
+!!@VERSE:
+!!5. Iskierki na nie padały
+!!bez kośulkę je parzały.
+!!@VERSE:
+!!6. Jasiowi je było zal,
+!!az je chustecką przyodział.
+!!@VERSE:
+!!7. Gorzała lipka, jałowiec —
+!!lepsy kawaler jak wdowiec.
+!!@@END: VERSES
+!!!role-singer: Many characters, Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=159 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 148} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 148}
 !!!page: 148
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-30

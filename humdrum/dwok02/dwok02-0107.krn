@@ -3,67 +3,81 @@
 !!!source: DWOK02
 !!!id: K0107
 !!!signature:
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16cc
-16dd#
-8.ee
-16dd#
-=2
-8ee
-8.cc
-16a
-=3
-16cc
-16b
-8.cc
-16b
-=4
-8g#
-8a}
-8r
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{16cc	Ja-
+16dd#	-wo-
+8.ee	-ro-
+16dd#	-we
+=2	=2
+8ee	kół-
+(8.ccL	-ka
+16a\)J	.
+=3	=3
+16cc	dę-
+16b	-bo-
+8.cc	-wa
+16b	roz-
+=4	=4
+8g#	-wor
+8a}	ka,
+8r	.
 !!LO:LB:g=esac
-=5
-{16dd#
-16dd#
-8ee
-8dd#
-=6
-8ee
-8.cc
-16a
-=7
-16cc
-16b
-8.cc
-16b
-=8
-8g#
-16a
-16e}
-8r
+=5	=5
+{16dd#	spo-
+16dd#	-do-
+8ee	-ba-
+8dd#	-ła
+=6	=6
+8ee	mi
+(8.ccL	się
+16a\)J	.
+=7	=7
+16cc	Wa-
+16b	-la-
+8.cc	-so-
+16b	-wej
+=8	=8
+8g#	cór-
+(16aL	-ka,
+16e)J}	.
+8r	.
 !!LO:LB:g=esac
-=9
-{16cc
-16dd#
-8.ee
-16dd#
-=10
-8ff#
-8.ee
-16b
-=11
-4a}
-8r
-==
-*-
+=9	=9
+{16cc	a-
+16dd#	-dyć
+8.ee	mi
+16dd#	jej
+=10	=10
+8ff#	nie
+(8.eeL	chcą
+16bJ)	.
+=11	=11
+4a}	dać.
+!LO:TX:a:t=Do rozlepcin (108)&colon;	!
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Jaworowe kółka
+!!dębowa rozwor ka,
+!!spodobała mi się Walasowej córka,
+!!adyć mi jej nie chcą dać.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: W Niedzielę przy wiciu rózgi, którą następnie sprzedają staroście:
+!!@@END:
+!!!role-singer: Lover
+!!!singer-sex: Male
 !!!ONB: U KOlberga w t. 11 podana pauza ćwierćnutowa
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=95 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 84} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 84}
 !!!page: 84
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-29

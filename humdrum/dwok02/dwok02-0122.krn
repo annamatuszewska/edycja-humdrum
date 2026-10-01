@@ -3,73 +3,86 @@
 !!!source: DWOK02
 !!!id: K0122
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8g
-8a
-8b
-=2
-4cc
-8b
-=3
-8dd
-8dd
-8cc
-=4
-8b
-4g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8g	Ni-
+8a	-ma
+8b	Ma-
+=2	=2
+4cc	-ry-
+8b	-si
+=3	=3
+8dd	ni-
+8dd	-ma
+8cc	je-
+=4	=4
+8b	-dy-
+4g}	-ny
 !!LO:LB:g=esac
-=5
-{8a
-8a
-8b
-=6
-8cc
-8b
-8dd
-=7
-4.cc
-=8
-4g}
-8r
+=5	=5
+{8a	ni-
+8a	-ma
+8b/	na
+=6	=6
+8ccL	roz-
+8bJ	.
+8dd	-ple-
+=7	=7
+4.cc	-ci-
+=8	=8
+(8aqq	.
+4g)}	-ny.
+8r	.
 !!LO:LB:g=esac
-=9
-{8a
-8a
-8b
-=10
-4cc
-8b
-=11
-16dd
-16dd
-8cc
-8b
-=12
-8a
-4g}
+=9	=9
+{8a	Po-
+8a	-sła
+8b	se
+=10	=10
+4cc	o-
+8b	-na
+=11	=11
+16dd	grze-
+16dd	-by-
+(8ddq	.
+8cc)	-ka
+8b	po-
+=12	=12
+8a	-zy-
+4g}	-cać
 !!LO:LB:g=esac
-=13
-{8a
-8a
-8b
-=14
-8cc
-8b
-8dd
-=15
-4.cc
-=16
-4g}
-8r
-==
-*-
+=13	=13
+{8a	do
+8a	siostrzy-
+8b	.
+=14	=14
+8ccL	-cki
+8bJ	.
+8dd	je-
+=15	=15
+4.cc	-dy-
+=16	=16
+8aq	.
+4g}	-ny.
+!LO:TX:a:t=Po rozplecinach każda druchna i drużba tańczy z nią&colon;	!
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Nima Marysi nima
+!!jedyny nima na rozpleciny.
+!!Posła se ona grzebyka pozycać
+!!do siostrzycki jedyny.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=101 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 90} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 90}
 !!!page: 90
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-30

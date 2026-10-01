@@ -3,71 +3,95 @@
 !!!source: DWOK02
 !!!id: K0154
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16b
-8dd
-8ff#
-=2
-16dd
-16ff#
-8.gg
-16ee
-=3
-32cc
-32a
-16f#
-8a
-8b
-=4
-8g}
-4r
+**kern	**text	**text	**text
+*clefG2	*	*	*
+*k[f#]	*	*	*
+*G:	*	*	*
+*M3/8	*	*	*
+=1	=1	=1	=1
+{16g	Je-	Sko-	Nie-
+16b/	-dzie	-cył	-bój
+8dd	Ja-	z_ko-	ze
+8ff#	-sio	-nia	się
+=2	=2	=2	=2
+16dd	od	przez	Ka-
+16ff#	To-	u-	-siu
+8.gg	-ru-	-wa-	o-
+16ee	-nia	-gi,	-gnia,
+=3	=3	=3	=3
+32ccL	car-	wy-	a-
+32a\J	.	.	.
+16f#	-ny	-ło-	-ni
+8a\	wą-	-mał	pu-
+8b	-sik	no-	-chli-
+=4	=4	=4	=4
+8g}	ma	gę,	-ny,
+4r	.	.	.
 !!LO:LB:g=esac
-=5
-{32b
-32a
-16f#
-8a
-8b
-=6
-16g
-16g
-8b
-32b
-32dd
-16ee}
+=5	=5	=5	=5
+{32bL	po-	mo-	po-
+32a\J	.	.	.
+16f#	-pro-	-ja	-ło-
+8a\	-sę	mi-	zę
+8b	go	-ła	.ja
+=6	=6	=6	=6
+16g	ma-	pa-	cho-
+16g	-tu-	-ni	-rą
+8b	-lin-	ma-	no-
+(32bL	-ku	-tko	-gę
+32dd	.	.	.
+16ee)J}	.	.	.
 !!LO:LB:g=esac
-=7
-{32b
-32a
-16f#
-8a
-8b
-=8
-16g
-16g
-8b
-32b
-32dd
-16ee
-=9
-32b
-32a
-16f#
-8a
-8b
-=10
-8g}
-4r
-==
-*-
+=7	=7	=7	=7
+{32bL	bo	cho-	we-
+32a\J	.	.	.
+16f#	mi	-dzić	-le
+8a	się	nie	pie-
+8b/	u-	mo-	-rzy-
+=8	=8	=8	=8
+16g	-dał	gę	-ny
+16g	bo-	bo-	bo-
+8b	-daj-	-daj-	-daj-
+32bL	-ze	-ze	-ze
+32dd	.	.	.
+16eeJ	.	.	.
+=9	=9	=9	=9
+32bL	bo	cho-	we-
+32a\J	.	.	.
+16f#	mi	-dzić	-le
+8a	się	nie	pie-
+8b/	u-	mo-	-rzy-
+=10	=10	=10	=10
+8g}	-dał.	-gę.	-ny.
+4r	.	.	.
+==	==	==	==
+*-	*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. Jedzie Jasio od Torunia
+!!carny wąsik ma
+!!poprosę go matulinku
+!!bo mi się udał
+!!bodajze bo mi się udał.
+!!@VERSE:
+!!2. Skocył z konia przez uwagi,
+!!wyłomał nogę,
+!!moja miła pani matko
+!!chodzić niemogę
+!!bodajze chodzić nie mogę.
+!!@VERSE:
+!!3. Niebój ze się Kasiu ognia,
+!!anipuchliny,
+!!połozę ja chorą nogę
+!!wele pierzyny
+!!bodajze wele pierzyny.
+!!@@END: VERSES
+!!!role-singer: Narrator, Boy
+!!!role-listener: Girl
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=141 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 130-131} @EN{Oskar Kolberg Complete Works 2: Sandomierz, pp. 130-131}
 !!!page: 130-131
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-01

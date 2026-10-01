@@ -3,64 +3,98 @@
 !!!source: DWOK02
 !!!id: K0153
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16b
-8dd
-8ff#
-=2
-16dd
-16ff#
-8.gg
-16ee
-=3
-16ee
-16cc
-8a
-8a
-=4
-4g}
-8r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Z_tam-
+16b/	-tej
+8dd	stro-
+8ff#	-ny
+=2	=2
+16dd	je-
+16ff#	-zio-
+8.gg	-re-
+16ee	-cka
+=3	=3
+16ee	sto-
+16cc	-i
+8a	ta-
+8a	-mój
+=4	=4
+4g}	dwór.
+8r	.
 !!LO:LB:g=esac
-=5
-{16cc
-16cc
-8a
-8a
-=6
-16g
-16g
-8b
-8b
-=7
-16cc
-16cc
-8a
-16cc
-16a}
+=5	=5
+{16cc	Ko-
+16cc	-la-
+8a	-se-
+8a	-cka
+=6	=6
+16g	ma-
+16g	-lo-
+8b	-wa-
+8b	-na
+=7	=7
+16cc	z_pod-
+16cc	-ków-
+8a	-ka-
+16cc/L	-mi
+16a}J	.
 !!LO:LB:g=esac
-=8
-{16g
-16g
-8b
-8b
-=9
-16cc
-16cc
-8a
-8a
-=10
-4g}
-8r
-==
-*-
+=8	=8
+{16g	kóń
+16g	da
+8b	i
+8b	kóń
+=9	=9
+16cc	z_pod-
+16cc	-ków-
+8a	-ka-
+8a	-mi
+=10	=10
+4g}	kóń.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Z tamtej strony jeziorecka
+!!stoi tamój dwór;
+!!kolasecka malowana
+!!z podkówkami kóń.
+!!@VERSE:
+!!2. A ja ciebie dziewce niechce,
+!!carne nogi mas.
+!!A ja ciebie chłopce niechcę,
+!!w browarze bywas.
+!!@VERSE:
+!!3. A ja pójdę do jeziora,
+!!umyję nogi;
+!!ty połozys sto talarów,
+!!juześ ubogi.
+!!@VERSE:
+!!4. Ja połozę mało tysiąc,
+!!i to niewiele;
+!!a tyś głowy nie cesała
+!!ćtery niedziele.
+!!@VERSE:
+!!5. A co tobie głupi chłopie
+!!do moij głowy,
+!!zaprzęzes se swego konia,
+!!jedzies do gdowy.
+!!@VERSE:
+!!6. Nie kochałem zadnych panien,
+!!ani męzatek;
+!!ciebie dziewce, ciebie jedna,
+!!choć na ostatek.
+!!@@END: VERSES
+!!!role-singer: Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=164 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 153} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 153}
 !!!page: 153
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-01

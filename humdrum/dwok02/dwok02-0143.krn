@@ -3,109 +3,217 @@
 !!!source: DWOK02
 !!!id: K0143
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8a
-8a
-8a
-8a
-=2
-8a
-8a
-8a
-8a
-=3
-4a
-4cc#
-=4
-2dd}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8a	Gdy-
+8a	-byś
+8a	się
+8a	chciał
+=2	=2
+8a	bia-
+8a	-ły
+8a	Ja-
+8a	-nie
+=3	=3
+4a	o-
+4cc#	-ze-
+=4	=4
+2dd}	-nić,
 !!LO:LB:g=esac
-=5
-{8ee
-8cc#
-8a
-8a
-=6
-4a
-4cc#
-=7
-2dd}
+=5	=5
+{8ee	my
+8cc#	ci
+8a	zon-
+8a	-kę
+=6	=6
+4a	na-
+4cc#	-ra-
+=7	=7
+2dd}	-ić,
 !!LO:LB:g=esac
-=8
-{8ee
-8cc#
-8a
-8b-
-=9
-4g
-4f#}
+=8	=8
+{8eenL	hej
+8cc#J	.
+8a	bia-
+8b-/	-ły
+=9	=9
+4g	Ja-
+4f#X}	-nie!
 !!LO:LB:g=esac
-=10
-{8a
-8a
-8a
-8a
-=11
-4a
-4cc#
-=12
-2dd}
+=10	=10
+{8a	Gdy-
+8a	-byś
+8a	się
+8a	chciał
+=11	=11
+8a	bia-
+8a	-ły
+8a	Ja-
+8a	-nie
+=12	=12
+4a	o-
+4cc#	-ze-
+=13	=13
+2dd}	-nić,
 !!LO:LB:g=esac
-=13
-{8ee
-8cc#
-8a
-8f#
-=14
-4a
-4cc#
-=15
-2dd}
+=14	=14
+{8een	my
+8cc#	ci
+8a	zon-
+8a	-kę
+=15	=15
+4a	na-
+4cc#	-ra-
+=16	=16
+2dd}	-ić,
 !!LO:LB:g=esac
-=16
-{8ee
-8cc#
-8a
-8b-
-=17
-4g
-4f#}
+=17	=17
+{8Lee	hej
+8ccJ#	.
+8a	bia-
+8b-/	-ły
+=18	=18
+4g	Ja-
+4f#}	-nie!
 !!LO:LB:g=esac
-=18
-{8a
-8a
-8a
-8a
-=19
-8a
-8cc#
-4dd
-=20
-8ee
-8cc#
-8a
-8a
-=21
-8a
-8cc#
-4dd}
+=19	=19
+{8a	Jest
+8a	tam
+8a	u
+8a	So-
+=20	=20
+(4a	-wi-
+4cc#)	.
+=21	=21
+2dd}	-ny
 !!LO:LB:g=esac
-=22
-{8ee
-8cc#
-8a
-8b-
-=23
-4g
-4f#}
-==
-*-
+=22	=22
+{8een	na-
+8cc#	-do-
+8a	-bna
+8a	Ma-
+=23	=23
+(4a	-ry-
+4cc#)	.
+=24	=24
+2dd}	-sia
+!!LO:LB:g=esac
+=25	=25
+{8Lee	hej
+8ccJ#	.
+8a	bia-
+8b-/	-ły
+=26	=26
+4g	Ja-
+4f#}	-nie!
+!!LO:LB:g=esac
+=27	=27
+{8a	ma
+8a	wia-
+8a	-ne-
+8a	-cek
+=28	=28
+8aL\	z_ró-
+8cc#	.
+4dd	-zy
+=29	=29
+8eeL	ni
+8cc#J	ma-
+8a	-ły
+8a	ni
+=30	=30
+8a\	du-
+8cc#	.
+4dd}	-zy
+!!LO:LB:g=esac
+=31	=31
+{8eLe	hej
+8cc#J	.
+8a	bia-
+8b-/	-ły
+=32	=32
+4g	Ja-
+!LO:TX:a:t=Śpiew ostatni mający na celu łączenie par z sobą, brzmi tak (144)&colon;	!
+4f#}	-nie.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Gdybyś się chciał biały Janie ozenić,
+!!my ci zonkę naraić,
+!!hej biały Janie!
+!!Jest tam u Sowiny
+!!nadobna Marysia
+!!hej biały Janie!
+!!ma wianecek z rózy
+!!ni mały ni duzy,
+!!hej biały Janie!
+!!@VERSE:
+!!2. Gdybyś się chciał biały Janie ozenić,
+!!my ci zonkę naraić
+!!hej biały Janie!
+!!Jest tam u Kostery
+!!nadobna Elzusia,
+!!hej biały Janie!
+!!ma wianecek z piwonii,
+!!kawalerzy pili u nij,
+!!hej biały Janie!
+!!@VERSE:
+!!3. Ma wianecek z łobody,
+!!pójdzie za mąz przed gody.
+!!@VERSE:
+!!4. Ma wianecek z kapusty,
+!!pójdzie za mąz w mięsopusty.
+!!@VERSE:
+!!5. Ma wstązeckę seroką,
+!!sama duza, wysoka.
+!!—
+!!@VERSE:
+!!6. Ma wstązeckę węziuchną,
+!!sama mała niziuchna.
+!!—
+!!@VERSE:
+!!7. Ma wstązeckę w około,
+!!obiadły jéj pchły coło.
+!!—
+!!@VERSE:
+!!8. Ma wianecek ze złota,
+!!bo uboga, sierota.
+!!—
+!!@VERSE:
+!!9. Ma wianecek z marchwi,
+!!bo ją kawaler martwi.
+!!—
+!!@VERSE:
+!!10. Ma wianecek z wierzby,
+!!zlała wodą pół izby.
+!!—
+!!@VERSE:
+!!11. Ma wianecek z tarek,
+!!chodzi kieby wałek.
+!!—
+!!@VERSE:
+!!12. Ma wianecek z prosa,
+!!bo zła kieby osa.
+!!—
+!!@VERSE:
+!!13. Ma wianecek z psenice,
+!!będzie miała dziewcyce.
+!!—
+!!@VERSE:
+!!14. Ma wianecek z olsaka
+!!będzie miała chłopaka. i t. p.
+!!@@END: VERSES
+!!!role-singer: Girls
+!!!role-listener: Man
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=154 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 143} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 143}
 !!!page: 143
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-30

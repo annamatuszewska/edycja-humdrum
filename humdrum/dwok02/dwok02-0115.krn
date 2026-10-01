@@ -3,37 +3,56 @@
 !!!source: DWOK02
 !!!id: K0115
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{4cc
-4ee
-4ff#
-=2
-2gg
-4ff#
-=3
-4gg
-4.gg
-8ff#
-=4
-2dd
-4cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{4cc	Oj,
+4ee	o-
+4ff#	-be-
+=2	=2
+2gg	-śli-
+4ff#	-śmy
+=3	=3
+4gg	w_ko-
+(4.gg	-ło
+8ff#)	.
+=4	=4
+(2dd	wieś
+4cc)}	.
 !!LO:LB:g=esac
-=5
-{4ee
-4.ee
-8dd
-=6
-2cc}
-4r
-==
-*-
+=5	=5
+{4ee	w_ko-
+(4.ee	-ło
+8dd)	.
+=6	=6
+2cc}	wieś.
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj, obeśliśmy w koło wieś
+!!w koło wieś,
+!!moja Marysiu gdzieześ jest
+!!gdzieześ jest?
+!!@VERSE:
+!!2. Stoi Marysia u płota
+!!u płota,
+!!wstązecka na nij od złota,
+!!od złota.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: the bridesmaids sing
+!!@@END:
+!!!role-singer: Narrator
+!!!role-listener: Girl
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=97 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 86} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 86}
 !!!page: 86
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-29

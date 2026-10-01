@@ -3,72 +3,86 @@
 !!!source: DWOK02
 !!!id: K0112
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8g
-8a
-8b
-=2
-8cc
-4dd
-=3
-8ff#
-8ee
-8dd
-=4
-8dd
-4b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8g	Oj
+8a	do-
+8b/	-bra
+=2	=2
+8cc	no-
+4dd	-cka
+=3	=3
+8ff#W	ko-
+8ee	-le
+8dd	pół-
+=4	=4
+8dd	-no-
+4b}	-cka
 !!LO:LB:g=esac
-=5
-{8a
-8b
-8cc
-=6
-8dd
-4ee
-=7
-8dd
-4b
-=8
-4a}
-8r
+=5	=5
+{8a	bo-
+8b	-da-
+8cc	-jeś
+=6	=6
+8dd	zdro-
+4ee	-wa
+=7	=7
+(8dd	spa-
+4b)	.
+=8	=8
+4a}	-ła,
+8r	.
 !!LO:LB:g=esac
-=9
-{8dd
-8dd
-8cc
-=10
-8a
-4cc
-=11
-8dd
-8dd
-8cc
-=12
-8a
-4g}
+=9	=9
+{8dd	a
+8dd	kie-
+8cc	-dy
+=10	=10
+8a	cu-
+4cc	-jes
+=11	=11
+8dd	a
+8dd	nie
+8cc	od-
+=12	=12
+!LO:TX:a:i:t=(rygla lub zakładki)	!
+8a	-su-
+4g}	-nies,
 !!LO:LB:g=esac
-=13
-{8b
-8b
-8cc
-=14
-8dd
-4ee
-=15
-8dd
-4b
-=16
-4a}
-8r
-==
-*-
+=13	=13
+{8b	bo-
+8b	-da-
+8cc	-jes
+=14	=14
+8dd	juz
+4ee	nie
+=15	=15
+(8dd	wsta-
+4b)	.
+=16	=16
+4a}	-ła.
+!LO:TX:a:t=Po oczepinach (113)&colon;	!
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oj dobra nocka
+!!kole północka
+!!bodajeś zdrowa spała,
+!!a kiedy cujes
+!!a nie odsunies (rygla lub zakładki),
+!!bodajes juz nie wstała.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!role-listener: Bride
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=96 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 85-86} @EN{Oskar Kolberg Complete Works 2: Sandomierz, pp. 85-86}
 !!!page: 85-86
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-29

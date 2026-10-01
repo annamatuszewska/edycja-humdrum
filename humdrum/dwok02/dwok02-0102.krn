@@ -3,42 +3,64 @@
 !!!source: DWOK02
 !!!id: K0102
 !!!signature:
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M3/8
-=1
-{8a
-8cc#
-8dd
-=2
-8dd
-4cc#
-=3
-16dd
-16ee
-8dd
-16dd
-16cc#
-=4
-8a
-4g}
+**kern	**text	**text
+*clefG2	*	*
+*k[f#c#]	*	*
+*D:	*	*
+*M3/8	*	*
+=1	=1	=1
+{8a\	1. Oj	2. Oj
+8cc#	da	da
+8dd	wstydźcie	złó-
+=2	=2	=2
+8dd	.	-zcie
+4cc#	sie	sie
+=3	=3	=3
+16dd	pa-	na
+16ee	-no-	ni-
+8dd	-wie	-cia-
+16ddL	dru-	-ny
+16cc#J	.	.
+=4	=4	=4
+8a	-zbo-	ce-
+4g}	-wie.	-pek
 !!LO:LB:g=esac
-=5
-{8a
-8cc#
-8dd
-=6
-8dd
-8cc#
-8g
-=7
-4.a}
-==
-*-
+=5	=5	=5
+{8a\	wstydźcie	złó-
+8cc#	.	-zcie
+8dd	sie,	sie,
+=6	=6	=6
+8dd	wstydźcie	złó-
+(8cc#L	.	-zcie
+8g\J)	.	.
+=7	=7	=7
+!LO:TX:a:t=Starościna schwyciwszy pannę-młodą do tańca (102)&colon;	!	!
+4.a}	sie.	sie.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj da wstydźcie sie panowie druzbowie.
+!!wstydźcie sie, wstydźcie sie.
+!!@VERSE:
+!!2. Oj da złózcie sie na niciany cepek złózcie sie,
+!!złózcie sie.
+!!@VERSE:
+!!3. Adyć sie jéj uzałujcie
+!!na cepecek podarujcie.
+!!@VERSE:
+!!4. Niech nie siedzi między nami
+!!jako kołek ociesany.
+!!Tu ciskają na talerz, co kto ma dać.
+!!@VERSE:
+!!5. Panie druzba jesce mało,
+!!jesceby sie więcyj zdało.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!role-listener: Best man
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=93 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 82} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 82}
 !!!page: 82
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-29

@@ -3,48 +3,100 @@
 !!!source: DWOK02
 !!!id: K0159
 !!!signature:
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/8
-=1
-{16a
-16cc#
-8.ee
-16ff#
-=2
-16ee
-16dd#
-16ee
-16cc#
-8a}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Niekiedy na weselu.	!
+{16a	Ką-
+16cc#	-pa-
+8.ee	-ła
+16ff#	się
+=2	=2
+16ee	Ka-
+16dd#	-sia
+16eeL	w_mo-
+16cc#J	.
+8a}	-rzu,
 !!LO:LB:g=esac
-=3
-{16b
-16b
-8.dd
-16e
-=4
-16a
-16a
-8cc#
-8ee
-=5
-16b
-16b
-8.dd
-16e
-=6
-16a
-16cc#
-16ee
-16cc#
-8a}
-==
-*-
+=3	=3
+{16b/	pa-
+16b/	-sła
+8.dd	ko-
+16e	-ni-
+=4	=4
+16a	-ki
+16a	we
+8cc#	zbo-
+8ee	-żu
+=5	=5
+16b/	pa-
+16b/	-sła
+8.dd	ko-
+16e	-ni-
+=6	=6
+16a	-ki
+16cc#	we
+16eeL	zbo-
+16cc#J	.
+8a}	-zu.
+=7	=7
+{16a	Pan
+16cc#	sta-
+8.ee	-ro-
+16ff#	-sta
+=8	=8
+16ee	je-
+16dd#	-chał
+16eeL	z_po-
+16cc#J	.
+8a}	-la,
+!!LO:LB:g=esac
+=9	=9
+{16b/	za-
+16b/	-brał
+8.dd	ko-
+16e	-ni-
+=10	=10
+16a	-ki
+16a	do
+8cc#	dwo-
+8ee	-ra
+=11	=11
+16b/	za-
+16b/	-brał
+8.dd	ko-
+16e	-ni-
+=12	=12
+16a	-ki
+16cc#	do
+16eeL	dwo-
+16cc#J	.
+8a}	-ra.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Kąpała się Kasia w morzu,
+!!pasła koniki we zbożu
+!!pasła koniki we zbozu.
+!!@VERSE:
+!!2. Pan starosta jechał z pola,
+!!zabrał koniki do dwora
+!!zabrał koniki do dwora.
+!!@VERSE:
+!!3. Kasieńka się zuwiedziała,
+!!drózeckę mu zabiegała.
+!!@VERSE:
+!!4. I brząknęła talarami:
+!!oddaj, oddaj mój kochany.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=144 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 133} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 133}
 !!!page: 133
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-01

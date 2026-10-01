@@ -3,50 +3,62 @@
 !!!source: DWOK02
 !!!id: K0119
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16cc
-16ee
-8dd
-8cc
-=2
-16.b
-32a
-8a
-8g
-=3
-8g
-4b
-=4
-8cc}
-4r
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16ccL	Nie-
+16eeJ	.
+8dd	-wy-
+8cc	-dam
+=2	=2
+16.b	swoij
+32a	.
+8a	ró-
+8g	-zgi
+=3	=3
+8g	zie-
+4b	-lo-
+=4	=4
+8cc}	-nej
+4r	.
 !!LO:LB:g=esac
-=5
-{16cc
-16ee
-8dd
-8cc
-=6
-16.b
-32a
-8a
-8g
-=7
-16g
-16b
-8dd
-8b
-=8
-8cc}
-4r
-==
-*-
+=5	=5
+{16cc	ja-
+16ee	-ze
+8dd	mi
+8cc	sie
+=6	=6
+16.b	starsy
+32a	.
+8a	druzba
+8g	.
+=7	=7
+16gL	u-
+16b/J	.
+(8ddL	-kło-
+8b)J	.
+=8	=8
+8cc}	-ni.
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Niewydam swoij rózgi zielonej
+!!jaze mi sie starsy druzba ukłoni.
+!!@VERSE:
+!!2. Ukłoń mi sie starsy druzba niziuśko
+!!to ci oddam ten wianecek miluśko.
+!!@@END: VERSES
+!!!role-singer: Bridesmaids
+!!!role-listener: Groomsmen
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=99 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 88} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 88}
 !!!page: 88
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-30

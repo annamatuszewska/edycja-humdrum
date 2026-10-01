@@ -3,52 +3,68 @@
 !!!source: DWOK02
 !!!id: K0160
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{8dd
-8cc#
-8dd
-8ee
-=2
-8dd
-8cc#
-8dd
-8ee
-=3
-8dd
-8cc
-8a
-8cc
-=4
-4g
-4g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+=1	=1
+{8dd	W_o-
+8cc#	-gró-
+8dd	-de-
+8ee	-cku
+=2	=2
+8dd	ja-
+8cc#	-bło-
+8dd	-ne-
+8ee	-cka
+=3	=3
+8dd	a
+8ccn	przed
+8a	o-
+8cc	-knem
+=4	=4
+4g	ja-
+4g}	-bka
 !!LO:LB:g=esac
-=5
-{8a
-8cc
-8ee
-8cc
-=6
-8a
-8cc
-8ee
-8cc
-=7
-8b
-8b
-8g
-8b
-=8
-4cc
-4cc}
-==
-*-
+=5	=5
+{8a	nie
+8cc	za-
+8ee	-li-
+8cc	-caj
+=6	=6
+8a	ze
+8cc	się
+8ee	jej
+8cc	ty
+=7	=7
+8b	bo
+8b	ci
+8g	nie
+8b/	da
+=8	=8
+4cc	ma-
+4cc}	-tka.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. W ogródecku jabłonecka
+!!a przed oknem jabka
+!!nie zalicaj ze się jej ty
+!!bo ci nie da matka.
+!!@VERSE:
+!!2. Jak ze ij sie nie zalicać,
+!!kiej panienka ładna
+!!suknia na ni jak na pani
+!!i chustka jedwabna.
+!!@@END: VERSES
+!!!role-singer: Narrator, Lover
+!!!role-listener: Lover
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=145 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 134} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 134}
 !!!page: 134
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-01

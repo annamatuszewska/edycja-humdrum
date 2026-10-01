@@ -3,53 +3,85 @@
 !!!source: DWOK02
 !!!id: K0152
 !!!signature:
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16a
-16b
-8cc
-8dd
-=2
-16cc
-16b
-8a
-8g#
-=3
-16a
-16b
-8cc
-8dd
-=4
-8cc
-8g#}
-8r
+**kern	**text	**text
+*clefG2	*	*
+*k[]	*	*
+*a:	*	*
+*M3/8	*	*
+=1	=1	=1
+{16a	Oj	O-
+16b/	wyj-	-twórz-
+8cc	-dę	-cie
+8dd^	ja	ma
+=2	=2	=2
+16cc	oj	o-
+16b	wyj-	-twórz-
+8a	-dę	-cie
+8g#	ja	mu
+=3	=3	=3
+16a	za	ci-
+16b/	wy-	-so-
+8cc	-so-	-we
+8dd	-ki	wro-
+=4	=4	=4
+(8ccL	dwór	-ta
+8g#\J)}	.	.
+8r	.	.
 !!LO:LB:g=esac
-=5
-{16a
-16b
-8cc
-8dd
-=6
-16cc
-16b
-8a
-8dd
-=7
-16a
-16b
-8cc
-8g#
-=8
-4a}
-8r
-==
-*-
+=5	=5	=5
+{16a	cy-	.
+16b/	-li	.
+8cc	je-	.
+8dd^	-dzie	.
+=6	=6	=6
+16cc	cy	.
+16b	nie	.
+8a	je-	.
+8dd^	-dzie	.
+=7	=7	=7
+16a\	pan	.
+16b	ka-	.
+8cc	-wa-	.
+8g#\	-ler	.
+=8	=8	=8
+4a}	mój.	.
+8r	.	.
+=9	=9	=9
+{16a	niech	.
+16b/	nie	.
+8cc	sto-	.
+8dd^	-i	.
+=10	=10	=10
+16cc	pa-	.
+16b	-na	.
+8a	me-	.
+8dd^	-go	.
+=11	=11	=11
+16cc/L	koń	.
+16b/J	ko-	.
+16aL	-ło	.
+16g#J/	pło-	.
+=12	=12	=12
+4a}	-ta.	.
+8r	.	.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!Oj wyjdę ja oj wyjdę ja
+!!za wysoki dwór
+!!cyli jedzie cy nie jedzie
+!!pan kawaler mój.
+!!Otwórzcie mu otwórzcie mu
+!!cisowe wrota
+!!niech nie stoi pana mego
+!!koń koło płota.
+!!@@END: VERSES
+!!!role-singer: Mistress
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=141 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 130} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 130}
 !!!page: 130
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-01

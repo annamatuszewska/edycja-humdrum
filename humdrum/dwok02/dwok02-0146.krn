@@ -3,68 +3,79 @@
 !!!source: DWOK02
 !!!id: K0146
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8g
-8b
-8cc#
-=2
-8dd
-8a
-8g
-=3
-16a
-16b
-8g
-8d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8g	Zie-
+8b	-lo-
+8cc#	-na
+=2	=2
+(8ddL	ru-
+8a\)J	.
+8g	-ta
+=3	=3
+16a	zie-
+16b/	-lo-
+(8gL	-na,
+8d)J}	.
 !!LO:LB:g=esac
-=4
-{8g
-8b
-8cc#
-=5
-8dd
-8a
-8g
-=6
-16a
-16b
-8g}
-8r
+=4	=4
+{8g	a
+8b	cyś
+8cc#	ty
+=5	=5
+(8ddL	Ka-
+8a)J	.
+8g	-siu
+=6	=6
+16a	sa-
+16b/	-lo-
+8g}	-na.
+8r	.
 !!LO:LB:g=esac
-=7
-{8g
-8b
-8cc#
-=8
-4dd
-8dd
-=9
-16cc#
-16ee
-4dd}
+=7	=7
+{8g	Zie-
+8b	-lo-
+8cc#	-na
+=8	=8
+4dd	ru-
+8eeq	.
+8dd	-ta
+=9	=9
+16cc#	ja-
+16ee	-łe-
+4dd}	-wiec
 !!LO:LB:g=esac
-=10
-{8g
-8b
-8cc#
-=11
-8dd
-8a
-8g
-=12
-16a
-16a
-8g}
-8r
-==
-*-
+=10	=10
+{8g	lepsy
+8b	.
+8cc#	ka-
+=11	=11
+(8ddL	-wa-
+8a\J	.
+8g)	-ler
+=12	=12
+16a	niz
+16a	wdo-
+8g}	-wiec.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Zielona ruta zielona,
+!!a cyś ty Kasiu salona.
+!!Zielona ruta jałewiec
+!!lepsy kawaler niz wdowiec.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!role-listener: Single Girl
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=139 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 128} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 128}
 !!!page: 128
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-30

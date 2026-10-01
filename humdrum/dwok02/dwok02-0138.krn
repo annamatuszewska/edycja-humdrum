@@ -3,113 +3,224 @@
 !!!source: DWOK02
 !!!id: K0138
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8g
-8a
-4b
-4cc
-=2
-2.dd
-=3
-8cc#
-8dd
-4.ee
-8cc#
-=4
-2.dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8g	O
+8a	bia-
+4b	-ły
+4cc	Ja-
+=2	=2
+2.dd	-nie
+=3	=3
+8cc#	przy-
+8dd	-jezdzaj
+4.ee	.
+8cc#	do
+=4	=4
+2.dd}	mnie,
 !!LO:LB:g=esac
-=5
-{8b
-8dd
-4dd
-4cc
-=6
-4a
-4b
-4g
-=7
-8b
-8dd
-4dd
-4cc
-=8
-4a
-4b
-4g
-=9
-8f#
-8g
-4.a
-8f#
-=10
-2g}
-4r
+=5	=5
+{8b	je-
+8dd	-źli
+4dd	się
+4cc	chces
+=6	=6
+4a	o-
+4b/	-ze-
+4g	-nić
+=7	=7
+8b	ja
+8dd	ci
+4dd	zon-
+4cc	-kę
+=8	=8
+4a	na
+4b/	ra-
+4g	-ję
+=9	=9
+8f#	mój
+8g	bia-
+4.a	-ły
+8f#	Ja-
+=10	=10
+2g}	-nie.
+4r	.
 !!LO:LB:g=esac
-=11
-{8g
-8a
-4b
-4cc
-=12
-2.dd
-=13
-8cc#
-8dd
-4.ee
-8cc#
-=14
-2dd
-4a}
+=11	=11
+{8g	Jest
+8a	tam
+4b	u
+4cc	Wi-
+=12	=12
+2.dd	-cków
+=13	=13
+8cc#	na-
+8dd	-do-
+4.ee	-bna
+8cc#	Ma-
+=14	=14
+2dd	-ry-
+4a}	-sia
 !!LO:LB:g=esac
-=15
-{8b
-8dd
-4dd
-4cc
-=16
-8a
-8a
-4b
-4g
-=17
-8b
-8dd
-4dd
-4cc
-=
-12a
-12g
-12a
-4b
-4g
-=18
-8f#
-8g
-4.a
-8f#
-=
-12g
-12f#
-12e
-4.d
-8g
-=19
-8f#
-8g
-4.a
-8b
-=20
-2g}
-4r
-==
-*-
+=15	=15
+{8b	ma
+(8dd	wia-
+4dd	.
+4cc)	-ne-
+=16	=16
+8aL	-cek
+8aJ	.
+4b/	z_ru-
+4g	-ty
+=17	=17
+8b	nikt
+8dd	cno-
+4dd/	-ty
+4cc/	u
+=	=
+*Xtuplet	*
+12aL	ni
+12g	.
+12aJ	nie
+4b	ku-
+4g	-pi
+=18	=18
+8f#	mój
+8g	bia-
+4.a	-ły
+8f#	Ja-
+=	=
+12gL	-nie.
+12f#	.
+12eJ	—
+4.d	.
+8g	.
+=19	=19
+8f#	mój
+8g	bia
+4.a	ły
+8b/	Ja-
+=20	=20
+2g}	-nie.
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. O biały Janie
+!!przyjezdzaj do mnie! 
+!!jeźli się chces ozenić,
+!!ja ci zonkę naraję
+!!mój biały Janie!
+!!@VERSE:
+!!2. Jest tam u Wicków nadobna Marysia
+!!ma wianecek z ruty
+!!nikt cnoty u ni nie kupi
+!!mój biały Janie. — mój bia ły Janie.
+!!@VERSE:
+!!3. Jest tam u Tomalow
+!!nadobna Piętrysia.
+!!Ma wianecek z pietruski
+!!białe u nij poduski,
+!!mój biały Janie.
+!!@VERSE:
+!!4. Jest tu we dworze
+!!nadobna Margosia.
+!!Ma wianecek z piwonije,
+!!kawalerzy piją u nij,
+!!mój biały Janie!
+!!@VERSE:
+!!5. Jest tam u Gasperów
+!!nadobna Basiunia;
+!!ma wianecek z bożydrzewka
+!!najładniejsa we wsi dziewka
+!!mój biały Janie!
+!!@VERSE:
+!!6. Jest tam u Tomalów
+!!nadobna Magdusia;
+!!cała taka jak pokrzywa,
+!!z ludzi se tylo wykpiwa
+!!mój biały Janie!
+!!@VERSE:
+!!7. Jest i tam w oborze
+!!nadobna Klarusia,
+!!na wianecek ze złota
+!!bo uboga, siorota,
+!!o biały Janie.
+!!@VERSE:
+!!8. Jest tam w piwnicy
+!!nadobna Wiktusia,
+!!ma wianecek ze stokroci
+!!kazała go se pozłocić,
+!!o biały Janie
+!!@VERSE:
+!!9. Jest u Kapuściny
+!!nadobna Zośka;
+!!ma wianecek z kapusty,
+!!pójdzie za mąz w zapusty,
+!!o biały Janie.
+!!@VERSE:
+!!10. A jest u Grzelów
+!!nadobna Jagosia—
+!!ma wianecek z rózy,
+!!cały jéj świat słuzy
+!!o biały Janie.
+!!@VERSE:
+!!11. Jest tu w ogrodzie,
+!!nadobna Jantosia,
+!!ma wianecek z powoju
+!!nie da chłopcom pokoju,
+!!o biały Janie!
+!!@VERSE:
+!!12. Jest ci tu w gospodzie
+!!nadobna Polusia,
+!!ma wianecek z ostu
+!!bo duzego wzrostu.
+!!o biały Janie.
+!!@VERSE:
+!!13. Jest tam u Sokółki
+!!nadobna Kasiunia,
+!!ma zapaskę we dwie pole,
+!!robota ją w rękę kole,
+!!o biały Janie.
+!!—
+!!@VERSE:
+!!14. Ma wianecek z bozydrzewka
+!!najbogatsa we wsi dziewka
+!!@VERSE:
+!!15. Ma spódnicę z falbanami,
+!!chodzi w zanadrzu z rękami.
+!!@VERSE:
+!!16. Ma trzewicki z zelaza
+!!ledwie bez (przez) próg przelaza
+!!@VERSE:
+!!17. Ma fartusek lniany
+!!pięknie maglowany.
+!!@VERSE:
+!!18. Ma wstązecke wąziuchną,
+!!sama grzecna, niziuchna.
+!!@VERSE:
+!!19. Ma kosulkę z mankietami,
+!!chodzi sobie kieby pani.
+!!@VERSE:
+!!20. Ma wianecek z rutki
+!!bo jéj grają w dudki.
+!!@VERSE:
+!!21. Ma wianecek z miętki
+!!kazdy do nij prędki.
+!!@VERSE:
+!!22. Ma wianecek z pokrzywy
+!!bo na głowie jéj krzywy,
+!!pójdzie za mąz we zniwy. i t. p.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=125 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 114} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 114}
 !!!page: 114
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-30

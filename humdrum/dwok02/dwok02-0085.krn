@@ -3,47 +3,66 @@
 !!!source: DWOK02
 !!!id: K0085
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8b
-8a
-8b
-8cc
-=2
-4dd
-8dd
-8b
-=3
-8cc
-8b
-8cc
-8dd
-=4
-8b
-8f#
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8b/L	Oj
+8aJ	.
+8b	łą-
+8cc	-cki
+=2	=2
+4dd	i-
+8dd	-no
+8b	brzeg
+=3	=3
+8ccL	mo-
+8bJ	.
+8cc	-ja
+8dd	Ka-
+=4	=4
+8b/L	-sie-
+8f#J	.
+4g}	-niu,
 !!LO:LB:g=esac
-=5
-{8b
-8a
-16b
-16dd
-8cc
-=6
-4cc
-16b
-16f#
-8g
-=7
-2g}
-==
-*-
+=5	=5
+{8b/L	oj
+8aJ	.
+16bL	łą-
+16ddJ	.
+8cc	-cki
+=6	=6
+4cc	i-
+16b/L	-no
+16f#	.
+8gJ	.
+=7	=7
+!LO:TX:a:t=Druchny przystępują do razplatania pannie młodéj warkocza (86).	!
+2g};	brzeg.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj łącki ino brzeg moja Kasieniu,
+!!oj łącki ino brzeg —
+!!oj radabym cie Jasiu opuściła
+!!oj ale pono grzech.
+!!@VERSE:
+!!2. Oj łącki ino kraj moja Kasieniu,
+!!oj łącki ino kraj —
+!!oj radabym cie Jasiu opuściła
+!!oj ale mi cie zal.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: (text obacz Nr. 47).
+!!@@END:
+!!!role-singer: Lovers (dialogue)
+!!!singer-sex: Male, Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=86 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 75} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 75}
 !!!page: 75
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-29

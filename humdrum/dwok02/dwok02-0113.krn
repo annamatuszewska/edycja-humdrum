@@ -3,38 +3,49 @@
 !!!source: DWOK02
 !!!id: K0113
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8g
-8b
-8b
-8b
-=2
-4cc
-8dd
-8b
-=3
-4.cc
-8a}
+**kern	**text	**text
+*clefG2	*	*
+*k[]	*	*
+*G:	*	*
+*M2/4	*	*
+=1	=1	=1
+{8g	A	Na
+8b	wstydźcie	cy-
+8b	sie	-pe-
+8b	sta-	-cek
+=2	=2	=2
+4cc	-ro-	dla
+(8ddL	-sto-	Ma-
+8b)J	.	.
+=3	=3	=3
+(4.cc	-wie	-ry-
+8a)}	a	-sie
 !!LO:LB:g=esac
-=4
-{8g
-8b
-8dd
-8ee
-=5
-4cc
-4a
-=6
-2g}
-==
-*-
+=4	=4	=4
+{8g	wstydźcie	składaj-
+8b	.	.
+8dd	.	-cie
+8ee	sie	się,
+=5	=5	=5
+4cc	wsty-	składaj-
+4a	-dźcie	.
+=6	=6	=6
+!LO:TX:a:t=Przy końcu wesela (114)&colon;	!	!
+2g}	sie.	-cie.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!A wstydźcie sie starostowie
+!!a wstydźcie sie wstydźcie sie.
+!!Na cypecek dla Marysie
+!!składajcie się, składajcie.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!role-listener: Mayors
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=97 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 86} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 86}
 !!!page: 86
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-29

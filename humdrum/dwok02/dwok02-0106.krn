@@ -3,71 +3,81 @@
 !!!source: DWOK02
 !!!id: K0106
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*d:
-=1
-*M3/4
-{4dd
-4dd
-8ff
-8ee
-=2
-8cc#
-8a
-2dd
-=3
-8cc#
-8dd
-4cc
-8b-
-8g
-=4
-2.a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*d:	*
+=1	=1
+*M3/4	*
+{4dd	Oj
+4dd	chmielu
+8ffL	.
+8eeJ	.
+=2	=2
+8cc#/L	chmie-
+8aJ	.
+2dd	-lu
+=3	=3
+8cc#	ty
+8dd	buj-
+4cc	-ne
+8b-/L	zie-
+8gJ	.
+=4	=4
+2.a}	-le,
 !!LO:LB:g=esac
-=5
-{4dd
-4dd
-8ff
-8ee
-=6
-8cc#
-8a
-2dd
-=7
-8cc#
-8dd
-4cc
-8b-
-8g
-=8
-2.a}
+=5	=5
+{4dd	ja-
+4dd	-kież
+8ffL	bez
+8eeJ	.
+=6	=6
+8cc#/L	cie-
+8aJ	.
+2dd	-bie
+=7	=7
+8cc#	bę-
+8dd	-dzie
+4cc	we-
+8b-/L	-se-
+8gJ	.
+=8	=8
+2.a}	-le?
 !!LO:LB:g=esac
-=9
-*M3/8
-{8cc
-8g
-16a
-16b
-=10
-16cc
-16a
-8g
-16a
-16b
-=11
-16cc
-16dd
-8cc
-16b-
-16g
-=12
-4.a}
-==
-*-
+=9	=9
+*M3/8	*
+{8cnc	Oj
+8g	chmielu
+16aL	.
+16b/J	.
+=10	=10
+16cc	oj
+16a\	nie
+8g	bo-
+16aL	-ze
+16b/J	.
+=11	=11
+!LO:TX:a:t=rallent	!
+16cc	chmielu
+16dd	.
+8cc	nie
+16b-/L	bo-
+16gJ	.
+=12	=12
+4.a}	-ze.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oj chmielu chmielu ty bujne ziele,
+!!jakież bez ciebie będzie wesele?
+!!Oj chmielu oj nie boze chmielu nie boze.
+!!@@END: VERSES
+!!!role-singer: Women
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=95 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 84} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 84}
 !!!page: 84
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-29

@@ -3,50 +3,66 @@
 !!!source: DWOK02
 !!!id: K0125
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{8cc
-8ee
-8dd
-8cc
-=2
-8b
-8a
-8a
-8g
-=3
-4g
-4b
-=4
-4cc}
-4r
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+=1	=1
+{8cc	A
+8ee	gdzie
+8dd	sie
+8cc	nam
+=2	=2
+8b/	pan-
+8a	-na
+8a	mło-
+8g	-da
+=3	=3
+4g	po-
+4b	-dzia-
+=4	=4
+4cc}	-ła,
+4r	.
 !!LO:LB:g=esac
-=5
-{8cc
-8ee
-8dd
-8cc
-=6
-8b
-8a
-8a
-8g
-=7
-8g
-8b
-8dd
-8b
-=8
-4cc}
-4r
-==
-*-
+=5	=5
+{8cc	a
+8ee	w_ko-
+8dd	-ście-
+8cc	-le
+=6	=6
+8b/	za
+8a	oł-
+8a	-ta-
+8g	-rzem
+=7	=7
+8gL	zo-
+8b/J	.
+8ddL	-sta-
+8bJ	.
+=8	=8
+4cc}	-ła.
+!LO:TX:a:t=Idąc na gospodę, u drzwi tejże (na tęż nutę) (126)&colon;	!
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A gdzie sie nam panna-młoda
+!!podziała,
+!!a w kościele za ołtarzem została.
+!!@VERSE:
+!!2. Obróć ze sie starsy druzba
+!!do koła —
+!!wyprowadź nam pannę-młodę
+!!z kościoła.
+!!@@END: VERSES
+!!!role-singer: Bridesmaids
+!!!role-listener: Senior best man
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=102 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 91} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 91}
 !!!page: 91
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-30

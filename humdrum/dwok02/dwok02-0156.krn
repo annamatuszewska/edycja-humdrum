@@ -3,72 +3,88 @@
 !!!source: DWOK02
 !!!id: K0156
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*e:
-*M3/8
-=1
-{8b
-8b
-8b
-=2
-4a
-8f#
-=3
-16g
-16a
-4b}
+**kern	**text	**text
+*clefG2	*	*
+*k[f#]	*	*
+*e:	*	*
+*M3/8	*	*
+=1	=1	=1
+{8b	A	Sto-
+8b	z_Po-	-ja-
+8b	-nie-	-ła
+=2	=2	=2
+4a	-dział-	Ka-
+8f#	-ku	-sia
+=3	=3	=3
+16g	na	na
+16a	świę-	mo-
+4b}	-to	-ście
 !!LO:LB:g=esac
-=4
-{8cc
-8b
-8b
-=5
-4a
-8b
-=6
-16g
-16f#
-4e}
+=4	=4	=4
+{8cc	fur-	i
+8b	-ma-	kła-
+8b	-nu	-nia-
+=5	=5	=5
+4a	ko-	-ła
+8b/	-nie	się
+=6	=6	=6
+16g	za-	sta-
+16f#	-ję-	-ro-
+4e}	-to	-ście.
 !!LO:LB:g=esac
-=7
-{8e
-8g
-8f#
-=8
-4a
-16g
-16f#
-=9
-16g
-16f#
-8g
-8a
-=10
-8cc
-4b}
+=7	=7	=7
+{8e	A	Powiedz
+8g	jak	.
+8f#	za-	sta-
+=8	=8	=8
+4a	-ję-	-ro-
+16gL	-to	-sto
+16f#J	.	.
+=9	=9	=9
+16g	tak	powiedz
+16f#	za-	.
+8g	-ję-	sta-
+8a	-to	-ro-
+=10	=10	=10
+8cc	ko-	-ścin-
+4b}	-nie,	-ku,
 !!LO:LB:g=esac
-=11
-{8b
-8a
-8a
-=12
-4b
-8a
-=13
-16g
-16f#
-8.e
-16f#
-=14
-16g
-16f#
-4e}
-==
-*-
+=11	=11	=11
+{8b/	oj	oj
+8a	nie-	co
+8a	-świa-	ta
+=12	=12	=12
+4b	-do-	słychać
+8a	-mo	.
+=13	=13	=13
+16g	któ-	na
+16f#	-rą	Kra-
+8.e	dro-	-ko-
+16f#	-gą	-skim
+=14	=14	=14
+16gL	po-	ryn-
+16f#J	.	.
+4e}	-nie.	-ku.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. A z Poniedziałku na święto
+!!furmanu konie zajęto
+!!A jak zajęto tak zajęto konie,
+!!oj nieświadomo którą drogą ponie.
+!!@VERSE:
+!!2. Stojała Kasia na moście
+!!i kłaniała się staroście.
+!!Powiedz starosto, powiedz starościnku,
+!!oj co ta słychać na Krakoskim rynku.
+!!@@END: VERSES
+!!!role-singer: Narrator, Girl
+!!!role-listener: Mayor
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=142 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 131} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 131}
 !!!page: 131
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-01

@@ -3,45 +3,110 @@
 !!!source: DWOK02
 !!!id: K0090
 !!!signature:
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M3/4
-=1
-{8a
-8a
-4cc#
-4dd
-=2
-4dd
-4.cc#
-8a
-=3
-8cc#
-8dd
-4dd
-4cc#
-=4
-4dd
-4cc#
-4a}
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M3/4	*
+=1	=1
+{8a	A
+8a	wy-
+4cc#	-bie-
+4dd	-raj-
+=2	=2
+4dd	-ze
+(4.cc#	sie
+8a\)	.
+=3	=3
+8cc#	na-
+8dd	-do-
+4dd	-bna
+4cc#	Ka-
+=4	=4
+4dd	-sie-
+(4cc#	.
+4a\)}	-niu,
 !!LO:LB:g=esac
-=5
-{8cc#
-8cc#
-4dd
-4ee
-=6
-4dd
-4cc#
-4g
-=7
-2.a}
-==
-*-
+=5	=5
+{8cc#	oj
+8cc#	mas
+4dd	ślub
+4ee	brać,
+=6	=6
+4dd	mas
+(4cc#	ślub
+4g)	.
+=7	=7
+!LO:TX:a:t=Jadąc przez wieś (91)&colon;	!
+2.a}	brać.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A wybierajze sie nadobna Kasieniu,
+!!oj mas ślub brać, mas ślub brać;
+!!a wdziewaj ze na sie turecką spódnicę
+!!da śrebrny pas, śrebny pas.
+!!@VERSE:
+!!(2. A wiedziałeś ci ty nadobny Jasieniu
+!!ze ja była sierota,
+!!a nie miałaci ja tureckij spódnicy,
+!!ani pasa ze złota).
+!!@VERSE:
+!!3. Oj i zjechało się sto pacholików,
+!!oj sto ludu, sto ludu;
+!!a wybieraj ze sie nadobna Kasieniu
+!!oj do ślubu, do ślubu.
+!!@VERSE:
+!!4. A juz ci ja sie moi dobrzy ludzie
+!!oj wybrała, wybrała,
+!!a ino mi ta — moja matusia
+!!błogosławiństwa nie dała.
+!!@VERSE:
+!!5. Oj zjechało sie sto dwadzieścia wozów
+!!oj i ćtery, i ćtery,
+!!a wsyćkie ony sie — do moji matusie
+!!na podwórce zmieściły.
+!!@VERSE:
+!!6. Oj da bez progi a moja Kasieniu,
+!!a bez progi, bez progi,
+!!oj uchyć ze tę — swoją matulę
+!!oj pod nogi, pod nogi.
+!!@VERSE:
+!!7. A wsiadajze na wóz — warkocek se załóz,
+!!cegoz będzies płakała?
+!!jeśli o wianecek, jeśli o ruciany,
+!!nie rychłoś se spomniała.
+!!@VERSE:
+!!8. Zawołajcie matki moji,
+!!niech mi tu przy stole stoi;
+!!będe ja jéj dziękowała
+!!co mnie pięknie wychowała.
+!!@VERSE:
+!!9. Dziękuje ci o moja matusiu
+!!za to piękne wychowanie.
+!!„A idź ze se z panem Bogiem
+!!moje dziecie kochane!“
+!!@VERSE:
+!!10. Błogosław nas matko moja,
+!!bo jedziemy do kościoła,
+!!błogosław nas ręką swoją
+!!bo jedziemy z córką twoją.
+!!@VERSE:
+!!11. Błogosławcie przyjaciele,
+!!niech sie wola boska dzieje —
+!!bo Bóg zacął i Bóg końcy,
+!!jednych dzieli, drugich łący.
+!!@VERSE:
+!!12. Ostajcie z Nim ściany, okna,
+!!co ja przy was warkoc plotła,
+!!ostaj z Bogiem sienny progu,
+!!idę za mąż — chwała Bogu!
+!!@@END: VERSES
+!!!role-singer: Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=87 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 76} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 76}
 !!!page: 76
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-29

@@ -3,42 +3,67 @@
 !!!source: DWOK02
 !!!id: K0100
 !!!signature:
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M3/4
-=1
-{4a
-4cc#
-4cc#
-=2
-4dd
-2cc#
-=3
-8dd
-8ee
-4dd
-8dd
-8cc#
-=4
-4a
-2g}
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M3/4	*
+=1	=1
+{4a	Oj
+4cc#	da
+4cc#	pod
+=2	=2
+4dd	ła-
+2cc#	-wę
+=3	=3
+8dd	ru-
+8ee	-cia-
+4dd	-ny
+8ddL	wia-
+8cc#J	.
+=4	=4
+4a	-ne-
+2g}	-cku
 !!LO:LB:g=esac
-=5
-{4a
-4cc#
-4dd
-=6
-4dd
-4cc#
-4g
-=7
-2.a}
-==
-*-
+=5	=5
+{4a	pod
+4cc#	ła-
+4dd	-wę
+=6	=6
+4dd	pod
+(4cc#	ła-
+4g\)	.
+=7	=7
+2.a}	-wę.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj da pod ławę ruciany wianecku
+!!pod ławę pod ławę.
+!!oj a na głowę, niciany cepecku!
+!!na głowę, na głowę.
+!!@VERSE:
+!!2. Oj da na pułkę ruciany wianecku,
+!!na pułkę, na pułkę (na półkę)
+!!oj a na głuwkę, niciany cepecku!
+!!na głuwkę, na głuwke (na główkę).
+!!@VERSE:
+!!3. Oj niewiedziała co robić miała
+!!od myśli, od myśli —
+!!oj powiesiła ruciany wianecek
+!!na wiśni, na wiśni.
+!!@VERSE:
+!!4. Oj niewiedziała co robić miała
+!!od zalu, od zalu —
+!!oj ostawiła ruciany wianecek
+!!na polu, na polu.
+!!@@END: VERSES
+!!!role-singer: Group
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=92 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 81} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 81}
 !!!page: 81
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-29

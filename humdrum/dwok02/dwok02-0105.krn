@@ -3,51 +3,68 @@
 !!!source: DWOK02
 !!!id: K0105
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8dd
-8dd
-8ee
-8ee
-=2
-8dd
-8dd
-8dd
-8cc
-=3
-8b
-8g
-8a
-8f#
-=4
-2g}
+**kern	**text	**text
+*clefG2	*	*
+*k[f#]	*	*
+*G:	*	*
+*M2/4	*	*
+=1	=1	=1
+{8dd/L	Ju-	A
+8dd/J	-ześ	weź
+8ee	nie-	ze
+8ee	-wia-	se
+=2	=2	=2
+8dd	-sta	wę-
+8dd	Ka-	-zeł
+8dd	-sie-	ka-
+8cc	-niu,	-sy,
+=3	=3	=3
+8b	ju-	kup
+8g	-ześ	se
+8a	nie-	go-
+8f#	-wia-	-rzał-
+=4	=4	=4
+2g}	-sta,	-ki,
 !!LO:LB:g=esac
-=5
-{8g
-8b
-8a
-8a
-=6
-8g
-8b
-8cc
-8cc
-=7
-8b
-8g
-8a
-8f#
-=8
-4g}
-4r
-==
-*-
+=5	=5	=5
+{8g	weź	a
+8b	ze	powiedz
+8a	z_so-	.
+8a	-bą	ze
+=6	=6	=6
+8g	ko-	przed
+8b	-sy-	Ja-
+8cc	-cy-	-sieniem
+8cc	-nę	.
+=7	=7	=7
+8b	idź	ze
+8g	ze	to
+8a	do	na
+8f#	mia-	gar-
+=8	=8	=8
+4g}	-sta.	-ki.
+!LO:TX:a:t=Wreszcie kończą chmielem (106)&colon;	!	!
+4r	.	.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. Juześ niewiasta Kasieniu,
+!!juześ niewiasta,
+!!weź ze z sobą kosycynę
+!!idź ze do miasta.
+!!@VERSE:
+!!2. A weź ze se węzeł kasy,
+!!kup se gorzałki,
+!!a powiedz ze pszed Jasieniem
+!!ze to na garki.
+!!@@END: VERSES
+!!!role-singer: Woman
+!!!role-listener: Bride
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=94 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 83} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 83}
 !!!page: 83
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-29

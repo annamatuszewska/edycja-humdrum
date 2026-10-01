@@ -3,43 +3,65 @@
 !!!source: DWOK02
 !!!id: K0087
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16b
-16cc
-8.dd
-16cc
-=2
-8a
-4dd
-=3
-16a
-16b
-8.cc
-16b
-=4
-8dd
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16b	Jakześ
+16cc	.
+8.dd	mi
+16cc	to
+=2	=2
+8a	ma
+4dd	wiał
+=3	=3
+16a	ja
+16b/	keś
+8.cc	mie
+16b	na
+=4	=4
+8dd	ma-
+4g}	-wiał
 !!LO:LB:g=esac
-=5
-{16b
-16cc
-8.dd
-16cc
-=6
-8a
-4dd
-=7
-4g}
-8r
-==
-*-
+=5	=5
+{16b	a
+16cc	mó-
+8.dd	-wi-
+16cc	-łeś
+=6	=6
+8a	mo-
+4dd	-jaś
+=7	=7
+4g}	ty.
+8r	_
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Jakześ mi to ma wiał
+!!ja keś mie na mawiał
+!!a mówiłeś mojaś ty.
+!!@VERSE:
+!!2. A teraz mnie bijes
+!!kiedy sie upijes,
+!!a i wołas: głupiaś ty!
+!!@VERSE:
+!!3. Jakeś mi to mawiał
+!!jakeś mnie namawiał
+!!u matusi przed sienią —
+!!@VERSE:
+!!4. Wziąnes mi wianecek
+!!z siedmiu rownianecek —
+!!schowałeś go przede mną.
+!!@@END: VERSES
+!!!role-singer: Bride
+!!!role-listener: Groom
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=86 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 75} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 75}
 !!!page: 75
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-29

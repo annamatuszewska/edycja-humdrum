@@ -3,162 +3,210 @@
 !!!source: DWOK02
 !!!id: K0137
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8g
-8a
-4b
-4cc
-=2
-2.dd
-=3
-8cc#
-8dd
-4.ee
-8b
-=4
-4dd
-4a}
-4r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8g	O
+8a	Ja-
+4b	-nie
+4cc	Ja-
+=2	=2
+2.dd	-nie
+=3	=3
+8cc#	Ja-
+8dd	-nie
+4.ee	zie-
+8b	-lo-
+=4	=4
+(4dd	.
+4a\)}	-ny,
+4r	.
 !!LO:LB:g=esac
-=5
-{4dd
-4.dd
-8cc
-=6
-2b
-4g
-=7
-8f#
-8g
-4.a
-8f#
-=
-12g
-12f#
-12e
-2d}
+=5	=5
+{4dd	pa-
+4.dd	-da
+8cc	ją
+=6	=6
+2b	li-
+4g	-ście
+=7	=7
+8f#	na
+8g	wsyćkie
+4.a	.
+8f#	stro-
+=8	=8
+*Xtuplet	*
+(12gL	-ny,
+12f#	.
+12e	.
+2dJ)}	.
 !!LO:LB:g=esac
-=8
-{8f#
-8g
-4.a
-8f#
-=9
-2g}
-4r
+=9	=9
+{8f#	na
+8g	wsyćkie
+4.a	.
+8f#	stro-
+=10	=10
+2g}	-ny.
+4r	.
 !!LO:LB:g=esac
-=10
-{8dd
-8ee
-4.dd
-8cc
-=11
-8b
-8a
-4.b
-8g
-=12
-8f#
-8g
-4.a
-8f#
-=
-12g
-12f#
-12e
-2d}
+=11	=11
+{8dd	A
+8ee	ty
+4.dd	Jan-
+8cc	-ku
+=12	=12
+8b/	pa-
+8a	-ro-
+4.b/	-be-
+8g	-cku
+=13	=13
+8f#	su-
+8g	-kaj
+4.a	se
+8f#	zo-
+=14	=14
+(12gL	-ny,
+12f#	.
+12e	.
+2dJ)}	.
 !!LO:LB:g=esac
-=13
-{8f#
-8g
-4.a
-8f#
-=14
-2g}
-4r
+=15	=15
+{8f#	su-
+8g	-kaj
+4.a	se
+8f#	zo-
+=16	=16
+2g}	-ny.
+4r	.
 !!LO:LB:g=esac
-=15
-{8b
-8a
-4b
-4cc
-=16
-2.dd
-=17
-8cc#
-8dd
-4.ee
-8b
-=18
-[2.dd}
+=17	=17
+{8b	Kaj-
+8a	-ta
+4b	jej
+4cc	bę-
+=18	=18
+2.dd	-de
+=19	=19
+8cc#	u
+8dd	ka-
+4.ee	-ta
+8b	su-
+=20	=20
+[2.dd}	-kać,
 !!LO:LB:g=esac
-=19
-8dd]
-{8ee
-4.dd
-8cc
-=
-12cc
-12b
-12a
-4b
-4g
-=20
-8f#
-8g
-4.a
-8f#
-=
-12g
-12f#
-12e
-2d}
+=21	=21
+8dd]	a
+{8ee	pój-
+4.dd	-dę
+8cc	ja
+=22	=22
+*tuplet	*
+!LO:TUP:a	!
+(12ccL	do
+12bJ)	.
+12a	Sce-
+4b/	-pa-
+4g	-nów
+=23	=23
+8f#	w_o-
+8g	-kien-
+4.a	-ko
+8f#	pu-
+=24	=24
+*Xtuplet	*
+(12gL	-kać,
+12f#	.
+12e	.
+2dJ)}	.
 !!LO:LB:g=esac
-=21
-{8f#
-8g
-4.a
-8f#
-=22
-2g}
-4r
+=25	=25
+{8f#	w_o-
+8g	-kienko
+4.a	.
+8f#	pu-
+=26	=26
+2g}	-kać.
+4r	.
 !!LO:LB:g=esac
-=23
-{2dd
-4cc
-=24
-8.b
-16a
-4.b
-8g
-=25
-8.b
-16dd
-4.dd
-8cc
-=26
-8b
-8a
-4.b
-8g}
+=27	=27
+{2dd	Puk
+4cc	puk
+=28	=28
+8/.b	w_o-
+16a	-kie-
+4.b/	-ne-
+8g	-cko,
+=29	=29
+8.b	wyjdź
+16dd	ze
+4.dd	Ma-
+8cc	-ryś
+=30	=30
+8b	ko-
+8a\	-cha-
+4.b/	-ne-
+8g}	-cko
 !!LO:LB:g=esac
-=27
-{8f#
-8g
-4.b
-8f#
-=28
-2g}
-4r
-==
-*-
+=31	=31
+{8f#	sa-
+8g	-ma
+(8aq	.
+4.b/)	je-
+8f#	-dy-
+=32	=32
+2g}	-na.
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. O Janie Janie—Janie zielony,
+!!Padają liście — na wsyćkie strony,
+!!na wsyćkie strony.
+!!A ty Janku parobecku
+!!sukaj se zony, sukaj se zony.
+!!Kajta jej będe u kata sukać,
+!!a pójdę ja do Scepanów
+!!w okienko pukać, w okienko pukać.
+!!Puk puk w okienecko,
+!!wyjdź ze Maryś kochanecko
+!!sama jedyna.
+!!Maryś nie wysła — siostrę wysłała:
+!!siostro, moja siostro!
+!!oj staw się za mnie ostro,
+!!jakby ja sama.
+!!@VERSE:
+!!2. O Janie, Janie, Janie zielony!
+!!padajcie liście na wsyćkie strony;
+!!ty Tomalów parobecku
+!!sukaj se zony.
+!!A kajze jéj mam u kata sukać?
+!!a pójdę ja do Kapusty (nazwisko)
+!!w okienko pukać.
+!!Puk, puk, w okienecko:
+!!wyjdź ze Magduś kochanecko
+!!sama jedyna.
+!!Magdusia wyśła — rąckę mu dała:
+!!a witajze , witaj!
+!!witaj mój Wawrzusiu
+!!będe cię chciała.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: Początek śpiewu tego bywa czasem odmienny w ten sposób:
+!!1. Przeleciał Sokół—bez (przez) Scepanów okół,
+!!pad(ł), pad(ł), w ogródecku,
+!!przy bujnem ziółecku,
+!!oztocył ogon.
+!!Puk, puk w okienecko i t. d.
+!!@@END:
+!!!role-singer: Narrator, Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=123 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 112-113} @EN{Oskar Kolberg Complete Works 2: Sandomierz, pp. 112-113}
 !!!page: 112-113
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-30

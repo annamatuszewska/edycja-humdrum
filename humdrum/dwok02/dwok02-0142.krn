@@ -3,58 +3,93 @@
 !!!source: DWOK02
 !!!id: K0142
 !!!signature:
-**kern
-*clefG2
-*k[b-e-]
-*g:
-*M4/4
-=1
-{4dd
-8dd
-8ee
-4dd
-4a
-=2
-4dd
-8dd
-8ee
-4dd
-4a
-=3
-4dd
-8a
-8b-
-8g
-8f#}
-4r
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*g:	*
+*M4/4	*
+=1	=1
+{4dd	Po-
+8dd	-sły
+8ee	dzi-
+4dd	-we-
+4a	-cki
+=2	=2
+4dd	prec
+8dd	za
+8ee	gó-
+4dd	-re-
+4a	-cki
+=3	=3
+4dd	wian
+8aL	ki
+8b-J/	.
+8gL	rwać
+8f#J}	.
+4r	.
 !!LO:LB:g=esac
-=4
-{8f#
-8g
-8b-
-8cc
-4dd
-8a
-8b-
-=5
-8f#
-8g
-8b-
-8cc
-4dd
-8ee
-8cc#
-=6
-8dd
-8cc
-8a
-8b-
-4g}
-4r
-==
-*-
+=4	=4
+{8f#	Wian-
+8g	-ków
+8b-	nie
+8cc	wyr-
+4dd	-wa-
+8aL	-ły
+8b-J/	.
+=5	=5
+8f#	sno-
+8g	-py
+8b-	po
+8cc	tar-
+4dd	-ga-
+8eeL	-ły,
+8cc#J	.
+=6	=6
+8dd/L	bę-
+8cc/nJ	.
+8aL	-dą
+8b-/J	.
+4g}	brać.
+!LO:TX:a:t=Następujący po nim śpiew miał na celu wytknięcie wad, przymiotów, oczekiwań i życzeń dziewcząt, nadając im stosowne wianki.	!
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Posły dziwecki-prec za górecki,
+!!wianki rwać;
+!!wianków nie wyrwały
+!!snopy potargały—
+!!będą brać.
+!!@VERSE:
+!!2. I napotkały — dworskiego Wróbla,
+!!on jedzie;
+!!on jedzie od matki,
+!!konik pod nim gładki,
+!!mój będzie!
+!!@VERSE:
+!!3. Oj i ujźrały Symańskiego Juzka,
+!!on jedzie;
+!!on jedzie od siostry,
+!!konik pod nim ostry,
+!!mój będzie.
+!!@VERSE:
+!!4. Oj i ujźrały Kaźmierza Zająca,
+!!on jedzie;
+!!on jedzie od baby,
+!!konik pod nim słaby —
+!!nas będzie!
+!!@VERSE:
+!!5. Oj i ujźrały starego Poliwę,
+!!on jedzie;
+!!on jedzie od licha,
+!!konik pod nim prycha —
+!!z Cną (z Celiną) w rzędzie i t. p.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=153 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 142} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 142}
 !!!page: 142
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-30

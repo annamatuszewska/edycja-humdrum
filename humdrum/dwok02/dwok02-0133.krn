@@ -3,54 +3,67 @@
 !!!source: DWOK02
 !!!id: K0133
 !!!signature:
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/8
-=1
-{16dd#
-16ee
-8ff#
-8ee
-=
-24dd#
-24b
-24b
-8a
-8a
-=2
-16b
-16dd#
-8ff#
-8dd#
-=3
-8ee}
-4r
+**kern	**text
+*clefG2	*
+*k[]	*
+*A:	*
+*M3/8	*
+=1	=1
+{16dd#	A
+16ee	cepciez
+8ff#	.
+8ee	tam
+=2	=2
+!LO:TUP:a	!
+24dd#L	pan-
+24bJ	.
+16b	-nę
+8a	mło-
+8a	-dą
+=3	=3
+16/bL	ce-
+16d/d#	.
+8ff#/	.
+8dd#/J	-pcie
+=4	=4
+8ee}	tam,
+4r	.
 !!LO:LB:g=esac
-=4
-{16dd#
-16ee
-8ff#
-8ee
-=
-24dd
-24cc#
-12b
-8a
-8a
-=5
-8a
-8a
-16b
-16g#
-=6
-8a}
-4r
-==
-*-
+=5	=5
+{16dd#	cte-
+16ee	-ry
+8ff#	gar-
+8ee	-ce
+=6	=6
+!LO:TUP:a	!
+(24ddL	go-
+24cc#J)	.
+16b	-rza-
+8a	-li-
+8a	-ny
+=7	=7
+8a	tu
+8aM	daj-
+16b/L	-cie
+16g#J	.
+=8	=8
+8a}	nam.
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A cepciez tam pannę młodą cepcie tam,
+!!ctery garce gorzaliny tu dajcie nam.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: during the "oczepiny" ceremony
+!!@@END:
+!!!role-singer: Narrator
+!!!role-listener: Group 
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=143 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 132} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 132}
 !!!page: 132
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-30

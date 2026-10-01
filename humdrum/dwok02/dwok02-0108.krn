@@ -3,74 +3,87 @@
 !!!source: DWOK02
 !!!id: K0108
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{4b
-8b
-8cc
-=2
-4dd
-8dd
-8b
-=3
-8cc
-8g}
-4r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{4b	Oj
+8b	na
+8cc	roz-
+=2	=2
+4dd	-ple
+(8ddL	ci-
+8b)J	.
+=3	=3
+(8cc	-nach
+8g\)J}	.
+4r	.
 !!LO:LB:g=esac
-=4
-{4b
-8b
-8dd
-=5
-4cc
-8b
-8f#
-=6
-4g}
-4r
+=4	=4
+{4b	oj
+8b	Ma-
+8dd	-ry-
+=5	=5
+4cc	-si
+8b/L	ni-
+8f#J	.
+=6	=6
+4g}	-ma,
+4r	.
 !!LO:LB:g=esac
-=7
-{4b
-8b
-8cc
-=8
-8dd
-8ee
-8dd
-8b
-=9
-4cc
-8b
-8cc
-=10
-4dd
-8b
-8f#
-=11
-2g}
+=7	=7
+{4b	oj
+8b	po-
+8cc	-sła-
+=8	=8
+8ddL	-ła
+8eeJ	.
+8ddL	ją
+8bJ	.
+=9	=9
+4cc	ro-
+8b	-dzo-
+8cc	-na
+=10	=10
+4dd	ma-
+8b/L	-tu-
+8f#J	.
+=11	=11
+2g}	-la
 !!LO:LB:g=esac
-=12
-{4b
-4b
-=13
-4b
-8dd
-8ee
-=14
-4cc
-8b
-8f#
-=15
-4g}
-4r
-==
-*-
+=12	=12
+{4b	oj
+4b	grze-
+=13	=13
+4b	-by-
+8ddL	-cka
+8eeJ	.
+=14	=14
+4cc	po-
+8b/L	-zy-
+8f#J	.
+=15	=15
+4g}	-cać.
+!LO:TX:a:t=Gdy jadą do ślubu (109)&colon;	!
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oj na rozple cinach
+!!oj Marysi nima,
+!!oj posłała ją rodzona matula
+!!oj grzebycka pozycać.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: ,,Rozpleciny" ceremony
+!!@@END:
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=95 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 84-85} @EN{Oskar Kolberg Complete Works 2: Sandomierz, pp. 84-85}
 !!!page: 84-85
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-29

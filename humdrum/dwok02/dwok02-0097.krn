@@ -3,52 +3,72 @@
 !!!source: DWOK02
 !!!id: K0097
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8b
-8cc
-8dd
-8dd
-=2
-8dd
-8ee
-8cc
-8cc
-=3
-8b
-8dd
-4cc
-=4
-8d
-8f#
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8b	W_po-
+8cc	.
+8dd	-lu
+8dd	za-
+=2	=2
+8dd	-gaw-
+8ee	-ki
+8cc	Ja-
+8cc	-sie-
+=3	=3
+8bL	-niu
+8ddJ	.
+4cc/	w_po-
+=4	=4
+8d	-lu
+8f#	za-
+4g}	-ga-
 !!LO:LB:g=esac
-=5
-{8g
-8b
-8a
-8a
-=6
-8g
-8b
-8dd
-8cc
-=7
-8b
-8dd
-4a
-=8
-8d
-8f#
-4g}
-==
-*-
+=5	=5
+{8g	-wki
+8b/	a
+8a	juz
+8a	ci
+=6	=6
+8g	przy-
+8b/	-mar-
+8dd	-zają
+8cc	.
+=7	=7
+8bL	no-
+8ddJ	.
+4a\	-gi
+=8	=8
+8d	do
+8f#	ław-
+!LO:TX:a:t=Gdy idą we Wtorek na oczepiny, drużbowie tańczą z rózgą przed domem, a druchny rzucając na nią wstążki śpiewają (98)&colon;	!
+4g}	-ki.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. W polu zagawki Jasieniu
+!!w polu zagawki, (pokrzywy)
+!!a juz ci przymarzają
+!!nogi do ławki.
+!!@VERSE:
+!!2. A nie lusy, starsy druzba
+!!nie lusy, nie lusy —
+!!nie rusy sie do tanecka
+!!nie rusy, nie rusy.
+!!@VERSE:
+!!3. A nie raźny starsy druzba
+!!nie raźny, nie raźny —
+!!po zastolu panny druchny
+!!pomarzły, pomarzły.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=91 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 80} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 80}
 !!!page: 80
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-29

@@ -3,65 +3,89 @@
 !!!source: DWOK02
 !!!id: K0104
 !!!signature:
-**kern
-*clefG2
-*k[b-e-]
-*g:
-*M3/8
-=1
-{8a
-8a
-8cc#
-=2
-4dd
-8cc#
-=3
-16a
-16a
-8g
-8f#
-=4
-8g
-8b-
-8g}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*g:	*
+*M3/8	*
+=1	=1
+{8a	Oj
+8a	da
+8cc#	na
+=2	=2
+4dd	zdro-
+8cc#	-wie
+=3	=3
+16a	pa-
+16a	-ni
+8g	mło-
+8f#	-dyj
+=4	=4
+8g	na-
+(8b-/L	-syj,
+8g)J}	.
 !!LO:LB:g=esac
-=5
-{8f#
-8d
-8f#
-=6
-4g
-8a
-=7
-16b-
-16a
-8g
-8f#
-=8
-8g
-8b-
-8g}
+=5	=5
+{8f#	oj
+8d	bo
+8f#	wy-
+=6	=6
+4g	-pi-
+8a	-ła
+=7	=7
+16b-	go-
+16a\	-rza-
+8g	-li-
+8f#	-nę
+=8	=8
+8g	z_flasy.
+(8b-/L	.
+8g}J)	.
 !!LO:LB:g=esac
-=9
-{8f#
-8d
-8f#
-=10
-4g
-8a
-=11
-16b-
-16a
-8g
-8f#
-=12
-8g
-8b-
-8g}
-==
-*-
+=9	=9
+{8f#	oj
+8d	bo
+8f#	wy-
+=10	=10
+4g	-pi-
+8a	-ła
+=11	=11
+16b-	go-
+16a\	-rza-
+8g	-li-
+8f#	-nę
+=12	=12
+8g	z_flasy.
+(8b-/L	.
+!LO:TX:a:t=Gdy druchny lub baby tańczą z panną-młodą, odzywają się (104)&colon;	!
+8gJ)}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj da na zdrowie pani młodyj nasyj,
+!!oj bo wypiła gorzalinę z flasy.
+!!Oj a wypiła, bo łakoma była,
+!!i za sto grosy gorzały wypiła.
+!!@VERSE:
+!!2. Oj da na zdrowie starościny nasyj,
+!!aby oddała panię młodą nasą.
+!!Oj a wypiła, bo łakoma była,
+!!i za sto grosy gorzały wypiła.
+!!@VERSE:
+!!3. Oj a za zdrowie druzbika nasego
+!!bo on nam zycy wsyćkiego dobrego.
+!!Oj a wypiułci, bo łakomyci był,
+!!i za sto grosy gorzałecki wypiuł.
+!!@VERSE:
+!!4. Oj a za zdrowie starosty nasego,
+!!boć on nam zycy i t. d.
+!!Oj a wypiułci i t. d.
+!!@@END: VERSES
+!!!role-singer: Group
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=94 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 83} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 83}
 !!!page: 83
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-29

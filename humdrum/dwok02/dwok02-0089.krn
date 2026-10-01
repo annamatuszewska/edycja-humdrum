@@ -3,80 +3,97 @@
 !!!source: DWOK02
 !!!id: K0089
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8a
-8a
-8b
-=2
-8b
-4cc
-=
-8ee
-8dd
-24dd
-24cc
-24b
-=3
-8a
-4g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8a	Oj
+8a	do-
+8b/	-bra
+=2	=2
+8b	no-
+4cc;	-cka
+=3	=3
+8ee	we-
+8dd	-le
+*Xtuplet	*
+24ddL	pół
+24cc	.
+24bJ	.
+=4	=4
+8a	no-
+4g}	-cka
 !!LO:LB:g=esac
-=4
-{8a
-8a
-8b
-=5
-8cc
-4dd
-=6
-4cc
-16b-
-16a-
-=7
-8g}
-8r
-8r
+=5	=5
+{8a	bo-
+8a	-da-
+8b/	-jeś
+=6	=6
+8cc	zdro-
+4dd	-wa
+=7	=7
+(4cc	spa-
+16b-L	.
+16a-\J)	.
+=8	=8
+8g}	-ła
+8r	.
+8r	.
 !!LO:LB:g=esac
-=8
-{8cc
-8dd
-16cc
-16b
-=9
-8g
-4a
-=10
-8cc
-8dd
-16cc
-16b
-=11
-8a
-4g}
+=9	=9
+{8cc	oj
+8dd	o-
+16ccL	-puść
+16bJ	.
+=10	=10
+8g	o-
+4a	-puść
+=11	=11
+8cc	pir-
+8dd	-se
+16ccL	za-
+!LO:TX:a:i:t=(zaloty)	!
+16bJ	.
+=12	=12
+8a	-le-
+4g}	-ty
 !!LO:LB:g=esac
-=12
-{8a
-8a
-8b
-=13
-8cc
-4dd
-=14
-4cc
-16b-
-16a-
-=15
-8g}
-8r
-8r
-==
-*-
+=13	=13
+{8a	oj
+8a	na
+8b/	mnie
+=14	=14
+8cc	bądź
+4dd	la-
+=15	=15
+(4cc	-ska-
+16b-L	.
+16a-\J)	.
+=16	=16
+8g}	-wa.
+8r	.
+!LO:TX:a:t=Nazajutrz w Poniedziałek, gdy się wybierają do ślubu (90)&colon;	!
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oj dobra nocka wele pół nocka
+!!bodajeś zdrowa spała
+!!oj opuść opuść pirse zalety
+!!oj na mnie bądź laskawa.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: (patrz Nr, 9 i 53).
+!!@@END:
+!!!role-singer: Narrator
+!!!role-listener: Bride
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=87 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 76} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 76}
 !!!page: 76
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-29

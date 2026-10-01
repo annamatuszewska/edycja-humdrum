@@ -3,39 +3,48 @@
 !!!source: DWOK02
 !!!id: K0099
 !!!signature:
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M3/8
-=1
-{16a
-16a
-8cc#
-8a
-=2
-8dd
-8dd
-8cc#
-=3
-4dd
-8a}
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M3/8	*
+=1	=1
+{16a	Star-
+16a	-sy
+8cc#	dru-
+8a\	-zba
+=2	=2
+8dd	Mar-
+(8ddL	-sa-
+8cc#)J	.
+=3	=3
+(4dd	-łek,
+8a\)}	.
 !!LO:LB:g=esac
-=4
-{16cc#
-16cc#
-8dd
-8ee
-=5
-8dd
-8cc#
-8g
-=6
-4.a}
-==
-*-
+=4	=4
+{16cc#	po-
+16cc#	-sta-
+8dd	-raj
+8ee	się
+=5	=5
+8dd	o
+(8cc#L	sto-
+8g\J)	.
+=6	=6
+4.a}	-łek.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Starsy druzba Marsałek,
+!!postaraj się o stołek.
+!!@@END: VERSES
+!!!role-singer: Forewoman
+!!!role-listener: Best man
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=92 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 81} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 81}
 !!!page: 81
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-29

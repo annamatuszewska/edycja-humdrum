@@ -3,76 +3,103 @@
 !!!source: DWOK02
 !!!id: K0128a
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8b
-4dd
-=2
-8cc
-4a
-=3
-8b
-8dd
-8dd
-=4
-8cc
-4a
-=5
-8dd
-8b
-8a
-=6
-4g}
-8r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8b	Sta-
+4dd	-ra-
+=2	=2
+8cc	-ła
+4a	sie
+=3	=3
+8b	na-
+8dd	-sa
+8dd	Ma-
+=4	=4
+8cc	-ry-
+4a	-sia
+=5	=5
+8dd	o
+8b/L	stro-
+8aJ	.
+=6	=6
+4g}	-je
+8r	.
 !!LO:LB:g=esac
-=7
-{8b
-4dd
-=8
-8cc
-4a
-=9
-8b
-8dd
-8dd
-=10
-8cc
-4a
-=11
-8dd
-8b
-8a
-=12
-4g}
-8r
+=7	=7
+{8b	Sta-
+4dd	-ra-
+=8	=8
+8cc	-ła
+4a	sie
+=9	=9
+8b	na-
+8dd	-sa
+8dd	Ma-
+=10	=10
+8cc	-ry-
+4a	-sia
+=11	=11
+8dd	o
+8b/L	stro-
+8aJ	.
+=12	=12
+4g}	-je
+8r	.
 !!LO:LB:g=esac
-=13
-{8b
-4dd
-=14
-8cc
-4a
-=15
-8b
-8dd
-8b
-=16
-8cc
-4a
-=17
-8cc
-4b
-=18
-4g}
-8r
-==
-*-
+=13	=13
+{8b	roz-
+4dd	-to-
+=14	=14
+8cc	-cy-
+4a	-ła
+=15	=15
+8b	zło-
+8dd	-te
+8b	o-
+=16	=16
+8cc	-bru-
+4a	-sy
+=17	=17
+8cc	po
+4b	sto-
+=18	=18
+4g}	-le.
+!LO:TX:a:t=(w ten sposób przechodzą: złote widelce, złote talerze, złote kubecki, złote nozyki). Drużbowie do obiadu (a często wedle tejże nuty proszą także na wesele) (128.b.)&colon;	!
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Starała sie nasa Marysia
+!!o stroje —
+!!Starała sie nasa Marysia
+!!o stroje —
+!!roztocyła złote obrusy
+!!po stole.
+!!@VERSE:
+!!2. Dobrze ona sobie zrobiła
+!!nie komu —
+!!przebywa tu pan Jezus
+!!w jéj domu.
+!!@VERSE:
+!!3. Starała się nasa Marysia
+!!o stroje,
+!!oztocyła złote łyzecki
+!!po stole.
+!!@VERSE:
+!!4. Dobrze ona sobie zrobiła
+!!nie komu—
+!!przebywa tu pan Jezus
+!!w jéj domu.
+!!@@END: VERSES
+!!!role-singer: Narrator 
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=103 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 92} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 92}
 !!!page: 92
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-09-30
