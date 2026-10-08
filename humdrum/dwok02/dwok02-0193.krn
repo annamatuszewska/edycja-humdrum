@@ -3,46 +3,91 @@
 !!!source: DWOK02
 !!!id: K0193
 !!!signature:
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M3/4
-=1
-{8ee-
-8dd
-8cc
-8a
-8b-
-8cc
-=2
-8ee-
-8ee-
-8dd
-8cc
-16b-
-16a
-8f}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M3/4	*
+=1	=1
+{8ee-	Kie-
+8dd	-dym
+8cc	ja
+8a\	wę-
+8b-	-dro-
+8cc	-wał
+=2	=2
+8ee-	oj-
+8ee-	-ciec
+8dd	na
+8cc	mnie
+16b/L-	wo-
+16aJ	.
+8f}	-łał:
 !!LO:LB:g=esac
-=3
-{8g
-8e-
-8f
-16a
-16b-
-8cc
-8f
-=4
-8g
-8g
-8a
-8cc
-8b-
-8f}
-==
-*-
+=3	=3
+{8g	wróć
+8e-	sy-
+8f;	-nu
+16aL	do
+16b-/J	.
+8cc	do-
+8f	-mu,
+=4	=4
+8g	bom
+8g	ja
+8a	cię
+8cc	wy-
+8b-	-cho-
+8f}	-wał.
+=5	=5
+{8ee-	Wędruj
+8dd	.
+8cc	sy-
+8a\	-nu
+8b-	wę-
+8cc	-druj
+=6	=6
+8ee-	a-
+8ee-	-byś
+8dd	mi
+8cc	nie
+16b/L-	zgi-
+16aJ	.
+8f}	-nął,
+!!LO:LB:g=esac
+=7	=7
+{8g	lu-
+8e-	-laj
+8f;	mój
+16aL	Ka-
+16b-/J	.
+8cc	-ziu-
+8f	-lu
+=8	=8
+8g	by
+8g	cię
+8a	sen
+8cc	nie
+8b-	mi-
+8f}	-nął.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Kiedym ja wędrował
+!!ojciec na mnie wołał:
+!!wróć synu do domu,
+!!bom ja cię wychował.
+!!Wędruj synu wędruj
+!!abyś mi nie zginął,
+!!lulaj mój Kaziulu
+!!by cię sen nie minął.
+!!@@END: VERSES
+!!!role-singer: Son
+!!!singer-sex: Male 
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=166 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 155} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 155}
 !!!page: 155
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-07

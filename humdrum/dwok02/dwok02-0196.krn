@@ -3,78 +3,142 @@
 !!!source: DWOK02
 !!!id: K0196
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8g
-8g
-4b
-4cc
-=2
-2dd
-4dd
-=3
-8dd
-8dd
-4.dd
-8cc
-=4
-4.b
-8a
-4g
-=5
-8b
-8dd
-4.cc
-8g
-=6
-4.b
-8a
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8g	W_zie-
+8g	-lo-
+4b	-nym
+4cc	ga-
+=2	=2
+2dd	-i-
+4dd	-ku
+=3	=3
+8dd	pta-
+8dd	-sko-
+4.dd	-wie
+8cc	śpie-
+=4	=4
+(4.b/	-wa-
+8a)	.
+4g	-ją,
+=5	=5
+8b	pta-
+8dd	-sko-
+4.cc	-wie
+8g	śpie-
+=6	=6
+(4.b/	-wa-
+8a)	.
+4g}	-ją,
 !!LO:LB:g=esac
-=7
-{8f#
-8f#
-4a
-4ee
-=8
-2ee
-4ee
-=9
-8ee
-8dd
-4.dd
-8a
-=10
-4.cc
-8b
-4b}
+=7	=7
+{8f#	juz
+8f#	mo-
+4a	-je
+4ee	ko-
+=8	=8
+2ee	-cha-
+4ee	-nie
+=9	=9
+8ee	na
+8dd	woj-
+4.dd	-nę
+8a\	wo-
+=10	=10
+(4.cc	-ła-
+8b)	.
+4b}	-ją
 !!LO:LB:g=esac
-=11
-{8cc
-8ee
-4.dd
-8ee
-=12
-4.cc
-8b
-4b
-=13
-8cc
-8ee
-4.dd
-8a
-=14
-4.cc
-8b
-4b}
-==
-*-
+=11	=11
+{8cc	na
+8ee	woj-
+4.dd	-nę
+8ee	wo-
+=12	=12
+4.cc	-ła-
+8b	.
+4b	-ją!
+=13	=13
+8cc	na
+8ee	.
+4.dd	woj-
+8a	-nę
+=14	=14
+4.cc	wo-
+8b	-ła-
+4b}	-ją.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. W zielonym gaiku
+!!ptaskowie śpiewają,
+!!juz moje kochanie
+!! na wojnę wołają.
+!!@VERSE:
+!!2. A siodłaj ze siodłaj!
+!!konik usiodłany:
+!!komu mię ostawis
+!!Jasiu mój kochany?
+!!@VERSE:
+!!3. Ostawię cię Bogu
+!!wysoko na niebie,
+!!juz ja nie przyjadę
+!!dziewcyno, do ciebie.
+!!@VERSE:
+!!4. Jak ja nie przyjadę
+!!będe listy pisał,
+!!ty będzies płakała,
+!!ja nie będe słysał.
+!!@VERSE:
+!!5. Juz ci tez siedem lat
+!!jak się wojna tocy—
+!!mojemu kochaniu
+!!nie obeschną ocy.
+!!@VERSE:
+!!6. Wynijdź ze dziewcyna,
+!!ułani ta jadą,
+!!twojego Jasieńka
+!!konika ta wiedą.
+!!@VERSE:
+!!7. Juz ci ten konicek
+!!na boku przebity,
+!!a juześ mój Jasiu
+!!na wojnie zabity!
+!!@VERSE:
+!!8. Jesce nie zabity,
+!!a Sasi go wzieni,
+!!wymalowali go
+!!u dziewcyny w sieni.
+!!@VERSE:
+!!9. Nie chodź wedle niego,
+!!nie płac, nie załuj go,
+!!jest ci nas tu tysiąc,
+!!wybierz se jakiego.
+!!@VERSE:
+!!10. Choćby was tu było
+!!jak w Wieliczce soli—
+!!nie ma i nie będzie
+!!podług mojéj woli.
+!!@VERSE:
+!!11. Choćby was tu było
+!!jak w morzu kamienia—
+!!to juz nie będe mieć
+!!Jasińka imienia.
+!!@VERSE:
+!!12. Choćby was tu było
+!!wsyśtko co zywego,
+!!wolałabym przecie
+!!Jasia zabitego!
+!!@@END: VERSES
+!!!role-singer: Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=168 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 157} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 157}
 !!!page: 157
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-07

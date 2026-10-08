@@ -3,57 +3,93 @@
 !!!source: DWOK02
 !!!id: K0192
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16d
-32e
-32f#
-8g
-16a
-16b
-=2
-16cc
-16ee
-8.dd
-16cc
-=3
-8b
-8a
-16g
-16f#
-=4
-16d
-16f#
-4g}
+**kern	**text	**text
+*clefG2	*	*
+*k[f#]	*	*
+*G:	*	*
+*M3/8	*	*
+=1	=1	=1
+!LO:TX:a:t=Wolarka.	!	!
+{16d	1. A	2. Bo
+32eL	z_po-	od
+32f#J	.	.
+8g	-do-	ro-
+16aL	-la	-li
+16b/J	.	.
+=2	=2	=2
+16cc	Woł-	gło-
+16ee	-ki	-wa
+8.dd	mo-	bo-
+16cc	-je	-li
+=3	=3	=3
+8b/	z_po-	ra-
+8a	-do-	-no
+16gL	-la,	wstać,
+16f#J	.	.
+=4	=4	=4
+16d	z_po-	ra-
+16f#	-do-	-no
+4g}	-la,	wstać,
 !!LO:LB:g=esac
-=5
-{16.a
-32a
-8f#
-16e
-16d
-=6
-16.d
-32f#
-8g
-8b
-=7
-8b
-8a
-16g
-16f#
-=8
-16d
-16f#
-4g}
-==
-*-
+=5	=5	=5
+{16.a	le-	wo-
+32a	-psa	-lę
+8f#	mo-	ja
+16eL	-ja	se
+16dJ	.	.
+=6	=6	=6
+16.d	ko-	z_ko-
+32f#	-cha-	-cha-
+8g	-ni-	-ni-
+8b	-ca	-cą
+=7	=7	=7
+8b	niż	dłu-
+8a	ro-	-go
+16gL	-la	spać
+16f#J	.	.
+=8	=8	=8
+16d	niż	dłu-
+16f#	ro-	-go
+4g}	-la.	spać.
+=9	=9	=9
+{16.a	le-	wo-
+32a	-psa	-lę
+8f#	mo-	ja
+16eL	-ja	se
+16dJ	.	.
+=10	=10	=10
+16.d	ko-	z_ko-
+32f#	-cha-	-cha-
+8g	-ni-	-ni-
+8b	-ca	-cą
+=11	=11	=11
+8b	niż	dłu-
+8a	ro-	-go
+16gL	-la	spać
+16f#J	.	.
+=12	=12	=12
+16d	niż	dłu-
+16f#	ro-	-go
+4g}	-la.	spać.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. A z podola Wołki moje
+!!z podola, z podola,
+!!lepsa moja kochanica
+!!niż rola niż rola.
+!!@VERSE:
+!!2. Bo od roli głowa boli
+!!rano wstać, rano wstać,
+!!wolę ja se z kochanicą
+!!długo spać długo spać.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=166 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 155} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 155}
 !!!page: 155
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-07

@@ -3,63 +3,104 @@
 !!!source: DWOK02
 !!!id: K0161
 !!!signature:
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M6/8
-=1
-{8dd
-8cc#
-8b
-4b
-8a
-=2
-8a
-8f#
-8a
-4b
-8a}
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M6/8	*
+=1	=1
+{8dd	Sta-
+8cc#	-nę
+8b	się
+4b	sta-
+8a	-nę
+=2	=2
+8a	si-
+8f#	-wym
+8a	ka-
+4b/	-czo-
+8a}	-rem,
 !!LO:LB:g=esac
-=3
-{8dd
-8cc#
-8b
-4b
-8a
-=4
-8f#
-8e
-8g
-4b
-8a}
+=3	=3
+{8dd	po-
+8cc#	-pły-
+8b	-nę
+4b/	so-
+8a	-bie
+=4	=4
+8f#	bystrym
+8e	.
+8g	jeziorem
+4b/	.
+8a}	.
 !!LO:LB:g=esac
-=5
-{4dd
-8ee
-4ff#
-8dd
-=6
-4ff#
-8gg
-4ff#}
-8r
+=5	=5
+{4dd	Two-
+8ee	-ją
+4ff#	mi-
+8dd	-łą
+=6	=6
+4ff#	nie
+8gg	bę-
+4ff#}	-dę,
+8r	.
 !!LO:LB:g=esac
-=7
-{4dd
-8ee
-4ff#
-8dd
-=8
-8ff#
-8ee
-8cc#
-4dd}
-8r
-==
-*-
+=7	=7
+{4dd	we-
+8ee	-dle
+4ff#	cie-
+8dd	-bie
+=8	=8
+8ff#L	nie
+8eeJ	.
+8cc#	się-
+4dd}	-dę.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Stanę się stanę siwym kaczorem,
+!!popłynę sobie bystrym jeziorem;
+!!twoją miłą nie będę,
+!!wedle ciebie nie siędę.
+!!@VERSE:
+!!2. A mam ci ja też takie sidełka,
+!!złapię ja kaczkę za jej skrzydełka;
+!!moją miłą musisz być,
+!!mnie tę wolę uczynić.
+!!@VERSE:
+!!3. Stanę się stanę, białym gołąbkiem,
+!!i usiędę nad zielonym dąbkiem;
+!!twoją miłą nie będę,
+!!wedle ciebie nie siędę.
+!!@VERSE:
+!!4. A mam ci ja też takie topory
+!!wytnę ja dęby, lasy i bory;
+!!musisz moją miłą być;
+!!mnie tę wolę uczynić.
+!!@VERSE:
+!!5. Stanę się stanę, jasną gwiazdeczką,
+!!pójdę do nieba prostą dróżeczką,
+!!twoją miłą nie będę
+!!wedle ciebie nie siędę.
+!!@VERSE:
+!!6. A mam ci ja też swego anioła,
+!!on mi gwiazdeczkę spuści do sioła,
+!!moją miłą musisz być,
+!!mnie tę wolę uczynić.
+!!@VERSE:
+!!7. Już teraz widzę boskie urzędy (lub obrzędy)
+!!gdzie się obrócę, znajdziesz mnie wszędy;
+!!twoją teraz muszę być,
+!!twoją wolę uczynić. —
+!!@@END: VERSES
+!!!role-singer: Many characters
+!!!role-listener: Lover, Mistress
+!!!singer-sex: Male, Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=145 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 134} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 134}
 !!!page: 134
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-05

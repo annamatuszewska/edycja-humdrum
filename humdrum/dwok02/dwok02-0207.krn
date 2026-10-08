@@ -3,144 +3,169 @@
 !!!source: DWOK02
 !!!id: K0207
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M4/4
-{8g
-8g
-8g
-=
-4.cc
-8e
-12g
-12a
-12g
-8f
-8e
-=1
-8g
-8f
-4f}
-8r
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M4/4	*
+*met(c)	*
+{8g	Lu-
+8g	-ba
+8g	ko-
+=1	=1
+(4.cc	-chan-
+8e)	.
+(>12gL	.
+12a	-ko
+12g)J	.
+8fL	bez
+8eJ	.
+=2	=2
+8gL	cie-
+8fJ	.
+4f}	-bie
+8r	.
 !!LO:LB:g=esac
-=-
-{8g
-8g
-8g
-=2
-4dd
-8b
-8g
-4g
-8a
-8f
-=3
-8e
-8e}
-4r
-8r
+=3	=3
+{8g	dzień
+8g	je-
+8g	-den
+=4	=4
+(4dd	wie-
+8b/L	.
+8gJ)	.
+(4g	-kiem
+8a)	.
+8f	się
+=5	=5
+8fq	.
+8e	sta-
+8e}	-je;
+4r	.
+8r	.
 !!LO:LB:g=esac
-=-
-{8g
-8g
-8g
-=4
-4g
-4ee
-4.dd
-8cc
-=5
-8b
-8a}
-4r
-8r
+=6	=6
+{8g	z_tę-
+8g	-skno-
+8g	-ty
+=7	=7
+(4g	sam
+4ee)	.
+4.dd	nie
+8cc	znam
+=8	=8
+8b	sie-
+8a}	-bie,
+4r	.
+8r	.
 !!LO:LB:g=esac
-=-
-{8a
-8a
-8a
-=6
-4a
-4g
-8g
-8ff
-8ee
-8dd
-=7
-8dd
-8cc}
-4r
-4r
+=9	=9
+{8a	zda
+8a	się
+8a	że
+=10	=10
+(4a	już
+4g)	.
+!LO:TX:t=P:problem=mixed beam	!
+8gL	żyć
+8ff	.
+8eeJ	.
+8dd	prze-
+=11	=11
+8dd	-sta-
+8cc}	-ję.
+4r	.
+4r	.
 !!LO:LB:g=esac
-=-
-{8dd
-8dd
-=8
-4dd
-4dd
-4dd
-8ee
-8cc
-=9
-8cc
-8b}
-4r
-4r
+=12	=12
+{8dd	Wszędzie
+8dd	.
+=13	=13
+4dd	szukam
+4dd	.
+(4dd	twe-
+8ee)	.
+8cc	-go
+=14	=14
+8cc	cie-
+8b}	-nia,
+4r	.
+4r	.
 !!LO:LB:g=esac
-=-
-{8b
-8b
-=
-4a
-4ee
-8dd
-8b
-24dd
-24cc
-24b
-24cc
-24f#
-=10
-8a
-8g}
-4r
-4r
+=15	=15
+{8b	wy-
+8b	-da-
+=16	=16
+4a	-jąc
+4ee	smutne
+8ddL	.
+8bJ	.
+24ddL	west-
+24cc	.
+(>24b	.
+24cc	.
+24f#J)	.
+=17	=17
+8a	-chnienia.
+8g}	.
+4r	.
+4r	.
 !!LO:LB:g=esac
-=-
-{8g
-8g
-=11
-4.cc
-8cc
-4.cc
-8e
-=12
-8g
-8f}
-4r
-4r
+=18	=18
+{8g	Wszędzie
+8g	.
+=19	=19
+4.cc	szukam
+8cc	.
+4.cc	twe-
+8e	-go
+=20	=20
+8g	cie-
+8f}	-nia
+4r	.
+4r	.
 !!LO:LB:g=esac
-=-
-{8g
-8g
-=13
-4.ff
-8ff
-8ff
-8g
-8a
-8b
-=14
-8dd
-8cc}
-4r
-8r
-==
-*-
+=21	=21
+{8g	wy-
+8g	-da-
+=22	=22
+4.ff	-jąc
+8ff	smutne
+!LO:TX:t=P:problem=mixed beam	!
+8ffL	.
+8g	.
+8aJ	.
+8b	westchnienia.
+=23	=23
+8dd	.
+8cc}	.
+4r	.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Luba kochanko bez ciebie
+!!dzień jeden wiekiem się staje;
+!!z tęsknoty sam nie znam siebie,
+!!zda się że już żyć przestaję.
+!!Wszędzie szukam twego cienia,
+!!wydając smutne westchnienia.
+!!@VERSE:
+!!2. Gaje, doliny, pagórki,
+!!zdają się płakać méj doli;
+!!lecz te są niebios wyroki
+!!bym to kochał, co mnie boli.
+!!Te łzy, co te skały kruszą,
+!!może moją lubę wzruszą!
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: Male
+!!!RDF**kern: >= above
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=187 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 176} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 176}
 !!!page: 176
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-08

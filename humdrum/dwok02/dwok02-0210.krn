@@ -3,119 +3,147 @@
 !!!source: DWOK02
 !!!id: K0210
 !!!signature:
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M6/8
-{8ee
-=1
-4cc#
-8cc#
-8b
-8a
-8b
-=2
-4.a
-8e}
-8r
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M6/8	*
+!LO:TX:a:t=Mel. z opery Paaisiellego&colon; la Molinara.	!
+{8ee	Nie-
+=1	=1
+4cc#	-szczę-
+8cc#	-ście
+8b	lo-
+8a\	-sem
+8b	mym
+=2	=2
+4.a	wła-
+8e}	-da
+8r	.
 !!LO:LB:g=esac
-=-
-{16a
-16cc#
-=3
-4ee
-8ee
-8ff#
-8ee#
-8ff#
-=4
-4.b}
-4r
+=3	=3
+{16a\L	war-
+16cc#J	.
+=4	=4
+4ee	-tam
+8ee	po-
+8ff#	-li-
+8ee#	-to-
+8ff#	-wa-
+=5	=5
+4.b}	-nia,
+4r	.
 !!LO:LB:g=esac
-=-
-{8e
-=5
-4cc#
-8cc#
-8dd
-8cc#
-8dd
-=6
-4.ee
-8ff#}
-8r
+=6	=6
+{8e	ten
+=7	=7
+4cc#	co
+8cc#	me
+8dd	ser-
+8cc#	-ce
+8dd	po-
+=8	=8
+4.ee	-sia-
+8ff#}	-da,
+8r	.
 !!LO:LB:g=esac
-=-
-{16dd
-16b
-=7
-4a
-8a
-8b
-8a
-8b
-=8
-4.a
-8a}
-8r
+=9	=9
+{16ddL	nie-
+16bJ	.
+=10	=10
+4a	-czu-
+8a	-ły
+8b/	na
+8a	me
+8b/	wzdy-
+=11	=11
+4.a	-cha-
+8a}	-nia.
+8r	.
 !!LO:LB:g=esac
-=-
-{8cc#
-=9
-4f#
-8f#
-4ff#
-8ee
-=10
-4ee
-8dd
-4dd}
-8r
+=12	=12
+{8cc#	Ob-
+=13	=13
+4f#	-łu-
+8f#	-dnik
+4ff#	mi-
+8ee	-łość
+=14	=14
+4ee	swą
+8dd	nie
+4dd}	raz,
+8r	.
 !!LO:LB:g=esac
-=11
-{8e
-8g#
-8b
-8ee
-8dd
-8dd
-=12
-4dd
-8cc#
-8cc#}
-8r
+=15	=15
+{8e	za-
+8g#	-rę-
+8b/	-czał
+8ee	punktem
+8dd	.
+8dd	ho-
+=16	=16
+(4dd	-no-
+8cc#)	.
+8cc#}	-ru,
+8r	.
 !!LO:LB:g=esac
-=-
-{8a
-=13
-4cc#
-8cc#
-8dd
-8cc#
-8dd
-=14
-4.ee
-8ff#}
-8r
+=17	=17
+{8a	jak
+=18	=18
+4cc#	źle
+8cc#	po-
+8eeq	.
+8dd	-zna-
+8cc#	-łam
+8dd	to
+=19	=19
+4.ee	te-
+8ff#}	-raz
+8r	.
 !!LO:LB:g=esac
-=-
-{16dd
-16b
-=15
-4a
-8a
-8b
-8a
-8b
-=16
-4.a
-8a}
-8r
-==
-*-
+=20	=20
+{16ddL	są-
+16bJ	.
+=21	=21
+4a	-dzić
+8a	o
+8b/	każ-
+8a	-dym
+8b/	z_po-
+=22	=22
+4.a	-zo-
+8a}	-ru.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Nieszczęście losem mym włada,
+!!warta'm politowania!
+!!ten co me serce posiada,
+!!nieczuły na me wzdychania.
+!!@VERSE:
+!!2. Obłudnik! miłość swą nieraz
+!!zaręczał punktem honoru;
+!!jak źle, poznałam to teraz,
+!!sądzić o każdym z pozoru.
+!!@VERSE:
+!!3. Pójdź mi precz z oczu niecnoto!
+!!co robisz z zdrady igrzysko,
+!!rzucam twą miłość z ochotą,
+!!odbieraj wzgardę mą w zysku.
+!!@VERSE:
+!!4. Z serca cię mego pozbędę,
+!!bo z twojej przyczyny szlocham;
+!!kochać cię więcej nie będę,
+!!nie będę, jak mamę kocham!
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!role-listener: Lover
+!!!singer-sex: Female 
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=189 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 178} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 178}
 !!!page: 178
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-08

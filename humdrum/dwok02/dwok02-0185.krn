@@ -3,56 +3,80 @@
 !!!source: DWOK02
 !!!id: K0185
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16b
-16dd
-8cc
-8a
-=2
-16a
-16cc#
-8.dd
-16b
-=3
-16b
-16dd
-8cc
-8a
-=4
-16a
-16cc#
-8dd
-8dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16b	O
+16dd	dla
+8cc	Bo-
+8a\	-ga
+=2	=2
+16a	śmierć
+16cc#	mi
+8.dd	gro-
+16b/	-zi,
+=3	=3
+16b/	o-
+16dd	-ble-
+8cc	-kę
+8a	ja
+=4	=4
+16a\	ko-
+16cc#	-zuch
+8dd	ko-
+8dd}/	-zi,
 !!LO:LB:g=esac
-=5
-{16g
-16g
-8f#
-8a
-=6
-16g
-16e
-8.d
-16f#
-=7
-16g
-16g
-8f#
-8a
-=8
-16g
-16e
-8d
-8d}
-==
-*-
+=5	=5
+{16g	wle-
+16g	-zę
+8f#	za
+8a	piec
+=6	=6
+16g	bę-
+16e	-dę
+8.d	sie-
+16f#	-dzić,
+=7	=7
+16g	jaz
+16g	mi
+8f#	ko-
+8a	-zuch
+=8	=8
+16g	bę-
+16e	-dzie
+8d	śmierdzić.
+8d}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. O dla Boga! śmierć mi grozi;
+!!oblekę ja kozuch kozi.
+!!Wlezę na piec, będe siedzić,
+!!jaz mi kozuch będzie śmierdzić.
+!!@VERSE:
+!!2. O dla Boga! matka chora;
+!!wlazła za piec, ojca woła.
+!!Ojce, co to za choroba
+!!co mi się tak trzęsie noga.
+!!@VERSE:
+!!3. Naści ojciec parę grosy,
+!!biegaj, dzieciom nakup kasy.
+!!A ojciec tez ladajaki,
+!!kupiuł dzieciom róg tabaki:
+!!@VERSE:
+!!4. Na ta dzieci—zazywajta,
+!!na kasę się nie spuscajta.
+!!Dzieci z rozku zazywały,
+!!od głodu mu pozmierały.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=162 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 151} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 151}
 !!!page: 151
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-06

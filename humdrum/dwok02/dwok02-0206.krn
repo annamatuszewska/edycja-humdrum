@@ -3,68 +3,100 @@
 !!!source: DWOK02
 !!!id: K0206
 !!!signature:
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M4/4
-=1
-{4dd
-8.dd
-16cc
-4b-
-4b-
-=2
-8cc
-8dd
-8.ee-
-16cc
-4a
-4f
-=3
-4b-
-8a
-8b-
-8cc
-8dd
-8.ee-
-16cc
-=4
-4b-
-4a
-4b-}
-4r
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M4/4	*
+*met(c)	*
+=1	=1
+!LO:TX:a:t=Adagio.	!
+{4dd	Ach
+8.dd	o-
+16cc	-na
+4b-	wi-
+4b-	-dzę
+=2	=2
+8ccL	nie-
+8ddJ	.
+8.ee-	-u-
+16cc	-bła-
+4a	-ga-
+4f	-na
+=3	=3
+4b-	i
+8a	o-
+8b/-	-kiem
+8ccL	rzu-
+8ddJ	.
+8.ee-	-cić
+16cc	nie
+=4	=4
+(4b-	ra-
+4a\)	.
+4b-}	-czy;
+4r	.
 !!LO:LB:g=esac
-=5
-{4ff
-8.ff
-16ee-
-4dd
-4dd
-=6
-8ee-
-8ff
-8.gg
-16ee-
-4cc
-4a
-=7
-4b-
-8a
-8b-
-8cc
-8dd
-8.ee-
-16cc
-=8
-4b-
-4a
-4b-}
-4r
-==
-*-
+=5	=5
+{4ff	ta
+8.ff	na
+16ee-	jej
+4dd	twa-
+!!LO:TX:t=[segno]	*
+4dd	-rzy
+=6	=6
+8ee-L	smu-
+8ffJ	.
+8.gg	-tna
+16ee-	od-
+4cc	-mia-
+4a\	-na
+=7	=7
+4b-	da-
+8a\	-je
+8b-	mi
+8ccL	wy-
+8ddJ	.
+8.ee-	-rok
+16cc	roz-
+=8	=8
+(4b-	-pa-
+4a\)	.
+4b-}	-czy.
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Ach ona widzę nie ubłagana!
+!!i okiem rzucić nie raczy;
+!!ta na jéj twarzy smutna odmiana,
+!!wyrok mi daje rozpaczy!
+!!@VERSE:
+!!2. Poniosę z sobą skryte cierpienia
+!!między te lasy szumiące,
+!!gdzie nie usłyszysz mego westchnienia,
+!!ni się twym oczom natrącę.
+!!@VERSE:
+!!3. Na ulgę ranie, na żal najtkliwszy,
+!!jeśli nie znajdę sposobu,
+!!czułe do szczętu serce zniszczywszy,
+!!poniosę żal mój do grobu.
+!!@VERSE:
+!!4. Okrutna! może raz wspomnisz sobie
+!!i nad mą rzeczesz mogiłą:
+!!oto przyjaciel leży w tym grobie,
+!!któremu'm była tak miłą.
+!!@VERSE:
+!!5. Ale przywalon twardym kamieniem,
+!!tęschne zawarłszy powieki,
+!!niewczesną litość zbędę milczeniem,
+!!głuchy, nieczuły na wieki!
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=186 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 175} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 175}
 !!!page: 175
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-07

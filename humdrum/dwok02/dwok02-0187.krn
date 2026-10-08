@@ -3,50 +3,76 @@
 !!!source: DWOK02
 !!!id: K0187
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8g
-8b
-8dd
-8cc
-=2
-8b
-4.a
-=3
-8cc
-8ee
-8gg
-8ee
-=4
-8dd
-4b}
-8r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8g	A
+8b	wstaj
+8dd	ze
+8cc	sy-
+=2	=2
+8b	-no-
+4.a\	-wa
+=3	=3
+8cc	ju-
+8ee	-ześ
+8gg	się
+8ee	wy-
+=4	=4
+8dd	-spa-
+4b}	-ła,
+8r	.
 !!LO:LB:g=esac
-=5
-{8g
-8b
-8dd
-8ee
-=6
-8cc
-4.a
-=7
-8cc
-8b
-8g
-8f#
-=8
-8f#
-4e}
-8r
-==
-*-
+=5	=5
+{8g	wy-
+8b	-dój
+8dd	ze
+8ee	to
+=6	=6
+8cc	wia-
+4.a\	-no,
+=7	=7
+8cc	coś
+8b	je
+8g	nie
+8f#	przy-
+=8	=8
+8f#	-gna-
+4e}	-ła.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. „A wstaj ze synowa
+!!juześ się wyspała,
+!!wydój ze to wiano (krowa w po
+!!coś je nie przygnała.” sagu.)
+!!@VERSE:
+!!2. „Ej wiedziałaś matko
+!!ze'm wiana nie miała,
+!!a jednak'eś syna
+!!do mnie przysyłała.”
+!!@VERSE:
+!!3. Syna przysyłała,
+!!samaś przychodziła;
+!!wiedziałaś matulu
+!!uboziuchna'm była.
+!!@VERSE:
+!!4. Samaś przychodziła,
+!!wódkę przynosiła;
+!!dzisiaj mnie nie lubis,
+!!w tencas radaś była.
+!!@@END: VERSES
+!!!role-singer: mother of a son, daughter-in-law
+!!!role-listener: daughter-in-law, mother of a son
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=163 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 152} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 152}
 !!!page: 152
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-06

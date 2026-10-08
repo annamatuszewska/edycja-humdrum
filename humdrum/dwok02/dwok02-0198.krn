@@ -3,68 +3,88 @@
 !!!source: DWOK02
 !!!id: K0198
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16b
-8b
-8b
-=2
-8cc
-8ee
-8ee
-=3
-16dd
-16ff#
-8ff#
-8ff#
-=4
-4gg
-8ee}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Stypowa.	!
+{16g	Oj
+16b	u-
+8b	-marł
+8b	Ma-
+=2	=2
+8cc	-ciek
+8ee	u-
+8ee	-marł
+=3	=3
+16dd	juz
+16ff#	się
+8ff#	nic
+8ff#	nie
+=4	=4
+4gg	ru-
+8ee}	-sa,
 !!LO:LB:g=esac
-=5
-{8ee
-8gg
-8ee
-=6
-16gg
-16gg
-8ff#
-8dd
-=7
-8dd
-8gg
-8ee
-=8
-16dd
-16dd
-8b
-8g}
+=5	=5
+{8ee	po
+8gg	ka-
+8ee	-cie to
+=6	=6
+16gg	ta-
+16gg	-ka
+8ff#	sprawa,
+8dd	.
+=7	=7
+8dd	wy-
+8ggL	-sła
+8eeJ	.
+=8	=8
+16dd	z_Mać-
+16dd	-ka
+8b	du-
+8g}	-sa,
 !!LO:LB:g=esac
-=9
-{16a
-16b
-8cc
-8a
-=10
-4g
-8gg
-=11
-16cc
-16cc
-8cc
-8a
-=12
-4g
-8g}
-==
-*-
+=9	=9
+{16a	wy-
+16b/	-sła
+8cc	z_Maćka
+8a	.
+=10	=10
+4g	du-
+8gg	-sa
+=11	=11
+16cc	wy-
+16cc	-sła
+8cc/L	z_Maćka
+8aJ	.
+=12	=12
+4g	du-
+8g}	-sa.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj umarł Maciek umarł
+!!juz się nic nie rusa,
+!!po kacie to taka sprawa,
+!!wysła z Maćka dusa.
+!!@VERSE:
+!!2. Oj a wieząć go wiezą
+!!przez sam środek wioski,
+!!a schodzą się do niego
+!!z całyj wsi kumoski.
+!!@VERSE:
+!!3. Oj a wieząć go wiezą
+!!w malmurowej trumnie,
+!!oj a wychodzi harendarz:
+!!wróć się Maćku do mnie!
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=169 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 158} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 158}
 !!!page: 158
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-07

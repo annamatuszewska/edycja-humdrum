@@ -3,67 +3,98 @@
 !!!source: DWOK02
 !!!id: K0168
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16b
-8dd
-8ff#
-=2
-16dd
-16ff#
-8.gg
-16ee
-=3
-16dd
-16ff#
-8gg
-8ee
-=
-24dd
-24ff#
-24aa
-8.gg
-16ee}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Czte-
+16b	-ry
+8dd	la-
+8ff#	-ta
+=2	=2
+16dd	wierniem
+16ff#	.
+8.gg	słu-
+16ee	-zył
+=3	=3
+16dd	go-
+16ff#	-spo-
+8gg	-da-
+8ee	-rzo-
+=4	=4
+!LO:TUP:a	!
+(24ddL	-wi
+24ff#J	.
+24aa)	ma-
+8.gg	-tu-
+16ee}	-lu
 !!LO:LB:g=esac
-=4
-{16cc
-16cc
-8a
-32cc
-16.a
-=5
-4g}
-8r
+=5	=5
+{16cc	go-
+16cc	-spo-
+8a	-da-
+32ccL	-rzo-
+16.a\J	.
+=6	=6
+4g}	-wi,
+8r	.
 !!LO:LB:g=esac
-=6
-{16cc
-16cc
-8a
-32cc
-16.a
-=7
-16g
-16b
-8cc
-8ee
-=8
-16cc
-16cc
-8a
-32cc
-16.a
-=9
-4g}
-8r
-==
-*-
+=7	=7
+{16cc	ra-
+16cc	-nom
+8a	wstawał
+32ccL	.
+16.a\J	.
+=8	=8
+16g	sie-
+16b	-ckę
+8cc	krajał,
+8ee	.
+=9	=9
+16cc	niech
+16cc	on
+8a	sam
+32ccL	po-
+16.a\J	.
+=10	=10
+4g}	-wie.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Cztery lata wierniem słuzył
+!!gospodarzowi,
+!!ranom wstajał — sieckę krajał,
+!!niech on sam powi.
+!!@VERSE:
+!!2. A to wsytko dla dziewcyny,
+!!miło mi było,
+!!bo się serce kieby smoła
+!!do nij lepiło.
+!!@VERSE:
+!!3. Ni do jadła—ni do picia,
+!!ni ja do spania,
+!!ino patrze, gdzie dziewcyna
+!!wółki wygania.
+!!@VERSE:
+!!4. Nieśmiałém się jéj zapytać
+!!cy by mnie chciała;
+!!ćtéry wołki—ćtéry krówki
+!!na wiano miała.
+!!@VERSE:
+!!5. Przysed Bartek do matusi
+!!i wzion dziewcynę,
+!!a ja teraz niescęśliwy
+!!juz chyba zginę.
+!!@@END: VERSES
+!!!role-singer: Narrator 
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=150 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 139} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 139}
 !!!page: 139
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-05

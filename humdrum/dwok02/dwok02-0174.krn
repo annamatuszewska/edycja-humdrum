@@ -3,83 +3,130 @@
 !!!source: DWOK02
 !!!id: K0174
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8g
-8f#
-8g
-8b
-=2
-4a
-8f#
-8d
-=3
-2g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8g	Jak-
+8f#	-że
+8g	nie
+8b/	mam
+=2	=2
+4a	smu-
+8f#L	-tna
+8dJ	.
+=3	=3
+2g}	być,
 !!LO:LB:g=esac
-=4
-{8g
-8a
-8b
-8cc#
-=5
-8dd
-8cc#
-8b
-8cc#
-=6
-2dd}
+=4	=4
+{8g	za
+8a	sta-
+8b	-re-
+8cc#	-go
+=5	=5
+8ddL	ka-
+8cc#J	.
+8bL	-zą
+8ccJ#	.
+=6	=6
+2dd}	iść,
 !!LO:LB:g=esac
-=7
-{8ee
-8dd
-8cc#
-8a
-=8
-8dd
-8cc#
-8b
-8cc#
-=9
-2b}
+=7	=7
+{8ee	za
+8dd	sta-
+8cc#	-re-
+8a\	-go
+=8	=8
+8ddL	ka-
+8cc#J	.
+8bL	-zą
+8ccJ#	.
+=9	=9
+2b}	iść.
 !!LO:LB:g=esac
-=10
-{4dd
-8cc#
-8ee
-=11
-8dd
-8cc#
-4b
-=12
-8g
-8f#
-8g
-8b
-=13
-8a
-8f#
-4d}
+=10	=10
+{4dd	Oj
+8cc#	sta-
+8ee	-ry
+=11	=11
+8ddL	sta-
+8cc#J	.
+4b	-ry
+=12	=12
+8g	le-
+8f#	-piej
+8g	mu
+8b/	na
+=13	=13
+8La	ma-
+8fJ#	.
+4d}	-ry
 !!LO:LB:g=esac
-=14
-{8g
-8a
-8b
-8cc#
-=15
-8dd
-8cc#
-8b
-8cc#
-=16
-2b}
-==
-*-
+=14	=14
+{8g	a
+8a	mnie
+8b	le-
+8cc#	-piej
+=15	=15
+8ddL	pan-
+8cc#J	.
+8bL	-ną
+8ccJ#	.
+=16	=16
+2b}	być.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Jakże nie mam smutna być?
+!!za starego kazą iść.
+!!Oj stary, stary,
+!!lepiéj mu na mary —
+!!a mnie lepiéj panną być.
+!!@VERSE:
+!!2. A skoro o punocy,
+!!o dwunastéj godzinie:
+!!Oj obróć ze się
+!!Kasiu, Kasinecku,
+!!prawem ramiąckiem do mnie.
+!!@VERSE:
+!!3. A skoro po punocy,
+!!Jasio konia kulbacy.
+!!Oj Kasiunia się
+!!Jasiunia pytała:
+!!kiej się go spodziewać miała?
+!!@VERSE:
+!!4. A jak ci się, ozwinie
+!!ta sucha lescynecka,
+!!Oj wtedy się, wtedy
+!!Kasiu, Kasinecku,
+!!spodziewaj Jasinecka.
+!!@VERSE:
+!!5. Kasia nic nie robiła,
+!!po sadecku chodziła.
+!!Oj i polewała
+!!suchą lescyneckę,
+!!by się prędko ozwiła.
+!!@VERSE:
+!!6. Ozwijaj się lescyna,
+!!cóz ja pocnę dziewcyna ?
+!!Oj utraciłam
+!!ruciany wianecek—
+!!cóz'em za to nabyła ?
+!!@VERSE:
+!!7. Zal ci tobie Kasieńku
+!!swego wianka utracić—
+!!Oj trudnoci i mnie
+!!suchej lescynecce,
+!!choć'eś mnie kąpała,
+!!zielony listek puścić!
+!!@@END: VERSES
+!!!role-singer: Narrator, Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=155 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 144} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 144}
 !!!page: 144
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-05

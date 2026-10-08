@@ -3,95 +3,126 @@
 !!!source: DWOK02
 !!!id: K0213
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8d
-8g
-16g
-16f#
-=2
-16g
-16a
-8b
-8b
-=3
-8g
-8b
-16b
-16a
-=4
-16b
-16dd
-4a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8d	Je-
+8g	-stem
+16g	u-
+16f#	-bo-
+=2	=2
+16g	-ga
+16a	dziewczyna,
+8b	.
+8b	.
+=3	=3
+8g	ży-
+8b	-je
+16b	so-
+16a	-bie
+=4	=4
+16bL	skro-
+16ddJ	.
+4a}	-mnie,
 !!LO:LB:g=esac
-=5
-{8d
-8f#
-16f#
-16e
-=6
-16f#
-16g
-8a
-8a
-=7
-8a
-8cc
-16cc
-16b
-=8
-16cc
-16ee
-4dd}
+=5	=5
+{8d	przecież
+8f#	.
+16f#	nie
+16e	je-
+=6	=6
+16f#L	-den
+16gJ	.
+8a	chłopczy-
+8a	-na
+=7	=7
+8a	u-
+8cc	-mi-
+16ccM	-zga
+16b	się
+=8	=8
+16ccL	do
+16eeJ	.
+4dd}	mnie.
 !!LO:LB:g=esac
-=9
-{8d
-8g
-16g
-16f#
-=10
-16g
-16a
-8b
-8b
-=11
-8g
-8b
-16b
-16g
-=12
-16e
-16g
-4g}
+=9	=9
+{8d	O-
+8g	-ne-
+16g	-gdaj-
+16f#	-sze-
+=10	=10
+16g	-go
+16a	dnia
+8b	z_ra-
+8b	-na
+=11	=11
+8g	w_mieście
+8b	.
+16b	na
+16g	od-
+=12	=12
+16eL	-pu-
+16gJ	.
+4g}	-ście
 !!LO:LB:g=esac
-=13
-{8d
-8f#
-16f#
-16e
-=14
-16f#
-16g
-8a
-8a
-=15
-8f#
-8a
-16a
-16g#
-=16
-16a
-16b
-8g}
-8r
-==
-*-
+=13	=13
+{8d	ku-
+8f#	-pił
+8gq	.
+16f#	że
+16e	mi
+=14	=14
+16f#	Ja-
+16g	-nek
+8a	chu-
+8a	-stkę
+=15	=15
+8f#	znać
+8a	żem
+16a	w_jego
+16g#	.
+=16	=16
+16aL	gu-
+16b/J	.
+8g}n	-ście.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Jestem uboga dziewczyna,
+!!żyję sobie skromnie;
+!!przecież nie jeden chłopczyna
+!!umizga się do mnie.
+!!@VERSE:
+!!2. Onegdajszego dnia z rana,
+!!w mieście na odpuście,
+!!kupiłże mi Janek chustkę—
+!!znać że'm w jego guście.
+!!@VERSE:
+!!3. Stary Bartek a nasz sąsiad,
+!!jego zacny ojciec
+!!mówił do mnie: kochaj Janka
+!!bo to dobry chłopiec.
+!!@VERSE:
+!!4. Bo nie wszystko co się świeci
+!!nazywa się złoto,
+!!bądź poczciwą i stateczną,
+!!a będziesz bogatą.
+!!@VERSE:
+!!5. Jużciby to nieźle było,
+!!żebym no wiedziała
+!!że mnie zawsze kochać będzie,
+!!że mi będzie stały
+!!@@END: VERSES
+!!!role-singer: Single Girl
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=191 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 180} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 180}
 !!!page: 180
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-08

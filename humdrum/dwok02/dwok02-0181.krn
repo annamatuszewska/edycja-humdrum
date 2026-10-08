@@ -3,45 +3,72 @@
 !!!source: DWOK02
 !!!id: K0181
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8g
-8b
-8cc
-=2
-4dd
-8dd
-=3
-8gg
-8ff#
-8ee
-=4
-4dd
-8dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Przy grze w Barana.	!
+{8g	Co
+8b	ześ
+8cc	tam
+=2	=2
+4dd	ja-
+8dd	-dał
+=3	=3
+8gg	mój
+8ff#	Se-
+8ee	-we-
+=4	=4
+4dd	-ry-
+8dd}	-nie?
 !!LO:LB:g=esac
-=5
-{8b
-8b
-8b
-=6
-8cc
-8cc
-8cc
-=7
-8ee
-8dd
-8cc
-=8
-4b
-8b}
-==
-*-
+=5	=5
+{8b	Go-
+8b	-łąb-
+8b	-ki,
+=6	=6
+8cc	ja-
+8cc	-rząb-
+8cc	-ki
+=7	=7
+8ee	ser-
+8dd	-ce
+8cc	Ma-
+=8	=8
+4b	-ry-
+8b}	-siu.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Cóześ tam jadał—mój Sewerysiu?
+!!Gołąbki, jarząbki, serce Marysiu.
+!!@VERSE:
+!!2. Gdzieześ tam sypiał—mój Sewerysiu?
+!!Na łózecku pod kołderką—serce Marysiu.
+!!@VERSE:
+!!3. Za kogóż mi kazes iść—mój Sewerysiu?
+!!Za zołnierza, za rycerza—serce Marysiu.
+!!@VERSE:
+!!4. Jak mię będzie bijał—mój Sewerysiu?
+!!Stul gębę, stul gębę—serce Marysiu.
+!!@VERSE:
+!!5. Kaj sie kazes chować—mój Sewerysiu?
+!!W kościele pod chórem—serce Marysiu.
+!!@VERSE:
+!!6. W co kazes zagrać—mój Sewerysiu?
+!!W organy, we dzwony—serce Marysiu.
+!!@VERSE:
+!!7. Któz będzie tańcował—mój Sewerysiu?
+!!Motyka i rydel—serce Marysiu.
+!!@@END: VERSES
+!!!role-singer: Many characters
+!!!singer-sex: Female, Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=160 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 149} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 149}
 !!!page: 149
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-06

@@ -3,75 +3,95 @@
 !!!source: DWOK02
 !!!id: K0220
 !!!signature:
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M2/4
-=1
-{8f#
-8g
-4a
-=2
-8a
-4dd
-8cc#
-=3
-8b
-8cc#
-8dd
-8cc#
-=4
-8b
-4a
-16b
-16cc#}
+**kern	**text	**text
+*clefG2	*	*
+*k[f#c#]	*	*
+*D:	*	*
+*M2/4	*	*
+=1	=1	=1
+{8f#	Przepió-	Cy-
+8g	.	my-
+4a	-re-	-śle
+=2	=2	=2
+8a	-cka	to
+4dd	w_proso,	po-
+8cc#	.	-wiem
+=3	=3	=3
+8b	a	nie
+8cc#	Kos	za-
+8dd	na	-prę
+8cc#	drze-	się
+=4	=4	=4
+8bM	-wi-	te-
+(4a\	-nę,	.
+16bL	.	-go,
+16ccJ)#}	.	.
 !!LO:LB:g=esac
-=5
-{8dd
-8cc#
-8b
-8a
-=6
-16g#
-16a
-4b
-8a
-=7
-16a
-16f#
-8g
-8g
-16e
-16d
-=8
-8f#
-4a
-16b
-16cc#}
+=5	=5	=5
+{8dd	do-	dzie-
+8cc#	-pie-	-wczę-
+8Lb	.	.
+8a\J	-rom	-ta
+=6	=6	=6
+16g#L	ja	fi-
+16aJ	.	.
+4b	po-	-lu-
+8a	-znał	-ty
+=7	=7	=7
+16aL	fi-	i
+16f#J	.	.
+8gn	-lu-	nam
+8aq	.	.
+8g	-tkę	też
+16eL	dzie-	ni-
+16dJ	.	.
+=8	=8	=8
+8f#	-wczy-	-cze-
+(4a	.	.
+16bL	-nę	-go
+16cc#J)}	.	.
 !!LO:LB:g=esac
-=9
-{8dd
-8cc#
-4b
-=10
-8a
-4b
-8a
-=11
-16g#
-16a
-16b
-16a
-8g
-8c#
-=12
-8d
-4.d}
-==
-*-
+=9	=9	=9
+{8dd	do-	dzie-
+8cc#	-pie-	-wczę-
+4b	-ro	-ta
+=10	=10	=10
+8a	ja	fi-
+4b/	po-	-lu-
+8a	-znał	-ty
+=11	=11	=11
+16gL#	fi-	i
+16aJ	.	.
+16b/L	-lu-	nam
+16aJ	.	.
+8g	-tkę	też
+8c#	dzie-	ni-
+=12	=12	=12
+8d	-wczy-	-cze-
+4.d}	-nę.	go.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!Przepiórecka w proso,
+!!a Kos na drzewinę,
+!!dopierom ja poznał
+!!filutkę dziewczynę
+!!dopiero ja poznał
+!!filutkę dziewczynę.
+!!@VERSE:
+!!Co myśle to powiem
+!!nie zaprę się tego,
+!!dziewczęta filuty
+!!i nam też niczego,
+!!dziewczęta filuty
+!!i nam też niczego.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=201 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 190} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 190}
 !!!page: 190
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-08

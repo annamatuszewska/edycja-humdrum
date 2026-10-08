@@ -3,52 +3,101 @@
 !!!source: DWOK02
 !!!id: K0177
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*F:
-*M2/4
-=1
-{8f
-8a
-8cc
-8cc
-=2
-4b-
-8dd
-8dd
-=3
-8a
-8b-
-8b-
-8g
-=4
-4g
-8f
-8f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M2/4	*
+=1	=1
+{8f	A
+8a	cho-
+8cc	-dzi-
+8cc	-ła
+=2	=2
+4b-	po
+8dd	le-
+8dd	-sie
+=3	=3
+8a\	da
+8b-	su-
+8b-	-ka-
+8g	-ła
+=4	=4
+4g	cie-
+8f	-lę-
+8f}	-cia
 !!LO:LB:g=esac
-=5
-{8f
-8a
-8cc
-8cc
-=6
-4b-
-8b-
-8g
-=7
-8a
-8cc
-8b-
-8g
-=8
-4g
-8f
-8f}
-==
-*-
+=5	=5
+{8f	i
+8a	wstą-
+8cc	-pi-
+8cc	-ła
+=6	=6
+4b-	do
+8b-	dwo-
+8g	-ru
+=7	=7
+8a	i
+8cc	na-
+8b-	-la-
+8g	-zła
+=8	=8
+4g	dzie-
+8f	-cię-
+8f}	-cia.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A chodziła po lesie,
+!!da sukała cielęcia—
+!!i wstąpiła do dworu,
+!!i nalazła dziecięcia.
+!!@VERSE:
+!!2. A bodaj się i było
+!!da to ciele i wściekło,
+!!oj nizeli mi było
+!!da do dworu uciekło!
+!!@VERSE:
+!!3. A bodaj to i byli
+!!da wilcy ciele zjedli,
+!!oj nizeli mnie dworscy
+!!da do stajni zawiedli!
+!!@VERSE:
+!!4. Oj stajnia, selma stajnia,
+!!da wsyćko niescęśliwa,
+!!a bodaj się zapadła
+!!i takie złe umysły!
+!!@VERSE:
+!!5. Oj stajnia, selma stajnia—
+!!da co ze mną zartował,
+!!oj i te piękne słówka
+!!da co mi obiecował.
+!!@VERSE:
+!!6. Oj obiecywałeś ci mi
+!!da i na wsyściutko łozyć,
+!!oj u nóg'eś mi lezał,
+!!da zeby się nie drozyć.
+!!@VERSE:
+!!7. „Da choć całował, ściskał
+!!da do nóg ci upadał,
+!!oj było tak nie słuchać
+!!da kiej'm pijany gadał.”
+!!@VERSE:
+!!8. Oj niewierz chłopu, dziewko!
+!!da bo on umie zwodzić;
+!!oj kiej mu się podobas,
+!!da umie cię łagodzić.
+!!@VERSE:
+!!9. Oj niewierz chłopu, niewierz!
+!!da bo to wielki świedliérz;
+!!oj mostem ci się kładzie,
+!!da stoi ci na zdradzie.
+!!@@END: VERSES
+!!!role-singer: Narrator, Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=157 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 146} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 146}
 !!!page: 146
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-05

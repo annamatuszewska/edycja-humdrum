@@ -3,116 +3,152 @@
 !!!source: DWOK02
 !!!id: K0208
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M6/8
-{8d
-=1
-4b
-8b
-4cc
-8a
-=2
-8dd
-8dd
-8dd
-4b
-8g
-=3
-8a
-8a
-8a
-8cc
-8a
-8f#
-=4
-4g
-8b
-4a}
-8r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M6/8	*
+{8d	Nad
+=1	=1
+4b	brzegiem
+8b	.
+4cc	ci-
+8a\	-cho
+=2	=2
+8dd	pły-
+8dd	-ną-
+8dd	-cej
+4b	rze-
+8g	-ki,
+=3	=3
+8a	któ-
+8a	-ry
+8a	był
+8ccL	tra-
+8a\J	.
+8f#	-wką
+=4	=4
+4g	o-
+8b/	-dzia-
+4a}	-ny,
+8r	.
 !!LO:LB:g=esac
-=5
-{8b
-8b
-8b
-4cc
-8a
-=6
-8dd
-8dd
-8dd
-4b
-8g
-=7
-8a
-8a
-8a
-8cc
-8a
-8f#
-=8
-4g
-16b
-16a
-4g}
-8r
+=5	=5
+{8b	zemdlony
+8b	.
+8b	.
+4cc	chcia-
+8a\	-łem
+=6	=6
+8dd	zamknąć
+8dd	.
+8dd	po-
+4b	-wie-
+8g	-ki
+=7	=7
+8a	by
+8a	zy-
+8a	-skać
+8ccL	po-
+8a\J	.
+8f#	-kój
+=8	=8
+4g	żą-
+16b/L	-da-
+16aJ	.
+4g}	-ny.
+8r	.
 !!LO:LB:g=esac
-=9
-{8b-
-8b-
-8b-
-8.dd
-16cc
-8b-
-=10
-8a
-8b-
-8g
-8g
-8f#
-8r
-=11
-8g
-8g
-8g
-4g
-8g
-=12
-4f#
-8f#
-4.d}
+=9	=9
+{8b-	A-
+8b-	-le
+8b-	da-
+8.ddL	-re-
+16ccJ	.
+8b-	-mne
+=10	=10
+8a\	mo-
+8b-	-je
+8g	za-
+8g	-bie-
+8f#X	-gi,
+8r	.
+=11	=11
+8g	o-
+8g	-czy
+8g	się
+4g	zam-
+8g\	-knąć
+=12	=12
+4f#X	nie
+8f#	chcia-
+4.d};	-ły
 !!LO:LB:g=esac
-=13
-{8b
-8b
-8b
-4cc
-8a
-=14
-8dd
-8dd
-8dd
-4b
-8g
-=15
-8a
-8a
-8a
-8cc
-8a
-8f#
-=16
-4g
-16b
-16a
-4g}
-8r
-==
-*-
+=13	=13
+{8b	bo
+8b	ci-
+8b	-cha
+4cc	wo-
+8a	-da
+=14	=14
+8dd	zie-
+8dd	-lo-
+8dd	-ne
+4b	brze-
+8g	-gi,
+=15	=15
+8a	ży-
+8a	-wy
+8a	twój
+8ccL	o-
+8a\J	.
+8f#	-braz
+=16	=16
+4g	sta-
+16b/L	-wia-
+16aJ	.
+4g}	-ły.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Nad brzegiem cicho płynącéj rzeki,
+!!który był trawką odziany,
+!!zemdlony chciałem zamknąć powieki,
+!!by zyskać pokój żądany.
+!!@VERSE:
+!!2. Ale daremne moje zabiegi!
+!!oczy się zamknąć nie chciały,
+!!bo cicha woda, zielone brzegi,
+!!żywy twój obraz stawiały.
+!!@VERSE:
+!!3. Czy zefir kędy słodko powiewa,
+!!czy się grzmot zrywa na niebie,
+!!tęsknoty mojej nic nie ubywa,
+!!smutny'm dziewczyno bez ciebie.
+!!@VERSE:
+!!4. Próżne starania przyjaciół były,
+!!słodzić me nędzne momenta;
+!!nic nie wskórały wszystkie ich siły,
+!!bo myśl ma tobą zajęta.
+!!@VERSE:
+!!5. Czemuż dziewczyno tak jesteś srogą,
+!!żeś mi spokojność wydarła?
+!!twoja nielitość jest mi złowrogą,
+!!jużeś mi serce rozdarła!
+!!@VERSE:
+!!6. Lecz jeśli dusza twoja przyjemna
+!!ma umysł czuły i tkliwy,
+!!daj to w czym poznać, żeś mi wzajemna,
+!!będę spokojny, szczęśliwy!
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Single Girl
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=187 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 176} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 176}
 !!!page: 176
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-08

@@ -3,46 +3,142 @@
 !!!source: DWOK02
 !!!id: K0195a
 !!!signature:
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{8a
-8a
-4.ee
-8a
-=2
-8ee
-8ee
-8gg
-8ee
-8dd
-8dd
-=3
-8ee
-8a
-8cc
-8cc
-8dd
-8b
-=4
-8dd
-8ff
-4.ee
-8a
-=
-12dd
-12cc
-12b
-4a
-4a}
-==
-*-
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+{8a	Pod
+8a	Kamieńcem
+4.ee^	.
+8a\	.
+=2	=2
+8ee	pod
+8ee	Po-
+8gg^	-dol-
+8ee	-skim
+8dd	pod
+8dd	Po-
+=3	=3
+8ee^	-dolskim
+8a	.
+8cc	sto-
+8cc	-i
+8dd^	Tu-
+8b	-rek
+=4	=4
+8dd	z_swo-
+8ff	-jém
+4.ee^	woj-
+8a	-skiem
+=5	=5
+!LO:TUP:a	!
+(12ddL	z_swo-
+12ccJ	-jém
+12b)	woj-
+4a^>	-skiem.
+4a}	.
+!LO:TX:a:t=*	!
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Pod Kamieńcem pod Podolskim
+!!stoi Turek z swojém wojskiem.
+!!@VERSE:
+!!2. Stoi, stoi, nie wojuje,
+!!więcéj wojska potrzebuje.
+!!@VERSE:
+!!3. Hetman w polu kołem toczy,
+!!Tureczyznie pluje w oczy.
+!!@VERSE:
+!!4. Leci strzała za strzałami,
+!!krew się leje promieniami.
+!!@VERSE:
+!!5. Promieniami i dziurami —
+!!wielki strach i z wojakami.
+!!(lub. Leci kula jaze furczy,
+!!leje się krew jaże ciurczy;
+!!leci kula za kulami
+!!leje się krew rękawami).
+!!—
+!!@VERSE:
+!!6. W bębny kotły uderzyli,
+!!na wojenkę zatrąbili.
+!!@VERSE:
+!!7. I ja bym też także jechał,
+!!gdyby konia kto osiodłał.
+!!@VERSE:
+!!8. Starsza siostra usłyszała,
+!!konika mu osiodłała.
+!!@VERSE:
+!!9. Młodsza siostra miecz podaje,
+!!krzyczy, płacze, umieraje.
+!!@VERSE:
+!!10. Nie płacz siostro, nie płacz brata
+!!przyjedzie on we trzy lata.
+!!@VERSE:
+!!11. A nie wyszło rok, półtora,
+!!już żołnierze jadą z pola.
+!!@VERSE:
+!!12. Skąd jedziecie wojownicy?
+!!Mościa panno z wojny wszyscy.
+!!@VERSE:
+!!13. Witam, witam mospanowie,
+!!czyli mój brat żyje w wojnie?
+!!@VERSE:
+!!14. Leży w polu na koniku,
+!!prawą nóżkę w strzemienniku.
+!!@VERSE:
+!!15. A koń jego wedle niego,
+!!grzebie nóżką, żałuje go.
+!!@VERSE:
+!!16. Już wygrzebał po kolana,
+!!żałujący swego pana.
+!!@VERSE:
+!!17. Stawaj, stawaj panie młody,
+!!dawałeś mi siana, wody.
+!!@VERSE:
+!!18. Teraz nie dasz suchéj słomy,
+!!bo sam jesteś połozony.
+!!—
+!!@VERSE:
+!!19. Lepsza na wsi groch, kapusta,
+!!niźli w wojnie kura tłusta.
+!!@VERSE:
+!!20. Bo na wojnie kule leją,
+!!nie pod jednym nogi drzeją.
+!!@VERSE:
+!!21. Lepiej w domu pługiem orać,
+!!niż na wojnie głośno wołać.
+!!22 Bo na wojnie pięknie chodzą,
+!!po kolana we krwi brodzą.
+!!@VERSE:
+!!23. Lepiéj na wsi kosą kosić,
+!!niż na wojnie szable nosić.
+!!@VERSE:
+!!24. Bo na wojnie szable kruszą,
+!!nie jeden się żegna z duszą.
+!!@VERSE:
+!!25. Jeden woła: wody, wody!
+!!drugi woła: ręki podéj!
+!!@VERSE:
+!!26. Trzeci woła: zetnij głowę,
+!!Bo już robić nic nie mogę.
+!!@VERSE:
+!!27. Czwarty woła: wykop jamę,
+!!zachowaj mnie w czarną ziemię!
+!!@@END: VERSES
+!!!role-singer: Many characters
+!!@@BEGIN:
+!!@COMMENTARY: *) Wedle nacisków (akcentów) w drugim i trzecim takcie padających, możnaby dwa te takty 3/4 rozdzielić na trzy takty 2/4.
+!!@@END:
+!!!RDF**kern: >= above
 !!!ONB: u Kolberga nielogiczny podzial na frazy
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=167 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 156} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 156}
 !!!page: 156
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-07

@@ -3,86 +3,134 @@
 !!!source: DWOK02
 !!!id: K0170
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{8dd
-8dd
-8b
-8b
-=2
-8cc
-4.cc
-=3
-8dd
-8dd
-8ff
-8ff
-=4
-8ee
-4.ee}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+=1	=1
+!LO:TX:a:t=Krakowiak.	!
+{8dd	A
+8dd	daj-
+8b/	-że
+8b/	mi
+=2	=2
+8cc	Bo-
+4.cc	-że
+=3	=3
+8dd	żon-
+8dd	-ki
+8ff	jak
+8ff	naj-
+=4	=4
+8ee	-prę-
+4.ee}	-dzej,
 !!LO:LB:g=esac
-=5
-{8dd
-8dd
-8b
-8b
-=6
-8cc
-4.cc
-=7
-8dd
-8dd
-8ff
-8b
-=8
-8cc
-4.cc}
+=5	=5
+{8dd	że-
+8dd	-bym
+8b	już
+8b	nie
+=6	=6
+8cc	cier-
+4.cc	-piał
+=7	=7
+8dd	więc
+8dd	ta-
+8ff	-ko-
+8b	-wej
+=8	=8
+8cc	nę-
+4.cc}	-dzy.
 !!LO:LB:g=esac
-=9
-{8ee
-8ee
-8ee
-8ee
-=10
-8ee
-8ee
-8.ff
-16ee
-=11
-8dd
-8dd
-8dd
-8dd
-=12
-8dd
-8dd
-8ee
-8dd}
+=9	=9
+{8ee	Boć
+8ee	to
+8ee	ja
+8ee	się
+=10	=10
+8ee	dość
+8ee	na-
+8.ff	-hu-
+16ee	-lał
+=11	=11
+8dd	dziewcząteczek
+8dd	.
+8dd	.
+8dd	.
+=12	=12
+8dd	na-
+8dd	-przy-
+8ee	-tu-
+8dd}	-lał
 !!LO:LB:g=esac
-=13
-{8b
-8b
-8g
-8g
-=14
-8g
-4.cc
-=15
-8ff
-8ff
-8b
-8b
-=16
-8cc
-4.cc}
-==
-*-
+=13	=13
+{8b	sta-
+8b	-tkować
+8g	.
+8g	trza
+=14	=14
+8g	przecie,
+4.cc	.
+=15	=15
+8ff	my-
+8ff	-ślić
+8b/	o
+8b/	ko-
+=16	=16
+8cc	-bie-
+4.cc}	-cie.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A dajże mi Boże żonki jak najprędzej,
+!!żebym już nie cierpiał więc takowéj nędzy.
+!!Boć to ja się dość nahulał
+!!dziewcząteczek naprzytulał!
+!!statkować trza przecie,
+!!myślić o kobiecie.
+!!@VERSE:
+!!2. Karczmarki niewezmę, bo wielkiego pyska,
+!!siedzi za stolikiem i koło kieliszka.
+!!Gorzalinę często łyka,
+!!a pieniążki do się zmyka;
+!!a któż mi to zgani!
+!!sama'm sobie pani.
+!!@VERSE:
+!!3. I wdowy nie pragnę, zachowaj mnie Boże,
+!!szczupły mam majątek, rozejść mi się może.
+!!Jak mi zacznie wygadywać,
+!!umarłych z grobu dobywać;
+!!ja u takiej żony
+!!byłbym jak szalony.
+!!@VERSE:
+!!4. Z miasta panny nie chcę, boby mnie zniszczyła,
+!!jeszcze w łóżku lezy, juzby kawę (winko) piła.
+!!O dziesiątéj do przejźradła
+!!potem figi , lody, jadła,
+!!co mi z takiéj żony
+!!co mi stroi tony.
+!!@VERSE:
+!!5. Dziewki ze wsi nie chcę, źleby o mnie dbała,
+!!onaby o swoich więcéj rozumiała.
+!!Na wsi sobie wychowana,
+!!ma ślad w sobie grubijana,
+!!przez żadnéj praktyki,
+!!nie zna polityki.
+!!@VERSE:
+!!6. Tylko mi daj Boże, co po mojéj woli;
+!!żebyśwa oboje o sobie wiedzieli.
+!!Jak ona mnie pocałuje,
+!!ja jéj tego nie daruję;
+!!więc u takiéj żony
+!!wiek mam przydłużony.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=151 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 140} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 140}
 !!!page: 140
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-05

@@ -3,50 +3,76 @@
 !!!source: DWOK02
 !!!id: K0191
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16b
-8cc
-8ee
-=2
-8dd
-8a
-8f#
-=3
-16g
-16b
-8cc
-8ee
-=4
-8dd
-4a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Owczarek.	!
+{16g	Da
+16b	gó-
+8cc/L	-rą
+8ee/J	o-
+=2	=2
+8dd	-wce
+8a	gó-
+8f#	-rą
+=3	=3
+16g	ba-
+16b	-ra-
+8cc	-ny
+8ee	do-
+=4	=4
+8dd	-li-
+4a}^	-ną,
 !!LO:LB:g=esac
-=5
-{16g
-16b
-8cc
-8cc
-=6
-8b
-8a
-8a
-=7
-16g
-16e
-8d
-8f#
-=8
-8g
-4a}
-==
-*-
+=5	=5
+{16g	da
+16b	o-
+8cc	-wca-
+8cc	-rek
+=6	=6
+8bW	za
+8a	wa-
+8a	-mi
+=7	=7
+16g	z_tą
+16e	gnia-
+8d	-dą
+8f#	cu-
+=8	=8
+8g	-pry-
+4a}^	-ną.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Da górą owce
+!!górą barany doliną,
+!!da owcarek za wami
+!!z tą gniadą cupryną.
+!!@VERSE:
+!!2. Da owcarzu, owcarzu!
+!!cego owce becą?
+!!oj siana im nie dacie,
+!!żytnéj słomy nie chcą.
+!!@VERSE:
+!!3. Da owce, moje owce!
+!!niech was pasie kto chce;
+!!da ja was paść nie będe,
+!!bo się zenić będe.
+!!@VERSE:
+!!4. Da owcarecku Kudła,
+!!owiecka ci schudła;
+!!oj poproś owcarecki,
+!!popasie owiecki.
+!!@@END: VERSES
+!!!role-singer: Narrator, Shepherd
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=165 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 154} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 154}
 !!!page: 154
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-07

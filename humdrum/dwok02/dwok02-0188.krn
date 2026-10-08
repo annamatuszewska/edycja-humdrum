@@ -3,40 +3,74 @@
 !!!source: DWOK02
 !!!id: K0188
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8b
-8dd
-8ee
-8b
-4dd
-=2
-8dd
-8b
-8cc
-8a
-4cc}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8b	Szedł
+8dd	chłopak
+8ee	z_Łóżny
+8b	.
+4dd	.
+=2	=2
+8dd	podpiwszy
+8b	.
+8cc	.
+8a\	so-
+4cc}	-bie
 !!LO:LB:g=esac
-=3
-{8g
-8b
-8cc
-8g
-4b
-=4
-8d
-8d
-8d
-8f#
-4g}
-==
-*-
+=3	=3
+{8g	plą-
+8b	-ta-
+8cc	-ły
+8g	mu
+4b	się
+=4	=4
+8d	no-
+8d	-ży-
+8d	-ska
+8f#	o-
+4g}	-bie.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Szedł chłopak z Łóżny
+!!podpiwszy sobie,
+!!plątały mu się
+!!nożyska obie.
+!!@VERSE:
+!!2. Przyszedł do żony,
+!!upadł na łóżko;
+!!ona go pyta:
+!!co ci to duszko?
+!!@VERSE:
+!!3. Oj oj nie mogę (chory’m)
+!!kochana żono,
+!!wnątrze mię boli,
+!!już umrę pono.
+!!@VERSE:
+!!4. Kochana żono!
+!!nie gotuj słono
+!!słono gotujesz,
+!!ty mnie otrujesz.
+!!@VERSE:
+!!5. Ona porwała
+!!z garka warzechę,
+!!oj miałać, miała
+!!wielką pociechę.
+!!@VERSE:
+!!6. Jął się jéj prosić:
+!!mogę już mogę!
+!!i tak pocieszył
+!!żonę niebogę.
+!!@@END: VERSES
+!!!role-singer: Narrator 
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=163 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 152} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 152}
 !!!page: 152
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-06

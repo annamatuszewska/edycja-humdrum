@@ -3,54 +3,63 @@
 !!!source: DWOK02
 !!!id: K0162
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/4
-=1
-{8g
-8e
-8f
-8g
-8b-
-8dd
-=2
-8cc
-8cc
-8cc
-8g
-8b-
-8dd
-=3
-8cc
-8a
-8b-
-8a
-4f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/4	*
+=1	=1
+{8g	A
+8e	kie-
+8f	-dy
+8g	ja
+8b-	je-
+8dd	-chał
+=2	=2
+8cc	do
+8cc	swo-
+8cc	-jej
+8g	ko-
+8b-	-chan-
+8dd	-ki
+=3	=3
+8cc	miesiąc
+8a	.
+8b-/L	świe-
+8aJ	.
+4f}	-cił
 !!LO:LB:g=esac
-=4
-{8g
-8e
-8f
-8g
-8b-
-8dd
-=5
-8cc
-8a
-8b-
-8a
-4f
-=6
-8g
-8e
-4f}
-4r
-==
-*-
+=4	=4
+{8g	wy-
+8e	-so-
+8f	-ko
+8g	wy-
+8b-	-so-
+8dd	-ko
+=5	=5
+8cc	mie-
+8a	-siąc
+8b-/L	świe-
+8aJ	.
+4f	-cił
+=6	=6
+8g	wy-
+8e	-so-
+4f}	-ko.
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A kiedy ja jechał do swojej kochanki
+!!miesiąc świecił wysoko wysoko
+!!miesiąc świecił wysoko.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=146 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 135} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 135}
 !!!page: 135
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-05

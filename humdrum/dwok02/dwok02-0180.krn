@@ -3,54 +3,84 @@
 !!!source: DWOK02
 !!!id: K0180
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8a
-8b
-8.cc
-16b
-=2
-8cc
-8b
-8a}
-8r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+!LO:TX:a:t=Moderato.	!
+{8a\	Z_tam-
+8b	-tej
+8.cc	stro-
+16b	-ny
+=2	=2
+8cc	je-
+8b	-zio-
+8a}\	-ra
+8r	.
 !!LO:LB:g=esac
-=3
-{8dd
-8dd
-8dd
-8dd
-=4
-4cc
-8f#
-8f#
-=5
-4g
-8g
-8g
-=6
-16b
-16dd
-16cc
-16b
-8a
-8a
-=7
-8a
-16cc
-16b
-8g
-8b
-=8
-2a}
-==
-*-
+=3	=3
+{8dd	z_tam-
+8dd	-tej
+8dd	stro-
+8dd	-ny
+=4	=4
+4cc	jech-
+8f#	-un-
+8f#	-der
+=5	=5
+4g	mach
+8g	cumber
+8g	.
+=6	=6
+16b	ja-
+16dd	-wo-
+16cc	-ro-
+16b	-wy
+8a	Woj-
+8a	-tek
+=7	=7
+16a	za-
+16cc	-bo-
+16b	-ro-
+16a	-wy
+8g	je-
+8b	-zio-
+=8	=8
+2a}	-ra.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Z tamtej strony jeziora—
+!!z tamtej strony jechunder—mach cumber
+!!jaworowy Wojtek zaborowy—jeziora.
+!!@VERSE:
+!!2. Pasła Kasia gąsiora—
+!!pasła Kasia jechunder—mach cumber
+!!jaworowy Wojtek zaborowy—gąsiora.
+!!@VERSE:
+!!3. Gąsior—gąsior, gąsior mój,
+!!gąsior, gąsior jechunder—mach cumber
+!!jaworowy Wojtek zaborowy—gąsior mój.
+!!@VERSE:
+!!4. Ukąsiłeś brzusek mój—
+!!ukąsiłeś jechunder—mach cumber
+!!jaworowy Wojtek zaborowy—brzusek mój.
+!!@VERSE:
+!!5. Ja cie wcale nie kąsał—
+!!ja cię wcale jechunder—mach cumber
+!!jaworowy Wojtek zaborowy—nie kąsał.
+!!@VERSE:
+!!6. Tylkom rosę otrząsał
+!!tylkom rosę jechunder—mach cumber
+!!jaworowy Wojtek zaborowy—otrząsał.
+!!@@END: VERSES
+!!!role-singer: Narrator, Many characters 
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=159 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 148} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 148}
 !!!page: 148
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-06

@@ -3,68 +3,82 @@
 !!!source: DWOK02
 !!!id: K0194
 !!!signature:
-**kern
-*clefG2
-*k[b-e-]
-*g:
-*M3/4
-=1
-{16g
-16a
-16b-
-16cc
-8dd
-8dd
-8gg
-8ff#
-=2
-8gg
-8gg
-8ff#
-8dd
-[4gg
-=3
-4gg]
-2dd}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*g:	*
+*M3/4	*
+=1	=1
+{16gL	Oj
+16aJ	.
+16b-L	lu-
+16ccJ	.
+8dd	-laj-
+8dd	-ze
+8gg	lu-
+8ff#	-laj
+=2	=2
+8gg	mo-
+8gg	-je
+8ff#	ma-
+8dd	-łe
+[4gg	dzié-
+=3	=3
+4gg]	.
+2dd}	-cie
 !!LO:LB:g=esac
-=4
-{8dd
-16gg
-16ff#
-4.gg
-8dd
-=5
-8ee-
-8dd
-[2cc
-=6
-4cc]
-2g}
+=4	=4
+{8dd	ze-
+16ggL	-byś
+16ff#J	.
+(4.gg	by-
+8dd)	.
+=5	=5
+8ee-L	-ło
+8ddJ	.
+[2cc	do-
+=6	=6
+4cc]	.
+2g}	-bre
 !!LO:LB:g=esac
-=7
-{16g
-16a
-16b-
-16cc
-8dd
-8dd
-8gg
-8ff#
-=8
-8gg
-[8gg
-8gg]
-8ff#
-4dd
-=9
-8ee-
-8dd
-4.cc
-8g}
-==
-*-
+=7	=7
+{16gL	nie
+16aJ	.
+16b-L	bi-
+16ccJ	.
+8dd	-ja-
+8dd	-li-
+8gg	-by-
+8ff#	-cię
+=8	=8
+8gg	nie
+[8ggL	bi-
+8gg]J	.
+8ff#	-ja-
+4dd	-li
+=9	=9
+8ee-L	by
+8ddJ	.
+(4.cc	cię.
+8g)}	.
+!LO:TX:a:t=*	!
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oj lulajze lulaj moje małe dziécie
+!!zebyś było dobre nie bijalibycię
+!!nie bijali by cię.
+!!@@END: VERSES
+!!!role-singer: Mother
+!!!role-listener: Child
+!!!singer-sex: Daughter
+!!@@BEGIN:
+!!@COMMENTARY: *) Dwa ostatnie takty, przy powtórzeniu pieśni, śpiewane są o kwartę (cztery tony) niżéj.
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=166 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 155} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 155}
 !!!page: 155
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-07

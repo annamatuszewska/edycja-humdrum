@@ -3,67 +3,82 @@
 !!!source: DWOK02
 !!!id: K0204a
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{4cc
-8b
-8cc
-=2
-4cc
-8b
-8g
-=3
-8b
-8cc
-8cc
-8b
-=4
-4.cc
-8g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+=1	=1
+{4cc	Oj
+8b	od
+8ccM	o-
+=2	=2
+4cc	-ne-
+8b/L	-go
+8gJ	.
+=3	=3
+8b	ga
+8cc	ju
+8cc	zie-
+8b	-lo-
+=4	=4
+4.cc	-ne-
+8g}	-go
 !!LO:LB:g=esac
-=5
-{4b
-8b
-8dd
-=6
-4cc
-8b
-8f
-=7
-2g}
+=5	=5
+{4b	oj
+8b	źni-
+8dd	-wia-
+=6	=6
+4cc	-rze
+(8b/	i
+8f)	.
+=7	=7
+2g};	dą,
 !!LO:LB:g=esac
-=8
-{8g
-8b
-8b
-8g
-=9
-4cc
-8dd
-8b
-=10
-4.cc
-8g}
+=8	=8
+{8g	nie
+8b	są
+8b	wia-
+8g	-nek
+=9	=9
+4cc	ze
+8ddL	zło-
+8bJ	.
+=10	=10
+(4.cc	-ta,
+8g)}	.
 !!LO:LB:g=esac
-=11
-{8b
-8g
-8b
-8dd
-=12
-4cc
-8b
-8f
-=13
-2g}
-==
-*-
+=11	=11
+{8b	źni-
+8g	-wia-
+8b	-re-
+8dd	-cek
+=12	=12
+4cc	ro-
+8b/L	-bo-
+8fJ	.
+=13	=13
+2g;}	-ta.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj od onego—gaju zielonego
+!!oj źniwiarze idą—
+!!niesą wianek ze złota,
+!!źniwiarecek robota.
+!!@VERSE:
+!!2. Od Krakowa wielki wiatr—
+!!nas jegomość kiejby kwiat.
+!!@VERSE:
+!!3. Od Krakowa wielka burza,
+!!nasa imość kiejby róza.—
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=179 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 168} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 168}
 !!!page: 168
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-07

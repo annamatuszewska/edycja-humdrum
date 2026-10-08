@@ -3,92 +3,127 @@
 !!!source: DWOK02
 !!!id: K0218a
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8.ff#
-16ff#
-8.gg
-16ee
-=2
-8dd
-8dd
-8b
-8g
-=3
-8.a
-16b
-8.cc
-16a
-=4
-8g
-8b
-8dd
-8dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8.ff#	Na-
+16ff#	-sa
+8.gg	pan-
+16ee	-na
+=2	=2
+8dd	pa-
+8dd	-nie-
+8b	-ne-
+8g	-cka,
+=3	=3
+8.a	pa-
+16b	-nie-
+8.cc	-ne-
+16a	-cka
+=4	=4
+8g	pa-
+8b	-nie-
+8dd	-ne-
+8dd}	-cka,
 !!LO:LB:g=esac
-=5
-{8.ff#
-16ff#
-8gg
-8ee
-=6
-8ee
-8dd
-8b
-8g
-=7
-8.a
-16b
-8.cc
-16a
-=8
-8f#
-8f#
-8a
-8g}
+=5	=5
+{8.ff#	mo-
+16ff#	-dra
+8gg	na
+8ee	niej
+=6	=6
+8ee	su-
+8dd	-kie-
+8b	-ne-
+8g	-cka,
+=7	=7
+8.a	su-
+16b	-kie-
+8.cc	-ne-
+16a	-cka,
+=8	=8
+8f#	su-
+8f#	-kie-
+8a	-ne-
+8g}	-cka.
 !!LO:LB:g=esac
-=9
-{8g
-8b
-8cc
-8ee
-=10
-8dd
-16ee
-16ff
-4aa
-=11
-8dd
-8b
-8g
-8b
-=12
-4cc
-4a}
+=9	=9
+*k[]	*
+{8g	Chłopcy
+8b	za
+8cc	nią
+8ee	.
+=10	=10
+8dd	hej
+16eeLn	.
+16ffJ	.
+4gg	ha
+=11	=11
+8dd	jak
+8b	za
+8g	pa-
+8b	-nią
+=12	=12
+4cc	hej
+4a}	ha,
 !!LO:LB:g=esac
-=13
-{8dd
-8b
-8g
-8b
-=14
-4cc
-4cc
-=15
-8dd
-8dd
-8g
-8b
-=16
-4cc
-4a}
-==
-*-
+=13	=13
+{8dd	z_pod-
+8b	-kówka-
+8g	.
+8b	-mi
+=14	=14
+4cc	hej
+4cc	ha
+=15	=15
+8dd	z_kó-
+8dd	-le-
+8g	-cka-
+8b	-mi
+=16	=16
+4cc	hej
+4a}	ha!
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Nasa panna panienecka,
+!!panienecka panienecka, modra
+!!na niej sukienecka,
+!!sukienecka, sukienecka.
+!!Chłopcy za nią hej ha
+!!jak za panią hej ha,
+!!z podkówkami hej ha
+!!z kóleckami hej ha! hej ha ha!
+!!@VERSE:
+!!To nie dla mnie ta panienka,
+!!hej panienka! hej panienka!
+!!bo juz moja jest Basieńka!
+!!hej Basieńka! hej Basieńka!
+!!Hajże, hajże—hej ha!
+!!dylu dylu—hej ha!
+!!ty na skrzypcach—hej ha!
+!!ty na kiju—hej ha!
+!!hej ha!
+!!@VERSE:
+!!Chociaz na mnie jest sukmana,
+!!hej sukmana! hej sukmana!
+!!jednak ja se śpiewam dana!
+!!dana dana, dana, dana!
+!!dana, moja, dana,
+!!dziewcyno kochana
+!!dana moja, dana,
+!!dziewcyno kochana,
+!!Hej ha!
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=198 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 187} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 187}
 !!!page: 187
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-08

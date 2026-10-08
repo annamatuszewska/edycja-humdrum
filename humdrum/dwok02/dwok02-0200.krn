@@ -3,85 +3,100 @@
 !!!source: DWOK02
 !!!id: K0200
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*F:
-=1
-*M3/4
-{4a
-[2cc
-=2
-4cc]
-8b-
-8a
-4g
-=3
-4a
-[2cc
-=4
-4cc]
-8b-
-8a
-4g}
+**kern	**text	**text
+*clefG2	*	*
+*k[b-]	*	*
+*F:	*	*
+=1	=1	=1
+*M3/4	*	*
+{4a\	Plon	Plo-
+[2cc	nie-	-no-
+=2	=2	=2
+4cc]	.	.
+8b-L	-siem	-wa-
+8a\J	.	.
+4g	plon	-ło
+=3	=3	=3
+4a\	je-	plo-
+[2cc	-go	-no-
+=4	=4	=4
+4cc]	.	.
+8b-	mości	-wa-
+8a	w_dom	.
+4g}	.	-ło
 !!LO:LB:g=esac
-=5
-{4a
-2cc
-=6
-4cc
-8b-
-8a
-4g
-=7
-2.a
-=8
-8b-
-8g}
-4r
-4r
+=5	=5	=5
+{4a\	że-	po
+2cc	-by	sto
+=6	=6	=6
+4cc	do-	kor-
+8b-	-brze	-cy
+8a	plo-	z_mę-
+4g	-no-	-dla
+=7	=7	=7
+2.a;	-wa-	da-
+=8	=8	=8
+(8b-/L	-ło	-ło.
+8g)}J	.	.
+4r	.	.
+4r	.	.
 !!LO:LB:g=esac
-=9
-{4a
-2cc
-=10
-8dd
-8cc
-8b-
-8a
-8cc
-8g
-=11
-*M2/4
-2a
-=12
-*M3/4
-8b-
-8g}
-4r
-4r
+=9	=9	=9
+{4a	Plon	.
+2cc	nie-	.
+=10	=10	=10
+8ddL	.	.
+8ccJ	.	.
+8b-L	-siem	.
+8a\J	.	.
+8ccL	plon	.
+8g\J	.	.
+=11	=11	=11
+*M2/4	*	*
+2a;	plo-	.
+=12	=12	=12
+*M3/4	*	*
+(8b-L	-n	.
+8g\)J}	.	.
+4r	.	.
+4r	.	.
 !!LO:LB:g=esac
-=13
-{4a
-2cc
-=14
-8dd
-8a
-8b-
-8a
-8cc
-8g
-=15
-2.a
-=16
-8b-
-8g}
-4r
-4r
-==
-*-
+=13	=13	=13
+{4a	je-	.
+2cc	-go	.
+=14	=14	=14
+8ddL	mo-	.
+8a\J	.	.
+8b-L	-ści	.
+8a\J	.	.
+8ccL	w_dom	.
+8g\J	.	.
+=15	=15	=15
+2.a;	w_do-	.
+=16	=16	=16
+(8b-L	-m.	.
+8g}\J)	.	.
+4r	.	.
+4r	.	.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!Plon niesiem plon
+!!jego mości w dom
+!!żeby dobrze plonowało
+!!Plon niesiem plon, plon
+!!jego mości w dom, w dom.
+!!@VERSE:
+!!2. Plonowało plonowało
+!!po sto korcy z mędla dało.
+!!Plon niesiem plon, plon
+!!jego mości w dom, w dom.
+!!@@END: VERSES
+!!!role-singer: Group
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=175 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 164} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 164}
 !!!page: 164
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-07

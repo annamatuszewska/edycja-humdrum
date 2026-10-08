@@ -3,55 +3,79 @@
 !!!source: DWOK02
 !!!id: K0184
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8b
-8dd
-8dd
-8dd
-=2
-8dd
-8cc
-8ee
-8ee
-=3
-8dd
-8dd
-8dd
-8dd
-=4
-8dd
-8cc
-8ee
-8ee}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+!LO:TX:a:t=Kolęda (niekiedy przy jasełkach).	!
+{8b	A
+8dd	w_Krakowie
+8dd	.
+8dd	.
+=2	=2
+8dd	w_no-
+8cc	-wym
+8ee	do-
+8ee	-mu
+=3	=3
+8dd	ro-
+8dd	-bią
+8dd	ży-
+8dd	-dzi
+=4	=4
+8dd	mon-
+8cc	-dur
+8ee	na
+8ee}	mnie,
 !!LO:LB:g=esac
-=5
-{8dd
-8dd
-8cc
-8a
-=6
-8b
-8b
-4cc
-=7
-8b
-8b
-8cc
-8a
-=8
-8g
-8g
-8g
-8g}
-==
-*-
+=5	=5
+{8dd	jak
+8dd	ci
+8cc	mi
+8a	go
+=6	=6
+8b	przy-
+8b	-mie-
+4cc	-rza-ją
+=7	=7
+8b	to
+8b	mi
+8cc	pię-
+8a	-knie
+=8	=8
+8g	przy-
+8g	-gry-
+8g	-wa-
+8g}	-ją.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A w Krakowie w nowym domie
+!!robią żydzi mundur na mnie.
+!!Jak ci mi go przymierzają
+!!to mi pięknie przygrywają.
+!!O Boże mój, Panie mój!
+!!jaki ciasny mundur mój.
+!!@VERSE:
+!!2. Miałem konia z ostrogami:
+!!moja panno siadaj z nami,
+!!i capeckę na ucho:
+!!bywaj zdrowa dziewucho.
+!!@VERSE:
+!!3. Miała baba trzy syny,
+!!wsyśtkie były Rusiny.
+!!Jeden robiuł parchoły,
+!!drugi posed do skoły,
+!!a trzeci był nie taki,
+!!robiuł babom przetaki.
+!!@@END: VERSES
+!!!role-singer: Many characters, Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=161 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 150} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 150}
 !!!page: 150
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-06

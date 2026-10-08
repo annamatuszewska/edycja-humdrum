@@ -3,51 +3,95 @@
 !!!source: DWOK02
 !!!id: K0189
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8g
-8b
-8dd
-8ee
-=2
-8cc
-4b
-8a
-=3
-8cc
-8ee
-8ee
-8ee
-=4
-8ee
-4dd
-8b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8g\	Oj
+8b	ju-
+8dd	-zem
+8ee	się
+=2	=2
+8cc	na-
+4b	-pa-
+8a	-trzył
+=3	=3
+8cc	w_Ra-
+8ee	-do-
+8ee	-miu
+8ee	u
+=4	=4
+8ee	fa-
+(4dd	-ry
+8b)}	.
 !!LO:LB:g=esac
-=5
-{8b
-4dd
-8ee
-=6
-8ee
-8cc
-8b
-8a
-=7
-8cc
-8b
-8g
-8f#
-=8
-8f#
-4.e}
-==
-*-
+=5	=5
+{8b	jak
+(4dd	Ra-
+8ee)	.
+=6	=6
+8ee	-domskie
+8cc	.
+8b/	pan-
+8a	-ny
+=7	=7
+8cc	da-
+8b	-ją
+8g	na
+8f#	och-
+=8	=8
+8f#	-fia-
+4.e}	-ry.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj juzem się napatrzył 
+!!w Radomiu u fary
+!!jak radomskie panny
+!!dają na ochfiary.
+!!@VERSE:
+!!2. Oj nie patrzą na ksiązki,
+!!ani na paciorki,
+!!a tylko się zbierają
+!!do któréj synkarki.
+!!@VERSE:
+!!3. I wysły z kościoła
+!!prosto do synkarki:
+!!oj moja synkarko!
+!!dajcie nam gorzałki.
+!!@VERSE:
+!!4. Dajcie kielich spory
+!!bo nie mamy casu,
+!!zebyśmy nie miały
+!!od matek hałasu.
+!!@VERSE:
+!!5. I przysła do dom córka
+!!główka się jéj chwieje;
+!!pyta jéj się matka:
+!!cóz ci się to dzieje?
+!!@VERSE:
+!!6. Oj moja córusiu,
+!!cyś gorzałkę piła?
+!!A moja matusiu,
+!!ja w kościele była.
+!!@VERSE:
+!!7. I wysła matka w rynek
+!!prosto do synkarki:
+!!oj cy tu córka moja
+!!nie piła gorzałki?
+!!@VERSE:
+!!8. Oj nie sama-ć tu była,
+!!było ich tu ćtyry,
+!!da nie długo bawiły,
+!!pugarca wypiły!
+!!@@END: VERSES
+!!!role-singer: Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=164 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 153} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 153}
 !!!page: 153
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-07

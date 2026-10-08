@@ -3,67 +3,108 @@
 !!!source: DWOK02
 !!!id: K0211
 !!!signature:
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M3/4
-=1
-{8f
-8b-
-8b-
-8b-
-8a
-8b-
-=2
-8b
-8cc
-4cc}
-4r
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M3/4	*
+=1	=1
+!LO:TX:a:t=Z Komedyo-Opery: Szkoda Wąsów (słowa Dmuszewskiego)	!
+{8f	Nie
+8b-	ta-
+8b-	-kie
+8b-	to
+8a	cza-
+8b-/	-sy
+=2	=2
+8bL	by-
+8ccJ	.
+4cc}	-ły,
+4r	.
 !!LO:LB:g=esac
-=3
-{8f
-8cc
-8cc
-8cc
-8b
-8cc
-=4
-8.cc#
-16dd
-4dd}
-4r
+=3	=3
+{8f	kie-
+8cc	-dy
+8cc	chło-
+8cc	-piec
+8b	wdzięczny
+8cc	.
+=4	=4
+8.ccL#	mi-
+16ddJ	.
+4dd}	-ły,
+4r	.
 !!LO:LB:g=esac
-=5
-{8b-
-8dd
-8dd
-8dd
-8cc#
-8dd
-=6
-8ff
-8ee
-4ee-}
-4r
+=5	=5
+{8b-	u
+8dd	nó-
+8dd	-żek
+8dd	swo-
+8cc#	-jej
+8dd	ko-
+=6	=6
+8ffL	-chan-
+8eeJ	.
+4ee-}	-ki
+4r	.
 !!LO:LB:g=esac
-=7
-{8ee-
-8cc
-4.b-
-8dd
-=8
-16dd
-16cc
-16a
-16cc
-4cc
-8b-}
-8r
-==
-*-
+=7	=7
+{8ee-	tra-
+8cc	-wił
+4.b-	wieczo-
+8dd	.
+=8	=8
+16ddL	-ry,
+16ccJ	.
+16a\L	po-
+16ccJ	.
+4cc	-ran-
+8b-}	-ki.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Nie takie to czasy były!
+!!kiedy chłopiec wdzięczny, miły,
+!!u nóżek swojéj kochanki
+!!trawił wieczory i ranki.
+!!@VERSE:
+!!2. Już upłynął ten czas złoty,
+!!niema w chłopcach więcej cnoty;
+!!ja żadnemu już nie wierzę,
+!!bo choć kocha, to nie szczerze.
+!!@VERSE:
+!!3. Gdym na wiosnę pasła trzody,
+!!najpiękniejsze kwiatki wprzódy
+!!zrywał z rosą na mój wianek,
+!!zawzdy mówił: że kochanek.
+!!@VERSE:
+!!4. Siedział przy mnie luby, miły,
+!!wdzięki go moje bawiły,
+!!moja trzoda wdzięczna była,
+!!zorza przyjemnie świeciła.
+!!@VERSE:
+!!5. A teraz go wszystko nudzi,
+!!mnie niewdzięcznik już nie budzi;
+!!ani czeka późnéj pory,
+!!spędza trzodę do obory.
+!!@VERSE:
+!!6. Ach odmiano czasów sroga!
+!!gdzież ta chwila tyle droga?
+!!gdym, się wzajem z nim bawiła,
+!!gdym mu w oczach miłą była.
+!!@VERSE:
+!!7. Zmienił się czas nie stateczny,
+!!porzucił mnie mój serdeczny!
+!!oby za karę odmiany
+!!nie był odemnie kochany!
+!!@@END: VERSES
+!!!role-singer: Narrator 
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=189 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 178} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 178}
 !!!page: 178
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-08

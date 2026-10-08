@@ -3,49 +3,156 @@
 !!!source: DWOK02
 !!!id: K0178
 !!!signature:
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16a
-16a
-8.cc
-16b
-=2
-16cc
-16dd
-8ee
-8dd
-=3
-16cc
-16dd
-8ee
-8dd}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{16a	Da
+16a	jak-
+8.cc	-że
+16b	iść
+=2	=2
+16cc	do
+16dd	dziewcyny,
+8ee	.
+8dd	.
+=3	=3
+16cc	do
+16dd	dziewcyny,
+8ee	.
+8dd}	.
 !!LO:LB:g=esac
-=4
-{16cc
-16ee
-16dd
-16cc
-8b
-=5
-8a
-4g
-=6
-16cc
-16ee
-16dd
-16cc
-8b
-=7
-8a
-4g#}
-==
-*-
+=4	=4
+{16a	Da
+16a	jak-
+8.cc	-że
+16b	iść
+=5	=5
+16cc	do
+16dd	dziewcyny,
+8ee	.
+8dd	.
+=6	=6
+16cc	do
+16dd	dziewcyny,
+8ee	.
+8dd}	.
+!!LO:LB:g=esac
+=7	=7
+{16cc	kie-
+16ee	-dy
+16ddL	psi
+16ccJ	.
+8b	sce-
+=8	=8
+8a	-ka-
+4g	-ją
+=9	=9
+16cc	kie-
+16ee	-dy
+16ddL	psi
+16ccJ	.
+8b	sce-
+=10	=10
+8a	-ka-
+4g#}	-ją.
+=11	=11
+{16a	Trze-
+16a	-ba
+8.cc	dać
+16b	psu
+=12	=12
+16cc	ka-
+16dd	-wał
+8ee	chle-
+8dd	-ba,
+=13	=13
+16cc	ka-
+16dd	-wał
+8ee	chle-
+8dd}	-ba,
+!!LO:LB:g=esac
+=14	=14
+{16a	nie-
+16a	-chaj
+8.cc	mil-
+16b	-cy
+=15	=15
+16cc	kie-
+16dd	-dy
+8ee	trze-
+8dd	-ba—
+=16	=16
+16cc	kie-
+16dd	-dy
+8ee	trze-
+8dd}	-ba—
+!!LO:LB:g=esac
+=17	=17
+{16cc	by-
+16ee	.
+16ddL	.
+16ccJ	.
+8b	-waj
+=18	=18
+8a	Jó-
+4g	-ziu
+=19	=19
+16cc	u
+16ee	.
+16Ldd	.
+16cJc	.
+8b	.
+=20	=20
+8a	mnie!
+4g#}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Da jakze iść do dziewcyny
+!!kiedy psi scekają?
+!!Trzeba dać psu kawał chleba,
+!!niechaj milcy kiedy trzeba—
+!!bywaj Józiu u mnie!
+!!@VERSE:
+!!2. Da jakze iść do dziewcyny
+!!kiedy wrota skrzypią?
+!!Faski masła odzałować,
+!!dobze wrota wysmarować—
+!!bywaj Józiu u mnie!
+!!@VERSE:
+!!3. Da jakze tam do dziewcyny
+!!kiedy drzwi zamknięte?
+!!Trzeba rącek nie załować,
+!!i zawory poodsuwać—
+!!bywaj Józiu u mnie!
+!!@VERSE:
+!!4. Da jakze iść do dziewcyny
+!!kiej tam celadź sypia?
+!!Trzeba wódki nie załować,
+!!ino celadź ponapować—
+!!a sam bywaj u mnie!
+!!@VERSE:
+!!5. Da jakze iść do dziewcyny
+!!kiej tam matka sypia?
+!!Prosić matkę na ostatki,
+!!da ci córkę i manatki—
+!!a sam bywaj u mnie.
+!!@VERSE:
+!!6. Da jakze iść do dziewcyny
+!!kiej tam ojciec sypia?
+!!Trzeba ojcu dać tytuniu,
+!!da ci córkę i pół domu—
+!!bywaj Józiu u mnie!
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=158 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 147} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 147}
 !!!page: 147
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-06

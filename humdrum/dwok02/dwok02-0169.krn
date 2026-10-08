@@ -3,73 +3,105 @@
 !!!source: DWOK02
 !!!id: K0169
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*F:
-*M2/4
-=1
-{8f
-8g
-8a
-8b-
-=2
-8cc
-4.a
-=3
-8b-
-8dd
-16ff
-16ee
-8dd
-=4
-8cc
-4.a}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M2/4	*
+=1	=1
+{8f	Oj
+8g	tam
+8a	w_sade-
+8b-/	.
+=2	=2
+(8cc	-cku
+4.a\)	.
+=3	=3
+8b-	li-
+8dd	-ście
+16ffL	pa-
+16eeJ	.
+8dd	-da-
+=4	=4
+(8cc	-ją,
+4.a)\}	.
 !!LO:LB:g=esac
-=5
-{8f
-8g
-8a
-8b-
-=6
-8cc
-4.a
-=7
-8b-
-8dd
-16ff
-16ee
-8dd
-=8
-8cc
-4.a}
+=5	=5
+{8f	mo-
+8g	-ja
+8a	ma-
+8b-/	-tu-
+=6	=6
+(8cc	-lu
+4.a)\	.
+=7	=7
+8b-	pier-
+8dd	-wse-
+16ffL	-go
+16eeJ	.
+8dd	ra-
+=8	=8
+(8cc	-ją.
+4.a\)}	.
 !!LO:LB:g=esac
-=9
-{8a
-8cc
-8cc
-8cc
-=10
-8dd
-8cc
-8cc
-16cc
-16f
-=11
-8g
-16g
-16b-
-8cc
-16cc
-16e
-=12
-4g
-8a
-8f}
-==
-*-
+=9	=9
+{8a	a
+8cc	ten
+8cc	pier-
+8cc	-sy
+=10	=10
+8dd	w_ple-
+8cc	.
+8cc	-cach
+16cc/L	ser-
+16fJ	-sy
+=11	=11
+8g	ja
+16gL	nie
+16b-/J	.
+8cc	pój-
+16cc/L	-dę
+16eJ	.
+=12	=12
+4g	za
+8a	nie-
+8f}	-go.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj tam w sadecku liście padają, *)
+!!moja matulu pierwsego rają.
+!!a ten piersy w plecach sersy
+!!ja nie pójdę za niego.
+!!@VERSE:
+!!2. Oj tam w sadecku liście padają,
+!!moja matulu, drugiego rają.
+!!A ten drugi
+!!w stanie długi,
+!!ja nie pójdę za niego.
+!!@VERSE:
+!!3. Oj tam w sadecku liście padają,
+!!moja matulu, trzeciego rają.
+!!A ten trzeci
+!!grywa w kości,
+!!ja nie pójdę za niego.
+!!@VERSE:
+!!4. Oj tam w sadecku liście padają,
+!!moja matulu, cwartego rają.
+!!A ten cwarty
+!!grywa w karty;
+!!ja nie pójdę za niego.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: *) Przystosowanie zapewne do liści bylicy. Ob. opisanie Sobótki.
+!!@@END:
+!!!role-singer: Daughter
+!!!role-listener: Mother
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=150 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 139-140} @EN{Oskar Kolberg Complete Works 2: Sandomierz, pp. 139-140}
 !!!page: 139-140
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-05

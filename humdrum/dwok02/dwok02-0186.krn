@@ -3,52 +3,76 @@
 !!!source: DWOK02
 !!!id: K0186
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8g
-8b
-8dd
-=2
-16dd
-16ee
-8cc
-8a
-=3
-16cc
-16ee
-8ee
-8ee
-=4
-8dd
-4b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8g	Oj
+8b	nie
+8dd	mas
+=2	=2
+16dd	ci
+16ee	to
+8cc	nie
+8a\	mas
+=3	=3
+16cc	jak
+16ee	na-
+8ee	-sej
+8ee	nie-
+=4	=4
+8dd	-wie-
+4b}	-ście.
 !!LO:LB:g=esac
-=5
-{8g
-8b
-16dd
-16ee
-=6
-16cc
-16b
-8a
-8a
-=7
-16cc
-16b
-8g
-8f#
-=8
-8f#
-8e}
-8r
-==
-*-
+=5	=5
+{8g	Mąz
+8b	o-
+16dLd	-rze
+16eeJ	.
+=6	=6
+16cc	na
+16b	u-
+8a	-go-
+8a	-rze
+=7	=7
+16cc	zon-
+16b	-ka
+8g	pi-
+8f#	-je
+=8	=8
+8f#	w_mie-
+8e}	-ście.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj nie mas ci to nie mas
+!!jak naséj niewieście:
+!!mąz orze na ugorze,
+!!zonka pije w mieście,
+!!@VERSE:
+!!2. Mąz idzie oj do domu
+!!popłakuje sobie,
+!!zonka idzie hej z miasta
+!!wykrzykuje sobie.
+!!@VERSE:
+!!3. Oj wiedziałeś ty męzu
+!!zem doma nie była—
+!!ej pościel mi łózecko
+!!bom się narobiła.
+!!@VERSE:
+!!4. Oj posłał jéj łózecko,
+!!i połozył ze ją—
+!!i wziął ci gałązecki
+!!i oganiał ze ją. (od much).
+!!@@END: VERSES
+!!!role-singer: Narrator, Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=162 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 151} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 151}
 !!!page: 151
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-06

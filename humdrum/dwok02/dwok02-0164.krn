@@ -3,42 +3,64 @@
 !!!source: DWOK02
 !!!id: K0164
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8dd
-16dd
-16dd
-8ee
-16cc
-16a
-=2
-16g
-16b
-16a
-16cc
-4b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8dd	Oj
+16dd	słoń-
+16dd	-ce
+8ee	słońce
+16ccL	.
+16a\J	.
+=2	=2
+16g	słoń-
+16b/	-ce-
+16a	-go-
+16cc	-rą-
+4b}	-ce,
 !!LO:LB:g=esac
-=3
-{8dd
-16dd
-16dd
-8ee
-16cc
-16a
-=4
-16g
-16b
-16a
-16a
-4g}
-==
-*-
+=3	=3
+{8dd	pa-
+16dd	-sła
+16dd	dziewcyna
+8ee	.
+16ccL	.
+16a\J	.
+=4	=4
+16g	woł-
+16b/	-ki
+16a	na
+16a	łą-
+4g}	-ce.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj słońce słońce słońce gorące — 
+!!pasła dziewcyna wołki na łące.
+!!@VERSE:
+!!2. Przyjechał do nij na białym koniu:
+!!zajmij Kasieniu wołki do domu.
+!!@VERSE:
+!!3. Konika sprzedam, sam służyć będę,
+!!przy twojem łóżku strażnikiem będe.
+!!@VERSE:
+!!4. Nie potrzebuję strażnika chować,
+!!bo go nie mam cem ukontentować.
+!!@VERSE:
+!!5. Nie potrzebuję kontentacyi,
+!!ćtyrech podusek — grzecnyj dziewcyny.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: W tańcu przy weselu.
+!!@@END:
+!!!role-singer: Narrator, Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=146 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 135} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 135}
 !!!page: 135
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-05

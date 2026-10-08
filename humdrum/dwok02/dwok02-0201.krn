@@ -3,53 +3,84 @@
 !!!source: DWOK02
 !!!id: K0201
 !!!signature:
-**kern
-*clefG2
-*k[b-e-]
-*g:
-*M3/4
-{4d
-=1
-4g
-4a
-4b-
-=2
-4a
-4g
-4a
-=3
-2b-
-4g}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*g:	*
+*M3/4	*
+{4d	Od
+=1	=1
+(4g	zie-
+4a)	.
+4b-/	-lo-
+=2	=2
+(4a	-ne-
+4g)	.
+4a	-go
+=3	=3
+2b-	ga-
+4g}	-ju
 !!LO:LB:g=esac
-=4
-{4a
-2cc
-=5
-4b-
-4a
-4g
-=6
-4a
-2cc}
+=4	=4
+{4a	zni-
+2cc	-wia-
+=5	=5
+4b-	-re-
+4a	-cki
+4g	się
+=6	=6
+4a	wa-
+2cc}	-lą
 !!LO:LB:g=esac
-=7
-{4a
-2cc
-=8
-4b-
-4a
-4g
-=9
-2cc
-4f#
-=10
-2g}
-4r
-==
-*-
+=7	=7
+{4a	zni-
+2cc	-wia-
+=8	=8
+4b-	-re-
+4a	-cki
+4g	się
+=9	=9
+(2cc	wa-
+4f)#i	.
+=10	=10
+2g}	-lą.
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Od zielonego gaju
+!!zniwiarecki się walą.
+!!@VERSE:
+!!2. Przede dworem wielka burza—
+!!nasa imość kieby róża.
+!!—
+!!@VERSE:
+!!3. Nasa imość kiej lilija,
+!!po pokoju się uwija.
+!!@VERSE:
+!!4. Przede dworem wielki oset—
+!!nas jegomość kajsiś posed.
+!!—
+!!@VERSE:
+!!5. A na łące wielka rosa—
+!!nas ekonom kieby osa.
+!!—
+!!@VERSE:
+!!6. A daléj ze daléj, woła,
+!!a daléj ze, daléj, dalej.
+!!a lepiéj nam piwa naléj.
+!!—
+!!@VERSE:
+!!7. Nas polowy kiéj pokrzywa
+!!z ludzi se tylko wykpiwa.
+!!—
+!!@@END: VERSES
+!!!role-singer: Group
 !!!ONB: u Kolberga zly podzial na takty
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=175 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 164} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 164}
 !!!page: 164
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-07

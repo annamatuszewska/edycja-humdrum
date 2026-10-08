@@ -3,85 +3,96 @@
 !!!source: DWOK02
 !!!id: K0214
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*e:
-*M2/4
-=1
-{8e
-8g
-8b
-8b
-=2
-4b
-8cc
-8a
-=3
-4g
-8f#
-8e
-=4
-4e
-8d#}
-8r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*e:	*
+*M2/4	*
+=1	=1
+!LO:TX:a:t=Słowa Karpińskiego.	!
+{8eL	Już
+8gJ	.
+8b	mie-
+8b	-siąc
+=2	=2
+(4b	za-
+8cc)	.
+8a	-szedł
+=3	=3
+4g	psy
+8f#	się
+8e	u-
+=4	=4
+4e	-śpi-
+8d#}	-ły
+8r	.
 !!LO:LB:g=esac
-=5
-{8g
-8b
-8dd
-8dd
-=6
-4dd
-8ee
-8cc
-=7
-4b
-4a#
-=8
-4b}
-4r
+=5	=5
+{8g\L	i
+8bJ	.
+8dd	coś
+8dd	tam
+=6	=6
+(4dd	klasz-
+8ee)	.
+8cc	-cze
+=7	=7
+4b/	za
+4a#	bo-
+=8	=8
+4b}	-rem,
+4r	.
 !!LO:LB:g=esac
-=9
-{8e
-8g
-8b
-8b
-=10
-4b
-8cc
-8a
-=11
-8g
-8f#
-16a
-16g
-16f#
-16e
-=12
-4e
-8d#}
-8r
+=9	=9
+{8eL	pe-
+8gJ	.
+8b	-wnie
+8b	mnie
+=10	=10
+(4b	cze-
+8cc)	.
+8a	-ka
+=11	=11
+(8gL	mój
+8f#J	.
+16a)L	Fi-
+16gJ	.
+16f#L	-lion
+16eJ	.
+=12	=12
+4e	mi-
+8d#}	-ły
+8r	.
 !!LO:LB:g=esac
-=13
-{4cc
-8a
-8f#
-=14
-4b
-8g
-8e
-=15
-4f#
-8.b
-16d#
-=16
-4e}
-4r
-==
-*-
+=13	=13
+{4cc	pod
+8a	u-
+8f#	-mó-
+=14	=14
+(4b	-wio-
+8g)	.
+8e	-nym
+=15	=15
+4f#	ja-
+8.b/L	-wo-
+16d#J	.
+=16	=16
+4e}	-rem.
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Już miesiąc zaszedłbpsy się uśpiły
+!!i coś tam klaszcze za borem,
+!!pewnie mnie czeka mój Filion miły
+!!pod umówionym jaworem.
+!!@@END: VERSES
+!!!role-singer: Mistress 
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=192 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 181} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 181}
 !!!page: 181
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-08

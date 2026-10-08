@@ -10,7 +10,7 @@
 *M3/4
 =1
 {8b
-8cc#
+8cc#i
 4.dd
 8cc#
 =2
@@ -19,7 +19,7 @@
 =3
 8g
 8a
-4.b
+4.b/
 8a
 =4
 4cc
@@ -27,7 +27,7 @@
 !!LO:LB:g=esac
 =5
 {8b
-8cc#
+8cc#i
 4.dd
 8cc#
 =6
@@ -56,7 +56,7 @@
 !!LO:LB:g=esac
 =12
 {8b
-8cc#
+8cc#i
 4.dd
 8cc#
 =13
@@ -67,8 +67,22 @@
 4r
 ==
 *-
+!!@@BEGIN: VERSES
+!!1. Wszystkie gospodynie, wyganiają świnie—
+!!ino moja Kasia śpi;
+!!trzeba by mi trzeba-siedmi pacholików,
+!!żeby mi ją podnieśli.
+!!@VERSE:
+!!2. Ka'ś ty Jasiu widział—żebyś przebudzić miał?
+!!takie kwarde (twarde) zaspanie!
+!!Jużci twoja Kasia, na wieki zasnęna—
+!!już do ciebie nie wstanie.
+!!@@END: VERSES
+!!!role-singer: Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=169 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 158} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 158}
 !!!page: 158
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-07

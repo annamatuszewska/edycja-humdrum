@@ -3,58 +3,79 @@
 !!!source: DWOK02
 !!!id: K0167a
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16dd
-32r
-32cc
-8g
-16b-
-16a
-=2
-4f
-8a
-=3
-16b-
-16dd
-8ff
-16ee
-16dd
-=4
-8.cc
-16cc
-16dd
-16ee}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Mazur.	!
+{16dd	Cóż
+32r	.
+32cc	ja
+8g	nie-
+16b-/L	-bo-
+16aJ	.
+=2	=2
+4f	-ra-
+8a	-czek
+=3	=3
+16b-	cóż
+16dd	ja
+(8ff	po-
+16ee)	.
+16dd	-cznę
+=4	=4
+8.cc	te-
+16cc	.
+16ddL	-raz
+16ee}J	.
 !!LO:LB:g=esac
-=5
-{16gg
-16ff
-16g
-32r
-32g
-16b-
-16a
-=6
-4f
-8a
-=7
-16b-
-32dd
-32r
-8.c
-16e
-=8
-8g
-4f}
-==
-*-
+=5	=5
+{16gg	jak
+16ff	ja
+16g	so-
+32r	.
+(32g	-bie
+16b-/)L	.
+16aJ	.
+=6	=6
+4f	wspo-
+8a	-mnę,
+=7	=7
+(16b-	to
+32dd)	za-
+32r	.
+8.c	-pła-
+16e	-czę
+=8	=8
+8g	nie
+4f}	raz.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Cóż ja nieboraczek
+!!cóż ja pocznę teraz?
+!!jak ja sobie wspomnę,
+!!to zapłaczę nie raz.
+!!@VERSE:
+!!2. Wyjdę na poleczko,
+!!biedne moje życie;
+!!jak ja sobie wspomnę,
+!!zapłaczę sowicie.
+!!@VERSE:
+!!3. Kochaneczka zdradna,
+!!bracia nie po temu,
+!!ludzie się dziwują
+!!kochaniu mojemu.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!singer-sex: Male
 !!!ONB: Spiew bez skrzypiec
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=149 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 138} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 138}
 !!!page: 138
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-05

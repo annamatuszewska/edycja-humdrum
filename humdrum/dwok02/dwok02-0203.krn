@@ -3,42 +3,71 @@
 !!!source: DWOK02
 !!!id: K0203
 !!!signature:
-**kern
-*clefG2
-*k[b-e-]
-*g:
-*M3/4
-=1
-{8g
-8g
-8a
-8b-
-4a
-=2
-8cc
-8cc
-8b-
-8a
-4g}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*g:	*
+*M3/4	*
+=1	=1
+!LO:TX:a:i:t=(Dalszy ciąg).	!
+{8g	Jak
+8g	nas
+8a	za-
+8b-/	-ję-
+4a	-li
+=2	=2
+8cc	tak
+8cc	nas
+8b-	go-
+8a	-ni-
+4g}	-li,
 !!LO:LB:g=esac
-=3
-{8a
-8cc
-8b-
-8a
-8cc
-8g
-=4
-2.a
-=5
-8a
-2g}
-8r
-==
-*-
+=3	=3
+{8a	o
+8cc	rznij
+8b-	da-
+8a\	-lej
+8ccL	rznij
+8g\J	.
+=4	=4
+2.a	da-
+=5	=5
+(8a	-lej.
+2g)}	.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!8. Jak nas zajęli, tak nas gonili:
+!!o rznij daléj, rznij daléj!
+!!ani obiadu, ani śniadania
+!!o nie dali, nie dali.
+!!@VERSE:
+!!9. A od Kichar carna burza—
+!!nasa pani kieby róża.
+!!@VERSE:
+!!10. Przede dworem wielka góra—
+!!nas polowy kieby rura.
+!!@VERSE:
+!!11. Przede dworem stoją ławy—
+!!nas karbowy pies kulawy.
+!!@VERSE:
+!!12. A stoi tam subienicka, stoi
+!!o za dworem, za dworem.
+!!Któz będzie wisiał, kto będzie
+!!a karbowy z polowym. [na nij?
+!!@VERSE:
+!!13. A za karbowym, a za karbowym
+!!o ledwie uprosili;
+!!a polowego, a polowego
+!!o za łeb powiesili.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!ONB: Dalszy ciag melodii K0203 Od zielonego gaju z Sandomierskiego
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=179 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 168} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 168}
 !!!page: 168
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-07

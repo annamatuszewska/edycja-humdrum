@@ -3,47 +3,143 @@
 !!!source: DWOK02
 !!!id: K0165a
 !!!signature:
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{16ee
-16ee
-4cc
-8ee
-8ee
-8ee
-=2
-16dd
-16cc
-4b
-8g
-8dd
-16ee
-16dd}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+{16ee	Wy-
+16ee	-sko-
+4cc^	-czył
+8ee	wy-
+8ee	-sko-
+8ee	-czył
+=2	=2
+16dd	z_po-
+16cc	-mię-
+4b^	-dzy
+8g	przy-
+8dd	-ja-
+16eLe	-cioł
+16ddJ}	.
 !!LO:LB:g=esac
-=3
-{16cc
-16b
-4a
-8g#
-8a
-16a
-16cc
-=4
-16b
-16g#
-4e
-8g#
-8a
-8a}
-==
-*-
+=3	=3
+{16cc	a
+16b	gdzie
+4a^>	.
+8g#	ten
+8a	przy-
+8g#q	.
+16a\L	-ja-
+16ccJ	-ciel
+=4	=4
+16b	co
+16g#	mnie
+4e^>	ko-
+8g#	-chać
+8a	za-
+8a}	-czął.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Wyskoczył wyskoczył
+!!z pomiędzy przyjacioł
+!!a gdzie ten przyjaciel
+!!co mnie kochać zaczął?
+!!@VERSE:
+!!2. Co mnie kochać zaczął,
+!!co mi obiecywał,
+!!muszę mu przypomnąć
+!!by słowa dotrzymał.
+!!@VERSE:
+!!3. Muszę mu przypomnąć
+!!co wyrzekł przedemną,
+!!i smutne rozstanie,
+!!i miłość wzajemną. —
+!!@VERSE:
+!!4. A kiedy odjeżdżasz
+!!to mi powiedz stale,
+!!czy się mam spodziewać,
+!!czy zapomnąć wcale?
+!!@VERSE:
+!!5. Czy widzisz dziewczyno,
+!!topol się rozwija,
+!!a jak się rozwinie
+!!to ty będziesz moja!
+!!@VERSE:
+!!6. Patrzałam ja wczoraj
+!!czy się już nie iści,
+!!czy się nie zielenią
+!!na topoli liście.
+!!@VERSE:
+!!7. Patrzała ja z dołu,
+!!patrzała ja z niska;
+!!nie widać, nie słychać
+!!na topoli listka.
+!!@VERSE:
+!!8. Sucha topol sucha,
+!!spiekłe dni się wleką,
+!!powiadają ludzie
+!!że miły daleko.
+!!@VERSE:
+!!9. Wezmę koneweczkę,
+!!będę wodę nosić,
+!!będę podlewała,
+!!będę Boga prosić.
+!!@VERSE:
+!!10. Już się i topola,
+!!zielenić (lub rozwijać) zaczyna;
+!!czemuż nie przyjeżdża
+!!mój miły chłopczyna?
+!!@VERSE:
+!!11. Czyliś ty zapomniał,
+!!coś wyrzekł przedemną,
+!!czyli ja topolę
+!!podlewam daremno?
+!!@VERSE:
+!!12. Koneweczką chlustam
+!!i deszczyk polewa,
+!!już się zielonością
+!!topola pokrywa.
+!!@VERSE:
+!!13. Idzie deszczyk idzie,
+!!konikowi ślisko,
+!!powiadają ludzie
+!!że mój miły blisko.
+!!@VERSE:
+!!14. Przenika gwiazdeczka,
+!!przenika po niebie,
+!!i ja też przenikam
+!!chłopczyno do ciebie.
+!!@VERSE:
+!!15. Przyjedź chłopcze, przyjedź,
+!!albo mi się przyśnij,
+!!bo mi się co stanie
+!!od żalu, od myśli.
+!!@VERSE:
+!!16. Przyjedź chłopcze, przyjedź,
+!!albo przypłyń wodą;
+!!odstąpię rodziców,
+!!a pojadę z tobą.
+!!@VERSE:
+!!17. Jeszcze mnie nadzieja
+!!moja nieominie,
+!!jeszcze mój chłopczyna
+!!tu do mnie przypłynie.
+!!@VERSE:
+!!18. Jeszcze nie ominie,
+!!jeszcze nie zawiedzie,
+!!słyszę tentent konia,
+!!pewnie to mój jedzie.
+!!@@END: VERSES
+!!!RDF**kern: >= above
+!!!role-singer: Many characters
 !!!ONB: Wersja pierwsza
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=147 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 136} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 136}
 !!!page: 136
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-05

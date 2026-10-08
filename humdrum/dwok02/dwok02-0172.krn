@@ -3,64 +3,124 @@
 !!!source: DWOK02
 !!!id: K0172
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8g
-8a
-8b
-8cc
-8dd
-8b
-=2
-8dd
-8cc
-8a
-8dd
-8b
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8g	Ach
+8a	nie-
+8b/	-scę-
+8cc	-sna
+8dd	do-
+8b	-la
+=2	=2
+8dd	za
+8cc	mąz
+8a	mi
+8dd	nie-
+8b	-wo-
+8g}	-la,
 !!LO:LB:g=esac
-=3
-{8g
-8a
-8b
-8cc
-8dd
-8b
-=4
-8dd
-8cc
-8a
-8dd
-8b
-8g
-=5
-4a
-4cc
-4d}
+=3	=3
+{8g	ja
+8a	wla-
+8b	-ta
+8cc	po-
+8dd	-de-
+8b	-sła
+=4	=4
+8dd	za
+8cc	mązem
+8a	.
+8dd	nie
+8b	po-
+8g	-sła
+=5	=5
+4a	mój
+4cc	Bo-
+4d}	-ze
 !!LO:LB:g=esac
-=6
-{8.g
-16g
-8g
-8g
-8g
-8g
-=7
-4a
-4cc
-4a
-=8
-8.dd
-16dd
-2b}
-==
-*-
+=6	=6
+{8.g	za
+16g	mą-
+8g	-zem
+8g	nie
+8g	po-
+8g	-sła
+=7	=7
+4a	mój
+4cc	Bo-
+4a	-ze,
+=8	=8
+8.dd	mój
+16dd	Bo-
+2b}	-ze.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Ach niescęsna dola
+!!za mąz mi niewola,
+!!ja wlata podesła
+!!za mąz'em nie posła;
+!!mój Boze — za mążem nie posła
+!!mój Boze, mój Boze!
+!!@VERSE:
+!!2. Niechze mnie wydają,
+!!za mąz wyprawiają.
+!!bo bez męza zyję
+!!i gorzko się truję
+!!mój Boze zamąz'em nie posła
+!!mój Boze, mój Boże!
+!!@VERSE:
+!!3. Cicho córuś mała!
+!!będzies narzekała—
+!!i cnotę utracis,
+!!i skórą zapłacis—
+!!mój Boze i t. d.
+!!@VERSE:
+!!4. Boście wy matula
+!!gniewali tatula;
+!!co niedziela pili,
+!!do karcmy chodzili.
+!!mój Boze i t. d.
+!!@VERSE:
+!!5. Tatul po was chodziuł
+!!na postronku wodziuł—
+!!tak to bywa temu,
+!!kiedy kto krzyw swemu.
+!!mój Boże it. d.
+!!@VERSE:
+!!6. Ja swemu Jasiowi
+!!będę podchlebiała—
+!!co on będzie myślał
+!!ja będę wiedziała.
+!!mój Boze i t. d.
+!!@VERSE:
+!!7. Jeść mu ugotuję,
+!!w ocko pocałuję,
+!!łózecko uścielę,
+!!sama się uśmieję,
+!!mój Boze i t. d.
+!!@VERSE:
+!!8. Da witajże Jasiu
+!!z nowego kiermasu—
+!!zytka'm nie pozęła
+!!bom nie miała casu—
+!!mój Boze i t. d.
+!!@VERSE:
+!!9. Z garcka mi kipiało,
+!!dziecię mi płakało—
+!!przyznam ci się Jasiu
+!!że mi się nie chciało 
+!!mój Boze i t. d.
+!!@@END: VERSES
+!!!role-singer: Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=153 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 142} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 142}
 !!!page: 142
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-05
