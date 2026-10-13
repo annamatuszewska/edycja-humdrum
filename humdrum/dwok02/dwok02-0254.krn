@@ -3,88 +3,99 @@
 !!!source: DWOK02
 !!!id: K0254
 !!!signature:
-**kern
-*clefG2
-*k[b-e-a-]
-*c:
-*M3/8
-=1
-{16gg
-16ff#
-16dd
-16ff#
-16gg
-32ee-
-32dd
-=2
-16cc
-16ee-
-16dd
-16ee-
-8gg
-=3
-8ff#
-16dd
-16ff#
-8gg}
+**kern	**text
+*clefG2	*
+*k[b-e-a-]	*
+*c:	*
+*M3/8	*
+=1	=1
+{16gg	Chło-
+16ff#	-pek
+16dd	ci
+16ff#	ja
+16gg	chło-
+32ee-L	-pek
+32ddJ	.
+=2	=2
+16cc	da
+16ee-	i
+16dd	nie
+16ee-	o-
+8gg	-wsia-
+=3	=3
+8ff#m	-ny
+16ddL	sno-
+16ff#J	.
+8gg}	-pek
 !!LO:LB:g=esac
-=4
-{16dd
-16b
-16dd
-16ff#
-16gg
-32ee-
-32dd
-=5
-16cc
-16ee-
-16dd
-16ee-
-8gg
-=6
-8ff#
-16dd
-16b
-8cc}
+=4	=4
+{16dd	i
+16b	tyś
+16dd	ci
+16ff#	dzi-
+16gg	-we-
+32ee-L	-cka
+32ddJ	.
+=5	=5
+16cc	da
+16ee-	i
+16dd	nie
+16ee-	o-
+8gg	-wsia-
+=6	=6
+8ff#wm	-na
+16ddL	sie-
+16bJ	.
+8cc}	-cka.
 !!LO:LB:g=esac
-=7
-{8.dd
-16b
-16cc
-32a-
-32g
-=8
-16f
-16a-
-16g
-16a-
-8cc
-=9
-8b
-8g
-8f}
+=7	=7
+{8.dLd	.
+16bJ	.
+16cc	.
+32a-L	.
+32gJ	.
+=8	=8
+16fL	.
+16a-	.
+16g	.
+16a-J	.
+8cc	.
+=9	=9
+8bm	.
+8gL	.
+8f}J	.
 !!LO:LB:g=esac
-=10
-{8.dd
-16b
-16cc
-32a-
-32g
-=11
-16f
-16a-
-16g
-16a-
-8cc
-=12
-8b
-8f
-8g}
-==
-*-
+=10	=10
+{8.dLd	.
+16bJ	.
+16cc	.
+32a-L	.
+32gJ	.
+=11	=11
+16fL	.
+16a-	.
+16g	.
+16a-J	.
+8cc	.
+=12	=12
+8b	.
+8fL	.
+8g}J	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Chłopek ci ja chłopek
+!!da i nie owsiany snopek
+!!i tyś ci dziwecka
+!!da i nie owsiana siecka.
+!!@@END: VERSES
+!!!role-singer: Boy
+!!!role-listener: Girl
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=216 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 205} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 205}
 !!!page: 205
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-13

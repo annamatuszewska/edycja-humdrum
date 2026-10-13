@@ -3,98 +3,110 @@
 !!!source: DWOK02
 !!!id: K0227
 !!!signature:
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M2/4
-=1
-{8a
-8cc#
-4ee
-=2
-8ee
-8cc#
-4ee
-=3
-8.dd
-16b
-8.cc#
-16a
-=4
-16g#
-16e
-16f#
-16g#
-4a}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M2/4	*
+=1	=1
+{8a	A
+8cc#	mo-
+4ee	-ja
+=2	=2
+8ee	ma-
+8cc#	-tu-
+4ee	-siu
+=3	=3
+8.dd	ze-
+16b	-by-
+8.cc#	-ście
+16a	wi-
+=4	=4
+16g#\L	-dzie-
+16e\	.
+16f#\	.
+16g#\J	.
+4a}\	-li
 !!LO:LB:g=esac
-=5
-{8e
-8g#
-4b
-=6
-8cc#
-8a
-4b
-=7
-16b
-16e
-16g#
-16a
-8.cc#
-16a
-=8
-16g#
-16e
-16f#
-16g#
-4a}
+=5	=5
+{8e	ja-
+8g#	-kie-
+4b	-go
+=6	=6
+8cc#	by-
+8a\	-ście
+4b	wy
+=7	=7
+16b/L	ze
+16eJ	.
+16g#L	mnie
+16aJ	.
+8.cc#	zię-
+16a	-cia
+=8	=8
+16g#L	mie-
+16e	.
+16f#	.
+16g#J	.
+4a}	-li.
 !!LO:LB:g=esac
-=9
-{8a
-8cc#
-4ee
-=10
-16ee
-16a
-16cc#
-16dd
-4ee
-=11
-8.dd
-16b
-8.cc#
-16a
-=12
-8b
-8g#
-4a}
+=9	=9
+{8a	A-
+8cc#	-le
+4ee	wy
+=10	=10
+16ee/L	ma-
+16aJ	.
+16cc/L#	-tu-
+16dd/J	.
+4ee	-siu
+=11	=11
+8.dd	krzy-
+16b	-wo
+8.cc#	po-
+16a	-glą-
+=12	=12
+8b/L	-da-
+8g#J	.
+4a}\	-cie,
 !!LO:LB:g=esac
-=13
-{8e
-8g#
-4b
-=14
-8cc#
-8a
-4b
-=15
-16b
-16e
-16g#
-16a
-8.cc#
-16a
-=16
-16g#
-16e
-16f#
-16g#
-4a}
-==
-*-
+=13	=13
+{8e	po-
+8g#	-no
+4b/	wy
+=14	=14
+8cc#	mnie
+8a\	po-
+4b	-no
+=15	=15
+16b/L	có-
+16eJ	.
+16g#L	-ru-
+16aJ	.
+8.cc#	-si
+16a	nie
+=16	=16
+16g#L	da-
+16e	.
+16f#	.
+16g#J	.
+4a}	-cie.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A moja matusiu zebyście widzieli
+!!jakiego byście wy ze mnie zięcia mieli.
+!!@VERSE:
+!!2. Ale wy matusiu krzywo poglądacie,
+!!pono wy mnie pono córusi nie dacie.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Girl's mother 
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=203 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 192} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 192}
 !!!page: 192
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-12

@@ -3,103 +3,110 @@
 !!!source: DWOK02
 !!!id: K0245
 !!!signature:
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/8
-=1
-{16e
-16g#
-8b
-8a
-=2
-16cc#
-16cc#
-8dd
-16b
-16g#
-=3
-16e
-16g#
-8b
-8a
-=4
-16cc#
-16cc#
-8g#
-8a}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M3/8	*
+=1	=1
+{16e	Do-
+16g#	-bro-
+8b/	-dzie-
+8a	-ja
+=2	=2
+16cc#	go-
+16cc#	-spo-
+8dd	-dy-
+16b/L	-nię
+16g#J	.
+=3	=3
+16e	oj
+16g#	da
+8b/	do
+8a	ko-
+=4	=4
+16cc#	-ścio-
+16cc#	-ła
+8g#	wie-
+8a}	-zą,
 !!LO:LB:g=esac
-=5
-{16e
-16g#
-8b
-8a
-=6
-16cc#
-16ee
-8dd
-16b
-16g#
-=7
-16e
-16g#
-8b
-8a
-=8
-16cc#
-16cc#
-8g#
-8a}
+=5	=5
+{16e	oj
+16g#	da
+8b	i
+8a\	chłop
+=6	=6
+16cc#	za
+16ee	nią
+8dd	le-
+16b/L	-ci
+16g#J	.
+=7	=7
+16e	da
+16g#	i
+8b	weź
+8a\	ze
+=8	=8
+16cc#	ba-
+16cc#	-bo
+8g#	dzie-
+8a}	-ci.
 !!LO:LB:g=esac
-=9
-{16g#
-16a
-8cc#
-8b
-=10
-16dd
-16ff#
-8ee
-8b
-=11
-16g#
-16a
-8cc#
-8b
-=12
-16dd
-16cc#
-8a
-16g#
-16e}
+=9	=9
+{16Lg#	.
+16aJ	.
+8cc#	.
+8b	.
+=10	=10
+16ddL	.
+16ff#	.
+8ee	.
+8bJ	.
+=11	=11
+16gL#	.
+16aJ	.
+8cc#L	.
+8bJ	.
+=12	=12
+16dLd	.
+16ccJ#	.
+8aL	.
+16g#	.
+16eJ}	.
 !!LO:LB:g=esac
-=13
-{16g#
-16a
-8cc#
-8b
-=14
-16dd
-16cc#
-8a
-16cc#
-16a
-=15
-16g#
-16a
-8cc#
-8b
-=16
-16dd
-16cc#
-8a
-16g#
-16e}
-==
-*-
+=13	=13
+{16gL#	.
+16aJ	.
+8cc#L	.
+8bJ	.
+=14	=14
+16dLd	.
+16ccJ#	.
+8a\L	.
+16cc#	.
+16a\J	.
+=15	=15
+16g#L	.
+16aJ	.
+8cc#L	.
+8bJ	.
+=16	=16
+16dLd	.
+16ccJ#	.
+8aL	.
+16g#	.
+16eJ}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Dobrodzieja gospodynię oj da do kościoła wiezą,
+!!oj da i chłop za nią leci da i weź ze babo dzieci.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=212 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 201} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 201}
 !!!page: 201
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-13

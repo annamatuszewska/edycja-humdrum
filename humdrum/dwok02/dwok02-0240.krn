@@ -3,50 +3,60 @@
 !!!source: DWOK02
 !!!id: K0240
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16g
-16b
-8cc
-8ee
-=2
-8ff
-8ee
-8cc
-=3
-16dd
-16ff
-4aa
-=4
-8gg
-8ff
-8ee}
+**kern	**text	**text
+*clefG2	*	*
+*k[]	*	*
+*C:	*	*
+*M3/8	*	*
+=1	=1	=1
+{16g	Oj	Da
+16b	nie-	ko-
+8cc	-scę-	-wa-
+8ee	-śli-	-le
+=2	=2	=2
+8ff	-wa	u-
+8ee	sio-	-fna-
+8cc	-stra	-le,
+=3	=3	=3
+16dd	co	sew-
+16ff	za	-cy-
+4aa	sew-	-ko-
+=4	=4	=4
+8gg	-ca	-wie
+8ff	po-	dra-
+8ee}	-sła,	-trwa,
 !!LO:LB:g=esac
-=5
-{16dd
-16b
-8cc
-8ee
-=6
-8ff
-8ee
-8cc
-=7
-16b
-16g
-4a
-=8
-8b
-8dd
-8cc}
-==
-*-
+=5	=5	=5
+{16dd	da	da
+16b	sto	gar-
+8cc	po-	-ca-
+8ee	-cię	-rze
+=6	=6	=6
+8ff	glów	le-
+8ee	wziena	-pie-
+8cc	.	-rze,
+=7	=7	=7
+16b	niz	go-
+16g	do	-rzel-
+4a	ślu-	-ni-
+=8	=8	=8
+8b	-bu	-cy
+8dd	po-	śla-
+8cc}	-sła.	-chta.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj niescęśliwa siostra co za sewca posła,
+!!da sto pocię glów wziena niz do ślubu posła.
+!!@VERSE:
+!!2. Da kowale ufnale, sewcykowie dratwa,
+!!da garcarze lepiarze, gorzelnicy ślachta.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=209 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 198} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 198}
 !!!page: 198
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-13

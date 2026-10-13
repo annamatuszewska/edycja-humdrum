@@ -3,54 +3,78 @@
 !!!source: DWOK02
 !!!id: K0262a
 !!!signature:
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{8cc
-8a
-8dd#
-=2
-8ee
-8b
-8dd#
-=3
-8ee
-16a
-16cc
-8dd#
-=4
-8ee
-16cc
-16b
-8b}
+**kern	**text	**text
+*clefG2	*	*
+*k[]	*	*
+*a:	*	*
+*M3/8	*	*
+=1	=1	=1
+!LO:TX:a:t=Na żydów.	!	!
+{8cc	Ej	Ej
+8a\	ej	ej
+8dd#	sła	bo
+=2	=2	=2
+8ee	ży-	I-
+8b	-dów-	-cek
+8dd#	-ka	ci
+=3	=3	=3
+8ee	ej	ej
+16a\L	ej	ej
+16ccJ	.	.
+8dd#	we-	jej
+=4	=4	=4
+8ee	-dle	do
+16ccL	kra-	my-
+16bJ	.	.
+8b}	-mu	-śli,
 !!LO:LB:g=esac
-=5
-{8e
-8a
-8ff#
-=6
-8gg#
-16ee
-16gg#
-8a
-=7
-8b
-16a
-16cc
-8dd#
-=8
-8ee
-16cc
-16b
-8b}
-==
-*-
-!!!ONB: Partia wokalna
+=5	=5	=5
+{8e	ej	ej
+8a	ej	ej
+8f#	ku-	a
+=6	=6	=6
+8g#	-pi-	mar-
+16eL	-ła	-cy-
+16g#J	.	.
+8a	se	-pan
+=7	=7	=7
+8b	ej	ej
+16a\L	ej	ej
+16ccJ	.	.
+8dd#	mar-	jej
+=8	=8	=8
+8ee	-ce-	do
+16ccL	-pa-	Wi-
+16bJ	.	.
+8b}	-nu.	-sły.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!Ej ej sła żydówka
+!!ej ej wedle kramu
+!!ej ej kupiła se
+!!ej ej marcepanu.
+!!@VERSE:
+!!Ej ej bo Icek ci
+!!ej ej jej do myśli,
+!!ej ej a marcypan
+!!ej ej jej do Wisły.
+!!@VERSE:
+!!Ej ej bidny Icyk,
+!!Ej ej wpad do rzyki
+!!Ej ej zgubiuł krymkę
+!!Ej ej i trzewiki.
+!!@VERSE:
+!!Ej ej ach wej, ach wej,
+!!Ej ej o we, o we,
+!!Ej ej zimno w nogi
+!!Ej ej zimno w głowę.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=219 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 208} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 208}
 !!!page: 208
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-13

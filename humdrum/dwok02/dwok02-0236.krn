@@ -3,87 +3,98 @@
 !!!source: DWOK02
 !!!id: K0236
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8dd
-8cc
-8a
-8b
-=2
-4.g
-8b
-=3
-8cc
-8ee
-8gg
-16gg
-16ff#
-=4
-4.dd
-8b}
+**kern	**text	**text
+*clefG2	*	*
+*k[f#]	*	*
+*G:	*	*
+*M2/4	*	*
+=1	=1	=1
+{8dd	Na	Sze-
+8cc	brze-	-ro-
+8a	-gu	-ko,
+8b/	du-	wy-
+=2	=2	=2
+4.g	-na-	-so-
+8b	-ju,	-ko,
+=3	=3	=3
+8cc	sto-	li-
+8ee	-i	-stek
+8gg	dąb	na
+16gLg	wy-	dę-
+16ffJ#	.	.
+=4	=4	=4
+4.dd	-so-	-bi-
+8b}	-ki,	-nie,
 !!LO:LB:g=esac
-=5
-{8dd
-8ee
-8a
-8b
-=6
-4.g
-8b
-=7
-8cc
-8dd
-8ee
-8f#
-=8
-8g
-4.g}
+=5	=5	=5
+{8dd	da-	chciejcie
+8ee	-lej	.
+8a\	chłopcy	tyl-
+8b	.	-ko
+=6	=6	=6
+4.g	da-	szczerze,
+8b	-lej	.
+=7	=7	=7
+8cc	róbcie	pewnie
+8dd	do	.
+8ee	mnie	was
+8f#	.	nie
+=8	=8	=8
+8g	kro-	mi-
+4.g}	-ki.	-nie.
 !!LO:LB:g=esac
-=9
-{8f#
-8f#
-8d
-16e
-16f#
-=10
-4.g
-8b
-=11
-8cc
-16b
-16cc
-8a
-16f#
-16a
-=12
-4.g
-8b}
+=9	=9	=9
+{8fL#	.	.
+8f#J	.	.
+8dL	.	.
+16e	.	.
+16fJ#	.	.
+=10	=10	=10
+4.g	.	.
+8b	.	.
+=11	=11	=11
+8ccL	.	.
+16b	.	.
+16ccJ	.	.
+8aL	.	.
+16f#	.	.
+16aJ	.	.
+=12	=12	=12
+4.g	.	.
+8b}	.	.
 !!LO:LB:g=esac
-=13
-{8g
-8f#
-8d
-16e
-16f#
-=14
-4.g
-8b
-=15
-8b
-8a
-8e
-8f#
-=16
-8g
-4.g}
-==
-*-
+=13	=13	=13
+{8gL	.	.
+8f#J	.	.
+8dL	.	.
+16e	.	.
+16fJ#	.	.
+=14	=14	=14
+4.g	.	.
+8b	.	.
+=15	=15	=15
+8bL	.	.
+8a\J	.	.
+8eL	.	.
+8f#J	.	.
+=16	=16	=16
+8g	.	.
+4.g}	.	.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!Na brzegu dunaju, stoi dąb wysoki,
+!!dalej chłopcy dalej róbcie do mnie kroki.
+!!Szeroko, wysoko, listek na dębinie,
+!!chciejcie tylko szczerze, pewnie was nie minie.
+!!@@END: VERSES
+!!!role-singer: Girl
+!!!role-listener: Boys
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=207 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 196} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 196}
 !!!page: 196
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-12

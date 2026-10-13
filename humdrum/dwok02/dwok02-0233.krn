@@ -3,109 +3,126 @@
 !!!source: DWOK02
 !!!id: K0233
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8b
-16b
-16a
-8.g
-16b
-=2
-16b
-16a
-4a
-8a
-=3
-8cc
-16cc
-16b
-8.cc
-16a
-=4
-16cc
-16b
-4b
-16b
-16a}
+**kern	**text	**text
+*clefG2	*	*
+*k[f#]	*	*
+*G:	*	*
+*M2/4	*	*
+=1	=1	=1
+{8b	Nie	Przyjdzie
+16bL	bądź	.
+16a\J	.	.
+8.g	ta-	i
+16b	-ką	mnie
+=2	=2	=2
+16bL	du-	mo-
+16a\J	.	.
+4a	-mną	-ment
+8a	nie	mo-
+=3	=3	=3
+8cc	po-	-jej
+8ddq	.	.
+16ccL	-chle-	spo-
+16bJ	.	.
+8.cc	-biaj	-koj-
+16a\	so-	-no-
+=4	=4	=4
+16ccL	-bie,	-ści
+16bJ	.	.
+4b	przyj-	że
+8ccq	.	.
+16bL	-dzie	i
+16a}\J	.	.
 !!LO:LB:g=esac
-=5
-{16b
-16cc
-16dd
-16b
-8.g
-16b
-=6
-16b
-16a
-8.a
-16b
-16a
-16g
-=7
-16a
-16b
-16cc
-16a
-16f#
-16d
-16f#
-16a
-=8
-16a
-16g
-4.g}
+=5	=5	=5
+{16bL	ta-	ja
+16ccJ	.	.
+16ddL	-ki	za-
+16bJ	.	.
+8.g	mo-	-po-
+16b	-ment	-mnę
+=6	=6	=6
+8ccqq	.	.
+16bL	za-	two-
+16a\J	.	.
+(8.a\	-po-	-jej
+16b)	.	.
+16aL	-mnę	nie-
+16gJ	.	.
+=7	=7	=7
+16a\L	o	-sta-
+16bJ	.	.
+16ccL	to-	-ło-
+16a\J	.	.
+16f#L	.	.
+16dJ	.	.
+16f#L	-bie.	-ści.
+16aJ	.	.
+=8	=8	=8
+16aL	.	.
+16gJ	.	.
+4.g}	.	.
 !!LO:LB:g=esac
-=9
-{8b
-8dd
-4gg
-=10
-8gg
-4ee
-8cc
-=11
-16ee
-16cc
-16ee
-16ff#
-4gg
-=12
-8gg
-4dd
-8b}
+=9	=9	=9
+{8bL	.	.
+8ddJ	.	.
+4gg	.	.
+=10	=10	=10
+8gg	.	.
+4ee	.	.
+8cc	.	.
+=11	=11	=11
+16eeL	.	.
+16cc	.	.
+16ee	.	.
+16ff#J	.	.
+4gg	.	.
+=12	=12	=12
+8gg	.	.
+4dd	.	.
+8b}	.	.
 !!LO:LB:g=esac
-=13
-{16b
-16cc
-16dd
-16b
-4g
-=14
-8ee
-4cc
-8a
-=15
-16a
-16b
-16cc
-16a
-16f#
-16d
-16f#
-16a
-=16
-16a
-16g
-4.g}
-==
-*-
+=13	=13	=13
+{16bL	.	.
+16cc	.	.
+16dd	.	.
+16bJ	.	.
+4g\	.	.
+=14	=14	=14
+8ee	.	.
+4cc	.	.
+8a\	.	.
+=15	=15	=15
+16a\L	.	.
+16b	.	.
+16cc	.	.
+16a\J	.	.
+16f#L	.	.
+16d	.	.
+16f#	.	.
+16aJ	.	.
+=16	=16	=16
+16aL	.	.
+16gJ	.	.
+4.g}	.	.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. Nie bądź taką dumną
+!!nie pochlebiaj sobie,
+!!przyjdzie taki moment
+!!zapomnę o tobie.
+!!@VERSE:
+!!2. Przyjdzie i mnie moment
+!!mojej spokojności
+!!że i ja zapomnę
+!!twojej niestałości.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=206 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 195} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 195}
 !!!page: 195
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-12

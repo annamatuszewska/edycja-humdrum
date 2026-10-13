@@ -1,0 +1,103 @@
+!!!!SEGMENT: DWOK02-K0247-oj_dziekuje_ci_matko.krn
+!!!OTL: Oj dziekuje ci matko
+!!!source: DWOK02
+!!!id: K0247
+!!!signature:
+**kern	**text	**text
+*clefG2	*	*
+*k[]	*	*
+*C:	*	*
+*M3/8	*	*
+=1	=1	=1
+{16g	Ona. 1._Oj	2. Jak
+16b	dzię-	przyjdzie
+8cc	-ku-	.
+8ee	-je	nie-
+=2	=2	=2
+8gg	ci	-dzio-
+8gg	ma-	-łe-
+8ff	-tko	-cka
+=3	=3	=3
+16ee	da	al-
+[16ggL	ześ	-bo
+8gg]J	.	.
+8dd	mnie	ja-
+=4	=4	=4
+16cc	wy-	-ki
+16b	-cho-	świą-
+8g	-wa-	.
+8a}	-ła,	-tek,
+!!LO:LB:g=esac
+=5	=5	=5
+{16g	da	oj
+16b	za	zawsze
+8cc	to	.
+8ee	nie	mnie
+=6	=6	=6
+8dd	dzię-	wy-
+8ff	-ku-	-ga-
+8ff	-je	-nia
+=7	=7	=7
+16ee	da	da
+[16eeL	za	do
+8ee]J	.	.
+8dd	ko-	lu-
+=8	=8	=8
+16cc	-goś	-dzi
+16b	mnie	powziątek.
+8g	da-	.
+8a}	-ła.	.
+!!LO:LB:g=esac
+=9	=9	=9
+{16gL	.	(chęć)
+16b/J	.	.
+8ccL	.	.
+8eeJ	.	.
+=10	=10	=10
+16ccL	.	.
+16bJ	.	.
+8gL	.	.
+8aJ	.	.
+=11	=11	=11
+16gL	.	.
+16b/J	.	.
+8ccL	.	.
+8eeJ	.	.
+=12	=12	=12
+16ccL	.	.
+16bJ	.	.
+8gL	.	.
+8a}J	.	.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. Ona. 1. Oj dziękuje ci matko
+!!da ześ mnie wychowała,
+!!da za to nie dziękuje
+!!da za kogoś mnie dała.
+!!@VERSE:
+!!2. Jak przyjdzie niedziełecka,
+!!albo jaki świątek,
+!!oj zawsze mnie wygania
+!!da do ludzi powziątek. (chęć)
+!!@VERSE:
+!!On. 1. Oj da moja matulu
+!!da moja stara babo
+!!oj dałaś mi córunię
+!!da co co świątek słabą.
+!!@VERSE:
+!!2. Oj w domu nie usiedzi
+!!da gościniec (karczma) jej miły—
+!!a bodaj cię pieruny
+!!da razem z nią zabiły!
+!!@@END: VERSES
+!!!role-singer: Daughter, Lover
+!!!role-listener: Mother
+!!!singer-sex: Female, Male
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=213 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 202} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 202}
+!!!page: 202
+!!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-13

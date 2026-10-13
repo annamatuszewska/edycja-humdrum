@@ -3,110 +3,147 @@
 !!!source: DWOK02
 !!!id: K0261
 !!!signature:
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/8
-=1
-{16dd
-16ff#
-8ff#
-8ff#
-=2
-16cc#
-16ee
-8ee
-8ee
-=3
-16dd
-16ff#
-16cc#
-16b
-16cc#
-16ee
-=4
-16dd
-16b
-8g#
-8e}
+**kern	**text	**text
+*clefG2	*	*
+*k[f#c#g#]	*	*
+*A:	*	*
+*M3/8	*	*
+=1	=1	=1
+{16dd	A	Sta-
+16ff#	go-	-do
+8ff#	-spo-	by-
+8ff#	-darz	-dła
+=2	=2	=2
+16cc#	z_go-	sta-
+16ee	-spo-	-do
+8ee	-dy-	o-
+8ee	-nią	-wiec,
+=3	=3	=3
+16dd	śpią	mo-
+16ff#	wy-	-ja
+16cc#L	-go-	ma-
+16bJ	.	.
+16ccL#	-dnie	-tko
+16eeJ	.	.
+=4	=4	=4
+16dd	pod	chce
+16b	pie-	mnie
+8g#	-rzy-	wdowiec,
+8e}	-ną.	.
 !!LO:LB:g=esac
-=5
-{16a
-16cc#
-16cc#
-16b
-16cc#
-16dd
-=6
-16cc#
-16ee
-8ee
-8ee
-=7
-16dd
-16ff#
-16cc#
-16b
-16cc#
-16ee
-=8
-16dd
-16b
-8g#
-8e}
+=5	=5	=5
+{16a\	ja	je-
+16cc#	pa-	-dna
+16cc#L	-ro-	kro-
+16bJ	.	.
+16ccL#	-bek	-wa
+16ddJ	.	.
+=6	=6	=6
+16cc#	z_kon-	je-
+16ee	-mi	-dna
+8ee	ja-	o-
+8ee	-dę,	-wca,
+=7	=7	=7
+16dd	kaj	mo-
+16ff#	za	-ja
+16cc#L	ja-	ma-
+16bJ	.	.
+16ccL#	-dę	-tko
+16eeJ	.	.
+=8	=8	=8
+16dd	tam	nie
+16b	się	chcę
+8g#	kła-	wdowca.
+8e}	-dę.	.
 !!LO:LB:g=esac
-=
-{24a
-24b
-24cc#
-8dd
-16ff#
-16dd
-=9
-8cc#
-16cc#
-16b
-16g#
-16e
-=
-24a
-24b
-24cc#
-8dd
-16ff#
-16dd
-=10
-8cc#
-16b
-16g#
-8e}
+=9	=9	=9
+*Xtuplet	*	*
+{24a\L	.	.
+24b	.	.
+24cc#J	.	.
+8ddL	.	.
+16ff#	.	.
+16ddJ	.	.
+=10	=10	=10
+8cc#	.	.
+16cc#L	.	.
+16bJ	.	.
+16g#L\	.	.
+16e\J	.	.
+=11	=11	=11
+24a\L	.	.
+24b	.	.
+24cc#J	.	.
+8ddL	.	.
+16ff#	.	.
+16ddJ	.	.
+=12	=12	=12
+8cc#m	.	.
+16b/L	.	.
+16g#	.	.
+8e}J	.	.
 !!LO:LB:g=esac
-=11
-{16.a
-32f#
-8.e
-16g#
-=12
-16.a
-32f#
-8f#
-16g#
-16e
-=13
-16a
-16f#
-8.e
-16g#
-=14
-8a
-8b
-16g#
-16e}
-==
-*-
+=13	=13	=13
+{16.La	.	.
+32f#J	.	.
+8.eL	.	.
+16g#J	.	.
+=14	=14	=14
+16.a\L	.	.
+32f#\J	.	.
+8f#\L	.	.
+16g#\	.	.
+16e\J	.	.
+=15	=15	=15
+16aL	.	.
+16f#J	.	.
+8.eL	.	.
+16g#J	.	.
+=16	=16	=16
+8aL	.	.
+8b/^	.	.
+16g#	.	.
+16eJ}	.	.
+=17	=17	=17
+{16.La	.	.
+32f#J	.	.
+8.eL	.	.
+16g#J	.	.
+=18	=18	=18
+16.a\L	.	.
+32f#\J	.	.
+8f#\L	.	.
+16g#\	.	.
+16e\J	.	.
+=19	=19	=19
+16aL	.	.
+16f#J	.	.
+8.eL	.	.
+16g#J	.	.
+=20	=20	=20
+8aL	.	.
+8b/^	.	.
+16g#	.	.
+16eJ}	.	.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. A gospodarz z gospodynią
+!!śpią wygodnie pod pierzyną.
+!!ja parobek z konmi jadę,
+!!kaj za jadę tam się kładę.
+!!@VERSE:
+!!2. Stado bydła stado owiec,
+!!moja matko chce mnie wdowiec,
+!!jedna krowa jedna owca,
+!!moja matko nie chcę wdowca.
+!!@@END: VERSES
+!!!role-singer: Many characters
+!!!singer-sex: Male, Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=218 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 207} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 207}
 !!!page: 207
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-13

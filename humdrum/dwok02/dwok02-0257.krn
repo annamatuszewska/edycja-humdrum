@@ -3,92 +3,100 @@
 !!!source: DWOK02
 !!!id: K0257
 !!!signature:
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/8
-=1
-{4aa
-16ee
-16gg
-=2
-16aa
-16ff
-8ee
-8dd
-=3
-16ee
-16ee
-8gg
-8dd
-=4
-16ff
-16ee
-4dd}
+**kern	**text
+*clefG2	*
+*k[]	*
+*A:	*
+*M3/8	*
+=1	=1
+{4aa	Oj
+16eeL	i-
+16ggJ	.
+=2	=2
+16aaL	-dę
+16ffJ	ja
+8ee	i-
+8dd	-dę
+=3	=3
+16eeL	jużem
+16eeJ	.
+8gg	się
+8dd	wy-
+=4	=4
+16ffL	-bra-
+16eeJ	.
+4dd}	-ła,
 !!LO:LB:g=esac
-=5
-{16ee
-16gg#
-8aa
-8ff
-=6
-8ee
-4dd
-=7
-16ee
-16ee
-8gg
-8dd
-=8
-16ff
-16ee
-4dd}
+=5	=5
+{16eeL	bo
+16gg#J	.
+8aa	mnie
+8ff	nie-
+=6	=6
+8ee	-wo-
+4dd	-li-cka
+=7	=7
+16eeL	od
+16eeJ	ma-
+8ggn	-tki
+8dd	wy-
+=8	=8
+16ffL	-gna-
+16eeJ	.
+4dd}	-ła.
 !!LO:LB:g=esac
-=9
-{16b
-16dd
-8ff#
-8ff#
-=10
-16ee
-16ee
-8ff#
-8cc#
-=11
-16dd
-16dd
-8cc#
-8cc#
-=12
-16dd
-16b
-4a}
+=9	=9
+*k[f#c#g#]	*
+{16bL	.
+16ddJ	.
+8ff#L	.
+8ff#J	.
+=10	=10
+16eeL	.
+16ee	.
+8ff#	.
+8cc#J	.
+=11	=11
+16ddL	.
+16dd	.
+8cc#	.
+8cc#J	.
+=12	=12
+16ddL	.
+16bJ	.
+4a}	.
 !!LO:LB:g=esac
-=13
-{16b
-16dd
-8ee
-8ee
-=14
-8dd
-8ee
-8a
-=15
-16dd
-16b
-8a
-16cc#
-16ee
-=16
-16dd
-16b
-4a}
-==
-*-
-!!!ONB: cala melodia; zawiera zmiane tonacji
+=13	=13
+{16bL	.
+16ddJ	.
+8eeL	.
+8eeJ	.
+=14	=14
+8ddL	.
+8ee	.
+8a\J	.
+=15	=15
+16ddL	.
+16bJ	.
+8a\L	.
+16cc#	.
+16eeJ	.
+=16	=16
+16ddL	.
+16bJ	.
+4a}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oj idę ja idę jużem się wybrała,
+!!bo mnie niewolicka od matki wygnała.
+!!@@END: VERSES
+!!!role-singer: Daughter 
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=217 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 206} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 206}
 !!!page: 206
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-13

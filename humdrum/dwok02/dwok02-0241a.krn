@@ -3,53 +3,66 @@
 !!!source: DWOK02
 !!!id: K0241a
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16b
-8dd
-8dd
-=2
-8a
-8dd
-8dd
-=3
-16b
-16b
-8.dd
-16cc#
-=4
-8a
-8d
-8d}
+**kern	**text	**text
+*clefG2	*	*
+*k[f#c#]	*	*
+*G:	*	*
+*M3/8	*	*
+=1	=1	=1
+{16g	Oj	Oj
+16b	cy-	cie-
+8dd	-jez	-mna
+8dd	to	no-
+=2	=2	=2
+8a\	ko-	-cka
+8dd	-ni-	by-
+8dd	-ki	-ła
+=3	=3	=3
+16b	nad	a-
+16b	je-	-le
+(8.ddL	-zio-	nie
+16cc#J)	.	.
+=4	=4	=4
+8gnq	.	.
+8a\	-rem	ka-
+8d	ja-	-żde-
+8d}	-dły,	-mu
 !!LO:LB:g=esac
-=5
-{16d
-16f#
-8g
-8g
-=6
-8b
-8cc
-8b
-=7
-16b
-16b
-8.cc
-16b
-=8
-8a
-8d
-8d}
-==
-*-
+=5	=5	=5
+{16d	da	da
+16f#	cie-	i
+8g	-mna	no
+8g	no-	naj-
+=6	=6	=6
+8b/	-cka	-cie-
+8ccn/	za-	-mniej-
+8b/	-sła	-sa
+=7	=7	=7
+16b	w_je-	Ja-
+16b	-zio-	-sio-
+(8.cncL	-re	-wi
+16bJ)	.	.
+=8	=8	=8
+8gnq	.	.
+8a\	cko	mo-
+8d	w_pa-	-je-
+8d}	-dły.	-mu.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj cyjez to koniki nad jeziorem jadły,
+!!da ciemna nocka zasła w jeziore cko w padły.
+!!@VERSE:
+!!2. Oj ciemna nocka była ale nie każdemu
+!!da i no najciemniejsa Jasiowi mojemu.
+!!@@END: VERSES
+!!!role-singer: Girl
+!!!singer-sex: Female
 !!!ONB: Czesc wokalna
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=209 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 198} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 198}
 !!!page: 198
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-13

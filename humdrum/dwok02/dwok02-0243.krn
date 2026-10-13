@@ -3,94 +3,103 @@
 !!!source: DWOK02
 !!!id: K0243
 !!!signature:
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16b
-16dd
-8ee
-8ee
-=2
-16ff#
-16ee
-8dd#
-16cc
-16b
-=3
-16b
-16dd
-8a
-8a
-=4
-8g#
-4a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{16b/L	Oj
+16dd/J	.
+8ee	nie
+8ee	wie-
+=2	=2
+16ff#	-waj
+16ee	chu-
+8dd#	-ste-
+16ccL	-cką
+16bJ	.
+=3	=3
+16b	po
+16dd	pło-
+8a	-cie,
+8a	po
+=4	=4
+8g#	pło-
+4a}	-cie,
 !!LO:LB:g=esac
-=5
-{8e
-8g#
-8a
-=6
-8cc
-8dd
-16cc
-16b
-=7
-16a
-16cc
-8b
-8a
-=8
-8g#
-4e}
+=5	=5
+{8e	oj
+8g#	nie
+8a	wie
+=6	=6
+8cc	ma-
+8dd	-tu-
+16ccL	-leńka
+16bJ	.
+=7	=7
+16a\	o
+16cc	na-
+8b	-sym
+8a	kło-
+=8	=8
+8g#	-po-
+4e}	-cie.
 !!LO:LB:g=esac
-=9
-{16b
-16dd#
-8.ff#
-16dd#
-=10
-16ee
-16dd#
-8b
-8g#
-=11
-16b
-16dd
-8a
-8a
-=12
-16cc
-16cc
-8b
-8g#}
+=9	=9
+{16bL	.
+16dd#J	.
+8.ff#L	.
+16dd#J	.
+=10	=10
+16eeL	.
+16dd#J	.
+8b/L	.
+8g#J	.
+=11	=11
+16bL	.
+16ddn	.
+8a\	.
+8a\J	.
+=12	=12
+16ccL	.
+8ddq	.
+16ccJ	.
+8b/L	.
+8g#}J	.
 !!LO:LB:g=esac
-=13
-{16b
-16dd
-8a
-8cc
-=14
-16ee
-16dd#
-8b
-8g#
-=15
-16b
-16dd
-8a
-8a
-=16
-16cc
-16cc
-8b
-8g#}
-==
-*-
+=13	=13
+{16bL	.
+16ddJ	.
+8a\L	.
+8ccJ	.
+=14	=14
+16eeL	.
+16dd#J	.
+8bL	.
+8g#\J	.
+=15	=15
+16bL	.
+16ddJ	.
+8a\L	.
+8a\J	.
+=16	=16
+16ccL	.
+8ddqq	.
+16ccJ	.
+8b/L	.
+8g#}J	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oj nie wiewaj chustecką po płocie, po płocie, 
+!!oj nie wie matuleńka o nasym kłopocie.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=211 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 200} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 200}
 !!!page: 200
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-13

@@ -3,179 +3,189 @@
 !!!source: DWOK02
 !!!id: K0258
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16g
-8b
-8b
-=2
-8cc
-8a
-8cc
-=3
-16dd
-16b
-8g
-8b
-=4
-8cc
-8a
-8cc}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g\	Oj
+16g\	za
+8b	młynem
+8b	_
+=2	=2
+8cc	na
+8a	gro-
+8cc	-bli,
+=3	=3
+16dd	go-
+16b	-ni-
+8g	-li
+8b	się
+=4	=4
+8cc	dwa
+8a	dia-
+8cc}	-bli,
 !!LO:LB:g=esac
-=5
-{16ee
-16gg
-8ff#
-8dd
-=6
-8dd
-8b
-8dd
-=7
-16ee
-16gg
-8ff#
-8ff#
-=8
-8dd
-8b
-8g}
+=5	=5
+{16ee	go-
+16gg	-nił
+8ff#	dia-
+8dd	-beł
+=6	=6
+8dd	dia-
+8b	-bli-
+8dd	-cę.
+=7	=7
+16ee	o-
+16gg	-ber-
+8ff#	-wał
+8ff#	jej
+=8	=8
+8dd	spó-
+8b	-dni-
+8g}	-cę.
 !!LO:LB:g=esac
-=9
-{4cc
-16a
-16f#
-=10
-16g
-16b
-8b
-16b
-16d
-=11
-16d
-16a
-8a
-8a
-=12
-8g
-4b}
+=9	=9
+{4^<cc	.
+16aL	.
+16f#J	.
+=10	=10
+16gL	.
+16b/J	.
+8b/L	.
+16b/	.
+16dJ	.
+=11	=11
+16dL	.
+16aJ	.
+8aL	.
+8aJ	.
+=12	=12
+8g	.
+4b}	.
 !!LO:LB:g=esac
-=13
-{16f#
-16d
-16f#
-16a
-8cc
-=14
-16a
-16cc#
-8dd
-16b
-16g
-=15
-16f#
-16d
-16f#
-16a
-8cc
-=16
-16a
-16f#
-8g
-16b
-16g}
+=13	=13
+{16f#L	.
+16d	.
+16f#	.
+16aJ	.
+8ccw	.
+=14	=14
+16a\L	.
+16cc#J	.
+8ddL	.
+16b	.
+16g\J	.
+=15	=15
+16f#L	.
+16d	.
+16f#	.
+16aJ	.
+8ccw	.
+=16	=16
+16aL	.
+16f#J	.
+8gL	.
+16b/	.
+16g}J	.
 !!LO:LB:g=esac
-=17
-{16b
-16g
-8b
-8dd
-=18
-8cc
-8a
-8cc
-=19
-16dd
-16b
-8g
-8b
-=20
-8cc
-8a
-8cc}
+=17	=17
+{16b/L	.
+16gJ	.
+8b/L	.
+8dd/J	.
+=18	=18
+8cc	.
+8a	.
+8cc	.
+=19	=19
+16dd	.
+16b	.
+8g	.
+8b	.
+=20	=20
+8cc	.
+8a	.
+8cc}	.
 !!LO:LB:g=esac
-=21
-{16ee
-16gg
-8ff#
-8ff#
-=22
-8dd
-8b
-8dd
-=23
-16ee
-16gg
-8ff#
-8ff#
-=24
-8dd
-8b
-8g}
+=21	=21
+{16ee	.
+16gg	.
+8ff#/L	.
+8ff#/J	.
+=22	=22
+8dd	.
+8b	.
+8dd	.
+=23	=23
+16ee	.
+16gg	.
+8ff#	.
+8ff#	.
+=24	=24
+8dd	.
+8b	.
+8g}	.
 !!LO:LB:g=esac
-=25
-{4cc
-16a
-16f#
-=26
-16g
-16b
-8b
-16b
-16d
-=27
-16d
-16a
-8a
-8a
-=28
-8g
-8b
-8g}
+=25	=25
+{4cc^<	.
+16aL	.
+16f#J	.
+=26	=26
+16gL	.
+16b/J	.
+8b/L	.
+16b/	.
+16dJ	.
+=27	=27
+16dL	.
+16aJ	.
+8aL	.
+8aJ	.
+=28	=28
+8g	.
+8b/L	.
+8g}J	.
 !!LO:LB:g=esac
-=29
-{16f#
-16d
-16f#
-16a
-8cc
-=30
-16cc
-16ee
-8dd
-16b
-16g
-=31
-16f#
-16d
-16f#
-16a
-8cc
-=32
-16a
-16f#
-8g
-16b
-16g}
-==
-*-
+=29	=29
+{16fL#	.
+16d	.
+16f#	.
+16aJ	.
+8ccw	.
+=30	=30
+16cc/L	.
+16ee/J	.
+8ddL	.
+16b	.
+16g\J	.
+=31	=31
+16f#L	.
+16d	.
+16f#	.
+16aJ	.
+8ccw	.
+=32	=32
+16aL	.
+16f#J	.
+8gL	.
+16b/	.
+16g}J	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oj za młynem na grobli,
+!!gonili się dwa diabli,
+!!gonił diabeł diablicę.
+!!oberwał jej spódnicę.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!RDF**kern: <= below
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=217 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 206} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 206}
 !!!page: 206
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-13

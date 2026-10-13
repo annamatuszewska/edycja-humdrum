@@ -3,138 +3,148 @@
 !!!source: DWOK02
 !!!id: K0249
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16.gg
-32ff#
-8dd
-32ff
-16.dd
-=2
-8cc
-8ee
-8gg
-=3
-16.gg
-32ff#
-8dd
-32ff
-16.dd
-=4
-8cc
-8ee
-8cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16.gg	Oj
+32ff#	sko-
+8dd	-wro-
+32ffL	-ne-
+16.ddJ	.
+=2	=2
+8cc	-cek
+8ee	o-
+8gg	-rze
+=3	=3
+16.gg	da
+32ff#	ja-
+8dd	-skół-
+32ffL	-ka
+16.ddJ	.
+=4	=4
+8cc	po-
+8ee	-ga-
+8cc}	-nia,
 !!LO:LB:g=esac
-=
-{24g
-24b
-24dd
-8ff
-8ff
-=5
-8ee
-8ee
-8cc
-=6
-16.dd
-32ff
-8dd
-8b
-=7
-8cc
-8ee
-8cc}
+=5	=5
+{(24gL	oj
+24b/J	.
+24dd)	je-
+8ff	-scem
+8ff	nie
+=6	=6
+8ee	wi-
+8ee	-dzia-
+8cc	-ła
+=7	=7
+16.dd	da
+32ff	ta-
+8dd	-kie-
+8b	-go
+=8	=8
+8cc	ko-
+8ee	-cha-
+8cc}	-nia.
 !!LO:LB:g=esac
-=8
-{16g
-16b
-8dd
-8gg
-=9
-8ee
-8ee
-8cc
-=10
-16dd
-16ff
-8dd
-8b
-=11
-8cc
-8cc
-8cc}
+=9	=9
+{16gL	.
+16b/J	.
+8ddL	.
+8ggJ	.
+=10	=10
+8eeL	.
+8ee	.
+8ccJ	.
+=11	=11
+16ddL	.
+16ffJ	.
+8ddL	.
+8bJ	.
+=12	=12
+8ccL	.
+8cc	.
+8cc}J	.
 !!LO:LB:g=esac
-=12
-{16.gg
-32ff#
-8dd
-32ff
-16.dd
-=13
-16cc
-16ee
-16gg
-16ee
-16cc
-16ee
-=14
-16.gg
-32ff#
-8dd
-32ff
-16.dd
-=15
-8cc
-8ee
-8cc}
+=13	=13
+{16.gg	.
+32ff#	.
+8dd	.
+32ffL	.
+16.ddJ	.
+=14	=14
+16ccL/	.
+16ee/	.
+16gg/	.
+16ee/	.
+16cc/	.
+16ee/J	.
+=15	=15
+16.gg	.
+32ff#	.
+8dd	.
+32ffL	.
+16.ddJ	.
+=16	=16
+8cc	.
+8ee	.
+8cc}	.
 !!LO:LB:g=esac
-=
-{24g
-24b
-24dd
-8ff
-16aa
-16ff
-=16
-8gg
-8ee
-8cc
-=17
-16.dd
-32ff
-8dd
-8b
-=18
-8cc
-8ee
-8cc}
+=17	=17
+{(24g	.
+24/b	.
+24dd)	.
+8ff	.
+16aa/L	.
+16ff/J	.
+=18	=18
+8gg	.
+8ee	.
+8cc	.
+=19	=19
+16.dd	.
+32ff	.
+8dd	.
+8b	.
+=20	=20
+8cc	.
+8ee	.
+8cc}	.
 !!LO:LB:g=esac
-=19
-{16g
-16b
-8dd
-8gg
-=20
-8ee
-8ee
-8cc
-=21
-16dd
-16ff
-8dd
-8b
-=22
-8cc
-8ee
-8cc}
-==
-*-
+=21	=21
+{16gL	.
+16b/J	.
+8ddL	.
+8ggJ	.
+=22	=22
+8eeL	.
+8ee	.
+8ccJ	.
+=23	=23
+16ddL	.
+16ffJ	.
+8ddL	.
+8bJ	.
+=24	=24
+8cc	.
+8ee/	.
+8cc}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oj skowronecek orze
+!!da jaskółka pogania,
+!!oj jescem nie widziała
+!!da takiego kochania.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=213 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 202} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 202}
 !!!page: 202
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-13

@@ -3,73 +3,109 @@
 !!!source: DWOK02
 !!!id: K0224
 !!!signature:
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M2/4
-=1
-{4dd
-8b
-8dd
-=2
-8cc#
-8a
-8b
-16g
-16f#
-=3
-8f#
-4a
-16b
-16g
-=4
-8e
-8e
-4g}
+**kern	**text	**text
+*clefG2	*	*
+*k[f#c#]	*	*
+*D:	*	*
+*M2/4	*	*
+=1	=1	=1
+{4dd	Bo-	Po-
+8b	-zeż	-daj-
+8dd	mój	-ze
+=2	=2	=2
+8cc#X	ko-	mi
+8a	-cha-	rą-
+(8b	.	.
+16gL	-ny!	-ckę
+16f#J)	.	.
+=3	=3	=3
+8f#	nie	przez
+4a	ma	zie-
+16b/L	mo-	-lo-
+J16g	.	.
+=4	=4	=4
+8e	-jej	-ną
+8e	da-	łą-
+4g}	-my,	-ckę
 !!LO:LB:g=esac
-=5
-{8f#
-4a
-8dd
-=6
-8dd
-8dd
-8b
-8g
-=7
-8f#
-4a
-8e
-=8
-8e
-8e
-4g}
+=5	=5	=5
+{8f#	po-	po-
+4a	-sła	-daj-
+8dd	sia-	-ze
+=6	=6	=6
+8dd	-no-	mi
+8dd	-gra-	o-
+8/Lb	.	.
+8gJ	-bać	-bie
+=7	=7	=7
+8f#	nie	po-
+4a	ma	-ga-
+8e	skim	-da-
+=8	=8	=8
+8e	po-	-my
+8e	-ga-	so-
+4g}	-dać.	-bie.
 !!LO:LB:g=esac
-=9
-{8f#
-8a
-8a
-8e
-=10
-8e
-8c#
-8d
-8f#
-=11
-8f#
-8a
-8a
-8e
-=12
-8e
-8e
-8f#
-8d}
-==
-*-
+=9	=9	=9
+{8fL#	.	.
+(>8a	.	.
+8a)	.	.
+8eJ	.	.
+=10	=10	=10
+8eL	.	.
+8c#	.	.
+8d	.	.
+8f#J	.	.
+=11	=11	=11
+8f#L	.	.
+8a	.	.
+8a	.	.
+8eJ	.	.
+=12	=12	=12
+8eL	.	.
+8e	.	.
+8f#	.	.
+8d}J	.	.
+=13	=13	=13
+{8fL#	.	.
+(>8a	.	.
+8a)	.	.
+8eJ	.	.
+=14	=14	=14
+8eL	.	.
+8c#	.	.
+8d	.	.
+8f#J	.	.
+=15	=15	=15
+8f#L	.	.
+8a	.	.
+8a	.	.
+8eJ	.	.
+=16	=16	=16
+8eL	.	.
+8e	.	.
+8f#	.	.
+8d}J	.	.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. Bozeż mój kochany!
+!!nie ma mojej damy,
+!!posła sianograbać
+!!nie ma skim pogadać.
+!!@VERSE:
+!!2. Podajze mi rąckę
+!!przez zieloną łąckę
+!!podajze mi obie
+!!pogadamy sobie.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!singer-sex: Male
+!!!RDF**kern: >= above
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=202 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 191} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 191}
 !!!page: 191
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-11

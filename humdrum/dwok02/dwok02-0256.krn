@@ -3,96 +3,110 @@
 !!!source: DWOK02
 !!!id: K0256
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16f
-16g
-8a
-8cc
-=2
-8dd
-8a
-8cc
-=3
-16dd
-16ee
-8ff#
-8aa
-=4
-8dd
-8a
-8g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16f	Oj
+16g	sie-
+8a	-dział
+8cc	na
+=2	=2
+8dd	po-
+8a	-rę-
+8cc	-bie,
+=3	=3
+16dd	da
+16ee	strze-
+8ff#	-lał
+8aa	na
+=4	=4
+8dd	go-
+8a	-łę-
+8g}	-bie.
 !!LO:LB:g=esac
-=5
-{16f
-16g
-8a
-8cc
-=6
-8dd
-8dd
-8cc
-=7
-16a
-16g
-8f
-8a
-=8
-8g
-8c
-8d}
+=5	=5
+{16f	oj
+16g	chciał
+8a	go-
+8cc	-łą-
+=6	=6
+8dd	-bka
+8dd	za-
+8cc	-bić,
+=7	=7
+16a	da
+16g	i
+8f	dzie-
+8a	-wczy-
+=8	=8
+8g	-nę
+8c	zdra-
+8d}	-dzić.
 !!LO:LB:g=esac
-=9
-{16f
-16g
-8a
-8cc
-=10
-16dd
-16cc
-8a
-8cc
-=11
-16dd
-16ee
-8ff#
-16aa
-16ff
-=12
-16dd
-16cc
-8a
-8g}
+=9	=9
+{16f	Oj
+16g	go-
+8a	-łąb-
+8cc	-ka
+=10	=10
+16dd/L	nie
+16cc/J	.
+8a	za-
+8cc	-bił,
+=11	=11
+16dd	da
+16ee	bo
+8ff#	wy-
+16aa/L	-so-
+16ff#/J	.
+=12	=12
+16dd/L	-ko
+16cc/J	.
+8a	sie-
+8g}	-dział,
 !!LO:LB:g=esac
-=13
-{16f
-16g
-8a
-8cc
-=14
-16dd
-16ee
-8dd
-8cc
-=15
-16a
-16g
-8f
-8a
-=16
-16g
-32f
-32e
-8c
-8d}
-==
-*-
+=13	=13
+{16f	i
+16g	dziewczy-
+8a	.
+8cc	-ny
+=14	=14
+16dd/L	nie
+16ee/J	.
+8dd	zdradził,
+8cc	.
+=15	=15
+16a	da
+16g	bo
+8f	o
+8a	niej
+=16	=16
+16g\L	nie
+32f\	.
+32d\J	.
+8c	wie-
+8d}	-dział.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj siedział na porębie,
+!!da strzelał na gołębie.
+!!oj chciał gołąbka zabić,
+!!da i dziewczynę zdradzić.
+!!@VERSE:
+!!2. Oj gołąbka nie zabił,
+!!da bo wysoko siedział,
+!!i dziewczyny nie zdradził,
+!!da bo o niej nie wiedział.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=216 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 205} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 205}
 !!!page: 205
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-13

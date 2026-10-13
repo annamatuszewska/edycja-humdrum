@@ -9,36 +9,37 @@
 *A:
 *M3/8
 =1
-{16a
-16cc#
-8ee
+{16a\L
+16cc#J
+8eeL
 16ee
-16dd
+16ddJ
 =2
-16ff#
-16dd
-8b
-8b
+16ff#L
+16ddJ
+8bL
+8bJ
 =3
 8dd
 4ff#}
 !!LO:LB:g=esac
-=
-{24b
-24a
-24cc#
-8ee
-16ee
-16dd
 =4
-16ff#
-16dd
-8b
-16b
-16g#
+*Xtuplet
+{24bL
+24a\
+24cc#J
+8eeL
+16ee
+16ddJ
 =5
-16e
-16g#
+16ff#L
+16dd
+8bJ
+16b/L
+16g#J
+=6
+16eL
+16g#J
 4b}
 ==
 *-
@@ -48,3 +49,5 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=215 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 204} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 204}
 !!!page: 204
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-13

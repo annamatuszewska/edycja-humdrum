@@ -6,57 +6,61 @@
 **kern
 *clefG2
 *k[]
-*C:
+*G:
 *M3/8
 =1
-{16cc
+{16cLc
 16ee
 16gg
 16ff#
-8gg
+8ggJ
 =2
-16dd
-16ff
-8aa
-8aa
+16ddL
+16ffnJ
+8aaL
+8aaJ
 =3
-16cc
+16ccL
 16ee
 16gg
 16ff#
 16gg
-16aa
+16aaJ
 =4
-16dd
-16ff
-8ee
-8g}
+16ddL
+16ffnJ
+8eeL
+8g}\J
 !!LO:LB:g=esac
 =5
-{16dd
-16b
-8dd
-8ff
+{16dLd/
+16b/J
+8ddL
+8ffJ
 =6
-16ee
-16ee
-8gg
-8ee
+16eeL
+16eeJ
+8ggL
+8eeJ
 =7
-16dd
-16b
-8dd
-8ff
+16dd/L
+16b/J
+8dd/L
+8ff/J
 =8
-16ee
-16cc
-8dd
-8cc}
+16eeL
+16ccJ
+8ddL
+8ccJ}
 ==
 *-
+!!!role-singer: Man
+!!!singer-sex: Male
 !!!ONB: Frazy 3-4
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=217 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 206-207} @EN{Oskar Kolberg Complete Works 2: Sandomierz, pp. 206-207}
 !!!page: 206-207
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-13

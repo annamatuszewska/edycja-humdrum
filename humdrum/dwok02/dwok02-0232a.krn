@@ -3,55 +3,64 @@
 !!!source: DWOK02
 !!!id: K0232a
 !!!signature:
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M2/4
-=1
-{8a
-8cc#
-8.dd
-16b
-=2
-8b
-8cc#
-8a
-8a
-=3
-8cc#
-8cc#
-8.dd
-16b
-=4
-8b
-8g#
-4a}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M2/4	*
+=1	=1
+{8a	A
+8cc#	py-
+8.dd	-tał
+16b	się
+=2	=2
+8b	oj-
+8cc#	-ciec
+8a	sy-
+8a	-na
+=3	=3
+8cc#	kaj
+8cc#	bę-
+8.dd	-dzie-
+16b	-my
+=4	=4
+8b/	stawiać
+8g#	.
+4a}	młyn?
 !!LO:LB:g=esac
-=5
-{8cc#
-8cc#
-8dd
-8b
-=6
-8b
-8ee
-4cc#
-=7
-8cc#
-16a
-16cc#
-8dd
-8b
-=8
-8b
-8cc#
-4a}
-==
-*-
+=5	=5
+{8cc#	Ku
+8cc#	Ry-
+8dd	-twia-
+8b	-nom
+=6	=6
+8b	na
+8ee	gór-
+4cc#	-ce
+=7	=7
+8cc#	tam
+16a\L	nam
+16cc#J	.
+8dd	będzie
+8b	do-
+=8	=8
+8b	-brze
+8cc#	w
+4a}	nim.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A pytał się ojciec syna
+!!kaj będziemy stawiać młyn?
+!!Ku Rytwianom na górce
+!!tam nam będzie dobrze w nim.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!ONB: Czesc wokalna
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=205 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 194-195} @EN{Oskar Kolberg Complete Works 2: Sandomierz, pp. 194-195}
 !!!page: 194-195
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-12

@@ -3,56 +3,102 @@
 !!!source: DWOK02
 !!!id: K0244
 !!!signature:
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/8
-=1
-{8cc#
-8ee
-8ee
-=2
-16ff#
-16ee
-8dd#
-8ee
-=3
-8b
-8dd
-8dd
-=
-24b
-24g#
-24b
-8cc#
-8a}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M3/8	*
+=1	=1
+{8cc#	1. A
+8ee	graj
+8ee	zy-
+=2	=2
+16ff#	-wiej
+16ee	skrzypecku,
+8dd#	.
+8ee	.
+=3	=3
+8b	da
+8ddn	po-
+8dd	-glą-
+=4	=4
+!LO:TUP:a	!
+(24bL	-daj
+24g#\J	.
+24b)	na
+8cc#	lu-
+8a}\	-dzi,
 !!LO:LB:g=esac
-=4
-{8a
-8cc#
-8cc#
-=
-24cc#
-24a
-24cc#
-8dd
-8b
-=5
-8b
-8dd
-16ff#
-16dd
-=
-24b
-24g#
-24b
-8cc#
-8a}
-==
-*-
+=5	=5
+{8a\	da
+8cc#	boć
+8cc#	ta
+=6	=6
+!LO:TUP:a	!
+(24cc#L	ta-
+24a\J	.
+24cc#)	-ki
+8dd	bę-
+8b	-dzie
+=7	=7
+8b	co
+8dd	ku-
+16ff#L	-ła-
+16ddJ	.
+=8	=8
+!LO:TUP:a	!
+(24bL	-kiem
+24g#\J)	.
+24b	cię
+8cc#	zbu-
+8a}\	-dzi.
+=9	=9
+{8a\	da
+8cc#	boć
+8cc#	ta
+=10	=10
+!LO:TUP:a	!
+(24cc#L	ta-
+24a\J	.
+24cc#)	-ki
+8dd	bę-
+8b	-dzie
+=11	=11
+8b	co
+8dd	ku-
+16ff#L	-ła-
+16ddJ	.
+=12	=12
+!LO:TUP:a	!
+(24bL	-kiem
+24g#\J)	.
+24b	cię
+8cc#	zbu-
+8a}\	-dzi.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A graj zywiej skrzypecku,
+!!da poglądaj na ludzi,
+!!da boć ta taki będzie
+!!co kułakiem cię zbudzi.
+!!@VERSE:
+!!2. A zagraj ze skrzypecku
+!!da dyć ci nie będzie,
+!!oj nie będzies ty tu grał
+!!da jak nas juz nie będzie.
+!!@VERSE:
+!!3. A machaj ze skrzypecku
+!!da niech ci smyk nie ustanie;
+!!oj nie będzies ci machał
+!!da jak nas juz nie stanie.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!role-listener: Violinist
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=211 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 200} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 200}
 !!!page: 200
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-13

@@ -3,52 +3,62 @@
 !!!source: DWOK02
 !!!id: K0226
 !!!signature:
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M2/4
-=1
-{8a
-8cc
-4ee-
-=2
-8gg
-8gg
-8.ff
-16dd
-=3
-8ff
-8gg
-4ee-
-=4
-8cc
-8a
-8.b-
-16f}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M2/4	*
+=1	=1
+{8a\L	Si-
+8ccJ	.
+4ee-	-wy
+=2	=2
+8gg	go-
+8gg	-łą-
+8.ff^<	-be-
+16dd	-cek
+=3	=3
+8ffL	prze-
+8ggJ	.
+4ee-	-le-
+=4	=4
+8cc	-ciał
+8a\	San-
+8.b-	-do-
+16f}	-mierz,
 !!LO:LB:g=esac
-=5
-{8a
-8cc
-4ee-
-=6
-8cc
-8a
-8.b-
-16dd
-=7
-8dd
-8ff
-4ee-
-=8
-8cc
-8a
-8.b-
-16f}
-==
-*-
+=5	=5
+{8a\L	ko-
+8ccJ	.
+4ee-	-cham
+=6	=6
+8cc	cię
+8a\	A-
+8.b-	-niel-
+16dd	-ko
+=7	=7
+8ddL	choć
+8ffJ	.
+4ee-	ty
+=8	=8
+8cc	o
+8a\	tem
+8.b-	nié
+16f}	wiesz.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Siwy gołąbecek przeleciał Sandomierz,
+!!kocham cię Anielko choć ty o tem nié wiesz.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Girl
+!!!singer-sex: Male
+!!!RDF**kern: <= below
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=203 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 192} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 192}
 !!!page: 192
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-12

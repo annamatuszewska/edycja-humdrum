@@ -3,225 +3,238 @@
 !!!source: DWOK02
 !!!id: K0250
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16g
-8b
-8dd
-=2
-8gg
-8ee
-16cc
-16a
-=3
-16f#
-16d
-8f#
-8a
-=4
-8cc
-8b
-8g}
+**kern	**text	**text
+*clefG2	*	*
+*k[f#]	*	*
+*G:	*	*
+*M3/8	*	*
+=1	=1	=1
+{16g\L	A	Oj
+16g\J	są	ro-
+8b	kwia-	-zwi-
+8dd	-tki	-ja
+=2	=2	=2
+8gg	na	sie
+8ee	po-	ró-
+16ccL	-lu	-za
+16a\J	.	.
+=3	=3	=3
+16f#	da	da
+16d	ró-	ró-
+8f#	-żne-	-zo-
+8a	-go	-wym
+=4	=4	=4
+8ccM	ko-	ko-
+8b	-lo-	-lo-
+8g}	-ru,	-rem,
 !!LO:LB:g=esac
-=
-{24d
-24f#
-24a
-8cc
-16a
-16f#
-=5
-8g
-16b
-16g
-16b
-16dd
-=6
-16ee
-16ee
-8cc
-16a
-16f#
-=7
-8g
-8b
-8b}
+=5	=5	=5
+{(>24dL	oj	da
+24f#J	.	.
+24a)	ko-	ko-
+8ccM	.	.
+16aL	-chaj	-cham
+16f#J	mnie	cię
+=6	=6	=6
+8g	Ja-	Ma-
+16b/L	-sie-	-ry-
+16gJ	.	.
+16bL	-niu	-siu
+16ddJ	.	.
+=7	=7	=7
+16ee	da	da
+16ee	dla	rę-
+8cc	swe-	-cę
+16aL	-go	ci
+16f#J	.	.
+=8	=8	=8
+8g	ho-	ho-
+8b/	-no-	-no-
+8b}/	-ru.	-rem.
 !!LO:LB:g=esac
-=8
-{8g
-8b
-8b
-=9
-16ee
-32r
-32dd
-16cc
-16b
-16cc
-16ee
-=
-24dd
-24ee
-24dd
-8b
-16dd
-16b
-=
-16.cc
-32cc
-8b
-24cc
-24b
-24a}
+=9	=9	=9
+{8gL	.	.
+8b/	.	.
+8b/J	.	.
+=10	=10	=10
+16eeL	.	.
+32r	.	.
+32ddJ	.	.
+16ccL	.	.
+16b	.	.
+16cc	.	.
+16eeJ	.	.
+=11	=11	=11
+*Xtuplet	*	*
+24ddL	.	.
+24ee	.	.
+24ddJ	.	.
+8bL	.	.
+16dd	.	.
+16bJ	.	.
+=12	=12	=12
+16.cLc	.	.
+32ccJ	.	.
+8bL	.	.
+24cc	.	.
+24b	.	.
+24a\J}	.	.
 !!LO:LB:g=esac
-=10
-{16g
-16g
-8b
-8dd
-=11
-16ee
-16dd
-16cc
-16b
-16cc
-16ee
-=
-24dd
-24ee
-24dd
-8b
-16dd
-16b
-=12
-16ee
-32r
-32a
-8cc
-16b
-16a}
+=13	=13	=13
+{16gL	.	.
+16gJ	.	.
+8bL	.	.
+8ddJ	.	.
+=14	=14	=14
+16eeL	.	.
+16ddJ	.	.
+16ccL	.	.
+16b	.	.
+16cc	.	.
+16eeJ	.	.
+=15	=15	=15
+24ddL	.	.
+24ee	.	.
+24ddJ	.	.
+8bL	.	.
+16dd	.	.
+16bJ	.	.
+=16	=16	=16
+16eeL	.	.
+32r\	.	.
+32aJ	.	.
+8ccL	.	.
+16b	.	.
+16a\J}	.	.
 !!LO:LB:g=esac
-=13
-{16g
-16g
-8b
-8dd
-=
-8a
-8a
-24cc
-24b
-24a
-=14
-16g
-16g
-8b
-8dd
-=
-8a
-8a
-24cc
-24b
-24a}
+=17	=17	=17
+{16gL	.	.
+16gJ	.	.
+8bL	.	.
+8ddJ	.	.
+=18	=18	=18
+8aL	.	.
+8aJ	.	.
+24cLc	.	.
+24b	.	.
+24a\J	.	.
+=19	=19	=19
+16gL	.	.
+16gJ	.	.
+8bL	.	.
+8ddJ	.	.
+=20	=20	=20
+8aL	.	.
+8aJ	.	.
+24cLc	.	.
+24b	.	.
+24a}\J	.	.
 !!LO:LB:g=esac
-=15
-{16g
-16g
-8b
-8dd
-=
-8gg
-8cc
-24ee
-24dd
-24cc
-=16
-16b
-16g
-8b
-8dd
-=
-8a
-8a
-24cc
-24b
-24a}
+=21	=21	=21
+{16gL	.	.
+16gJ	.	.
+8bL	.	.
+8ddJ	.	.
+=22	=22	=22
+8ggL	.	.
+8ccJ	.	.
+24eeL	.	.
+24dd	.	.
+24ccJ	.	.
+=23	=23	=23
+16bL	.	.
+16g\J	.	.
+8bL	.	.
+8ddJ	.	.
+=24	=24	=24
+8aL	.	.
+8aJ	.	.
+24cLc	.	.
+24b	.	.
+24a}\J	.	.
 !!LO:LB:g=esac
-=17
-{16g
-16g
-8b
-8dd
-=18
-16gg
-16cc
-8ee
-16dd
-16cc
-=19
-16b
-16g
-8b
-8dd
-=
-8a
-8a
-24cc
-24b
-24a}
+=25	=25	=25
+{16gL	.	.
+16gJ	.	.
+8bL	.	.
+8ddJ	.	.
+=26	=26	=26
+16ggL	.	.
+16cc	.	.
+8eeJ	.	.
+16ddL	.	.
+16ccJ	.	.
+=27	=27	=27
+16bL	.	.
+16g\J	.	.
+8bL	.	.
+8ddJ	.	.
+=28	=28	=28
+8aL	.	.
+8aJ	.	.
+24cLc	.	.
+24b	.	.
+24a}\J	.	.
 !!LO:LB:g=esac
-=20
-{16g
-16g
-8b
-8dd
-=21
-8gg
-8ee
-16cc
-16a
-=22
-16f#
-16d
-8f#
-8a
-=23
-8cc
-8b
-8g}
+=29	=29	=29
+{16g\L	.	.
+16g\J	.	.
+8b	.	.
+8dd	.	.
+=30	=30	=30
+8gg	.	.
+8ee	.	.
+16ccL	.	.
+16a\J	.	.
+=31	=31	=31
+16f#	.	.
+16d	.	.
+8f#	.	.
+8a	.	.
+=32	=32	=32
+8ccM	.	.
+8b	.	.
+8g}	.	.
 !!LO:LB:g=esac
-=
-{24d
-24f#
-24a
-8cc
-16a
-16f#
-=24
-8g
-16b
-16g
-16b
-16dd
-=25
-16ee
-16ee
-8cc
-16a
-16f#
-=26
-8g
-8b
-8b}
-==
-*-
+=33	=33	=33
+*tuplet	*	*
+{(>24dL	.	.
+24f#J	.	.
+24a)	.	.
+8ccM	.	.
+16aL	.	.
+16f#J	.	.
+=34	=34	=34
+8g	.	.
+16b/L	.	.
+16gJ	.	.
+16bL	.	.
+16ddJ	.	.
+=35	=35	=35
+16ee	.	.
+16ee	.	.
+8cc	.	.
+16aL	.	.
+16f#J	.	.
+=36	=36	=36
+8g	.	.
+8b/	.	.
+8b/}	.	.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!A są kwiatki na polu da różnego koloru,
+!!oj kochaj mnie Jasieniu da dla swego honoru.
+!!Oj rozwija sie róża da różowym kolorem,
+!!da kocham cię Marysiu da ręcę ci honorem.
+!!@@END: VERSES
+!!!role-singer: Mistress, Lover
+!!!singer-sex: Female, Male
+!!!RDF**kern: >= above
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=214 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 203} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 203}
 !!!page: 203
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-13

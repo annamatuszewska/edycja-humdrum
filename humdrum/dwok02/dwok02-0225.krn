@@ -3,89 +3,103 @@
 !!!source: DWOK02
 !!!id: K0225
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{8ff
-8gg
-16ee
-16ff
-8gg
-=2
-8ee
-4cc
-8ee
-=3
-8dd
-8dd
-8dd
-8dd
-=4
-8cc
-4cc
-8cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+=1	=1
+{8ff	Po-
+8gg	-wia-
+16eeL	-dam
+16ffJ	.
+8gg	ja
+=2	=2
+8ee	to-
+(4cc	-bie
+8ee)	.
+=3	=3
+8dd/	Ja-
+8dd/	-sień-
+8dd/	-ku
+8dd/	ro-
+=4	=4
+8cc/	-zla-
+(4cc/	-zły
+8cc/)}	.
 !!LO:LB:g=esac
-=5
-{8dd
-8dd
-8.b
-16dd
-=6
-8dd
-4cc
-8cc
-=7
-8b
-8g
-8a
-8b
-=8
-8cc
-4.cc}
+=5	=5
+{8dd/	sta-
+8dd/	-jen-
+8.b	-kiś
+16dd/	nie
+=6	=6
+8dd/	za-
+(4cc/	-parł
+8cc/)	.
+=7	=7
+8b/	ko-
+8g	-ni-
+8a	-ki
+8b/	wy-
+=8	=8
+8cc/	-la-
+4.cc/}	-zły.
 !!LO:LB:g=esac
-=9
-{4g
-8g
-8g
-=10
-8a
-4a
-8a
-=11
-8b
-8b
-8b
-8b
-=12
-8cc
-4.cc}
+=9	=9
+{4g	Ko-
+8g	-ni-
+8g	-ki
+=10	=10
+8a	w_sta-
+4a	-jen-
+8a	-ce,
+=11	=11
+8b/	u-
+8b/	-zde-
+8b/	-cka
+8b/	w_al-
+=12	=12
+8cc/	-kie-
+4.cc/}	-rzu,
 !!LO:LB:g=esac
-=13
-{8ff
-8gg
-16ee
-16ff
-8gg
-=14
-8ee
-4cc
-8ee
-=15
-8dd
-8dd
-8dd
-8dd
-=16
-8cc
-4.cc}
-==
-*-
+=13	=13
+{8ffL	Ja-
+8ggJ	.
+16eeL	-sio
+16ff	.
+8ggJ	na
+=14	=14
+8ee	wo-
+4cc^	-jen-
+8ee	-ce,
+=15	=15
+8dd/L	Kasia
+8dd/	.
+8dd/	w_Sando-
+8dd/J	.
+=16	=16
+8cc/	-mie-
+4.cc/}	-rzu.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Powiadam ja tobie
+!!Jasieńku rozlazły
+!!stajenkiś nie zaparł
+!!koniki wylazły.
+!!Koniki w stajence,
+!!uzdecka w alkierzu,
+!!Jasio na wojence,
+!!Kasia w Sandomierzu.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!role-listener: Man
 !!!ONB: Liczne dwudźwięki; kodowano górne nuty
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=203 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 192} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 192}
 !!!page: 192
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-12
