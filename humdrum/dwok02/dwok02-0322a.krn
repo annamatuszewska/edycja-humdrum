@@ -3,56 +3,70 @@
 !!!source: DWOK02
 !!!id: K0322a
 !!!signature:
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M3/8
-=1
-{16cc
-16ee
-8ff
-8ff
-=2
-8ee
-8ff
-8ff
-=3
-8ee
-8ff
-8ff
-=4
-8ee
-8ff
-8ff}
+**kern	**text	**text
+*clefG2	*	*
+*k[b-e-]	*	*
+*B-:	*	*
+*M3/8	*	*
+=1	=1	=1
+{16cc	Da	Da
+16ee	cho-	cho-
+8ff	-dzi-	-dzi-
+8ff	-ła	-ła
+=2	=2	=2
+8ee	po	po
+8ff	le-	ga-
+8ff	-sie,	-ju,
+=3	=3	=3
+8ee	po	po
+8ff	le-	ga-
+8ff	-sie	-ju,
+=4	=4	=4
+8ee	po	po
+8ff	le-	ga-
+8ff}	-sie	-ju,
 !!LO:LB:g=esac
-=5
-{16ee
-16cc
-8dd
-16dd
-16b-
-=6
-8a
-16a
-16b-
-16dd
-16ff
-=7
-16ee
-16cc
-8dd
-16dd
-16b-
-=8
-8a
-8b-
-8f}
-==
-*-
+=5	=5	=5
+{16ee	da	da
+16cc	wo-	wo-
+8dd	-ła-	-ła-
+16ddL	-ła	-ła
+16b-J	.	.
+=6	=6	=6
+8a	wróć	hul-
+16aL	ze	-ta-
+16b-J/	.	.
+16ddL	się,	-ju,
+16ffJ	.	.
+=7	=7	=7
+16ee	da	da
+16cc	wo-	wo-
+8dd	-ła-	-ła-
+16ddL	-ła	-ła:
+16b-J	.	.
+=8	=8	=8
+8a	wróć	hul-
+8b-	ze	-ta-
+8f}	się.	-ju.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. Da chodziła po lesie,
+!!po lesie po lesie
+!!da wołała wróć ze się,
+!!da wołała wróć ze się.
+!!@VERSE:
+!!2. Da chodziła po gaju,
+!!po gaju po gaju,
+!!da wołała hultaju,
+!!da wołała hultaju.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!ONB: czesc wokalna
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=244 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 233} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 233}
 !!!page: 233
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-19

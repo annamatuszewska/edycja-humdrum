@@ -3,108 +3,120 @@
 !!!source: DWOK02
 !!!id: K0320
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16g
-16cc
-8ee
-8ee
-=2
-16dd
-16b
-16cc
-16dd
-8ee
-=3
-16g
-16cc
-8ee
-8ee
-=4
-16dd
-16b
-16cc
-16a
-8g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16g	A
+16cc	ja
+8ee	księ-
+8ee	-dzu
+=2	=2
+16dd	wo-
+16b	-ły
+16ccL	pa-
+16ddJ	.
+8ee	-sę
+=3	=3
+16g	o-
+16cc	-bie-
+8ee	-cał
+8ee	mi
+=4	=4
+16dd	ksiądz
+16b	kieł-
+16ccL	-ba-
+16a\J	.
+8g}	-sę,
 !!LO:LB:g=esac
-=5
-{16b
-16dd
-8a
-8g
-=
-24b
-24a
-24b
-8dd
-16dd
-16a
-=6
-16b
-16dd
-8a
-8b
-=7
-16a
-16cc
-16b
-16a
-8g}
+=5	=5
+{16b	Jak
+16dd	o-
+8a	-bie-
+8g	-cał
+=6	=6
+!LO:TUP:a	!
+(24bL	tak
+24a\J	.
+24b)	mu-
+8dd	-si
+16ddL	dać,
+16a\J	.
+=7	=7
+16b	nie-
+16dd	-go-
+8a	-dzi
+8b/	się
+=8	=8
+16a\	księ-
+16cc	-dzu
+16b/L	zeł-
+16aJ	.
+8g}	-gać.
 !!LO:LB:g=esac
-=8
-{16g
-16cc
-8ee
-8ee
-=9
-16dd
-16b
-16cc
-16dd
-8ee
-=10
-16g
-16cc
-8ee
-8ee
-=11
-16dd
-16b
-16cc
-16a
-8g}
+=9	=9
+{16g	A
+16cc	ja
+8ee	księ-
+8ee	-dzu
+=10	=10
+16dd	wo-
+16b	-ły
+16ccL	pa-
+16ddJ	.
+8ee	-sę
+=11	=11
+16g	o-
+16cc	-bie-
+8ee	-cał
+8ee	mi
+=12	=12
+16dd	ksiądz
+16b	kieł-
+16ccL	-ba-
+16a\J	.
+8g}	-sę,
 !!LO:LB:g=esac
-=12
-{16b
-16dd
-8a
-8g
-=
-24b
-24a
-24b
-8dd
-16dd
-16a
-=13
-16b
-16dd
-8a
-8b
-=14
-16a
-16cc
-16b
-16a
-8g}
-==
-*-
+=13	=13
+{16b	Jak
+16dd	o-
+8a	-bie-
+8g	-cał
+=14	=14
+!LO:TUP:a	!
+(24bL	tak
+24a\J	.
+24b)	mu-
+8dd	-si
+16ddL	dać,
+16a\J	.
+=15	=15
+16b	nie-
+16dd	-go-
+8a	-dzi
+8b/	się
+=16	=16
+16a\	księ-
+16cc	-dzu
+16b/L	zeł-
+16aJ	.
+8g}	-gać.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A ja księdzu woły pasę
+!!obiecał mi ksiądz kiełbasę,
+!!Jak obiecał tak musi dać,
+!!niegodzi się księdzu zełgać.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=243 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 232} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 232}
 !!!page: 232
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-18

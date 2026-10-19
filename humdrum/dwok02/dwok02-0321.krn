@@ -3,118 +3,134 @@
 !!!source: DWOK02
 !!!id: K0321
 !!!signature:
-**kern
-*clefG2
-*k[b-e-a-]
-*c:
-*M3/8
-=1
-{16g
-16b
-16cc
-16dd
-16ee-
-16ff#
-=2
-8gg
-8gg
-8gg
-=3
-16aa
-16gg
-8ff
-16ff
-16dd
-=4
-8cc
-8cc
-8cc}
+**kern	**text	**text	**text
+*clefG2	*	*	*
+*k[b-e-a-]	*	*	*
+*c:	*	*	*
+*M3/8	*	*	*
+=1	=1	=1	=1
+{16g	Oj	Na	Chuop
+16b	da-	go-	się
+16ccL	-na	-ściń-	.
+16ddJ	.	.	wi-
+16ee-L	mo-	-cu	-dła-
+16ff#J	.	.	.
+=2	=2	=2	=2
+8gg	-ja	tra	-mi
+8gg	da-	ra	zło-
+8gg	-na,	ra,	-zył,
+=3	=3	=3	=3
+16aa	da	sto	i
+16gg	wzię-	i	w_pysk
+8ff	-li	ja-	pocwa-
+8ggq	.	.	.
+16ffL	dia-	-kaś	.
+16ddJ	.	.	.
+=4	=4	=4	=4
+8cc	-bli	po-	-rze
+8cc	pa-	-cwa-	wło-
+8cc}	-na.	-ra.	-zył.
 !!LO:LB:g=esac
-=5
-{16b
-16cc
-8ee-
-16dd
-16cc
-=6
-8b
-8cc
-8ee-
-=7
-16gg
-16dd
-8ee-
-16dd
-16cc
-=8
-8b
-8cc
-8g}
+=5	=5	=5	=5
+{16b	Oj	.	.
+16cc	wzię-	.	.
+8ee-	-li	.	.
+16ddL	go	.	.
+16ccJ	.	.	.
+=6	=6	=6	=6
+8b	do	.	.
+8cc	pie-	.	.
+8ee-	-kła,	.	.
+=7	=7	=7	=7
+16gg	i	.	.
+16dd	tak	.	.
+8ee-	nam	.	.
+16dd	du-	.	.
+16cc	-sa	.	.
+=8	=8	=8	=8
+8b	u-	.	.
+8cc	-cie-	.	.
+8g}	-kła!	.	.
 !!LO:LB:g=esac
-=9
-{16b
-16cc
-8ee-
-16dd
-16cc
-=10
-8b
-8cc
-8ee-
-=11
-16gg
-16dd
-8ee-
-16dd
-16cc
-=12
-8b
-8cc
-8g}
+=9	=9	=9	=9
+{16b	A	.	.
+16cc	chuop	.	.
+8ee-	i-	.	.
+16ddL	-dzie	.	.
+16ccJ	.	.	.
+=10	=10	=10	=10
+8b	z_wi-	.	.
+8cc	-dła-	.	.
+8ee-	-mi,	.	.
+=11	=11	=11	=11
+16gg	a	.	.
+16dd	po-	.	.
+8ee-	-cwa-	.	.
+16dd	.	.	.
+16cc	-ra	.	.
+=12	=12	=12	=12
+8b	z_zę-	.	.
+8cc	-ba-	.	.
+8g}	-mi.	.	.
 !!LO:LB:g=esac
-=13
-{16dd
-16ff#
-8.gg
-16dd
-=14
-8ff
-16ee-
-16dd
-8cc
-=15
-8ee-
-8dd
-8ff
-=16
-16dd
-16b
-8cc
-8g}
+=13	=13	=13	=13
+{16ddL	.	.	.
+16ff#J	.	.	.
+8.ggL	.	.	.
+16ddJ	.	.	.
+=14	=14	=14	=14
+8ffLMn	.	.	.
+16ee-	.	.	.
+16dd	.	.	.
+8ccJ	.	.	.
+=15	=15	=15	=15
+8ee-L	.	.	.
+8dd	.	.	.
+8ffJ	.	.	.
+=16	=16	=16	=16
+16ddL	.	.	.
+16bJ	.	.	.
+8ccL	.	.	.
+8g}\J	.	.	.
 !!LO:LB:g=esac
-=17
-{16dd
-16ff#
-8.gg
-16dd
-=18
-8ff
-16ee-
-16dd
-8cc
-=19
-8ee-
-8dd
-8ff
-=20
-16dd
-16b
-8cc
-8g}
-==
-*-
+=17	=17	=17	=17
+{16ddL	.	.	.
+16ff#J	.	.	.
+8.ggL	.	.	.
+16ddJ	.	.	.
+=18	=18	=18	=18
+8ffnML	.	.	.
+16ee-	.	.	.
+16dd	.	.	.
+8ccJ	.	.	.
+=19	=19	=19	=19
+8ee-L	.	.	.
+8dd	.	.	.
+8ffJ	.	.	.
+=20	=20	=20	=20
+16ddL	.	.	.
+16bJ	.	.	.
+8ccL	.	.	.
+8g}\J	.	.	.
+==	==	==	==
+*-	*-	*-	*-
+!!@@BEGIN: VERSES
+!!Oj dana moja dana,
+!!da wzięli diabli pana.
+!!Na gościńcu tra ra ra,
+!!sto i jakaś pocwara.
+!!Chuop się widłami złożył,
+!!i w pysk pocwarzo włożył.
+!!Oj wzięli go do piekła,
+!!i tak nam dusa uciekła!
+!!A chuop idzie z widłami,
+!!a pocwara z zębami.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=243 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 232} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 232}
 !!!page: 232
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-19

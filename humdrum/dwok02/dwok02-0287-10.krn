@@ -3,58 +3,74 @@
 !!!source: DWOK02
 !!!id: K0287
 !!!signature: 0228700010
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16b
-8dd
-8ee
-=2
-16cc#
-16cc#
-8a
-8cc
-=
-24b
-24dd
-24b
-8g
-8g
-=3
-16d
-16f
-8a
-8f}
+**kern	**text	**text
+*clefG2	*	*
+*k[f#]	*	*
+*G:	*	*
+*M3/8	*	*
+=1	=1	=1
+{16gL	Oj	Oj
+16b/J	.	.
+8dd	nie	nie
+8ee	pój-	pój-
+=2	=2	=2
+16cc#	-dę	-dę
+16cc#	ja	ja
+8a\	za	za
+8cc	mąz,	mąz,
+=3	=3	=3
+*Xtuplet	*	*
+24bL	da	da
+24dd	.	.
+24bJ	.	.
+8g	te-	za
+8g	-go	psa
+=4	=4	=4
+16d	ro-	za
+16f	-ku	ku-
+8a	je-	-cha-
+8f}	-sce,	-rza,
 !!LO:LB:g=esac
-=4
-{16g
-16b
-8g
-8g
-=5
-16d
-16f
-8a
-8cc
-=
-24b
-24dd
-24b
-8g
-8g
-=6
-16d
-16f
-8a
-8f}
-==
-*-
+=5	=5	=5
+{16gL	oj	oj
+16b/J	.	.
+8g	cóz	bo
+8g	mnie	by
+=6	=6	=6
+16d	za	mnie
+16f	nie-	po-
+8a\	-wo-	wiesiuł
+8cc	-la,	.
+=7	=7	=7
+24bL	da	da
+24dd	.	.
+24bJ	.	.
+8g	kiej	za
+8g	mnie	łeb
+=8	=8	=8
+16d	za-	u
+16f	-den	stra-
+8a	nie	-ga-
+8f}	chce.	-rza.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj nie pójdę ja za mąz,
+!!da tego roku jesce,
+!!oj cóz mnie za niewola,
+!!da kiej mnie zaden nie chce.
+!!@VERSE:
+!!2. Oj nie pójdę ja za mąz,
+!!da za psa za kucharza,
+!!oj bo by mnie powiesiuł
+!!da za łeb u stragarza.
+!!@@END: VERSES
+!!!role-singer: Single Girl
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=229 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 218} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 218}
 !!!page: 218
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-15

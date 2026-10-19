@@ -3,171 +3,186 @@
 !!!source: DWOK02
 !!!id: K0263
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16b
-16cc
-8ee
-8ff
-=2
-16dd
-16cc
-8a
-8g
-=3
-16b
-16cc
-8ee
-8ff
-=4
-16dd
-16cc
-8a
-8g}
+**kern	**text	**text
+*clefG2	*	*
+*k[]	*	*
+*C:	*	*
+*M3/8	*	*
+=1	=1	=1
+{16b	Pa-	Pa-
+16cc	-ro-	-ro-
+8ee	-be-	-be-
+8ff	-cku,	-cku
+=2	=2	=2
+16dd	gru-	wstał
+16cc	-ba	byś
+8a	sie-	do
+8g	-cka.	dnia,
+=3	=3	=3
+16b	Go-	po-
+16cc	-spo-	-rznął
+8ee	-da-	sie-
+8ff	-rzu	-cki
+=4	=4	=4
+16dd	zła	sno-
+16cc	skrzy-	-pki
+8a	-ne-	ze
+8g}	-cka.	dwa.
 !!LO:LB:g=esac
-=5
-{16b
-16cc
-8ee
-8ff
-=6
-16dd
-16cc
-8ee
-8ff
-=7
-16dd
-16cc
-16ee
-16cc
-16ee
-16ff
-=8
-16dd
-16cc
-8a
-8g}
+=5	=5	=5
+{16b	Pa-	Go-
+16cc	-ro-	-spo-
+8ee	-be-	-da-
+8ff	-cku	-rzu
+=6	=6	=6
+16dd	dro-	wstał
+16cc	-bnij	byś
+8ee	i-	i
+8ff	-no	ty,
+=7	=7	=7
+16dd	Go-	nie
+16cc	-spo-	chce
+16eeL	-da-	ci
+16ccJ	.	.
+16eeL	-rzu	się
+16ffJ	.	.
+=8	=8	=8
+16dd	po-	od
+16cc	-praw	ko-
+8a	i-	-bi-
+8g}	-no.	-ty.
 !!LO:LB:g=esac
-=9
-{16b
-16cc
-16ee
-16cc
-16ee
-16ff
-=10
-16dd
-16ff
-16ee
-16cc
-16ee
-16ff
-=11
-16dd
-16ff
-16ee
-16cc
-16ee
-16ff
-=12
-16dd
-16cc
-8a
-8g}
+=9	=9	=9
+{16bL	.	.
+16cc	.	.
+16ee	.	.
+16cc	.	.
+16ee	.	.
+16ffJ	.	.
+=10	=10	=10
+16ddL	.	.
+16ff	.	.
+16ee	.	.
+16cc	.	.
+16ee	.	.
+16ffJ	.	.
+=11	=11	=11
+16ddL	.	.
+16ff	.	.
+16ee	.	.
+16cc	.	.
+16ee	.	.
+16ffJ	.	.
+=12	=12	=12
+16ddL	.	.
+16ccJ	.	.
+8aL	.	.
+8g}J	.	.
 !!LO:LB:g=esac
-=13
-{16cc
-16ee
-8ff
-8aa
-=14
-16gg
-16ee
-8ff
-8dd
-=15
-16cc
-16ee
-8ff
-8aa
-=16
-16gg
-16ee
-8ff
-8dd}
+=13	=13	=13
+{16cLc	.	.
+16ee	.	.
+8ff	.	.
+8aaJ	.	.
+=14	=14	=14
+16ggL	.	.
+16ee	.	.
+8ff	.	.
+8ddJ	.	.
+=15	=15	=15
+16ccL	.	.
+16ee	.	.
+8ff	.	.
+8aaJ	.	.
+=16	=16	=16
+16ggL	.	.
+16ee	.	.
+8ff	.	.
+8dd}J	.	.
 !!LO:LB:g=esac
-=17
-{16.ee
-32ee
-8ff
-16dd
-16b
-=18
-16g
-16b
-8cc
-8dd
-=19
-16.ee
-32ee
-8ff
-16dd
-16b
-=20
-16g
-16b
-8cc
-8dd}
+=17	=17	=17
+{16.eLe	.	.
+32eeJ	.	.
+8ffL	.	.
+16dd	.	.
+16bJ	.	.
+=18	=18	=18
+16gL	.	.
+16b/J	.	.
+8ccL	.	.
+8ddJ	.	.
+=19	=19	=19
+16.eLe	.	.
+32eeJ	.	.
+8ffL	.	.
+16dd	.	.
+16bJ	.	.
+=20	=20	=20
+16gL	.	.
+16b/J	.	.
+8ccL	.	.
+8dd}J	.	.
 !!LO:LB:g=esac
-=21
-{8ee
-8dd
-8cc
-=22
-16ee
-16ff
-16gg
-16aa
-16gg
-16ff
-=23
-8ee
-8dd
-8cc
-=24
-16gg
-16ff
-8dd
-8cc}
+=21	=21	=21
+{8eeL	.	.
+8dd	.	.
+8ccJ	.	.
+=22	=22	=22
+16eeL	.	.
+16ff	.	.
+16gg	.	.
+16aa	.	.
+16gg	.	.
+16ffJ	.	.
+=23	=23	=23
+8eeL	.	.
+8dd	.	.
+8ccJ	.	.
+=24	=24	=24
+16ggL	.	.
+16ffJ	.	.
+8ddL	.	.
+8cc}J	.	.
 !!LO:LB:g=esac
-=25
-{8cc
-8a
-8g
-=26
-16cc
-16ee
-16dd
-16cc
-16a
-16g
-=27
-8ee
-8dd
-8cc
-=28
-16dd
-16ff
-8dd
-8cc}
-==
-*-
+=25	=25	=25
+{8ccL	.	.
+8a\	.	.
+8g\J	.	.
+=26	=26	=26
+16ccL	.	.
+16ee	.	.
+16dd	.	.
+16cc	.	.
+16a\	.	.
+16g\J	.	.
+=27	=27	=27
+8eeL	.	.
+8dd	.	.
+8ccJ	.	.
+=28	=28	=28
+16ddL	.	.
+16ff	.	.
+8dd	.	.
+8cc}J	.	.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. Parobecku, gruba siecka.
+!!Gospodarzu zła skrzynecka.
+!!Parobecku drobnij ino
+!!Gospodarzu popraw ino.
+!!@VERSE:
+!!2. Parobecku wstał byś do dnia,
+!!porznał siecki snopki ze dwa.
+!!Gospodarzu wstał byś i ty,
+!!nie chce ci się od kobity.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!role-listener: Worker
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=219 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 208} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 208}
 !!!page: 208
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-14

@@ -3,52 +3,61 @@
 !!!source: DWOK02
 !!!id: K0315
 !!!signature:
-**kern
-*clefG2
-*k[b-e-]
-*g:
-=1
-*M3/8
-{16g
-16b-
-8dd
-8cc
-=2
-*M2/8
-8g
-8b-
-=3
-*M3/8
-16a
-16g
-8b-
-8dd
-=4
-8cc
-4g}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*g:	*
+=1	=1
+*M3/8	*
+{16g	Hej
+16b-	Ma-
+8dd	-ry-
+8cc	-sia
+=2	=2
+*M2/8	*
+8g	mo-
+8b-	-ja
+=3	=3
+*M3/8	*
+16a	i
+16g	Ma-
+8b-	-ry-
+8dd	-sia
+=4	=4
+8cc	two-
+4g};	-ja
 !!LO:LB:g=esac
-=5
-{16g
-16b-
-8dd
-8cc
-=6
-*M2/8
-8g
-8cc
-=7
-*M3/8
-16a
-16g
-8b-
-8b-
-=8
-8a
-4g}
-==
-*-
+=5	=5
+{16g	i
+16b-	Ma-
+8dd	-ry-
+8cc	-sia
+=6	=6
+*M2/8	*
+8g	na-
+8cc	-sa
+=7	=7
+*M3/8	*
+16a	toć
+16g	bę-
+8b-	-dzie
+8b-	i
+=8	=8
+8a	wa-
+4g};	-sa.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Hej Marysia moja
+!!i Marysia twoja
+!!i Marysia nasa
+!!toć będzie i wasa.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=241 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 230} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 230}
 !!!page: 230
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-18

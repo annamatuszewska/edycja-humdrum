@@ -3,69 +3,76 @@
 !!!source: DWOK02
 !!!id: K0265
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16.cc
-32g
-16cc
-16ee
-16gg
-16ee
-=2
-16ff
-16aa
-16ff
-16ee
-16ff
-16aa
-=3
-16.gg
-32ee
-16cc
-16ee
-16gg
-16ee
-=4
-16ff
-16aa
-8ff
-16ee}
-16r
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16.cc;	Za-
+32g	-graj
+16ccL	ze
+16eeJ	.
+16ggL	mi
+16eeJ	.
+=2	=2
+16ff	ma-
+16aa	-zu-
+16ffL	-re-
+16eeJ	.
+16ffL	-cka
+16aaJ	.
+=3	=3
+16.gg;	i-
+32ee	-no
+16ccL	na-
+16eeJ	.
+16ggL	-bo-
+16eeJ	.
+=4	=4
+16ff	-żnie,
+16aa	na-
+8ffM	-bo-
+16ee}	-żnie,
+16r	.
 !!LO:LB:g=esac
-=5
-{16.cc
-32b
-16cc
-16dd
-16ee
-16cc
-=6
-16b
-16dd
-16ff
-16ee
-16ff
-16r
-=7
-16.cc
-32b
-16cc
-16dd
-16ee
-16cc
-=8
-16b
-16dd
-8cc
-8g}
-==
-*-
+=5	=5
+{16.;cc	dam
+32b	ci
+16ccL	ma-
+16ddJ	.
+16eeL	-ku
+16ccJ	.
+=6	=6
+16b	na
+16dd	prze-
+16ffL	-ta-
+16eeJ	.
+16ff	-ku,
+16r	.
+=7	=7
+16.cc;	pi-
+32b	-wa
+16ccL	na
+16ddJ	.
+16eeL	ro-
+16ccJ	.
+=8	=8
+16b	-żnie
+16dd	na
+8cc	ro-
+8g}	-żnie.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Zagraj ze mi mazurecka ino nabożnie, nabożnie,
+!!dam ci maku na przetaku, piwa na rożnie na rożnie.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=220 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 209} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 209}
 !!!page: 209
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-14

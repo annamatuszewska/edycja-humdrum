@@ -3,86 +3,59 @@
 !!!source: DWOK02
 !!!id: K0270
 !!!signature:
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M3/8
-=1
-{4dd
-16cc#
-16cc#
-=2
-16dd
-16b
-8.a
-16f#
-=3
-16g
-16a
-8cc#
-8dd
-=4
-8b
-4a}
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M3/8	*
+=1	=1
+{4dd	Oj
+16cc#	Tudruś
+16cc#	.
+=2	=2
+16dd	mo-
+16b	-ja
+8.a	Tudruś!
+16f#	.
+=3	=3
+16g	kajś
+16a	Tu-
+8cc#	-dru-
+8dd	-się
+=4	=4
+8b	po-
+4a}	-dział?
 !!LO:LB:g=esac
-=5
-{16g
-16a
-8cc#
-8dd
-=6
-8b
-8.a
-16f#
-=7
-16g
-16a
-8cc#
-8b
-=8
-8b
-4a}
-!!LO:LB:g=esac
-=9
-{4dd
-16cc#
-16ee
-=10
-16dd
-16b
-8.a
-16f#
-=11
-16g
-16a
-8cc#
-8dd
-=12
-8b
-4a}
-!!LO:LB:g=esac
-=13
-{16g
-16a
-8cc#
-8dd
-=14
-8b
-8.a
-16f#
-=15
-16g
-16a
-8cc#
-8b
-=16
-8b
-4a}
-==
-*-
+=5	=5
+{16g	Da
+16a	wsadziłem
+8cc#	.
+8dd	.
+=6	=6
+8b	ją
+8.a	za-
+16f#	-piec,
+=7	=7
+16g	bu-
+16a	-ta-
+8cc#	-mi'm
+8b	ją
+=8	=8
+8b	o-
+4a}	-dział.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oj Tudruś moja Tudruś!
+!!kajś Tudrusię podział?
+!!Da wsadziłem ją zapiec,
+!!butami'm ją odział.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=222 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 211} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 211}
 !!!page: 211
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-14

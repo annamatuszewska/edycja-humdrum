@@ -3,121 +3,139 @@
 !!!source: DWOK02
 !!!id: K0280
 !!!signature:
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/8
-=1
-{8cc#
-4ee
-=2
-4ee
-8b
-=3
-16dd
-16cc#
-4a
-=4
-8ee
-8ee
-8b}
+**kern	**text	**text
+*clefG2	*	*
+*k[f#c#g#]	*	*
+*A:	*	*
+*M3/8	*	*
+=1	=1	=1
+{8cc#	1._A	2._A
+4ee	nie	od
+=2	=2	=2
+4ee	bę-	gra-
+8bM	.	.
+=3	=3	=3
+16dLd	-de	-nic
+16ccJ#	.	.
+4a	sie	.
+=4	=4	=4
+8ee	tur-	do
+8ee	-bo-	gra-
+8b}	-wał,	-nic,
 !!LO:LB:g=esac
-=5
-{16dd
-16cc#
-4ee
-=6
-16ff#
-16dd
-8cc#
-16ee
-16b
-=7
-16dd
-16cc#
-4ee
-=8
-16ff#
-16dd
-8cc#
-16b
-16a}
+=5	=5	=5
+{16ddL	bom	sko-
+16cc#J	.	.
+4ee	juz	-ro
+=6	=6	=6
+16ff#L	za-	zbie-
+16ddJ	.	.
+8cc#	-siał	-rać
+16eeL	i	to
+16bJ	.	.
+=7	=7	=7
+16ddL	za-	ni-
+16cc#J	.	.
+8cc#q	.	.
+4ee/	-o-	-ma
+=8	=8	=8
+16ff#	-rał	nic,
+16dd	za	ni-
+8cc#	o-	-ma
+16bL	-rał	nic.
+16a}\J	.	.
 !!LO:LB:g=esac
-=9
-{16cc#
-16dd
-8ee
-8gg#
-=10
-16aa
-16ff#
-8aa
-16gg#
-16ee
-=11
-16cc#
-16dd
-8ee
-8gg#
-=12
-16aa
-16ff#
-8aa
-16gg#
-16ee}
+=9	=9	=9
+{16cc#L	.	.
+16ddJ	.	.
+8eeL	.	.
+8gg#J	.	.
+=10	=10	=10
+16aaL	.	.
+16ff#J	.	.
+8aaL	.	.
+16gg#	.	.
+16eeJ	.	.
+=11	=11	=11
+16cc#L	.	.
+16ddJ	.	.
+8eeL	.	.
+8gg#J	.	.
+=12	=12	=12
+16aaL	.	.
+16ff#J	.	.
+8aaL	.	.
+16gg#	.	.
+16eeJ}	.	.
 !!LO:LB:g=esac
-=13
-{8aa
-16gg#
-16ee
-16cc#
-16a
-=14
-16dd
-16ff#
-16aa
-16gg#
-8ee
-=15
-8aa
-16gg#
-16ee
-16cc#
-16a
-=16
-16dd
-16ff#
-8dd
-8ee}
+=13	=13	=13
+{8aaL	.	.
+16gg#	.	.
+16eeJ	.	.
+16cc#L	.	.
+16a\J	.	.
+=14	=14	=14
+16ddL	.	.
+16ff#	.	.
+16aa	.	.
+16gg#	.	.
+8eeJ	.	.
+=15	=15	=15
+8aaL	.	.
+16gg#	.	.
+16eeJ	.	.
+16cc#L	.	.
+16a\J	.	.
+=16	=16	=16
+16ddL	.	.
+16ff#	.	.
+8dd	.	.
+8ee}J	.	.
 !!LO:LB:g=esac
-=17
-{8aa
-16gg#
-16ee
-16cc#
-16a
-=18
-16dd
-16ff#
-16aa
-16gg#
-8ee
-=19
-8aa
-16gg#
-16ee
-16cc#
-16a
-=20
-16dd
-16ff#
-8dd
-8ee}
-==
-*-
+=17	=17	=17
+{8aaL	.	.
+16gg#	.	.
+16eeJ	.	.
+16cc#L	.	.
+16a\J	.	.
+=18	=18	=18
+16ddL	.	.
+16ff#	.	.
+16aa	.	.
+16gg#	.	.
+8eeJ	.	.
+=19	=19	=19
+8aaL	.	.
+16gg#	.	.
+16eeJ	.	.
+16ccL#	.	.
+16a\J	.	.
+=20	=20	=20
+16ddL	.	.
+16ff#	.	.
+8dd	.	.
+8ee}J	.	.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. A nie będe sie turbował,
+!!bom juz zasiał i zaorał za orał
+!!@VERSE:
+!!2. A od granic do granic,
+!!skoro zbierać to nima nic, nima nic.
+!!@VERSE:
+!!3. A na górze wywiało
+!!Oj bo się to źle zasiało,
+!!@VERSE:
+!!4. A na dole wymokło
+!!Oj bo się to źle zawlokło.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=226 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 215} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 215}
 !!!page: 215
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-15

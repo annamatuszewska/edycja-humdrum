@@ -3,97 +3,122 @@
 !!!source: DWOK02
 !!!id: K0293
 !!!signature:
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M3/8
-=1
-{8a
-8cc
-8b-
-=2
-16dd
-16ff
-8gg
-16ee-
-16cc
-=3
-8a
-8cc
-8b-
-=4
-16dd
-16b-
-8g
-8f}
+**kern	**text	**text
+*clefG2	*	*
+*k[b-e-]	*	*
+*B-:	*	*
+*M3/8	*	*
+=1	=1	=1
+{8a	1. Oj	2. Oj
+8cc	nie	nie
+8b-	mój	mój
+=2	=2	=2
+16dd	ko-	ko-
+16ff	-nik,	-nik,
+8gg	nie	nie
+16ee-L	mój,	mój,
+16ccJ	.	.
+=3	=3	=3
+8a	da	da
+8cc	nie	tyl-
+8b-	ja	-ko
+=4	=4	=4
+16dd	go	po-
+16b-	ku-	-ży-
+8g	-po-	-ca-
+8f}	-wał,	-ny,
 !!LO:LB:g=esac
-=5
-{8a
-8cc
-8b-
-=6
-16dd
-16dd
-8ee-
-16cc
-16a
-=7
-8f
-8cc
-8b-
-=8
-16dd
-16b-
-8g
-8f}
+=5	=5	=5
+{8a	Oj	oj
+8cc	tyl-	daj
+8b-	-ko	ze
+=6	=6	=6
+16dd	bra-	mu
+16dd	-ta	dzie-
+8ee-	me-	-wcy-
+16ccL	-go,	-no
+16a\J	.	.
+=7	=7	=7
+8f	da	da
+8cc	co	o-
+8b-	mi	-brok
+=8	=8	=8
+16dd	go	pod-
+16b-	po-	-sie-
+8g	-zy-	-wa-
+8f}	-cył	-ny,
 !!LO:LB:g=esac
-=9
-{8b-
-16b-
-16a
-8cc
-=10
-16ee-
-16ff#
-8aa
-16gg
-16ee-
-=11
-8dd
-16b-
-16a
-8cc
-=12
-16ee-
-16cc
-8b-
-8g}
+=9	=9	=9
+{8b-L	.	.
+16b-LL	.	.
+16a\JJ	.	.
+8ccJ	.	.
+=10	=10	=10
+16eeL-	.	.
+16ff#J	.	.
+8aaL	.	.
+16gg	.	.
+16eeJ-	.	.
+=11	=11	=11
+8ddL	.	.
+16b-LL	.	.
+16a\JJ	.	.
+8ccJ	.	.
+=12	=12	=12
+16eeL-	.	.
+16ccJ	.	.
+8b-L	.	.
+8g}\J	.	.
 !!LO:LB:g=esac
-=13
-{8b-
-16b-
-16a
-8cc
-=14
-16ee-
-16ee-
-8ff
-8dd
-=15
-8b-
-16b-
-16a
-8cc
-=16
-16ee-
-16cc
-8dd
-8g}
-==
-*-
+=13	=13	=13
+{8b-L	.	.
+16b-LL	.	.
+16a\JJ	.	.
+8ccJ	.	.
+=14	=14	=14
+16eeL-	.	.
+16ee-J	.	.
+8ffL	.	.
+8ddJ	.	.
+=15	=15	=15
+8b-L	.	.
+16b-LL	.	.
+16a\JJ	.	.
+8ccJ	.	.
+=16	=16	=16
+16eeL-	.	.
+16ccJ	.	.
+8ddL	.	.
+8g}\J	.	.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj nie mój konik, nie mój,
+!!da nie ja go kupował,
+!!Oj tylko brata mego,
+!!da co mi go pozycył
+!!@VERSE:
+!!2. Oj nie mój konik, nie mój,
+!!da tylko pożycany,
+!!oj daj ze mu dziewcyno
+!!da obrok podsiewany.
+!!@VERSE:
+!!3. Oj bije mnie matula,
+!!da tatulowi kaze;
+!!a zebym nie chodziła
+!!da z Jasienieckiem w parze.
+!!@VERSE:
+!!4. Oj biją-ci mnie, biją
+!!da zieloną wierzbiną
+!!oj nie dadzą pogadać
+!!da z ubogą dziewczyną.
+!!@@END: VERSES
+!!!role-singer: Many characters
+!!!singer-sex: Male, Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=231 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 220} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 220}
 !!!page: 220
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-15

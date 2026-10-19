@@ -3,56 +3,113 @@
 !!!source: DWOK02
 !!!id: K0292
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16f
-16a
-8b-
-8g
-=2
-16b-
-16dd
-8cc#
-8dd
-=3
-16f
-16a
-8b-
-8g
-=4
-16b-
-16a
-8a
-8g}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16f	Cy
+16a	ja
+8b-	nie
+8g	ła-
+=2	=2
+16b-	-dny
+16dd	dziewcy-
+8cc#	.
+8dd	-no,
+=3	=3
+16f	cy
+16a	ja
+8b-	nie
+8g	ła-
+=4	=4
+16b-/	-dny,
+16a	nie
+8a	ła-
+8g}	-dny?
 !!LO:LB:g=esac
-=5
-{16f
-16a
-8b-
-8g
-=6
-16b-
-16a
-8f
-8g
-=7
-16f
-16a
-8b-
-8g
-=8
-16cc
-16a
-8a
-8g}
-==
-*-
+=5	=5
+{16f	Ka-
+16a	-ftan
+8b-	bu-
+8g	-ry,
+=6	=6
+16b-	w_ca-
+16a	-pce
+8f	dziu-
+8g	-ry,
+=7	=7
+16f	wsy
+16a	łeb
+8b-	ob-
+8g	-ja-
+=8	=8
+16cc	-dły,
+16a	ob-
+8a	-ja-
+8g}	-dły.
+=9	=9
+{16f	Cy
+16a	ja
+8b-	nie
+8g	ła-
+=10	=10
+16b-	-dna
+16dd	chło-
+8cc#	-pcy-
+8dd	-no,
+=11	=11
+16f	cy
+16a	ja
+8b-	nie
+8g	ła-
+=12	=12
+16b-/	-dna,
+16a	nie
+8a	ła-
+8g}	-dna?
+!!LO:LB:g=esac
+=13	=13
+{16f	Wia-
+16a	-nek
+8b-	z_o-
+8g	-stu,
+=14	=14
+16b-	du-
+16a	-zo
+8f	wzrostu,
+8g	.
+=15	=15
+16f	spó-
+16a	-dni-
+8b-	-ca
+8g	ca-
+=16	=16
+16cc	-ła
+16a	z_gał-
+8a	-ga-
+8g}	-na.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Cy ja nie ładny dziewcyno,
+!!cy ja nie ładny, nie ładny?
+!!Kaftan bury, w capce dziury,
+!!wsy łeb objadły, objadły.
+!!@VERSE:
+!!2. Cy ja nie ładna chłopcyno,
+!!cy ja nie ładna, nie ładna?
+!!Wianek z ostu, duzo wzrostu,
+!!spódnica cała z gałgana.
+!!@@END: VERSES
+!!!role-singer: Lover, Mistress
+!!!role-listener: Mistress, Lover
+!!!singer-sex: Male, Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=231 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 220} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 220}
 !!!page: 220
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-15

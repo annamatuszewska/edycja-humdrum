@@ -3,146 +3,166 @@
 !!!source: DWOK02
 !!!id: K0275
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8dd
-8dd
-8ee
-=2
-16a
-16cc#
-8dd
-16b
-16g
-=3
-8dd
-8dd
-8ee
-=4
-16a
-16a
-8cc
-16b
-16g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8dd	Oj
+8dd	pi-
+8ee	-ła
+=2	=2
+16a\	by
+16cc#	ja
+8dd	pi-
+16b/L	-ła,
+16gJ	.
+=3	=3
+8eeq	.
+8dd	da
+8ccq	.
+8dd	ze-
+8ee	-by
+=4	=4
+16a\	go-
+16a\	-rza-
+8ccn	-łec-
+16b/L	-kę,
+16g}J	.
 !!LO:LB:g=esac
-=5
-{8a
-16f#
-16d
-8g
-=6
-16a
-16cc#
-8dd
-8b
-=7
-8a
-16f#
-16d
-8g
-=8
-16a
-16cc#
-8dd
-16b
-16g}
+=5	=5
+{8a	oj
+16f#L	daj-
+16dJ	.
+8g	-ze
+=6	=6
+16a\	mi
+16cc#	Ja-
+8dd	-sie-
+8b/	-niu
+=7	=7
+8aM\	da
+16f#L	choć
+16dJ	.
+8g	na
+=8	=8
+16a\	kwa-
+16cc#	-te-
+8dd	-rec-
+16b/L	-kę.
+16g}J	.
 !!LO:LB:g=esac
-=9
-{8a
-16f#
-16d
-8g
-=10
-8f#
-8g
-16e
-16c#
-=11
-16d
-16f#
-8g
-16e
-16g#
-=12
-8a
-16f#
-16d
-16e
-16c#}
+=9	=9
+{8aL	.
+16f#	.
+16d	.
+8gJ	.
+=10	=10
+8f#\L	.
+8g\J	.
+16eL	.
+16c#J	.
+=11	=11
+16dL	.
+16f#J	.
+8gL	.
+16e	.
+16gJ#	.
+=12	=12
+8aL	.
+16f#	.
+16d	.
+16e	.
+16cJ#}	.
 !!LO:LB:g=esac
-=13
-{16d
-16f#
-8g
-16e
-16c#
-=14
-16d
-16f#
-8g
-8e
-=15
-8g
-8g
-16d
-16f#
-=16
-8a
-16f#
-16d
-16d
-16c#}
+=13	=13
+{16dL	.
+16f#J	.
+8gL	.
+16e	.
+16cJ#	.
+=14	=14
+16dL	.
+16f#J	.
+8gL	.
+8eJ	.
+=15	=15
+8gL	.
+8g	.
+16d	.
+16f#XJ	.
+=16	=16
+8aL	.
+16f#	.
+16d	.
+16d	.
+16cJ#}	.
 !!LO:LB:g=esac
-=17
-{8dd
-8dd
-8ee
-=18
-16a
-16cc#
-8dd
-16b
-16g
-=19
-8dd
-8dd
-8ee
-=20
-16a
-16a
-8cc
-16b
-16g}
+=17	=17
+{8dd	A
+8dd	wi-
+8ee	-dzis
+=18	=18
+16a\	ci
+16cc#	Ka-
+8dd	-sie-
+16b/L	-niu,
+16gJ	.
+=19	=19
+8eeq	.
+8dd	da
+8ddq	.
+8dd	zeć
+8ee	to
+=20	=20
+16a\	pu-
+16a\	-sty
+8ccn	wo-
+16b/L	-rek,
+16g}J	.
 !!LO:LB:g=esac
-=21
-{8a
-16f#
-16d
-8g
-=22
-16a
-16cc#
-8dd
-8b
-=23
-8a
-16f#
-16d
-8g
-=24
-16a
-16cc#
-8dd
-16b
-16g}
-==
-*-
+=21	=21
+{8a	oj
+16f#L	daj-
+16dJ	.
+8g	-ze
+=22	=22
+16a\	mi
+16cc#	Ka-
+8dd	-sie-
+8b/	-niu
+=23	=23
+8a\M	da
+16f#L	choć
+16dJ	.
+8g	na
+=24	=24
+16a\	pół-
+16cc#	-kwa-
+8dd	-te-
+16b/L	-rek.
+16g}J	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj piła by ja piła,
+!!da zeby gorzałeckę,
+!!oj dajze mi Jasieniu
+!!da choć na kwatereckę.
+!!@VERSE:
+!!2. A widzis ci Kasieniu,
+!!da zeć to pusty worek,
+!!oj dajze mi Kasieniu
+!!da choć na półkwaterek.
+!!@@END: VERSES
+!!!role-singer: Woman, Man
+!!!role-listener: Man, Woman
+!!!singer-sex: Female, Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=224 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 213} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 213}
 !!!page: 213
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-14

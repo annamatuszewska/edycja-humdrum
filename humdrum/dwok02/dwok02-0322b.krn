@@ -3,105 +3,110 @@
 !!!source: DWOK02
 !!!id: K0322b
 !!!signature:
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M3/8
-=1
-{16a
-16cc
-8ee
-8gg
-=2
-8gg
-8ff
-16dd
-16b-
-=3
-16dd
-16ff
-8ee-
-16cc
-16b-
-=4
-16dd
-16ff
-16ee
-16ff
-16dd
-16b-}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M3/8	*
+=1	=1
+{16a\L	.
+16ccJ	.
+8eeL	.
+8ggJ	.
+=2	=2
+8ggL	.
+8ffJ	.
+16ddL	.
+16b-J	.
+=3	=3
+16ddL	.
+16ffJ	.
+8ee-XL	.
+16cc	.
+16b-J	.
+=4	=4
+16ddL	.
+16ff	.
+16ee	.
+16ff	.
+16dd	.
+16b-}J	.
 !!LO:LB:g=esac
-=5
-{16a
-16cc
-8ee
-8gg
-=6
-8gg
-8ff
-16dd
-16b-
-=7
-16dd
-16ff
-8ee-
-16cc
-16b-
-=8
-8a
-8b-
-8f}
+=5	=5
+{16a\L	.
+16ccJ	.
+8eeL	.
+8ggJ	.
+=6	=6
+8ggL	.
+8ff	.
+16dd	.
+16b-J	.
+=7	=7
+16ddL	.
+16ffJ	.
+8ee-XL	.
+16cc	.
+16b-J	.
+=8	=8
+8aL	.
+8b-/	.
+8f}J	.
 !!LO:LB:g=esac
-=9
-{16a
-16cc
-8ee-
-8ee-
-=10
-8dd
-16dd
-16cc
-8b-
-=11
-16dd
-16ff
-8ee-
-16cc
-16b-
-=12
-16dd
-16ff
-16ee
-16ff
-16dd
-16b-}
+=9	=9
+{16a\L	.
+16ccJ	.
+8ee-L	.
+8ffq	.
+8ee-J	.
+=10	=10
+8ddL	.
+16dd	.
+16cc	.
+8b-J	.
+=11	=11
+16ddL	.
+16ffJ	.
+8ee-L	.
+16cc	.
+16b-J	.
+=12	=12
+16ddL	.
+16ff	.
+16ee	.
+16ff	.
+16dd	.
+16b-}J	.
 !!LO:LB:g=esac
-=13
-{16a
-16cc
-8ee-
-16ee-
-16cc
-=14
-8a
-8b-
-8dd
-=15
-16dd
-16ff
-8ee-
-16cc
-16b-
-=16
-8a
-8b-
-8f}
-==
-*-
+=13	=13
+{16a\L	.
+16ccJ	.
+8ee-L	.
+8ffq	.
+16ee-	.
+16ccJ	.
+=14	=14
+8a\L	.
+8b-	.
+8ddJ	.
+=15	=15
+16ddL	.
+16ffJ	.
+8ee-L	.
+16cc	.
+16b-J	.
+=16	=16
+8a	.
+8b-/	.
+8f}J	.
+==	==
+*-	*-
+!!!role-singer: Narrator
 !!!ONB: Czesc instrumentalna
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=244 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 233} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 233}
 !!!page: 233
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-19

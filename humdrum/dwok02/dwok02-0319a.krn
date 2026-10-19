@@ -3,53 +3,71 @@
 !!!source: DWOK02
 !!!id: K0319a
 !!!signature:
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{8b
-8dd#
-8ee
-=2
-16cc
-16b
-8a
-8r
-=3
-8b
-8dd#
-8ff#
-=4
-16ee
-16dd#
-8ee
-8cc}
+**kern	**text	**text
+*clefG2	*	*
+*k[]	*	*
+*A:	*	*
+*M3/8	*	*
+=1	=1	=1
+{8b	Jak'em	Jak'em
+8dd#	.	.
+8ee	sie	sie
+=2	=2	=2
+16cc	za-	za-
+16b	-li-	-li-
+8a	-cał,	-cał,
+8r	.	.
+=3	=3	=3
+8b	da	da
+8dd#	sa-	bu-
+8ff#	-deł-	-ty
+=4	=4	=4
+16ee	-ko	wy-
+16dd#	wi-	-sy-
+8ee	-sia-	-wa-
+8cc}	-ło,	-ne,
 !!LO:LB:g=esac
-=5
-{8b
-8dd#
-8ee
-=6
-16cc
-16b
-8a
-8r
-=7
-8dd#
-8ee
-8a
-=8
-16cc
-16b
-8g#
-8a}
-==
-*-
+=5	=5	=5
+{8b	jak'em	sko-
+8dd#	.	-ro'm
+8ee	sie	sie
+=6	=6	=6
+16cc	o-	o-
+16b	-ze-	-ze-
+8a	-nił	-nił,
+8r	.	.
+=7	=7	=7
+*	*	*^
+8dd#	da	da	.
+8ee	gdzie	kur-	(łapcie)
+8a	ście	-pie-	.
+*	*v	*v	*
+=8	=8	=8
+16cc	sie	-le
+16b	po-	ła-
+8g#	-dzia-	-ta-
+8a}	-ło.	-ne.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. Jak'em sie zalicał,
+!!da sadełko wisiało,
+!!jak'em sie ozenił
+!!da gdzie ście sie podziało.
+!!@VERSE:
+!!2. Jak'em sie zalicał,
+!!da buty wysywane,
+!!skoro'm sie ozenił,
+!!da kurpiele łatane.
+!!@@END: VERSES
 !!!ONB: Czesc wokalna
+!!!role-singer: Narrator
+!!!singer-sex: Male
+!!!RDF**kern: <= below
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=243 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 232} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 232}
 !!!page: 232
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-18

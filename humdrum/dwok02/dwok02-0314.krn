@@ -3,94 +3,105 @@
 !!!source: DWOK02
 !!!id: K0314
 !!!signature:
-**kern
-*clefG2
-*k[b-e-]
-*g:
-*M3/8
-{16d
-=1
-16g
-16a
-8b
-8cc
-=2
-8dd
-4ee
-=3
-16ee
-16dd
-8cc#
-8b-
-=4
-8a
-8g
-8f#}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*g:	*
+*M3/8	*
+{16d	Oj
+=1	=1
+16g	jak
+16a	ci
+8b	ja
+8cc	za-
+=2	=2
+8dd	-przę-
+4ee	-gę
+=3	=3
+16ee	seść
+16dd	wo-
+8cc#	-łów
+8b-	cer-
+=4	=4
+8a	-wo-
+8gL	-nych,
+8f#XJ}	.
 !!LO:LB:g=esac
-=5
-{16g
-16b-
-8dd
-8cc
-=6
-8a
-8g
-8b-
-=7
-16a
-16cc
-8g
-8b-
-=8
-8a
-8g
-16f#}
+=5	=5
+{16g	nie
+16b-	po-
+8dd	-trze-
+8cc	-bu-
+=6	=6
+8a	-ję
+8gL	ja
+8b-J/	.
+=7	=7
+16a\	po-
+16cc	-ga-
+8g	-nia-
+8b-	-ca
+=8	=8
+8a	do
+8gL	nich.
+16f#J}	.
 !!LO:LB:g=esac
-=-
-{16d
-=9
-16g
-16a
-8b
-8cc
-=
-8dd
-12ee
-12b
-12dd
-=10
-16ee
-16dd
-8cc#
-8b-
-=11
-8a
-8g
-8f#}
+=9	=9
+{16d	Oj
+=10	=10
+16g	je-
+16a	-scem
+8b	nie
+8cc	wi-
+=11	=11
+8dd	-dzia-
+12ee/L	-ła
+12b/	.
+12dd/J	.
+=12	=12
+16ee	ta-
+16dd	-kie-
+8cc#	-go
+8b-	o-
+=13	=13
+8a	-ra-
+8gL	-ca,
+8f#XJ}	.
 !!LO:LB:g=esac
-=12
-{16g
-16b-
-8dd
-8cc
-=13
-8a
-8g
-16b-
-16a
-=14
-16cc
-16cc
-8g
-8b-
-=15
-8a
-8g
-8f#}
-==
-*-
+=14	=14
+{16g	na
+16b-	seść
+8dd	wo-
+8cc	-łów
+=15	=15
+8a	o-
+8g	-rze
+16b-L	.
+16a\J	.
+=16	=16
+16cc/	nie
+16cc	ma
+8g	po-
+8b-	-ga-
+=17	=17
+8a	-nia-
+8gL	-ca.
+16f#J}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj jak ci ja zaprzęgę seść wołów cerwonych,
+!!nie potrzebuję ja poganiaca do nich.
+!!@VERSE:
+!!2. Oj jescem nie widziała takiego oraca,
+!!na seść wołów orze nie ma poganiaca.
+!!@@END: VERSES
+!!!role-singer: Lover, Mistress
+!!!singer-sex: Male, Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=241 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 230} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 230}
 !!!page: 230
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-16

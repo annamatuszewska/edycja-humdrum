@@ -3,56 +3,67 @@
 !!!source: DWOK02
 !!!id: K0310
 !!!signature:
-**kern
-*clefG2
-*k[b-e-]
-*g:
-*M3/8
-=1
-{8dd
-8cc#
-16a
-16cc#
-=2
-8dd
-16b-
-16a
-8g
-=3
-16f#
-16g
-8a
-8a
-=4
-16d
-32e
-32f#
-4g}
+**kern	**text	**text
+*clefG2	*	*
+*k[b-e-]	*	*
+*g:	*	*
+*M3/8	*	*
+=1	=1	=1
+!LO:TX:a:t=Orylska.	!	!
+{8dd	Sie-	By-
+8cc#m	-kie-	-wa-
+16a\L	-re-	-li
+16cc#J	.	.
+=2	=2	=2
+8ddm	-cka	tam
+16b-L	to-	chłop-
+16a\J	.	.
+8g	-nie	-cy
+=3	=3	=3
+16f#	to-	by-
+16g	-po-	-wa-
+8a	-rzy-	-li
+8a	-sko	pa-
+=4	=4	=4
+16dL	pły-	-no-
+32e	.	.
+32f#J	.	.
+4g}	-wa.	-wie.
 !!LO:LB:g=esac
-=5
-{16f#
-16g
-8a
-8cc#
-=6
-16dd
-32b-
-32a
-4g
-=7
-16f#
-16g
-8a
-8f#
-=8
-16g
-32b-
-32a
-4g}
-==
-*-
+=5	=5	=5
+{16f#	po-	te-
+16g	-wiedz	-raz
+8a\	mi	nie
+8cc#	dzie-	pa-
+=6	=6	=6
+16dLd	-wcy-	-sto-
+32b-	.	.
+32a\J	.	.
+4g	-no	-ją
+=7	=7	=7
+16f#	kto	z_tor-
+16g	u	-ba-
+8a	cie-	-mi
+8f#	-bie	dzia-
+=8	=8	=8
+16gL	by-	-do-
+32b-/	.	.
+32aJ	.	.
+4g}	-wa.	-wie.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. Siekierecka tonie toporzysko pływa.
+!!powiedz mi dziewcyno kto u ciebie bywa.
+!!@VERSE:
+!!2. Bywali tam chłopcy bywali panowie.
+!!teraz nie postoją z torbami dziadowie.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=239 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 228} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 228}
 !!!page: 228
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-16

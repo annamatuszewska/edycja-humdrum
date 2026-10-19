@@ -3,134 +3,151 @@
 !!!source: DWOK02
 !!!id: K0294
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{4cc
-16a
-16cc
-=2
-16ee
-16dd
-8b
-8g
-=3
-16d
-16f#
-8a
-16a
-16g
-=4
-8b
-4dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=P. flisacka	!
+{4cc	A
+16a\L	jak
+16ccJ	.
+=2	=2
+16ee	ci
+16dd	ja
+8b	pój-
+8g	-dę
+=3	=3
+16d	do
+16f#	Kra-
+8a	-ko-
+16aL	-wa
+16gJ	.
+=4	=4
+8b	w_gó-
+4dd}	-rę
 !!LO:LB:g=esac
-=5
-{8cc
-8cc
-16cc
-16a
-=6
-16g
-16g
-8b
-16g
-16e
-=7
-16d
-16f#
-8a
-16a
-16g
-=8
-8b
-4g}
+=5	=5
+{8cc	oj
+8cc	poj-
+16ccL	-mę
+16a\J	.
+=6	=6
+16g	ja
+16g	se
+8b	poj-
+16gL	-mę
+16eJ	.
+=7	=7
+16d	Kra-
+16f#	-ko-
+8a	-wian-
+16aL	-kę
+16gJ	.
+=8	=8
+8a#q	.
+8b	któ-
+4g}	-rę.
 !!LO:LB:g=esac
-=9
-{4cc
-16a
-16f#
-=10
-16g
-16b
-8b
-16g
-16e
-=11
-16d
-16f#
-8a
-16a
-16g
-=12
-8b
-4dd}
+=9	=9
+{4cc	A
+16aL	jak
+16f#J	.
+=10	=10
+16g	ci
+16b	po-
+8b	-wró-
+16gL	-cę
+16eJ	.
+=11	=11
+16d	na
+16f#	Ma-
+8a	-zu-
+16aL	-ry
+16gJ	.
+=12	=12
+8b	na
+4dd}	dół,
 !!LO:LB:g=esac
-=13
-{8cc
-8cc
-8cc
-=14
-16ee
-16dd
-8b
-16g
-16e
-=15
-16d
-16f#
-8a
-16a
-16g
-=16
-8b
-4g}
+=13	=13
+{8cc	po-
+8cc	-cią-
+8cc	-gnie-ć
+=14	=14
+16ee	mi
+16dd	ba-
+8b	-bi-
+16gL	-sko
+16eJ	.
+=15	=15
+16d	to
+16f#	płu-
+8a	-zy-
+16aL	-sko
+16gJ	.
+=16	=16
+8a#q	.
+8b	jak
+4g}	wół.
 !!LO:LB:g=esac
-=17
-{8cc
-8ee
-16ee
-16dd
-=18
-16ee
-16ff
-8gg
-8gg
-=19
-8aa
-4ff
-=20
-16b
-16dd
-16cc
-16b
-16a
-16g}
+=17	=17
+*k[]	*
+{8ccL	.
+8ee	.
+8ffq	.
+16ee	.
+16ddJ	.
+=18	=18
+16eeL	.
+16ff	.
+8gg	.
+8ggJ	.
+=19	=19
+8aa	.
+4ff	.
+=20	=20
+16bL	.
+16ddJ	.
+16ccL/	.
+16b/	.
+16a	.
+16g}J	.
 !!LO:LB:g=esac
-=21
-{8cc
-8ee
-16ee
-16dd
-=22
-8cc
-8b
-16ee
-16dd
-=23
-8cc
-8ee
-16ee
-16dd
-=24
-8cc
-4b}
-==
-*-
+=21	=21
+{8ccL	.
+8ee	.
+8ffq	.
+16ee	.
+16ddJ	.
+=22	=22
+8ccLM	.
+8b	.
+16ee	.
+16ddJ	.
+=23	=23
+8ccL	.
+8ee	.
+8ffq	.
+16ee	.
+16ddJ	.
+=24	=24
+8cc	.
+4b}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A jak ci ja pójdę do Krakowa w górę
+!!oj pojmę ja se pojmę Krakowiankę którę.
+!!A jak ci powrócę na Mazury na dół, 
+!!pociągnieć mi babisko to płuzysko jak wół.
+!!@@END: VERSES
+!!!role-singer: Man
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=232 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 221} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 221}
 !!!page: 221
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-15

@@ -3,52 +3,62 @@
 !!!source: DWOK02
 !!!id: K0313
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{4.d
-=2
-16g
-16a
-8b
-8cc
-=3
-8dd
-8dd
-8cc#
-=4
-16dd
-16ee
-8dd
-8cc#
-=5
-8a
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{4.d;	Oj
+=2	=2
+16g	Oj
+16a	da
+8b	roz-
+8cc	-wi-
+=3	=3
+8dd	-jaj
+8dd	ze
+8cc#	się
+=4	=4
+16dd	su-
+16ee	-chy
+8dd	dę-
+8cc#	-bie
+=5	=5
+8a\	w_le-
+4g}	-sie.
 !!LO:LB:g=esac
-=6
-{16f#
-16a
-8cc
-8b
-=7
-8f#
-8f#
-8e
-=8
-16f#
-16a
-8.cc
-16b-
-=9
-8a
-4g}
-==
-*-
+=6	=6
+{16f#	Oj
+16a	da
+!LO:TX:a:t=*	!
+8cc	jak
+8b	się
+=7	=7
+8f#	roz-
+8f#	-wi-
+8e	-jes
+=8	=8
+16f#	ca-
+16a	-ły
+8.cc	las
+16b-	przy-
+=9	=9
+8a	-kry-
+4g}	-jes.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oj Oj da rozwijaj ze się
+!!suchy dębie w lesie.
+!!Oj da jak się rozwijes
+!!cały las przykryjes.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=241 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 230} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 230}
 !!!page: 230
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-16

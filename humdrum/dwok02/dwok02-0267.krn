@@ -3,52 +3,60 @@
 !!!source: DWOK02
 !!!id: K0267
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16a
-16cc
-8ee
-8ee
-=2
-16dd
-16b
-8dd
-8ee
-=3
-16cc
-16a
-8a
-8a
-=4
-8g
-4b}
+**kern	**text	**text
+*clefG2	*	*
+*k[f#]	*	*
+*G:	*	*
+*M3/8	*	*
+=1	=1	=1
+{16a\	Oj	.
+16cc	choćbym	.
+8ee	.	.
+8ee	mia-	.
+=2	=2	=2
+16ddL	-ła	.
+16bJ	.	.
+8dd	zgi-	.
+8ee	-nąć	.
+=3	=3	=3
+16cc	to	.
+16a\	wia-	(to
+8a\	-ne-	ci)
+8a\	-czka	.
+=4	=4	=4
+8g	nie	.
+4b}	dam,	.
 !!LO:LB:g=esac
-=5
-{16b
-16a
-8cc
-8cc
-=6
-8b
-8dd
-8b
-=7
-16b
-16a
-8cc
-16cc
-16a
-=8
-8g
-4b}
-==
-*-
+=5	=5	=5
+{16b	oj-	.
+16a\	-aż	.
+8cc	ci	.
+8cc	mnie	.
+=6	=6	=6
+8b	zwią-	.
+8ddL	-że	.
+8bJ	.	.
+=7	=7	=7
+16bL	ten	.
+16a\J	.	.
+8ccL	Gór-	.
+16cc	-ski	.
+16a\J	.	.
+=8	=8	=8
+8g	ple-	.
+4b}	-ban.	.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!Oj choćbym miała zginąć to wianeczka nie dam,
+!!oj aż ci mnie zwiąże ten Górski pleban.
+!!@@END: VERSES
+!!!role-singer: Single Girl
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=221 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 210} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 210}
 !!!page: 210
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-14

@@ -3,59 +3,119 @@
 !!!source: DWOK02
 !!!id: K0281
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16a
-16b
-8cc
-8ee
-=2
-8gg
-16aa
-16gg
-8dd
-=3
-16ff
-16ff
-8ee
-8cc
-=4
-8dd
-16dd
-16b
-8g}
+**kern	**text	**text
+*clefG2	*	*
+*k[]	*	*
+*C:	*	*
+*M3/8	*	*
+=1	=1	=1
+{16a\	Oj	Oj
+16b	ce-	słoń-
+8cc	-muz	-ce
+8ee	ty	mnie
+=2	=2	=2
+8gg	dzie-	nie
+16aaL	-wcy-	spa-
+16ggJ	.	.
+8dd	-no	-li,
+=3	=3	=3
+16ff	da	da
+16ff	pod	ni
+8ee	ja-	się
+8cc	-wo-	wia-
+=4	=4	=4
+8dd	-rem	-tru
+16ddL	sto-	bo-
+16bJ	.	.
+8g}	-is,	-ję,
+=5	=5	=5
+{16a\	Oj	Oj
+16b	ce-	słoń-
+8cc	-muz	-ce
+8ee	ty	mnie
+=6	=6	=6
+16gg/	dzie-	nie
+16bb/J	.	.
+8aa/L	-wcy-	spa-
+8dd/J	-no	-li
+=7	=7	=7
+16ff	da	da
+16ff	pod	ni
+16gg/L	ja-	się
+16ff/J	.	.
+8cc	-wo-	wia-
+=8	=8	=8
+8dd	-rem	-tru
+16ddL	sto-	bo-
+16bJ	.	.
+8g}	-is,	-ję,
 !!LO:LB:g=esac
-=5
-{16a
-16b
-8cc
-16ee
-16cc
-=6
-8dd
-16dd
-16b
-8g
-=7
-16ee
-16ff
-16gg
-16ff
-16ee
-16cc
-=8
-8dd
-16dd
-16b
-8g}
-==
-*-
+=9	=9	=9
+{16a\	oj	oj
+16b	cy	ta-
+8cc	cię	-ka
+16eeL	słoń-	mo-
+16ccJ	.	.
+=10	=10	=10
+8dd	-ce	-ja
+16ddL	pa-	wo-
+16bJ	.	.
+8g	-li,	-la,
+=11	=11	=11
+16ee	da	da
+16ff	cy	pod
+16ggL	się	ja-
+16ffJ	.	.
+16eeL	wia-	-wo-
+16ccJ	.	.
+=12	=12	=12
+8dd	-tru	-rem
+16ddL	bo-	sto-
+16bJ	.	.
+8g}	-is?	ję.
+=13	=13	=13
+{16a\	oj	oj
+16b	cy	ta-
+8cc	cię	-ka
+16eeL	słoń-	mo-
+16ccJ	.	.
+=14	=14	=14
+8dd	-ce	-ja
+16ddL	pa-	wo-
+16bJ	.	.
+8g	-li,	-la,
+=15	=15	=15
+16ee	da	da
+16ff	cy	pod
+16ggL	się	ja-
+16ffJ	.	.
+16eeL	wia-	-wo-
+16ccJ	.	.
+=16	=16	=16
+8dd	-tru	-rem
+16ddL	bo-	sto-
+16bJ	.	.
+8g}	-is?	-ję.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj cemuz ty dziewcyno
+!!da pod jaworem stois,
+!!oj cy cię słońce pali,
+!!da cy się wiatru bois?
+!!@VERSE:
+!!2. Oj słońce mnie nie spali,
+!!da ni się wiatru boję,
+!!oj taka moja wola,
+!!da pod jaworem stoję.
+!!@@END: VERSES
+!!!role-singer: Boy
+!!!role-listener: Girl
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=227 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 216} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 216}
 !!!page: 216
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-15

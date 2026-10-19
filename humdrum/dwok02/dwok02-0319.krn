@@ -3,117 +3,163 @@
 !!!source: DWOK02
 !!!id: K0319
 !!!signature:
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/8
-=1
-{8b
-8dd#
-8ee
-=2
-16cc
-16b
-8a
-8r
-=3
-8b
-8dd#
-8ff#
-=4
-16ee
-16dd#
-8ee
-8cc}
+**kern	**text	**text
+*clefG2	*	*
+*k[]	*	*
+*A:	*	*
+*M3/8	*	*
+=1	=1	=1
+{8b	Jak'em	Jak'em
+8dd#	.	.
+8ee	sie	sie
+=2	=2	=2
+16cc	za-	za-
+16b	-li-	-li-
+8a	-cał,	-cał,
+8r	.	.
+=3	=3	=3
+8b	da	da
+8dd#	sa-	bu-
+8ff#	-deł-	-ty
+=4	=4	=4
+16ee	-ko	wy-
+16dd#	wi-	-sy-
+8ee	-sia-	-wa-
+8cc}	-ło,	-ne,
 !!LO:LB:g=esac
-=5
-{8b
-8dd#
-8ee
-=6
-16cc
-16b
-8a
-8r
-=7
-8dd#
-8ee
-8a
-=8
-16cc
-16b
-8g#
-8a}
+=5	=5	=5
+{8b	jak'em	sko-
+8dd#	.	-ro'm
+8ee	sie	sie
+=6	=6	=6
+16cc	o-	o-
+16b	-ze-	-ze-
+8a	-nił	-nił,
+8r	.	.
+=7	=7	=7
+*	*	*^
+8dd#	da	da	.
+8ee	gdzie	kur-	(łapcie)
+8a	ście	-pie-	.
+*	*v	*v	*
+=8	=8	=8
+16cc	sie	-le
+16b	po-	ła-
+8g#	-dzia-	-ta-
+8a}	-ło.	-ne.
 !!LO:LB:g=esac
-=9
-{16b
-16dd#
-8ee
-16cc
-16b
-=10
-4.a
-=11
-8b
-8dd#
-16dd#
-16cc#
-=12
-16dd#
-16ff#
-8ee
-8dd#}
+=9	=9	=9
+{16bL	.	.
+16dd#J	.	.
+8ee^<L	.	.
+16cc	.	.
+16bJ	.	.
+=10	=10	=10
+4.a	.	.
+=11	=11	=11
+8bL	.	.
+8dd#	.	.
+8eeq	.	.
+16dd#	.	.
+16cJc#	.	.
+=12	=12	=12
+16ddL#	.	.
+16ff#J	.	.
+8eeL	.	.
+8dd#J}	.	.
 !!LO:LB:g=esac
-=13
-{16b
-16dd#
-8ee
-16cc
-16b
-=14
-4.a
-=15
-8b
-8dd#
-16a
-16b
-=16
-16cc
-16b
-8g#
-8a}
+=13	=13	=13
+{16bL	.	.
+16dd#J	.	.
+8eeL	.	.
+16cc	.	.
+16bJ	.	.
+=14	=14	=14
+4.a	.	.
+=15	=15	=15
+8bL	.	.
+8ddJ#	.	.
+16a\L	.	.
+16bJ	.	.
+=16	=16	=16
+16ccL	.	.
+16bJ	.	.
+8g#L	.	.
+8a}J	.	.
 !!LO:LB:g=esac
-=
-{24b
-24cc#
-24dd
-8a
-16cc#
-16b
-=17
-16cc#
-16dd
-16b
-16a
-8cc#
-=
-24b
-24cc#
-24dd
-8a
-16cc#
-16b
-=18
-16cc#
-16dd
-16b
-16g#
-8a}
-==
-*-
+=17	=17	=17
+*Xtuplet	*	*
+{24bL	.	.
+24cc#	.	.
+24ddnJ	.	.
+8a\L	.	.
+16cc#	.	.
+16bJ	.	.
+=18	=18	=18
+16ccL#	.	.
+16ddJ	.	.
+16bL	.	.
+16a\	.	.
+8cc#J	.	.
+=19	=19	=19
+24bL	.	.
+24cc#	.	.
+24ddJ	.	.
+8a\L	.	.
+16cc#	.	.
+16bJ	.	.
+=20	=20	=20
+16cc#L	.	.
+16ddJ	.	.
+16b/L	.	.
+16g#	.	.
+8aJ}	.	.
+=21	=21	=21
+{24bL	.	.
+24cc#	.	.
+24ddnJ	.	.
+8a\L	.	.
+16cc#	.	.
+16bJ	.	.
+=22	=22	=22
+16ccL#	.	.
+16ddJ	.	.
+16bL	.	.
+16a\	.	.
+8cc#J	.	.
+=23	=23	=23
+24bL	.	.
+24cc#	.	.
+24ddJ	.	.
+8a\L	.	.
+16cc#	.	.
+16bJ	.	.
+=24	=24	=24
+16cc#L	.	.
+16ddJ	.	.
+16b/L	.	.
+16g#	.	.
+8aJ}	.	.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. Jak'em sie zalicał,
+!!da sadełko wisiało,
+!!jak'em sie ozenił
+!!da gdzie ście sie podziało.
+!!@VERSE:
+!!2. Jak'em sie zalicał,
+!!da buty wysywane,
+!!skoro'm sie ozenił,
+!!da kurpiele łatane.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!singer-sex: Male
+!!!RDF**kern: <= below
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=243 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 232} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 232}
 !!!page: 232
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-18

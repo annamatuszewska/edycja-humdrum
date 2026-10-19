@@ -3,145 +3,293 @@
 !!!source: DWOK02
 !!!id: K0322
 !!!signature:
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M3/8
-=1
-{16cc
-16ee
-8ff
-8ff
-=2
-8ee
-8ff
-8ff
-=3
-8ee
-8ff
-8ff
-=4
-8ee
-8ff
-8ff}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M3/8	*
+=1	=1
+{16cc	Da
+16ee	cho-
+8ff	-dzi-
+8ff	-ła
+=2	=2
+8ee	po
+8ff	le-
+8ff	-sie,
+=3	=3
+8ee	po
+8ff	le-
+8ff	-sie
+=4	=4
+8ee	po
+8ff	le-
+8ff}	-sie
 !!LO:LB:g=esac
-=5
-{16ee
-16cc
-8dd
-16dd
-16b-
-=6
-8a
-16a
-16b-
-16dd
-16ff
-=7
-16ee
-16cc
-8dd
-16dd
-16b-
-=8
-8a
-8b-
-8f}
+=5	=5
+{16ee	da
+16cc	wo-
+8dd	-ła-
+16ddL	-ła
+16b-J	.
+=6	=6
+8a	wróć
+16aL	ze
+16b-J/	.
+16ddL	się,
+16ffJ	.
+=7	=7
+16ee	da
+16cc	wo-
+8dd	-ła-
+16ddL	-ła
+16b-J	.
+=8	=8
+8a	wróć
+8b-	ze
+8f}	się.
 !!LO:LB:g=esac
-=9
-{16a
-16cc
-8ee
-8gg
-=10
-8gg
-8ff
-16dd
-16b-
-=11
-16dd
-16ff
-8ee-
-16cc
-16b-
-=12
-16dd
-16ff
-16ee
-16ff
-16dd
-16b-}
+=9	=9
+{16a\L	.
+16ccJ	.
+8eeL	.
+8ggJ	.
+=10	=10
+8ggL	.
+8ffJ	.
+16ddL	.
+16b-J	.
+=11	=11
+16ddL	.
+16ffJ	.
+8ee-XL	.
+16cc	.
+16b-J	.
+=12	=12
+16ddL	.
+16ff	.
+16ee	.
+16ff	.
+16dd	.
+16b-}J	.
 !!LO:LB:g=esac
-=13
-{16a
-16cc
-8ee-
-8gg
-=14
-8gg
-8ff
-16dd
-16b-
-=15
-16dd
-16ff
-8ee-
-16cc
-16b-
-=16
-8a
-8b-
-8f}
+=13	=13
+{16a\L	.
+16ccJ	.
+8eeL	.
+8ggJ	.
+=14	=14
+8ggL	.
+8ff	.
+16dd	.
+16b-J	.
+=15	=15
+16ddL	.
+16ffJ	.
+8ee-XL	.
+16cc	.
+16b-J	.
+=16	=16
+8aL	.
+8b-/	.
+8f}J	.
 !!LO:LB:g=esac
-=17
-{16a
-16cc
-8ee-
-8ee-
-=18
-8dd
-16dd
-16cc
-8b-
-=19
-16dd
-16ff
-8ee-
-16cc
-16b-
-=20
-16dd
-16ff
-16ee
-16ff
-16dd
-16b-}
+=17	=17
+{16a\L	.
+16ccJ	.
+8ee-L	.
+8ffq	.
+8ee-J	.
+=18	=18
+8ddL	.
+16dd	.
+16cc	.
+8b-J	.
+=19	=19
+16ddL	.
+16ffJ	.
+8ee-L	.
+16cc	.
+16b-J	.
+=20	=20
+16ddL	.
+16ff	.
+16ee	.
+16ff	.
+16dd	.
+16b-}J	.
 !!LO:LB:g=esac
-=21
-{16a
-16cc
-8ee-
-16ee-
-16cc
-=22
-8a
-8b-
-8dd
-=23
-16dd
-16ff
-8ee-
-16cc
-16b-
-=24
-8a
-8b-
-8f}
-==
-*-
+=21	=21
+{16a\L	.
+16ccJ	.
+8ee-L	.
+8ffq	.
+16ee-	.
+16ccJ	.
+=22	=22
+8a\L	.
+8b-	.
+8ddJ	.
+=23	=23
+16ddL	.
+16ffJ	.
+8ee-L	.
+16cc	.
+16b-J	.
+=24	=24
+8a	.
+8b-/	.
+8f}J	.
+=25	=25
+{16cc	Da
+16ee	cho-
+8ff	-dzi-
+8ff	-ła
+=26	=26
+8ee	po
+8ff	ga-
+8ff	-ju,
+=27	=27
+8ee	po
+8ff	ga-
+8ff	-ju
+=28	=28
+8ee	po
+8ff	ga-
+8ff}	-ju,
+!!LO:LB:g=esac
+=29	=29
+{16ee	da
+16cc	wo-
+8dd	-ła-
+16ddL	-ła
+16b-J	.
+=30	=30
+8a	hul-
+16aL	-ta-
+16b-J/	.
+16ddL	-ju,
+16ffJ	.
+=31	=31
+16ee	da
+16cc	wo-
+8dd	-ła-
+16ddL	-ła
+16b-J	.
+=32	=32
+8a	hul-
+8b-	-ta-
+8f}	-ju.
+!!LO:LB:g=esac
+=33	=33
+{16a\L	.
+16ccJ	.
+8eeL	.
+8ggJ	.
+=34	=34
+8ggL	.
+8ffJ	.
+16ddL	.
+16b-J	.
+=35	=35
+16ddL	.
+16ffJ	.
+8ee-XL	.
+16cc	.
+16b-J	.
+=36	=36
+16ddL	.
+16ff	.
+16ee	.
+16ff	.
+16dd	.
+16b-}J	.
+!!LO:LB:g=esac
+=37	=37
+{16a\L	.
+16ccJ	.
+8eeL	.
+8ggJ	.
+=38	=38
+8ggL	.
+8ff	.
+16dd	.
+16b-J	.
+=39	=39
+16ddL	.
+16ffJ	.
+8ee-XL	.
+16cc	.
+16b-J	.
+=40	=40
+8aL	.
+8b-/	.
+8f}J	.
+!!LO:LB:g=esac
+=41	=41
+{16a\L	.
+16ccJ	.
+8ee-L	.
+8ffq	.
+8ee-J	.
+=42	=42
+8ddL	.
+16dd	.
+16cc	.
+8b-J	.
+=43	=43
+16ddL	.
+16ffJ	.
+8ee-L	.
+16cc	.
+16b-J	.
+=44	=44
+16ddL	.
+16ff	.
+16ee	.
+16ff	.
+16dd	.
+16b-}J	.
+!!LO:LB:g=esac
+=45	=45
+{16a\L	.
+16ccJ	.
+8ee-L	.
+8ffq	.
+16ee-	.
+16ccJ	.
+=46	=46
+8a\L	.
+8b-	.
+8ddJ	.
+=47	=47
+16ddL	.
+16ffJ	.
+8ee-L	.
+16cc	.
+16b-J	.
+=48	=48
+8a	.
+8b-/	.
+8f}J	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Da chodziła po lesie,
+!!po lesie po lesie
+!!da wołała wróć ze się,
+!!da wołała wróć ze się.
+!!@VERSE:
+!!2. Da chodziła po gaju,
+!!po gaju po gaju,
+!!da wołała hultaju,
+!!da wołała hultaju.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=244 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 233} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 233}
 !!!page: 233
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-19

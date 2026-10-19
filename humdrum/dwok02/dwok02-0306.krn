@@ -3,83 +3,98 @@
 !!!source: DWOK02
 !!!id: K0306
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{8g
-16a
-16b
-8cc
-=2
-16ee
-16gg
-8.aa
-16ff
-=3
-16ee
-16gg
-8.gg
-16dd
-=4
-16cc
-16b
-8g
-16a
-16f}
+**kern	**text	**text
+*clefG2	*	*
+*k[]	*	*
+*C:	*	*
+*M3/8	*	*
+=1	=1	=1
+{8g	Oj	Oj
+16a\L	sa-	u
+16bJ	.	.
+8cc	-nu-	zło-
+=2	=2	=2
+16ee	-ją	-bu
+16gg	mnie	go-
+8.aa	lu-	-łe-
+16ff	-dzie	-go
+=3	=3	=3
+16ee	da	da
+(16ggL	i	u
+8.gg)J	.	.
+16dd	ko-	dra-
+=4	=4	=4
+16cc	-ni-	-bi-
+16b	-ka	-ny
+8g	me-	go-
+16aL	.	.
+16f}J	-go,	-ły,
 !!LO:LB:g=esac
-=5
-{8g
-16a
-16b
-8cc
-=6
-16ee
-16dd
-8ff
-16dd
-16cc
-=7
-8dd
-16ee
-16cc
-8dd
-=8
-16cc
-16b
-8g
-16a
-16f}
+=5	=5	=5
+{8g	oj	oj
+16a\L	po-	cóz
+16bJ	.	.
+8cc	-sta-	to
+=6	=6	=6
+16ee	-wi-	za
+16dd	-li	po-
+8ffM	mi	-rzą-
+16ddL	go	-dek
+16ccJ	.	.
+=7	=7	=7
+8dd	da	da
+16eeL	u	u
+16ccJ	.	.
+8dd	żło-	ko-
+=8	=8	=8
+16cc	-bu	-chan-
+16b	go-	-ki
+8g	-łe-	.
+16aL	-go.	moji?
+16f}J	.	.
 !!LO:LB:g=esac
-=9
-{8g
-16a
-16b
-8cc
-=10
-16ee
-16dd
-8ff
-16dd
-16cc
-=11
-16ee
-16dd
-16ee
-16cc
-8dd
-=12
-16cc
-16b
-8g
-16a
-16f}
-==
-*-
+=9	=9	=9
+{8g	oj	oj
+16a\L	po-	cóz
+16bJ	.	.
+8cc	-sta-	to
+=10	=10	=10
+16ee	-wi-	za
+16dd	-li	po-
+8ffM	mi	-rzą-
+16ddL	go	-dek
+16ccJ	.	.
+=11	=11	=11
+16ee/L	da	da
+16dd/J	.	.
+16eeL	u	u
+16ccJ	.	.
+8dd	żło-	ko-
+=12	=12	=12
+16cc	-bu	-chan-
+16b	go-	-ki
+8g	-łe-	.
+16aL	.	moji?
+16f}J	-go.	.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj sanują mnie ludzie
+!!da i konika mego,
+!!oj postawili mi go
+!!da u żłobu gołego.
+!!@VERSE:
+!!2. Oj u żłobu gołego
+!!da u drabiny goły,
+!!oj cóz to za porządek
+!!da u kochanki moji?
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=237 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 226} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 226}
 !!!page: 226
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-16

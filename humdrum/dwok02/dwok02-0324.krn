@@ -3,51 +3,66 @@
 !!!source: DWOK02
 !!!id: K0324
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16dd
-16cc
-8a
-8b
-=2
-4g
-8b
-=3
-16cc
-16ee
-8gg
-16gg
-16ff#
-=4
-4dd
-8b}
+**kern	**text	**text
+*clefG2	*	*
+*k[f#]	*	*
+*G:	*	*
+*M3/8	*	*
+=1	=1	=1
+{16dd	W_tej	W_tej
+16cc	stronie	stronie
+8a	gdzie	gdzie
+8b/	.	.
+=2	=2	=2
+*	*^	*
+4g	sło-	.	sło-
+*	*	*ij	*
+8b	-nie	(słońce)	-nie,
+*	*	*Xij	*
+*	*v	*v	*
+=3	=3	=3
+16cc	kry-	tam
+16ee	-je	sporzieć
+8gg	ja-	.
+16gLg	-sność	nie
+16ffJ#	.	.
+=4	=4	=4
+4dd	swo-	mu-
+8b}m	-ją,	-szę,
 !!LO:LB:g=esac
-=5
-{16dd
-16ee
-8cc
-8a
-=6
-16g
-16b
-8b
-8b
-=7
-16cc
-16dd
-8ee
-8f#
-=8
-4g
-8g}
-==
-*-
+=5	=5	=5
+{16dd	tam	o
+16ee	ko-	nic
+8cc	-chan-	nie
+8a\	-kę	dbam
+=6	=6	=6
+16g	zo-	kie-
+16b	-sta-	-dy
+8b	-wi-	ja
+8b	-łem	mam,
+=7	=7	=7
+16cc	tam	co
+16dd	i	kocham
+8ee	mi-	.
+8f#	-łość	nad
+=8	=8	=8
+4g	mo-	du-
+8g}	-ją.	-szę.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. W tej stronie gdzie słonie kryje jasność swoją,
+!!tam kochankę zostawiłem tam i miłość moją.
+!!@VERSE:
+!!2. W tej stronie gdzie słonie, tam spozrieć nie muszę,
+!!o nic nie dbam kiedy ja mam, co kocham nad duszę.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=245 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 234} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 234}
 !!!page: 234
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-19

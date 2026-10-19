@@ -3,158 +3,279 @@
 !!!source: DWOK02
 !!!id: K0307
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16g
-32a
-32b
-8cc
-16dd
-16cc
-=2
-16ee
-16ee
-8ff
-16dd
-16b
-=3
-16dd
-16ff
-8.aa
-16gg
-=4
-16ee
-16cc
-8ff
-16dd
-16b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16gL	Oj
+(>32a	.
+32b/)J	go-
+8ccL	.
+(16dd	-rzał-
+16cc)J	-ki
+=2	=2
+16eeL	daj
+16eeJ	Ma-
+8ffL	-gde-
+(16dd	-cko,
+16b)J	.
+=3	=3
+16ddL	bom
+16ffJ	pragnący
+8.aaL	.
+16ggJ	.
+=4	=4
+16eeL	ko-
+16ccJ	-cha-
+8ffL	-ne-
+16dd	-cko,
+16b}J	.
 !!LO:LB:g=esac
-=5
-{16g
-16b
-8cc
-16dd
-16cc
-=
-24ee
-24dd
-24ee
-8ff
-16dd
-16b
-=6
-8cc
-8cc
-16dd
-16cc
-=
-24ee
-24dd
-24ee
-8ff
-16dd
-16b}
+=5	=5
+{16g\	Niepra-
+16b\J	-gną-
+8ccL	-cym
+16dd	.
+16ccJ	.
+=6	=6
+!LO:TUP:a	!
+(24eeL	mię-
+24dd	.
+24ee)J	-sa,
+8ffL	chle-
+16dd	-ba,
+16bJ	.
+=7	=7
+8ccL	ino
+8cc	ce-
+16dd	-goś
+16ccJ	.
+=8	=8
+*Xtuplet	*
+24eeL	co
+24dd	.
+24eeJ	mi
+8ffL	trze-
+16dd	-ba.
+16b}J	.
 !!LO:LB:g=esac
-=7
-{16g
-32a
-32b
-8cc
-8ee
-=8
-16ff
-16ff
-8aa
-8gg
-=9
-16ff#
-16gg
-8.ccc
-16ee
-=
-24dd
-24b
-24dd
-8ee
-8g}
+=9	=9
+{16gL	.
+32a	.
+32b/J	.
+8ccL	.
+8eeJ	.
+=10	=10
+16ffL	.
+16ffJ	.
+8aaL	.
+8ggMJ	.
+=11	=11
+16ff#L	.
+16ggJ	.
+8.cccL	.
+16eeJ	.
+=12	=12
+24ddL	.
+24b	.
+24ddJ	.
+8eeL	.
+8g}\J	.
 !!LO:LB:g=esac
-=10
-{16b
-16cc
-8ee
-8ff
-=
-24dd
-24b
-24dd
-8ee
-16ee
-16dd
-=11
-8cc
-16ee
-16dd
-8ff
-=
-24dd
-24b
-24dd
-8ee
-8g}
+=13	=13
+{16bL	.
+16cc	.
+8ee	.
+8ffJ	.
+=14	=14
+24ddL	.
+24b	.
+24dJd	.
+8eeL	.
+16ee	.
+16ddJ	.
+=15	=15
+8ccL	.
+16ee	.
+16dd	.
+8ffJ	.
+=16	=16
+24ddL	.
+24b	.
+24ddJ	.
+8eeL	.
+8g}\J	.
 !!LO:LB:g=esac
-=12
-{16g
-32a
-32b
-8cc
-8ee
-=13
-8ff
-16g
-16b
-16dd
-16ee
-=14
-16ee
-16dd
-8cc
-8ee
-=15
-8ff
-16g
-16b
-16dd
-16ee}
+=17	=17
+{16gL	.
+32a	.
+32b/J	.
+8ccL	.
+8eeJ	.
+=18	=18
+8ffM	.
+16gL	.
+16b/J	.
+16ddL	.
+16eeJ	.
+=19	=19
+8ffq	.
+16eeL	.
+16ddJ	.
+8ccL	.
+8eeJ	.
+=20	=20
+8ffM	.
+16gL	.
+16b/J	.
+16ddL	.
+16ee}J	.
 !!LO:LB:g=esac
-=16
-{16ee
-16dd
-8cc
-8ee
-=17
-8ff
-16g
-16b
-16dd
-16ee
-=18
-16ee
-16dd
-8cc
-8ee
-=19
-8ee
-8ff
-16dd
-16b}
-==
-*-
+=21	=21
+8ffq	.
+{16eLe	.
+16dd	.
+8cc	.
+8eeJ	.
+=22	=22
+8ffw	.
+16gL	.
+16b/J	.
+16ddL	.
+16eeJ	.
+=23	=23
+8ffq	.
+16eeL	.
+16dd	.
+8cc	.
+8eeJ	.
+=24	=24
+8eeL	.
+8ff	.
+16dd	.
+16b}J	.
+=25	=25
+{16gL	Wiwat
+(>32a	.
+32b/)J	.
+8ccL	.
+(16dd	wi-
+16cc)J	-wat
+=26	=26
+16eeL	gospo-
+16eeJ	.
+8ffL	-dy-
+(16dd	-ni,
+16b)J	.
+=27	=27
+16ddL	co
+16ffJ	nam
+8.aaL	daje
+16ggJ	.
+=28	=28
+16eeL	gorzał-
+16ccJ	.
+8ffL	-cy-
+16dd	.
+16b}J	-ny,
+!!LO:LB:g=esac
+=29	=29
+{16g\	Co
+16b\J	nam
+8ccL	da-
+16dd	-je
+16ccJ	.
+=30	=30
+*tuplet	*
+!LO:TUP:a	!
+(24eeL	mię-
+24dd	.
+24ee)J	-sa,
+8ffL	chle-
+16dd	.
+16bJ	-ba,
+=31	=31
+8ccL	i
+8cc	wsyćkiego
+16dd	.
+16ccJ	.
+=32	=32
+*Xtuplet	*
+24eeL	co
+24dd	.
+24eeJ	po-
+8ffL	-trze-
+16dd	-ba.
+16b}J	.
+!!LO:LB:g=esac
+=33	=33
+{16gL	.
+32a	.
+32b/J	.
+8ccL	.
+8eeJ	.
+=34	=34
+16ffL	.
+16ffJ	.
+8aaL	.
+8ggMJ	.
+=35	=35
+16ff#L	.
+16ggJ	.
+8.cccL	.
+16eeJ	.
+=36	=36
+24ddL	.
+24b	.
+24ddJ	.
+8eeL	.
+8g}\J	.
+!!LO:LB:g=esac
+=37	=37
+{16bL	.
+16cc	.
+8ee	.
+8ffJ	.
+=38	=38
+24ddL	.
+24b	.
+24dJd	.
+8eeL	.
+16ee	.
+16ddJ	.
+=39	=39
+8ccL	.
+16ee	.
+16dd	.
+8ffJ	.
+=40	=40
+24ddL	.
+24b	.
+24ddJ	.
+8eeL	.
+8g}\J	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj gorzałki daj Magdecko,
+!!bom pragnący kochanecko,
+!!Niepragnącym mięsa, chleba,
+!!ino cegoś co mi trzeba.
+!!@VERSE:
+!!2. Wiwat wiwat gospodyni,
+!!co nam daje gorzałcyny,
+!!Co nam daje mięsa, chleba,
+!!i wsyćkiego co potrzeba.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!singer-sex: Male
+!!!RDF**kern: >= above
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=238 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 227} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 227}
 !!!page: 227
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-16

@@ -3,60 +3,124 @@
 !!!source: DWOK02
 !!!id: K0300
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16dd
-16dd
-8ee
-8ee
-=2
-16dd
-16dd
-8cc
-16cc
-16b
-=3
-16dd
-16b
-8a
-8a
-=4
-16g
-32a
-32b
-8.cc
-16b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16dd	Oj
+16dd	i-
+8ee	-no
+8ee	je-
+=2	=2
+16dd	-dna
+16dd	gwia-
+8cc	.
+16ccL	.
+16bJ	-zda
+=3	=3
+16dd	na
+16b	de
+8a\	dwo-
+8a\	-rem
+=4	=4
+16gL	świe-
+32a	.
+32b/J	.
+8.ccL	-ci
+16b}J	.
 !!LO:LB:g=esac
-=5
-{16b
-16b
-8a
-8a
-=6
-16b
-32a
-32b
-8cc
-16cc
-16b
-=7
-16dd
-16b
-8a
-8f#
-=8
-16g
-16b
-8.cc
-16b}
-==
-*-
+=5	=5
+{16b	da
+16b	u-
+8a\	-sy-
+8a\	-ła
+=6	=6
+16bL	dzie-
+32a\	.
+32bJ	.
+8cc	-wcy-
+16ccL	-na
+16bJ	.
+=7	=7
+16dd	ko-
+16b	-sul-
+8a	-kę
+8f#	bez
+=8	=8
+16gL	ni-
+16b/J	.
+8.ccL	-ci.
+16b}J	.
+=9	=9
+{16dd	Oj
+16dd	bez
+8ee	ni-
+16ee/L	-ci
+16dd/J	.
+=10	=10
+16dd	ją
+16dd	u-
+8cc	-sy-
+16ccL	-ła,
+16bJ	.
+=11	=11
+16dd	bez
+16b	wo-
+16aL	-dy
+16d/d	.
+16a	u-
+16f#J	.
+=12	=12
+16gL	-pra-
+32a	.
+32b/J	.
+8.ccL	-ła,
+16b}J	.
+!!LO:LB:g=esac
+=13	=13
+{16dd/	da
+16b	psy-
+8a\	-sła
+16f#L	nie-
+16aJ	.
+=14	=14
+16bL	-dzio-
+32a\	.
+32bJ	.
+8cc	-le-
+16ccL	-cka
+16bJ	.
+=15	=15
+16dd	to
+16b	się
+8a	w_nią
+8f#	u-
+=16	=16
+16gL	-bra-
+16b/J	.
+8.ccL	-ła.
+16b}J	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj ino jedna gwiazda
+!!na de dworem świeci
+!!da usyła dziewcyna
+!!kosulkę bez nici.
+!!@VERSE:
+!!2. Oj bez nici ją usyła,
+!!bez wody uprała,
+!!da psysła niedziolecka
+!!to się w nią ubrała.
+!!@@END: VERSES
+!!!role-singer: Narrator 
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=235 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 224} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 224}
 !!!page: 224
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-16

@@ -3,48 +3,62 @@
 !!!source: DWOK02
 !!!id: K0285
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{4g
-8g
-=2
-16g
-16g
-8g
-8g
-=3
-4a
-8g
-=4
-16d
-16f
-8a
-8g}
+**kern	**text	**text
+*clefG2	*	*
+*k[]	*	*
+*G:	*	*
+*M3/8	*	*
+=1	=1	=1
+!LO:TX:a:t=Dziad.	!	!
+{4g	Na-	A
+8g	-pij-	kiej
+=2	=2	=2
+16g	-wa	nie-
+16g	się	-ma
+8g	Ma-	pi-
+8g	-ryś	-wa
+=3	=3	=3
+4a	na-	to
+8g	-pij-	mio-
+=4	=4	=4
+16d	-wa	-du
+16f	na-	to
+8a	-pij-	mio-
+8g}	-wa.	-du.
 !!LO:LB:g=esac
-=5
-{4gg
-8gg
-=6
-16gg
-16gg
-8gg
-8gg
-=7
-4aa
-8ff#
-=8
-16dd
-16ff#
-8aa
-8gg}
-==
-*-
+=5	=5	=5
+!LO:TX:a:t=Baba.	!	!
+{4gg	Kiej	Przy-
+8gg	nie	-patrz
+=6	=6	=6
+16gg	ma	mi
+16gg	go-	się
+8gg	-rzał-	Ja-
+8gg	-ki-	-siu
+=7	=7	=7
+4aa	-to	Ja-
+8ff#	pi-	-kie-
+=8	=8	=8
+16dd	-wa	-go
+16ff#	to	ja
+8aa	pi	ro-
+8gg}	wa.	-du.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. Napijwa się Maryś napijwa napijwa.
+!!Kiej nie ma gorzałki to piwa to piwa.
+!!@VERSE:
+!!2. A kiej niema piwa to miodu to miodu.
+!!Przypatrz mi się Jasiu Jakiego ja rodu.
+!!@@END: VERSES
+!!!role-singer: Lover, Mistress
+!!!role-listener: Mistress, Lover
+!!!singer-sex: Male, Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=228 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 217} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 217}
 !!!page: 217
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-15

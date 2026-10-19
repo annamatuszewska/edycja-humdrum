@@ -3,51 +3,69 @@
 !!!source: DWOK02
 !!!id: K0283
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16cc
-16dd
-8ff
-8ee
-=2
-8ee
-4ff}
+**kern	**text	**text
+*clefG2	*	*
+*k[]	*	*
+*C:	*	*
+*M3/8	*	*
+=1	=1	=1
+{16cc	Cer	O
+16dd	wo-	mo-
+8ff	-na	-ja
+8ee	chu-	dziew
+=2	=2	=2
+8ee	-stec-	cy-
+4ff}	-ka,	-no
 !!LO:LB:g=esac
-=3
-{16ee
-16dd
-8ff
-8ee
-=4
-8cc
-4g}
+=3	=3	=3
+{16ee	po-	bym
+16dd	-zła-	cię
+8ff	-ca-	miał
+8ee	-ne	nie
+=4	=4	=4
+*	*^	*
+8cc	kra-	(brze-	do-
+4g}	-je,	-gi)	-stać,
+*	*v	*v	*
 !!LO:LB:g=esac
-=5
-{16a
-16g
-8b
-8cc
-=6
-8dd
-8a
-8g}
+=5	=5	=5
+{16a	tyl-	to
+16g	-ko	juz
+8b	mi	i
+8cc	się	na
+=6	=6	=6
+8dd	je-	świecie
+(8aL	-dna	.
+8g)J}	.	.
 !!LO:LB:g=esac
-=7
-{16a
-16g
-8b
-8cc
-=8
-8cc
-4g}
-==
-*-
+=7	=7	=7
+{16a	Wil-	nie
+16g	-ca-	móg(ł)
+8b	-nec-	bym
+8cc	-ka	się
+=8	=8	=8
+8cc	zda-	o-
+4g}	-je. (podoba).	-stać.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!Cerwona chustecka,
+!!pozłacane kraje,
+!!tylko mi się jedna
+!!Wilcanecka zdaje. (podoba).
+!!@VERSE:
+!!O moja dziewcyno
+!!bym cię miał (brzegi), nie dostać,
+!!to juz i na świecie
+!!nie móg(ł) bym się ostać.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Girl
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=227 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 216} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 216}
 !!!page: 216
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-15

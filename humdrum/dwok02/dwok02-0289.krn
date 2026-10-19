@@ -3,112 +3,128 @@
 !!!source: DWOK02
 !!!id: K0289
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8b
-8b
-8dd
-=2
-16cc#
-16a
-8cc#
-8dd
-=3
-8b
-8b
-8dd
-=4
-16cc#
-16a
-8b
-8g}
+**kern	**text	**text
+*clefG2	*	*
+*k[f#]	*	*
+*G:	*	*
+*M3/8	*	*
+=1	=1	=1
+{8b	Oj	Mo-
+8b	la-	-ja
+8dd	-tas	dziewcy-
+=2	=2	=2
+16cc#	pta-	-no
+16a\	-sku	Ja-
+8cc#	la-	-ga-
+8dd	-tas,	-tko,
+=3	=3	=3
+8b	da	nie
+8b	w_no-	stras
+8dd	-cy	ze_mnie
+=4	=4	=4
+16cc#	po	oj-
+16a\	gę-	-cem,
+8b	-stwi-	ma-
+8g}	-nie,	-tką.
 !!LO:LB:g=esac
-=5
-{8e
-8e
-8d
-=6
-16f#
-16a
-8b
-8g
-=7
-8e
-8e
-8d
-=8
-16f#
-16a
-8f#
-8g}
+=5	=5	=5
+{8e	oj	Ojciec
+8e	bo	ma-
+8d	se	-tka
+=6	=6	=6
+16f#	po	do-
+16a	wy-	-po-
+8b	-ka-	-mo-
+8g	-łas	-ze,
+=7	=7	=7
+8e	da	kiej
+8e	o-	się
+8d	-cki	weźmiem
+=8	=8	=8
+16f#	na	w_i-
+16a	tar-	-mie
+8f#	-ni-	Bo-
+8g}	-nie.	-ze.
 !!LO:LB:g=esac
-=9
-{16g
-16b
-8dd
-8dd
-=10
-16dd
-16dd
-8b
-8g
-=11
-16dd
-16cc#
-4a
-=12
-16dd
-16dd
-8b
-8g}
+=9	=9	=9
+{16g|	.	.
+16b/J	.	.
+8ddL	.	.
+8ddJ	.	.
+=10	=10	=10
+16ddL	.	.
+16ddJ	.	.
+8bL	.	.
+8g\J	.	.
+=11	=11	=11
+16ddL	.	.
+16cc#J	.	.
+4a	.	.
+=12	=12	=12
+16ddL	.	.
+16ddJ	.	.
+8bL	.	.
+8g}\J	.	.
 !!LO:LB:g=esac
-=13
-{16dd
-16cc#
-4a
-=14
-16cc#
-16ee
-8.gg
-16ff#
-=15
-16dd
-16cc#
-8.a
-16cc#
-=16
-16dd
-16dd
-8b
-8g}
+=13	=13	=13
+{16ddL	.	.
+16cc#J	.	.
+4a	.	.
+=14	=14	=14
+16cc#L	.	.
+16eeJ	.	.
+8.ggML	.	.
+16ff#J	.	.
+=15	=15	=15
+16ddL	.	.
+16cc#J	.	.
+8.a\L	.	.
+16cc#J	.	.
+=16	=16	=16
+16ddL	.	.
+16ddJ	.	.
+8bL	.	.
+8g}\J	.	.
 !!LO:LB:g=esac
-=17
-{16dd
-16cc#
-4a
-=18
-16cc#
-16ee
-8.gg
-16ff#
-=19
-16dd
-16cc#
-8.a
-16cc
-=20
-16dd
-16dd
-8b
-8g}
-==
-*-
+=17	=17	=17
+{16ddL	.	.
+16cc#J	.	.
+4a	.	.
+=18	=18	=18
+16cc#L	.	.
+16eeJ	.	.
+8.ggML	.	.
+16ff#J	.	.
+=19	=19	=19
+16ddL	.	.
+16cc#J	.	.
+8.a\L	.	.
+16cc#J	.	.
+=20	=20	=20
+16ddL	.	.
+16ddJ	.	.
+8bL	.	.
+8g}\J	.	.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj latas ptasku latas,
+!!da w nocy po gęstwinie,
+!!oj bo se po wykałas
+!!da ocki na tarninie.
+!!@VERSE:
+!!2. Moja dziewcyno Jagatko,
+!!nie stras ze mnie ojcem, matką, 
+!!Ojciec matka dopomoze,
+!!kiej się weźmiem w imie Boze.
+!!@@END: VERSES
+!!!role-singer: Narrator, Lover
+!!!role-listener: Girl
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=230 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 219} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 219}
 !!!page: 219
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-15

@@ -3,132 +3,149 @@
 !!!source: DWOK02
 !!!id: K0279
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16a
-16cc
-8cc
-8a
-=2
-8b-
-8dd
-8b-
-=3
-16a
-16cc
-8cc
-8a
-=4
-8g
-8g
-8f}
+**kern	**text	**text
+*clefG2	*	*
+*k[b-]	*	*
+*F:	*	*
+*M3/8	*	*
+=1	=1	=1
+{16a\	Jak	Oj
+16cc	ja	daj-
+8cc/L	pój-	-ze
+8aJ	-dę	mnie,
+=2	=2	=2
+8b-	na	mój
+8dd^	po-	Bo-
+8b-	-le,	-ze,
+=3	=3	=3
+16a\	da	da
+16cc	to	daj-
+8cc	we-	-ze
+8a	-se-	mnie
+=4	=4	=4
+8g	-le	za
+8g	mo-	mo-
+8f}	-je,	-rze,
 !!LO:LB:g=esac
-=5
-{16a
-16cc
-8cc
-8a
-=6
-8b-
-8b-
-8g
-=7
-16b-
-16a
-8f
-8a
-=8
-8g
-8g
-8f}
+=5	=5	=5
+{16a\	a	A
+16cc	jak	z_mo-
+8cc	przyj-	-rza
+8a\	-dę	na
+=6	=6	=6
+8b-	do	po-
+8b-	do-	-do-
+8g	-mu,	-le,
+=7	=7	=7
+16b-	to	da
+16a\	kie	tam
+8f	by	ko-
+8a	do	-cha-
+=8	=8	=8
+8g	za-	-nie
+8g	-ko-	mo-
+8f}	-nu.	-je.
 !!LO:LB:g=esac
-=9
-{16a
-16cc
-8cc
-8a
-=10
-16b-
-[16dd
-8.dd]
-16b-
-=11
-16a
-16cc
-8cc
-8a
-=12
-8g
-8e
-8f}
+=9	=9	=9
+{16a\L	.	.
+16cc	.	.
+8cc	.	.
+8a\J	.	.
+=10	=10	=10
+16b-L	.	.
+[16dd	.	.
+8.dd]J;^<	.	.
+16b-	.	.
+=11	=11	=11
+16a\L	.	.
+16cc	.	.
+8ccJ	.	.
+8a\	.	.
+=12	=12	=12
+8gML	.	.
+8e	.	.
+8f}J	.	.
 !!LO:LB:g=esac
-=13
-{16a
-16cc
-8cc
-8a
-=14
-16b-
-[16b-
-8b-]
-8g
-=15
-16b-
-16a
-8f
-8a
-=16
-8g
-16e
-16c
-8f}
+=13	=13	=13
+{16a\L	.	.
+16cc	.	.
+8cc	.	.
+8a\J	.	.
+=14	=14	=14
+16b-L	.	.
+[16b-^<	.	.
+8b-]J	.	.
+8g	.	.
+=15	=15	=15
+16b-/L	.	.
+16aJ	.	.
+8fL	.	.
+8aJ	.	.
+=16	=16	=16
+8gML	.	.
+16e	.	.
+16c	.	.
+8f}J	.	.
 !!LO:LB:g=esac
-=17
-{16a
-16cc
-8cc
-8a
-=18
-8b-
-8b-
-8a
-=19
-16b-
-16g
-8a
-16a
-16f
-=20
-8b-
-8g
-8f}
+=17	=17	=17
+{16a\L	.	.
+16ccJ	.	.
+8ccL	.	.
+8a\J	.	.
+=18	=18	=18
+8b-L	.	.
+8ccq	.	.
+8b-	.	.
+8a\J	.	.
+=19	=19	=19
+16b-/L	.	.
+16gJ	.	.
+8aL	.	.
+16a	.	.
+16fJ	.	.
+=20	=20	=20
+8b-/M	.	.
+8g	.	.
+8f}J	.	.
 !!LO:LB:g=esac
-=21
-{16a
-16cc
-8cc
-8a
-=22
-8cc
-8.b-
-16b-
-=23
-16a
-16cc
-8a
-8f
-=24
-8g
-8g
-8f}
-==
-*-
+=21	=21	=21
+{16a\L	.	.
+16ccJ	.	.
+8ccL	.	.
+8a\J	.	.
+=22	=22	=22
+8ccL	.	.
+8.b-	.	.
+16b-J	.	.
+=23	=23	=23
+16a\L	.	.
+16ccJ	.	.
+8aL	.	.
+8fJ	.	.
+=24	=24	=24
+8gL	.	.
+8g	.	.
+8f}J	.	.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. Jak ja pójdę na pole,
+!!da to wesele moje,
+!!a jak przyjdę do domu,
+!!to kie by do zakonu.
+!!@VERSE:
+!!2. Oj dajze mnie, mój Boze,
+!!da dajze mnie za morze,
+!!A z morza na podole,
+!!da tam kochanie moje.
+!!@@END: VERSES
+!!!role-singer: Single Girl
+!!!singer-sex: Female
+!!!RDF**kern: <= below
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=226 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 215} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 215}
 !!!page: 215
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-15

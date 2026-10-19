@@ -3,63 +3,75 @@
 !!!source: DWOK02
 !!!id: K0316
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=
-{24g
-24b
-24dd
-8ff
-16ff
-16dd
-=1
-8cc
-16ee
-16cc
-16ee
-16gg
-=2
-16aa
-16dd
-8ff
-16ff
-16ee
-=3
-8cc
-16a
-16f
-8g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+!LO:TUP:a	!
+{(24g\L	Oj
+24bJ	.
+24dd)	Ka-
+8ff	-śka
+16ffL	i
+16ddJ	.
+=2	=2
+8cc	Ma-
+16eeL	-ry-
+16ccJ	.
+16eeL	-na
+16ggJ	.
+=3	=3
+16aa	da
+16dd	sko-
+8ff	-piec
+8ggq	.
+16ffL	mli-
+16eeJ	.
+=4	=4
+8cc	-ka
+16aL	da-
+16fJ	.
+8g}	-ły,
 !!LO:LB:g=esac
-=
-{24g
-24b
-24dd
-8a
-16a
-16g
-=4
-8cc
-8ee
-16dd
-16cc
-=5
-16b
-16dd
-8a
-16a
-16g
-=6
-8cc
-16a
-16f
-8g}
-==
-*-
+=5	=5
+!LO:TUP:a	!
+{(24g\L	a
+24bJ	.
+24dd)	ja
+8a	ich
+16aL	jes-
+16gJ	.
+=6	=6
+8cc	-ce
+8eem	trą-
+16ddL	-cam
+16ccJ	.
+=7	=7
+16b	da
+16dd	ze-
+8a	-by
+16aL	przy-
+16gJ	.
+=8	=8
+8cc	-pu-
+16aL	-sca-
+16fJ	.
+8g}	-ły.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oj Kaśka i Maryna
+!!da skopiec mlika dały,
+!!a ja ich jesce trącam
+!!da zeby przypuscały.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=241 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 230-231} @EN{Oskar Kolberg Complete Works 2: Sandomierz, pp. 230-231}
 !!!page: 230-231
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-18

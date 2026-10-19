@@ -3,91 +3,67 @@
 !!!source: DWOK02
 !!!id: K0323
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16a
-8b
-8cc#
-=2
-8dd
-8dd
-8dd
-=3
-16ee
-16dd
-8cc#
-8dd
-=4
-8a
-8g
-8f#}
+**kern	**text	**text
+*clefG2	*	*
+*k[f#]	*	*
+*G:	*	*
+*M3/8	*	*
+=1	=1	=1
+{16g	Oj	Oj
+16a	com	com
+8b	tu	tu
+8cc#	mia-	mia-
+=2	=2	=2
+8dd	-ła	-ła
+8dd	ro-	ro-
+8dd	-bić,	-bić
+=3	=3	=3
+16ee	da	da
+16dd	com	w_tej
+8cc#	tu	da-
+8dd	mia-	-le-
+=4	=4	=4
+8a	-ła	-kiej
+8g	cy-	stro-
+8f#}	-nić?	-nie?
 !!LO:LB:g=esac
-=5
-{16g
-16b
-8cc#
-8dd
-=6
-8a
-8b
-8b
-=7
-16cc
-16a
-8b
-8g
-=8
-8a
-8g
-8f#}
-!!LO:LB:g=esac
-=9
-{16g
-16a
-8b
-8cc#
-=10
-8dd
-8dd
-16dd
-16cc#
-=11
-16ee
-16dd
-8cc#
-8dd
-=12
-8a
-8g
-8f#}
-!!LO:LB:g=esac
-=13
-{16g
-16b
-8cc#
-8dd
-=14
-8a
-8b
-8b
-=15
-16cc
-16a
-8b
-8g
-=16
-8a
-8g
-8f#}
-==
-*-
+=5	=5	=5
+{16g	Oj	Oj
+16b	przysłam	przy-
+8cc#	.	-słam
+8dd	ja	się
+=6	=6	=6
+8a\	tu	przypatrzyć
+8b	przysła	.
+8b	.	.
+=7	=7	=7
+16cc	da	da
+16a	bra-	bra-
+8b	-ci-	-ci-
+8g	-ska	-sko-
+=8	=8	=8
+8a	o-	-wej
+8g	-że-	żo-
+8f#}	-nić.	-nie.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj com tu miała robić,
+!!da com tu miała cynić?
+!!Oj przysłam ja tu przysła
+!!da braciska ożenić.
+!!@VERSE:
+!!2. Oj com tu miała robić
+!!da w tej dalekiej stronie?
+!!Oj przysłam się przypatrzyć
+!!da braciskowej żonie.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=244 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 233} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 233}
 !!!page: 233
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-19

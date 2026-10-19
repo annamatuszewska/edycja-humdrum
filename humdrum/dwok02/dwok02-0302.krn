@@ -3,87 +3,114 @@
 !!!source: DWOK02
 !!!id: K0302
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{4gg
-16dd
-16ff
-=2
-16aa
-16gg
-8dd
-16ff
-16ee
-=3
-8cc
-4g
-=4
-16a
-16cc
-8b
-8dd}
+**kern	**text	**text
+*clefG2	*	*
+*k[]	*	*
+*C:	*	*
+*M3/8	*	*
+=1	=1	=1
+!LO:TX:a:t=Na płócienników.	!	!
+{4gg	1. Oj	2. A
+16dd	weź	o-
+16ff	ze	-bie-
+=2	=2	=2
+16aa	tor-	-cuj
+16gg	-bę	ze
+8dd	na	płó-
+16ffL	chlib,	-tno
+16eeJ	.	.
+=3	=3	=3
+8cc	a	na
+4g	dru-	przy-
+=4	=4	=4
+16a	-gi	-słą
+16cc	na	nie-
+8b	ka-	-dzie-
+8dd}M	-sę,	-lę,
 !!LO:LB:g=esac
-=5
-{8ee
-8gg
-8ff
-=6
-16ee
-16cc
-8b
-8dd
-=7
-8a
-4g
-=8
-16a
-16cc
-8b
-8dd}
+=5	=5	=5
+{8ee	da	da
+8gg	i	jak
+8ff	pro-	przy-
+=6	=6	=6
+16ee	-ście	-dą-
+16cc	do	-po
+8b	te-	płó-
+8dd	-go	-tno:
+=7	=7	=7
+8a	o	gdzie
+4g	ja-	ja
+=8	=8	=8
+16a	-ką	się
+16cc	o-	po-
+8b	-kra-	-dzie-
+8ddM}	-sę.	-ję?
 !!LO:LB:g=esac
-=9
-{4cc
-16dd
-16ff
-=10
-8ee
-8dd
-8dd
-=11
-16cc
-16a
-4g
-=12
-8cc
-8ee
-8gg}
+=9	=9	=9
+{4cc	.	.
+16dLd	.	.
+16ffJ	.	.
+=10	=10	=10
+8eeL	.	.
+8dd	.	.
+8ddJ	.	.
+=11	=11	=11
+16ccL	.	.
+16a\J	.	.
+4g	.	.
+=12	=12	=12
+8aq	.	.
+8ccL	.	.
+8ee	.	.
+8gg}J	.	.
 !!LO:LB:g=esac
-=13
-{8ff
-8cc
-16dd
-16ff
-=14
-8ee
-8dd
-8dd
-=15
-16cc
-16a
-4g
-=16
-8cc
-8b
-8dd}
-==
-*-
+=13	=13	=13
+{8ffL	.	.
+8ccJ	.	.
+16ddL	.	.
+16ffJ	.	.
+=14	=14	=14
+8eeL	.	.
+8dd	.	.
+8ddJ	.	.
+=15	=15	=15
+16ccL	.	.
+16a\J	.	.
+4g	.	.
+=16	=16	=16
+8aq	.	.
+8ccL	.	.
+8b	.	.
+8dd}J	.	.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj weź ze torbę na chlib,
+!!a drugi na kasę,
+!!da i proście do tego
+!!o jaką okrasę.
+!!@VERSE:
+!!2. A obiecuj ze płótno
+!!na przysłą niedzielę,
+!!da jak przydą po płótno:
+!!gdzie ja się podzieję?
+!!@VERSE:
+!!3. Oj wlaz(ł) celadnik za piec,
+!!da majster pod ławę—
+!!oj inoci majstrowa
+!!udaje tę sprawę.
+!!@VERSE:
+!!4. Oj niéma majstra, nima,
+!!nima majstra w domu;
+!!da zrobiuł wałę płótna,
+!!ale nie wié komu.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!ONB: Niezgodnosc fraz muzycznych i tekstowych
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=236 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 225} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 225}
 !!!page: 225
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-16

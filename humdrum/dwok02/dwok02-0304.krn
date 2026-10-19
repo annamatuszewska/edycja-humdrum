@@ -3,102 +3,113 @@
 !!!source: DWOK02
 !!!id: K0304
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16d
-16f#
-8g
-8b
-=2
-8dd
-16cc#
-16a
-8b
-=3
-16a
-16cc#
-8ee
-8ee
-=4
-8dd
-16a
-16f#
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16d	Oj
+16f#	da-
+8g	-na
+8b	mo-
+=2	=2
+M8dd	.
+16cc#L	-ja
+16a\J	da-
+8b	-na
+=3	=3
+16a/L	nie
+16b/	.
+16cc#/J	mo-
+8ee	-ja
+8ee	juz
+=4	=4
+8ddM	suk-
+16aL	-ma-
+16f#J	.
+8g}	-na,
 !!LO:LB:g=esac
-=5
-{16d
-16f#
-8g
-8dd
-=6
-8dd
-16cc#
-16a
-16b
-16g
-=7
-16f#
-16d
-8c
-8c
-=8
-8d
-16d
-16f#
-8g}
+=5	=5
+{16d	oj
+16f#	bo
+8g	ja
+8dd	na
+=6	=6
+8ddM	nią
+16ccL#	pi-
+16a\J	.
+16b/L	-ję
+16gJ	.
+=7	=7
+16f#	da
+16d	od
+8cn	sa-
+8c	-me-
+=8	=8
+8d	-go
+16dL	ra-
+16f#J	.
+8g}	-na.
 !!LO:LB:g=esac
-=
-{24d
-24e
-24f#
-8g
-8b
-=9
-8dd
-16cc#
-16a
-8b
-=
-24a
-24b
-24cc#
-8ee
-8ee
-=10
-8dd
-16a
-16f#
-8g}
+=9	=9
+*Xtuplet	*
+{24d\L	Oj
+24e\	.
+24f#\J	da-
+8g	-na
+8b	mo-
+=10	=10
+8ddM	-ja
+16ccL#	da-
+16a\J	.
+8b	-na
+=11	=11
+24aL	nie
+24b/	.
+24cc/#J	mo-
+8ee	-ja
+8ee	juz
+=12	=12
+8ddM	suk-
+16aL	-ma-
+16f#J	.
+8g}	-na,
 !!LO:LB:g=esac
-=11
-{16d
-16f#
-8g
-8dd
-=12
-8dd
-16cc#
-16a
-16b
-16g
-=13
-16f#
-16d
-8c
-8c
-=14
-8d
-16d
-16f#
-8g}
-==
-*-
+=13	=13
+{16d	oj
+16f#	bo
+8g	ja
+8dd	na
+=14	=14
+8ddM	nią
+16ccL#	pi-
+16a\J	.
+16b/L	-ję
+16gJ	.
+=15	=15
+16f#	da
+16d	od
+8cn	sa-
+8c	-me-
+=16	=16
+8d	-go
+16dL	ra-
+16f#J	.
+8g}	-na.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oj dana moja dana
+!!nie moja juz sukmana,
+!!oj bo ja na nią piję
+!!da od samego rana.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=237 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 226} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 226}
 !!!page: 226
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-16

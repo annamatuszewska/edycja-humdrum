@@ -3,92 +3,124 @@
 !!!source: DWOK02
 !!!id: K0297
 !!!signature:
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{4e
-16g#
-16e
-=2
-16g#
-16a
-8cc
-8a
-=3
-16cc
-16ee
-8dd#
-8ee
-=4
-8cc
-4a}
+**kern	**text	**text
+*clefG2	*	*
+*k[]	*	*
+*a:	*	*
+*M3/8	*	*
+=1	=1	=1
+{4e	1. Zoł-	2. Spojźryj
+16g#L	-nierz	.
+16eJ	.	.
+=2	=2	=2
+16g#	ci	ze
+16a	ja	na
+(8bq	.	.
+8cc)	zoł-	koł-
+8a\	-nierz,	-nierz
+=3	=3	=3
+16cc	mo-	spojźryj
+16ee	-ja	.
+8dd#	pan-	na
+8ee	-no,	rę-
+=4	=4	=4
+(8bq	.	.
+8cc)	zoł-	-ka-
+4a}	-nierz.	-wy,
 !!LO:LB:g=esac
-=5
-{8e
-8e
-16g#
-16e
-=6
-16g#
-16a
-8cc
-8a
-=7
-16cc
-16ee
-8dd#
-8ee
-=8
-8cc
-4a}
+=5	=5	=5
+{8e	A	oj
+8e	je-	zoł-
+16g#L	-śli	-nierz
+16eJ	.	.
+=6	=6	=6
+16g#	mi	ci
+16a	nie	ja
+(8bq	.	.
+8cc)	wie-	zoł-
+8a\	-rzys,	-nierz,
+=7	=7	=7
+16cc	spójźryj	zoł-
+16ee	.	-nierz
+8dd#	mi	du-
+8ee	na	-bel-
+=8	=8	=8
+8bq	.	.
+8cc	koł-	-to-
+4a}	-nierz.	-wy.
 !!LO:LB:g=esac
-=9
-{4e
-16g#
-16e
-=10
-16g#
-16a
-16cc
-16ee
-16dd#
-16ee
-=11
-16ff#
-16ee
-16dd#
-16ee
-16ff#
-16gg#
-=12
-8dd#
-4ee}
+=9	=9	=9
+{4e	.	.
+16gL#	.	.
+16eJ	.	.
+=10	=10	=10
+16g#L	.	.
+16aJ	.	.
+16ccL	.	.
+16ee	.	.
+16dd#	.	.
+16eeJ	.	.
+=11	=11	=11
+16ff#L	.	.
+16ee	.	.
+16dd#	.	.
+16ee	.	.
+16ff#	.	.
+16gg#J	.	.
+=12	=12	=12
+8dd#	.	.
+4ee}	.	.
 !!LO:LB:g=esac
-=13
-{8e
-8e
-16g#
-16a
-=14
-16cc
-16ee
-8dd#
-8ee
-=15
-16ff#
-16ee
-8dd#
-8ee
-=16
-8cc
-4a}
-==
-*-
+=13	=13	=13
+{8eL	.	.
+8eJ	.	.
+16gL#	.	.
+16aJ	.	.
+=14	=14	=14
+8bq	.	.
+16ccL	.	.
+16eeJ	.	.
+8dd#L	.	.
+8eeJ	.	.
+=15	=15	=15
+16ffL#	.	.
+16eeJ	.	.
+8dd#L	.	.
+8eeJ	.	.
+=16	=16	=16
+8bq	.	.
+8cc	.	.
+4a}	.	.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. Zołnierz ci ja zołnierz,
+!!moja panno, zołnierz.
+!!A jeśli mi nie wierzys,
+!!spójźryj mi na kołnierz.
+!!@VERSE:
+!!2. Spojźryj ze na kołnierz
+!!spojźryj na rękawy,
+!!oj zołnierz ci ja zołnierz,
+!!zołnierz dubeltowy.
+!!@VERSE:
+!!3. Maserować krzykną,
+!!to pójdę z ochotą;
+!!na to nikiej nieuwazam,
+!!cy ślisko cy błoto.
+!!@VERSE:
+!!4. Choć piéniędzy niémam,
+!!to na to nic niedbam,
+!!pozyczę sę od kochanki,
+!!powiem: ze ci oddam.
+!!@@END: VERSES
+!!!role-singer: Soldier
+!!!role-listener: Mistress
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=234 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 223} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 223}
 !!!page: 223
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-16

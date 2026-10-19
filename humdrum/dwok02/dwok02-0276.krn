@@ -3,56 +3,83 @@
 !!!source: DWOK02
 !!!id: K0276
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8dd
-16dd
-16cc#
-8dd
-=2
-8dd
-16cc#
-16a
-8dd
-=3
-8dd
-16dd
-16cc#
-8dd
-=4
-8b
-16a
-16f#
-8g}
+**kern	**text	**text
+*clefG2	*	*
+*k[f#]	*	*
+*G:	*	*
+*M3/8	*	*
+=1	=1	=1
+!LO:TX:a:t=*)	!	!
+{8ddL	Oj	Jak
+8eeq	.	.
+16ddLL	mo-	ja
+16cc#JJ	.	.
+8eeq	.	.
+!LO:TX:a:t=*)	!	!
+8ddJ	-ja	cię
+=2	=2	=2
+8ddL	dziewcy-	o-
+(16cc#LL	.	-ba-
+16aJJ)	.	.
+8ddJ	-no,	-cę,
+=3	=3	=3
+!LO:TX:a:t=*)	!	!
+8ddL	mo-	ro-
+8eeq	.	.
+16ddLL	-je	-bo-
+16cc#JJ	.	.
+8eeq	.	.
+!LO:TX:a:t=*)	!	!
+8ddJ	lu-	-ta
+=4	=4	=4
+8b	-be	jak
+(16aL	ser-	sły-
+16f#)	.	.
+8gJ}	-ce,	-nął,
 !!LO:LB:g=esac
-=5
-{16d
-16f#
-8a
-8a
-=6
-8b
-16a
-16cc#
-8dd
-=7
-16d
-16f#
-8g
-8a
-=8
-8b
-16a
-16f#
-8g}
-==
-*-
+=5	=5	=5
+{16d	oj	ej
+16f#	jak	daj
+8a	ja	ci
+8a	cię	mi
+=6	=6	=6
+8b	nie	pan
+16a\L	wi-	Je-
+16cc#J	.	.
+8dd	-dzę,	-zus,
+=7	=7	=7
+16d	da	da
+16f#	ro-	jak
+8g	-bić	z_rą-
+8a	mi	-bka
+=8	=8	=8
+8b	się	wy-
+16aL	nie	-wi-
+16f#J	.	.
+8g}	chce.	-nął.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj moja dziewcyno,
+!!moje lube serce,
+!!oj jak ja cię nie widzę,
+!!da robić mi się nie chce.
+!!@VERSE:
+!!2. Jak ja cię obacę,
+!!robota jak słynął,
+!!ej dał ci mi pan Jezus,
+!!da jak z rąbka wywinął.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: Male
+!!@@BEGIN:
+!!@COMMENTARY: *) d, lub e,
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=224 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 213} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 213}
 !!!page: 213
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-18

@@ -3,56 +3,75 @@
 !!!source: DWOK02
 !!!id: K0284
 !!!signature:
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M3/8
-=1
-{8.ff
-16ee
-16cc
-16ee-
-=2
-16dd
-16b-
-8g
-8f
-=3
-16a
-16cc
-8ee-
-8ee-
-=4
-16dd
-16b-
-8g
-8f}
+**kern	**text	**text
+*clefG2	*	*
+*k[b-e-]	*	*
+*B-:	*	*
+*M3/8	*	*
+=1	=1	=1
+!LO:TX:a:t=Żona do męża.	!	!
+{8.ff	Oj-	A
+16ee	-ze	jak
+16cc	i-	ci
+16ee-	-no	mnie
+=2	=2	=2
+16dd	sta-	bę-
+16b-	-ry,	-dzies
+8g	si-	bi-jąn
+*	*	*ij
+8f	-wy!	(bijał)
+*	*	*Xij
+=3	=3	=3
+16a\	bę-	bę-
+16cc	-dzie	-dzie
+8ee-	chło-	trze-
+8ee-	-pak	-ci
+=4	=4	=4
+16dd	prze-	na
+16b-	-de	wi-
+8gM	zni-	-li-
+8f}	-wy,	-ją,
 !!LO:LB:g=esac
-=5
-{16a
-16cc
-8ee
-8ff
-=6
-16dd
-16b-
-8dd
-8ff
-=7
-16ff
-16ee
-8.cc
-16ee-
-=8
-16dd
-16b-
-8g
-8f}
-==
-*-
+=5	=5	=5
+{16\a	a	jak
+16cc	jak	ci
+8ee	ci	bę-
+8ff	się	-dą
+=6	=6	=6
+16dd	po-	do-
+16b-	-śpie-	-bre
+8dd	-sy-	sta-
+8ff	-wa,	-tki,
+=7	=7	=7
+16ff	bę-	bę-
+16ee	-dzie	-dzie
+8.cc	dru-	cwar-
+16ee-	-gi	-ty
+=8	=8	=8
+16ddm	w_ja-	na
+16b-	-re	o-
+8g	zni-	-sta-
+8f}	-wa.	-tki.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. Ojze ino stary, siwy!
+!!będzie chłopak przede zniwy,
+!!a jak ci się pośpiesywa,
+!!będzie drugi w jare zniwa.
+!!@VERSE:
+!!2. A jak ci mnie będzies bijan (bijał)
+!!będzie trzeci na wiliją,
+!!jak ci będą dobre statki,
+!!będzie cwarty na ostatki.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!role-listener: Man
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=228 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 217} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 217}
 !!!page: 217
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-15

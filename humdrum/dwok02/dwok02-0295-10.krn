@@ -3,82 +3,95 @@
 !!!source: DWOK02
 !!!id: K0295
 !!!signature: 0229500010
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-8r
-{16cc
-16cc
-16b
-16cc
-=2
-4.ee
-=3
-8r
-16ff
-16ee
-16dd
-16dd
-=4
-4.ee}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Pieśń piastunek.	!
+8r	.
+{16cc	Ko-
+16cc	-ko-
+16b	-so-
+16cc	-cka
+=2	=2
+4.ee	pstra,
+=3	=3
+8r	.
+16ff	cwo-
+16ee	-ro
+16dd	dzia-
+16dd	-tek
+=4	=4
+4.ee}	ma,
 !!LO:LB:g=esac
-=5
-8r
-{16dd
-16dd
-16ee
-16cc
-=6
-8dd
-8dd
-16ee
-16cc
-=7
-8r
-16ff
-16ee
-16dd
-16dd
-=8
-4.cc}
+=5	=5
+8r	.
+{16dd	je-
+16dd	-dno
+16ee	o-
+16cc	-rze
+=6	=6
+8dd	na
+8dd	u-
+16ee	-go-
+16cc	-rze,
+=7	=7
+8r	.
+16ff	dru-
+16ee	-gie
+16dd	po-
+16dd	-ga-
+=8	=8
+4.cc}	-nia.
 !!LO:LB:g=esac
-=9
-8r
-{16dd
-16dd
-16ee
-16cc
-=10
-8dd
-8dd
-16ee
-16cc
-=11
-8dd
-8dd
-16ee
-16cc
-=12
-8dd
-8dd
-16ee
-16cc
-=13
-8r
-16ff
-16ee
-16dd
-16dd
-=14
-8cc}
-4r
-==
-*-
+=9	=9
+8r	.
+{16dd	Trze-
+16dd	-cie
+16ee	sie-
+16cc	-dzi
+=10	=10
+8dd	na
+8dd	ka-
+16ee	-my-
+16cc	-cku,
+=11	=11
+8dd	trzy-
+8dd	-ma
+16ee	pie-
+16cc	-ski
+=12	=12
+8dd	na
+8dd	rze-
+16ee	-my-
+16cc	-cku,
+=13	=13
+8r	.
+16ff	cwar-
+16ee	-te
+16dd	przy-
+16dd	-gry-
+=14	=14
+8cc}	-wa.
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Kokosocka pstra,
+!!cworo dziatek ma,
+!!jedno orze na ugorze,
+!!drugie pogania.
+!!Trzecie siedzi na kamycku,
+!!trzyma pieski na rzemycku,
+!!cwarte przygrywa.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=233 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 222} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 222}
 !!!page: 222
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-15

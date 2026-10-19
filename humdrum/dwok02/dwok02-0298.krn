@@ -3,85 +3,104 @@
 !!!source: DWOK02
 !!!id: K0298
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16b
-16dd
-8ff
-8ff
-=2
-16ee
-16g
-16b
-16cc
-16ee
-16g
-=3
-16b
-16dd
-8ff
-8ff
-=4
-16ee
-16b
-8cc
-8g}
+**kern	**text	**text
+*clefG2	*	*
+*k[]	*	*
+*G:	*	*
+*M3/8	*	*
+=1	=1	=1
+{16b	Oj	Oj
+16dd	i-	i-
+8ff	-dzie	-dzie
+8aaq	.	.
+8ff	wo-	wo-
+=2	=2	=2
+16eeL	-da	-da
+16g\J	.	.
+16bL	i-	i-
+16ccJ	.	.
+16eeL	-dzie	-dzie
+16g\J	.	.
+=3	=3	=3
+16b	da	da
+16dd	i-	od
+8ff	-dzie	ko-
+8aaq	.	.
+8ff	roz-	-ścio-
+=4	=4	=4
+16eeL	-do-	-ła
+16bJ	.	.
+8cc	-ła-	stru-
+8g}	-mi,	-gą,
 !!LO:LB:g=esac
-=5
-{16b
-16dd
-8ff
-8ff
-=6
-16ee
-16g
-16b
-16cc
-16ee
-16gg
-=7
-16aa
-16ee
-8ff
-8ff
-=8
-16ee
-16b
-8cc
-8g}
+=5	=5	=5
+{16b	oj	oj
+16dd	i-	i-
+8ff	-dzie	-dzie
+8aaq	.	.
+8ff	wo-	wo-
+=6	=6	=6
+16eeL	-da	-da
+16g\J	.	.
+16bL	i-	i-
+16ccJ	.	.
+16ee/L	-dzie	-dzie
+16gg/J	.	.
+=7	=7	=7
+16aa/L	da	da
+16eeJ	i-	od
+8ff	-dzie	ko-
+8aaq	.	.
+8ff	roz-	-ścio-
+=8	=8	=8
+16eeL	-do-	-ła
+16bJ	.	.
+8cc	-ła-	stru-
+8g}	-mi,	-gą,
 !!LO:LB:g=esac
-=9
-{16b
-16dd
-8.gg
-16b
-=10
-16dd
-16cc
-16d
-16f#
-16a
-16cc
-=11
-16ee
-16dd
-8b
-16g
-16b
-=12
-16dd
-16cc
-16d
-16f#
-8g}
-==
-*-
+=9	=9	=9
+{16b	oj	oj
+16dd	jak	jak
+8.gg	ci	mi
+16b	mnie	je-
+=10	=10	=10
+16ddL	nie	-dna
+16ccJ	.	.
+16dL	ko-	u-
+16f#J	.	.
+16a\L	-chas,	-mrze,
+16ccJ	.	.
+=11	=11	=11
+16ee	da	da
+16dd	pój-	o-
+8b	-dę	-ze-
+16g\L	z_żoł-	-nię
+16bJ	.	.
+=12	=12	=12
+16ddL	-nie-	się
+16ccJ	.	.
+16dL	-rza-	z_dru-
+16f#J	.	.
+8g}	-mi.	-gą.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj idzie woda idzie
+!!da idzie rozdołami,
+!!Oj jak ci mnie nie kochas,
+!!da pójdę z żołnierzami.
+!!@VERSE:
+!!2. Oj idzie woda idzie
+!!da od kościoła strugą,
+!!oj jak mi jedna umrze,
+!!da ozenię się z drugą.
+!!@@END: VERSES
+!!!role-singer: Mistress, Lover
+!!!singer-sex: Female, Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=234 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 223} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 223}
 !!!page: 223
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-16

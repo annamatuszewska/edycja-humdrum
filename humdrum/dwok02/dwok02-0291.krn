@@ -3,54 +3,65 @@
 !!!source: DWOK02
 !!!id: K0291
 !!!signature:
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{8ff#
-8.ee
-16dd
-=2
-16cc
-16b
-8a
-8e
-=3
-16a
-16b
-8cc
-16b
-16g#
-=4
-8e
-4e}
+**kern	**text	**text
+*clefG2	*	*
+*k[]	*	*
+*a:	*	*
+*M3/8	*	*
+=1	=1	=1
+{8ff#	Oj	Oj
+8.ee	co	jak
+16dd	sie	bia-
+=2	=2	=2
+16cc	haj-	-ły
+16b	-tu	ka-
+8a\	bie-	-my-
+8e	-li	-cek,
+=3	=3	=3
+16a\	u	bę-
+16b	wietrzne-	-de
+8cc	.	sie
+16bL	-go	u-
+16g#\J	.	.
+=4	=4	=4
+8e	mły-	-my-
+4e}	-na,	-kał,
 !!LO:LB:g=esac
-=5
-{8a
-8b
-16cc
-16b
-=6
-8dd
-8cc
-16b
-16g#
-=7
-16a
-16b
-16cc
-16a
-16b
-16g#
-=8
-8e
-4e}
-==
-*-
+=5	=5	=5
+{8a\	cy	jak
+8b	bia-	mo-
+16ccL	-ły	-ja
+16bJ	.	.
+=6	=6	=6
+8dd	ka-	dzie-
+8cc	-my-	-wcy-
+16b/L	-cek,	-na,
+16g#J	.	.
+=7	=7	=7
+16a\	cy	bę-
+16b	mo-	-de
+16ccL	-ja	się
+16a\J	.	.
+16bL	dzie-	przy-
+16g#\J	.	.
+=8	=8	=8
+8e	-wcy-	-my-
+4e}	-na,	-kał.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!Oj co sie hajtu bieli u wietrznego młyna,
+!!cy biały kamycek, cy moja dziewcyna.
+!!@VERSE:
+!!Oj jak biały kamycek, będe sie umykał,
+!!jak moja dziewcyna, będe się przymykał.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=231 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 220} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 220}
 !!!page: 220
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-15

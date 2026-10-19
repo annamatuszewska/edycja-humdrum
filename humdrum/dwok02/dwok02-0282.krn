@@ -3,50 +3,60 @@
 !!!source: DWOK02
 !!!id: K0282
 !!!signature:
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/8
-=1
-{16a
-16b
-8cc#
-8dd
-=2
-8b
-4cc#
-=3
-16a
-16b
-8cc#
-8dd
-=4
-8cc#
-4ee}
+**kern	**text	**text
+*clefG2	*	*
+*k[f#c#g#]	*	*
+*A:	*	*
+*M3/8	*	*
+=1	=1	=1
+{16a\	Czy-	Czy-
+16b	-je	-je
+8cc#	to	to
+8dd	ko-	ko-
+=2	=2	=2
+8b	-ni-	-ni-
+4cc#	-ki	-ki
+=3	=3	=3
+16a\	cho-	zar-
+16b	-dzą	ża-
+8cc#	gdy-	-ły
+8dd	-by	zar-
+=4	=4	=4
+8cc#	by-	ża-
+4ee}	-ki?	-ły?
 !!LO:LB:g=esac
-=5
-{16ee
-16ff#
-4ee
-=6
-8cc#
-16dd
-16b
-8a
-=7
-16cc#
-16cc#
-16dd
-16b
-8a
-=8
-8g#
-4a}
-==
-*-
+=5	=5	=5
+{16ee	pa-	pa-
+16ff#	-na	-na
+4ee	Bie-	Bie-
+=6	=6	=6
+8cc#	-law-	-law-
+16ddL	-skie-	-skie-
+16bJ	.	.
+8a	-go	-go
+=7	=7	=7
+16cc#	na-	bo
+16cc#	-ja-	ja-
+16ddL	-dły	-dą
+16bJ	.	.
+8a	się	z_War-
+=8	=8	=8
+8g#	wy-	-sa-
+4a}	-ki.	-wy.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. Czyje to koniki chodzą gdyby byki?
+!!pana Bielawskiego najadły się wyki.
+!!@VERSE:
+!!2. Czyje to koniki zarżały zarżały?
+!!pana Bielawskiego bo jadą z Warszawy.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=227 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 216} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 216}
 !!!page: 216
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-15

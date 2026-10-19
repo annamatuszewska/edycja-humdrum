@@ -3,59 +3,74 @@
 !!!source: DWOK02
 !!!id: K0296a
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{4.f}
+**kern	**text	**text
+*clefG2	*	*
+*k[b-]	*	*
+*F:	*	*
+*M3/8	*	*
+=1	=1	=1
+!LO:TX:a:t=Dziad.	!	!
+{4.f;}	.	.
 !!LO:LB:g=esac
-=2
-{16f
-16a
-8cc
-8cc
-=3
-8dd
-8cc
-8b
-=4
-8cc
-16a
-16a
-8f
-=5
-8g
-32e
-16.c}
-8r
+=2	=2	=2
+{16f	Za-	A
+16a	-śpi-	je-
+8cc	-waj	-ze-
+8cc	mi	-liś
+=3	=3	=3
+8dd	za	poć-
+8cc	śpi-	-ci-
+8b	-waj	-wa
+=4	=4	=4
+8cc	i	i
+16a\	ja	skrzę-
+8b-Xq	.	.
+16a\	ci	-tna
+8f	za-	dzie-
+=5	=5	=5
+8g	-śpi-	-wcy-
+(>32eL	.	-na,
+16.c)J}	-wam,	.
+8r	.	.
 !!LO:LB:g=esac
-=6
-{16c
-16e
-8f
-8f
-=7
-8a
-8b-
-32a
-16.b-
-=8
-16cc
-16a
-8a
-8d
-=9
-8g
-32e
-16.c}
-8r
-==
-*-
+=6	=6	=6
+{16c	ka-	to
+16e	-zę	niech
+8f	ci	cię
+8f	dać	dla
+=7	=7	=7
+8a\	go-	mnie
+8b-	-rzał-	za-
+32a\L	-ki	-dna
+16.b-J	.	.
+=8	=8	=8
+16cc	choć	nie
+16a\	w_tor-	psu-
+8b-q	.	.
+8a\	-bie	-je
+8d	nie	przy-
+=9	=9	=9
+8g	ni-	-cy-
+32eL	-mam.	-na.
+16.cJ}	.	.
+8r	.	.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!Zaśpiwaj mi za śpiwaj i ja ci zaśpiwam,
+!!kazę ci dać gorzałki choć w torbie nie nimam.
+!!A jezeliś poćciwa i skrzętna dziewcyna,
+!!to niech cię dla mnie zadna nie psuje przycyna.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Girl
+!!!singer-sex: Male
+!!!RDF**kern: >= above
 !!!ONB: Czesc pierwsza - partia meska
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=233 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 222} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 222}
 !!!page: 222
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-15
