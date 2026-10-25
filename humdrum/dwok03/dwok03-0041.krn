@@ -3,131 +3,156 @@
 !!!source: DWOK03
 !!!id: K0041
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16g
-16g
-8b-
-16ff
-16ee
-=2
-16cc
-16g
-8g
-8g
-=3
-8cc
-8b-
-16g
-16f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16g	Oj
+16g	żal
+8b-	mi
+8ddq	.
+16ffL	cię
+16eeJ	.
+=2	=2
+16cc	pan-
+16a	-no
+8a	mło-
+8a	-da,
+=3	=3
+8cc	żal
+8bM-	mi
+16gL	cię
+16f}J	.
 !!LO:LB:g=esac
-=4
-{16g
-16g
-8g
-8a
-=5
-16f
-16a
-8g
-8g
-=6
-8cc
-8b-
-16g
-16f}
+=4	=4
+{16g	że-
+16g	-byś
+8g	by-
+8a	-ła
+=5	=5
+16f	ja-
+16a	-go-
+8g	-decz-
+8g	-ką
+=6	=6
+8cc	zjad-
+8b-M	-bym
+16gL	cię.
+16f}J	.
 !!LO:LB:g=esac
-=7
-{16g
-16g
-8g
-8a
-=8
-16f
-16a
-8g
-8g
-=9
-8a
-8g
-16g
-16f}
+=7	=7
+{16g	że-
+16g	-byś
+8g	by-
+8a	-ła
+=8	=8
+16f	ja-
+16a	-go-
+8g	-decz-
+8g	-ką
+=9	=9
+8a	zjad-
+8gM	-bym
+16gL	cię.
+16f}J	.
 !!LO:LB:g=esac
-=
-{24g
-24e
-24g
-8b-
-24aa
-24gg
-24ff
-=
-16cc
-16a
-8a
-24a
-24g
-24a
-=
-8cc
-8b-
-24g
-24e
-24f}
+=10	=10
+*Xtuplet	*
+{24gL	.
+24e	.
+24g	.
+8b-J	.
+24aaL	.
+24gg	.
+24ffJ	.
+=11	=11
+16ccL	.
+16a\	.
+8a\J	.
+24aL	.
+24g	.
+24aJ	.
+=12	=12
+8ccL	.
+8b-JM	.
+24gL	.
+24e	.
+24f}J	.
 !!LO:LB:g=esac
-=
-{16g
-16g
-8g
-24b-
-24a
-24g
-=
-24f
-24a
-24g
-8g
-24g
-24f
-24g
-=
-8cc
-8b-
-24g
-24e
-24f}
+=13	=13
+{16gL	.
+16g	.
+8gJ	.
+24b/L-	.
+24a	.
+24gJ	.
+=14	=14
+24fL	.
+24a	.
+24gJ	.
+8gL	.
+24g	.
+24f	.
+24gJ	.
+=15	=15
+8ccLM	.
+8b-JM	.
+24gL	.
+24e	.
+24f}J	.
 !!LO:LB:g=esac
-=
-{16g
-16g
-8g
-24b-
-24a
-24g
-=
-24f
-24a
-24g
-8g
-24g
-24f
-24g
-=
-24g
-24a
-24b-
-8g
-24g
-24e
-24f}
-==
-*-
+=16	=16
+{16gL	.
+16g	.
+8gJ	.
+24b/L-	.
+24a	.
+24gJ	.
+=17	=17
+24fL	.
+24a	.
+24gJ	.
+8gL	.
+24g	.
+24f	.
+24gJ	.
+=18	=18
+24a\L	.
+24b-	.
+24ccJ	.
+8gL	.
+24g	.
+24e	.
+24fJ}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj żal mi cię panno-młoda,
+!!żol mi cię,
+!!żebyś była jagodeczką
+!!zjodbym cię.
+!!@VERSE:
+!!2. Żebyś była jagódeczkom
+!!borowom,
+!!zjodbym jo cię raniutyńko
+!!surowom.
+!!@VERSE:
+!!Drużba z panem-młodym:
+!!Konie, woły utracę,
+!!a ten czepek zapłacę.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: wedding ceremony - during the "oczepiny" ritual
+!!@@END:
+!!!role-singer: Narrator
+!!!role-listener: Bride
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=286 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 274} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 274}
 !!!page: 274
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-25

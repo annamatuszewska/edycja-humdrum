@@ -3,110 +3,122 @@
 !!!source: DWOK03
 !!!id: K0006
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/4
-=1
-{8f
-8a
-4cc
-4a
-=2
-8dd
-8dd
-4dd
-4cc
-=3
-8a
-8cc
-4.b-
-8g
-=4
-4g
-4f}
-4r
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/4	*
+=1	=1
+{8f	Ach
+8a	wi-
+4cc	-taj-
+4a\	-że
+=2	=2
+8dd	po-
+8dd	-żą-
+4dd	-da-
+4cc	-na
+=3	=3
+8a\	per-
+8cc	-ło
+4.b-	dro-
+8g	-ga
+=4	=4
+4g	z_nie-
+4f}	-ba
+4r	.
 !!LO:LB:g=esac
-=5
-{8f
-8a
-4cc
-4a
-=6
-8dd
-8dd
-8dd
-8cc
-4cc
-=7
-8a
-8cc
-4.b-
-8g
-=8
-4g
-4f}
-4r
+=5	=5
+{8f	gdy
+8a	świat
+4cc	ca-
+4a\	-ły
+=6	=6
+8dd	u-
+8dd	-pra-
+8dd/L	-gnio-
+8cc/J	.
+4cc	-ny
+=7	=7
+8a\	a-
+8cc	-niel-
+4.b-	-skie-
+8g	-go
+=8	=8
+4g	chle-
+4f}	-ba.
+4r	.
 !!LO:LB:g=esac
-=9
-{4.cc
-8b-
-8a
-8b-
-=10
-8cc
-8f
-4a
-4b-
-=11
-4.cc
-8b-
-8a
-8b-
-=12
-8cc
-8e
-4g
-4f}
+=9	=9
+{4.cc	W_ciele
+8b-	.
+8a\	ludzkiém
+8b-	.
+=10	=10
+8cc	Bóg
+8f	jest
+4a	skryty,
+4b-	.
+=11	=11
+4.cc	na
+8b-	pokarm
+8a\	.
+8b-	ludziom
+=12	=12
+8cc	.
+8e	ob-
+4g	-fi-
+4f}	-ty,
 !!LO:LB:g=esac
-=13
-{8a
-8cc
-4cc
-8b-
-8a
-=14
-8g
-8b-
-4b-
-4a
-=15
-8a
-8cc
-4cc
-8b-
-8a
-=16
-8g
-8b-
-4b-
-4a
-=17
-8f
-8e
-8f
-8g
-8a
-8b-
-=18
-4cc
-4e
-4f}
-==
-*-
+=13	=13
+{8a\	Ciałem
+8cc	.
+4cc	karmi,
+8b-L	.
+8a\J	.
+=14	=14
+8g	krwią
+8b-	na-
+4b-	-po-
+4a	-i,
+=15	=15
+8a	by
+8cc	człowieka
+4cc	.
+8b-L	.
+8a\J	.
+=16	=16
+8g	w_chwale
+8b-	.
+4b-	swojéj
+4a	.
+=17	=17
+8f	mię-
+8e	-dzy
+8f	wy-
+8g	-bra-
+8a	-ne-
+8b-/	-mi
+=18	=18
+4cc	po-
+4e	-li-
+4f}	-czył.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Ach witajże pożądana perło droga z nieba
+!!gdy świat cały upragniony anielskiego chleba.
+!!W ciele ludzkiém Bóg jest skryty,
+!!na pokarm ludziom obfity,
+!!Ciałem karmi, krwią napoi,
+!!by człowieka w chwale swojéj
+!!między wybranemi policzył.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=222 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 210} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 210}
 !!!page: 210
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-20

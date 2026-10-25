@@ -3,101 +3,124 @@
 !!!source: DWOK03
 !!!id: K0047
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8d
-8g
-8a
-=2
-4b
-16a
-16g
-=3
-4b
-16a
-16g
-=4
-4b
-8cc
-=5
-4dd}
-8r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8d	Na
+8g	bo-
+8a	-ru
+=2	=2
+4b/	so-
+(16a	-sna
+16g)	.
+=3	=3
+4b/	so-
+(16a	-sna
+16g)	.
+=4	=4
+4b	go-
+8cc	-rza-
+=5	=5
+4dd}	-ła
+8r	.
 !!LO:LB:g=esac
-=6
-{8d
-8g
-8a
-=7
-4b
-16a
-16g
-=8
-4b
-16a
-16g
-=9
-4dd
-8f#
-=10
-4g}
-8r
+=6	=6
+{8d	pa-
+8g	-nien-
+8a	-ka
+=7	=7
+4b/	pod
+(16aL	nią
+16g)J	.
+=8	=8
+4b/	pod
+(16aL	nią
+16g)J	.
+=9	=9
+4dd	sto-
+8f#	-ja-
+=10	=10
+4g}	-ła
+8r	.
 !!LO:LB:g=esac
-=11
-{8dd
-8b
-8ee
-=12
-8cc
-8a
-8cc
-=13
-16b
-16g
-8b
-8dd
-=14
-8a
-8c
-8d
-=15
-4dd
-8a
-=16
-4.g}
+=11	=11
+{8dd	skry
+8b	na
+8ee	nią
+=12	=12
+8cc	pa-
+8a\	-da-
+8cc	-ły
+=13	=13
+16b	sza-
+16g	-ty
+8b	na
+8dd	ni
+=14	=14
+8a\	go-
+8c\	-rza-
+8d\	-ły
+=15	=15
+4dd	nie-
+8a	-dba-
+=16	=16
+4.g}	-ła.
 !!LO:LB:g=esac
-=17
-{16dd
-16b
-8dd
-8ee
-=18
-8cc
-8a
-8cc
-=19
-16b
-16g
-8b
-8dd
-=20
-8a
-16f#
-16d
-16f#
-16a
-=21
-4dd
-8a
-=22
-4.g}
-==
-*-
+=17	=17
+{16dd/L	skry
+16b/	.
+8dd/J	na
+8ee	nią
+=18	=18
+8cc	pa-
+8a\	-da-
+8cc	-ły
+=19	=19
+16b	sza-
+16g	-ty
+8b	na
+8dd	ni
+=20	=20
+8a	go-
+16fL#	-rza-
+16d	.
+16f#	-ły
+16aJ	.
+=21	=21
+4dd	nie-
+8a	-dba-
+=22	=22
+!LO:TX:a:t=Starszy drużba u okien domów z grajkiem (48)&colon;	!
+4.g}	-ła.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Na boru sosna gorzała
+!!panienka pod nią stojała
+!!skry na nią padały
+!!szaty na ni gorzały
+!!niedbała.
+!!@VERSE:
+!!2. Przyjechoł do ni stary pon
+!!i rzucił na niom swój żupon.
+!!Nie dom ci wionyszka,
+!!bom młoda dziweczka,
+!!tyś stary.
+!!@VERSE:
+!!3. Przyjechoł do ni młodzieniec
+!!i prosiłci jom o wieniec.
+!!Wisi ich hajno sześć
+!!wybiérajże chtórny chcesz
+!!boś młody.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=289 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 277} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 277}
 !!!page: 277
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-25

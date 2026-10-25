@@ -3,53 +3,74 @@
 !!!source: DWOK03
 !!!id: K0014
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16a
-16b-
-8cc
-8a
-=2
-16cc
-16b-
-8a
-8b-
-=3
-16g
-16a
-8b-
-8g
-=4
-16b-
-16a
-8g
-8a}
+**kern	**text	**text
+*clefG2	*	*
+*k[b-]	*	*
+*F:	*	*
+*M3/8	*	*
+=1	=1	=1
+{16a\	1. Skoń-	2. Daj
+16b-	-czy-	Bo-
+8cc	-li-	-że
+8a\	-śmy	by
+=2	=2	=2
+16cc	na	plo-
+16b-	ot-	-no-
+8a\	-ło-	-wa-
+8b-	-gu,	-ło,
+=3	=3	=3
+16g	dzię-	po
+16a	-ku-	sto
+8b-	-je-	kor-
+8g\	-my	-cy
+=4	=4	=4
+16b-	pa-	z_mę-
+16a\	-nu	-dla
+8g	Bo-	da-
+8a}	-gu,	-ło,
 !!LO:LB:g=esac
-=5
-{16f
-16e
-8d
-16f
-16e
-=6
-4.g
-=7
-16f
-16e
-8d
-16f
-16e
-=8
-4c}
-8r
-==
-*-
+=5	=5	=5
+{16f	Plon	Plon itd.
+16e	nie-	.
+8d	-sie-	.
+16fL	-ma	.
+16eJ	.	.
+=6	=6	=6
+4.g	plon,	.
+=7	=7	=7
+16f	je-	.
+16e	-go-	.
+8d	-mo-	.
+16fL	-ści	.
+16eJ	.	.
+=8	=8	=8
+4c}	w_dom.	.
+8r	.	.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. Skończyliśmy na otłogu,
+!!dziękujemy panu Bogu,
+!!Plon niesiema plon,
+!!jegomości w dom.
+!!@VERSE:
+!!3. Przede dworem stoi woda,
+!!u naszego (pana) duża broda.
+!!@VERSE:
+!!4. Przede dworem stoją żarna,
+!!nasza pani kieby sarna.
+!!@VERSE:
+!!5. A jegomość kieby zając,
+!!chodzi za nią podrygając.
+!!@VERSE:
+!!6. Koło dworu kania leci,
+!!gubernantka pilna dzieci.
+!!@@END: VERSES
+!!!role-singer: Group 
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=247 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 235} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 235}
 !!!page: 235
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-20

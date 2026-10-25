@@ -3,61 +3,133 @@
 !!!source: DWOK03
 !!!id: K0018
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16b
-8dd
-8dd
-=2
-4b
-16a
-16g
-=3
-16f#
-32a
-32b
-8cc
-8ee
-=4
-4a
-32g
-16f#}
-32r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Pa-
+16b	-dła
+8dd	mu-
+8dd	-cha
+=2	=2
+4bm	na
+8bq	ko-
+16a	-no-
+16g	-pie,
+=3	=3
+16f#	zro-
+32aL	-bi-
+32b/J	.
+8cc	-ła
+8ccq	.
+8ee	o-
+=4	=4
+4a	-sia-
+32gL	-da;
+16f#J}	.
+32r	.
 !!LO:LB:g=esac
-=5
-{16.e
-32e
-8e
-16e
-16g
-=6
-16b
-16b
-16b
-16a
-16b
-16g
-=
-16f#
-16a
-8cc
-24cc
-24b
-24cc
-=7
-4a
-32g
-16f#}
-32r
-==
-*-
+=5	=5
+{16.e	oj-
+32e	-ciec,
+8e	mat-
+16eL	-ka
+16gJ	.
+=6	=6
+16b	nie
+16b	po-
+8ccq	.
+16bL	-zwa-
+16a\	.
+16bJ	.
+16g	-la,
+=7	=7
+16f#	a
+16a	có-
+8cc	-ru-
+8ddq	.
+!LO:TUP:a	!
+(24ccL	-sia
+24b	.
+24ccJ)	.
+=8	=8
+4a	ra-
+32gL	-da.
+16f#J}	.
+32r	.
+=9	=9
+{16g	Pa-
+32a/L	-dła
+32b/J	.
+8dd	mu-
+8dd	-cha
+=10	=10
+4bm	na
+8bq	ko-
+16a	-no-
+16g	-pie,
+=11	=11
+16f#	o-
+32aL	-trą-
+32b/J	.
+8cc	-ci-
+8ccq	.
+8ee	-ła
+=12	=12
+4a	kwia-
+32gL	-tek:
+16f#J}	.
+32r	.
+!!LO:LB:g=esac
+=13	=13
+{16.e	już-
+32e	-ci
+8e	ty
+16eL	mnie
+16gJ	.
+=14	=14
+16b	Mar-
+16b	-ci-
+8ccq	.
+16bL	-ne-
+16a\	.
+16bJ	.
+16g	-czku
+=15	=15
+16f#	za-
+16a	-wią-
+8cc	-zu-
+8ddq	.
+!LO:TUP:a	!
+(24ccL	-jesz
+24b	.
+24ccJ)	.
+=16	=16
+4a	świa-
+32gL	-tek.
+16f#J}	.
+32r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Padła mucha na konopie,
+!!zrobiła osiada;
+!!ojciec, matka nie pozwala,
+!!a córusia rada.
+!!Padła mucha na konopie,
+!!otrąciła kwiatek:
+!!jużci ty mnie Marcineczku
+!!zawiązujesz światek.
+!!@@END: VERSES
+!!!role-singer: Future bride
+!!!role-listener: future groom
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=263 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 251} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 251}
 !!!page: 251
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-21

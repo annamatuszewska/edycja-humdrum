@@ -3,106 +3,125 @@
 !!!source: DWOK03
 !!!id: K0040
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{4.dd
-8b
-8dd
-8ee
-=2
-4cc
-8b
-8cc
-8ee
-8dd
-=
-4b
-12b
-12a
-12g
-4g
-=3
-4a
-16g
-16f#
-16e
-16f#
-4d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{4.dd	I
+8b	daj-
+8dd	-żeć
+8ee	już
+=2	=2
+4cc	pan-
+8b	-no
+8cc	mło-
+8ee	-da
+8dd	wio-
+=3	=3
+4b	-nysz-
+*Xtuplet	*
+12bL	-ko-
+12a\	.
+12g\J	.
+4g	-wi
+=4	=4
+4aM	od-
+16gL	.
+16f#	-po-
+16e	.
+16f#J	.
+4d}	-widź,
 !!LO:LB:g=esac
-=4
-{8d
-8e
-8f#
-8g
-8a
-8b
-=5
-8d
-8e
-8f#
-8g
-8a
-8g
-=6
-8a
-8b
-8cc
-8b
-8cc
-8ee
-=
-4dd
-12b
-12a
-12g
-4g
-=7
-4a
-16g
-16f#
-16e
-16f#
-4d}
+=5	=5
+{8dL	i
+8eJ	.
+8f#	niech-
+8g	-żeć
+8aL	już
+8b/J	.
+=6	=6
+8dL	i
+8eJ	.
+8f#	niech-
+8g	-żeć
+8aL	już
+8gJ	.
+=7	=7
+8a\	do
+8b	twy
+8ccL	gło-
+8bJ	.
+8ccL	-wy
+8eeJ	.
+=8	=8
+4dd	ni-
+12b/L	.
+12a	-ma
+12gJ	.
+4g	nic
+=9	=9
+4aM	ni-
+16gL	.
+16f#	-ma
+16e	.
+16f#J	.
+4d}	nic.
 !!LO:LB:g=esac
-=
-{8d
-8e
-8f#
-8g
-12a
-12b
-12g
-=
-8a
-8b
-8cc
-8b
-12cc
-12ee
-12dd
-=
-4b
-12b
-12a
-12g
-4g
-=8
-8a
-16b
-16a
-16g
-16f#
-16e
-16f#
-4d}
-==
-*-
+=10	=10
+{8dL	.
+8e	.
+8f#	.
+8gJ	.
+12aL	.
+12b/	.
+12gJ	.
+=11	=11
+8a\L	.
+8b	.
+8cc	.
+8bJ	.
+12cLc	.
+12ee	.
+12ddJ	.
+=12	=12
+4b	.
+12b/L	.
+12a	.
+12gJ	.
+4g	.
+=13	=13
+8a;L	.
+16b/	.
+16aJ	.
+16gL	.
+16f#	.
+16e	.
+16f#J	.
+4d}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. I doj (daj) że-ć już panno-młoda
+!!wionyszkowi odpowidź
+!!i niechżeć już (:,:) do twy głowy
+!!nima nic — nima nic.
+!!@VERSE:
+!!2. Tylko-ć ino weź panno-młoda
+!!na swą głowę biały płat,
+!!nie pozna cię (:,:) twój wionyszek,
+!!cały świat — cały świat.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: best man and musician
+!!@@END:
+!!!role-singer: Narrator
+!!!role-listener: Bride
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=285 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 273-274} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), pp. 273-274}
 !!!page: 273-274
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-24

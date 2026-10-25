@@ -3,80 +3,115 @@
 !!!source: DWOK03
 !!!id: K0031
 !!!signature:
-**kern
-*clefG2
-*k[b-e-]
-*g:
-*M3/8
-=1
-{8d
-8dd
-8cc#
-=2
-4dd
-8g
-=3
-16b-
-16a
-8g
-8a
-=4
-8f#
-4d}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*g:	*
+*M3/8	*
+=1	=1
+{8d	Oj
+8dd	przy-
+8cc#	-je-
+=2	=2
+4dd/	-cha-
+8g\	-li
+=3	=3
+16b-	żoł-
+16a	-nie-
+8g	-rze
+8a	z_o-
+=4	=4
+8f#	-bo-
+4d}	-zu.
 !!LO:LB:g=esac
-=5
-{8d
-8dd
-8cc#
-=6
-4dd
-8cc#
-=7
-16b-
-16a
-8g
-8a
-=8
-8f#
-4d}
+=5	=5
+{8d	i
+8dd	u-
+8cc#	-sta-
+=6	=6
+4dd/	-nyli
+8cc#/	na
+=7	=7
+16b-	pań-
+16a	-ski-
+8g	-ni
+8a	po-
+=8	=8
+8f#	-dwó-
+4d}	-rzu.
 !!LO:LB:g=esac
-=9
-{8d
-8f#
-8d
-=10
-4g
-16b-
-16a
-=11
-16g
-16a
-8f#
-8d
-=12
-8g
-4b-}
+=9	=9
+{8d	I
+8f#	wy-
+8d	-szła
+=10	=10
+4g	do
+16b-/L	nich
+16aJ	.
+=11	=11
+16g	Ma-
+16a	-ry-
+8f#	-sień-
+8d	-ka
+=12	=12
+8g\	w_bie-
+4b-}	-li.
 !!LO:LB:g=esac
-=13
-{8d
-8f#
-8d
-=14
-4g
-16b-
-16a
-=15
-16g
-16a
-8f#
-8d
-=16
-8g
-4g}
-==
-*-
+=13	=13
+{8d	a
+8f#	cze-
+8d	-go
+=14	=14
+4g	żeś-
+16b/L-	-cie
+16aJ	.
+=15	=15
+16g	to
+16a	pa-
+8f#	-no-
+8d	-wie
+=16	=16
+8g\	chcie-
+4g}\	-li?
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Oj przyjechali żołnierze z obozu.
+!!i ustanyli na pańskini podwórzu.
+!!I wyszła do nich Marysieńka w bieli.
+!!a czego żeście to panowie chcieli?
+!!@VERSE:
+!!1. Oj przyjechali żołnierze z obozu,
+!!i ustanyli na pańskini podwórzu.
+!!I wyszła do nich Marysieńka w bieli:
+!!a czego żeście to panowie chcieli?
+!!@VERSE:
+!!2. Ciebie to ciebie Marysińko chcemy,
+!!co wobce kraje z tobom pojedziemy.
+!!Nie pojadęć ja z wamy w obce kraje,
+!!bo my matula odjiżdżać nie daje.
+!!@VERSE:
+!!3. Chyba my stanie sześć koni w karycie,
+!!sidmi służących w czystym jaxamicie;
+!!chyba mi stanie kapela do grania,
+!!i sześć panienek do potańcowania.
+!!A i jać téż będę się na tém i znała,
+!!a i jać téż będę sama tańcowała.
+!!@VERSE:
+!!4. Oj Maryś, Maryś, nie żądaj tak wiele,
+!!bo ci wypadnie z za sznurówki ziele.
+!!To drogie ziele wiele kosztowało,
+!!sidem tysięcy ze siebie (lub: z szkatuły)
+!![wydało.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: wedding ceremony
+!!@@END:
+!!!role-singer: Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=281 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 269} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 269}
 !!!page: 269
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-24

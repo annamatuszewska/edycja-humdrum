@@ -3,73 +3,81 @@
 !!!source: DWOK03
 !!!id: K0023
 !!!signature: 0302300000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8dd
-8dd
-8ee
-=2
-16cc
-16a
-8b
-8cc
-=3
-8dd
-4cc}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8dd	Puk
+8dd	puk
+8ee	puk
+=2	=2
+16cc	do
+16a\	téj
+8b	no-
+8cc	-wy
+=3	=3
+8dd	bud-
+4cc}	-ki,
 !!LO:LB:g=esac
-=4
-{16b
-16a
-8b
-8cc
-=5
-8b
-8b
-8cc
-=6
-16a
-16g
-8f#
-8d
-=7
-8dd
-4dd}
+=4	=4
+{16b	niech-
+16a\	-że
+8b	téż
+8cc	się
+=5	=5
+8b	zmi-
+8b	-łu-
+8cc	-je
+=6	=6
+16a	wy-
+16g	-nie-
+8f#	-sie
+8d	nam
+=7	=7
+8dd	wód-
+4dd}	-ki.
 !!LO:LB:g=esac
-=8
-{16b
-16a
-8b
-8cc
-=9
-16a
-16g
-8f#
-8d
-=10
-8g
-4g}
+=8	=8
+{16bL	.
+16a\J	.
+8bL	.
+8ccJ	.
+=9	=9
+16aL	.
+16gJ	.
+8f#L	.
+8dJ	.
+=10	=10
+8g	.
+4g}	.
 !!LO:LB:g=esac
-=11
-{16b
-16a
-8b
-8cc
-=12
-16a
-16g
-8f#
-8d
-=13
-8g
-4g}
-==
-*-
+=11	=11
+{16bL	.
+16a\J	.
+8bL	.
+8ccJ	.
+=12	=12
+16aL	.
+16gJ	.
+8f#L	.
+8dJ	.
+=13	=13
+8g	.
+!LO:TX:a:t=W izbie śpiéwają potém niewiasty różne pieśni, jak np. na dzień dobry (24).	!
+4g}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Puk puk puk do téj nowy budki,
+!!niechże téż się zmiłuje wyniesie nam wódki.
+!!@@END: VERSES
+!!!role-singer: Group
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=272 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 260} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 260}
 !!!page: 260
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-21

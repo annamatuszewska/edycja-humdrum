@@ -3,85 +3,98 @@
 !!!source: DWOK03
 !!!id: K0045
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16b
-8dd
-8dd
-=2
-16ee
-16cc
-8b
-8dd
-=3
-16g
-16b
-8dd
-8dd
-=4
-16ee
-16cc
-8b
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Cię-
+16b/	-ża-
+8dd	-ły
+8dd	wstąż-
+=2	=2
+16ee	-ki
+16cc	da
+8b	wstąż-
+8dd	-ki,
+=3	=3
+16g	cię-
+16b	-ża-
+8dd	-ły
+8dd	wstąż-
+=4	=4
+16ee	-ki
+16cc	da
+8b	da-
+8g}	-na,
 !!LO:LB:g=esac
-=5
-{16d
-16f#
-8a
-16g
-16b
-=6
-16dd
-16cc
-16a
-16dd
-8b
-=7
-16d
-16f#
-8a
-16g
-16b
-=8
-16g
-16f#
-16e
-16g
-8d}
+=5	=5
+{16d	nie
+16f#	bę-
+8a	-dzie
+16gL	ci
+16b/J	.
+=6	=6
+16dd	czy-
+16cc	-pek
+16a\L	cię-
+16ddJ	.
+8b	-żał,
+=7	=7
+16d	bo
+16f#	tul
+8a	cie-
+16gL	-nuś-
+16b/J	.
+=8	=8
+16g	-ki
+16f#	da
+16eL	da-
+16gJ	.
+8d}	-na.
 !!LO:LB:g=esac
-=9
-{16d
-16f#
-8a
-16g
-16b
-=10
-16dd
-16ee
-16cc
-16b
-8dd
-=11
-16d
-16f#
-8a
-16g
-16b
-=12
-16g
-16f#
-16e
-16g
-8d}
-==
-*-
+=9	=9
+{16d	nie
+16f#	bę-
+8a	-dzie
+16gL	ci
+16b/J	.
+=10	=10
+16dd/L	czy-
+16ee/J	-pek
+16ccL/	cię-
+16b/	.
+8dd/J	-żał,
+=11	=11
+16d	bo
+*	*^
+*	*	*ij
+16f#	tul	(tiul)
+*		*	*Xij
+*	*v	*v
+8a	cie-
+16gL	-nuś-
+16b/J	.
+=12	=12
+16g	-ki
+16f#	da
+16eL	da-
+16gJ	.
+8d}	-na.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Ciężały wstążki da wstążki,
+!!ciężały wstążki da dana,
+!!nie będzie ci czypek ciężał,
+!!bo tul cienuśki da dana.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=288 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 276} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 276}
 !!!page: 276
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-25

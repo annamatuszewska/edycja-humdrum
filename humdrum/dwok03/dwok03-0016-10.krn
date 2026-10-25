@@ -3,60 +3,71 @@
 !!!source: DWOK03
 !!!id: K0016
 !!!signature: 0301600010
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M3/8
-=1
-{16dd
-16ee-
-8ff
-8dd
-=2
-8.ff
-16gg
-32ee-
-32dd
-16b-
-=3
-16dd
-16ee-
-8ff
-8dd
-=4
-8.ff
-16gg
-32ee-
-32dd
-16b-}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M3/8	*
+=1	=1
+{16dd	Prze-
+16ee-	-de
+8ff	dwo-
+8dd	-rem
+=2	=2
+8.ff	sto-
+16gg	-i
+32ee-L	bu-
+32ddJ	.
+16b-	-rza,
+=3	=3
+16dd	na-
+16ee-	-sza
+8ff	pa-
+8dd	-ni
+=4	=4
+8.ff	że-
+16gg	-by
+32ee-L	ró-
+32ddJ	.
+16b-}	-ża.
 !!LO:LB:g=esac
-=5
-{16dd
-16dd
-8ee-
-16cc
-16a
-=6
-8.b-
-16cc
-16dd
-16ff
-=7
-16dd
-16dd
-8ee-
-16cc
-16a
-=8
-8.b-
-16cc
-16a
-16f}
-==
-*-
+=5	=5
+{16dd	Plon
+16dd	nie-
+8ee-	-sie-
+16ccL	-my
+16a\J	.
+=6	=6
+8.b-L	plon
+16ccJ	.
+16ddL	plon,
+16ffJ	.
+=7	=7
+16dd	je-
+16dd	-go-
+8ee-	-mo-
+16ccL	-ści
+16a\J	.
+=8	=8
+8.b-/L	w_dom.
+16cc/J	.
+16aL	.
+16f}J	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Przede dworem stoi burza,
+!!nasza pani żeby róża.
+!!Plon niesiemy plon plon,
+!!jegomości w dom.
+!!@@END: VERSES
+!!!role-singer: 
+!!!role-listener: 
+!!!singer-sex: 
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=248 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 236} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 236}
 !!!page: 236
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-21

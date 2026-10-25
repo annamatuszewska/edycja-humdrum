@@ -3,53 +3,110 @@
 !!!source: DWOK03
 !!!id: K0012a
 !!!signature: 0301200001
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{8cc
-8dd
-8ee
-8ee
-=2
-8ff
-8ee
-16dd
-16ee
-8cc
-=3
-8cc
-8dd
-8ee
-8ee
-=4
-8ff
-8ee
-16dd
-16ee
-8cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+=1	=1
+{8cc	O-
+8dd	-twórz
+8ee	pa-
+8ee	-nie
+=2	=2
+8ff	sze-
+8ee	-ro-
+16ddL	-ko
+16eeJ	wro-
+8cc	-ta,
+=3	=3
+8cc	i-
+8dd	-dzie
+8ee	two-
+8ee	-ja
+=4	=4
+8ff	z_po-
+8ee	-la
+16ddL	ro-
+16eeJ	-bo-
+8cc}	-ta.
 !!LO:LB:g=esac
-=5
-{8cc
-8b
-8a
-8a
-=6
-2g
-=7
-8cc
-8b
-8a
-8a
-=8
-2g}
-==
-*-
+=5	=5
+{8cc	Plon
+8b	nie-
+8a\	-sie-
+8a\	-my
+=6	=6
+2g	plon,
+=7	=7
+8cc	je-
+8b	-go-
+8a\	-mo-
+8a\	-ści
+=8	=8
+2g}	w_dom.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Otwórz panie szeroko wrota,
+!!idzie twoja z pola robota,
+!!plon niesiemy plon
+!!jegomości w dom.
+!!@VERSE:
+!!2. Daj Boże by plonowało,
+!!po sto korcy z mendla dało,
+!!plon niesiemy plon
+!!jegomości w dom.
+!!@VERSE:
+!!3. Otwórz panie okienice,
+!!prowadzimy przodownice,
+!!@VERSE:
+!!4. Całe żniwa przodowały
+!!wszystkich ludzi pociągały.
+!!@VERSE:
+!!5. Przede dworem wisi sznurek,
+!!nasz jaśnie pan żeby Turek,
+!!@VERSE:
+!!6. Nasz jaśnie pan jedzie z wojny,
+!!konik pod nim bardzo strojny.
+!!@VERSE:
+!!7. A na wieczór pada rosa,
+!!nasz jaśnie pan żeby osa.
+!!@VERSE:
+!!8. Nade dworem wielka chmura,
+!!nasz okomon żeby rura.
+!!@VERSE:
+!!9. Nasz okomon żeby bania,
+!!nasza pani żeby łania.
+!!@VERSE:
+!!10. Przede dworem kaczki w cebrze,
+!!nasza pani chodzi w srebrze.
+!!@VERSE:
+!!11. Przede dworem gęsi w błocie,
+!!nasza pani chodzi w złocie.
+!!@VERSE:
+!!12. Przede dworem biały kamiń,
+!!nasza pani siada na nim.
+!!@VERSE:
+!!13. I usiadła na kamieniu,
+!!i wsparła się na ramieniu.
+!!@VERSE:
+!!14. Przede dworem wisi kosa,
+!!a nasz pisarz żeby osa.
+!!@VERSE:
+!!15. Przede dworem wisi sierp,
+!!a nasz pisarz istny kiep.
+!!@VERSE:
+!!16. A my go się tak boima,
+!!gdzie zajdzima to stoima.
+!!@@END: VERSES
 !!!ONB: Partia wokalna
+!!!role-singer: Group
+!!!role-listener: Landlord
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=245 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 233} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 233}
 !!!page: 233
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-20

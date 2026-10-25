@@ -3,58 +3,131 @@
 !!!source: DWOK03
 !!!id: K0013
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M4/4
-=1
-{8b
-8dd
-4ee
-4dd
-4b
-=2
-4dd
-4cc
-4b
-4cc
-=3
-8a
-8g
-8a
-8b
-4cc
-4a
-=4
-4cc
-4b
-4a
-4b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M4/4	*
+*met(c)	*
+=1	=1
+{8b	Wy-
+8dd	-ra-
+4ee	-sta
+4dd	by-
+4b	-licz-ka
+=2	=2
+4dd	na
+4cc	od-
+4b	-ło-
+4cc	-gu,
+=3	=3
+8a\L	dorznę-
+8g\J	.
+8a	-lim
+8b	psze-
+4cc	-nicz-
+4a\	-ki
+=4	=4
+4cc	chwa-
+4b	-ła
+4a\	Bo-
+4b}	-gu.
 !!LO:LB:g=esac
-=
-{4g
-4f#
-4d
-12d
-12e
-12f#
-=5
-1g
-=
-4g
-4f#
-4d
-12d
-12e
-12f#
-=6
-2g}
-2r
-==
-*-
+=5	=5
+{4g	Plon
+4f#	nie-
+4d	-sie-
+*Xtuplet	*
+12dL	.
+12e	-ma
+12f#J	.
+=6	=6
+1g	plon,
+=7	=7
+4g	je-
+4f#	-go-
+4d	-mo-
+12dL	-ści
+12e	.
+12f#J	.
+=8	=8
+2g}	w_dom.
+2r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Wyrasta byliczka na odłogu,
+!!dorznęlim pszeniczki chwała Bogu,
+!!plon niesiema plon
+!!jegomości w dom.
+!!@VERSE:
+!!2. Daj to Boże by plonowało
+!!i po sto korcy z mendla dało,
+!!plon i t. d.
+!!@VERSE:
+!!3. Ostań z Bogiem przepióreczko,
+!!już nie pójdziem w te póleczko,
+!!plon i t. d.
+!!@VERSE:
+!!4. Ostań z Bogiem i skowronek,
+!!niesiema panu z pola wionek,
+!!plon i t. d.
+!!@VERSE:
+!!5. Otwórz panie dźwi, pokoje,
+!!położema plon na stole,
+!!plon i t. d.
+!!@VERSE:
+!!6. Otwórz panie okienice,
+!!prowadziemy przodownicę.
+!!plon i t. d.
+!!@VERSE:
+!!7. Przede dworem rośnie burza,
+!!nasza imość gdyby róża.
+!!@VERSE:
+!!8. Przede dworem rosną banie,
+!!nasza imość malowanie.
+!!@VERSE:
+!!9. Przede dworem stoi łóżko,
+!!szed pan do pani, złomał nóżkę.
+!!@VERSE:
+!!10. Przede dworem stoi kosa,
+!!nasz ekomon gdyby osa.
+!!@VERSE:
+!!11. A my sie go nie bojema,
+!!choć ze snopkiem postojema.
+!!@VERSE:
+!!12. Przede dworem kaczki w cebrze,
+!!a nasz włodarz chleba żebrze.
+!!@VERSE:
+!!13. Jeźli chleba, dać mu trzeba,
+!!jeźli czego, kijem że go.
+!!@VERSE:
+!!14. Przede dworem na wiórzysku,
+!!niosą pieczeń na półmisku.
+!!@VERSE:
+!!15. Za stodołą kierda pyszcze,
+!!a nasz lokaj pieczeń iszcze.
+!!@VERSE:
+!!16. A nasz lokaj w czarnéj szubie,
+!!keń sie obróci, to przydłubie.
+!!@VERSE:
+!!17. Przede dworem rosną tarki,
+!!pańskie dziwki gryzą garnki; (wyskrzybują i tłuką).
+!!@VERSE:
+!!18. Przede dworem stoją drągi,
+!!pańskie dziwki jak smolągi.
+!!@VERSE:
+!!19. Przede dworem widzim pana.
+!!pańscy żeńcy chcą barana.
+!!@VERSE:
+!!20. Przede dworem drą się łyka,
+!!pańskie dziwki chcą i byka.
+!!@@END: VERSES
+!!!role-singer: Narrator (Group)
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=246 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 234} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 234}
 !!!page: 234
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-20

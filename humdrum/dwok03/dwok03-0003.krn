@@ -3,88 +3,97 @@
 !!!source: DWOK03
 !!!id: K0003
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8b
-8a
-4b
-4cc
-=2
-8b
-8a
-4b
-4cc
-=3
-8b
-8a
-4g
-8g
-8b
-=4
-4b
-4a}
-4r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8b	Kazał
+8a\	.
+4b	anioł,
+4cc	.
+=2	=2
+8b	kazał
+8a\	.
+4b	anioł,
+4cc	.
+=3	=3
+8b	do
+8a	Betle-
+4g	.
+8gL	-em
+8b/J	.
+=4	=4
+4b	Ju-
+4a}	-da,
+4r	.
 !!LO:LB:g=esac
-=5
-{8b
-8a
-4b
-4cc
-=6
-8b
-8a
-4b
-4cc
-=7
-8b
-8a
-4g
-4a
-=8
-4a
-4g}
-4r
+=5	=5
+{8b	pa-
+8a\	-ste-
+4b	-rzom
+4cc	w_skok,
+=6	=6
+8b	pasterzom
+8a\	.
+4b	.
+4cc	w_skok
+=7	=7
+8b	kę-
+8a	-dy
+4g	no-
+4a\	-we
+=8	=8
+4a\	cu-
+4g}	-da,
+4r	.
 !!LO:LB:g=esac
-=9
-{4.dd
-8ee
-8dd
-8cc
-=10
-8b
-8a
-4g
-8g
-8b
-=11
-8b
-8a
-4a}
-4r
+=9	=9
+{4.dd	zja-
+8ee	-wi-
+8dd	-ły
+8cc	się
+=10	=10
+8b	lu-
+8a	-dziom
+4g	na
+8gL	zba-
+8b/J	.
+=11	=11
+8b/L	-wie-
+8aJ	.
+4a}	-nie
+4r	.
 !!LO:LB:g=esac
-=12
-{4.dd
-8ee
-8dd
-8cc
-=13
-8b
-8a
-4g
-8g
-8a
-=14
-4a
-4g}
-4r
-==
-*-
+=12	=12
+{4.dd	I-
+8ee	-zra-
+8dd	-e-
+8cc	-lo-
+=13	=13
+8b	-wi
+8a	na
+4g	od-
+8gL	-ku-
+8aJ	.
+=14	=14
+4a\	-pie-
+4g}	-nie.
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Kazał anioł, kazał anioł, do Betleem Juda,
+!!pasterzom w skok, pasterzom w skok kędy nowe cuda,
+!!zjawiły się ludziom na zbawienie
+!!Izraelowi na odkupienie.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=221 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 209} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 209}
 !!!page: 209
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-20

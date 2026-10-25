@@ -3,49 +3,61 @@
 !!!source: DWOK03
 !!!id: K0029
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8g
-8g
-8a
-=2
-8b
-8b
-8a
-=3
-8g
-8g
-8a
-=4
-8b
-8b
-8a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8g	We-
+8g	-se-
+8a	-le
+=2	=2
+8b	je-
+8bL	-dzie,
+8a\J	.
+=3	=3
+8g	ka-
+8g	-pu-
+8a	-sta
+=4	=4
+8b	w_kło-
+8bL	-dzie,
+8a}\J	.
 !!LO:LB:g=esac
-=5
-{8g
-8g
-16g
-16d
-=6
-4e
-16f#
-16a
-=7
-8g
-8b
-16g
-16d
-=8
-4e
-8d}
-==
-*-
+=5	=5
+{8g	mię-
+8g	-so
+16gL	na
+16dJ	.
+=6	=6
+4e	koł-
+16f#L	-ku,
+16aJ	.
+=7	=7
+8g	pa-
+8b	-ster-
+16gL	-nak
+16dJ	.
+=8	=8
+4e	w_doł-
+8d}	-ku.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Wesele jedzie,
+!!kapusta w kłodzie,
+!!mięso na kołku,
+!!pasternak w dołku.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: Wedding ceremony - the cook and other women sing to the bride and groom
+!!@@END:
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=280 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 268} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 268}
 !!!page: 268
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-24

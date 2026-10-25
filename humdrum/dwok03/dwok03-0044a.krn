@@ -3,53 +3,66 @@
 !!!source: DWOK03
 !!!id: K0044a
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M5/4
-=1
-{8b
-8dd
-4ee
-4dd
-8a
-8g
-8g
-8g
-=2
-8b
-8dd
-4ee
-4dd
-8a
-8g
-8f#
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M5/4	*
+=1	=1
+{8b	Le-
+8dd	-ci
+4ee	ka-
+4dd	-nia
+8a	od
+8g	Ma-
+8g	-ry-
+8g	-si
+=2	=2
+8aq	.
+8b	gó-
+8dd	-rą
+4ee	wy-
+4dd	-so-
+8a	-ko
+8g	wy-
+8f#	-so-
+8g}	-ko,
 !!LO:LB:g=esac
-=3
-{8b
-8dd
-4a
-4b
-8a
-8dd
-8cc#
-8a
-=4
-8b
-8dd
-4a
-4b
-8g
-8f#
-8g
-8g}
-==
-*-
+=3	=3
+{8aq	.
+8b	roz-
+8dd	-ło-
+4a\	-ży-
+4b	-ła
+8a\	bio-
+8dd	-ły
+*	*^
+*	*	*ij
+8cc#	o-	(kapkę)
+*		*	*Xij
+8a	-gon,	.
+*	*v	*v
+=4	=4
+8b	gdy-
+8dd	-by
+4a\	rze-
+4b	-szo-
+8g	-to
+8f#	rze-
+8g	-szo-
+8g}	-to.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Leci kania od Marysi górą wysoko wysoko,
+!!rozłożyła bioły ogon, gdyby rzeszoto rzeszoto.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!ONB: Czesc wokalna
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=288 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 276} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 276}
 !!!page: 276
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-25

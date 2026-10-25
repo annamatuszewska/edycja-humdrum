@@ -3,105 +3,136 @@
 !!!source: DWOK03
 !!!id: K0010a
 !!!signature:
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M4/4
-=1
-{8d
-8e
-8f#
-8g
-4a
-4dd
-=2
-8dd
-16ee
-16dd
-8cc#
-8b
-4b
-4a
-=3
-8f#
-8f#
-8e
-8g
-4f#
-4a}
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M4/4	*
+*met(c)	*
+=1	=1
+{8d	Da-
+8e	-léj,
+8f#	da-
+8g	-léj,
+4a	da-
+4dd	-léj,
+=2	=2
+8dd	by
+16eeL	nas
+16ddJ	.
+8cc#	nie
+8b	schwyta-
+4b	.
+4a	-li,
+=3	=3
+8f#\	tu
+8f#\	jest
+8e	tu
+8g	jéj
+4f#\	nié-
+4a}\	-ma,
 !!LO:LB:g=esac
-=4
-{8f#
-8f#
-8e
-8g
-4f#
-4a
-=5
-4cc#
-8dd
-8f#
-4b
-4a
-=6
-4ff#
-8gg
-8cc#
-4ee
-4dd}
+=4	=4
+{8f#\	ten
+8f#\	pu-
+8e	-ścił
+8g	ten
+4f#\	trzy-
+4a	-ma,
+=5	=5
+4cc#	zga-
+8dd	-dnij
+8f#	gdzie
+4b/	te-
+4a	-raz,
+=6	=6
+4ff#	zga-
+8gg	-dnij
+8cc#	gdzie
+4ee	te-
+4dd}	-raz.
 !!LO:LB:g=esac
-=7
-{8d
-8e
-8f#
-8g
-4a
-4dd
-=8
-8dd
-16ee
-16dd
-8cc#
-8b
-8b
-8a
-4a
-=9
-8g
-8f#
-8e
-8g
-8f#
-8f#
-4a}
+=7	=7
+{8d	Da-
+8e	-léj,
+8f#	da-
+8g	-léj,
+4a	da-
+4dd	-léj,
+=8	=8
+8dd	by
+16eLe	nas
+16ddJ	.
+8cc#	nie
+8b	schwyta-
+8b/L	.
+8aJ	.
+4a	-li,
+=9	=9
+8gL	tu
+8f#J	jest
+8e	tu
+8g	jéj
+8f#L	nié-
+8f#J	.
+4a}	-ma,
 !!LO:LB:g=esac
-=10
-{8g
-8f#
-8e
-8g
-8f#
-8a
-4a
-=11
-4cc#
-8dd
-8f#
-8b
-8a
-4a
-=12
-4ff#
-8gg
-8cc#
-8ee
-8dd
-4dd}
-==
-*-
+=10	=10
+{8gL	ten
+8f#J	pu-
+8e	-ścił
+8g	ten
+8f#L	trzy-
+8aJ	.
+4a	-ma,
+=11	=11
+4cc#	zga-
+8dd	-dnij
+8f#	gdzie
+8b/L	te-
+8aJ	.
+4a	-raz,
+=12	=12
+4ff#	zga-
+8gg	-dnij
+8cc#	gdzie
+8ee/L	te-
+8dd/J	.
+!LO:TX:a:t=Schwytawszy zaś czyjąś rękę wraz z obrączką, dośpiéwuje im osoba w kole &colon;	!
+4dd}	-raz.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Daléj, daléj, daléj,
+!!by nas nie schwytali,
+!!tu jest tu jéj nima,
+!!ten puścił ten trzyma,
+!!zgadnij gdzie teraz,
+!!zgadnij gdzie teraz.
+!!@VERSE:
+!!2. Tutaj popasała,
+!!lecz już wyjechała.
+!!Tu jest, tu jéj nima,
+!!ten puścił, ten trzyma;
+!!Zgadnij gdzie teraz!
+!!@VERSE:
+!!3. Była u somsiada,
+!!lecz już nie posiada.
+!!Tu jest, tu i t. d.
+!!@VERSE:
+!!4. O próżne staranie,
+!!nikt jéj nie dostanie.
+!!Tu jest, tu i t. d.
+!!@VERSE:
+!!5. Nie strzelaj oczyma,
+!!nima lubéj, nima.
+!!Tu jest, tu i t. d.
+!!@@END: VERSES
+!!!role-singer: Group
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=234 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 222} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 222}
 !!!page: 222
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-20

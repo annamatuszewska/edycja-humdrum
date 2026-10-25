@@ -3,149 +3,166 @@
 !!!source: DWOK03
 !!!id: K0042
 !!!signature:
-**kern
-*clefG2
-*k[b-e-]
-*g:
-*M3/8
-=1
-{8dd
-8dd
-8ee
-=2
-4dd
-8a
-=3
-16g
-16a
-8b-
-8dd
-=4
-4.dd}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*g:	*
+*M3/8	*
+=1	=1
+{8dd	Oj
+8dd	chmie-
+8ee	-lu
+=2	=2
+4dd	chmie-
+8a	-lu
+=3	=3
+16g	ty
+16a	buj-
+8b-	-ne
+8dd	zie-
+=4	=4
+4.dd}	-le,
 !!LO:LB:g=esac
-=5
-{8dd
-8ff#
-8ee
-=6
-4dd
-8a
-=7
-16g
-16a
-8b-
-8dd
-=8
-4.dd}
+=5	=5
+{8dd	nie
+8ff#	bę-
+8ee	-dzie
+=6	=6
+4dd	bez
+8a	cię
+=7	=7
+16g\L	ża-
+16a\J	-dne
+8b-	we-
+8dd	-se-
+=8	=8
+4.dd}	-le.
 !!LO:LB:g=esac
-=9
-{8dd
-8a
-8g
-=10
-8cc
-8dd
-16b-
-16g
-=11
-8dd
-8a
-8g
-=12
-8cc
-8dd
-16b-
-16g}
+=9	=9
+{8dd	Oj
+8a	chmie-
+8g	-lu
+=10	=10
+8cc	to
+8dd	nie-
+16b-/	-bo-
+16g	-że,
+=11	=11
+8dd	oj
+8a	na
+8g	dół
+=12	=12
+8cc	to
+8dd	na
+16b-/	gó-
+16g}	-rze
 !!LO:LB:g=esac
-=13
-{16b-
-16dd
-8dd
-8a
-=14
-4.g}
+=13	=13
+{16b-	chmie-
+16dd	-lu
+8dd	nie-
+8a	-bo-
+=14	=14
+4.g}	-że.
 !!LO:LB:g=esac
-=15
-{16dd
-16ee
-8ff#
-16ee
-16dd
-=16
-16dd
-16cc
-8b-
-8a
-=17
-16g
-16a
-16b-
-16cc
-8dd
-=18
-4.dd}
+=15	=15
+{16ddL	.
+16ee	.
+8ff#J	.
+16eeL	.
+16ddJ	.
+=16	=16
+16ddL	.
+16ccJ	.
+8b-/L	.
+8aJ	.
+=17	=17
+16gL	.
+16aJ	.
+16b-L	.
+16cc	.
+8ddJ	.
+=18	=18
+4.ddm}	.
 !!LO:LB:g=esac
-=
-{16dd
-16ee
-8ff#
-24ff#
-24ee
-24dd
-=19
-16dd
-16cc
-8b-
-8a
-=20
-16g
-16a
-32b-
-32a
-32b-
-32cc
-16dd
-16ee
-=21
-4.dd}
+=19	=19
+{16ddL	.
+16eeJ	.
+8ff#/	.
+*Xtuplet	*
+24ff#L/	.
+24ee/	.
+24dd/J	.
+=20	=20
+16ddL	.
+16ccJ	.
+8b-/L	.
+8aJ	.
+=21	=21
+16gL	.
+16aJ	.
+32b-/L	.
+32a	.
+32b-/	.
+32cc/J	.
+16dd/L	.
+16ee/J	.
+=22	=22
+4.dd}m	.
 !!LO:LB:g=esac
-=
-{8dd
-8a
-24d
-24f#
-24g
-=
-8cc
-8dd
-24b-
-24a
-24g
-=
-8dd
-8a
-24d
-24f#
-24g
-=
-8cc
-8dd
-24b-
-24a
-24g}
+=23	=23
+{8ddL	.
+8a\J	.
+24dL	.
+24f#	.
+24gJ	.
+=24	=24
+8ccL	.
+8ddJ	.
+24b-/L	.
+24a	.
+24gJ	.
+=25	=25
+8ddL	.
+8a\J	.
+24dL	.
+24f#	.
+24gJ	.
+=26	=26
+8ccL	.
+8ddJ	.
+24b-/L	.
+24a	.
+24g}J	.
 !!LO:LB:g=esac
-=
-{24b-
-24cc
-24dd
-8dd
-8a
-=22
-4.g}
-==
-*-
+=27	=27
+{24b-L	.
+24cc	.
+24ddJ	.
+8ddL	.
+8a\J	.
+=28	=28
+!LO:TX:a:t=Do kapin (43)&colon;	!
+4.g}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oj chmielu chmielu
+!!ty bujne ziele,
+!!nie będzie bez cię
+!!żadne wesele.
+!!Oj chmielu to nieboże,
+!!oj na dół to na górze
+!!chmielu nieboże.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: matchmakers dance with the bride after the ceremony called "oczepiny"
+!!@@END:
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=287 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 275} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 275}
 !!!page: 275
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-25

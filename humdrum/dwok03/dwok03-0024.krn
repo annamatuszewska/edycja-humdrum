@@ -3,102 +3,131 @@
 !!!source: DWOK03
 !!!id: K0024
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8d
-8g
-8a
-=2
-4b
-16a
-16g
-=3
-4b
-16a
-16g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8d	A
+8g	w_ro-
+8a\	-gu
+=2	=2
+4b	świ-
+16aL	-ta,
+16gJ	.
+=3	=3
+4b	świ-
+16a\L	-ta,
+16g}\J	.
 !!LO:LB:g=esac
-=4
-{4dd
-8ee
-=5
-4dd
-8r
-=6
-4dd
-8ee
-=7
-4dd}
-8r
+=4	=4
+{4dd	w_sie-
+8ee	-ni
+=5	=5
+4dd	dzień,
+8r	.
+=6	=6
+4dd	w_sie-
+8ee	-ni
+=7	=7
+4dd}	dzień,
+8r	.
 !!LO:LB:g=esac
-=8
-{8d
-8g
-16a
-16g
-=9
-4b
-16a
-16g
-=10
-4b
-16a
-16b}
+=8	=8
+{8d	a
+8g	są
+16aL	tam
+16gJ	.
+=9	=9
+4b	klu-
+16aL	-ski,
+16gJ	.
+=10	=10
+4b	klu-
+16a\L	-ski,
+16b}J	.
 !!LO:LB:g=esac
-=11
-{4dd
-8ee
-=12
-4dd
-8r
-=13
-4gg
-8ee
-=14
-4dd}
-8r
+=11	=11
+{4dd	toć
+8ee	je
+=12	=12
+4dd	zjem,
+8r	.
+=13	=13
+4gg/	toć
+8ee/	je
+=14	=14
+4dd}	zjem.
+8r	.
 !!LO:LB:g=esac
-=15
-{16b
-16cc
-8dd
-8ee
-=16
-8cc
-8cc
-16cc
-16a
-=17
-16b
-16a
-8b
-8cc
-=18
-8a
-16g
-16f#
-16e
-16d}
+=15	=15
+{16b	A
+16cc	bę-
+8dd	-dę
+8ee	się
+=16	=16
+8cc	przy-
+8cc	-my-
+16ccL	-kał,
+16a\J	.
+=17	=17
+16b	i
+16a\	po
+8b	je-
+8bq	.
+8cc	-dnym
+=18	=18
+8a	wy-
+16gL	-my-
+16f#J	.
+16eL	-kał,
+16d}J	.
 !!LO:LB:g=esac
-=19
-{4dd
-8d
-=20
-8g
-4g
-=21
-4dd
-8ff#
-=22
-4gg}
-8r
-==
-*-
+=19	=19
+{4dd	jaż
+8d\	je
+=20	=20
+8g\	zjem,
+4g\	.
+=21	=21
+4dd	jaż
+8ff#	je
+=22	=22
+4gg}	zjem.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A w rogu świta, w sieni dzień,
+!!a są tam kluski, toć je zjem.
+!!A będę się przymykał,
+!!i po jednym wymykał,
+!!jaż je zjem.
+!!@VERSE:
+!!2. A przede dworem jest kamiń,
+!!padalenia siedzi na nim.
+!!Przyszed do nij padaleniec,
+!!i zapytał się o wieniec:
+!!dziń dobry.
+!!@VERSE:
+!!3. A cożeś to ty za młodzieniec,
+!!co się pytasz o mój wieniec.
+!!Radabym ci wieniec dała,
+!!bym się brata nie bojała:
+!!dziń dobry.
+!!@VERSE:
+!!4. Siadaj na biołnym kamieniu,
+!!nie pytaj się o mojim imieniu.
+!!Radabym ci imię dała,
+!!bym się brata nie bojała:
+!!dziń dobry.
+!!@@END: VERSES
+!!!role-singer: Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=272 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 260} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 260}
 !!!page: 260
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-21

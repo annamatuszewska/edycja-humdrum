@@ -3,82 +3,99 @@
 !!!source: DWOK03
 !!!id: K0022a
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{8dd
-8dd
-8ee
-=2
-8ff
-4dd
-=3
-16cc
-16b-
-8a
-8g
-=4
-8a
-4cc}
+**kern	**text	**text
+*clefG2	*	*
+*k[b-]	*	*
+*F:	*	*
+*M3/8	*	*
+=1	=1	=1
+{8dd	Po-	Wzéjdź
+8dd	-szła	chmie-
+8ee	dziew-	-lu,
+=2	=2	=2
+8ff	-czy-	chmie-
+4dd	-na	-lu,
+=3	=3	=3
+16cc	pu	w_te
+16b-	o-	dro-
+8a	-gro-	-bne
+8g	-dysz-	zia-
+=4	=4	=4
+8a	-ko-	-re-
+4cc}	-wi,	-czka,
 !!LO:LB:g=esac
-=5
-{8dd
-8dd
-8ee
-=6
-8ff
-4dd
-=7
-16cc
-16b-
-8a
-8g
-=8
-8a
-4cc}
+=5	=5	=5
+{8dd	ko-	bo
+8dd	-pać	do-
+8ee	do-	-bre
+=6	=6	=6
+8ff	-ły-	piw-
+4dd	-szek	-ko,
+=7	=7	=7
+16cc	swe-	do-
+16b-	-mu	-bra
+8a	wio-	go-
+8g	-nysz-	-rza-
+=8	=8	=8
+8a	-ko-	-łe-
+4cc}	-wi.	-czka.
 !!LO:LB:g=esac
-=9
-{8cc
-8cc
-16g
-16b-
-=10
-16a
-16dd
-8a
-8a
-=11
-16cc
-16cc
-8g
-16a
-16b-
-=12
-16a
-16dd
-8a
-8a}
+=9	=9	=9
+{8cc	Oj	Mój
+8cc	ko-	wio-
+16g	-pa-	-ny-
+16b-/	-ła	-szku
+=10	=10	=10
+16a	nie	z_biał-
+16dd	ko-	-ny
+8a	-pią-	ró-
+8a	-cy,	-ży
+=11	=11	=11
+16cc	wio-	dla
+16cc	-nysz-	cie-
+8g	-ko-	-bie
+16aL	-wi	my
+16b-/J	.	.
+=12	=12	=12
+16a	fol-	świat
+16dd	-gu-	nie
+8a	-ją-	słu-
+8a}	-cy,	-ży,
 !!LO:LB:g=esac
-=13
-{16dd
-16ee
-8ff
-8ee
-=14
-16cc
-16g
-4b-
-=15
-4a}
-8r
-==
-*-
+=13	=13	=13
+{16dd	wio-	dla
+16ee	-nysz-	cie-
+8ff	-ko-	-bie
+8ee	-wi	my
+=14	=14	=14
+16cc	fol-	świat
+16g\	-gu-	nie
+4b-	-ją-	słu-
+=15	=15	=15
+4a}	-cy.	-ży.
+8r	.	.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. Poszła dziewczyna pu ogrodyszkowi,
+!!kopać dołyszek swemu wionyszkowi.
+!!Oj kopała nie kopiący,
+!!wionyszkowi folgujący,
+!!wionyszkowi folgujący.
+!!@VERSE:
+!!2. Wzéjdź chmielu, chmielu,
+!!w te drobne ziareczka,
+!!bo dobre piwko, dobra gorzałeczka.
+!!Mój wionyszku z białny róży
+!!dla ciebie my świat nie służy.
+!!dla ciebie my świat nie służy.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!ONB: Partia wokalna
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=271 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 259} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 259}
 !!!page: 259
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-21

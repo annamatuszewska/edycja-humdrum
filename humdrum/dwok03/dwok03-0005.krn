@@ -3,62 +3,101 @@
 !!!source: DWOK03
 !!!id: K0005
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8dd
-8dd
-4dd
-4ee
-=2
-8dd
-8cc
-4cc
-4b
-=3
-8dd
-8dd
-8dd
-8ee
-8ee
-8dd
-=4
-8dd
-8cc
-8cc
-8b
-4dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8dd	W_dzień
+8dd	.
+4dd	Boże-
+4ee	-go
+=2	=2
+8dd	Na-
+8cc	-ro-
+4cc	-dze-
+4b	-nia,
+=3	=3
+8dd	Radość
+8dd	.
+8dd/L	Bo-
+8ee/J	.
+8ee/L	-że-
+8dd/J	-go
+=4	=4
+8dd	stwo-
+8cc	.
+8cc/L	-rze-
+8bJ	.
+4dd/}	-nia.
 !!LO:LB:g=esac
-=5
-{8g
-8b
-8b
-8a
-8a
-8dd
-=6
-8dd
-8cc
-4cc
-4b
-=7
-8g
-8b
-8b
-8a
-4a
-=8
-8cc
-8f#
-4a
-4g}
-==
-*-
+=5	=5
+{8g	Pta-
+8b/	-ki
+8bL	do
+8a\J	.
+8a\L	szo-
+J8dd	.
+=6	=6
+8dd	-py
+8cc	zla-
+4cc	-tu-
+4b	-ją,
+=7	=7
+8g	Je-
+8b	-zu-
+8Lb	.
+8a\J	-so-
+4a\	-wi
+=8	=8
+8cc	wy-
+8f#	-śpie-
+4a\	-wu-
+4g}	-ją.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. W dzień Bożego Narodzenia,
+!!Radość Bożego stworzenia.
+!!Ptaki do szopy zlatują,
+!!Jezusowi wyśpiewują.
+!!@VERSE:
+!!2. Słowik zaczyna dyskantem,
+!!Szczygieł mu dobiéra altem,
+!!Szpak tenorem krzyknie czasem,
+!!A gołąbek gruchnie basem.
+!!@VERSE:
+!!3. Wróbel, ptaszek nieboraczek,
+!!Uziąbłszy, śpiéwa jak żaczek:
+!!Dziw, dziw, dziw, dziw, dziw, nad dziwy,
+!!Narodził się Bóg prawdziwy.
+!!@VERSE:
+!!4. A mazurek (swiérszcz) z swoim synem,
+!!Tak świergoce za kominem:
+!!Cierp, cierp, cierp, cierp miły Panie,
+!!Póki ten mróz nie ustanie.
+!!@VERSE:
+!!5. A żurawie swoje nosy,—
+!!Wykrzykują pod niebiosy;
+!!Czajka w górę podlatuje,
+!!Chwałę Bogu wyśpiewuje.
+!!@VERSE:
+!!6. Sroka wlazłszy na jadlinę,
+!!Odarła sobie łysinę,
+!!I choć gołe świeci czoło,
+!!Gwarzy jednak dość wesoło.
+!!@VERSE:
+!!7. Kur na grzędzie krzyczy wszędzie:
+!!Wstańcie ludzie, bo dzień będzie,
+!!Do Betlejem pośpieszajcie,
+!!Boga w ciele przywitajcie!
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=221 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 209} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 209}
 !!!page: 209
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-20

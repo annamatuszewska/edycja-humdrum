@@ -9,29 +9,29 @@
 *C:
 *M2/4
 =1
-{8cc
+{8ccL
 8dd
 8ee
-8dd
+8ddJ
 =2
-8ff
-8ee
-16dd
+8ffL
+8eeJ
+16ddL
 16ee
-8cc}
+8cc}J
 !!LO:LB:g=esac
 =3
-{8cc
+{8ccL
 8b
-8a
-8b
+8a\
+8bJ
 =4
 2g
 =5
-8cc
+8ccL
 8b
-8a
-8b
+8a\
+8bJ
 =6
 2g}
 ==
@@ -42,3 +42,5 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=245 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 233} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 233}
 !!!page: 233
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-20

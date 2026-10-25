@@ -3,73 +3,104 @@
 !!!source: DWOK03
 !!!id: K0039
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16a
-8b
-8dd
-=2
-16dd
-16cc
-8f#
-8a
-=3
-8cc
-8ee
-8dd
-=4
-16g
-16a
-8b
-8dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	O
+16a	już
+8b	to
+8dd	precz
+=2	=2
+16dd	mo-
+16cc	-ja
+8f#	Ma-
+8a	-ryś
+=3	=3
+8cc	już
+8ee	to
+8dd	precz,
+=4	=4
+16g	włóż
+16a	wia-
+8b	-ny-
+8dd}	-szek
 !!LO:LB:g=esac
-=5
-{16dd
-16cc
-8d
-8f#
-=6
-8cc
-8b
-8g
-=7
-16g
-16a
-8b
-8b
-=8
-16cc
-16a
-8f#
-8a}
+=5	=5
+{16dd	na
+16cc	ko-
+8d	-ły-
+8f#	-szek,
+=6	=6
+8cc	weź
+8b	cze-
+8g	-piec.
+=7	=7
+16g	Oj
+16a	za-
+8b	-po-
+8b	-mnisz
+=8	=8
+16cc	Ma-
+16a	-ry-
+8f#	-sin-
+8a}	-ko
 !!LO:LB:g=esac
-=9
-{8cc
-8dd
-8b
-=10
-16g
-16a
-8b
-8dd
-=11
-16dd
-16cc
-8f#
-8a
-=12
-8cc
-8b
-8g}
-==
-*-
+=9	=9
+{8cc	swo-
+8dd	-bo-
+8b	-dy,
+=10	=10
+16g	tyl-
+16a	-ko
+8b	pój-
+8dd	-dziesz
+=11	=11
+16dd	z_pie-
+16cc	-lusz-
+8f#	-ka-
+8a	-mi
+=12	=12
+8cc	do
+8b	wo-
+!LO:TX:a:t=Drużba i grajek (40)&colon;	!
+8g}	-dy.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. O już to precz, moja Maryś,
+!!już to precz —
+!!włóż wianyszek na kołyszek,
+!!weź czepiec.
+!!@VERSE:
+!!2. Oj zapomnisz Marysinko
+!!swobody,
+!!tylko pójdziesz z pieluszkami
+!!do wody.
+!!@VERSE:
+!!3. Oj zapomnisz Marysinko
+!!hosanio (hasania),
+!!tylko na cię chłop zawoła:
+!!śniadania!
+!!@VERSE:
+!!4. Oj zapomnisz Marysinko
+!!biésiady,
+!!tylko na cię zawołajom:
+!!chlib śniady! (źle upieczony).
+!!@VERSE:
+!!5. Oj zapomnisz moja Maryś
+!!wszystkiego,
+!!ino pójdziesz za Jasińka,
+!!za złego.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!role-listener: Girl
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=285 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 273} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 273}
 !!!page: 273
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-24

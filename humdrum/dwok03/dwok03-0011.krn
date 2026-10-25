@@ -3,142 +3,176 @@
 !!!source: DWOK03
 !!!id: K0011
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16a
-8b
-8cc
-=2
-4dd
-8b
-=3
-8cc
-8cc
-8a
-=4
-8dd
-4b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Ma-
+16a	-tu-
+8b	-le-
+8cc	-czku
+=2	=2
+4dd	dro-
+8b	-ga,
+=3	=3
+8cc	a
+8cc	ja-
+8a	-dą
+=4	=4
+8dd	go-
+4b}	-ście?
 !!LO:LB:g=esac
-=5
-{16g
-16a
-8b
-8cc
-=6
-4dd
-8ee
-=7
-8cc
-8cc
-8a
-=8
-8f#
-4d}
+=5	=5
+{16g	Da-
+16a	-le-
+8b	-ko
+8cc	o-
+=6	=6
+4dd	-ni
+8ee	są?
+=7	=7
+8cc	A
+8cc	już
+8a	na
+=8	=8
+8f#	mo-
+4d}	-ście.
 !!LO:LB:g=esac
-=9
-{16g
-16a
-8b
-8cc
-=10
-4dd
-8ee
-=11
-8cc
-8cc
-8a
-=12
-8dd
-4b}
+=9	=9
+{16g	Ma-
+16a	-tu-
+8b	-le-
+8cc	-czku
+=10	=10
+4dd	dro-
+8ee/	-ga,
+=11	=11
+8cc	a
+8cc	ja-
+8a	-dą
+=12	=12
+8dd	go-
+4b}	-ście?
 !!LO:LB:g=esac
-=13
-{16g
-16a
-8b
-8cc
-=14
-4dd
-8ee
-=15
-8cc
-8cc
-8a
-=16
-8f#
-4d}
+=13	=13
+{16g	Da-
+16a	-le-
+8b	-ko
+8cc	o-
+=14	=14
+4dd	-ni
+8ee	są?
+=15	=15
+8cc	A
+8cc	już
+8a	na
+=16	=16
+8f#	mo-
+4d}	-ście.
 !!LO:LB:g=esac
-=17
-{8dd
-8dd
-8b
-=18
-8cc
-8cc
-8a
-=19
-8dd
-8dd
-8b
-=20
-8cc
-8cc
-8a}
+=17	=17
+{8dd	Szu-
+8dd	-dra-
+8b	-wiec
+=18	=18
+8cc	na
+8cc	przod-
+8a	-ku,
+=19	=19
+8dd	je-
+8dd	-go
+8b	brat
+=20	=20
+8cc	w_po-
+8cc	-środ-
+8a}	-ku,
 !!LO:LB:g=esac
-=21
-{16g
-16a
-8b
-8cc
-=22
-4dd
-8ee
-=23
-4cc
-8a
-=24
-8b
-4g}
+=21	=21
+{16g	a
+16a	mój
+8b	naj-
+8cc	-mi-
+=22	=22
+4dd	-lej-
+8ee	-szy
+=23	=23
+4cc	na
+8a	o-
+=24	=24
+8b	-sta-
+4g}\	-tku.
 !!LO:LB:g=esac
-=25
-{8dd
-8dd
-8b
-=26
-8cc
-8cc
-8a
-=27
-8dd
-8dd
-8b
-=28
-8cc
-8cc
-8a}
+=25	=25
+{8dd	Szu-
+8dd	-dra-
+8b	-wiec
+=26	=26
+8cc	na
+8cc	przod-
+8a	-ku,
+=27	=27
+8dd	je-
+8dd	-go
+8b	brat
+=28	=28
+8cc	w_po-
+8cc	-środ-
+8a}	-ku,
 !!LO:LB:g=esac
-=29
-{16g
-16a
-8b
-8cc
-=30
-4dd
-8ee
-=31
-4cc
-8a
-=32
-8dd
-4g}
-==
-*-
+=29	=29
+{16g	a
+16a	mój
+8b	naj-
+8cc	-mi-
+=30	=30
+4dd	-lej-
+8ee	-szy
+=31	=31
+4cc	na
+8a	o-
+=32	=32
+8dd/	-sta-
+4g}\	-tku.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Matuleczku droga, a jadą goście!
+!!Daleko óni są? — A już na moście.
+!!Szudrawiec na przodku,
+!!jego brat w pośrodku,
+!!a mój najmiléjszy na ostatku.
+!!@VERSE:
+!!2. Matuleczku droga, co będą jedli? (bis)
+!!Szudrawiec gąsiątko,
+!!jego brat prosiątko,
+!!a mój najmiléjszy to kurczątko.
+!!@VERSE:
+!!3. Matuleczku droga, co będą pili? (bis)
+!!Szudrawiec piweczko,
+!!jego brat wineczko
+!!a mój najmiléjszy to gorzałeczkę.
+!!@VERSE:
+!!4. Matuleczku droga, gdzie będą spali? (bis)
+!!Szudrawiec na ławie,
+!!jego brat pod ławą,
+!!a mój najmiléjszy ze mną na łóżeczku.
+!!Odjeżdżają.
+!!@VERSE:
+!!5. Matuleczku droga goście odjeżdżają,
+!!a widzi mamuchna, jak się to żegnają.
+!!Szudrawiec czapkę zdjął,
+!!jego brat przeżegnoł,
+!!a mój najmiléjszy chusteczką kiwnął.
+!!@@END: VERSES
+!!!role-singer: Daughter
+!!!role-listener: Mother
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=236 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 224} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 224}
 !!!page: 224
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-20

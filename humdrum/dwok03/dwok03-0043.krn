@@ -3,53 +3,62 @@
 !!!source: DWOK03
 !!!id: K0043
 !!!signature:
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{4.a
-8b
-8cc
-8dd
-=2
-8ee
-[8ff#
-4ff#]
-8b
-8ff#
-=
-8ee
-24dd
-24cc
-24b
-8a
-8g#
-4e}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+{4.a	A
+8b/L	po-
+8cc/	-szła
+8dd/J	dziew-
+=2	=2
+8ee	-czy-
+[8ff#	-na
+4ff#]	.
+8b	ku
+8ff#	o-
+=3	=3
+8ee	-gro-
+*Xtuplet	*
+24ddL	-dysz-
+24cc	.
+24bJ	.
+8aL	-ko-
+8g#J	.
+4e};	-wi
 !!LO:LB:g=esac
-=3
-{4.e
-8g#
-8a
-8b
-=4
-4dd
-8b
-8cc
-8e
-8g#
-=5
-8a
-16b
-16cc
-8a
-8g#
-4e}
-==
-*-
+=4	=4
+{4.e	wy-
+8g#	-ko-
+8a	-pa-
+8b/	-ła
+=5	=5
+4dd	do-
+8b	-ły-
+8cc	-szek
+8e	swe-
+8g#	-mu
+=6	=6
+8a\	wia-
+16bL	-nysz-
+16ccJ	.
+8aL	-ko-
+8g#J	.
+!LO:TX:a:t=Wśród tańców i śpiéwów, starszy drużba odzywa się (43)&colon;	!
+4e}\;	-wi.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A poszła dziewczyna ku ogrodyszkowi
+!!wykopała dołyszek swemu wianyszkowi.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=287 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 275} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 275}
 !!!page: 275
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-25

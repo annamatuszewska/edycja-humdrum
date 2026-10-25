@@ -3,74 +3,82 @@
 !!!source: DWOK03
 !!!id: K0004
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/4
-=1
-{8f
-8g
-4a
-4b-
-=2
-4a
-4f
-4a
-=3
-8cc
-8a
-4b-
-4cc
-=4
-4dd
-4g}
-4r
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/4	*
+=1	=1
+{8f	Pomaluśku
+8g	.
+4a	.
+4b-/	.
+=2	=2
+4a	Jó-
+4f	-ze-
+4a	-fie,
+=3	=3
+8cc	pomaluśku
+8a\	.
+4b-	.
+4cc	.
+=4	=4
+4dd	pro-
+4g}	-szę.
+4r	.
 !!LO:LB:g=esac
-=5
-{8e
-8f
-4.g
-8a
-=6
-4g
-4e
-4c
-=7
-8f
-8g
-4a
-4b-
-=8
-8g
-8g
-4a
-4f}
+=5	=5
+{8e	Wi-
+8f	-dzisz
+4.g	że
+8a	ja
+=6	=6
+4g	nie
+4e	mo-
+4c	-gę,
+=7	=7
+8f	i-
+8g	-dąc
+4a	w_tak
+4b-	da-
+=8	=8
+8g	-le-
+8g	-ką
+4a	drogę,
+4f}	.
 !!LO:LB:g=esac
-=9
-{8e
-8f
-4g
-4a
-=10
-4g
-4e
-4c
-=11
-8f
-8g
-4a
-8b-
-8a
-=12
-8g
-8g
-4f
-4f}
-==
-*-
+=9	=9
+{8e	widzisz
+8f	.
+4g	że
+4a	ja
+=10	=10
+4g	nie
+4e	mo-
+4c	-gę,
+=11	=11
+8f	i-
+8g	-dąc
+4a	w_tak
+8b-/L	da-
+8aJ	.
+=12	=12
+8g	-le-
+8g	-ką
+4f	drogę.
+4f}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Pomaluśku Józefie, pomaluśku proszę.
+!!Widzisz że ja nie mogę, idąc w tak daleką drogę,
+!!widzisz że ja nie mogę, idąc w tak daleką drogę.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=221 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 209} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 209}
 !!!page: 209
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-20

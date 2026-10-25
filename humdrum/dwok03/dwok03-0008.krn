@@ -3,216 +3,260 @@
 !!!source: DWOK03
 !!!id: K0008
 !!!signature:
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/8
-=1
-{8ee
-8ee
-16ff#
-16dd
-=
-8ff#
-24ee
-24dd
-24cc#
-16b
-16a
-=
-24b
-24cc#
-24dd
-8ff#
-8ee}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M3/8	*
+=1	=1
+{8ee	A
+8ee	trze-
+8eeq	.
+16ff#	-ba
+16dd	dać
+=2	=2
+8ff#	pod-
+!LO:TUP:a	!
+(24eeL	-ko-
+24dd	.
+24cc#J)	.
+16b	-zio-
+16a\	-łek
+=3	=3
+!LO:TUP:a	!
+(24bL	trze-
+24ccJ#	.
+24dd)	-ba
+8ff#L	dać,
+8eeJ}	.
 !!LO:LB:g=esac
-=2
-{8ee
-8ee
-16ff#
-16dd
-=
-8ff#
-24ee
-24dd
-24cc#
-16b
-16a
-=
-24b
-24cc#
-24dd
-4a}
+=4	=4
+{8ee	mo-
+8ee	-głaś-
+16ff#	-ci
+16dd	ty
+=5	=5
+8ff#	cał-
+*Xtuplet	*
+24eeL	-ki
+24dd	.
+24cc#J	.
+16b	roczek
+16a\	.
+=6	=6
+24bL	tań-
+24ccJ#	.
+24dd	-co-
+4a}	-wać.
 !!LO:LB:g=esac
-=3
-{16e
-16f#
-16g#
-16a
-16b
-16cc#
-=4
-16dd
-16cc#
-16dd
-16b
-16cc#
-16a
-=5
-16b
-16dd
-8ee
-16e
-16g#}
+=7	=7
+{16e	Że-
+16f#	-byś
+16g#L	by-
+16aJ	.
+16bL	-ła
+16ccJ#	.
+=8	=8
+16dd	ku-
+16cc#	-rzą
+16ddL	no-
+16bJ	.
+16ccL#	-gę
+16a\J	.
+=9	=9
+16b	sprzeda-
+16dd	.
+!LO:TX:t=P:problem=mixed beam	!
+8eeL	-ła,
+16e	.
+16g#J}	.
 !!LO:LB:g=esac
-=6
-{16e
-16f#
-16g#
-16a
-16b
-16cc#
-=7
-16dd
-16cc#
-16dd
-16ff#
-16cc#
-16a
-=8
-16b
-16g#
-4a}
+=10	=10
+{16e	to
+16f#	byś
+16g#L	by-
+16aJ	.
+16bL	-ła
+16ccJ#	.
+=11	=11
+16dd	pod-
+16cc#	-ko-
+16ddL	-zio-
+16ff#J	.
+16cc#L	-łek
+16a\J	.
+=12	=12
+16b	ze-
+16g#	-bra-
+4a};	-ła.
 !!LO:LB:g=esac
-=9
-{16a
-16b
-16cc#
-16dd
-16ee
-16cc#
-=
-16ff#
-16dd
-8ee
-24cc#
-24a
-24g#
-=10
-8a
-16cc#
-16dd
-16ee
-16cc#
-=
-16ff#
-16dd
-8ee
-24cc#
-24b
-24g#}
+=13	=13
+{16a\L	.
+16bJ	.
+16ccL#	.
+16dd	.
+16ee	.
+16cc#J	.
+=14	=14
+16ff#L	.
+16dd	.
+8eeJ	.
+*tuplet	*
+(>24cc#/L	.
+24a	.
+24g#J)	.
+=15	=15
+8a\L	.
+16cc#	.
+16dd	.
+16ee	.
+16ccJ#	.
+=16	=16
+16ff#L	.
+16dd	.
+8eeJ	.
+*Xtuplet	*
+24cc#L	.
+24b	.
+24g#\J}	.
 !!LO:LB:g=esac
-=11
-{16e
-16f#
-16g#
-16a
-16b
-16cc#
-=12
-16dd
-16b
-8cc#
-16a
-16g#
-=13
-16e
-16f#
-8g#
-8b
-=14
-8a
-16a
-16g#
-8a}
+=17	=17
+{16eL	.
+16f#J	.
+16g#L	.
+16aJ	.
+16bL	.
+16ccJ#	.
+=18	=18
+16ddML	.
+16b	.
+8cc#J	.
+16aL	.
+16g#J	.
+=19	=19
+16eL	.
+16f#J	.
+8g#L	.
+8b/J	.
+=20	=20
+8aL	.
+16a	.
+16g#	.
+8a}J;	.
 !!LO:LB:g=esac
-=
-{24b
-24cc
-24dd
-8ee
-24dd
-24cc
-24b
-=15
-16a
-16g#
-8e
-16dd#
-16ee
-=
-24b
-24cc
-24dd
-8ee
-24dd
-24cc
-24b
-=16
-16a
-16g#
-8e
-16ff#
-16a}
+=21	=21
+*k[]	*
+{24bL	.
+24cc	.
+24ddJ	.
+8ee	.
+24ddL	.
+24cc	.
+24bJ	.
+=22	=22
+16aL	.
+16g#	.
+8eJ	.
+16dLd#	.
+16eeJ	.
+=23	=23
+24bL	.
+24cc	.
+24ddJ	.
+8eeL	.
+24dd	.
+24cc	.
+24bJ	.
+=24	=24
+16aL	.
+16g#	.
+8eJ	.
+16f#L	.
+16aJ}	.
 !!LO:LB:g=esac
-=
-{24e
-24f#
-24g#
-4b
-=
-24a
-24g#
-24e
-8dd
-8ee
-=
-24e
-24f#
-24g#
-4b
-=17
-16a
-16e
-8f#
-8e}
+=25	=25
+{24eL	.
+24f#	.
+24g#J	.
+4b	.
+=26	=26
+24aL	.
+24g#	.
+24eJ	.
+8ddL	.
+8eeJ	.
+=27	=27
+24eL	.
+24f#	.
+24g#J	.
+4b	.
+=28	=28
+16aL	.
+16eJ	.
+8f#L	.
+8e}J	.
 !!LO:LB:g=esac
-=
-{24e
-24f#
-24g#
-4b
-=
-24a
-24g#
-24e
-8dd
-8ee
-=
-24e
-24f#
-24g#
-4b
-=18
-16a
-16e
-8f#
-8e}
-==
-*-
+=29	=29
+{24eL	.
+24f#	.
+24g#J	.
+4b	.
+=30	=30
+24aL	.
+24g#	.
+24eJ	.
+8ddL	.
+8eeJ	.
+=31	=31
+24eL	.
+24f#	.
+24g#J	.
+4b	.
+=32	=32
+16aL	.
+16eJ	.
+8f#L	.
+8e}J	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A trzeba dać podkoziołek trzeba dać,
+!!mogłaści ty całki roczek tańcować.
+!!Żebyś była kurzą nogę sprzedała,
+!!to byś była podkoziołek zebrała.
+!!@VERSE:
+!!1. A trzeba dać podkoziołek,— trzeba dać!
+!!Umiałaś ci całki roczek — wybadać (chłopców).
+!!@VERSE:
+!!2. A trzeba dać podkoziołek — trzeba dać!
+!!mogłaś ci ty całki roczek — tańcować.
+!!@VERSE:
+!!Do oprzątarki odzywają się w ten sposób:
+!!3. Żebyś była świńskąnogę sprzedała,
+!!Tobyś była podkoziołek zebrała (uzbiérała).
+!!@VERSE:
+!!Do posługaczki lub innéj oprzątarki, albo zamiataczki:
+!!4. Żebyś była kurząnogę sprzedała,
+!!Tobyś była podkoziołek zebrała.
+!!@VERSE:
+!!5. Żebyś była ciotce rózgi (mietłę) sprzedała,
+!!Tobyś była podkoziołek zebrała.
+!!@VERSE:
+!!Do kucharki:
+!!6. Żebyś była to kijczysko (warząchew) sprzedała,
+!!Tobyś była podkoziołek zebrała.
+!!@VERSE:
+!!Do fúrmana:
+!!7. Żebyś ty był tym żydziskom bicz sprzedał,
+!!Byłbyści ty na taneczek z namy miał.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!role-listener: Many characters
+!!!RDF**kern: >= above
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=224 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 212} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 212}
 !!!page: 212
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-20

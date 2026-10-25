@@ -3,78 +3,108 @@
 !!!source: DWOK03
 !!!id: K0037
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16b
-16dd
-8ee
-16cc
-16b
-=2
-16b
-16dd
-8ee
-16cc
-16b
-=3
-16a
-16b
-4g
-=4
-16e
-16f#
-8d}
-8r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16b	A
+16dd	kul-
+8ee	-nę
+16ccL	ja
+16bJ	.
+=2	=2
+16b	swój
+16dd	wia-
+8ee	-ny-
+16ccL	-szek
+16bJ	.
+=3	=3
+16a\	po
+16b	sto-
+4g\	-le,
+=4	=4
+16e	po
+16f#	sto-
+8d}	-le,
+8r	.
 !!LO:LB:g=esac
-=5
-{16b
-16dd
-8ee
-16cc
-16b
-=6
-16g
-16b
-8cc
-8ee
-=7
-16b
-16dd
-8ee
-16cc
-16b
-=8
-16a
-16b
-4g}
+=5	=5
+{16b	a
+16dd	u
+8ee	pa-
+16cLc	-dnie
+16bJ	.
+=6	=6
+16g	pa-
+16b	-nu
+8cc	oj-
+8ee	-cu
+=7	=7
+16b	na
+16dd	ło-
+8eeL	-nie
+16cc	.
+16bJ	.
+=8	=8
+16a\	na
+16b	ło-
+4g}	-nie.
 !!LO:LB:g=esac
-=9
-{16e
-16f#
-8a
-8a
-=10
-16a
-16cc#
-8dd
-8f#
-=11
-16g
-16b
-8.g
-16f#
-=12
-16e
-16f#
-4d}
-==
-*-
+=9	=9
+{16eL	.
+16f#J	.
+8aL	.
+8aJ	.
+=10	=10
+16a\L	.
+16cc#J	.
+!LO:TX:t=P:problem=mixed beam	!
+8ddL	.
+8f#J	.
+=11	=11
+16gL	.
+16b/J	.
+8.gL	.
+16f#J	.
+=12	=12
+16eL	.
+16f#J	.
+4d}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A kulnę ja swój wianyszek
+!!po stole,
+!!a upadnie panu ojcu
+!!na łonie.
+!!@VERSE:
+!!2. A puszcza go mój pan-ojciec
+!!po stole,
+!!,,a weź sobie swój wianyszek,
+!!idź sobie."
+!!(toż: pani-matka, siostra i t. d.).
+!!@VERSE:
+!!3. A kulnę ja swój wianyszek
+!!po stole,
+!!a upadnie Franulowi
+!!na łonie.
+!!@VERSE:
+!!4. Nie puszcza go mój Franulo
+!!po stole,
+!!,,a przyjmę ja twój wianyszek
+!!i ciebie."
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: matchmakers sing - wedding ceremony
+!!@@END:
+!!!role-singer: Narrator
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=284 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 272} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 272}
 !!!page: 272
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-24

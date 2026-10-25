@@ -3,45 +3,102 @@
 !!!source: DWOK03
 !!!id: K0033
 !!!signature:
-**kern
-*clefG2
-*k[b-e-]
-*g:
-*M3/8
-=1
-{4b-
-8g
-=2
-8f#
-4d
-=3
-16g
-16a
-8b-
-8cc
-=4
-8dd
-4g}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*g:	*
+*M3/8	*
+=1	=1
+{4b-	Ży-
+8g	-wnie
+=2	=2
+8f#	nie
+4d	wiem
+=3	=3
+16g	co
+16a	sta-
+8b-	-re-
+8cc	-mu
+=4	=4
+8dd	wa-
+4g}	-rzą?
 !!LO:LB:g=esac
-=5
-{8b-
-8a
-8g
-=6
-8f
-4d
-=7
-16d
-16c
-8d
-8g
-=8
-8f#
-4d}
-==
-*-
+=5	=5
+{8b-/L	Groch,
+8aJ	.
+8g	ka-
+=6	=6
+8fn	-pu-
+4d	-stę,
+=7	=7
+16d	o-
+16c	-trę-
+8d	-bów
+8g	na-
+=8	=8
+8f#	-pa-
+4d}	-rzą.
+=9	=9
+{4b-	Ży-
+8g	-wnie
+=10	=10
+8f#	nie
+4d	wiem
+=11	=11
+16g	co
+16a	sta-
+8b-	-re-
+8cc	-mu
+=12	=12
+8dd	wa-
+4g}	-rzą?
+!!LO:LB:g=esac
+=13	=13
+{8b-/L	Groch,
+8aJ	.
+8g	ka-
+=14	=14
+8fn	-pu-
+4d	-stę,
+=15	=15
+16d	o-
+16c	-trę-
+8d	-bów
+8g	na-
+=16	=16
+8f#	-pa-
+!LO:TX:a:t=W końcu obiadu druchny śpiéwają (34) &colon;	!
+4d}	-rzą.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Żywnie nie wiém, co staremu warzą?
+!!groch, kapustę, otrębów zaparzą.
+!!@VERSE:
+!!2. Żywnie niewiem, co młodemu warzą?
+!!pięć gołąbków, w maśle mu usmarzą.
+!!@VERSE:
+!!3. Żywnie nie wiem, co stary rad pije?
+!!z zdroju wodę i z wazki (lub: w kłodzie) 
+!![pomyje.
+!!@VERSE:
+!!4. Żywnie nie wiem, co młody rad pije?
+!!wino, piwo, i w wódce się myje.
+!!@VERSE:
+!!5. Żywnie nie wiem, co staremu ścielą?
+!!snop grochowin, głogiem go odzieją.
+!!@VERSE:
+!!6. Żywnie nie wiem, co młodemu ścielą?
+!!pięć poduszek, pierzyną odzieją.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: matchmaking - wedding ceremony
+!!@@END:
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=282 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 270} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 270}
 !!!page: 270
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-24

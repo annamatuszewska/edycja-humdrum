@@ -3,70 +3,85 @@
 !!!source: DWOK03
 !!!id: K0030
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8b
-4dd
-=2
-8b
-4dd
-=3
-16g
-16g
-8a
-8cc
-=4
-8ee
-8g}
-8r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8b	Ja-
+4dd	-siu,
+=2	=2
+8b	Ja-
+4dd	-siu,
+=3	=3
+16g	kę-
+16g	-dyś
+8a	Ka-
+8cc	-się
+=4	=4
+8ee	po-
+(16ccqL	.
+16aqJ	.
+8g)}	-dział?
+8r	.
 !!LO:LB:g=esac
-=5
-{16b
-16ee
-8dd
-8d
-=6
-16b
-16ee
-8dd
-8d
-=7
-8g
-8g
-16a
-16cc
-=8
-8b
-8g}
-8r
+=5	=5
+{16b	Pod
+16ee	ko-
+8dd	-min-
+8d\	-kiem
+=6	=6
+16b	pod
+16ee	Ko-
+8dd	-min-
+8d	-kiem
+=7	=7
+8g	port-
+8g	-ka-
+16a\	-my
+16cc	na-
+=8	=8
+8b	-o-
+(8aq	.
+8g)}	-dział.
+8r	.
 !!LO:LB:g=esac
-=9
-{16b
-16ee
-8dd
-8d
-=10
-16b
-16ee
-8dd
-8d
-=11
-8g
-8g
-16a
-16cc
-=12
-8b
-8g}
-8r
-==
-*-
+=9	=9
+{16b	Pod
+16ee	ko-
+8dd	-min-
+8d\	-kiem
+=10	=10
+16b	pod
+16ee	Ko-
+8dd	-min-
+8d	-kiem
+=11	=11
+8g	port-
+8g	-ka-
+16a\	-my
+16cc	na-
+=12	=12
+8b	-o-
+(8aq	.
+8g)}	-dział.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Jasiu, Jasiu, kędyś Kasię podział? 
+!!Pod kominkiem pod Kominkiem portkamy naodział.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: The youth sing - wedding ceremony
+!!@@END:
+!!!role-singer: Narrator
+!!!role-listener: Man
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=280 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 268} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 268}
 !!!page: 268
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-24

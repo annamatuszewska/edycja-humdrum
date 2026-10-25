@@ -3,62 +3,78 @@
 !!!source: DWOK03
 !!!id: K0019
 !!!signature: 0301900010
-**kern
-*clefG2
-*k[b-e-]
-*g:
-*M3/8
-=1
-{16a
-16cc#
-8dd
-16b-
-16a
-=2
-8.g
-16d
-16cc#
-16dd
-=3
-16a
-16cc#
-8dd
-16b-
-16a
-=4
-8.g
-16d
-16f#
-16g}
+**kern	**text	**text
+*clefG2	*	*
+*k[b-e-]	*	*
+*g:	*	*
+*M3/8	*	*
+=1	=1	=1
+{16a\	Ju-	Ju-
+16cc#	-żeś	-żeś
+8dd	nie	ci
+16b-/L	na-	nie
+16aJ	.	.
+=2	=2	=2
+8.g	-sza	nasz
+16d	dzie-	chło-
+16cc#	-wu-	-pa-
+16dd	-cha,	-ku,
+=3	=3	=3
+16a\	ju-	ju-
+16cc#	-żeś	-żéś
+8dd	nie	ci
+16b-/L	na-	nie
+16aJ	.	.
+=4	=4	=4
+8.g	-sza,	nasz,
+16d	nie	da
+16f#	na-	nie
+16g}	-sza.	nasz.
 !!LO:LB:g=esac
-=5
-{16cc
-16g
-8b-
-16b-
-16a
-=6
-8.g
-16f#
-16cc#
-16dd
-=7
-16cc
-16g
-16f#
-16g
-16a
-16b-
-=8
-8.g
-16d
-16f#
-16g}
-==
-*-
+=5	=5	=5
+{16cnc	Za-	Za-
+16g	-je-	-szedł
+8b-	-cha-	ka-
+8ccq	.	.
+16b-L	-ły	-szta-
+16a\J	.	.
+=6	=6	=6
+8.g	trzy	-nek,
+16f#	ko-	bu-
+16cc#	-ni-	-ła-
+16dd	-ki,	-nek
+=7	=7	=7
+16ccn	czwar-	i
+16g	-ta	si-
+16f#L	ko-	-wo-
+16gJ	.	.
+16aL	-la-	-szka
+16b-/J	.	.
+=8	=8	=8
+8.g	-sa,	masz,
+16d	ko-	da
+16f#	-la-	i
+16g}	-sa.	masz.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. Jużeś nie nasza dziewucha,
+!!jużeś nie nasza, nie nasza.
+!!Zajechały trzy koniki,
+!!czwarta kolasa, kolasa.
+!!@VERSE:
+!!2. Jużeś ci nie nasz chłopaku,
+!!jużeś ci nie nasz, da nie nasz.
+!!Zaszedł kasztanek, bułanek
+!!i siwoszka masz, da i masz.
+!!@@END: VERSES
+!!!role-singer: Group
+!!!role-listener: Girl, Boy
 !!!ONB: Część wokalna
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=268 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 256} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 256}
 !!!page: 256
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-21

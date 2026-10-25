@@ -14,17 +14,17 @@
 8g
 8b-
 =2
-4dd
-8b-
+(4dd
+8b-)
 =3
 16.a
 32cc#
 8dd
-16b-
-16a
+16b-/L
+16aJ
 =4
-16g
-16f#
+16gL
+16f#J
 8d}
 8r
 !!LO:LB:g=esac
@@ -34,25 +34,26 @@
 8g
 8a
 =6
-4b-
-8dd
+(4b-
+8dd)
 =7
 16.d
 32f#
 8g
-16b-
-16a
+16b-/L
+16aJ
 =8
-16g
-16f#}
+16gL
+16f#J}
 4r
 !!LO:LB:g=esac
 =9
-{16.dd
+{8aq
+16.dd
 32dd
 8g
-16a
-16b-
+16La
+16b/J-
 =10
 16a
 16g
@@ -62,8 +63,8 @@
 16.dd
 32dd
 8g
-16a
-16b-
+16aL
+16b-/J
 =12
 16a
 16g
@@ -74,14 +75,58 @@
 {16f#
 16g
 8a
-8b-
+8b-/
 =14
 4g}
 8r
 ==
 *-
+!!@@BEGIN: VERSES
+!!1. Siadaj-że siadaj, moje kochanie,
+!!nic nie pomoże twoje płakanie.
+!!Nic płakanie nie pomoże,
+!!stoją konie w ślubnym wozie,
+!!wszyscy czekają.
+!!@VERSE:
+!!2. Nie będe jeszcze z wamy siadała,
+!!bo'm się z matulom nie pożegnała.
+!!Ostaj z Bogiem, miło matko,
+!!wychowałaś ci mnie gładko,
+!!ostaj-że z Bogiem.
+!!@VERSE:
+!!3. Siadaj-że siadaj i t. d.
+!!@VERSE:
+!!4. Nie będe jeszcze z wamy siadała,
+!!bo'm się z tatulem nie pożegnała.
+!!Ostaj z Bogiem, miły ojcze,
+!!bolały cię na mnie oczy,
+!!ostaj-że z Bogiem.
+!!@VERSE:
+!!5. Siadoj-że siadoj i t. d.
+!!@VERSE:
+!!6. Nie będe jeszcze z wamy siadała,
+!!bo'm się i z siostrom nie pożegnała.
+!!Ostaj z Bogiem, miło siostro,
+!!bywałaś ci na mnie ostro,
+!!ostaj-że z Bogiem.
+!!@VERSE:
+!!7. Siodoj-że siodoj i t. d.
+!!@VERSE:
+!!8. Nie będe jeszcze z wamy siadała,
+!!bo'm się z ciotkamy nie pożegnała
+!!Ostajta my z Bogiem ciotki,
+!!robiłyśta na mnie plotki,
+!!ostajta z Bogiem.
+!!@@END: VERSES
+!!@@BEGIN:
+!!@COMMENTARY: Wedding ceremony, older matchmakers
+!!@@END:
+!!!role-singer: Narrator 
+!!!role-listener: Future Bride
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=278 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 266} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 266}
 !!!page: 266
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-24

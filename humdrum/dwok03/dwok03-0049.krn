@@ -3,97 +3,193 @@
 !!!source: DWOK03
 !!!id: K0049
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{8cc
-8b
-8cc
-8g
-=2
-8ee
-8dd
-8cc
-8g
-=3
-8ee
-8dd
-8cc
-8g
-=4
-8dd
-8ee
-8ff
-8dd
-=5
-2gg}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+=1	=1
+{8cc	Prze-
+8b	-de
+8cc	dwo-
+8g	-rem
+=2	=2
+8ee	bioł-
+8dd	-ny
+8cc	ka-
+8g	-miń,
+=3	=3
+8ee	bioł-
+8dd	-ny
+8cc	ka-
+8g	-miń
+=4	=4
+8dd	zło-
+8ee	-ta
+8ff	li-
+8dd	-li-
+=5	=5
+2gg}	-jo,
 !!LO:LB:g=esac
-=6
-{8dd
-8ee
-8ff
-8aa
-=7
-8gg
-8ff
-8ee
-8dd
-=8
-8g
-16a
-16b
-8cc
-16dd
-16ee
-=9
-4cc}
-4r
+=6	=6
+{8dd	u-
+8ee	-wiń-
+8ff	-ze-
+8aa	-my
+=7	=7
+8gg	z_ru-
+8ff	-ty
+8ee	wie-
+8dd	-niec
+=8	=8
+8g	pan-
+16aL	-no
+16b/J	.
+8cc	Zo-
+16ddL	-fi-
+16eeJ	.
+=9	=9
+4cc}	-jo.
+4r	.
 !!LO:LB:g=esac
-=10
-{8cc
-8g
-8ee
-8dd
-=11
-8cc
-8g
-8ee
-8g
-=12
-8dd
-8ee
-8ff
-8gg
-=13
-2dd}
+=10	=10
+{8ccL	.
+8g\	.
+8ee	.
+8ddJ	.
+=11	=11
+8ccL	.
+8g\	.
+8ee	.
+8g\J	.
+=12	=12
+8ddL	.
+8ee	.
+8ff	.
+8ggJ	.
+=13	=13
+2dd}	.
 !!LO:LB:g=esac
-=14
-{8dd
-8ee
-8ff
-8aa
-=15
-8gg
-8ff
-8dd
-16cc
-16b
-=16
-8g
-16a
-16b
-8cc
-16dd
-16ee
-=17
-2cc}
-==
-*-
+=14	=14
+{8ddL	.
+8ee	.
+8ff	.
+8aaJ	.
+=15	=15
+8ggL	.
+8ffJ	.
+8ddL	.
+16cc	.
+16bJ	.
+=16	=16
+8g	.
+16a\L	.
+16bJ	.
+8ccL	.
+16dd	.
+16eeJ	.
+=17	=17
+2cc}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Przede dworem biołny kamiń,
+!!(lub: przede wroty kamiń złoty)
+!!złota lilijo -
+!!(lub: na nim lilijo),
+!!uwińzemy z ruty wieniec
+!!panno Zofijo.
+!!@VERSE:
+!!2. Nie wij-że go chłopu ze wsi,
+!!boć mu nie godzien,
+!!uwij-że go szewczykowi,
+!!boć mu podobien.
+!!@VERSE:
+!!3. Odzij szaty nopikniejsze,
+!!wyńdzi przed wrota,
+!!jedzie do cie piękny młodzian
+!!cały od złota.
+!!@VERSE:
+!!4. Jedzie, jedzie piękny młodzion
+!!kochaneczek mój,
+!!bo wyprysa i wyryża,
+!!jego siwy kóń.
+!!@VERSE:
+!!5. Otwórz-że mu pacholiku
+!!szyroko wrota,
+!!żeby sobie ten kóniczek
+!!nie obtar złota.
+!!@VERSE:
+!!6. Posyp-że mu pacholiku
+!!popielec pod próg,
+!!żeby sobie ten kuniczek
+!!nie pozbijał (lub: nie powalał) nóg.
+!!@VERSE:
+!!7. Połóż-że mu pacholiku
+!!kobiérzec na próg,
+!!żeby sobie nie potłuk óń
+!!mój kuniczek nóg.
+!!@VERSE:
+!!8. Postaw-że mu pacholiku
+!!malowany stół,
+!!postaw-że mu takich potraw,
+!!gdyby morcypun.
+!!@VERSE:
+!!9. Odstąpiła się gniéwając:
+!!nie takich chcioła!
+!!Byłbym ja tu nie przyjechał,
+!!aleś kozała.
+!!@VERSE:
+!!10. Powiém ja ci nowineczkę,
+!!nowineczkę złom,
+!!że już twojom Zosiulinkę
+!!do ślubu wiezą.
+!!@VERSE:
+!!11. Kiej ją wiezą, niech ją wiezą,
+!!niech ją trzymają,
+!!a ja wsiąde na kónika
+!!pojade za nią.
+!!@VERSE:
+!!12. I przyjechoł do kościoła,
+!!stanoł za dźwiamy,
+!!spojrzał za niom raz i drugi,
+!!zaloł się łzamy.
+!!@VERSE:
+!!13. J usiad(ł) on w pirwszy łowce
+!!między paniamy,
+!!nopiknicjszy dyjamencik
+!!między perłamy.
+!!@VERSE:
+!!14. Przystąpiła do ółtarza,
+!!jak rużany kwiot,
+!!czorne oczki zapłakała,
+!!zmienił i sie swiot.
+!!@VERSE:
+!!15. Mosz chustyczki, otrzyj oczki,
+!!dziéwczyno moja,
+!!niech-że ci się świot nie mini,
+!!uroda twoja.
+!!@VERSE:
+!!16. Odstąpiła od ółtarza
+!!bardzo płakając,
+!!mnie się sérce we krwi nurza
+!!na nią patrzając.
+!!@VERSE:
+!!17. Wsiąde na kóń i pojade
+!!szyrokim światem,
+!!nie pożegnom-ci się z matką,
+!!nie żegnom z bratem.
+!!@VERSE:
+!!18. Ni téż z tobom, najmilejsza,
+!!różany kwiecie,
+!!ludzkie oczy mnie nie ujrzą
+!!na tym tu świecie.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=290 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 278} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 278}
 !!!page: 278
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-25
