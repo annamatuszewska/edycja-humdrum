@@ -3,92 +3,118 @@
 !!!source: DWOK05
 !!!id: K0027
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{8b
-8dd
-8cc#
-8dd
-=2
-8b
-8dd
-4dd
-=3
-4ee
-4a
-=4
-8a
-8cc
-16ee
-16dd
-8b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+=1	=1
+{8b	Hej
+8dd	chłopiec
+8cc#	.
+8dd	ci
+=2	=2
+8b	ja
+8dd	chłopiec
+4dd	.
+=3	=3
+4ee	z_końca
+4a\	.
+=4	=4
+8a\	Rogoźnicka,
+8ccn	.
+16eeL	.
+16ddJ	.
+8b}	.
 !!LO:LB:g=esac
-=5
-{8b
-8dd
-8cc#
-8dd
-=6
-8b
-8dd
-8cc#
-8dd
-=7
-4ee
-4a
-=8
-8a
-8cc
-16b
-16a
-8g}
+=5	=5
+{8b	miałem
+8dd	.
+8cc#L	ja
+8ddJ	wojnę
+=6	=6
+8b	.
+8dd	dobrą,
+8cc#L	.
+8ddJ	.
+=7	=7
+4ee	o
+4a\	oj-
+=8	=8
+8a\	-ca
+8cc	zbójniczka.
+16bL	.
+16aJ	.
+8g}	.
 !!LO:LB:g=esac
-=9
-{8e
-8g
-8f#
-8g
-=10
-8e
-8g
-8f#
-8g
-=11
-4a
-4d
-=12
-8d
-8f
-8a
-8g}
+=9	=9
+{8e	.
+8g	.
+8f#	.
+8g	.
+=10	=10
+8e	.
+8g	.
+8f#	.
+8g	.
+=11	=11
+4a	.
+4d	.
+=12	=12
+8d	.
+8fn	.
+8a	.
+8g}	.
 !!LO:LB:g=esac
-=13
-{8e
-8g
-8f#
-8g
-=14
-8e
-8g
-8f#
-8g
-=15
-4a
-4d
-=16
-8d
-8f
-16e
-16d
-8c}
-==
-*-
+=13	=13
+{8e	.
+8g	.
+8f#	.
+8g	.
+=14	=14
+8eL	.
+8gJ	.
+8f#L	.
+8gJ	.
+=15	=15
+4a	.
+4d	.
+=16	=16
+8d	.
+8f	.
+16eL	.
+16dJ	.
+8c}	.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Hej chłopiec ci ja chłopiec z końca Rogoźnicka,
+!!miałem ja wojnę (wujenkę) dobrą, o ojca zbójniczka.
+!!Jeszczem nie zbójował, a tylko próbował,
+!!z buczka na śmereczek w nocy przeskakował.
+!!Hole, hole, niczem pole,
+!!ja tu sobie pośród gór
+!!kieby orzeł pośród chmur,
+!!a kiéj sunę się na hale,
+!!wnet pod skałą, wnet na skale!
+!!Hale, hale, niczem pole,
+!!bo ja żyję pośród gór,
+!!kieby orzeł pośród chmur.
+!!Niech tam Lachy mają łany,
+!!dla nas dobre są polany.
+!!Chciał wyłazić na nie Szwed,
+!!ale karki skręcił wnet.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Góral, późniéj drugi.
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=248 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 220-221} @EN{Oskar Kolberg Complete Works 5: Crakow I, pp. 220-221}
 !!!page: 220-221
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-28

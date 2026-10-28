@@ -3,50 +3,72 @@
 !!!source: DWOK05
 !!!id: K0077
 !!!signature:
-**kern
-*clefG2
-*k[]
-*a:
-*M2/4
-=1
-{8ff
-8ee
-8ee
-8ee
-=2
-8dd
-8ee
-8ff
-8dd
-=3
-8ff
-8ee
-8ee
-8ee
-=4
-8dd
-8ee
-8ff
-8dd}
+**kern	**text	**text
+*clefG2	*	*
+*k[]	*	*
+*a:	*	*
+*M2/4	*	*
+=1	=1	=1
+{8ff	Tera	I
+8ee	.	zatańcy
+8ee	zid	.
+8ee	będzie	.
+=2	=2	=2
+8dd	.	z_hebrajskiego,
+8ee	tańcował,	.
+8ff	.	.
+8dd	.	.
+=3	=3	=3
+8ff	bo	krakowiaka
+8ee	diaboł	.
+8ee	.	.
+8ee	kró-	.
+=4	=4	=4
+8dd	-la	zidowskiego,
+8ee	pochował,	.
+8ff	.	.
+8dd}	.	.
 !!LO:LB:g=esac
-=5
-{4ee
-4dd
-=6
-8cc
-8cc
-4b
-=7
-4dd
-4cc
-=8
-8b
-8b
-4a}
-==
-*-
+=5	=5	=5
+{4ee	aj	aj
+4dd	waj	waj
+=6	=6	=6
+8cc	taj	taj
+8ddq	.	.
+8cc	daj	daj
+4b	dom,	dom,
+=7	=7	=7
+4dd	aj	aj
+4cc	waj	waj
+=8	=8	=8
+8b	taj	taj
+8ccq	.	.
+8b	daj	daj
+4a\}	dom!	dom!
+==	==	==
+*-	*-	*-
+!!!role-singer: Jew
+!!!role-listener: Audience
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Tera zid bedzie tańcował,
+!!bo diaboł króla pochował,
+!!aj waj taj daj dom,
+!!aj waj taj daj dom!
+!!I zatańcy z habrajakiego,
+!!krakowiaka zidowskiego,
+!!aj waj taj daj dom,
+!!aj waj taj daj dom!
+!!poczém mówi: A moji państwo łaskawi,
+!!każdy rączkę w kieszeń wprawi,
+!!i dla zidka Olimiara
+!!dadzą chociaz pół talara.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=389 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 361} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 361}
 !!!page: 361
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-28

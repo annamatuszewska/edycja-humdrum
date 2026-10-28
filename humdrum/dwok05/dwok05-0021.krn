@@ -3,94 +3,183 @@
 !!!source: DWOK05
 !!!id: K0021
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16f#
-8g
-16b
-16cc
-=2
-4.dd
-=3
-16ee
-16dd
-8cc
-16f#
-16a
-=4
-4g}
-8r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Nasz
+16f#	ślicz-
+8g	-ny
+16bL	Kra-
+16ccJ	.
+=2	=2
+4.dd	-ków,
+=3	=3
+16ee	śliczny,
+16dd	.
+8cc	oj
+16f#L	śliczny!
+16aJ	.
+=4	=4
+4g}	.
+8r	.
 !!LO:LB:g=esac
-=5
-{16g
-16f#
-8g
-16b
-16cc
-=6
-4.dd
-=7
-16ee
-16dd
-8cc
-16f#
-16a
-=8
-4g}
-8r
+=5	=5
+{16g	dzi-
+16f#	-wu-
+8g	-je
+16bL	się
+16ccJ	.
+=6	=6
+4.dd	mu
+=7	=7
+16ee	świat
+16dd	okolicz-
+8cc	.
+16f#L	.
+16aJ	.
+=8	=8
+4g}	-ny.
+8r	.
 !!LO:LB:g=esac
-=9
-{16a
-16f#
-16a
-16b
-8cc
-=10
-16g
-16g
-8b
-8dd
-=11
-16a
-16f#
-16a
-16b
-8cc
-=12
-16g
-16g
-8b
-8dd}
+=9	=9
+{16a	Tak
+16f#	rozlicznie
+16aL	.
+16bJ\	.
+8cc	.
+=10	=10
+16g	wygładzony,
+16g	.
+8b	.
+8dd	.
+=11	=11
+16a	równiusieńko
+16f#	.
+16aL	.
+16bJ\	.
+8cc	.
+=12	=12
+16g	z_każdéj
+16g	.
+8b	strony,
+8dd}	.
 !!LO:LB:g=esac
-=13
-{16a
-16a
-16a
-16b
-8cc
-=14
-16b
-16ee
-8dd
-8dd
-=15
-16ee
-16dd
-8cc
-16f#
-16a
-=16
-4g}
-8r
-==
-*-
+=13	=13
+{16a	sto-
+16a	-tysięcy
+16aL	.
+16bJ\	.
+8cc	.
+=14	=14
+16b	ludzi
+16ee	.
+8dd	zmieści,
+8dd	.
+=15	=15
+16ee	jeszcze
+16dd	.
+8cc	przestrony.
+16f#L	.
+16aJ	.
+=16	=16
+4g}	.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Narrator from Kraków
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1 Nasz śliczny Kraków, śliczny, oj śliczny!
+!!dziwuje się mu świat okoliczny.
+!!Tak rozlicznie wygładzony,
+!!równiusieńko z każdéj strony,
+!!sto tysięcy ludzi zmieści, jeszcze przestrony.
+!!@VERSE:
+!!2 W Krakowskim rynku sala nad sale,
+!!kędy królowie dawali bale,
+!!Sukiennice murowane,
+!!od Kaźmirza fundowane,
+!!ważnym statkiem, zamożnością stoją ubrane.
+!!@VERSE:
+!!3 W róg Sukienniców ratuszna wieża
+!!głównym zegarem czasy wymierza,
+!!Chorągiewka na niéj spływa,
+!!z któréj strony wiatr powiewa
+!!i z orzełkiem nad koroną chwierut wyśpiewa.
+!!(lub: i wraz z kogutkiem niewidzianym fierut wyśpiewa).
+!!@VERSE:
+!!4 Od wschodu słońca kościół Maryi,
+!!królowéj Polskiéj, panien lilii,
+!!wieżę wznosi tak wysoko,
+!!że ją dojśźrzy ledwie oko
+!!jako imię matki Bożéj sięga wysoko;
+!!(lub: i z niéj się myśl w sercu każdem, ryje głęboko).
+!!@VERSE:
+!!5 A od zachodu gmach Krzysztofory,
+!!w jego piwnicach są złota wory (1)
+!!Gdy na Kraków bieda spadnie,
+!!to je lud diabłom odkradnie,
+!!którzy skarbów pod tym gmachem pilnują na dnie.
+!!@VERSE:
+!!6 Prześliczny Zamek, to skarbiec dawny,
+!!na całą Polskę pięknością sławny.
+!!(lub: Na wierzchu zamku straszna kopuła
+!!ogromnym głosem wszystkich rozczula).
+!!Gdy w nim zagrzmi o swéj sile,
+!!co go słychać o dwie mile,
+!!stary Zygmunt, co już wieków przedzwonił tyle.)
+!!@VERSE:
+!!7 Jak śliczny Kraków, któż go wyśpiewa?
+!!chyba ta Wisła co go opływa!...
+!!Nasza Wisła ukochana,
+!!srébrną łuszczką karbowana
+!!i statkami, galarami obładowana.
+!!(Inna wersya téj pieśni tak się rozpoczyna:)
+!!@VERSE:
+!!1 Naszci to Kraków, starodawny gród
+!!ma hojną ziemię, setny, zdziarski lud.
+!!Lud na świecie osobliwy,
+!!z oka dumny, lecz poczciwy,
+!!do swéj ziemi przywiązany i w niéj szczęśliwy.
+!!@VERSE:
+!!2 Krakowski rynek, oj ślicny, ślicny,
+!!dziwuje mu się — lud okoliczny.
+!!Tak foremnie z każdéj strony
+!!równiusieńko wygładzony
+!!stotysięcy ludzi zmieści, jeszcze przestrony.
+!!Krakowiak (mówi) Ale gdzież ty się bawisz moja Basiu miła?
+!!Krakowianka. Nie wiesz to żem dla Paniątka mléko doiła,
+!!i dla świętéj Panienecki
+!!spory garczek śmietaneczki;
+!!i dla Józefa staruszka
+!!niosę masła pół garnuszka.
+!!Krakowiak. Jam myślał, że ten Maciek, obmierzła marsyna,
+!!pojął cię gdzie na wódkę, dziewucho jedyna!
+!!Krakowianka. Stasiu jedyny, Stasiu mój kochany!
+!!nie bądź że smutny, ani rozgniewany.
+!!Nie strasz mojéj duszy,
+!!nie przyczyniaj katuszy.
+!!Krakowiak Co się stało, to się stało,
+!!miałem przyczyny niemało!
+!!lecz to wszystko głupie brednie,
+!!ja się i tak z tobą żenię.
+!!A jeśli mi dasz buziaka,
+!!to ci zaśpiewam ślicznego krakowiaka.
+!!(całują się; on śpiewa),
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: (Wiersz Anny Libery).
+!!(1) Dawne podanie ludu twierdzi, że w piwnicach pod Krzysztoforami,
+!!są ukryte niezmierne skarby, pilnowane od diabła. Opisał to w swych
+!!podaniach Józef Mączyński. (Ob. str. 20).
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=243 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 215} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 215}
 !!!page: 215
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-28

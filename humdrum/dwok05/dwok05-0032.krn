@@ -3,135 +3,177 @@
 !!!source: DWOK05
 !!!id: K0032
 !!!signature: 0503200000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8g
-16g
-16a
-8b
-8g
-=2
-16b
-16dd
-16cc
-16a
-4b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8g	Zbierzcie
+16g	.
+16a	się
+8b/	bracia
+8g	.
+=2	=2
+16b	wszyscy
+16dd	.
+16cc	z_wiecora
+16a\	.
+4b}	.
 !!LO:LB:g=esac
-=3
-{8g
-16g
-16a
-8b
-8g
-=4
-16b
-16dd
-16cc
-16a
-4b}
+=3	=3
+{8g	pójdziemy
+16g	.
+16a	.
+8b/	naprzód
+8g	.
+=4	=4
+16b	do
+16dd	tego
+16cc	.
+16a\	dwora.
+4b}	.
 !!LO:LB:g=esac
-=5
-{8b
-8b
-8cc
-8a
-=6
-8g
-8g
-8a
-8a}
+=5	=5
+{8b	Pójdźcie
+8b	.
+8cc	duzi,
+8a	.
+=6	=6
+8g	pójdźcie
+8g	.
+8a	mali,
+8a}	.
 !!LO:LB:g=esac
-=7
-{8b
-8b
-8cc
-8a
-=8
-8g
-8g
-16a
-16f#
-8d}
+=7	=7
+{8b	zeby
+8b	.
+8cc	nam
+8a	go
+=8	=8
+8g	prędzéj
+8g	.
+16aL	dali,
+16f#J	.
+8d}	.
 !!LO:LB:g=esac
-=9
-{16g
-16b
-16a
-16cc
-8b
-8a
-=10
-4g}
-4r
+=9	=9
+{16g	hej
+16b/	kolęda
+16a	.
+16cc	.
+8b	kolę-
+8a	.
+=10	=10
+4g}	-da!
+4r	.
 !!LO:LB:g=esac
-=11
-{8g
-16g
-16a
-8b
-8g
-=12
-16b
-16dd
-16cc
-16a
-4b}
+=11	=11
+{8g	Zbierzcie
+16g	.
+16a	się
+8b/	bracia
+8g	.
+=12	=12
+16b	wszyscy
+16dd	.
+16cc	z_wiecora
+16a\	.
+4b}	.
 !!LO:LB:g=esac
-=13
-{8g
-16g
-16a
-8b
-8g
-=14
-16b
-16dd
-16cc
-16a
-4b}
+=13	=13
+{8g	pójdziemy
+16g	.
+16a	.
+8b/	naprzód
+8g	.
+=14	=14
+16b	do
+16dd	tego
+16cc	.
+16a\	dwora.
+4b}	.
 !!LO:LB:g=esac
-=15
-{8b
-8b
-8cc
-8a
-=16
-8g
-8g
-8a
-8a}
+=15	=15
+{8b	Pójdźcie
+8b	.
+8cc	duzi,
+8a	.
+=16	=16
+8g	pójdźcie
+8g	.
+8a	mali,
+8a}	.
 !!LO:LB:g=esac
-=17
-{8b
-8b
-8cc
-8a
-=18
-8g
-8g
-16a
-16f#
-8d}
+=17	=17
+{8b	zeby
+8b	.
+8cc	nam
+8a	go
+=18	=18
+8g	prędzéj
+8g	.
+16aL	dali,
+16f#J	.
+8d}	.
 !!LO:LB:g=esac
-=19
-{16g
-16b
-16a
-16cc
-8b
-8a
-=20
-4g}
-4r
-==
-*-
+=19	=19
+{16g	hej
+16b/	kolęda
+16a	.
+16cc	.
+8b	kolę-
+8a	.
+=20	=20
+4g}	-da!
+4r	.
+==	==
+*-	*-
+!!!role-singer: Carolers
+!!!role-listener: Audience
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1 Zbierzciez się bracia wsyscy z wiecora
+!!pójdziemy naprzód do tego dwora;
+!!pójdźcie duzi, pójdźcie mali,
+!!zeby nam go prędzéj dali,
+!!hej kolęda kolęda!
+!!@VERSE:
+!!2 Pójdzie ta z nami i ten seroki,
+!!wpad do przykopy bardzo głęboki;
+!!nie miał go kto poratować
+!!musiał do dnia pokutować,
+!!héj kolęda kolęda!
+!!@VERSE:
+!!8 Pójdzie ta z nami i ten kulawy,
+!!i z tym ta w drodze duzo zabawy;
+!!jedną nogą skocy dobrze,
+!!a druga go boli w biodrze,
+!!hej kolęda kolęda!
+!!@VERSE:
+!!4 Pójdzie ta z nami i ten objeśny (obżarty)
+!!i ten ta w drodze nie jest pośpiesny.
+!!Lada kady se zasiędzie,
+!!kiełbas z torby wydobędzie
+!!hej kolęda kolęda!
+!!@VERSE:
+!!5 Spił się nam jeden w mieście na winie,
+!!wlaz-ci do pieca, usnął w kominie;
+!!spalił buty, rękawice,
+!!i rękawy od górnice (od gunicy, sukmany)
+!!héj kolęda, kolęda!
+!!@VERSE:
+!!6 Zabili nam ta jednego w mieście,
+!!co tam zaglądał kaj piją goście;
+!!ale nam ta nie zal tego
+!!bo wielki desperak z niego,
+!!héj kolęda kolęda!
+!!@@END: VERSES
 !!!ONB: U Kolberga w t. 10 i 20 błędny zapis rytmu: 1__0_
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=258 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 230} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 230}
 !!!page: 230
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-28

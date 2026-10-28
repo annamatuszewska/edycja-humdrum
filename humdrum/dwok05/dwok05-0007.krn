@@ -3,123 +3,159 @@
 !!!source: DWOK05
 !!!id: K0007
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{16ee
-8.dd
-16cc
-8.cc
-=2
-16cc
-8.cc
-8cc
-16cc
-16dd
-=3
-16ee
-8.dd
-16cc
-8.dd
-=4
-4cc
-4cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+=1	=1
+{16ee	Ja
+8.dd	kozaka
+16cc	.
+8.cc	.
+=2	=2
+16cc	nie-
+8.cc	-lu-
+8cc	-bi-
+16ccL	-ła
+16ddJ	.
+=3	=3
+16ee	koza-
+8.dd	.
+16cc	-cek
+8.dd	mnie
+=4	=4
+4cc	lubił,
+4cc}	.
 !!LO:LB:g=esac
-=5
-{16ee
-8.dd
-8cc
-16cc
-16b
-=6
-16cc
-16dd
-16cc
-16b
-8cc
-16cc
-16dd
-=7
-16ee
-16ff
-16ee
-16dd
-16cc
-16b
-16dd
-16b
-=8
-4cc
-4cc}
+=5	=5
+{16ee	ja
+8.dd	mu
+8cc	dała
+16ccL	.
+16bJ	.
+=6	=6
+16ccL	pie-
+16ddJ	.
+16ccL	-rscio-
+16bJ	.
+8cc	-ne-
+16ccL	-czek
+16ddJ	.
+=7	=7
+16eeL	a
+16ffJ	.
+16eeL	on
+16ddJ	.
+16ccL	mi
+16bJ	.
+16ddL	go
+16bJ	.
+=8	=8
+8bq	.
+4cc	zgu-
+8bq	.
+4cc}	-bił.
 !!LO:LB:g=esac
-=9
-{16cc
-16dd
-16ee
-16ff#
-16gg
-16aa
-16gg
-16ff#
-=10
-16gg
-16aa
-16gg
-16ff#
-16gg
-16aa
-16gg
-16ff#
-=11
-16gg
-16aa
-16bb
-16ff#
-16gg
-16aa
-16bb
-16ff#
-=12
-4gg
-4gg}
+=9	=9
+{16ccL	.
+16dd	.
+16ee	.
+16ff#J	.
+16ggL	.
+16aa	.
+16gg	.
+16ff#J	.
+=10	=10
+16ggL	.
+16aa	.
+16gg	.
+16ff#J	.
+16ggL	.
+16aa	.
+16gg	.
+16ff#J	.
+=11	=11
+16ggL	.
+16aa	.
+16bb	.
+16ff#J	.
+16ggL	.
+16aa	.
+16bb	.
+16ff#J	.
+=12	=12
+8ff#q	.
+4gg	.
+8ff#q	.
+4gg}	.
 !!LO:LB:g=esac
-=13
-{16cc
-16dd
-16ee
-16ff#
-16gg
-16aa
-16gg
-16ff#
-=14
-16gg
-16aa
-16gg
-16ff#
-16gg
-16aa
-16gg
-16ff#
-=15
-16gg
-16aa
-16bb
-16ff#
-16gg
-16aa
-16bb
-16ff#
-=16
-4gg
-4gg}
-==
-*-
+=13	=13
+{16ccL	.
+16dd	.
+16ee	.
+16ff#J	.
+16ggL	.
+16aa	.
+16gg	.
+16ff#J	.
+=14	=14
+16ggL	.
+16aa	.
+16gg	.
+16ff#J	.
+16ggL	.
+16aa	.
+16gg	.
+16ff#J	.
+=15	=15
+16ggL	.
+16aa	.
+16bb	.
+16ff#J	.
+16ggL	.
+16aa	.
+16bb	.
+16ff#J	.
+=16	=16
+8ff#q	.
+4gg	.
+8ff#q	.
+4gg}	.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1 Ja kozaka nie lubiła
+!!kozacek mnie lubił
+!!ja mu dała pierscioneczek
+!!a on mi go zgubił.
+!!@VERSE:
+!!2 Ja kozaka nielubiła
+!!ani moja dusza,
+!!u kozaka bura świtka,
+!!sto czort maty twoja.
+!!@VERSE:
+!!3 Ja kozaka nielubiła
+!!jino ja mazura,
+!!hulaj, hulaj moja dusza,
+!!teraz moja góra.
+!!@VERSE:
+!!4 Ja kozaka nie lubiła
+!!kozacek mnie lubił,
+!!ja se hulam, ja se skacę,
+!!Kozak się zagubił.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Po góralu przesuwa się w podrygach, skokach i prysiudach
+!!kozak z kozaczką wśród śpiewu i grania:
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=230 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 202} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 202}
 !!!page: 202
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-28

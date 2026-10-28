@@ -3,148 +3,157 @@
 !!!source: DWOK05
 !!!id: K0057
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*F:
-=1
-*M3/4
-{8cc
-8a
-4.ff
-8dd
-=2
-8dd
-8cc
-4.cc
-8a
-=3
-8g
-8a
-4b-
-4e
-=
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+=1	=1
+*M3/4	*
+{8cc	Gdy
+8a	się
+4.ff	Chrystus
+8dd	.
+=2	=2
+8ddL	rodzi
+8ccJ	.
+(4.cc	.
+8a\)	.
+=3	=3
+8g	i
+8a	na
+4b-	świat
+4e	przychodzi
+=	=
 !!UNCATEGORIZED MEASURE
-4g
-4f}
-8r
+4g	.
+4f}	.
+8r	.
 !!LO:LB:g=esac
-=
+=	=
 !!UNCATEGORIZED MEASURE
-{8cc
-8a
-4.ff
-8dd
-=4
-*M3/4
-8dd
-8cc
-4.cc
-8a
-=5
-8g
-8a
-4b-
-4e
-=
+{8cc	Ciemna
+8a	.
+4.ff	noc
+8dd	w_jasnościach
+=4	=4
+*M3/4	*
+8ddL	.
+8ccJ	.
+(4.cc	.
+8a\)	.
+=5	=5
+8g	promienistych
+8a	.
+4b-	.
+4e	.
+=	=
 !!UNCATEGORIZED MEASURE
-4g
-4f}
-8r
+4g	brodzi.
+4f}	.
+8r	.
 !!LO:LB:g=esac
-=
-!!UNCATEGORIZED MEASURE
-{8g
-8g
-8.b-
-16g
-=6
-*M2/4
-8a
-8a
-8.cc
-16a
-=7
-8g
-8g
-8b-
-8g
-=8
-8a
-8a
-8cc
-8a}
+=	=
+*M2/4	*
+{8g	Aniołowie
+8g	.
+8.b-	.
+16g	.
+=6	=6
+8a	się
+8a	radują
+8.cc	.
+16a	.
+=7	=7
+8g	pod
+8g	niebiosy
+8b-	.
+8g	.
+=8	=8
+8a	wykrzykują:
+8a	.
+8cc	.
+8a}	.
 !!LO:LB:g=esac
-=9
-{4cc
-8cc
-8cc
-=10
-4dd
-4dd
-=11
-8ee
-8ee
-8dd
-8ee
-=12
-8ff
-8cc
-8dd
-8b-
-=13
-4a
-4g
-=14
-2f}
+=9	=9
+{4cc	Glorija
+8cc	.
+8cc	.
+=10	=10
+4dd	gloria
+4dd	.
+=11	=11
+8ee	gloria
+8ee	.
+8ddL	.
+8eeJ	.
+=12	=12
+8ff	in
+8cc	excelsis
+8dd	.
+8b-	.
+=13	=13
+4a	De-
+4g	.
+=14	=14
+2f}	-o.
 !!LO:LB:g=esac
-=15
-{8g
-8g
-8.b-
-16g
-=16
-8a
-8a
-8.cc
-16a
-=17
-8g
-8g
-8b-
-8g
-=18
-8a
-8a
-8cc
-8a}
+=15	=15
+{8g	Aniołowie
+8g	.
+8.b-	.
+16g	.
+=16	=16
+8a	się
+8a	radują
+8.cc	.
+16a	.
+=17	=17
+8g	pod
+8g	niebiosy
+8b-	.
+8g	.
+=18	=18
+8a	wykrzykują:
+8a	.
+8cc	.
+8a}	.
 !!LO:LB:g=esac
-=19
-{4cc
-8cc
-8cc
-=20
-4dd
-4dd
-=21
-8ee
-8ee
-8dd
-8ee
-=22
-8ff
-8cc
-8dd
-8b-
-=23
-4a
-4g
-=24
-2f}
-==
-*-
+=19	=19
+{4cc	Glorija
+8cc	.
+8cc	.
+=20	=20
+4dd	gloria
+4dd	.
+=21	=21
+8ee	gloria
+8ee	.
+8ddL	.
+8eeJ	.
+=22	=22
+8ff	in
+8cc	excelsis
+8dd	.
+8b-	.
+=23	=23
+4a	De-
+4g	.
+=24	=24
+2f}	-o.
+==	==
+*-	*-
+!!!role-singer: Caroler/Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Gdy się Chrystus rodzi i na świat przychodzi
+!!Ciemna noc w jasnościach promienistych brodzi.
+!!Aniołowie się radują pod niebiosy wykrzykują:
+!!Glorija gloria glorija in excelsis Deo.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=270 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 242-243} @EN{Oskar Kolberg Complete Works 5: Crakow I, pp. 242-243}
 !!!page: 242-243
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-28

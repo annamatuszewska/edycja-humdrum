@@ -3,113 +3,134 @@
 !!!source: DWOK05
 !!!id: K0016
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-{8a
-=1
-4cc
-8d
-16e
-16f#
-=2
-8g
-16b
-16a
-16b
-16a
-16b
-16dd
-=3
-4cc
-8d
-16e
-16f#
-=4
-8g
-16a
-16b
-8g
-8a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+{8a	Oj
+=1	=1
+4cc	mó-
+8dL	-wił
+16e	.
+16f#J	.
+=2	=2
+8gL	dzia-
+16b	-duś
+16aJ	.
+16bL	ba-
+16aJ\	.
+16bL	-bie,
+16ddJ	.
+=3	=3
+4ccn	siądź-
+8dL	-my
+16e	.
+16f#J	.
+=4	=4
+8g	na
+16aL	na-
+16bJ	.
+8g	-le-
+8a}	-pie,
 !!LO:LB:g=esac
-=5
-{4cc
-8d
-16e
-16f#
-=6
-8g
-8b
-16b
-16dd
-16cc#
-16dd
-=7
-4cc
-8d
-16e
-16f#
-=8
-8g
-16a
-16b
-8g
-8a}
+=5	=5
+{4cc	Oj
+8dL	mó-
+16e	-wił
+16f#J	.
+=6	=6
+8g/	.
+8b/	dzia-
+16bL	-duś
+16dd	ba-
+16cc#	.
+16ddJ/	-bie,
+=7	=7
+4ccn	.
+8dL	siądź-
+16e	-my
+16f#J	.
+=8	=8
+8g	.
+16aL	na
+16bJ	na-
+8g	.
+8a}	-le-
 !!LO:LB:g=esac
-=9
-{4cc
-8d
-16g
-16b
-=10
-16dd
-16cc#
-16dd
-16ee
-8dd
-8ee
-=11
-4cc
-8d
-16e
-16f#
-=12
-8g
-16b
-16a
-16b
-16f#
-8g}
+=9	=9
+{4cc	-pie,
+8dL	ba-
+16g	-bka
+16bJ	.
+=10	=10
+16ddL	dziadka
+16cc#J	.
+16ddL	.
+16eeJ	.
+8dd	zwiedła,
+8ee	.
+=11	=11
+4ccn	pod
+8dL	na-
+16e	.
+16f#J	.
+=12	=12
+8g	-lepę
+16bL	.
+16aJ	.
+16bL	wbie-
+16f#J	.
+8g}	-gła,
 !!LO:LB:g=esac
-=13
-{4cc
-8d
-16g
-16b
-=14
-8dd
-16dd
-16ee
-8dd
-8ee
-=15
-4cc
-8d
-16e
-16f#
-=16
-8g
-16b
-16a
-16b
-16f#
-8g}
-==
-*-
+=13	=13
+{4cc	ba-
+8dL	-bka
+16g	.
+16bJ	.
+=14	=14
+8dd/	.
+16ddL	dziadka
+16eeJ	.
+8dd	.
+8ee	zwiedła,
+=15	=15
+4ccn	pod
+8dL	na-
+16e	.
+16f#J	.
+=16	=16
+8g	-lepę
+16bL	.
+16aJ	.
+16bL	wbie-
+16f#J	.
+8g}	-gła.
+==	==
+*-	*-
+!!!role-singer: Narrator, Old Man
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1 Oj mówił dziaduś babie,
+!!siądźmy-z na nalepie,
+!!Babka dziadka zwiedła,
+!!pod nalepe wbiegła.
+!!@VERSE:
+!!2 Napił się dziaduś
+!!ciepłego piwka:
+!!gonił babusie
+!!koło kominka.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: W tém śmierć w postaci szkieletu zachodzi Herodowi drogę
+!!a uciąwszy kosą głowę oddaje go nadchodzącemu z widłami dia-
+!!błu. Wówczas dziadek wstaje i śpiewa:
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=235 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 207} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 207}
 !!!page: 207
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-28

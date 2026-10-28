@@ -3,92 +3,193 @@
 !!!source: DWOK05
 !!!id: K0044
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16ff
-16f
-8.ff
-16ee
-=2
-16ee
-16dd
-4dd
-=3
-16cc
-16b-
-8.b-
-16e
-=4
-16f
-16g
-4a}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16ff	W_tym
+16f	rajskim
+8.ff	.
+16ee	sa-
+=2	=2
+16eeL	-deczku
+16ddJ	.
+4dd	.
+=3	=3
+16ccL	lipka
+16b-J	.
+8.b-	.
+16e	zie-
+=4	=4
+16fL	-lona,
+16gJ	.
+4a}	.
 !!LO:LB:g=esac
-=5
-{16ff
-16f
-8.ff
-16ee
-=6
-16ee
-16dd
-4dd
-=7
-16cc
-16b-
-8.b-
-16e
-=8
-16f
-16g
-4a}
+=5	=5
+{16ff	w_tym
+16f	rajskim
+8.ff	.
+16ee	sa-
+=6	=6
+16eeL	-deczku
+16ddJ	.
+4dd	.
+=7	=7
+16ccL	lipka
+16b-J	.
+8.b-	.
+16e	zie-
+=8	=8
+16fL	-lona.
+16gJ	.
+4a}	.
 !!LO:LB:g=esac
-=9
-{8b-
-8b-
-8b-
-=10
-4cc
-8cc
-=11
-8ee
-8ee
-8ee
-=12
-8.ff
-16a
-16b-
-16e
-=13
-8g
-4f}
+=9	=9
+{8b-/	Oj
+8b-/	stało
+8b-/	.
+=10	=10
+4cc	nam
+8cc	się
+=11	=11
+8ee	wesele,
+8ee	.
+8ee	.
+=12	=12
+8.ff	Boże
+16a\	.
+16b-	naro-
+16e	.
+=13	=13
+8g	-dzenie,
+4f}	.
 !!LO:LB:g=esac
-=14
-{8b-
-8b-
-8b-
-=15
-4cc
-8cc
-=16
-8ee
-8ee
-8ee
-=17
-8.ff
-16a
-16b-
-16e
-=18
-8g
-4f}
-==
-*-
+=14	=14
+{8b-/	oj
+8b-/	stało
+8b-/	.
+=15	=15
+4cc	nam
+8cc	się
+=16	=16
+8ee	wesele,
+8ee	.
+8ee	.
+=17	=17
+8.ff	Boże
+16a\	.
+16b-	naro-
+16e	.
+=18	=18
+8g	-dzenie.
+4f}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Mary, Jesus, Christians
+!!!role-listener: Jesus, Mary, Christians
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1 W tym rajskim sadeczku
+!!Lipka zielona,
+!!Oj pod tą lipką zieloną
+!!Studzienka cembrowa,
+!!Oj stało nam się wesele,
+!!Boże narodzenie.
+!!@VERSE:
+!!2 Maryja się umyła
+!!Syna porodziła,
+!!Oj stało nam się wesele
+!!Boże narodzenie!
+!!@VERSE:
+!!3 Ułożyła go w kołysce
+!!I zakołysała
+!!Oj stało nam i t. d.
+!!@VERSE:
+!!4 Oj nynaj, nynaj synu mój
+!!Jużby ja śniadała
+!!Oj stało i t. d.
+!!@VERSE:
+!!5 Cożbyś matuchno śniadała?
+!!Rybki żebym miała
+!!Oj stało i t. d.
+!!@VERSE:
+!!6 Oj rybki, rybki, rybeczki
+!!Drobne szczupiałeczki
+!!Oj stało i t. d.
+!!@VERSE:
+!!7 Czekaj matuchno za chwilę
+!!Za małą godzinę
+!!Oj stało i t. d.
+!!@VERSE:
+!!8 Ino się spuszczę do morza
+!!Ułowię węgorza
+!!oj stało i t. d.
+!!@VERSE:
+!!9 Anieli ogień składali
+!!Objad gotowali
+!!Oj stało i t. d.
+!!@VERSE:
+!!10 Stał im się ogień lodowy
+!!A płomień wiatrowy
+!!Oj stało i t. d.
+!!@VERSE:
+!!11 Stał im się stolec krężowy
+!!Obrus drelichowy
+!!Oj stało i t. d.
+!!@VERSE:
+!!12 Stały się łyżki cynowe
+!!A talerze śpiżowe
+!!Oj stało i t. d.
+!!@VERSE:
+!!13 A tu-z Matuchno śniadanie,
+!!Na twe rozkazanie
+!!Oj stało i t. d.
+!!@VERSE:
+!!14 Jakby to synu mogło być,
+!!Zebyś ty miał rybki łowić
+!!Oj stało i t. d.
+!!@VERSE:
+!!15 Jeszcze nie wyszło dwóch godzin
+!!Jakeś się Synu narodził
+!!Oj stało i t. d.
+!!@VERSE:
+!!16 Jeszcze nie wyszła godzina
+!!Jakem cię synu powiła
+!!Oj stało i t. d.
+!!@VERSE:
+!!17 A ty matuchno nie wierzysz
+!!Zeby ja miał być Syn Boży
+!!Oj stało i t. d.
+!!@VERSE:
+!!18 Stworzyłem zydów, tatarów,
+!!I was chrześcijanów
+!!Oj stało i t. d.
+!!@VERSE:
+!!19 Stworzyłem ptactwo, robactwo
+!!Ludziom na bogactwo
+!!Oj stało i t. d.
+!!@VERSE:
+!!20 Stworzyłem konie, woły
+!!Ludziom to do roli
+!!Oj stało i t. d.
+!!@VERSE:
+!!21 Stworzyłem piaski kamienie
+!!Ludziom zabawienie
+!!Oj stało i t. d.
+!!@VERSE:
+!!22 Stworzyłem wszystek dobytek
+!!Ludziom na pożytek
+!!Oj stało i t. d.
+!!Tobie Jezu chwała na wysokiéj górze
+!!I nam ludziom chwała na jedwabnym śnurze
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=263 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 235} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 235}
 !!!page: 235
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-28

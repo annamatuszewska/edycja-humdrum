@@ -3,107 +3,120 @@
 !!!source: DWOK05
 !!!id: K0052
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{8cc
-8cc
-8dd
-=2
-8g
-8g
-8f
-=3
-16cc
-16cc
-8cc
-8dd
-=4
-8g
-4g}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{8cc	Pasterze
+8cc	.
+8dd	.
+=2	=2
+8g	pasterze
+8g	.
+8f	.
+=3	=3
+16cc	proszę
+16cc	.
+8cc	was
+8dd	dla
+=4	=4
+8g	Boga
+4g}	.
 !!LO:LB:g=esac
-=5
-{16cc
-16cc
-8cc
-8dd
-=6
-16g
-16g
-8g
-8f
-=7
-16cc
-16cc
-8cc
-8dd
-=8
-8g
-4g}
+=5	=5
+{16cc	pożyczcie
+16cc	.
+8cc	.
+8dd	mi
+=6	=6
+16g	swoich
+16g	.
+8g	dudek
+8f	.
+=7	=7
+16cc	i
+16cc	koziego
+8cc	.
+8dd	.
+=8	=8
+8g	rogu.
+4g}	.
 !!LO:LB:g=esac
-=9
-{4a
-8f
-=10
-16e
-16f
-8g
-8c
-=11
-16a
-16a
-8a
-8f
-=12
-16e
-16f
-8g
-8c}
+=9	=9
+{4a	Bom
+8f	ja
+=10	=10
+16e	jest
+16f	dudeczka
+8g	.
+8c	.
+=11	=11
+16a	Jezusowa
+16a	.
+8a	.
+8f	.
+=12	=12
+16e	pastereczka
+16f	.
+8g	.
+8c}	.
 !!LO:LB:g=esac
-=13
-{16f
-16g
-4a
-=14
-16a
-16g
-4a
-=15
-16f
-16g
-8a
-8b-
-=16
-8a
-4g}
+=13	=13
+{16f	będę
+16g	.
+4a	mu,
+=14	=14
+16a	będę
+16g	.
+4a	mu
+=15	=15
+16f	z_wami
+16g	.
+8a	pięknie
+8b-/	.
+=16	=16
+8a	grała,
+4g}	.
 !!LO:LB:g=esac
-=17
-{16f
-16g
-8a
-8a
-=18
-16a
-16g
-8a
-8a
-=19
-16f
-16g
-16a
-16cc
-16b-
-16a
-=20
-8g
-4f}
-==
-*-
+=17	=17
+{16f	będę
+16g	.
+8a	jego
+8a	.
+=18	=18
+16a	rozweselać
+16g	.
+8a	.
+8a	.
+=19	=19
+16f	będę
+16g	.
+16aL	koły-
+16ccJ	.
+16b-L	.
+16aJ\	.
+=20	=20
+8g	-sała.
+4f}	.
+==	==
+*-	*-
+!!!role-singer: Shepherdess
+!!!role-listener: Shepherds
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Pasterze pasterze prosze was dla Boga
+!!pożyczcie mi swoich dudek i koziego rogu.
+!!Bom ja jest dudeczka Jezusowa pastereczka
+!!będę mu, będę mu z wami pięknie grała
+!!będę jego rozweselać będę kołysała.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=268 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 240-241} @EN{Oskar Kolberg Complete Works 5: Crakow I, pp. 240-241}
 !!!page: 240-241
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-28

@@ -3,51 +3,86 @@
 !!!source: DWOK05
 !!!id: K0064
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8dd
-16dd
-16cc#
-8dd
-16dd
-16cc#
-=2
-4dd
-8ee
-8dd
-=3
-8a
-8cc
-8a
-8cc
-=4
-8b
-4.g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8dd	A
+16ddL	woli
+16cc#J	.
+8dd	.
+16ddL	ja
+16cc#J	.
+=2	=2
+4dd	z_daleka
+8ee	.
+8dd	.
+=3	=3
+8a\	wiozę
+8cc	.
+8a\	kloc
+8cc	dla
+=4	=4
+8b	cłeka.
+4.g}	.
 !!LO:LB:g=esac
-=5
-{8g
-8a
-8b
-8cc
-=6
-8dd
-4.dd
-=7
-8a
-8cc
-8a
-8f#
-=8
-4g
-4b}
-==
-*-
+=5	=5
+{8gL	.
+8aJ	.
+8bL	.
+8ccJ	.
+=6	=6
+8dd	.
+4.dd	.
+=7	=7
+8aL	.
+8ccJ	.
+8aL	.
+8f#J	.
+=8	=8
+4g	.
+4b}	.
+==	==
+*-	*-
+!!!role-singer: Worker
+!!!role-listener: Worker
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!A woli ja z daleka wiozę kloc dla cłeka.
+!!W wstępną środę zeby włócył,
+!!zeby drugich naucył:
+!!jak oni to mają cynić,
+!!swoje syny pozenić.
+!!i córecki swe wydać.
+!!Bo nam tego potrzeba,
+!!bo my kloce włócyli,
+!!że my się nie zenili.
+!!Widzis ty to mój bracie,
+!!co ja to przyniós dla cie.
+!!Klocek srogi z łańcuchem,
+!!opasę go z twym brzuchem;
+!!będzies włócyć nie daremnie,
+!!kacmarz to weźmie przyjemnie.
+!!Da nam wódki tak wiele
+!!za klocek, ześmy go śmiele
+!!przywlekli tobie Kubusiu,
+!!przyjmij od nas mój brzusiu.
+!!Daj nam wódki tak siła,
+!!bośwa se zarobiła;
+!!daj nam faseckę masła,
+!!zebyśwa się wypasła.
+!!Wstępna środa dziś idzie
+!!z duzym klocem przy bidzie;
+!!zuru duzo nagotowała
+!!i nam i celadce dała.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=298 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 270} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 270}
 !!!page: 270
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-28

@@ -9,12 +9,12 @@
 *G:
 *M2/4
 =1
-{8dd
-8cc#
+{8ddL
+8cc#J
 4dd
 =2
-8dd
-8cc#
+8ddL
+8cc#J
 4dd
 =3
 4ee
@@ -26,12 +26,12 @@
 2a}
 !!LO:LB:g=esac
 =6
-{8dd
-8cc#
+{8ddL
+8cc#J
 4dd
 =7
-8g
-8f#
+8gL
+8f#J
 4g
 =8
 4a
@@ -43,88 +43,102 @@
 2d}
 !!LO:LB:g=esac
 =11
-{8d
-8dd
-16dd
+!LO:TX:t=P:problem=mixed beam
+{8dL/
+8ddJ\
+16ddL
 16cc#
-8dd
+8ddJ
 =12
-8d
-8cc
-16cc
+!LO:TX:t=P:problem=mixed beam
+8dL/
+8ccnJ\
+16ccL
 16b
-8cc
+8ccJ
 =13
-8d
-8ee
-16ee
+!LO:TX:t=P:problem=mixed beam
+8dL/
+8eeJ\
+16eeL
 16ff#
-8ee
+8eeJ
 =14
-8d
-8dd
-16dd
+!LO:TX:t=P:problem=mixed beam
+8dL/
+8ddJ\
+16ddL
 16ee
-8dd}
+8dd}J
 !!LO:LB:g=esac
 =15
-{8d
-8dd
-16dd
+!LO:TX:t=P:problem=mixed beam
+{8dL/
+8ddJ\
+16ddL
 16cc#
-8dd
+8ddJ
 =16
-8d
-8cc
-8d
-8cc
+!LO:TX:t=P:problem=mixed beam
+8dL/
+8ccnJ\
+!LO:TX:t=P:problem=mixed beam
+8dL/
+8ccJ\
 =17
-8d
-8cc
-16cc
+!LO:TX:t=P:problem=mixed beam
+8dL/
+8ccJ\
+16ccL
 16a
-8f#
+8f#J
 =18
-16a
-16g
-16g
-16f#
+16aL
+16gJ
+16gL
+16f#J
 4g}
 !!LO:LB:g=esac
 =19
-{16a
-16g
-16g
-16f#
-16a
-16g
-16g
-16f#
+{16aL
+16gJ
+16gL
+16f#J
+16aL
+16gJ
+16gL
+16f#J
 =20
-16g
-16f#
-16g
-16f#
+16gL
+16f#J
+16gL
+16f#J
 4g
 =21
-16a
-16g
-16g
-16f#
-16a
-16g
-16g
-16f#
+16aL
+16gJ
+16gL
+16f#J
+16aL
+16gJ
+16gL
+16f#J
 =22
-16g
-16f#
-16g
-16f#
+16gL
+16f#J
+16gL
+16f#J
 4g}
 ==
 *-
+!!@@BEGIN: 
+!!@COMMENTARY: Tuż za nim wchodzi Madziar, któremu przygrywają węgier-
+!!ską melodyję:
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=231 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 203} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 203}
 !!!page: 203
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-28

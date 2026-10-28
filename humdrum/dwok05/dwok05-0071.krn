@@ -3,61 +3,72 @@
 !!!source: DWOK05
 !!!id: K0071
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{16g
-16b
-4dd
-8dd
-=2
-8dd
-8dd
-8b
-8g
-=3
-8a
-8b
-8cc
-8dd
-=4
-4b
-8g
-8r
-=5
-8a
-8b
-8cc
-8dd
-=6
-4b
-8g}
-8r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{16gL	Hej
+16bJ	.
+4dd	bracia!
+8dd	.
+=2	=2
+8dd	czy
+8eeq	.
+8dd	wy
+8b/	śpicie,
+8g	.
+=3	=3
+8a	czy
+8b	pilnie
+8cc	.
+8dd	baczycie,
+=4	=4
+4b	.
+8g	.
+8r	.
+=5	=5
+8a	czy
+8b	pilnie
+8cc	.
+8dd	baczycie.
+=6	=6
+4b	.
+8g}	.
+8r	.
 !!LO:LB:g=esac
-=7
-{8d
-8f#
-4f#
-=8
-8g
-4b
-8b
-=9
-8a
-8b
-8cc
-8dd
-=10
-4b
-8g}
-8r
-==
-*-
+=7	=7
+{8d	Dziwy
+8f#	.
+4f#	niesłychane,
+=8	=8
+8g	.
+4b	.
+8b	.
+=9	=9
+8a\	dziwy
+8b	.
+8cc	niesłychane.
+8dd	.
+=10	=10
+4b	.
+8g}	.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Brothers
+!!!role-listener: Brothers
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Hej bracia! czy wy śpicie, czy pilnie baczycie.
+!!Dziwy niesłychane, dziwy niesłychane.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=387 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 359} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 359}
 !!!page: 359
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-28

@@ -3,69 +3,79 @@
 !!!source: DWOK05
 !!!id: K0074
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{4dd
-8b
-8g
-=2
-4a
-8f#
-8d
-=3
-4dd
-8b
-8g
-=4
-4a
-8f#
-8d
-=5
-8g
-8a
-8b
-8cc#
-=6
-4dd
-4dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{4dd	Hej
+8b	bracia,
+8g	.
+=2	=2
+4a	czy
+8f#	śpicie,
+8d	.
+=3	=3
+4dd	czy
+8b	wszyscy
+8g	.
+=4	=4
+4a	baczycie,
+8f#	.
+8d	.
+=5	=5
+8g	dziwy
+8a	.
+8b	niesłychane.
+8cc#	.
+=6	=6
+4dd	.
+4dd}	.
 !!LO:LB:g=esac
-=7
-{4g
-8b
-8dd
-=8
-8dd
-8cc#
-4a
-=9
-4g
-8b
-8dd
-=10
-8dd
-8cc#
-4a}
+=7	=7
+{4g	Trwoga,
+8b	.
+8dd	dla
+=8	=8
+8ddL	Boga,
+8cc#J	.
+4a	.
+=9	=9
+4g	co
+8bL	się
+8ddJ	.
+=10	=10
+8ddL	dzieje,
+8cc#J	.
+4a}	.
 !!LO:LB:g=esac
-=11
-{4g
-4b
-=12
-4dd
-4gg
-=13
-8cc
-8b
-4a
-=14
-2g}
-==
-*-
+=11	=11
+{4g	jasność
+4b	.
+=12	=12
+4dd	w_nocy,
+4gg	.
+=13	=13
+8cc	choć
+8b	nie
+4a	dnieje.
+=14	=14
+2g}	.
+==	==
+*-	*-
+!!!role-singer: Brothers
+!!!role-listener: Brothers
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Hej bracia, czy śpicie, czy wszyscy baczycie, dziwy niesłychane.
+!!Trwoga, dla Boga, co się dzieje, jasność w nocy, choć nie dnieje.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=387 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 359} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 359}
 !!!page: 359
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-28

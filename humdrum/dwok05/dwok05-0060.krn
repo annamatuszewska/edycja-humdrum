@@ -3,70 +3,290 @@
 !!!source: DWOK05
 !!!id: K0060
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8g
-8g
-8g
-=2
-4g
-8d
-=3
-4g
-8a
-=4
-4b}
-8r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8g	W_dzień
+8g	Boże-
+8g	.
+=2	=2
+4g	-go
+8d	na-
+=3	=3
+4g	-rodze-
+8a	.
+=4	=4
+4b}	-nia,
+8r	.
 !!LO:LB:g=esac
-=5
-{8g
-8g
-8g
-=6
-4g
-8d
-=7
-4g
-8a
-=8
-4b}
-8r
+=5	=5
+{8g	radość
+8g	.
+8g	wszy-
+=6	=6
+4g	-stkiego
+8d	.
+=7	=7
+4g	stworze-
+8a	.
+=8	=8
+4b}	-nia.
+8r	.
 !!LO:LB:g=esac
-=9
-{8dd
-4dd
-=10
-16b
-16cc
-8cc
-8a
-=11
-8b
-4b
-=12
-16g
-16a
-8a
-8d}
+=9	=9
+{8dd	Ptastwo
+4dd	.
+=10	=10
+16b	chwali
+16cc	.
+8cc	Pana,
+8a	.
+=11	=11
+8b	bydło
+4b	.
+=12	=12
+16g	na
+16a	kolana
+8a	.
+8d}	.
 !!LO:LB:g=esac
-=13
-{8g
-8a
-8b
-=14
-8cc
-4a
-=15
-4g}
-8r
-==
-*-
+=13	=13
+{8g	upada
+8a	.
+8b	.
+=14	=14
+8cc	upa-
+4a	.
+=15	=15
+4g}	-da.
+8r	.
+=16	=16
+{8dd	Ptastwo
+4dd	.
+=17	=17
+16b	chwali
+16cc	.
+8cc	Pana,
+8a	.
+=18	=18
+8b	bydło
+4b	.
+=19	=19
+16g	na
+16a	kolana
+8a	.
+8d}	.
+!!LO:LB:g=esac
+=20	=20
+{8g	upada
+8a	.
+8b	.
+=21	=21
+8cc	upa-
+4a	.
+=22	=22
+4g}	-da.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. W dzień Bożego narodzenia, radość wszystkiego stworzenia.
+!!Ptastwo chwali Pana, bydło na kolana
+!!upada upada.
+!!@VERSE:
+!!2 Król orzeł najprzód przyleciał, gdy się o godach dowiedział:
+!!nawiedził dzieciątko, małe pacholątko,
+!!w Betleem. (:)
+!!@VERSE:
+!!3 Ptastwo się też dowiedziało, za królém swoim leciało,
+!!na królewskie gody, nie pili tam wody,
+!!lecz wino. (:)
+!!@VERSE:
+!!4 Którém chcąc zagrzać struś głowę, a do tego zjadł podkowę,
+!!by ją prędzéj strawił, na gody się, stawił,
+!!Jezusa Chrystusa.
+!!@VERSE:
+!!5 A gdy kania dżdżu czekała, o tychże godach słyszała,
+!!więc odszedłszy wody, leciałem na gody
+!!Jezusa Chrystusa.
+!!@VERSE:
+!!6 Stadem cyranki leciały, a kaczki bardzo kwakały.
+!!myśliwiec je krokiem przestraszył, aż skokiem
+!!uciekły.
+!!@VERSE:
+!!7 Gdy przyleciały do dwora, piwnicznym miały kaczora,
+!!lecz mu na te gody, kazały być wody
+!!piwnicznym.
+!!@VERSE:
+!!8 Obchodziło to kaczora, i nie chciał czekać wieczora:
+!!ale go żurawie, strzepali po głowie,
+!!i uciekł.
+!!@VERSE:
+!!9 Gęsiom się wiedzieć dostało, że się tam ptastwo zleciało,
+!!gąsior ich zwiódł w pasmo, by nie było ciasno,
+!!w Betleem.
+!!@VERSE:
+!!10 Gdy wodne ptastwo leciało, leśne się téż dowiedziało,
+!!dudek z wielkim nosem, zwoływał ich głosem,
+!!na gody.
+!!@VERSE:
+!!11 Sójka im więcéj znać dała, gdy jak chłop w lesie hukała
+!!bo się już upiła, gdy na godach była,
+!!w Betleem.
+!!@VERSE:
+!!12 Szczygieł z czyżykiem i ziębą, i kanarek z małą gębą
+!!trznadle z czeczotkami, były szczebiotkami,
+!!wzajemnie.
+!!@VERSE:
+!!13 Darmo na wino pójdziemy, bo go mało wypijemy,
+!!chruścieł im z wywilgą, dobrą choć nie wielką
+!!są radą.
+!!@VERSE:
+!!14 Mówiąc: za co to nam stanie, gdy się nam widzieć dostanie
+!!w Betleem wesele, które w ludzkiem ciele
+!!Bóg sprawił.
+!!@VERSE:
+!!15 Jeszcze jarząbek z sokołem, radził im z ciećwierzem społem:
+!!rozmów zaniechajcie, na gody bywajcie,
+!!do wina.
+!!@VERSE:
+!!16 A jeśli nie wypijecie, jastrzębia poczęstujecie,
+!!by was pazurami, latając nad wami
+!!nie szarpał.
+!!@VERSE:
+!!17 Ptastwo się z lasu porwało, bo się im to spodobało,
+!!lecąc z kuropatwą, przepiórka, tę łatwą
+!!da radę:
+!!@VERSE:
+!!18 A co nazbyt będziem miały, u bąka gardziel nie mały,
+!!więc go pożyczemy, do domu weźmiemy
+!!ostatek.
+!!@VERSE:
+!!19 A jeśli będzie we dzbanie, pożycz nam nosa bocianie,
+!!żuraw długiéj szyje, rad téż dobrze pije,
+!!da i nam.
+!!@VERSE:
+!!20 I tak różnych ptasząt stado, będąc Jezusowi rado.
+!!w to miejsce leciało, kędy Pańskie ciało
+!!powito.
+!!@VERSE:
+!!21 Spocząć chciały niebożęta, lecz zastąpiły zwierzęta,
+!!bydlęta, robacy, i domowi ptacy,
+!!chwalili dzieciątko.
+!!@VERSE:
+!!22 Zaczém wszystek dom (dach) okryli, gdy się w szopie nie zmieścili
+!!potem w zgodne głosy, wrzaski pod niebiosy
+!!leciały.
+!!@VERSE:
+!!23 Chwała bądź Bogu żywemu, ubogo narodzonemu,
+!!dla człeka nędznego, by kłopotu swego
+!!miał koniec.
+!!@VERSE:
+!!24 Podziękowawszy dzieciątku, każdy się miał z nich do wziątku,
+!!Bóg im błogosławił, gdy się na świat zjawił (do pożywienia)
+!!w pieluszkach.
+!!@VERSE:
+!!25 Dopiero-ż tam wrzawa była, gdy było zwierząt tak siła,
+!!żaden nie chciał robić, każdy wolał spełniać
+!!na godach.
+!!@VERSE:
+!!26 Więc orzeł między ptakami, lew zaś między zwierzętami
+!!uczynił porządek, by każdy za wziątek
+!!co robił.
+!!@VERSE:
+!!27 Wprzód zrobili gospodarstwem bydlęta z domowem ptastwem
+!!by leśne zwierzęta i wodne ptaszęta
+!!raczyli (częstowali).
+!!@VERSE:
+!!28 Kur jako gospodarz domu, wiedząc co rozkazac komu,
+!!kazał mało gadać, a owocu dawać
+!!dostatkiem.
+!!@VERSE:
+!!29 Pana obudził swém pianiem, by żyli jego staraniem
+!!i czeladź i dziatki, by mieli dostatki
+!!i goście.
+!!@VERSE:
+!!30 Koty wszystkie powysyłał, aby przynieśli specyjał,
+!!dla czaple i sowy, kotom także zdrowy,
+!!jak myszy tak szczury.
+!!@VERSE:
+!!31 Wróblom zaś kazał domowym, do gumna pokazać owym
+!!co zboże jadają, choć w lesie siadają
+!!na drzewie.
+!!@VERSE:
+!!32 Psom kazał aby szczekali, ażeby się goście nadziali,
+!!Sam zaś wlazł na strzechę, by mieli uciechę,
+!!przypiewał.
+!!@VERSE:
+!!33 Na muzyce nie schodziło, pokazał każdy swe dzieło;
+!!grał raróg na rogu, słoń dał chwałę Bogu
+!!swym nosem.
+!!@VERSE:
+!!34 Kurczęta w piszczałki grały, uczone kosy śpiewały,
+!!niedźwiedź pacierz mówił, koń zębami dzwonił
+!!nad żłobem.
+!!@VERSE:
+!!35 Puchacz swoim głosem puchał, a gołęb dzieciątku gruchał,
+!!wrona krak krakała, Bogu wyznawała
+!!na szopie.
+!!@VERSE:
+!!36 A słowik śpiewał dyskantem, z kanarki skowronki altem
+!!społem: a kruk śpiewał basem, gawron był podczaszym
+!!ochotnym.
+!!@VERSE:
+!!37 Kozioł zasię brodą trząsał, gdy skórę z drzewa okąsał,
+!!jagnięta beczały, gdy płacz usłyszały
+!!Jezusa Chrystusa.
+!!@VERSE:
+!!38 Zając siedząc z królikami, bębnił swojemi nóżkami,
+!!wróble zaś gwarzyły, gdy sobie podpiły
+!!z dzierlatką, z czeczotką.
+!!@VERSE:
+!!39 Papuga także gwarzyła, coś z cudzoziemska mówiła,
+!!żołna i z jendykiem, była tam syndykiem,
+!!bażant był szafarzem.
+!!@VERSE:
+!!40 Paw ogon śliczny roztoczył, lecz sprośnym wrzaskiem wykroczył,
+!!kwiczoły kwiczały, czeczotki śpiewały,
+!!sęp siedział jako sęp.
+!!@VERSE:
+!!41 A jeleniowe zaś czoło, na rogach mając świec w koło,
+!!tam wszystkim świeciło, aby widzieć było,
+!!cieszyć się.
+!!@VERSE:
+!!42 Wilcy grali w szałamaje, czajka ochoty dodaje,
+!!koniki (polne) skakały, świerzcze pomagały,
+!!z mrówkami.
+!!@VERSE:
+!!48 Więcéj tam było wszystkiego, niżeli w Arce Noego,
+!!tam tylko po parze, a tu zaś co może
+!!mieć ziemia.
+!!@VERSE:
+!!44 Sroka piwa nawarzyła, korzec weń chmielu włożyła
+!!było dobre piwo, piło go co żywo (żyło)
+!!na godach.
+!!@VERSE:
+!!45 Sowa nieboga buczała, we dnie wina nie widziała,
+!!hu hu, hu hu, hu hu, a mało co w brzuchu;
+!!bez wina chudzina.
+!!@VERSE:
+!!46 Ale gdy było w północy, piła do ciężkiéj niemocy
+!!war piwa wypiła, jeszcze się swarzyła
+!!niecnota!
+!!@VERSE:
+!!47 Gdy wszystko Boga uczciło, co żywo się rozproszyło,
+!!ludziom przykład dawszy, by Boga uznawszy,
+!!chwalili.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=272 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 244} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 244}
 !!!page: 244
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-28

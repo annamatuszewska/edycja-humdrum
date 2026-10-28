@@ -3,47 +3,59 @@
 !!!source: DWOK05
 !!!id: K0069
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{4ee
-8ee
-8ee
-=2
-4ff
-4dd
-=3
-8cc
-8cc
-8dd
-8b
-=4
-4cc
-4g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+=1	=1
+{4ee	Panie
+8ee	.
+8ee	sit
+=2	=2
+4ff	panie
+4dd	sit
+=3	=3
+8cc	pozyc
+8cc	.
+8dd	ze
+8b	mi
+=4	=4
+4cc	sitka,
+4g}	.
 !!LO:LB:g=esac
-=5
-{8b
-8b
-8b
-8b
-=6
-4cc
-4g
-=7
-8g
-8b
-8b
-8b
-=8
-4cc
-4cc}
-==
-*-
+=5	=5
+{8b	ino
+8b	.
+8b	se
+8b	osieje
+=6	=6
+4cc	.
+4g	.
+=7	=7
+8g	kos
+8b	jarego
+8b	.
+8b	.
+=8	=8
+4cc	zytka.
+4cc}	.
+==	==
+*-	*-
+!!!role-singer: Game Leader
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Panie sit panie sit pozyc ze mi sitka, ino se osieje kos jarego zytka.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Przy grze w Sitko (w Modlnicy), stoją wszyscy w koło, pa-
+!!trząc na kijek położony przed sobą, jeden zaś obiega po za ko-
+!!łem i śpiéwa:
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=347 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 319} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 319}
 !!!page: 319
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-28

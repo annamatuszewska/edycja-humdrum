@@ -3,56 +3,98 @@
 !!!source: DWOK05
 !!!id: K0047
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8.b
-16cc
-8dd
-8dd
-=2
-8ee
-8dd
-8.cc
-16a
-=3
-8cc
-8b
-8a
-8cc
-=4
-8b
-8a
-8g
-8d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8.b	Kukułeczka
+16cc	.
+8dd	.
+8dd	.
+=2	=2
+8ee	zakukała,
+8dd	.
+8.cc	.
+16a	.
+=3	=3
+8cc	gospodarza
+8b	.
+8a\	.
+8cc	.
+=4	=4
+8b	przebudzała.
+8a	.
+8g	.
+8d}	.
 !!LO:LB:g=esac
-=5
-{8.b
-16cc
-8dd
-8dd
-=6
-8ee
-8dd
-8cc
-8a
-=7
-8cc
-8b
-8a
-8cc
-=8
-8b
-8a
-8a
-8g}
-==
-*-
+=5	=5
+{8.b	Powstań,
+16cc	.
+8dd	powstań
+8dd	.
+=6	=6
+8ee	gospodarzu
+8dd	.
+8cc	.
+8a	.
+=7	=7
+8cc	pochodź
+8b	.
+8a\	pochodź
+8cc	.
+=8	=8
+8b	po
+8a	oborze.
+8a	.
+8g}	.
+==	==
+*-	*-
+!!!role-singer: Cuckoo, Farmer
+!!!role-listener: Farmer, Cuckoo
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Kukułeczka zakukała, haleluja!
+!!Gospodarza przebudzała:
+!!Powstań, powstań gospodarzu
+!!Pochodź pochodź po oborze.
+!!Bo w oborze Bóg dał dobrze
+!!Krowisia się omnożyła
+!!Parę wołków położyła.
+!!A jakież im miana damy?
+!!A jednemu złotorożek
+!!A drugiemu srebrnyrożek.
+!!Coż na nie zrobić każemy?
+!!Srebrne jarzma, złote zadki
+!!Będą orać małe dziatki.
+!!Wyjechali w czarne pole
+!!W czarne pole na podole,
+!!Zawadzili pierwszą skibę
+!!Wyorali złota bryłę.
+!!Każ to złoto podziejemy?
+!!Do złotnika zaniesiemy,
+!!Cóż z niego robić każemy?
+!!Złoty kielich i patynę
+!!Każ ten kielich podziejemy?
+!!Do kościoła zaniesiemy.
+!!A każ go tam postawiemy?
+!!Na ołtarzu przy lichtarzu.
+!!Któż ta z niego pijał będzie?
+!!Sam pan Jezus z aniołami,
+!!Matka Boska z świątnicami
+!!Same świece zaswieciły,
+!!Kielichowi rade były;
+!!Same organy zagrały
+!!Kielichowi rade były;
+!!Same dzwony zadzwoniły
+!!Kielichowi rade były.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=265 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 237} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 237}
 !!!page: 237
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-28

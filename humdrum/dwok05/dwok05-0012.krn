@@ -3,130 +3,137 @@
 !!!source: DWOK05
 !!!id: K0012
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{4f#
-4a
-=2
-4f#
-4a
-=3
-8b
-8a
-8g
-8f#
-=4
-4g
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{4f#	Żyd
+4a	pan,
+=2	=2
+4f#	żyd
+4a	pan,
+=3	=3
+8b	a
+8a\	żydówka
+8g	.
+8f#	.
+=4	=4
+4g	.
+4g}	pani,
 !!LO:LB:g=esac
-=5
-{8e
-8f#
-8g
-8f#
-=6
-8g
-8f#
-8g
-8g
-=7
-8g
-8b
-8a
-8c#
-=8
-4d
-4d}
+=5	=5
+{8e	.
+8f#	a
+8g	ży-
+8f#	-dzię-
+=6	=6
+8g	-ta
+8f#	jak
+8g	pa-
+8g	-nię-
+=7	=7
+8g	-ta
+8b/	któż
+8a	te-
+8c#	-mu
+=8	=8
+4d	przy-
+4d}	-gani?
 !!LO:LB:g=esac
-=9
-{8d
-8e
-8f#
-8g
-=10
-4.a
-8dd
-=11
-8d
-8e
-8f#
-8g
-=12
-2a}
+=9	=9
+{8dL	.
+8e	.
+8f#	.
+8gJ	.
+=10	=10
+4.a	.
+8ccq	.
+8dd	.
+=11	=11
+8dL	.
+8e	.
+8f#	.
+8gJ	.
+=12	=12
+2a}	.
 !!LO:LB:g=esac
-=13
-{8a
-16cc#
-16b
-8a
-16cc#
-16b
-=14
-8a
-8g
-8f#
-8g
-=15
-16a
-16cc#
-8dd
-16a
-16cc#
-8dd
-=16
-2a}
+=13	=13
+{8aL	.
+16cc#	.
+16bJ	.
+8aL	.
+16cc#	.
+16bJ	.
+=14	=14
+8aL	.
+8g	.
+8f#	.
+8gJ	.
+=15	=15
+16aL	.
+16cc#	.
+8ddJ	.
+16aL	.
+16cc#	.
+8ddJ	.
+=16	=16
+2a}	.
 !!LO:LB:g=esac
-=17
-{8dd
-16dd
-16cc#
-8ee
-16ee
-16cc#
-=18
-8dd
-8dd
-8a
-8a
-=19
-8dd
-16dd
-16b
-8ee
-16ee
-16cc#
-=20
-2a}
+=17	=17
+{8ddL	.
+16dd	.
+16cc#J	.
+8eeL	.
+16ee	.
+16cc#J	.
+=18	=18
+8ddL	.
+8dd	.
+8a	.
+8aJ\	.
+=19	=19
+8ddL	.
+16dd	.
+16bJ	.
+8eeL	.
+16ee	.
+16cc#JJ	.
+=20	=20
+2a}	.
 !!LO:LB:g=esac
-=21
-{8dd
-16dd
-16cc#
-8ee
-16ee
-16cc#
-=22
-8dd
-8ff#
-8a
-8a
-=23
-8dd
-16ff#
-16b
-8ee
-16ee
-16cc#
-=24
-2a}
-==
-*-
+=21	=21
+{8ddL	.
+16dd	.
+16cc#J	.
+8eeL	.
+16ee	.
+16cc#J	.
+=22	=22
+8ddL	.
+8ff#J/	.
+8aL	.
+8aJ\	.
+=23	=23
+8ddL	.
+8ff#J/	.
+8eeL	.
+16ee	.
+16cc#J	.
+=24	=24
+2a}	.
+==	==
+*-	*-
+!!@@BEGIN: 
+!!@COMMENTARY: Daléj żyd z długą brodą i pejsami, w łapserdaku i panto-
+!!flach; na głowie barania czapka na krymce. Tańczy. Potem przy-
+!!bywa do niego żydówka i tańczą razem.
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=232 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 204} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 204}
 !!!page: 204
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-28

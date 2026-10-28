@@ -3,51 +3,68 @@
 !!!source: DWOK05
 !!!id: K0041
 !!!signature: 0504100000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8dd
-4dd
-8b
-8cc
-8ee
-=2
-8dd
-4dd
-8b
-8cc
-8ee
-=3
-8b
-8b
-2a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8dd	A
+4dd	ta
+8b	dziewcyna
+8cc	.
+8ee	.
+=2	=2
+8dd	grzecna
+4dd	.
+8b	panienka
+8cc	.
+8ee	.
+=3	=3
+8b	róży
+8ccq	.
+8b	.
+2a}	kwiat,
 !!LO:LB:g=esac
-=4
-{8b
-8cc
-8dd
-8b
-8cc
-8ee
-=5
-8dd
-4dd
-8b
-8cc
-8ee
-=6
-8.b
-16a
-4g}
-4r
-==
-*-
+=4	=4
+{8b	służą
+8cc	.
+8dd	jéj
+8b	panowie
+8cc	.
+8ee	.
+=5	=5
+8dd	kawalerowie
+4dd	.
+8b	.
+8cc	.
+8ee	.
+=6	=6
+8.b/	cały
+16a	.
+4g}	świat.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Carolers/Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!A ta dziewcyna grzecna panienka — róży kwiat,
+!!Służą jéj panowie kawalerowie — cały świat.
+!!Bóciki na niéj jako na pani — kawaler jéj dał
+!!Bo on się wiernie w swojéj dziewcynie — zakochał.
+!!Kosulka na niéj jako na pani. Kawaler jéj dał
+!!bo on się grzecnie w swojéj Marysi — zakochał.
+!!Po przejściu nazwy całego ubrania śpiewają:
+!!Niechże sobie chodzi
+!!bo jéj się tak godzi, hej nam hej!
+!!lub téż jak w poprzednich.
+!!@@END: VERSES
 !!!ONB: U Kolberga w t. 6 błędny zapis rytmu:3_.21__0_
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=262 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 234} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 234}
 !!!page: 234
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-28

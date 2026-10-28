@@ -3,73 +3,96 @@
 !!!source: DWOK05
 !!!id: K0028b
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8b
-8dd
-8dd
-8dd
-=2
-8b
-8dd
-8dd
-8dd
-=3
-4ee
-4a
-=4
-8a
-8cc
-8dd
-8b
-=5
-4g
-4a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8bL	Na
+8dd	.
+8dd	bia-
+8ddJ/	.
+=2	=2
+8bL	-łym
+8dd	.
+8dd	koni-
+8ddJ/	.
+=3	=3
+4ee	.
+4a\	-ku
+=4	=4
+8a\	pan
+8cc	staro-
+8dd	.
+8b	-sta
+=5	=5
+4g	je-
+4a}	-dzie,
 !!LO:LB:g=esac
-=6
-{8g
-8b
-8b
-8b
-=7
-4b
-4b
-=8
-8a
-8cc
-8dd
-8b
-=9
-4g
-4a}
+=6	=6
+{8g	dwa
+8b	tysiące
+8b	.
+8b	.
+=7	=7
+4b	chłopców
+4b	.
+=8	=8
+8a\	z_toporkami
+8cc	.
+8dd	.
+8b	.
+=9	=9
+4g	wiedzie,
+4a}	.
 !!LO:LB:g=esac
-=10
-{8g
-8b
-8b
-8b
-=11
-8b
-8dd
-8b
-8dd
-=12
-8a
-8cc
-8dd
-8b
-=13
-4g
-4a}
-==
-*-
+=10	=10
+{8g	dwa
+8b	tysiące
+8b	.
+8b	.
+=11	=11
+8bL	chłopców
+8ddJ/	.
+8bL	.
+8ddJ/	.
+=12	=12
+8a\	z_toporkami
+8cc	.
+8dd	.
+8b	.
+=13	=13
+4g	wiedzie.
+4a}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Highlander
+!!!role-listener: Highlander
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Na białym koniku pan krakowski jedzi,
+!!dwa tysiące chłopców z toporkami wiedzie.
+!!Z toporkami wiedzie na wojenkę w pole,
+!!może-ci już żaden nie wróci na hole.
+!!Drugi Góral (wchodząc mówi).
+!!A ja góral od Wadowic,
+!!a ty bracie z kądeś? powiédz.
+!!Ojciec góral, matka góral,
+!!i ja sobie także góral
+!!Ojciec umarł, a ja został
+!!i po ojcu fajkę dostał.
+!!Ojciec umarł, leży w dole,
+!!a ja sobie fajkę polę (palę).
+!!Będe robił, będe służył,
+!!będe sobie fajkę kurzył.
+!!@@END: VERSES
 !!!ONB: Wariant 2
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=249 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 221} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 221}
 !!!page: 221
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-28

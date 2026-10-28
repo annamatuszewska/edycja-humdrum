@@ -3,53 +3,86 @@
 !!!source: DWOK05
 !!!id: K0053
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{8a
-8b-
-8cc
-=2
-8a
-8b-
-8cc}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{8a\	Kaczka
+8b-	.
+8cc	pstra,
+=2	=2
+8a\	dzieci
+8b-	.
+8cc}	ma.
 !!LO:LB:g=esac
-=3
-{16a
-16b-
-8cc
-8cc
-=4
-16cc
-16dd
-8cc
-8b-
-=5
-16a
-16b-
-8cc
-8cc
-=6
-16cc
-16dd
-8cc
-8b-}
+=3	=3
+{16a\	Siedzi
+16b-	.
+8cc	sobie
+8cc	.
+=4	=4
+16cc	na
+16dd	kamieniu,
+8cc	.
+8b-	.
+=5	=5
+16a\	trzyma
+16b-	.
+8cc	dudki
+8cc	.
+=6	=6
+16cc	na
+16dd	ramieniu,
+8cc	.
+8b-}	.
 !!LO:LB:g=esac
-=7
-{8a
-8b-
-8cc
-=8
-8a
-8g
-8f}
-==
-*-
+=7	=7
+{8a\	kwa
+8b-	kwa
+8cc	kwa,
+=8	=8
+8a	pięknie
+8g	.
+8f}	gra.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!Kaczka pstra, dzieci ma.
+!!Siedzi sobie na kamieniu, trzyma dudki na ramieniu,
+!!kwa kwa kwa, pięknie gra.
+!!@VERSE:
+!!2 Gąsiorek, jędorek
+!!na bębenku wybijają,
+!!pana wdzięcznie wychwalają:
+!!gę, gę, gę, gęgają.
+!!@VERSE:
+!!3 Czyżyczek, szczygliczek,
+!!na gardłeczkach jak skrzypeczkach,
+!!śpiewają panu w jasłeczkach:
+!!lir, lir lir, w jasełeczkach.
+!!@VERSE:
+!!4 Słowiczek, muzyczek,
+!!gdy się głosem popisuje,
+!!wesele światu zwiastuje:
+!!ciech, ciech, ciech, zwiastuje.
+!!@VERSE:
+!!5 Skowronek jak dzwonek,
+!!gdy się do nieba podnosi,
+!!o kolędę pięknie prosi:
+!!fir fir fir, tak prosi.
+!!@VERSE:
+!!6 Wróblowie, stróżowie,
+!!gdy nad szopą świergotają.
+!!paniąteczku spać nie dają.
+!!dziw dziw dziw, nie dają.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=269 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 241} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 241}
 !!!page: 241
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-28

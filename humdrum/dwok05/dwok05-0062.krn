@@ -3,44 +3,81 @@
 !!!source: DWOK05
 !!!id: K0062
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*F:
-*M4/4
-=1
-{4a
-8b-
-8g
-2cc
-=2
-4a
-8b-
-8g
-2cc}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*met(c)	*
+=1	=1
+{4a\	Hej
+8b-L	nam
+8gJ\	hej_[!]
+2cc	.
+=2	=2
+4a\	hej
+8b-L	nam
+8gJ\	hej_[!]
+2cc}	.
 !!LO:LB:g=esac
-=3
-{8cc
-8dd
-8cc
-8b-
-8a
-8g
-8g
-8f
-=4
-8cc
-8dd
-8cc
-8b-
-8a
-8g
-8g
-8f}
-==
-*-
+=3	=3
+{8cc	Królowie
+8dd	.
+8cc	.
+8b-	jadą
+8a	.
+8g	przez
+8g	pole,
+8f	.
+=4	=4
+8cc	gwiazdę
+8dd	.
+8cc	widzą
+8b-	.
+8a	w_świetném
+8g	.
+8g	kole.
+8f}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Kings
+!!!role-listener: Jesus
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Hej nam hej [!] Królowie jadą przez pole,
+!!gwiazdę widzą w świetném kole.
+!!@VERSE:
+!!2 Hej nam hej! [:] Która im drógę wskazuje
+!!i do Betleem kieruje.
+!!@VERSE:
+!!3 Hej nam hej! [:] Synaczka Panny szukają,
+!!Bo go Bogiem swym być znają.
+!!@VERSE:
+!!4 Hej nam hej! [:] Ty sam Jezu narodzony
+!!pokaż pałac gdzieś złożony.
+!!@VERSE:
+!!5 Hej nam hej! [:] Nie w pałacu się narodził,
+!!swéj zacności nie dogodził.
+!!@VERSE:
+!!6 Hej nam hej! [:] W szopie leży narodzony
+!!i we żłobie położony.
+!!@VERSE:
+!!7 Hej nam hej! [:] Pójdźmy z ochotą do niego
+!!pochwalmy narodzonego.
+!!@VERSE:
+!!8 Hej nam hej! [:] Za złoto miłość oddajmy,
+!!kadzidłem Boga wyznajmy.
+!!@VERSE:
+!!9 Hej nam hej! [:] Mirra choć śmierć znamionuje
+!!żywot nam jednak gotuje.
+!!@VERSE:
+!!10 Hej nam hej! [:] Jezu z Panny narodzony,
+!!bądźże od nas pochwalony.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=279 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 251} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 251}
 !!!page: 251
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-28

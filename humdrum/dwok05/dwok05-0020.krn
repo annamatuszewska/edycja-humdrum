@@ -3,97 +3,165 @@
 !!!source: DWOK05
 !!!id: K0020
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{4cc
-8cc
-8cc
-=2
-8cc
-8cc
-16cc
-16b
-8a
-=3
-8g
-8b
-8cc
-8a
-=4
-8g
-8b
-4cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+=1	=1
+{4cc	Czy
+8cc	to
+8cc	w_dzień,
+=2	=2
+8cc	czy
+8cc	to
+16ccL	w_noc,
+16b	.
+8aJ/	.
+=3	=3
+8g	zawszém
+8b	.
+8cc	wesół,
+8a	.
+=4	=4
+8gL	zawsze
+8bJ	.
+4cc}	pan,
 !!LO:LB:g=esac
-=5
-{8g
-8a
-8g
-8a
-=6
-8g
-8a
-8g
-8f
-=7
-8e
-8e
-8f
-8d
-=8
-8c
-8c
-4c}
+=5	=5
+{8g	zawsze
+8a	.
+8g	śpiewam,
+8a	.
+=6	=6
+8g	zawsze
+8a	.
+8gL	hoc,
+8fJ	.
+=7	=7
+8e	jestem
+8e	.
+8f	sobie
+8d	.
+=8	=8
+8c	wielki
+8c	.
+4c}	pan.
 !!LO:LB:g=esac
-=9
-{8.e
-16d
-8.f
-16d
-=10
-8e
-8g
-16f
-16e
-16f
-16d
-=11
-8.e
-16d
-8.f
-16d
-=12
-8e
-8e
-4d}
+=9	=9
+{8.eL	.
+16dJ	.
+8.fL	.
+16dJ	.
+=10	=10
+8eL	.
+8gJ	.
+16fL	.
+16e	.
+16f	.
+16dJ	.
+=11	=11
+8.eL	.
+16dJ	.
+8.fL	.
+16dJ	.
+=12	=12
+8eL	.
+8eJ	.
+4d}	.
 !!LO:LB:g=esac
-=13
-{8e
-8g
-8cc
-8cc
-=14
-8a
-8a
-4f
-=15
-16d
-16e
-8f
-16d
-16e
-8f
-=16
-8e
-8d
-4c}
-==
-*-
+=13	=13
+{8eL	.
+8gJ	.
+8ccL	.
+8ccJ	.
+=14	=14
+8aL	.
+8aJ	.
+4f	.
+=15	=15
+16dL	.
+16e	.
+8fJ	.
+16dL	.
+16e	.
+8fJ	.
+=16	=16
+8eL	.
+8dJ	.
+4c}	.
+==	==
+*-	*-
+!!!role-singer: Mr. Twardowski, Jew
+!!!role-listener: Jew, Mr. Twardowski
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1 Czy to w dzień, czy to w noc,
+!!zawszém wesół, zawszem pan,
+!!zawsze śpiewam, zawsze hoc!
+!!jestem sobie wielki pan.
+!!@VERSE:
+!!2 Choć w żupanie — znaj mospanie,
+!!żeś mi winien oddać cześć;
+!!taka mina — i czupryna
+!!nie da sobie na wąs wsieść.
+!!@VERSE:
+!!(Spostrzega Zydka).
+!!Ha co ja widzę? najukochańszego.
+!!żydka mojego!
+!!Zydek. Ny! co mi przyszło z tego?
+!!Twardowski. Słuchaj zydku, nie miałbyś ty futerka przedniego?
+!!Zydek. Dla pana Twardowskiego
+!!mam futerka najlepszego.
+!!Takie sobole
+!!Co aż w plecy kole.
+!!Twardowski. Słuchaj Zydku, a co chcesz za niego?
+!!Zydek. Ny! trzy bitego.
+!!Twardowski Dam ci tynfa ale złotego.
+!!Zydek. Dobrze panie Twardowski,
+!!porachujmy się na tym wązkim stole,
+!!ja łap za łeb pieniądze a waszmość sobole.
+!!Twardowski. Słuchaj Zydku, czy jesteś ty dobrego rodu?
+!!Zydek. Z dobréj familii
+!!Absalonowéj ze saméj Syryi.
+!!Twardowski. Czyli masz powieści od króla samego?
+!!Zydek. Ny, co mi przyszło z tego?
+!!Twardowski. Czy wiész że mamy Mesyjasza nowego?
+!!Zydek. Co mi przyjdzie z tego?
+!!Twordowski. Ach żydzie okrutniku! dla obrazy Boskiéj,
+!!będziesz wnet ukarany z potęgi czartowskiéj.
+!!Co sobie nic nie ważysz niedowiarstwa swego,
+!!doświadczysz srogiéj mocy czarta przeklętego.
+!!(czaruje, w tém przylata Diabeł).
+!!Diabeł (chce żyda brać) Pójdź Abramku kochanku, pójdź do mojéj szkoły,
+!!dam ci się napić małmazyi z smoły.
+!!(Porywa Zydka i ulatuje z nim).
+!!Twardowski. Zabrali diabli co swoje,
+!!jakież będzie życie moje?
+!!Bo już siedem lat przeleci,
+!!a po duszę czart przyleci.
+!!Diabeł (wraca) Hej mospanie,
+!!pójdź no do mnie.
+!!Jako-ś piekłu zapisany,
+!!pójdziesz do piekielnéj bramy.
+!!Za długie mamy z tobą mozoły,
+!!i czas ci pono napić się smoły.
+!!Twordowski. Jeszcze daleko do zabrania duszy,
+!!pójdź wnuczku Lucypera! obetnę ci uszy
+!!tą szablą, wodą święconą
+!!(wywija szablą, Diabeł ucieka)
+!!Ha! ha! ha! zwąchał diabeł że chodzi o skórę,
+!!hej czary niech mię niosą aż na  Łysą górę!
+!!(odlatuje).
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: (Z komedyo-opery: Twardowski na Krzemionkach).
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=241 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 213} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 213}
 !!!page: 213
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-28

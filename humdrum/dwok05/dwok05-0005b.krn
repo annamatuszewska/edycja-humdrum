@@ -3,150 +3,160 @@
 !!!source: DWOK05
 !!!id: K0005b
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8g
-8a
-8b
-8cc
-=2
-8dd
-8dd
-8ee
-8ee
-=3
-8dd
-8dd
-8ee
-8ee
-=4
-8dd
-8dd
-4a
-=5
-8a
-4dd
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8g	Alboż
+8a	.
+8b	my
+8cc	to
+=2	=2
+8dd	jacy
+8dd	.
+8ee	tacy,
+8ee	.
+=3	=3
+8dd	jacy
+8dd	.
+8ee	tacy,
+8ee	.
+=4	=4
+8dd	chłopcy
+8dd	.
+4a\	kra-
+=5	=5
+8a\	-kowiacy,
+4dd	.
+8g}	.
 !!LO:LB:g=esac
-=6
-{8b
-8dd
-8cc
-8a
-=7
-4g
-4b
-=8
-8b
-8dd
-4a
-=9
-8a
-4dd
-8g
-=10
-8b
-8dd
-8cc
-8a
-=11
-4g
-4g}
+=6	=6
+{8b	czerwona
+8dd	.
+8cc	.
+8a	cza-
+=7	=7
+4g	-peczka
+4b	.
+=8	=8
+8b	i
+8dd	biała
+4a\	.
+=9	=9
+8a\	sukmana
+4dd	.
+8g	.
+=10	=10
+8b	dana
+8dd	.
+8cc	moja
+8a	.
+=11	=11
+4g	dana.
+4g}	.
 !!LO:LB:g=esac
-=12
-{8g
-16g
-16a
-16b
-16a
-16b
-16cc
-=13
-8dd
-16dd
-16cc#
-8ee
-16dd
-16cc#
-=14
-16dd
-16ee
-16dd
-16cc#
-8ee
-16dd
-16cc#
-=15
-8dd
-16dd
-16cc#
-8ee
-16dd
-16cc#
-=16
-16dd
-16ee
-16dd
-16cc#
-8ee
-16dd
-16cc#}
+=12	=12
+{8g	.
+16gL	.
+16aJ	.
+16bL	.
+16a	.
+16b	.
+16ccJ/	.
+=13	=13
+8dd	.
+16ddL	.
+16cc#J/	.
+8ee	.
+16ddL	.
+16cc#J/	.
+=14	=14
+16ddL	.
+16eeJ/	.
+16ddL	.
+16cc#J/	.
+8ee	.
+16ddL	.
+16cc#J/	.
+=15	=15
+8dd	.
+16ddL	.
+16cc#J/	.
+8ee	.
+16ddL	.
+16cc#J/	.
+=16	=16
+16ddL	.
+16eeJ/	.
+16ddL	.
+16cc#J/	.
+8ee	.
+16ddL	.
+16cc#J/}	.
 !!LO:LB:g=esac
-=17
-{8ee
-8dd
-4cc
-=18
-16g
-16b
-4b
-16a
-16g
-=19
-8f#
-16a
-16b
-16cc
-16a
-16cc
-16ee
-=20
-16ee
-16dd
-4dd
-16dd
-16cc#}
+=17	=17
+{8eeL	.
+8ddJ	.
+4ccn	.
+=18	=18
+16gL	.
+16bJ	.
+4b	.
+16aL	.
+16gJ	.
+=19	=19
+8f#	.
+16aL	.
+16bJ	.
+16ccL	.
+16aJ/	.
+16ccL	.
+16eeJ/	.
+=20	=20
+16eeL	.
+16ddJ/	.
+4dd	.
+16ddL	.
+16cc#J/}	.
 !!LO:LB:g=esac
-=21
-{8ee
-8dd
-4cc
-=22
-16g
-16b
-4b
-16a
-16g
-=23
-8f#
-16ee
-16dd
-8dd
-8f#
-=24
-16a
-16g
-4g}
-8r
-==
-*-
+=21	=21
+{8eeL	.
+8ddJ	.
+4ccn	.
+=22	=22
+16gL	.
+16bJ	.
+4b	.
+16aL	.
+16gJ	.
+=23	=23
+8f#	.
+16eeL	.
+16ddJ	.
+!LO:TX:t=P:problem=mixed beam	!
+8ddL\	.
+8f#J/	.
+=24	=24
+16aL	.
+16gJ	.
+4g}	.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Boys from Kraków
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Alboż my to jacy tacy, jacy tacy, chłopcy krakowiacy,
+!!czerwona czapeczka i biała sukmana dana moja dana.
+!!@@END: VERSES
 !!!ONB: Wariant 2
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=229 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 201} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 201}
 !!!page: 201
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-28

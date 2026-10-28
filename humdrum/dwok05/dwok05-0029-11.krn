@@ -3,54 +3,94 @@
 !!!source: DWOK05
 !!!id: K0029
 !!!signature: 0502900011
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M2/4
-=1
-{8f
-8ee-
-8ee-
-8dd
-=2
-4dd
-4cc
-=3
-8dd
-16ee-
-16gg
-8ee-
-8dd
-=4
-4dd
-4cc}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M2/4	*
+=1	=1
+{8f	Trzeba
+8ee-	.
+8ee-	by
+8dd	mi
+=2	=2
+4dd	trzeba,
+4cc	.
+=3	=3
+8dd	krypetków
+16ee-L	.
+16ggJ	.
+8ee-	.
+8dd	pożyczyć
+=4	=4
+4dd	.
+4cc}	.
 !!LO:LB:g=esac
-=5
-{8dd
-8ee-
-8ee-
-8dd
-=6
-8dd
-8cc
-8cc
-8cc
-=7
-8gg
-8ff
-8ee-
-8dd
-=8
-8cc
-8dd
-8cc
-8b-}
-==
-*-
+=5	=5
+{8dd	Pożycz
+8ee-	.
+8ee-	że
+8dd	mi
+=6	=6
+8dd	miły
+8cc	.
+8cc	bratku
+8cc	.
+=7	=7
+8gg	będę
+8ff	.
+8ee-	się
+8dd	za-
+=8	=8
+8ccL	-licać.
+8ddJ/	.
+8ccL	.
+8b-J}	.
+==	==
+*-	*-
+!!!role-singer: Highlander, Highlander Woman
+!!!role-listener: Highlander
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Trzeba by mi trzeba, krypetków pożyczyć
+!!Pożycz że mi miły bratku będę się zalicać.
+!!Pierwszy góral (na tęż nutę). Nie pożyczę, nie pożyczę, krypetki się psują,
+!!mógłbyś se téż kupić, jak drudzy kupują.
+!!Góralka (wchodzi) A wy co tutaj robicie?
+!!jéno oba próżniaczycie.
+!!Góral pierwszy (śpiewa) A pójdź że za mnie Jagula,
+!!będziesz miała jako króla.
+!!jako króla mnie samego,
+!!a poniechajże tamtego.
+!!Góral drugi Lepszy góral od Wadowic,
+!!jako tamten, sama powiedz.
+!!Bo się żywią na żentycy
+!!tamci, jako są zbójnicy.
+!!Góralka Ani tego, ani tego,
+!!nie chcę pojąć se żadnego.
+!!Boście nic nie warci oba,
+!!żaden mi się nie podoba.
+!!(odchodzi)
+!!Górał pierwszy Ano pójdźmy bratku, co się będziem prosić,
+!!weźmiemy se kosy, na wanderkę kosić.
+!!(odchodzą).
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Oprócz powyższych scen, widywaliśmy w dziecinnych latach:
+!!Niemca z Niemką, Cygana z niedźwiedziem, Zydka z Zydówką, ale
+!!pomimo starania nie mogliśmy odszukać szopkarzy sceny te umie-
+!!jących. Widać że zaginęły, jak inne dawne figurki wprowadzane
+!!w szopce(1). Po tych tańcach i piosenkach następuje tragiczne
+!!zakończenie.
+!!(1) Przechowały się po wielu wsiach z prawego brzegu Wisły, i czytelnik
+!!znajdzie je w stósownem miejscu. (ob. np. str. 203 i 204).
+!!@@END
 !!!ONB: Część wokalna
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=249 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 221-222} @EN{Oskar Kolberg Complete Works 5: Crakow I, pp. 221-222}
 !!!page: 221-222
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-28

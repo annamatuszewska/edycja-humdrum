@@ -3,108 +3,143 @@
 !!!source: DWOK05
 !!!id: K0025
 !!!signature:
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M2/4
-=1
-{8d
-8dd
-8dd
-8b
-=2
-8.a
-16f#
-8d
-8f#
-=3
-8.a
-16g
-8e
-8g
-=4
-8b
-8a
-8f#
-8d}
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M2/4	*
+=1	=1
+{8d	Być
+8cc#q	.
+8dd	ułanem
+8eeq	.
+8dd	.
+8b	.
+=2	=2
+8.a	aż
+16f#	miło,
+8d	.
+8f#	bodaj
+=3	=3
+8.a	.
+16g	się
+8e	w
+8g	ży-
+=4	=4
+8b	-ciu
+8a	szczęściło,
+8f#	.
+8d}	.
 !!LO:LB:g=esac
-=5
-{8d
-8dd
-8dd
-8b
-=6
-8.a
-16f#
-8d
-8f#
-=7
-8a
-8g
-8e
-8c#
-=8
-8d
-8d
-8d
-8d}
+=5	=5
+{8d	bo
+8cc#q	.
+8dd	ułana
+8eeq	.
+8dd	.
+8b	.
+=6	=6
+8.a	wszędzie
+16f#	.
+8d	znają,
+8f#	.
+=7	=7
+8a	za
+8g	ozdobę
+8e	.
+8c#	.
+=8	=8
+8d	kraju
+8d	.
+8d	mają.
+8d}	.
 !!LO:LB:g=esac
-=9
-{8d
-8dd
-8dd
-8ff#
-=10
-8.ee
-16cc#
-16a
-16cc#
-8ee
-=11
-8dd
-8dd
-8dd
-8ff#
-=12
-16ee
-16ff#
-16ee
-16cc#
-16a
-16g#
-16a
-16cc#}
+=9	=9
+!LO:TX:t=P:problem=mixed beam	!
+{8dL/	.
+8dd\	.
+8dd\	.
+8ff#J\	.
+=10	=10
+8.eeL	.
+16cc#J	.
+16aL	.
+16cc#	.
+8eeJ	.
+=11	=11
+8ddL	.
+8dd	.
+8dd	.
+8ff#J	.
+=12	=12
+16eeL	.
+16ff#	.
+16ee	.
+16cc#J	.
+16aL	.
+16g#	.
+16a	.
+16cc#J}	.
 !!LO:LB:g=esac
-=13
-{8cc#
-8dd
-8ee
-8ff#
-=14
-8.ee
-16cc#
-16a
-16cc#
-8ee
-=15
-8dd
-8dd
-8dd
-8ff#
-=16
-16ee
-16ff#
-16ee
-16cc#
-16a
-16g#
-16a
-16cc#}
-==
-*-
+=13	=13
+{8cc#/	.
+8dd	.
+8ee/	.
+8ff#	.
+=14	=14
+8.eeL	.
+16cc#J	.
+16aL	.
+16cc#	.
+8eeJ	.
+=15	=15
+8ddL	.
+8dd	.
+8dd	.
+8ff#J	.
+=16	=16
+16eeL	.
+16ff#	.
+16ee	.
+16cc#J	.
+16aL	.
+16g#	.
+16a	.
+16cc#J}	.
+==	==
+*-	*-
+!!!role-singer: Uhlan, Sapper
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1 Być ułanem aże miło,
+!!bogdaj się w życiu święciło.
+!!Bo ułana wszędzie znają,
+!!za ozdobę kraju mają.
+!!@VERSE:
+!!2 Ułan służy honorowi,
+!!swéj ojczyznie i królowi,
+!!a gdzie zabłyśnie ułańska pika,
+!!zaraz nieprzyjaciel smyka.
+!!Saper.
+!!@VERSE:
+!!1 Saper większy od ułana,
+!!walczy od nocy do rana,
+!!bo fortece wielkie bierze,
+!!stawia mosty, wali wieże.
+!!@VERSE:
+!!2 A służy téż honorowi,
+!!swéj ojczyśnie i królowi,
+!!a gdzie dobędzie oręża,
+!!niemasz nad sapera (większego) męża.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Scena ta znać że z czasów późniejszych.
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=247 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 219} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 219}
 !!!page: 219
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-28

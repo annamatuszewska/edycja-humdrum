@@ -3,90 +3,123 @@
 !!!source: DWOK05
 !!!id: K0059
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*F:
-*M2/4
-=1
-{8.cc
-16b
-8cc
-8a
-=2
-8.b-
-16a
-8b-
-8g
-=3
-8a
-8f
-8g
-8e
-=4
-4f
-4f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M2/4	*
+=1	=1
+!LO:TX:a:t=Wołki duchowne.	!
+{8.cc	Woły
+16b	.
+8cc	moje,
+8a\	.
+=2	=2
+8.b-X	woły
+16a\	.
+8b-	moje,
+8g	.
+=3	=3
+8a	wszystkie
+8f	.
+8g	wnętrzne
+8e	.
+=4	=4
+4f	siły,
+4f}	.
 !!LO:LB:g=esac
-=5
-{8.cc
-16b
-8cc
-8a
-=6
-8.b-
-16a
-8b-
-8g
-=7
-8a
-8f
-8g
-8e
-=8
-4f
-4f}
+=5	=5
+{8.cc	nie
+16b	chodźcie
+8cc	.
+8a\	tam,
+=6	=6
+8.b-X	nie
+16a\	chodźcie
+8b-	.
+8g	tam,
+=7	=7
+8a	kędyście
+8f	.
+8g	.
+8e	błą-
+=8	=8
+4f	-dziły.
+4f}	.
 !!LO:LB:g=esac
-=9
-{8f
-16f
-16g
-8a
-8f
-=10
-4g
-4e
-=11
-8f
-16f
-16g
-8a
-8f
-=12
-4g
-4e}
+=9	=9
+{8f	Trzeba
+16fL	.
+16gJ	.
+8a	w_insze
+8f	.
+=10	=10
+4g	lasy,
+4e	.
+=11	=11
+8f	z_naturą
+16fL	.
+16gJ	.
+8a	.
+8f	w_zapasy,
+=12	=12
+4g	.
+4e}	.
 !!LO:LB:g=esac
-=13
-{8f
-16f
-16g
-8a
-8f
-=14
-4g
-4e
-=15
-8f
-16f
-16g
-8a
-8f
-=16
-4g
-4e}
-==
-*-
+=13	=13
+{8f	trzeba
+16fL	.
+16gJ	.
+8a	w_insze
+8f	.
+=14	=14
+4g	lasy,
+4e	.
+=15	=15
+8f	z_naturą
+16fL	.
+16gJ	.
+8a	.
+8f	w_zapasy.
+=16	=16
+4g	.
+4e}	.
+==	==
+*-	*-
+!!!role-singer: Shepherdess
+!!!role-listener: Cows
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Woły moje, woły moje, wszystkie wnętrzne siły,
+!!nie chodźcie tam, nie chodźcie tam, kędyście błądziły.
+!!Trzeba w insze lasy,
+!!z naturą w zapasy.
+!!@VERSE:
+!!2 Woły moje, (:) nie chodźcie na góry,
+!!nie chodźcie tam (:) gdzie szkodliwe chmury.
+!!Co wszystko złe rodzą.
+!!każdéj cnocie szkodzą.
+!!@VERSE:
+!!3 Woły moje, nie chodźcie do boru,
+!!nie chodźcie tam, gdzie ciernie uporu.
+!!Nie chodźcie na rolą,
+!!za swą własną wolą.
+!!@VERSE:
+!!4 Woły moje, nie chodźcie na pole,
+!!gdzie chytry wąż, ukrywa się w dole.
+!!Uchodźcie téj zdrady,
+!!i do złego rady. - i t. d.
+!!ku końcowi:
+!!Woły moje, pójdźcie do stajenki,
+!!gdzie Pan Jezus, spoczywa maleńki.
+!!Nie chodźcie do izby
+!!gdzie światowe cizby i t. d.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=271 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 243} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 243}
 !!!page: 243
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-28

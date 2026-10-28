@@ -3,46 +3,91 @@
 !!!source: DWOK05
 !!!id: K0003
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8dd
-8b
-8g
-=2
-4dd
-8dd
-=3
-8cc
-8a
-8a
-=4
-4cc
-8cc
-=5
-8b
-8g
-8a
-=6
-16b
-16dd
-4dd
-=7
-8cc
-8b
-8a
-=8
-16b
-16a
-8g}
-8r
-==
-*-
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8dd	Slicna
+8b	.
+8g	panienka
+=2	=2
+4dd	.
+8dd	.
+=3	=3
+8cc	jako
+8a\	.
+8a\	jutrzenka
+=4	=4
+4cc	.
+8cc	.
+=5	=5
+8b	zrodziła
+8g	.
+8a	.
+=6	=6
+(16bL	syna,
+16ddJ)	.
+4dd	.
+=7	=7
+8cc	dobra
+8b	.
+8a\	nowina.
+=8	=8
+16bL	.
+16aJ\	.
+8g}	.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Caroler
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1 Slicna panienka
+!!jako jutrzenka
+!!zrodziła syna,
+!!dobra nowina.
+!!@VERSE:
+!!2 W stajni ubogij
+!!lubo mróz srogi
+!!w żłobku złożyła
+!!Boskiego syna.
+!!@VERSE:
+!!3 Wiwat pan Jezus,
+!!wiwat Maryja,
+!!wiwat i Józef,
+!!ona kompanija.
+!!@VERSE:
+!!4 Dziecie się kwili,
+!!Matuchna tuli,
+!!ustało przecie
+!!płakać po chwili.
+!!@VERSE:
+!!5 Józef staruszek
+!!wziąwszy pielusek,
+!!zewsąd od wiatru
+!!dziecie obtula.
+!!@VERSE:
+!!6 Wiatr zewsząd wieje,
+!!nikt nie zagrzeje;
+!!wicher do reśty
+!!strzechę obdziera.
+!!@VERSE:
+!!7 Co jesce dalij,
+!!sopka się wali,
+!!Józef nieborak
+!!kijem podpiera.
+!!@VERSE:
+!!8 Wiwat pan Jezus,
+!!wiwat Maryja,
+!!wiwat i Józef,
+!!cna kompanija.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=228 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 200} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 200}
 !!!page: 200
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-28

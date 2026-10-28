@@ -3,95 +3,137 @@
 !!!source: DWOK05
 !!!id: K0015
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*d:
-*M3/8
-=1
-{8f
-8a
-8b-
-=2
-8g
-4a
-=3
-8g
-8g
-8g
-=4
-16f
-16e
-4d}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*d:	*
+*M3/8	*
+=1	=1
+{8f	Ach
+8a	bia-
+8b-/	-da,
+=2	=2
+8g	bia-
+4a	-da
+=3	=3
+8g	mnie
+8g	He-
+8g	-ro-
+=4	=4
+16fL	-do-
+16eJ	.
+4d}	-wi,
 !!LO:LB:g=esac
-=5
-{8f
-8a
-8b-
-=6
-8g
-4a
-=7
-8g
-8g
-8g
-=8
-16f
-16e
-4d}
+=5	=5
+{8f	ach
+8a	bia-
+8b-/	-da,
+=6	=6
+8g	bia-
+4a	-da
+=7	=7
+8g	mnie
+8g	He-
+8g	-ro-
+=8	=8
+16fL	-do-
+16eJ	.
+4d}	-wi,
 !!LO:LB:g=esac
-=9
-{8f
-8f
-8g
-=10
-8f
-4e
-=11
-8f
-8f
-8g}
+=9	=9
+{8f	Żem
+8f	ja
+8g	ta-
+=10	=10
+8f	-kiemu
+4e	.
+=11	=11
+8f	czasowi_i_t._d.
+8f	.
+8g}	.
 !!LO:LB:g=esac
-=12
-{8f
-4e
-=13
-8f
-8d
-8e
-=14
-8c#
-8.d
-16d}
+=12	=12
+{8f	.
+4e	.
+=13	=13
+8f	.
+8d	.
+8e	.
+=14	=14
+8c#;	.
+8.d	.
+16d}	.
 !!LO:LB:g=esac
-=15
-{8f
-8a
-8g
-=16
-8f
-4e
-=17
-8f
-16f
-16a
-8g}
+=15	=15
+{8f	.
+8a	.
+8g	.
+=16	=16
+8f	.
+4e	.
+=17	=17
+8f	.
+16fL	.
+16aJ	.
+8g}	.
 !!LO:LB:g=esac
-=18
-{8f
-4e
-=19
-8a
-8g#
-8a
-=20
-8c#
-8.d
-16d}
-==
-*-
+=18	=18
+{8f	.
+4e	.
+=19	=19
+8a	.
+8g#	.
+8a	.
+=20	=20
+8c#	.
+8.d	.
+16d}	.
+==	==
+*-	*-
+!!!role-singer: Herod
+!!!role-listener: Servants
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1 Ach biada, biada mnie Herodowi,
+!!utrapionemu wielce królowi.
+!!Żem ja takiemu czasowi — złemu
+!!popadł kłopotowi.
+!!@VERSE:
+!!2 Doszła mnie jakaś dziwna nowina,
+!!mojéj żałości wielka przyczyna:
+!!pojawiła się, narodziła się,
+!!przedziwna dziecina.
+!!@VERSE:
+!!3 Rozmaicie to różni udają,
+!!czyli to prawda, czyli téż bają:
+!!że ma królować, żydom panować,
+!!tak mi powiadają.
+!!@VERSE:
+!!4 Ach! biada, biada, mnie Herodowi,
+!!utrapionemu wielce królowi:
+!!wierna czeladzi, czynić nie wadzi,
+!!co ku kłopotowi.
+!!@VERSE:
+!!5 Tę teraz wierność ukażcie swoję,
+!!słudzy, dworzanie, żołnierstwo moje:
+!!bierzcie broń w ręce, pałasze, miecze,
+!!niechaj się nieboję.
+!!@VERSE:
+!!6 Na koń co prędzej wsiadajcie,
+!!a do Betlejem biegajcie:
+!!tam dla jednego dzieciątka małego,
+!!wszystkie wycinajcie.
+!!@VERSE:
+!!7 Ach! biada, biada, mnie Herodowi
+!!utrapionemu wielce królowi:
+!!wierna czeladzi, czynić nie wadzi,
+!!co ku kłopotowi.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=234 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 206} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 206}
 !!!page: 206
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-28

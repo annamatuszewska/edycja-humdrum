@@ -3,64 +3,74 @@
 !!!source: DWOK05
 !!!id: K0056
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M4/4
-=1
-{8g
-8f#
-8g
-8a
-8b
-8a
-8b
-8cc
-=2
-4dd
-4ee
-2dd
-=3
-8g
-8f#
-8g
-8a
-8b
-8a
-8b
-8cc
-=4
-4dd
-4ee
-2dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M4/4	*
+*met(c)	*
+=1	=1
+{8g	Pobieżeli
+8f#	.
+8g	.
+8a	.
+8b	do
+8a\	Betlejem
+8b	.
+8cc	.
+=2	=2
+4dd	pasterze,
+4ee	.
+2dd	.
+=3	=3
+8g	grając
+8f#	.
+8g	skoczno
+8a	.
+8b	dzieciąteczku
+8a\	.
+8b	.
+8cc	.
+=4	=4
+4dd	na
+4ee	lirze.
+2dd}	.
 !!LO:LB:g=esac
-=5
-{4gg
-4dd
-8ee
-8dd
-8cc
-8b
-=6
-4cc
-4cc
-8dd
-8cc
-8b
-8a
-=7
-4g
-4b
-2dd
-=8
-4cc
-4f#
-2g}
-==
-*-
+=5	=5
+{4gg	hej,
+4dd	hej,
+8ee	jedni
+8dd	.
+8cc	grali,
+8b	.
+=6	=6
+4cc	a
+4cc	drudzy
+8dd	.
+8cc	śpiewali
+8b	.
+8a	.
+=7	=7
+4g	na
+4b	lirze
+2dd	.
+=8	=8
+4cc	na
+4f#	lirze.
+2g}	.
+==	==
+*-	*-
+!!!role-singer: Caroler/Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Pobieżeli do Betlejem pasterze,
+!!grając skoczno dzieciąteczku na lirze.
+!!hej, hej, jedni grali, a drudzy śpiéwali na lirze na lirze.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=270 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 242} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 242}
 !!!page: 242
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-28

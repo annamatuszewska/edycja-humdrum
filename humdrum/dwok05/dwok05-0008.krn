@@ -3,113 +3,125 @@
 !!!source: DWOK05
 !!!id: K0008
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8a
-16d
-16d
-8d
-8f#
-=2
-8a
-16d
-16d
-8d
-8cc
-=3
-8a
-8d
-8a
-8d
-=4
-2a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8aL	.
+16d	.
+16dJ	.
+8dL	.
+8f#J	.
+=2	=2
+8aL	.
+16d	.
+16dJ	.
+8dL	.
+8ccJ	.
+=3	=3
+8aL	.
+8d	.
+8a	.
+8dJ	.
+=4	=4
+2a}	.
 !!LO:LB:g=esac
-=5
-{8d
-16d
-16f#
-8g
-16g
-16a
-=6
-8b
-16b
-16a
-4g
-=7
-8.a
-16f#
-16f#
-16a
-16dd
-16cc
-=8
-8b
-16b
-16a
-4g}
+=5	=5
+{8d	Mia-
+16dL	-ła
+16f#J	.
+8gL	mat-
+16g	-ka
+16aJ	.
+=6	=6
+8b	u-
+16bL	-ła-
+16aJ\	.
+4g	-na
+=7	=7
+8.a	po
+16f#	wo-
+16f#L	-de
+16a	.
+16dd	go
+16ccJ\	.
+=8	=8
+8b	wy-
+16bL	-sła-
+16aJ\	.
+4g}	-ła.
 !!LO:LB:g=esac
-=9
-{8.a
-16f#
-8f#
-8a
-=10
-8dd
-16dd
-16b
-8g
-16b
-16a
-=11
-8a
-16a
-16f#
-16f#
-16a
-16dd
-16cc
-=12
-8b
-16b
-16a
-4g}
+=9	=9
+{8.a	Ni
+16f#	u-
+8f#	-ła-
+8a	-na
+=10	=10
+8dd	ni
+16ddL	wo-
+16bJ	.
+8gL	-dy,
+16b	.
+16aJ	.
+=11	=11
+8a	ni
+16aL	z_uła-
+16f#J	.
+16f#L	.
+16aJ	.
+16ddL	-na
+16ccJ	.
+=12	=12
+8b	wy-
+16bL	-go-
+16aJ\	.
+4g}	-dy.
 !!LO:LB:g=esac
-=13
-{8a
-16a
-16f#
-8g
-8e
-=14
-16c#
-16e
-16a
-16g
-8f#
-16f#
-16d
-=15
-8d
-16d
-16f#
-8g
-16g
-16e
-=16
-16c#
-16e
-16g
-16f#
-4d}
-==
-*-
+=13	=13
+{8aL	.
+16a	.
+16f#J	.
+8gL	.
+8eJ	.
+=14	=14
+16c#L	.
+16e	.
+16a	.
+16gJ	.
+8f#L	.
+16f#	.
+16dJ	.
+=15	=15
+8dL	.
+16d	.
+16f#J	.
+8gL	.
+16g	.
+16eJ	.
+=16	=16
+16c#L	.
+16e	.
+16g	.
+16f#J	.
+4d}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Miała matka ułana po wode go wysłała.
+!!Ni ułana ni wody, ni z ułana wygody.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Po nim Ułan z lancą przy któréj chorągiewka. Jeden z chłop-
+!!ców udaje trębacza i trąbi.
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=230 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 202} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 202}
 !!!page: 202
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-28

@@ -3,69 +3,96 @@
 !!!source: DWOK05
 !!!id: K0076
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*F:
-*M2/4
-=1
-{4ff
-8ee
-8ee
-=2
-4ff
-8ee
-8dd
-=3
-8dd
-8ee
-8ff
-8dd
-=4
-4cc
-4ff}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M2/4	*
+=1	=1
+{(4ff	Jechał
+8ee)	.
+8ee	.
+=2	=2
+(4ff	kozak
+8ee)	.
+8dd	.
+=3	=3
+8dd	od
+8ee	krasnego
+8ff	.
+8dd	.
+=4	=4
+4cc	stawu,
+4ff}	.
 !!LO:LB:g=esac
-=5
-{8cc
-8dd
-8cc
-8dd
-=6
-8cc
-8dd
-8cc
-8b-
-=7
-8a
-8a
-8b-
-8g
-=8
-4f
-4ff}
+=5	=5
+{8cc	wot
+8dd	nadybał
+8cc	.
+8dd	.
+=6	=6
+8cc	dziewulińku
+8dd	.
+8cc	.
+8b-	.
+=7	=7
+8a	horoszu
+8a	.
+8b-/	.
+8g	i
+=8	=8
+4f	żwawu,
+4ff}	.
 !!LO:LB:g=esac
-=9
-{8cc
-8dd
-8cc
-8dd
-=10
-8cc
-8dd
-8cc
-8b-
-=11
-8a
-8a
-8b-
-8g
-=12
-4f
-4f}
-==
-*-
+=9	=9
+{8cc	wot
+8dd	nadybał
+8cc	.
+8dd	.
+=10	=10
+8cc	dziewulińku
+8dd	.
+8cc	.
+8b-	.
+=11	=11
+8a	horoszu
+8a	.
+8b-/	.
+8g	i
+=12	=12
+4f	żwawu.
+4f}	.
+==	==
+*-	*-
+!!!role-singer: Maiden, Cossack
+!!!role-listener: Cossack, Maiden
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Jechał kozak
+!!od krasnego stawu,
+!!wot nadybał dziewulińku
+!!horoszu i żwawu.
+!!@VERSE:
+!!2 Wyszła diwczyna,
+!!czarniusieńkie oczka, —
+!!nocuj, nocuj, kozaczyna,
+!!bo kwatera bliska.
+!!@VERSE:
+!!3 Wot ty pojedziesz,
+!!a mnie nie zawiedziesz, —
+!!pojadu ja za Dunaju,
+!!na dudzie zagraju.
+!!@VERSE:
+!!4 Przybój wodu, pchaj na wodu (łódź),
+!!sztoby wiesło trasło, —
+!!oj dziewulu, ja powrócu,
+!!aby buła krasna.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=388 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 360} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 360}
 !!!page: 360
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-28

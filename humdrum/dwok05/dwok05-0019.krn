@@ -3,96 +3,119 @@
 !!!source: DWOK05
 !!!id: K0019
 !!!signature:
-**kern
-*clefG2
-*k[f#c#g#d#]
-*E:
-*M2/4
-=1
-{8b
-8ee
-8ee
-8ee
-=2
-16ff#
-16ee
-8dd#
-4dd#
-=3
-8b
-8ee
-8ee
-8ee
-=4
-16ff#
-16ee
-8dd#
-4dd#
-=5
-2b}
+**kern	**text
+*clefG2	*
+*k[f#c#g#d#]	*
+*E:	*
+*M2/4	*
+=1	=1
+{8b	Miły
+8ee	.
+8ee	siabes
+8ee	.
+=2	=2
+16ff#L	po-
+16eeJ	.
+8dd#	-mi-
+8ccq	.
+4dd#	-łuj,
+=3	=3
+8b	mojéj
+8ee	.
+8ee	straty
+8ee	.
+=4	=4
+(16ff#L	nie
+16ee	.
+8dd#J)	.
+4dd#	ża-
+=5	=5
+2b}	-łuj
 !!LO:LB:g=esac
-=6
-{4ee
-8b
-8cc
-=7
-8b
-8a
-8g#
-8e
-=8
-4ee
-8b
-8cc
-=9
-8b
-8a
-4g#
-=10
-2e}
+=6	=6
+{4ee	A
+8bL	ja
+8ccJ	.
+=7	=7
+8b/	sobie
+8a	.
+8g#	bockiem
+8e	.
+=8	=8
+4ee	przed
+8bL	pa-
+8ccJ	.
+=9	=9
+8b	-nem
+8a	Potockiem.
+4g#	.
+=10	=10
+2e}	.
 !!LO:LB:g=esac
-=11
-{8e
-8a
-8a
-8a
-=12
-8g#
-8a
-4b
-=13
-8e
-8a
-8a
-8a
-=14
-8g#
-8a
-4b}
+=11	=11
+{8eL	.
+8a	.
+8a	.
+8aJ	.
+=12	=12
+8g#L	.
+8aJ	.
+4b	.
+=13	=13
+8eL	.
+8a	.
+8a	.
+8aJ	.
+=14	=14
+8g#L	.
+8aJ	.
+4b}	.
 !!LO:LB:g=esac
-=15
-{4ee
-8b
-8cc
-=16
-8b
-8a
-8g#
-8e
-=17
-4ee
-8b
-8cc
-=18
-8b
-8a
-4g#
-=19
-2e}
-==
-*-
+=15	=15
+{4ee	.
+8bL	.
+8ccJ	.
+=16	=16
+8bL	.
+8a	.
+8g#	.
+8eJ	.
+=17	=17
+4ee	.
+8bL	.
+8ccJ	.
+=18	=18
+8bL	.
+8aJ	.
+4g#	.
+=19	=19
+2e}	.
+==	==
+*-	*-
+!!!role-singer: Jew
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1 Miły siabes pomiłuj,
+!!mojéj straty nie żałuj (potrząsa brodą)
+!!A ja sobie bockiem
+!!przed panem Potockiem (potrząsa brodą).
+!!@VERSE:
+!!2 I ja sobie zatańcuję,
+!!nóżek moich zaprobuję.
+!!Bo to moje nóżki ciężkie są,
+!!przed panem Potockiem tańcują,
+!!(Twardowski spuszcza się z góry;)
+!!śpiewa nie widząc Zydka, a potem przytupuje.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: (Zydek tańcuje z żydówką, potem sam. Wreszcie przychodzi doń Twardowski).
+!! Zydek tańcuje i śpiewa.
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=241 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 213} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 213}
 !!!page: 213
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-28

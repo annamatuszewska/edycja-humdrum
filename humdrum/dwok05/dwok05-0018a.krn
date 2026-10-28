@@ -3,50 +3,93 @@
 !!!source: DWOK05
 !!!id: K0018a
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{2gg
-4ee
-=2
-2gg
-4ee
-=3
-8ee
-8gg
-4ff
-4ee
-=4
-4dd
-4cc}
-4r
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{2gg	Zydzie,
+4ee	.
+=2	=2
+2gg	zydzie,
+4ee	.
+=3	=3
+8ee	Mesyjasz
+8gg	.
+4ff	.
+4ee	się
+=4	=4
+4dd	rodzi,
+4cc}	.
+4r	.
 !!LO:LB:g=esac
-=5
-{8gg
-8gg
-4gg
-4ee
-=6
-8gg
-8gg
-4gg
-4ee
-=7
-8ee
-8gg
-4ff
-4ee
-=8
-4dd
-4cc}
-4r
-==
-*-
+=5	=5
+{8gg	więc
+8gg	go
+4gg	tobie,
+4ee	.
+=6	=6
+8gg	więc
+8gg	go
+4gg	tobie,
+4ee	.
+=7	=7
+8ee	powitać
+8gg	.
+4ff	.
+4ee	się
+=8	=8
+4dd	godzi
+4cc}	.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Shepherd, Jew
+!!!role-listener: Jew, Shepherd
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Zydzie, zydzie, Mesyjasz się rodzi, więc go tobie, więc go tobie, powitać się godzi
+!!A gdzie go jest, a gdzie go jest radbym widzieć tego,
+!!będziem kłaniać będziem witać jeśli co godnego.
+!!Lai lai laj, jeśli co godnego.
+!!P. (śpiewa): Zydzie, zydzie! pan Jezus się rodzi,
+!!więc go tobie, więc go tobie, przywitać się godzi(1).
+!!Z. (mówi lub śpiewa): A gdzie go? a gdzie go? chciałbym widzieć temu,
+!!będziem kłaniać, będziem witać, jakby co łebskiemu.
+!!Lai lai laj, jakby co łebskiemu.
+!!P. (śpiewa): Zydzie zydzie! w Betlejem miasteczku,
+!!tam jest złożon, tam jest złożon w szopie na sianeczku.
+!!Z. (mówi): Łżesz jak pieś, łżesz jak pieś, coby robił w szopie
+!!tak pan wielki, tak pan wielki? idź do djabła chłopie!
+!!Lai lai laj, idź do djabła chłopie!
+!!P. (śpiewa): Zydzie, zydzie! Dalibóg że nie łżę,
+!!ja do niego, ja ku niemu z darami pobieżę.
+!!Z. (mówi). Idź gdzie chcesz, idź gdzie zechcesz, gdzie się tobie zechce;
+!!ja nie pójdę, ja nie pójdę, bo mi się tam nie chce.
+!!Lai lai laj, bo mi się tam nie chce.
+!!P. (śpiewa): Zydzie, zydzie! króle go witają,
+!!mirę, złoto, mirę, złoto i kadzidło dają.
+!!Z. (mówi): Wiem ja o tem: u mnie w kramie byli
+!!troche mirem i kadzidłem u mnie zakupili.
+!!Lai lai laj, u mnie zakupili.
+!!P. (śpiewa): Zydzie, zydzie! otoż jawnie widzisz
+!!a czemu się, a czemu się Mesyjasza wstydzisz?
+!!Z (mówi): Ja starego pana Boga jak nalezi umiem,
+!!ale tego malińkiego jeszcze nie rozumiem.
+!!Lai, laj, laj, jeszcze nie rozumiem.
+!!P. (śpiewa): Zydzie, zydzie! wnet ja cię naucę,
+!!jak cię z przodu, jak cię z tyłu, tą palicą zmłócę.
+!!(Zaczyna się niegrzeczna bitwa. Zydek woła gwałtu; nadbiega pachołek i odpycha pasterza bijącego).
+!!Pachołek (do pasterza) Co tu robisz przy szopie jakieś konfuzyje?
+!!Obudzisz paniąteczko, więc cię hereśtuję.
+!!(Wypycha go za drzwi).
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=240 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 212} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 212}
 !!!page: 212
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-28

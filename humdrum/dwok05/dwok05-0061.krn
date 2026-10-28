@@ -3,73 +3,104 @@
 !!!source: DWOK05
 !!!id: K0061
 !!!signature: 0506100000
-**kern
-*clefG2
-*k[b-]
-*F:
-*M4/4
-=1
-{4cc
-8a
-8dd
-4b-
-4g
-=2
-8g
-8cc
-8b
-8dd
-4cc
-4cc}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*met(c)	*
+=1	=1
+{4cc	Gwiazda
+8a\	.
+8dd	zaświtała
+4b-	.
+4g	.
+=2	=2
+8gL	.
+8ccJ\	nowa
+8b	.
+8dd	na
+4cc	wschodzie,
+4cc}	.
 !!LO:LB:g=esac
-=3
-{4cc
-8a
-8dd
-4b-
-4g
-=4
-8g
-8cc
-8b
-8dd
-4cc
-4cc}
+=3	=3
+{4cc	wstawaj
+8a\	.
+8dd	zapadły
+4b-	.
+4g	.
+=4	=4
+8gL	w_cieniach
+8ccJ\	.
+8b	.
+8dd	narodzie.
+4cc	.
+4cc}	.
 !!LO:LB:g=esac
-=5
-{4cc
-4b-
-16a
-16g
-16a
-16b-
-8a
-8f
-=6
-4e
-4f
-4g}
-4r
+=5	=5
+{4cc	Prędko
+4b-	.
+16a	[!]
+16g	.
+16a	[!]
+16b-/	.
+8a	[:]
+8f	.
+=6	=6
+4e	twojego
+4f	.
+4g}	.
+4r	.
 !!LO:LB:g=esac
-=7
-{8g
-8g
-8g
-8g
-4a
-8g
-8f
-=8
-8e
-8f
-8g
-8g
-4c}
-4r
-==
-*-
+=7	=7
+{8g	szukaj
+8g	.
+8g	światła
+8g	.
+4a	dziś
+8g	tobie
+8f	.
+=8	=8
+8e	świtającego.
+8f	.
+8g	.
+8g	.
+4c}	.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Narrator/Caroler
+!!!role-listener: Nation, Jesus
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Gwiazda zaświtała nowa na wschodzie,
+!!wstawaj zapadły w cieniach narodzie.
+!!Prędko [!] [!] [:] twojego
+!!szukaj światła dziś tobie świtającego.
+!!@VERSE:
+!!2 Wszyscy snem twardym leżą uśpieni,
+!!sami królowie trzej ocuceni.
+!!Rano, rano, rano, rano powstają
+!!złoty blask złotéj zorzy mile witają.
+!!@VERSE:
+!!3 Rusza po niebie świecąca gwiazda,
+!!idzie za wodzem gromadna jazda:
+!!Bieży, bieży, bieży, bieży a w tropy
+!!za nią królowie biegną do ciemnéj szopy.
+!!@VERSE:
+!!4 Tamże szukane dobro znajdują,
+!!tam przed Nim padłszy, dań ofiarują:
+!!czołem, czołem, czołem biją jasnemu,
+!!pod ciała cieniem Słońcu utajonemu.
+!!@VERSE:
+!!5 Słońce przedwieczne przez Twe zjawienie,
+!!które się żarzysz nam na zbawienie,
+!!zapal, zapal, zapal, zapal zmrożone
+!!i w cieniu zimnéj nocy serca zgaszone.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=278 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 250} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 250}
 !!!page: 250
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-28

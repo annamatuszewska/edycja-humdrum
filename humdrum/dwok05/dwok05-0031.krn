@@ -3,63 +3,77 @@
 !!!source: DWOK05
 !!!id: K0031
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M4/4
-=1
-{4cc
-4dd
-4.ee
-8ff
-=2
-4ee
-4ee
-4dd
-4ee
-=3
-4cc
-4dd
-4.ee
-8ff
-=4
-4ee
-4ee
-4dd
-4ee}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M4/4	*
+*met(c)	*
+=1	=1
+{4cc	Za
+4dd	kolędę
+4.ee	.
+8ff	.
+=2	=2
+4ee	dziękujemy,
+4ee	.
+4dd	.
+4ee	.
+=3	=3
+4cc	zdrowia
+4dd	.
+4.ee	szczęścia
+8ff	.
+=4	=4
+4ee	winszujemy.
+4ee	.
+4dd	.
+4ee}	.
 !!LO:LB:g=esac
-=5
-{4ee
-4ee
-4ee
-4ee
-=6
-4.dd
-8cc
-4b
-4dd
-=7
-4ee
-4ee
-4ee
-4ee
-=8
-4.dd
-8cc
-4b
-4dd
-=9
-8ee
-8ee
-8dd
-8dd
-4cc}
-4r
-==
-*-
+=5	=5
+{4ee	Byście
+4ee	.
+4ee	państwo
+4ee	.
+=6	=6
+4.dd	długo
+8cc	.
+4b	żyli,
+4dd	.
+=7	=7
+4ee	zdrowi
+4ee	.
+4ee	i
+4ee	szczęśliwi
+=8	=8
+4.dd	.
+8cc	.
+4b	byli,
+4dd	.
+=9	=9
+8ee	na
+8ee	ten
+8dd	Nowy
+8dd	.
+4cc}	rok!
+4r	.
+==	==
+*-	*-
+!!!role-singer: Carolers
+!!!role-listener: Audience
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Za kolęde dziękujemy,
+!!zdrowia szczęścia winszujemy.
+!!Byś-cie państwo długo żyli,
+!!zdrowi i szczęśliwi byli,
+!!na ten nowy rok!
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=222 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 31} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 31}
 !!!page: 31
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-28

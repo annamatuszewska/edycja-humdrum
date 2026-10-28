@@ -3,76 +3,88 @@
 !!!source: DWOK05
 !!!id: K0038
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{4cc
-8ee
-=2
-8gg
-4gg
-=3
-8aa
-8gg
-16ff
-16ee
-=4
-4dd}
-8r
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{4cc	Stoji
+8ee	.
+=2	=2
+8gg	w_oknie
+4gg	.
+=3	=3
+8ggq	.
+8aa	przezrocystem
+8gg	.
+16ffL	.
+16eeJ	.
+=4	=4
+4dd}	.
+8r	.
 !!LO:LB:g=esac
-=5
-{8gg
-8gg
-16ff
-16ee
-=6
-16dd
-16ee
-4cc
-=7
-4f
-8a
-=8
-4g}
-8r
+=5	=5
+{8gg	oj
+8gg	lelom
+16ffL	.
+16eeJ	.
+=6	=6
+16ddL	lelom
+16eeJ	.
+4cc	.
+=7	=7
+4f	oj
+8a	le-
+=8	=8
+4g}	-lom.
+8r	.
 !!LO:LB:g=esac
-=9
-{4cc
-8ee
-=10
-8gg
-4gg
-=11
-8aa
-8gg
-16ff
-16ee
-=12
-4dd}
-8r
+=9	=9
+{4cc	Stoji
+8ee	.
+=10	=10
+8gg	w_oknie
+4gg	.
+=11	=11
+8ggq	.
+8aa	przezrocystem
+8gg	.
+16ffL	.
+16eeJ	.
+=12	=12
+4dd}	.
+8r	.
 !!LO:LB:g=esac
-=13
-{8gg
-8gg
-16ff
-16ee
-=14
-16dd
-16ee
-4cc
-=15
-4f
-8a
-=16
-4g}
-8r
-==
-*-
+=13	=13
+{8gg	oj
+8gg	lelom
+16ffL	.
+16eeJ	.
+=14	=14
+16ddL	lelom
+16eeJ	.
+4cc	.
+=15	=15
+4f	oj
+8a	le-
+=16	=16
+4g}	-lom.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Carolers
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Stoji w oknie przeźrocystém
+!!cese warkoce pozłociste.
+!!My za tym warkocem ślubujemy
+!!od złotka buciki darujemy.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=261 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 233} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 233}
 !!!page: 233
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-28

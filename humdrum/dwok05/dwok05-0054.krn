@@ -3,95 +3,134 @@
 !!!source: DWOK05
 !!!id: K0054
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*F:
-=1
-*M2/4
-{4cc
-8cc
-8cc
-=2
-8b
-8cc
-8dd
-8cc
-=3
-8cc
-8cc
-8b
-8cc
-=4
-4a
-4f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+=1	=1
+*M2/4	*
+{4cc	Oj
+8cc	widziałeś
+8cc	.
+=2	=2
+8b	.
+8cc	ty
+8dd	Banku,
+8cc	.
+=3	=3
+8cc	co
+8cc	za
+8b	dziwo
+8cc	.
+=4	=4
+4a	było,
+4f}	.
 !!LO:LB:g=esac
-=5
-{8f
-8g
-8a
-8b
-=6
-16dd
-16cc
-4.cc
-=7
-8cc
-8cc
-8b
-8cc
-=8
-4a
-4f}
+=5	=5
+{8f	gdy
+8g	się
+8a	o
+8b	pół-
+=6	=6
+16ddL	-nocy
+16ccJ	.
+4.cc	.
+=7	=7
+8cc	niebo
+8cc	.
+8b	otwo-
+8cc	.
+=8	=8
+4a	-rzyło.
+4f}	.
 !!LO:LB:g=esac
-=9
-*M3/8
-{16f
-16f
-16f
-16g
-16a
-16b-
-=10
-16cc
-16cc
-8a
-8f
-=11
-16f
-16a
-8cc
-16cc
-16a
-=12
-4b-
-16b-
-16a}
+=9	=9
+*M3/8	*
+*	*^	*
+{16f	Oj	A	A
+16f	mój	z_przestrachu	gdym
+16f	Gawle	.	począł
+16g	.	.	.
+16a	.	.	.
+16b-	.	.	.
+=10	=10	=10	=10
+16cc	ja	aż	gwałtu
+16cc	na	z_pod	.
+8a	brzegu	dachu	wołać,
+8f	.	.	.
+=11	=11	=11	=11
+16f	leżałem	upadłem	przecie
+16a	.	.	.
+8cc	.	.	usły-
+16cc	téj	na	.
+16a	.	.	.
+=12	=12	=12	=12
+4b-	nocy,	ziemię.	-szeli,
+16b-	.	.	.
+16a}	.	.	.
 !!LO:LB:g=esac
-=13
-{16g
-16a
-8b-
-8b-
-=14
-16a
-16g
-8a
-8f
-=15
-16e
-16f
-16g
-16f
-16g
-16a
-=16
-4f
-8f}
-==
-*-
+=13	=13	=13	=13
+{16g	rozumiałem	zbiłem	z_miejsca
+16a	.	.	.
+8b-	.	sobie	tego
+8b-	.	.	.
+=14	=14	=14	=14
+16a	że	mocno	kędym
+16g	świat	.	.
+8a	gore,	kuper	leżał
+8f	.	.	.
+=15	=15	=15	=15
+16e	tak	i	prędko
+16f	świeciło	mogę	.
+16g	.	.	podźwi-
+16f	.	.	.
+16g	.	w_ko-	.
+16a	.	.	.
+=16	=16	.=16	=16
+4f	w_oczy.	-lenie.	-gnęli.
+8f}	.	.	.
+*	*v	*v	*
+==	== 	== 
+*-	*-	*-
+!!!role-singer: Shepherd
+!!!role-listener: Shepherd
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!Oj widziałeś ty Banku, co za dziwo było,
+!!gdy się o północy niebo otworzyło.
+!!Oj mój Gawle ja na brzegu leżałem téj nocy,
+!!rozumiałem że świat gore, tak świeciło w oczy.
+!!A z przestrachu aż z pod dachu upadłem na ziemię,
+!!zbiłem sobie mocno kuper i nogę w kolenie.
+!!A gdym począł gwałtu wołać, przecie usłyszeli,
+!!z miejsca tego kędym leżał prędko podźwignęli.
+!!@VERSE:
+!!2 Oj powiédzciez mi proszę, co to jest takiego?
+!!nie będę żałował barana tłustego.
+!!Służyłem ja u Pinchesa żyda cztery lata;
+!!miał takowe księgi stare od stworzenia świata.
+!!Kiedy czytał, powiadał mi, pan Bóg karać będzie,
+!!grzesznych ludzi ogniem spali, zatopi świat wszędzie.
+!!Otóżem wam wytłumaczył, czegóż więcéj chcecie,
+!!bo mój Pinches stary rabin, wiecie że nie dziecie.
+!!kończą zaś:
+!!@VERSE:
+!!7 Oj pójdz ty wprzód Werdalu, my drogi nie wiemy,
+!!a my zaś za tobą wszyscy pobiegniemy.
+!!Ot trzeba iść do Wieliczki, potem do Pińczowa,
+!!a z Pińczowa na Bielany, potem do Głogowa;
+!!zas z Głogowa do Mogiły będzie już pół drogi,
+!!weźmiem z sobą ze dwa sadła by smarowac nogi.
+!!Zaś z Mogiły do Szkalmierza, a potem na Tyniec,
+!!a zaś z Tyńca do Betleem, to już drogi koniec.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: (Mioduszewski, Pastorałki i kolędy str. 117).
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=269 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 241} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 241}
 !!!page: 241
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-28

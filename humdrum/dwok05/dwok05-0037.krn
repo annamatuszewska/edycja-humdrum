@@ -3,66 +3,87 @@
 !!!source: DWOK05
 !!!id: K0037
 !!!signature:
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M2/4
-=1
-{8a
-8cc#
-4ee
-=2
-16dd
-16dd
-16dd
-16ff#
-16dd
-16cc#
-16b
-16a
-=3
-16a
-16cc#
-16cc#
-16a
-8b
-8e
-=4
-8f#
-8g#
-4a}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M2/4	*
+=1	=1
+{8a\	Hej
+8cc#	nam
+4ee	hej,
+=2	=2
+16dd	nadobna
+16dd	.
+16dd	.
+16ff#	panienka
+16ddL	.
+16cc#J	.
+16bL	.
+16aJ\	.
+=3	=3
+16a\	w_okienku
+16cc#	.
+16cc#	.
+16a\	siadała,
+8b	.
+8e	.
+=4	=4
+8f#	hej
+8g#	nam
+4a}	hej!
 !!LO:LB:g=esac
-=5
-{16a
-16b
-16cc#
-16dd
-4ee
-=6
-16ff#
-16ff#
-16dd
-16ff#
-16dd
-16cc#
-16b
-16a
-=7
-16cc#
-16cc#
-16cc#
-16a
-8b
-8e
-=8
-8f#
-8g#
-4a}
-==
-*-
+=5	=5
+{16aL	Hej
+16bJ/	.
+16cc#L	nam
+16ddJ/	.
+4ee	hej,
+=6	=6
+16ff#L	nadobna
+16ff#J/	.
+16dd	.
+16ff#	panienka
+16ddL	.
+16cc#J	.
+16bL	.
+16aJ	.
+=7	=7
+16cc#L	w_okienku
+16cc#J/	.
+16cc#	.
+16a\	siadała,
+8b	.
+8e	.
+=8	=8
+8f#	hej
+8g#	nam
+4a}	hej!
+==	==
+*-	*-
+!!!role-singer: Narrator, Carolers
+!!!role-listener: Lord's Daughter, Maiden, Jesus
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Hej nam hej! nadobna panienka w okienku siadała, hej nam hej!
+!!„	„	„ - w okienku siadała — złotem wyszywała „		„	„
+!!„	„	„  co złotem wyszyje — jejmości daruje „	„	„
+!!„	„	„ a jejmość jéj za to — trzewiki na lato„	„	„
+!!Potem jejmość daje pończoszki, podwiązki gorsety, ciasnoszkę,
+!!zapaskę (fartuch), korale, grzebyczek; owo zgoła całe ubranie:
+!!Hej nam hej! nadobna panienko — mas ci tego dosyć hej nam hej!
+!!„	„	„ jeno pana Boga — o zdrowicko prosić„	„	„
+!!„	„	„ pana Boga — i najświętszéj panny„	„	„
+!!„	„	„ zeby ci się dostał — parobecek ładny„	„	„
+!!„	„	„ my cię tez prosiemy o gorzałki flaszkę„	„	„
+!!„	„	„ o gorzałki flaskę, orzechów zapaskę„	„	„
+!!„	„	„ Tobie Jezu chwała na wysokiéj górze„	„	„
+!!„	„	„ i nam ludziom chwała na jedwabnem śnurze”
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=260 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 232} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 232}
 !!!page: 232
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-28

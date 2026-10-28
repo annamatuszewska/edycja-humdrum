@@ -3,76 +3,85 @@
 !!!source: DWOK05
 !!!id: K0001
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16b
-8dd
-8dd
-=2
-16dd
-16dd
-8b
-8g
-=3
-16ee
-16ee
-8gg
-8ee
-=4
-4.dd
-=5
-16ee
-16ee
-8gg
-8ee
-=6
-4.dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	W_dzień
+16b	Bożego
+8dd	.
+8dd	.
+=2	=2
+16dd	Narodzenia
+16dd	.
+8b	.
+8g	.
+=3	=3
+16ee	we-
+16ee	-se-
+8gg	-li
+8ee	lu-
+=4	=4
+4.dd	-dzie,
+=5	=5
+16ee	błogo
+16ee	.
+8gg	im
+8ee	bę-
+=6	=6
+4.dd}	-dzie.
 !!LO:LB:g=esac
-=7
-{16cc
-16ee
-8ee
-8cc
-=8
-16dd
-16dd
-8dd
-8b
-=9
-16a
-16a
-8cc
-8ee
-=10
-4.dd}
+=7	=7
+{16cc	Chwałę
+16ee	.
+8ee	Bogu
+8cc	.
+=8	=8
+16dd	wyśpiewują,
+16dd	.
+8dd	.
+8b	.
+=9	=9
+16a\	wesoło
+16a\	.
+8cc	.
+8ee	wsę-
+=10	=10
+4.dd}	-dzie,
 !!LO:LB:g=esac
-=11
-{16cc
-16ee
-8ee
-8cc
-=12
-16b
-16dd
-8dd
-8b
-=13
-16a
-16a
-8cc
-8a
-=14
-4g}
-8r
-==
-*-
+=11	=11
+{16cc	chwałę
+16ee	.
+8ee	Bogu
+8cc	.
+=12	=12
+16b	wyśpiewują,
+16dd	.
+8dd	.
+8b	.
+=13	=13
+16a\	wesoło
+16a\	.
+8cc	.
+8a\	wsę-
+=14	=14
+4g}	-dzie.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Caroler
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!W dzień Bożego Narodzenia weseli ludzie, błogo im będzie.
+!!Chwałę Bogu wyśpiewują, wesoło wsędzie,
+!!chwałę Bogu wyśpiewują, wesoło wsędzie.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=222 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 194} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 194}
 !!!page: 194
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-28

@@ -3,63 +3,91 @@
 !!!source: DWOK05
 !!!id: K0026
 !!!signature: 0502600010
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M2/4
-=1
-{8.dd
-16cc#
-8dd
-16cc#
-16b
-=2
-8a
-16cc#
-16b
-8a
-16b
-16cc#
-=3
-8.dd
-16ee
-8ff#
-16dd
-16b
-=4
-8a
-16cc#
-16b
-4a}
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M2/4	*
+=1	=1
+{8.ddL	Nie
+16cc#J	.
+8dd	chwal
+16cc#L	się
+16bJ	.
+=2	=2
+8a\	tak
+16cc#L	mój
+16bJ	.
+8a\	bracie,
+16bL	.
+16cc#J	.
+=3	=3
+8.dd	bo
+16ee	nie
+8ff#	saper
+16ddL	.
+16bJ	.
+=4	=4
+8aL	który,
+16cc#	.
+16bJ	.
+4a}	.
 !!LO:LB:g=esac
-=5
-{8.g
-16a
-8b
-16g
-16e
-=6
-8d
-8f#
-8d
-8f#
-=7
-8.g
-16a
-8b
-16g
-16e
-=8
-8d
-16f#
-16e
-4d}
-==
-*-
+=5	=5
+{8.gL	ale
+16aJ	.
+8b/	ułan
+16gL	.
+16eJ	.
+=6	=6
+8d	zdo-
+8f#	.
+8d	-był,
+8f#	.
+=7	=7
+8.g	w
+16a	Hiszpanii
+8b	.
+16gL	.
+16eJ	.
+=8	=8
+8dL	góry.
+16f#	.
+16eJ	.
+4d}	.
+==	==
+*-	*-
+!!!role-singer: Uhlan, Saper
+!!!role-listener: Saper, Uhlan
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Ułan Nie chwal się tak mój bracie,
+!!bo nie saper który,
+!!ale ułan zdobywał,
+!!w Hiszpanii góry.
+!!Saper. Nie chwal się z twemi góry tak bardzo radośnie,
+!!bo ułanów nie było, aż gdzie pieprz rośnie.
+!!Myśmy się bili z czarnemi murzyny,
+!!gdyś siedział na kwaterze koło dziewczyny.
+!!Ułan. Ha! straszny gniew mię bierze, dobywaj pałasza,
+!!zobaczemy która lepsza, czy nasza czy wasza.
+!!Saper Zaraz ci to pokażę, bo się nie ustraszę,
+!!znam kartacze ogniste, znam téż i pałasze.
+!!Zginiesz za twą zuchwałość, pokażę ci zaras,
+!!jak saper za swój honor potrafi ukarać.
+!!Oficer (wchodzi). Co się to ma znaczyć? dość hałasu tego!
+!!chcecie się bić przy szopie, nie dozwolę tego.
+!!Czy was poddmuchnął jaki duch nieczysty?
+!!nie warciście nazwiska wcale legionisty.
+!!Marsz na odwach, wiarusy! trzeba kary użyć,
+!!żołnierz powinien szablą dla swéj ziemi służyć.
+!!@@END: VERSES
 !!!ONB: Część wokalna. Modulacja: t. 1-4 tonika A; t. 5-8 tonika D
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=248 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 220} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 220}
 !!!page: 220
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-28

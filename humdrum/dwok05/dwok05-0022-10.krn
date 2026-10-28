@@ -3,47 +3,137 @@
 !!!source: DWOK05
 !!!id: K0022
 !!!signature: 0502200010
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8g
-8b
-8b
-8cc
-=2
-8dd
-8dd
-8ee
-8ee
-=3
-8dd
-8dd
-8ee
-8ee}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8g	Albośmy
+16bL	.
+16gJ	.
+8b	.
+8cc	to
+=2	=2
+8dd	jacy
+8dd	.
+8ee	tacy,
+8ee	.
+=3	=3
+8dd	to
+8dd	jacy
+8ee	.
+8ee}	tacy,
 !!LO:LB:g=esac
-=4
-{8dd
-8cc
-4a
-=5
-8cc
-4dd
-8b
-=6
-8dd
-8cc
-4a
-=7
-8a
-4b
-8g}
-==
-*-
+=4	=4
+{8dd	.
+8cc	chłopcy
+4a	.
+=5	=5
+8cc	krakowiacy,
+4dd	.
+8b	.
+=6	=6
+8dd	.
+8cc	chłopcy
+4a	.
+=7	=7
+8a	krakowiacy.
+4b/	.
+8g}	.
+==	==
+*-	*-
+!!!role-singer: Bachelors from Kraków
+!!!role-listener: Maiden
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1 Albośmy to jacy tacy
+!!chłopcy krakowiacy,
+!!czerwona czapeczka,
+!!na cal podkóweczka,
+!!niebieska sukmana,
+!!hejże ino dana!
+!!@VERSE:
+!!2 I pasiczek z białéj skóry,
+!!rzemyczkami wyszywany,
+!!goździkami nabijany,
+!!z kółeczkami, sprzążeczkami,
+!!do kolusineczka,
+!!moja kochaneczka.
+!!@VERSE:
+!!3 I koziczek wyostrzony,
+!!i do pochewki włożony,
+!!i fajeczka i krzesiwko,
+!!kochajże mnie moja dziewko
+!!do kolusieneczka,
+!!moja kochaneczka,
+!!@VERSE:
+!!4 I koszulka z kołnierzykiem,
+!!z galonkami, obszewkami,
+!!spineczkami, z fałdeczkami,
+!!do kolusineczka,
+!!moja kochaneczka.
+!!@VERSE:
+!!5 I buciki wywracane,
+!!cholewkami odwracane,
+!!w podkuweczki nitowane,
+!!z uszeczkami, przeszywane,
+!!do kolusineczka,
+!!moja kochaneczka.
+!!@VERSE:
+!!6 I pieniądze za przysiewki,
+!!kochajcież mię moje dziewki.
+!!A która mię będzie chciała,
+!!to to wszystko będzie miała,
+!!i krakowski wianek,
+!!i złoty pierścionek.
+!!@VERSE:
+!!7 Pierścioneczek z matką Boską,
+!!cudotwórną, Częstochowską;
+!!i mentalik z Kalwaryi
+!!i wstązeckę z Lubernii
+!!do kolusineczka,
+!!moja kochaneczka.
+!!@VERSE:
+!!8 Ale nie wiem którą kocham,
+!!czyli Kaśke, czyli Baśkę,
+!!czyli Józkę, czy Urszulę,
+!!czy Marynę, czy Kordulę,
+!!do kolusineczka
+!!moja kochaneczka.
+!!@VERSE:
+!!9 Za Baśką mie dają krowę,
+!!i gospodarstwa połowę
+!!mówią mi sąsiedzi:
+!!daj na zapowiedzi.
+!!@VERSE:
+!!10 Pojąłbym téż i Urszule
+!!co mi dała na koszule,
+!!ale że jest płocha,
+!!bo każdego kocha,
+!!@VERSE:
+!!11 Zeniłbym się z Rozaliją
+!!co sprawiła karazyją,
+!!lecz szpetna dziewczyna,
+!!i ta jest przyczyna.
+!!@VERSE:
+!!12 Hej ty drabie muzykancie,
+!!zagraj-że mi należycie,
+!!— a jak się zbogacę
+!!dobrze ci zapłacę,
+!!za ucho pałeczką,
+!!moja kochaneczko!
+!!@VERSE:
+!!(krzyczy)
+!!Hojże ino Basiu łysa,
+!!nie będziesz ty, będzie inza.
+!!(odchodzą).
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=245 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 217} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 217}
 !!!page: 217
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-28

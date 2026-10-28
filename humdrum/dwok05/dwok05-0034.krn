@@ -3,60 +3,89 @@
 !!!source: DWOK05
 !!!id: K0034
 !!!signature:
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M2/4
-=1
-{8a
-8cc#
-4ee
-=2
-16dd
-16ff#
-16dd
-16b
-8cc#
-8a
-=3
-16cc#
-16cc#
-16a
-16a
-8b
-8g#
-=4
-8e
-8g#
-4a}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M2/4	*
+=1	=1
+{8a\	Hej
+8cc#	nam
+4ee	hej,
+=2	=2
+16dd	cy
+16ff#	jest
+16dd	sam
+16b	pan
+8cc#	doma,
+8a	.
+=3	=3
+16cc#	cyli
+16cc#	.
+16a	jego
+16a	.
+8b	niéma
+8g#	.
+=4	=4
+8e	hej
+8g#	nam
+4a}	hej.
 !!LO:LB:g=esac
-=5
-{8a
-8cc#
-4ee
-=6
-16dd
-16ff#
-16dd
-16b
-8cc#
-8a
-=7
-16cc#
-16cc#
-16a
-16a
-8b
-8g#
-=8
-8e
-8g#
-4a}
-==
-*-
+=5	=5
+{8a\	Hej
+8cc#	nam
+4ee	hej,
+=6	=6
+16dd	cy
+16ff#	jest
+16dd	sam
+16b	pan
+8cc#	doma,
+8a	.
+=7	=7
+16cc#	cyli
+16cc#	.
+16a	jego
+16a	.
+8b	niéma
+8g#	.
+=8	=8
+8e	hej
+8g#	nam
+4a}	hej.
+==	==
+*-	*-
+!!!role-singer: Carolers, Lord
+!!!role-listener: Servants
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1 Hej nam hej!
+!!cy jest sam pan w doma,
+!!cyli jego niema.
+!!Hej nam hej.
+!!@VERSE:
+!!2 Niéma jego w doma,
+!!pojechał do króla,
+!!przyjechał od króla. Hej. i t. d.
+!!@VERSE:
+!!3 Zasiad w końcu stoła,
+!!suknia na nim sobolowa.
+!!@VERSE:
+!!4 Siągnął ci se do kiesenie
+!!i wyjał ci dwa cerwone,
+!!@VERSE:
+!!5 posunął je po stołowie
+!!po stołowie jaworowie:
+!!@VERSE:
+!!6 Wynieścież to kolędnikom
+!!tym to wielkim pracownikom
+!!hej nam hej! kolęda.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=259 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 231} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 231}
 !!!page: 231
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-28

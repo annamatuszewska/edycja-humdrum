@@ -3,56 +3,76 @@
 !!!source: DWOK05
 !!!id: K0075
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M4/4
-=1
-{4b
-4b
-4b
-4g
-=2
-4.a
-8b
-4cc
-4a
-=3
-4b
-4b
-4b
-4g
-=4
-4.a
-8a
-4b
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*met(c)	*
+=1	=1
+{4b	Dwa
+4b	pastyrze
+4b	.
+4g\	.
+=2	=2
+4.a\	razem
+8b	.
+4cc	przyśli,
+4a	.
+=3	=3
+4b	co
+4b	który
+4b	.
+4g	miał
+=4	=4
+4.a	to
+8a	przynieśli.
+4b/	.
+4g}	.
 !!LO:LB:g=esac
-=5
-{4b
-4b
-4b
-4b
-=6
-4.a
-8b
-4cc
-4a
-=7
-4b
-4b
-4b
-4g
-=8
-4.a
-8a
-4b
-4g}
-==
-*-
+=5	=5
+{4b	Dwa
+4b	pastyrze
+4b	.
+4b/	.
+=6	=6
+4.a\	razem
+8b	.
+4cc	przyśli,
+4a	.
+=7	=7
+4b	co
+4b	który
+4b	.
+4g	miał
+=8	=8
+4.a	to
+8a	przynieśli.
+4b/	.
+4g}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Shepherd
+!!!role-listener: God
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1 Dwa pastyrze razem przyśli,
+!!co który miał to przynieśli.
+!!Kuba spyrkę, Staszek nyrkę (bis).
+!!@VERSE:
+!!2 Przyjmij Boże od nas dary.
+!!Ja ci duszę ofiaruję,
+!!bom już stary (bis).
+!!W scenie IV (str. 214) Twardowski po kupnie soboli od żyda, dodaje jeszcze:
+!!Prawdę mówią starzy ludzie,
+!!kto ze żydem końca dojdzie,
+!!ten jak pies co siedzi w budzie,
+!!głupi przyszedł, - głupi pójdzie.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=388 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 360} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 360}
 !!!page: 360
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-28

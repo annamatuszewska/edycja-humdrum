@@ -3,60 +3,110 @@
 !!!source: DWOK05
 !!!id: K0033
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M4/4
-=1
-{4g
-8b
-8g
-4b
-4dd
-=2
-4cc
-4a
-2b
-=3
-4g
-8b
-8g
-4b
-4dd
-=4
-4cc
-4a
-2b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M4/4	*
+*met(c)	*
+=1	=1
+{4g	Pasłem
+8b	.
+8g	owiecki
+4b	.
+4dd	.
+=2	=2
+4cc	za
+4a	dworem,
+2b	.
+=3	=3
+4g	przysed
+8b	.
+8g	ci
+4b	wilcek
+4dd	.
+=4	=4
+4cc	psim
+4a	torem,
+2b}	.
 !!LO:LB:g=esac
-=5
-{4dd
-8dd
-8ee
-4cc
-8cc
-8ee
-=6
-8dd
-8dd
-8dd
-8b
-4a
-4f#
-=7
-4dd
-8b
-8cc
-4a
-8a
-8f#
-=8
-2g}
-2r
-==
-*-
+=5	=5
+{4dd	rozpłosył
+8dd	.
+8ee	.
+4cc	owiecki,
+8cc	.
+8ee	.
+=6	=6
+8dd	aż
+8dd	do
+8dd	stajenecki
+8b	.
+4a	.
+4f#	.
+=7	=7
+4dd	uciekły
+8b	.
+8cc	.
+4a	ucie-
+8aL	.
+8f#J\	.
+=8	=8
+2g}	-kły.
+2r	.
+==	==
+*-	*-
+!!!role-singer: Shepherd, Sheep, Narrator, wolf
+!!!role-listener: Holy Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1 Pasłem owiecki za dworem,
+!!przysed ci wilcek psim torem,
+!!rozpłosył owiecki,
+!!aż do stajenecki
+!!uciekły (bis)
+!!@VERSE:
+!!2 Przed panienką się skarzyły,
+!!ze ich wilcaski spłosyły,
+!!i nas niebozęta
+!!i nase jagnięta
+!!rozpłosył.
+!!@VERSE:
+!!3 Przysed ci wilcek do sopki,
+!!upad panience pod stopki,
+!!przysięgam zgrzesyłem,
+!!sto owiec dusiłem
+!!i więcy.
+!!@VERSE:
+!!4 Zadnyj owiecki nie rusę
+!!ino baranków wydusę,
+!!zeby nie becały
+!!nas nie turbowały
+!!już więcy.
+!!@VERSE:
+!!5 Posed ci wilcek po kweście,
+!!zesed sie z braćmi na moście;
+!!o zdrajco nie bracie,
+!!będzies ci w zapłacie
+!!brał kije.
+!!@VERSE:
+!!6 Kazali mu śpiewać rekwije,
+!!myślał że bedzie brał kije;
+!!porwał kijanice
+!!ubił mu zadnice
+!!już więcy.
+!!@VERSE:
+!!7 Złapali wilka na gnoju
+!!tam ci go bili do znoju;
+!!Owce zabiegały
+!!kijów dodawały
+!!na wilka.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=259 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 231} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 231}
 !!!page: 231
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-28

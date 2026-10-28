@@ -3,48 +3,72 @@
 !!!source: DWOK05
 !!!id: K0065
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{8cc
-8dd
-4ee
-=2
-8ff
-8dd
-4ee
-=3
-8cc
-8dd
-4ee
-=4
-8ff
-8dd
-4cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+=1	=1
+{8cc	A
+8dd	jakze
+4ee	.
+=2	=2
+8ff	mi
+8dd	się
+4ee	mas
+=3	=3
+8cc	mój
+8dd	panie
+4ee	.
+=4	=4
+8ff	zurowski
+8dd	.
+4cc}	.
 !!LO:LB:g=esac
-=5
-{8cc
-8dd
-4ee
-=6
-8ff
-8dd
-4gg
-=7
-8cc
-8dd
-4ee
-=8
-8ff
-8dd
-4cc}
-==
-*-
+=5	=5
+{8cc	a
+8dd	sprawię
+4ee	.
+=6	=6
+8ff	ja
+8dd	tobie
+4gg/	.
+=7	=7
+8cc	cerwone
+8dd	.
+4ee	.
+=8	=8
+8ff	pońcoski.
+8dd	.
+4cc}	.
+==	==
+*-	*-
+!!!role-singer: Cook
+!!!role-listener: Sour Rye Soup
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. A jakze mi się mas
+!!mój panie zurowski
+!!a sprawię ja tobie
+!!cerwone pońcoski.
+!!@VERSE:
+!!2 Cerwone pońcoski,
+!!zielone portecki —
+!!bedzies ci tańcował,
+!!mój panie Zurowski.
+!!Wiwat! wiwat! wiwat!
+!!@VERSE:
+!!3 Wstępna środa następuje,
+!!pani matka zur gotuje;
+!!a pan młody siedzi w dziurze,
+!!witaj, witaj panie Zurze!
+!!Wiwat! wiwat! wiwat!
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=299 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 271} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 271}
 !!!page: 271
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-28

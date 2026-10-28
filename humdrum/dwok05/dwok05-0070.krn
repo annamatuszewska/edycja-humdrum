@@ -3,81 +3,93 @@
 !!!source: DWOK05
 !!!id: K0070
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8dd
-8b
-8cc
-=2
-4dd
-16ee
-16dd
-=3
-8cc
-8a
-8b
-=4
-4cc
-16dd
-16cc}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+*	*^
+{8dd	Śliczna	W_szopie
+8b	.	.
+8cc	panienka	ubogiej
+=2	=2	=2
+4dd	.	.
+16eeL	.	.
+16ddJ	.	.
+=3	=3	=3
+8cc	jako	lubo
+8a\	.	.
+8b	jutrzenka,	mróz
+=4	=4	=4
+4cc	.	srogi,
+16ddL	.	.
+16ccJ}	.	.
 !!LO:LB:g=esac
-=5
-{8b
-8g
-8a
-=6
-4b
-8cc
-=7
-8dd
-8cc
-8b
-=8
-8b
-8a}
-8r
+=5	=5	=5
+{8b	zrodziła	w_żłobek
+8g	.	.
+8a	.	złożyła
+=6	=6	=6
+4b	syna,	.
+8cc	.	.
+=7	=7	=7
+8dd	dobra	Boskiego
+8cc	.	.
+8b	nowina	.
+=8	=8	=8
+8b	.	syna.
+8a}	.	.
+8r	.	.
+*	*v	*v
 !!LO:LB:g=esac
-=9
-{8g
-8dd
-8cc
-=10
-4b
-8a
-=11
-8g
-8dd
-8cc
-=12
-4b
-8a}
+=9	=9
+{8g	Wiwat
+8dd	.
+8cc	pan
+=10	=10
+4b	Jezus,
+8a	.
+=11	=11
+8g	wiwat
+8dd	.
+8cc	Ma-
+=12	=12
+4b	-ryja,
+8a}	.
 !!LO:LB:g=esac
-=13
-{8g
-16g
-16a
-16b
-16cc
-=14
-4dd
-16ee
-16dd
-=15
-8b
-8cc
-8a
-=16
-16a
-16g
-4g}
-==
-*-
+=13	=13
+{8g	wiwat
+16gL	.
+16aJ	.
+16bL	i
+16ccJ	.
+=14	=14
+4dd	Józef
+16eeL	.
+16ddJ	.
+=15	=15
+8b	cna
+8cc	kompanija.
+8a	.
+=16	=16
+16aL	.
+16gJ	.
+4g}	.
+==	==
+*-	*-
+!!!role-singer: Narrator/Caroler
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Śliczna panienka jako jutrzenka, zrodziła syna, dobra nowina
+!!Wiwat pan Jezus, wiwat Maryja, wiwat i Józef cna kompanija.
+!!W szopie ubogiej lubo mróz srogi, w żłobek złożyła Boskiego syna.
+!!Wiwat pan Jezus, wiwat Maryja, wiwat i Józef ona kompanija.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=386 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 358} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 358}
 !!!page: 358
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-28
