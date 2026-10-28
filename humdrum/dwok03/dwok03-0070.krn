@@ -3,105 +3,142 @@
 !!!source: DWOK03
 !!!id: K0070
 !!!signature: 0307000000
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M4/4
-=1
-{8b-
-8f
-8d
-8f
-4.b-
-8dd
-=2
-8cc
-8b-
-8a
-8g
-8g
-8f
-4f
-=3
-8f
-8a
-4cc
-8f
-8a
-4cc
-=4
-8cc
-8ee-
-8dd
-8cc
-8b-
-8a
-4b-}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M4/4	*
+*met(c)	*
+=1	=1
+{8b-/L	.
+8f	.
+8d	.
+8fJ	.
+4.b-	.
+8dd	.
+=2	=2
+8ccL	.
+8b-	.
+8a\	.
+8g\J	.
+8gL	.
+8fJ	.
+4f	.
+=3	=3
+8fL	.
+8aJ	.
+4cc	.
+8fL	.
+8aJ	.
+4cc	.
+=4	=4
+8ccL	.
+8ee-	.
+8dd	.
+8ccJ	.
+8b-L	.
+8a\J	.
+4b-}	.
 !!LO:LB:g=esac
-=5
-{4f
-4b-
-4.b-
-8dd
-=6
-8cc
-8b-
-8a
-8g
-8g
-8f
-4f
-=7
-8f
-8a
-8cc
-8cc
-8cc
-8dd
-8ee-
-8cc
-=8
-8a
-8f
-8g
-8a
-4b-
-4b-}
+=5	=5
+{4f\	Przy-
+4b-	-je-
+4.b-	-cha-
+8dd	-li
+=6	=6
+8cc	u-
+8b-	-za-
+8a	-ro-
+8g	-wie
+8gL	z_woj-
+8fJ	.
+4f	-ny,
+=7	=7
+8f	py-
+8a	-ta-
+8cc	-li
+8cc	się,
+8cc	py-
+8dd	-ta-
+8ee-	-li
+8cc	się
+=8	=8
+8a	go-
+8f	-spo-
+8g	-dy
+8a	spo-
+4b-	-kojny.
+4b-}	.
 !!LO:LB:g=esac
-=9
-{4dd
-8ff
-8dd
-4cc
-8ee-
-8cc
-=10
-4b-
-8dd
-8b-
-2f
-=11
-8b-
-8cc
-8dd
-8ee-
-8ff
-8gg
-8cc
-8ee-
-=12
-8dd
-8cc
-8b-
-8a
-4b-}
-4r
-==
-*-
-!!!ONB: W t. 12 dodano pauzę dla wyrównania długości taktu zgodnie z metrum. Tekst towarzyszy taktom 5-8
+=9	=9
+{4dd	.
+8ffL	.
+8ddJ	.
+4cc	.
+8ee-L	.
+8ccJ	.
+=10	=10
+!LO:TX:t=[segno]	!
+4b-	.
+8ddL	.
+8b-J	.
+2f	.
+=11	=11
+8b-L	.
+8cc	.
+8dd	.
+8ee-J	.
+8ffL	.
+8gg	.
+8cc	.
+8ee-J	.
+=12	=12
+8ddL	.
+8cc	.
+8b-	.
+8a\J	.
+8b-L	.
+8a\J	.
+!LO:TX:a:t=Przed kościołem (niekiedy przy opczepinach) (71)&colon;	!
+4b-}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Przyjechali uzarowie z wojny,
+!!i pytali się gospody spokojnéj.
+!!@VERSE:
+!!2. I naleźli gospodę spokojną,
+!!i pytają się o dziewczynę strojną.
+!!@VERSE:
+!!3. Czyście ij tam nie widzieli w polu,
+!!wybiera pszeniczkę z drobnego kąkolu.
+!!@VERSE:
+!!4. Widzieli'm, widzieli'm, na ij głowie wionek,
+!!ale się tak świecił jak Krakowski zamek,
+!!@VERSE:
+!!5. Trzebaby tam, trzeba, sto uzarów posłać,
+!!ażeby można tyj dziéwczyny dostać.
+!!@VERSE:
+!!6. Jedni by tam z matuchną godali,
+!!drudzy by córusię z sobą namawiali.
+!!@VERSE:
+!!7. Cóż my zrobicie?—choć me namówicie
+!!iżeli nie będzie sześć koni w karycie.
+!!@VERSE:
+!!8. Iżeli nie będzie lokaj w jaksamicie,
+!!iżeli nie będzie w pojeździe obicie.
+!!@VERSE:
+!!9. Iżeli nie będą panny do ubioru,
+!!iżeli nie będą układać papieru.
+!!@VERSE:
+!!10. iżeli nie będzie muzyka do grania,
+!!iżeli nie będą chłopcy do skakania.
+!!@@END: VERSES
+!!!role-singer: Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=310 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 298} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 298}
 !!!page: 298
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-26

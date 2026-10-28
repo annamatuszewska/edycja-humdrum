@@ -3,113 +3,81 @@
 !!!source: DWOK03
 !!!id: K0057
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16b
-8dd
-8ee
-=2
-16ee
-16dd
-8b
-8dd
-=3
-16cc
-16a
-8f#
-8a
-=4
-4g
-8g}
+**kern	**text	**text
+*clefG2	*	*
+*k[f#]	*	*
+*G:	*	*
+*M3/8	*	*
+=1	=1	=1
+!LO:TX:a:t=Drużbowie.	!	!
+{16g	Sie-	Wil-
+16b/	-dzi	-czy-
+8dd	wil-	-sko
+8ee	-czek	się
+=2	=2	=2
+16ee	na	o-
+16dd	gó-	-że-
+8b	-recz-	-ni-
+8dd	-ce,	-ło,
+=3	=3	=3
+8ddq	.	.
+16cc	o-	co
+16a	-go-	mu
+8f#	-neczkiem	po-
+8a\	.	-tém
+=4	=4	=4
+4g	ki-	by-
+8g}	-wa,	-ło.
 !!LO:LB:g=esac
-=5
-{16g
-16b
-8g
-8e
-=6
-16e
-16d
-8cc
-8a
-=7
-16g
-16b
-8g
-8e
-=8
-16d
-16d
-8cc
-8a
-=9
-16d
-16f#
-8a
-8a
-=10
-4g
-8g}
-!!LO:LB:g=esac
-=11
-{16g
-16b
-8dd
-8ee
-=12
-16ee
-16dd
-8b
-8dd
-=13
-16cc
-16a
-8f#
-8a
-=14
-4g
-8g}
-!!LO:LB:g=esac
-=15
-{16g
-16b
-8g
-8e
-=16
-16e
-16d
-8cc
-16a
-16b
-=17
-16g
-16b
-8g
-8e
-=18
-16d
-16d
-8cc
-16a
-16f#
-=19
-16d
-16f#
-8a
-16a
-16f#
-=20
-4g
-8g}
-==
-*-
+=5	=5	=5
+{16g	A	Pies
+16b/	trzebaby	się
+8g	.	obżar(ł)
+8e	.	.
+=6	=6	=6
+16e	go	cha-
+16d	o-	-ba-
+8cc	-że-	-ni-
+8a\	-nić,	-ny,
+=7	=7	=7
+16g	a	i
+16b/	trze-	po-
+8g	-ba-	-le-
+8e	-by	-ciał
+=8	=8	=8
+16d	go	do
+16d	od-	krzewi-
+8cc	-mie-	.
+8a\	-nić,	-ny,
+=9	=9	=9
+16d	bo	le-
+16f#	ła-	-dwo
+8a	-dna	co
+8a\	be-	nie
+=10	=10	=10
+4g	-sty-	sko-
+!LO:TX:a:t=gdy ją uprowadzą do komory dla zdjęcia wianka, druchny śpiewają (58)&colon;	!	!
+8g}	-ja.	-nał.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. Siedzi wilczek na góreczce,
+!!ogoneczkiem kiwa,
+!!A trzebaby go ożenić,
+!!a trzebaby go odmienić,
+!!bo ładna bestyja.
+!!@VERSE:
+!!2. Wilczysko się ożeniło,
+!!co mu potém było.
+!!Pies się obżar(ł) chabaniny,
+!!i poleciał do krzewiny,
+!!ledwo co nie skonał.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=304 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 292} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 292}
 !!!page: 292
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-25

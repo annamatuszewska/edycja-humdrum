@@ -3,76 +3,91 @@
 !!!source: DWOK03
 !!!id: K0090a
 !!!signature: 0309000010
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{2dd}
+**kern	**text	**text
+*clefG2	*	*
+*k[f#]	*	*
+*G:	*	*
+*M2/4	*	*
+=1	=1	=1
+!LO:TX:a:t=Andante.	!	!
+{2dd}	Hej!	.
 !!LO:LB:g=esac
-=2
-{8dd
-16dd
-16ee
-8.dd
-16g
-=3
-8cc
-16b
-16cc
-8.ee
-16dd
-=4
-[8b
-32b]
-32a
-32b
-32a
-16g
-8cc
-16b
-=5
-8a
-32g
-32f#
-32e
-32f#
-4d}
+=2	=2	=2
+{8dd	Po-	Przyjmij-
+16ddL	-ku-	.
+16eeJ	.	.
+8.dd	-lnij-	-że
+16g	-że	go
+=3	=3	=3
+8ccL	swój	pa-
+16b	.	.
+16ccJ	.	.
+8.eeL	wia-	-nie
+16ddJ	.	.
+=4	=4	=4
+[8b/L	-ny-	oj-
+32b]/	.	.
+32a	.	.
+32b/	.	.
+32aJ	.	.
+16g	-szek	-cze
+8.cc/L	po	do
+16b/J	.	.
+=5	=5	=5
+(8aL	sto-	sie-
+32g)	.	.
+32f#	.	.
+32e	.	.
+32f#J	.	.
+4d};	-le,	-bie.
 !!LO:LB:g=esac
-=6
-{8d
-16d
-32e
-32f#
-8.g
-16d
-=7
-8cc
-16b
-16cc
-8ee
-8dd
-=
-8b
-16b
-16a
-[8g
-48g]
-48a
-48b
-48a
-48g
-=8
-[8e
-32e]
-16.f#
-4d}
-==
-*-
+=6	=6	=6
+{8d	u-	Nie-
+16dL	-pa-	-przyj-
+32e	.	.
+32f#J	.	.
+8.g	-dnie	-mę
+16d	ón	go
+=7	=7	=7
+8ccL	me-	cór-
+16b	.	.
+16ccJ	.	.
+8eeL	-mu	-ko
+8ddJ	.	.
+=8	=8	=8
+8b	oj-	mo-
+8ccq	.	.
+16b	.	.
+16a\J	.	.
+[(>8gL	-cu	-ja,
+20g]	.	.
+20a	.	.
+20b/	.	.
+20aJ)	.	.
+32g	na	i
+=9	=9	=9
+[8eL	ło-	cie-
+32e]	.	.
+16.f#J	.	.
+4d}	-nie.	-bie.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. Hej!
+!!Pokulnijże swój wianyszek po stole,
+!!upadnie ón memu ojcu na łonie.
+!!@VERSE:
+!!2. Przyjmijże go panie ojcze do siebie.
+!!Nieprzyjmę go córko moja, i ciebie.
+!!@@END: VERSES
+!!!role-singer: Many characters
+!!!singer-sex: Female, Male
+!!!RDF**kern: >= above
 !!!ONB: Część wokalna. U Kolberga adnotacja: ob. Nr. 37. 40. Oznaczenie tempa "Andante". W takcie 4 u Kolberga błędny zapis rytmiczny: __^2321__4__3_
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=321 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 309} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 309}
 !!!page: 309
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-28

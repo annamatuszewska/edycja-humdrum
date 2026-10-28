@@ -3,55 +3,64 @@
 !!!source: DWOK03
 !!!id: K0107a
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16cc
-16a
-8cc
-8ee
-=2
-16dd
-16cc
-16b
-16a
-8g
-=3
-16cc
-16b
-8cc
-8dd
-=4
-8ee
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16cc	A-
+16a\	-ni
+8cc	me
+8ee	tu
+=2	=2
+16dd	nie
+16cc	za-
+16bL	-bi-
+16a\J	.
+8g	-ją,
+=3	=3
+16cc	a-
+16b	-ni
+8cc	me
+8dd	tu
+=4	=4
+8ee	ze-
+4g}	-tną,
 !!LO:LB:g=esac
-=5
-{16cc
-16a
-8cc
-8ee
-=6
-16dd
-16cc
-16b
-16a
-8g
-=7
-16a
-16b
-8cc
-8a
-=8
-8a
-4g}
-==
-*-
+=5	=5
+{16cc	a-
+16a\	-ni
+8cc	me
+8ee	tu
+=6	=6
+16dd	nie
+16cc	wy-
+16b/L	-pę-
+16aJ	.
+8g	-dzi
+=7	=7
+16a\	sta-
+16b	-ra
+8cc	ba-
+8a	-ba
+=8	=8
+8a	z_mietłą.
+4g}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Ani me tu nie zabiją,
+!!ani me tu zetną,
+!!ani me tu nie wypędzi
+!!stara baba z mietłą.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!ONB: Partia wokalna
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=332 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 320} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 320}
 !!!page: 320
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-28

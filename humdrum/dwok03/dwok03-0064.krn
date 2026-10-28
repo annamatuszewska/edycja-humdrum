@@ -3,54 +3,81 @@
 !!!source: DWOK03
 !!!id: K0064
 !!!signature:
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16a
-16g#
-8a
-8b
-=2
-8dd
-4ee
-=3
-16b
-16dd
-8ee
-16cc
-16b
-=4
-8a
-16g#
-16e}
-8r
+**kern	**text	**text
+*clefG2	*	*
+*k[]	*	*
+*a:	*	*
+*M3/8	*	*
+=1	=1	=1
+{16a	1._By-	2._Nie
+16g#	-ło	w_ko-
+8a	to	-ście-
+8b	nie	-le
+=2	=2	=2
+8dd	cho-	ja
+4ee	-dzić	go
+=3	=3	=3
+16b	bez	ma-
+16dd	bór	-tu-
+8ee	do	-lu
+16ccML	ko-	do-
+16bJ	.	.
+=4	=4	=4
+8a	-ścio-	-sta-
+!LO:TX:a:t=♮	!	!
+16g#L	-ła,	-ła,
+16e}J	.	.
+8r	.	.
 !!LO:LB:g=esac
-=5
-{16e
-16g#
-8a
-8b
-=6
-8dd
-4ee
-=7
-16e
-16g#
-8a
-16cc
-16b
-=8
-4a
-32a
-16g#}
-32r
-==
-*-
+=5	=5	=5
+{16e	by-	na
+16g#	-ło	zie-
+8a	by	-lo-
+8b	nie	-ny
+=6	=6	=6
+8dd	by-	łącz-
+4ee	-ło	-ce,
+=7	=7	=7
+16e	na	gdzie
+16g#	rę-	woł-
+8a	-ku	-ki
+16ccL	so-	pa-
+16bJ	.	.
+=8	=8	=8
+4a;	-ko-	-sa-
+32aL	-ła.	-ła.
+16g#J}	.	.
+32r	.	.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. Było to nie chodzić
+!!bez bór do kościoła,
+!!było by nie było
+!!na ręku sokoła.
+!!@VERSE:
+!!2. Nie w kościele ja go
+!!matulu dostała,
+!!na zielony łączce,
+!!gdzie wołki pasała.
+!!@VERSE:
+!!3. Trza było to pasać,
+!!ale wiedzieć jako;
+!!trza było odganiać,
+!!od Józia daleko.
+!!@VERSE:
+!!4. Trza było się radzić
+!!rozumu swojego,
+!!nie słuchać wołania
+!!da i nicyjégo.
+!!@@END: VERSES
+!!!role-singer: Mother, Doughter
+!!!role-listener: Mother, Doughter
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=307 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 295} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 295}
 !!!page: 295
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-26

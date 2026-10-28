@@ -3,126 +3,89 @@
 !!!source: DWOK03
 !!!id: K0101
 !!!signature:
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16a
-16b
-8cc
-8dd
-=2
-8ee
-4ee
-=3
-16b
-16dd
-8ee
-8b
-=4
-4a
-16g#
-16e}
+**kern	**text	**text
+*clefG2	*	*
+*k[]	*	*
+*a:	*	*
+*M3/8	*	*
+=1	=1	=1
+{16a\	A-	A
+16b	-że-	te-
+8cc	-by	-ro
+8dd	ja	ja
+=2	=2	=2
+8ee	by-	cho-
+8ffq	.	.
+4ee	-ła	-dzę
+=3	=3	=3
+16b	u	jak
+16dd	swéj	bioł-
+8ee	ma-	-na
+8b	-tki	le-
+=4	=4	=4
+4a	dłu-	-li-
+16g#L	-ży,	-ja,
+16e}J	.	.
 !!LO:LB:g=esac
-=5
-{16a
-16g#
-8a
-8b
-=6
-4dd
-8cc
-=7
-16b
-16g#
-8a
-16cc
-16b
-=8
-4a
-16g#
-16e}
+=5	=5	=5
+{16a	cho-	wyń-
+16g#	-dzi-	-dę
+8a	-ła-	na
+8b	-bym	po-
+=6	=6	=6
+4dd	so-	-le-
+8cc	-bie	-czko,
+=7	=7	=7
+16b	jak	to
+16g#	kwia-	wiatr
+8a	-ty-	mną
+16ccL	-szek	po-
+16bJ	.	.
+=8	=8	=8
+4a	ró-	-wi-
+16g#L	-ży,	-ja,
+16e}J	.	.
 !!LO:LB:g=esac
-=9
-{16a
-16g#
-8a
-8b
-=10
-4dd
-8ee
-=11
-16b
-16g#
-8a
-16cc
-16b
-=12
-4a
-8a}
-!!LO:LB:g=esac
-=13
-{16a
-16b
-8cc
-8dd
-=14
-8ee
-4ee
-=15
-16b
-16dd
-8ee
-16cc
-16b
-=16
-4a
-16g#
-16e}
-!!LO:LB:g=esac
-=17
-{16a
-16g#
-8a
-8b
-=18
-4dd
-16cc
-16a
-=19
-16b
-16g#
-8a
-16cc
-16b
-=20
-4a
-16g#
-16e}
-!!LO:LB:g=esac
-=21
-{16a
-16g#
-8a
-8b
-=22
-4dd
-8ee
-=23
-16b
-16g#
-8a
-16cc
-16b
-=24
-4a
-8a}
-==
-*-
+=9	=9	=9
+{16a	cho-	wyń-
+16g#	-dzi-	-dę
+8a	-ła-	na
+8b	-bym	po-
+=10	=10	=10
+4dd	so-	-le-
+8ee	-bie	-czko,
+=11	=11	=11
+16b	ja	to
+16g#	z	wiatr
+8a	kwia-	mną
+16ccL	-tyszek	po-
+16bJ	.	.
+=12	=12	=12
+4a	ró-	-wi-
+8a}	-ży.	-ja.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. Ażeby ja była
+!!u swéj matki dłuży,
+!!chodziłabym sobie
+!!jak kwiatyszek róży,
+!!chodziłabym sobie
+!!ja z kwiatyszek róży.
+!!@VERSE:
+!!2. A tero ja chodzę
+!!jak biołna lelija,
+!!wyńdę na poleczko,
+!!to wiatr mną powija,
+!!wyńdę na poleczko,
+!!to wiatr mną powija.
+!!@@END: VERSES
+!!!role-singer: Girl
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=329 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 317} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 317}
 !!!page: 317
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-28

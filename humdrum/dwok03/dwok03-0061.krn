@@ -3,80 +3,100 @@
 !!!source: DWOK03
 !!!id: K0061
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8d
-8f
-8g
-16a
-16b
-4cc
-=2
-8ee
-8ee
-8dd
-8dd
-4cc
-=3
-8ee
-8ee
-8dd
-8dd
-4cc}
+**kern	**text	**text
+*clefG2	*	*
+*k[]	*	*
+*C:	*	*
+*M3/4	*	*
+=1	=1	=1
+{8d	O-	Po-
+8f	-że-	-cho-
+8g	-ni-	-wa-
+16a\L	-łem	-łem
+16bJ	.	.
+4cc	się,	ją
+=2	=2	=2
+8ee	to	przy
+8ee	dzię-	świńskim
+8dd	-ka	.
+8eeq	.	.
+8dd	Bo-	pro-
+4cc	-gu,	-gu,
+=3	=3	=3
+8ee	to	przy
+8ee	dzię-	świńskim
+8dd	-ka	.
+8eeq	.	.
+8dd	Bo-	pro-
+4cc}	-gu,	-gu,
 !!LO:LB:g=esac
-=
-{8d
-8f
-8g
-16a
-16b
-12cc
-12b
-12a
-=4
-4g
-8e
-8d
-4c}
+=4	=4	=4
+{8d	po-	ka-
+8f	-jo-	-za-
+8g	-nem	-łem
+16aL	so-	za-
+16b/J	.	.
+!LO:TUP:a	!	!
+(12ccL	-bie	-grać
+12b	.	.
+12a\J)	.	.
+=5	=5	=5
+4g\	do-	na
+8e	-bre-	ko-
+8d	-go	-zim
+4c}\	chowu.	ro-gu.
 !!LO:LB:g=esac
-=5
-{8d
-8f
-8g
-8d
-8e
-8e
-=6
-8d
-16e
-16f
-8g
-8d
-4e}
+=6	=6	=6
+{8d	Do-	Gra-
+8f	-bre-	-li
+8g	-go	ij
+8d	cho-	w_i-
+8eL	-wu,	-zbie,
+8eJ	.	.
+=7	=7	=7
+8d	do-	gra-
+16eL	-bre-	-li
+16fJ	.	.
+8g	-go	ij
+8d	ro-	w_sie-
+4e}	-du;	-ni.
 !!LO:LB:g=esac
-=
-{8d
-16e
-16f
-8g
-16a
-16b
-12dd
-12cc
-12b
-=7
-4g
-8e
-8d
-4c}
-==
-*-
+=8	=8	=8
+{8d	nie	i
+16eL	chcia-	Bo-
+16fJ	.	.
+8g	-ła	-gu
+16aL	ro-	dzię-
+16b/J	.	.
+*Xtuplet	*	*
+12ddL	-bić,	-ka,
+12cc	.	.
+12bJ	.	.
+=9	=9	=9
+4g\	zdechła	ka-ci
+8e	od	ją
+8d	gło-	wzię-
+!LO:TX:a:t=Po okapinach (oczepinach) biorą ją mężatki i starsze kobiety kolejno do tańca. Taniec ten zowie się&colon; staroświecki Chodzony (Polski). (62)	!	!
+4c}	-du.	-ni.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. Ożeniłem się, to dzięka Bogu,
+!!pojonem sobie dobrego chowu.
+!!Dobrego chowu, dobrego rodu;
+!!nie chciała robić, zdechła od głodu.
+!!@VERSE:
+!!2. Pochowałem ją przy świńskim progu,
+!!kazałem zagrać na kozim rogu.
+!!Grali ij w izbie, grali ij w sieni.
+!!i Bogu dzięka, kaci ją wzięni.
+!!@@END: VERSES
+!!!role-singer: Husband
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=305 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 293-294} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), pp. 293-294}
 !!!page: 293-294
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-26

@@ -3,113 +3,144 @@
 !!!source: DWOK03
 !!!id: K0093b
 !!!signature: 0309300002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-32a
-32b
-8dd
-8dd
-=2
-16ee
-16ee
-8dd
-16cc
-32b
-32a
-=3
-16g
-32a
-32b
-8a
-16b
-16cc
-=4
-4g}
-8r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	1._Po-
+32aL	-có-
+32b/J	.
+8dd	-żeś
+8dd	me
+=2	=2
+16ee	ma-
+16ee	-tu-
+8dd	-liń-
+16cLc	-ku
+32b	.
+32a\J	.
+=3	=3
+16g	za
+32aL	mąż
+32b/J	.
+8a	wy-
+16bL	-da-
+16ccJ	.
+=4	=4
+4g}	-ła,
+8r	.
 !!LO:LB:g=esac
-=5
-{16g
-32a
-32b
-8dd
-8dd
-=6
-16ee
-16ee
-8dd
-32dd
-32cc
-32b
-32a
-=7
-16g
-32a
-32b
-8a
-16b
-16cc
-=8
-4g}
-8r
+=5	=5
+{16g	kie-
+32aL	-dym
+32b/J	.
+8dd	ja
+8dd	się
+=6	=6
+16ee	w_go-
+16ee	-spo-
+8dd	-dar-
+32ddL	-stwie
+32cc	.
+32b	.
+32a\J	.
+=7	=7
+16g	je-
+32aL	-szcze
+32b/J	.
+8a	nie
+16bL	zna-
+16ccJ	.
+=8	=8
+4g}	-ła.
+8r	.
 !!LO:LB:g=esac
-=9
-{16b
-16b
-8a
-8cc
-=10
-16g
-16a
-16dd
-16cc#
-16a
-16g
-=11
-16b
-16b
-8a
-8cc
-=12
-16g
-32a
-32b
-16dd
-16cc#
-16a
-32g
-32f#}
+=9	=9
+{16b	I
+16b	świa-
+8a\	-tu'm
+8cc	ci
+=10	=10
+16g	nie
+16a\	u-
+16dd/L	-ży-
+16cc#/J	.
+16aL	-ła
+16gJ	.
+=11	=11
+16b	mło-
+16b	-de
+8a\	la-
+8cc	-ta
+=12	=12
+16g	u-
+32aL	-tra-
+32b/J	.
+16dd/L	-ci-
+16cc#/J	.
+16a\	-ła
+32gL	.
+32f#J}	.
 !!LO:LB:g=esac
-=13
-{16g
-32a
-32b
-8a
-32a
-32b
-16cc
-=14
-4.g
-=15
-16b
-16b
-8a
-32g
-32a
-32b
-32cc
-=16
-4g}
-8r
-==
-*-
+=13	=13
+{16g\	ma-
+32a\L	-tu-
+32bJ	.
+8aL	-lu
+32a	mo-
+32b/	.
+16cc/J	.
+=14	=14
+4.g	-ja,
+=15	=15
+16b	ma-
+16b	-tu-
+8a	-lu
+32gL	mo-
+32a	.
+32b/	.
+32cc/J	.
+=16	=16
+4g}	-ja.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Pocóżeś me matulińku
+!!za mąż wydała,
+!!kiedym ja się w gospodarstwie
+!!jeszcze nie znała.
+!!I światu'm ci nie użyła
+!!młode lata utraciła
+!!matulu moja,
+!!matulu moja.
+!!@VERSE:
+!!2. Wszakżeście wy matulińku
+!!tego świadoma,
+!!że nie użyje świebody
+!!za mężem żona.
+!!Ino smutku i niewoli,
+!!od chłopotu głowa boli,
+!!matulu moja.
+!!@VERSE:
+!!3. Już wyjeżdżam matulińku
+!!z podwyrza twego,
+!!i łzy leję matulińku
+!!z serca szczyrnego.
+!!Już wyjeżdżam i szanuje,
+!!za wychówek wom dziękuje,
+!!matulu moja.
+!!@@END: VERSES
+!!!role-singer: Daughter
+!!!role-listener: Mother
+!!!singer-sex: Female
 !!!ONB: U Kolberga adnotacja: tekst ob. Nr. 136.
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=322 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 310} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 310}
 !!!page: 310
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-28

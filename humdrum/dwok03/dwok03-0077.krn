@@ -3,100 +3,123 @@
 !!!source: DWOK03
 !!!id: K0077
 !!!signature:
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{8a
-8b
-4cc
-4dd
-=2
-4ee
-2ee
-=
-8b
-8dd#
-4ee
-12dd
-12cc
-12b
-=3
-4a
-2g#}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+{8a\	Cho-
+8b	-dzi-
+4cc	-ła
+4dd	Ka-
+=2	=2
+4ee	-siu-
+(8gg#q	.
+2ee)	-la
+=3	=3
+8b	po
+8dd#	ty
+4ee	wiel-
+*Xtuplet	*
+12ddL	-kiéj
+12cc	.
+12bJ	.
+=4	=4
+4a\	gó-
+2g#}	-rze,
 !!LO:LB:g=esac
-=4
-{8a
-8g#
-4a
-4cc
-=5
-4.ee
-8dd#
-8b
-8g#
-=
-8e
-8g#
-4a
-12a
-12b
-12cc
-=
-4a
-12b
-12a
-12g#}
+=5	=5
+{8a	no-
+8g#	-si-
+4a	-ła
+4cc	wia-
+=6	=6
+(4.ee	-ny-
+8dd#)	.
+8b/L	-szek
+8g#J	.
+=7	=7
+8e	na
+8g#	nie-
+4a	-dwa-
+12aL	-bnym
+12b/	.
+12ccJ/	.
+=8	=8
+4a	sznu-
+*tuplet	*
+!LO:TUP:a	!
+(>12b/L	.
+12a	-rze.
+12g#)J}	.
 !!LO:LB:g=esac
-=6
-{8a
-8b
-4cc
-4dd
-=7
-4ee
-2ee
-=
-8b
-8dd#
-4ee
-12dd
-12cc
-12b
-=
-12a
-12b
-12a
-2g#}
+=9	=9
+{8a\	U-
+8b	-pu-
+4cc	-ści-
+4dd	-ła
+=10	=10
+4ee	ci
+(8gg#q	.
+2ee)	go
+=11	=11
+8b	na
+8dd#	o-
+4ee	-ra-
+*Xtuplet	*
+12ddL	-ny
+12cc	.
+12bJ	.
+=12	=12
+12aL	ro-
+12b/	.
+12aJ	.
+2g#}	-li,
 !!LO:LB:g=esac
-=8
-{8a
-8g#
-4a
-4cc
-=9
-4.ee
-8dd#
-8b
-8g#
-=
-8e
-8g#
-4a
-12a
-12b
-12cc
-=
-4a
-12b
-12a
-12g#}
-==
-*-
+=13	=13
+{8a	na-
+8g#	-loz(ł)
+4a	ci
+4cc	go
+=14	=14
+(4.ee	Ja-
+8dd#)	.
+8b/L	-sio
+8g#J	.
+=15	=15
+8e	i-
+8g#	-dą-
+4a	-cy
+12aL	z_nie-
+12b/	.
+12ccJ/	.
+=16	=16
+4a	-wo-
+*tuplet	*
+(>12b/L	-li.
+12a	.
+!LO:TX:a:t=Do oczepin (77)&colon;	!
+12g#J)}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Chodziła Kasiula
+!!po ty wielkiéj górze,
+!!nosiła wianyszek
+!!na niedwabnym sznurze.
+!!@VERSE:
+!!2. Upuściła ci go
+!!na orany roli,
+!!naloz(ł) ci go Jasio
+!!idący z niewoli.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!RDF**kern: >= above
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=315 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 303} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 303}
 !!!page: 303
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-28

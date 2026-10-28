@@ -3,49 +3,59 @@
 !!!source: DWOK03
 !!!id: K0073a
 !!!signature: 0307300010
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16f#
-8g
-8a
-=2
-4b
-8g
-=3
-16b
-16cc#
-8dd
-8dd
-=4
-8ee
-4d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Chło-
+16f#	-pa-
+8g	-lek,
+8a	chło-
+=2	=2
+4b	-pa-
+8g\	-lek,
+=3	=3
+16b	a
+16cc#	nie
+8dd	ru-
+8dd	-chaj
+=4	=4
+8ee	dwór-
+4d}	-ki,
 !!LO:LB:g=esac
-=5
-{16g
-16f#
-8g
-8a
-=6
-4b
-8g
-=7
-16e
-16e
-8e
-8cc
-=8
-8a
-4d}
-==
-*-
+=5	=5
+{16g	bo
+16f#	się
+8g	na-
+8a	-u-
+=6	=6
+4b	-czy-
+8g\	-ła
+=7	=7
+16e	wy-
+16e	-li-
+8e	-zać
+8cc	far-
+=8	=8
+8a\	-fur-
+4d}	-ki.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Chłopalek, chłopalek,
+!!a nie ruchaj dwórki,
+!!bo się nauczyła
+!!wylizać farfurki.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!role-listener: Lover
 !!!ONB: Partia wokalna
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=312 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 300} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 300}
 !!!page: 300
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-28

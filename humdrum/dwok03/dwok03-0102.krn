@@ -3,64 +3,78 @@
 !!!source: DWOK03
 !!!id: K0102
 !!!signature:
-**kern
-*clefG2
-*k[b-e-a-]
-*c:
-*M3/8
-=1
-{8dd
-8ee-
-8cc
-=2
-8b
-4g
-=3
-16cc
-16dd
-8ee-
-8ff#
-=4
-8gg
-4g}
+**kern	**text	**text
+*clefG2	*	*
+*k[b-e-a-]	*	*
+*c:	*	*
+*M3/8	*	*
+=1	=1	=1
+{8dd	A	I
+8ee-	prze-	na-
+8cc	-de	-pa-
+=2	=2	=2
+8b	dwo-	-sła
+4g	-rem	go,
+=3	=3	=3
+16cc	prze-	do
+16dd	-śli-	do-
+8ee-	-czna	-mu
+8ff#	mu-	go
+=4	=4	=4
+8gg	-ra-	gna-
+4g}	-wa	-ła,
 !!LO:LB:g=esac
-=5
-{8cc
-8cc
-8cc
-=6
-4b-
-16a-
-16g
-=7
-16f
-16g
-8a-
-8dd
-=8
-8cc
-4g}
+=5	=5	=5
+{8cc	pa-	i
+8cc	-sła	pięk-
+8cc	dzie-	-nie
+=6	=6	=6
+4b-	-wu-	śli-
+16a-L	-cha	-cznie
+16gJ	.	.
+=7	=7	=7
+16f	prze-	z_pa-
+16g	-śli-	-wiem
+8a-	-czne-	rozma-
+8dd	-go	.
+=8	=8	=8
+8cc	pa-	-wia-
+4g}	-wa.	-ła.
 !!LO:LB:g=esac
-=9
-{8cc
-8cc
-8cc
-=10
-4b-
-16a-
-16g
-=11
-16f
-16g
-8a-
-8dd
-=12
-8cc
-4g}
-==
-*-
+=9	=9	=9
+{8cc	pa-	i
+8cc	-sła	pięk-
+8cc	dzie-	-nie
+=10	=10	=10
+4b-	-wu-	śli-
+16a-L	-cha	-cznie
+16gJ	.	.
+=11	=11	=11
+16f	prze-	z_pa-
+16g	-śli-	-wiem
+8a-	-czne-	rozma-
+8dd	-go	-wia-
+=12	=12	=12
+8cc	pa-	-ła.
+4g}	-wa.	.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. A przede dworem
+!!prześliczna murawa
+!!pasła dziewucha
+!!prześlicznego pawa.
+!!@VERSE:
+!!2. I napasła go,
+!!do domu go gnała,
+!!i pięknie ślicznie
+!!z pawiem rozmawiała.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=330 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 318} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 318}
 !!!page: 318
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-28

@@ -3,78 +3,127 @@
 !!!source: DWOK03
 !!!id: K0054
 !!!signature:
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16e
-16e
-8dd
-8ee
-=2
-8.ee
-16dd
-16cc
-16b
-=3
-16dd
-16ee
-8b
-8g#
-=4
-8.a
-16b
-16dd
-16a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{16e	Wy-
+16e	-je-
+8dd	-cha-
+8ee	-łem
+=2	=2
+8.ee	na
+16dd	pó-
+16cc	-le-
+16b	-czko
+=3	=3
+16dd	je-
+16ee	-szcze
+8b	nie
+8g#	był
+=4	=4
+8.a	dzień
+16b	da
+16dd	bo
+16a}\	dzień
 !!LO:LB:g=esac
-=5
-{16b
-16cc
-8b
-8a
-=6
-16a
-16b
-8dd
-8ee
-=
-24ee
-24dd
-24a
-8b
-8g#
-=7
-8.a
-16b
-16dd
-16a
-=
-24b
-24dd
-24ee
-8b
-8g#
-=8
-8.a
-16b
-16dd
-16a}
+=5	=5
+{16b	na-
+16cc	-po-
+8b	-tkałem
+8a\	.
+=6	=6
+16a\	grzecną
+16b	.
+8dd	pannę
+8ee	.
+=7	=7
+*Xtuplet	*
+24eeL	o-
+24ddJ	.
+24a\	-na
+8b	py-
+8g#	-le
+=8	=8
+8.a	len
+16b	da
+16dd	bo
+16a	len,
+=9	=9
+*tuplet	*
+!LO:TUP:a	!
+(24bL	o-
+24ddJ	.
+24ee)	-na
+8b	py-
+8g#	-le
+=10	=10
+8.a	len
+16b	da
+16dd	bo
+16a}	len.
 !!LO:LB:g=esac
-=9
-{16.b
-32ee
-8b
-8g#
-=10
-8e
-8e
-8e}
-==
-*-
+=11	=11
+{16.bL	.
+32eeJ	.
+8b/L	.
+8g#J	.
+=12	=12
+8eL;	.
+8e	.
+8eJ}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Wyjechałem na póleczko
+!!jeszcze niebył dzień —
+!!napotkałem grzeczną pannę
+!!ona (piele) pyle len.
+!!@VERSE:
+!!2. Panu Bogu! grzeczna damo,
+!!byś chciała moją być.
+!!Da i cóż ci po mnie będzie,
+!!nie umiem robić.
+!!@VERSE:
+!!3. Oj boć to to nie roboto,
+!!coć ty pylesz len.
+!!Ledwo-c me też matulinka
+!!wniewoliła wyść.
+!!@VERSE:
+!!4. Da mom ci ja brzezineczkę
+!!przed swemi wroty,
+!!i toć ona cię nauczy
+!!różnéj roboty.
+!!@VERSE:
+!!5. Nie wiesz, nie wiesz kawalirze
+!!czy mom twoją być,
+!!a jużci me brzezineczką
+!!obiecujesz bić.
+!!@VERSE:
+!!6. Mnie tyż może Bóg spomoże
+!!młodym młodzieńcem,
+!!coć pojedzie sześcią końmi,
+!!rucianym wieńcem.
+!!@VERSE:
+!!7. Leć mi sługa bez to pólko
+!!leć że mi do ni,
+!!przynieś że mi nowineczkę
+!!czy mam być u ni?
+!!@VERSE:
+!!8. Niesę-ć ja ci nowineczkę
+!!niesę nic dobrą,
+!!że ci twoją panieneczkę
+!!do ślubu wiodą.
+!!@@END: VERSES
+!!!role-singer: Lover, Girl
+!!!role-listener: Girl, Lover
+!!!singer-sex: Male, Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=300 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 288} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 288}
 !!!page: 288
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-26

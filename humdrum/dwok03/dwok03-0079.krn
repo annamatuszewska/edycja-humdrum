@@ -3,85 +3,171 @@
 !!!source: DWOK03
 !!!id: K0079
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{8cc
-8b
-8cc
-8dd
-=2
-4ee
-16dd
-8.cc
-=3
-8ee
-8gg
-8ff#
-8aa
-=4
-4gg
-4g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+=1	=1
+{8cc	A
+8b	pod
+8cc	tą
+8dd	ja
+=2	=2
+4ee	bło-
+16ddL	-nią
+8.ccJ	.
+=3	=3
+8ee	sto-
+8gg	-i
+8ff#	koń
+8aa	ko-
+=4	=4
+4gg	-wa-
+4g}	-ny
 !!LO:LB:g=esac
-=5
-{8cc
-8b
-8cc
-8dd
-=6
-4.ee
-16dd
-16cc
-=7
-8a
-8a
-8a
-8ff
-=8
-4dd
-16b
-8.g}
+=5	=5
+{8cc	kto
+8b	na
+8cc	nim
+8dd	wy-
+=6	=6
+4.ee	-wi-
+16ddL	-ja?
+16ccJ	.
+=7	=7
+8a\	Jasieńko
+8a\	.
+8a\	.
+8ff	ko-
+=8	=8
+4dd	-cha-
+16b/L	-ny.
+8.g}J	.
 !!LO:LB:g=esac
-=9
-{16g
-8.b
-4cc
-=10
-4dd
-16b
-8.g
-=11
-8cc
-8b
-8cc
-8dd
-=12
-4ee
-4cc}
+=9	=9
+{16gL	.
+8.b/J	.
+4cc	.
+=10	=10
+4dd	.
+16b/L	.
+8.gJ	.
+=11	=11
+8ccL	.
+8b	.
+8cc	.
+8ddJ	.
+=12	=12
+4ee	.
+4cc}	.
 !!LO:LB:g=esac
-=13
-{8a
-8a
-8a
-8ff
-=14
-4dd
-16b
-8.g
-=15
-16g
-8.b
-4cc
-=16
-4dd
-4cc}
-==
-*-
+=13	=13
+{8aL	.
+8aJ	.
+8a\L	.
+8ffJ	.
+=14	=14
+4dd	.
+16b/L	.
+8.gJ	.
+=15	=15
+16gL	.
+8.b/J	.
+4cc	.
+=16	=16
+4dd	.
+!LO:TX:a:t=Gdy prowadzą z za stołu, po oczepinach (80)&colon;	!
+4cc}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A pod tą ja błonią
+!!stoi koń kowany
+!!kto na nim wywija?
+!!Jasieńko kochany.
+!!@VERSE:
+!!2. Wywija, wywija,
+!!drobne listy pisze,—
+!!nadobna matuchna
+!!dzieciątko kołysze.
+!!@VERSE:
+!!3. Kołysze, kołysze,
+!!i poczyna płakać:
+!!albo my wionek wróć,
+!!albo my go zapłać.
+!!@VERSE:
+!!4. Płacić go nie będe,
+!!wracać go nie myślę,
+!!siad'em na konika,
+!!pojadę za Wisłę.
+!!@VERSE:
+!!5. Jak téż i pojechał,
+!!tak téż nie przyjedzie;
+!!będe go płakała
+!!przy każdym objedzie.
+!!@VERSE:
+!!6. Przy każdym objedzie,
+!!przy każdy wieczerzy;
+!!spojrzę na łóżeczko,
+!!Jasio tam nie leży.
+!!@VERSE:
+!!7. Stojała w ogrodzie
+!!po kolana w wodzie,
+!!wygląda, wygląda,
+!!czy Jasio nie jedzie.
+!!@VERSE:
+!!8. A jedzie-ć on jedzie
+!!zielonym gościńcem;
+!!wywija chusteczką
+!!z lawendowym wieńcem.
+!!@VERSE:
+!!9. Porwanaś-ta Bogu
+!!i z tym twoim wieńcem.
+!!kiedym ja cię spotkał
+!!w komóreczce z jénszém.
+!!@VERSE:
+!!10. A mój ty Jasińku
+!!nie dziwuj się temu;
+!!boć się to przytrafi,
+!!i tobie samemu.
+!!@VERSE:
+!!11. Bo-ć się to przytrafi
+!!i pannie w pokoju,
+!!nie ino mnie samy
+!!chodzący po polu.
+!!@VERSE:
+!!12. Bo-ć się to przytrafi
+!!i pannie we złocie,
+!!nie ino mnie jedny
+!!ubogij sierocie.
+!!@VERSE:
+!!13. Bo-ć się to przytrafi
+!!i pannie w zakonie;
+!!nie ino mnie biednyj,
+!!pasający konie.
+!!@VERSE:
+!!14. A Jasiu mój, Jasiu,
+!!nie jedźże my tędy,
+!!bo byś my połomał
+!!rzędy u lawendy
+!!(lub rozmarynu grzędy.)
+!!@VERSE:
+!!15. Lawendę połamiesz,
+!!rozmaryn podepcesz,
+!!zdradziłeś mnie Jasiu,
+!!a teroz mnie nie chcesz.
+!!@VERSE:
+!!16. A jag'em cię zdradził,
+!!ożenić się muszę;
+!!widzi Bóg dalibóg,
+!!idzie my o duszę.
+!!@@END: VERSES
+!!!role-singer: Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=315 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 303} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 303}
 !!!page: 303
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-28

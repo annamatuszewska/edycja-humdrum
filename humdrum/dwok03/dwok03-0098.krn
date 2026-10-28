@@ -3,90 +3,109 @@
 !!!source: DWOK03
 !!!id: K0098
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16g
-16g
-8cc
-8cc
-=2
-16b
-16b
-8b
-8g
-=3
-16g
-16g
-4cc
-=4
-8b
-4g}
+**kern	**text	**text
+*clefG2	*	*
+*k[]	*	*
+*C:	*	*
+*M3/8	*	*
+=1	=1	=1
+{16g	A	Powiem
+16g	ty	.
+8cc	pta-	ja
+8cc	-szku	ci
+=2	=2	=2
+16b	kre-	no-
+16b	-gu-	-wi-
+8b	-la-	-ne-
+8g	-szku	-czkę
+=3	=3	=3
+16g	wy-	nie
+16g	-so-	bar-
+4cc	-ko	-dzo
+=4	=4	=4
+8b	la-	do-
+4g}	-tasz,	-brą,
 !!LO:LB:g=esac
-=
-{24g
-24b
-24dd
-8ff
-8ff
-=5
-16dd
-16dd
-8cc
-8cc
-=6
-16a
-16a
-4cc
-=7
-8b
-4g}
+=5	=5	=5
+{(24gL	po-	że
+24b/J	.	.
+24dd)	-wiedz	ci
+8ff	że	two-
+8ff	my	-ją
+=6	=6	=6
+16dd	no-	ko-
+16dd	-wi-	-cha-
+8cc	-neczkę	-neczkę
+8cc	.	.
+=7	=7	=7
+16a\	ja-	do
+16a\	-kąś	ślu-
+4cc	tam	-bu
+=8	=8	=8
+8b	sły-	wio-
+4g}	-chał.	-dą.
 !!LO:LB:g=esac
-=8
-{8g
-8cc
-8a
-=9
-8e
-8e
-8c
-=10
-16d
-16d
-4g
-=11
-16e
-16d
-8e
-8c}
+=9	=9	=9
+!LO:TX:a:t=Obój	!	!
+{8g\	.	.
+8ccL	.	.
+8a\J	.	.
+=10	=10	=10
+8eL	.	.
+8e	.	.
+8cJ	.	.
+=11	=11	=11
+16dL	.	.
+16dJ	.	.
+4g	.	.
+=12	=12	=12
+16eL	.	.
+16dJ	.	.
+8eL	.	.
+8c}J	.	.
 !!LO:LB:g=esac
-=
-{48g
-48a
-48b
-8cc
-16a
-16f
-=12
-8e
-8e
-8c
-=13
-16d
-16d
-4g
-=14
-16e
-16d
-8e
-8c}
-==
-*-
+=13	=13	=13
+*Xtuplet	*	*
+{48gL	.	.
+48a	.	.
+48b/J	.	.
+8cc	.	.
+16aL	.	.
+16fJ	.	.
+=14	=14	=14
+8eL	.	.
+8e	.	.
+8cJ	.	.
+=15	=15	=15
+16dL	.	.
+16dJ	.	.
+4g	.	.
+=16	=16	=16
+16eL	.	.
+16dJ	.	.
+8eL	.	.
+!LO:TX:a:t=W drodze z kościoła śpiewają (98)&colon;	!	!
+8c}J	.	.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. A ty ptaszku kregulaszku
+!!wysoko latasz,
+!!powiedz że my nowineczkę
+!!jakąś tam słychał.
+!!@VERSE:
+!!2. Powiem ja ci nowineczkę
+!!nie bardzo dobrą,
+!!że ci twoją kochaneczkę do
+!!ślubu wio
+!!@@END: VERSES
+!!!role-singer: Narrator, Man
+!!!role-listener: Man, Narrator
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=328 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 316} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 316}
 !!!page: 316
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-28

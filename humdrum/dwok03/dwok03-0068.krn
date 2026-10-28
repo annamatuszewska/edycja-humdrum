@@ -3,52 +3,66 @@
 !!!source: DWOK03
 !!!id: K0068
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*d:
-*M3/8
-=1
-{16dd
-16ee
-16ff
-16ee
-8dd
-=2
-16cc
-16b-
-8a
-8g
-=3
-16g
-16b
-8cc
-8a
-=4
-16dd
-16ee
-16ff
-16ee
-8dd}
+**kern	**text
+*clefG2	*
+*k[]	*
+*d:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Do rozplecin.	!
+{16dd	A
+*	*^
+16ee	za-	(zapłaczesz)
+16ffL	-lu-	.
+16eeJ	.	.
+*	*v	*v
+8dd	-tasz
+=2	=2
+16cc	mo-
+16b-	-ja
+8a	ma-
+8g	-ła,
+=3	=3
+16g	za-
+8aq	.
+16bn	-lu-
+8ccL	-tasz,
+8a\J	.
+=4	=4
+16dd	i-
+16ee	-no
+16ffL	pój-
+16eeJ	.
+8dd}	-dziesz
 !!LO:LB:g=esac
-=5
-{16cc
-16b-
-8a
-8g
-=6
-16g
-16b
-8cc
-8a
-=7
-4.d
-=8
-4.d}
-==
-*-
+=5	=5
+{16cc	z_Ja-
+16b-	-si-
+8a\	-neczkiem
+8g	.
+=6	=6
+16g	przed
+8aq	.
+16b	oł-
+8ccL	-tarz.
+8a\J	.
+=7	=7
+(4.d	Oh-
+=8	=8
+4.d)}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A zalutasz moja mała, zalutasz (zapłaczesz),
+!!ino pójdziesz z Jasineczkiem przed ołtarz.
+!!Oh
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!role-listener: Girl
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=309 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 297} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 297}
 !!!page: 297
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-26

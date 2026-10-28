@@ -3,93 +3,112 @@
 !!!source: DWOK03
 !!!id: K0092
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16cc
-16dd
-8ee
-8ee
-=2
-16ff
-16dd
-8.dd
-16cc
-=3
-16b
-16a
-8g
-8g
-=4
-4.ff}
+**kern	**text	**text
+*clefG2	*	*
+*k[]	*	*
+*C:	*	*
+*M3/8	*	*
+=1	=1	=1
+{16cc	We-	Cze-
+16dd	-so-	-mu
+8ee	-ły	ni-
+8ee	nam	-ma
+=2	=2	=2
+16ff	świat	być,
+16dd	dziewuchno,	dziewuchno,
+8.ddM	.	.
+16cc	.	.
+=3	=3	=3
+16b	we-	cze-
+16a\	-so-	-mu
+8g	-ły	ni-
+8g	nam	-ma
+=4	=4	=4
+4.ff}	świat,	być,
 !!LO:LB:g=esac
-=5
-{16cc
-16dd
-8.ee
-16gg
-=6
-16ff
-16ee
-8.dd
-16cc
-=7
-16b
-16a
-8g
-8g
-=8
-4.cc}
+=5	=5	=5
+{16cc	i-	za-
+16dd	-no	-wi-
+8.eem	my	-nie-
+16gg	się	-ma
+=6	=6	=6
+16ff	o-	rę-
+16ee	-że-	-ka-
+8.ddM	-nie-	-wi-
+16cc	-ma,	-ków
+=7	=7	=7
+16b	nie	bę-
+16a\	bę-	-dzie-
+8g	-dzie	-ma
+8g	nom	ro-
+=8	=8	=8
+4.cc}	tak.	-bić.
 !!LO:LB:g=esac
-=
-{24dd
-24ee-
-24ff#
-8gg
-8gg
-=
-24ff
-24ee-
-24cc
-8.dd
-16cc
-=9
-16b
-16a
-8g
-8g
-=10
-8ff
-16ff
-16ee
-8ff}
+=9	=9	=9
+*Xtuplet	*	*
+{24ddL	.	.
+24ee-	.	.
+24ff#J	.	.
+8ggL	.	.
+8ggJ	.	.
+=10	=10	=10
+24ffnL	.	.
+24ee-	.	.
+24ccJ	.	.
+8.ddmL	.	.
+16ccJ	.	.
+=11	=11	=11
+16b/L	.	.
+16aJ	.	.
+8g	.	.
+8g	.	.
+=12	=12	=12
+8eeq	.	.
+8ffL	.	.
+16ff	.	.
+16ee	.	.
+8ff}J	.	.
 !!LO:LB:g=esac
-=
-{24dd
-24ee-
-24ff#
-8gg
-8gg
-=11
-16ff
-16ee-
-8.dd
-16cc
-=12
-16b
-16a
-8g
-8g
-=13
-8dd
-4cc}
-==
-*-
+=13	=13	=13
+{24ddL	.	.
+24ee-	.	.
+24ff#J	.	.
+8ggL	.	.
+8ggJ	.	.
+=14	=14	=14
+16ffnL	.	.
+16ee-J	.	.
+8.ddL	.	.
+16ccJ	.	.
+=15	=15	=15
+16b/L	.	.
+16aJ	.	.
+8gL	.	.
+8gJ	.	.
+=16	=16	=16
+8dd	.	.
+!LO:TX:a:t=Kiedy nowozamężna wyjeżdża od matki swojéj do męża, śpiewają (93.)&colon;	!	!
+4cc}	.	.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. Wesoły nam świat dziewuchno,
+!!wesoły nam świat,
+!!ino my się ożeniema,
+!!nie będzie nom tak.
+!!@VERSE:
+!!2. Czemu nima być, dziewuchno,
+!!czemu nima być,
+!!zawiniema rękawików
+!!będziema robić.
+!!@@END: VERSES
+!!!role-singer: Groom
+!!!role-listener: Bride
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=322 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 310} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 310}
 !!!page: 310
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-28

@@ -3,374 +3,388 @@
 !!!source: DWOK03
 !!!id: K0087
 !!!signature:
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/8
-=1
-{16a
-16cc#
-8ee
-8ee
-=2
-4cc#
-8a
-=3
-16g#
-16b
-8dd
-8ff#
-=
-4b
-24b
-24a
-24g#}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M3/8	*
+=1	=1
+{16a	O-
+16cc#	-że-
+8ee	-nił
+8ee	się
+=2	=2
+4cc#	Ku-
+8a	-dła
+=3	=3
+16g#	wczo-
+16b	-raj
+8dd	do
+8ff#	po-
+=4	=4
+4b	-łu-
+*Xtuplet	*
+24b/L	-dnia,
+24a	.
+24g#}J	.
 !!LO:LB:g=esac
-=4
-{16f#
-16e#
-8f#
-8a
-=5
-8cc#
-8cc#
-8a
-=6
-16g#
-16a
-8b
-16cc#
-16dd
-=7
-4b
-16a
-16g#}
+=5	=5
+{16f#	po-
+16e#	-jął
+8f#	so-
+8a	-bie
+=6	=6
+8cc#	Ku-
+8cc#	-dli-
+8a	-ną
+=7	=7
+16g#	z_dziura-
+16a	.
+8b	-wą
+16cc#L	pie-
+16ddJ	.
+=8	=8
+4b	-rzy-
+16aL	-ną.
+16g#J}	.
 !!LO:LB:g=esac
-=8
-{16a
-16cc#
-8ee
-8ee
-=9
-4cc#
-8a
-=10
-16g#
-16b
-8dd
-8ff#
-=
-4b
-24b
-24a
-24g#}
+=9	=9
+{16a\	Co
+16cc#	się
+8ee	Ku-
+8ee	-dła
+=10	=10
+4cc#	ru-
+8a	-szy,
+=11	=11
+16g#	to
+16b	się
+8dd	pie-
+8ff#	-rze
+=12	=12
+4b	pru-
+24b/L	szy.
+24a	.
+24g#}J	.
 !!LO:LB:g=esac
-=11
-{16f#
-16e#
-8f#
-8a
-=12
-8cc#
-8cc#
-8a
-=13
-16g#
-16a
-8b
-16cc#
-16dd
-=14
-4b
-16a
-16g#}
+=13	=13
+{16f#	.
+16e#	.
+8f#	.
+8a	.
+=14	=14
+8cc#	.
+8cc#	.
+8a	.
+=15	=15
+16g#	.
+16a	.
+8b	.
+16cc#L	.
+16ddJ	.
+=16	=16
+4b	.
+16aL	.
+16g#J}	.
 !!LO:LB:g=esac
-=15
-{16a
-16cc#
-8ee
-8ee
-=16
-4cc#
-8a
-=17
-16a
-16cc#
-8ff#
-8ee
-=18
-4b
-8e}
+=17	=17
+{16a\L	.
+16cc#J	.
+8eeL	.
+8eeJ	.
+=18	=18
+4cc#	.
+8a\	.
+=19	=19
+16a\L	.
+16cc#J	.
+8ff#L	.
+8eeJ	.
+=20	=20
+4b	.
+8e}	.
 !!LO:LB:g=esac
-=19
-{16f#
-16g#
-8a
-8b
-=20
-16a
-16b
-8cc#
-8b
-=21
-16a
-16b
-8cc#
-8dd
-=22
-4b
-8e}
+=21	=21
+{16fL#	.
+16g#J	.
+8aL	.
+8b/J	.
+=22	=22
+16a\L	.
+16bJ	.
+8cc#L	.
+8bJ	.
+=23	=23
+16a\L	.
+16bJ	.
+8cc#L	.
+8ddJ	.
+=24	=24
+4b	.
+8e}	.
 !!LO:LB:g=esac
-=23
-{16a
-16cc#
-8ee
-8ee
-=24
-8cc#
-8cc#
-8a
-=25
-16g#
-16b
-8dd
-8ff#
-=26
-8b
-8b
-8g#}
+=25	=25
+{16a\L	.
+16cc#J	.
+8eeL	.
+8eeJ	.
+=26	=26
+8cc#L	.
+8cc#	.
+8a\J	.
+=27	=27
+16g#\L	.
+16bJ	.
+8ddL	.
+8ff#J	.
+=28	=28
+8b/L	.
+8b/	.
+8g#}J	.
 !!LO:LB:g=esac
-=27
-{16a
-16cc#
-8ee
-8ee
-=28
-16ee
-16ee
-8cc#
-8a
-=29
-16a
-16g#
-8b
-8dd
-=30
-16dd
-16ff#
-8b
-16b
-16g#}
+=29	=29
+{16a\L	.
+16cc#J	.
+8eeL	.
+8eeJ	.
+=30	=30
+16eeL	.
+16eeJ	.
+8cc#L	.
+8a\J	.
+=31	=31
+16aL	.
+16g#J	.
+8bL	.
+8ddJ	.
+=32	=32
+16ddL	.
+16ff#J	.
+8b/L	.
+16b/	.
+16g#J}	.
 !!LO:LB:g=esac
-=31
-{16a
-16cc#
-8ee
-8ee
-=32
-4cc#
-8a
-=33
-16g#
-16b
-8dd
-8ff#
-=
-4b
-24b
-24a
-24g#}
+=33	=33
+{16a\	.
+16cc#	.
+8ee	.
+8ee	.
+=34	=34
+4cc#	.
+8a	.
+=35	=35
+16g#	.
+16b	.
+8dd	.
+8ff#	.
+=36	=36
+4b	.
+24b/L	.
+24a	.
+24g#}J	.
 !!LO:LB:g=esac
-=34
-{16f#
-16e#
-8f#
-8a
-=35
-8cc#
-8cc#
-8a
-=36
-16g#
-16a
-8b
-16cc#
-16dd
-=37
-4b
-16a
-16g#}
+=37	=37
+{16f#	.
+16e#	.
+8f#	.
+8a	.
+=38	=38
+8cc#	.
+8cc#	.
+8a	.
+=39	=39
+16g#	.
+16a	.
+8b	.
+16cc#L	.
+16ddJ	.
+=40	=40
+4b	.
+16aL	.
+16g#J}	.
 !!LO:LB:g=esac
-=38
-{16a
-16cc#
-8ee
-8ee
-=39
-4cc#
-8a
-=40
-16g#
-16b
-8dd
-8ff#
-=
-4b
-24b
-24a
-24g#}
+=41	=41
+{16a\	.
+16cc#	.
+8ee	.
+8ee	.
+=42	=42
+4cc#	.
+8a\	.
+=43	=43
+16g#	.
+16b	.
+8dd	.
+8ff#	.
+=44	=44
+4b	.
+24b/L	.
+24a	.
+24g#}J	.
 !!LO:LB:g=esac
-=41
-{16f#
-16e#
-8f#
-8a
-=42
-8cc#
-8cc#
-8a
-=43
-16g#
-16a
-8b
-16cc#
-16dd
-=44
-4b
-16a
-16g#}
+=45	=45
+{16f#	.
+16e#	.
+8f#	.
+8a	.
+=46	=46
+8cc#	.
+8cc#	.
+8a	.
+=47	=47
+16g#	.
+16a	.
+8b	.
+16cc#L	.
+16ddJ	.
+=48	=48
+4b	.
+16aL	.
+16g#J}	.
 !!LO:LB:g=esac
-=45
-{16a
-16cc#
-8ee
-8ee
-=46
-4cc#
-8a
-=47
-16a
-16cc#
-8ff#
-8ee
-=48
-4b
-8e}
+=49	=49
+{16a\L	.
+16cc#J	.
+8eeL	.
+8eeJ	.
+=50	=50
+4cc#	.
+8a\	.
+=51	=51
+16a\L	.
+16cc#J	.
+8ff#L	.
+8eeJ	.
+=52	=52
+4b	.
+8e}	.
 !!LO:LB:g=esac
-=49
-{16f#
-16g#
-8a
-8b
-=50
-16a
-16b
-8cc#
-8b
-=51
-16a
-16b
-8cc#
-8dd
-=52
-4b
-8e}
+=53	=53
+{16fL#	.
+16g#J	.
+8aL	.
+8b/J	.
+=54	=54
+16a\L	.
+16bJ	.
+8cc#L	.
+8bJ	.
+=55	=55
+16a\L	.
+16bJ	.
+8cc#L	.
+8ddJ	.
+=56	=56
+4b	.
+8e}	.
 !!LO:LB:g=esac
-=53
-{16a
-16cc#
-8ee
-8ee
-=54
-8cc#
-8cc#
-8a
-=55
-16g#
-16b
-8dd
-8ff#
-=56
-8b
-8b
-8g#}
+=57	=57
+{16a\L	.
+16cc#J	.
+8eeL	.
+8eeJ	.
+=58	=58
+8ccL#	.
+8cc#	.
+8a\J	.
+=59	=59
+16g#\L	.
+16bJ	.
+8ddL	.
+8ff#J	.
+=60	=60
+8b/L	.
+8b/	.
+8g#/J}	.
 !!LO:LB:g=esac
-=57
-{16a
-16cc#
-8ee
-8ee
-=58
-16ee
-16ee
-8cc#
-8a
-=59
-16a
-16g#
-8b
-8dd
-=60
-16dd
-16ff#
-8b
-16b
-16g#}
+=61	=61
+{16a\L	.
+16cc#J	.
+8eeL	.
+8eeJ	.
+=62	=62
+16eeL	.
+16eeJ	.
+8cc#L	.
+8a\J	.
+=63	=63
+16aL	.
+16g#J	.
+8bL	.
+8ddJ	.
+=64	=64
+16ddL	.
+16ff#J	.
+8b/L	.
+16b/	.
+16g#J}	.
 !!LO:LB:g=esac
-=61
-{16e
-16g#
-16b
-16dd
-16ff#
-16b
-=62
-8ee
-16cc#
-16a
-16b
-16e
-=63
-16e
-16g#
-8b
-16b
-16g#
-=64
-8a
-8a
-8a}
+=65	=65
+{16eL	.
+16g#J	.
+16bL	.
+16dd	.
+16ff#	.
+16bJ	.
+=66	=66
+8eeL	.
+16cc#	.
+16a\J	.
+8cc#q	.
+16b/L	.
+16eJ	.
+=67	=67
+16eL	.
+16g#J	.
+8b	.
+16b/L	.
+16g#J	.
+=68	=68
+8aL	.
+8a^>	.
+8a}J	.
 !!LO:LB:g=esac
-=65
-{16e
-16g#
-16b
-16dd
-16ff#
-16b
-=66
-16dd
-16ee
-16cc#
-16a
-16b
-16e
-=67
-16e
-16g#
-16b
-16dd
-16b
-16g#
-=68
-8a
-8a
-8a}
-==
-*-
+=69	=69
+{16eL	.
+16g#/J	.
+16bL	.
+16dd	.
+16ff#	.
+16bJ	.
+=70	=70
+16ddL	.
+16eeJ	.
+16cc#L	.
+16a\J	.
+8cc#q	.
+16b/L	.
+16eJ	.
+=71	=71
+16eL	.
+16g#J	.
+16b/L	.
+16dd/J	.
+16b/L	.
+16g#J	.
+=72	=72
+8aL	.
+8a^>	.
+!LO:TX:a:t=Gdy się zbliżają z hukiem i strzelaniem ku kościołowi, skrzybek gra żwawiéj (88)&colon;	!
+8a}J	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Ożenił się Kudła
+!!wczoraj do południa,
+!!pojął sobie Kudliną
+!!z dziurawą pierzyną.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!RDF**kern: >= above
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=320 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 308} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 308}
 !!!page: 308
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-28

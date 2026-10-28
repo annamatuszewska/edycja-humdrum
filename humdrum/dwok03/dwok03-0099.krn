@@ -3,114 +3,128 @@
 !!!source: DWOK03
 !!!id: K0099
 !!!signature:
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=
-{24a
-24cc
-24ee
-16ff#
-16ee
-8dd#
-=1
-16ee
-32dd
-32cc
-8b
-8dd
-=
-24a
-24cc
-24ee
-16ff#
-16ee
-8dd#
-=2
-16dd
-32cc
-32b
-8a
-8g#}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+!LO:TUP:a	!
+{(24a\	Czy-
+24cc	-ja
+24ee)	ja
+16ff#L	te-
+16eeJ	.
+8dd#	-ro(z)
+=2	=2
+16eeL	da
+32ddn	.
+32ccJ	.
+8b	te-
+8dd	-raz,
+=3	=3
+!LO:TUP:a	!
+(24a\	czy-
+24cc	-ja
+24ee)	ja
+16ff#L	te-
+16eeJ	.
+8dd#	-ro(z)
+=4	=4
+16ddnL	da
+32cc	.
+32bJ	.
+8a	te-
+8g#}	-ro(z)?
 !!LO:LB:g=esac
-=3
-{8a
-8cc
-16cc
-16b
-=4
-16dd
-32cc
-32b
-8a
-8dd
-=5
-8a
-8cc
-16cc
-16ee
-=6
-16dd
-32cc
-32b
-8a
-8g#}
+=5	=5
+{8a	Ni
+8cc	oj-
+16cc	-co-
+16b	-wa
+=6	=6
+16dd	ni
+32ccL	mat-
+32bJ	.
+8a\	-czy-
+8dd	-na,
+=7	=7
+8a\	i-
+8cc	-noć
+16cc	te-
+16ee	-go
+=8	=8
+16dd	po-
+32cLc	-ga-
+32bJ	.
+8a	-ni-
+8g#}	-na.
 !!LO:LB:g=esac
-=
-{24a
-24cc
-24ee
-16ff#
-16ee
-8dd#
-=7
-16ee
-32dd
-32cc
-8b
-8dd
-=
-24a
-24cc
-24ee
-16ff#
-16ee
-8dd#
-=8
-16dd
-32cc
-32b
-8a
-8g#}
+=9	=9
+!LO:TUP:a	!
+{(24a\	Czy-
+24cc	-ja
+24ee)	ja
+16ff#L	te-
+16eeJ	.
+8dd#	-ro(z)
+=10	=10
+16eeL	da
+32ddn	.
+32ccJ	.
+8b	te-
+8dd	-raz,
+=11	=11
+!LO:TUP:a	!
+(24a\	czy-
+24cc	-ja
+24ee)	ja
+16ff#L	te-
+16eeJ	.
+8dd#	-ro(z)
+=12	=12
+16ddnL	da
+32cc	.
+32bJ	.
+8a	te-
+8g#}	-ro(z)?
 !!LO:LB:g=esac
-=9
-{8a
-8cc
-16cc
-16b
-=10
-16dd
-32cc
-32b
-8a
-8dd
-=11
-8ee
-8cc
-16cc
-16ee
-=12
-16dd
-32cc
-32b
-8a
-8g#}
-==
-*-
+=13	=13
+{8a	Ni
+8cc	oj-
+16cc	-co-
+16b	-wa
+=14	=14
+16dd	ni
+32ccL	mat-
+32bJ	.
+8a\	-czy-
+8dd	-na,
+=15	=15
+8ee/L	i-
+8cc/J	-noć
+16cc	te-
+16ee	-go
+=16	=16
+16dd	po-
+32cLc	-ga-
+32bJ	.
+8a	-ni-
+8g#}	-na.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Czyja ja tero(z) da teraz,
+!!czyja ja tero(z) da tero(z)?
+!!Ni ojcowa ni matczyna,
+!!inoć tego poganina.
+!!@@END: VERSES
+!!!role-singer: Bride
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=328 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 316} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 316}
 !!!page: 316
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-28

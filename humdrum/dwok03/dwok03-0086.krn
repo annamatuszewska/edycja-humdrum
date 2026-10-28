@@ -3,168 +3,188 @@
 !!!source: DWOK03
 !!!id: K0086
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M4/4
-=1
-{4cc
-8cc
-8cc
-4cc
-4cc
-=2
-8dd
-8cc
-8b
-8a
-8a
-8g
-4g
-=3
-4dd
-8dd
-8dd
-4.dd
-8cc
-=4
-8b
-8cc
-8dd
-8ee
-4ff
-8ee
-8dd}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M4/4	*
+*met(c)	*
+=1	=1
+!LO:TX:a:t=Marsz do kościoła, ze śpiewem druchen.	!
+{4cc	Śli-
+8cc	-czne
+8cc	go-
+4cc	-ździ-
+4cc	-ki,
+=2	=2
+8dd	pięk-
+8cc	-ne
+8b	tu-
+8a	-li-
+8aML	-pa-
+8gJ	.
+4g	-ny,
+=3	=3
+4dd	śli-
+8dd	-czne
+8dd	go-
+4.dd	-ździ-
+8cc	-ki,
+=4	=4
+8b	piękne
+8cc	.
+8dd	tu-
+8ee	-li-
+(4ff	-pa-
+8ee)	.
+8dd}	-ny,
 !!LO:LB:g=esac
-=5
-{4ee
-8ff
-8dd
-4.cc
-8g
-=6
-8a
-8a
-8b
-8b
-4cc
-4cc}
+=5	=5
+{4ee	gdzie
+8ff	my
+8dd	się
+4.cc	po-
+8g	-dział
+=6	=6
+8a	mój
+8a	mi-
+8b	-ły
+8b	kochany?
+4cc	.
+4cc}	.
 !!LO:LB:g=esac
-=7
-{4ee
-8gg
-8ee
-4dd
-4cc
-=8
-8b
-8cc
-8dd
-8ee
-4ff
-8ee
-8dd
-=9
-4ee
-8ff
-8dd
-4cc
-16cc
-16b
-16a
-16g
-=10
-8a
-8a
-8b
-8b
-4cc
-4cc}
+=7	=7
+{4ee	Czy
+8gg	mu
+8ee	go
+4dd	wzięni
+4cc	.
+=8	=8
+8b	zy-
+8cc	-gli-
+8dd	-rze
+8ee	za
+(4ff	mo-
+8ee)	.
+8dd	-rze,
+=9	=9
+4ee	co
+8ff	my
+8dd	się
+4cc	ser-
+16ccL	-ce
+16b	.
+16a\	.
+16g\J	.
+=10	=10
+8a\	u-
+8a\	-tu-
+8b	-lić
+8b	nie
+4cc	mo-
+4cc}	-że.
 !!LO:LB:g=esac
-=
-{8g
-8cc
-8cc
-8cc
-4cc
-12cc
-12dd
-12ee
-=11
-8dd
-8cc
-8b
-8a
-8a
-8g
-4g
-=12
-4dd
-8dd
-8dd
-4.dd
-8cc
-=13
-8b
-8cc
-8dd
-8ee
-4ff
-8ee
-8dd}
+=11	=11
+{8gL	Wy
+8cc/J	.
+8cc	sy-
+8cc	-na-
+4cc	-gru-
+*Xtuplet	*
+12cc/L	-lowie
+12dd/	.
+12ee/J	.
+=12	=12
+8dd	co
+8cc	gwiozdy
+8b	.
+8a	li-
+8aML	-czy-
+8gJ	.
+4g	-cie,
+=13	=13
+4dd	wy
+8dd	syna-
+8dd	-gru-
+4.dd	-lo-
+8cc	-wie
+=14	=14
+8b	co
+8cc	gwiozdy
+8dd	.
+8ee	li-
+(4ff	-czy-
+8ee)	.
+8dd}	-cie,
 !!LO:LB:g=esac
-=14
-{4ee
-8ff
-8dd
-4.cc
-8g
-=15
-8a
-8a
-8b
-8b
-4cc
-4cc}
+=15	=15
+{4ee	czy
+8ff	wy
+8dd	o
+4.cc	mo-
+8g	-jém
+=16	=16
+8a	ko-
+8a	-chanku
+8b	.
+8b	nie
+4cc	wicie?
+4cc}	.
 !!LO:LB:g=esac
-=16
-{8ee
-8cc
-8gg
-8ee
-8ee
-8dd
-8dd
-8cc
-=17
-8b
-8cc
-8dd
-8ee
-4ff
-8ee
-8dd
-=18
-4ee
-8ff
-8dd
-4cc
-16cc
-16b
-16a
-16g
-=19
-8a
-8a
-8b
-8b
-4cc
-4cc}
-==
-*-
+=17	=17
+{8eeL/	Wi-
+8cc/J	.
+8gg	-dzieliś-
+8ee	.
+8ee/L	-ma
+8dd/J	.
+8dd/L	go
+8cc/J	.
+=18	=18
+8b	w_smutku
+8cc	.
+8dd	i
+8ee	nie
+(4ff	mo-
+8ee)	.
+8dd	-cy,
+=19	=19
+4ee	wy-
+8ff	-cie-
+8dd	-rał
+4cc	chu-
+16ccL	-steczką
+16b	.
+16a\	.
+16g\J	.
+=20	=20
+8a\	za-
+8a\	-pła-
+8b	-ka-
+8b	-ne
+4cc	o-
+!LO:TX:a:t=Drużbowie (niekiedy także i swachy przy zdejmowaniu wianka w czasie oczepin) (87.)&colon;	!
+4cc}	-czy.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Śliczne goździki, piękne tulipany,
+!!śliczne goździki, piękne tulipany,
+!!gdzie my się podział mój miły kochany?
+!!Czy mu go wzięni zyglirze za morze,
+!!co my się serce utulić nie może.
+!!@VERSE:
+!!2. Wy synagrulowie co gwiozdy liczycie,
+!!wy synagrulowie co gwiozdy liczycie,
+!!czy wy o mojém kochanku nie wicie?
+!!Widzieliśma go w smutku i nie mocy,
+!!wycierał chusteczką zapłakane oczy.
+!!@@END: VERSES
+!!!role-singer: Girl, Group
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=319 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 307} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 307}
 !!!page: 307
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-28

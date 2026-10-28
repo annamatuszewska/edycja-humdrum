@@ -3,61 +3,93 @@
 !!!source: DWOK03
 !!!id: K0055
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M6/8
-=1
-{8d
-8f#
-8a
-4cc
-8f#
-=2
-8g
-8b
-8ee
-4dd
-8b
-=3
-8a
-8a
-8b
-4cc
-8a
-=4
-8g
-8b
-8a
-4g
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M6/8	*
+=1	=1
+{8d	Ja
+8f#	ja-
+8a	-dę
+4cc	dro-
+8f#	-gą
+=2	=2
+8g	dziewczyna
+8b	.
+8ee	.
+4dd	py-
+8b	-le
+=3	=3
+8a\	ja
+8a\	do
+8b	ni
+4cc	godom
+8a	.
+=4	=4
+8g	u-
+8b/	-na
+8a	się
+4g	śmieje.
+8g}	.
 !!LO:LB:g=esac
-=5
-{8ff
-8dd
-8b
-4cc
-8g
-=6
-4gg
-8b
-4cc
-8g
-=7
-8a
-8a
-8b
-4cc
-8g
-=8
-4ff
-8ee
-4.dd}
-==
-*-
+=5	=5
+*k[]	*
+!LO:TX:a:t=Skrzypce.	!
+{8ffL	.
+8dd	.
+8bJ	.
+4cc	.
+8g	.
+=6	=6
+4gg	.
+8b	.
+4cc	.
+8g	.
+=7	=7
+8a\L	.
+8a\	.
+8bJ	.
+4cc	.
+8g	.
+=8	=8
+4ff	.
+8ee	.
+4.dd}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Ja jadę drogą—dziewczyna pyle (piele)
+!!ja do ni godom—óna się śmieje.
+!!@VERSE:
+!!2. Moja dziewczyno—bądź żę mi rada,
+!!puszczę kónika—do twego sada.
+!!@VERSE:
+!!3. Można go puścić—ale niewiele
+!!bo mi podepcze—w ogródku ziele.
+!!@VERSE:
+!!4. Moja dziewczyno—gnóruj się dobrze
+!!niech nie gadają—ludzie o tobie.
+!!@VERSE:
+!!5. Gnórujęć ja się—jak mi się godzi,
+!!jedno na ręku—drugie mi chodzi.
+!!@VERSE:
+!!6. Moja dziewczyno—naucz się robić
+!!boć cię nieweźnie—żaden królewic.
+!!@VERSE:
+!!7. Ino cię weźnie—garbarczyk młody
+!!będziesz ciągnęła—skóry do wody.
+!!@VERSE:
+!!8. Skóry do wody—skóry od wody,
+!!będziesz płakało—swoij urody!
+!!@@END: VERSES
+!!!role-singer: Lover, Girl
+!!!role-listener: Girl, Lover
+!!!singer-sex: Male, Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=301 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 289} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 289}
 !!!page: 289
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-26

@@ -3,78 +3,89 @@
 !!!source: DWOK03
 !!!id: K0072
 !!!signature: 0307200000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16dd
-16ff
-8ee
-8cc
-=2
-8g
-16a
-[16g
-8g]
-=3
-16cc
-16ee
-8.gg
-16dd
-=4
-8ff
-4ee}
+**kern	**text
+*clefG2	*
+*k[]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16ddL	Pod
+16ffJ	.
+8ee	bo-
+8cc	-rem
+=2	=2
+8g	lip-
+16aL	-ka
+[16g	.
+8gJ]	.
+=3	=3
+16ccL	pod
+16eeJ	.
+8.gg	nią
+16dd	to-
+=4	=4
+8ff	-po-
+4ee}	-la,
 !!LO:LB:g=esac
-=5
-{16dd
-16gg
-8ee
-8cc
-=6
-16a
-16a
-8a
-8f
-=7
-8f
-8a
-8cc
-=8
-8dd
-16b
-[16g}
-8g]
+=5	=5
+{16dd	o-
+16gg	-żeń
+8ee	że
+8cc	się
+=6	=6
+16a	mój
+16a	Ja-
+8a\	-siń-
+8f	-ku,
+=7	=7
+8f\	kiej
+8a\	ci
+8cc	nie-
+=8	=8
+8dd	-wo-
+16b/L	-la.
+[16g}	.
+8gJ]	.
 !!LO:LB:g=esac
-=9
-{16dd
-16gg
-16ee
-16cc
-8cc
-=10
-16a
-16a
-16a
-16f
-8f
-=11
-16f
-16a
-16a
-16f
-16a
-16cc
-=12
-8dd
-16b
-[16g}
-8g]
-==
-*-
+=9	=9
+{16dd	o-
+16gg	-żeń
+16ee/L	że
+16cc/J	.
+8cc	się
+=10	=10
+16a	mój
+16a	Ja-
+16aL	-siń-
+16fJ	.
+8f	-ku,
+=11	=11
+16fL	kiej
+16aJ	.
+16aL	ci
+16f	.
+16a	.
+16cc/J	nie-
+=12	=12
+8dd	-wo-
+16b/L	-la.
+[16g}	.
+!LO:TX:a:t=W tańcu, po obiedzie (73)&colon;	!
+8g]J	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Pod borem lipka
+!!pod nią topola,
+!!ożeń że się mój Jasińku,
+!!kiej ci niewola.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!role-listener: Single Boy
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=312 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 300} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 300}
 !!!page: 300
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-28

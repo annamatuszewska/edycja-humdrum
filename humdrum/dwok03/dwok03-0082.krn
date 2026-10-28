@@ -3,206 +3,252 @@
 !!!source: DWOK03
 !!!id: K0082
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*e:
-*M3/8
-=1
-{16f#
-16a
-8b
-8cc#
-=2
-8dd
-4b
-=3
-16a
-16g
-8f#
-8e
-=4
-8f#
-4a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*e:	*
+*M3/8	*
+=1	=1
+{16f#	Nie
+16a	pój-
+8b	-dę
+8cc#	ja
+=2	=2
+8dd	na
+4b	mać,
+=3	=3
+16a	nie
+16g	dam
+8f#	się
+8e	na-
+=4	=4
+8f#	-ma-
+4a}	-wiać,
 !!LO:LB:g=esac
-=5
-{16e
-16f#
-8g
-8a
-=6
-4b
-8f#
-=7
-16a
-16b
-8a
-8g
-=8
-8g
-4f#}
+=5	=5
+{16e	bo
+16f#	mę-
+8g	-żo-
+8a	-ska
+=6	=6
+4b	ma-
+8f#	-tka,
+=7	=7
+16a	ka-
+16b/	-że
+8a	ra-
+8g	-no
+=8	=8
+8g	wstajać.
+4f#}	.
 !!LO:LB:g=esac
-=9
-{16e
-16e
-16e
-16d#
-16e
-16g
-=10
-16a
-16b
-16dd
-16ee
-16b
-32g
-32f#
-=11
-16e
-16d#
-16e
-16d#
-16e
-16g
-=12
-16a
-16b
-16cc
-16a
-16b
-32g
-32e}
+=9	=9
+!LO:TX:a:t=Skrzypce.	!
+{16eL	.
+16eJ	.
+16eL	.
+16d#	.
+16e	.
+16gJ	.
+=10	=10
+16a\L	.
+16b	.
+16dd	.
+16eeJ	.
+16b/L	.
+32g	.
+32f#J	.
+=11	=11
+16eL	.
+16d#J	.
+16eL	.
+16d#	.
+16e	.
+16gJ	.
+=12	=12
+16a\L	.
+16b	.
+16cc	.
+16a\J	.
+16b/L	.
+32g	.
+32eJ}	.
 !!LO:LB:g=esac
-=13
-{16a
-16a
-16a
-16g#
-16a
-16cc
-=14
-16dd
-16ee
-16gg
-16aa
-16ee
-32cc
-32b
-=15
-16a
-16g#
-16a
-16g#
-16a
-16cc
-=16
-16dd
-16ee
-16ff#
-16dd
-16ee
-32cc
-32a}
+=13	=13
+{16aL	.
+16aJ	.
+16aL	.
+16g#	.
+16a	.
+16cc/J	.
+=14	=14
+16ddL	.
+16ee	.
+16gg	.
+16aaJ	.
+16eeL	.
+32cc	.
+32bJ	.
+=15	=15
+16aL	.
+16g#J	.
+16aL	.
+16g#	.
+16a	.
+16cc/J	.
+=16	=16
+16ddL	.
+16ee	.
+16ff#	.
+16ddJ	.
+16eeL	.
+32cc	.
+32a}\J	.
 !!LO:LB:g=esac
-=17
-{16f#
-16a
-8b
-8cc#
-=18
-8dd
-4b
-=19
-16a
-16g
-8f#
-8e
-=20
-8f#
-4a}
+=17	=17
+{16f#	Boć
+16a	mę-
+8b	-żo-
+8cc#	-(w)skiéj
+=18	=18
+8dd	ma-
+4b	-tce
+=19	=19
+16a	ni-
+16g	-gdy
+8f#	nie
+8e	do-
+=20	=20
+8f#	-go-
+4a}	-dzi,
 !!LO:LB:g=esac
-=21
-{16e
-16f#
-8g
-8a
-=22
-4b
-8f#
-=23
-16a
-16b
-8a
-8g
-=24
-8g
-4f#}
+=21	=21
+{16e	choć-
+16f#	-by
+8g	ra-
+8a	-niuch-
+=22	=22
+4b	-no
+8f#	wstać,
+=23	=23
+16a	już
+16b/	po
+8a	i-
+8g	-zbie
+=24	=24
+8g	cho-
+4f#}	-dzi.
 !!LO:LB:g=esac
-=25
-{16e
-16e
-16e
-16d#
-16e
-16g
-=26
-16a
-16b
-16dd
-16ee
-16b
-32g
-32f#
-=27
-16e
-16d#
-16e
-16d#
-16e
-16g
-=28
-16a
-16b
-16cc
-16a
-16b
-32g
-32e}
+=25	=25
+!LO:TX:a:t=Skrzypce.	!
+{16eL	.
+16eJ	.
+16eL	.
+16d#	.
+16e	.
+16gJ	.
+=26	=26
+16a\L	.
+16b	.
+16dd	.
+16eeJ	.
+16b/L	.
+32g	.
+32f#J	.
+=27	=27
+16eL	.
+16d#J	.
+16eL	.
+16d#	.
+16e	.
+16gJ	.
+=28	=28
+16a\L	.
+16b	.
+16cc	.
+16a\J	.
+16b/L	.
+32g	.
+32eJ}	.
 !!LO:LB:g=esac
-=29
-{16a
-16a
-16a
-16g#
-16a
-16cc
-=30
-16dd
-16ee
-16gg
-16aa
-16ee
-32cc
-32b
-=31
-16a
-16g#
-16a
-16g#
-16a
-16cc
-=32
-16dd
-16ee
-16ff#
-16dd
-16ee
-32cc
-32a}
-==
-*-
+=29	=29
+{16aL	.
+16aJ	.
+16aL	.
+16g#	.
+16a	.
+16cc/J	.
+=30	=30
+16ddL	.
+16ee	.
+16gg	.
+16aaJ	.
+16eeL	.
+32cc	.
+32bJ	.
+=31	=31
+16aL	.
+16g#J	.
+16aL	.
+16g#	.
+16a	.
+16cc/J	.
+=32	=32
+16ddL	.
+16ee	.
+16ff#	.
+16ddJ	.
+16eeL	.
+32cc	.
+32a}\J	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Nie pójdę ja na mać,
+!!nie dam się namawiać,
+!!bo mężoska matka,
+!!każe rano wstajać.
+!!@VERSE:
+!!2. Boć mężo(w)skiéj matce
+!!nigdy nie dogodzi,
+!!choćby raniuchno wstać,
+!!już po izbie chodzi.
+!!@VERSE:
+!!3. A wstań-że synowa,
+!!bodaj-ś należała,
+!!wydój-że te krowy,
+!!coś ich nazganiała.
+!!@VERSE:
+!!4. A wstań-że synowa,
+!!trzeba się ustroić;
+!!są posażnie krowy,
+!!trzeba je wydoić.
+!!@VERSE:
+!!5. Nie trza my to było,
+!!posagu wymawiać,
+!!sirota'm ja była,
+!!nimioł my go chto dać.
+!!@VERSE:
+!!6. Kiedyś-ci wiedziała,
+!!żeś sirota była,
+!!nie trza-ć było chodzić
+!!za mojego syna.
+!!@VERSE:
+!!7. A bo-ć to i twój syn
+!!jaki wojewodzin,
+!!weźnie terbę i bicz,
+!!pójdzie dziady wodzić.
+!!@VERSE:
+!!8. I tyś-ci synowa
+!!nie wojewodzianka,
+!!pacześny (z paźdzjerzy) fartuszek,
+!!a zgrzebna odzianka (suknia).
+!!@@END: VERSES
+!!!role-singer: Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=317 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 305} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 305}
 !!!page: 305
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-28

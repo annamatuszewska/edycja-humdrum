@@ -3,85 +3,108 @@
 !!!source: DWOK03
 !!!id: K0104
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8dd
-8cc#
-8dd
-=2
-8ee
-4dd
-=3
-8a
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8dd	1._Cho-
+8cc#	-dzi-
+8dd	-ła
+=2	=2
+(8ee	Ka-
+4dd)	.
+=3	=3
+8a	-siu-
+4g}	-nia
 !!LO:LB:g=esac
-=4
-{8cc
-8b
-8a
-=5
-8dd
-4cc
-=6
-8b
-8a
-8g}
+=4	=4
+{8cc	po
+8b	zie-
+8a\	-lo-
+=5	=5
+(8dd	-ny
+4cc)	.
+=6	=6
+8b	gó-
+8aL	-rze,
+8gJ;}	.
 !!LO:LB:g=esac
-=7
-{8d
-8e
-8f#
-=8
-4g
-8d
-=9
-8e
-8f#
-8g}
+=7	=7
+{8d	no-
+8e	-si-
+8f#	-ła
+=8	=8
+(>4g	wia-
+8d)	.
+=9	=9
+8e	-ny-
+8f#L	-szek
+8g}J	.
 !!LO:LB:g=esac
-=10
-{8cc
-8b
-8a
-=11
-8dd
-4cc
-=12
-8b
-8a
-8g}
+=10	=10
+{8cc	na
+8b	jedwa-
+8a\	.
+=11	=11
+(8dd	-bnym
+4cc)	.
+=12	=12
+8b	sznu-
+8aL	-rze,
+8g}J;	.
 !!LO:LB:g=esac
-=13
-{8d
-8e
-8f#
-=14
-4g
-8d
-=15
-8e
-8f#
-8g}
+=13	=13
+{8d	no-
+8e	-si-
+8f#	-ła
+=14	=14
+(>4g	wia-
+8d)	.
+=15	=15
+8e	-ny-
+8f#L	-szek
+8g}J	.
 !!LO:LB:g=esac
-=16
-{8cc
-8b
-8cc
-=17
-8dd
-4cc
-=18
-8b
-8a
-8g}
-==
-*-
+=16	=16
+{8cc	na
+8b/L	jedwa-
+8cc/J	.
+=17	=17
+(8dd	-bnym
+4cc)	.
+=18	=18
+8b	sznu-
+8aL	-rze.
+!LO:TX:a:t=Do kapin, kiedy wdowa idzie za mąż.	!
+8g}J;	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Chodziła Kasiunia po zielony górze,
+!!nosiła wianyszek na jedwabnym
+!!sznurze, nosiła wianyszek
+!!na jedwabnym sznurze.
+!!@VERSE:
+!!2. Nosiła, nosiła,
+!!jaż ci go zgubiła;
+!!naloz(ł) ci go Jasio,
+!!jak jechał ze młyna.
+!!@VERSE:
+!!3. Nalozci go, naloz,
+!!ale już nie caly,
+!!ćtyry rutki ziela
+!!z niego obleciały.
+!!@@END: VERSES
+!!!role-singer: Narrator, Girl
+!!!role-listener: Boy
+!!!singer-sex:Female
+!!!RDF**kern: >= above
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=330 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 318} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 318}
 !!!page: 318
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-28

@@ -22,13 +22,14 @@
 !!LO:LB:g=esac
 =3
 {8g
+8aq
 8b
-4cc
-4dd
+4ccM
+4ddM
 =4
 8a
-32g
-16.f#
+32gL
+16.fJ#
 4g
 8d
 8d}
@@ -36,7 +37,7 @@
 =5
 *M2/4
 {8g
-8b
+8b/
 8a
 8a
 =6
@@ -47,7 +48,7 @@
 !!LO:LB:g=esac
 =7
 {8g
-8b
+8b/
 8a
 8a
 =8
@@ -57,7 +58,7 @@
 8a}
 !!LO:LB:g=esac
 =9
-{8g
+{8g\
 8b
 8a
 8f#
@@ -66,8 +67,41 @@
 4d}
 ==
 *-
+!!@@BEGIN: VERSES
+!!1. Siadaj, siadaj kochanie moje
+!!już nienada płakanie twoje;
+!!już nienada, nie pomoże
+!!już koniki zaprzężone
+!!a już są w powozie.
+!!@VERSE:
+!!2. A jakże ja będę siadała
+!!kiedym się z ojcem nie pożegnała.
+!!Bywaj z Bogiem panie ojce,
+!!Pasałam ci zawsze wołce,
+!!pasać nie będe.
+!!@VERSE:
+!!3. A siadaj i t. d.
+!!@VERSE:
+!!4. A jakże i t. d.
+!!Bywaj z Bogiem pani matko,
+!!bywało ci ze mną gładko,
+!!gładko nie będzie.
+!!@VERSE:
+!!5. A siadaj i t. d.
+!!@VERSE:
+!!6. A jakże i t. d.
+!!Bywaj zdrowe moje wrota,
+!!jeździła tu moja cnota,
+!!już tu nie będzie.
+!!Bywaj zdrowe moje ganki,
+!!wieszałam tu moje wianki,
+!!już tu nie będę.
+!!@@END: VERSES
+!!!role-singer: Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=299 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 287} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 287}
 !!!page: 287
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-26

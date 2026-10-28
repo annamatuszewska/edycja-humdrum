@@ -3,68 +3,79 @@
 !!!source: DWOK03
 !!!id: K0083
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*e:
-*M3/4
-=1
-{8e
-8e
-8e
-8d#
-8e
-8g
-=2
-8a
-8b
-8ee
-16cc
-16a
-8b
-8g}
+**kern	**text	**text
+*clefG2	*	*
+*k[f#]	*	*
+*e:	*	*
+*M3/4	*	*
+=1	=1	=1
+!LO:TX:a:t=Polski Taniec.	!	!
+{8e	Nie	Sy-
+8e	w_każdym	-no-
+8e	.	-wa,
+8d#	o-	sy-
+8e	-gro-	-no-
+8g	-dzie	-wa,
+=2	=2	=2
+8a\	zio-	nie
+8b	-łe-	trze-
+8ee	-czko	-ba
+16cLc	się	to
+16a\J	.	.
+8b	ro-	le-
+8g}\	-dzi,	-żyć,
 !!LO:LB:g=esac
-=3
-{8e
-8d#
-8e
-8d#
-8e
-8g
-=4
-8a
-8b
-8cc
-8a
-8b
-16g
-16e}
+=3	=3	=3
+{8e	nie	są
+8d#	ka-	po-
+8e	-żda	-sa-
+8d#	sy-	-żnie
+8e	-no-	krowy,
+8g	-wa	.
+=4	=4	=4
+8a\	ma-	trze-
+8b	-cie-	-ba
+8cc	-rzy	je
+8a\	do-	wy-
+8b	-go-	-do-
+16gL	-dzi.	-ić.
+16e}J	.	.
 !!LO:LB:g=esac
-=5
-{8f#
-8e
-8d#
-8e
-8f#
-16d#
-16B
-=6
-4e
-4f#
-4g
-=7
-8e
-8e
-4e
-4g
-=8
-4e
-4e
-4e}
-==
-*-
+=5	=5	=5
+{8f#L	.	.
+8e	.	.
+8d#	.	.
+8eJ	.	.
+8f#L	.	.
+16d#	.	.
+16BJ	.	.
+=6	=6	=6
+4e	.	.
+4f#	.	.
+4g	.	.
+=7	=7	=7
+8eL	.	.
+8eJ	.	.
+4e	.	.
+4g	.	.
+=8	=8	=8
+4e	.	.
+4e	.	.
+4e}	.	.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. Nie w każdym ogrodzie ziołeczko się rodzi,
+!!nie każda synowa macierzy dogodzi.
+!!@VERSE:
+!!2. Synowa, synowa, nie trzeba to leżyć,
+!!są posażnie krowy, trzeba je wydoić.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=318 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 306} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 306}
 !!!page: 306
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-28

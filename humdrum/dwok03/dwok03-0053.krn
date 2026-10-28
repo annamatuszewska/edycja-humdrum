@@ -3,71 +3,130 @@
 !!!source: DWOK03
 !!!id: K0053
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16g
-16g
-8.cc
-16b
-=2
-4.g
-=3
-16b
-16dd
-8ff
-16dd
-16ee
-=4
-4cc}
-8r
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16g	A
+16g	sto-
+8.cc	-i
+16b	lip-
+=2	=2
+4.g	-ka
+=3	=3
+16b	pod
+16dd	nią
+(8ffL	to-
+16dd)J	.
+16ee	-po-
+=4	=4
+4cc}	-la
+8r	.
 !!LO:LB:g=esac
-=5
-{16cc
-16dd
-8ee
-8ff
-=6
-16dd
-16dd
-16cc
-16b
-8a
-=7
-16g
-16g
-8.cc
-16b
-=8
-4g}
-8r
+=5	=5
+{16cc	ożeń
+16dd	.
+8ee	że
+8ff	się
+=6	=6
+16dd	mój
+16dd	chłopa-
+16ccL	.
+16bJ	.
+8a	-lu
+=7	=7
+16g	boć
+16g	ci
+8.cc	nie-
+16b	-wo-
+=8	=8
+4g}	-la.
+8r	.
 !!LO:LB:g=esac
-=9
-{16cc
-16dd
-8ee
-8ff
-=10
-16.dd
-32ee
-16cc
-16b
-8a
-=11
-16.a
-32g
-8cc
-16a
-16b
-=12
-4.g}
-==
-*-
+=9	=9
+{16ccL	.
+16dd	.
+8ee	.
+8ffJ	.
+=10	=10
+16.ddL	.
+32ee	.
+16cc	.
+16b	.
+8a\J	.
+=11	=11
+16.aL	.
+32gJ	.
+8ccL	.
+16a\	.
+16bJ	.
+=12	=12
+4.g}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A stoi lipka—
+!!pod nią topola—
+!!ożeń że się mój chłopalu (lub moja mała) —
+!!bo ci niewolo—
+!!2. Jak my niewolo—
+!!tak my potrzeba
+!!będziemy się dorabiali—
+!!z dziwuchą (lub z Jasieńkiem).
+!!chleba
+!!@VERSE:
+!!3. A mój Jasinek
+!!a mój najmilszy;
+!!a oboje do kościoła
+!!oboje do mszy.
+!!@VERSE:
+!!4. Będą nam tam grać
+!!i ślub nam dawać,
+!!a my będziemy nad sobą
+!!nie mało płakać.
+!!@VERSE:
+!!5. A wy drużbeczki
+!!weźcie (lub dajcie) chusteczki,
+!!co doskoczę i obetrę
+!!dziewuli oczki.
+!!@VERSE:
+!!6. Ty jéj obcierasz
+!!a ona płacze:
+!!ja dla ciebie mój chłopolu
+!!wianek utracę.
+!!@VERSE:
+!!7. Koniczek w mieście
+!!Siodełko niesie:
+!!Zaczekajże moja mała
+!!za roczek jeszcze.
+!!@VERSE:
+!!8. A cóżeś za pon
+!!Co cię czekać mom;
+!!Wszystka twoja suporzyja
+!!zielony żupan.
+!!@VERSE:
+!!9. Tyś ci nie poni
+!!Co gardzisz nomi,
+!!Wszystka twoja suporzyja
+!!wionek ruciany.
+!!@VERSE:
+!!10. Wionek ruciany
+!!z złotém, z perłamy,
+!!niezapłacisz go chłopaku
+!!i tysiącamy.
+!!@VERSE:
+!!11. Po moim wionku
+!!perły brząkają,
+!!a po twoim żupanisku
+!!weszki biegają.
+!!@@END: VERSES
+!!!role-singer: Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=299 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 287} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 287}
 !!!page: 287
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-26

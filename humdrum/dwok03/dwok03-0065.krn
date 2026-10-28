@@ -3,68 +3,112 @@
 !!!source: DWOK03
 !!!id: K0065
 !!!signature:
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16g
-16b
-8dd
-8gg
-=2
-16ee
-16ee
-8dd
-8g
-=3
-16b
-16g
-8cc
-8g
-=4
-4.a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{16g	Prze-
+16b	-de
+8dd	wro-
+8gg	-ty
+=2	=2
+16ee	ka-
+16ee	-mień
+8dd	zło-
+8g\	-ty,
+=3	=3
+16b	śli-
+16g	-czna
+8cc	le-
+8g	-li-
+=4	=4
+4.a}	-ja,
 !!LO:LB:g=esac
-=5
-{16g
-16g
-8cc
-8g
-=6
-16dd
-16dd
-8ee
-8g
-=7
-16b
-16g
-8cc
-8g
-=8
-4.a}
+=5	=5
+{16g	u-
+16g	-wiń-
+8cc	-że-
+8g	-my
+=6	=6
+16dd	pię-
+16dd	-kny
+8ee	wie-
+8g\	-niec
+=7	=7
+16b	pan-
+16g	-no
+8cc	Zo-
+8g	-fi-
+=8	=8
+4.a}	-ja.
 !!LO:LB:g=esac
-=9
-{16g
-16g
-8cc
-8g
-=10
-16dd
-16dd
-8ee
-8cc
-=11
-16b
-16g
-8cc
-8g
-=12
-4.a}
-==
-*-
+=9	=9
+{16g	u-
+16g	-wiń-
+8cc	-że-
+8g	-my
+=10	=10
+16dd	pię-
+16dd	-kny
+8ee	wie-
+8cc/	-niec
+=11	=11
+16b	pan-
+16g	-no
+8cc	Zo-
+8g	-fi-
+=12	=12
+4.a}	-ja.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Przede wroty—Kamień złoty,
+!!śliczna lelija—
+!!uwiń że-ż mi piękny wieniec,
+!!panno Zofija.
+!!@VERSE:
+!!2. A nie daj go dworakowi,
+!!bo go nie godzien,
+!!a zdyjm żeż go ze swy głowy,
+!!włóż go na ogień.
+!!@VERSE:
+!!3. A zdyjm że go z tego ognia,
+!!niech go nie zsieje;
+!!a zanieś go do piwnicy,
+!!niech najędrznieje.
+!!@VERSE:
+!!4. Ach ty ptaszku kregulaszku,
+!!wysoko bujasz:
+!!powiédz że mi nowineczkę,
+!!gdzie ty ta bywasz?
+!!@VERSE:
+!!5. Powiem ja ci nowineczkę,
+!!ale nie dobrą,
+!!że ci twoją najmilijszą
+!!do ślubu biorą.
+!!@VERSE:
+!!6. O niech biorą, niechże biorą,
+!!ja jadę za nią,
+!!niech-że jéj się raz przypatrzę,
+!!jeśli jest panią.
+!!@VERSE:
+!!7. Ona idzie do kościoła
+!!gdyby lelija,
+!!a Jasinek na koniku
+!!przed nią wywija.
+!!@VERSE:
+!!8. Jak uklęknie na gradusie (ołtarza):
+!!a ty księże wiąż!—
+!!niechże jéj się raz przypatrzę
+!!który ieji mąż.
+!!@@END: VERSES
+!!!role-singer: Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=307 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 295} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 295}
 !!!page: 295
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-26

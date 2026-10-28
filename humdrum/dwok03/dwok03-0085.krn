@@ -3,143 +3,161 @@
 !!!source: DWOK03
 !!!id: K0085
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8g
-8ff
-8gg
-=2
-8ff
-4g
-=3
-8a
-16b
-16cc
-8dd
-=4
-16cc
-16b
-4g}
+**kern	**text	**text
+*clefG2	*	*
+*k[]	*	*
+*G:	*	*
+*M3/8	*	*
+=1	=1	=1
+{8g	A	.
+8ff	w_tém	dto
+8gg	sadeczku,	.
+=2	=2	=2
+8ff	.	dto
+4g	.	.
+=3	=3	=3
+8a	w_tém	dto
+16bL	ogró-	.
+16cc	.	.
+8ddJ	.	.
+=4	=4	=4
+16ccL	-de-	dto
+16bJ	.	.
+4g}	-czku	.
 !!LO:LB:g=esac
-=5
-{8.a
-16b
-16cc
-16dd
-=6
-8ee
-8dd
-16cc
-16b
-=7
-8cc
-4a}
+=5	=5	=5
+{8.a\L	ro-	.
+16bJ	.	.
+16ccL	-zma-	dto
+16ddJ	.	.
+=6	=6	=6
+8eeL	-i-	.
+8ddJ	.	.
+16ccL	-to	.
+16bJ	.	.
+=7	=7	=7
+8cc	zie-	jab-
+4a}	-le;	-ka
 !!LO:LB:g=esac
-=8
-{8a
-8cc
-8b
-=9
-8a
-4g
-=10
-8a
-16cc
-16b
-8dd
-=11
-16b
-16a
-4g}
+=8	=8	=8
+{8a\	sia-	.
+8cc	-daj	dto
+8b	dzie-	.
+=9	=9	=9
+8a	-wu-	dto
+4g	-lo,	.
+=10	=10	=10
+8a\	sia-	dto
+16cLc	-daj	.
+16bJ	.	.
+8dd	ma-	.
+=11	=11	=11
+8ccq	.	.
+16bL	-lu-	dto
+16a\J	.	.
+4g}	-śka,	.
 !!LO:LB:g=esac
-=12
-{8.a
-16b
-16cc
-16dd
-=13
-8.ee
-16dd
-16cc
-16b
-=14
-8cc
-4a}
+=12	=12	=12
+{8.a\L	je-	ko-
+16bJ	.	.
+16ccL	-dziesz	-zał
+16ddJ	.	.
+=13	=13	=13
+8.eeL	do	oj-
+16ddJ	.	.
+16ccL	we-	-ciec
+16bJ	.	.
+=14	=14	=14
+8cc	-se-	ma-
+4a}	-la.	-tka.
 !!LO:LB:g=esac
-=15
-{8g
-8ff
-8aa
-=16
-8gg
-4cc
-=17
-8a
-16cc
-16b
-16dd
-16ee
-=18
-16cc
-16b
-4g}
+=15	=15	=15
+!LO:TX:t=P:problem=mixed beam	!	!
+{8gL	.	.
+8ff	.	.
+8aaJ	.	.
+=16	=16	=16
+8gg	.	.
+4cc	.	.
+=17	=17	=17
+8a\L	.	.
+16cc	.	.
+16bJ	.	.
+16ddL	.	.
+16eeJ	.	.
+=18	=18	=18
+16ccL	.	.
+16bJ	.	.
+4g}	.	.
 !!LO:LB:g=esac
-=19
-{8a
-16a
-16b
-16cc
-16dd
-=20
-8.ee
-16dd
-16cc
-16b
-=21
-16cc
-16b
-4a}
+=19	=19	=19
+{8a\L	.	.
+16a\	.	.
+16bJ	.	.
+16ccL	.	.
+16ddJ	.	.
+=20	=20	=20
+8.eeL	.	.
+16ddJ	.	.
+16ccL	.	.
+16bJ	.	.
+=21	=21	=21
+16ccL	.	.
+16bJ	.	.
+4a}	.	.
 !!LO:LB:g=esac
-=22
-{8a
-8cc
-8b
-=23
-8a
-4g
-=24
-8b
-8cc
-16b
-16a
-=25
-8dd
-4g}
+=22	=22	=22
+{8a\L	.	.
+8cc	.	.
+8bJ	.	.
+=23	=23	=23
+8a	.	.
+4g	.	.
+=24	=24	=24
+8bL	.	.
+8ccJ	.	.
+16bL	.	.
+16a\J	.	.
+=25	=25	=25
+8dd	.	.
+4g}	.	.
 !!LO:LB:g=esac
-=26
-{8a
-16a
-16b
-16cc
-16dd
-=27
-8ee
-16ee
-16dd
-16cc
-16b
-=28
-16cc
-16b
-4a}
-==
-*-
+=26	=26	=26
+{8a\L	.	.
+16a\	.	.
+16bJ	.	.
+16ccL	.	.
+16ddJ	.	.
+=27	=27	=27
+8eeL	.	.
+8ffq	.	.
+16ee	.	.
+16ddJ	.	.
+16ccL	.	.
+16bJ	.	.
+=28	=28	=28
+16ccL	.	.
+16bJ	.	.
+4a}	.	.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. A w tém sadeczku, w tém ogródeczku
+!!rozmaito ziele;
+!!siadaj dziewulo, siadaj maluśka,
+!!jedziesz do wesela.
+!!@VERSE:
+!!2. dto dto dto dto
+!!dto jabka
+!!dto dto dto dto
+!!kozał ojciec matka.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!role-listener: Girl
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=319 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 307} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 307}
 !!!page: 307
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-28

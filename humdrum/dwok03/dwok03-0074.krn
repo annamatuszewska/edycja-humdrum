@@ -3,58 +3,158 @@
 !!!source: DWOK03
 !!!id: K0074
 !!!signature:
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16a
-16b
-8cc
-8dd
-=2
-8ee
-4ee
-=
-16b
-16dd
-8ee
-24dd
-24cc
-24b
-=3
-16a
-32a
-32g#}
-4r
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{16a\	A
+16b	gna-
+8cc	-ła
+8dd	dzie-
+=2	=2
+8ee	-wu-
+4ee	-la
+=3	=3
+16b	bez
+16dd	wieś
+8ee	by-
+*Xtuplet	*
+24ddL	-de-
+24cc	.
+24bJ	.
+=4	=4
+16a	-łecz-
+32aL	-ko,
+32g#J}	.
+4r	.
 !!LO:LB:g=esac
-=4
-{16a
-16b
-8cc
-8b
-=5
-4dd
-32cc
-32b
-32a
-32b
-=6
-16e
-16g#
-8a
-16cc
-16b
-=7
-16a
-32a
-32g#}
-4r
-==
-*-
+=5	=5
+{16a\	zastawił
+16b	.
+8cc	.
+8b	ci
+=6	=6
+4dd	na
+32ccL	nie
+32b	.
+32a\	.
+32bJ	.
+=7	=7
+16e	Ja-
+16g#	-sio
+8a	si-
+16ccL	-de-
+16bJ	.
+=8	=8
+16a	-łecz-
+32aL	-ko.
+32g#J}	.
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. A gnała dziewula
+!!bez wieś bydełeczko,
+!!zastawił-ci na nie
+!!Jasio sidełeczko.
+!!@VERSE:
+!!2. Nie namówisz-ci mnie
+!!łagodném słóweczkiem,
+!!toć me nie załapisz
+!!swoim sidełeczkiem.
+!!@VERSE:
+!!3. Nie namówię-ć ja cię,
+!!namówisz się sama;
+!!pójdziesz do gościńca,
+!!będziesz tańcowała.
+!!@VERSE:
+!!4. A ja do gościńca
+!!toć sama nie chodzę,
+!!momci kompaneczkę,
+!!toć za sobą wodzę.
+!!@VERSE:
+!!2. Twoją kompaneczkę
+!!gorzałką upoję,
+!!a tobie dziewulo
+!!figielka wystroję.
+!!@VERSE:
+!!6. Żebyś była nie szła
+!!bez bór do kościoła,
+!!nie niesła byś teroz
+!!na ręku sokoła.
+!!@VERSE:
+!!7. A bo ja sokoła
+!!na boru dostała;
+!!na zielony łące,
+!!z kim'm wołki pasała.
+!!@VERSE:
+!!8. Nie było-ć to słuchać.
+!!Kiéj ładnie me prosił,
+!!trzewiczki my kupił,
+!!na pończoszki nosił.
+!!@VERSE:
+!!9. A było-ć to, było
+!!ojca, matki słuchać;
+!!aniżeli teraz
+!!kolibeczkę ruchać.
+!!@VERSE:
+!!10. Dygu, dygu we dnie,
+!!dygu, dygu, w nocy;
+!!jużem wypłakała
+!!swoje czarne oczy.
+!!@VERSE:
+!!11. Porachował-ci ij
+!!na lipowym stole,
+!!przerachuj Marysiu,
+!!talarki za twoje.
+!!@VERSE:
+!!12. Mało Jasiu, mało,
+!!zdałoby się przysuć,
+!!za ruciany wionek
+!!rzuć my jaki tysiąc.
+!!@VERSE:
+!!13. A kiedy ja była
+!!małą panieneczką,
+!!wyglądali za mną
+!!ot tą śląskoweczką (szparą u drzwi.)
+!!@VERSE:
+!!14. A teroz nie wyjrzą
+!!i całkiemi dźwiamy,
+!!jużem utraciła
+!!wionyszek ruciany.
+!!@VERSE:
+!!15. A widzisz Marychna
+!!ten wysoki zamek?
+!!tam-ci powieszono
+!!twój ruciany wianek.
+!!@VERSE:
+!!16. A bodaj w ten zamek
+!!pieruny trzaskały,
+!!nimiał-ci ta, nimiał
+!!mój wionyszek sprawy.
+!!@VERSE:
+!!17. A poszła Marysia
+!!pu (ku) ogrodyszkowi,
+!!szła kopać dołyszek
+!!swemu wionyszkowi.
+!!@VERSE:
+!!18. O wianku mój, wianku,
+!!wianku mój zielony,
+!!lepiejż by cię płakać
+!!niż matki rodzony.
+!!@VERSE:
+!!19. A nie tylko płakać,
+!!ale krzyżem padać—
+!!jechał Jasio bez wieś
+!!niechciał do mie gadać.
+!!@@END: VERSES
+!!!role-singer: Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=313 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 301} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 301}
 !!!page: 301
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-28

@@ -3,112 +3,79 @@
 !!!source: DWOK03
 !!!id: K0100
 !!!signature:
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/8
-=1
-{16cc#
-16cc#
-16ee
-16dd
-16cc#
-16dd
-=2
-8.ee
-16b
-16dd
-16ee
-=3
-16cc#
-16cc#
-16ee
-16dd
-16cc#
-16dd
-=4
-8.ee
-16b
-16g#
-16a}
+**kern	**text	**text
+*clefG2	*	*
+*k[f#c#g#]	*	*
+*A:	*	*
+*M3/8	*	*
+=1	=1	=1
+{16cc#	We-	Czemu
+16cc#	-so-	.
+16eeL	-ły	ni-
+16ddJ	.	.
+16cc#L	nom	-ma
+16ddJ	.	.
+=2	=2	=2
+8.ee	świat	być,
+16b	da	ni-
+16dd	i	-ma
+16ee	świat,	być,
+=3	=3	=3
+16cc#	we-	cze-
+16cc#	-so-	-mu
+16eeL	-ły	ni-
+16ddJ	.	.
+16cc#L	nom	-ma
+16ddJ	.	.
+=4	=4	=4
+8.ee	świat	być,
+16b	da	ni-
+16g#	i	-ma
+16a}	świat,	być?
 !!LO:LB:g=esac
-=5
-{16cc#
-16cc#
-16ee
-16dd
-16b
-16g#
-=6
-8.a
-16b
-16dd
-16ee
-=7
-16cc#
-16cc#
-16ee
-16dd
-16b
-16g#
-=8
-8.a
-16b
-16g#
-16a}
-!!LO:LB:g=esac
-=9
-{16cc#
-16cc#
-16ee
-16dd
-8ff#
-=10
-8.ee
-16b
-16dd
-16ff#
-=11
-16cc#
-16cc#
-16ee
-16dd
-8ff#
-=12
-8.ee
-16b
-16g#
-16a}
-!!LO:LB:g=esac
-=13
-{16cc#
-16cc#
-16ee
-16dd
-16b
-16g#
-=14
-8.a
-16b
-16dd
-16ee
-=15
-16cc#
-16cc#
-16ee
-16dd
-16b
-16g#
-=16
-8.a
-16b
-16g#
-16a}
-==
-*-
+=5	=5	=5
+{16cc#	jak	Ża-
+16cc#	się	-wi-
+16eeL	o-	-nie-
+16ddJ	.	.
+16b/L	-ba	-my
+16g#J	.	.
+=6	=6	=6
+8.a	o-	rę-
+16b	-że-	-ka-
+16dd	-nie-	-wi-
+16ee	-my,	-ki,
+=7	=7	=7
+16cc#	nie	bę-
+16cc#	bę-	-dzie-
+16eeL	-dzie	-my
+16ddJ	.	.
+16b/L	nom	ro-
+16g#J	.	.
+=8	=8	=8
+8.a	tak	-bić
+16b	da	da
+16g#	i	ro-
+16a}	tak.	-bić.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. Wesoły nom świat da i świat,
+!!wesoły nom świat da i świat,
+!!jak się oba ożeniemy,
+!!nie będzie nom tak da i tak.
+!!@VERSE:
+!!2. Czemu nima być, nima być,
+!!czemu nima być, nima być?
+!!Żawiniemy rękawiki,
+!!będziemy robić da robić.
+!!@@END: VERSES
+!!!role-singer: Bride, Groom
+!!!singer-sex: Female, Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=329 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 317} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 317}
 !!!page: 317
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-28

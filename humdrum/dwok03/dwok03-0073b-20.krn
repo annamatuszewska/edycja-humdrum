@@ -5,49 +5,50 @@
 !!!signature: 0307300020
 **kern
 *clefG2
-*k[f#]
+*k[]
 *G:
 *M3/8
 =1
-{16g
-16b
-8cc
+{16g\L
+16bJ
+8ccL
 16cc
-16dd
+16ddJ
 =2
 4ee
-16dd
-16cc
+16ddL
+16ccJ
 =3
-16ee
-16ff#
-8gg
+16eeL
+16ff#J
+8ggL
 16gg
-16aa
+16aaJ
 =4
-16aa
-16g
+!LO:TX:t=P:problem=mixed beam
+16aaL
+16gJ
 4g}
 !!LO:LB:g=esac
 =5
-{16g
-16b
-8cc
+{16gL
+16b/J
+8ccL
 16cc
-16dd
+16ddJ
 =6
 4ee
-16cc
-16b
+16ccL
+16bJ
 =7
-16a
-16a
+16aL
+16aJ
 8a
-16b
-16cc
+16bL
+16ccJ
 =8
-16dd
-16g
+16ddL
+16g\J
 4g}
 ==
 *-
@@ -57,3 +58,5 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=312 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 300} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 300}
 !!!page: 300
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-28

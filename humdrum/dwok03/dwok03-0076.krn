@@ -3,154 +3,185 @@
 !!!source: DWOK03
 !!!id: K0076
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16d
-8g
-8a
-=2
-4.b
-=3
-16e
-16e
-8e
-8a
-=4
-4.d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16gL	.
+16dJ	.
+8gL	.
+8aJ	.
+=2	=2
+4.b	.
+=3	=3
+16eL	.
+16eJ	.
+8eL	.
+8aJ	.
+=4	=4
+4.d}	.
 !!LO:LB:g=esac
-=5
-{16g
-16d
-8g
-8a
-=6
-4b
-16a
-16g
-=7
-16dd
-16dd
-8cc#
-8ee
-=8
-8dd
-4d}
+=5	=5
+{16g	Cho-
+16d	-dzi-
+8g	-ła
+8a	Ka-
+=6	=6
+4b	-siu-
+16aL	-la
+16gJ	.
+=7	=7
+16dd	po
+16dd	wy-
+8cc#	-so-
+8ee	-czkij
+=8	=8
+8dd	gó-
+4d}	-rze,
 !!LO:LB:g=esac
-=9
-{16g
-16d
-8g
-8a
-=10
-4b
-16a
-16g
-=11
-16e
-16e
-8e
-8cc
-=12
-4a
-32f#
-16.d}
+=9	=9
+{16g	no-
+16d	-si-
+8g	-ła
+8a	wio-
+=10	=10
+4b	-ny-
+16aL	-szek
+16gJ	.
+=11	=11
+16e	na
+16e	je-
+8e	-dwabnym
+8cc	.
+=12	=12
+4a	sznu-
+32f#L	-rze.
+16.d}J	.
 !!LO:LB:g=esac
-=13
-{16g
-16d
-8g
-8a
-=14
-8b
-4b
-=15
-16e
-16e
-8e
-8a
-=16
-4.d}
+=13	=13
+{16gL	.
+16dJ	.
+8gL	.
+8aJ	.
+=14	=14
+8b	.
+4b	.
+=15	=15
+16eL	.
+16eJ	.
+8eL	.
+8aJ	.
+=16	=16
+8aq	.
+4.d}	.
 !!LO:LB:g=esac
-=17
-{16g
-16d
-8g
-8a
-=18
-4.b
-=19
-16e
-16e
-8e
-8a
-=20
-4.d}
+=17	=17
+{16gL	.
+16dJ	.
+8gL	.
+8aJ	.
+=18	=18
+4.b	.
+=19	=19
+16eL	.
+16eJ	.
+8eL	.
+8aJ	.
+=20	=20
+4.d}	.
 !!LO:LB:g=esac
-=21
-{16g
-16d
-8g
-8a
-=22
-4b
-16a
-16g
-=23
-16dd
-16dd
-8cc#
-8ee
-=24
-8dd
-4d}
+=21	=21
+{16g	.
+16d	.
+8g	.
+8a	.
+=22	=22
+4b	.
+16aL	.
+16gJ	.
+=23	=23
+16dd	.
+16dd	.
+8cc#	.
+8ee	.
+=24	=24
+8dd	.
+4d}	.
 !!LO:LB:g=esac
-=25
-{16g
-16d
-8g
-8a
-=26
-4b
-16a
-16g
-=27
-16e
-16e
-8e
-8cc
-=28
-4a
-32f#
-16.d}
+=25	=25
+{16g	.
+16d	.
+8g	.
+8a	.
+=26	=26
+4b	.
+16aL	.
+16gJ	.
+=27	=27
+16e	.
+16e	.
+8e	.
+8cc	.
+=28	=28
+4a	.
+32f#L	.
+16.d}J	.
 !!LO:LB:g=esac
-=29
-{16g
-16d
-8g
-8a
-=30
-16b
-16cc
-16b
-16a
-16g
-16f#
-=31
-16e
-16e
-8e
-8a
-=32
-4.d}
-==
-*-
+=29	=29
+{16gL	.
+16dJ	.
+8gL	.
+8aJ	.
+=30	=30
+16b/L	.
+16cc/J	.
+16bL	.
+16a	.
+16g	.
+16f#J	.
+=31	=31
+16eL	.
+16eJ	.
+8eL	.
+8aJ	.
+=32	=32
+8aq	.
+4.d}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Chodziła Kasiula
+!!po wysoczkij górze,
+!!nosiła wionyszek
+!!na jedwabnym śnurze.
+!!@VERSE:
+!!2. Nosiła, nosiła
+!!aż go i zgubiła,
+!!naloz(ł) go Jasinio
+!!jadący z Torunia.
+!!@VERSE:
+!!3. Powiedziałaś Kasiu
+!!żem ci wionek ukrad(ł);
+!!nabierałaś wódkę,
+!!w studzienkę ci upad(ł).
+!!@VERSE:
+!!4. Sięgejże go, sięgej
+!!prawą rączką do dna,
+!!żeli go dostaniesz,
+!!będzieszci go godna.
+!!@VERSE:
+!!5. Dostałam ja ci go,
+!!ale nie całygo,
+!!upadły cztyry (g)ronka
+!!(r)ozmarynu z niego.
+!!@@END: VERSES
+!!!role-singer: Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=314 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 302} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 302}
 !!!page: 302
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-28

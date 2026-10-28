@@ -3,72 +3,113 @@
 !!!source: DWOK03
 !!!id: K0063
 !!!signature:
-**kern
-*clefG2
-*k[f#c#g#d#]
-*E:
-*M3/8
-=1
-{8e
-8a
-8b
-=2
-4cc#
-8a
-=3
-4ee
-8ff#
-=4
-4ee}
-8r
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*E:	*
+*M3/8	*
+=1	=1
+{8e	Pod
+8a\	bo-
+8b	-rem
+=2	=2
+4cc#	so-
+8a\	-śna
+=3	=3
+4ee	go-
+8ff#	-rza-
+=4	=4
+4ee}	-ła,
+8r	.
 !!LO:LB:g=esac
-=5
-{8e
-8a
-8b
-=6
-4cc#
-8a
-=7
-4ee
-8ff#
-=8
-4ee}
-8r
+=5	=5
+{8e	pod
+8a\	bo-
+8b	-rem
+=6	=6
+4cc#	so-
+8a\	-śna
+=7	=7
+4ee	go-
+8ff#	-rza-
+=8	=8
+4ee}	-ła,
+8r	.
 !!LO:LB:g=esac
-=9
-{8ee
-8ee
-8ee
-=10
-8dd#
-8dd#
-8dd#
-=11
-16cc#
-16cc#
-8cc#
-8cc#
-=12
-8b
-8f#
-8e}
+=9	=9
+{8ee	skry
+8ee	na
+8ee	nią
+=10	=10
+8dd	pa-
+8dd	-da-
+8dd	-ły,
+=11	=11
+16cc#	suknie
+16cc#	.
+8cc#	na
+8cc#	ni
+=12	=12
+8b	go-
+8f#	-rza-
+8e}	-ły
 !!LO:LB:g=esac
-=13
-{8e
-8a
-8b
-=14
-4cc#
-16e
-16g#
-=15
-4a}
-8r
-==
-*-
+=13	=13
+{8e	nie-
+8a\	-dba-
+8b	-ła
+=14	=14
+4cc#	nie-
+16eL	-dba-
+16g#J	.
+=15	=15
+4a}	-ła.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Pod borem sośna stojała,
+!!pod sośną panna gorzała.
+!!Skry na nię padały,
+!!szaty na ni gorzały—
+!!nie dbała.
+!!@VERSE:
+!!2. Przyjechał do ni stary pan,
+!!zarzucił na nię swój żupan.
+!!Ona-ć go nie chciała,
+!!bo-ć go się bojała,
+!!stary-ć on.
+!!@VERSE:
+!!3. Przyjechał do ni jego syn,
+!!zarzucił na nię swój żupan.
+!!Mówił do ni słóweczko:
+!!Siadaj ze mną dzieweczko—
+!!ona z nim.
+!!@VERSE:
+!!4. Żebym wiedziała: będziesz mój?
+!!darowałabym ci sygnet swój,
+!!A ten sygnet szczyrny złoty,
+!!Warszawskij ón roboty,
+!!Jasio mój!
+!!@VERSE:
+!!5. Żebym wiedziała: będziesz mój?
+!!darowałabym ci wieniec swój.
+!!A ten wieniec ruciany
+!!perłami sadzony,
+!!Jasio mój!
+!!@VERSE:
+!!6. Żebym wiedziała: będziesz mój?
+!!darowałabym ci w mieście dóm.
+!!We Warszawie kamienicę,
+!!a w Toruniu szubienicę,
+!!Jasio mój!
+!!@@END: VERSES
+!!!role-singer: Narrator, Mistress
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=306 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 294} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 294}
 !!!page: 294
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-26

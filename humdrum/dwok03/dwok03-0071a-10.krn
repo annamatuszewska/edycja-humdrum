@@ -3,62 +3,114 @@
 !!!source: DWOK03
 !!!id: K0071a
 !!!signature: 0307000010
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16d
-16f#
-8.a
-16f#
-=2
-16g
-16f#
-4r
-=3
-16d
-16f#
-8.a
-16d
-=4
-8g}
-4r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16d	Pod
+16f#	bo-
+8.a	-rem
+16f#	chój-
+=2	=2
+16gL	-ka,
+16f#J	.
+4r	.
+=3	=3
+16d	pod
+16f#	nią
+8.a	to-
+16d	-po-
+=4	=4
+8f#q	.
+8g}	-la,
+4r	.
 !!LO:LB:g=esac
-=5
-{16g
-16a
-8b
-8cc
-=6
-16b
-16a
-8b
-16g
-16f#
-=7
-16d
-16f#
-8.a
-16f#
-=8
-16g
-16f#
-4r
-=9
-16d
-16f#
-8.a
-16d
-=10
-4g}
-8r
-==
-*-
+=5	=5
+{16g	spy-
+16a	-taj
+8b	my
+8cc	się
+=6	=6
+16b	ty
+16a\	Jó-
+8b	-zi-
+16gL	-nek,
+16f#J	.
+=7	=7
+16d	czy
+16f#	bę-
+8.a	-dę
+16f#	two-
+=8	=8
+16gL	-ja,
+16f#J	.
+4r	.
+=9	=9
+16d	czy
+16f#	bę-
+8.a	-dę
+16d	two-
+=10	=10
+8f#q	.
+4g}	-ja.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Pod borem chójka,
+!!pod nią topola—
+!!spytaj my się ty Józinek
+!!czy będe twoja?
+!!@VERSE:
+!!2. Spytam ci się raz:
+!!kiej my wionek dasz?
+!!tę gałązkę rozmarynu,
+!!co na główce masz?
+!!@VERSE:
+!!3. Dzisiaj, Józinek,
+!!tobie najmilszy,
+!!jak będziema przystępować
+!!na gradus po mszy.
+!!@VERSE:
+!!4. Będą ta grali,
+!!będą śpiewali,
+!!my ubodzy zasmuceni,
+!!będziem płakali.
+!!@VERSE:
+!!5. A wy druchniczki,
+!!dajcie chusteczki;
+!!a skoczę ja do Marysi,
+!!otre ij oczki.
+!!@VERSE:
+!!6. Ja ij ociéram,
+!!a ona płacze:
+!!dla ciebie ja, mój Józinek,
+!!swój wionek tracę,
+!!@VERSE:
+!!7. Oj tracę, tracę,
+!!i tracić będe;
+!!a co spojrzę na Józinka,
+!!to płakać będe.
+!!@VERSE:
+!!8. Utracę go raz
+!!jużci na zawdy;
+!!jużci my się nie ukloni
+!!kawaler żadny.
+!!@VERSE:
+!!9. Utracę go raz, —
+!!nie będe miała;
+!!a co my się rozpamięta,
+!!będe płakała.
+!!@@END: VERSES
+!!!role-singer: Girl, Boy
+!!!singer-sex: Female, Male
 !!!ONB: Partia wokalna
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=311 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 299} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 299}
 !!!page: 299
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-26

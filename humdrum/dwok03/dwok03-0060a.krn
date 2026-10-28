@@ -3,45 +3,61 @@
 !!!source: DWOK03
 !!!id: K0060a
 !!!signature:
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{8a
-8b
-4cc
-4ee
-=2
-8dd
-8cc
-4b
-4a
-=3
-4.dd
-8cc
-4b}
+**kern	**text	**text
+*clefG2	*	*
+*k[]	*	*
+*a:	*	*
+*M3/4	*	*
+=1	=1	=1
+{8a\	1._A	2._A
+8b	wier-	sa-
+4cc	-nie	-dzi-
+4ee	ja	-łam
+=2	=2	=2
+8dd	Pa-	ja-
+8cc	-nu	-błu-
+4bm	Bo-	-ne-
+4a\	-gu	-czkę
+=3	=3	=3
+4.dd	słu-	przy
+8cc	-ży-	drodze,
+4b}	-ła,	.
 !!LO:LB:g=esac
-=4
-{8a
-8b
-4cc
-4ee
-=5
-8dd
-8cc
-4b
-4a
-=6
-4.b
-8g#
-4a}
-==
-*-
+=4	=4	=4
+{8a\	kiej'm	któ-
+8b	ci	-rę-
+4cc	ja	-dy
+4ee	tę	Ja-
+=5	=5	=5
+8dd	ja-	-siń-
+8ccM	-błu-	-ko
+4b	-ne-	mi-
+4a\	-czkę	-ły
+=6	=6	=6
+4.b	sa-	po-
+8g#	-dzi-	-je-
+4a}	-ła.	-dzie.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. 1. A wiernie ja Panu Bogu służyła,
+!!kiej'm ci ja tę jabłuneczkę sadziła.
+!!@VERSE:
+!!2. 2. A sadziłam jabłuneczkę przy drodze,
+!!którędy Jasińko miły pojedzie.
+!!@VERSE:
+!!3. Urwała ich ta Kasiula dwanaście
+!!i podała Jasińkowi na moście.
+!!@VERSE:
+!!4. A przyjmij że Jasiu jabka do siebie,
+!!A przyjmę ja moja Kasiu i ciebie.
+!!@@END: VERSES
 !!!ONB: Partia wokalna
+!!!role-singer: Many characters
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=305 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 293} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 293}
 !!!page: 293
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-26

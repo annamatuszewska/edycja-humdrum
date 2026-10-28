@@ -3,88 +3,102 @@
 !!!source: DWOK03
 !!!id: K0089
 !!!signature:
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{8a
-8b
-8cc
-8dd
-8ee
-8ee
-=2
-16ff#
-16ee
-8dd
-8ee
-16cc
-16b
-8a
-8g#}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+!LO:TX:a:t=Do kopin (kapin, oczepin).	!
+{8a\	O
+8b	mój
+8cc	Ja-
+8dd	-si-
+8ee	-ne-
+8ee	-czku,
+=2	=2
+16ff#L	nie
+16eeJ	.
+8dd	chódź-
+8ee	-że
+16ccL	my
+16bJ	.
+8a	tę-
+8g#}	-dy,
 !!LO:LB:g=esac
-=3
-{8e
-8g#
-8a
-16cc
-16dd
-8ee
-8e
-=4
-8e
-8g#
-8a
-16cc
-16b
-8a
-32cc
-32b
-32a
-32g#}
+=3	=3
+{8e	bo
+8g#	ty
+8a	my
+16ccL	po-
+16ddJ	.
+8ee	-dep-
+8e	-cesz
+=4	=4
+8e	u
+8g#	la-
+8a	-wen-
+16ccL	-dy
+16bJ	.
+8a;	rzę-
+(>32c/Lc	.
+32b/	-dy.
+32a		.
+32g#)}J	.
 !!LO:LB:g=esac
-=5
-{8a
-8b
-8cc
-8dd
-8ee
-8ee
-=6
-16ff#
-16ee
-8dd
-8ee
-16cc
-16b
-8a
-8g#}
+=5	=5
+{8a\	Le-
+8b	-wen-
+8cc	-dy
+8dd	po-
+8ee	-ło-
+8ee	-miesz,
+=6	=6
+16ff#L	ro-
+16eeJ	.
+8dd	-zma-
+8ee	-ryn
+16ccL	po-
+16bJ	.
+8a	-dep-
+8g#}	-cesz,
 !!LO:LB:g=esac
-=7
-{8e
-8g#
-8a
-16cc
-16dd
-8ee
-8e
-=8
-8e
-8g#
-8a
-16cc
-16b
-8a
-32cc
-32b
-32a
-32g#}
-==
-*-
+=7	=7
+{8e	i-
+8g#	-żem
+8a	ja
+16ccL	sie-
+16ddJ	.
+8ee	-ro-
+8e	-ta
+=8	=8
+8e	dla
+8g#	te-
+8a	-go
+16ccL	me
+16bJ	.
+8a;	nie
+(>32c/Lc	chcesz.
+32b/	.
+32a	.
+32g#)J}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. O mój Jasineczku, nie chódźże my tędy,
+!!bo ty my podepcesz u lawendy rzędy.
+!!@VERSE:
+!!2. Lewendy połomiesz, rozmaryn podepcesz,
+!!iżem ja sierota dla tego me nie chcesz.
+!!@@END: VERSES
+!!!role-singer: Mistress
+!!!role-listener: Lover
+!!!singer-sex: Female
+!!!RDF**kern: >= above
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=321 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 309} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 309}
 !!!page: 309
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-10-28
