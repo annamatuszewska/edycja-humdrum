@@ -3,82 +3,96 @@
 !!!source: DWOK06
 !!!id: K0144a
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-=1
-*M3/8
-{16b
-16cc
-8dd
-8dd
-=2
-16dd
-16dd
-8b
-8b
-=3
-*M2/4
-8dd
-8cc}
-4r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+=1	=1
+*M3/8	*
+{16b	Uciekła
+16cc	.
+8dd	.
+8dd	mi
+=2	=2
+16dd	przepiórecka
+16dd	.
+8b	.
+8b	.
+=3	=3
+*M2/4	*
+8dd	w_proso
+8cc}	.
+4r	.
 !!LO:LB:g=esac
-=4
-*M3/8
-{16a
-16b
-8cc
-8cc
-=5
-16cc
-16cc
-8a
-8a
-=6
-*M2/4
-8cc
-8b}
-4r
+=4	=4
+*M3/8	*
+{16a\	a
+16b	ja
+8cc	za
+8cc	nią
+=5	=5
+16cc	nieboracek
+16cc	.
+8a	.
+8a\	.
+=6	=6
+*M2/4	*
+8cc	boso,
+8b}	.
+4r	.
 !!LO:LB:g=esac
-=7
-*M3/8
-{16g
-16a
-8b
-8b
-=8
-16b
-16b
-8g
-8g
-=9
-*M2/4
-8b
-8a}
-4r
+=7	=7
+*M3/8	*
+{16g	trzeba
+16a	.
+8b	by
+8b	się
+=8	=8
+16b	pani
+16b	.
+8g	matki
+8g	.
+=9	=9
+*M2/4	*
+8b	spytać,
+8a\}	.
+4r	.
 !!LO:LB:g=esac
-=10
-*M3/8
-{16a
-16b
-8cc
-8cc
-=11
-16cc
-16cc
-8a
-8cc
-=12
-*M2/4
-16cc
-16b
-8b}
-4r
-==
-*-
+=10	=10
+*M3/8	*
+{16a	cy
+16b/	pozwoli
+8cc	.
+8cc	.
+=11	=11
+16cc	przepióreczkę
+16cc	.
+8a	.
+8cc	.
+=12	=12
+*M2/4	*
+16ccL	chytać.
+16bJ/	.
+8b/}	.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Groom
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Uciekła mi przepiórecka w proso
+!!a ja za nią nieboracek boso,
+!!trzeba by się pani matki spytać,
+!!cy pozwoli przepióreczkę chytać.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Gdy ją pan-mlody goni, kupiwszy od starościn:
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=96 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 70} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 70}
 !!!page: 70
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

@@ -3,50 +3,117 @@
 !!!source: DWOK06
 !!!id: K0106b
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16b
-8dd
-8cc#
-=2
-4a
-8a
-=3
-16a
-16cc
-8ee
-8dd
-=4
-4b
-8b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	A
+16b	moje
+8dd	.
+8cc#	war-
+=2	=2
+4a	-kocki
+8a	.
+=3	=3
+16a	moje
+16ccn	.
+8ee	ładne
+8dd	.
+=4	=4
+4b	włosy
+8b}	.
 !!LO:LB:g=esac
-=5
-{16g
-16b
-8ee
-16dd
-16cc#
-=6
-4a
-8a
-=7
-16a
-16cc
-8dd
-8b
-=8
-4g
-8g}
-==
-*-
+=5	=5
+{16g	uzywałyście
+16b	.
+8ee	.
+16dd	.
+16cc#	.
+=6	=6
+4a	se
+8a	.
+=7	=7
+16a	u
+16cc	matki
+8dd	.
+8b	ros-
+=8	=8
+4g	-kosy,
+8g}	.
+=9	=9
+{16g	a
+16b	moje
+8dd	.
+8cc#	war-
+=10	=10
+4a	-kocki
+8a	.
+=11	=11
+16a	moje
+16ccn	.
+8ee	ładne
+8dd	.
+=12	=12
+4b	włosy
+8b}	.
+!!LO:LB:g=esac
+=13	=13
+{16g	uzywałyście
+16b	.
+8ee	.
+16ddL	.
+16cc#J	.
+=14	=14
+4a	se
+8a	.
+=15	=15
+16a	u
+16cc	matki
+8dd	.
+8b	ros-
+=16	=16
+4g	-kosy.
+8g}	.
+==	==
+*-	*-
+!!!role-singer: Wedding Matrons, Bride
+!!!role-listener: Bride, Rosemary
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Pomalutku rozbirajcie, warkocka ji nie targajcie,
+!!bo tez to w tej niewoli i główka ją bardzo boli.
+!!A moje warkocki mojo ładne włosy
+!!uzywałyście se u matki roskosy.
+!!A ino cie weźmie — jaki ch(ł)opowina,
+!!skrzywi ci się warkoc - kieby grochowina.
+!!Zalicali ji sie, — a ona nie śmiała,
+!!bo ona nie takich — przez przetacek siała.
+!!@VERSE:
+!!3. A jak ci ja była u swojéj matusie,
+!!miała ja warkocyk, połyskował mi sie.
+!!Marna ch(ł)opowina, — skoro mnie pojéna (pojęła),
+!!zmiąn mi się warkocyk — kieby grochowina.
+!!Ziele moje, ziele, — mój rozmaryjonie,
+!!juz cie moja rącka — ostatni raz łomie.
+!!@VERSE:
+!!4. U moji matusie, — u moji kochany,
+!!malowane okna, — bryzowane sciany.
+!!A jak ci ja byla, — u swéj pani matki,
+!!to ja przeskocyła — śtéry na raz ławki.
+!!A jakci ja posła, — za mego miłego,
+!!nie mogę ja przeleźć — progu mizernego.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Przy rozbieraniu głowy i zdjęciu wieńca śpiewają jeszcze:
+!!@@END:
 !!!ONB: Czesc 2
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=81 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 55} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 55}
 !!!page: 55
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

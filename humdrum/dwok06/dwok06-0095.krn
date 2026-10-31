@@ -3,52 +3,73 @@
 !!!source: DWOK06
 !!!id: K0095
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8b
-8b
-8b
-8cc#
-=2
-8dd
-4dd
-8r
-=3
-8b
-8b
-8b
-8cc#
-=4
-4dd
-16b
-8.g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8b	Drużbowie,
+8b	.
+8b	.
+8cc#	drużbowie,
+=2	=2
+8dd	.
+4dd	.
+8r	.
+=3	=3
+8b	równają
+8b	.
+8b	.
+8cc#	się
+=4	=4
+4dd	panom,
+16bL	.
+8.gJ}	.
 !!LO:LB:g=esac
-=5
-{8g
-8b
-8b
-8cc#
-=6
-8dd
-4dd
-8r
-=7
-8dd
-8b
-8g
-8a
-=8
-4cc
-16a
-8.g}
-==
-*-
+=5	=5
+{8g	a
+8b	jak
+8b	po
+8cc#	we-
+=6	=6
+8dd	-selu
+4dd	.
+8r	.
+=7	=7
+8dd	za
+8b	chłopów
+8g	.
+8a	nie
+=8	=8
+4ccn	staną.
+16aL	.
+8.gJ}	.
+==	==
+*-	*-
+!!!role-singer: Bridesmaids
+!!!role-listener: Bride
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Drużbowie, drużbowie, równają się panom,
+!!a jak po weselu za chłopów nie staną.
+!!@VERSE:
+!!2. Pragnęłaś Jagusiu - na kawałek siéci.
+!!niechze ci się teraz - na główecce świéci.
+!!@VERSE:
+!!3. Załujes Jagusiu - skoro po niewcasie,
+!!ugotujes klusków - nie ugodzis w kasie (kaszy).
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Druchny tańcując z panną-młodą (przyczém trzymając się pa-
+!!rami, przebierają nogami i przytupują do siebie lubo są często-
+!!kroć boso):
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=76 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 50} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 50}
 !!!page: 50
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

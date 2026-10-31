@@ -3,164 +3,127 @@
 !!!source: DWOK06
 !!!id: K0135
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{4cc
-8a
-=2
-16g
-16g
-8b-
-8dd
-=3
-4cc
-8a
-=4
-16g
-16g
-8b-
-8a}
+**kern	**text	**text
+*clefG2	*	*
+*k[b-]	*	*
+*F:	*	*
+*M3/8	*	*
+=1	=1	=1
+{4cc	Boli	Do
+8a	.	me-
+=2	=2	=2
+16g	mnie	-go
+16g	zołądek,	zołądka
+8b-	.	.
+8dd	.	.
+=3	=3	=3
+4cc	boli	porządecku
+8a	.	.
+=4	=4	=4
+16g	mnie	.
+16g	zołądek,	.
+8b-	.	trzeba
+8a\}	.	.
 !!LO:LB:g=esac
-=5
-{4cc
-8ee
-=6
-16ff
-16ff
-8dd
-8b-
-=7
-4cc
-8a
-=8
-16g
-16g
-8b-
-8a}
+=5	=5	=5
+{4cc	bo	(śtery)_ćwierci
+8ee	w_mo-	.
+=6	=6	=6
+16ff	-jim	cielęciny
+16ff	zołądku	.
+8dd	.	.
+8b-	.	.
+=7	=7	=7
+4cc	wielki	i
+8a	.	pie-
+=8	=8	=8
+16g	nieporządek,	-cywo
+16g	.	.
+8b-	.	chleba,
+8a}	.	.
 !!LO:LB:g=esac
-=9
-{4cc
-8ee
-=10
-16ff
-16ff
-8dd
-8b-
-=11
-4cc
-8a
-=12
-16g
-16g
-8b-
-8a}
+=9	=9	=9
+{4.cc	bo	(śtery)_ćwierci
+8ee	w_mo-	.
+=10	=10	=10
+16ff	-jim	cielęciny
+16ff	zołądku	.
+8dd	.	.
+8b-	.	.
+=11	=11	=11
+4cc	wielki	i
+8a	.	pie-
+=12	=12	=12
+16g	nieporządek.	-cywo
+16g	.	.
+8b-	.	chleba.
+8a\}	.	.
 !!LO:LB:g=esac
-=13
-{4cc
-8a
-=14
-16g
-16g
-8b-
-8dd
-=15
-4cc
-8a
-=16
-16g
-16g
-8b-
-8a}
+=13	=13	=13
+{16fL	.	.
+16fJ	.	.
+8aL	.	.
+8ccJ	.	.
+=14	=14	=14
+16ffL	.	.
+16ffJ	.	.
+8ddL	.	.
+8ccJ	.	.
+=15	=15	=15
+16fL	.	.
+16aJ	.	.
+16ccL	.	.
+16a	.	.
+16cc	.	.
+16eeJ	.	.
+=16	=16	=16
+16ffL	.	.
+16ffJ	.	.
+8ddL	.	.
+8ccJ}	.	.
 !!LO:LB:g=esac
-=17
-{4cc
-8ee
-=18
-16ff
-16ff
-8dd
-8b-
-=19
-4cc
-8a
-=20
-16g
-16g
-8b-
-8a}
-!!LO:LB:g=esac
-=21
-{8.cc
-16a
-16cc
-16ee
-=22
-16ff
-16ff
-16dd
-16b-
-16g
-16b-
-=23
-4cc
-8a
-=24
-16g
-16g
-8b-
-8a}
-!!LO:LB:g=esac
-=25
-{16f
-16f
-8a
-8cc
-=26
-16ff
-16ff
-8dd
-8cc
-=27
-16f
-16a
-16cc
-16a
-16cc
-16ee
-=28
-16ff
-16ff
-8dd
-8cc}
-!!LO:LB:g=esac
-=29
-{16f
-16f
-8a
-8cc
-=30
-16ff
-16ff
-8dd
-8cc
-=31
-16f
-16a
-8cc
-8ee
-=32
-16ff
-16ff
-8dd
-8cc}
-==
-*-
+=17	=17	=17
+{16fL	.	.
+16fJ	.	.
+8aL	.	.
+8ccJ	.	.
+=18	=18	=18
+16ffL	.	.
+16ffJ	.	.
+8ddL	.	.
+8ccJ	.	.
+=19	=19	=19
+16fL	.	.
+16aJ	.	.
+8ccL	.	.
+8eeJ/	.	.
+=20	=20	=20
+16ffL	.	.
+16ffJ	.	.
+8ddL	.	.
+8ccJ}	.	.
+==	==	==
+*-	*-	*-
+!!!role-singer: Groomsmen
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Boli mnie zołądek, boli mnie zołądek,
+!!bo w mojim zołądku wielki nieporządek,
+!!bo w mojim zołądku wielki nieporządek.
+!!Do mego zołądka porządecku trzeba.
+!!(stéry) ćwierci cielęciny i piecywo chleba,
+!!stéry ćwierci cielęciny i piecywo chleba.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Z karczmy idzie zwykle orszak pana-młodego do jego ro-
+!!dziców; panna-młoda zaś zabiera swoich gości i druchny do siebie.
+!!Gdy mają zasiąść do obiadu, drużbowie odzywają się:
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=93 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 67} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 67}
 !!!page: 67
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

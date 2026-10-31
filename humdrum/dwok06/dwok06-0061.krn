@@ -3,87 +3,120 @@
 !!!source: DWOK06
 !!!id: K0061
 !!!signature:
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16e
-16g#
-8a
-8cc
-=2
-8ee
-4a
-=3
-8ee
-8ee
-8b
-=4
-8ee
-4a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{16eL	Już
+16g#J	.
+8a	my
+8cc	i-
+=2	=2
+8ee	-demy,
+4a	.
+=3	=3
+8ee	juz
+8ee	wycho-
+8b	.
+=4	=4
+8ee	-dzemy,
+4a}	.
 !!LO:LB:g=esac
-=5
-{16cc
-16ee
-8ee
-8dd
-=6
-16cc
-16b
-8a
-8g#
-=7
-16e
-16g#
-8a
-8cc
-=8
-8b
-4e}
+=5	=5
+{16cc	z_tą
+16ee	Jagusią
+8ee	.
+8dd	.
+=6	=6
+16ccL	do
+16bJ	.
+8a	ślubu,
+8g#	.
+=7	=7
+16e	ona
+16g#	.
+8a	nam
+8cc	iść
+=8	=8
+8b	niechce.
+4e}	.
 !!LO:LB:g=esac
-=9
-{16e
-16g#
-8a
-8cc
-=10
-8ee
-4a
-=11
-16ee
-16aa
-16ee
-16dd
-8b
-=12
-16ee
-16cc
-4a}
+=9	=9
+{16eL	Już
+16g#J	.
+8a	my
+8cc	i-
+=10	=10
+8ee	-demy,
+4a	.
+=11	=11
+16eeL	już
+16aaJ/	.
+16eeL	wycho-
+16ddJ/	.
+8b	.
+=12	=12
+16eeL	-dzemy,
+16ccJ/	.
+4a}	.
 !!LO:LB:g=esac
-=13
-{16cc
-16ee
-8ee
-8dd
-=14
-16cc
-16b
-8a
-8g#
-=15
-16e
-16g#
-8a
-8cc
-=16
-8b
-4e}
-==
-*-
+=13	=13
+{16cc	z_tą
+16ee	Jagusią
+8ee	.
+8dd	.
+=14	=14
+16ccL	do
+16bJ	.
+8a	ślubu,
+8g#	.
+=15	=15
+16e	ona
+16g#	.
+8a	nam
+8cc	iść
+=16	=16
+8b	niechce.
+4e}	.
+==	==
+*-	*-
+!!!role-singer: Bride, Groom
+!!!role-listener: Parents
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Juz my idemy, juz wychodzemy,
+!!z tą Jagusią do ślubu, ona nam iść niechce.
+!!Wychodziemy przez próg was, pobłogosławcie nas,
+!!wy pań matko, panie ojce!
+!!@VERSE:
+!!2. Błogosław-ze nam matko moja,
+!!bo juz idziemy do kościoła;
+!!błogosław-ze nam ojce mój,
+!!bo juz idemy na ten ślub.
+!!@VERSE:
+!!3. 4. (Toż: siostro moja, bracie mój)
+!!@VERSE:
+!!5. Błogosław-ze nam Jezusie
+!!od téj kochanéj mutusie!
+!!@VERSE:
+!!6. Blogosławciez nam wsyćcy ludzie.
+!!bo juz dziewcyna na ślub idzie.
+!!A przełaż-ze pani-moda (młoda) bez progi,
+!!a uchyć-ze pana-ojca, panią-matkę za nogi.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Poczém zabierając się ku wyjściu do ślubu, proszą ze łzami
+!!rodziców i wszystkich o błogosławieństwo. (Tu miewa Starosta nie-
+!!kiedy krótką przemowę o obowiązkach, jakie ich czekają w przy-
+!!szłym stanie).
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=62 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 36} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 36}
 !!!page: 36
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

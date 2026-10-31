@@ -3,58 +3,144 @@
 !!!source: DWOK06
 !!!id: K0204
 !!!signature:
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{8e
-8g#
-8a
-8cc
-8b
-8a
-=2
-8cc
-8ee
-8dd
-8cc
-8b
-8a
-=3
-8cc
-8ee
-8dd
-8cc
-8b
-8a}
+**kern	**text	**text
+*clefG2	*	*
+*k[]	*	*
+*a:	*	*
+*M3/4	*	*
+=1	=1	=1
+{8e	Wele	Jest
+8g#	.	ci
+8a	tego	ta
+8cc	.	dziewcyna
+8b	młyna	.
+8a	.	.
+=2	=2	=2
+8cc	zielona	z_siwemi
+8ee	.	.
+8dd	.	.
+8cc	olsyna,	ocyma,
+8b	.	.
+8a	.	.
+=3	=3	=3
+8cc	zielona	z_siwemi
+8ee	.	.
+8dd	.	.
+8cc	olsyna,	ocyma,
+8b	.	.
+8a}	.	.
 !!LO:LB:g=esac
-=4
-{8b
-8a
-8g#
-8e
-4d
-=5
-8e
-8g#
-2a}
+=4	=4	=4
+{8b	trzebaby	zeby
+8a	.	.
+8g#L	.	mi
+8eJ	.	.
+4d	ją	ją
+=5	=5	=5
+8e	wyrąbać,	chcieli
+8g#	.	.
+2a}	.	dać,
 !!LO:LB:g=esac
-=6
-{8b
-8a
-8g#
-8e
-4d
-=7
-8e
-8f#
-2d}
-==
-*-
+=6	=6	=6
+{8b	trzebaby	zeby
+8a	.	.
+8g#L	.	mi
+8eJ	.	.
+4d	ją	ją
+=7	=7	=7
+8e	wyrąbać,	chcieli
+8f#	.	.
+2d}	.	dać
+==	==	==
+*-	*-	*-
+!!!role-singer: Maiden
+!!!role-listener: Bachelor
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Wele tego młyna
+!!zielono olsyna,
+!!trzeba by ją wyrąbac
+!!Jeś-ci ta dziewcyna
+!!z siwemi ocyma,
+!!zeby mi ją chcieli dać.
+!!Dadzą ci ją dadzą,
+!!pieknie odprowadzą,
+!!ale ji trza sanować
+!!@VERSE:
+!!2. Jechołem na koniu,
+!!uwiązgnuł mi w błoniu,
+!!i tak mi ji nie chcą dać.
+!!Dadzą ci ją, dadzą,
+!!pieknie odprowadzą,
+!!ale ji trza szanować.
+!!@VERSE:
+!!3. Jechołem na wole,
+!!uwiązgnuł mi w dole,
+!!i tak mi ji nie chcą dać
+!!Dadzą, Jasiu dadzą,
+!!pieknie odprowadzą,
+!!ale ji trza sanować.
+!!@VERSE:
+!!4. Jechołem na świni,
+!!uwiązgła mi w siéni,
+!!i tak mi ją nie chcą dać.
+!!Dadzą, Jasiu i t. d.
+!!@VERSE:
+!!5. Jechołem na kurze,
+!!uwiązgła mi w górze (lub w dziurze)
+!!i tak mi ji nie chcą dać.
+!!Dadzą i t. d.
+!!@VERSE:
+!!6. Jechołem na wronie,
+!!ogon jéj się łomie
+!!(dy podemną się łomie)
+!!i tak mi ji i t. d.
+!!@VERSE:
+!!7. Jechołem na sroce,
+!!pode mną zegoce,
+!!i tak mi ji nie chcą dać.
+!!@VERSE:
+!!8. Jechołem na zabie,
+!!pode mną się grabie,
+!!i tak mi je nie chcą dać.
+!!Dadzą i t. d.
+!!@VERSE:
+!!9. Jechałem na mysy,
+!!na usy nie słysy,
+!!i tak mi ji nie chcą dać.
+!!Dadzą i t. d.
+!!@VERSE:
+!!10. Przepiłem se brony
+!!wsyćko wele ony (onéj)
+!!i tak mi ji i t. d.
+!!@VERSE:
+!!11. Przepiułem se płuzek
+!!narobiłem dłuzek
+!!i tak mi ji i t. d.
+!!@VERSE:
+!!12. Przepiłem se radło
+!!wsyćko to przepadło
+!!i tak mi ji i t. d
+!!@VERSE:
+!!13. Nad przetyckiem tycki,
+!!na polu krzemycki,
+!!w ogródecku lescyna, -
+!!na kominku popiół,
+!!daj mi Jasiu pokój
+!!bo ja mało dziewcyna.
+!!@VERSE:
+!!14. A cóz-eś se myślał,
+!!kie-ś mi rąckę sciskoł
+!!w kómórecce za drzwiami?
+!!By jo cie mioł zdradzić,
+!!albo odprowadzić,
+!!biłem jo sie z myślami.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=135 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 109} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 109}
 !!!page: 109
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

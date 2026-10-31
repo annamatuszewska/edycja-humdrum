@@ -3,50 +3,65 @@
 !!!source: DWOK06
 !!!id: K0139
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16cc
-16dd
-8ee
-8ee
-=2
-16ee
-16ee
-8dd
-8cc
-=3
-16dd
-16ee
-8ff
-8ee
-=4
-4.dd}
+**kern	**text	**text
+*clefG2	*	*
+*k[]	*	*
+*C:	*	*
+*M3/8	*	*
+=1	=1	=1
+{16cc	Zakukała	A
+16dd	.	wynidź
+8ee	.	.
+8ee	.	ze
+=2	=2	=2
+16ee	kukułecka	pani-
+16ee	.	.
+8dd	.	-młoda
+8cc	.	.
+=3	=3	=3
+16ddL	za	z_za
+16eeJ	.	.
+8ffL	dwo-	sto-
+8eeJ	.	.
+=4	=4	=4
+4.dd}	-rem	-ła
 !!LO:LB:g=esac
-=5
-{16b
-16cc
-8dd
-8dd
-=6
-16dd
-16cc
-8b
-8g
-=7
-8cc
-8ee
-8dd
-=8
-4cc}
-8r
-==
-*-
+=5	=5	=5
+{16b	jak	podziękuj
+16cc	płakała	.
+8dd	.	.
+8dd	.	ze
+=6	=6	=6
+16dd	pani	syćkim
+16cc	.	.
+8b	młoda	ludziom
+8g	.	.
+=7	=7	=7
+8cc	za	z_wese-
+8eeL	sto-	.
+8ddJ	.	.
+=8	=8	=8
+4cc}	-łem.	-la.
+8r	.	.
+==	==	==
+*-	*-	*-
+!!!role-singer: Wedding Matrons
+!!!role-listener: Bride
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Zakukała kukułecka za dworem
+!!jak płakała pani młoda za stołem.
+!!A wynidź ze pani-młoda z za stoła
+!!podziękuj ze syćkim ludziom z wesela.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Kiedy pannę-młodą kupują baby do czepin:
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=94 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 68} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 68}
 !!!page: 68
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

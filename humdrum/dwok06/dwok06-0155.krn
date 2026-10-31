@@ -3,72 +3,109 @@
 !!!source: DWOK06
 !!!id: K0155
 !!!signature:
-**kern
-*clefG2
-*k[b-e-]
-*g:
-*M2/4
-=1
-{8g
-8a
-8b-
-8cc
-=2
-8dd
-4a
-8r
-=3
-8dd
-8dd
-8cc
-8ee-
-=4
-8dd
-4a}
-8r
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*g:	*
+*M2/4	*
+=1	=1
+{8g	Leci
+8a	.
+8b-	sokół
+8cc	.
+=2	=2
+8dd	leci
+4a	.
+8r	prosto
+=3	=3
+8dd	.
+8dd	w_ogró-.
+8cc	-decek,
+8ee-	.
+=4	=4
+8dd	.
+4a}	przysięgłaś
+8r	.
 !!LO:LB:g=esac
-=5
-{8g
-8a
-8b-
-8cc
-=6
-8dd
-4a
-8cc
-=7
-8b-
-8dd
-8cc
-16b-
-16a
-=8
-8g
-8g
-8r
-8b-}
+=5	=5
+{8g	.
+8a	chłopcynie
+8b-	.
+8cc	.
+=6	=6
+8dd	.
+(4a	weźnie
+8cc)	.
+=7	=7
+8b-	ci
+8dd	wianecek
+8cc	.
+16b-L	.
+16aJ	.
+=8	=8
+8g	.
+8g	.
+8r	.
+8b-}	.
 !!LO:LB:g=esac
-=9
-{8g
-8a
-8b-
-8cc
-=10
-8a
-4.f#
-=11
-8g
-8a
-8f#
-8d
-=12
-8f#
-4g}
-8r
-==
-*-
+=9	=9
+{8gL	.
+8aJ	.
+8b-L	.
+8ccJ	.
+=10	=10
+8a	.
+4.f#	.
+=11	=11
+8gL	.
+8aJ	.
+8f#L	.
+8dJ	.
+=12	=12
+8f#	.
+4g}	.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Farmhands, (Bride)
+!!!role-listener: Bride, Groom
+!!!singer-sex: male, (female)
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1 Leci sokół leci
+!!prosto w ogródecek,
+!!przysięgłaś chłopcynie
+!!weźnie ci wianecek
+!!@VERSE:
+!!2. Weźmie ci wianecek,
+!!weźmie ci swobodę.
+!!Samaś tego chciała,
+!!brnij teraz przez wodę.
+!!@VERSE:
+!!3. Przyszłam se z kościoła,
+!!siadłam se na progu,
+!!juzem się wydała,
+!!Chwała panu Bogu.
+!!@VERSE:
+!!4. Hej-ze ino dobra
+!!twoja zona z ziobra,
+!!ślubowała cnotę,
+!!dbaj-ze teraz o tę.
+!!@VERSE:
+!!5. Idzie woda, idzie,
+!!po kamieniach hucy —
+!!kto nie zna co bieda,
+!!zona go naucy.
+!!@VERSE:
+!!6. Zona go naucy,
+!!naucą go dzieci.
+!!Chciało ci się żony,
+!!niechze ci się świeci.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=106 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 80} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 80}
 !!!page: 80
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

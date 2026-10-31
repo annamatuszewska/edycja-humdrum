@@ -3,53 +3,66 @@
 !!!source: DWOK06
 !!!id: K0007
 !!!signature:
-**kern
-*clefG2
-*k[b-e-]
-*g:
-*M2/4
-=1
-{8d
-16e
-16f#
-4g
-=2
-8b-
-4dd
-8dd
-=3
-8dd
-8dd
-8cc
-16b-
-16a
-=4
-8g
-4b-}
-8r
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*g:	*
+*M2/4	*
+=1	=1
+{8d	Kwiatecki
+16eL	.
+16f#J	.
+4g	.
+=2	=2
+8b-	wianecki,
+4dd	.
+8dd	.
+=3	=3
+8dd	niesie
+8dd	.
+8cc	ci
+16b-L	w_ofierze,
+16aJ	.
+=4	=4
+8g	.
+4b-}	.
+8r	.
 !!LO:LB:g=esac
-=5
-{8cc#
-8ee
-4dd
-=6
-8cc#
-4dd
-16b-
-16a
-=7
-8g
-8a
-8b-
-8g
-=8
-8f#
-4d}
-8r
-==
-*-
+=5	=5
+{8cc#	a
+8ee	potem
+4dd	.
+=6	=6
+8cc#	i
+4dd	twój
+16b-L	ci
+16aJ\	.
+=7	=7
+8g	dziewcyno
+8a	.
+8b-/	.
+8g	zabierze.
+=8	=8
+8f#	.
+4d}	.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Narrato, Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Kwiatecki wianecki, niesie ci w ofierze,
+!!a potem i twój ci dziewcyno zabierze.
+!!Dostanę rozdane między rówiennicki,
+!!One mi tez za to nadstawią spódnicki,
+!!Bym się nie potłukła, gdy-ć z ambonki spadnę,
+!!boć-bym nie tak była jak one są ładne.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=38 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 14} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 14}
 !!!page: 14
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

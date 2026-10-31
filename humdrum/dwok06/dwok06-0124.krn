@@ -3,73 +3,105 @@
 !!!source: DWOK06
 !!!id: K0124
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16g
-16b
-8cc
-8b
-=2
-8dd
-8dd
-8b
-=3
-16dd
-16dd
-8cc
-8g
-=4
-8a
-4g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16g	Dobranocka
+16b	.
+8cc	.
+8b	.
+=2	=2
+8dd	dobra
+8ddL	.
+8bJ	.
+=3	=3
+16dd	dziewcyno
+16dd	.
+8cc	.
+8g\	na-
+=4	=4
+8a	-dobna,
+4g}	.
 !!LO:LB:g=esac
-=5
-{16g
-16b
-8cc
-8b
-=6
-8dd
-4cc
-=7
-4g}
-8r
+=5	=5
+{16g	cegoz
+16b	.
+8cc	będzies
+8b	.
+=6	=6
+8dd	pła-
+4cc	-kała,
+=7	=7
+4g}	.
+8r;	.
 !!LO:LB:g=esac
-=8
-{8a
-8a
-8b
-=9
-8cc
-4a
-=10
-16b
-16cc
-8b
-8g
-=11
-8f#
-4d}
+=8	=8
+{8a\	cemuześ
+8a\	.
+8b	.
+=9	=9
+8cc	nie
+4a\	sła
+=10	=10
+16b	kiej
+16cc	cię
+8b	ludzie
+8g	.
+=11	=11
+8f#	chcieli,
+4d}	.
 !!LO:LB:g=esac
-=12
-{8d
-8f
-8g
-=13
-8b
-4f#
-=14
-4.g
-=15
-4g}
-8r
-==
-*-
+=12	=12
+{8d	tylko
+8f	.
+8g	na
+=13	=13
+8b-i	nas
+4f#	céka-
+=14	=14
+4.g	.
+=15	=15
+4g}	-ła.
+8r	.
+==	==
+*-	*-
+!!!RDF**kern: i = editorial accidental
+!!!role-singer: Bridesmaids
+!!!role-listener: Bride
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Dobranocka dobra
+!!dziewcyno nadobna,
+!!cegoz będzies płakała,
+!!cemuześ nie sła
+!!kiej cię ludzie chcieli,
+!!tylkoś na nas cékała.
+!!@VERSE:
+!!2. Dobra nocka, dobra,
+!!dziewcyno nadobna,
+!!bodaj'eś zdrowo spała.
+!!Jak się przewrócis
+!!na prawy bocek,
+!!bedzies nas wspominała.
+!!@VERSE:
+!!3. Przyjechał do nij
+!!na parze koni,
+!!przed bielony ganecek, —
+!!ona płakała
+!!i załowała
+!!za zielony wianecek.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Na dobranoc pannie-młodéj, druchny:
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=89 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 63} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 63}
 !!!page: 63
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

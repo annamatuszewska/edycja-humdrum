@@ -3,49 +3,83 @@
 !!!source: DWOK06
 !!!id: K0203
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16g
-16a
-8b
-8g
-=2
-4cc
-8cc
-=3
-16dd
-16ee
-8ff
-8dd
-=4
-8.ee
-16dd
-8cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16g	Jaworowe
+16a	.
+8b/	.
+8g	.
+=2	=2
+4cc	kółka
+8cc	.
+=3	=3
+16dd	olsowa
+16ee	.
+8ff	.
+8dd	rozwórka
+=4	=4
+8.eeL	.
+16ddJ	.
+8cc}	.
 !!LO:LB:g=esac
-=5
-{16g
-16a
-8b
-8g
-=6
-8cc
-8ee
-8dd
-=7
-8cc
-8.ee
-16dd
-=8
-4cc}
-8r
-==
-*-
+=5	=5
+{16g	trzebaby
+16a	.
+8b/	.
+8g	ją
+=6	=6
+8cc	okować,
+8ee	.
+8dd	.
+=7	=7
+8cc	oko-
+8.eeL	.
+16ddJ	.
+=8	=8
+4cc}	-wać.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Jaworowe kółka
+!!olsowa rozwórka
+!!trzeba by ją okować.
+!!Podoba mi sie
+!!u młynarza córka:
+!!ale mi ją niechcą dać.
+!!@VERSE:
+!!2. Straciłem se złoty
+!!na pierse zaloty
+!!i tak mi ji nie chcą dać.
+!!Straciłem se talar
+!!ledwiem nie osalał
+!!i tak mi ji nie chcą dać.
+!!@VERSE:
+!!3. Straciłem se dukat
+!!com go ojcu ukrad,
+!!jesce mi ją niechcą dać
+!!Straciłem se woły,
+!!zboze ze stodoły,
+!!i tak mi ji nie chcą dać.
+!!@VERSE:
+!!4. A na święty Jacek
+!!w Skalmierzu jarmacek
+!!wiezie mi ją sama mać.
+!!A ja ji juz niechce
+!!wele innyj drepce,
+!!mogliście ją wprzódy dać.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=135 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 109} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 109}
 !!!page: 109
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

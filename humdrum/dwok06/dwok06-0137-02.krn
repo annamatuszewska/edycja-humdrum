@@ -3,111 +3,127 @@
 !!!source: DWOK06
 !!!id: K0137
 !!!signature: 0613700002
-**kern
-*clefG2
-*k[]
-*a:
-*M2/4
-=1
-{8ee
-16ee
-16dd#
-8ee
-8ff#
-=2
-4ee
-16dd#
-16ff#
-16dd#
-16b
-=3
-8cc
-8a
-4b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M2/4	*
+=1	=1
+{8eeL	Ty
+16ee	wianeczku
+16dd#J/	.
+8ee	.
+8ff#	.
+=2	=2
+4ee	siedmi
+16dd#L	.
+16ff#	.
+16dd#	.
+16bJ/	.
+=3	=3
+8ccL	ziela
+8aJ	.
+4b;}	.
 !!LO:LB:g=esac
-=4
-{8ee
-16ee
-16dd#
-8ee
-8ff#
-=5
-4ee
-16dd#
-16ff#
-16dd#
-16b
-=6
-8cc
-8dd#
-4b}
+=4	=4
+{8eeL	chowałem
+16ee	.
+16dd#J/	.
+8ee	.
+8ff#	cię
+=5	=5
+4ee	od
+16dd#L	nie-
+16ff#	.
+16dd#	.
+16bJ/	.
+=6	=6
+8ccL	-dziela.
+8dd#J/	.
+4b;}	.
 !!LO:LB:g=esac
-=7
-{16e
-16f#
-16g#
-16a
-16b
-16cc
-8dd
-=8
-8.dd
-16ee
-16dd
-16ee
-16dd
-16b
-=9
-8ee
-8dd
-8cc
-8a
-=10
-4cc
-16dd
-16ee
-16dd
-16cc
-=11
-8cc
-8ee
-4b}
+=7	=7
+{16e	Chowałam
+16f#	.
+16g#	.
+16a	cię
+16bL	w_nowéj
+16ccJ	.
+8dd	.
+=8	=8
+8.ddL	skrzyni,
+16eeJ	.
+16ddL	.
+16ee	.
+16dd	.
+16bJ/	.
+=9	=9
+8eeL	i
+8ddJ/	tak
+8ccL	mi
+8aJ/	cię
+=10	=10
+4cc	chopcy
+16ddL	.
+16ee	.
+16dd	.
+16ccJ/	.
+=11	=11
+8aL	wziéni,
+8ccJ	.
+4b;}	.
 !!LO:LB:g=esac
-=12
-{16e
-16f#
-16g#
-16a
-16b
-16cc
-[8dd
-=13
-8dd]
-16dd
-16cc#
-8dd
-8ee
-=14
-4dd
-16ee
-16dd
-16cc
-16b
-=15
-16a
-16b
-4cc
-8dd
-=16
-16cc
-16dd
-16cc
-16a
-4b}
-==
-*-
+=12	=12
+{16e	chowałam
+16f#	.
+16g#	.
+16a	cię
+16bL	w_nowy
+16ccJ	.
+[8dd	.
+=13	=13
+8dd]	.
+8eeq	.
+16ddL	skrzy-
+16cc#J	.
+8dd	-ni
+8ee	.
+=14	=14
+4dd	i
+16eeL	tak
+16ddJ	.
+16ccL	mi
+16bJ	.
+=15	=15
+16aL	cię
+16bJ	.
+(4cc	chopcy
+8dd)	.
+=16	=16
+16ccL	wziéni.
+16dd	.
+16cc	.
+16aJ/	.
+4b;}	.
+==	==
+*-	*-
+!!!role-singer: Bridesmaids (Bride)
+!!!role-listener: Garland
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Ty wianecku siedmi ziela chowałem cię od niedziela.
+!!Chowałam cię w nowéj skrzyni, i tak mi cię chopcy wziéni,
+!!chowałam cię w nowy skrzyni i tak mi cię chopcy wziéni.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Przed oczepinami śpiewają druchny z towarzyszeniem skrzy-
+!!piec:
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=94 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 68} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 68}
 !!!page: 68
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

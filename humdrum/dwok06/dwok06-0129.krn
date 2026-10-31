@@ -3,76 +3,155 @@
 !!!source: DWOK06
 !!!id: K0129
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-8r
-4r
-{8d
-8g
-8a
-=
-8b
-8cc
-12ee
-12dd
-12cc#
-8dd
-8ee
-=2
-[4dd
-8dd]
-16cc
-16b
-8a}
-8r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+!LO:TX:a:t=Andante	!
+8r	.
+4r	.
+{8d	Bogosław
+8g	.
+8a	.
+=2	=2
+*Xtuplet	*
+8b	ze
+8cc	nam
+12eeL	matko
+12dd	.
+12cc#J	.
+8ddL	.
+8eeJ	.
+=3	=3
+[4dd	mo-
+8dd]L	.
+16cc	.
+16bJ	.
+8a}	-ja
+8r	.
 !!LO:LB:g=esac
-=3
-8r
-4r
-{8dd
-8dd
-8cc
-=
-24b
-24cc
-24b
-16a
-16g
-8a
-8b
-4cc
-=
-12b
-12a
-12g
-2a}
+=4	=4
+8r	.
+4r	.
+{8dd	bo
+8dd	juz
+8cc	i-
+=5	=5
+24bL	-dziemy
+24cc	.
+24bJ	.
+16aL	.
+16gJ	.
+8aL	do
+8bJ\	.
+4cc	ko-
+=6	=6
+12bL	-ścioła,
+12a	.
+12gJ	.
+2a}	.
 !!LO:LB:g=esac
-=4
-{8a
-8g
-8a
-8b
-8cc
-8b
-=
-8b
-8a
-12g
-12a
-12b
-[4a
-=5
-4a]
-4g}
-4r
-==
-*-
+=7	=7
+{8aL	bo
+8gJ	.
+8a\	juz
+8b	idzie-
+8ccL	.
+8bJ	.
+=8	=8
+8b	-my
+8a	do
+12gL	kościo-
+12a	.
+12bJ	.
+[4a	.
+=9	=9
+4a]	.
+4g}	-ła.
+4r	.
+=10	=10
+8r	.
+4r	.
+{8d	Bogosław
+8g	.
+8a	.
+=11	=11
+8b	ze
+8cc	nam
+12ee	ojce
+12dd	.
+12cc#	.
+8dd	.
+8ee	.
+=12	=12
+[4dd	mó-
+8dd]	.
+16cc	.
+16b	.
+8a}	-j
+8r	.
+!!LO:LB:g=esac
+=13	=13
+8r	.
+4r	.
+{8dd	bo
+8dd	już
+8cc	i-
+=14	=14
+24b	-dziemy
+24cc	.
+24b	.
+16a	.
+16g	.
+8a	na
+8b	.
+8ccL	ten
+8bJ/	.
+=15	=15
+12b	ślub,
+12a	.
+12g	.
+2a}	.
+!!LO:LB:g=esac
+=16	=16
+{8a	bo
+8g	.
+8a	juz
+8b	idzie-
+8cc	.
+8b	.
+=17	=17
+8b	-my
+8a	na
+12g	ten
+12a	.
+12b	.
+[4a	ślub.
+=18	=18
+4a]	.
+4g}	.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Bride, Groom
+!!!role-listener: Parents
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Bogosław ze nam matko moja bo juz idziemy do kościoła,
+!!bo juz idziemy do kościoła.
+!!Bogosław ze nam ojce mój bo już idziemy na ten ślub,
+!!bo juz idziemy na ten ślub.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Przy wyjściu z chaty; druchny żegnają progi domowe.
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=91 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 65} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 65}
 !!!page: 65
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

@@ -3,62 +3,86 @@
 !!!source: DWOK06
 !!!id: K0001
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-=1
-*M3/4
-{8ee
-8dd
-4ee
-8ff
-8dd
-=2
-*M5/8
-8ee
-8dd
-4cc
-8r
-=3
-*M3/4
-8ee
-8ff
-4.gg
-8ee
-=4
-*M5/8
-4ff
-4dd}
-8r
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+=1	=1
+*M3/4	*
+{8eeL	Nie
+8ddJ	.
+4ee	ma
+8ffL	na
+8ddJ	.
+=2	=2
+*M5/8	*
+8eeL	świecie
+8ddJ	.
+4cc	.
+8r	.
+=3	=3
+*M3/4	*
+8eeL	nic
+8ffJ	.
+4.gg	szczęśliwszego
+8ee	.
+=4	=4
+*M5/8	*
+4ff	.
+4dd}	.
+8r	.
 !!LO:LB:g=esac
-=5
-*M3/4
-{4ee
-4.gg
-8ff
-=6
-*M5/8
-4ee
-4dd
-8r
-=7
-*M3/4
-8ee
-8dd
-4ee
-8ff
-8dd
-=8
-*M5/8
-8dd
-8cc
-4cc}
-8r
-==
-*-
+=5	=5
+*M3/4	*
+{4ee	jako
+4.gg	.
+8ff	Jezusa
+=6	=6
+*M5/8	*
+4ee	.
+4dd	.
+8r	.
+=7	=7
+*M3/4	*
+8eeL	narodzo-
+8ddJ	.
+(4ee	.
+8ff)	.
+8dd	.
+=8	=8
+*M5/8	*
+8ddL	-nego.
+8ccJ	.
+4cc}	.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Caroler
+!!!role-listener: Christian
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Nie ma na świecie nic szczęśliwszego
+!!jako Jezusa narodzonego.
+!!@VERSE:
+!!2. Kochaj, ach kochaj!
+!!tęsknij do Niego.
+!!@VERSE:
+!!3. Boć to nam będzie wszystko przydane,
+!!kiedy się dusza z ciałem rozstanie.
+!!@VERSE:
+!!4. Więcej nie weźmiesz ze świata wysługi,
+!!daj Jezu w życiu popłacić długi.
+!!@VERSE:
+!!5. Jednę koszulę z czterma deskami,
+!!tak się rozstaje z przyjaciołami.
+!!@VERSE:
+!!6. Niech moru, głodu nie znają,
+!!co Cię kochają.”
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=29 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 5} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 5}
 !!!page: 5
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

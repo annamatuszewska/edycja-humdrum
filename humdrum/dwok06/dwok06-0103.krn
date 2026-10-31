@@ -3,85 +3,106 @@
 !!!source: DWOK06
 !!!id: K0103
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16b
-16cc
-16dd
-16ee
-16dd
-16cc
-=2
-8b
-4cc
-=3
-16b
-16dd
-16b
-16g
-16a
-16f#
-=4
-4g}
-8r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16bL	Zebyś
+16ccJ	.
+16ddL	.
+16eeJ	.
+16ddL	ty
+16ccJ	.
+=2	=2
+8b	chmielu
+4cc	.
+=3	=3
+16b	nie
+16dd	laz
+16bL	na
+16gJ	.
+16aL	ty-
+16f#J	.
+=4	=4
+4g}	-ki,
+8r	.
 !!LO:LB:g=esac
-=5
-{16b
-16cc
-16dd
-16ee
-16dd
-16cc
-=6
-8b
-4cc
-=7
-16b
-16dd
-16b
-16g
-16a
-16f#
-=8
-4g}
-8r
+=5	=5
+{16bL	zebyś
+16ccJ	.
+16ddL	.
+16eeJ	.
+16ddL	ty
+16ccJ	.
+=6	=6
+8b	chmielu
+4cc	.
+=7	=7
+16b	nie
+16dd	laz
+16bL	na
+16gJ	.
+16aL	ty-
+16f#J	.
+=8	=8
+4g}	-ki
+8r	.
 !!LO:LB:g=esac
-=9
-{8dd
-8g
-8a
-=10
-16dd
-16dd
-8g
-8a
-=11
-8dd
-8g
-8a
-=12
-16dd
-16dd
-8g
-8a
-=13
-16dd
-16cc
-16b
-16g
-16a
-16f#
-=14
-4g}
-8r
-==
-*-
+=9	=9
+{8dd	Oj
+8g	chmielu,
+8a	.
+=10	=10
+16dd	oj
+16dd	nieboże,
+8g	.
+8a	.
+=11	=11
+8dd	co
+8g	na
+8a	dół,
+=12	=12
+16dd	to
+16dd	ku
+8g	górze,
+8a	.
+=13	=13
+16dd	chmielu
+16cc	.
+16bL	niebo-
+16gJ	.
+16aL	.
+16f#J	.
+=14	=14
+4g}	-że.
+8r	.
+==	==
+*-	*-
+!!!role-listener: Hop
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Zebyś ty chmielu nie laz(ł) na tycki
+!!nie robił byś ty z panny kobitki.
+!!Oj chmielu, oj nieboże,
+!!co na dół, to ku górze,
+!!chmielu nieboże!
+!!@VERSE:
+!!2. Ale ty chmielu na tycki idzies,
+!!nie jedne panne na niewiaste zwiedzies.
+!!Oj chmielu i t. d.
+!!@VERSE:
+!!3. Ale ty chmielu po tycce rośnies,
+!!nie jednéj pannie wianecek schróśnies,
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Przystępując do zdjęcia wieńca śpiewają:
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=79 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 53} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 53}
 !!!page: 53
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

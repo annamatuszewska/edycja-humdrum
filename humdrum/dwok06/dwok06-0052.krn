@@ -3,53 +3,103 @@
 !!!source: DWOK06
 !!!id: K0052
 !!!signature:
-**kern
-*clefG2
-*k[]
-*a:
-*M2/4
-=1
-{8a
-8b
-8cc
-8ee
-=2
-8dd
-4b
-8r
-=3
-8ee
-8ee
-4ee
-=4
-8ee
-4dd
-16cc
-16b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M2/4	*
+=1	=1
+{8a\	A
+8b	grała
+8cc	.
+8ee	muzyka
+=2	=2
+8dd	.
+4b	.
+8r	.
+=3	=3
+8ee	od
+8ee	rana
+4ee	.
+=4	=4
+8eem	do
+4dd	rana,
+16ccL	.
+16bJ}	.
 !!LO:LB:g=esac
-=5
-{8a
-8b
-8cc
-8ee
-=6
-8dd
-4b
-8r
-=7
-16b
-16cc
-16b
-16cc
-4a
-=8
-8g#
-4e
-8e}
-==
-*-
+=5	=5
+{8a\	a
+8b	ja
+8cc	sobie
+8ee	.
+=6	=6
+8dd	śpiewał
+4b	.
+8r	.
+=7	=7
+8cc	dana
+8cc	.
+4a	i-
+=8	=8
+8g#	-no
+4e	dana
+8e}	.
+=9	=9
+{8a\	A
+8b	grajze
+8cc	.
+8ee	muzyka
+=10	=10
+8dd	.
+4b	.
+8r	.
+=11	=11
+8ee	a
+8ee	grajze
+4ee	.
+=12	=12
+8eem	a
+4dd	grajze,
+16ccL	.
+16bJ}	.
+!!LO:LB:g=esac
+=13	=13
+{8a\	a
+8b	kto
+8cc	nas
+8ee	mi-
+=14	=14
+8dd	-łuje,
+4b	.
+8r	.
+=15	=15
+16bL	śpiewaj
+16ccJ/	.
+16bL	.
+16ccJ/	.
+4a	ze
+=16	=16
+8g#	śpiewajze.
+4e	.
+8e}	.
+==	==
+*-	*-
+!!!role-singer: Groomsmen
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!A grała muzyka od rana do rana,
+!!a ja sobie śpiewał dana ino dana
+!!A grajze muzyka a grajze a grajze,
+!!a kto nas miłuje, śpiewaj ze śpiewajze.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: W drodze: 
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=58 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 32} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 32}
 !!!page: 32
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

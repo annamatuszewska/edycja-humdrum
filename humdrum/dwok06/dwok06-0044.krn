@@ -3,58 +3,72 @@
 !!!source: DWOK06
 !!!id: K0044
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8cc
-8ee
-8dd
-8dd
-4cc
-=2
-16b
-16dd
-16b
-16g
-16a
-16cc
-16a
-16f#
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8cc	O
+8ee	mój
+8ddL	miły
+8eeq	.
+8ddJ/	.
+4cc	.
+=2	=2
+16bL	panie
+16dd	.
+16b	.
+16gJ/	.
+16aL	młody
+16cc	.
+16a	.
+16f#J/	.
+8gL	.
+8eeJ/}	.
 !!LO:LB:g=esac
-=3
-{8dd
-8dd
-8cc
-8ee
-8dd
-8dd
-=4
-8cc
-8cc
-16b
-16dd
-16b
-16g
-16a
-16cc
-16a
-16f#
-=5
-8g
-8g
-16a
-16cc
-16a
-16f#
-4g}
-==
-*-
+=3	=3
+{16ddL	wynieś
+16ee	.
+8ddJ/	.
+8ccL	ze
+8eeJ	.
+16ddL	nam
+16ee	.
+8ddJ/	.
+=4	=4
+8cc	konew
+8cc	.
+16bL	wody,
+16dd	.
+16b	.
+16gJ/	.
+16aL	.
+16cc	.
+16a	.
+16f#J	.
+=5	=5
+8g	konew
+8g	.
+16aL	wody.
+16cc	.
+16a	.
+16f#J	.
+4g}	.
+==	==
+*-	*-
+!!!role-singer: Wedding Matrons
+!!!role-listener: Groom
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!O mój miły panie młody
+!!wynieś ze nam konew wody, konew wody.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=48 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 24} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 24}
 !!!page: 24
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

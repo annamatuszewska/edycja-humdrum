@@ -3,81 +3,96 @@
 !!!source: DWOK06
 !!!id: K0040a
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8cc
-8ee
-8dd
-8dd
-4cc
-=2
-16b
-16dd
-16b
-16g
-16a
-16cc
-16a
-16f#
-8g
-8ee}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8cc	Jus
+8ee	tobie
+8dd	.
+8eeq	.
+8dd	nie
+4cc	trza
+=2	=2
+16bL	hasać
+16dd	.
+16b	.
+16gJ	.
+16aL	z_chłopakami
+16cc	.
+16a	.
+16f#J	.
+8g	.
+8ee}	.
 !!LO:LB:g=esac
-=3
-{8cc
-8ee
-16dd
-16ee
-8dd
-4cc
-=4
-16b
-16dd
-16b
-16g
-16a
-16cc
-16a
-16f#
-8g
-8ee}
+=3	=3
+{8cc	ale
+8ee	.
+16ddL	podrygać
+16ee	.
+8ddJ	.
+8ccL	.
+8ccJ/	.
+=4	=4
+16bL	z_lekuciecka
+16dd	.
+16b	.
+16gJ/	.
+16aL	.
+16cc	.
+16a	.
+16f#J	.
+8g	z_nami.
+8ee}	.
 !!LO:LB:g=esac
-=5
-{16dd
-16ee
-8dd
-8cc
-8ee
-16dd
-16ee
-8dd
-=6
-8cc
-8cc
-16b
-16dd
-16b
-16g
-16a
-16cc
-16a
-16f#
-=7
-8g
-8g
-16a
-16cc
-16a
-16f#
-4g}
-==
-*-
+=5	=5
+{16ddL	Boć
+16ee	.
+8ddJ/	.
+8cc	gdybyś
+8ee	.
+16ddL	z_niemi
+16ee	.
+8ddJ/	.
+=6	=6
+8cc	tańcyła,
+8cc	.
+16bL	.
+16dd	.
+16b	tobyś
+16gJ/	.
+16aL	.
+16cc	.
+16a	so-
+16f#J	.
+=7	=7
+8g	-bie
+8g	zaskodziła.
+16aL	.
+16cc	.
+16a	.
+16f#J	.
+4g}	.
+==	==
+*-	*-
+!!!role-singer: Wedding Matron
+!!!role-listener: Bride
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Jus tobie nie trza hasać z chłopakami ale podrygać z lekuciecka z nami.
+!!Boć gdybyś z niemi tańcyła, tobyś sobie zaskodziła.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: „A stanąwszy przed muzyką, rozpoczyna z nią taniec prześpiewawszy:
+!!@@END:
 !!!ONB: Wariant alternatywny
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=47 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 23} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 23}
 !!!page: 23
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

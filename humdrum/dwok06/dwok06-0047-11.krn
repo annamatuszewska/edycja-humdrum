@@ -3,56 +3,98 @@
 !!!source: DWOK06
 !!!id: K0047
 !!!signature: 0604700011
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{8g
-8b
-8dd
-8ff
-=2
-8ee
-4cc
-8ee}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+=1	=1
+{8g	Otwórz
+8b	.
+8dd	ze
+8ff	otwórz
+=2	=2
+8ee	.
+4cc}	ze,
+8r	.
 !!LO:LB:g=esac
-=3
-{8gg
-8g
-8.gg
-16ff
-=4
-8ff
-4ee
-16b
-16a}
+=3	=3
+{8gg	niech
+8g	ja
+8.gg	sie
+16ff	.
+=4	=4
+8ff	nie
+4ee	burze,
+8ccq	.
+16bL	.
+16aJ}	.
 !!LO:LB:g=esac
-=5
-{8g
-8b
-8.dd
-16ff
-=6
-8ee
-4gg
-8ee}
+=5	=5
+{8g	niech
+8b	ja
+8.dd	z_konia
+16ff	.
+=6	=6
+8ee	zlize,
+(4gg	.
+8ee)}	.
 !!LO:LB:g=esac
-=7
-{8ff
-8ff
-8b
-8b
-=8
-8cc
-4cc
-16ee
-16dd}
-==
-*-
+=7	=7
+{8ff	fajeckę
+8ff	.
+8b	.
+8b	za-
+=8	=8
+8cc	-kurze
+4cc}	.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Wedding Steward
+!!!role-listener: Bride
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1 Otwórz ze otwórz ze,
+!!niech ja sie nie burze,
+!!niech ja z konia zlize,
+!!fajeckę zakurze
+!!@VERSE:
+!!2. Otwórz ze mi otwórz,
+!!moja panno pirsa,
+!!jak mi nie otworzys,
+!!otworzy mi insa.
+!!@VERSE:
+!!3 Otwórz ze mi otwórz
+!!moja panno wrota,
+!!niechze ja nie zlazę
+!!z konika do błota.
+!!@VERSE:
+!!4 Pani matko nasa,
+!!córecka nie wasa,
+!!jednę córkę macie
+!!daciez nam ją, dacie.
+!!@VERSE:
+!!5. A ja się kołatam,
+!!nie chciała otworzyć,
+!!musiałem na progu
+!!głowisię położyć.
+!!@VERSE:
+!!6. Głowisię na progu,
+!!ręce wedle proga —
+!!otwórz ze mi Jaguś,
+!!bój się pana Boga.
+!!@VERSE:
+!!7. Otwórz ze mi otwórz,
+!!ze scérego serca,
+!!bo ja zasmucony,
+!!ty chodzis przez cepca.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=52 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 26} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 26}
 !!!page: 26
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

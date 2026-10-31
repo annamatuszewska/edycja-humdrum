@@ -3,116 +3,140 @@
 !!!source: DWOK06
 !!!id: K0101
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8g
-8a
-8b
-8cc
-=2
-8dd
-4.dd
-=3
-16dd
-16cc#
-8a
-8b
-8cc
-=4
-4dd
-16b
-16a
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8g	Do
+8a	jamy
+8bL	.
+8ccJ	.
+=2	=2
+8dd	wilcku
+4.dd	.
+=3	=3
+16ddL	do
+16cc#J	.
+8a	jamy
+8b	.
+8cc	do
+=4	=4
+4dd	jamy,
+16bL	.
+16a	.
+8gJ}	.
 !!LO:LB:g=esac
-=5
-{8g
-8a
-4b
-=6
-8g
-4.g
-=7
-8g
-16a
-16b
-4cc
-=8
-4b
-16b
-16a
-8g}
+=5	=5
+{8g	a
+8a	ty
+4b	dziewcyno
+=6	=6
+8g	.
+4.g	.
+=7	=7
+8g	pódź
+16aL	z_nami
+16bJ	.
+4cc	.
+=8	=8
+4b	pódź
+16bL	z_nami.
+16a	.
+8gJ}	.
 !!LO:LB:g=esac
-=9
-{8d
-16e
-16f#
-16g
-16a
-16b
-16cc#
-=10
-8dd
-4dd
-8cc#
-=11
-16dd
-16cc#
-16b
-16a
-8g
-8b
-=12
-16b
-16a
-4.g}
+=9	=9
+{8dL	.
+16e	.
+16f#J	.
+16gL	.
+16aJ	.
+16bL	.
+!LO:TX:a:t=♮	!
+16cc#J	.
+=10	=10
+8dd	.
+8eeq	.
+4dd	.
+8cc#	.
+=11	=11
+16ddL	.
+16cc#	.
+16b	.
+16aJ	.
+8gL	.
+8bJ	.
+=12	=12
+16bL	.
+16aJ	.
+4.g}	.
 !!LO:LB:g=esac
-=13
-{8a
-16dd
-16cc#
-8a
-8f#
-=14
-8g
-8b
-16b
-16a
-16b
-16g
-=
-8a
-24dd
-24cc#
-24b
-8a
-8f#
-=15
-8g
-8b
-16b
-16a
-16b
-16g}
+=13	=13
+{8a	.
+16ddL	.
+16cc#J	.
+8aL	.
+8f#J	.
+=14	=14
+8gL	.
+8bJ	.
+8ccq	.
+16bL	.
+16a	.
+16b	.
+16gJ	.
+=15	=15
+*Xtuplet	*
+8a	.
+24ddL	.
+24cc#	.
+24bJ/	.
+8aL	.
+8f#J	.
+=16	=16
+8gL	.
+8bJ	.
+8ccq	.
+16bL	.
+16a	.
+16b	.
+16gJ}	.
 !!LO:LB:g=esac
-=16
-{16dd
-16cc#
-16b
-16a
-8g
-8b
-=17
-16b
-16a
-4.g}
-==
-*-
+=17	=17
+{16ddL	.
+16cc#	.
+16b	.
+16aJ	.
+8gL	.
+8bJ	.
+=18	=18
+16bL	.
+16aJ	.
+4.g}	.
+==	==
+*-	*-
+!!!role-singer: Wedding Matrons
+!!!role-listener: Wolf, Bride
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Do jamy wilcku do jamy do jamy,
+!!a ty dziewcyno pódź z nami pódź z nami.
+!!Do jamy wilcku, nocować,
+!!ty nam pójdź wianek darować.
+!!Do jamy mysko, do jamy,
+!!a ty Jagusiu pójdż z nami.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Idąc do komory (t. j. jeżeli z nią tańcują kobiety i przed
+!!druchnami uciekają do komory, co atoli rządko się zdarza dla cia-
+!!snoty miejsca tamże):
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=78 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 52} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 52}
 !!!page: 52
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

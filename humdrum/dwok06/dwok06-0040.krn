@@ -3,64 +3,77 @@
 !!!source: DWOK06
 !!!id: K0040
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8cc
-8ee
-8dd
-8dd
-4cc
-=2
-8b
-8b
-8a
-8a
-8g
-8ee}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8cc	Jus
+8ee	tobie
+8dd	.
+8eeq	.
+8dd	nie
+4cc	trza
+=2	=2
+8b	hasać
+8b	.
+8a\	z_chłopakami
+8a\	.
+8g	.
+8ee}	.
 !!LO:LB:g=esac
-=3
-{8cc
-8ee
-8dd
-8dd
-8cc
-8cc
-=4
-8b
-8b
-8a
-8a
-8g
-8ee}
+=3	=3
+{8cc	ale
+8ee	.
+8dd	podrygać
+8dd	.
+4cc	.
+=4	=4
+8b	z_lekuciecka
+8b	.
+8a\	.
+8a\	.
+8g	z_nami.
+8ee}	.
 !!LO:LB:g=esac
-=5
-{8dd
-8dd
-8cc
-8ee
-8dd
-8dd
-=6
-8cc
-8cc
-8b
-8b
-8a
-8a
-=7
-8g
-8g
-8a
-8a
-4g}
-==
-*-
+=5	=5
+{8dd	Boć
+8dd	.
+8cc	gdybyś
+8ee	.
+8dd	z_niemi
+8dd	.
+=6	=6
+8cc	tańcyła,
+8cc	.
+8b	.
+8b	tobyś
+8a\	.
+8a\	so-
+=7	=7
+8g	-bie
+8g	zaskodziła.
+8a\	.
+8a\	.
+4g}	.
+==	==
+*-	*-
+!!!role-singer: Wedding Matron
+!!!role-listener: Bride
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Jus tobie nie trza hasać z chłopakami ale podrygać z lekuciecka z nami.
+!!Boć gdybyś z niemi tańcyła, tobyś sobie zaskodziła.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: „A stanąwszy przed muzyką, rozpoczyna z nią taniec prześpiewawszy:
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=47 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 23} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 23}
 !!!page: 23
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

@@ -3,51 +3,115 @@
 !!!source: DWOK06
 !!!id: K0051a
 !!!signature:
-**kern
-*clefG2
-*k[]
-*a:
-*M2/4
-=1
-{8a
-8b
-8cc
-8cc
-=2
-8cc
-4b
-8r
-=3
-8a
-8b
-8cc
-8cc
-=4
-8cc
-4b}
-8r
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M2/4	*
+=1	=1
+{8a\	A
+8b	jak
+8cc	ci
+8cc	ja
+=2	=2
+8ddq	.
+8cc	będę
+4b	.
+8r	.
+=3	=3
+8g#q	.
+8a\	na
+8b	wesele
+8cc	.
+8cc	.
+=4	=4
+8ddq	.
+8cc	prosiuł,
+4b}	.
+8r	.
 !!LO:LB:g=esac
-=5
-{8cc
-8cc
-4a
-=6
-8a
-4b
-8g#
-=7
-8e
-8g#
-8g#
-8g#
-=8
-8a
-4a}
-8r
-==
-*-
+=5	=5
+{8cc	cisawy
+8cc	.
+4a	.
+=6	=6
+8a	konisiu
+4b	.
+8g#	.
+=7	=7
+8e	będzies
+8g#	.
+8g#	ci
+8g#	mnie
+=8	=8
+8a	nosiuł.
+4a}	.
+8r	.
+=9	=9
+{8a\	A
+8b	jak
+8cc	ci
+8cc	ja
+=10	=10
+8ddq	.
+8cc	będę
+4b	.
+8r	.
+=11	=11
+8g#q	.
+8a\	na
+8b	wesele
+8cc	.
+8cc	.
+=12	=12
+8ddq	.
+8cc	prosiuł,
+4b}	.
+8r	.
+!!LO:LB:g=esac
+=13	=13
+{8cc	cisawy
+8cc	.
+4a	.
+=14	=14
+8a	konisiu
+4b	.
+8g#	.
+=15	=15
+8e	będzies
+8g#	.
+8g#	ci
+8g#	mnie
+=16	=16
+8a	nosiuł.
+4a}	.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Groomsman
+!!!role-listener: Horse
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. A jak ci ja będę
+!!na wesele prosiuł,
+!!cisawy konisiu
+!!będzies ci mnie nosiuł.
+!!@VERSE:
+!!2. Cisawy konicek,
+!!cisawy na dwoje,
+!!cisawy na nózce
+!!cisawy na cole.
+!!@VERSE:
+!!3. A wynijdź-ze, wynijdź
+!!aby mi sie pokaz,
+!!bedą powiadali
+!!ze się we mnie kochas.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=57 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 31-32} @EN{Oskar Kolberg Complete Works 6: Crakow II, pp. 31-32}
 !!!page: 31-32
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

@@ -3,69 +3,96 @@
 !!!source: DWOK06
 !!!id: K0143
 !!!signature:
-**kern
-*clefG2
-*k[b-e-]
-*g:
-*M2/4
-=1
-{8d
-8f#
-4g
-=2
-8b-
-4dd
-8dd
-=3
-8dd
-8cc#
-4dd
-=4
-8a
-4g
-8a}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*g:	*
+*M2/4	*
+=1	=1
+{8d	Dopierom
+8f#	.
+4g	.
+=2	=2
+8b-	ci
+4dd	zacął
+8dd	.
+=3	=3
+8dd	do
+8cc#	dziewcy-
+4dd	.
+=4	=4
+8b-q	.
+8a	-ny
+4g	chodzić,
+8a}	.
 !!LO:LB:g=esac
-=5
-{16a
-32b
-32cc#
-4.dd
-=6
-8a
-4g
-8a
-=7
-8b-
-8b-
-4cc
-=8
-8a
-8g
-4d}
+=5	=5
+{16a	zastąpił
+32bL	.
+32cc#J	.
+4.dd	.
+=6	=6
+8b-q	.
+8a\	mi
+4g	wilcek
+8a	.
+=7	=7
+8b-	chciał
+8aq	.
+8b-	mnie
+4cc	kajsik
+=8	=8
+8b-q	.
+8a\	.
+8g	wrazić.
+4d}	.
 !!LO:LB:g=esac
-=9
-{16a
-32b
-32cc#
-4.dd
-=10
-16b-
-16a
-4g
-8a
-=11
-8b-
-8b-
-4cc
-=12
-16b-
-16a
-4g
-8d}
-==
-*-
+=9	=9
+{16aL	.
+32b	.
+32cc#J	.
+4.dd	.
+=10	=10
+16b-L	.
+16aJ\	.
+4g	.
+8a	.
+=11	=11
+8b-L	.
+8aq	.
+8b-J	.
+4cc	.
+=12	=12
+16b-L	.
+16aJ\	.
+4g	.
+8d}	.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!role-listener: Wolf
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Dopierom ci zacął
+!!do dziewcyny chodzić,
+!!zastąpił mi wilcek
+!!chciał mnie kajsik wrazić.
+!!@VERSE:
+!!2. Wara wilku wara!
+!!niemas do mnie prawa,
+!!bo się nie dla ciebie
+!!dziewcyna chowała
+!!@VERSE:
+!!3. Siedziałem pod ścianą
+!!z dziewcyną kochaną: —
+!!zacęny psy scekać,
+!!musiałem uciekać.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=96 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 70} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 70}
 !!!page: 70
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

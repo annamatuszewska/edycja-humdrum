@@ -3,100 +3,125 @@
 !!!source: DWOK06
 !!!id: K0173
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*F:
-=1
-*M2/4
-{8dd
-8b-
-4dd
-=2
-8cc
-4f
-16a
-16cc
-=3
-8b-
-8g
-8.ee
-16gg
-=4
-8ff
-4gg
-8ff}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+=1	=1
+*M2/4	*
+{8dd	Jusci
+8b-	.
+4dd	Maryś
+=2	=2
+8cc	.
+4f	nie
+16aL	trza
+16ccJ/	.
+=3	=3
+8b-	hulać
+8g	.
+8.eeL	z_chłopakami,
+16ggJ/	.
+=4	=4
+8ff/	.
+4aa/	.
+8ff/}	.
 !!LO:LB:g=esac
-=5
-{8dd
-8b-
-4dd
-=6
-8cc
-4f
-16a
-16cc
-=7
-8b-
-16dd
-16b-
-8g
-8g
-=8
-8a
-4f}
-8r
+=5	=5
+{8dd	ale
+8b-	.
+4dd	podrygiwać
+=6	=6
+8cc	.
+4f	.
+16aL	.
+16ccJ/	.
+=7	=7
+8b-	lekusieńko
+16ddL	.
+16b-J	.
+8g	.
+8g	.
+=8	=8
+8a	z_nami.
+4f}	.
+8r	.
 !!LO:LB:g=esac
-=9
-{8dd
-8ee
-4ff
-=10
-16gg
-16ee
-4ff
-8cc
-=11
-8dd
-8ee
-4ff
-=12
-16gg
-16aa
-4aa
-8ff}
+=9	=9
+{8ddL	.
+8eeJ	.
+4ff	.
+=10	=10
+16ggL	.
+16eeJ/	.
+4ff	.
+8cc	.
+=11	=11
+8ddL	.
+8eeJ	.
+4ff	.
+=12	=12
+16ggL	.
+16aaJ/	.
+4aa	.
+8ff}	.
 !!LO:LB:g=esac
-=13
-{8dd
-8ee
-4ff
-=14
-8gg
-4ff
-8a
-=15
-8a
-16dd
-16b-
-4g
-=16
-8a
-4cc
-8a
-=17
-8b-
-16dd
-16b-
-4g
-=18
-8a
-4cc
-8f}
-==
-*-
+=13	=13
+{8ddL	.
+8eeJ	.
+4ff	.
+=14	=14
+8gg	.
+4ff	.
+8a	.
+=15	=15
+8b-L	.
+16dd	.
+16b-J	.
+4g	.
+=16	=16
+8a	.
+4cc	.
+8a	.
+=17	=17
+8b-L	.
+16dd	.
+16b-J	.
+4g	.
+=18	=18
+8a	.
+4cc	.
+8f}	.
+==	==
+*-	*-
+!!!role-singer: Wedding Matrons
+!!!role-listener: Bride
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Jusci Maryś nie trza hulać z chłopakami,
+!!ale podrygiwać lekusieńko z nami.
+!!Z kolei wzięła ją druga, śpiewając (na tęż nutę):
+!!@VERSE:
+!!1. Najadłaś się Maryś
+!!u dziadusia chleba;
+!!idź-ze teraz na swój,
+!!bo ci chłopca trzeba.
+!!@VERSE:
+!!2. Sprawuj-ze się dobrze
+!!zeby cię nie bijał,
+!!do karcmy nie chodził,
+!!gorzałki nie pijał.
+!!@@END: VERSES
 !!!ONB: Wariant alternatywny i korekta bledu rytmicznego
+!!@@BEGIN: 
+!!@COMMENTARY: Poczém ruszyła na czele orszaku do izby weselnéj, a rzu-
+!!ciwszy muzykantom w kapelusz i podawszy im melodyą zaśpiewała:
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=114 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 88} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 88}
 !!!page: 88
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

@@ -3,54 +3,73 @@
 !!!source: DWOK06
 !!!id: K0200
 !!!signature: 0620000000
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/8
-=1
-{8a
-8cc#
-8b
-=2
-4a
-8r
-=3
-8a
-8cc#
-8b
-=4
-4a}
-8r
+**kern	**text	**text
+*clefG2	*	*
+*k[f#c#g#]	*	*
+*A:	*	*
+*M3/8	*	*
+=1	=1	=1
+!LO:TX:a:t=Przy weselu.	!	!
+{8a\	Zeń	Zeń
+8cc#	wołki	wołki
+8b	.	.
+=2	=2	=2
+*	*^	*
+4a	zeń,	(pędź)	zeń,
+8r	.	.	.
+*	*v	*v	*
+=3	=3	=3
+8a\	bo	bo
+8cc#	biały	biały
+8b	.	.
+=4	=4	=4
+4a}	dzień.	dzień.
+8r	.	.
 !!LO:LB:g=esac
-=5
-{8a
-8cc#
-8b
-=6
-8ee
-8ee
-8dd
-=7
-8a
-8cc#
-8b
-=8
-8ee
-8ee
-8dd
-=9
-8a
-8cc#
-8b
-=10
-4a}
-8r
-==
-*-
-!!!ONB: U Kolberga w t. 10 błędny zapis rytmiczny: 1__ 
+=5	=5	=5
+{8a	Zeń	Zeń
+8cc#	wołki	wołki
+8b	.	.
+=6	=6	=6
+8ee	ulicą,	na
+8ee	.	rosę
+8dd	.	.
+=7	=7	=7
+8a	niech	dla
+8cc#	wołki	Boga
+8b	.	.
+=8	=8	=8
+8ee	nie	cię
+8ee	rycą,	prosę,
+8dd	.	.
+=9	=9	=9
+8a	zeń	zeń
+8cc#	wołki,	wołki,
+8b	.	.
+=10	=10	=10
+4a}	zeń.	zeń.
+8r	.	.
+==	==	==
+*-	*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Zeń wołki zeń (pędź),
+!!bo biały dzień.
+!!Zeń wołki ulicą,
+!!niech wołki nie rycą,
+!!zeń wołki, zeń.
+!!Zeń wołki zeń (pędź),
+!!bo biały dzień.
+!!Zeń wołki na rosę
+!!dla Boga cię prosę,
+!!zeń wołki, zeń.
+!!@@END: VERSES
+!!!ONB: U Kolberga w t. 10 błędny zapis rytmiczny: 1__
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=133 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 107-108} @EN{Oskar Kolberg Complete Works 6: Crakow II, pp. 107-108}
 !!!page: 107-108
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

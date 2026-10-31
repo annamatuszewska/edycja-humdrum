@@ -3,42 +3,78 @@
 !!!source: DWOK06
 !!!id: K0206
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8g
-8b
-8dd
-8dd
-=2
-8dd
-8dd
-8dd
-8dd
-=3
-4ee
-4a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8g	Przyjechało
+8b	.
+8dd	.
+8dd	.
+=2	=2
+8dd	kilku
+8dd	.
+8dd	panów
+8dd	.
+=3	=3
+4ee	do
+4a}	mnie,
 !!LO:LB:g=esac
-=4
-{8a
-8b
-8cc
-8cc
-=5
-8cc
-8cc
-8cc
-8cc
-=6
-4dd
-4g}
-==
-*-
+=4	=4
+{8a\	sama
+8b	.
+8cc	nie
+8cc	wiem,
+=5	=5
+8cc	co
+8cc	im
+8cc	było
+8cc	.
+=6	=6
+4dd	po
+4g}	mnie.
+==	==
+*-	*-
+!!!role-singer: Maiden, Narrator
+!!!role-listener: Bachelor
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Przyjechało kilku panów do mnie.
+!!sama nie wiem, co im było po mnie.
+!!(albo- Kiedym była u matusi w gumnie,
+!!przyjechało kilku panów do mnie).
+!!@VERSE:
+!!2. Ona przyszła, pięknie przywitała;
+!!najpirsemu dychawice dała.
+!!@VERSE:
+!!3. A drugiemu bolenie w kolanie,
+!!a trzeciemu wielkie utrapienie.
+!!@VERSE:
+!!4. A ćwartemu jaworowe rogi,
+!!nie móg chodzić trzy lata na nogi.
+!!@VERSE:
+!!5. A piątému sydło w głowę wbiła,
+!!nie bywaj tu, raz’em ci mówiła.
+!!@VERSE:
+!!6. A sóstemu nic nie darowała,
+!!bo go sobie za małzonka brała
+!!@VERSE:
+!!7. A siódmemu piórko za capockę,
+!!a ósmemu jedwabną chustecke.
+!!@VERSE:
+!!8. Dziewiątemu: obsuła go susą (susza)
+!!ledwie uciék do kościoła z dusą.
+!!@VERSE:
+!!9. Dziesiątemu owsianego placka,
+!!jéna (jęła) go sie śtyry lata potéracka
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=136 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 110} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 110}
 !!!page: 110
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

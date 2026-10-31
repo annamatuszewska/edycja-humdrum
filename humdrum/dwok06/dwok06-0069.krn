@@ -3,52 +3,126 @@
 !!!source: DWOK06
 !!!id: K0069
 !!!signature:
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{4a
-8a
-8cc
-8b
-8a
-=2
-4cc
-8ee
-8ee
-8dd
-16cc
-16b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+{4a	Przeleciał
+8a	.
+8cc	.
+8b	sokół
+8a\	.
+=2	=2
+4cc	przez
+8ee	pański
+8ee	.
+8dd	okół,
+16ccL	.
+16bJ}	.
 !!LO:LB:g=esac
-=3
-{16b
-16cc
-8dd
-4ee
-16cc
-16b
-8a
-=4
-8cc
-8dd
-2ee}
+=3	=3
+{16bL	piórka
+16ccJ	.
+8dd	.
+4ee	na
+16ccL	nim
+16b	.
+8aJ	.
+=4	=4
+8cc	zadrzały,
+8dd	.
+2ee}	.
 !!LO:LB:g=esac
-=5
-{16ff
-16ee
-8ee
-4dd
-4ee
-=6
-8cc
-8g#
-2a}
-==
-*-
+=5	=5
+{16ffL	piórka
+16eeJ	.
+8ee	.
+4dd	na
+8ddqq	.
+4ee	nim
+=6	=6
+8ddq	.
+8cc	zadrzały.
+8g#	.
+2a}	.
+=7	=7
+{4a	Przeleciał
+8a	.
+8cc	.
+8b	sokół
+8a\	.
+=8	=8
+8ccL	przez
+8eeJ/	.
+8ee	pański
+8ee	.
+8dd	okół,
+16ccL	.
+16bJ}	.
+!!LO:LB:g=esac
+=9	=9
+{16bL	piórka
+16ccJ	.
+8dd	.
+4ee	na
+16ccL	nim
+16b	.
+8aJ	.
+=10	=10
+8cc	zadrzały,
+8dd	.
+2ee}	.
+!!LO:LB:g=esac
+=11	=11
+{16ffL	piórka
+16eeJ	.
+8ee	.
+4dd	na
+8ddqq	.
+4ee	nim
+=12	=12
+8ddq	.
+8cc	zadrzały.
+8g#	.
+2a}	.
+==	==
+*-	*-
+!!!role-singer: Groom
+!!!role-listener: Bride
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Przeleciał sokół przez pański okół,
+!!piórka na nim zadrzały, piórka na nim zadrzały
+!!wybierajze sie dziewcyno moja
+!!mas ci cas nie mały.
+!!@VERSE:
+!!1. Ozmyślajze się, ozmyślajze się,
+!!mas ci cas nie mały.
+!!Bo to nie na rocek, ani na tydzień
+!!ale na wiek cały
+!!@VERSE:
+!!3. Ozmyślajze sie w kazdy dzień
+!!mas ci cas nie mały.
+!!A moja dziewcyno a moja jedyna
+!!potkała cie skoda,
+!!miałaś ci ty parę wianków
+!!zabrała je woda.
+!!A moja nadobna, a moja jedyna,
+!!nie frasuj się o nie
+!!mam ci ja parę łabędzi,
+!!popłyną ci po nie.
+!!Łabędzie lecą, łabędzie krzycą
+!!po dunaju płyniący,
+!!tak ci tez bedzie dziewcyno
+!!od pani matki idący.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=67 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 41} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 41}
 !!!page: 41
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

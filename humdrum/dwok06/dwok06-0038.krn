@@ -3,73 +3,150 @@
 !!!source: DWOK06
 !!!id: K0038
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{4d
-8g
-8a
-=2
-4b
-4a
-=3
-8b
-8cc
-4dd
-=4
-8dd
-4dd
-8a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+!LO:TX:a:t=Skrzypce	!
+{4d	.
+8gL	.
+8aJ	.
+=2	=2
+4bm	.
+4a\	.
+=3	=3
+8bL	.
+8ccJ	.
+4dd	.
+=4	=4
+8dd	.
+(4dd	.
+8a\)}	.
 !!LO:LB:g=esac
-=5
-{16cc#
-8.dd
-4a
-=6
-8b
-16cc
-16b
-4a
-=7
-16b
-16cc
-4dd
-8a}
+=5	=5
+{16cc#L	Moje
+8.ddJ	.
+4a\	.
+=6	=6
+8b	miłe
+16ccnL	.
+16bJ	.
+4a	ko-
+=7	=7
+16bL	-bietecki
+16ccJ	.
+4dd	.
+8a}	.
 !!LO:LB:g=esac
-=8
-{16cc#
-8.dd
-4b
-=9
-8cc
-16b
-16a
-4f#
-=10
-8g
-4b
-8dd}
+=8	=8
+{16cc#L	nie
+8.ddJ	.
+4b	za-
+=9	=9
+8ccn	-łujcie
+16bL	.
+16aJ	.
+4f#	téj
+=10	=10
+8g	siatecki
+4b	.
+8dd}	.
 !!LO:LB:g=esac
-=11
-{16cc#
-8.dd
-4b
-=12
-8cc
-16b
-16a
-4g
-=13
-8a
-4g
-8f#}
-==
-*-
+=11	=11
+{16cc#L	nie
+8.ddJ	.
+4b	za-
+=12	=12
+8ccn	-łujcie
+16bL	.
+16aJ	.
+4g	téj
+=13	=13
+8a	siatecki.
+4g	.
+8f#}	.
+=14	=14
+!LO:TX:a:t=Skrzypce	!
+{4d	.
+8gL	.
+8aJ	.
+=15	=15
+4bm	.
+4a\	.
+=16	=16
+8bL	.
+8ccJ	.
+8ddL	.
+8cc#J/	.
+=17	=17
+16dd	.
+16cc#J/	.
+(4dd	.
+8a\)}	.
+!!LO:LB:g=esac
+=18	=18
+{16cc#L	Moje
+8.ddJ	.
+4a\	.
+=19	=19
+8b	miłe
+16ccnL	.
+16bJ	.
+4a	ko-
+=20	=20
+16bL	-bietecki
+16ccJ	.
+4dd	.
+8a}	.
+!!LO:LB:g=esac
+=21	=21
+{16cc#L	nie
+8.ddJ	.
+8bL	za-
+8aJ	.
+=22	=22
+8ccn	-łujcie
+16bL	.
+16aJ	.
+4f#	téj
+=23	=23
+8g	siatecki
+4b	.
+8dd}	.
+!!LO:LB:g=esac
+=24	=24
+{16cc#L	nie
+8.ddJ	.
+8bL	za-
+8aJ	.
+=25	=25
+8ccn	-łujcie
+16bL	.
+16aJ	.
+4g	téj
+=26	=26
+8a	siatecki.
+4g	.
+8f#}	.
+==	==
+*-	*-
+!!!role-singer: Bride
+!!!role-listener: Wedding Matrons
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Moje miłe kobietecki nie załujcie téj siatecki
+!!nie załujcie téj siatecki.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: „Nakoniec przy wdzianiu czepka:
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=64 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 38} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 38}
 !!!page: 38
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

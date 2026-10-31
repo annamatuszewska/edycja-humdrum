@@ -3,227 +3,274 @@
 !!!source: DWOK06
 !!!id: K0073a
 !!!signature:
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M2/4
-=1
-{8dd
-4ff
-16ee
-16dd
-=2
-16cc
-16dd
-4ff
-16ee
-16dd
-=3
-8cc
-8ee
-8gg
-8ee
-=4
-16dd
-16ee-
-8dd
-4b-}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M2/4	*
+=1	=1
+{8dd	Urosła
+4ff	.
+16eeL	.
+16ddJ/	.
+=2	=2
+16ccL	urosła
+16ddJ/	.
+4ff	.
+16eenL	.
+16ddJ/	.
+=3	=3
+8cc	w_onym
+8ee	.
+8gg	lesie
+8ee	.
+=4	=4
+8cc#q	.
+16ddL	sosna
+16ee-	.
+8ddJ/	.
+4b-/}	.
 !!LO:LB:g=esac
-=5
-{16cc
-16a-
-8cc
-4a
-=6
-16a
-16b-
-4dd
-8dd
-=7
-16cc
-16dd
-16ee
-16ff
-16gg
-16ff
-16ee
-16cc
-=8
-16dd
-16ee-
-8dd
-4b-}
+=5	=5
+{8ddq	.
+8cc	a
+8cc	w_ty
+4a	wio-
+=6	=6
+8b-	-scynie
+4dd	.
+8dd	.
+=7	=7
+8cc	urosła
+8ee	.
+8gg	.
+8ee	le-
+=8	=8
+8cc#q	.
+4dd	-scyna.
+4b-}	.
 !!LO:LB:g=esac
-=9
-{16cc
-16a-
-8cc
-4a
-=10
-16a
-16b-
-4dd
-8dd
-=11
-16cc
-16dd
-16ee
-16ff
-16gg
-16ff
-16ee
-16cc
-=12
-16dd
-16ee-
-8dd
-4b-}
+=9	=9
+{8ddq	.
+16ccL	a
+16b-	.
+8ccJ/	w_ty
+4a	wio-
+=10	=10
+16aL	-scynie
+16b-J/	.
+4dd	.
+8dd	.
+=11	=11
+16ccL	urosła
+16ddJ/	.
+16eeL	.
+16ffJ/	.
+16ggL	.
+16ffJ/	.
+16eeL	le-
+16ccJ/	.
+=12	=12
+8cc#q	.
+16ddL	-scyna,
+16ee-	.
+8ddJ/	.
+4b-/}	.
 !!LO:LB:g=esac
-=13
-{8dd
-4ff
-8ff
-=14
-8ff
-16ff
-16ee
-16ff
-16gg
-8ff
-=15
-8cc
-4ee-
-8ff
-=16
-8ee-
-8cc
-16dd
-16cc
-16dd
-16b-}
+=13	=13
+{8dd/	.
+4ff/	.
+8ff	.
+=14	=14
+8ffL	.
+8ffJ	.
+16eeL	.
+16ff	.
+16gg	.
+16ffJ/	.
+=15	=15
+8cc	.
+4ee-X	.
+8ff	.
+=16	=16
+8ee-L	.
+8ccJ	.
+16ddL	.
+16cc	.
+16dd	.
+16b-J/}	.
 !!LO:LB:g=esac
-=17
-{8dd
-4ff
-8ff
-=18
-8ff
-8ff
-16gg
-16ff
-16ee
-16cc
-=19
-8cc
-4ee-
-8ff
-=20
-8ee-
-8cc
-16dd
-16cc
-16dd
-16b-}
+=17	=17
+{8dd/	.
+4ff/	.
+8ff	.
+=18	=18
+8ffL	.
+8ffJ	.
+16ggL	.
+16ff	.
+16ee	.
+16ccJ	.
+=19	=19
+8cc	.
+4ee-X	.
+8ggq	.
+8ff	.
+=20	=20
+8ee-L	.
+8ccJ	.
+16ddL	.
+16cc	.
+16dd	.
+16b-J/}	.
 !!LO:LB:g=esac
-=21
-{8dd
-4ff
-8ff
-=22
-8ff
-16ff
-16ee
-16ff
-16gg
-8ff
-=23
-8cc
-4ee-
-8ff
-=24
-8ee-
-8cc
-16dd
-16cc
-16dd
-16b-}
+=21	=21
+{8dd/	.
+4ff/	.
+8ff	.
+=22	=22
+8ffL	.
+8ffJ	.
+8ffL	.
+8ffJ	.
+=23	=23
+8cc	.
+4ee-X	.
+8ff	.
+=24	=24
+8ee-L	.
+8ccJ	.
+8ddL	.
+8b-J}	.
 !!LO:LB:g=esac
-=25
-{8dd
-4ff
-8ff
-=26
-8ff
-8ff
-16gg
-16ff
-16ee
-16cc
-=27
-8cc
-4ee-
-8ff
-=28
-8ee-
-8cc
-16dd
-16cc
-16dd
-16b-}
+=25	=25
+{8dd/	.
+4ff/	.
+8ff	.
+=26	=26
+8ffL	.
+8ffJ	.
+16ggL	.
+16ff	.
+16ee	.
+16ccJ	.
+=27	=27
+8cc	.
+4ee-X	.
+8ggq	.
+8ff	.
+=28	=28
+8ee-L	.
+8ccJ	.
+8ddL	.
+8b-J}	.
 !!LO:LB:g=esac
-=29
-{8f
-4b-
-8cc
-=30
-8cc
-8ee-
-16ee-
-16dd
-16ee-
-16cc
-=31
-8cc
-4ee-
-16ee-
-16gg
-=32
-8ee-
-8cc
-16dd
-16cc
-16dd
-16b-}
+=29	=29
+{8f	.
+4b-/	.
+8cc	.
+=30	=30
+8ccL	.
+8ee-J	.
+16ee-L	.
+16dd	.
+16ee-	.
+16ccJ/	.
+=31	=31
+8cc	.
+4ee-/	.
+16ee-L	.
+16ggJ/	.
+=32	=32
+8ee-L	.
+8ccJ	.
+16ddL	.
+16cc	.
+16dd	.
+16b-J/}	.
 !!LO:LB:g=esac
-=33
-{8f
-4b-
-8cc
-=34
-8cc
-8ee-
-16ee-
-16dd
-16ee-
-16cc
-=35
-8cc
-4ee-
-16ee-
-16gg
-=36
-8ee-
-8cc
-16dd
-16cc
-16dd
-16b-}
-==
-*-
+=33	=33
+{8f	.
+4b-/	.
+8cc	.
+=34	=34
+8ccL	.
+8ee-J	.
+8ee-L	.
+8ccJ	.
+=35	=35
+8cc	.
+4cc	.
+8ff	.
+=36	=36
+8ee-L	.
+8ccJ	.
+8ddL	.
+8b-J}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Bride
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!Urosła urosła
+!!w onym lesie sosna
+!!a wty wioscynie
+!!urosła lescyna.
+!!@VERSE:
+!!2. Urosła, urosła
+!!na Trajdynie sosna,
+!!zadna Trajdynionka
+!!za chłopa nie posła.
+!!Jesce nie urosła,
+!!w Modlnicy lescyna,
+!!jużci sie wydała
+!!ostatnia dziewcyna.
+!!@VERSE:
+!!3. A już-ci idziemy
+!!od pana plebana.
+!!a juz pani młoda
+!!ślub wziena, ślub wziena.
+!!@VERSE:
+!!4. Przysłam se z kościoła
+!!siadłam se na progu,
+!!już-cim się wydała,
+!!chwała Panu Bogu.
+!!@VERSE:
+!!5. A ciesy sie ciesy
+!!moja rodzinecka,
+!!a zem ja odesła
+!!w kościele wionecka.
+!!@VERSE:
+!!6. Nie odesłam w karcmie
+!!ani na ulicy —
+!!lub:
+!!Ja go nie odesła
+!!nikaj na ulicy,
+!!ino go odesła
+!!w kościele przy świcy.
+!!Ja go nie odesła
+!!nikaj na smentarzu,
+!!ino go odesła
+!!przy wielkim óntarzu (ołtarzu).
+!!@VERSE:
+!!7. Przy wielkim óntarzu
+!!przed najświętsą Panną,
+!!moja rodzinecka
+!!wstydziła się za mną.
+!!Przy wielkim óntarzu
+!!przed najświętsą panną
+!!byli ta i chłopcy,
+!!będą świadcyć za mną.
+!!Jak ci ja pójdę do
+!!księdza gubernarza,
+!!a to on mi odda
+!!wianecek z óntarza.
+!!@@END: VERSES
 !!!ONB: Wariant 2
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=68 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 42} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 42}
 !!!page: 42
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

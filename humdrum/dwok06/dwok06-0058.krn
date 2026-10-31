@@ -3,76 +3,88 @@
 !!!source: DWOK06
 !!!id: K0058
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16b
-8cc
-8b
-=2
-8dd
-4dd
-=3
-16cc
-16ee
-8ff#
-8dd
-=4
-8cc
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Dobra
+16b	.
+8cc	nocka
+8b	.
+=2	=2
+8dd	dobra
+4dd	.
+=3	=3
+16cc	dziewcyno
+16ee	.
+8ff#	.
+8dd	na-
+=4	=4
+8ccM	-dobna,
+4g\}	.
 !!LO:LB:g=esac
-=5
-{16g
-16b
-8cc
-8b
-=6
-8dd
-8cc
-8a
-=7
-4g}
-8r
+=5	=5
+{16g	przy
+16b	twojém
+8cc	.
+8b	.
+=6	=6
+8dd	okienec-
+8ccL	.
+8aJ	.
+=7	=7
+4g}	-ku,
+8r	.
 !!LO:LB:g=esac
-=8
-{16a
-16f#
-8a
-8b
-=9
-8cc
-4a
-=10
-16a
-16cc
-8dd
-8b
-=11
-8g
-4f#}
+=8	=8
+{16a	Dobra
+16f#	.
+8a	nocka
+8b	.
+=9	=9
+8cc	dobra,
+4a	.
+=10	=10
+16a	dziewcyno
+16cc	.
+8dd	.
+8b	nadobna
+=11	=11
+8g	.
+4f#}	.
 !!LO:LB:g=esac
-=12
-{16d
-16f#
-8g
-8a
-=13
-8cc
-8b
-8f#
-=14
-4.g
-=15
-4g}
-8r
-==
-*-
+=12	=12
+{16d	przy
+16f#	.
+8g	twy
+8a	ma-
+=13	=13
+8cc	-lowanéj
+8bL	.
+8f#J	.
+=14	=14
+4.g	skrzyni.
+=15	=15
+4g}	.
+8r	.
+==	==
+*-	*-
+!!!role-listener: Bride
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Dobra nocka dobra dziewcyno nadobna, przy twojém okienecku,
+!!Dobra nocka dobra, dziewcyno nadobna przy twy malowanéj skrzyni.
+!!Dobra nocka dobra dziewcyno nadobna, przy rucianym wianeczku. Dobra nocka dobra dziewcyno nadobna, przy twojim cichém łózecku
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Druchnom na dobrą noc:
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=61 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 35} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 35}
 !!!page: 35
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

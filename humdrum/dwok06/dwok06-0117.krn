@@ -3,56 +3,74 @@
 !!!source: DWOK06
 !!!id: K0117
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16a
-8b
-8cc#
-=2
-16dd
-16dd
-8.cc#
-16g
-=3
-16b
-16b
-8.a
-16g
-=4
-16f#
-16g
-8a
-8b}
+**kern	**text	**text
+*clefG2	*	*
+*k[f#]	*	*
+*G:	*	*
+*M3/8	*	*
+=1	=1	=1
+{16g	Zaświećcie	Zagrajcie
+16a	.	.
+8b	.	.
+8cc#	mi	mi
+=2	=2	=2
+16dd	na	stajerecka,
+16dd	kominie	.
+8.cc#	.	.
+16g	.	.
+=3	=3	=3
+16b	bo	ino
+8ccq	.	.
+16b	mi	.
+8.a	Jaguś	wolne-
+16g	.	.
+=4	=4	=4
+16f#	w_tańcu	-go
+16g	.	wolnego.
+8a	zginie.	.
+8b/}	.	.
 !!LO:LB:g=esac
-=5
-{16g
-16a
-8b
-8cc#
-=6
-16dd
-16dd
-8.cc#
-16g
-=7
-16b
-16cc
-8a
-8g
-=8
-16f#
-16g
-8a
-8g}
-==
-*-
+=5	=5	=5
+{16g	A	Niechze
+16a	cy	.
+8b	zginie	ja
+8cc#	.	se
+=6	=6	=6
+16dd	cy	potańcuje
+8eeq	.	.
+16dd	nie	.
+8.cc#	zginie,	.
+16g	.	.
+=7	=7	=7
+16b	zaświećcie	do
+16cc#	.	dnia
+8a	.	białe-
+8g	mi	.
+=8	=8	=8
+16f#	na	-go
+16g	kominie	białego.
+8a	.	.
+8g}	.	.
+==	==	==
+*-	*-	*-
+!!!role-singer: Groomsmen
+!!!role-listener: Musicians
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Zaświećcie mi na kominie bo mi Jaguś w tańcu zginie.
+!!A cy zginie cy nie zginie, zaświećcie mi na kominie
+!!Zagrajcia mi stajerecka, ino wolnego wolnego
+!!Niechze ja se potańcuje do dnia białego białego.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Drużbowie śpiewają
+!!w imieniu pana-młodego:
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=85 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 59} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 59}
 !!!page: 59
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

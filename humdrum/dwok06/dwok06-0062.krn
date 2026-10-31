@@ -3,81 +3,101 @@
 !!!source: DWOK06
 !!!id: K0062
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8g
-8b
-8cc
-=2
-8dd
-4ee
-=3
-8dd
-8dd
-8cc#
-=4
-8dd
-8cc
-16a}
-16r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8g	Powstań
+8bL	.
+8ccJ	.
+=2	=2
+8dd	powstań
+4ee	.
+=3	=3
+8dd	matko
+8ddL	.
+8cc#J	.
+=4	=4
+8dd;	z_grobu,
+8ccnL	.
+16aJ}	.
+16r	.
 !!LO:LB:g=esac
-=5
-{8dd
-8dd
-8cc
-=6
-8b
-8a
-8g
-=7
-8a
-4cc
-=8
-8b
-8g}
-8r
+=5	=5
+{8dd	błogosław
+8dd	.
+8cc	.
+=6	=6
+8b	córce
+8aL	.
+8gJ	.
+=7	=7
+8a	do
+4cc	ślu-
+=8	=8
+8bL	-bu.
+8gJ}	.
+8r	.
 !!LO:LB:g=esac
-=9
-{8b
-4cc
-=10
-8dd
-4ee
-=11
-8dd
-4cc#
-=12
-4.dd
-=13
-8cc
-8a}
-8r
+=9	=9
+{8b	Musia-
+4cc	.
+=10	=10
+8dd	-ły
+4ee	by
+=11	=11
+8dd	się
+4cc#	cu-
+=12	=12
+4.dd	-da
+=13	=13
+8ccnL	stać,
+8aJ}	.
+8r	.
 !!LO:LB:g=esac
-=14
-{8dd
-8dd
-8cc
-=15
-8b
-8a
-8g
-=16
-8a
-4b
-=17
-4.cc
-=18
-8b
-8g}
-8r
-==
-*-
+=14	=14
+{8dd	zeby
+8ddL	.
+8ccJ	.
+=15	=15
+8b	ja
+8bq	.
+8aL	mia-
+8gJ	.
+=16	=16
+8a	-ła
+4b	z_gro-
+=17	=17
+4.cc	-bu
+=18	=18
+8bL	wstać,
+8gJ}	.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Daughter, Mother
+!!!role-listener: Mother, Daughter
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Powstań powstań matko z grobu, błogosław córce do ślubu.
+!!Musiały by się cuda stać, zeby ja miała z grobu wstać,
+!!Są ci tu ludzie na świecie, pobogosławią sierocie.
+!!lub téż:
+!!Błogosław ze nam Jezusie, bo nie ma ojca (lub téz): matusie,
+!!Matusiu moja z grobu wstaj, błogosławieństwo córce daj.
+!!Matusia z grobu nie wstaje, błogosławieństwa nie daje,
+!!Jesta tam ludzi na świecie, pobłogosławią me dziecię.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Jeśli matka nie żyje, śpiewają:
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=63 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 37} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 37}
 !!!page: 37
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

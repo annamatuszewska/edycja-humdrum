@@ -3,101 +3,129 @@
 !!!source: DWOK06
 !!!id: K0208
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16a
-8b
-8cc
-=2
-4.dd
-=3
-16cc#
-16dd
-8ee
-8ee
-=4
-4.dd}
+**kern	**text	**text
+*clefG2	*	*
+*k[f#]	*	*
+*G:	*	*
+*M3/8	*	*
+=1	=1	=1
+{16g	A	Przyjechał
+16a	z_góry	.
+8b	.	.
+8cc	z_gó-	w_nocy
+=2	=2	=2
+4.dd	-ry	.
+=3	=3	=3
+16cc#	jadą	przed
+16dd	.	moje
+8ee	Mazu-	.
+8ee	.	o-
+=4	=4	=4
+4.dd}	-ry.	-cy
 !!LO:LB:g=esac
-=5
-{8dd
-4dd
-=6
-16cc
-16b
-8a
-8g
-=7
-16b
-16dd
-8cc#
-8dd
-=8
-16cc
-16b
-8a
-8g
-=9
-16f#
-16g
-8a
-8a
-=10
-4.g}
+=5	=5	=5
+{8dd	Jedzie	Sztup,
+4dd	.	.
+=6	=6	=6
+16cc	Mazurecek,	sztup,
+16b	.	w_okiene-
+8a	.	.
+8g	.	.
+=7	=7	=7
+16b	wiezie	-cko,
+16dd	.	otwórz
+8cc#	wiezie	.
+8dd	.	Ka-
+=8	=8	=8
+16cc	mój	-siu
+16b	wianecek,	kochanecko,
+8a	.	.
+8g	.	.
+=9	=9	=9
+16f#	ale	daj
+16g	.	koniom
+8a	rucia-	.
+8a	.	wody.
+=10	=10	=10
+4.g}	-ny	.
 !!LO:LB:g=esac
-=11
-{16.g
-32a
-8b
-16a
-16b
-=12
-4.g
-=13
-16.b
-32cc
-8dd
-16ee
-16cc#
-=14
-4.dd}
+=11	=11	=11
+{16.gL	.	.
+32aJ	.	.
+8bL	.	.
+16a	.	.
+16bJ\	.	.
+=12	=12	=12
+4.g	.	.
+=13	=13	=13
+16.bL	.	.
+32ccJ	.	.
+8ddL	.	.
+16ee	.	.
+16cc#J	.	.
+=14	=14	=14
+4.dd}	.	.
 !!LO:LB:g=esac
-=15
-{8dd
-8dd
-8dd
-=16
-16cc
-16b
-8a
-8g
-=17
-16.b
-32dd
-8cc#
-16dd
-16a
-=18
-16cc
-16b
-8a
-8g
-=19
-16.f#
-32g
-8a
-16b
-16a
-=20
-4.g}
-==
-*-
+=15	=15	=15
+{8ddL	.	.
+8dd	.	.
+8ddJ	.	.
+=16	=16	=16
+16ccL	.	.
+16bJ	.	.
+8aL	.	.
+8gJ	.	.
+=17	=17	=17
+16.bL	.	.
+32ddJ	.	.
+8cc#L	.	.
+16dd	.	.
+16aJ	.	.
+=18	=18	=18
+16ccnL	.	.
+16bJ	.	.
+8aL	.	.
+8gJ	.	.
+=19	=19	=19
+16.f#L	.	.
+32gJ	.	.
+8aL	.	.
+16b	.	.
+16aJ	.	.
+=20	=20	=20
+4.g}	.	.
+==	==	==
+*-	*-	*-
+!!!role-singer: Maiden
+!!!role-listener: Bachelor
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. A z góry z góry jadą mazury.
+!!Jedzie mazurecek, wiezie wiezie mój wianecek, ale ruciany
+!!@VERSE:
+!!2. Przyjechał w nocy przed moje o-cy,
+!!Sztup, sztup, w okienecko, otwórz Kasiu kochanecko, daj koniom wody.
+!!@VERSE:
+!!3. Z Jasiem siadała - wianka płakała
+!!oj com za niescęśliwa z tobą jechała.
+!!@VERSE:
+!!4. Wyjechał w pole - we stajon dwoje.
+!!Obejźry się dziewce moje cy wsyćko twoje.
+!!@VERSE:
+!!5. Wsyćko to moje, na karym koniu,
+!!ino sobie zabacyłam wionka, pierścionka.
+!!@VERSE:
+!!6. Wyjechał w pole - we stajon dwoje,
+!!a niegadali do siebie - słówka oboje.
+!!@VERSE:
+!!7. Wzion ją za rącki, za cienkie bocki,
+!!i wrzucił ją i wrzucił ją w Dunaj głębocki.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=137 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 111} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 111}
 !!!page: 111
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

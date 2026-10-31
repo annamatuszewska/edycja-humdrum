@@ -3,66 +3,114 @@
 !!!source: DWOK06
 !!!id: K0130
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*d:
-*M3/8
-=1
-{8dd
-4ff
-=2
-8ee
-4dd
-=3
-8cc
-4cc
-=4
-8b-
-4a}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*d:	*
+*M3/8	*
+=1	=1
+{8dd	Bądzcie
+4ff	.
+=2	=2
+8ee	zdzowe
+4dd	.
+=3	=3
+8cc	moje
+4cc	.
+=4	=4
+8b-	progi
+4a}	.
 !!LO:LB:g=esac
-=5
-{16dd
-16dd
-8dd
-8ff
-=6
-8ee
-4dd
-=7
-8dd
-4cc
-=8
-8b-
-4a}
+=5	=5
+{16dd	przełaziły
+16dd	.
+8dd	.
+8ff	.
+=6	=6
+8ee	was
+4dd	tu
+=7	=7
+8cc#q	.
+8dd	moje
+4cc	.
+=8	=8
+8b-	nogi.
+4a}	.
 !!LO:LB:g=esac
-=9
-{16g
-16f
-8g
-8a
-=10
-8cc
-4cc
-=11
-8dd
-4cc}
+=9	=9
+{16g	Bądźcie
+16f	.
+8g	zdrowe:
+8a	.
+=10	=10
+8cc	wy
+4cc	.
+=11	=11
+8dd	stołki,
+4cc}	.
 !!LO:LB:g=esac
-=12
-{16g
-16a
-8b-
-8a
-=13
-8cc
-4b-
-=14
-8g
-4a}
-==
-*-
+=12	=12
+{16g	wysiedziałam
+16a	.
+8b-/	.
+8a	.
+=13	=13
+8cc	na
+4b-	was
+=14	=14
+8g	dołki.
+4a}	.
+==	==
+*-	*-
+!!!role-singer: Bridesmaids, (Bride)
+!!!role-listener: Furniture, Family
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Bądzcie zdzowe moje progi
+!!przełaziły was tu moje nogi.
+!!Bądźcie zdrowe: wy stołki,
+!!wysiedziałam na was dołki.
+!!@VERSE:
+!!2) Bądźcie zdrowe i wy syby,
+!!nacierpiałam się tu biédy.
+!!Bądzcie zdrowe i wy okna,
+!!nawyglądałam się Jasia do dnia.
+!!@VERSE:
+!!3) Bądźcie zdrowe stoły, ławy,
+!!i ty piecu malowany.
+!!Nie będe cię malowała,
+!!bo się będe wybierała.
+!!@VERSE:
+!!4) Ostanie tu młodsa siostrzycka,
+!!będzieć malować choć do północka.
+!!Bo-ć nade mną przewodziła,
+!!przecie'm ci jéj ustąpiła.
+!!@VERSE:
+!!5) Oj przewodziła’ć nade mną,
+!!ja se bede gospodynią.
+!!A będziez i ty płakała,
+!!będzies za mną wyglądała.
+!!@VERSE:
+!!6) Ostań zdrów, bracie kochany,
+!!nie będe’ć podpierać ściany.
+!!Bo juz idę w obcą stronę,
+!!Jasiowi męzu (mężowi) za zonę.
+!!@VERSE:
+!!7) Panie Boze, zapłać matusi moji,
+!!nie miała ja tu niewoli,
+!!Bądźcie zdrowe drzwi i wrota,
+!!bo juz idę jak sierota.
+!!@VERSE:
+!!8) Pobłogosław mi tatusiu w drogę
+!!cóz! ja od was wynijść nie mogę.
+!!„Wynidź córuś, prostą drogą,
+!!prosta droga jest do Boga.”
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=91 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 65} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 65}
 !!!page: 65
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

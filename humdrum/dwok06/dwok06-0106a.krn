@@ -3,62 +3,95 @@
 !!!source: DWOK06
 !!!id: K0106a
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8b
-8cc#
-4dd
-4dd
-=2
-8dd
-8cc#
-8b
-8a
-4g
-=3
-8b
-8cc#
-4dd
-4dd
-=4
-8dd
-8cc#
-8b
-8a
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8b	Pomalutku
+8cc#	.
+4dd	.
+4dd	.
+=2	=2
+8dd	rozbirajcie,
+8cc#	.
+8bL	.
+8aJ\	.
+4g	.
+=3	=3
+8b	warkocka
+8cc#	.
+4dd	.
+4dd	ji
+=4	=4
+8dd	nie
+8cc#	targajcie,
+8bL	.
+8aJ\	.
+4g}	.
 !!LO:LB:g=esac
-=5
-{8b
-8cc#
-4dd
-8dd
-8cc#
-=6
-8b
-8a
-8g
-8f#
-4d
-=7
-8e
-8f#
-8g
-8b
-8dd
-8cc#
-=8
-8a
-8f#
-2g}
-==
-*-
+=5	=5
+{8b	bo
+8cc#	tez
+4dd	to
+8ddL	w_tej
+8cc#J	.
+=6	=6
+8bL	niewoli
+8aJ	.
+8gL	.
+8f#J	.
+4d	.
+=7	=7
+8e	i
+8f#	główka
+8g	.
+8b	ją
+8dd	bardzo
+8cc#	.
+=8	=8
+8aL	boli.
+8f#J	.
+2g}	.
+==	==
+*-	*-
+!!!role-singer: Wedding Matrons, Bride
+!!!role-listener: Bride, Rosemary
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Pomalutku rozbirajcie, warkocka ji nie targajcie,
+!!bo tez to w tej niewoli i główka ją bardzo boli.
+!!A moje warkocki mojo ładne włosy
+!!uzywałyście se u matki roskosy.
+!!A ino cie weźmie — jaki ch(ł)opowina,
+!!skrzywi ci się warkoc - kieby grochowina.
+!!Zalicali ji sie, — a ona nie śmiała,
+!!bo ona nie takich — przez przetacek siała.
+!!@VERSE:
+!!3. A jak ci ja była u swojéj matusie,
+!!miała ja warkocyk, połyskował mi sie.
+!!Marna ch(ł)opowina, — skoro mnie pojéna (pojęła),
+!!zmiąn mi się warkocyk — kieby grochowina.
+!!Ziele moje, ziele, — mój rozmaryjonie,
+!!juz cie moja rącka — ostatni raz łomie.
+!!@VERSE:
+!!4. U moji matusie, — u moji kochany,
+!!malowane okna, — bryzowane sciany.
+!!A jak ci ja byla, — u swéj pani matki,
+!!to ja przeskocyła — śtéry na raz ławki.
+!!A jakci ja posła, — za mego miłego,
+!!nie mogę ja przeleźć — progu mizernego.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Przy rozbieraniu głowy i zdjęciu wieńca śpiewają jeszcze:
+!!@@END:
 !!!ONB: Czesc 1
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=81 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 55} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 55}
 !!!page: 55
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

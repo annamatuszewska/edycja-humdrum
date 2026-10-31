@@ -3,72 +3,90 @@
 !!!source: DWOK06
 !!!id: K0014
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8dd
-8dd
-8ee
-=2
-8ee
-4dd
-=3
-16dd
-16ee
-8dd
-8b
-=4
-16cc
-16b
-4a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8dd	Dobranoc
+8dd	.
+8ee	.
+=2	=2
+8ee	dobra
+4dd	.
+=3	=3
+16dd	dziewcyno
+16ee	.
+8dd	.
+8b	nadobna
+=4	=4
+16ccL	.
+16bJ	.
+4a}	.
 !!LO:LB:g=esac
-=5
-{16b
-16cc
-8dd
-8cc
-=6
-8ee
-8dd
-8cc
-=7
-4.b}
+=5	=5
+{16b	cegos
+16cc	.
+8dd	będzies
+8cc	.
+=6	=6
+8ee	płaka-
+8ddL	.
+8ccJ	.
+=7	=7
+4.b}	-ła?
 !!LO:LB:g=esac
-=8
-{16b
-16a
-8b
-8cc
-=9
-8dd
-4b
-=10
-16b
-16cc
-8b
-8g
-=11
-8g
-4f#}
+=8	=8
+{16b	A
+16a\	cemuześ
+8b	.
+8cc	.
+=9	=9
+8dd	nie
+4b	sła
+=10	=10
+16b	kiej
+16cc	cię
+8b	ludzie
+8g	.
+=11	=11
+8g	chcieli
+4f#}	.
 !!LO:LB:g=esac
-=12
-{16g
-16a
-8b
-8a
-=13
-8cc
-8b
-8a
-=14
-4.g}
-==
-*-
+=12	=12
+{16g	tylko
+16a	.
+8b/	ty
+8a	na
+=13	=13
+8cc	nas
+8bL	ceka-
+8aJ	.
+=14	=14
+4.g}	-ła.
+==	==
+*-	*-
+!!!role-singer: Groom
+!!!role-listener: Bride
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Dobranoc dobra dziewcyno nadobna
+!!cegos będzies płakała?
+!!A cemuześ nie sła kiej cię ludzie chcieli
+!!tylko ty na nas cekała.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Przed jéj chatą wrzawa ustaje, a pierwszy drużba śpiewa:
+!! Po tym skończonym śpiewie drużby, wszyscy razem śpiewają:
+!!A cy my to pani-matko nie ludzie,
+!!co do nas ta dziewcyna nie wyjdzie?
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=41 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 17} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 17}
 !!!page: 17
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

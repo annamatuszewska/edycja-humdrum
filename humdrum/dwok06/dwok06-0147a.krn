@@ -3,78 +3,126 @@
 !!!source: DWOK06
 !!!id: K0147a
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{8dd
-8dd
-16dd
-16ee
-=2
-8ff
-4dd
-=3
-8ff
-8ff
-32ee
-32dd
-16b
-=4
-8cc
-16b
-16g}
-8r
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{8dd	Dobra
+8dd	.
+16dd	nocka
+16ee	.
+=2	=2
+8ff	dobra
+4dd	.
+=3	=3
+8ff	dziewcyno
+8ff	.
+32eeL	.
+32ddJ	.
+16b	na-
+=4	=4
+8cc	-dobna,
+16bL	.
+16gJ}	.
+8r	.
 !!LO:LB:g=esac
-=5
-{16dd
-16ee
-8ff
-16dd
-16b
-=6
-4cc
-8cc}
+=5	=5
+{16dd	cóz
+16ee	będzies
+8ff	.
+16ddL	pła-
+16bJ	.
+=6	=6
+4cc;	-kała?
+8cc}	.
 !!LO:LB:g=esac
-=7
-{16dd
-16dd
-8dd
-16dd
-16ee
-=8
-8ff
-4dd
-=9
-8ff
-8ff
-16ee
-16dd
-=10
-8cc
-4b}
+=7	=7
+{16dd	A
+16dd	cemu
+8dd	.
+16ddL	ześ
+16eeJ	.
+=8	=8
+8ff	nie
+4dd	sła,
+=9	=9
+8ff	kiej
+8ff	cię
+16ee	ludzie
+16dd	.
+=10	=10
+8cc	chcieli,
+4b}	.
 !!LO:LB:g=esac
-=11
-{8dd
-8cc
-16dd
-16ee
-=12
-8ff
-8dd
-8b
-=13
-4.cc
-=14
-8cc}
-4r
-==
-*-
+=11	=11
+{8dd	tylkoś
+8cc	.
+16ddL	na
+16eeJ	.
+=12	=12
+8ff	nas
+8ddL	ce-
+8bJ	.
+=13	=13
+4.cc	-ka-
+=14	=14
+8cc}	-ła.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Chief Groomsman
+!!!role-listener: Bride
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Dobra nocka dobra
+!!dziewcyno nadobna,
+!!cóz będzies płakała?
+!!A cemu ześ nie sła,
+!!kiej cię łudzie chcieli,
+!!tylkoś na nas cekała.
+!!A cy my panie dziadku
+!!nie ludzie nie ludzie,
+!!co do nas ta dziewucha
+!!nie wyjdzie nie wyjdzie.
+!!Poczém chórem zaśpiewali wszyscy:
+!!A cy my to panie dziatku nie ludzie, nie ludzie?
+!!Co to do nas ta dziewucha nie wyjdzie, nie wyjdzie.
+!!I znów zaczął drużbu drugi:
+!!Dobra nocka dobra,
+!!dziewcyno nadobna,
+!!idziem tu do ciebie,
+!!A wyjdź-ze tu do nas.
+!!a przywitaj-ze nas,
+!!wprowadź nas do siebie.
+!!Chór: A cy my to panie dziadku nie ludzie, nie ludzie?
+!!Co to do nas ta dziewucha nie wyjdzie, nie wyjdzie.
+!!Trzeci drużba:
+!!Dobra nocka, dobra,
+!!dziewcyno nadobna,
+!!idziem pod twą strzechę,
+!!A wyjdź-ze tu do nas,
+!!a przywitaj-ze nas,
+!!zrób-ze nam uciechę.
+!!Chór: A cy my to panie dziadku nie ludzie, nie ludzie?
+!!Co to do nas ta dziewucha nie wyjdzie, nie wyjdzie.
+!!Drużba czwarty:
+!!Dobra nocka, dobra,
+!!dziewcyno nadobna,
+!!idziem pod twe progi.
+!!A wynijdź-ze do nas,
+!!a przywitaj-ze mnie,
+!!choć-iem ja ubogi.
+!!Chor: A cy my to panie dziadku nie ludzie, nie ludzie?
+!!Co to do nas ta dziewucha nie wyjdzie, nie wyjdzie.
+!!@@END: VERSES
 !!!ONB: Czesc pierwsza melodii w tonacji C
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=100 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 74} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 74}
 !!!page: 74
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

@@ -3,51 +3,75 @@
 !!!source: DWOK06
 !!!id: K0173
 !!!signature: 06017300001
-**kern
-*clefG2
-*k[b-]
-*F:
-*M2/4
-=1
-{8dd
-8b-
-4dd
-=2
-8cc
-4f
-8a
-=3
-8b-
-8g
-4b-
-=4
-8a
-4cc
-8ff}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M2/4	*
+=1	=1
+{8dd	Jusci
+8b-	.
+4dd	Maryś
+=2	=2
+8cc	.
+4f	nie
+8a\	trza
+=3	=3
+8b-	hulać
+8g	.
+4b-	z_chłopakami,
+=4	=4
+8a\	.
+4cc	.
+8ff}	.
 !!LO:LB:g=esac
-=5
-{8dd
-8b-
-4dd
-=6
-8cc
-4f
-8a
-=7
-8b-
-16dd
-16b-
-8g
-8g
-=8
-8a
-4f}
-8r
-==
-*-
+=5	=5
+{8dd	ale
+8b-	.
+4dd	podrygiwać
+=6	=6
+8cc	.
+4f	.
+8a\	.
+=7	=7
+8b-	lekusieńko
+16ddL	.
+16b-J	.
+8g	.
+8g	.
+=8	=8
+8a	z_nami.
+4f}	.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Wedding Matrons
+!!!role-listener: Bride
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!Jusci Maryś nie trza hulać z chłopakami,
+!!ale podrygiwać lekusieńko z nami.
+!!Z kolei wzięła ją druga, śpiewając (na tęż nutę):
+!!@VERSE:
+!!1. Najadłaś się Maryś
+!!u dziadusia chleba;
+!!idź-ze teraz na swój,
+!!bo ci chłopca trzeba.
+!!@VERSE:
+!!2. Sprawuj-ze się dobrze
+!!zeby cię nie bijał,
+!!do karcmy nie chodził,
+!!gorzałki nie pijał.
+!!@@END: VERSES
 !!!ONB: Czesc 1
+!!@@BEGIN: 
+!!@COMMENTARY: Poczém ruszyła na czele orszaku do izby weselnéj, a rzu-
+!!ciwszy muzykantom w kapelusz i podawszy im melodyą zaśpiewała:
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=114 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 88} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 88}
 !!!page: 88
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

@@ -3,74 +3,99 @@
 !!!source: DWOK06
 !!!id: K0170
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8.b
-16dd
-8g
-8a
-8b
-8a
-=2
-8f#
-8g
-8d
-8f#
-8a
-8cc}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8.b	Pragnęłaś
+16dd	.
+8g	.
+8a	Marysiu
+8b/	.
+8a	.
+=2	=2
+8f#	na
+8g	kawałek
+8d	.
+8f#	.
+8a	sieci,
+8cc}	.
 !!LO:LB:g=esac
-=3
-{8.b
-16dd
-8g
-8a
-8b
-8a
-=4
-8f#
-8g
-8d
-8f#
-8a
-8g}
+=3	=3
+{8.b	niechże
+16dd	.
+8g	ci
+8a	się
+8b/	teraz
+8a	.
+=4	=4
+8f#	na
+8g	główecce
+8d	.
+8f#	.
+8a	świeci.
+8g}	.
 !!LO:LB:g=esac
-=5
-{8.b
-16dd
-8g
-8a
-8b
-8a
-=6
-8f#
-8g
-8d
-8f#
-8a
-8cc}
+=5	=5
+{8.b	Pragnęłaś
+16dd	.
+8g	.
+8a	Marysiu
+8b/	.
+8a	.
+=6	=6
+8f#	na
+8g	kawałek
+8d	.
+8f#	.
+8a	sieci,
+8cc}	.
 !!LO:LB:g=esac
-=7
-{8.b
-16dd
-8g
-8a
-8b
-8a
-=8
-8f#
-8g
-8d
-8f#
-8a
-8g}
-==
-*-
+=7	=7
+{8.b	niechże
+16dd	.
+8g	ci
+8a	się
+8b/	taraz
+8a	.
+=8	=8
+8f#	na
+8g	główecce
+8d	.
+8f#	.
+8a	świeci.
+8g}	.
+==	==
+*-	*-
+!!!role-singer: Wedding Matrons
+!!!role-listener: Bride
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Pragnęłaś Marysiu
+!!na kawałek sieci,
+!!niechze ci się teraz
+!!na główecce świeci.
+!!@VERSE:
+!!2. Idźze dziewcyno
+!!ku ogrodowi,
+!!wykop-ze dołek
+!!swemu wiankowi.
+!!@VERSE:
+!!3. Wykop-ze dołecek
+!!wykop głęboko,
+!!boć go juz ludzkie
+!!nie ujźry oko.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Nakoniec wszystkie chórem śpiewały:
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=112 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 86} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 86}
 !!!page: 86
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

@@ -3,98 +3,114 @@
 !!!source: DWOK06
 !!!id: K0131
 !!!signature:
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{8e
-8a
-8b
-8cc
-8b
-8a
-=2
-8cc
-8ee
-8dd
-8cc
-8b
-8a
-=3
-8b
-8a
-8g#
-8e
-4d
-=4
-8f
-8d
-2e}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+{8e	Ozleciały
+8a\	.
+8b	.
+8cc	.
+8b	mi
+8a\	się
+=2	=2
+8cc	siwe
+8ee	.
+8dd	gołębisie
+8cc	.
+8b	.
+8a\	.
+=3	=3
+8b	a
+8a\	po
+8g#L	polu
+8eJ	.
+4d	.
+=4	=4
+8eq	.
+8f	po
+8d	polu:
+2e}	.
 !!LO:LB:g=esac
-=5
-{8e
-8a
-8b
-8cc
-8b
-8a
-=6
-8b
-8cc
-8b
-8a
-8g#
-8a
-=7
-8cc
-8ee
-4dd#
-4ee
-=8
-8cc
-8a
-4b}
-4r
+=5	=5
+{8e	a
+8a\	zganiajze
+8b	.
+8cc	.
+8b	mi
+8a\	je,
+=6	=6
+8b	nadobna
+8cc	.
+8b	.
+8a	dziewcyno
+8g#	.
+8a	.
+=7	=7
+8cc	a
+8ee	do
+4dd#	dworu
+4ee	.
+=8	=8
+8cc	do
+8a	dworu.
+4b}	.
+4r	.
 !!LO:LB:g=esac
-=9
-{4a
-8cc
-8b
-4a
-=10
-8cc
-16r
-16ee
-4cc
-8b
-8a}
+=9	=9
+{4a\	.
+8ccL	.
+8bJ	.
+4a	.
+=10	=10
+8ccL	.
+16r	.
+16eeJ	.
+4cc	.
+8bL	.
+8aJ}	.
 !!LO:LB:g=esac
-=11
-{8cc
-16r
-16ee
-4dd#
-4ee
-=12
-8cc
-8b
-2b}
+=11	=11
+{8ccL	.
+16r	.
+16eeJ	.
+4dd#	.
+4ee	.
+=12	=12
+8bq	.
+8ccL	.
+8bJ	.
+2b}	.
 !!LO:LB:g=esac
-=13
-{8cc
-8ee
-4dd#
-4ee
-=14
-8cc
-8b
-2a}
-==
-*-
+=13	=13
+{8ccL	.
+8eeJ	.
+4dd#	.
+4ee	.
+=14	=14
+8bq	.
+8ccL	.
+8bJ	.
+2a}	.
+==	==
+*-	*-
+!!!role-singer: Groomsmen
+!!!role-listener: Maiden
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Ozleciały mi się siwe gołębisie a po polu po polu:
+!!a zganiajze mi je, nadobna dziewcyno a do dworu do dworu.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Drużbowie, gromadząc gości czy to do ślubu, czy do uczty, czy do czepin, czy do przenosin, odzywają się przy odgłosie muzyki:
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=91 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 65-66} @EN{Oskar Kolberg Complete Works 6: Crakow II, pp. 65-66}
 !!!page: 65-66
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

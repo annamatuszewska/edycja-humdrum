@@ -3,93 +3,120 @@
 !!!source: DWOK06
 !!!id: K0084a
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-=1
-*M2/4
-{16b
-16dd
-16ee
-16dd
-4b
-=2
-8a
-4cc
-8cc
-=3
-8a
-16b
-16a
-4cc
-=4
-8b
-4dd
-8dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+=1	=1
+*M2/4	*
+{16bL	Otwieraj
+16ddJ/	.
+16eeL	.
+16ddJ/	.
+4b	.
+=2	=2
+8a	ze
+4cc	pani
+8cc	.
+=3	=3
+8aL	matko
+16b	.
+16aJ	.
+4cc	ten
+=4	=4
+8b	nowy
+4dd	.
+8dd}	dwór,
 !!LO:LB:g=esac
-=5
-{16dd
-16ee
-8dd
-4b
-=6
-8a
-4cc
-8cc
-=7
-8cc
-8cc
-8.a
-16b
-=8
-*M3/8
-8b
-8g}
-8r
+=5	=5
+{16ddL	wiedemy
+16ee	.
+8ddJ/	.
+4b	.
+=6	=6
+8a	ci
+4cc	synowę
+8cc	.
+=7	=7
+8cc	na
+8cc	wybiór
+8.a	.
+16b/	na
+=8	=8
+*M3/8	*
+8b/	wybiór.
+8g}	.
+8r	.
 !!LO:LB:g=esac
-=9
-*M2/4
-{8g
-8b
-4b
-=10
-8b
-4a
-8d
-=11
-8d
-16f#
-16a
-4cc
-=12
-8cc
-4dd
-8b}
+=9	=9
+*M2/4	*
+{8gL	.
+8bJ	.
+4b	.
+=10	=10
+8b	.
+4a\	.
+8d\	.
+=11	=11
+8dL	.
+16f#	.
+16aJ\	.
+4cc	.
+=12	=12
+8cc	.
+4dd	.
+8b}	.
 !!LO:LB:g=esac
-=13
-{8g
-8b
-4b
-=14
-8dd
-4cc
-8a
-=15
-8a
-8f#
-8f#
-8a
-=16
-*M3/8
-8b
-8g}
-8r
-==
-*-
+=13	=13
+{8gL	.
+8bJ	.
+4b	.
+=14	=14
+8dd	.
+4cc	.
+8a	.
+=15	=15
+8aL	.
+8f#J	.
+8f#L	.
+8aJ	.
+=16	=16
+*M3/8	*
+8bL	.
+8gJ}	.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Wedding Guests
+!!!role-listener: Mother-In-Law
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Otwieraj ze pani matko ten nowy dwór,
+!!wiedemy ci synowę na wybiór na wybiór.
+!!Otwieraj-ze go séroko,
+!!Bo już synowa niedaleko.
+!!@VERSE:
+!!2. Zaganiaj-ze pani matko kokose
+!!bo ci je druzyna rozpłosy.
+!!„Ja je juz pozganiała,
+!!bom się tego spodziewała.”
+!!@VERSE:
+!!3. Do kątka, pani matko, do kątka,
+!!zaganiaj swoje cielątka.
+!!@VERSE:
+!!4. Pragnęłaś pani matko synowy,
+!!wychodź teraz z izby i z komory.
+!!„A jak-ze ja wynijść mam,
+!!kiedy jesce małe dziatki mam.”
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Dochodząc do domu matki pana-młodego na czepiny:
+!!@@END:
 !!!ONB: Wariant alternatywny
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=73 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 47} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 47}
 !!!page: 47
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

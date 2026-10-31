@@ -3,88 +3,120 @@
 !!!source: DWOK06
 !!!id: K0201
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{4g
-8dd
-8ff
-=2
-8ee
-8ee
-8dd
-8cc
-=3
-8g
-8b
-4dd
-=4
-4cc
-8ee
-8gg}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+=1	=1
+{4g	Miałem
+8dd	.
+8ff	ja
+=2	=2
+8ee	cztery
+8ee	.
+8dd	wołki
+8cc	.
+=3	=3
+8gL	same
+8bJ	.
+4dd	.
+=4	=4
+4cc	gawrony
+8ee	.
+8gg}	.
 !!LO:LB:g=esac
-=5
-{8g
-8g
-8dd
-8ff
-=6
-8ee
-8ee
-8dd
-8cc
-=7
-8g
-8b
-4dd
-=8
-4cc
-8cc
-8cc}
+=5	=5
+{8g	jeden
+8g	.
+8dd	mi
+8ff	zdech
+=6	=6
+8ee	drugi
+8ee	.
+8dd	mi
+8cc	zdech
+=7	=7
+8gL	trzeci
+8bJ	.
+4dd	.
+=8	=8
+4cc	utonął.
+8cc	.
+8cc}	.
 !!LO:LB:g=esac
-=9
-{4g
-8dd
-8ff
-=10
-8ee
-8ee
-8dd
-8cc
-=11
-8g
-8b
-4dd
-=12
-4cc
-8ee
-8gg}
+=9	=9
+{4g	Miałem
+8dd	.
+8ff	ja
+=10	=10
+8ee	cztery
+8ee	.
+8dd	wołki
+8cc	.
+=11	=11
+8gL	same
+8bJ	.
+4dd	.
+=12	=12
+4cc	gawrony
+8ee	.
+8gg}	.
 !!LO:LB:g=esac
-=13
-{8g
-8g
-8dd
-8ff
-=14
-8ee
-8ee
-8dd
-8cc
-=15
-8g
-8b
-4dd
-=16
-4cc
-8cc
-8cc}
-==
-*-
+=13	=13
+{8g	jeden
+8g	.
+8dd	mi
+8ff	zdech
+=14	=14
+8ee	drugi
+8ee	.
+8dd	mi
+8cc	zdech
+=15	=15
+8gL	trzeci
+8bJ	.
+4dd	.
+=16	=16
+4cc	utonął.
+8cc	.
+8cc}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Miałem ja cztery wołki same gawrony
+!!jeden mi zdech drugi mi zdech trzeci utonął.
+!!@VERSE:
+!!1. Są (tam) w lesie fijołecki,
+!!pójdziema na nie;
+!!uwijema cztéry wianki
+!!na darowanie.
+!!@VERSE:
+!!2. Jeden z ruty drugi z ruty
+!!— trzeci z powoju
+!!Mam ci ja te śtery wołki
+!!na swojim staniu.
+!!@VERSE:
+!!3. Miałem ci ja cztéry wołki, — same gawrony, (czarnéj maści)
+!!jeden mi zdech, drugi mi zdech — trzeci utonął
+!!czwartego mi pan starosta do — dworu zajął.
+!!@VERSE:
+!!4. A ja za nim torem torem — za moim wołem
+!!zasadził mnie pan starosta — za swoim stołem.
+!!@VERSE:
+!!5. Daje mi jeść, daje mi pić — do moji woli
+!!dziewcyna mu się spodobała — na moji roli
+!!(lub: Gowisia mnie rozbolała
+!!panna mi się spodobała
+!!do moji woli. )
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=134 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 108} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 108}
 !!!page: 108
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

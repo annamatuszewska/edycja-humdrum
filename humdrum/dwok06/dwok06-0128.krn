@@ -3,70 +3,89 @@
 !!!source: DWOK06
 !!!id: K0128
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8g
-8cc
-8b
-=2
-8dd
-4dd
-=3
-8cc
-8cc
-8b
-=4
-8g
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8g	Przeleciał
+8cc	.
+8b	.
+=2	=2
+8dd	sokół
+4dd	.
+=3	=3
+8cc	przez
+8cc	pański
+8b	.
+=4	=4
+8g	okół,
+4g}	.
 !!LO:LB:g=esac
-=5
-{8g
-8cc
-8b
-=6
-8dd
-8cc
-8b
-=7
-4g
-8g}
+=5	=5
+{8g	piórocka
+8aq	.
+8cc	.
+8b	.
+=6	=6
+8dd	na
+8ccL	nim
+8bJ	.
+=7	=7
+4g;	drzały,
+8g}	.
 !!LO:LB:g=esac
-=8
-{16a
-16a
-8a
-8b
-=9
-8cc
-4a
-=10
-16cc
-16cc
-8b
-8a
-=11
-8g
-4f#}
+=8	=8
+{16a	wybieraj
+16a	.
+8a	.
+8b	się
+=9	=9
+8cc	Maryś,
+4a	.
+=10	=10
+16cc	wybieraj
+16cc	.
+8b	.
+8a	się
+=11	=11
+8g	moja,
+4f#}	.
 !!LO:LB:g=esac
-=12
-{8g
-8cc
-8b
-=13
-8dd
-8cc
-8b
-=14
-4g
-8g}
-==
-*-
+=12	=12
+{8g	bo
+8cc	ci
+8b	juz
+=13	=13
+8dd	cas
+8ccL	nie
+8bJ	.
+=14	=14
+4g;	mały.
+8g}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!!role-listener: Bride
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Przeleciał sokół przez pański okół,
+!!piórocka na nim drzały,
+!!wybieraj się Maryś, wybieraj się moja,
+!!bo ci juz cas nie mały.
+!!Maryś się zbiéra, chustki zawija,
+!!ale jéj idzie nie sporo,
+!!bo to ta Marysia, ta nasa dziewucha
+!!to dzisiaj nie wesoła.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Wybierając się do kościoła:
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=90 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 64} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 64}
 !!!page: 64
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

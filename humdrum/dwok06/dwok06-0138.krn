@@ -3,78 +3,85 @@
 !!!source: DWOK06
 !!!id: K0138
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16d
-16e
-8f#
-8d
-=2
-16f#
-16g
-8b
-8g
-=3
-8a
-4b
-=4
-4.cc}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16d	A
+16e	z_wiecora
+8f#	.
+8d	.
+=2	=2
+16f#	jabłoneckę
+16g	.
+8b	.
+8g	.
+=3	=3
+8a\	sadzi-
+4b	.
+=4	=4
+16aqL	.
+16bqJ	.
+4.cc}	-ła,
 !!LO:LB:g=esac
-=5
-{16cc
-16dd
-8ee
-8cc
-=6
-16cc
-16b
-8a
-8g
-=7
-8cc
-4b-
-=8
-4.a}
+=5	=5
+{8bq	.
+16cc	a
+16dd	nade
+8ee	.
+8cc	dniem
+=6	=6
+8ddq	.
+16cc	pana
+16b	.
+8a	Boga
+8g	.
+=7	=7
+8cc	prosi-
+4b-	.
+16ccqqL	.
+16b-qqJ	.
+=8	=8
+4.a}	-ła,
 !!LO:LB:g=esac
-=9
-{16d
-16e
-8f#
-8d
-=10
-16f#
-16g
-8b
-8g
-=11
-8a
-4b
-=12
-4.cc}
-!!LO:LB:g=esac
-=13
-{16cc
-16dd
-8ee
-8cc
-=14
-16cc
-16b
-8a
-8g
-=15
-8cc
-4b-
-=16
-4.a}
-==
-*-
+=9	=9
+{8bq	.
+16cc	zeby
+16dd	.
+8ee	jéj
+8cc	się
+=10	=10
+8ddq	.
+16cc	jabłonecka
+16b	.
+8a	.
+8g	.
+=11	=11
+8cc	przyję-
+4b-	.
+16ccqqL	.
+16b-qqJ	.
+=12	=12
+4.a}	-ła.
+==	==
+*-	*-
+!!!role-singer: Wedding Matrons
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!A z wiecora jabłoneckę sadziła,
+!!a nade dniem pana Boga prosiła,
+!!zeby jéj się jabłonecka przyjęła.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: W komorze kobiety śpiewają:
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=94 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 68} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 68}
 !!!page: 68
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

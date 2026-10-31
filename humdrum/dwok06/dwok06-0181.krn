@@ -3,54 +3,70 @@
 !!!source: DWOK06
 !!!id: K0181
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*F:
-*M2/4
-=1
-{8a
-8a
-8a
-8b
-=2
-8cc
-8dd
-8cc
-8b-
-=3
-8a
-8a
-8a
-8b
-=4
-4cc
-16a
-8.f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M2/4	*
+=1	=1
+{8a	Wyjechał
+8a	.
+8a	.
+8b	ci
+=2	=2
+8cc	nas
+8dd	jegomość
+8cc	.
+8b-X	.
+=3	=3
+8a	na
+8a	białym
+8aL	.
+8bJ\	.
+=4	=4
+4cc	koniu,
+16aL	.
+8.fJ}	.
 !!LO:LB:g=esac
-=5
-{8a
-8f
-8a
-8b
-=6
-8cc
-8b-
-8a
-8f
-=7
-8a
-8f
-8f
-8g
-=8
-4b-
-16g
-8.f}
-==
-*-
+=5	=5
+{8a	pokłoniuł
+8f	.
+8a\	.
+8b	się
+=6	=6
+8cc	niziusieńko
+8b-X	.
+8a	.
+8f	.
+=7	=7
+8a	nie
+8f	wiemy
+8fL	.
+8gJ	.
+=8	=8
+4b-	komu.
+16gL	.
+8.fJ}	.
+==	==
+*-	*-
+!!!role-singer: Narrator
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Wyjechał ci nas jegomość na białym koniu,
+!!pokłoniuł się niziusieńko nie wiemy komu.
+!!@VERSE:
+!!2. Cy pokojom, cy śpieklerzowi, — cy stodołoma,
+!!a pono-ć to tym stodołom, — co pełno w nich ma
+!!(lub: Cy oborze, cy kumorze, — cy śpiklerzowi,
+!!a cyli tym stodołeckom, — co jest pełno w nich. )
+!!@VERSE:
+!!3. Wywijam się po zagonku — jak pscoła, jak pscoła,
+!!do koła, mój wianecku, — do koła, do koła!
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=124 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 98} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 98}
 !!!page: 98
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

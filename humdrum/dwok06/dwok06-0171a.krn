@@ -3,112 +3,137 @@
 !!!source: DWOK06
 !!!id: K0171a
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8g
-8b
-8b
-8dd
-=2
-4dd
-4ee
-=3
-4cc
-4a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8g	Ach
+8b	dla
+8b	Boga
+8dd	,
+=2	=2
+4dd	co
+4ee	ta-
+=3	=3
+4cc	-kiego,
+4a}	.
 !!LO:LB:g=esac
-=4
-{8f#
-8a
-8a
-8cc
-=5
-4cc
-4dd
-=6
-4b
-4g}
+=4	=4
+{8f#	co
+8a	nie
+8a	widać
+8cc	.
+=5	=5
+4cc	kupca
+4dd	.
+=6	=6
+4b	mego?
+4g}	.
 !!LO:LB:g=esac
-=7
-{8g
-8b
-8b
-8b
-=8
-4b
-4cc
-=9
-4a
-4f#}
+=7	=7
+{8g	Cy
+8b	ją
+8b	kupi,
+8b	.
+=8	=8
+4b	cy
+4cc	nie
+=9	=9
+4a	kupi,
+4f#}	.
 !!LO:LB:g=esac
-=10
-{8d
-8f#
-8a
-8cc
-=11
-4ee
-4dd
-=12
-4g
-4g}
+=10	=10
+{8d	bo
+8f#	ją
+8a	pojmę
+8cc	.
+=11	=11
+4ee	do
+4dd	cha-
+=12	=12
+4g\	-łupy.
+4g\}	.
 !!LO:LB:g=esac
-=13
-{8g
-8b
-8b
-8dd
-=14
-4dd
-4ee
-=15
-4cc
-4a}
+=13	=13
+{8g	Ach
+8b	dla
+8b	Boga
+8dd	,
+=14	=14
+4dd	co
+4ee	ta-
+=15	=15
+4cc	-kiego,
+4a}	.
 !!LO:LB:g=esac
-=16
-{8f#
-8a
-8a
-8cc
-=17
-4cc
-4dd
-=18
-4b
-4g}
+=16	=16
+{8f#	co
+8a	nie
+8a	widać
+8cc	.
+=17	=17
+4cc	kupca
+4dd	.
+=18	=18
+4b	mego?
+4g}	.
 !!LO:LB:g=esac
-=19
-{8g
-8b
-8b
-8b
-=20
-4b
-4cc
-=21
-4a
-4f#}
+=19	=19
+{8g	Cy
+8b	ją
+8b	kupi,
+8b	.
+=20	=20
+4b	cy
+4cc	nie
+=21	=21
+4a	kupi,
+4f#}	.
 !!LO:LB:g=esac
-=22
-{8d
-8f#
-8a
-8cc
-=23
-8ee
-8dd
-8cc#
-8dd
-=24
-4b
-4g}
-==
-*-
+=22	=22
+{8d	bo
+8f#	ją
+8a	pojmę
+8cc	.
+=23	=23
+8eeL	do
+8ddJ/	.
+8cc#L	cha-
+8ddJ/	.
+=24	=24
+4b/	-łupy.
+4g}	.
+==	==
+*-	*-
+!!!role-singer: Wedding Matrons
+!!!role-listener: Groom
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Ach dla Boga co takiego,
+!!co nie widać kupca mego?
+!!Cy ją kupi, cy nie kupi,
+!!bo ją pojmę do chałupy.
+!!@VERSE:
+!!2 A mój miły panie-młody,
+!!wynieś-ze nam konew wody.
+!!Konew wody, konew piwa,
+!!kiej ci dziéwkę oddajewa,
+!!@VERSE:
+!!3. Konew piwa, konew wina,
+!!kiej-ci jesce jest dziewcyna,
+!!A jezeliś rad dziewcynie,
+!!to nam przynieś we flascynie.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Po czém otworzyły drzwi śpiewając:
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=113 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 87} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 87}
 !!!page: 87
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

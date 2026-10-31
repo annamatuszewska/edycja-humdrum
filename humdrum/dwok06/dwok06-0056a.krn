@@ -3,52 +3,63 @@
 !!!source: DWOK06
 !!!id: K0056a
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{8g
-8b
-8dd
-8ff
-=2
-8ee
-4cc
-8r
-=3
-8dd
-8g
-8.gg
-16ff
-=4
-8ff
-4ee}
-8r
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+=1	=1
+{8g	Otwórz
+8b	.
+8dd	ze
+8ff	mi
+=2	=2
+8ee	otwórz
+4cc	.
+8r	.
+=3	=3
+8dd	moja
+8g	.
+8.gg	panno
+16ff	.
+=4	=4
+8ggq	.
+8ff	wrota,
+4ee}	.
+8r	.
 !!LO:LB:g=esac
-=5
-{8g
-8b
-8dd
-8ff
-=6
-8ee
-4gg
-8ee
-=7
-8dd
-8dd
-8b
-8b
-=8
-8cc
-4cc}
-8r
-==
-*-
+=5	=5
+{8g	niechże
+8b	.
+8dd	ja
+8ff	nie
+=6	=6
+8ee	zlazę
+(4gg	.
+8ee)	.
+=7	=7
+8dd	z_konia
+8dd	.
+8b	.
+8b	do
+=8	=8
+8cc	błota.
+4cc}	.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Groomsmen
+!!!role-listener: Bridesmaid
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Otwórz ze mi otwórz moja panno wrota,
+!!niechze ja nie zlazę z konia do błota.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=60 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 34} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 34}
 !!!page: 34
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

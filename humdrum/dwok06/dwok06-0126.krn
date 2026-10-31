@@ -3,143 +3,157 @@
 !!!source: DWOK06
 !!!id: K0126
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8b
-4dd
-16dd
-16cc#
-=2
-8dd
-16dd
-16cc#
-8dd
-8dd
-=3
-8dd
-4cc#
-8ee
-=4
-8.cc
-16b
-8a
-8g
-=5
-8f#
-8g
-8a
-8b
-=6
-4cc
-4a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8b	A
+4dd	na
+8eeq	.
+16ddL	cóz
+16cc#J	.
+=2	=2
+8dd	ja,
+8eeq	.
+16ddL	na
+16cc#J	.
+8dd	cóz
+8dd	ja,
+=3	=3
+8dd	a
+4cc#	na
+8ee	cóz
+=4	=4
+8.ccnM	ja,
+16b	na
+8a	cóz
+8g	ja
+=5	=5
+8f#	niebożątko
+8g	.
+8a	.
+8b	.
+=6	=6
+4cc	wysła,
+4a}	.
 !!LO:LB:g=esac
-=7
-{8a
-4cc
-8ee
-=8
-8.cc
-16b
-8a
-8g
-=9
-8f#
-8g
-8a
-8b
-=10
-4cc
-4a}
+=7	=7
+{8a	oj
+4cc	co
+8ee	mo-
+=8	=8
+8.ccM	-jim
+16b	wianeckiem
+8a	.
+8g	.
+=9	=9
+8f#	zastawiona
+8g	.
+8a	.
+8b	.
+=10	=10
+4cc	Wisła.
+4a}	.
 !!LO:LB:g=esac
-=11
-{8a
-4cc
-8ee
-=12
-8cc
-16b
-16a
-4g
-=13
-8b
-4dd
-16dd
-16cc#
-=14
-8dd
-8dd
-4cc#}
+=11	=11
+{8a	.
+4cc	.
+8ee	.
+=12	=12
+8ccML	.
+16b	.
+16aJ	.
+4g	.
+=13	=13
+8aq	.
+8b	.
+4dd	.
+16ddL	.
+16cc#J	.
+=14	=14
+8ddL	.
+8ddJ	.
+4cc#}	.
 !!LO:LB:g=esac
-=15
-{8a
-4cc
-16cc
-16ee
-=16
-8cc
-16b
-16a
-4g
-=17
-4a
-16a
-16cc
-16a
-16g
-=18
-16f#
-16a
-16f#
-16d
-4g}
+=15	=15
+{8a	.
+4ccn	.
+16ccL	.
+16eeJ	.
+=16	=16
+8ccML	.
+16b	.
+16aJ	.
+4g	.
+=17	=17
+4a	.
+16aL	.
+16cc	.
+16a	.
+16gJ	.
+=18	=18
+16f#L	.
+16a	.
+16f#	.
+16dJ	.
+4g}	.
 !!LO:LB:g=esac
-=19
-{8a
-4cc
-8ee
-=20
-8cc
-16b
-16a
-4g
-=21
-8b
-4dd
-16dd
-16cc#
-=22
-8dd
-8dd
-4cc#}
+=19	=19
+{8a	.
+4cc	.
+8ee	.
+=20	=20
+8ccML	.
+16b	.
+16aJ	.
+4g	.
+=21	=21
+8aq	.
+8b	.
+4dd	.
+16ddL	.
+16cc#J	.
+=22	=22
+8ddL	.
+8ddJ	.
+4cc#}	.
 !!LO:LB:g=esac
-=23
-{8a
-4cc
-16cc
-16ee
-=24
-8cc
-16b
-16a
-4g
-=25
-4a
-16a
-16cc
-16a
-16g
-=26
-8f#
-8f#
-4g}
-==
-*-
+=23	=23
+{8a	.
+4ccn	.
+8bqq	.
+16ccL	.
+16eeJ	.
+=24	=24
+8ccML	.
+16b	.
+16aJ	.
+4g	.
+=25	=25
+4a	.
+16aL	.
+16cc	.
+16a	.
+16gJ	.
+=26	=26
+8f#L	.
+8f#J\	.
+4g}	.
+==	==
+*-	*-
+!!!role-singer: Bride
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!A na cóz ja, na cóz ja, a na cóz ja, na cóz ja niebozątko wysła,
+!!oj co mojim wianeckiem zastawiona Wisła.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=90 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 64} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 64}
 !!!page: 64
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

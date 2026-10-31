@@ -3,124 +3,136 @@
 !!!source: DWOK06
 !!!id: K0185
 !!!signature: 0618500000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-{8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+{8g}	A
 !!LO:LB:g=esac
-=1
-{8a
-8b
-8cc
-8b
-=2
-4dd
-4a
-=3
-8dd
-8dd
-4ee
-=4
-8ee
-4dd
-8g}
+=1	=1
+{8a	zebrali
+8b	.
+8cc	.
+8b	pse-
+=2	=2
+4dd	-nickę
+4a	.
+=3	=3
+8dd	zebrali
+8dd	.
+4ee	.
+=4	=4
+8ee	i
+4dd	zytko,
+8g}	.
 !!LO:LB:g=esac
-=5
-{8a
-8b
-8cc
-8b
-=6
-4dd
-4a
-=7
-8cc
-8b
-4a
-=8
-8f#
-4g
-8g}
+=5	=5
+{8a\	bo
+8b	to
+8cc	w
+8b	téj
+=6	=6
+4dd	Modlnic-
+4a	.
+=7	=7
+8cc	-ce
+8b	pozbiera-
+4a	.
+=8	=8
+8f#	-li
+4g	wsytko.
+8g}	.
 !!LO:LB:g=esac
-=9
-{8a
-8b
-8cc
-8b
-=10
-4dd
-4a
-=11
-8dd
-16cc#
-16dd
-4ee
-=12
-8ee
-4dd
-8g}
+=9	=9
+{8a	A
+8b	pana
+8cc	.
+8b	nase-
+=10	=10
+4dd	.
+4a	-go
+=11	=11
+8ddL	to
+16cc#	kocha
+16ddJ/	.
+4ee	.
+=12	=12
+8ee	gromada,
+4dd	.
+8g}	.
 !!LO:LB:g=esac
-=13
-{8a
-8b
-8cc
-8ee
-=14
-4dd
-4a
-=
-8cc
-24b
-24cc
-24b
-4a
-=15
-8f#
-4g
-8g}
+=13	=13
+{8a	u
+8b	pana
+8ccL	.
+8eeJ/	na-
+=14	=14
+4dd	-sego
+4a	.
+=15	=15
+*Xtuplet	*
+8cc	zawsze
+24bL	.
+24cc	.
+24bJ/	.
+4a	do-
+=16	=16
+8f#	-bra
+4g	rada.
+8g}	.
 !!LO:LB:g=esac
-=16
-{8g
-16a
-16b
-4cc
-=17
-8b
-4dd
-8a
-=18
-8cc
-[8b
-8b]
-8a
-=19
-8f#
-4.g}
+=17	=17
+{8gL	.
+16a	.
+16bJ	.
+4cc	.
+=18	=18
+8b	.
+4dd	.
+8a\	.
+=19	=19
+8ccL	.
+[<8bJ	.
+8b]L	.
+8aJ\	.
+=20	=20
+8f#	.
+4.g}	.
 !!LO:LB:g=esac
-=20
-{8g
-16a
-16b
-4cc
-=21
-8b
-4dd
-8a
-=22
-8cc
-8b
-8dd
-8a
-=23
-8f#
-4.g}
-==
-*-
+=21	=21
+{8gL	.
+16a	.
+16bJ	.
+4cc	.
+=22	=22
+8b	.
+4dd	.
+8a\	.
+=23	=23
+8ccL	.
+8bJ	.
+8ddL	.
+8aJ/	.
+=24	=24
+8f#	.
+4.g}	.
+==	==
+*-	*-
+!!!RDF**kern: < = below
+!!!role-singer: Peasants
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!A zebrali psenickę zebrali i zytko,
+!!bo to w téj Modlnicce pozbierali wsytko.
+!!A pana nasego to kocha gromada,
+!!u pana nasego zawsze dobra rada.
+!!@@END: VERSES
 !!!ONB: u Kolberga w t. 21 błędny zapis rytmiczny -7_1__
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=126 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 100} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 100}
 !!!page: 100
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

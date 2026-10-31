@@ -3,120 +3,150 @@
 !!!source: DWOK06
 !!!id: K0136
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16a
-8b
-8cc
-=2
-16dd
-16cc#
-8ee
-8dd
-=3
-16dd
-16cc#
-8ee
-8dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Moja
+16a	.
+8b	zona
+8cc	.
+=2	=2
+16dd	zachorzała
+16cc#	.
+8ee	.
+8dd	.
+=3	=3
+16dd	zachorzała,
+16cc#	.
+8ee	.
+8dd}	.
 !!LO:LB:g=esac
-=4
-{16g
-16b
-8g
-8g
-=5
-16a
-16a
-8b
-8g
-=6
-16a
-16a
-8b
-8g}
+=4	=4
+{16g	mało
+16b/	.
+8g	wcora
+8g	.
+=5	=5
+16a	wiecerzała,
+16a	.
+8b/	.
+8g	.
+=6	=6
+16a	wiecerzała.
+16a	.
+8b/	.
+8g}	.
 !!LO:LB:g=esac
-=7
-{16a
-16a
-8b
-8g
-=8
-16g
-16b
-8g
-8g
-=9
-16b
-16cc
-8dd
-8dd
-=10
-16g
-16b
-8g
-8g}
+=7	=7
+{16a	Ino
+16a	.
+8b/	zjadła
+8g	.
+=8	=8
+16g	dwie
+16b/	kokosy
+8g	.
+8g	.
+=9	=9
+16b	i
+16cc	piecenią
+8dd	.
+8dd	.
+=10	=10
+16g	za
+16b/	sto
+8g	grosy.
+8g}	.
 !!LO:LB:g=esac
-=11
-{16g
-16a
-8b
-8cc
-=12
-16dd
-16cc#
-8ee
-8dd
-=13
-16dd
-16cc#
-8ee
-8dd}
+=11	=11
+{16g	Moja
+16a	.
+8b	zona
+8cc	.
+=12	=12
+16dd	zachorzała
+16cc#	.
+8ee	.
+8dd	.
+=13	=13
+16dd	zachorzała,
+16cc#	.
+8ee	.
+8dd}	.
 !!LO:LB:g=esac
-=14
-{16g
-16b
-8g
-8g
-=15
-16a
-16a
-8b
-8g
-=16
-16a
-16a
-8b
-8g}
+=14	=14
+{16g	mało
+16b/	.
+8g	wcora
+8g	.
+=15	=15
+16a	wiecerzała,
+16a	.
+8b/	.
+8g	.
+=16	=16
+16a	wiecerzała.
+16a	.
+8b/	.
+8g}	.
 !!LO:LB:g=esac
-=17
-{16a
-16a
-8b
-8g
-=18
-16g
-16b
-8g
-8g
-=19
-16b
-16cc
-8dd
-8dd
-=20
-16g
-16b
-8g
-8g}
-==
-*-
+=17	=17
+{16a	Ino
+16a	.
+8b/	zjadła
+8g	.
+=18	=18
+16g	dwie
+16b/	kokosy
+8g	.
+8g	.
+=19	=19
+16b	i
+16cc	piecenią
+8dd	.
+8dd	.
+=20	=20
+16g	za
+16b/	sto
+8g	grosy.
+8g}	.
+==	==
+*-	*-
+!!!role-singer: Wedding Marshal
+!!!role-listener: Wedding Marshals' Wifes
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Moja zona zachorzała zachorzała,
+!!mało wcora wiecerzała, wiecerzała.
+!!Ino zjadła dwie kokosy
+!!i piecenią za sto grosy.
+!!@VERSE:
+!!2 Dwie kokosy i piecenią,
+!!i z kapustą i z korzeniem,
+!!i piecywo chleba zjadła,
+!!jesce-ć sobie nie podjadła.
+!!@VERSE:
+!!3. Jesce-ć jéj się mało zdaje,
+!!zjadła krowę co nie wstaje,
+!!Jesce jéj się mało widzi,
+!!zjadła konia co nie widzi.
+!!@VERSE:
+!!4. Sto garcy piwa wypiła,
+!!dopiero się posiliła!
+!!— Cebrzyk mlika skisiałego —
+!!dość to tego na chorego.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Ku końcowi obiadu starostowie żartobliwie do swych żon:
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=93 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 67} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 67}
 !!!page: 67
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

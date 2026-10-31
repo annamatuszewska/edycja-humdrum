@@ -3,167 +3,221 @@
 !!!source: DWOK06
 !!!id: K0182
 !!!signature: 06018200002
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8b
-4dd
-8dd
-=2
-8ee
-8dd
-8cc#
-8dd
-=3
-8a
-8cc
-16cc
-16b
-16cc
-16dd
-=4
-8b
-4g
-32a
-32g
-32f#
-32e}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8b	U
+4dd/	nasego
+8dd	.
+=2	=2
+8ee	jegomości
+8dd	.
+8cc#	.
+8dd	.
+=3	=3
+8a\	złocisty
+8cc	.
+16ccL	.
+16b	.
+16cc	po-
+16ddJ/	.
+=4	=4
+8b	-dworzec,
+4g	.
+32aL	.
+32g	.
+32f#	.
+32eJ}	.
 !!LO:LB:g=esac
-=5
-{8d
-4.f#
-=6
-8a
-8g
-8f#
-8g
-=7
-8a
-8cc
-16cc
-16b
-16cc
-16dd
-=8
-8b
-4g
-32a
-32g
-32f#
-32e}
+=5	=5
+{8d	z_tego-
+4.f#	.
+=6	=6
+8a	-rocnych
+8g	.
+8f#	zbiorów
+8g	.
+=7	=7
+8a\	będzie
+8cc	.
+16ccL	zło-
+16b	.
+16cc	-ta
+16ddJ/	.
+=8	=8
+8b	korzec,
+4g	.
+32aL	.
+32g	.
+32f#	.
+32eJ}	.
 !!LO:LB:g=esac
-=9
-{8d
-4f#
-8f#
-=10
-8a
-16g
-16g
-8g
-8g
-=11
-8a
-8cc
-16cc
-16b
-16cc
-16dd
-=12
-8b
-4.g}
+=9	=9
+{8d	z_tego-
+[4f#	.
+8f#]	.
+=10	=10
+8a	-rocnych
+16gL	.
+16gJ	.
+8gL	zbiorów
+8gJ	.
+=11	=11
+8a	będzie
+8cc	.
+16ccL	złota
+16bJ	.
+16ccL	korzec.
+16ddJ	.
+=12	=12
+8b	.
+4.g}	.
 !!LO:LB:g=esac
-=13
-{8d
-16f#
-16a
-4dd
-=14
-16cc
-16b
-4.g
-=15
-8e
-16g
-16cc
-4ee
-=16
-16ee
-16dd
-4b
-8g}
+=13	=13
+{8dL	.
+16f#	.
+16aJ	.
+4dd	.
+=14	=14
+16ccL	.
+16bJ	.
+4.g	.
+=15	=15
+8eL	.
+16g	.
+16ccJ	.
+4ee	.
+=16	=16
+16eeL	.
+16ddJ	.
+4b	.
+8g}	.
 !!LO:LB:g=esac
-=17
-{8f#
-8a
-4cc
-=18
-8cc
-4b
-8g
-=19
-8e
-8g
-4cc
-=20
-16ee
-16dd#
-4dd
-8dd}
+=17	=17
+{8f#L	.
+8aJ	.
+4cc	.
+=18	=18
+8cc	.
+4b	.
+8g	.
+=19	=19
+8eL	.
+8gJ	.
+4cc	.
+=20	=20
+16eeL	.
+16dd#J/	.
+4dd	.
+8dd}	.
 !!LO:LB:g=esac
-=21
-{8dd
-8cc#
-16cc
-16b
-16cc
-16f#
-=22
-8g
-4b
-16a
-16g
-=23
-8f#
-8a
-8cc
-8ee
-=24
-16ee
-16dd
-4dd
-8dd}
+=21	=21
+{8ddL	.
+8cc#J	.
+16ccL	.
+16b	.
+16cc	.
+16f#J	.
+=22	=22
+8g	.
+4b	.
+16aL	.
+16gJ	.
+=23	=23
+8f#L	.
+8aJ	.
+8ccL	.
+8eeJ	.
+=24	=24
+16eeL	.
+16ddJ/	.
+4dd	.
+8dd}	.
 !!LO:LB:g=esac
-=25
-{4dd
-16cc
-16b
-16cc
-16f#
-=26
-8g
-4b
-16a
-16g
-=27
-8f#
-8f#
-16f#
-16e
-16f#
-16a
-=28
-16a
-16g
-4.g}
-==
-*-
+=25	=25
+{4dd	.
+16ccL	.
+16b	.
+16cc	.
+16f#J	.
+=26	=26
+8g	.
+4b	.
+16aL	.
+16gJ	.
+=27	=27
+8f#L	.
+8f#J	.
+16f#L	.
+16e	.
+16f#	.
+16aJ\	.
+=28	=28
+16aL	.
+16gJ	.
+4.g}	.
+==	==
+*-	*-
+!!!role-singer: Peasants
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. U nasego jegomości złocisty podworzec,
+!!z tegorocnych zbiorów będzie złota korzec,
+!!z tegorocnych zbiorów będzie złota korzec.
+!!@VERSE:
+!!2. U nasego jegomości — stoji lipa w polu,
+!!nie bywa tu i nie będzie — w pszenicy kąkolu.
+!!@VERSE:
+!!3. U nasego jegomości — dębowa podłoga,
+!!zjezdzają się goście — jak do pana Boga.
+!!@VERSE:
+!!4. U nasego pana — od złota trzewicki,
+!!a u Sycowskiego (ze wsi Szyc) — z czarnej jałowicki.
+!!@VERSE:
+!!5. U nasego pana — psenickę zezéni (zerzęli),
+!!a u Sycowskiego — jesce się zieleni (albo: wilcy mu owyli)
+!!@VERSE:
+!!6. U nasego pana — ta psenicka stała,
+!!wysła pani z wódką — i do nas się śmiała.
+!!@VERSE:
+!!7. Zezéni my zyto, — jęcmień i pszenicę
+!!idziemy do pana — po swą obietnicę.
+!!@VERSE:
+!!8. Kazał nam jegomość — tańcyć koło stołu,
+!!da bo nam obiecał — na wyzynek wołu.
+!!@VERSE:
+!!9. Obiecał jegomość — dziewkom na (w) stązecki,
+!!a kobietom m(ł)odym — piéniądz na cepecki.
+!!@VERSE:
+!!10 Pan dobry, pan dobry — a pani złośnica
+!!bo pani odbiera, — jegomość pozyca.
+!!@VERSE:
+!!11. A my mu podajem — wianusek kłosisty,
+!!dla się prosim o półbecek, — beckę dla basisty.
+!!@VERSE:
+!!12. Dał nam pan gorzałki, — potańcować kaze,
+!!bo to tak robili — starzy gospodarze.
+!!@VERSE:
+!!13. I my tak bedziemy, — bo nam pan pozwoli
+!!bedziemy się ciesyć — u pana do woli.
+!!@VERSE:
+!!14. A nas pan, a nas pan, — niéma wokomona,
+!!ładnie mu się i tak rodzi, — a my go kochoma.
+!!@VERSE:
+!!15. A nas pan, a nas pan, — nie trzyma włodarza,
+!!kaze iść do doma — kiej nas słońce parza.
+!!@VERSE:
+!!16. Wokomon psia para, — nieboskie stworzenie,
+!!przyjon go jegomość — na nase strapienie.
+!!@@END: VERSES
 !!!ONB: Wariant 2
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=125 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 99} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 99}
 !!!page: 99
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

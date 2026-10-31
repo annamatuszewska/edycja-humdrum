@@ -3,66 +3,108 @@
 !!!source: DWOK06
 !!!id: K0195
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M3/4
-=1
-{8cc
-4ee
-8ee
-8ee
-8ee
-=2
-8dd
-4ff
-8ff
-8ff
-8dd}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/4	*
+=1	=1
+{8cc	A
+4ee	w_lecie;
+8ee	.
+8ee	w_lecie
+8ee	.
+=2	=2
+8dd	słońce
+4ff	.
+8ff	gorące,
+8ff	.
+8dd}	.
 !!LO:LB:g=esac
-=3
-{8cc
-4ee
-8ee
-8ee
-8cc
-=4
-8b
-8cc
-8dd
-8b
-4cc}
+=3	=3
+{8cc	pasła
+4ee	.
+8ee	dziewcyna
+8ee	.
+8cc	.
+=4	=4
+8b	woły
+8cc	.
+8dd	na
+8b	łące.
+4cc}	.
 !!LO:LB:g=esac
-=5
-{8cc
-4ee
-8ee
-8ee
-8ee
-=6
-8dd
-4ff
-8ff
-8ff
-8dd}
+=5	=5
+{8cc	A
+4ee	w_lecie;
+8ee	.
+8ee	w_lecie
+8ee	.
+=6	=6
+8dd	słońce
+4ff	.
+8ff	gorące,
+8ff	.
+8dd}	.
 !!LO:LB:g=esac
-=7
-{8cc
-4ee
-8ee
-8ee
-8cc
-=8
-8b
-8cc
-8dd
-8b
-4cc}
-==
-*-
+=7	=7
+{8cc	pasła
+4ee	.
+8ee	dziewcyna
+8ee	.
+8cc	.
+=8	=8
+8b	woły
+8cc	.
+8dd	na
+8b	łące.
+4cc}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Man, Maiden
+!!!role-listener: Maiden, Man
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. A w lecie; w lecie
+!!słońce gorące,
+!!pasła dziewcyna
+!!woły na łące.
+!!@VERSE:
+!!2. Przyjechał do nij
+!!na białym koniu:
+!!zeń ze dziewcyno
+!!woły do domu.
+!!@VERSE:
+!!3. Nie rozkazujmi,
+!!nie twoja’m zona.
+!!lepij se napój
+!!karego konia.
+!!@VERSE:
+!!4. Kary koń pije
+!!nózkami bije,
+!!uciekaj panno
+!!bo cie zabije.
+!!@VERSE:
+!!5. Nie zabije mnie
+!!bo się uchyle,
+!!mam złoty pierścień
+!!to się nadkryje.
+!!@VERSE:
+!!6. A w lecie lecie
+!!na małyj nocy,
+!!napasła konia
+!!ino go ocy (zostały z chudoty)
+!!@VERSE:
+!!7. Przyjechał do nij
+!!na biały skapie,
+!!chustka w kieszeni,
+!!z nosa mu kapie.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=132 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 106} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 106}
 !!!page: 106
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

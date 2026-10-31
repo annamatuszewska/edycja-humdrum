@@ -3,55 +3,65 @@
 !!!source: DWOK06
 !!!id: K0012
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{8cc
-8dd
-8ee
-8gg
-=2
-8ff#
-4dd
-8r
-=3
-8cc
-8dd
-8ee
-8gg
-=4
-8ff#
-4dd}
-8r
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+=1	=1
+{8cc	Otwórz-ze
+8dd	.
+8ee	.
+8gg	otwórz-ze
+=2	=2
+8ff#	.
+4dd	.
+8r	.
+=3	=3
+8cc	niech
+8dd	ja
+8ee	się
+8gg	nie
+=4	=4
+8ff#	burzę,
+4dd}	.
+8r	.
 !!LO:LB:g=esac
-=5
-{8ff
-16ee
-16dd
-4cc
-=6
-16b
-16cc
-4.dd
-=7
-16cc
-16dd
-16cc
-16b
-8g
-16a
-16b
-=8
-8cc
-4cc}
-8r
-==
-*-
+=5	=5
+{8ffn	niech_(ja)
+16eeL	z_ko-
+16ddJ	-nia
+4cc	.
+=6	=6
+16bL	zlizę,
+16ccJ	.
+4.dd	.
+=7	=7
+16ccL	fajeckę
+16ddJ	.
+16ccL	.
+16bJ	.
+8g	.
+16aL	zakurzę.
+16bJ	.
+=8	=8
+8cc	.
+4cc}	.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!role-listener: Maiden
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Otwórz-ze otwórz-ze niech ja się nie burzę,
+!!niech (ja) z konia zlizę, fajeckę zakurzę.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=40 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 16} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 16}
 !!!page: 16
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

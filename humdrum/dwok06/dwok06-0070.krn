@@ -3,107 +3,131 @@
 !!!source: DWOK06
 !!!id: K0070
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16g
-16a
-8b
-16b
-16cc
-=2
-16dd
-16dd
-8ee
-8ff}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16g	Do
+16a	cugu
+8b	.
+16b	koni-
+16cc	.
+=2	=2
+16dd	-sie
+16dd	do
+8ee	cugu,
+8ff}	.
 !!LO:LB:g=esac
-=3
-{16dd
-16dd
-8.ee
-16cc
-=4
-16b
-16cc
-8b
-8g
-=5
-8cc
-8cc
-8cc}
+=3	=3
+{16dd	wybierajze
+16dd	.
+8.ee	.
+16cc	.
+=4	=4
+16b	się
+16cc	pań
+8b	młoda
+8g\	.
+=5	=5
+8cc	do
+8cc	ślubu,
+8cc}	.
 !!LO:LB:g=esac
-=6
-{16g
-16a
-8b
-16b
-16cc
-=7
-16dd
-16dd
-8ee
-8ff}
+=6	=6
+{16g	do
+16a	cugu
+8b	.
+16b	koni-
+16cc	.
+=7	=7
+16dd	-sie
+16dd	do
+8ee	cugu,
+8ff}	.
 !!LO:LB:g=esac
-=8
-{16dd
-16dd
-8.ee
-16cc
-=9
-16b
-16cc
-8dd
-8b
-=10
-8cc
-8cc
-8cc}
+=8	=8
+{16dd	wybierajze
+16dd	.
+8.ee	.
+16cc	.
+=9	=9
+16b	się
+16cc	pań
+8ddL	młoda
+8bJ/	.
+=10	=10
+8cc	do
+8cc	ślubu,
+8cc}	.
 !!LO:LB:g=esac
-=11
-{8b
-8dd
-8dd
-=12
-8ee
-4cc
-=13
-8dd
-8dd
-8dd
-=14
-8ee
-4cc}
+=11	=11
+{8b	Bo
+8dd	juz
+8dd	ide-
+=12	=12
+8ee	.
+4cc	-my
+=13	=13
+8dd	juz
+8dd	wychodziemy
+8dd	.
+=14	=14
+8ddq	.
+8ee	.
+4cc}	.
 !!LO:LB:g=esac
-=15
-{16b
-16dd
-8dd
-8dd
-=16
-8ee
-4cc
-=17
-16g
-16a
-16b
-16cc
-16dd
-16ee
-=18
-16ff
-16ff
-4ee
-=19
-8cc
-8cc
-8cc}
-==
-*-
+=15	=15
+{16b	Kasińka
+16dd	.
+8dd	.
+8dd	iść
+=16	=16
+8ee	nie
+4cc	chce
+=17	=17
+16g	bogosław
+16a	.
+16b	.
+16cc	ze
+16ddL	nam
+16eeJ	.
+=18	=18
+16ff	panie
+16ff	.
+4ee	oj-
+=19	=19
+8cc	-ce
+8cc	jesce.
+8cc}	.
+==	==
+*-	*-
+!!!role-singer: Groom, Bride
+!!!role-listener: Bride, Groom
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Do cugu konisie do cugu,
+!!wybierajze się pań młoda do ślubu,
+!!Bo juz idemy
+!!juz wychodziemy
+!!Kasińka iść nie chce
+!!bogosław ze nam panie ojce jesce.
+!!@VERSE:
+!!2. A juz ci ja sie ubrała
+!!w turecką spódnicę com miała.
+!!W turecką spódnicę, w srebny pas
+!!wdziewajze na śie bo juz cas;
+!!bo juz idemy,
+!!juz wychodzemy,
+!!Kasinka iść nie chce:
+!!bogosław ze nam panie ojce jesce:
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=67 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 41} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 41}
 !!!page: 41
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

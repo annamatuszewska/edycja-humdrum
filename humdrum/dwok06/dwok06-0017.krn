@@ -3,111 +3,124 @@
 !!!source: DWOK06
 !!!id: K0017
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{8c
-8f
-16a
-16b
-=2
-8cc
-4cc
-=3
-16cc
-16dd
-16cc
-16b-
-8a}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{8c	Błogosław
+8f	.
+16aL	.
+16bJ	.
+=2	=2
+8cc	ze
+4cc	nam
+=3	=3
+16cc	matko
+16dd	.
+16ccL	moja
+16b-J	.
+8a\}	.
 !!LO:LB:g=esac
-=4
-{8g
-8b-
-16a
-16g
-=5
-16f
-16g
-8a
-16a
-16g
-=6
-8cc
-16b-
-16a
-16g
-16e
-=7
-4.f}
+=4	=4
+{8g	bo
+8b-L	już
+16a	.
+16gJ	.
+=5	=5
+16fL	idemy
+16gJ	.
+8a	.
+16aL	.
+16gJ	.
+=6	=6
+8cc	do
+16b-L	kościo-
+16aJ	.
+16gL	.
+16eJ	.
+=7	=7
+4.f}	-ła,
 !!LO:LB:g=esac
-=8
-{16f
-16a
-8b-
-16b-
-16a
-=9
-4.cc
-=10
-16cc
-16dd
-16cc
-16a
-16g
-16a}
+=8	=8
+{16f	błogosław
+16a	.
+8b-	.
+16b-L	ze
+16aJ	.
+=9	=9
+4.cc	nam
+=10	=10
+16ccL	ojce
+16ddJ	.
+16ccL	.
+16aJ/	.
+16gL	mój,
+16aJ}	.
 !!LO:LB:g=esac
-=11
-{8g
-8b-
-16a
-16g
-=12
-16f
-16a
-8b-
-8a
-=13
-8cc
-16b-
-16a
-16g
-16e
-=14
-4.f}
+=11	=11
+{8g	bo
+8b-L	już
+16a	.
+16gJ	.
+=12	=12
+16fL	idziemy
+16aJ	.
+8b-/	.
+8a	.
+=13	=13
+8ccL	na
+16b-	.
+16aJ	.
+16gL	ten
+16eJ	.
+=14	=14
+4.f}	ślub.
 !!LO:LB:g=esac
-=15
-{8g
-8c
-16g
-16a
-=
-24b-
-24cc
-24b-
-8g
-8a
-=16
-16b-
-16cc
-8dd
-16g
-16a
-=
-24b-
-24cc
-24b-
-8a
-16g
-16e
-=17
-4.f}
-==
-*-
+=15	=15
+{8gL	.
+8cJ	.
+16gL	.
+16aJ	.
+=16	=16
+*Xtuplet	*
+24b-L	.
+24cc	.
+24b-J	.
+8gL	.
+8aJ	.
+=17	=17
+16b-L	.
+16ccJ	.
+8dd	.
+16gL	.
+16aJ	.
+=18	=18
+24b-L	.
+24cc	.
+24b-J	.
+8aL	.
+16g	.
+16eJ	.
+=19	=19
+4.f}	.
+==	==
+*-	*-
+!!!role-singer: Bride
+!!!role-listener: Parents
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Błogosław ze nam matko moja
+!!bo juz idemy do kościoła,
+!!błogosław ze nam ojce mój,
+!!bo już idziemy na ten ślub.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=41 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 17-18} @EN{Oskar Kolberg Complete Works 6: Crakow II, pp. 17-18}
 !!!page: 17-18
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

@@ -3,95 +3,133 @@
 !!!source: DWOK06
 !!!id: K0145a
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16b
-8dd
-8dd
-=2
-16dd
-16cc
-8a
-8cc
-=3
-4dd
-8b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	A
+16b	jechali
+8dd	.
+8dd	.
+=2	=2
+16dd	sukiennicy
+16cc	.
+8a\	.
+8cc	.
+=3	=3
+4dd	z_Werna
+8b}	.
 !!LO:LB:g=esac
-=4
-{16g
-16b
-8dd
-8dd
-=5
-16dd
-16cc
-8a
-8b
-=6
-4g
-8g}
+=4	=4
+{16g	pytali
+16b	.
+8dd	.
+8dd	się
+=5	=5
+16dd	po
+16cc	cem
+8a\	biała
+8b	.
+=6	=6
+4g	wełna.
+8g}	.
 !!LO:LB:g=esac
-=7
-{8d
-4cc
-=8
-16b
-16b
-8a
-8a
-=9
-8g
-4a}
+=7	=7
+{8d	Biała,
+4cc	.
+=8	=8
+16b	po
+16b	piętnaście
+8a	.
+8a	.
+=9	=9
+8g	grosy,
+4a}	.
 !!LO:LB:g=esac
-=10
-{8d
-4cc
-=11
-16b
-16b
-8a
-8a
-=12
-4g
-8g}
+=10	=10
+{8d	carna,
+4cc	.
+=11	=11
+16b	jak
+16b	se
+8a	kto
+8a\	wyprosi.
+=12	=12
+4g	.
+8g}	.
 !!LO:LB:g=esac
-=13
-{16d
-16d
-8cc
-8cc
-=14
-16cc
-16b
-8a
-8a
-=15
-16a
-16g
-4a}
+=13	=13
+{16dL	.
+16dJ	.
+8ccL	.
+8ccJ	.
+=14	=14
+16ccL	.
+16bJ	.
+8aL	.
+8aJ	.
+=15	=15
+16aL	.
+16gJ	.
+4a}	.
 !!LO:LB:g=esac
-=16
-{16d
-16d
-8cc
-8cc
-=17
-16cc
-16b
-8a
-8b
-=18
-4g
-8g}
-==
-*-
+=16	=16
+{16dL	.
+16dJ	.
+8ccL	.
+8ccJ	.
+=17	=17
+16ccL	.
+16bJ	.
+8aL	.
+8bJ\	.
+=18	=18
+4g	.
+8g}	.
+==	==
+*-	*-
+!!!role-singer: Clothiers, Maiden, Miller
+!!!role-listener: Miller, Maiden
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. A jechali sukiennicv z Werna,
+!!pytali się: po cem’biała wełna
+!!Biała, po piętnaście grosy,
+!!carna, tak se kto wyprosi.
+!!@VERSE:
+!!2. A jechała Maryna do młyna,
+!!pytała się młynarza Marcina:
+!!Hej, hej! -młynarzu Marcinie,
+!!spytluj ze mi pszenickę na młynie.
+!!@VERSE:
+!!3. Nie będę ci pszenicki pytlował,
+!!niźli będę noc z tobą nocował.
+!!Hej, hej! — młynarzu Marcinie,
+!!pytluje się pszenicka we młynie.
+!!@VERSE:
+!!4. Jak ci zająn pszenickę do kosa (kosza)
+!!j-aze wysła na Marynę rosa.
+!!Hej, hej, — młynarzu Marcinie.
+!!pytluje się pszenicka na młynie.
+!!Inni śpiewają w ten sposób
+!!@VERSE:
+!!1. Pojechała Marysia do młyna,
+!!spotkała młynarza Marcina:
+!!hej, hej, - młynarzu Marcinie,
+!!zmiel-ze psenickę na młynie.
+!!@VERSE:
+!!2. Jak ją zacon pytłować od kosa,
+!!aze wysła na Marysie rosa,
+!!hej, hej! na Marysie rosa,
+!!psenicka ci złazi z kosa.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=96 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 70} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 70}
 !!!page: 70
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

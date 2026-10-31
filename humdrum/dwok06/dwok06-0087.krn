@@ -3,57 +3,69 @@
 !!!source: DWOK06
 !!!id: K0087
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8g
-8b
-8dd
-8cc#
-=2
-8dd
-8cc#
-8dd
-8f#
-=3
-8g
-8a
-8cc
-16b
-16a
-=4
-8g
-8g
-8d
-8d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8g	Za
+8b	to
+8dd	mi
+8cc#	się
+=2	=2
+8dd	podobacie
+8cc#	.
+8dd	.
+8f#	.
+=3	=3
+8g	na
+8a	poledni
+8ccn	.
+16bL	.
+16aJ	.
+=4	=4
+8g	drzewo
+8g	.
+8d	macie,
+8d}	.
 !!LO:LB:g=esac
-=5
-{8d
-8e
-8f#
-8g
-=6
-8a
-8g#
-8a
-8a
-=7
-8d
-8e
-8f#
-8g
-=8
-8a
-8b
-8g
-8g}
-==
-*-
+=5	=5
+{8d	za
+8e	to
+8f#	mi
+8g	się
+=6	=6
+8a\	nie
+8g#	zdajecie
+8a	.
+8a	.
+=7	=7
+8d	ze
+8e	jeść
+8f#	i
+8g	pić
+=8	=8
+8a	nie
+8b/	dajecie.
+8g	.
+8g}	.
+==	==
+*-	*-
+!!!role-singer: Bridesmaids
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Za to mi się podobacie na poledni drzewo macie,
+!!za to mi się nie zdajecie ze jeść i pić nie dajecie.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Druchny śpiewają przy wieczerzy:
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=113 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 87} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 87}
 !!!page: 87
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

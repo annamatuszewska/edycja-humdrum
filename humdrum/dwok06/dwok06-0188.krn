@@ -3,59 +3,78 @@
 !!!source: DWOK06
 !!!id: K0188
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{8ee
-8ff
-4gg
-=2
-8gg
-4gg
-8aa
-=3
-8dd
-8ee
-4ff
-=4
-8ff
-8ff
-4gg}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+=1	=1
+!LO:TX:a:t=Krakowiak gminny wyżynkowy(1).	!
+{8ee	Zabij
+8ff	.
+4gg	nam
+=2	=2
+8aaq	.
+8gg	jegomość
+4gg	.
+8aa	.
+=3	=3
+8dd	tłustego
+8ee	.
+4ff	.
+=4	=4
+8ggq	.
+8ff	barana,
+8ggq	.
+8ff	.
+4gg}	.
 !!LO:LB:g=esac
-=5
-{8.cc
-16dd
-16.ee
-32ff
-16.ee
-32dd
-=6
-16.ee
-32ff
-16.ee
-32dd
-16.ff
-32ee
-16.dd
-32cc
-=7
-8.b
-16dd
-16gg
-16ff
-16dd
-16b
-=8
-8dd
-8cc
-4cc}
-==
-*-
+=5	=5
+{8.cc	bo
+16dd	my
+16.eeL	se
+32ff	.
+16.ee	.
+32ddJ	.
+=6	=6
+16.eeL	potłukli
+32ff	.
+16.ee	.
+32ddJ	.
+16.ffL	.
+32eeJ	.
+16.ddL	.
+32ccJ	.
+=7	=7
+8.b	po
+16dd	ścierni
+16ggL	.
+16ff	.
+16dd	ko-
+16bJ	.
+=8	=8
+8ddL	-lana.
+8ccJ	.
+4cc}	.
+==	==
+*-	*-
+!!!role-singer: Peasants
+!!!role-listener: Lord
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Zabij nam jegomość tłustego barana,
+!!bo my se potłukli po ścierni kolana.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: (1) Chłopi w epoce pańszczyzny, prócz zwykłych jéj dni, odrabiali nadto
+!!w czasie żniw i parę dodatkowych jeszcze (w miarę ilości posiadanego
+!!gruntu) które zwano powabą. Chodzili więc na powaby, powab czyli
+!!pobab, pobaw, (na tłokę, odróbkę) do pszenicy i żyta.
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=127 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 101} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 101}
 !!!page: 101
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

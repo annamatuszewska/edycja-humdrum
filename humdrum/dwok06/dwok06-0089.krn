@@ -3,64 +3,85 @@
 !!!source: DWOK06
 !!!id: K0089
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{8dd
-8ff
-8ee
-=2
-4.dd
-=3
-8dd
-8dd
-8a
-=4
-4.cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{8dd	Mój
+8ff	wianeczku
+8ee	.
+=2	=2
+4.dd	.
+=3	=3
+8dd	z_barwinecku,
+8dd	.
+8a	.
+=4	=4
+4.cc}	.
 !!LO:LB:g=esac
-=5
-{8dd
-8ff
-8ee
-=6
-4.dd
-=7
-8dd
-8dd
-8a
-=8
-4.cc}
+=5	=5
+{8dd	mój
+8ff	wianeczku
+8ee	.
+=6	=6
+4.dd	.
+=7	=7
+8dd	z_barwinecku.
+8dd	.
+8a	.
+=8	=8
+4.cc}	.
 !!LO:LB:g=esac
-=9
-{16b
-16a
-8b
-8cc#
-=10
-8dd
-4cc#
-=11
-8ee
-4dd}
+=9	=9
+{16b	Chowałam
+16a\	.
+8b	.
+8cc#i	cię
+=10	=10
+8dd	w_nowy
+4cc#	.
+=11	=11
+8ee	skrzyni,
+4dd}	.
 !!LO:LB:g=esac
-=12
-{16b
-16a
-8b
-8cc#
-=13
-8dd
-4dd
-=14
-8cc
-4b}
-==
-*-
+=12	=12
+{16b	ale
+16a\	.
+8b	mi
+8cc#	cię
+=13	=13
+8dd	chopcy
+4dd	.
+=14	=14
+8ccn	wziéni.
+4b}	.
+==	==
+*-	*-
+!!!RDF**kern: i = editorial accidental
+!!!role-singer: Maiden
+!!!role-listener: Garland
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1 Mój wianecku z barwinecku.
+!!Chowalam cię w nowy skrzyni,
+!!ale mi cię chopcy wziéni.
+!!@VERSE:
+!!2. Mój wianecku z siedmi ziela,
+!!Chowałam cię od wesela.
+!!Chowałam cię na te śluby,
+!!ale mi cię wziął Jaś luby.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Wówczas powstaną od stołu, a druchny zaczynają z nią tań-
+!!czyć. Po nich biorą ją do tańca mężatki, gdy druchny śpiewają:
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=75 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 49} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 49}
 !!!page: 49
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

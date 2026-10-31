@@ -3,54 +3,66 @@
 !!!source: DWOK06
 !!!id: K0030
 !!!signature:
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M2/4
-=1
-{8ff
-8ff
-8gg
-8gg
-=2
-4ff
-4ff
-=3
-8dd
-8dd
-8dd
-8b-
-=4
-4cc
-4cc}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M2/4	*
+=1	=1
+{8ff	Dajze
+8ff	.
+8gg	nam,
+8gg	dajze
+=2	=2
+4ff	.
+4ff	nam
+=3	=3
+8dd	Jasiu
+8dd	.
+8dd	garniec
+8b-	.
+=4	=4
+4cc	wina,
+4cc}	.
 !!LO:LB:g=esac
-=5
-{8b-
-8b-
-16b-
-16cc
-8dd
-=6
-8ee-
-8dd
-4ff
-=7
-4ff
-8ee-
-8cc
-=8
-8cc
-8ee-
-8dd
-8b-
-=9
-4cc
-4cc}
-==
-*-
+=5	=5
+{8b-	to
+8b-	my
+8cc	ci
+8dd	Ka-
+=6	=6
+8ee-L	-sickę
+8ddJ	.
+4ff	.
+=7	=7
+4ff	dzisiaj
+8ee-L	.
+8ccJ	.
+=8	=8
+8ccL	za-
+8ee-J	.
+8ddL	-ce-
+8b-J	.
+=9	=9
+4cc	-piewa.
+4cc}	.
+==	==
+*-	*-
+!!!role-singer: Wedding Matrons
+!!!role-listener: Groom
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Dajze nam, dajze nam Jasiu garniec wina,
+!!to my ci Kasickę dzisiaj zacepiewa.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Na co starościne odśpiewują:
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=45 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 21} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 21}
 !!!page: 21
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

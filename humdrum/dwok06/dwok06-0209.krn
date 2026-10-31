@@ -3,67 +3,77 @@
 !!!source: DWOK06
 !!!id: K0209
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16a
-8b
-8cc
-=2
-4.dd
-=3
-16b
-16dd
-16dd
-16cc
-16a
-16b
-=4
-4g}
-8r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	A
+16a	z_góry
+8b	.
+8cc	z_gó-
+=2	=2
+4.dd	-ry,
+=3	=3
+16b	jadą
+16dd	.
+16ddL	Mazu-
+16ccJ	.
+16aL	.
+16bJ\	.
+=4	=4
+4g}	-ry.
+8r	.
 !!LO:LB:g=esac
-=5
-{16b
-16dd
-16dd
-16cc
-8a
-=6
-16g
-16b
-16b
-16a
-8a
-=7
-16b
-16dd
-16dd
-16cc
-8a
-=8
-16g
-16b
-16b
-16a
-8a
-=9
-16g
-16b
-16dd
-16cc
-16a
-16a
-=10
-4g}
-8r
-==
-*-
+=5	=5
+{16b	Jedzie
+16dd	.
+16ddL	jedzie
+16ccJ	.
+8a	.
+=6	=6
+16g	kochanecek,
+16b	.
+16bL	.
+16aJ\	.
+8a\	.
+=7	=7
+16b	wiezie
+16dd	.
+16ddL	wie-
+16ccJ	.
+8a	.
+=8	=8
+16g	-zie
+16b	mi
+16bL	wiane-
+16aJ\	.
+8a	.
+=9	=9
+16g	-cek,
+16b	wiezie
+16ddL	.
+16ccJ	.
+16aL	ru-
+16aJ\	.
+=10	=10
+4g}	-ciany.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Maiden
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!A z góry z góry, jadą Mazury
+!!Jedzie jedzie kochanecek,
+!!wiezie wiezie mi wianecek, wiezie ruciany
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=138 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 112} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 112}
 !!!page: 112
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

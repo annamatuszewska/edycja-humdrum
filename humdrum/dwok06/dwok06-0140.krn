@@ -3,56 +3,83 @@
 !!!source: DWOK06
 !!!id: K0140
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8b
-8b
-8g
-8a
-=2
-8b
-8b
-8g
-8a
-=3
-8b
-8dd
-8dd
-8dd
-=4
-8.gg
-16ee
-8cc
-8a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8b	Wcoraj
+8b	.
+8g	byłam
+8a	.
+=2	=2
+8b	na
+8b	kiermasie,
+8g	.
+8a	.
+=3	=3
+8b	najadłam
+8dd	.
+8dd	.
+8dd	się,
+=4	=4
+8.gg	napiła
+16ee	.
+8cc	.
+8a}	się.
 !!LO:LB:g=esac
-=5
-{8g
-8b
-8g
-8a
-=6
-8b
-8b
-8g
-8a
-=7
-8b
-8dd
-8a
-8f#
-=8
-8.g
-16d
-8d
-8d}
-==
-*-
+=5	=5
+{8g\	Kupiłam
+8b	.
+8g	.
+8a	se
+=6	=6
+8b	takie
+8b	.
+8g	caca,
+8a	.
+=7	=7
+8b	będę
+8dd	.
+8a	miała
+8f#	.
+=8	=8
+8.g	kołysaca.
+16d	.
+8d	.
+8d}	.
+==	==
+*-	*-
+!!!role-singer: Wedding Matrons (Bride)
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Wcoraj byłam na kiermasie,
+!!najadłam się, napiła się.
+!!Kupiłam se takie caca,
+!!będe miała kołysaca.
+!!@VERSE:
+!!2. Wcoraj bylam we wianecku,
+!!a dzisiaj jestem w cypecku.
+!!Wcoraj byłam ja w rucianym,
+!!a dzisiaj jestem w nicianym.
+!!@VERSE:
+!!3. Wczoraj byłam jak kwiat róży,
+!!dzisiaj jestem jak pies guzy(1).
+!!Wczoraj byłam ja lilija,
+!!dziś-em baba jak bestyja.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Po oczepieniu:
+!!(1) Pies z obciętym ogonem, kusy. Jest to alluzya do obcinania warkocza
+!!przy czepinach, co dawniej dokonywano czepiąc dziewkę; dziś go do-
+!!piero na przebabinach ucinają.
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=95 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 69} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 69}
 !!!page: 69
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

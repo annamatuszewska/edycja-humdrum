@@ -3,53 +3,85 @@
 !!!source: DWOK06
 !!!id: K0071b
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*F:
-*M2/4
-=1
-{16cc
-16dd
-16ee
-16ff
-4a
-=2
-8g
-4b-
-8b-
-=3
-8g
-8a
-4b-
-=4
-8dd
-4cc
-8cc}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M2/4	*
+=1	=1
+{16ccL	Przezegnaj
+16dd	.
+16ee	.
+16ffJ/	.
+4a	.
+=2	=2
+8g	matusiu
+4b-	.
+8b-	.
+=3	=3
+8gL	prawą
+8aJ/	.
+4b-	rą-
+=4	=4
+8dd/	-cką
+4cc/	na
+8cc}	krzyz,
 !!LO:LB:g=esac
-=5
-{8cc
-8cc
-4a
-=6
-8cc
-4b-
-8b-
-=7
-8b-
-8b-
-16g
-16a
-8b-
-=8
-8a
-4f}
-8r
-==
-*-
+=5	=5
+{8ccL	bo
+8ccJ/	juz
+4a	o-
+=6	=6
+8cc/	-statni
+4b-/	raz
+8b-	na
+=7	=7
+8b-	jéj
+8b-	wianek
+16gL	.
+16a	.
+8b-J	patrzys
+=8	=8
+8a\	.
+4f}	.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Wedding Matrons
+!!!role-listener: Mother, Bride
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Przezegnaj matusiu
+!!prawą rącką na krzyz,
+!!bo juz ostatni raz
+!!na jej wianek patrzys
+!!@VERSE:
+!!2. A juzci idziemy
+!!pod Modlnicki zamek,
+!!bedziemy odbierać
+!!pani młodyj wianek.
+!!@VERSE:
+!!3. Wybieras, wybieras
+!!dziewcyno na wybiór,
+!!ady se wybierzes
+!!kieby na plewy wór.
+!!@VERSE:
+!!4. Pojźryj ze dziewcyno
+!!na wysokie niebo
+!!a jeśliś ty ładna,
+!!onemu nicego (nic nie brak)
+!!@VERSE:
+!!5. Pragnęłaś dziewcyno,
+!!Pragnęłaś na niego,
+!!krótkie sukmaniątko
+!!i jesce nie jego.
+!!@@END: VERSES
 !!!ONB: Wariant 2
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=67 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 41} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 41}
 !!!page: 41
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

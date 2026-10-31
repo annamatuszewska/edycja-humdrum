@@ -3,56 +3,115 @@
 !!!source: DWOK06
 !!!id: K0210
 !!!signature:
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16g#
-16a
-8b
-8g#
-=2
-4a
-8r
-=3
-16cc
-16dd
-8ee
-8ee
-=4
-4dd}
-8r
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{16g#	Przeleciał
+16a	.
+8b/	.
+8g#	ga-
+=2	=2
+4a	-wron
+8r	.
+=3	=3
+16cc	przez
+16dd	wysoki
+8ee	.
+8ee	.
+=4	=4
+4dd}	dom.
+8r	.
 !!LO:LB:g=esac
-=5
-{8cc
-4ee
-=6
-16dd
-16cc
-8b
-8a
-=7
-8b
-4cc
-=8
-16b
-16a
-8g#
-8e
-=9
-16g#
-16a
-8b
-8g#
-=10
-4a}
-8r
-==
-*-
+=5	=5
+{8cc	Siad
+4ee	s(o-bie)
+=6	=6
+16dd	w_okienecku,
+16cc	.
+8b	.
+8a\	.
+=7	=7
+8b	na
+4cc	wscho-
+=8	=8
+16b	-dzie
+16a\	słonecku,
+8g#	.
+8e	.
+=9	=9
+16g#	roztocył
+16a	.
+8b/	.
+8g#	o-
+=10	=10
+4a}	-gon.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Przeleciał gawron
+!!przez wysoki dom.
+!!Siad sobie w okienecku,
+!!na wschodzie słonecku,
+!!roztocył ogon.
+!!@VERSE:
+!!2. Jasinek wola:
+!!Maryś nadobna,
+!!a wynidź ze do nas (:)
+!!jeźli’ś nam miła.
+!!@VERSE:
+!!3. Nie tak ja wyńdę,
+!!jak ja wyskocę,
+!!a rucianym wianeckiem
+!!za nim potocę.
+!!@VERSE:
+!!4 Jak potocyła,
+!!tak obaliła:
+!!dźwigaj mnie Marysiu,
+!!dźwigaj mnie jedyna,
+!!zali’ś mi miła.
+!!@VERSE:
+!!5. Ona go dźwiga,
+!!capka mu spadła,
+!!powiedz mi Marysiu,
+!!powiedz mi jedyna,
+!!z kim’eś się wiedła?
+!!@VERSE:
+!!6. Ni z kim Jasieńku,
+!!widział to pan Bóg,
+!!jeźli mnie nie pojmies (za zonę)
+!!scęścio mieć nie będzies,
+!!skarze cie pan Bóg.
+!!@VERSE:
+!!7. Choć nie sam skarze,
+!!to komu każe,
+!!choć nie na majątku,
+!!choć nie na fortónie,
+!!to na honorze.
+!!@VERSE:
+!!8. Miała ja śznuróweckę
+!!styrałeś mi ją,
+!!siadłaj konia do Torunia,
+!!po materyją Jasieńku,
+!!po materyją.
+!!@VERSE:
+!!9. Nie pomoze materyja,
+!!jedwabna wstęga.
+!!w kolebce je dzieciątecko,
+!!wielga mitręga Jasieniu,
+!!wielga mitręga.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=138 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 112} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 112}
 !!!page: 112
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

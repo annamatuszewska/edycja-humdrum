@@ -3,124 +3,147 @@
 !!!source: DWOK06
 !!!id: K0076
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-=1
-*M3/8
-{16g
-16a
-8b
-8cc
-=2
-8dd
-4ee
-=3
-8dd
-4dd
-=4
-*M2/4
-8dd
-8a}
-4r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+=1	=1
+*M3/8	*
+{16g	Prosemy
+16a	.
+8b	.
+8cc	was
+=2	=2
+8dd	ludzie
+4ee	.
+=3	=3
+8dd	na
+4dd	ten
+=4	=4
+*M2/4	*
+8ddL	chlib
+8aJ}	.
+4r	.
 !!LO:LB:g=esac
-=5
-*M3/8
-{8dd
-8dd
-8cc
-=6
-8b
-8a
-8g
-=7
-8a
-4cc
-=8
-*M2/4
-8b
-8g}
-4r
+=5	=5
+*M3/8	*
+{8dd	co
+8dd	go
+8cc	naj-
+=6	=6
+8b	-starsy
+8aL	.
+8gJ	.
+=7	=7
+8a	druzba
+4cc	.
+=8	=8
+*M2/4	*
+8bL	pik,
+8gJ}	.
+4r	.
 !!LO:LB:g=esac
-=9
-*M3/8
-{8dd
-8dd
-8cc
-=10
-8b
-4b
-=11
-[4.g}
-=
+=9	=9
+*M3/8	*
+{8dd	druzba
+8dd	.
+8cc	pik
+=10	=10
+8b	druzba
+4b	.
+=11	=11
+[4.g}	pik
+=12	=12
 !!UNCATEGORIZED MEASURE
-8g]
-8r
+8g]	.
+8r	.
 !!LO:LB:g=esac
-=
-!!UNCATEGORIZED MEASURE
-{16g
-16a
-8b-
-8a
-=12
-*M3/8
-16cc
-16b-
-8a
-8g
-=
-!!UNCATEGORIZED MEASURE
-8g
-8dd
-8cc#
-4.dd}
+=13	=13
+*M3/8	*
+{16g	Ino
+16a	.
+8b-	jednę
+8a\	.
+=14	=14
+16cc	kukiołeckę
+16b-	.
+8a	.
+8g	.
+=15	=15
+8g	u-
+8ddL	-pié-
+8cc#J	.
+=16	=16
+4.dd}	-kła,
 !!LO:LB:g=esac
-=
-!!UNCATEGORIZED MEASURE
-{8g
-8g
-8a
-=13
-*M3/8
-8b-
-4g
-=14
-8b-
-4dd
-=15
-4.dd}
+=	=
+{8g	jesce
+8g	.
+8a	ji
+=17	=17
+8b-	z_pieca
+4g	.
+=18	=18
+8b-	u-
+4dd	-cie-
+=19	=19
+4.dd}	-kła,
 !!LO:LB:g=esac
-=16
-{8dd
-8dd
-8dd
-=17
-8cc
-4b
-=
-!!UNCATEGORIZED MEASURE
-4.g}
+=20	=20
+{8dd	uciekła
+8dd	.
+8dd	.
+=21	=21
+8cc	ucie-
+4bn	.
+=22	=22
+4.g;}	-kła,
 !!LO:LB:g=esac
-=
-!!UNCATEGORIZED MEASURE
-{8dd
-8dd
-8dd
-8cc
-4b
-=18
-*M3/8
-8b
-4a
-=19
-4g}
-8r
-==
-*-
+=23	=23
+{8dd	jesce
+8dd	.
+8dd	ji
+=24	=24
+8cc	z_pieca
+4bn	.
+=25	=25
+8b	ucie-
+4a	.
+=25	=25
+4g}	-kła.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Musicians
+!!!role-listener: Guests
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Prosemy was ludzie na ten chlib (chléb)
+!!co go najstarsy druzba pik (piékł).
+!!Nie umiał-ci go zatocyć,
+!!musiał-ci go potłocyć.
+!!@VERSE:
+!!2. W opak nalepa, w opak piec,
+!!nie umiała młoda chleba piéc.
+!!Jeno jednę kukiołeckę upiekła,
+!!jesce ji z pieca uciekła.
+!!(lub: jesce z nią do komory uciekła).
+!!@VERSE:
+!!3. Dogonili kukiołeckę na moście,
+!!kłaniała się kukiołecka staroście.
+!!A pójdź ze kukiołecka do domu,
+!!nie kłaniaj się kukiołko nikomu.
+!!@VERSE:
+!!4 Zakukała kukułecka za dworem,
+!!zapłakała pani matka za stołem.
+!!Wyjdź ze pani-młoda z zastola,
+!!podziękuj ze swojim ludziom z wesela.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=70 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 44} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 44}
 !!!page: 44
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

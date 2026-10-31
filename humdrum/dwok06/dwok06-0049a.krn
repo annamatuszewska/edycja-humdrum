@@ -3,52 +3,67 @@
 !!!source: DWOK06
 !!!id: K0049a
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{8g
-8g
-8ff
-8ff
-=2
-8ff
-4ee
-8cc
-=3
-8g
-8g
-8ff
-8ff
-=4
-8ff
-4ee
-8cc}
+**kern	**text	**text
+*clefG2	*	*
+*k[]	*	*
+*C:	*	*
+*M2/4	*	*
+=1	=1	=1
+{8g\	Kurzyła	Kurzyła
+8g\	.	.
+8ff	.	.
+8ff	się	się
+=2	=2	=2
+8ff	drózka,	drózka,
+(4ee	.	.
+8cc)	.	.
+=3	=3	=3
+8g	kurzył	kiedym
+8g	.	.
+8ff	się	jechał
+8ff	go-	.
+=4	=4	=4
+8ff	-ścieniec,	z_wojska
+(4ee	.	.
+8cc)}	.	.
 !!LO:LB:g=esac
-=5
-{8g
-8g
-8ff
-8ff
-=6
-8ee
-4ee
-8cc
-=7
-8g
-8g
-8b
-8b
-=8
-8cc
-4cc}
-8r
-==
-*-
+=5	=5	=5
+{8g	kiedym	wiozłem
+8g	.	.
+8ff	ci	oba-
+8ff	ja	.
+=6	=6	=6
+8ffq	.	.
+8ee	jechał	-rzanki
+(4ee	.	.
+8cc)	.	.
+=7	=7	=7
+8g	dziewcynie	dla
+8g	.	moji
+8b	.	.
+8b	po	ko-
+=8	=8	=8
+8cc	wieniec.	-chanki.
+4cc}	.	.
+8r	.	.
+==	==	==
+*-	*-	*-
+!!!role-singer: Bachelor (Wedding Matron, Chief Bridesmaid, Bride)
+!!!singer-sex: male (female)
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Kurzyła sie dróżka, kurzył się gościeniec,
+!!kiedym ci ja jechał dziewcynie po wieniec.
+!!Kurzyła sie dróżka, kiedym jechał z wojska,
+!!wiozłem obarzanki dla moji kochanki.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Jadąc po wieńce (czasami ze skrzypkiem) śpiewają:
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=55 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 29} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 29}
 !!!page: 29
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

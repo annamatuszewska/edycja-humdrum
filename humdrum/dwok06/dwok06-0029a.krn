@@ -3,59 +3,77 @@
 !!!source: DWOK06
 !!!id: K0029a
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16dd
-16dd
-8ee
-8ee
-=2
-4dd
-16dd
-16cc
-=3
-16b
-16cc
-8b
-16b
-16g
-=4
-4a
-8a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16dd	Moje
+16dd	.
+8ee	starościny,
+8ee	.
+=2	=2
+4dd	.
+16ddL	.
+16ccJ	.
+=3	=3
+16b	zjadłyście
+16cc	.
+8bL	.
+16b	pół
+16gJ	.
+=4	=4
+4a	krowy
+8a}	.
 !!LO:LB:g=esac
-=5
-{16g
-16f#
-8g
-16a
-16b
-=6
-4.cc
-=7
-8cc
-16cc
-16b
-16cc
-16a
-=
-24b
-24a
-24b
-8cc
-16b
-16g
-=8
-4a
-8a}
-==
-*-
+=5	=5
+{16g	jesce
+16f#	.
+8g	nie
+16aL	.
+16bJ	.
+=6	=6
+4.cc	cepicie
+=7	=7
+8ccL	panny
+16cc	.
+16b	.
+16cc	.
+16aJ/	.
+=8	=8
+*Xtuplet	*
+24bL	młodej
+24a	.
+24bJ	.
+8cc	.
+16bL	.
+16gJ	.
+=9	=9
+4a	głowy.
+8a}	.
+==	==
+*-	*-
+!!!role-singer: Wedding Steward
+!!!role-listener: Wedding Matrons
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Moje starościny, zjadłyście pół krowy
+!!jesce nie cepicie panny młodéj głowy.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: „A ująwszy sobie muzykę datkiem włożonym do skrzypek, roz-
+!!kazuje grać poloneza, i wszyscy idą do karczmy pokrzykując i wy-
+!!śpiewując. Tu tańce, śpiewy, hulanka, w których i starsi biorą u-
+!!dział, trwają aż dopóki Starosta weselny (wzywając do powrotu do
+!!domu) proszony od pana młodego nie zaśpiewa:
+!!@@END:
 !!!ONB: Wariant alternatywny
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=45 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 21} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 21}
 !!!page: 21
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

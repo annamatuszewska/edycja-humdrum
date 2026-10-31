@@ -3,94 +3,104 @@
 !!!source: DWOK06
 !!!id: K0191
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{2gg
-=2
-2gg
-=3
-8ee
-8ee
-8.ff
-16dd
-=4
-8ee
-4cc
-8r
-=5
-8ee
-8ee
-8ff
-8dd
-=6
-8ee
-4cc}
-8r
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+=1	=1
+{2gg	Hej,
+=2	=2
+2gg	hej
+=3	=3
+8ee	u
+8ee	nasego
+8.ff	.
+16dd	.
+=4	=4
+8ee	pana
+4cc	.
+8r	.
+=5	=5
+8ee	ze
+8ee	złota
+8ff	.
+8dd	sukmana,
+=6	=6
+8ee	.
+4cc}	.
+8r	.
 !!LO:LB:g=esac
-=7
-{8ee
-8ee
-8ff
-8dd
-=8
-8ee
-4gg
-8r
-=9
-8ee
-8ee
-8ff
-8dd
-=10
-8ee
-4cc}
-8r
+=7	=7
+{8ee	u
+8ee	Bronow-
+8ff	.
+8dd	.
+=8	=8
+8ee	-skiego
+4gg	.
+8r	.
+=9	=9
+8ee	z_czarnego
+8ee	.
+8ff	.
+8dd	barana.
+=10	=10
+8ee	.
+4cc}	.
+8r	.
 !!LO:LB:g=esac
-=11
-{8cc
-8ee
-16ff
-16ee
-16dd
-16b
-=12
-8cc
-4g
-8g
-=13
-8.gg
-16gg
-4aa
-=14
-8aa
-4gg
-8ee}
+=11	=11
+{8ccL	.
+8eeJ	.
+16ffL	.
+16ee	.
+16dd	.
+16bJ	.
+=12	=12
+8cc	.
+4g	.
+8g	.
+=13	=13
+8.ggL	.
+16ggJ	.
+4aa	.
+=14	=14
+8aa	.
+(4gg	.
+8ee)}	.
 !!LO:LB:g=esac
-=15
-{8cc
-8ee
-8ff
-16dd
-16b
-=16
-8cc
-4g
-8g
-=17
-8.g
-16g
-4a
-=18
-8g
-4.g}
-==
-*-
+=15	=15
+{8ccL	.
+8eeJ	.
+8ffL	.
+16dd	.
+16bJ	.
+=16	=16
+8cc	.
+4g	.
+8g	.
+=17	=17
+8.gL	.
+16gJ	.
+4a	.
+=18	=18
+8g	.
+4.g}	.
+==	==
+*-	*-
+!!!role-singer: Peasants
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Hej, hej u nasego pana ze złota sukmana,
+!!u Bronowskiego z czarnego barana.
+!!Hej, hej u nasego pana okienecko śklane,
+!!u Bronowskiego wiéchą zatykane.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=128 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 102} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 102}
 !!!page: 102
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

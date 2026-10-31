@@ -3,77 +3,86 @@
 !!!source: DWOK06
 !!!id: K0021
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16g
-16cc
-8ff
-8ee
-=2
-8gg
-8gg
-8ff
-=3
-16gg
-16gg
-8ff
-8ee
-=4
-8cc
-8b
-8g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16gL	Już
+16ccJ	.
+8ff	my
+8ee	idziemy
+=2	=2
+8gg	.
+8ggL	.
+8ffJ	.
+=3	=3
+16gg	już
+16gg	my
+8ff	dochodziemy
+8ee	.
+=4	=4
+8cc	.
+8bL	.
+8gJ}	.
 !!LO:LB:g=esac
-=5
-{8g
-8ff
-8ee
-=6
-4gg
-16ff
-16dd
-=7
-4cc
-8cc}
+=5	=5
+{8g	pod
+8ff	ten
+8ee	kościelny
+=6	=6
+4gg	.
+16ffL	.
+16ddJ	.
+=7	=7
+4cc	zamek,
+8cc;}	.
 !!LO:LB:g=esac
-=8
-{16dd
-16dd
-8dd
-8dd
-=9
-16ff
-16ee
-4dd
-=10
-16ff
-16ff
-8ee
-8dd
-=11
-16cc
-16b
-4g}
+=8	=8
+{16dd	będziemy
+16dd	.
+8dd	.
+8dd	o-
+=9	=9
+16ffL	-glądać,
+16eeJ	.
+4dd	.
+=10	=10
+16ff	będziemy
+16ff	.
+8ee	.
+8dd	oglądać
+=11	=11
+16ccL	.
+16bJ	.
+4g}	.
 !!LO:LB:g=esac
-=12
-{8g
-8cc
-16dd
-16ee
-=13
-8ff
-8ee
-8dd
-=14
-4cc
-8cc}
-==
-*-
+=12	=12
+{8g	Najświętsy
+8cc	.
+16ddL	.
+16eeJ	.
+=13	=13
+8ff	Panny
+8eeL	.
+8ddJ	.
+=14	=14
+4cc	domek.
+8cc;}	.
+==	==
+*-	*-
+!!!role-singer: Women, Bridesmaids
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Już my idziemy już my dochodziemy pod ten kościelny zamek,
+!!będziemy oglądać, będziemy oglądać Najświętsy Panny domek.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=43 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 19} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 19}
 !!!page: 19
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

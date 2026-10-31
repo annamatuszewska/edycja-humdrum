@@ -3,60 +3,73 @@
 !!!source: DWOK06
 !!!id: K0162
 !!!signature:
-**kern
-*clefG2
-*k[b-e-]
-*g:
-*M2/4
-=1
-{8g
-16b-
-16cc
-8dd
-8dd
-=2
-8dd
-8a
-8cc
-8cc
-=3
-8cc
-8b-
-8dd
-8dd
-=4
-8dd
-8a
-8a
-8a}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*g:	*
+*M2/4	*
+=1	=1
+{8g	Pomaluśku
+16b-L	.
+16ccJ	.
+8dd	.
+8dd	.
+=2	=2
+8dd	rozbiérajcie,
+8a\	.
+8cc	.
+8cc	.
+=3	=3
+8cc	warkocka
+8b-	.
+8dd	.
+8dd	ij
+=4	=4
+8dd	nie
+8a\	targajcie.
+8a\	.
+8a\}	.
 !!LO:LB:g=esac
-=5
-{8g
-16b-
-16a
-8g
-8a
-=6
-8a
-8f#
-8dd
-8dd
-=7
-8dd
-16b-
-16a
-8g
-8a
-=8
-8f#
-16a
-16b-
-8g
-8g}
-==
-*-
+=5	=5
+{8g	Boć
+16b-L	to
+16aJ	.
+8g	idzie
+8a	.
+=6	=6
+8a	do
+8f#	niewoli,
+8dd	.
+8dd	.
+=7	=7
+8dd	niechże
+16b-L	.
+16aJ	.
+8g	ją
+8a	głó-
+=8	=8
+8f#	-wka
+16aL	nie
+16b-J	.
+8g	boli.
+8g}	.
+==	==
+*-	*-
+!!!role-singer: Wedding Matron
+!!!role-listener: Wedding Matrons
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Pomaluśku rozbiérajcie, warkocka ij nie targajcie.
+!!Boć to idzie do niewoli, niechze ją główka nie boli.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Starsza kuma czyli Starościna zaśpiewała:
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=110 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 84} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 84}
 !!!page: 84
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

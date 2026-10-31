@@ -16,19 +16,19 @@
 =2
 8cc
 8cc
-16b
-16a
+16bL
+16aJ
 8g
 =3
 8g
 8cc
-8g
-8cc
+8g\
+8cc\
 =4
-8g
-8cc
-16b
-16a
+8g\
+8cc\
+16bL
+16aJ
 8g}
 !!LO:LB:g=esac
 =5
@@ -49,13 +49,34 @@
 =8
 8dd
 8dd
-16b
-16a
+16bL
+16aJ
 8g}
 ==
 *-
+!!!role-singer: Wedding Matrons
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Katylik juz nie do tegi,
+!!on nie umié synkiem (szynkiem) chodzic.
+!!On nie umié z tym dać rady,
+!!(w)on nie umié z ludźmi zgodzić.
+!!@VERSE:
+!!2. On by zjad(ł) i coś dobrégi,
+!!(w)on by chodziuł od parady,
+!!z wódki nie robiułby wody,
+!!ino sam piłby (jesce) więcy harak.
+!!@VERSE:
+!!3. Zyd to ino zjé coś c(z)asém.
+!!mały kigiel z wielkim fetem;
+!!a jak zrobi dobry geseft (Geschäft)
+!!cieplim nogim włazi w betem i t. p.
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=113 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 87} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 87}
 !!!page: 87
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

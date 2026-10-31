@@ -3,69 +3,104 @@
 !!!source: DWOK06
 !!!id: K0063
 !!!signature:
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16dd
-16dd
-8ff
-8ee
-=2
-4.dd
-=3
-8dd
-8cc
-8g
-=4
-4.a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{16dd	Dziękuje
+16dd	.
+8ffL	.
+8eeJ	.
+=2	=2
+4.dd	wam
+=3	=3
+8dd	stoły,
+8cc	.
+8g\	ła-
+=4	=4
+4.a}	-wy,
 !!LO:LB:g=esac
-=5
-{16dd
-16dd
-8ff
-16ee
-16dd
-=6
-4.dd
-=7
-8dd
-8cc
-16g
-16a
-=8
-4.a}
+=5	=5
+{16dd	dziękuje
+16dd	.
+8ff	.
+16eeL	.
+16ddJ/	.
+=6	=6
+4.dd	wam
+=7	=7
+8dd	stoły,
+8cc	.
+16gL	ła-
+16aJ	.
+=8	=8
+4.a}	-wy,
 !!LO:LB:g=esac
-=9
-{16g
-16f
-8g
-8a
-=10
-8cc
-8b
-8dd
-=11
-8dd
-4cc}
+=9	=9
+{16g	co
+16f	cię
+8g	moje
+8a\	.
+=10	=10
+8cc	rącki
+8b	.
+8dd	bie-
+=11	=11
+8dd	-lały,
+4cc}	.
 !!LO:LB:g=esac
-=12
-{16cc
-16b-
-8a
-8g
-=13
-8cc
-8cc
-8b-
-=14
-4.a}
-==
-*-
+=12	=12
+{16cc	moje
+16b-	.
+8a	rącki
+8g	.
+=13	=13
+8aq	.
+8cc	biela-
+8ccL	.
+8b-J	.
+=14	=14
+4.a}	-ły.
+==	==
+*-	*-
+!!!role-singer: Bride
+!!!role-listener: Furniture, Servants
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Dziękuje wam stoły, ławy,
+!!co cię moje rącki bielały, moje rącki bielały
+!!@VERSE:
+!!2. Kto cie tez malował bedzie?
+!!kiej tu juz Kasi nie bedzie.
+!!@VERSE:
+!!3. A jest ci ta młodsa siostra
+!!ale jesce nie dorosła.
+!!@VERSE:
+!!4. Siostrzycki będą bielały
+!!i moi braciszkowie mali.
+!!@VERSE:
+!!5. Wołajciez brata mojego
+!!niech zaprzęga konia cisawego,
+!!@VERSE:
+!!6 zawołajciez siostry moji
+!!niech wyda bydło z obory.
+!!@VERSE:
+!!7. Zawołajciez ojca mego
+!!niech mnie wyprawi z domu swego,
+!!@VERSE:
+!!8. zawołajciez matki moji
+!!niech mi wystawi skrzynie z komory.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Druchny śpiewają w imiemu panny-młodéj na progu:
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=63 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 37} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 37}
 !!!page: 37
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

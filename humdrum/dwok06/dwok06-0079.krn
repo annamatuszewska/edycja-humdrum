@@ -3,47 +3,64 @@
 !!!source: DWOK06
 !!!id: K0079
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-=1
-*M3/8
-{8b
-8dd
-8dd
-=2
-8ee
-4cc
-=3
-8cc
-4b
-=4
-*M2/4
-8b
-8dd}
-4r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+=1	=1
+*M3/8	*
+{8b	A
+8dd	cóż
+8dd	to
+=2	=2
+8ee	to
+4cc	za
+=3	=3
+8cc	druzbi-
+4b	.
+=4	=4
+*M2/4	*
+(8bL	-sko
+8ddJ)}	.
+4r	.
 !!LO:LB:g=esac
-=5
-*M3/8
-{8b
-8dd
-8dd
-=6
-8ee
-4cc
-=7
-8cc
-4a
-=8
-*M2/4
-8a
-8g}
-4r
-==
-*-
+=5	=5
+*M3/8	*
+{8b	zamarzło
+8dd	.
+8dd	.
+=6	=6
+8ee	mu
+4cc	kie-
+=7	=7
+8cc	-sieni-
+4a	.
+=8	=8
+*M2/4	*
+8aL	-sko.
+8gJ}	.
+4r	.
+==	==
+*-	*-
+!!!role-singer: Bridesmaids
+!!!role-listener: Groomsman
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!A cóż to to za druzbisko
+!!zamarzło mu kiesienisko.
+!!Trzeba by mu wody zwarzyć,
+!!kiesenisko mu odparzyć.
+!!Nie lusy druzba nie lusy,
+!!z za stołu druchen nie rusy.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Nareszcie, gdy druchny prześpiewały:
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=71 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 45} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 45}
 !!!page: 45
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

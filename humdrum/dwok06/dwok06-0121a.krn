@@ -3,71 +3,86 @@
 !!!source: DWOK06
 !!!id: K0121a
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8b
-8dd
-8dd
-8ee
-8dd
-8cc
-=2
-8b
-4dd
-8ee
-8dd
-8cc
-=3
-8b
-4dd
-8ff#
-8gg
-8ee
-=4
-8b
-4dd
-8ee
-8dd
-8cc}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8bL	.
+8ddJ	.
+8ddL	.
+8eeJ	.
+8ddL	.
+8ccJ	.
+=2	=2
+8b	.
+4dd	.
+8ee	.
+8ddL	.
+8ccJ	.
+=3	=3
+8b	.
+4dd	.
+8ff#	.
+8ggL	.
+8eeJ	.
+=4	=4
+8b	.
+4dd	.
+8ee	.
+8ddL	.
+8ccJ}	.
 !!LO:LB:g=esac
-=5
-{8dd
-8dd
-8b
-8dd
-8dd
-8ee
-=6
-8dd
-8cc
-8a
-8a
-8cc
-8ee
-=7
-8dd
-16b
-16a
-8g
-8a
-8b
-8g
-=8
-8a
-8g
-8f#
-8d
-8f#
-8g}
-==
-*-
+=5	=5
+{8bq	.
+8dd	Uderzył
+8dd	.
+8bL	.
+8ddJ/	konicek
+8ddL	.
+8eeJ/	.
+=6	=6
+8dd	nózecką
+8cc	.
+8a\	.
+8a\	we
+8cc	wrota,
+8ee	.
+=7	=7
+8dd	otwórz
+16bL	.
+16aJ\	.
+8g	mi
+8a	dziewcyno,
+8b	.
+8g	.
+=8	=8
+8a	bo
+8g	mnie
+8f#	zbiła
+8d	.
+8f#	psota.
+8g}	.
+==	==
+*-	*-
+!!!role-singer: Bachelor
+!!!role-listener: Maiden
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Uderzył konicek nózecką we wrota,
+!!otwórz mi dziewcyno, bo mnie zbiła psota.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Starający się w towarzystwie starosty i grajka, odzywa się
+!!pod oknem ulubionéj ma młodéj:
+!!@@END:
 !!!ONB: Wariant alternatywny
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=88 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 62} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 62}
 !!!page: 62
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

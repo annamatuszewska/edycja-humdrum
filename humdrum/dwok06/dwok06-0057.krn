@@ -3,74 +3,122 @@
 !!!source: DWOK06
 !!!id: K0057
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16b
-8cc
-8b
-=2
-8dd
-4dd
-=3
-16dd
-16ee
-8dd
-8cc
-=4
-8a
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Dobra
+16b	.
+8cc	nocka
+8b	.
+=2	=2
+8dd	dobra
+4dd	.
+=3	=3
+16dd	dziewcyno
+16ee	.
+8dd	.
+8cc	na-
+=4	=4
+8aM	-dobna
+4g}	.
 !!LO:LB:g=esac
-=5
-{16g
-16b
-8cc
-8b
-=6
-8dd
-8cc
-8a
-=7
-4g}
-8r
+=5	=5
+{16g	cegos
+16b	.
+8cc	będzies
+8b	.
+=6	=6
+8dd	płaka-
+8ccL	.
+8aJ	.
+=7	=7
+4g}	-ła?
+8r	.
 !!LO:LB:g=esac
-=8
-{8a
-8a
-8b
-=9
-8cc
-4a
-=10
-8cc
-8b
-16a
-16b
-=11
-8g
-4f#}
+=8	=8
+{8a	A
+8a	cemuś
+8b	.
+=9	=9
+8cc	nie
+4a	sła
+=10	=10
+8cc	kiej
+8b	cię
+16a\	ludzie
+16b	.
+=11	=11
+8gM	chcieli
+4f#\}	.
 !!LO:LB:g=esac
-=12
-{8d
-8g
-8a
-=13
-8cc
-8b
-8f#
-=14
-4.g
-=15
-4g}
-8r
-==
-*-
+=12	=12
+{8d	tylkoś
+8g	.
+8a\	na
+=13	=13
+8cc	nas
+8bL	ce-
+8f#J	.
+=14	=14
+4.g	-ka-
+=15	=15
+4g}	-ła.
+8r	.
+==	==
+*-	*-
+!!!role-listener: Bride
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. Dobra nocka dobra dziewcyno nadobna
+!!cegos będziesz płakała?
+!!A cemuś nie sła kiej cię ludzie chcieli
+!!tylkoś na nas cekała.
+!!@VERSE:
+!!2. Dobra nocka dobra,
+!!dziewcyno nadobna,
+!!bodajześ zdrowa spała.
+!!Da wybrałaś-ci se
+!!we trzech sokolikach,
+!!jakiegoś sama chciała.
+!!@VERSE:
+!!3. Dobra nocka dobra,
+!!dziewcyno nadobna,
+!!nadchodząc pod twe ściany;
+!!a wynijdźze do nas,
+!!a przywitaj-ze nas,
+!!patrz jaki ja zwalany!
+!!@VERSE:
+!!4. Dobra nocka dobra,
+!!dziewcyno nadobna,
+!!zachodząc pod twe okna;
+!!a wynijdź-ze do nas,
+!!a przywitaj-ze nas,
+!!sukmana na mnie zmokła.
+!!@VERSE:
+!!5. Dobra nocka dobra,
+!!dziewcyno nadobna,
+!!zachodząc pod twe progi;
+!!a wynijdź-ze do nas,
+!!a przywitaj-ze nas,
+!!chociaz-em ja ubogi.
+!!@VERSE:
+!!6. Dobra nocka dobra
+!!dziewcyno nadobna,
+!!a było-ć to raniéj wstać.
+!!Konika osiodłać
+!!na wojenkę posłać,
+!!z Jasinkiem się pozegnać.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Pannie-młodéj na dobra noc:
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=60 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 34} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 34}
 !!!page: 34
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

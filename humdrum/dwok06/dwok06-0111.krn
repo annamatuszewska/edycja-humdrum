@@ -3,82 +3,95 @@
 !!!source: DWOK06
 !!!id: K0111
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8g
-8f#
-4g
-=2
-8b
-4dd
-8dd
-=3
-8dd
-8cc#
-4dd
-=4
-8a
-4g
-8b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8g	A
+8f#	moja
+4g	.
+=2	=2
+8b	dziewcyno
+4dd	.
+8dd	.
+=3	=3
+8dd	wstążki
+8cc#	.
+4dd	ci
+=4	=4
+8a	się
+4g	mienią,
+8b}	.
 !!LO:LB:g=esac
-=5
-{8a
-8cc#
-4dd
-=6
-8f#
-4g
-8b
-=7
-8a
-8cc
-4b
-=8
-8a
-4g
-8g}
+=5	=5
+{8a\	spojźryjze
+8cc#	.
+4dd	.
+=6	=6
+8f#\	na
+4g\	moje
+8b	.
+=7	=7
+8a\	jak
+8cc	mi
+4b	się
+=8	=8
+8a	cerwienią,
+4g	.
+8g}	.
 !!LO:LB:g=esac
-=9
-{8g
-8f#
-4g
-=10
-8b
-4dd
-8dd
-=11
-8dd
-8cc#
-4dd
-=12
-8a
-4g
-8b}
+=9	=9
+{8g	a
+8f#	moja
+4g	.
+=10	=10
+8b	dziewcyno
+4dd	.
+8dd	.
+=11	=11
+8dd	wstążki
+8cc#	.
+4dd	ci
+=12	=12
+8a	się
+4g	mienią,
+8b}	.
 !!LO:LB:g=esac
-=13
-{8a
-8cc#
-4dd
-=14
-8a
-4g
-8b
-=15
-8a
-8cc
-4b
-=16
-8a
-4g
-8g}
-==
-*-
+=13	=13
+{8a\	spojźryjze
+8cc#	.
+4dd	.
+=14	=14
+8a	na
+4g	moje
+8b	.
+=15	=15
+8a\	jak
+8cc	mi
+4b	się
+=16	=16
+8a	cerwienią
+4g	.
+8g}	.
+==	==
+*-	*-
+!!!role-singer: Bridesmaid
+!!!role-listener: Bride
+!!!singer-sex: female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!A moja dziewcyno wstązki ci się mienią, spojźryjze na moje jak mi się cerwienią
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Druchna zaś, przypominając jéj swój stan panieński kwi-
+!!tnący śpiewa:
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=83 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 57} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 57}
 !!!page: 57
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

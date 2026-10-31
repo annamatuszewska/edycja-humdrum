@@ -3,41 +3,66 @@
 !!!source: DWOK06
 !!!id: K0157
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16a
-8b
-8cc
-=2
-4dd
-8ee
-=3
-8dd
-8a}
-8r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Zapraszam
+16a	.
+8b	.
+8cc	was
+=2	=2
+4dd	na
+8ee	ten
+=3	=3
+8ddL	chlib,
+8aJ}	.
+8r	.
 !!LO:LB:g=esac
-=4
-{8cc
-8cc
-8b
-=5
-8a
-4cc
-=6
-8b
-4f#
-=7
-4g}
-8r
-==
-*-
+=4	=4
+{8cc	co
+8cc	go
+8b	naj-
+=5	=5
+8a\	-starsy
+4cc	.
+=6	=6
+8b	druzba
+4f#	.
+=7	=7
+4g}	pik.
+8r	.
+==	==
+*-	*-
+!!!role-singer: Man, Narrator
+!!!role-listener: Guests
+!!!singer-sex: male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Zapraszam was na ten chlib,
+!!co go najstarsy druzba pik.
+!!A pani-młoda nié mogła piéc,
+!!nim zacyniła, wystyg(ł) piec.
+!!Co się odwlece, to nie uciece,
+!!toć nam za rok kukiełeckę upiece.
+!!Na co stać nas
+!!cęstujem was.
+!!Pożywajcie,
+!!popijajcie,
+!!serduszka się uradują,
+!!jak się goście ucęstują.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Stary Maciéj, usadowiwszy przy stole księdza Bernardyna
+!!z Alwernii, siwego staruszka, który parze ślub dawał i wziąwszy
+!!w rękę gąsiorek z winem i szklaneczkę, zaśpiewał do gości:
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=107 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 81} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 81}
 !!!page: 81
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

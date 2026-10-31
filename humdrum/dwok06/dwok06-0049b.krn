@@ -11,52 +11,67 @@
 =1
 {8ee
 4gg
-16aa
-16gg
+16aaL
+16ggJ
 =2
-8ee
-8gg
-16ff#
+8eeL
+8ggJ
+16ff#L
 16gg
 16aa
-16gg
+16ggJ
 =3
 8cc
 4ee
-16dd
-16cc
+16ddL
+16ccJ
 =4
-8b
-8dd
-8dd
-8cc}
+8bL
+8ddJ
+8ddL
+8cc}J
 !!LO:LB:g=esac
 =5
 {8cc
 4ee
-16dd
-16cc
+8ffq
+16ddL
+16ccJ
 =6
-8ee
-8gg
-16ff#
+8eeL
+8ggJ
+16ff#L
 16gg
 16aa
-16gg
+16ggJ
 =7
 8cc
 4ee
-16dd
-16cc
+16ddL
+16ccJ
 =8
-8b
-8g
-8b
-8cc}
+8bL
+8gJ
+8bL
+8cc}J
 ==
 *-
+!!!role-singer: Bachelor (Wedding Matron, Chief Bridesmaid, Bride)
+!!!singer-sex: male (female)
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Kurzyła sie dróżka, kurzył się gościeniec,
+!!kiedym ci ja jechał dziewcynie po wieniec.
+!!Kurzyła sie dróżka, kiedym jechał z wojska,
+!!wiozłem obarzanki dla moji kochanki.
+!!@@END: VERSES
+!!@@BEGIN: 
+!!@COMMENTARY: Jadąc po wieńce (czasami ze skrzypkiem) śpiewają:
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=55 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 29} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 29}
 !!!page: 29
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

@@ -3,69 +3,100 @@
 !!!source: DWOK06
 !!!id: K0202
 !!!signature:
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{4cc
-8cc
-8cc
-8ee
-8dd
-=2
-4b
-8g
-8b
-8dd
-16cc
-16b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+{4cc	Posła
+8cc	.
+8cc	dziewcyna
+8ee	.
+8dd	.
+=2	=2
+4b	do
+8g	Borowina
+8b	.
+8dd	.
+16ccL	.
+16bJ}	.
 !!LO:LB:g=esac
-=3
-{4a
-8a
-8b
-8cc
-8cc
-=4
-8b
-8g#
-8e
-8g#
-4a}
+=3	=3
+{4a	a
+8a	chłopiec
+8b	.
+8cc	za
+8cc	nią
+=4	=4
+8b	z_butelką
+8g#	.
+8e	.
+8g#\	wina.
+4a\}	.
 !!LO:LB:g=esac
-=5
-{4cc
-8cc
-8cc
-8ee
-8dd
-=6
-4b
-8g
-8b
-8dd
-16cc
-16b}
+=5	=5
+{4cc	Posła
+8cc	.
+8cc	dziewcyna
+8ee	.
+8dd	.
+=6	=6
+4b	do
+8g	Borowina
+8b	.
+8dd	.
+16ccL	.
+16bJ}	.
 !!LO:LB:g=esac
-=7
-{4a
-8a
-8b
-8cc
-8cc
-=8
-8b
-8g#
-8e
-16f#
-16g#
-4a}
-==
-*-
+=7	=7
+{4a	a
+8a	chłopiec
+8b	.
+8cc	za
+8cc	nią
+=8	=8
+8b	z_butelką
+8g#	.
+8e	.
+16f#L	wina.
+16g#J	.
+4a\}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Bachelor, Maiden
+!!!role-listener: Maiden, Bachelor
+!!!singer-sex: female, male
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!Posła dziewcyna do Borowina
+!!a chłopiec za nią z butelką wina.
+!!@VERSE:
+!!1. Posła dziewcyna do Borowina
+!!posłał pan za nią z butelką wina.
+!!(lub: a chłopiec za nią z butelką wina)
+!!@VERSE:
+!!2. Nie dogonił ją jaze na moście
+!!(lub: i spotkali się proście na moście):
+!!wróć się domu, masz w domu goście.
+!!@VERSE:
+!!3. Ja sie nie wróce, az sie nauce,
+!!kupie se folwark i kamienice.
+!!@VERSE:
+!!4. Po folwarku sie bede woziła
+!!po kamienicy bede chodziła.
+!!@VERSE:
+!!5. W tej kamienicy koń biały stoi
+!!juz sie dziewcyna do ślubu stroi.
+!!@VERSE:
+!!6. A wdziewa, wdziewa złotą korone
+!!juz nas odjedzie w daleką strone.
+!!(lub: bo sie wybiera w daleką strone)
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=134 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 108} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 108}
 !!!page: 108
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30

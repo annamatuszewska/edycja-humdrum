@@ -3,61 +3,86 @@
 !!!source: DWOK06
 !!!id: K0207
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{8cc
-8b
-8cc
-=2
-4g
-8b
-=3
-8cc
-8ee
-8gg
-=4
-8ff
-4dd}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{8cc	A
+8b	przyjecha-
+8cc	.
+=2	=2
+4g	.
+8b	-li
+=3	=3
+8cc	żołnierze
+8ee	.
+8gg	z_o-
+=4	=4
+8ff	-bozu,
+4dd}	.
 !!LO:LB:g=esac
-=5
-{8ff
-8ee
-8dd
-=6
-4cc
-8a
-=7
-16a
-16a
-8a
-8dd
-=8
-8b
-4g}
+=5	=5
+{8ff	wyleźli
+8ee	.
+8dd	.
+=6	=6
+4cc	na
+8a	piec
+=7	=7
+16a	bo
+16a	się
+8a	bali
+8dd	.
+=8	=8
+8b	mrozu,
+4g}	.
 !!LO:LB:g=esac
-=9
-{8g
-8a
-8b
-=10
-4cc
-8e
-=11
-8f
-8d
-16g
-16e
-=12
-8c
-4c}
-==
-*-
+=9	=9
+{8g	wyleźli
+8a	.
+8b	.
+=10	=10
+4cc	na
+8e	piec,
+=11	=11
+16fL	bo
+16dJ	.
+8d\	się
+8g\	bali
+=12	=12
+8c	mrozu.
+4c}	.
+==	==
+*-	*-
+!!!role-singer: Narrator, Soldiers, Mother
+!!!role-listener: Mother,Soldiers
+!!!singer-sex: male, female
+!!@@BEGIN: VERSES
+!!@VERSE:
+!!1. A przyjechali żołnierze z obozu,
+!!wyleźli na piec, bo się bali mrozu.
+!!@VERSE:
+!!2. Wyleźli na piec, jesce się nakryli,
+!!a cóz to to to, za zołnierze byli?
+!!@VERSE:
+!!3. Chwała Bogu, pani matko nasa,
+!!a kady-z to tu, ta córecka wasa?
+!!@VERSE:
+!!4. Niewidzielista, ij to ta w polu,
+!!co wybirała psenickę z kąkolu.
+!!@VERSE:
+!!5. Widzieliśmy ij, ale ino wianek,
+!!my rozumieli ze krakowski zamek.
+!!@VERSE:
+!!6. I przysła, przysła, wsyćkich przywitała
+!!wsyćkim siedmioma podarunki dała
+!!@@END: VERSES
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=137 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 111} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 111}
 !!!page: 111
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Klara Amelia Zienkiewicz
+!!!END: 2026-10-30
