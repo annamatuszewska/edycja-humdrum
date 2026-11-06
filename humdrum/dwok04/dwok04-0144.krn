@@ -3,65 +3,76 @@
 !!!source: DWOK04
 !!!id: K0144
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/4
-=1
-{8.cc
-16a
-8f
-8a
-8cc
-8a
-=2
-8.b-
-16g
-8g
-8g
-8b-
-8a}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/4	*
+=1	=1
+{8.cc	Po-
+16a	-szła
+8f	do
+8a	go-
+8cc	-ściń-
+8a	-ca,
+=2	=2
+8.b-/	sta-
+16g	-nę-
+8g	-ła
+8g	u
+8b-/	pro-
+8a}	-ga,
 !!LO:LB:g=esac
-=3
-{8.cc
-16a
-8f
-8a
-8cc
-8a
-=4
-8.b-
-16g
-8g
-8g
-8b-
-8a}
+=3	=3
+{8.cc	mój
+16a	miły
+8f	.
+8a	tań-
+8cc	-cu-
+8a	-je,
+=4	=4
+8.b-	nie
+16g	bo-
+8g	-i
+8g	się
+8b-/	Bo-
+8a}	-ga.
 !!LO:LB:g=esac
-=5
-{8f
-8f
-4f
-4ff
-=6
-8dd
-8dd
-2cc}
+=5	=5
+{8f	Ko-
+8f	-ło
+4f	mnie
+4ff;	się
+=6	=6
+8eeq	.
+8dd	obciera,
+8dd	.
+2cc}	.
 !!LO:LB:g=esac
-=7
-{8dd
-8b-
-4a
-4f
-=8
-8b-
-8g
-4f}
-4r
-==
-*-
+=7	=7
+{8dd	jeszcze
+8b-	.
+4a	mnie
+4f	się
+=8	=8
+8b-	zapiera.
+8g	.
+4f}	.
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Poszła do gościńca, stanęła u proga,
+!!mój miły tańcuje, nie boi się Boga.
+!!Koło mnie się obciera,
+!!jeszcze mnie się zapiera.
+!!@@END: VERSES
+!!!role-singer: Mistress
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=97 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 83} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 83}
 !!!page: 83
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-05

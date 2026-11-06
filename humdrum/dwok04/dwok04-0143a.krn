@@ -3,89 +3,97 @@
 !!!source: DWOK04
 !!!id: K0143a
 !!!signature:
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-=1
-*M3/8
-{16f
-16f
-8f
-8f
-=2
-8dd
-4cc
-=3
-16b-
-16a
-8b-
-8g
-=4
-8b-
-4a}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*B-:	*
+=1	=1
+*M3/8	*
+{16f	W_całkim
+16f	.
+8f	mo-
+8f	-im
+=2	=2
+8dd	ży-
+4cc	-ciu
+=3	=3
+16b-/	jednegom
+16a	.
+8b-/	.
+8g	lu-
+=4	=4
+8b-	-bi-
+4a}\	-ła,
 !!LO:LB:g=esac
-=5
-{16f
-16f
-8f
-8f
-=6
-8dd
-4cc
-=7
-16g
-16a
-8b-
-8e
-=8
-8g
-4f}
+=5	=5
+{16f	już
+16f	go
+8f	nie
+8f	o-
+=6	=6
+8dd	-puszczę
+4cc	.
+=7	=7
+16g	pó-
+16a	-ki
+8b-/	bę-
+8e	-dę
+=8	=8
+8g	ży-
+4f}	-ła.
 !!LO:LB:g=esac
-=9
-{16g
-16g
-8b-
-8b-
-=10
-16a
-16cc
-8ff
-8ff
-=11
-16ee
-16ee
-8b-
-8b-
-=12
-16dd
-16cc
-8a
-8f}
+=9	=9
+{16g	A
+16g	ja
+8b-	bym
+8b-	ci
+=10	=10
+16a	tak
+16cc	życzy-
+8ff	.
+8ff	-ła
+=11	=11
+16ee	żebyś
+16ee	.
+8b-/	ty
+8b-/	go
+=12	=12
+16dd	o-
+16cc	-pu-
+8a\	-ści-
+8f}\	-ła
 !!LO:LB:g=esac
-=13
-*M5/16
-{16g
-16g
-8b-
-16e
-=14
-*M3/8
-16f
-16a
-4a
-=15
-16g
-16g
-8b-
-8e
-=16
-8f
-4f}
-==
-*-
+=13	=13
+{16g	bo
+16g	będziesz
+8b-/	.
+16e	na-
+=14	=14
+16fL	-rzé-
+16aJ	.
+4a	-kać
+=15	=15
+16g	pó-
+16g	-ki
+8b-/	bę-
+8e	-dziesz
+=16	=16
+8f	ży-
+4f}	-ła.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!W całkim moim życiu jednegom lubiła,
+!!już go nie opuszczę póki będę żyła.
+!!A ja bym ci tak życzyła żebyś ty go opuściła,
+!!bo będziesz narzékać póki będziesz żyła.
+!!@@END: VERSES
+!!!role-singer: Woman, Narrator
+!!!singer-sex: Fermale
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=96 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 82-83} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), pp. 82-83}
 !!!page: 82-83
-!!!ONB: Converted on 2024/12/26 with esac2hum
+!!!O!!!ENC: Agata Krajewska-Mikosz
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-05

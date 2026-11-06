@@ -3,81 +3,90 @@
 !!!source: DWOK04
 !!!id: K0129a
 !!!signature: 0412900010
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16cc
-16cc
-8cc
-8ee
-=2
-16dd
-16cc
-8b
-8a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Po oczepinach.	!
+{16cc	Jedzie
+16cc	.
+8cc	Ja-
+8ee	-sio
+=2	=2
+16dd	od
+16cc	Toru-
+8b	.
+8a}	-nia
 !!LO:LB:g=esac
-=3
-{16g#
-16g#
-8e
-16f#
-16g#
-=4
-16a
-16a
-8.b
-16a}
+=3	=3
+{16g#	pędzi
+16g#	.
+8e	gą-
+16f#L	-sio-
+16g#J	.
+=4	=4
+16a	-ry,
+16a	da
+8.b/	da-
+16a}	-na,
 !!LO:LB:g=esac
-=5
-{16g#
-16g#
-8e
-16f#
-16g#
-=6
-4a}
-8r
+=5	=5
+{16g#	pędzi
+16g#	.
+8e	gą-
+16f#L	-sio-
+16g#J	.
+=6	=6
+4a}	-ry.
+8r	.
 !!LO:LB:g=esac
-=7
-{16cc
-16cc
-8cc
-8ee
-=8
-16dd
-16cc
-8b
-8a}
+=7	=7
+{16cc	Jedzie
+16cc	.
+8cc	Ja-
+8ee	-sio
+=8	=8
+16dd	od
+16cc	Toru-
+8b	.
+8a}	-nia
 !!LO:LB:g=esac
-=9
-{16g#
-16g#
-8e
-16f#
-16g#
-=10
-16a
-16a
-8.b
-16a}
+=9	=9
+{16g#	pędzi
+16g#	.
+8e	gą-
+16f#L	-sio-
+16g#J	.
+=10	=10
+16a	-ry,
+16a	da
+8.b/	da-
+16a}	-na,
 !!LO:LB:g=esac
-=11
-{16g#
-16g#
-8e
-16f#
-16g#
-=12
-4a}
-8r
-==
-*-
+=11	=11
+{16g#	pędzi
+16g#	.
+8e	gą-
+16f#L	-sio-
+16g#J	.
+=12	=12
+4a}	-ry.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Jedzie Jasio od Torunia
+!!pędzi gąsiory, da dana,
+!!pędzi gąsiory.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!ONB: Część wokalna
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=90 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 76} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 76}
 !!!page: 76
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-05

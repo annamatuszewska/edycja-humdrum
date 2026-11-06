@@ -3,97 +3,113 @@
 !!!source: DWOK04
 !!!id: K0118
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{8e
-8e
-8a
-8b
-=2
-8cc
-8cc
-4b
-=3
-8cc
-8cc
-8b
-8a
-=4
-8a
-8a
-8a
-8a
-=5
-4.g
-8e}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+=1	=1
+{8e	Wyjrzyj
+8e	.
+8a	i-
+8b/	-no
+=2	=2
+8cc	chłopczyku,
+8ddq	.
+8cc	.
+4b	.
+=3	=3
+8cc	chłopczyku
+8ddq	.
+8cc	.
+8b/L	.
+8aJ	.
+=4	=4
+8a	kto
+8a	to
+8a	tam
+8bq	.
+8a	przy-
+=5	=5
+4.g	-je-
+8e}	-chał.
 !!LO:LB:g=esac
-=6
-{8e
-8a
-8a
-8a
-=7
-8g
-8g
-4g
-=8
-8d
-8e
-8f
-8a
-=9
-4e
-4e}
+=6	=6
+{8e\	A
+8a\	ten
+8a	ci
+8a	to
+=7	=7
+8g	ka
+8g	wa
+4g\	lir
+=8	=8
+8d	co
+8e	wczoraj
+8f	.
+8a	od-
+=9	=9
+4e	-je-
+4e}	-chał.
 !!LO:LB:g=esac
-=10
-{8e
-8e
-8a
-8b
-=11
-8cc
-8cc
-4b
-=12
-8cc
-8cc
-8b
-8a
-=13
-8a
-8a
-8a
-8a
-=14
-4.g
-8e}
+=10	=10
+{8e	Wyjrzyj
+8e	.
+8a	i-
+8b/	-no
+=11	=11
+8cc	chłopczyku,
+8ddq	.
+8cc	.
+4b	.
+=12	=12
+8cc	chłopczyku
+8ddq	.
+8cc	.
+8b/L	.
+8aJ	.
+=13	=13
+8a	kto
+8a	to
+8a	tam
+8bq	.
+8a	przy-
+=14	=14
+4.g	-je-
+8e}	-chał.
 !!LO:LB:g=esac
-=15
-{8cc
-8b
-8a
-8a
-=16
-8g
-8g
-8g
-8e
-=17
-8d
-8e
-8f
-8a
-=18
-4e
-4e}
-==
-*-
+=15	=15
+{8cL/c	A
+8b/J	ten
+8a	ci
+8a	to
+=16	=16
+8g	ka
+8g	wa
+8gL	lir
+8eJ	.
+=17	=17
+8d	co
+8e	wczoraj
+8f	.
+8a	od-
+=18	=18
+4e	-je-
+4e}	-chał.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Wyjrzyj ino chłopczyku,
+!!kto to tam przyjechał.
+!!A ten ci to ka wa lir
+!!co wczoraj odjechał.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!role-listener: Boy
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=87 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 73} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 73}
 !!!page: 73
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-04

@@ -3,81 +3,95 @@
 !!!source: DWOK04
 !!!id: K0150
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/4
-=1
-{8dd
-4dd
-8cc
-8dd
-8b-
-=2
-16g
-16a
-4g
-8d
-8f
-8d}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/4	*
+=1	=1
+!LO:TX:a:t=Chodzony.	!
+{8dd	Zła-
+4dd	-pa-
+8cc	-łem
+8dd^	rybkę
+8b-	.
+=2	=2
+16g	przy
+8b-q	.
+16a	tej
+4g^>	mętnéj
+8d	.
+8f	wodzie,
+8d}	.
 !!LO:LB:g=esac
-=3
-{8f
-4f
-8f
-8a
-8f
-=4
-16b-
-16a
-4g
-8d
-8f
-8d
-=5
-8f
-4f
-8a
-8a
-8g
-=6
-16g
-16a
-4g
-8d
-8f
-8d}
+=3	=3
+{8f	złapa-
+4f	.
+8f	-łem,
+8a	złapał
+8f	.
+=4	=4
+16b/-	płynący
+16a	.
+4g	.
+8d	po
+8f	spodzie,
+8d	.
+=5	=5
+8f	zła-
+4f	-pa-
+8a	-łem,
+8b-q	.
+8a	zła-
+8g	-pał,
+=6	=6
+16g	płynący
+8b-q	.
+16a	.
+4g	.
+8d	pospodzie.
+8f	.
+8d}	.
 !!LO:LB:g=esac
-=7
-{8f
-4f
-8f
-8a
-8f
-=8
-8g
-8b-
-8b-
-8cc
-8dd
-8b-
-=9
-8a
-4a
-8g
-8a
-8f
-=10
-16g
-16a
-4g
-8d
-4f}
-==
-*-
+=7	=7
+{8f	.
+4f	.
+8f\	.
+8aL	.
+8fJ	.
+=8	=8
+8gL	.
+8b-J/	.
+8b-L	.
+8cc	.
+8dd	.
+8b-J	.
+=9	=9
+8a\	.
+4a	.
+8g	.
+8aL	.
+8fJ	.
+=10	=10
+16gL	.
+16aJ	.
+4g	.
+8d	.
+4f}\	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Złapałem rybkę przy tej mętnéj wodzie,
+!!złapałem, złapał płynący po spodzie,
+!!złapałem, złapał, płynący pospodzie.
+!!@@END: VERSES
+!!!RDF**kern: >= above
+!!!role-singer: Narrator
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=99 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 85} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 85}
 !!!page: 85
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-05

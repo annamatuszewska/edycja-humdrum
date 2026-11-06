@@ -3,93 +3,108 @@
 !!!source: DWOK04
 !!!id: K0147
 !!!signature:
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16gg#
-16ee
-8.b
-16dd
-=2
-8ff#
-4ee
-=3
-16ee
-16ee
-8ee
-8b
-=4
-16b
-16b
-8b
-8g#
-=5
-16b
-16dd
-8ff#
-8ee
-=
-24dd
-24cc
-24b
-16a
-[16g#}
-8g#]
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{16gg#L	Hej
+16eeJ	.
+8.bL	hej
+16ddJ	.
+=2	=2
+8ff#	hej
+4ee	że!
+=3	=3
+16ee	deszczyk
+16ee	.
+8ee	.
+8b	pada,
+=4	=4
+16b	na
+16b	koń
+8b	sia-
+8g#	-da,
+=5	=5
+16b	na
+16dd	białny
+8ff#	.
+8ee	brze-
+=6	=6
+*Xtuplet	*
+24ddL	-zi-
+24cc	.
+24bJ	.
+16aL	-nie,
+[16g#}	.
+8g#]J	.
 !!LO:LB:g=esac
-=6
-{16a
-16cc
-8b
-8a
-=7
-32g#
-32a
-16b
-8g#
-8e
-=8
-16g#
-16a
-8b
-8ee
-=
-24dd
-24cc
-24b
-16a
-[16g#}
-8g#]
+=7	=7
+{16a	kochajże
+16cc	.
+8b/	.
+8a	mnie
+=8	=8
+32gL#	mo-
+32aJ	.
+16b/	-ja
+8g#	Ma-
+8e	-ryś
+=9	=9
+16g#	szczerze
+16a	.
+8b	nie
+8ee	zdra-
+=10	=10
+24ddL	-dli-
+24cc	.
+24bJ	.
+16aL	-wie.
+[16g#}	.
+8g#]J	.
 !!LO:LB:g=esac
-=9
-{16a
-16cc
-8b
-8a
-=10
-32g#
-32a
-16b
-8g#
-8e
-=11
-16g#
-16a
-8b
-8ee
-=
-24dd
-24cc
-24b
-16a
-[16g#}
-8g#]
-==
-*-
+=11	=11
+{16a	kochajże
+16cc	.
+8b/	.
+8a	mnie
+=12	=12
+32gL#	mo-
+32aJ	.
+16b/	-ja
+8g#	Ma-
+8e	-ryś
+=13	=13
+16g#	szczerze
+16a	.
+8b	nie
+8ee	zdra-
+=14	=14
+24ddL	-dli-
+24cc	.
+24bJ	.
+16aL	-wie.
+[16g#}	.
+8g#]J	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Hej hej hej że!
+!!deszczyk pada, na koń siada,
+!!na białny brzezinie,
+!!kochajże mnie moja Maryś
+!!szczerze nie zdradliwie.
+!!kochajże mnie moja Maryś
+!!szczerze nie zdradliwie.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Girl
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=98 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 84} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 84}
 !!!page: 84
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-05

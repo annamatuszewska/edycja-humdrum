@@ -3,100 +3,111 @@
 !!!source: DWOK04
 !!!id: K0127b
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=
-{16g
-16a
-16b
-16cc
-24dd
-24cc
-24a
-=1
-16dd
-16dd
-8b
-8g
-=
-16f#
-16f#
-8d
-24b
-24a
-24f#
-=
-8g
-24g
-24a
-24b
-24dd
-24cc
-24b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Dawny Weselny.	!
+{16g	Jedzie
+16a	.
+16bL	Ja-
+16ccJ	.
+*Xtuplet	*
+24dd/L	-sio
+24cc/	.
+24aJ	.
+=2	=2
+16dd	od
+16dd	To-
+8b/	-ru-
+8g	-nia,
+=3	=3
+16f\#L	jedzie
+16f#\J	.
+8d	ko-
+24b/L	-ru-
+24a	.
+24f#J	.
+=4	=4
+8g	-na,
+24gL	.
+24a	.
+24b/J	.
+24ddL	.
+24cc	.
+24b}J	.
 !!LO:LB:g=esac
-=
-{16a
-16f#
-24d
-24f#
-24g
-24b
-24a
-24f#
-=
-8g
-24g
-24a
-24b
-24dd
-24cc
-24b
-=
-16a
-16f#
-8d
-24d
-24e
-24f#
-=2
-4g}
-8r
+=5	=5
+{16a	złota
+16f#	.
+24dL	ko-
+24f#	.
+24gJ	.
+24b/L	-ru-
+24a	.
+24f#J	.
+=6	=6
+8g	-na,
+24gL	.
+24a	.
+24b/J	.
+24ddL	.
+24cc	.
+24bJ	.
+=7	=7
+16a	złota
+16f#	.
+8d	ko-
+24dL	-ru-
+24e	.
+24f#J	.
+=8	=8
+4g}	-na.
+8r	.
 !!LO:LB:g=esac
-=
-{24d
-24d
-24d
-8d
-24d
-24e
-24f#
-=
-8g
-24g
-24a
-24b
-24dd
-24cc
-24b
-=
-24a
-24a
-24a
-8d
-24d
-24e
-24f#
-=3
-4g}
-8r
-==
-*-
+=9	=9
+{24dL	.
+24d	.
+24dJ	.
+8d	.
+24dL	.
+24e	.
+24f#J	.
+=10	=10
+8g	.
+24gL	.
+24a	.
+24b/J	.
+24ddL	.
+24cc	.
+24bJ	.
+=11	=11
+24aL	.
+24a	.
+24aJ	.
+8d	.
+24dL	.
+24e	.
+24f#J	.
+=12	=12
+4g}	.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Jedzie Jasio od Torunia,
+!!jedzie koruna,
+!!złota koruna,
+!!złota koruna.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!ONB: Wariant 2
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=90 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 76} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 76}
 !!!page: 76
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-05

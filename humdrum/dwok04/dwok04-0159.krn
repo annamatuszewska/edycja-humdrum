@@ -3,66 +3,78 @@
 !!!source: DWOK04
 !!!id: K0159
 !!!signature:
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M3/8
-=1
-{16d
-16f#
-8g
-8a
-=2
-16a
-16b
-8cc#
-8a
-=3
-16a
-16b
-8cc#
-8a
-=4
-16a
-16cc#
-8dd
-8cc#
-=5
-4.dd}
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M3/8	*
+=1	=1
+{16d	Ra-
+16f#	-jo-
+8g	-no
+8a	mnie
+=2	=2
+16a	za
+16b/	rol-
+8cc#	-ni-
+8a	-ka,
+=3	=3
+16a	za
+16b/	rolni-
+8cc#	.
+8a	-ka,
+=4	=4
+16a	nie
+16cc#	pójdę
+8dd	.
+8cc#	za
+=5	=5
+4.dd}	nim:
 !!LO:LB:g=esac
-=6
-{16d
-16f#
-8g
-8a
-=7
-16d
-16f#
-8e
-8g
-=8
-16d
-16f#
-8f#
-16g
-16a
-=9
-16d
-16f#
-8e
-8g
-=10
-16d
-16f#
-8e
-8f#
-=11
-4.d}
-==
-*-
+=6	=6
+{16d	A
+8eq	.
+16f#	bo
+8g	rol-
+8a	-nik
+=7	=7
+16d	w_ro-
+16f#	-li
+8e	o-
+8gM	-rze,
+=8	=8
+16d	to
+16f#	i
+8f#	mnie
+16gL	téż
+16aJ	.
+=9	=9
+16d	robić
+16f#	ka-
+8e	-że,
+8gM	nie
+=10	=10
+16d	pój
+16f#	dę
+8e	.
+8f#	za
+=11	=11
+4.d}	nim.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Rajono mnie za rolnika, za rolnika,
+!!nie pójdę za nim:
+!!A bo rolnik w roli orze,
+!!to i mnie téż robić każe,
+!!nie pójdę za nim.
+!!@@END: VERSES
+!!!role-singer: Single Girl
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=103 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 89} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 89}
 !!!page: 89
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-06

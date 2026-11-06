@@ -3,90 +3,104 @@
 !!!source: DWOK04
 !!!id: K0132
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{8cc
-8ee
-8ff
-8ee
-=2
-8dd
-8cc
-8b
-8g
-=3
-8cc
-8dd
-8ee
-8gg
-=4
-4ff
-4ee}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+=1	=1
+{8cc	Przyjechało
+8ee	.
+8ffM	.
+8ee	.
+=2	=2
+8dd	trzech
+8cc	żołnierzy,
+8bm	.
+8g	.
+=3	=3
+8cc	wszy-
+8dd	-scy
+8ee	pod
+8gg	pió-
+=4	=4
+4ff	-ra-
+4ee}	-mi,
 !!LO:LB:g=esac
-=5
-{16ff
-16ee
-16dd
-16ee
-8ff
-8ee
-=6
-8dd
-8cc
-8b
-8g
-=7
-8a
-8a
-8b
-8dd
-=8
-4cc
-4b}
+=5	=5
+{16Lff	da-
+16eeJ	.
+16ddL	-ro-
+16eeJ	.
+8ff	-wa-
+8ee	-li
+=6	=6
+8dd	ła-
+8cc	-dny
+8b/	Ka-
+8g	-si
+=7	=7
+8a	skrzynię
+8a	.
+8b/	z_ta-
+8dd	-la-
+=8	=8
+4cc	-ra-
+4b}m	-mi.
 !!LO:LB:g=esac
-=9
-{8cc
-8dd
-8ee
-8gg
-=10
-4ff
-4ee
-=11
-8cc
-8dd
-8ee
-8gg
-=12
-4ff
-4ee}
+=9	=9
+{8cc	Nie
+8dd	stój-
+8ee	-cież
+8gg	mi
+=10	=10
+4ff	nad
+4ee	nią,
+=11	=11
+8cc	na
+8dd	tą
+8ee	Ka-
+8gg	-sią
+=12	=12
+4ff	ła-
+4ee}	-dną,
 !!LO:LB:g=esac
-=13
-{8ee
-8ee
-8ff
-8ee
-=14
-8dd
-8cc
-8b
-8g
-=15
-8a
-8a
-8b
-8dd
-=16
-4cc
-4b}
-==
-*-
+=13	=13
+{8ee	o-
+8ee	-bie-
+8ff	-ca-
+8ee	-ła
+=14	=14
+8dd	a
+8cc	nie
+8b/	da-
+8g	-ła
+=15	=15
+8a	chu-
+8a	-ste-
+8b	-czkę
+8dd	je-
+=16	=16
+4cc	-dwa-
+4b}	-bną.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Przyjechało trzech żołnierzy,
+!!wszyscy pod piórami,
+!!darowali ładny Kasi
+!!skrzynię z talarami.
+!!Nie stójcież mi nad nią,
+!!na tą Kasią ładną,
+!!obiecała a nie dała
+!!chusteczkę jedwabną.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!role-listener: Group
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=92 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 78} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 78}
 !!!page: 78
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-05

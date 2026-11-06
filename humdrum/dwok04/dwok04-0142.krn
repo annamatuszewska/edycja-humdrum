@@ -3,90 +3,100 @@
 !!!source: DWOK04
 !!!id: K0142
 !!!signature:
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M3/8
-=1
-{16b-
-16dd
-8ff
-8gg
-=2
-8ee-
-8dd
-8b-
-=3
-16cc
-16ff
-8dd
-8b-
-=4
-8b-
-8a
-8b-}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M3/8	*
+=1	=1
+{16b-	Naj-
+16dd	-le-
+8ff	-psza
+8gg	fur-
+=2	=2
+8ee-L	-man-
+8ddJ	.
+8b-	-ka
+=3	=3
+16cc	z_koników
+16ff	.
+8dd	.
+8b-	ka-
+=4	=4
+8b-L	-sztan-
+8a\J	.
+8b-}	-ków,
 !!LO:LB:g=esac
-=5
-{16cc
-16cc
-8dd
-8dd
-=6
-8ff
-8cc
-8b-
-=7
-16cc
-16ee-
-8dd
-8b-
-=8
-8b-
-8a
-8b-}
+=5	=5
+{16cc	naj-
+16cc	-le-
+8dd	-pszy
+8dd	mi
+=6	=6
+8ffL	je-
+8ccJ	.
+8b-	-den
+=7	=7
+16cc	ze
+16ee-	wszystkich
+8dd	.
+8b-	ko-
+=8	=8
+8b-/L	-chan-
+8aJ	.
+8b-/}	-ków.
 !!LO:LB:g=esac
-=9
-{16f
-16a
-8cc
-8dd
-=10
-8b-
-8a
-8b-
-=11
-16f
-16a
-8cc
-8b-
-=12
-8b-
-8a
-8b-}
+=9	=9
+{16fL	.
+16aJ	.
+8ccLL	.
+8ddJ	.
+=10	=10
+8b-/L	.
+8a	.
+8b-/J	.
+=11	=11
+16fL	.
+16aJ	.
+8ccL	.
+8b-J	.
+=12	=12
+8b-/L	.
+8a	.
+8b-}/J	.
 !!LO:LB:g=esac
-=13
-{16f
-16a
-8cc
-8dd
-=14
-8b-
-8a
-8b-
-=15
-16f
-16a
-8cc
-8b-
-=16
-8b-
-8a
-8b-}
-==
-*-
+=13	=13
+{16fL	.
+16aJ	.
+8ccL	.
+8ddJ	.
+=14	=14
+8b-/L	.
+8a	.
+8b-/J	.
+=15	=15
+16fL	.
+16aJ	.
+8ccL	.
+8b-J	.
+=16	=16
+8b-/L	.
+8a	.
+8b-}/J	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Najlepsza furmanka
+!!z koników kasztanków,
+!!najlepszy mi jeden
+!!ze wszystkich kochanków.
+!!@@END: VERSES
+!!!role-singer: Mistress
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=96 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 82} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 82}
 !!!page: 82
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-05

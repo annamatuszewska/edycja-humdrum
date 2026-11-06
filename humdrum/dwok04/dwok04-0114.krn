@@ -3,55 +3,65 @@
 !!!source: DWOK04
 !!!id: K0114
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16g
-16cc
-8cc
-8cc
-=2
-16cc
-16ee
-8ee
-16dd
-16cc
-=3
-8ee
-8ee
-16gg
-16ff
-=4
-4dd
-16ee
-16cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16g	Rano,
+16cc	.
+8cc	ra-
+8cc	-no,
+=2	=2
+16cc	ra-
+16ee	-niu-
+8ee	-sień-
+16ddL	-ko,
+16ccJ	.
+=3	=3
+8ee	de-
+8ee	-scyk
+16gg	pora-
+16ff	.
+=4	=4
+(4dd	-nia.
+16ee	.
+16cc)}	.
 !!LO:LB:g=esac
-=5
-{16b
-16dd
-8dd
-16dd
-16ee
-=6
-16cc
-16a
-8a
-8g
-=7
-8cc
-8cc
-16b
-16dd
-=8
-4cc}
-8r
-==
-*-
+=5	=5
+{16b	już-
+16dd	-ci
+8dd	mo-
+16ddL	-ja
+16eeJ	.
+=6	=6
+16cc	Ma-
+16a	-ry-
+8a	-siéń-
+8g	-ka
+=7	=7
+8cc	woł-
+8cc	-ki
+16b	wy-
+16dd	-ga-
+=8	=8
+4cc}	-nia.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Rano, rano, raniusieńko,
+!!descyk porania.
+!!jużci moja Marysiéńka
+!!wołki wygania.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=85 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 71} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 71}
 !!!page: 71
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-04

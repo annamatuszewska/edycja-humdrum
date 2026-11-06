@@ -3,123 +3,142 @@
 !!!source: DWOK04
 !!!id: K0130
 !!!signature:
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/8
-=1
-{4.ee
-=2
-4ee
-8ee
-=3
-16ee
-16ff#
-8ee
-16dd
-16cc#
-=
-16b
-16ff#
-8ee
-24dd
-24cc#
-24b
-=
-16a
-16a
-8b
-24a
-24g#
-24f#
-=
-24e
-24f#
-24g#
-8.a
-16b}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M3/8	*
+=1	=1
+{4.ee	.
+=2	=2
+4ee	.
+8ee	.
+=3	=3
+16ee	Jedzie
+16ff#	.
+8ee	Ja-
+16ddL	-sio
+16cc#J	.
+=4	=4
+16b	od
+16ff#	Torunia,
+8ee	.
+*Xtuplet	*
+24ddL	.
+24cc#	.
+24bJ	.
+=5	=5
+16a	pędzi
+16a	.
+8b	gą-
+24aL	-sio-
+24g#	.
+24f#J	.
+=6	=6
+*tuplet	*
+!LO:TUP:b	!
+(24eL	-ry,
+24f#J	.
+24g#)	gąsio-
+8.a	.
+16b/}	-ry,
 !!LO:LB:g=esac
-=4
-{16cc#
-16cc#
-8dd
-8cc#
-=
-16b
-16ff#
-8ee
-24dd
-24cc#
-24b
-=
-16a
-16a
-8b
-24a
-24g#
-24f#
-=
-24e
-24f#
-24g#
-8.a
-16a}
+=7	=7
+{16cc#	wygląda-
+16cc#	.
+8dd	.
+8cc#m	-ła
+=8	=8
+16b	kochaneczka
+16ff#	.
+8ee	.
+*Xtuplet	*
+24ddL	.
+24cc#	.
+24bJ	.
+=9	=9
+16a\	oknem
+16a\	.
+8b	z_ko-
+24aL	-mo-
+24g#	.
+24f#J	.
+=10	=10
+*tuplet	*
+!LO:TUP:b	!
+(24eL	-ry
+24f#J	.
+24g#)	z_komo-
+8.a	.
+16a\}	-ry.
 !!LO:LB:g=esac
-=
-{24e
-24f#
-24g#
-16a
-16dd
-8cc#
-=
-24e
-24f#
-24g#
-8.a
-16cc#
-=5
-16b
-16dd#
-8ee
-16cc#
-16f#
-=
-24e
-24f#
-24g#
-4a}
+=11	=11
+*Xtuplet	*
+{24eL	.
+24f#	.
+24g#J	.
+16a\L	.
+16dd	.
+8cc#J	.
+=12	=12
+24eL	.
+24f#	.
+24g#J	.
+8.aL	.
+16cc/J#	.
+=13	=13
+16bL	.
+16dd#	.
+8eeJ	.
+16ccL#	.
+16f#\J	.
+=14	=14
+24eL	.
+24f#	.
+24g#J	.
+4a}\	.
 !!LO:LB:g=esac
-=
-{24e
-24f#
-24g#
-16a
-16dd
-8cc#
-=
-24e
-24f#
-24g#
-8.a
-16cc#
-=
-16b
-16dd#
-8ee
-24cc#
-24a
-24f#
-=
-24e
-24f#
-24g#
-4a}
-==
-*-
+=15	=15
+{24eL	.
+24f#	.
+24g#J	.
+16a\L	.
+16dd	.
+8cc#J	.
+=16	=16
+24eL	.
+24f#	.
+24g#J	.
+8.aL	.
+16cc/J#	.
+=17	=17
+16bL	.
+16dd#	.
+8eeJ	.
+24cc/L#	.
+24a	.
+24f#J	.
+=18	=18
+24eL	.
+24f#	.
+24g#J	.
+4a}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Jedzie Jasio
+!!od Torunia, pędzi gąsiory, gąsiory,
+!!wyglądała kochaneczka
+!!oknem z komory z komory.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!@@BEGIN:
+!!@COMMENTARY: (Temat ten użył Szopen do Fantazyi op. 13).
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=91 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 77} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 77}
 !!!page: 77
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-05

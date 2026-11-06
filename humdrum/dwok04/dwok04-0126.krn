@@ -3,65 +3,75 @@
 !!!source: DWOK04
 !!!id: K0126
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{4dd
-8dd
-8dd
-8ee
-8dd
-=2
-8b
-8b
-8a
-8f#
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+!LO:TX:a:t=Chodzony.	!
+{4dd	Wyj-
+8dd	-rza-
+8dd	-ła
+8ee	pan-
+8dd	-na
+=2	=2
+8b	ku
+8b	o-
+8a	-gró-
+8f#	-dko-
+4g}	-wi,
 !!LO:LB:g=esac
-=3
-{4dd
-8dd
-8dd
-8ee
-8cc
-=4
-8b
-8b
-8a
-8f#
-4g}
+=3	=3
+{4dd	ko-
+8dd	-pać
+8dd	do-
+8ee	-ły-
+8cc	-szek
+=4	=4
+8b	swemu
+8b	.
+8a	wiankowi.
+8f#	.
+4g}	.
 !!LO:LB:g=esac
-=5
-{4d
-4g
-8a
-8cc
-=6
-8b
-8b
-8a
-8f#
-4g}
+=5	=5
+{4d	Rum
+4g	tom
+8aL	da,
+8ccJ/	.
+=6	=6
+8b	da
+8b	da
+8a	da-
+8f#	-na
+4g}\	da,
 !!LO:LB:g=esac
-=7
-{4d
-4f#
-8a
-8cc
-=8
-8b
-8b
-8a
-16a
-16f#
-4g}
-==
-*-
+=7	=7
+{4d	rum
+4g	tom
+8aL	da,
+8c/Jc	.
+=8	=8
+8b	da
+8b	da
+8a	da
+16aL	da
+16f#J	.
+4g}	na.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Wyjrzała panna ku ogródkowi,
+!!kopać dołyszek swemu wiankowi.
+!!Rum tom da, da da dana da,
+!!rum tom da, da da da da na.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=89 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 75} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 75}
 !!!page: 75
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-05

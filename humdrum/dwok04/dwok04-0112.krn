@@ -3,92 +3,99 @@
 !!!source: DWOK04
 !!!id: K0112
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16g
-16g
-8.cc
-16b
-=2
-16cc
-16dd
-8b
-8a
-=3
-16g
-16b
-8g
-16a
-16b
-=4
-4cc}
-8r
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16g	Otwórzcie
+16g	.
+8.cc	.
+16b	mu
+=2	=2
+16cc	pa-
+16dd	-cho-
+8b	-li-
+8a	-cy
+=3	=3
+16g	sy-
+16b/	-ro-
+8g	-ko
+16aL	.
+16b/J	wro-
+=4	=4
+4cc}	-ta,
+8r	.
 !!LO:LB:g=esac
-=5
-{16g
-16g
-8.cc
-16g
-=6
-16a
-16g
-8f
-8e
-=7
-16d
-16d
-8.g
-16f
-=8
-4e}
-8r
+=5	=5
+{16g	oj
+16g	żeby
+8.cc	.
+16g\	je-
+=6	=6
+16a	-go
+16g	koni-
+8f	.
+8e	-cek
+=7	=7
+16d	nie
+16d	ob-
+8.g	-tar
+16f	zło-
+=8	=8
+4e}	-ta.
+8r	.
 !!LO:LB:g=esac
-=9
-{16g
-16g
-8.cc
-16b
-=10
-16cc
-16dd
-8b
-8a
-=11
-16g
-16b
-8g
-16a
-16b
-=12
-4cc}
-8r
+=9	=9
+{16g	Otwórzcie
+16g	.
+8.cc	.
+16b	mu
+=10	=10
+16cc	pa-
+16dd	-cho-
+8b	-li-
+8a	-cy
+=11	=11
+16g	sy-
+16b/	-ro-
+8g	-ko
+16aL	wro-
+16b/J	.
+=12	=12
+4cc}	-ta,
+8r	.
 !!LO:LB:g=esac
-=13
-{16g
-16g
-8.cc
-16g
-=14
-16a
-16g
-8f
-8e
-=15
-16d
-16d
-8.g
-16f
-=16
-4e}
-8r
-==
-*-
+=13	=13
+{16g	oj
+16g	żeby
+8.cc	.
+16g\	je-
+=14	=14
+16a	-go
+16g	ko-
+8f	-ni-
+8e	-cek
+=15	=15
+16d	nie
+16d	ob-
+8.g	-tar
+16f	zło-
+=16	=16
+4e}	-ta.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Otwórzcie mu pacholicy syroko wrota,
+!!oj żeby jego konicek nie obtar złota.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=84 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 70} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 70}
 !!!page: 70
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-04

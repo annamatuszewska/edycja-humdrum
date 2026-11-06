@@ -3,50 +3,61 @@
 !!!source: DWOK04
 !!!id: K0155
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{8cc
-8g
-8ee
-8dd
-=2
-4.cc
-8cc
-=3
-8ee
-8ff
-8gg
-8cc
-=4
-4ff
-4dd}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+=1	=1
+{8cc	Li-
+8g	-ste-
+8ee	-czki
+8dd	o-
+=2	=2
+4.cc	-pa-
+8cc	-dły,
+=3	=3
+8ee	ga-
+8ff	-łą-
+8gg	-ze-
+8cc	-czki
+=4	=4
+4ff	sto-
+4dd}	-ją,
 !!LO:LB:g=esac
-=5
-{8ee
-8dd
-8cc
-8ee
-=6
-8ff
-8dd
-8cc
-8a
-=7
-8cc
-8cc
-8dd
-8b
-=8
-4.cc
-8cc}
-==
-*-
+=5	=5
+{8ee	po-
+8dd	-wiédz,
+8cc	powiedz,
+8ee	.
+=6	=6
+8ff	kochaneczko,
+8dd	.
+8cc	.
+8a	.
+=7	=7
+8cc	czy
+8cc	ty
+8dd	bę-
+8b	-dziesz
+=8	=8
+4.cc	mo-
+8cc}	-ją.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Listeczki opadły,
+!!gałązeczki stoją,
+!!powiédz, powiedz, kochaneczko,
+!!czy ty będziesz moją.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Girl
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=169 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 155} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 155}
 !!!page: 155
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-05

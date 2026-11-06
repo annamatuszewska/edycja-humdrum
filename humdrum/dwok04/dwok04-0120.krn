@@ -3,84 +3,95 @@
 !!!source: DWOK04
 !!!id: K0120
 !!!signature:
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{8a
-8cc
-4ee
-4ee
-=2
-8dd
-8b
-4g
-4b
-=3
-4dd
-[4ee
-16ee]
-16dd
-16cc
-16b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+{8a	Konik
+8cc	.
+4ee	zmok,
+4ee	jam
+=2	=2
+8ddM	zmok,
+8b	.
+4g	sukie-
+4b/	-ne-
+=3	=3
+4dd	-czka
+[4ee	zmo-
+16eLe]	.
+16ddJ	.
+16ccL	.
+16b}J	-kła,
 !!LO:LB:g=esac
-=4
-{8a
-8cc
-4ee
-4ee
-=5
-8dd
-8b
-4g
-4b
-=6
-4ee
-16dd
-16cc
-16b
-16a
-4g#}
+=4	=4
+{8a	dla
+8cc	ciebie
+4ee	.
+4ee	Ka-
+=5	=5
+8dd	-siuniu
+8b	.
+4g	sto-
+4b/	-ją-
+=6	=6
+4ee	-cy
+16dLd	u
+16ccJ	.
+16bL	o-
+16a\J	.
+4g#}	-kna.
 !!LO:LB:g=esac
-=7
-{8a
-8a
-4a
-4a
-=8
-8dd
-8b
-4g
-4b
-=9
-4dd
-4ee
-8cc
-8b}
+=7	=7
+{8a	Nie
+8a	będę
+4a	.
+4a\	ja
+=8	=8
+8dd	roli
+8b	.
+4g	o-
+4b/	-rał
+=9	=9
+4dd	w_je-
+4ee	-sie-
+8ccL	-ni
+8b}J	.
 !!LO:LB:g=esac
-=10
-{8a
-8a
-4a
-4a
-=11
-8dd
-8b
-4g
-4b
-=12
-4ee
-16dd
-16cc
-16b
-16a
-4g#}
-==
-*-
+=10	=10
+{8a	jéno
+8a	.
+4a	bę-
+4a	-dę
+=11	=11
+8dd	rączki
+8b	.
+4g	nosił
+4b/	.
+=12	=12
+4ee	w_kieszeni.
+16dLd	.
+16cc	.
+16b	.
+16a\J	.
+4g#}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Konik zmok, jam zmok, sukieneczka zmokła,
+!!dla ciebie Kasiuniu stojący u okna.
+!!Nie będę ja roli orał w jesieni
+!!jéno będę rączki nosił w kieszeni.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=87 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 73} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 73}
 !!!page: 73
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-04

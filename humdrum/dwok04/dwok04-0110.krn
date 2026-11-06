@@ -3,56 +3,67 @@
 !!!source: DWOK04
 !!!id: K0110
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M4/4
-=1
-{8cc
-8cc
-8cc
-8cc
-4b
-4g
-=2
-8a
-8a
-8a
-8b
-4dd
-4g
-=3
-4a
-8cc
-8a
-4.g
-8f}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M4/4	*
+*met(c)	*
+=1	=1
+!LO:TX:a:t=Przed wyruszeniem do ślubu (dawniej)	!
+{8cc	Przyjechało
+8cc	.
+8cc	.
+8cc	.
+4b	ćty-
+4g	-rech
+=2	=2
+8a	rekrutan-
+8a	.
+8a	.
+8b/	-tów
+4dd	z_woj-
+4g	-ny,
+=3	=3
+4a	do-
+8cc	-praszają
+8a	.
+4.g	.
+8f}	się
 !!LO:LB:g=esac
-=4
-{8e
-8d
-8c
-8e
-4g
-4cc
-=5
-4a
-8cc
-8a
-4.g
-8f
-=6
-8e
-8d
-8c
-8e
-4g
-4c}
-==
-*-
+=4	=4
+{8e	gospo-
+8d	.
+8c	-dy
+8e	spokoj-
+4g	.
+8bq	.
+4cc	-néj,
+=5	=5
+4a	do-
+8cc	-praszają
+8a	.
+4.g	.
+8f	się
+=6	=6
+8e	gospo-
+8d	.
+8c	-dy
+8e	spo-
+4g	-koj-
+4c}	-néj.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Przyjechało ćtyrech rekrutantów z wojny,
+!!dopraszają się gospody spokojnéj,
+!!dopraszają się gospody spokojnéj.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=83 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 69-70} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), pp. 69-70}
 !!!page: 69-70
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-04

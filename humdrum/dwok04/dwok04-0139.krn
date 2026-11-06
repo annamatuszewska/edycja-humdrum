@@ -3,83 +3,96 @@
 !!!source: DWOK04
 !!!id: K0139
 !!!signature:
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M3/8
-=1
-{16a
-16a
-8d
-8f#
-=2
-8.a
-16d
-16f#
-16a
-=3
-16a
-16a
-8ff#
-8ee
-=4
-4dd
-16cc#
-16dd}
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M3/8	*
+=1	=1
+{16a	Czemuś
+16a	.
+8d	ocz-
+8f#	-ka
+=2	=2
+8.a	za-
+16d	-pła-
+16f#	-ka-
+16a	-ła
+=3	=3
+16a	dziewucho
+16a	.
+8ff#	.
+8ee	mo-
+=4	=4
+(4dd	-ja?
+16cc#L	.
+16dd)J}	.
 !!LO:LB:g=esac
-=5
-{16ee
-16cc#
-8g
-8g
-=6
-16b
-16a
-8f#
-8f#
-=7
-16e
-16g
-8.b
-16a
-=8
-4dd
-16cc#
-16dd}
+=5	=5
+{16ee	Oj
+16cc#	tegom
+8g	.
+8g	ja
+=6	=6
+16b/	za-
+16a	-pła-
+8f#	-ka-
+8f#	-ła
+=7	=7
+16e	nie
+16g	bę-
+8.b/	-dę
+16a	two-
+=8	=8
+(4dd	-ja,
+16eeqL	.
+16ddqJ	.
+16cc#L	.
+16dd)J}	.
 !!LO:LB:g=esac
-=9
-{16ee
-16cc#
-8g
-8g
-=10
-16b
-16a
-8f#
-8f#
-=11
-16e
-16g
-8.b
-16a
-=12
-8.d
-16f#
-16f#
-16f#
-=13
-16e
-16g
-8.b
-16a
-=14
-8d}
-4r
-==
-*-
+=9	=9
+{16ee	oj
+16cc#	tegom
+8g	.
+8g	ja
+=10	=10
+16/b	za
+16a	pła-
+8f#	-ka-
+8f#	-ła,
+=11	=11
+16e	nie
+16g	bę-
+8.b/	-dę
+16a	two-
+=12	=12
+8.d	-ja
+16f#	da
+16f#	da-
+16f#	-na,
+=13	=13
+16e	nie
+16g	będę
+8.b/	.
+16a	twoja.
+=14	=14
+8d}	.
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Czemuś oczka zapłakała dziewucho moja?
+!!Oj tegom ja zapłakała nie będę twoja,
+!!oj tegom ja zapłakała nie będę twoja,
+!!da dana, nie będę twoja.
+!!@@END: VERSES
+!!!role-singer: Lover, Girl
+!!!role-listener: Girl, Lover
+!!!singer-sex: Male, Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=95 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 81} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 81}
 !!!page: 81
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-05

@@ -3,76 +3,92 @@
 !!!source: DWOK04
 !!!id: K0152
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{8f
-8f
-8g
-=2
-16dd
-16dd
-8cc
-8g
-=3
-16dd
-16dd
-8cc
-8g
-=4
-8f
-8c}
-8r
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{8f	Zo-
+8f	-ba-
+8g	-czysz-ci
+=2	=2
+8b-q	.
+16dd	ko-
+16dd	-chaneczko
+8cc	.
+8g	.
+=3	=3
+8b-q	.
+16dd	że
+16dd	cię
+8cc	Bóg
+8g	ska-
+=4	=4
+8fL	-rze,
+8cJ}	.
+8r	.
 !!LO:LB:g=esac
-=5
-{8f
-8f
-8g
-=6
-16b-
-16dd
-8cc
-8g
-=7
-16b-
-16dd
-8.cc
-16g
-=8
-4f}
-8r
+=5	=5
+{8f	da
+8f	czy
+8g	nam-to
+=6	=6
+16b-	tak
+16dd	nieła-
+8cc	.
+8g	-dnie
+=7	=7
+16b-	oboj-
+16dd	.
+8.cc	-gu
+16g	w_pa-
+=8	=8
+4f}	-rze.
+8r	.
 !!LO:LB:g=esac
-=9
-{4f
-8g
-=10
-16a
-16a
-8b-
-8g
-=11
-4f
-8g
-=12
-16a
-16a
-8.b-
-16g
-=13
-16b-
-16dd
-8.cc
-16g
-=14
-4f}
-8r
-==
-*-
+=9	=9
+{4f	Da
+8g	czy-to
+=10	=10
+16a	ja
+16a	ka-
+8b-/	-li-
+8g	-ka,
+=11	=11
+4f	czy
+8g	nie
+=12	=12
+16a	mom
+16a	.
+8.b-/	wąsi-
+16g	-ka,
+=13	=13
+16b-	co
+16dd	me
+8.cc	nie
+16g	lu-
+=14	=14
+4f}	-bisz.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Zobaczyszci kochaneczko
+!!że cię Bóg skarze,
+!!da czy nam to tak nieładnie
+!!obojgu w parze.
+!!Da czy to ja kalika,
+!!czy nie mom wąsika,
+!!co me nie lubisz.
+!!@@END: VERSES
+!!!role-singer: Lover, Mistress
+!!!role-listener: Mistress, Lover
+!!!singer-sex: Male, Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=100 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 86} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 86}
 !!!page: 86
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-05

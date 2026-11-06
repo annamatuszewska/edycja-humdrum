@@ -3,80 +3,90 @@
 !!!source: DWOK04
 !!!id: K0123
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16b
-8dd
-8cc#
-=2
-8ee
-16ff#
-16ee
-8dd
-=3
-16cc#
-16dd
-8.ee
-16a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	A
+16b	którę-
+8ddL	.
+8cc#J	.
+=2	=2
+8ee	-dyk
+16ff#L	ty
+16eeJ	.
+8dd	Ja-
+=3	=3
+16cc#L	-siu
+16ddJ	.
+8.ee	je-
+16a};	-dziesz?
 !!LO:LB:g=esac
-=4
-{16g
-16b
-8dd
-[8cc#
-=5
-8cc#]
-8dd
-[8g
-=6
-8g]
-16a
-16f#
-8d
-=7
-16g
-16a
-8b
-[8g
-=8
-8g]
-16cc
-16b
-8a}
+=4	=4
+{16g	czy
+16b	po
+8dd	za
+[8cc#L	pło-
+=5	=5
+8cc#]J	.
+8dd	-ciu
+[8gL	czy
+=6	=6
+8g]J	.
+16aL	przez
+16f#J	.
+8d	wieś.
+=7	=7
+16g	Ja
+16a	jadę
+8b/	.
+[8gL	dro-
+=8	=8
+8g]J	.
+16ccL	-ga-
+16bJ	.
+8a}	-my,
 !!LO:LB:g=esac
-=9
-{16g
-16a
-8b
-[8g
-=10
-8g]
-16cc
-16b
-8a
-=11
-16g
-16b
-8dd
-[8cc#
-=12
-8cc#]
-8dd
-[8g
-=13
-8g]
-16a
-16f#
-8d}
-==
-*-
+=9	=9
+{16g	ja
+16a	ja-
+8b	-dę
+[8gL	dro-
+=10	=10
+8g]J	.
+16ccL	-ga-
+16bJ	.
+8a\	-my,
+=11	=11
+16g	którędyk
+16b/	.
+8dd	.
+[8cc#L	ja-
+=12	=12
+8cc#J]	.
+8dd	-dą
+[8gL	fur-
+=13	=13
+8gJ]	.
+16aL	-ma-
+16f#J	.
+8d}	-ni.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A którędyk ty Jasiu jedziesz?
+!!czy po za płociu czy przez wieś.
+!!Ja jadę drogamy,
+!!ja jadę drogamy,
+!!którędyk jadą furmani.
+!!@@END: VERSES
+!!!role-singer: Narrator, Boy
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=88 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 74} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 74}
 !!!page: 74
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-04

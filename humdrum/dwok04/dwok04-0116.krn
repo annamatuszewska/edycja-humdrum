@@ -3,90 +3,100 @@
 !!!source: DWOK04
 !!!id: K0116
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*e:
-*M3/8
-=1
-{16b
-16cc#
-8dd#
-8b
-=2
-16a
-16g
-8f#
-8e
-=3
-16d#
-16e
-8g
-8a
-=4
-8b
-4f#}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*e:	*
+*M3/8	*
+=1	=1
+{16b	Wy-
+16cc#	-je-
+8dd#	-cha-
+8b	-łem
+=2	=2
+16a	na
+16g	po-
+8f#	-le-
+8e	-czko,
+=3	=3
+16d#	jeszcze
+16e	.
+8g	nie
+8a	był
+=4	=4
+(8b/	dzień,
+4f#)}	.
 !!LO:LB:g=esac
-=5
-{16b
-16cc#
-8dd#
-8b
-=6
-16a
-16g
-8f#
-8e
-=7
-16d#
-16e
-8f#
-8a
-=8
-4.e}
+=5	=5
+{16b	napotka-
+16cc#	.
+8dd#	.
+8b	-łem
+=6	=6
+16a	Ma-
+16g	-ry-
+8f#	-sień-
+8e	-kę
+=7	=7
+16d#	péle
+16e	.
+8f#	w_po-
+8a	-lu
+=8	=8
+4.e}	len.
 !!LO:LB:g=esac
-=9
-{16d#
-16e
-8g
-8a
-=10
-8.b
-32a
-32g
-16f#
-16e
-=11
-16d#
-16e
-8g
-8a
-=12
-8b
-4f#}
+=9	=9
+{16d#	A
+16e	ja
+8g	ci
+8a	się
+=10	=10
+8.b	Ma-
+32aL	-ryś
+32gJ	.
+16f#	kłoniam,
+16e	.
+=11	=11
+16d#	chcesz
+16e	.
+8g	ty
+8a	moją
+=12	=12
+(8b/	być?
+4f#)}	.
 !!LO:LB:g=esac
-=13
-{16d#
-16e
-8g
-8a
-=14
-8.b
-32a
-32g
-16f#
-16e
-=15
-16d#
-16e
-8f#
-8a
-=16
-4.e}
-==
-*-
+=13	=13
+{16d#	A
+16e	ja
+8g	ci
+8a	się
+=14	=14
+8.b	Ja-
+32aL	-siu
+32gJ	.
+16f#	kłoniam,
+16e	.
+=15	=15
+16d#	nie
+16e	umiem
+8f#	.
+8a	ro-
+=16	=16
+4.e}	-bić.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Wyjechałem na poleczko, jeszcze nie był dzień,
+!!napotkałem Marysieńkę péle w polu len.
+!!A ja ci się Maryś kłoniam, chcesz ty moją być?
+!!A ja ci się Jasiu kłoniam, nie umiem robić.
+!!@@END: VERSES
+!!!role-singer: Lover, Mistress
+!!!singer-sex: Male, Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=86 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 72} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 72}
 !!!page: 72
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-04

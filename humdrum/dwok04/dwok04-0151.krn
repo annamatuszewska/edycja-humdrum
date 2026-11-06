@@ -3,99 +3,115 @@
 !!!source: DWOK04
 !!!id: K0151
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16f#
-16b
-8dd
-8dd
-=2
-16dd
-16ee
-4cc
-=3
-16d
-16f#
-8a
-8b
-=4
-4g}
-8r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16f#	Ej
+16b	zoba-
+8dd	.
+8dd	-czysz
+=2	=2
+16dd	dziewucho,
+16ee	.
+4cc	.
+=3	=3
+16d	że
+16f#	cię
+8a	Bóg
+8b/	ska-
+=4	=4
+4g}	-rze,
+8r	.
 !!LO:LB:g=esac
-=5
-{16g
-16b
-8dd
-8dd
-=6
-16dd
-16ee
-4cc
-=7
-16d
-16f#
-8a
-8b
-=8
-4g}
-8r
+=5	=5
+{16g	że
+16b/	ty
+8dd	ze
+8dd	mną
+=6	=6
+16dd	psiajiucho,
+16ee	.
+4cc	.
+=7	=7
+16d	nie
+16f#	chcesz
+8a	żyć
+8b/	w_pa-
+=8	=8
+4g}	-rze.
+8r	.
 !!LO:LB:g=esac
-=9
-{16f#
-16a
-8a
-8a
-=10
-16g
-16a
-4b
-=11
-16f#
-16a
-8a
-8a
-=12
-16g
-16a
-4b}
+=9	=9
+{16f#	Czylim
+16a	.
+8a	chło-
+8a	-pak
+=10	=10
+16g	nie
+16a	młody,
+4b/	.
+=11	=11
+16f#	czy
+16a	to
+8a	ni
+8a	mom
+=12	=12
+16g	u-
+16a	-ro-
+4b}/	-dy,
 !!LO:LB:g=esac
-=13
-{16dd
-16cc
-8a
-8dd
-=14
-16g
-16b
-8b
-8dd
-=15
-16dd
-16cc
-8a
-8dd
-=16
-16g
-16b
-8b
-16dd
-16ee
-=17
-16dd
-16cc
-8a
-8dd
-=18
-4g}
-8r
-==
-*-
+=13	=13
+{16dd	czegóż
+16cc	.
+8a	więcy
+8dd	.
+=14	=14
+16g	chcesz
+16b/	dziewucho,
+8b	.
+8dd	.
+=15	=15
+16dd	czegóż
+16cc	.
+8a	więcy
+8dd	.
+=16	=16
+16g	chcesz
+16b	dziewucho
+8b	.
+16dd/L	.
+16ee/J	.
+=17	=17
+16dd	czegóż
+16cc	.
+8a	wię-
+8cc#q	.
+8dd	-cy
+=18	=18
+4g}	chcesz.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Ej zobaczysz dziewucho,
+!!że cię Bóg skarze,
+!!że ty ze mną psiajiucho,
+!!nie chcesz żyć w parze.
+!!Czylim chłopak nie młody,
+!!czy to ni mom urody,
+!!czegóż więcy chcesz dziewucho,
+!!czegóż więcy chcesz.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Girl
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=100 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 86} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 86}
 !!!page: 86
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-05

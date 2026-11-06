@@ -3,74 +3,84 @@
 !!!source: DWOK04
 !!!id: K0149
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16e
-16g
-8b-
-8dd
-=2
-8cc
-8cc
-8b-
-=3
-16a
-16a
-8.g
-16e
-=4
-8f
-8f
-8c}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16e	W_ciemnym
+16g	.
+8b-	le-
+8dd	-sie
+=2	=2
+8cc	na
+8cc	dę-
+8b-	-bie,
+=3	=3
+8fq	.
+16a	kru-
+16a	-ka-
+8.g	-ły
+16e	tam
+=4	=4
+8f	go-
+8fL	-łę-
+8cJ}	-bie.
 !!LO:LB:g=esac
-=5
-{16e
-16g
-8b-
-8dd
-=6
-8cc
-8cc
-8b-
-=7
-16a
-16f
-8.b-
-16e
-=8
-8f
-8f
-16g
-16f}
+=5	=5
+{16e	A
+16g	ten
+8b-	je-
+8dd	-den
+=6	=6
+8cc	nie
+8cc	kru-
+8b-	-kał,
+=7	=7
+16a	co
+16f	panien-
+8.b-	.
+16e	-kę
+=8	=8
+8f	wy-
+8f	-słu-
+16gL	-chał.
+16f}J	.
 !!LO:LB:g=esac
-=9
-{16e
-16g
-8b-
-8dd
-=10
-8cc
-8cc
-16b-
-16g
-=11
-16a
-16f
-8.b-
-16e
-=12
-8f
-8f
-16g
-16f}
-==
-*-
+=9	=9
+{16e	A
+16g	ten
+8b-	je-
+8dd	-den
+=10	=10
+8cc	nie
+8cc	kru-
+16b-/L	-kał,
+16gJ	.
+=11	=11
+16a	co
+16f	panien-
+8.b-	.
+16e	-kę
+=12	=12
+8f	wy-
+8f	-słu-
+16gL	-chał.
+16fJ}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!W ciemnym lesie na dębie,
+!!krukały tam gołębie.
+!!A ten jeden nie krukał,
+!!co panienkę wysłuchał.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=99 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 85} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 85}
 !!!page: 85
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-05

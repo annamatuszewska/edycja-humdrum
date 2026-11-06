@@ -3,108 +3,118 @@
 !!!source: DWOK04
 !!!id: K0140
 !!!signature:
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M3/8
-=1
-{16f
-16a
-8cc
-8ee-
-=2
-16cc
-16a
-8b-
-8dd
-=3
-8ff
-8gg
-8cc}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M3/8	*
+=1	=1
+{16f	Kaj-
+16a	-ści
+8cc	my
+8ee-	się
+=2	=2
+16cc	ko-
+16a	-cha-
+8b-/	-ne-
+8dd	-czku
+=3	=3
+8ff	za-
+8gg	-ba-
+8cc}	-wił?
 !!LO:LB:g=esac
-=4
-{16f
-16a
-8cc
-8ee-
-=5
-16cc
-16a
-8b-
-8b-
-=6
-8dd
-8b-
-8b-}
+=4	=4
+{16f	coś
+16a	ci
+8cc	my
+8ee-	się
+=5	=5
+16cc	na
+16a	słóweczku
+8b-	.
+8b-	.
+=6	=6
+8dd	nie
+8b-	sta-
+8b-}	-wił.
 !!LO:LB:g=esac
-=7
-{16g
-16b-
-8dd
-8dd
-=8
-16cc
-16a
-8f
-8a
-=9
-8cc
-8dd
-8g}
+=7	=7
+{16gL	.
+16b-/J	.
+8ddL	.
+8ddJ	.
+=8	=8
+16ccL	.
+16a\J	.
+8fL	.
+8aJ	.
+=9	=9
+8ccL	.
+8ddJ	.
+8g}	.
 !!LO:LB:g=esac
-=10
-{16g
-16g
-8g
-8b-
-=11
-16cc
-16a
-8f
-8a
-=12
-8cc
-16dd
-16b-
-8g}
+=10	=10
+{16gL	.
+16gJ	.
+8gL	.
+8b-/J	.
+=11	=11
+16ccL	.
+16a\J	.
+8fL	.
+8aJ	.
+=12	=12
+8ccL	.
+16dd	.
+16b-J	.
+8g}	.
 !!LO:LB:g=esac
-=
-{8dd
-24cc
-24b-
-24a
-8g
-=13
-8cc
-16dd
-16b-
-8g
-=
-8dd
-24cc
-24b-
-24a
-8g}
+=13	=13
+{8dd	.
+*Xtuplet	*
+24ccL	.
+24b-	.
+24a\J	.
+8g	.
+=14	=14
+8ccL	.
+16dd	.
+16b-J	.
+8g	.
+=15	=15
+8dd	.
+24ccL	.
+24b-	.
+24a\J	.
+8g}	.
 !!LO:LB:g=esac
-=14
-{16f
-16a
-8cc
-8ee-
-=15
-16cc
-16a
-8b-
-8b-
-=16
-8dd
-8b-
-8b-}
-==
-*-
+=16	=16
+{16fL	.
+16aJ	.
+8ccL	.
+8ee-J	.
+=17	=17
+16ccL	.
+16a\J	.
+8b-/L	.
+8b-/J	.
+=18	=18
+8ddL	.
+8b-	.
+8b-}J	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Kajści my się kochaneczku zabawił?
+!!coś ci my się na słóweczku nie stawił.
+!!@@END: VERSES
+!!!role-singer: Girl
+!!!role-listener: Lover
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=95 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 81} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 81}
 !!!page: 81
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-05

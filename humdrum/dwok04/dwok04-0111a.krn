@@ -3,98 +3,108 @@
 !!!source: DWOK04
 !!!id: K0111a
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-=1
-*M3/8
-{16g
-16b
-8dd
-8dd
-=2
-16dd
-16ee
-8a
-8f#
-=
-!!UNCATEGORIZED MEASURE
-24d
-24f#
-24a
-16cc
-16b
-8f#
-=3
-*M3/8
-4g}
-8r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+=1	=1
+*M3/8	*
+{16g	A
+16b/	wyjrzyjcie
+8dd	.
+8dd	.
+=2	=2
+16dd	pacholi-
+16ee	.
+8a\	.
+8f#	-cy
+=3	=3
+(>24dL	za
+24f#	.
+24aJ)	ten
+16ccL	.
+16bJ	nowy
+8f#	.
+=4	=4
+*M3/8	*
+4g}	dwór,
+8r	.
 !!LO:LB:g=esac
-=4
-{16f#
-16a
-8a
-8cc
-=5
-16cc
-16b
-8g
-8d
-=6
-16f#
-16a
-16cc
-16b
-8f#
-=7
-4g}
-8r
+=5	=5
+{16f#	czyli
+16a	.
+8a	je-
+8cc	-dzie,
+=6	=6
+16cc	czy
+16b	nie
+8g	je-
+8d	-dzie
+=7	=7
+16f#	ko-
+16a	-cha-
+16ccL	-ne-
+16bJ	.
+8f#	-czek
+=8	=8
+4g}	mój.
+8r	.
 !!LO:LB:g=esac
-=8
-{8dd
-8dd
-8dd
-=9
-16dd
-16ee
-8a
-8d
-=
-!!UNCATEGORIZED MEASURE
-24d
-24f#
-24a
-16cc
-16b
-8f#
-=10
-*M3/8
-4.g}
+=9	=9
+{8dd	.
+8ddL	.
+8ddJ	.
+=10	=10
+16ddL	.
+16eeJ	.
+8aL	.
+8dJ	.
+=11	=11
+*Xtuplet	*
+24dL	.
+24f#	.
+24aJ	.
+16ccL	.
+16bJ	.
+8f#	.
+=12	=12
+*M3/8	*
+4.g}	.
 !!LO:LB:g=esac
-=11
-{16dd
-16cc
-8a
-8cc
-=12
-16dd
-16ee
-8.dd
-16b
-=13
-16dd
-16cc
-8a
-16cc
-16b
-=14
-4.g}
-==
-*-
+=13	=13
+{8bq	.
+16ddL	.
+16ccJ	.
+8a\L	.
+8ccJ	.
+=14	=14
+16ddL	.
+16eeJ	.
+8.ddL	.
+16bJ	.
+=15	=15
+16ddL	.
+16ccJ	.
+8a	.
+16ccL	.
+16bJ	.
+=16	=16
+4.g}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A wyjrzyjcie pacholicy za ten nowy dwór,
+!!czyli jedzie, czy nie jedzie kochaneczek mój.
+!!@@END: VERSES
+!!!RDF**kern: >= above
+!!!role-singer: Mistress
+!!!role-listener: Group
+!!!singer-sex: Female
 !!!ONB: Wariant 1
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=84 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 70} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 70}
 !!!page: 70
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-04

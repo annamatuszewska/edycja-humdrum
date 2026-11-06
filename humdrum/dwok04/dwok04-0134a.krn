@@ -3,65 +3,75 @@
 !!!source: DWOK04
 !!!id: K0134a
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16b
-16dd
-8cc
-8a
-=2
-8d
-8dd
-8b
-=3
-16b
-16dd
-8cc
-16a
-16f#
-=4
-16d
-16d
-8e
-8d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16b	Z_poniedział-
+16dd	.
+8cc	.
+8a	-ku
+=2	=2
+8d	na
+8dd/	święto
+8b/	.
+=3	=3
+16b	furmano-
+16dd	.
+8cc	.
+16aL	-wi
+16f#J	.
+=4	=4
+16d	konie
+16d	.
+8e	wzię-
+8d}	-to.
 !!LO:LB:g=esac
-=5
-{16a
-16a
-8a
-8cc
-=6
-16a
-16f#
-8d
-8d
-=7
-16e
-16f#
-4g}
+=5	=5
+{16a	Wzięto,
+16a	.
+8a	wzięto
+8ccM	.
+=6	=6
+16a	furmano-
+16f#	.
+8d	.
+8d	-wi
+=7	=7
+16eL	ko-
+16f#J	.
+4g}	-nie
 !!LO:LB:g=esac
-=8
-{16a
-16a
-8a
-8cc
-=9
-16a
-16f#
-8.a
-16g
-=10
-8e
-4d}
-==
-*-
+=8	=8
+8g#q	.
+{16a	a
+16a	ón
+8a	nie
+8ccM	wié
+=9	=9
+16a	którną
+16f#	.
+8.a	dro-
+16g	-gą
+=10	=10
+8e	po
+4d}	nie.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Z poniedziałku na święto
+!!furmanowi konie wzięto.
+!!Wzięto, wzięto furmanowi konie
+!!a ón nie wié którną drogą po nie.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!ONB: Wariant 1
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=92 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 78-79} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), pp. 78-79}
 !!!page: 78-79
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-05

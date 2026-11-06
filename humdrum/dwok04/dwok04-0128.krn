@@ -3,84 +3,103 @@
 !!!source: DWOK04
 !!!id: K0128
 !!!signature: 0412800000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=
-{24g
-24a
-24a
-8cc
-8dd
-=1
-16dd
-16ff
-8ee
-8cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Zalotny owczarski.	!
+!LO:TUP:b	!
+{(24gL	Jechał
+24aJ	.
+24a)	.
+8cc	Ja-
+8dd	-sio
+=2	=2
+16dd	od
+16ff	To-
+8ee	-ru-
+8cc}	-nia,
 !!LO:LB:g=esac
-=
-{24dd
-24ff
-24ff
-8dd
-16gg
-16ff
-=2
-8dd
-16dd
-16cc
-8a}
+=3	=3
+!LO:TUP:a	!
+{(24ddL	bu-
+24ffJ	.
+24ff)	-ry
+8dd	wą-
+16ggL	-sik
+16ffJ	.
+=4	=4
+8dd	ma
+16ddL	ma
+16ccJ	.
+8a}\	ma,
 !!LO:LB:g=esac
-=
-{24dd
-24ff
-24ff
-8dd
-16gg
-16ff
-=3
-4.dd}
+=5	=5
+!LO:TUP:a	!
+{(24ddL	bury
+24ffJ	.
+24ff)	.
+8dd	wą-
+16ggL	-sik
+16ffJ	.
+=6	=6
+4.dd}	ma.
 !!LO:LB:g=esac
-=
-{24g
-24a
-24a
-8cc
-8dd
-=4
-16g
-16b-
-8a
-8f}
+=7	=7
+!LO:TUP:b	!
+{(24gL	Wyjrzyj,
+24aJ)	.
+24a	.
+8cc	wyjrzyj
+8dd	.
+=8	=8
+16g	Marysieńko
+16b-/	.
+8a	.
+8f}	.
 !!LO:LB:g=esac
-=
-{24g
-24b-
-24b-
-8g
-16cc
-16b-
-=5
-8g
-16g
-16b-
-8dd}
+=9	=9
+!LO:TUP:b	!
+{(24gL	czy
+24b-/J	ci
+24b-/)	się
+8g	u-
+16ccL	.
+16b-J	.
+=10	=10
+8g	-da
+16gL	da
+16b-/J	.
+8dd};	da,
 !!LO:LB:g=esac
-=
-{24g
-24b-
-24b-
-8g
-16cc
-16b-
-=6
-4.g}
-==
-*-
+=11	=11
+!LO:TUP:b	!
+{(24gL	czy
+24b-/J	.
+24b-/)	ci
+8g	się
+16ccL	u-
+16b-J	.
+=12	=12
+4.g}	-da.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Jechał Jasio od Torunia,
+!!bury wąsik ma ma ma,
+!!bury wąsik ma.
+!!Wyjrzyj, wyjrzyj Marysieńko
+!!czy ci się uda da da,
+!!czy ci się uda.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!role-listener: Girl
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=90 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 76} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 76}
 !!!page: 76
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-05

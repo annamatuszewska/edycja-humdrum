@@ -3,71 +3,82 @@
 !!!source: DWOK04
 !!!id: K0156
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/4
-=1
-{8f
-8g
-4.a
-8b-
-=2
-8cc
-8dd
-8cc
-8b
-8cc
-8dd}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/4	*
+=1	=1
+{8f	Po-
+8g	-daj
+4.a	rącz-
+8b-/	-kę
+=2	=2
+8cc	Fra-
+8dd	-nu-
+8cc	-leń-
+8b	-ku
+8cc	mo-
+8dd}	-ja,
 !!LO:LB:g=esac
-=3
-{8cc
-8dd
-8cc
-8b
-8cc
-8dd
-=4
-8cc
-16dd
-16ee
-4.ff
-8ee
-=5
-8dd
-8dd
-2cc}
+=3	=3
+{8cc	Fra-
+8dd	-nu-
+8cc	-leń-
+8b	-ku
+8cc	mo-
+8dd	-ja,
+=4	=4
+8ccL	po-
+16dd	.
+16eeJ	.
+(4.ff	-daj
+8ee)	.
+=5	=5
+8dd	mi
+8dd	drugą,
+2cc}	.
 !!LO:LB:g=esac
-=6
-{8cc
-16dd
-16ee
-8ff
-8cc
-8a
-8f
-=7
-8dd
-8cc
-8dd
-8cc
-8b-
-8a
-=8
-8g
-8a
-4.b-
-8a
-=9
-8g
-8g
-4f}
-4r
-==
-*-
+=6	=6
+{8ccL	bo
+16dd	.
+16eeJ	.
+8ff	już
+8cc	ja
+8a	ja-
+8f	-dę
+=7	=7
+8dd	Franu-
+8cc	.
+8dd	-leń-
+8cc	-ku
+8b-/	mo-
+8a	-ja
+=8	=8
+8gL	w_tę
+8aJ	dro-
+(4.b-/	.
+8a)	.
+=9	=9
+8g	-gę
+8g	dłu-
+4f}	-gą.
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Podaj rączkę Franuleńku moja,
+!!Franuleńku moja, podaj mi drugą,
+!!bo już ja jadę Franuleńku moja
+!!w tę drogę długą.
+!!@@END: VERSES
+!!!role-singer: Lover
+!!!role-listener: Mistress
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=102 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 88} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 88}
 !!!page: 88
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-05

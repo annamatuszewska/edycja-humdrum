@@ -3,79 +3,91 @@
 !!!source: DWOK04
 !!!id: K0154
 !!!signature: 0415400000
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{4dd
-8dd
-8cc
-8b
-8a
-=2
-8b
-8cc
-2dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{4dd	Weź-
+8dd	-że
+8cc	mnie
+8b/	Jasiu,
+8a	.
+=2	=2
+8b	weźże
+8cc	.
+2dd}	mnie,
 !!LO:LB:g=esac
-=3
-{4ee
-8dd
-8cc
-8b
-8g
-=4
-8a
-8f#
-4g}
-4r
+=3	=3
+{4ee	da
+8dd	nam
+8cc	matula
+8b/	.
+8g	.
+=4	=4
+8a	pierzynę.
+8f#	.
+4g}	.
+4r	.
 !!LO:LB:g=esac
-=5
-{8d
-8f#
-8g
-8b
-8a
-8g
-=6
-8d
-8f#
-8g
-8b
-8a
-8g}
+=5	=5
+{8d	Pie-
+8f#	-rzy-
+8g	-nę
+8b/	pu-
+8a	-cho-
+8g	-wą,
+=6	=6
+8d	sto
+8f#	zło-
+8g	-tych
+8b/	go-
+8a	-to-
+8g}	-wo,
 !!LO:LB:g=esac
-=7
-{8.d
-16f#
-8g
-8b
-8a
-8g
-=8
-8.d
-16f#
-8g
-8b
-8a
-8g}
+=7	=7
+{8.d	skrzynię
+16f#	.
+8g	malo-
+8b/	.
+8a	-wa-
+8g	-ną,
+=8	=8
+8.d	Ka-
+16f#	-si-
+8g	-nę
+8b/	ko-
+8a	-cha-
+8g}	-ną,
 !!LO:LB:g=esac
-=9
-{4dd
-8dd
-8cc
-8b
-8g
-=10
-8a
-8f#
-4g}
-4r
-==
-*-
+=9	=9
+{4dd	weź
+8dd	że
+8cc	mnie
+8b/	Ja-
+8g	-siu,
+=10	=10
+8a	weź
+8f#	że
+4g}	mnie.
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Weźże mnie Jasiu, weźże mnie,
+!!da nam matula pierzynę.
+!!Pierzynę puchową, sto złotych gotowo,
+!!skrzynię malowaną, Kasinę kochaną,
+!!weź że mnie Jasiu, weź że mnie.
+!!@@END: VERSES
+!!!role-singer: Girl
+!!!role-listener: Boy
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=101 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 87} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 87}
 !!!page: 87
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-05
