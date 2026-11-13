@@ -10,33 +10,34 @@
 *M6/8
 =1
 {8f
-16b-
+16b-L
 16dd
-8ff
+8ffJ
 8f
-16b-
+16b-L
 16dd
-8ff
+8ffJ
 =2
-8dd
+8ddL
 8cc
-8b-
+8b-J
+8ccq
 4b-
 8a}
 !!LO:LB:g=esac
 =3
 {8f
-16a
+16a\L
 16cc
-8ee-
+8ee-J
 8a
-16cc
+16ccL
 16ee-
-8gg
+8ggJ
 =4
-8f
+8fL
 8g
-8a
+8aJ
 4.b-}
 ==
 *-
@@ -46,3 +47,5 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=120 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 106-107} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), pp. 106-107}
 !!!page: 106-107
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-13

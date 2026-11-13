@@ -3,117 +3,133 @@
 !!!source: DWOK04
 !!!id: K0173
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16b
-16b
-8dd
-8dd
-=2
-16ee
-16ee
-8.dd
-16g
-=3
-16b
-16b
-8a
-8cc
-=4
-4g}
-8r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16b	Po-
+16b	-có-
+8dd	-żeś
+8dd	me
+=2	=2
+16ee	ma-
+16ee	-tu-
+8.dd	-liń-
+16g	-ku
+=3	=3
+16b/	za
+16b/	mąż
+8a	nie
+8cc	da-
+=4	=4
+4g}	-ła,
+8r	.
 !!LO:LB:g=esac
-=5
-{16b
-16b
-8dd
-8dd
-=6
-16ee
-16ee
-8dd
-8a
-=7
-16b
-16b
-8a
-8cc
-=8
-4g}
-8r
+=5	=5
+{16b	kiedy
+8aq	.
+16b	.
+8dd	ja
+8dd	się
+=6	=6
+16ee	te-
+16ee	-go
+8dd	ro-
+8a	-czku
+=7	=7
+16b	opo-
+16b	.
+8a\	-wia-
+8cc	-da-
+=8	=8
+4g}	-ła.
+8r	.
 !!LO:LB:g=esac
-=9
-{4a
-16cc
-16g
-=10
-16a
-16b
-8dd
-8a}
+=9	=9
+{4a	Daj
+16cLc	me
+16g\J	.
+=10	=10
+16a	le-
+16b/	-da
+8dd	chło-
+8a}\	-pu,
 !!LO:LB:g=esac
-=11
-{4a
-16cc
-16g
-=12
-16a
-16b
-8dd
-8a
-=13
-16b
-16b
-8a
-8cc
-=14
-4g}
-8r
+=11	=11
+{4a	po-
+16ccnL	-zbę-
+16g\J	.
+=12	=12
+16a	-dziesz
+16b/	.
+8dd	chłopotu
+8a\	.
+=13	=13
+16b	ma-
+16b	-tu-
+8a	-lu
+8cc	mo-
+=14	=14
+4g}	-ja.
+8r	.
 !!LO:LB:g=esac
-=
-{4a
-24a
-24b
-24cc
-=
-24g
-24a
-24b
-16dd
-16cc#
-16a
-16g}
+=15	=15
+{4a	.
+*Xtuplet	*
+24aL	.
+24b/	.
+24cc/J	.
+=16	=16
+24gL	.
+24a/	.
+24b/J	.
+16ddL	.
+16cc#J	.
+16aL	.
+16g}J	.
 !!LO:LB:g=esac
-=
-{4a
-24a
-24b
-24cc
-=
-24g
-24a
-24b
-16dd
-16cc#
-16a
-16g
-=15
-16b
-16b
-16a
-16g
-16b
-16cc
-=16
-4.g}
-==
-*-
+=17	=17
+{4a	.
+24a\L	.
+24b	.
+24ccJ	.
+=18	=18
+24gL	.
+24a	.
+24b/J	.
+16ddL	.
+16cc#J	.
+16aL	.
+16gJ	.
+=19	=19
+16bL	.
+16bJ	.
+16aL	.
+16gJ	.
+16bL	.
+16ccJ	.
+=20	=20
+4.g}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Pocóżeś me matulińku za mąż nie dała,
+!!kiedy ja się tego roczku opowiadała.
+!!Daj me leda chłopu, pozbędziesz chłopotu
+!!matulu moja.
+!!@@END: VERSES
+!!!role-singer: Daughter
+!!!role-listener: Mother
+!!!singer-sex: Female
+!!@@BEGIN:
+!!@COMMENTARY: mel. v. N. 93.
+!!@@END:
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=109 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 95-96} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), pp. 95-96}
 !!!page: 95-96
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-12

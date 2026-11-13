@@ -3,63 +3,74 @@
 !!!source: DWOK04
 !!!id: K0179
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*F:
-*M6/8
-=1
-{8g
-8b-
-8dd
-4dd
-8cc
-=2
-8cc
-8b
-8cc
-4dd
-8g
-=3
-8g
-8b-
-8dd
-4dd
-8cc
-=4
-8a
-8g
-8a
-4b-
-8g}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M6/8	*
+=1	=1
+{8gL	Na
+8b-/J	.
+8dd	roka-
+4dd	.
+8cc	-cie
+=2	=2
+8ccL	biał-
+8bJ	-ne
+8cc	kwiecie
+4dd	.
+8g\	.
+=3	=3
+8gL	po-
+8b-/J	.
+8dd	-wi-
+8eeq	.
+4dd	-ja-
+8cc	-ła
+=4	=4
+8aL	ma-
+8gJ	.
+8a	-łe
+4b-/	dziecie.
+8g}	.
 !!LO:LB:g=esac
-=5
-{8g
-8a
-8f
-4f
-8d
-=6
-4d
-8d
-4g
-8c
-=7
-8g
-8a
-8f
-4f
-8d
-=8
-8d
-8c#
-8d
-4e
-8c}
-==
-*-
+=5	=5
+{8gL	Po-
+8aJ	.
+8f	-wi-
+4f	-ja-
+8d	-ła
+=6	=6
+4d	i
+8d	płaka-
+4g	.
+8c	-ła:
+=7	=7
+8gL	cze-
+8aJ	.
+8f	-go
+4f	ja
+8d	téż
+=8	=8
+8dL	do-
+8c#J	.
+8d	-cze-
+4e	-ka-
+8c}	-ła.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Na rokacie białne kwiecie
+!!powijała małe dziecie.
+!!Powijała i płakała:
+!!czego ja téż doczekała.
+!!@@END: VERSES
+!!!role-singer: Narrator, Woman
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=111 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 97} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 97}
 !!!page: 97
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-12

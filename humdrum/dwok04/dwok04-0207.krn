@@ -3,44 +3,52 @@
 !!!source: DWOK04
 !!!id: K0207
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{8cc
-8dd
-8ee
-8cc
-=2
-8dd
-8b
-4cc
-=3
-8cc
-8dd
-8ee
-8ee}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+=1	=1
+{8cc	Na-
+8dd	-gó-
+8ee	-recz-
+8cc	-ce
+=2	=2
+8dd	mły-
+8b	-ni-
+4cc	-cek,
+=3	=3
+8cc	na
+8dd	gó-
+8ee	-recz-
+8ee}	-ce
 !!LO:LB:g=esac
-=4
-{8ff
-8dd
-8ee
-8ee
-=5
-8dd
-8cc
-8a
-8a
-=6
-8cc
-8a
-4g}
-==
-*-
+=4	=4
+{8ff	lidźber
+8dd	.
+8ee	lidź-
+8ee	-ber
+=5	=5
+8dd	tom
+8cc	com
+8a	com
+8a	ber,
+=6	=6
+8cc	mły-
+8a	-ni-
+4g}	-cek
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Nagóreczce młynicek,
+!!na góreczce lidźber lidźber
+!!tom com com ber, młynicek
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=122 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 108} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 108}
 !!!page: 108
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-13

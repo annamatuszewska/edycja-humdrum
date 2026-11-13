@@ -3,131 +3,148 @@
 !!!source: DWOK04
 !!!id: K0195
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16ff
-16ff
-8ee
-8dd
-=2
-4cc
-16dd
-16ee
-=3
-16ff
-16ff
-8ee
-8dd
-=4
-4cc
-8dd}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{8eeq	.
+16ff	Có-
+16ff	-ruchno,
+8ee	.
+8dd	A-
+=2	=2
+4cc	-nuch-
+16ddL	-no,
+16eeJ	.
+=3	=3
+16ff	co
+16ff	w_pokoju
+8ee	.
+8dd	.
+=4	=4
+4cc	stu-
+8dd}	-ka?
 !!LO:LB:g=esac
-=5
-{16ee
-16cc
-8b-
-8g
-=6
-16g
-16cc
-8a
-8f
-=7
-8a
-16a
-16g
-16a
-16b-
-=8
-4cc
-8dd}
+=5	=5
+{16ee	Ma-
+16cc	-tu-
+8b-	-liń-
+8g	-ku
+=6	=6
+16g	do-
+16cc	-bro-
+8a	-dziéj-
+8f	-ko,
+=7	=7
+8a	ko-
+8b-q	.
+16aL	-tek
+16gJ	.
+16a	Myszki
+16b-	.
+=8	=8
+4cc	szuka.
+8dd}	.
 !!LO:LB:g=esac
-=9
-{16ee
-16cc
-8b-
-8g
-=10
-16g
-16cc
-8a
-8f
-=11
-8f
-16a
-16g
-16a
-16b-
-=12
-4cc
-8dd}
+=9	=9
+{16ee	Ma-
+16cc	-tu-
+8b-	-liń-
+8g	-ku
+=10	=10
+16g	do-
+16cc	-bro-
+8a	-dzij-
+8f	-ko,
+=11	=11
+8f\	ko-
+16aL	-tek
+16g	.
+16a	myszki
+16b/-J	.
+=12	=12
+4cc	szuka.
+8dd}	.
 !!LO:LB:g=esac
-=13
-{16ff
-16ff
-8ee
-8dd
-=14
-4cc
-16dd
-16ee
-=15
-16ff
-16ff
-8ee
-8dd
-=16
-4cc
-8dd}
+=13	=13
+{8eeq	.
+16ff	Có-
+16ff	-ruchno,
+8ee	.
+8dd	A-
+=14	=14
+4cc	-nuch-
+16ddL	-no,
+16eeJ	.
+=15	=15
+16ff	co
+16ff	w_pokoju
+8ee	.
+8dd	.
+=16	=16
+4cc	stu-
+8dd}	-ka?
 !!LO:LB:g=esac
-=17
-{16ee
-16cc
-8b-
-8g
-=18
-16g
-16cc
-8a
-8f
-=19
-8a
-16a
-16g
-16a
-16b-
-=20
-4cc
-8dd}
+=17	=17
+{16ee	Ma-
+16cc	-tu-
+8b-	-liń-
+8g	-ku
+=18	=18
+16g	do-
+16cc	-bro-
+8a	-dziéj-
+8f	-ko,
+=19	=19
+8a	ko-
+8b-q	.
+16aL	-tek
+16gJ	.
+16a	Myszki
+16b-	.
+=20	=20
+4cc	szuka.
+8dd}	.
 !!LO:LB:g=esac
-=21
-{16ee
-16cc
-8b-
-8g
-=22
-16g
-16cc
-8a
-8f
-=23
-16a
-16a
-16a
-16g
-16a
-16b-
-=24
-4cc
-8dd}
-==
-*-
+=21	=21
+{16ee	Ma-
+16cc	-tu-
+8b-	-liń-
+8g	-ku
+=22	=22
+16g	do-
+16cc	-bro-
+8a	-dzij-
+8f	-ko,
+=23	=23
+16aL	ko-
+16aJ	-tek
+16aL	myszki
+16g	.
+16a	.
+16b-/J	.
+=24	=24
+4cc	szuka.
+8dd}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Córuchno, Anuchno,
+!!co w pokoju stuka?
+!!Matulińku dobrodziéjko,
+!!kotek Myszki szuka.
+!!Matulińku dobrodzijko,
+!!kotek myszki szuka.
+!!@@END: VERSES
+!!!role-singer: Mother, Daughter
+!!!role-listener: Mother, Daughter
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=118 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 104} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 104}
 !!!page: 104
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-13

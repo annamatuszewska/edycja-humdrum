@@ -3,58 +3,69 @@
 !!!source: DWOK04
 !!!id: K0205
 !!!signature:
-**kern
-*clefG2
-*k[b-e-a-]
-*E-:
-*M3/8
-=1
-{16g
-16g
-8g
-8g
-=2
-16b-
-16a-
-8a-
-8a-
-=3
-16f
-16dd
-16dd
-16f
-8a-
-=4
-16g
-16ee-
-16ee-
-16g
-8b-}
+**kern	**text
+*clefG2	*
+*k[b-e-a-]	*
+*E-:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Walc Mieszczański	!
+{16g	W_dę-
+16g	-bi-
+8g	-nie
+8g	ja
+=2	=2
+16b-	woł-
+16a-	-ki
+8a-	pa-
+8a-	-sła
+=3	=3
+16f	rom-
+16dd	-ti
+16dd	ri
+16f	de
+8a-	ra
+=4	=4
+16g	rom-
+16ee-	-ti
+16ee-	ri
+16g	de
+8b-}	ra
 !!LO:LB:g=esac
-=5
-{16g
-16g
-8g
-8g
-=6
-16b-
-16a-
-8a-
-8a-
-=7
-16f
-16dd
-16dd
-16f
-16f
-16dd
-=8
-4ee-}
-8r
-==
-*-
+=5	=5
+{16g	W_dę-
+16g	-bi-
+8g	-nie
+8g	mnie
+=6	=6
+16b-	noc-
+16a-	-ka
+8a-	za-
+8a-	-szła
+=7	=7
+16f	rom-
+16dd	-ti
+16dd	ri
+16f	de
+16f	ri
+16dd	de
+=8	=8
+4ee-}	ra.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!W dębinie ja wołki pasła
+!!romti ri de ra romti ri de ra
+!!W dębinie mnie nocka zaszła
+!!romti ri de ri de ra.
+!!@@END: VERSES
+!!!role-singer: Woman
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=121 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 107} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 107}
 !!!page: 107
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-13

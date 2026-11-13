@@ -3,49 +3,89 @@
 !!!source: DWOK04
 !!!id: K0190
 !!!signature: 0419000000
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{8g
-8cc
-8cc
-8ee
-=2
-8dd
-8b
-4g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+=1	=1
+{8g	Z_tamtéj
+8cc	.
+8cc	strony
+8ee	.
+=2	=2
+8dd	ję-
+8b	-zio-
+4g}	-ra,
 !!LO:LB:g=esac
-=3
-{8dd
-8dd
-8dd
-8ff
-=4
-8ee
-8ee
-16cc
-16ee
-8gg}
+=3	=3
+{8dd	z_tamtéj
+8dd	.
+8dd	stro-
+8ff	-ny
+=4	=4
+8ee	lip-
+8ee	-cem
+16cc	ja-
+16ee	-wo-
+8gg}	-rem,
 !!LO:LB:g=esac
-=5
-{8dd
-8dd
-16cc
-16ee
-8gg
-=6
-16gg
-16cc
-16b
-16g
-4cc}
-==
-*-
+=5	=5
+{8dd	Wojtek
+8dd	.
+16cc	za
+16ee	bo-
+8gg	-rem
+=6	=6
+16gg/L	ję-
+16cc/J	.
+16b/L	-zio-
+16gJ	.
+4cc};	-ra.
+=7	=7
+{8g	Z_tamtéj
+8cc	.
+8cc	strony
+8ee	.
+=8	=8
+8dd	ję-
+8b	-zio-
+4g}	-ra,
+!!LO:LB:g=esac
+=9	=9
+{8dd	z_tamtéj
+8dd	.
+8dd	stro-
+8ff	-ny
+=10	=10
+8ee	lip-
+8ee	-cem
+16cc	ja-
+16ee	-wo-
+8gg}	-rem,
+!!LO:LB:g=esac
+=11	=11
+{8dd	Wojtek
+8dd	.
+16cc	za
+16ee	bo-
+8gg	-rem
+=12	=12
+8gg\	ję-
+8g\	-zio-
+4cc};	-ra.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Z tamtéj strony jęziora,
+!!z tamtéj strony lipcem jaworem,
+!!Wojtek za borem jęziora.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=116 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 102} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 102}
 !!!page: 102
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-13

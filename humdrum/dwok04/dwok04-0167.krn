@@ -3,115 +3,125 @@
 !!!source: DWOK04
 !!!id: K0167
 !!!signature:
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16a
-16cc
-8cc
-8dd
-=2
-4a
-8a
-=3
-16dd
-16ee
-8ff
-8ee
-=4
-8gg
-4ee}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{16a	A
+16cc	jak
+8cc	ci
+8dd	ja
+=2	=2
+4a\	by-
+8a\	-łam
+=3	=3
+16dd	nadobną
+16ee	.
+8ff	.
+8ee	dzié-
+=4	=4
+8gg	-weczką,
+4ee}	.
 !!LO:LB:g=esac
-=5
-{16dd
-16ee
-8ff
-8ee
-=6
-16dd
-16ee
-16cc
-16b
-8a
-=7
-16a
-16cc
-8cc
-8dd
-=8
-4a
-8a}
+=5	=5
+{16dd	hej
+16ee	to
+8ff	widzie-
+8ee	.
+=6	=6
+16dd	-li
+16ee	mnie
+16cLc	lu-
+16bJ	.
+8a	-dzie
+=7	=7
+16a	świdrową
+16cc	.
+8cc	.
+8dd	dziu-
+=8	=8
+4a	-recz-
+8a}	-ką.
 !!LO:LB:g=esac
-=9
-{16a
-16cc
-16cc
-16dd
-16ff
-16ee
-=10
-16cc
-16b
-8a
-16b
-16cc
-=11
-16dd
-16ee
-8ff
-8ee
-=12
-8gg
-8ee
-8cc}
+=9	=9
+{16a	A
+16cc	jak
+16cc/L	ci
+16dd/J	.
+16ff/L	ja
+16ee/J	.
+=10	=10
+16ccL/	by-
+16b/J	.
+8aL	-łam
+16b/	.
+16cc/J	.
+=11	=11
+16dd	nadobną
+16ee	.
+8ff	.
+8ee	dzié-
+=12	=12
+8gg	-weczką,
+8ee/L	.
+8cc}/J	.
 !!LO:LB:g=esac
-=13
-{16dd
-16ee
-8ff
-8ee
-=14
-16dd
-16ee
-16cc
-16b
-8a
-=15
-16a
-16cc
-8cc
-8dd
-=16
-4a
-8a}
+=13	=13
+{16dd	hej
+16ee	to
+8ff	widzie-
+8ee	.
+=14	=14
+16dd	-li
+16ee	mnie
+16ccL	lu-
+16bJ	.
+8a	-dzie
+=15	=15
+16a	świdrową
+16cc	.
+8cc	.
+8dd	dziu-
+=16	=16
+4a	-recz-
+8a}	-ką.
 !!LO:LB:g=esac
-=17
-{16g
-16a
-16f
-16e
-8d
-=18
-16e
-16g
-8g
-8a
-=19
-16e
-16a
-8f
-8d
-=20
-8e
-8g
-8a}
-==
-*-
+=17	=17
+{16gL	.
+16aJ	.
+16fL	.
+16e	.
+8dJ	.
+=18	=18
+16eL	.
+16g	.
+8g	.
+8aJ	.
+=19	=19
+16eL	.
+16aJ	.
+8fL	.
+8dJ	.
+=20	=20
+8e	.
+8gL	.
+8a}J	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A jak ci ja byłam
+!!nadobną dziéweczką,
+!!hej to widzieli mnie ludzie
+!!świdrową dziureczką.
+!!@@END: VERSES
+!!!role-singer: Girl
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=106 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 92-93} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), pp. 92-93}
 !!!page: 92-93
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-12

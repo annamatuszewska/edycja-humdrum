@@ -3,168 +3,184 @@
 !!!source: DWOK04
 !!!id: K0164
 !!!signature:
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M2/4
-=1
-{8f
-8f
-4b-
-=2
-8f
-8f
-8dd
-8b-
-=3
-8f
-8f
-8b-
-8dd
-=4
-4ff
-4ee-}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M2/4	*
+=1	=1
+!LO:TX:a:t=Polka.	!
+{8f	A
+8f	dzień
+4b-	do
+=2	=2
+8f	bry
+8f	panien-
+8dd	.
+8b-	-ce,
+=3	=3
+8f	gdzie
+8f	panna
+8b-	.
+8dd	wę-
+=4	=4
+4ff	-dru-
+4ee-}	-je?
 !!LO:LB:g=esac
-=5
-{8dd
-8dd
-8ee-
-8cc
-=6
-8dd
-8dd
-8f
-8b-
-=7
-8a
-8a
-8f
-8a
-=8
-4cc
-4b-}
+=5	=5
+{8dd	Tam
+8dd	do
+8ee-	bo-
+8cc	-ru
+=6	=6
+8dd	na
+8dd	ja-
+8f	-go-
+8b-/	-dy,
+=7	=7
+8a	gdzie
+8a	waspan
+8f	.
+8a	po-
+=8	=8
+4cc	-lu-
+4b-}	-je.
 !!LO:LB:g=esac
-=9
-{8f
-8f
-8b-
-8f
-=10
-8f
-8f
-8dd
-8b-
-=11
-8f
-8f
-8b-
-8dd
-=12
-4ff
-8ee-
-8cc}
+=9	=9
+{8f	A
+8f	dzień
+8b-/L	do
+8fJ	.
+=10	=10
+8f	bry
+8f	panien-
+8dd	.
+8b-	-ce,
+=11	=11
+8f	gdzie
+8f	panna
+8b-	.
+8dd	wę-
+=12	=12
+4ff	-dru-
+8ee/-L	-je?
+8cc}/J	.
 !!LO:LB:g=esac
-=13
-{8dd
-8dd
-8ee-
-8cc
-=14
-8dd
-8dd
-8f
-8b-
-=15
-8a
-8a
-8f
-8a
-=16
-4cc
-4b-}
+=13	=13
+{8dd	Tam
+8dd	do
+8ee-	bo-
+8cc	-ru
+=14	=14
+8dd	na
+8dd	ja-
+8f	-go-
+8b-/	-dy,
+=15	=15
+8a	gdzie
+8a	waspan
+8f	.
+8a	po-
+=16	=16
+4cc	-lu-
+4b-}	-je.
 !!LO:LB:g=esac
-=17
-{4f
-4b-
-=18
-4f
-4dd
-=19
-8f
-8f
-16b-
-16f
-16b-
-16dd
-=20
-4ff
-4ee-}
+=17	=17
+!LO:TX:a:t=Skrzypce.	!
+{4f	.
+4b-	.
+=18	=18
+4f	.
+4dd	.
+=19	=19
+8fL	.
+8fJ	.
+16bL-	.
+16f\	.
+16b-	.
+16ddJ	.
+=20	=20
+4ff	.
+4ee-}	.
 !!LO:LB:g=esac
-=21
-{8dd
-8gg
-8.ff
-16ee-
-=22
-8dd
-8dd
-8.f
-16b-
-=23
-8a
-8a
-8f
-8a
-=24
-4cc
-8b-}
-8r
+=21	=21
+{8ddL	.
+8ggJ	.
+8.ffL	.
+16ee-J	.
+=22	=22
+8ddL	.
+8ddJ	.
+8.fL	.
+16b-/J	.
+=23	=23
+8aL	.
+8b-q	.
+8aJ	.
+8fL	.
+8aJ	.
+=24	=24
+4cc	.
+8b-}	.
+8r	.
 !!LO:LB:g=esac
-=25
-{8a
-8a
-8g
-8a
-=26
-8b-
-8d
-8.g
-16f
-=27
-8e
-8g
-8e
-8cc
-=28
-8.dd
-16cc
-8a
-8f}
+=25	=25
+{8a\L	.
+8b-q	.
+8a\J	.
+8gL	.
+8aJ	.
+=26	=26
+8b-/L	.
+8d	.
+8.g	.
+16fJ	.
+=27	=27
+8eL	.
+8g	.
+8e	.
+8cc/J	.
+=28	=28
+8.ddL	.
+16ccJ	.
+8aL	.
+8f}J	.
 !!LO:LB:g=esac
-=29
-{4a
-8g
-8a
-=30
-8b-
-8d
-8g
-8f
-=31
-8e
-8g
-8e
-8cc
-=32
-8a
-16a
-16g
-4f}
-==
-*-
+=29	=29
+{4am	.
+8gL	.
+8aJ	.
+=30	=30
+8b-/L	.
+8d	.
+8g	.
+8fJ	.
+=31	=31
+8eL	.
+8g	.
+8e	.
+8cc/J	.
+=32	=32
+8aL	.
+8b-q	.
+16a	.
+16gJ	.
+4f}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A dzień do bry panience,
+!!gdzie panna wędruje?
+!!Tam do boru na jagody,
+!!gdzie waspan poluje.
+!!@@END: VERSES
+!!!role-singer: Hunter, Girl
+!!!role-listener: Girl, Hunter
+!!!singer-sex: Male, Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=105 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 91} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 91}
 !!!page: 91
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-12

@@ -3,93 +3,102 @@
 !!!source: DWOK04
 !!!id: K0188
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8g
-8b
-8dd
-8cc
-=2
-8b
-8dd
-4g
-=3
-8g
-8b
-8dd
-8cc
-=4
-8b
-8dd
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8g	Za
+8b	sto-
+8dd	-do-
+8cc	-łą
+=2	=2
+8b	na
+8dd	rzy-
+4g\	-ce
+=3	=3
+8g	Za
+8b	sto-
+8dd	-do-
+8cc	-łą
+=4	=4
+8b	na
+8dd	rzy-
+4g}	-ce
 !!LO:LB:g=esac
-=5
-{8cc
-8b
-8a
-8g
-=6
-16f#
-16g
-8a
-16f#
-16g
-8a
-=7
-8cc
-8b
-8a
-8ee
-=8
-8dd
-8f#
-4g}
+=5	=5
+{8cc	pa-
+8b	-sła
+8a	Ka-
+8g	-sia
+=6	=6
+16f#	ka-
+16g	-czy-
+8a	-ce
+16f#	ka-
+16g	-czy-
+8a	-ce
+=7	=7
+8cc	pa-
+8b	-sła
+8a\	Ka-
+8ee	-sia
+=8	=8
+8dd	ka-
+8f#	-czy-
+4g}	-ce.
 !!LO:LB:g=esac
-=9
-{4dd
-4dd
-=10
-8cc
-8f#
-4g
-=11
-16d
-16e
-8d
-16d
-16e
-8d
-=12
-8dd
-8f#
-4g}
+=9	=9
+{4dd	.
+4dd	.
+=10	=10
+8cc/L	.
+8f#J	.
+4g	.
+=11	=11
+16dL	.
+16e	.
+8dJ	.
+16dL	.
+16e	.
+8dJ	.
+=12	=12
+8dd/L	.
+8f#J	.
+4g}	.
 !!LO:LB:g=esac
-=13
-{4dd
-4dd
-=14
-8cc
-8f#
-4g
-=15
-16d
-16e
-8d
-16d
-16e
-8d
-=16
-8dd
-8f#
-4g}
-==
-*-
+=13	=13
+{4dd	.
+4dd	.
+=14	=14
+8cc/L	.
+8f#J	.
+4g	.
+=15	=15
+16dL	.
+16e	.
+8dJ	.
+16dL	.
+16e	.
+8dJ	.
+=16	=16
+8dd/L	.
+8f#J	.
+4g}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Za stodołą na rzyce
+!!Za stodołą na rzyce
+!!pasła Kasia kaczyce kaczyce
+!!pasła Kasia kaczyce.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=115 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 101-102} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), pp. 101-102}
 !!!page: 101-102
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-12

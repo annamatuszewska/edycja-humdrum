@@ -3,92 +3,106 @@
 !!!source: DWOK04
 !!!id: K0181
 !!!signature:
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16a
-16b
-8cc
-8b
-=2
-16dd
-16cc
-8b
-8a
-=3
-8cc
-8cc
-8cc
-=4
-4b}
-8r
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{16a	Nieszczęśliwy
+16b/	.
+8cc	.
+8b	.
+=2	=2
+16dd	ten
+16cc	gane-
+8b/	.
+8a	-czek,
+=3	=3
+8cc	oj,
+8cc	iej,
+8cc	iej,
+=4	=4
+4b}	je!
+8r	.
 !!LO:LB:g=esac
-=5
-{16a
-16b
-8cc
-8b
-=6
-16dd
-16cc
-8b
-8a
-=7
-16g#
-16b
-8.ee
-16g#
-=8
-4a}
-8r
+=5	=5
+{16a	com
+16b/	straci-
+8cc	.
+8b	-ła
+=6	=6
+16dd	swój
+16cc	wiane-
+8b/	.
+8a	-czek,
+=7	=7
+16g#	Boże
+16b/	.
+8.ee	Bo-
+16g#	-że
+=8	=8
+4a}	mój!
+8r	.
 !!LO:LB:g=esac
-=9
-{16e
-16e
-8g#
-8e
-=10
-16g#
-16a
-8b
-16cc
-16a
-=11
-8cc
-8cc
-16cc
-16a
-=12
-16b
-16dd
-4b}
+=9	=9
+{16e	Było
+16e	w
+8g#	ga-
+8e	-ne-
+=10	=10
+16g#	-czku
+16a	nie
+8b	sia-
+16ccL	-dać,
+16a\J	.
+=11	=11
+8cc	rom
+8cc	tom
+16ccL	tom,
+16a\J	.
+=12	=12
+16b	tu-
+16dd	-li
+4b}	da
 !!LO:LB:g=esac
-=13
-{16e
-16e
-8g#
-8e
-=14
-16g#
-16a
-8b
-16cc
-16a
-=15
-8ee
-8ee
-16ee
-16g#
-=16
-4a}
-8r
-==
-*-
+=13	=13
+{16e	i
+16e	z_kawa-
+8g#	.
+8e	-le-
+=14	=14
+16g#	-rem
+16a	nie
+8b/	ga-
+16c/Lc	-dać,
+16aJ	.
+=15	=15
+8ee	rom
+8ee	tom
+16ee	tu-
+16g#	-la
+=16	=16
+4a}	da.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Nieszczęśliwy ten ganeczek,
+!!oj, iej, iej, je!
+!!com straciła swój wianeczek,
+!!Boże Boże mój!
+!!Było w ganeczku nie siadać,
+!!rom tom tom, tuli da
+!!i z kawalerem nie gadać,
+!!rom tom tula da.
+!!@@END: VERSES
+!!!role-singer: Girl, Narrator
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=112 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 98} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 98}
 !!!page: 98
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-12

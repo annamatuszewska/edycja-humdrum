@@ -3,65 +3,75 @@
 !!!source: DWOK04
 !!!id: K0201
 !!!signature:
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M3/8
-=1
-{4dd
-8dd
-=2
-8dd
-4cc#
-=3
-4ee
-8ee
-=4
-8ee
-4dd}
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Przy weselu	!
+{4dd	Spadła
+8dd	.
+=2	=2
+8dd	z_wiś-
+4cc#	-ni
+=3	=3
+4ee	wi-
+8ee	-dzie-
+=4	=4
+8ee	-liś-
+4dd}	-my
 !!LO:LB:g=esac
-=5
-{16f#
-16a
-16dd
-16cc#
-16b
-16a
-=6
-8.b
-16g
-16f#
-16e
-=7
-4a
-8c#
-=8
-8d
-4a}
+=5	=5
+{16f#	i
+16a	roz-
+16ddL	-dar-
+16cc#J	.
+16b/L	-ła
+16aJ	.
+=6	=6
+8.b	far-
+16g	-tu-szeczek
+16f#	.
+16e	.
+=7	=7
+4a	zszy-
+8c#	-wa-
+=8	=8
+8d\	-liś-
+4a}	-my,
 !!LO:LB:g=esac
-=9
-{16f#
-16a
-16dd
-16cc#
-16b
-16a
-=10
-8.b
-16g
-16f#
-16e
-=11
-4a
-8c#
-=12
-8e
-4d}
-==
-*-
+=9	=9
+{16f#	i
+16a	roz-
+16dLd	-dar-
+16ccJ#	.
+16b/L	-ła
+16aJ	.
+=10	=10
+8.b	far-
+16g	-tuszeczek
+16f#	.
+16e	.
+=11	=11
+4a	zszy-
+8c#	-wa-
+=12	=12
+8e\	-liś-
+4d}	-my.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Spadła z wiśni
+!!widzieliśmy
+!!i rozdarła fartuszeczek
+!!zszywaliśmy.
+!!@@END: VERSES
+!!!role-singer: Group
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=120 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 106} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 106}
 !!!page: 106
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-13

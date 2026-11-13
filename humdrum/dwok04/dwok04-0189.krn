@@ -3,84 +3,95 @@
 !!!source: DWOK04
 !!!id: K0189
 !!!signature:
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{8cc
-8dd
-4ee
-4ff
-=2
-8dd
-8dd
-4b
-8ee
-8dd
-=3
-8cc
-8dd
-4ee
-4ff
-=4
-16ee
-16ff
-16ee
-16dd
-4b
-8ee
-8dd}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+!LO:TX:a:t=Kujawiak	!
+{8cc	Ką-
+8dd	-pa-
+4ee	-ła
+4ff	się
+=2	=2
+8eeq	.
+8dd	Ka-
+8dd	-sia
+4b	w
+8eeL	mo-
+8ddJ	-rzu,
+=3	=3
+8cc	pa-
+8dd	-sła
+4ee	ka-
+4ff	-czyn-
+=4	=4
+16eeL	-ki
+16ffJ	.
+16eeL	we
+16ddJ	.
+4b	zbo-
+8eeL	-żu
+8dd}J	.
 !!LO:LB:g=esac
-=5
-{8cc
-8b
-4a
-4b
-=6
-8e
-8g#
-4b
-8ee
-8dd
-=7
-16dd
-16cc
-16b
-16cc
-4a
-4g#
-=8
-8e
-8g#
-4b
-4a}
+=5	=5
+{8cc	przy-
+8b	-szed
+4a	z_ko-
+4b	-ścio-
+=6	=6
+8e	-ła
+8g#	Ja-
+4b	-si-
+8eeL	-nek
+8ddJ	.
+=7	=7
+16ddL	i
+16ccJ	.
+16bL	na-
+16ccJ	.
+4a	-wró-
+4g#	-cił
+=8	=8
+8e	ij
+8g#	ka-
+4b	-czy-
+4a}	-nek.
 !!LO:LB:g=esac
-=9
-{2e
-8e
-8d#
-=10
-8e
-8g#
-4b
-4dd
-=11
-16dd
-16cc
-16b
-16cc
-4a
-4g#
-=12
-4e
-4b
-4a}
-==
-*-
+=9	=9
+{2e	.
+8eL	.
+8d#J	.
+=10	=10
+8eL	.
+8g#J	.
+4b	.
+4dd	.
+=11	=11
+16ddL	.
+16cc	.
+16b	.
+16ccJ	.
+4a	.
+4g#	.
+=12	=12
+4e	.
+4b	.
+4a}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Kąpała się Kasia w morzu,
+!!pasła kaczynki we zbożu
+!!przyszed z kościoła Jasinek
+!!i nawrócił ij kaczynek.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=116 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 102} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 102}
 !!!page: 102
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-13

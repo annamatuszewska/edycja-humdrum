@@ -3,176 +3,196 @@
 !!!source: DWOK04
 !!!id: K0182
 !!!signature:
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/8
-=1
-{16e
-16e
-8e
-8e
-=2
-8a
-4cc#
-=3
-16b
-16dd
-8g#
-8b
-=4
-8a
-4cc#}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M3/8	*
+=1	=1
+{16e	Czyli
+16e	.
+8e	za
+8e	gó-
+=2	=2
+8a	-reczką,
+4cc#	.
+=3	=3
+16b	czyli
+16dd	.
+8g#	za
+8b/	ol-
+=4	=4
+8a	-szy-
+4cc#}	-ną,
 !!LO:LB:g=esac
-=5
-{16e
-16e
-16d#
-16e
-16f#
-16e
-=6
-8a
-4cc#
-=7
-16b
-16dd
-8g#
-8b
-=8
-8b
-4a}
+=5	=5
+{16e	pa-
+16e	-sła
+16d#	trzodę
+16e	.
+8g#q	.
+16f#	dziewczyneczka,
+16e	.
+=6	=6
+8a	.
+4cc#	.
+=7	=7
+16b	gdyby
+16dd	.
+8g#	przepió-
+8b/	.
+=8	=8
+8b	-reczka.
+4a}	.
 !!LO:LB:g=esac
-=9
-{16e
-16e
-8e
-8e
-=10
-8a
-4cc#
-=11
-16dd
-16dd
-8b
-8dd
-=12
-8ff#
-4ee}
+=9	=9
+{16e	Pa-
+16e	-ro-
+8e	-be-
+8e	-czek
+=10	=10
+8a	do
+4cc#	ni,
+=11	=11
+16dd	ona
+16dd	.
+8b	mu
+8dd	się
+=12	=12
+8ff#	broni,
+4ee}	.
 !!LO:LB:g=esac
-=13
-{16e
-16e
-8e
-8e
-=14
-8a
-4cc#
-=15
-16b
-16dd
-8g#
-8b
-=16
-8b
-4a}
+=13	=13
+{16e	o
+16e	dróżkę
+8e	.
+8e	się
+=14	=14
+8a	py-
+4cc#	-ta,
+=15	=15
+16b	a
+16dd	za
+8g#	rączkę
+8b/	.
+=16	=16
+8b/	chwyta.
+4a}	.
 !!LO:LB:g=esac
-=17
-{4ee
-8dd
-=18
-4cc#
-8dd
-=19
-4ee
-8ff#
-=20
-8b
-4ff#}
+=17	=17
+{4ee	Puść
+8dd	me
+=18	=18
+4cc#	Ja-
+8dd	-siu,
+=19	=19
+4ee	jak
+8ff#	cię
+=20	=20
+8b/	proszę,
+4ff#}	.
 !!LO:LB:g=esac
-=21
-{4ee
-8dd
-=22
-4cc#
-8dd
-=23
-4ee
-8dd
-=24
-8cc#
-4a}
+=21	=21
+{4ee	niech
+8dd	se
+=22	=22
+4cc#	trzo-
+8dd	-dę
+=23	=23
+4ee	z_po-
+8dd	-la
+=24	=24
+8cc#	spło-
+4a}	-szę.
 !!LO:LB:g=esac
-=25
-{16e
-16e
-8e
-8e
-=26
-8a
-8cc#
-8ee
-=27
-16dd
-16dd
-8b
-8dd
-=28
-16ff#
-16ee
-4ee}
+=25	=25
+{16e	Pa-
+16e	-ro-
+8e	-be-
+8e	-czek
+=26	=26
+8a	do
+8cc/L#	ni,
+8ee/J	.
+=27	=27
+16dd	ona
+16dd	.
+8b	mu
+8dd	się
+=28	=28
+16ff#L/	broni,
+16ee/J	.
+4ee}	.
 !!LO:LB:g=esac
-=29
-{16e
-16e
-8e
-8e
-=30
-8a
-4cc#
-=31
-16b
-16dd
-8g#
-8b
-=32
-8b
-4a}
+=29	=29
+{16e	o
+16e	dróżkę
+8e	.
+8e	się
+=30	=30
+8a	py-
+4cc#	-ta,
+=31	=31
+16b	a
+16dd	za
+8g#	rączkę
+8b/	.
+=32	=32
+8b/	chwyta.
+4a}	.
 !!LO:LB:g=esac
-=33
-{4ee
-16dd
-16b
-=34
-4cc#
-8dd
-=35
-4ee
-8ff#
-=36
-8b
-8ff#
-8ee}
+=33	=33
+{4ee	Puść
+16d/Ld	me
+16b/J	.
+=34	=34
+4cc#	Ja-
+8dd	-siu,
+=35	=35
+4ee	jak
+8ff#	cię
+=36	=36
+8b/	proszę,
+8ff/#L	.
+8ee}/J	.
 !!LO:LB:g=esac
-=37
-{4ee
-16dd
-16b
-=38
-4cc#
-16dd
-16ff#
-=39
-4ee
-8dd
-=40
-8cc#
-4a}
-==
-*-
+=37	=37
+{4ee	niech
+16ddL/	se
+16b/J	.
+=38	=38
+4cc#	trzo-
+16dd/L	-dę
+16ff#/J	.
+=39	=39
+4ee	z_po-
+8dd	-la
+=40	=40
+8cc#	spło-
+4a}	-szę.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Czyli za góreczką,
+!!czyli za olszyną,
+!!pasła trzodę dziewczyneczka,
+!!gdyby przepióreczka.
+!!Parobeczek do ni,
+!!ona mu się broni,
+!!o dróżkę się pyta,
+!!a za rączkę chwyta.
+!!Puść me Jasiu,
+!!jak cię proszę,
+!!niech se trzodę
+!!z pola spłoszę.
+!!@@END: VERSES
+!!!role-singer: Narrator, Girl
+!!!role-listener: Boy
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=113 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 99} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 99}
 !!!page: 99
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-12

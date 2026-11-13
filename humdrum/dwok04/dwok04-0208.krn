@@ -3,211 +3,226 @@
 !!!source: DWOK04
 !!!id: K0208
 !!!signature:
-**kern
-*clefG2
-*k[]
-*a:
-*M2/4
-=1
-{8a
-8a
-8a
-8g
-=2
-4cc
-8b
-8cc
-=3
-2a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M2/4	*
+=1	=1
+!LO:TX:a:t=Duma	!
+{8a	Z_tam-
+8a	-ty-
+8a	-stro-
+8g	-ny
+=2	=2
+4cc	ję-
+8bL	-zio-
+8ccJ	.
+=3	=3
+2a}	-ra
 !!LO:LB:g=esac
-=4
-{8ee
-8ee
-8ff#
-8dd#
-=
-4ee
-12dd
-12cc
-12b
-=5
-2a}
+=4	=4
+{8ee	sto-
+8ee	-i
+8ff#	lip-
+8dd#	-ka
+=5	=5
+4ee	zie-
+!LO:TUP:a	!
+(12ddL	-lo-
+12cc	.
+12bJ)	.
+=6	=6
+2a}	-na
 !!LO:LB:g=esac
-=6
-{4ee
-8dd
-8dd
-=7
-4.ee
-8g
-=8
-8a
-8cc
-16b
-16cc
-8dd
-=9
-8cc
-8b
-8a
-8g}
+=7	=7
+{4ee	A
+8dd	na
+8dd	ty
+=8	=8
+4.ee	lip-
+8g	-ce
+=9	=9
+8a\L	na
+8ccJ	.
+16bL	ty
+16ccJ	.
+8dd	zie-
+=10	=10
+8ccML	-lo-
+8bJ	.
+8aL	-ny
+8g}J	.
 !!LO:LB:g=esac
-=10
-{8g
-8g
-8ee
-8ee
-=11
-4dd
-8cc
-8b
-=12
-2a}
+=11	=11
+{8g	trzy
+8g	pta-
+8ee	-szko-
+8ee	-wie
+=12	=12
+4dd	śpie-
+8ccL	-wa-
+8bJ	.
+=13	=13
+2a}	-ją.
 !!LO:LB:g=esac
-=
-{4ee
-12dd
-12ee
-12ff
-=13
-4.ee
-8g
-=14
-16a
-16b
-8cc
-16b
-16cc
-8dd
-=15
-8cc
-8b
-8a
-8g}
+=14	=14
+{4ee	A
+*Xtuplet	*
+12dLd/	na
+12ee/	.
+12ffJ/	ty
+=15	=15
+4.ee	lip-
+8g	-ce
+=16	=16
+16aL	na
+16b/	.
+8cc/J	.
+16bL	ty
+16ccJ	.
+8dd	zie-
+=17	=17
+8ccML	-lo-
+8bJ	.
+8aL	-ny
+8g}J	.
 !!LO:LB:g=esac
-=16
-{8g
-8g
-8ee
-8ee
-=17
-4dd
-8cc
-8b
-=18
-2a}
+=18	=18
+{8g	trzy
+8g	pta-
+8ee	-szko-
+8ee	-wie
+=19	=19
+4dd	śpie-
+8ccL	-wa-
+8bJ	.
+=20	=20
+2a}	-ją.
 !!LO:LB:g=esac
-=19
-{8a
-8g
-8a
-8b
-=20
-4cc
-8dd
-8b
-=21
-2a}
+=21	=21
+{8aL	.
+8g	.
+8a	.
+8b/J	.
+=22	=22
+4cc	.
+8ddL	.
+8bJ	.
+=23	=23
+2a}	.
 !!LO:LB:g=esac
-=22
-{8ee
-8ee
-8ff#
-8dd
-=23
-4ee
-8cc
-8b
-=24
-2a}
+=24	=24
+{8eLe	.
+8eeJ	.
+8ff#L	.
+8ddJ	.
+=25	=25
+4ee	.
+8ccL	.
+8bJ	.
+=26	=26
+2a}	.
 !!LO:LB:g=esac
-=25
-{4ee
-8cc
-8ee
-=26
-4dd
-4g
-=27
-8a
-8g
-8a
-8b
-=28
-4cc
-4g}
+=27	=27
+{4ee	.
+8ccL	.
+8eeJ	.
+=28	=28
+4dd	.
+4g\	.
+=29	=29
+8bq	.
+8aL	.
+8g	.
+8a	.
+8b/J	.
+=30	=30
+4cc	.
+4g}	.
 !!LO:LB:g=esac
-=29
-{8g
-8g
-8cc
-8ee
-=30
-4dd
-8cc
-8b
-=31
-2a}
+=31	=31
+{8gL\	.
+8g\J	.
+8ccL	.
+8eeJ	.
+=32	=32
+4dd	.
+8ccL	.
+8bJ	.
+=33	=33
+2a}	.
 !!LO:LB:g=esac
-=32
-{8a
-8g
-8a
-8b
-=33
-4cc
-8dd
-16b
-16cc
-=34
-2a}
+=34	=34
+{8aL	.
+8g	.
+8a	.
+8b/J	.
+=35	=35
+4cc	.
+8dd	.
+16b/L	.
+16cc/J	.
+=36	=36
+2a}	.
 !!LO:LB:g=esac
-=35
-{8ee
-16dd#
-16ee
-8ff#
-8dd
-=36
-4ee
-8cc
-16b
-16cc
-=37
-2a}
+=37	=37
+{8ee/L	.
+16dd#/	.
+16ee/J	.
+8ff#L	.
+8dd#J	.
+=38	=38
+4ee	.
+8cc	.
+16b/L	.
+16cc/J	.
+=39	=39
+2a}	.
 !!LO:LB:g=esac
-=38
-{4ee
-8cc
-8ee
-=39
-8dd
-8ee
-4g
-=40
-8a
-8g
-8a
-8b
-=41
-4cc
-4g}
+=40	=40
+{4ee	.
+8ccL	.
+8eeJ	.
+=41	=41
+8dd/L	.
+8ee/J	.
+4g\	.
+=42	=42
+8bq	.
+8aL	.
+8g	.
+8a	.
+8b/J	.
+=43	=43
+4cc	.
+4g}	.
 !!LO:LB:g=esac
-=42
-{8cc
-8b
-4cc
-=43
-4ee
-8cc
-16b
-16cc
-=44
-2a}
-==
-*-
+=44	=44
+{8ddq	.
+8ccL/	.
+8b/J	.
+4cc/	.
+=45	=45
+4ee/	.
+8cc	.
+16b/L	.
+16cc/J	.
+=46	=46
+2a}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Z tamty strony jęziora
+!!stoi lipka zielona
+!!A na ty lipce na ty zielony
+!!trzy ptaszkowie śpiewają.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=122 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 108} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 108}
 !!!page: 108
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-13

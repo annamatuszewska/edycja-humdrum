@@ -3,217 +3,232 @@
 !!!source: DWOK04
 !!!id: K0172
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8a
-8a
-4dd
-4ee
-=2
-4cc
-4a
-4ee
-=3
-8ee
-8dd
-8b
-8dd
-4ee
-=4
-8cc
-8dd
-4b
-8g
-8f#}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+!LO:TX:a:t=Chodzony.	!
+{8a	A
+8a	niewin-
+4dd	.
+4ee	-na
+=2	=2
+4cc	dzie-
+4a	-wu-
+4ee	-la,
+=3	=3
+8eeL	co
+8ddJ	.
+8bL	ja
+8ddJ	.
+4ee;	téż
+=4	=4
+8cc	uczyni-
+8dd	.
+4b	.
+8gL	-ła?
+8f#J}	.
 !!LO:LB:g=esac
-=5
-{8a
-8a
-4dd
-4ee
-=6
-8b
-8cc
-4a
-8ff#
-8ee
-=7
-8ee
-8dd
-8b
-8dd
-4ee
-=8
-8dd
-8cc
-8a
-8b
-8g
-8f#}
+=5	=5
+{8a	a
+8a	bodaj'em
+4dd	.
+4ee	.
+=6	=6
+8bL	bo-
+8ccJ	.
+4a	-da-
+8ff#L	-jem
+8eeJ	.
+=7	=7
+8ee	na
+8dd	.
+8bL	swie-
+8ddJ	.
+4ee;	-cie
+=8	=8
+8ddL	nie
+8ccJ	.
+8aL	ży-
+8b/J	.
+8gL	-ła.
+8f#J}	.
 !!LO:LB:g=esac
-=9
-{8e
-8g
-8g
-8a
-4g
-=10
-8e
-16cc
-16b
-4a
-8g
-8f#
-=11
-8e
-8f#
-4g
-8g
-8f#
-=12
-8e
-16cc
-16b
-4a
-8g
-8f#}
+=9	=9
+{8e	Straciłam
+8g	.
+8g	.
+8a	wianek
+4g	.
+=10	=10
+8e	za
+16ccL	poda-
+16bJ	.
+4a	.
+8g	-runek
+8f#	.
+=11	=11
+8e	dla
+8f#	Jasia
+4g	.
+8gL	mar-
+8f#J	.
+=12	=12
+8e	-ne-
+16ccL	-go,
+16bJ	.
+4a	mar-
+8g	-ne-
+8f#}	-go,
 !!LO:LB:g=esac
-=13
-{8e
-8g
-8g
-8a
-4g
-=14
-8e
-16cc
-16b
-4a
-8g
-8f#
-=15
-8e
-8f#
-4g
-8g
-8f#
-=16
-8e
-16cc
-16b
-4a
-8g
-8f#}
+=13	=13
+{8e	teraz
+8g	.
+8g	boleję
+8a	.
+4g	.
+=14	=14
+8e	za
+16cLc	niewin-
+16bJ	.
+4a	.
+8gL	-ność
+8f#J	.
+=15	=15
+8e	mo-
+8f#	-ję
+4g	za
+8gL	nie-
+8f#J	.
+=16	=16
+8e	-winność
+16ccL	.
+16bJ	.
+4a	mo-
+8gL	-ję.
+8f#J}	.
 !!LO:LB:g=esac
-=17
-{8a
-8a
-4dd
-4ee
-=18
-4cc
-4a
-4ee
-=19
-8ee
-8dd
-8b
-8dd
-4ee
-=20
-8cc
-8dd
-8b
-8a
-8g
-8f#}
+=17	=17
+{8a	A
+8a	niewin-
+4dd	.
+4ee	-na
+=18	=18
+4cc	dzie-
+4a	-wu-
+4ee	-la,
+=19	=19
+8eeL	co
+8ddJ	.
+8bL	ja
+8ddJ	.
+4ee;	téż
+=20	=20
+8cc	uczyni-
+8dd	.
+8b/L	.
+8aJ	.
+8gL	-ła?
+8f#J}	.
 !!LO:LB:g=esac
-=21
-{8a
-8a
-4dd
-4ee
-=22
-8b
-8cc
-4a
-8ff#
-8ee
-=23
-8ee
-8dd
-8b
-8dd
-4ee
-=24
-8dd
-8cc
-8a
-8b
-8g
-8f#}
+=21	=21
+{8a	a
+8a	bodaj'em
+4dd	.
+4ee	.
+=22	=22
+8bL	bo-
+8ccJ	.
+4a	-da-
+8ff#L	-jem
+8eeJ	.
+=23	=23
+8ee	na
+8dd	.
+8bL	swie-
+8ddJ	.
+4ee;	-cie
+=24	=24
+8ddL	nie
+8ccJ	.
+8aL	ży-
+8b/J	.
+8gL	-ła.
+8f#J}	.
 !!LO:LB:g=esac
-=25
-{8e
-8g
-8g
-8a
-4g
-=26
-8e
-16cc
-16b
-4a
-8g
-8f#
-=27
-8e
-8f#
-4g
-8g
-8f#
-=28
-8e
-16cc
-16b
-4a
-8g
-8f#}
+=25	=25
+{8e	Straciłam
+8g	.
+8g	wianek
+8a	.
+4g	.
+=26	=26
+8e	za
+16ccL	poda-
+16bJ	.
+4a	.
+8gL	-runek
+8f#J	.
+=27	=27
+8e	dla
+8f#	Jasia
+4g	.
+8gL	mar-
+8f#J	.
+=28	=28
+8e	-ne-
+16ccL	-go,
+16bJ	.
+4a	mar-
+8gL	-ne-
+8f#J}	-go,
 !!LO:LB:g=esac
-=29
-{8e
-8g
-8g
-8a
-4g
-=30
-8e
-16cc
-16b
-4a
-8g
-8f#
-=31
-8e
-8f#
-4g
-8g
-8f#
-=32
-8e
-16cc
-16b
-4a
-8g
-8f#}
-==
-*-
+=29	=29
+{8e	teraz
+8g	.
+8g	boleję
+8a	.
+4g	.
+=30	=30
+8e	za
+16ccL	niewin-
+16bJ	.
+4a	.
+8gL	-ność
+8f#J	.
+=31	=31
+8e	mo-
+8f#	-ję
+4g	za
+8gL	nie-
+8f#J	.
+=32	=32
+8e	-winność
+16ccL	.
+16bJ	.
+4a	mo-
+8gL	-ję.
+8f#J}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A niewinna dziewula,
+!!co ja téż uczyniła?
+!!a bodaj'em bodajem
+!!na swiecie nie żyła.
+!!Straciłam wianek za podarunek
+!!dla Jasia marnego, marnego,
+!!teraz boleję za niewinność
+!!moję za niewinność moję.
+!!@@END: VERSES
+!!!role-singer: Girl
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=109 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 95} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 95}
 !!!page: 95
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-12

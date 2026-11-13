@@ -3,74 +3,90 @@
 !!!source: DWOK04
 !!!id: K0204
 !!!signature:
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/8
-=1
-{16a
-16b
-8cc#
-8cc#
-=2
-16cc#
-16b
-8cc#
-8dd
-=3
-8b
-16b
-16a#
-16b
-16cc#
-=4
-4a}
-8r
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M3/8	*
+=1	=1
+{16a	Już
+16b	to
+8cc#	te-
+8cc#	-mu
+=2	=2
+16cc#	pięć-
+16b	-lat
+8cc#	bę-
+8dd	-dzie,
+=3	=3
+8b	rom-
+8cc#q	.
+16b	-ti
+16a#	di
+16b	ri
+16cc#	di
+=4	=4
+4a}n	da,
+8r	.
 !!LO:LB:g=esac
-=5
-{16cc#
-16dd
-8ee
-8ee
-=6
-16ee
-16dd#
-8ee
-8ff#
-=7
-8dd
-16dd
-16cc#
-16dd
-16ee
-=8
-4.cc#}
+=5	=5
+{16cc#	jak
+16dd	cho-
+8ee	-dzi-
+8ee	-łam
+=6	=6
+16ee	na
+16dd#	żo-
+8ee	-łę-
+8ff#	-dzie
+=7	=7
+8ddn	rom-
+8eeq	.
+16dd	-ti
+16cc#	di
+16dd	ri
+16ee	di
+=8	=8
+4.cc#}	da.
 !!LO:LB:g=esac
-=9
-{8b
-16b
-16a#
-16b
-16cc#
-=10
-8a
-8cc#
-16cc#
-16ee
-=11
-8b
-16b
-16a#
-16b
-16cc#
-=12
-4a}
-8r
-==
-*-
+=9	=9
+{8b	rom
+8cc#q	.
+16b	ti
+16a#	di
+16b	ri
+16cc#	di
+=10	=10
+8a\	rom
+8cc#	ta
+16cLc#	ta
+16eeJ	di
+=11	=11
+8b	rom
+8cc#q	.
+16b	ti
+16a#	di
+16b	ri
+16cc#	di
+=12	=12
+4a}n	da
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Już to temu pięć lat będzie,
+!!romti di ri di da,
+!!jak chodziłam na żołędzie
+!!romti di ri di da.
+!!rom ti di ri di rom ta ta di
+!!rom ti di ri di da
+!!@@END: VERSES
+!!!role-singer: Woman
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=121 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 107} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 107}
 !!!page: 107
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-13

@@ -3,107 +3,122 @@
 !!!source: DWOK04
 !!!id: K0183
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*F:
-=1
-*M3/4
-{16f
-16a
-4cc
-8cc
-8cc
-8cc
-=2
-16cc
-16cc
-4dd
-8b-
-8g
-8e
-=3
-16e
-16g
-4b-
-8b-
-8b-
-8b-
-=4
-16b-
-16dd
-4cc
-8b-
-8a
-8f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+=1	=1
+*M3/4	*
+{16f	Pod
+16a	borem,
+4cc^	.
+8cc	pod
+8cc^	bo-
+8cc	-rem,
+=2	=2
+16cc	pod
+16cc	oną
+4dd	.
+8b-/	krze-
+8g	-wi-
+8e	-ną,
+=3	=3
+16e	pasła
+16g	.
+4b-/	pa-
+8b-/	-stureczka
+8b-/	.
+8b-/	.
+=4	=4
+16b-	gdyby
+16dd	.
+4cc	przepióreczka.
+8b-	.
+8a	.
+8f}	.
 !!LO:LB:g=esac
-=5
-*M3/8
-{16f
-16a
-8cc
-8cc
-=6
-16cc
-16cc
-8.dd
-16cc
-=7
-16g
-16a
-8b-
-8b-
-=8
-16b-
-16dd
-8.cc
-16a}
+=5	=5
+*M3/8	*
+{16f	Puść
+16a	me
+8cc	Ja-
+8cc	-siu,
+=6	=6
+16cc	kiej
+16cc	cię
+8.dd	pro-
+16cc	-szę,
+=7	=7
+16g\	niech
+16a\	se
+8b-	trzodę
+8b-	.
+=8	=8
+16b-	z_pola
+16dd	.
+8.cc	spło-
+16a}	-szę,
 !!LO:LB:g=esac
-=9
-{16f
-16g
-8a
-8a
-=10
-16a
-16a
-8.b-
-16a
-=11
-16e
-16f
-8g
-8g
-=12
-16g
-16dd
-8.cc
-16a}
+=9	=9
+{16f	cóż
+16g	ci
+8a	przyńdzie
+8a	.
+=10	=10
+16a	z_buzi
+16a	.
+8.b-/	moj-
+16a	-i,
+=11	=11
+16e	widzisz,
+16f	.
+8g	człowiek
+8g	.
+=12	=12
+16g	pod
+16dd	krzem
+8.cc	sto-
+16a}	-i,
 !!LO:LB:g=esac
-=13
-{16f
-16g
-8a
-8a
-=14
-16a
-16a
-8.b-
-16a
-=15
-16e
-16f
-8g
-8g
-=16
-16g
-16g
-8a
-8f}
-==
-*-
+=13	=13
+{16f	cóż
+16g	ci
+8a	wi-
+8a	-nien
+=14	=14
+16a	ten
+16a	mój
+8.b-/	wia-
+16a	-nek,
+=15	=15
+16e	wywrócisz
+16f	.
+8g	.
+8g	my
+=16	=16
+16g	z_mlikiem
+16g	.
+8a	dzbanek.
+8f}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Pod borem, pod borem, pod oną krzewiną,
+!!pasła pastureczka gdyby przepióreczka.
+!!Puść me Jasiu, kiej cię proszę,
+!!niech se trzodę z pola spłoszę,
+!!cóż ci przyńdzie z buzi moji,
+!!widzisz, człowiek pod krzem stoi,
+!!cóż ci winien ten mój wianek,
+!!wywrócisz my z mlikiem dzbanek.
+!!@@END: VERSES
+!!!role-singer: Narrator, Girl
+!!!role-listener: Boy
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=113 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 99-100} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), pp. 99-100}
 !!!page: 99-100
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-12

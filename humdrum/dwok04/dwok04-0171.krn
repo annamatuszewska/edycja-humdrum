@@ -3,115 +3,129 @@
 !!!source: DWOK04
 !!!id: K0171
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16f
-16g
-8a
-8b-
-=2
-16cc
-16cc
-8dd
-8cc
-=3
-16g
-16f
-8a
-8a
-=4
-4f}
-8r
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16f	A-
+16g	-że-
+8a	-by'ć
+8b-/	ja
+=2	=2
+16cc	tak
+16cc	słucha-
+8dd	.
+8cc	-ła,
+=3	=3
+16g	jak
+16f	my
+8a	radzo-
+8a	.
+=4	=4
+4f}	-no,
+8r	.
 !!LO:LB:g=esac
-=5
-{16f
-16g
-8a
-8b-
-=6
-16cc
-16cc
-8dd
-8cc
-=7
-16g
-16f
-8a
-8a
-=8
-4f}
-8r
+=5	=5
+{16f	by-
+16g	-ło'ć
+8a	by
+8b-/	my
+=6	=6
+16cc	takij
+16cc	.
+8dd	krzywdy
+8cc	.
+=7	=7
+16g	nie
+16f	wyrządzono.
+8a	.
+8a	.
+=8	=8
+4f}	.
+8r	.
 !!LO:LB:g=esac
-=9
-{16b-
-16g
-8.g
-16a
-=10
-16f
-16a
-8cc
-8cc
-=11
-16b-
-16g
-8g
-8a
-=12
-16f
-16a
-8cc
-16cc
-16b-
-=13
-16g
-16f
-8a
-8a
-=14
-4f}
-8r
+=9	=9
+{16b/-	Płochość
+16g	.
+8.g	mo-
+16a	-ja
+=10	=10
+16f\	to
+16a\	zrobi-
+8cc	.
+8cc	-ła,
+=11	=11
+16b-	chłopotu
+16g\	.
+8g	.
+8a	me
+=12	=12
+16f\	na-
+16a\	-bawi-
+8cc	.
+16ccL	-ła,
+16b-J	.
+=13	=13
+16g	teraz
+16f	.
+8a	wyrze-
+8a	.
+=14	=14
+4f}	-kom.
+8r	.
 !!LO:LB:g=esac
-=15
-{16b-
-16g
-8.g
-16a
-=16
-16a
-16a
-8cc
-16cc
-16b-
-=
-24b-
-24g
-24g
-8g
-8a
-=17
-16a
-16a
-8cc
-16cc
-16b-
-=18
-16g
-16f
-8a
-16a
-16g
-=19
-4f}
-8r
-==
-*-
+=15	=15
+{16b-/	Płochość
+16g	.
+8.g	mo-
+16a	-ja
+=16	=16
+16aL	to
+16aJ	zrobi-
+8cc	.
+16cc/L	-ła,
+16b-/J	.
+=17	=17
+*Xtuplet	*
+24b-/L	chłopotu
+24g	.
+24gJ	.
+8g	.
+8a	me
+=18	=18
+16aL	na-
+16aJ	-bawi-
+8cc	.
+16ccL	-ła,
+16b-J	.
+=19	=19
+16g	teraz
+16f	.
+8a	wyrze-
+16a\L	.
+16g\J	.
+=20	=20
+4f}	-kom.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Ażeby'ć ja tak słuchała,
+!!jak my radzono,
+!!było'ć by my takij krzywdy
+!!nie wyrządzono.
+!!Płochość moja to zrobiła,
+!!chłopotu me nabawiła,
+!!teraz wyrzekom.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=108 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 94} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 94}
 !!!page: 94
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-12

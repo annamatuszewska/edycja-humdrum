@@ -3,69 +3,78 @@
 !!!source: DWOK04
 !!!id: K0161
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8dd
-8b
-8g
-8b
-=2
-8dd
-8cc#
-4a
-=3
-8cc
-8cc
-8ee
-8cc
-=4
-8a
-8f#
-4d}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+{8dd	Na
+8b	Bo-
+8g\	-gusławskiém
+8b	.
+=2	=2
+8dd	.
+8cc#	polu
+4a	.
+=3	=3
+8ccn	sto-
+8cc	-i
+8ee	dwóch
+8cc	pa-
+=4	=4
+8aL	-cho-
+8f#J	.
+4d}	-lów.
 !!LO:LB:g=esac
-=5
-{8d
-8f#
-4g
-=6
-8a
-8cc
-4b
-=7
-8g
-8d
-8d
-8cc
-=8
-8a
-8f#
-4d}
+=5	=5
+{8d	Jak
+8f#	sto-
+4g	-ją,
+=6	=6
+8a	tak
+8cc	sto-
+4b	-ją,
+=7	=7
+8g	ja-ż
+8e	ich
+8e	nóżki
+8cc	.
+=8	=8
+8aL	bo-
+8f#J	.
+4d}	-lą.
 !!LO:LB:g=esac
-=9
-{8d
-8f#
-4g
-=10
-8a
-8cc
-4b
-=11
-8g
-8d
-8d
-8cc
-=12
-8a
-8f#
-4d}
-==
-*-
+=9	=9
+{8d	Jak
+8f#	sto-
+4g	-ją,
+=10	=10
+8a	tak
+8cc	sto-
+4b	-ją,
+=11	=11
+8g	ja-ż
+8e	ich
+8e	nóżki
+8cc	.
+=12	=12
+8aL	bo-
+8f#J	.
+4d}	-lą.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Na Bogusławskiém polu
+!!stoi dwóch pacholów.
+!!Jak stoją, tak stoją,
+!!jaż ich nóżki bolą.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=104 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 90} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 90}
 !!!page: 90
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-12

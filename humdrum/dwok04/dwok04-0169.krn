@@ -3,98 +3,108 @@
 !!!source: DWOK04
 !!!id: K0169
 !!!signature:
-**kern
-*clefG2
-*k[b-e-]
-*B-:
-*M3/8
-=1
-{16dd
-16ff
-8gg
-8cc
-=2
-16ee-
-16gg
-8ff
-8dd
-=3
-16cc
-16cc
-8dd
-8cc
-=4
-16b-
-16a
-8f
-8b-}
+**kern	**text
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M3/8	*
+=1	=1
+{16dd	Oj
+16ff	że-
+8ggL	-bym
+8ccJ	.
+=2	=2
+16ee-	ci
+16gg	ja
+8ff	by-
+8dd	-ła
+=3	=3
+16cc	da
+16cc	i
+8dd	u
+8cc	ma-
+=4	=4
+16b-/	-tu-
+16a	-li
+8f	dłu-
+8b-}/	-ży,
 !!LO:LB:g=esac
-=5
-{16f
-16b-
-8dd
-8cc
-=6
-16gg
-16ff
-8dd
-8f
-=7
-16cc
-16cc
-8dd
-8cc
-=8
-16b-
-16a
-8f
-8b-}
+=5	=5
+{16f	oj
+16b-/	by
+8ddL	ła'ć
+8ccJ	by-
+=6	=6
+16gg	-ja
+16ff	była
+8dd	.
+8f\	.
+=7	=7
+16cc	da
+16cc	i
+8dd	jak
+8cc	kwia-
+=8	=8
+16b/-	-tyszek
+16a	.
+8f	ró-
+8b-}/	-ży.
 !!LO:LB:g=esac
-=9
-{8.ee-
-16b-
-16dd
-16ff
-=10
-16a
-16cc
-8b-
-8dd
-=11
-8.ee-
-16b-
-16dd
-16ff
-=12
-16b-
-16a
-8f
-8b-}
+=9	=9
+{8.eeL-	.
+16b-J	.
+16ddL	.
+16ffJ	.
+=10	=10
+16a\L	.
+16ccJ	.
+8b-L	.
+8ddJ	.
+=11	=11
+8.eeL-	.
+16b-J	.
+16ddL	.
+16ffJ	.
+=12	=12
+16b-/L	.
+16aJ	.
+8fL	.
+8b-/J}	.
 !!LO:LB:g=esac
-=13
-{8.ee-
-16b-
-16dd
-16ff
-=14
-16a
-16cc
-8b-
-8dd
-=15
-8.ee-
-16b-
-16dd
-16ff
-=16
-16b-
-16a
-8f
-8b-}
-==
-*-
+=13	=13
+{8.eeL-	.
+16b-J	.
+16ddL	.
+16ffJ	.
+=14	=14
+16a\L	.
+16ccJ	.
+8b-L	.
+8ddJ	.
+=15	=15
+8.eeL-	.
+16b-J	.
+16ddL	.
+16ffJ	.
+=16	=16
+16b-/L	.
+16aJ	.
+8fL	.
+8b-/J}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oj żebym ci ja była
+!!da i u matuli dłuży,
+!!oj by ła'ć byja była
+!!da i jak kwiatyszek róży.
+!!@@END: VERSES
+!!!role-singer: Girl
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=107 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 93} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 93}
 !!!page: 93
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-12

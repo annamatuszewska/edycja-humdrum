@@ -3,99 +3,110 @@
 !!!source: DWOK04
 !!!id: K0199
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16g
-16g
-8cc
-8cc
-=2
-16cc
-16ee
-4g
-=3
-16cc
-16dd
-8ee
-8cc
-=4
-16ee
-16ff
-4dd}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16g	U
+16g	me-
+8cc	-na-
+8cc	-rza
+=2	=2
+16cc	Mar-
+16ee	-ci-
+4g	-na
+=3	=3
+16cc	jest
+16dd	tam
+8ee	piękna
+8cc	.
+=4	=4
+16ee	dziewczy-
+16ff	.
+4dd}	-na.
 !!LO:LB:g=esac
-=5
-{16g
-16b
-8dd
-8dd
-=6
-16gg
-16gg
-16gg
-16ee
-16ff
-16aa
-=7
-16ee
-16ee
-8dd
-8dd
-=8
-16g
-16g
-4cc}
+=5	=5
+{16g	Daj
+16b	dy,
+8dd	raj-
+8dd	-da,
+=6	=6
+16gg	tom-
+16gg	-ty
+16gg	da
+16ee	da
+16ff	rom-
+16aa	-ty,
+=7	=7
+16ee	jest
+16ee	tam
+8dd	piękna
+8dd	.
+=8	=8
+16g	dziewczy-
+16g	.
+4cc}	-na.
 !!LO:LB:g=esac
-=9
-{16ee
-16dd
-16ee
-16gg
-16ff
-16ee
-=10
-16dd
-16dd
-8gg
-8aa
-=11
-16g
-16a
-8b
-8dd
-=12
-16cc
-16b
-4cc}
+=9	=9
+{16eeL	.
+16ddJ	.
+16eeL	.
+16ggJ	.
+16ffL	.
+16eeJ	.
+=10	=10
+16ddL	.
+8bq	.
+16ddJ	.
+8ggL	.
+8aaJ	.
+=11	=11
+16gL	.
+16aJ	.
+8bL	.
+8ddJ	.
+=12	=12
+16ccL	.
+16bJ	.
+4cc}	.
 !!LO:LB:g=esac
-=13
-{16ee
-16dd
-16ee
-16gg
-16ff
-16ee
-=14
-16dd
-16dd
-8gg
-8aa
-=15
-16g
-16a
-8b
-8dd
-=16
-16cc
-16b
-4cc}
-==
-*-
+=13	=13
+{16eLe	.
+16ddJ	.
+16eeL	.
+16ggJ	.
+16ffL	.
+16eeJ	.
+=14	=14
+16ddL	.
+8bq	.
+16ddJ	.
+8ggL	.
+8aaJ	.
+=15	=15
+16gL	.
+16aJ	.
+8bL	.
+8ddJ	.
+=16	=16
+16ccL	.
+16bJ	.
+4cc}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!U menarza Marcina
+!!jest tam piękna dziewczyna.
+!!Daj dy, rajda, tomty da da romty,
+!!jest tam piękna dziewczyna.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=119 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 105} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 105}
 !!!page: 105
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-13

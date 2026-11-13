@@ -3,91 +3,101 @@
 !!!source: DWOK04
 !!!id: K0165
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16a
-16g
-8a
-8a
-=2
-8b-
-4g
-=3
-16b-
-16dd
-16ff
-16ee
-8cc
-=4
-8dd
-8g
-8f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16a	Żebymci
+16g	.
+8a	.
+8a	ja
+=2	=2
+8b-/	mia-
+4g	-ła
+=3	=3
+16b-	skrzydełka
+16dd	.
+16ffL	.
+16eeJ	.
+8cc	jak
+=4	=4
+8dd	gą-
+8gL	-ska,
+8f}J	.
 !!LO:LB:g=esac
-=5
-{16a
-16g
-8a
-8a
-=6
-8g
-8.b-
-16g
-=7
-16b-
-16cc
-8dd
-8cc
-=8
-8b-
-8g
-8f}
+=5	=5
+{16a	pole-
+16g	.
+8a	-cia-
+8a	-ła
+=6	=6
+8g\	bym
+8.b-L	ja
+16g\J	.
+=7	=7
+16b-	za
+16cc	Jasiem
+8dd	.
+8cc	do
+=8	=8
+8b-/	Śląska.
+8gL	.
+8f}J	.
 !!LO:LB:g=esac
-=9
-{16a
-16g
-8a
-8a
-=10
-8g
-8b-
-8g
-=11
-16b-
-16dd
-16ff
-16ee
-8cc
-=12
-8dd
-8g
-8f}
+=9	=9
+{16aL	.
+16gJ	.
+8aL	.
+8aJ	.
+=10	=10
+8g	.
+8b-/L	.
+8gJ	.
+=11	=11
+16bL-	.
+16dd	.
+16ff	.
+16ee	.
+8ccJ	.
+=12	=12
+8dd	.
+8gL	.
+8f}J	.
 !!LO:LB:g=esac
-=13
-{16a
-16g
-8a
-8a
-=14
-8g
-8.b-
-16g
-=15
-16cc
-16cc
-8dd
-8cc
-=16
-8b-
-8g
-8f}
-==
-*-
+=13	=13
+{16aL\	.
+16g\J	.
+8a\L	.
+8a\J	.
+=14	=14
+8g	.
+8.b-/L	.
+16gJ	.
+=15	=15
+16ccL	.
+16ccJ	.
+8ddL	.
+8ccJ	.
+=16	=16
+8b-/	.
+8gL	.
+8f}J	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Żebymci ja miała
+!!skrzydełka jak gąska,
+!!poleciała bym ja
+!!za Jasiem do Śląska.
+!!@@END: VERSES
+!!!role-singer: Girl
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=105 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 91-92} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), pp. 91-92}
 !!!page: 91-92
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-12

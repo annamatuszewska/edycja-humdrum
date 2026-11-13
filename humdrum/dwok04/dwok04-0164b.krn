@@ -1,4 +1,4 @@
-!!!!SEGMENT: DWOK04-K0164b-a_dzien_dobry_panience.krn
+!!!!SEGMENT: DWOK04-K016b-a_dzien_dobry_panience.krn
 !!!OTL: A dzien dobry panience
 !!!source: DWOK04
 !!!id: K0164b
@@ -9,81 +9,85 @@
 *B-:
 *M2/4
 =1
+!LO:TX:a:t=Skrzypce.
 {4f
 4b-
 =2
 4f
 4dd
 =3
-8f
-8f
+8fL
+8fJ
+16bL-
+16f\
 16b-
-16f
-16b-
-16dd
+16ddJ
 =4
 4ff
 4ee-}
 !!LO:LB:g=esac
 =5
-{8dd
-8gg
-8.ff
-16ee-
+{8ddL
+8ggJ
+8.ffL
+16ee-J
 =6
-8dd
-8dd
-8.f
-16b-
+8ddL
+8ddJ
+8.fL
+16b-/J
 =7
-8a
-8a
-8f
-8a
+8aL
+8b-q
+8aJ
+8fL
+8aJ
 =8
 4cc
 8b-}
 8r
 !!LO:LB:g=esac
 =9
-{8a
-8a
-8g
-8a
+{8a\L
+8b-q
+8a\J
+8gL
+8aJ
 =10
-8b-
+8b-/L
 8d
 8.g
-16f
+16fJ
 =11
-8e
+8eL
 8g
 8e
-8cc
+8cc/J
 =12
-8.dd
-16cc
-8a
-8f}
+8.ddL
+16ccJ
+8aL
+8f}J
 !!LO:LB:g=esac
 =13
-{4a
-8g
-8a
+{4am
+8gL
+8aJ
 =14
-8b-
+8b-/L
 8d
 8g
-8f
+8fJ
 =15
-8e
+8eL
 8g
 8e
-8cc
+8cc/J
 =16
-8a
+8aL
+8b-q
 16a
-16g
+16gJ
 4f}
 ==
 *-
@@ -93,3 +97,5 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=105 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 91} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 91}
 !!!page: 91
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-12

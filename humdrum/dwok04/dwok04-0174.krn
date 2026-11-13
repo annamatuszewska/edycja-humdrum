@@ -3,90 +3,97 @@
 !!!source: DWOK04
 !!!id: K0174
 !!!signature:
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/8
-=1
-{16cc#
-16dd
-8ee
-8ff#
-=2
-4ee
-8a
-=3
-8ff#
-8.dd
-16b}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M3/8	*
+=1	=1
+{16cc#	A
+16dd	pod
+8ee	bo-
+8ff#	-rem
+=2	=2
+4ee	si-
+8a\	-we
+=3	=3
+8ff#	ko-
+8.dLd	-nie,
+16b}J	.
 !!LO:LB:g=esac
-=4
-{16cc#
-16b
-8cc#
-8ee
-=5
-4b
-8g#
-=6
-8e
-8.dd
-16b
-=7
-16cc#
-16b
-8cc#
-8ee
-=8
-4b
-8g#
-=9
-8e
-8.dd
-16b}
+=4	=4
+{16cc#	biegaj
+16b	.
+8cc#	Ja-
+8ee	-siu
+=5	=5
+8g#	-gaj
+=6	=6
+8e	po
+8.dLd	nie,
+16bJ	biegaj
+=7	=7
+16cc#	.
+16b	Ja-
+8cc#	.
+8ee	-siu
+=8	=8
+4b/	bie-
+8g#	-gaj
+=9	=9
+8e	po
+8.dLd	nie.
+16b}J	.
 !!LO:LB:g=esac
-=10
-{16cc#
-16dd
-8ee
-8ff#
-=11
-4ee
-8a
-=12
-8ff#
-8.dd
-16b}
+=10	=10
+{16cc#	A
+16dd	pod
+8ee	bo-
+8ff#	-rem
+=11	=11
+4ee	si-
+8a\	-we
+=12	=12
+8ff#	ko-
+8.dLd	-nie,
+16b}J	.
 !!LO:LB:g=esac
-=13
-{16cc#
-16b
-8cc#
-8ee
-=14
-4b
-8g#
-=15
-8e
-8.dd
-16b
-=16
-16cc#
-16b
-8cc#
-8ee
-=17
-4b
-8g#
-=18
-8e
-8.dd
-16b}
-==
-*-
+=13	=13
+{16cc#	biegaj
+16b	.
+8cc#	Ja-
+8ee	-siu
+=14	=14
+4b/	bie-
+8g#	-gaj
+=15	=15
+8e	po
+8.dLd	nie,
+16bJ	biegaj
+=16	=16
+16cc#	.
+16b	Ja-
+8cc#	.
+8ee	-siu
+=17	=17
+4b/	bie-
+8g#	-gaj
+=18	=18
+8e	po
+8.dLd	nie.
+16b}J	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A pod borem siwe konie,
+!!biegaj Jasiu, biegaj po nie,
+!!biegaj Jasiu, biegaj po nie.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=110 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 96} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 96}
 !!!page: 96
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-12

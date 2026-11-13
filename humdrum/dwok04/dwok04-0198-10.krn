@@ -3,58 +3,67 @@
 !!!source: DWOK04
 !!!id: K0198
 !!!signature: 0419800010
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16g
-16b
-8cc
-8ee
-=2
-8cc
-4a
-=3
-16a
-16f
-8cc
-8a
-=4
-16f
-16g
-4e}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16g	U
+16b	my-
+8cc	-na-
+8ee	-rza
+=2	=2
+8cc	nasze-
+4a	-go,
+=3	=3
+16a	jest
+16f	tam
+8cc	Ka-
+8a	-sia
+=4	=4
+16f	u-
+16g	-nie-
+4e}	-go
 !!LO:LB:g=esac
-=5
-{16g
-16f
-16e
-16g
-16cc
-16cc
-=6
-16g
-16f
-16e
-16g
-16cc
-16cc
-=7
-16dd
-16ee
-8ff
-16ff
-16b
-=8
-16.cc
-32cc
-4cc}
-==
-*-
+=5	=5
+{16g	Oj
+16f	da
+16e	ra-
+16g	-da,
+16cc	ra-
+16cc	-da,
+=6	=6
+16g	ej
+16f	da
+16e	ra-
+16g	-da,
+16cc	ra-
+16cc	-da,
+=7	=7
+16dd	jest
+16ee	tam
+8ff	Ka-
+16ffL	-sia
+16bJ	.
+=8	=8
+16.cc	u
+32cc	nie-
+4cc}	-go.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!U mynarza naszego,
+!!jest tam Kasia uniego
+!!Oj da rada, rada, ej da rada, rada,
+!!jest tam Kasia u niego.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!ONB: Część wokalna
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=119 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 105} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 105}
 !!!page: 105
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-13

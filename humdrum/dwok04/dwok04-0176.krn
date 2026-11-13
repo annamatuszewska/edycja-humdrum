@@ -3,90 +3,99 @@
 !!!source: DWOK04
 !!!id: K0176
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16cc
-16g
-8cc
-8ee
-=2
-8cc
-4g
-=3
-16g
-16g
-8cc
-8ee
-=4
-8cc
-4g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16cc	Na
+16g	zie-
+8cc	-lo-
+8ee	-ny
+=2	=2
+8cc	łą-
+4g\	-ce
+=3	=3
+16g\	pa-
+16g\	-sie
+8cc	Ja-
+8ddq	.
+8ee	-sio
+=4	=4
+8cc	owce.
+4g}	.
 !!LO:LB:g=esac
-=5
-{16a
-16b
-8cc
-16b
-16a
-=6
-16g
-16a
-8.g
-16f
-=7
-16e
-16d
-8d
-8g
-=8
-8e
-4c}
+=5	=5
+{16a	J-
+16b/	-dzie
+8ccM	za
+16b/L	nim
+16aJ	.
+=6	=6
+16g	grzecna
+16a	.
+8.g	Ka-
+16f	-sia
+=7	=7
+16e	dzieciątko
+16d	.
+8d	.
+8g	mu
+=8	=8
+8e	nie-
+4c}	-sie.
 !!LO:LB:g=esac
-=9
-{16a
-16b
-8cc
-16b
-16a
-=10
-16g
-16a
-8.g
-16f
-=11
-16e
-16d
-8d
-8g
-=12
-8e
-4c}
+=9	=9
+{16a	J-
+16b/	-dzie
+8ccM	za
+16b/L	nim
+16aJ	.
+=10	=10
+16g	grzecna
+16a	.
+8.g	Ka-
+16f	-sia
+=11	=11
+16e	dzieciątko
+16d	.
+8d	.
+8g	mu
+=12	=12
+8e	nie-
+4c}	-sie.
 !!LO:LB:g=esac
-=13
-{16e
-16c
-8e
-8g
-=14
-16e
-16c
-8e
-8g
-=15
-16e
-16d
-8d
-8g
-=16
-8e
-4c}
-==
-*-
+=13	=13
+{16eL	.
+16cJ	.
+8eL	.
+8gJ	.
+=14	=14
+16eL	.
+16cJ	.
+8eL	.
+8gJ	.
+=15	=15
+16eL	.
+16dJ	.
+8dL	.
+8gJ	.
+=16	=16
+8e	.
+4c}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Na zielony łące pasie Jasio owce.
+!!Jdzie za nim grzecna Kasia
+!!dzieciątko mu niesie.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=110 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 96-97} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), pp. 96-97}
 !!!page: 96-97
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-12

@@ -3,95 +3,108 @@
 !!!source: DWOK04
 !!!id: K0193
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16b
-8dd
-8ee
-=2
-16dd
-16cc#
-8dd
-8b
-=3
-16dd
-16cc#
-8a
-8cc#
-=4
-8dd
-4b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Có-
+16b	-ruś
+8dd	mo-
+8ee	-ja
+=2	=2
+16dd	dzie-
+16cc#	-cie,
+8dd	mo-
+8b	-je
+=3	=3
+16dd	kto
+16cc#	po
+8a	sie-
+8cc#	-ni
+=4	=4
+8dd	cho-
+4b}	-dzi.
 !!LO:LB:g=esac
-=5
-{4g
-8a
-=6
-16cc
-16b
-8a
-8b
-=7
-16g
-16f#
-8e
-8a
-=8
-8f#
-4d}
+=5	=5
+{4g	Jaś,
+8a	Jaś,
+=6	=6
+16ccn	ma-
+16b	-tu-
+8a	-liń-
+8b/	-ku,
+=7	=7
+16g	Ja-
+16f#	-sio
+8e	ko-
+8a	-nia
+=8	=8
+8f#	chło-
+4d}	-dzi
 !!LO:LB:g=esac
-=9
-{16cc
-16b
-8a
-8b
-=10
-16g
-16f#
-8g
-8a
-=11
-16g
-16f#
-8e
-8a
-=12
-8f#
-4d
-=13
-8d
-4g}
+=9	=9
+{8bq	.
+16ccL	.
+16bJ	.
+8aL	.
+8b/J	.
+=10	=10
+16gL	.
+16f#J	.
+8gL	.
+8aJ	.
+=11	=11
+16gL	.
+16f#J	.
+8eL	.
+8aJ	.
+=12	=12
+8f#\	.
+4d	.
+=13	=13
+8d	.
+4g}^	.
 !!LO:LB:g=esac
-=
-{24a
-24b
-24f#
-8.g
-16a
-=14
-16b
-16b
-8a
-16b
-16a
-=15
-16g
-16f#
-8e
-8a
-=
-24g
-24f#
-24e
-4d}
-==
-*-
+=14	=14
+*Xtuplet	*
+{24aL	.
+24b/	.
+24f#J	.
+8.gL	.
+16aJ	.
+=15	=15
+16bL	.
+16bJ	.
+8aL	.
+16b/	.
+16aJ	.
+=16	=16
+16gL	.
+16f#	.
+8e	.
+8aJ	.
+=17	=17
+24gL	.
+24f#	.
+24eJ	.
+4d}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Córuś moja dziecie, moje
+!!kto po sieni chodzi.
+!!Jaś, Jaś, matulińku,
+!!Jasio konia chłodzi
+!!@@END: VERSES
+!!!role-singer: Mother, Daughter
+!!!role-listener: Daughter, Mother
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=117 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 103} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 103}
 !!!page: 103
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-13

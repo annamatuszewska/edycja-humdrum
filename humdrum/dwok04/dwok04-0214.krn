@@ -3,59 +3,69 @@
 !!!source: DWOK04
 !!!id: K0214
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M2/4
-=1
-{8g
-8g
-8g
-8b
-=2
-8dd
-8cc
-8gg
-8dd
-=3
-8b
-8dd
-8b
-8dd
-=4
-8cc
-8a
-8g
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M2/4	*
+=1	=1
+!LO:TX:a:t=Duma	!
+{8g	A
+8g	w_Warszawie
+8g	.
+8b/	.
+=2	=2
+8dd	w_kamie-
+8cc	.
+8gg	-ni
+8dd	cy,
+=3	=3
+8b	pi-
+8dd	-li
+8b	win-
+8dd	-ko
+=4	=4
+8cc	rzemieślnicy,
+8a	.
+8g	.
+8g}	.
 !!LO:LB:g=esac
-=5
-{16f#
-16g
-8a
-16f#
-16g
-8a
-=6
-8g
-8g
-8.b
-16g
-=7
-16f#
-16g
-8a
-16f#
-16g
-8a
-=8
-8g
-8e
-4d}
-==
-*-
+=5	=5
+{16f#	tu
+16g	li
+8a	da
+16f#	tu
+16g	li
+8a	da
+=6	=6
+8g	hopsa
+8g	.
+8.b/L	.
+16gJ	sa
+=7	=7
+16f#	tu
+16g	li
+8a	da
+16f#	tu
+16g	li
+8a	da
+=8	=8
+8g	niewola
+8e	.
+4d}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A w Warszawie w kamienicy,
+!!pili winko rzemieślnicy,
+!!tu li da tu li da hopsa sa
+!!tu li da tu li da niewola
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=124 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 110} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 110}
 !!!page: 110
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-13

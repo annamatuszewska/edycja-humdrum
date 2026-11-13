@@ -3,79 +3,94 @@
 !!!source: DWOK04
 !!!id: K0180
 !!!signature:
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{8ee
-8ee
-16ee
-16dd#
-=2
-8ee
-16ee
-16dd#
-8ee}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Kujawiak.	!
+{8eeL	.
+8eeJ	.
+8ff#q	.
+16eeL	.
+16dd#J	.
+=2	=2
+8eeL	.
+8ff#q	.
+16ee	.
+16dd#	.
+8ee}J	.
 !!LO:LB:g=esac
-=
-{16g#
-16b
-8ee
-24dd
-24cc
-24b
-=3
-16ee
-32cc
-32b
-8a
-8a
-=
-16g#
-16b
-8ee
-24dd
-24cc
-24b
-=4
-16a
-32b
-32cc
-8a
-8a}
+=3	=3
+{16g#	Co
+16b/	ja
+8ee	zro-
+*Xtuplet	*
+24ddL	-bi-
+24cc	.
+24bJ	.
+=4	=4
+16ee	-ła
+32ccL	ma-
+32bJ	.
+8a	-tu-
+8a	-siu,
+=5	=5
+16g#	co
+16b/	ja
+8ee	zro-
+24ddL	-bi-
+24cc	.
+24bJ	.
+=6	=6
+16a	-ła,
+32bL	zrobi-
+32ccJ	.
+8a	.
+8a}	-ła,
 !!LO:LB:g=esac
-=5
-{16b
-16b
-8dd
-16cc
-16b
-=
-16a
-16cc
-8ee
-24dd
-24cc
-24b
-=
-16g#
-16b
-8ee
-24dd
-24cc
-24b
-=6
-16a
-32b
-32cc
-8a
-8a}
-==
-*-
+=7	=7
+{16b	com
+16b	się
+8dd	da-
+16ccL	-ła
+16bJ	.
+=8	=8
+16a	chłopcu
+16cc	.
+8ee	u-
+24ddL	-wieść,
+24cc	.
+24bJ	.
+=9	=9
+16g#	bom
+16b/	głupia
+8ee	.
+24ddL	by-
+24cc	.
+24bJ	.
+=10	=10
+16a	-ła
+32bL	da
+32ccJ	.
+8a	by-
+8a}	-ła.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Co ja zrobiła matusiu,
+!!co ja zrobiła, zrobiła,
+!!com się dała chłopcu uwieść,
+!!bom głupia była da była.
+!!@@END: VERSES
+!!!role-singer: Daughter
+!!!role-listener: Mother
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=112 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 98} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 98}
 !!!page: 98
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-12

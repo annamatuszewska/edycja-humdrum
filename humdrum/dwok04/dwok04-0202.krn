@@ -3,61 +3,71 @@
 !!!source: DWOK04
 !!!id: K0202
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{4dd
-8cc#
-=2
-8dd
-4g
-=3
-4cc
-8dd
-=4
-8b
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Weselna	!
+{4dd	Spadła
+8cc#	.
+=2	=2
+8dd	z_wiś-
+4g	-ni
+=3	=3
+4ccn	wi-
+8dd	-dzie-
+=4	=4
+8b	-liś-
+4g}	-my
 !!LO:LB:g=esac
-=5
-{16g
-16a
-8b
-8b
-=6
-16cc
-16b
-8a
-8b
-=7
-4cc
-8f#
-=8
-8g
-4d}
+=5	=5
+{16g	i
+16a	roz-
+8b	-dar-
+8b	-ła
+=6	=6
+16cc	su-
+16b	-kie-
+8a	-neczkę
+8b	.
+=7	=7
+4cc	zszy-
+8f#	-wa-
+=8	=8
+8g	-liś-
+4d}	-my.
 !!LO:LB:g=esac
-=9
-{16g
-16a
-8b
-8b
-=10
-16cc
-16b
-8a
-8b
-=11
-4cc
-8f#
-=12
-8a
-4g}
-==
-*-
+=9	=9
+{16g	i
+16a	roz-
+8b	-dar-
+8b	-ła
+=10	=10
+16cc	su-
+16b	-kie-
+8a	-neczkę
+8b	.
+=11	=11
+4cc	zszy-
+8f#	-wa-
+=12	=12
+8a\	-liś-
+4g}	-my.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Spadła z wiśni
+!!widzieliśmy
+!!i rozdarła sukieneczkę
+!!zszywaliśmy.
+!!@@END: VERSES
+!!!role-singer: Group
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=120 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 106} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 106}
 !!!page: 106
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-13

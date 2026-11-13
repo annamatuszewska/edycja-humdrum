@@ -3,69 +3,82 @@
 !!!source: DWOK04
 !!!id: K0192
 !!!signature:
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/8
-=1
-{8a
-8b
-8cc#
-=2
-16dd
-16cc#
-8b
-8cc#
-=3
-16cc#
-16dd
-8ee
-8ee
-=4
-8ee
-4ee}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M3/8	*
+=1	=1
+{8a\	Mój
+8b	mę-
+8cc#	-żu
+=2	=2
+16dd	po-
+16cc#	-wiedz
+8b	księ-
+8cc#	-dzu,
+=3	=3
+16cc#	nie-
+16dd	.
+8ee	-chaj
+8ee	nie
+=4	=4
+8ee	żar-
+4ee}	-tuje,
 !!LO:LB:g=esac
-=5
-{16dd
-16cc#
-8b
-8b
-=6
-16a
-16b
-8cc#
-8cc#
-=7
-16b
-16g#
-8e
-8e
-=8
-8ee
-4ee}
+=5	=5
+{16dd	ja
+16cc#	do
+8b	nie-
+8b	-go
+=6	=6
+16a\	do
+16b	spo-
+8cc#	-wie-
+8cc#	-dzi
+=7	=7
+16b	on
+16g#	my
+8e	wy-
+8e	-ga-
+=8	=8
+8ee	-du-
+4ee}	-je.
 !!LO:LB:g=esac
-=9
-{8dd
-8cc#
-8b
-=10
-16a
-16b
-8cc#
-8cc#
-=11
-16b
-16g#
-8e
-8e
-=12
-8a
-4a}
-==
-*-
+=9	=9
+{8dd	ej
+8cc#	ej
+8b	ej
+=10	=10
+16a	do
+16b	spo-
+8cc#	-wie-
+8cc#	-dzi,
+=11	=11
+16b	on
+16g#	my
+8e	wy-
+8e	-ga-
+=12	=12
+8a	-du-
+4a}	-je.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Mój mężu powiedz księdzu,
+!!niechaj nie żartuje,
+!!ja do niego do spowiedzi
+!!on my wygaduje.
+!!ej ej ej do spowiedzi,
+!!on my wygaduje.
+!!@@END: VERSES
+!!!role-singer: Wife
+!!!role-listener: Husband
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=117 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 103} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 103}
 !!!page: 103
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-13

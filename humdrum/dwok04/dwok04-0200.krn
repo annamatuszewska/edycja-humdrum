@@ -3,147 +3,159 @@
 !!!source: DWOK04
 !!!id: K0200
 !!!signature:
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M3/4
-=1
-{8b
-8cc#
-8dd
-8dd
-8ee
-8ff#
-=2
-8ee
-8dd
-4cc#
-8b
-8a}
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M3/4	*
+=1	=1
+!LO:TX:a:t=Polski	!
+{8b	Da-
+8cc#	-lij
+8dd	rap-
+8dd	-tem
+8ee	do-
+8ff#	-ni,
+=2	=2
+8ee	raptem
+8dd	.
+4cc#	do-
+8bL	-ni
+8a}J\	.
 !!LO:LB:g=esac
-=3
-{8b
-8cc#
-8dd
-8cc#
-8ee
-8ff#
-=4
-8ee
-8dd
-4cc#
-8b
-8a}
+=3	=3
+{8b	da-
+8cc#	-lij
+8dd	rap-
+8cc#	-tem
+8ee	do-
+8ff#	-ni,
+=4	=4
+8ee	rap-
+8dd	-tem
+4cc#	do-
+8b/L	-ni,
+8a}J	.
 !!LO:LB:g=esac
-=5
-{8b
-8cc#
-8dd
-8b
-8ee
-8dd
-=6
-8a
-8b
-8g
-8e
-4d}
+=5	=5
+{8b	nie
+8cc#	u-
+8ddL	-wa-
+8bJ	.
+8eeL	-żaj,
+8ddJ	.
+=6	=6
+8a	choć
+8b	się
+8gL	bro-
+8eJ	.
+4d}	-ni
 !!LO:LB:g=esac
-=7
-{4f#
-8a
-8g
-8b
-8g
-=8
-8f#
-8a
-4g
-4a
-=9
-4a
-8cc
-8b
-8dd
-8b
-=10
-8a
-8cc
-4g
-4f#}
+=7	=7
+{4f\#	Nie
+8aL	u-
+8gJ	.
+8b	-wa-
+8g	-żaj
+=8	=8
+8f#	kawalerze,
+8a	.
+4g	.
+4a\	.
+=9	=9
+4a	choć
+8ccL	się
+8bJ	.
+8dd	bro-
+8b	-ni
+=10	=10
+8a	to
+8cc	nie
+4g	szczerze.
+4f#}	.
 !!LO:LB:g=esac
-=11
-{8b
-8cc#
-8dd
-8dd
-8ee
-8ff#
-=12
-8ee
-8dd
-4cc#
-8b
-8a}
+=11	=11
+{8b	Da-
+8cc#	-lij
+8dd	rap-
+8dd	-tem
+8ee	do-
+8ff#	-ni,
+=12	=12
+8ee	raptem
+8dd	.
+4cc#	do-
+8bL	-ni
+8a}\J	.
 !!LO:LB:g=esac
-=13
-{8b
-8cc#
-8dd
-8cc#
-8ee
-8ff#
-=14
-8ee
-8dd
-8cc#
-8dd
-8b
-8a}
+=13	=13
+{8b	da-
+8cc#	-lij
+8dd	rap-
+8cc#	-tem
+8ee	do-
+8ff#	-ni,
+=14	=14
+8ee	rap-
+8dd	-tem
+8cc#/L	do-
+8dd/J	.
+8b/L	-ni,
+8a}J	.
 !!LO:LB:g=esac
-=15
-{8b
-8cc#
-8dd
-8b
-8ee
-8dd
-=16
-8a
-8b
-8g
-8e
-4d}
+=15	=15
+{8b	nie
+8cc#	u-
+8ddL	-wa-
+8bJ	.
+8eeL	-żaj,
+8ddJ	.
+=16	=16
+8a	choć
+8b	się
+8gL	bro-
+8eJ	.
+4d}	-ni
 !!LO:LB:g=esac
-=17
-{8f#
-8a
-8a
-8g
-8b
-8g
-=18
-8f#
-8a
-4g
-8a
-8cc
-=19
-4a
-8cc
-8b
-8dd
-8b
-=20
-8a
-8cc
-4g
-4f#}
-==
-*-
+=17	=17
+{8fL#	Nie
+8aJ	.
+8aL	u-
+8gJ	.
+8b	-wa-
+8g	-żaj
+=18	=18
+8f#	kawalerze,
+8a	.
+4g	.
+8aL	choć
+8cc/J	.
+=19	=19
+4a	się
+8ccL	bro-
+8bJ	.
+8dd	-ni
+8b	to
+=20	=20
+8a	nie
+8cc	szczerze.
+4g	.
+4f#}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Dalij raptem doni, raptem doni
+!!dalij raptem doni, raptem doni,
+!!nie uważaj, choć się broni
+!!Nie uważaj kawalerze,
+!!choć się broni to nie szczerze.
+!!@@END: VERSES
+!!!role-singer: Group
+!!!role-listener: Bachelor
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=119 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 105-106} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), pp. 105-106}
 !!!page: 105-106
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-13

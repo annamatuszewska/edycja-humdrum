@@ -3,170 +3,189 @@
 !!!source: DWOK04
 !!!id: K0170
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{4.g
-8d
-8g
-8b
-=2
-8ee
-8dd
-4cc
-4a
-=3
-8a
-8b
-4cc
-4ee
-=4
-8dd
-8cc#
-4.dd
-8f#}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+!LO:TX:a:t=Kujawiak.	!
+{4.g	U-
+8d	-czyłam
+8g	.
+8b/	się
+=2	=2
+8ee	trzy
+8dd	niedzie-
+4cc	.
+4a	-li,
+=3	=3
+8a	nim
+8b/	się
+4cc	lu-
+4ee	-dzie
+=4	=4
+8dd	dowiedzie-
+8cc#	.
+4.dd	.
+8f#}	-li.
 !!LO:LB:g=esac
-=5
-{4.g
-8f#
-8g
-8b
-=6
-8a
-8b
-4a
-8g
-8e
-=7
-8e
-8e
-4f#
-4a
-=8
-8d
-16e
-16f#
-4g
-4d}
+=5	=5
+{4.g	Jak
+8f#	się
+8g	ludzie
+8b/	.
+=6	=6
+8a	dowiedzie-
+8b/	.
+4a	.
+8gL	-li,
+8eJ	.
+=7	=7
+8e	przed
+8e	.
+4f#	matu-
+4a	-lą
+=8	=8
+8d	powiedzie-
+16eL	.
+16f#J	.
+4g	.
+4d}	-li,
 !!LO:LB:g=esac
-=9
-{4.g
-8f#
-8g
-8b
-=10
-8b
-8b
-4a
-8g
-8e
-=11
-8e
-8e
-4f#
-4a
-=12
-16g
-16f#
-16e
-16f#
-4g
-4d}
+=9	=9
+{4.g	jak
+8f#	się
+8g	ludzie
+8b/	.
+=10	=10
+8b/	dowiedzieli
+8b/	.
+4a	.
+8gL	.
+8eJ	.
+=11	=11
+8e	przed
+8e	.
+4f#	matu-
+4a	-lą
+=12	=12
+16gL	powiedzie-
+16f#J	.
+16eL	.
+16f#J	.
+4g	.
+4d}	-li.
 !!LO:LB:g=esac
-=13
-{4g
-8cc
-8b
-8cc
-8ee
-=14
-8aa
-8gg
-4ff#
-4dd
-=15
-8dd
-8ff
-4dd
-4ff
-=16
-8ee
-8ff
-4.gg
-8dd}
+=13	=13
+{4g	.
+8ddq	.
+8ccL	.
+8b	.
+8cc	.
+8eeJ	.
+=14	=14
+8aaL	.
+8ggJ	.
+4ff#	.
+4dd	.
+=15	=15
+8ddL	.
+8ffJ	.
+4dd	.
+4ff	.
+=16	=16
+8eeL	.
+8ffJ	.
+4.ggM	.
+8dd}	.
 !!LO:LB:g=esac
-=17
-{4g
-8cc
-8b
-8cc
-16ee
-16ff#
-=18
-8aa
-8gg
-4ff#
-4dd
-=19
-8dd
-8ff
-4dd
-4ff
-=20
-8ee
-8ff
-4.gg
-8dd}
+=17	=17
+{4g	.
+8ddq	.
+8ccL	.
+8b	.
+8ccJ	.
+16ee/L	.
+16ff#/J	.
+=18	=18
+8aaL	.
+8ggJ	.
+4ff#	.
+4dd	.
+=19	=19
+8ddL	.
+8ffJ	.
+4dd	.
+4ff	.
+=20	=20
+8eeL	.
+8ffJ	.
+4.ggM	.
+8dd}	.
 !!LO:LB:g=esac
-=21
-{4.cc
-8b
-8cc
-8ee
-=22
-8ee
-8dd
-4b
-4a
-=23
-8a
-8a
-4b
-4dd
-=24
-8g
-8b
-4.cc
-8g}
+=21	=21
+{4.cc	.
+8b	.
+8ccL	.
+8eeJ	.
+=22	=22
+8ffq	.
+8eeL	.
+8ddJ	.
+8ccq	.
+4b	.
+4a	.
+=23	=23
+8aL	.
+8aJ	.
+4b	.
+4ddM	.
+=24	=24
+8gL	.
+8b/J	.
+4.cc	.
+8g}	.
 !!LO:LB:g=esac
-=25
-{4.cc
-8b
-8cc
-8ee
-=26
-8ee
-8dd
-4b
-8a
-8a
-=27
-8a
-8a
-4b
-4dd
-=28
-8g
-8b
-4.cc
-8g}
-==
-*-
+=25	=25
+{4.cc	.
+8b	.
+8ccL	.
+8eeJ	.
+=26	=26
+8ffq	.
+8eeL	.
+8ddJ	.
+8ccq	.
+4b	.
+8a\L	.
+8a\J	.
+=27	=27
+8aL	.
+8aJ	.
+4b	.
+4ddM	.
+=28	=28
+8gL	.
+8b/J	.
+4.cc	.
+8g}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Uczyłam się trzy niedzieli,
+!!nim się ludzie dowiedzieli.
+!!Jak się ludzie dowiedzieli,
+!!przed matulą powiedzieli,
+!!jak się ludzie dowiedzieli
+!!przed matulą powiedzieli.
+!!@@END: VERSES
+!!!role-singer: Girl
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=108 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 94} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 94}
 !!!page: 94
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-12

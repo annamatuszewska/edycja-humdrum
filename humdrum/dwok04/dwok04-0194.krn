@@ -3,81 +3,93 @@
 !!!source: DWOK04
 !!!id: K0194
 !!!signature:
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-=1
-*M3/8
-{16ee
-16ff#
-8ee
-8g#
-=2
-16a
-16cc#
-8b
-8a
-=3
-16a
-16b
-8cc#
-8dd#
-=4
-4ee
-8e}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+=1	=1
+*M3/8	*
+{16ee	A-
+16ff#	-nulinku,
+8ee	.
+8g#	.
+=2	=2
+16a	dziecię
+16cc#	.
+8b	moje
+8a	.
+=3	=3
+16a\	a
+16b	chtoto
+8cc#	.
+8dd#	tam
+=4	=4
+4ee	pu-
+8e}	-ka?
 !!LO:LB:g=esac
-=5
-*M5/16
-{16e
-16dd
-16cc
-16b
-16g#
-=6
-*M3/8
-16a
-16cc#
-8b
-8a
-=7
-16a
-16cc#
-16a
-16g#
-8f#
-=8
-4b
-8e}
+=5	=5
+{16e	Matulińku
+16dd	.
+16ccL	.
+16bJ	.
+16g#	.
+=6	=6
+16a\	do-
+16cc#	-brodziéjko
+8b	.
+8a	.
+=7	=7
+16a\	kotek
+16cc#	.
+16aL	myszki
+16g#J	.
+8f#	.
+=8	=8
+4b	szuka
+8e}	.
 !!LO:LB:g=esac
-=9
-{4dd
-8dd
-=10
-16cc#
-16g#
-8a
-8cc#
-=11
-4.b
-=12
-16b
-16cc#
-8dd
-8ee
-=13
-16dd
-16cc#
-8a
-8cc#
-=14
-16a
-16g#
-4e}
-==
-*-
+=9	=9
+{4dd	kot,
+8dd	kot,
+=10	=10
+16cc#	Matulińku
+16g#	.
+8a	.
+8cc#	.
+=11	=11
+4.b	Kot,
+=12	=12
+16b	na-
+16cc#	-ro-
+8dd	-bił
+8ee	mi
+=13	=13
+16dd	w_poko-
+16cc#	.
+8a	-i-
+8cc#	-ku
+=14	=14
+16aL	łos-
+16g#J	.
+4e}	-kot.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Anulinku, dziecię moje
+!!a chtoto tam puka?
+!!Matulińku dobrodziéjko
+!!kotek myszki szuka
+!!kot, kot, Matulińku
+!!Kot, narobił mi
+!!w pokoiku łoskot.
+!!@@END: VERSES
+!!!role-singer: Mother, Daughter
+!!!role-listener: Daughter, Mother
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=117 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 103-104} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), pp. 103-104}
 !!!page: 103-104
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-13

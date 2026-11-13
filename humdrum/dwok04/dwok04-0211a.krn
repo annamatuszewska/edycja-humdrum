@@ -3,92 +3,103 @@
 !!!source: DWOK04
 !!!id: K0211a
 !!!signature:
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{8a
-8a
-4ee
-4ee
-=2
-4dd
-4dd
-4cc
-=3
-8dd
-8ee
-4dd
-4ee
-=
-4a
-12cc
-12b
-12a
-4g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+!LO:TX:a:t=Duma	!
+{8a	Moij
+8a	.
+4ee	matki
+4ee	.
+=2	=2
+4dd	ro-
+4dd	-dzo-
+4cc	-ny,
+=3	=3
+8dd	sto-
+8ee	-i
+4dd	ja-
+4ee	-wor
+=4	=4
+4a	zie-
+*Xtuplet	*
+12cc/L	-lo-
+12b/	.
+12aJ	.
+4g}	-ny,
 !!LO:LB:g=esac
-=4
-{4a
-4.cc
-8dd
-=5
-8ee
-8ff
-4ee
-4g
-=
-4a
-12a
-12b
-12cc
-4a}
+=5	=5
+{4a	ser
+(4.cc	deń-
+8dd)	.
+=6	=6
+8ee	-ko
+8ff	serdeńko,
+4ee	.
+4g	.
+=7	=7
+4a	zielo
+12a\L	.
+12b	.
+12ccJ	.
+4a};	ny.
 !!LO:LB:g=esac
-=6
-{8a
-8a
-4ee
-4ee
-=
-4dd
-12ff
-12ee
-12dd
-4cc
-=7
-8dd
-8ee
-4dd
-4ee
-=
-4a
-12cc
-12b
-12a
-4g}
+=8	=8
+{8a	Sto-
+8a	-i
+4ee	pod
+4ee	niem
+=9	=9
+4dd/	łóżeczko,
+12ff/L	.
+12ee/	.
+12dd/J	.
+4cc/	.
+=10	=10
+8dd	le-
+8ee	-ży
+4dd	na
+4ee	niem
+=11	=11
+4a	Ja-
+12ccL/	-sieczko,
+12b/	.
+12aJ	.
+4g}	.
 !!LO:LB:g=esac
-=8
-{8a
-8b
-4.cc
-8g
-=9
-8ee
-8gg
-4ee
-4g
-=
-4a
-12dd
-12cc
-12b
-4a}
-==
-*-
+=12	=12
+{8aL	ser-
+8b/J	.
+(4.cc	-deń-
+8g)	.
+=13	=13
+8ee	-ko
+8gg	serdeńko,
+4ee	.
+4g	.
+=14	=14
+4a	Jasieczko.
+12d/Ld	.
+12cc/	.
+12b/J	.
+4a};	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Moij matki rodzony, stoi jawor zielony,
+!!serdeńko serdeńko, zielony.
+!!Stoi pod niem łóżeczko, leży na niem Jasieczko,
+!!serdeńko serdeńko, Jasieczko.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!ONB: Wariant alternatywny
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=123 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 109} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 109}
 !!!page: 109
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-13

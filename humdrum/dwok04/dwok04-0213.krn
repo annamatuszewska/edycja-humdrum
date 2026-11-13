@@ -3,61 +3,70 @@
 !!!source: DWOK04
 !!!id: K0213
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/4
-=1
-{4f
-4f
-4f
-=2
-2g
-4cc
-=3
-2a
-4f
-=4
-4g
-4f}
-4r
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/4	*
+=1	=1
+!LO:TX:a:t=Duma	!
+{4f	A
+4f	na
+4f	po-
+=2	=2
+2g	-do-
+4cc	-lu
+=3	=3
+2a	bio-
+4f	-ły
+=4	=4
+4g	ka
+4f}	mień,
+4r	.
 !!LO:LB:g=esac
-=5
-{4a
-4a
-4b-
-=6
-2cc
-4cc
-=7
-4cc
-4cc
-4a
-=8
-4b-
-4a
-4g}
+=5	=5
+{4a	a
+4a	na
+4b-	po-
+=6	=6
+2cc	-do-
+4cc	-lu
+=7	=7
+4cc	sy-
+4cc	-no-
+4a	-rum
+=8	=8
+(4b-	rek-
+4a)	.
+4g}	-tum
 !!LO:LB:g=esac
-=9
-{8a
-8a
-4a
-4f
-=10
-2g
-4cc
-=11
-2a
-4f
-=12
-4g
-4f}
-4r
-==
-*-
+=9	=9
+{8a	po-
+8a	-dó-
+4a	-rektum
+4f	.
+=10	=10
+2g	dek-
+4cc	-tum
+=11	=11
+2a	bio-
+4f	-ły
+=12	=12
+4g	ka-
+4f}	-mień
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A na podolu bioły kamień,
+!!a na podolu synorum rektum
+!!podórektum dektum bioły kamień
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=124 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 110} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 110}
 !!!page: 110
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-13

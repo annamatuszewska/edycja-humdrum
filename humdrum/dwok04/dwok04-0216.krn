@@ -3,60 +3,72 @@
 !!!source: DWOK04
 !!!id: K0216
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8dd
-8cc
-4.b
-8g
-=2
-8dd
-8dd
-8ee
-8dd
-8cc
-8b
-=3
-8cc
-8a
-4.a
-8b
-=4
-8cc
-8ee
-8dd
-8cc
-8b
-8a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+!LO:TX:a:t=Duma	!
+{8dd	Wy-
+8cc	-je-
+4.b	-chał
+8g	pan
+=2	=2
+8dd	z_charta-
+8dd	.
+8ee	-mi
+8dd	na
+8cc	po-
+8b	-le
+=3	=3
+8cc	i
+8a	zo-
+4.a\	-sta-
+8b	-wił
+=4	=4
+8cc	ma-
+8ee	-luśkie
+8dd	.
+8cc	pacholę
+8b	.
+8a}	.
 !!LO:LB:g=esac
-=5
-{8g
-8g
-4f#
-4d
-=6
-8g
-8b
-2dd
-=7
-8gg
-8dd
-4b
-8g
-8b
-=8
-8cc
-8a
-4g}
-4r
-==
-*-
+=5	=5
+{8g	że-
+8g	-by
+4f#	dwo-
+4d	-ru
+=6	=6
+8f#q	.
+8g	pil-
+8b	-no-
+2dd	-wał,
+=7	=7
+8ff#q	.
+8gg	że-
+8dd	-by
+4b	dwo-
+8gL	-ru
+8b/J	.
+=8	=8
+8cc	pil-
+8a	-no-
+4g}	-wał.
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Wyjechał pan z chartami na pole
+!!i zostawił maluśkie pacholę
+!!żeby dworu pilnował,
+!!żeby dworu pilnował.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=125 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 111} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 111}
 !!!page: 111
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-13

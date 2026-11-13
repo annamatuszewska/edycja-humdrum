@@ -3,205 +3,214 @@
 !!!source: DWOK04
 !!!id: K0163
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16g
-8b
-8dd
-=2
-16cc
-16cc
-8ee
-8gg
-=3
-16g
-16g
-8b
-8dd
-=4
-8cc
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	Wy-
+16g	-je-
+8b	-chał
+8dd	ci
+=2	=2
+16cc	pan
+16cc	staro-
+8ee	.
+8gg	-sta
+=3	=3
+16g	w_po-
+16g	-le
+8b	na
+8dd	za-
+=4	=4
+8cc	-ją-
+4g}	-ce
 !!LO:LB:g=esac
-=5
-{16g
-16a
-8b
-8b
-=6
-16a
-16b
-8cc
-8cc
-=7
-16g
-16g
-8b
-8g
-=8
-8a
-4d}
+=5	=5
+{16g	i
+16a	na
+8b/	po-
+8b/	-tkał
+=6	=6
+16a	trzy
+16b/	panien-
+8cc	.
+8cc	-ki
+=7	=7
+16g	na
+16g	zie
+8b	lo-
+8g	-ny
+=8	=8
+8a	łą-
+4d}	-ce.
 !!LO:LB:g=esac
-=9
-{16g
-16g
-8b
-8dd
-=10
-16cc
-16cc
-8ee
-8gg
-=11
-16g
-16g
-16b
-16g
-16b
-16dd
-=12
-8cc
-4g}
+=9	=9
+{16g	Wy-
+16g	-je-
+8b	-chał
+8dd	ci
+=10	=10
+16cc	pan
+16cc	staro-
+8ee	.
+8gg	-sta
+=11	=11
+16g	w_po-
+16g	-le
+16b/L	na
+16gJ	.
+16b/L	za-
+16dd/J	.
+=12	=12
+8cc	-ją-
+4g}	-ce
 !!LO:LB:g=esac
-=13
-{16g
-16a
-8b
-8b
-=14
-16a
-16b
-8cc
-8cc
-=15
-16g
-16g
-8b
-8g
-=16
-8a
-4d}
+=13	=13
+{16g	i
+16a	na
+8b/	po-
+8b/	-tkał
+=14	=14
+16a	trzy
+16b/	panien-
+8cc	-ki
+8cc	na
+=15	=15
+16g	zie
+16g	lo-
+8b	-ny
+8g	łą-
+=16	=16
+8a	-ce.
+4d}	.
 !!LO:LB:g=esac
-=17
-{8d
-8f#
-8a
-=18
-8g
-8b
-8dd
-=19
-8d
-8f#
-8a
-=20
-8g
-4d}
+=17	=17
+{8dL	.
+8f#	.
+8aJ	.
+=18	=18
+8g	.
+8bL	.
+8ddJ	.
+=19	=19
+8dL	.
+8f#	.
+8aJ	.
+=20	=20
+8g	.
+4d}	.
 !!LO:LB:g=esac
-=21
-{8d
-8f#
-8a
-=22
-16g
-16g
-8b
-8dd
-=23
-8d
-8f#
-8a
-=24
-8g
-4d}
+=21	=21
+{8dL	.
+8f#	.
+8aJ	.
+=22	=22
+16g\L	.
+16g\J	.
+8bL	.
+8ddJ	.
+=23	=23
+8dL	.
+8f#	.
+8aJ	.
+=24	=24
+8g	.
+4d}	.
 !!LO:LB:g=esac
-=25
-{16d
-16g
-8b
-8b
-=26
-16a
-16a
-8f#
-8d
-=27
-16g
-16g
-8g
-8b
-=28
-8dd
-4a}
+=25	=25
+{16Ld	.
+16gJ	.
+8bL	.
+8bJ	.
+=26	=26
+16aL	.
+16aJ	.
+8f#L	.
+8dJ	.
+=27	=27
+16gL	.
+16gJ	.
+8g\L	.
+8bJ	.
+=28	=28
+8dd	.
+4a}	.
 !!LO:LB:g=esac
-=29
-{16dd
-16b
-8g
-8b
-=30
-16a
-16a
-8f#
-8d
-=31
-16e
-16f#
-8g
-8f#
-=32
-8e
-4d}
+=29	=29
+{16Ldd	.
+16bJ	.
+8gL	.
+8b/J	.
+=30	=30
+16aL	.
+16aJ	.
+8f#L	.
+8dJ	.
+=31	=31
+16eL	.
+16f#J	.
+8gL	.
+8f#J	.
+=32	=32
+8e	.
+4d}	.
 !!LO:LB:g=esac
-=33
-{16g
-16b
-8.dd
-16cc
-=34
-8b
-8a
-8g
-=35
-16f#
-16g
-8.a
-16g
-=36
-8f#
-8e
-8d}
+=33	=33
+{16gL	.
+16b/J	.
+8.ddL	.
+16ccJ	.
+=34	=34
+8bL	.
+8a\	.
+8g\J	.
+=35	=35
+16f#L	.
+16gJ	.
+8.aL	.
+16gJ	.
+=36	=36
+8f#L	.
+8e	.
+8d}J	.
 !!LO:LB:g=esac
-=37
-{16g
-16b
-8.dd
-16cc
-=38
-8b
-8a
-8g
-=39
-16g
-16a
-8b
-8cc
-=40
-8a
-8f#
-8d
-=41
-8dd
-8f#
-8g}
-==
-*-
+=37	=37
+{16gL	.
+16b/J	.
+8.ddL	.
+16ccJ	.
+=38	=38
+8b/L	.
+8a	.
+8gJ	.
+=39	=39
+16gL	.
+16aJ	.
+8bL	.
+8ccJ	.
+=40	=40
+8aL	.
+8f#	.
+8dJ	.
+=41	=41
+8dd	.
+8f#L^	.
+8g}J;^	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Wyjechał ci pan starosta
+!!w pole na zające
+!!i na potkał trzy panienki
+!!na zielony łące.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=104 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 90-91} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), pp. 90-91}
 !!!page: 90-91
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-12

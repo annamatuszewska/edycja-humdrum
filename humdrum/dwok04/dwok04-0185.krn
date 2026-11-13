@@ -3,69 +3,83 @@
 !!!source: DWOK04
 !!!id: K0185
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M4/4
-=1
-{4cc
-4b
-2cc
-=2
-8g
-8cc
-8b
-8b
-2cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M4/4	*
+*met(c)	*
+=1	=1
+{4cc	W_ol-
+4b	-szy-
+2cc	-nie,
+=2	=2
+8g	w_gęstéj
+8cc	.
+8b	krzewinie,
+8bq	.
+8b	.
+2cc}	.
 !!LO:LB:g=esac
-=3
-{8g
-8cc
-8b
-8g
-4a
-4g
-=4
-8f
-8f
-8e
-8g
-2cc}
+=3	=3
+{8g	sta-
+8cc	-ła
+8b	się
+8g	przygo-
+4a	.
+4g	-da
+=4	=4
+8f	jednej
+8gq	.
+8f	dziewczynie.
+8e	.
+8g	.
+2cc}	.
 !!LO:LB:g=esac
-=5
-{8g
-8cc
-8cc
-8cc
-4ee
-4dd
-=6
-8b
-8dd
-8dd
-8dd
-4ff
-4ee}
+=5	=5
+{8g	Ja
+8cc	byłem
+8cc	.
+8cc	pi-
+4ee	-ja-
+4dd	-ny,
+=6	=6
+8b	kiejś
+8dd	się
+8dd	zabawia-
+8dd	.
+4ff	.
+4ee}	-ła,
 !!LO:LB:g=esac
-=7
-{8g
-8cc
-8cc
-8cc
-4ee
-4dd
-=8
-8dd
-8cc
-8b
-8a
-4g
-4cc}
-==
-*-
+=7	=7
+{8g	ja
+8cc	o
+8cc	tém
+8cc	nie
+4ee	wie-
+4dd	-dział
+=8	=8
+8dd	że-
+8cc	-byś
+8b	wianek
+8a	.
+4g	mia-
+4cc}	-ła.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!W olszynie, w gęstéj krzewinie,
+!!stała się przygoda jednej dziewczynie.
+!!Ja byłem pijany, kiejś się zabawiała,
+!!ja o tém nie wiedział żebyś wianek miała.
+!!@@END: VERSES
+!!!role-singer: Narrator, Lover
+!!!role-listener: Mistress
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=114 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 100} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 100}
 !!!page: 100
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-12
