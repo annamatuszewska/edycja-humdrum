@@ -3,148 +3,165 @@
 !!!source: DWOK04
 !!!id: K0264
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16f
-16g
-8a
-8b-
-=2
-8cc
-4ff}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16f	U-
+16g	-mar
+8a	Maciek
+8b-/	.
+=2	=2
+8cc	u-
+4ff}	-mar,
 !!LO:LB:g=esac
-=3
-{16ee
-16gg
-16ff
-16ee
-16dd
-16ee
-=4
-8cc
-4ff
-=5
-16ee
-16gg
-8cc
-16dd
-16ee
-=6
-8cc
-4ff}
+=3	=3
+{16ee	szko-
+16gg	-da
+16ffL	Mać-
+16eeJ	.
+16ddL	-ka
+16eeJ	.
+=4	=4
+8cc	szko-
+4ff	-da,
+=5	=5
+16ee	szkoda
+16gg	.
+(8ddq	.
+8cc)	Maćka
+16ddL	.
+16eeJ	.
+=6	=6
+8cc	szko-
+4ff}	-da.
 !!LO:LB:g=esac
-=7
-{8ff
-8ff
-8ff
-=8
-16cc
-16dd
-8b-
-8b-
-=9
-4cc
-16g
-16b-
-=10
-16a
-16cc
-8g
-16a
-16b-}
+=7	=7
+{8ff	Oj
+8ff	boć
+8ff	nam
+=8	=8
+16cc	ku-
+16dd	-pił
+8b-	pi-
+8b-	-wo
+=9	=9
+4cc	i
+16gL	tań-
+16b-J/	.
+=10	=10
+16a	-cował
+16cc	.
+8g	ży-
+16aL	-wo
+16b-/J}	.
 !!LO:LB:g=esac
-=11
-{4cc
-16g
-16b-
-=12
-16a
-16cc
-8g
-16a
-16b-
-=13
-16a
-16cc
-16b-
-16a
-16g
-16e
-=14
-4f}
-8r
+=11	=11
+{4cc	i
+16gL	tań-
+16b-/J	.
+=12	=12
+16a	-co-
+16cc	-wał
+8g	ży-
+16aL	-wo
+16b-/J	.
+=13	=13
+16a	ho
+16cc	sa,
+16b-/L	ho
+16aJ	.
+16gL	sa
+16eJ	.
+=14	=14
+4f}	toć.
+8r	.
 !!LO:LB:g=esac
-=15
-{8c
-16f
-16e
-16f
-16g
-=16
-16a
-16a
-8g
-8f
-=17
-8cc
-16cc
-16b
-16g
-16b
-=18
-16g
-16b
-4cc}
+=15	=15
+{8c^>	.
+16fL	.
+16e	.
+16f	.
+16gJ	.
+=16	=16
+16aL	.
+8b-q	.
+16aJ	.
+8gL	.
+8fJ	.
+=17	=17
+8cc	.
+16cLc	.
+16bJ	.
+16gL	.
+16b/J	.
+=18	=18
+16gL	.
+16b/J	.
+4cc}	.
 !!LO:LB:g=esac
-=19
-{8c
-16f
-16e
-16f
-16g
-=20
-16a
-16a
-8g
-8f
-=21
-4g
-16d
-16f
-=22
-16g
-16g
-8d
-16e
-16f}
+=19	=19
+{8c^>	.
+16fL	.
+16e	.
+16f	.
+16gJ	.
+=20	=20
+16aL	.
+8b-q	.
+16aJ	.
+8gL	.
+8fJ	.
+=21	=21
+4g^>	.
+16dL	.
+16fJ	.
+=22	=22
+16gL	.
+16gJ	.
+8dL	.
+16e	.
+16fJ}	.
 !!LO:LB:g=esac
-=23
-{4g
-16d
-16f
-=24
-16g
-16g
-8d
-16e
-16f
-=25
-4g
-16d
-16f
-=26
-16g
-16g
-8d
-8c}
-==
-*-
+=23	=23
+{4g	.
+16dL	.
+16fJ	.
+=24	=24
+16gL	.
+16gJ	.
+8dL	.
+16e	.
+16fJ	.
+=25	=25
+4g	.
+16dL	.
+16fJ	.
+=26	=26
+16gL	.
+16gJ	.
+8eq	.
+8dL	.
+8c}J	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Umar Maciek umar,
+!!szkoda Maćka szkoda,
+!!szkoda Maćka szkoda.
+!!Oj boć nam kupił piwo
+!!i tańcował żywo
+!!i tańcował żywo
+!!ho sa, ho sa toć.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!RDF**kern: >= above
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=145 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 131} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 131}
 !!!page: 131
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-19

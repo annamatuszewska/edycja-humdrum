@@ -3,110 +3,131 @@
 !!!source: DWOK04
 !!!id: K0266
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/4
-=1
-{4cc
-8dd
-8ee
-8ff
-8cc
-=2
-8cc
-8ff
-8ee
-8dd
-8dd
-8cc
-=3
-4cc
-8dd
-8ee
-8ff
-8cc
-=4
-8dd
-8ff
-8ee
-8dd
-8dd
-8cc}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/4	*
+=1	=1
+!LO:TX:a:t=Dziadowska	!
+{4cc	A
+8dd	kie-
+8ee	-dy
+8ff	przyń-
+8cc	-dzie
+=2	=2
+8dd	ów
+8ff	dzień
+8ee	o-
+8dd	-sta-
+8dd	-teczny,
+8cc;	.
+=3	=3
+4cc	do-
+8dd	-bry
+8ee	do
+8ff	nie-
+8cc	-ba,
+=4	=4
+8dd	źli
+8ff	na
+8ee	o-
+8dd	-gień
+8dd	wieczny.
+8cc};	.
 !!LO:LB:g=esac
-=5
-{8cc
-8cc
-8cc
-8cc
-8dd
-8cc
-=6
-8cc
-8b-
-8a
-8g
-8g
-8f
-=7
-4b-
-8cc
-8dd
-8a
-8b-}
+=5	=5
+{8cc;	Ach
+8cc	jakież
+8cc	.
+8cc	to
+8dd	wtenczas
+8cc	.
+=6	=6
+8cc	bańdzie
+8b-	.
+8a	narzekanie,
+8g	.
+8g	.
+8f\;	.
+=7	=7
+4b-	zambrów
+8cc	.
+8dd	zgrzytanie.
+8a	.
+8b-}/;	.
 !!LO:LB:g=esac
-=8
-{4cc
-8dd
-8ee
-8ff
-8cc
-=9
-8cc
-8ff
-8ee
-8dd
-8dd
-8cc
-=10
-4cc
-8dd
-8ee
-8ff
-8cc
-=11
-8dd
-8ff
-8ee
-8dd
-8dd
-8cc}
+=8	=8
+{4cc	A
+8dd	kie-
+8ee	-dy
+8ff	przyń-
+8cc	-dzie
+=9	=9
+8cc	ów
+8ff	dzień
+8ee	o-
+8dd	-sta-
+8dd	-teczny,
+[16cc/L;	.
+(64cc/]	.
+64b/	.
+64a	.
+64gJ)	.
+=10	=10
+4cc	do-
+8dd	-bry
+8ee	do
+8ff	nie-
+8cc	-ba,
+=11	=11
+8dd	źli
+8ff	na
+8ee	o-
+8dd	-gień
+8dd	wieczny.
+[16cc/L;	.
+(64cc/]	.
+64b/	.
+64a	.
+64gJ)}	.
 !!LO:LB:g=esac
-=12
-{8cc
-8cc
-8cc
-8cc
-8dd
-8cc
-=13
-8cc
-8b-
-8a
-8g
-8g
-8f
-=14
-4b-
-8cc
-8dd
-8a
-8b-}
-==
-*-
+=12	=12
+{8cc;	Ach
+8cc	jakież
+8cc	.
+8cc	to
+8dd	wtenczas
+8cc	.
+=13	=13
+8cc	bańdzie
+8b-	.
+8a	narzekanie,
+8g	.
+8g	.
+[16f;L	.
+32f]	.
+32g	.
+32aJ	.
+=14	=14
+4b-	zambrów
+8cc	.
+8dd	zgrzytanie.
+8a	.
+8b-}/;	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A kiedy przyńdzie ów dzień ostateczny,
+!!dobry do nieba, źli na ogień wieczny.
+!!Ach jakież to wtenczas bańdzie narzekanie,
+!!zambrów zgrzytanie.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=146 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 132} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 132}
 !!!page: 132
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-19

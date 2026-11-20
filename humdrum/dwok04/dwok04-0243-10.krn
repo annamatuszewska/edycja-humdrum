@@ -3,74 +3,99 @@
 !!!source: DWOK04
 !!!id: K0243
 !!!signature: 0424300010
-**kern
-*clefG2
-*k[f#]
-*e:
-*M2/4
-=1
-{8b
-8a
-8b
-8dd#
-=2
-4ee
-4dd#}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*e:	*
+*M2/4	*
+=1	=1
+{8b	Gdzież
+8a	to
+8b	jedziesz
+8dd#	.
+=2	=2
+4ee	Ja-
+4dd#}	-siu?
 !!LO:LB:g=esac
-=3
-{8b
-8a
-8b
-8dd#
-=4
-4ee
-4dd#}
+=3	=3
+{8b	Na
+8a	wo-
+8b	-jen-
+8dd#	-kę
+=4	=4
+4ee	Ka-
+4dd#}	-siu,
 !!LO:LB:g=esac
-=5
-{8b
-8a
-8b
-8dd#
-=6
-4ee
-4ff#
-=7
-2b}
+=5	=5
+{8b	na
+8a	wo-
+8b	-jen-
+8dd#	-kę
+=6	=6
+4ee	da-
+4ff#	-lecz-
+=7	=7
+2b;}	-ko.
 !!LO:LB:g=esac
-=8
-{4b
-4ee
-=9
-8dd
-8b
-8dd
-16cc
-16b}
+=8	=8
+{4b	Weź
+4ee	mieza
+=9	=9
+8ddn	i
+8b	mnie
+8dd	z
+16ccL	sobą
+16b}J	.
 !!LO:LB:g=esac
-=10
-{4a
-4b
-=11
-8g
-8f#
-8a
-16g
-16f#}
+=10	=10
+{4a	po-
+4b	-ja-
+=11	=11
+8g	-dę
+8f#	ja
+8a	z_to-
+16gL	-bą
+16f#J}	.
 !!LO:LB:g=esac
-=12
-{8e
-8f#
-8g
-8a
-=13
-4b
-4dd#
-=14
-2ee}
-==
-*-
+=12	=12
+{8e	na
+8f#	wo-
+8g	-jen-
+8a	-kę
+=13	=13
+4b	da-
+4dd#	-lecz-
+=14	=14
+2ee};	-ko
+=15	=15
+16eeL	na
+16ddJ	.
+16ccL	wo-
+16bJ	.
+8a	-jenkę
+8cc	.
+=16	=16
+4b	dalecz-
+4g	.
+=17	=17
+2e;	-ko
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Gdzież to jedziesz Jasiu?
+!!Na wojenkę Kasiu,
+!!na wojenkę daleczko.
+!!Weź mieza i mnie z sobą
+!!pojadę ja z tobą
+!!na wojenkę daleczko
+!!@@END: VERSES
+!!!role-singer: Mistress, Lover
+!!!role-listener: Lover, Mistress
+!!!singer-sex: Female, Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=136 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 122-123} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), pp. 122-123}
 !!!page: 122-123
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-18

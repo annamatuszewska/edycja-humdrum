@@ -3,149 +3,159 @@
 !!!source: DWOK04
 !!!id: K0229
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16a
-16b
-8cc
-8cc
-=2
-16dd
-16ff
-8ee
-8a
-=3
-16dd
-16ee
-8ff
-8dd
-=4
-16ff
-16ee
-8gg
-8ff
-=5
-4ee
-8a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16a	A
+16b	bi-
+8cc	-je
+8cc	mnie
+=2	=2
+16dd	mąż
+16ff	mój
+8ee	Bo-
+8a	-że,
+=3	=3
+16dd	mąż
+16ee	mój
+8ff	Bo-
+8dd	-że,
+=4	=4
+16ff	a
+16ee	bi-
+8gg	-je
+8ff	mnie
+=5	=5
+(4ee	mąż.
+8a)}	.
 !!LO:LB:g=esac
-=6
-{16ee
-16dd
-8cc
-8b
-=7
-16cc
-16cc
-8b
-8e
-=8
-16a
-16cc
-8b
-8e
-=9
-16g
-16f#
-8a
-8g
-=10
-4.e}
+=6	=6
+{16ee	A
+16dd	za
+8cc	cóż
+8b	to
+=7	=7
+16cc	już
+16cc	mój
+8b	Boże,
+8e	.
+=8	=8
+16a	już
+16cc	mój
+8b	Boże,
+8e	.
+=9	=9
+16g	a
+16f#	za
+8a	cóż
+8g	to
+=10	=10
+4.e}	już.
 !!LO:LB:g=esac
-=11
-{16a
-16b
-8cc
-8cc
-=12
-16dd
-16ff
-8ee
-8a
-=13
-16dd
-16ee
-8ff
-8dd
-=14
-16ff
-16ee
-8gg
-8ff
-=15
-4ee
-8a}
+=11	=11
+{16a	A
+16b	bi-
+8cc	-je
+8cc	mnie
+=12	=12
+16dd	mąż
+16ff	mój
+8ee	Bo-
+8a	-że,
+=13	=13
+16dd	mąż
+16ee	mój
+8ff	Bo-
+8dd	-że,
+=14	=14
+16ff	a
+16ee	bi-
+8gg	-je
+8ff	mnie
+=15	=15
+(4ee	mąż.
+8a)}	.
 !!LO:LB:g=esac
-=16
-{16ee
-16dd
-8cc
-8b
-=17
-16cc
-16b
-8cc
-8e
-=18
-16a
-16cc
-8b
-8e
-=19
-16g
-16f#
-8a
-8g
-=20
-4.e}
+=16	=16
+{16ee	A
+16dd	za
+8cc	cóż
+8b	to
+=17	=17
+16cc/L	już
+16b/	mój
+8cc/J	Boże,
+8e	.
+=18	=18
+16a	już
+16cc	mój
+8b	Boże,
+8e	.
+=19	=19
+16g	a
+16f#	za
+8a	cóż
+8g	to
+=20	=20
+4.e}	już.
 !!LO:LB:g=esac
-=21
-{16g
-16f#
-8a
-8g
-=22
-4b
-16g
-16e
-=23
-16g
-16f#
-8a
-16g
-16f#
-=24
-16e
-16f#
-16g
-16f#
-8e}
+=21	=21
+{16gL	.
+16f#J	.
+8aL	.
+8gJ	.
+=22	=22
+4b	.
+16gL	.
+16eJ	.
+=23	=23
+16gL	.
+16f#J	.
+8aL	.
+16g	.
+16fJ#	.
+=24	=24
+16eL	.
+16f#J	.
+16gL	.
+16f#	.
+8e}J	.
 !!LO:LB:g=esac
-=25
-{16g
-16f#
-8a
-8g
-=26
-4b
-16g
-16e
-=27
-16g
-16f#
-8a
-16g
-16f#
-=28
-4e
-8e}
-==
-*-
+=25	=25
+{16gL	.
+16f#J	.
+8aL	.
+8gJ	.
+=26	=26
+4b	.
+16gL	.
+16eJ	.
+=27	=27
+16gL	.
+16f#J	.
+8aL	.
+16g	.
+16fJ#	.
+=28	=28
+4e\	.
+8e\}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A bije mnie mąż mój Boże, mąż mój Boże,
+!!a bije mnie mąż.
+!!A za cóż to już mój Boże, już mój Boże,
+!!a za cóż to już.
+!!@@END: VERSES
+!!!role-singer: Wife
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=131 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 117} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 117}
 !!!page: 117
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-17

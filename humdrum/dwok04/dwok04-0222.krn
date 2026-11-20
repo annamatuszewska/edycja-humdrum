@@ -3,226 +3,246 @@
 !!!source: DWOK04
 !!!id: K0222
 !!!signature:
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16a
-16cc
-8.b
-16cc
-=2
-4a
-8r
-=3
-16ee
-16cc
-8.b
-16cc
-=4
-4a}
-8r
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{16a	Na-
+16cc	-go-
+8.b	-tuj
+16cc	tu
+=2	=2
+4a	jeść
+8r	.
+=3	=3
+8ccq	.
+16ee	po-
+16cc	-ja-
+8.b	-dę
+16cc	ja
+=4	=4
+4a}	precz.
+8r	.
 !!LO:LB:g=esac
-=5
-{16a
-16cc
-8.b
-16g#
-=6
-16a
-16cc
-8.ee
-16dd
-=7
-16ee
-16cc
-8.b
-16g#
-=8
-16a
-16cc
-8ee
-8dd
-=9
-8b
-8dd
-8cc
-=10
-16b
-16g#
-8a}
-8r
+=5	=5
+{16a	A
+16cc	jak
+8.b	zgośćmy
+16g#	.
+=6	=6
+16a	tu
+16cc	przyjadę,
+8.ee	.
+16dd	.
+=7	=7
+16ee	jeść
+16cc	goto-
+8.b	.
+16g#	-wo
+=8	=8
+16a	nieza-
+16cc	.
+8ee	-stanę
+8dd	.
+=9	=9
+8b	ki-
+8ddL	-jem
+8ccJ	.
+=10	=10
+16b	mi
+16g#	weź
+8a}	miesz.
+8r	.
 !!LO:LB:g=esac
-=11
-{16a
-16cc
-8.b
-16cc
-=12
-4a
-8r
-=13
-16ee
-16cc
-8.b
-16cc
-=14
-4a}
-8r
+=11	=11
+{16a	Na-
+16cc	-go-
+8.b	-tuj
+16cc	tu
+=12	=12
+4a	jeść
+8r	.
+=13	=13
+8ccq	.
+16ee	po-
+16cc	-ja-
+8.b	-dę
+16cc	ja
+=14	=14
+4a}	precz.
+8r	.
 !!LO:LB:g=esac
-=15
-{16a
-16cc
-8.b
-16g#
-=16
-16a
-16cc
-8.ee
-16dd
-=17
-16ee
-16cc
-8.b
-16g#
-=18
-16a
-16cc
-8ee
-8dd
-=19
-8b
-8dd
-8cc
-=20
-16b
-16g#
-8a}
-8r
+=15	=15
+{16a	A
+16cc	jak
+8.b	zgośćmy
+16g#	.
+=16	=16
+16a	tu
+16cc	przyjadę,
+8.ee	.
+16dd	.
+=17	=17
+16ee	jeść
+16cc	goto-
+8.b	.
+16g#	-wo
+=18	=18
+16a	nieza-
+16cc	.
+8ee	-stanę
+8dd	.
+=19	=19
+8b	ki-
+8ddL	-jem
+8ccJ	.
+=20	=20
+16b	mi
+16g#	weź
+8a}	miesz.
+8r	.
 !!LO:LB:g=esac
-=21
-{8ee
-8cc
-8dd
-=22
-8.ee
-16dd
-16cc
-16b
-=23
-16a
-16cc
-8b
-8cc
-=24
-4a}
-8r
+=21	=21
+{8ee	Ach
+8cc	ach
+8dd	ach
+=22	=22
+8.eeL	ach
+16ddJ	.
+16ccL	ach
+16bJ	.
+=23	=23
+16a	bę-
+16cc	-dą
+8b	tu
+8cc	bi-
+=24	=24
+4a}	-twy
+8r	.
 !!LO:LB:g=esac
-=25
-{8ee
-8cc
-8dd
-=26
-8.ee
-16dd
-16cc
-16b
-=27
-16cc
-16a
-8b
-8g#
-=28
-4a}
-8r
+=25	=25
+{8ee	do
+8cc	ko-
+8dd	-ła
+=26	=26
+8.eeL	kuch-
+16ddJ	.
+16ccL	-ni
+16bJ	.
+=27	=27
+16cc	bę-
+16a	-dą
+8b	go-
+8g#	-ni-
+=28	=28
+4a}	-twy
+8r	.
 !!LO:LB:g=esac
-=29
-{8a
-8cc
-8cc
-=30
-8cc
-8ee
-8dd
-=31
-8b
-8b
-8b
-=32
-8b
-8dd
-8cc
-=33
-16b
-16g#
-8a}
-8r
+=29	=29
+{8a\	la-
+8cc	-ta
+8cc	ła
+=30	=30
+8cc	za
+8ee	mę-
+8dd	-żem,
+=31	=31
+8b	zo-
+8b	-krutnym
+8b	.
+=32	=32
+8b	o-
+8dd	-rę-
+8cc	-żem
+=33	=33
+16b	z_głow-
+16g#	-nia-
+8a}	-my.
+8r	.
 !!LO:LB:g=esac
-=34
-{8ee
-8cc
-8dd
-=35
-8.ee
-16dd
-16cc
-16b
-=36
-16a
-16cc
-8b
-8cc
-=37
-4a}
-8r
+=34	=34
+{8ee	Ach
+8cc	ach
+8dd	ach
+=35	=35
+8.eeL	ach
+16ddJ	.
+16ccL	ach
+16bJ	.
+=36	=36
+16a	bę-
+16cc	-dą
+8b	tu
+8cc	bi-
+=37	=37
+4a}	-twy
+8r	.
 !!LO:LB:g=esac
-=38
-{8ee
-8cc
-8dd
-=39
-8.ee
-16dd
-16cc
-16b
-=40
-16cc
-16a
-8b
-8g#
-=41
-4a}
-8r
+=38	=38
+{8ee	do
+8cc	ko-
+8dd	-ła
+=39	=39
+8.eeL	kuch-
+16ddJ	.
+16ccL	-ni
+16bJ	.
+=40	=40
+16cc	bę-
+16a	-dą
+8b	go-
+8g#	-ni-
+=41	=41
+4a}	-twy
+8r	.
 !!LO:LB:g=esac
-=42
-{16a
-16cc
-8cc
-8cc
-=43
-8cc
-8ee
-8dd
-=44
-16dd
-16b
-8b
-8b
-=45
-8b
-8dd
-8cc
-=46
-16b
-16g#
-8a}
-8r
-==
-*-
+=42	=42
+{16aL	la-
+16cc/J	.
+8cc	-ta
+8cc	ła
+=43	=43
+8cc	za
+8ee	mę-
+8dd	-żem,
+=44	=44
+16ddL/	zo-
+16b/J	.
+8b	-krutnym
+8b	.
+=45	=45
+8b	o-
+8dd	-rę-
+8cc	-żem
+=46	=46
+16b	z_głow-
+16g#	-nia-
+8a}	-my.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Nagotuj tu jeść pojadę ja precz.
+!!A jak zgośćmy tu przyjadę,
+!!jeść gotowo niezastanę
+!!kijem mi weź miesz.
+!!Ach ach ach ach ach
+!!będą tu bitwy
+!!do koła kuchni
+!!będą gonitwy
+!!latała za mężem,
+!!z okrutnym orężem
+!!z głowniamy.
+!!@@END: VERSES
+!!!role-singer: Husband, Narrator
+!!!role-listener: Wife
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=127 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 113} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 113}
 !!!page: 113
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-17

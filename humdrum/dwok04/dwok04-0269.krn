@@ -3,111 +3,127 @@
 !!!source: DWOK04
 !!!id: K0269
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16a
-16cc
-8ee
-8ee
-=2
-8.g
-16b
-16a
-16b
-=3
-16a
-16cc
-8ee
-8ee
-=4
-8.g
-16b
-16a
-16f#}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16a	Nie
+16cc	wy-
+8ee	-ga-
+8ee	-niaj
+=2	=2
+8.g	ow-
+16b/	-cza-
+16a\	-ryszku
+16b	.
+=3	=3
+16a\	owiec
+16cc	.
+8ee	na
+8eeM	ro-
+=4	=4
+8.g	-sę
+16b	na
+16a\	ro-
+16f#\}	-sę
 !!LO:LB:g=esac
-=
-{16cc
-16cc
-8dd
-24cc
-24b
-24a
-=5
-8.g
-16b
-16a
-16dd
-=
-24b
-24dd
-24ee
-8cc
-24cc
-24b
-24a
-=6
-8.g
-16b
-16a
-16f#}
+=5	=5
+{16cc	bom
+8bq	.
+16cc	chusteczki
+8dd	.
+*Xtuplet	*
+24ccL	.
+24b	.
+24a\J	.
+=6	=6
+8aq	.
+8.g\	nie
+16b	u-
+16a\	-szy-
+16dd	-ła,
+=7	=7
+24bL	cóż
+24dd	.
+24eeJ	.
+8cc	ci
+24ccL	ponio-
+24b	.
+24a\J	.
+=8	=8
+8.g\	-sę,
+16b	poniosę?
+16a\	.
+16f#\}	.
 !!LO:LB:g=esac
-=7
-{16a
-16cc
-8ee
-8ee
-=
-8.g
-16b
-24a
-24b
-24dd
-=8
-16a
-16cc
-8ee
-8ee
-=
-8.g
-16b
-24a
-24f#
-24d}
+=9	=9
+{16a	Nie
+16cc	wy-
+8ee	-ga-
+8ee	-niaj
+=10	=10
+8.g	ow-
+16b/	-cza-
+24aL	-ryszku
+24b/	.
+24ddJ/	.
+=11	=11
+16a\	owiec
+16cc	.
+8ee	na
+8eeM	ro-
+=12	=12
+8.g	-sę
+16b	na
+24aL	ro-
+24f#	-sę
+24d}J	.
 !!LO:LB:g=esac
-=
-{16cc
-16cc
-8dd
-24cc
-24b
-24a
-=9
-8.g
-16dd
-16a
-16dd
-=
-24b
-24dd
-24ee
-8cc
-24cc
-24b
-24a
-=
-8.g
-16b
-24a
-24f#
-24d}
-==
-*-
+=13	=13
+{16cc	bom
+8bq	.
+16cc	chusteczki
+8dd	.
+24cLc	.
+24b	.
+24a\J	.
+=14	=14
+8aq	.
+8.g\	nie
+16dd	u-
+16a\	-szy-
+16dd	-ła,
+=15	=15
+24bL	cóż
+24dd	.
+24eeJ	.
+8cc	ci
+24ccL	ponio-
+24b	.
+24a\J	.
+=16	=16
+8.g\	-sę,
+16b	poniosę?
+24aL	.
+24f#	.
+24d}J	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Nie wyganiaj owczaryszku
+!!owiec na rosę na rosę
+!!bom chusteczki nie uszyła,
+!!cóż ci poniosę, poniosę?
+!!@@END: VERSES
+!!!role-singer: Girl
+!!!role-listener: Shepherd
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=147 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 133} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 133}
 !!!page: 133
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-20

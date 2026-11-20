@@ -3,76 +3,86 @@
 !!!source: DWOK04
 !!!id: K0265
 !!!signature:
-**kern
-*clefG2
-*k[]
-*a:
-*M2/4
-=1
-{8a
-8a
-8ee
-8ee
-=2
-8dd
-8dd
-8ee
-8dd
-=3
-8cc
-8b
-4a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M2/4	*
+=1	=1
+!LO:TX:a:t=Myśliwska	!
+{8a	Siedzi
+8a	.
+8ee	za-
+8ee	-jąc
+=2	=2
+8dd	pod
+8dd	mie-
+8eeL	-dzą
+8ddJ	.
+=3	=3
+8cc	pod
+8b	mie-
+4a}	-dzą,
 !!LO:LB:g=esac
-=4
-{8a
-16cc
-16dd
-8ee
-8ee
-=5
-8dd
-8dd
-8ee
-8dd
-=6
-8cc
-8b
-4a}
+=4	=4
+{8a'	Myśliwce
+16cc	.
+16dd	.
+8ee	o
+8ee	nim
+=5	=5
+8dd	nie
+8dd	wiedzą
+8eeL	.
+8ddJ	.
+=6	=6
+8cc	nie
+8b	wie-
+4a}	-dzą.
 !!LO:LB:g=esac
-=7
-{8cc
-8ee
-8cc
-8cc
-=8
-8dd
-8ff
-8dd
-8b
-=9
-8cc
-8ee
-8cc
-8cc}
+=7	=7
+{8cc	Sie-
+8ee	-dzi
+8cc	so-
+8cc	-bie
+=8	=8
+8dd	roz-
+8ff	-my-
+8dd	-ślu-
+8b	-je,
+=9	=9
+8cc	swój
+8ee	de-
+8cc	-sta-
+8cc}	-ment
 !!LO:LB:g=esac
-=10
-{8dd
-8ff
-8dd
-8b
-=11
-8cc
-8dd
-8ee
-8dd
-=12
-8cc
-8b
-4a}
-==
-*-
+=10	=10
+{8dd	roz-
+8ff	-pi-
+8dd	-su-
+8b	-je
+=11	=11
+8cc	sie-
+8dd	-ro-
+8eeL	-ta
+8ddJ	.
+=12	=12
+8ccL	sie-
+8bJ	-ro-
+4a}	-ta.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Siedzi zając pod miedzą pod miedzą,
+!!Myśliwce o nim nie wiedzą nie wiedzą.
+!!Siedzi sobie rozmyśluje, swój destament
+!!rozpisuje sierota sierota.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=145 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 131-132} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), pp. 131-132}
 !!!page: 131-132
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-19

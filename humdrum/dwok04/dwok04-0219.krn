@@ -3,52 +3,60 @@
 !!!source: DWOK04
 !!!id: K0219
 !!!signature: 0421900000
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{8.g
-16a
-16b
-16cc
-=2
-16dd
-16dd
-8b
-8g
-=3
-16cc
-16ee
-8cc
-8ff
-=4
-4.dd}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Duma	!
+{8.g	Z_tamty
+16a	.
+16b	stro-
+16cc	-ny
+=2	=2
+16dd	ję-
+16dd	-zio-
+8b	-reczka
+8g	.
+=3	=3
+16cc	ja-
+16ee	-dom
+8cc	u-
+8ff	-ła-
+=4	=4
+4.dd}	-ny,
 !!LO:LB:g=esac
-=5
-{8.ff
-16dd
-16ee
-16cc
-=6
-16cc
-16dd
-8b
-8g
-=7
-16b
-16dd
-8dd
-8ee
-=8
-4cc}
-8r
-==
-*-
+=5	=5
+{8.ffL	hej,
+16ddJ	.
+16eeL	hej
+16ccJ	.
+=6	=6
+16cc	mocny
+16dd	.
+8b	Bo-
+8g	-że
+=7	=7
+16b	ja-
+16dd	-dom
+8dd	u-
+8ee	-ła-
+=8	=8
+4cc}	-ny
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Z tamty strony jęzioreczka jadom ułany,
+!!hej, hej mocny Boże jadom ułany
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!ONB: U Kolberga błędne określenie metrum 3/4
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=126 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 112} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 112}
 !!!page: 112
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-17

@@ -3,59 +3,68 @@
 !!!source: DWOK04
 !!!id: K0248
 !!!signature:
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M2/4
-=1
-{8dd
-8cc#
-8dd
-8b
-=2
-8a
-8a
-8a
-8a
-=3
-8b
-8b
-8dd
-8b
-=4
-8a
-8a
-8a
-8a}
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M2/4	*
+=1	=1
+{8dd	Świniak
+8cc#	.
+8dd	kwiczy,
+8b	.
+=2	=2
+8a	baran
+8a	.
+8a	be-
+8a	-czy,
+=3	=3
+8b	boć
+8b	to
+8dd	żołnierz
+8b	.
+=4	=4
+8a	straszne
+8a	.
+8a	rzeczy.
+8a}	.
 !!LO:LB:g=esac
-=5
-{16f#
-16g
-8a
-16f#
-16g
-8a
-=6
-8dd
-8dd
-8dd
-8dd
-=7
-16ee
-16ee
-8ee
-16a
-16b
-8cc#
-=8
-8dd
-8cc#
-4dd}
-==
-*-
+=5	=5
+{16f#	To
+16g	bi-
+8a	-da,
+16f#	to
+16g	bi-
+8a	-da,
+=6	=6
+8dd	hej
+8dd	sa-
+8dd	-sa-
+8dd	-sa,
+=7	=7
+16ee	to
+16ee	bi-
+8ee	-da,
+16a\	to
+16b	bi-
+8cc#	-da,
+=8	=8
+8dd	nie-
+8cc#	-wo-
+4dd}	-la.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Świniak kwiczy, baran beczy,
+!!boć to żołnierz straszne rzeczy.
+!!To bida, to bida, hej sasasa,
+!!to bida, to bida, niewola.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=138 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 124} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 124}
 !!!page: 124
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-18

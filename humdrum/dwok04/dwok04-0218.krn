@@ -3,107 +3,121 @@
 !!!source: DWOK04
 !!!id: K0218
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/4
-=1
-{2.a
-=2
-8dd
-8ee
-4ff
-4ee
-=3
-8cc
-8b-
-4a
-4g
-=4
-8a
-8b-
-2cc}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/4	*
+=1	=1
+!LO:TX:a:t=Duma	!
+{2.a	.
+=2	=2
+8dd	Oj
+8ee	ło-
+4ff	-wi-
+4ee	-ło
+=3	=3
+8cc	dwóch
+8b-	.
+4a	rybaków
+4g	.
+=4	=4
+8a	na
+8b-	rzé-
+2cc}	-ce,
 !!LO:LB:g=esac
-=5
-{8a
-8b-
-4cc
-4b-
-=
-12dd
-12cc
-12b-
-4cc
-12b-
-12a
-12g
-=6
-8a
-8b-
-2cc}
+=5	=5
+{8a	na-
+8b-	-pot-
+4cc	-ka-
+4b-	-li
+=6	=6
+!LO:TUP:a	!
+(12ddL	dzię-
+12ccJ	.
+12b-)	-ciąteczko
+4cc	.
+*Xtuplet	*
+12b-/L	.
+12a	.
+12gJ	.
+=7	=7
+8a	w_ko-
+8b-	-leb-
+2cc}	-ce
 !!LO:LB:g=esac
-=7
-{8f
-8g
-4a
-4g
-=8
-8f
-8e
-2d
-=9
-2.e}
+=8	=8
+{8f	oj
+8g	w_ko-
+4a	-leb-
+4g	-ce
+=9	=9
+8fL	w_ko-
+8eJ	.
+2d	-leb-
+=10	=10
+2.e}	-ce.
 !!LO:LB:g=esac
-=10
-{8dd
-8ee
-4ff
-8ee
-8dd
-=11
-8cc
-8b-
-4a
-4g
-=12
-8a
-8b-
-2cc}
+=11	=11
+{8dd	Oj
+8ee	ło-
+4ff	-wi-
+8ee/L	-ło
+8dd/J	.
+=12	=12
+8cc	dwóch
+8b-	.
+4a	rybaków
+4g	.
+=13	=13
+8a	na
+8b-	rzé-
+2cc}	-ce,
 !!LO:LB:g=esac
-=13
-{8a
-8b-
-4cc
-4b-
-=
-12dd
-12cc
-12b-
-4cc
-12b-
-12a
-12g
-=14
-8a
-8b-
-2cc}
+=14	=14
+{8a	na-
+8b-	-pot-
+4cc	-ka-
+4b-	-li
+=15	=15
+*tuplet	*
+!LO:TUP:a	!
+(12ddL	dzię-
+12ccJ	.
+12b-)	-ciąteczko
+4cc	.
+*Xtuplet	*
+12b-/L	.
+12a	.
+12gJ	.
+=16	=16
+8a	w_ko-
+8b-	-leb-
+2cc}	-ce
 !!LO:LB:g=esac
-=15
-{8f
-8g
-4a
-4g
-=16
-8f
-8e
-2d
-=17
-2.e}
-==
-*-
+=17	=17
+{8f	oj
+8g	w_ko-
+4a	-leb-
+4g	-ce
+=18	=18
+8fL	w_ko-
+8eJ	.
+2d	-leb-
+=19	=19
+2.e}	-ce.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oj łowiło dwóch rybaków na rzéce,
+!!napotkali dzięciąteczko w kolebce
+!!oj w kolebce w kolebce.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=126 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 112} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 112}
 !!!page: 112
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-17

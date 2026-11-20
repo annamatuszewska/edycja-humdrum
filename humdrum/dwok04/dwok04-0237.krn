@@ -3,61 +3,72 @@
 !!!source: DWOK04
 !!!id: K0237
 !!!signature:
-**kern
-*clefG2
-*k[]
-*a:
-*M6/8
-=1
-{4a
-8b
-8cc
-8b
-8b
-=2
-8cc
-8b
-8b
-8cc
-8b
-8b
-=3
-4dd
-8dd
-4dd
-8b
-=4
-4cc
-8b
-4cc
-8a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M6/8	*
+=1	=1
+{4a	We-
+8b	-dle
+8ccL	sto-
+8bJ	.
+8b	-łu
+=2	=2
+8ccL	so-
+8bJ	.
+8b	-bie
+8ddq	.
+8ccL	ska-
+8bJ	.
+8b	-czę,
+=3	=3
+4dd	gdy
+8dd	w_kielisz-
+4dd	.
+8b	-ku
+=4	=4
+4cc	dno
+8b	zobaczę
+4cc	.
+8a}	.
 !!LO:LB:g=esac
-=5
-{8b
-8g#
-8e
-4e
-8g#
-=6
-4a
-8b
-8cc
-8b
-8cc
-=7
-4g#
-8b
-4ee
-8g#
-=8
-4a}
-8r
-4r
-8r
-==
-*-
+=5	=5
+{8b/L	o
+8g#	to
+8eJ	.
+4e	to
+8g#	ja
+=6	=6
+(4a	pan
+8b)	.
+8ccL	pan
+8b	.
+8ccJ	.
+=7	=7
+4g#	i
+8b	o
+4ee	nic
+8g#	nie
+=8	=8
+4a}	dbam.
+8r	.
+4r	.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Wedle stołu sobie skaczę,
+!!gdy w kieliszku dno zobaczę
+!!o to to ja pan pan
+!!i o nic nie dbam.
+!!@@END: VERSES
+!!!role-singer: Man
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=134 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 120} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 120}
 !!!page: 120
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-18

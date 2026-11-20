@@ -3,80 +3,93 @@
 !!!source: DWOK04
 !!!id: K0260
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{8cc
-8cc
-8b-
-=2
-4a
-8r
-=3
-8cc
-8cc
-8b-
-=4
-4a}
-8r
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{8cc	Był
+8cc	du-
+8b-	-da,
+=2	=2
+4a	był,
+8r	.
+8gq	.
+=3	=3
+8cc	miał
+8cc	du-
+8b-	-dy
+=4	=4
+4a}	miał,
+8r	.
+8gq	.
 !!LO:LB:g=esac
-=5
-{8cc
-16cc
-16b
-16dd
-16b
-=6
-8cc
-16cc
-16b
-16dd
-16b
-=7
-8cc
-8cc
-16dd
-16b}
+=5	=5
+{8cc	a
+16cc	le
+16b	te
+16dd	dudy,
+16b	.
+=6	=6
+8cc	nie
+16cc	te-
+16b	-go
+16dd	dudy,
+16b	.
+=7	=7
+8cc	bo
+8cc	te
+16dd	du-
+16b}	-dy,
 !!LO:LB:g=esac
-=8
-{8cc
-16cc
-16b
-16dd
-16b
-=9
-8cc
-8cc
-8b-
-=10
-4a}
-8r
+=8	=8
+{8cc	od
+16cc	te-
+16b	-go
+16dd	du-
+16b	-dy,
+=9	=9
+8cc	ten
+8cc	duda
+8b-X	.
+=10	=10
+4a}	miał.
+8r	.
+8gq	.
 !!LO:LB:g=esac
-=11
-{8f
-16f
-16e
-16g
-16e
-=12
-8f
-16f
-16e
-16g
-16e
-=13
-8f
-8f
-8e
-=14
-4.c}
-==
-*-
+=11	=11
+{8fL	.
+16f	.
+16e	.
+16g	.
+16eJ	.
+=12	=12
+8fL	.
+16f	.
+16e	.
+16g	.
+16eJ	.
+=13	=13
+8fL	.
+8f	.
+8eJ	.
+=14	=14
+4.c}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Był duda, był,
+!!miał dudy miał,
+!!a le te dudy, nie tego dudy,
+!!bo te dudy, od tego dudy,
+!!ten duda miał.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=143 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 129} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 129}
 !!!page: 129
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-19

@@ -3,66 +3,76 @@
 !!!source: DWOK04
 !!!id: K0253
 !!!signature:
-**kern
-*clefG2
-*k[]
-*a:
-*M2/4
-=1
-{4ee
-4dd#
-=2
-4ee
-4dd#
-=3
-2ee}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M2/4	*
+=1	=1
+{4ee	He
+4dd#	la,
+=2	=2
+4ee	he
+4dd#	la,
+=3	=3
+2ee;}	he!
 !!LO:LB:g=esac
-=4
-{4b
-4dd
-=5
-4cc
-4ee
-=6
-8b
-8g#
-4e
-=7
-4b
-4dd
-=8
-4cc
-4a
-=9
-8b
-8g#
-4e}
+=4	=4
+{4b	Szed
+4dd	chłop,
+=5	=5
+4cc	szed
+4ee	chłop
+=6	=6
+8b/	bez
+8g#	rynek,
+4e	.
+=7	=7
+4b	ku-
+4dd	-pił
+=8	=8
+4cc	so-
+4a	-bie
+=9	=9
+8b/	bę-
+8g#	-be-
+4e}	-nek.
 !!LO:LB:g=esac
-=10
-{4a
-4a
-=11
-4a
-4a
-=12
-8e
-8e
-4e}
+=10	=10
+{4a	Na
+4a	bę-
+=11	=11
+4a	-ben-
+4a	-ku
+=12	=12
+8e	ru
+8e	tu
+4e}	tu,
 !!LO:LB:g=esac
-=13
-{4a
-4a
-=14
-4a
-4a
-=15
-8b
-8g#
-4e}
-==
-*-
+=13	=13
+{4a	na
+4a	piszczałce
+=14	=14
+4a	.
+4a	.
+=15	=15
+8b/	fiu,
+8g#	fiu,
+4e}	fiu.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!He la, he la, he!
+!!Szed chłop, szed chłop bez rynek,
+!!kupił sobie bębenek.
+!!Na bębenku ru tu tu,
+!!na piszczałce fiu, fiu, fiu.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=140 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 126} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 126}
 !!!page: 126
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-18

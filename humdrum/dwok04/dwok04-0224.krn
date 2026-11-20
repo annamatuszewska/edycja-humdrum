@@ -3,82 +3,97 @@
 !!!source: DWOK04
 !!!id: K0224
 !!!signature: 0422400000
-**kern
-*clefG2
-*k[f#c#]
-*D:
-*M3/4
-=1
-{8.d
-16d
-8d
-8e
-8f#
-8g
-=2
-8.a
-16a
-8a
-8b
-8cc#
-8a
-=3
-8a
-8cc#
-4dd
-4cc#
-=4
-8b
-8b
-2a}
+**kern	**text
+*clefG2	*
+*k[f#c#]	*
+*D:	*
+*M3/4	*
+=1	=1
+{8.d	Oj
+16d	bia-
+8d	-da
+8e	my
+8f#	biada,
+8g	.
+=2	=2
+8.a	żem
+16a	poszła
+8a	.
+8b	za
+8cc#	dziada,
+8a	.
+=3	=3
+8a	cóż
+8cc#	ja
+4dd	bę-
+4cc#	-dę
+=4	=4
+8b	ro-
+8cc#q	.
+8b	-bi-
+2a}	-ła.
 !!LO:LB:g=esac
-=5
-{8a
-8cc#
-8dd
-8a
-8f#
-8d
-=6
-8g
-8g
-8b
-8a
-8g
-8f#
-=7
-8e
-8f#
-4g
-4a
-=8
-8e
-8e
-2d}
+=5	=5
+{8a	Ni
+8cc#	ja
+8dd	dzia-
+8a	-da
+8f#	sprzedać
+8d	.
+=6	=6
+8g	ni
+8g	je-
+8b	-go-
+8a	-wy-
+8g	-mienić
+8f#	.
+=7	=7
+8e	co
+8f#	ja
+4g	bę-
+4a	-dę
+=8	=8
+8e	ro-
+8e	-bi-
+2d}	-ła.
 !!LO:LB:g=esac
-=9
-{8d
-8f#
-4.g
-8f#
-=10
-4e
-4e
-4d
-=11
-8d
-8f#
-4.g
-8f#
-=12
-8e
-8e
-4d}
-4r
-==
-*-
+=9	=9
+{8d	A
+8f#	bia-
+4.g	-da-
+8f#	-mi
+=10	=10
+4e	i
+4e	bia-
+4d	-da,
+=11	=11
+8d	o
+8f#	ja
+4.g	bid-
+8f#	-na
+=12	=12
+8e	dziewczyna.
+8e	.
+4d}	.
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oj biada my biada,
+!!żem poszła za dziada,
+!!cóż ja będę robiła.
+!!Ni ja dziada sprzedać
+!!ni jego wymienić
+!!co ja będę robiła.
+!!A biadami i biada,
+!!o ja bidna dziewczyna.
+!!@@END: VERSES
+!!!role-singer: Wife
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=128 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 114-115} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), pp. 114-115}
 !!!page: 114-115
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-17

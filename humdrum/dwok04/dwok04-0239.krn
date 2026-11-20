@@ -3,107 +3,123 @@
 !!!source: DWOK04
 !!!id: K0239
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16d
-16d
-8a
-8f#
-=2
-16f#
-16g
-8b
-8b
-=3
-16b
-16b
-8b
-8b
-=4
-8dd
-4a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+!LO:TX:a:t=Złodziejska	!
+{16d	Do-
+16d	-bry
+8a	wie-
+8f#	-czór
+=2	=2
+16f#	karcz-
+16g	-marecz-
+8b	.
+8b	-ko
+=3	=3
+16b	z_Bo-
+16b	-giem
+8b	so-
+8b	-bie
+=4	=4
+8dd	ży-
+4a}	-jesz,
 !!LO:LB:g=esac
-=5
-{8.gg
-16dd
-16dd
-16b
-=6
-16a
-16a
-8cc
-8cc
-=7
-16a
-16a
-8a
-8a
-=8
-8b
-4g}
+=5	=5
+{8.gg	trzech
+16dd	złodziejów
+16dd	.
+16b	.
+=6	=6
+16a	za
+16a	karczmą
+8cc	.
+8cc	jest,
+=7	=7
+16a	a
+16a	ty
+8a	z_czwartym
+8a	.
+=8	=8
+8ccq	.
+8b	pi-
+4g}	-jesz.
 !!LO:LB:g=esac
-=9
-{4cc
-8a
-=10
-16g
-16cc
-8ee
-8dd
-=11
-16dd
-16cc
-8a
-8a
-=12
-8b
-4g}
+=9	=9
+{4cc	Rom
+8a	ta
+=10	=10
+16g	rom
+16cc	ta
+8ee	da
+8dd	da,
+=11	=11
+16dd	rom
+16cc	ta
+8a	da
+8a	da
+=12	=12
+8ccq	.
+8b	dy
+4g}	na.
 !!LO:LB:g=esac
-=13
-{16g
-16g
-8f#
-8d
-=14
-16f#
-16g
-8.b
-16g
-=15
-16g
-16g
-8f#
-8d
-=16
-16f#
-16g
-8b
-8dd}
+=13	=13
+{16gL	.
+16gJ	.
+8f#L	.
+8dJ	.
+=14	=14
+16fL#	.
+16gJ	.
+8.b/L	.
+16gJ	.
+=15	=15
+16gL	.
+16gJ	.
+8f#L	.
+8dJ	.
+=16	=16
+16fL#	.
+16gJ	.
+8bL	.
+8ddJ}	.
 !!LO:LB:g=esac
-=17
-{4cc
-8a
-=18
-16g
-16cc
-8ee
-8dd
-=19
-16dd
-16cc
-8a
-8a
-=20
-8b
-4g}
-==
-*-
+=17	=17
+{4cc	.
+8a	.
+=18	=18
+16gL	.
+16cc/J	.
+8eeL	.
+8ddJ	.
+=19	=19
+16ddL	.
+16ccJ	.
+8aL	.
+8aJ	.
+=20	=20
+8ccq	.
+8b	.
+4g}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Dobry wieczór karczmareczko
+!!z Bogiem sobie żyjesz,
+!!trzech złodziejów za karczmą jest,
+!!a ty z czwartym pijesz.
+!!Rom ta rom ta da da,
+!!rom ta da da dy na.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!role-listener: Alewife
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=134 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 120-121} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), pp. 120-121}
 !!!page: 120-121
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-18

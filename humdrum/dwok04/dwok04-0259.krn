@@ -3,152 +3,163 @@
 !!!source: DWOK04
 !!!id: K0259
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8b
-8dd
-8dd
-=2
-8b
-8dd
-8dd
-=3
-8dd
-8cc
-8f#
-=4
-8a
-8g}
-8r
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8b	Słu-
+8dd	-ży-
+8dd	-łem
+=2	=2
+8b	u
+8dd	pa-
+8dd	-na
+=3	=3
+8dd	na
+8cc	pir-
+8f#	-sze
+=4	=4
+8a	la-
+8g}	-to,
+8r	.
 !!LO:LB:g=esac
-=5
-{8b
-8dd
-8dd
-=6
-8b
-8dd
-8dd
-=7
-16dd
-16dd
-8.cc
-16f#
-=8
-8a
-8g}
-8r
+=5	=5
+{8b	dał
+8dd	ci
+8dd	my,
+=6	=6
+8b	dał
+8dd	ci
+8dd	my
+=7	=7
+16dd	przepióreczkę
+16dd	.
+8.cc	.
+16f#	.
+=8	=8
+8a	za
+8g}	to.
+8r	.
 !!LO:LB:g=esac
-=9
-{8b
-8dd
-8dd
-=10
-8b
-8dd
-8dd
-=11
-8dd
-8cc
-8f#
-=12
-8a
-8g}
-8r
+=9	=9
+{8b	Słu-
+8dd	-ży-
+8dd	-łem
+=10	=10
+8b	u
+8dd	pa-
+8dd	-na
+=11	=11
+8dd	na
+8cc	pir-
+8f#	-sze
+=12	=12
+8a	la-
+8g}	-to,
+8r	.
 !!LO:LB:g=esac
-=13
-{16b
-16cc
-8dd
-8dd
-=14
-16b
-16cc
-8dd
-8dd
-=15
-16dd
-16dd
-8.cc
-16f#
-=16
-8a
-8g}
-8r
+=13	=13
+{16b/L	dał
+16cc/J	.
+8dd	ci
+8dd	my,
+=14	=14
+16b/L	dał
+16cc/J	.
+8dd	ci
+8dd	my
+=15	=15
+16dd	przepióreczkę
+16dd	.
+8.cc	.
+16f#	.
+=16	=16
+8a	za
+8g}	to.
+8r	.
 !!LO:LB:g=esac
-=17
-{16f#
-16g
-4a
-=18
-16f#
-16g
-8a
-8a
-=19
-16f#
-16g
-8a
-8a
-=20
-16f#
-16g
-8a
-8a}
+=17	=17
+{16f#	Mo-
+16g	-ja
+4a	prze-
+=18	=18
+16f#L	-pió-
+16gJ	.
+8a	-recz-
+8a	-ka,
+=19	=19
+16f#L	la-
+16gJ	.
+8a	-ta-
+8a	-ła,
+=20	=20
+16f#L	fru-
+16gJ	.
+8a	-wa-
+8a}	-ła,
 !!LO:LB:g=esac
-=21
-{16f#
-16g
-4a
-=22
-16f#
-16g
-8a
-8a
-=23
-16f#
-16g
-8a
-8a
-=24
-16f#
-16g
-8a
-8a}
+=21	=21
+{16fL#	Mo-
+16gJ	-ja
+4a	prze-
+=22	=22
+16f#L	-pió-
+16gJ	.
+8a	-recz-
+8a	-ka,
+=23	=23
+16f#L	la-
+16gJ	.
+8a	-ta-
+8a	-ła,
+=24	=24
+16f#L	fru-
+16gJ	.
+8a	-wa-
+8a}	-ła,
 !!LO:LB:g=esac
-=25
-{16f#
-16f#
-8ee
-8ee
-=26
-8ee
-4dd
-=27
-8dd
-8cc
-8cc
-=28
-8cc
-8b
-8b
-=29
-16dd
-16dd
-8.cc
-16f#
-=30
-8a
-8g}
-8r
-==
-*-
+=25	=25
+{16f#	koło
+16f#	.
+8ee	o-
+8ee	-kie-
+=26	=26
+8ee	-neczka,
+4dd	.
+=27	=27
+8dd	la-
+8cc	-ta-
+8cc	-ła,
+=28	=28
+8cc	fruwała,
+8b	.
+8b	.
+=29	=29
+16dd	ko-
+16dd	-ło
+8.cc	o-
+16f#	-kie-
+=30	=30
+8a	-neczka.
+8g}	.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Służyłem u pana na pirsze lato,
+!!dał ci my, dał ci my przepióreczkę za to.
+!!Moja przepióreczka, latała, fruwała,
+!!koło okieneczka, latała, fruwała,
+!!koło okieneczka.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=142 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 128-129} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), pp. 128-129}
 !!!page: 128-129
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-19

@@ -3,72 +3,82 @@
 !!!source: DWOK04
 !!!id: K0256
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16a
-8b
-8cc
-=2
-4dd
-8ee
-=3
-16cc
-16a
-8f#
-8d
-=4
-8dd
-4b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g	W_Ma-
+16a	-zo-
+8b	-wieckiem
+8cc	.
+=2	=2
+4dd	mieście,
+8ee	.
+=3	=3
+16cc	mia-
+16a	-ła
+8f#	ba-
+8d	-ba
+=4	=4
+8dd	ko-
+4b}	-zła.
 !!LO:LB:g=esac
-=5
-{16g
-16a
-8b
-8cc
-=6
-4dd
-8ee
-=7
-16cc
-16a
-8f#
-8d
-=8
-8dd
-4b}
+=5	=5
+{16g	W_Ma-
+16a	-zo-
+8b	-wieckiem
+8cc	.
+=6	=6
+4dd	mieście,
+8ee	.
+=7	=7
+16cc	mia-
+16a	-ła
+8f#	ba-
+8d	-ba
+=8	=8
+8dd	ko-
+4b}	-zła.
 !!LO:LB:g=esac
-=9
-{4g
-8a
-=10
-4g
-8a
-=11
-8g
-8g
-8g}
+=9	=9
+{4g	Am
+8a	fiut,
+=10	=10
+4g	ta
+8a	put,
+=11	=11
+8g	dzik,
+8g	dzik,
+8g}	dzik,
 !!LO:LB:g=esac
-=12
-{16g
-16b
-4a
-=13
-16cc
-16a
-8f#
-8d
-=14
-8g
-4g}
-==
-*-
+=12	=12
+{16g	Ma-
+16b/	-zu-
+4a	-ra,
+=13	=13
+16cc/	mia-
+16a	-ła
+8f#	ba-
+8d	-ba
+=14	=14
+8g\	ko-
+4g}\	-zła.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!W Mazowieckiem mieście,
+!!miała baba kozła.
+!!Am fiut, ta put,
+!!dzik, dzik, dzik, Mazura,
+!!miała baba kozła.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=141 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 127} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 127}
 !!!page: 127
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-18

@@ -3,60 +3,69 @@
 !!!source: DWOK04
 !!!id: K0225
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8.dd
-16ee
-8dd
-8cc#
-8dd
-8b
-=2
-4dd
-4cc#
-4dd
-=3
-8.cc#
-16ee
-8dd
-8cc#
-8dd
-8b
-=4
-4dd
-4a
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8.dd;	Z_tamtéj
+16ee	.
+8dd	strony
+8cc#	.
+8dd	miasta
+8b	.
+=2	=2
+4dd	hoc
+4cc#	hoc
+4dd;	hoc
+=3	=3
+8.cc#	chodzi-
+16ee	.
+8dd	-ła
+8cc#	niewiasta
+8dd	.
+8b	.
+=4	=4
+4dd	hoc
+4a	hoc
+4g};	hoc.
 !!LO:LB:g=esac
-=5
-{8f#
-8a
-8cc
-8a
-8f#
-8d
-=6
-4g
-4b
-4dd
-=7
-8f#
-8a
-8cc
-8a
-8b
-8g
-=8
-4f#
-4d
-4g}
-==
-*-
+=5	=5
+{8f#	Tak
+8a	sobie
+8cc	.
+8a	mówiła
+8f#	.
+8d	.
+=6	=6
+4g	hoc
+4b	hoc
+4dd;	hoc
+=7	=7
+8f#	grzeczna
+8a	.
+8cc	panna
+8a	.
+8b	była
+8g	.
+=8	=8
+4f#	hoc
+4d	hoc
+4g};	hoc.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Z tamtej strony miasta hoc hoc hoc
+!!chodziła niewiasta hoc hoc hoc.
+!!Tak sobie mówiła hoc hoc hoc
+!!grzeczna panna była hoc hoc hoc.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=129 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 115} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 115}
 !!!page: 115
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-17

@@ -3,50 +3,60 @@
 !!!source: DWOK04
 !!!id: K0234
 !!!signature: 0223400000
-**kern
-*clefG2
-*k[]
-*C:
-*M2/4
-=1
-{8cc
-8cc
-8g
-8g
-=2
-8b
-4cc
-8r
-=3
-8cc
-8cc
-8g
-8g
-=4
-8a
-4g}
-8r
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M2/4	*
+=1	=1
+{8cc	Cóż
+8cc	to
+8g	z_te-
+8g	-go
+=2	=2
+8b	bę-
+4cc	-dzie
+8r	.
+=3	=3
+8cc	żo-
+8cc	-na
+8g	po
+8g	mnie
+=4	=4
+8a	i-
+4g}	-dzie
+8r	.
 !!LO:LB:g=esac
-=5
-{8cc
-8cc
-4g
-=6
-8f
-4.a
-=7
-8g
-8r
-8b
-8b
-=8
-8cc
-8cc}
-4r
-==
-*-
+=5	=5
+{8cc	żo-
+8cc	-na
+4g	po
+=6	=6
+8f	mnie
+4.a	i-
+=7	=7
+8g	-dzie
+8r	.
+8b	po
+8b	mnie
+=8	=8
+8cc	i-
+8cc}	-dzie.
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Cóż to z tego będzie
+!!żona po mnie idzie
+!!żona po mnie idzie
+!!po mnie idzie.
+!!@@END: VERSES
+!!!role-singer: Husband
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=133 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 119} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 119}
 !!!page: 119
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-17

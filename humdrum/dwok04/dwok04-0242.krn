@@ -3,132 +3,86 @@
 !!!source: DWOK04
 !!!id: K0242
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*e:
-=1
-*M4/4
-{8e
-8g
-8b
-8dd#
-4ee
-4ff#
-=2
-8b
-8g
-8b
-8dd#
-4ee
-4ff#
-=3
-*M3/4
-8b
-8g
-4b
-4dd#
-=
-!!UNCATEGORIZED MEASURE
-4ee
-12dd
-12cc
-12b
-4b}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*e:	*
+=1	=1
+*M4/4	*
+*met(c)	*
+!LO:TX:a:t=Duma	!
+{8e\	Gdzie
+8g\	to
+8b	jedziesz
+8dd#	.
+4ee	Ja-
+4ff#	-siu?
+=2	=2
+8b	Na
+8g	wo-
+8b	-jen-
+8dd#	-kę
+4ee	Ka-
+4ff#	-siu,
+=3	=3
+*M3/4	*
+8b	na
+8g	wo-
+4b	-jen-
+4dd#	-kę
+=4	=4
+4ee	da-
+*Xtuplet	*
+12ddnL	-lecz-
+12cc	.
+12bJ	.
+4b;}	-ną.
 !!LO:LB:g=esac
-=
-!!UNCATEGORIZED MEASURE
-{4b
-4cc
-8dd
-8cc
-8b
-8g
-=4
-*M4/4
-4a
-4b
-8a
-8g
-8f#
-8d#
-=5
-*M3/4
-8e
-8g
-4a
-4b
-=6
-4a
-16a
-16g
-16f#
-16g
-4e}
-!!LO:LB:g=esac
-=7
-*M4/4
-{8b
-8g
-8b
-8dd#
-4ee
-4ff#
-=8
-8b
-8g
-8b
-8dd#
-4ee
-8ff#
-8dd#
-=9
-*M3/4
-8b
-8g
-4b
-4dd#
-=
-!!UNCATEGORIZED MEASURE
-4ee
-12dd
-12cc
-12b
-4b}
-!!LO:LB:g=esac
-=
-!!UNCATEGORIZED MEASURE
-{4b
-4cc
-8dd
-8cc
-8b
-8g
-=10
-*M4/4
-4a
-4b
-8a
-8g
-8f#
-8d#
-=11
-*M3/4
-8e
-8g
-4a
-4b
-=12
-4a
-16a
-16g
-16f#
-16g
-4e}
-==
-*-
+=5	=5
+*M4/4	*
+{4b	Weź
+4cc	me
+8dd	Ja-
+8cc	-siu
+8b	z_so-
+8g	-bą
+=6	=6
+4a	radam
+4b	.
+8a	je-
+8g	-chać
+8f#	z_to-
+8d#	-bą,
+=7	=7
+*M3/4	*
+8e	na
+8g	wo-
+4a	-jen-
+4b	-kę
+=8	=8
+4a	da-
+16aL	-lecz-
+16g	.
+16f#	.
+16gJ	.
+4e};	-ną
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Gdzie to jedziesz Jasiu?
+!!Na wojenkę Kasiu,
+!!na wojenkę daleczną.
+!!Weź me Jasiu z sobą
+!!radam jechać z tobą,
+!!na wojenkę daleczną
+!!@@END: VERSES
+!!!role-singer: Mistress, Lover
+!!!role-listener: Lover, Mistress
+!!!singer-sex: Female, Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=136 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 122} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 122}
 !!!page: 122
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-18

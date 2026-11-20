@@ -3,70 +3,78 @@
 !!!source: DWOK04
 !!!id: K0220
 !!!signature:
-**kern
-*clefG2
-*k[]
-*a:
-*M3/4
-=1
-{8g
-8b
-4.dd
-8b
-=2
-4dd
-4dd
-4cc
-=3
-8a
-8b
-4cc
-4a}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/4	*
+=1	=1
+!LO:TX:a:t=Duma Kościelna	!
+{8g	A
+8b	w_niedzielę
+4.dd;	.
+8b	.
+=2	=2
+4dd	z_po-
+4dd	-ran-
+4cc	-na
+=3	=3
+8a\	po-
+8b	-szła
+4cc	panna
+4a}\	.
 !!LO:LB:g=esac
-=4
-{4cc
-4cc
-4a
-=5
-4b
-4b
-[4a}
-=6
-2a]
-4r
+=4	=4
+{4cc	na
+4cc	zie-
+4a	-le
+=5	=5
+4b	na
+4b	zie-
+[4a}	-le
+=6	=6
+2a]	.
+4r	.
 !!LO:LB:g=esac
-=7
-{8g
-8b
-4.dd
-8b
-=8
-4dd
-4dd
-8dd
-8cc
-=9
-16b
-16a
-8b
-4cc
-4a}
+=7	=7
+{8g	A
+8b	w_niedzielę
+4.dd;	.
+8b	.
+=8	=8
+4dd	z_po-
+4dd	-ran-
+8dd/L	-na
+8cc/J	.
+=9	=9
+16b/L	po-
+16aJ	.
+8b	-szła
+4cc	panna
+4a}\	.
 !!LO:LB:g=esac
-=10
-{4cc
-4cc
-4a
-=11
-4b
-4b
-[4a}
-=12
-2a]
-4r
-==
-*-
+=10	=10
+{4cc	na
+4cc	zie-
+4a	-le
+=11	=11
+4b	na
+4b	zie-
+[4a}	-le
+=12	=12
+2a]	.
+4r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A w niedzielę z poranna
+!!poszła panna na ziele na ziele
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=126 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 112} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 112}
 !!!page: 112
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-17

@@ -3,56 +3,66 @@
 !!!source: DWOK04
 !!!id: K0245
 !!!signature:
-**kern
-*clefG2
-*k[]
-*a:
-*M2/4
-=1
-{8.a
-16a
-8a
-8e
-=2
-8g#
-8g#
-8g#
-8e
-=3
-8a
-8b
-8cc
-8dd
-=4
-16ee
-16ff
-8ee
-16dd
-16cc
-8b}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M2/4	*
+=1	=1
+{8.a	A
+16a	w_Warszawie
+8a	.
+8e	.
+=2	=2
+8g#	w_pir(w)szym
+8g#	.
+8g#	do-
+8e	-mie,
+=3	=3
+8a	szy-
+8b	-ją
+8cc	mon-
+8dd	-dur
+=4	=4
+16eeL	właś-
+16ffJ	.
+8ee	-nie
+16ddL	dla
+16ccJ	.
+8b}	mnie,
 !!LO:LB:g=esac
-=5
-{8a
-8a
-8a
-8e
-=6
-8g#
-8g#
-4g#
-=7
-8d
-8e
-8f
-8d
-=8
-8e
-8e
-4e}
-==
-*-
+=5	=5
+{8a	a
+8a	ka-
+8a	-po-
+8e	-tę
+=6	=6
+8g#	na
+8g#	pią-
+4g#	-tek,
+=7	=7
+8d	na
+8e	nie-
+8f	-dzie-
+8d	-lę
+=8	=8
+8e	na
+8e	świą-
+4e}	-tek.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A w Warszawie w pir(w)szym domie,
+!!szyją mondur właśnie dla mnie,
+!!a kapotę na piątek,
+!!na niedzielę na świątek.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=138 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 124} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 124}
 !!!page: 124
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-18

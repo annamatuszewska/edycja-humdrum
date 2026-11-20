@@ -3,91 +3,100 @@
 !!!source: DWOK04
 !!!id: K0226a
 !!!signature:
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/8
-=1
-{16a
-16cc#
-8ee
-8ee
-=2
-16dd
-16cc#
-8b
-8b
-=3
-16b
-16g#
-8e
-8e
-=4
-8ee
-4ee}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M3/8	*
+=1	=1
+{16a	Zachcia-
+16cc#/	.
+8ee	-ło
+8ee	się
+=2	=2
+16dd	sta-
+16cc#	-réj
+8b	ba-
+8b	-bie
+=3	=3
+16b	młode-
+16g#	.
+8e	-go
+8e	ga-
+=4	=4
+8ee	-lanta,
+4ee}	.
 !!LO:LB:g=esac
-=5
-{16a
-16cc#
-8.ff#
-16ee
-=6
-16dd
-16cc#
-8b
-8b
-=7
-16g#
-16f#
-8e
-8e
-=8
-8a
-4a}
+=5	=5
+{16a\	zjadła
+16cc#	.
+8.ff#	baba
+16ee	.
+=6	=6
+16dd	trzysta
+16cc#	.
+8b	diabłów,
+8b	.
+=7	=7
+16g#\	trafi-
+16f#\	.
+8e	-ła
+8e	na
+=8	=8
+8a	franta.
+4a}	.
 !!LO:LB:g=esac
-=9
-{16a
-16b
-8cc#
-8cc#
-=10
-16dd
-16cc#
-8b
-8b
-=11
-16b
-16g#
-8e
-8e
-=12
-8ee
-4ee}
+=9	=9
+{16a\	Mło-
+16b	-dy
+8cc#	galant
+8cc#	.
+=10	=10
+16dd	sta-
+16cc#	-réj
+8b	ba-
+8b	-bie
+=11	=11
+16b	skó-
+16g#	-rę
+8e	wyfu-
+8e	.
+=12	=12
+8ee	-tru-
+4ee}	-je,
 !!LO:LB:g=esac
-=13
-{16a
-16b
-8cc#
-8cc#
-=14
-16dd
-16cc#
-8b
-8b
-=15
-16g#
-16f#
-8e
-8e
-=16
-8a
-4a}
-==
-*-
+=13	=13
+{16a	ba-
+16b	-ba
+8cc#	lata
+8cc#	.
+=14	=14
+16dd	jak
+16cc#	szalo-
+8b	.
+8b	-na,
+=15	=15
+16g#\	sta-
+16f#\	-ro-
+8e	-ści
+8e	nie
+=16	=16
+8a	czu-
+4a}	-je.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Zachciało się staréj babie młodego galanta,
+!!zjadła baba trzysta diabłów, trafiła na franta.
+!!Młody galant staréj babie skórę wyfutruje,
+!!baba lata jak szalona, starości nie czuje.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!ONB: Partia wokalna w tonacji A
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=129 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 115} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 115}
 !!!page: 115
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-17

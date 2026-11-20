@@ -3,62 +3,72 @@
 !!!source: DWOK04
 !!!id: K0247
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{4dd
-8ee
-=2
-8dd
-4g
-=3
-4cc
-8a
-=4
-8dd
-4g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{4dd	Za
+8ee	bo-
+=2	=2
+8dd	-ra-
+4g	-my,
+=3	=3
+8bq	.
+4cc	za
+8a	la-
+=4	=4
+8dd	-sa-
+4g}	-my,
 !!LO:LB:g=esac
-=5
-{16g
-16a
-8b
-8cc
-=6
-16g
-16a
-8b
-8cc
-=7
-4dd
-8b
-=8
-8a
-4g}
+=5	=5
+{16g	tań-
+16a	-co-
+8b	-wa-
+8cc	-ła
+=6	=6
+16g	Mał-
+16a	-go-
+8b	-rza-
+8cc	-ta
+=7	=7
+8cc#q	.
+4dd	z_żołnie-
+8b	.
+=8	=8
+8a\	-rza-
+4g}	-my
 !!LO:LB:g=esac
-=9
-{16g
-16a
-8b
-8cc
-=10
-16g
-16a
-8b
-8cc
-=11
-4dd
-8b
-=12
-16a
-16g
-4g}
-==
-*-
+=9	=9
+{16g	tań-
+16a	-co-
+8b	-wa-
+8cc	-ła
+=10	=10
+16g	Mał-
+16a	-go-
+8b	-rza-
+8cc	-ta
+=11	=11
+8cc#q	.
+4dd	z_żołnie-
+8b	.
+=12	=12
+16aL	-rza-
+16gJ	.
+4g}	-my
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Za boramy, za lasamy,
+!!tańcowała Małgorzata z żołnierzamy
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=138 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 124} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 124}
 !!!page: 124
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-18

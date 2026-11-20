@@ -3,61 +3,74 @@
 !!!source: DWOK04
 !!!id: K0231
 !!!signature:
-**kern
-*clefG2
-*k[f#c#g#]
-*A:
-*M3/8
-=1
-{8ee
-8cc#
-8a
-=2
-4b
-8e
-=3
-16g#
-16b
-4dd}
+**kern	**text
+*clefG2	*
+*k[f#c#g#]	*
+*A:	*
+*M3/8	*
+=1	=1
+{8ee	Na
+8cc#	pie-
+8a	-cu
+=2	=2
+4b	o-
+8e	-rał,
+=3	=3
+16g#	w_kachlu
+16b	.
+4dd}	siał,
 !!LO:LB:g=esac
-=4
-{8ee
-8cc#
-8a
-=5
-4b
-8e
-=6
-16g#
-16b
-4a}
+=4	=4
+{8ee	żona
+8cc#	.
+8a	pła-
+=5	=5
+4b	-ka-
+8e	-ła,
+=6	=6
+16g#	on
+16b	się
+4a}	śmiał.
 !!LO:LB:g=esac
-=7
-{8a
-8cc#
-8cc#
-=8
-4b
-8e
-=9
-16g#
-16b
-4dd
-=10
-8a
-8cc#
-8cc#
-=11
-4b
-8e
-=12
-16g#
-16b
-4a}
-==
-*-
+=7	=7
+{8a	Nie
+8cc#	płacz
+8cc#	żo-
+=8	=8
+4b	-necz-
+8e	-ko,
+=9	=9
+16g#	bę-
+16b	-dzie
+4dd	chlib,
+=10	=10
+8a	pu-
+8bq	.
+8cc#	-cwier-
+8bq	.
+8cc#	-ci
+=11	=11
+4b	ży-
+8e	-ła,
+=12	=12
+16g#	mie-
+16b	-szek
+4a}	pliw
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Na piecu orał, w kachlu siał,
+!!żona płakała, on się śmiał.
+!!Nie płacz żoneczko, będzie chlib,
+!!pucwierci żyła, mieszek pliw
+!!@@END: VERSES
+!!!role-singer: Narrator, Husband
+!!!role-listener: Wife
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=132 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 118} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 118}
 !!!page: 118
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-17

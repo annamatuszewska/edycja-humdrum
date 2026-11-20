@@ -3,49 +3,58 @@
 !!!source: DWOK04
 !!!id: K0221
 !!!signature:
-**kern
-*clefG2
-*k[]
-*a:
-*M2/4
-=1
-{8dd
-8dd
-8ff
-8ee
-=2
-8dd
-8ee
-4cc
-=3
-8dd
-8dd
-8ee
-8cc
-=4
-8a
-8a
-4g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M2/4	*
+=1	=1
+!LO:TX:a:t=Duma Kościelna	!
+{8dd	A
+8dd	w_nie-
+8ff	-dzielę
+8ee	.
+=2	=2
+8dd	ra-
+8ee	-niuchno
+4cc	.
+=3	=3
+8dd	po-
+8dd	-szła
+8ee	pan-
+8cc	-na
+=4	=4
+8a	na
+8a	ziółko.
+4g}	.
 !!LO:LB:g=esac
-=5
-{4cc
-16b
-8.dd
-=6
-8a
-8g
-8b
-8dd
-=7
-4cc
-16b
-8.dd
-=8
-2a}
-==
-*-
+=5	=5
+{4cc	Na
+16b/L	ziół-
+8.dd/J	.
+=6	=6
+8a	-ko,
+8g	ser-
+8b	-de-
+8dd	-lu
+=7	=7
+4cc	na
+16b/L	ziół-
+8.dd/J	.
+=8	=8
+2a}	-ko.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A w niedzielę raniuchno
+!!poszła panna na ziółko.
+!!Na ziółko, serdelu na ziółko.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=126 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 112-113} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), pp. 112-113}
 !!!page: 112-113
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-17

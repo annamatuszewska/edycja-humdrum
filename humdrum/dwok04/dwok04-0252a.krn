@@ -3,87 +3,100 @@
 !!!source: DWOK04
 !!!id: K0252a
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*F:
-*M2/4
-=1
-{4cc
-4dd
-=2
-8cc
-16ee
-16gg
-4ff
-=3
-8cc
-8cc
-8dd
-8dd
-=4
-8cc
-8b-
-4a}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M2/4	*
+=1	=1
+{4cc	A,
+4dd	wa,
+=2	=2
+8cc/L	kot-
+16ee/	-ki
+16gg/J	.
+4ff	dwa,
+=3	=3
+8cc	sza-
+8cc	-re
+8dd	bu-
+8dd	-re
+=4	=4
+8cc	o-
+8b-	-bydwa,
+4a}	.
 !!LO:LB:g=esac
-=5
-{4cc
-4g
-=6
-8b-
-8b-
-4a
-=7
-8cc
-8cc
-16g
-16b-
-8dd
-=8
-8a
-8g
-4f}
+=5	=5
+{4cc/	le-
+4g	-tą
+=6	=6
+8b-	do
+8b-	la-
+4a	-sa
+=7	=7
+8cc	i
+8cc	wo-
+16gL	-ła-
+16b-/	.
+8dd/J	-ją
+=8	=8
+8a	hopsa
+8g	.
+4f}	sa.
 !!LO:LB:g=esac
-=9
-{4f
-4g
-=10
-8f
-8e
-4f
-=11
-8g
-8a
-8b-
-8a
-=12
-16g
-16a
-8g
-4f}
+=9	=9
+{4f	A,
+4g	a,
+=10	=10
+8fL	a,
+8eJ	.
+4f	a,
+=11	=11
+8gL	a,
+8aJ	.
+8b-/L	a,
+8aJ	.
+=12	=12
+16gL	a,
+16a	.
+8g	.
+4f}J	a.
 !!LO:LB:g=esac
-=13
-{4f
-4g
-=14
-8f
-8e
-4f
-=15
-8g
-8a
-8b-
-8a
-=16
-16g
-16a
-8g
-4f}
-==
-*-
+=13	=13
+{4f	A,
+4g	a,
+=14	=14
+8fL	a,
+8eJ	.
+4f	a,
+=15	=15
+8gL	a,
+8aJ	.
+8b-/L	a,
+8aJ	.
+=16	=16
+16gL	a,
+16a	.
+8gJ	.
+4f}	a.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A, wa, kotki dwa,
+!!szare bure obydwa,
+!!letą do lasa
+!!i wołają hopsa sa.
+!!A, a, a, a,
+!!a, a, a, a.
+!!A, a, a, a,
+!!a, a, a, a.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!ONB: Wariant alternatywny
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=140 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 126} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 126}
 !!!page: 126
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-18
