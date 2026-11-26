@@ -3,118 +3,130 @@
 !!!source: DWOK04
 !!!id: K0294
 !!!signature: 04029400002
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{4.g
-=2
-4.g
-=3
-4.g
-=4
-16cc
-16dd
-8ee
-8ee
-=5
-16ff
-16ee
-8cc
-16dd
-16ee
-=6
-16ff
-16dd
-8b
-8g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{4.g	.
+=2	=2
+4.g	.
+=3	=3
+4.g	.
+=4	=4
+16ccL	.
+16ddJ	.
+8eeL	.
+8eeJ	.
+=5	=5
+16ff/L	.
+16ee/J	.
+8cc	.
+16ddL	.
+16eeJ	.
+=6	=6
+16ffL	.
+16ddJ	.
+8b/L	.
+8gJ}	.
 !!LO:LB:g=esac
-=
-{24g
-24a
-24b
-8cc
-8b
-=7
-16cc
-16b
-8f
-8a
-=8
-16cc
-16b
-8g
-8b}
+=7	=7
+*Xtuplet	*
+{24gL	.
+24a	.
+24b/J	.
+8ccML	.
+8bJ	.
+=8	=8
+16cLc	.
+16a\J	.
+8f\L	.
+8a\J	.
+=9	=9
+16ccML	.
+16bJ	.
+8gL	.
+8b/J}	.
 !!LO:LB:g=esac
-=9
-{16cc
-16ee-
-8gg
-8gg
-=10
-8.gg
-16ee-
-16dd
-16cc
-=11
-16ee-
-16gg
-8ff}
-8r
+=10	=10
+{16cc	Ma-
+16ee-	-ry-
+8gg	-na
+8gg	mi,
+=11	=11
+8.gg	mo-
+16ee-	-je
+16dd	chłopcy
+16cc	.
+=12	=12
+16ee-	Mary-
+16gg	.
+8ff}	-na (na imię)
+8r	.
 !!LO:LB:g=esac
-=12
-{16cc
-16ee-
-8gg
-8gg
-=13
-8.gg
-16ee-
-16dd
-16cc
-=14
-16b
-16dd
-8cc}
-8r
+=13	=13
+{8ddq	.
+16cc	uwięzła
+16ee-	.
+8gg	.
+8gg	my
+=14	=14
+8.gg	w_prawy
+16ee-	.
+16dd	nóżce
+16cc	.
+=15	=15
+16b	je-
+16dd	-rzy-
+8cc}	-na.
+8r	.
 !!LO:LB:g=esac
-=15
-{16cc
-16dd
-8ee
-8ee
-=16
-16ee
-16dd
-8b
-8g
-=17
-16cc
-16ee
-4gg}
+=16	=16
+{16cc	A
+16dd	pójdę
+8een	.
+8ee	ja
+=17	=17
+16ee	do
+16dd	Jasieńka
+8b	.
+8g	.
+=18	=18
+16cc	na
+16ee	pole,
+4gg}	.
 !!LO:LB:g=esac
-=18
-{16cc
-16dd
-8ee
-8ee
-=19
-16dd
-16dd
-8b
-8g
-=20
-16b
-16dd
-8cc}
-8r
-==
-*-
+=19	=19
+{16cc	a
+16dd	te
+8ee	ón
+8ee	my
+=20	=20
+16dd	je-
+16dd	-rzy-
+8b	-neczkę
+8g	.
+=21	=21
+16b	wy-
+16dd	-ko-
+8cc}	-le.
+8r	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Maryna mi, moje chłopcy Maryna
+!!uwięzła my w prawy nóżce jerzyna.
+!!A pójdę ja do Jasieńka na pole,
+!!a te ón my jerzyneczkę wykole.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!singer-sex: Female
 !!!ONB: Wartiant alternatywny
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=160 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 146} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 146}
 !!!page: 146
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-23

@@ -3,193 +3,198 @@
 !!!source: DWOK04
 !!!id: K0310
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8dd
-8ee
-8ff#
-8dd
-8ee
-8ff#
-=2
-[4gg
-16gg]
-16dd
-16cc
-16b
-4g
-=3
-8cc
-8ee
-8.gg
-16ff#
-8ee
-8dd
-=4
-16cc
-16b
-16a
-16b
-2g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+!LO:TX:a:t=Owczarek prawowierny.	!
+{8ddL	.
+8ee	.
+8ff#	.
+8ddJ	.
+8eeL	.
+8ff#J	.
+=2	=2
+[4ggT	.
+16gg]L	.
+16dd	.
+16cc	.
+16bJ	.
+4g	.
+=3	=3
+8ccL	.
+8eeJ	.
+8.ggTL	.
+16ff#J	.
+8eeL	.
+8ddJ	.
+=4	=4
+16ccL	.
+16b	.
+16a\	.
+16bJ	.
+2g};	.
 !!LO:LB:g=esac
-=5
-{8dd
-8ee
-8ff#
-8aa
-8bb
-8aa
-=6
-8gg
-8ff#
-2dd
-=7
-8ff#
-8aa
-8bb
-8aa
-8gg
-8dd
-=8
-16cc
-16b
-16a
-16b
-2g}
+=5	=5
+{8ddL	.
+8ee	.
+8ff#	.
+8aaJ	.
+8bbL	.
+8aaJ	.
+=6	=6
+8ggL	.
+8ff#J	.
+2ddT	.
+=7	=7
+8ff#L	.
+8aa	.
+8bb	.
+8aaJ	.
+8ggL	.
+8ddJ	.
+=8	=8
+16ccL	.
+16b	.
+16a\	.
+16bJ	.
+2g}	.
 !!LO:LB:g=esac
-=9
-{16cc
-16b
-16a
-16b
-2dd
-=10
-16cc
-16b
-16a
-16b
-2g
-=11
-16cc
-16b
-16a
-16b
-2dd
-=12
-16cc
-16b
-16a
-16b
-2g}
+=9	=9
+{16cLc	.
+16b	.
+16a\	.
+16bJ	.
+2dd	.
+=10	=10
+16ccL	.
+16b	.
+16a\	.
+16bJ	.
+2g	.
+=11	=11
+16ccL	.
+16b	.
+16a\	.
+16bJ	.
+2dd	.
+=12	=12
+16ccL	.
+16b	.
+16a\	.
+16bJ	.
+2g}	.
 !!LO:LB:g=esac
-=13
-{8dd
-8ee
-8ff#
-8dd
-8ee
-8dd
-=14
-8ee
-8ff#
-8gg
-8ff#
-8dd
-8ee
-=15
-8dd
-8ee
-8ff#
-8dd
-8ee
-8dd
-=16
-8ee
-8ff#
-8gg
-8ff#
-8dd
-8ee}
+=13	=13
+!LO:TX:a:t=più mosso	!
+{8ddL	.
+8ee	.
+8ff#	.
+8ddJ	.
+8eeL	.
+8ddJ	.
+=14	=14
+8eeL	.
+8ff#	.
+8gg	.
+8ff#J	.
+8ddL	.
+8eeJ	.
+=15	=15
+8ddL	.
+8ee	.
+8ff#	.
+8ddJ	.
+8eeL	.
+8ddJ	.
+=16	=16
+8eeL	.
+8ff#	.
+8gg	.
+8ff#J	.
+8ddL	.
+8ee}J	.
 !!LO:LB:g=esac
-=17
-{8dd
-8ee
-8ff#
-8dd
-8ee
-8ff#
-=18
-8gg
-8ff#
-8gg
-8dd
-8ee
-8dd
-=19
-8cc
-8b
-8cc
-8a
-8f#
-8f#
-=20
-8g
-8f#
-8g
-8a
-8b
-8dd}
+=17	=17
+{8ddL	.
+8ee	.
+8ff#	.
+8ddJ	.
+8eeL	.
+8ff#J	.
+=18	=18
+8ggL	.
+8ff#	.
+8gg	.
+8ddJ	.
+8eeL	.
+8ddJ	.
+=19	=19
+8ccL	.
+8b	.
+8cc	.
+8a\J	.
+8f#L	.
+8f#J	.
+=20	=20
+8gL	.
+8f#	.
+8g	.
+8aJ	.
+8bL	.
+8ddJ}	.
 !!LO:LB:g=esac
-=21
-{4.cc
-8a
-4f#
-=
-12g
-12a
-12b
-4.dd
-8ee
-=22
-4.cc
-8a
-4f#
-=
-12g
-12a
-12b
-4.g
-8b}
+=21	=21
+{4.cc	.
+8a	.
+4f#	.
+=22	=22
+*Xtuplet	.
+12gL	.
+12a	.
+12b/J	.
+4.dd	.
+8ee	.
+=23	=23
+4.cc	.
+8a	.
+4f#	.
+=24	=24
+12gL	.
+12a	.
+12b/J	.
+4.g	.
+8b/}	.
 !!LO:LB:g=esac
-=23
-{4.cc
-8a
-[4f#
-=24
-16f#]
-16g
-16a
-16b
-4.dd
-8ee
-=25
-4.cc
-8a
-[4f#
-=26
-16f#]
-16g
-16a
-16b
-2g}
-==
-*-
+=25	=25
+{4.cc	.
+8a	.
+[4f#	.
+=26	=26
+16f#]L	.
+16g	.
+16a	.
+16b/J	.
+4.dd	.
+8ee	.
+=27	=27
+4.cc	.
+8a	.
+[4f#	.
+=28	=28
+16f#]L	.
+16g	.
+16a	.
+16b/J	.
+2g}	.
+==	==
+*-	*-
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=167 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 153-154} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), pp. 153-154}
 !!!page: 153-154
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-25

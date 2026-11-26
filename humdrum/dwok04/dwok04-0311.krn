@@ -3,232 +3,242 @@
 !!!source: DWOK04
 !!!id: K0311
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-=1
-*M3/4
-{8g
-8b
-8dd
-8b
-8dd
-8b
-=
-!!UNCATEGORIZED MEASURE
-12dd
-12ee
-12dd
-4cc
-4a
-=2
-*M3/4
-8a
-8b
-8cc
-8a
-8cc
-8a
-=3
-4cc
-4ee
-4dd}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+=1	=1
+*M3/4	*
+{8g	Dygu
+8b/	.
+8dd;	dygu
+8b	.
+8dd	dygu
+8b	.
+=2	=2
+*Xtuplet	*
+12ddL	po
+12ee	pszenicy,
+12ddJ	.
+4cc	.
+4a\;	.
+=3	=3
+8a	dyg
+8b/	.
+8cc	dygu
+8a	.
+8cc	dygu
+8a	.
+=4	=4
+4cc	po
+4ee	owsie.
+4dd}	.
 !!LO:LB:g=esac
-=4
-{8g
-8a
-4b
-8b
-8g
-=5
-8a
-8a
-4f#
-4d
-=6
-8d
-8e
-8f#
-8d
-8f#
-8a
-=
-!!UNCATEGORIZED MEASURE
-4cc
-12ee
-12ff#
-12ee
-8dd
-8a}
+=5	=5
+{8g	A
+8a	nie
+4b/	dałaś
+8b/	.
+8g	my
+=6	=6
+8a\	gęby
+8a\	.
+4f#	w_zapust,
+4d	.
+=7	=7
+8d	a
+8e	i
+8f#	dajże
+8d	.
+8f#\	teraz
+8a\)	.
+=8	=8
+4cc	psu
+12ee/L	w
+12ff#/	poście,
+12ee/J	.
+8dd/L	.
+8a}J	.
 !!LO:LB:g=esac
-=
-!!UNCATEGORIZED MEASURE
-{8g
-8g
-4g
-4g
-=7
-*M3/4
-8a
-8a
-4f#
-4d
-=8
-8d
-8e
-8f#
-8d
-8f#
-8g
-=9
-8b
-8f#
-8g
-8f#
-8g
-8d}
+=9	=9
+{8g	nie
+8g	dałaś
+4g	.
+4g	my
+=10	=10
+8a\	gęby
+8a\	.
+4f#	w_zapust
+4d	.
+=11	=11
+8d	a
+8e	i
+8f#	dajże
+8d	.
+8f#\	teraz
+8g\	.
+=12	=12
+8b/L	psu
+8f#J	.
+8g\L	w
+8f#\J	poście
+8gL	.
+8d/J}	.
 !!LO:LB:g=esac
-=10
-*M3/8
-{16b
-16dd
-16b
-16dd
-16b
-16dd
-=11
-16b
-16dd
-16b
-16dd
-16ee
-32dd
-32cc#
-=12
-16a
-16cc
-16a
-16cc
-16a
-16cc
-=13
-16a
-16cc
-16ee
-16ff#
-16ee
-16dd}
+=13	=13
+{16bL	.
+16dd	.
+16b	.
+16dd	.
+16b	.
+16ddJ	.
+=14	=14
+16bL	.
+16dd	.
+16b	.
+16ddJ	.
+16eeL	.
+32dd	.
+32cc#J	.
+=15	=15
+16a\	.
+16ccn	.
+16a\	.
+16cc	.
+16a\	.
+16ccJ	.
+=16	=16
+16a\L	.
+16cc	.
+16ee	.
+16ff#	.
+16ee	.
+16dd}J	.
 !!LO:LB:g=esac
-=14
-{16g
-16b
-16a
-16g
-16b
-16a
-=15
-16g
-16b
-16a
-16g
-16b
-32dd
-32cc#
-=16
-16a
-16b
-16a
-16g
-16f#
-16e
-=17
-16d
-16f#
-16a
-16cc
-16ee
-16dd}
+=17	=17
+{16gL	.
+16b/	.
+16a	.
+16gJ	.
+16b/L	.
+16aJ	.
+=18	=18
+16gL	.
+16b/	.
+16a	.
+16gJ	.
+16bL	.
+32dd	.
+32ccJ#	.
+=19	=19
+16aL	.
+16b/	.
+16a	.
+16g	.
+16f#	.
+16eJ	.
+=20	=20
+16dL	.
+16f#	.
+16a	.
+16cc/J	.
+16eeL	.
+16dd}J	.
 !!LO:LB:g=esac
-=18
-{16g
-16b
-16a
-16g
-16b
-16a
-=19
-16g
-16b
-16a
-16g
-16b
-32dd
-32cc#
-=20
-16a
-16b
-16a
-16g
-16f#
-16e
-=21
-16d
-32e
-32f#
-8g
-8d}
+=21	=21
+{16gL	.
+16b/	.
+16a	.
+16gJ	.
+16b/L	.
+16aJ	.
+=22	=22
+16gL	.
+16b/	.
+16a	.
+16gJ	.
+16bL	.
+32dd	.
+32ccJ#	.
+=23	=23
+16aL	.
+16b/	.
+16a	.
+16g	.
+16f#	.
+16eJ	.
+=24	=24
+16dL	.
+32e	.
+32f#J	.
+8gL	.
+8d}J	.
 !!LO:LB:g=esac
-=22
-{16a
-16f#
-8d
-8dd
-=23
-8g
-8.b
-16cc
-=24
-16a
-32g
-32f#
-8d
-8dd
-=25
-8g
-8g
-8g}
+=25	=25
+{16aL	.
+16f#J	.
+!LO:TX:t=P:problem=mixed beam	!
+8dL	.
+8ddJ	.
+=26	=26
+8g	.
+8.bL	.
+16ccJ	.
+=27	=27
+16aL	.
+32g	.
+32f#J	.
+!LO:TX:t=P:problem=mixed beam	!
+8dL	.
+8ddJ	.
+=28	=28
+8g\L	.
+8g\	.
+8g}\J	.
 !!LO:LB:g=esac
-=26
-{16d
-32e
-32f#
-8g
-16g
-16a
-=27
-16b
-16a
-16b
-16cc
-16a
-16f#
-=28
-16d
-32e
-32f#
-8g
-16g
-16b
-=29
-16ee
-16dd
-8b
-8g}
-==
-*-
+=29	=29
+{16dL	.
+32e	.
+32f#J	.
+8gL	.
+16g	.
+16aJ	.
+=30	=30
+16bL	.
+16a\	.
+16b	.
+16ccJ	.
+16aL	.
+16f#J	.
+=31	=31
+16dL	.
+32e	.
+32f#J	.
+8gL	.
+16g	.
+16b/J	.
+=32	=32
+16eeL	.
+16ddJ	.
+8b/L	.
+8g}J	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Dygu dygu dygu po pszenicy,
+!!dyg dygu dygu po owsie.
+!!A nie dałaś my gęby w zapust,
+!!a i dajże teraz psu w poście,
+!!nie dałaś my gęby w zapust
+!!a i dajże teraz psu w poście
+!!@@END: VERSES
+!!!role-singer:  Enamoured
+!!!role-listener: Girl
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=168 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 154} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 154}
 !!!page: 154
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-25

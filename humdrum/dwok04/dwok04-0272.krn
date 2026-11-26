@@ -3,84 +3,97 @@
 !!!source: DWOK04
 !!!id: K0272
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=1
-{8d
-8e
-8f#
-8g
-8a
-8a
-=2
-4a
-8b
-8g
-4a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{8d	Da
+8e	je-
+8f#	-dziesz,
+8g	.
+8a	nie
+8a	jedziesz,
+=2	=2
+4a	.
+8b/L	owcza-
+8gJ	.
+4a}	-rek,
 !!LO:LB:g=esac
-=3
-{8a
-8cc
-8ee
-8ff#
-4ee
-=4
-8b
-16b
-16g
-2a
-=5
-8a
-8cc
-8ee
-8ff#
-4ee
-=6
-8b
-8g
-2a}
+=3	=3
+{8a	da
+8cc/	i
+8eeL	je-
+8ff#J	.
+4ee	-dziesz
+=4	=4
+8b/	nie
+16b/L	je-
+16gJ	.
+2a	-dziesz,
+=5	=5
+8a	da
+8cc/	i
+8eeL	je-
+8ff#J	.
+4ee	-dziesz,
+=6	=6
+8b/	nie
+8g	je-
+2a}	-dziesz.
 !!LO:LB:g=esac
-=7
-{8d
-8e
-8f#
-8g
-8a
-8f#
-=8
-8d
-8f#
-8e
-8c
-8e
-8c
-=9
-8d
-8f#
-8d
-8g
-4f#
-=10
-8d
-8g
-4f#
-4a}
+=7	=7
+{8d	A
+8e	przeczuwało
+8f#	.
+8g	.
+8a	.
+8f#	to
+=8	=8
+8d	mo-
+8f#	-je
+8eL	ser-
+8cJ	.
+8eL	-ce
+8cJ	.
+=9	=9
+8d	że
+8f#	me
+8dL	nie
+8gJ	.
+4f#	weźniesz
+=10	=10
+8d	_
+8g	nie
+4f#	weźniesz,
+4a};	.
 !!LO:LB:g=esac
-=11
-{8d
-8f#
-8d
-8g
-4f#
-=12
-2.d}
-==
-*-
+=11	=11
+{8d	.
+8f#	że
+8dL	me
+8gJ	nie
+4f#	weź-
+=12	=12
+2.d}	-niesz.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Da jedziesz, nie jedziesz, owczarek,
+!!da i jedziesz nie jedziesz,
+!!da i jedziesz, nie jedziesz.
+!!A przeczuwało to moje serce
+!!że me nie weźniesz nie weźniesz,
+!!że me nie weźniesz.
+!!@@END: VERSES
+!!!role-singer: Girl
+!!!role-listener: Shepherd
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=149 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 135} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 135}
 !!!page: 135
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-21

@@ -3,131 +3,140 @@
 !!!source: DWOK04
 !!!id: K0299
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8dd
-16ff#
-16ee
-16dd
-16b
-=2
-16dd
-16dd
-8ee
-8a
-=3
-8dd
-16ff#
-16ee
-16dd
-16b
-=4
-16b
-16dd
-8cc
-8a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8dd	Da
+16ff#	ko-
+16ee	-nie
+16dd	w_życie,
+16b	.
+=2	=2
+16dd	konie
+16dd	.
+8ee	w_owsie,
+8a	.
+=3	=3
+8dd	da
+16ff#	konie
+16ee	.
+16dd	w_ta-
+16b	-tar-
+=4	=4
+16b	-ce,
+16dd	tatar-
+8cc	.
+8a}	-ce.
 !!LO:LB:g=esac
-=5
-{8a
-16b
-16g
-16g
-16b
-=6
-16b
-16dd
-8ee
-8a
-=7
-8a
-16b
-16g
-16g
-16b
-=8
-16ee
-16dd
-8cc
-8a}
+=5	=5
+{8a	Da
+16b/	za-
+16g	-li-
+16g	-cał
+16b/	się
+=6	=6
+16b	pański
+16dd	.
+8ee	fornal
+8a	.
+=7	=7
+8a	da
+16b/	w_piecu
+16g	.
+16g	kuchar-
+16b/	.
+=8	=8
+16ee	-ce
+16dd	ku-
+8cc	-char-
+8a}	-ce.
 !!LO:LB:g=esac
-=9
-{8dd
-16ff#
-16ee
-16dd
-16b
-=10
-16dd
-16dd
-8ee
-8a
-=11
-8dd
-16ff#
-16ee
-16dd
-16b
-=12
-16dd
-16dd
-8cc
-8a}
+=9	=9
+{8dd	Da
+16ff#	ko-
+16ee	-nie
+16dd	w_życie,
+16b	.
+=10	=10
+16dd	konie
+16dd	.
+8ee	w_owsie,
+8a	.
+=11	=11
+8dd	da
+16ff#	konie
+16ee	.
+16dd	w_ta-
+16b	-tar-
+=12	=12
+16dd/L	-ce,
+16dd/J	.
+8cc	tatar-
+8a}	-ce.
 !!LO:LB:g=esac
-=13
-{8a
-16b
-16g
-16g
-16b
-=14
-16dd
-16dd
-8ee
-8a
-=15
-8a
-16b
-16g
-16g
-16b
-=16
-16ee
-16dd
-8cc
-8a}
+=13	=13
+{8a	Da
+16b/	za-
+16g	-li-
+16g	-cał
+16b	się
+=14	=14
+16dd/L	pański
+16dd/J	.
+8ee	fornal
+8a	.
+=15	=15
+8a	da
+16b/	w_piecu
+16g	.
+16g	kuchar-
+16b/	.
+=16	=16
+16ee	-ce
+16dd	ku-
+8cc	-char-
+8a}	-ce.
 !!LO:LB:g=esac
-=17
-{8a
-16b
-16a
-16g
-16e
-=18
-16d
-16f#
-16a
-16g
-8b
-=19
-8a
-16b
-16a
-16g
-16e
-=20
-16c
-16e
-16g
-16f#
-8d}
-==
-*-
+=17	=17
+{8a	.
+16b/L	.
+16a	.
+16g	.
+16eJ	.
+=18	=18
+16dL	.
+16f#	.
+16a	.
+16g	.
+8b/J	.
+=19	=19
+8a	.
+16b/L	.
+16a	.
+16g	.
+16eJ	.
+=20	=20
+16cL	.
+16e	.
+16g	.
+16f#	.
+8dJ}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Da konie w życie, konie w owsie,
+!!da konie w tatarce, tatarce.
+!!Da zalicał się pański fornal
+!!da w piecu kucharce kucharce.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=162 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 148} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 148}
 !!!page: 148
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-23

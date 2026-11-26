@@ -3,221 +3,235 @@
 !!!source: DWOK04
 !!!id: K0301
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16f#
-16f#
-8g
-16a
-16b
-=2
-16cc
-16ee
-8dd
-16b
-16g
-=3
-16f#
-16f#
-8g
-16a
-16b
-=4
-16cc
-16cc
-8a
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16f#	Oj
+16f#	da
+8g	ow-
+16aL	-cza-
+16b/J	.
+=2	=2
+16cc	-reczku
+16ee	.
+8dd	Ku-
+16b/L	-dła,
+16gJ	.
+=3	=3
+16f#	da
+16f#	i
+8g	o-
+16aL	-wiecz-
+16b/J	.
+=4	=4
+16cc	-ka
+16cc	ci
+8a	schudła;
+8g}	.
 !!LO:LB:g=esac
-=5
-{16f#
-16f#
-8g
-16a
-16b
-=6
-16cc
-16a
-8dd
-8b
-=7
-16f#
-16f#
-8g
-16a
-16b
-=8
-16cc
-16cc
-8a
-8g}
+=5	=5
+{16f#	oj
+16f#	da
+8g	daj-
+16aL	-że
+16b/J	.
+=6	=6
+16cc	owcy
+16a\	.
+8dd	so-
+8b/	-li
+=7	=7
+16f#	da
+16f#	bo
+8g	owcę
+16aL	.
+16b/J	.
+=8	=8
+16cc	brzuszek
+16cc	.
+8a\	boli.
+8g}	.
 !!LO:LB:g=esac
-=9
-{16f#
-16f#
-8g
-16a
-16b
-=10
-16cc
-16a
-8dd
-16b
-16g
-=11
-16f#
-16d
-8g
-16a
-16b
-=12
-16cc
-16cc
-16a
-16b
-8g}
+=9	=9
+{16f#	oj
+16f#	da
+8g	daj-
+16aL	-że
+16b/J	.
+=10	=10
+16cc	owcy
+16a\	.
+8dd	so-
+16bL	-li
+16g\J	.
+=11	=11
+16f#\L	da
+16d\J	bo
+8g	owcę
+16aL	.
+16b/J	.
+=12	=12
+16cc	brzuszek
+16cc	.
+16aL	boli.
+16b/J	.
+8g}	.
 !!LO:LB:g=esac
-=13
-{16f#
-16d
-8g
-16a
-16b
-=14
-16cc
-16cc
-8a
-8dd
-=15
-16b
-16a
-8g
-16b
-16dd
-=
-24ee
-24dd
-24cc
-8a
-8g}
+=13	=13
+{16f#L	.
+16dJ	.
+8gL	.
+16a	.
+16b/J	.
+=14	=14
+16cc	.
+8ddq	.
+16ccJ	.
+8a\L	.
+8ddJ	.
+=15	=15
+16b/mL	.
+16a	.
+8gJ	.
+16bL	.
+16ddJ	.
+=16	=16
+*Xtuplet	*
+24eeL	.
+24dd	.
+24ccJ	.
+8aL	.
+8g}J	.
 !!LO:LB:g=esac
-=16
-{16a
-16cc#
-8dd
-16ee
-16ff#
-=17
-16gg
-16gg
-8ee
-8dd
-=18
-16cc#
-16a
-8.dd
-16b
-=19
-8cc
-8f#
-8g}
+=17	=17
+{16a\L	.
+16cc#J	.
+8ddL	.
+16ee	.
+16ffJ#	.
+=18	=18
+16ggL	.
+8aaq	.
+16ggJ	.
+8eeL	.
+8ddJ	.
+=19	=19
+16ccL#	.
+16a\J	.
+8.ddL	.
+16bJ	.
+=20	=20
+8ccLn	.
+8f#\	.
+8g}\J	.
 !!LO:LB:g=esac
-=20
-{16f#
-16d
-8g
-16a
-16b
-=21
-16cc
-16cc
-8a
-8dd
-=22
-16b
-16a
-8g
-16b
-16dd
-=
-24ee
-24dd
-24cc
-8a
-16g
-16b}
+=21	=21
+{16f#L	.
+16dJ	.
+8gL	.
+16a	.
+16b/J	.
+=22	=22
+16cc	.
+8ddq	.
+16ccJ	.
+8a\L	.
+8ddJ	.
+=23	=23
+16b/mL	.
+16a	.
+8gJ	.
+16g\L	.
+16b\J	.
+=24	=24
+24eeL	.
+24dd	.
+24ccJ	.
+8a	.
+16g\L	.
+16b}J	.
 !!LO:LB:g=esac
-=23
-{16a
-16cc#
-8dd
-16ee
-16ff#
-=24
-16gg
-16gg
-8ee
-8dd
-=25
-16cc#
-16a
-8.dd
-16b
-=26
-16cc
-16cc
-8a
-8g}
+=25	=25
+{16a\L	.
+16cc#J	.
+8ddL	.
+16ee	.
+16ffJ#	.
+=26	=26
+16gg	.
+8aaq	.
+16ggJ	.
+8eeL	.
+8ddJ	.
+=27	=27
+16ccL#	.
+16a\J	.
+8.ddL	.
+16bJ	.
+=28	=28
+16ccnL/	.
+16cc/	.
+8a	.
+8g}J	.
 !!LO:LB:g=esac
-=27
-{16d
-16f#
-8.g
-16b
-=28
-16cc#
-16a
-8dd
-8b
-=29
-16f#
-16d
-8.g
-16b
-=30
-16a
-16cc
-8a
-8g}
+=29	=29
+{16dL	.
+16f#J	.
+8.gL	.
+16b/J	.
+=30	=30
+16cc#L	.
+16aJ	.
+8ddL	.
+8bJ	.
+=31	=31
+16fL#	.
+16dJ	.
+8.gL	.
+16b/J	.
+=32	=32
+16a\L	.
+16ccnJ	.
+8aL	.
+8g}J	.
 !!LO:LB:g=esac
-=31
-{16d
-16f#
-8.g
-16dd
-=32
-16cc#
-16a
-8dd
-16b
-16g
-=33
-16f#
-16d
-8.g
-16b
-=34
-16a
-16cc
-8a
-8g}
-==
-*-
+=33	=33
+{16dL	.
+16f#J	.
+8.gL	.
+16dd/J	.
+=34	=34
+16cc#L	.
+16a\J	.
+8dd	.
+16b/L	.
+16gJ	.
+=35	=35
+16f#L	.
+16dJ	.
+8.gL	.
+16b/J	.
+=36	=36
+16a\L	.
+16ccnJ	.
+8aL	.
+8g}J	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Oj da owczareczku Kudła,
+!!da i owieczka ci schudła;
+!!oj da dajże owcy soli
+!!da bo owcę brzuszek boli.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=163 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 149} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 149}
 !!!page: 149
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-23

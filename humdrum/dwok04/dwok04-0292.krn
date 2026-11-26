@@ -3,143 +3,152 @@
 !!!source: DWOK04
 !!!id: K0292
 !!!signature:
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16e
-16g
-8b-
-8dd
-=
-16cc
-16a
-8f
-24f
-24a
-24cc
-=
-16dd
-16b-
-8g
-24g
-24e
-24c}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16e	A
+16g	za
+8b-	la-
+8dd	-sem
+=2	=2
+16cc	czarna
+16a\	.
+8f	chmura,
+*Xtuplet	*
+24fL	.
+24a	.
+24cc/J	.
+=3	=3
+16dd	desz
+16b-	po-
+8g	-le-
+24gL	-je,
+24e	.
+24c}J	.
 !!LO:LB:g=esac
-=
-{16e
-16g
-8g
-24b-
-24a
-24g
-=
-16f
-16f
-8f
-24f
-24g
-24a
-=
-16cc
-16b-
-8g
-24g
-24e
-24c}
+=4	=4
+{16e	a
+16g	gdzie
+8g	ja
+24b-/L	się
+24a	.
+24gJ	.
+=5	=5
+16f	z_by-
+16f	-de-
+8f	-łecz-
+24fL	-kiem
+24g	.
+24aJ	.
+=6	=6
+16cc	za-
+16b-	-po-
+8g	-dzie-
+24gL	-ję,
+24e	.
+24c}J	.
 !!LO:LB:g=esac
-=
-{16e
-16g
-8g
-24b-
-24a
-24g
-=
-16f
-16d
-8B-
-24B-
-24c
-24d
-=
-8g
-8g
-24g
-24e
-24c}
+=7	=7
+{16e	a
+16g	gdzie
+8g	ja
+24b-/L	się
+24a	.
+24gJ	.
+=8	=8
+16f	z_by-
+16d	-de-
+8B-X	-łecz-
+24B-L	-kiem
+24c	.
+24dJ	.
+=9	=9
+8g	zapo-
+8g	-dzie-
+24gL	-je.
+24e	.
+24c}J	.
 !!LO:LB:g=esac
-=2
-{16e
-16g
-8b-
-8dd
-=
-16cc
-32a
-32g
-8f
-24f
-24a
-24cc
-=
-16dd
-16b-
-8g
-24g
-24e
-24c}
+=10	=10
+{16e	A
+16g	za
+8b-	la-
+8dd	-sem
+=11	=11
+16cc	czarna
+32aL	.
+32gJ	.
+8f	chmura,
+24fL	.
+24a	.
+24cc/J	.
+=12	=12
+16dd	desz
+16b-	po-
+8g	-le-
+24gL	-je,
+24e	.
+24c}J	.
 !!LO:LB:g=esac
-=
-{16e
-16g
-8g
-24b-
-24a
-24g
-=
-16f
-16f
-8f
-24f
-24g
-24a
-=
-16dd
-16b-
-8g
-24g
-24e
-24c}
+=13	=13
+{16e	a
+16g	gdzie
+8g	ja
+24b-/L	się
+24a	.
+24gJ	.
+=14	=14
+16f	z_by-
+16f	-de-
+8f	-łecz-
+24fL	-kiem
+24g	.
+24aJ	.
+=15	=15
+16dd/L	za-
+16b-/J	-po-
+8g	-dzie-
+24gL	-ję,
+24e	.
+24c}J	.
 !!LO:LB:g=esac
-=
-{16e
-16g
-8g
-24b-
-24a
-24g
-=
-16f
-32d
-32c
-8B-
-24B-
-24c
-24d
-=
-16g
-16g
-8g
-24g
-24e
-24c}
-==
-*-
+=16	=16
+{16e	a
+16g	gdzie
+8g	ja
+24b-/L	się
+24a	.
+24gJ	.
+=17	=17
+16f	z_by-
+32d\L	-de-
+32c\J	.
+8B-X	-łecz-
+24B-L	-kiem
+24c	.
+24dJ	.
+=18	=18
+16g\L	zapo-
+16g\J	.
+8g	-dzie-
+24gL	-ję.
+24e	.
+24c}J	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A za lasem czarna chmura, desz poleje,
+!!a gdzie ja się z bydełeczkiem zapodzieję,
+!!a gdzie ja się z bydełeczkiem zapodzieję.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=159 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 145} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 145}
 !!!page: 145
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-23

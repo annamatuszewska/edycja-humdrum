@@ -3,165 +3,182 @@
 !!!source: DWOK04
 !!!id: K0307
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{8g
-16cc
-16dd
-16ee
-16ff#
-=2
-16gg
-16aa
-16bb
-16aa
-16gg
-16ff#
-=
-8aa
-24g
-24cc
-24ee
-16gg
-16ff#
-=
-8aa
-24g
-24cc
-24ee
-16gg
-16ff#
-=
-8dd
-8dd
-24cc
-24b
-24g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{8g	.
+16ccL	.
+16dd	.
+16ee	.
+16ff#J	.
+=2	=2
+16ggL	.
+16aa	.
+16bb	.
+16aa	.
+16gg	.
+16ff#J	.
+=3	=3
+8aa	.
+*Xtuplet	*
+24g\L	.
+24cc	.
+24eeJ	.
+16ggL	.
+16ff#J	.
+=4	=4
+8aa	.
+24g\L	.
+24cc	.
+24eeJ	.
+16ggL	.
+16ff#J	.
+=5	=5
+8dd	.
+8ddv<;T	.
+24ccL/	.
+24b/	.
+24g}J	.
 !!LO:LB:g=esac
-=
-{8ee
-16ee
-16g
-24gg
-24ff#
-24dd
-=
-8ee
-16ee
-16g
-24gg
-24ff#
-24dd
-=
-8dd
-8dd
-24cc
-24a
-24g}
+=6	=6
+{8ee	.
+16eeL	.
+16g\J	.
+24ggL	.
+24ff#	.
+24ddJ	.
+=7	=7
+8ee	.
+16eeL	.
+16g\J	.
+24ggL	.
+24ff#	.
+24ddJ	.
+=8	=8
+8dd	.
+8ddv<;T	.
+24cc/L	.
+24a	.
+[24g}J	.
 !!LO:LB:g=esac
-=
-{24g
-24b
-[24dd
-16dd]
-16cc
-8ee
-=
-24g
-24b
-[24dd
-16dd]
-16cc
-8ee
-=
-24g
-24b
-[24dd
-8dd]
-24cc
-24b
-24g}
+=9	=9
+{24g]\L	.
+24b	.
+[24ddJ	.
+16dd]L	.
+16cc	.
+8eeJ	.
+=10	=10
+24g\L	.
+24b	.
+[24ddJ	.
+16dd]L	.
+16cc	.
+8eeJ	.
+=11	=11
+24g\L	.
+24b	.
+[24ddJ	.
+8dd]L	.
+24cc	.
+24b	.
+24g}\J	.
 !!LO:LB:g=esac
-=
-{24g
-24b
-24dd
-8gg
-16ee
-16cc
-=3
-16b
-16dd
-8ff#
-8gg
-=4
-16b
-16dd
-8gg
-16ee
-16cc
-=5
-16b
-16dd
-8a
-8g}
+=12	=12
+*tuplet	*
+{(>24g	A
+24b/	wyganiaj
+24dd/)	.
+8gg	_
+16eeL	wo-
+16ccJ	.
+=13	=13
+16b	-ły
+16dd	zaspała,
+8ff#	.
+8gg	_
+=14	=14
+16b	bo
+16dd	to
+8gg	te-
+16eeL	-raz
+16ccJ	.
+=15	=15
+16b	noc
+16dd	nie
+8a	ma-
+8g}	-ła.
 !!LO:LB:g=esac
-=
-{24g
-24b
-[24dd
-8dd]
-16cc
-[16ee
-=
-24ee]
-24b
-24dd
-8a
-8a
-=
-8b
-24dd
-24cc
-24b
-16cc
-16a
-=6
-16b
-16dd
-8a
-8g}
+=16	=16
+!LO:TUP:a	!
+{(24g	A
+24b	wyga-
+[24dd)	.
+8dd]	.
+16cc	-niaj
+[16ee	je
+=17	=17
+!LO:TUP:a	!
+24ee]L	grani-
+24bJ	.
+24dd	.
+8a	-cami,
+8a	.
+=18	=18
+8b	że-
+!LO:TUP:a	!
+(24ddL	-by
+24ccJ	.
+24b)	wołki
+16ccL	.
+16a\J	.
+=19	=19
+16b	nie
+16dd	ryczały.
+8a	.
+8g}	.
 !!LO:LB:g=esac
-=
-{24g
-24b
-24dd
-8dd
-16cc
-16ee
-=
-24g
-24b
-[24dd
-8dd]
-16cc
-16ee
-=
-24g
-24b
-[24dd
-8dd]
-24cc
-24b
-24g}
-==
-*-
+=20	=20
+*Xtuplet	*
+{24gL	.
+24b/	.
+24dd/J	.
+8ddL	.
+16cc	.
+16eeJ	.
+=21	=21
+24g\L	.
+24b	.
+[24ddJ	.
+8dd]L	.
+16cc	.
+16eeJ	.
+=22	=22
+24g\L	.
+24b	.
+[24ddJ	.
+8dd]L	.
+24cc	.
+24b	.
+24g}\J	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A wyganiaj woły zaspała,
+!!bo to teraz noc nie mała.
+!!A wyganiaj je granicami,
+!!żeby wołki nie ryczały.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!RDF**kern: <= below
+!!!RDF**kern: >= above
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=165 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 151-152} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), pp. 151-152}
 !!!page: 151-152
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-23

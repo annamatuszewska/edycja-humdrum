@@ -3,84 +3,96 @@
 !!!source: DWOK04
 !!!id: K0293
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/4
-=
-{12d
-12f#
-12a
-4cc
-4ee
-=
-8gg
-8ee
-4dd
-12b
-12g
-12b
-=1
-4dd
-4cc
-8a
-8f#}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/4	*
+=1	=1
+{(>12dL	Jag'em
+12f#J	.
+12a)	.
+4cc	jechał
+4ee	.
+=2	=2
+8gg	z_Lubrańczyka
+8ee	.
+4dd	.
+*Xtuplet	*
+12b/L	.
+12g	.
+12b/J	.
+=3	=3
+4dd	do
+4cc	Koła
+8aL	.
+8f#J}	.
 !!LO:LB:g=esac
-=2
-{8d
-8f#
-4a
-4b
-=3
-8g
-8e
-4c
-8c
-8e
-=4
-4f#
-4a
-8f#
-8d}
+=4	=4
+{8d	zginęła
+8f#	.
+4a	.
+4b/	my
+=5	=5
+8g	od
+8e	ko-
+4c	-ni-
+8cL	-ka
+8eJ	.
+=6	=6
+4f#	pod-
+4a	-ko-
+8f#L	-wa;
+8d}J	.
 !!LO:LB:g=esac
-=5
-{8d
-8f#
-4a
-4cc
-=6
-8a
-8f#
-4g
-4b
-=7
-4dd
-4ee
-8a
-8f#}
+=7	=7
+{8d	że-
+8f#	-by
+4a	my
+4cc	ją
+=8	=8
+8a	ku-
+8f#	-ja-
+4g	-wionki
+4b/	.
+=9	=9
+4dd	na-
+4ee	-la-
+8aL	-zły,
+8f#J}	.
 !!LO:LB:g=esac
-=8
-{8d
-8f#
-4a
-4b
-=
-12g
-12e
-12c
-4c
-8c
-8e
-=9
-4f#
-4a
-8f#
-8d}
-==
-*-
+=10	=10
+{8d	dałbym
+8f#	.
+4a	ja
+4b/	jém
+=11	=11
+12gL	świde-
+12e	.
+12cJ	.
+4c	-re-
+8cL	-czek
+8eJ	.
+=12	=12
+4f#	że-
+4a	-la
+8f#L	zny.
+8d}J	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Jag'em jechał z Lubrańczyka do Koła
+!!zginęła my od konika podkowa;
+!!żeby my ją kujawionki nalazły,
+!!dałbym ja jém świdereczek żelazny.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!singer-sex: Male
+!!!RDF**kern: >= above
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=159 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 145-146} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), pp. 145-146}
 !!!page: 145-146
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-23

@@ -3,159 +3,174 @@
 !!!source: DWOK04
 !!!id: K0287
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16b
-16a
-16ee
-16dd
-8cc
-=2
-8b
-16a
-16b
-16a
-16cc#
-=3
-8dd
-8ee
-16a
-16g}
+**kern	**text	**text
+*clefG2	*	*
+*k[f#]	*	*
+*G:	*	*
+*M3/8	*	*
+=1	=1	=1
+{16b/	A	A
+16a	za-	za-
+16eeL	-la-	-snę-
+16ddJ	.	.
+8cc	-sem	-na
+=2	=2	=2
+8b	mo-	moja
+16aL	-je	.
+16b/J	.	.
+16a	wołki	mała
+16cc#	.	.
+=3	=3	=3
+8dd	za	za-
+8ee	la-	-snę-
+16aL	-sem,	-na,
+16g}J	.	.
 !!LO:LB:g=esac
-=4
-{16b
-16a
-16ee
-16dd
-8cc
-=5
-8b
-16a
-16f#
-16d
-16f#
-=6
-8.g
-16b
-16a
-16g}
+=4	=4	=4
+{16b/	a	zaję-
+16a	mam	.
+8ddq	.	.
+16eeL	ci	-to
+16ddJ	.	.
+8cc	ja	ij
+=5	=5	=5
+8b/	piszcza-	cztery
+16aL	.	.
+16f#J	.	.
+16d	-łeczkę	wo-
+16f#	.	-ły
+=6	=6	=6
+8.g;L	za	z_jęcz-
+16b/J	.	.
+16a	pasem.	-mie-
+16g}	.	-nia.
 !!LO:LB:g=esac
-=7
-{16b
-16a
-8b
-8cc
-=8
-16b
-16a
-8b
-8cc
-=9
-8dd
-8ee
-16a
-16g}
+=7	=7	=7
+{16b	Jak	A
+16a\	ja	o-
+8b	na	-de-
+8cc	téj	-cknij
+=8	=8	=8
+16b	piszczałeczce	moja
+16a\	.	.
+8b	.	ma-
+8cc	.	-ła,
+=9	=9	=9
+8dd	za-	o-
+8ee	-czę	-de-
+16aL	grać,	-cknij,
+16g}J	.	.
 !!LO:LB:g=esac
-=10
-{16b
-16a
-16ee
-16dd
-8cc
-=11
-8b
-16a
-16f#
-16d
-16f#
-=12
-8g
-8b
-16a
-16g}
+=10	=10	=10
+{16b/	będą	na-
+16a	.	-wrócisz
+16eeL	ci	.
+16ddJ	.	.
+8cc	się	ci
+=11	=11	=11
+8b/	moje	cztery
+16aL	.	.
+16f#J	.	.
+16d	wołki	woły
+16f#	.	.
+=12	=12	=12
+8g	do	o-
+8b/	dom	-de
+16aL	brać.	wsi.
+16g}J	.	.
 !!LO:LB:g=esac
-=13
-8r
-{16b
-16a
-16ee
-16dd
-=14
-16cc
-16b
-16a
-16b
-16a
-16cc#
-=15
-8dd
-8ee
-16a
-16g}
+=13	=13	=13
+8r	.	.
+{16b/L	.	.
+16aJ	.	.
+16eeL	.	.
+16ddJ	.	.
+=14	=14	=14
+16ccL	.	.
+16bJ	.	.
+16aL	.	.
+16b/J	.	.
+16a\L	.	.
+16cc#J	.	.
+=15	=15	=15
+8ddL	.	.
+8eeJ	.	.
+16aL	.	.
+16g}J	.	.
 !!LO:LB:g=esac
-=16
-8r
-{16b
-16a
-16ee
-16dd
-=17
-16cc
-16b
-16a
-16f#
-16d
-16f#
-=18
-8.g
-16b
-16a
-16g}
+=16	=16	=16
+8r	.	.
+{16bL	.	.
+16a\J	.	.
+16eeL	.	.
+16ddJ	.	.
+=17	=17	=17
+16ccL	.	.
+16bJ	.	.
+16aL	.	.
+16f#J	.	.
+16dL	.	.
+16f#J	.	.
+=18	=18	=18
+8.gL	.	.
+16b/J	.	.
+16aL	.	.
+16g}J	.	.
 !!LO:LB:g=esac
-=19
-8r
-{16b
-16a
-16b
-16cc
-=20
-8r
-16b
-16a
-16b
-16cc
-=21
-8dd
-8ee
-16a
-16g}
+=19	=19	=19
+8r	.	.
+{16b/L	.	.
+16aJ	.	.
+16bL	.	.
+16ccJ	.	.
+=20	=20	=20
+8r	.	.
+16b/L	.	.
+16aJ	.	.
+16bL	.	.
+16ccJ	.	.
+=21	=21	=21
+8ddL	.	.
+8eeJ	.	.
+16aL	.	.
+16g}J	.	.
 !!LO:LB:g=esac
-=22
-8r
-{16b
-16a
-16ee
-16dd
-=23
-16cc
-16b
-16a
-16f#
-16d
-16f#
-=24
-8.g
-16b
-16a
-16g}
-==
-*-
+=22	=22	=22
+8r	.	.
+{16b/L	.	.
+16aJ	.	.
+16eeL	.	.
+16ddJ	.	.
+=23	=23	=23
+16ccL	.	.
+16bJ	.	.
+16aL	.	.
+16f#J	.	.
+16dL	.	.
+16f#J	.	.
+=24	=24	=24
+8.gL	.	.
+16b/J	.	.
+16aL	.	.
+16g}J	.	.
+==	==	==
+*-	*-	*-
+!!@@BEGIN: VERSES
+!!1. A zalasem moje wołki za lasem,
+!!a mam ci ja piszczałeczkę za pasem.
+!!Jak ja na téj piszczałeczce zaczę grać,
+!!będą ci się moje wołki do dom brać.
+!!@VERSE:
+!!2. A zasnęna moja mała zasnęna,
+!!zajęto ij cztery woły z jęczmienia.
+!!A odecknij moja mała, odecknij,
+!!nawrócisz ci cztery woły ode wsi.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=157 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 143} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 143}
 !!!page: 143
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-22

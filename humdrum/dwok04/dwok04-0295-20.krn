@@ -5,54 +5,54 @@
 !!!signature: 0429500020
 **kern
 *clefG2
-*k[f#c#g#]
+*k[]
 *A:
 *M3/4
 =1
-{8e
-8g#
-8a
+{8e\L
+8g#\J
+8a\L
 8b
 8cc
-8b
+8bJ
 =2
-8a
+8aL
 8g#
 8e
-8f#
+8f#J
 4e
 =3
-8e
-8g#
-8a
+8e\L
+8g#\J
+8a\L
 8b
 8cc
-8b
+8bJ
 =4
-8a
+8aL
 8g#
 8e
-8d
+8dJ
 4e}
 !!LO:LB:g=esac
 =5
-{8a
+{8aL
 8g#
 8e
 8f#
 8e
-8g#
+8g#J
 =6
-8a
+8aL
 8g#
 8e
-8d
+8dJ
 4e
 =7
-8a
+8aL
 8g#
 8e
-8g#
+8g#J
 4e
 =8
 4g#
@@ -66,3 +66,5 @@
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=160 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 146} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 146}
 !!!page: 146
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-23

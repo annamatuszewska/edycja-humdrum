@@ -3,262 +3,274 @@
 !!!source: DWOK04
 !!!id: K0312a
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-=1
-*M3/4
-{8b
-8dd
-8b
-8dd
-8b
-8dd
-=2
-8ff#
-8ee
-4dd
-4cc
-=3
-8a
-8cc
-8a
-8cc
-4a
-=4
-8ff#
-8ee
-4dd
-16a
-16g
-8g}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+=1	=1
+*M3/4	*
+!LO:TX:a:t=Żona do męża.	!
+{8b	A
+8dd	jeżeli
+8b	.
+8dd	.
+8b	ci
+8dd	się
+=2	=2
+8ff#	nie
+8ee	podo-
+4dd	.
+4cc	-bom,
+=3	=3
+8a	a
+8cc	odprowadź
+8a	.
+8cc	.
+4a	me
+=4	=4
+8ff#	Jasiu
+8ee	.
+4dd	do
+*	*^
+*	*	*
+16aL	dom.	(do
+16g	.	domu
+8g}J	.	matki)
+*	*	*
+*	*v	*v
 !!LO:LB:g=esac
-=5
-{8b
-8b
-4b
-8b
-8dd
-=6
-8dd
-8cc
-8a
-8f#
-4d
-=7
-16d
-16e
-8f#
-8f#
-8a
-8a
-8a
-=
-!!UNCATEGORIZED MEASURE
-16a
-16b
-8cc
-4dd
-12cc
-12a
-12g}
+=5	=5
+{8b/L	A
+8b/J	odprowadź
+4b	.
+8b	.
+8dd	me
+=6	=6
+8ddM	w_takij
+8cc	.
+8aL	mierze,
+8f#J	.
+4d	.
+=7	=7
+16dL	jakeś
+16eJ	.
+8f#	.
+8f#L	mnie
+8aJ	.
+8aL	wziąn
+8aJ	.
+=8	=8
+16aL	od
+16b/J	.
+8cc	macie-
+4dd	.
+*Xtuplet	*
+12cc/L	-rze.
+12a	.
+12gJ}	.
 !!LO:LB:g=esac
-=
-!!UNCATEGORIZED MEASURE
-{8g
-8b
-4b
-4b
-=
-!!UNCATEGORIZED MEASURE
-8a
-8b
-8a
-8g
-12g
-12f#
-12e
-=
-!!UNCATEGORIZED MEASURE
-8d
-8e
-8f#
-8d
-12f#
-12g
-12a
-=8
-*M3/4
-8cc
-8b
-8a
-8b
-4g}
+=9	=9
+{8g	Wzioneś
+8b/	.
+4b/	ci
+4b/	me
+=10	=10
+8a	jak
+8b/	ja-
+8aL	-go-
+8gJ	.
+12gL	-dę,
+12f#	.
+12eJ	.
+=11	=11
+8d	odprowadzasz
+8e	.
+8f#L	.
+8dJ	.
+12fL#	.
+12g	.
+12aJ	.
+=12	=12
+8cc	jako
+8b	.
+8aL	kło-
+8b/J	.
+4g;}	-dę.
 !!LO:LB:g=esac
-=9
-{16g
-16b
-8dd
-8b
-8dd
-8b
-8dd
-=
-!!UNCATEGORIZED MEASURE
-16ee
-16ff#
-16ee
-16dd
-12cc
-12dd
-12cc
-4a
-=10
-*M3/4
-2.a
-=11
-8cc
-8ee
-4ee
-8dd
-8ee
-=12
-8b
-8a
-2g}
+=13	=13
+{16gL	.
+16b/J	.
+8dd	.
+8bL	.
+8ddJ	.
+8bL	.
+8ddJ	.
+=14	=14
+16ee/L	.
+16ff#/	.
+16ee/	.
+16dd/J	.
+12cc/L	.
+12dd/	.
+12cc/J	.
+4a	.
+=15	=15
+2.a	.
+=16	=16
+8ccL	.
+8eeJ	.
+4ee	.
+8dd/L	.
+8ee/J	.
+=17	=17
+8ccq	.
+8bL	.
+8a\J	.
+2g}	.
 !!LO:LB:g=esac
-=13
-{8g
-8b
-4.b
-8a
-=14
-8b
-8a
-4f#
-4d
-=15
-8d
-8f#
-4a
-4cc
-=16
-4.dd
-8a
-4g}
+=18	=18
+{8gL	.
+8b/J	.
+4.b/	.
+8a	.
+=19	=19
+8b/L	.
+8aJ	.
+4f#	.
+4d	.
+=20	=20
+8dL	.
+8f#J	.
+4a	.
+4cc	.
+=21	=21
+4.dd	.
+8a	.
+4g}	.
 !!LO:LB:g=esac
-=17
-{8g
-8b
-8b
-8g
-8b
-8cc
-=18
-16b
-16a
-8f#
-4f#
-4d
-=19
-8d
-8f#
-4a
-4cc
-=20
-[4dd
-16dd]
-16ee
-16dd
-16a
-4g}
+=22	=22
+{8gL	.
+8b/J	.
+8b/L	.
+8gJ	.
+8bL	.
+8ccJ	.
+=23	=23
+16b/L	.
+16a	.
+8f#J	.
+4f#	.
+4d	.
+=24	=24
+8dL	.
+8f#J	.
+4a	.
+4cc	.
+=25	=25
+[4dd	.
+16ddL]	.
+16ee	.
+16dd	.
+16a\J	.
+4g}	.
 !!LO:LB:g=esac
-=21
-*M3/8
-8r
-16r
-{16dd
-16dd
-16b
-=22
-16dd
-16b
-16dd
-16b
-16dd
-16b
-=23
-16dd
-16ee
-16ff#
-16ee
-16dd
-16b
-=24
-4.a
-=25
-16a
-16ee
-8ee
-16dd
-16ee
-=26
-16b
-16a
-4g}
+=26	=26
+*M3/8	*
+8r	.
+16r	.
+{16dd	.
+16ddL	.
+16bJ	.
+=27	=27
+16ddL	.
+16bJ	.
+16ddL	.
+16bJ	.
+16ddL	.
+16bJ	.
+=28	=28
+16ddL	.
+16eeJ	.
+16ff#L	.
+16eeJ	.
+16ddL	.
+16bJ	.
+=29	=29
+4.a	.
+=30	=30
+16aL/	.
+16ee/	.
+8eeJ/	.
+16ddL	.
+16eeJ	.
+=31	=31
+16b/L	.
+16aJ	.
+4g}	.
 !!LO:LB:g=esac
-=27
-{16g
-16b
-8b
-16g
-16b
-=28
-8b
-16g
-16f#
-8d
-=29
-16d
-16f#
-8a
-16a
-16cc
-=30
-[8dd
-16dd]
-16a
-8g}
+=32	=32
+{16gL	.
+16b/J	.
+8b/	.
+16gL	.
+16b/J	.
+=33	=33
+8dd	.
+16gL	.
+16f#	.
+8dJ	.
+=34	=34
+16dL	.
+16f#J	.
+8a\	.
+16aL	.
+16cc/J	.
+=35	=35
+[8ddL	.
+16dd]	.
+16a\J	.
+8g}	.
 !!LO:LB:g=esac
-=31
-{16g
-16b
-8b
-16g
-16b
-=32
-8dd
-16g
-16f#
-8d
-=33
-16d
-16f#
-16a
-16f#
-16a
-16cc
-=34
-[8dd
-16dd]
-16a
-8g}
-==
-*-
-!!!ONB: Wariant alternatywny
+=36	=36
+{16gL	.
+16b/J	.
+8b/	.
+16gL	.
+16b/J	.
+=37	=37
+8dd/	.
+16gL	.
+16f#	.
+8dJ	.
+=38	=38
+16dL	.
+16f#J	.
+16aL	.
+16f#J	.
+16aL	.
+16cc/J	.
+=39	=39
+[8ddL	.
+16dd]	.
+16a\J	.
+8g}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A jeżeli ci się nie podobom,
+!!a odprowadź me Jasiu do dom.
+!!A odprowadź me w takij mierze,
+!!jakeś mnie wziąn od macierze.
+!!Wzioneś ci me jak jagodę,
+!!odprowadzasz jako kłodę.
+!!@@END: VERSES
+!!!role-singer: Girl
+!!!role-listener: Boy
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=169 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 155} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 155}
 !!!page: 155
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-25

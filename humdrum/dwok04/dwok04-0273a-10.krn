@@ -3,67 +3,78 @@
 !!!source: DWOK04
 !!!id: K0273a
 !!!signature: 0427300010
-**kern
-*clefG2
-*k[b-]
-*F:
-*M3/8
-=1
-{16a
-16cc
-8dd
-8b-
-=2
-16b-
-16dd
-8ff
-8cc
-=3
-16a
-16cc
-8dd
-8b-
-=4
-16f
-16e
-8g
-8f}
+**kern	**text
+*clefG2	*
+*k[b-]	*
+*F:	*
+*M3/8	*
+=1	=1
+{16a\	Nie
+16cc	wy-
+8dd	-ga-
+8b-	-niaj
+=2	=2
+16b-	ow-
+16dd	-cza-
+8ff	-ryszku
+8cc	o-
+=3	=3
+16a\	-wiec
+16cc	.
+8dd	na
+8b-	ro-
+=4	=4
+16f	-sę,
+16e	na
+8g	ro-
+8f}	-sę
 !!LO:LB:g=esac
-=5
-{16a
-16a
-8a
-8g
-=6
-16b-
-16dd
-8ff
-8cc
-=7
-16a
-16a
-8a
-8g
-=8
-16f
-16e
-8g
-8cc
-=9
-16a
-16a
-8b-
-8g
-=10
-16f
-16e
-8g
-8f}
-==
-*-
+=5	=5
+{16a	bo
+16a	jak
+8a	pój-
+8g	-dę
+=6	=6
+16b-	z_karczmy
+16dd	.
+8ff	do
+8cc	dom
+=7	=7
+16a	to
+16a	je
+8a	roz-
+8g	-pło-
+=8	=8
+16f	-szę,
+16e	roz-
+8g	-pło-
+8cc	-szę,
+=9	=9
+16a	to
+16a	je
+8b-/	roz-
+8g	-pło-
+=10	=10
+16f	-szę,
+16e	roz-
+8g	-pło-
+8f}	-szę.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Nie wyganiaj owczaryszku o
+!!wiec na rosę, na rosę
+!!bo jak pójdę z karczmy do dom
+!!to je rozpłoszę, rozpłoszę,
+!!to je rozpłoszę, rozpłoszę.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!role-listener: Shepherd
 !!!ONB: Część wokalna
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=149 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 135-136} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), pp. 135-136}
 !!!page: 135-136
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-21

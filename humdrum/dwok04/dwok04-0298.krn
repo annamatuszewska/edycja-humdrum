@@ -3,81 +3,91 @@
 !!!source: DWOK04
 !!!id: K0298
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16a
-16a
-8b
-8dd
-=2
-16a
-16cc
-8.dd
-16b
-=3
-16a
-16a
-8b
-8dd
-=4
-16a
-16cc
-8.a
-16g}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16a	Ha
+16a	la
+8b	la
+8dd	la
+=2	=2
+16a	ku
+16cc	dą-
+8.dd	-bro-
+16b	-wie,
+=3	=3
+16a	za-
+16a	-li-
+8b	-cał
+8dd	się
+=4	=4
+16a	pastuż
+16cc	.
+8.a	krowie.
+16g}	.
 !!LO:LB:g=esac
-=5
-{16a
-16a
-8dd
-16dd
-16cc
-=6
-16a
-16a
-8b
-8g
-=7
-16a
-16a
-8dd
-16dd
-16cc
-=8
-16a
-16dd
-8.a
-16g}
+=5	=5
+{16a	A
+16a	pastu-
+8dd	.
+16ddL	-rek
+16ccJ	.
+=6	=6
+16a	ja-
+16a	-ło-
+8b	-wi-
+8g	-cy,
+=7	=7
+16a	wszystko
+16a	.
+8dd	bydło
+16ddL	.
+16ccJ	.
+=8	=8
+16a	za
+16dd	nim
+8.a	ry-
+16g}	-cy.
 !!LO:LB:g=esac
-=9
-{16a
-16cc
-8a
-8g
-=10
-16a
-16dd
-8.a
-16g
-=
-24a
-24cc
-24a
-8g
-16e
-16d
-=11
-16a
-16dd
-8.a
-16g}
-==
-*-
+=9	=9
+{16a\L	.
+16ccJ	.
+8aL	.
+8gJ	.
+=10	=10
+16aL	.
+16dd/J	.
+8.aL	.
+16gJ	.
+=11	=11
+*Xtuplet	*
+24aL	.
+24cc/	.
+24aJ	.
+8gL	.
+16e	.
+16dJ	.
+=12	=12
+16a\L	.
+16ddJ	.
+8.aL	.
+16gJ}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Ha la la la ku dąbrowie,
+!!zalicał się pastuż krowie.
+!!A pasturek jałowicy,
+!!wszystko bydło za nim rycy.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=161 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 147-148} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), pp. 147-148}
 !!!page: 147-148
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-23

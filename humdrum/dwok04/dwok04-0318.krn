@@ -3,100 +3,113 @@
 !!!source: DWOK04
 !!!id: K0318
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16dd
-8ee
-8a
-=2
-16cc
-16ee
-8dd
-8b
-=3
-16a
-16a
-8b
-8b
-=4
-16g
-16e
-8g
-8f#}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g\	Przyszła
+16dd	.
+8ee	owca
+8a\	.
+=2	=2
+16cc	do
+16ee	Micha-
+8dd	.
+8b	-ła,
+=3	=3
+16a	piosneczkę
+16a	.
+8b/	.
+8b/	mu
+=4	=4
+16g	zaśpiewała:
+16e	.
+8g	.
+8f#}	.
 !!LO:LB:g=esac
-=5
-{16g
-16g
-8b
-8b
-=6
-16cc
-16cc
-8b
-8dd
-=7
-16a
-16a
-8b
-8e
-=8
-16g
-16e
-8g
-8f#}
+=5	=5
+{16g	mój
+16g	Mi-
+8b	-cha-
+8b	-le
+=6	=6
+16cc	daj
+16cc	mi
+8b	ow-
+8dd	-sa,
+=7	=7
+16a	bo
+16a	ja
+8b/	bę-
+8e	-dę
+=8	=8
+16g	twoja
+16e	.
+8g	owca.
+8f#}	.
 !!LO:LB:g=esac
-=9
-{16b
-16dd
-8ee
-8cc
-=10
-16cc
-16ee
-8dd
-8b
-=11
-16a
-16a
-8b
-8b
-=12
-16e
-16e
-8g
-8f#}
+=9	=9
+{16/bL	Za
+16dd/J	.
+8ee/L	owies'em
+8cc/J	.
+=10	=10
+16cc	zapłaci-
+16ee	.
+8dd	.
+8b	-ła,
+=11	=11
+16a	da
+16a	bom
+8b/	ci
+8b/	się
+=12	=12
+16e\L	okoci-
+16e\J	.
+8g	.
+8f#}	-ła,
 !!LO:LB:g=esac
-=13
-{16g
-16g
-8b
-16b
-16a
-=14
-16cc
-16cc
-8b
-8dd
-=15
-16a
-16a
-8b
-8e
-=16
-16g
-16e
-8g
-16f#
-16a}
-==
-*-
+=13	=13
+{16g	a
+16g	za
+8b	sianom
+16b/L	.
+16aJ	.
+=14	=14
+16cc	ci
+16cc	odda-
+8b	.
+8dd	-ła
+=15	=15
+16a	bom
+16a	ci
+8b/	jagnię
+8e	.
+=16	=16
+16g	wycho
+16e	.
+8g	wa
+16f\#L	ła.
+16a}\J	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Przyszła owca do Michała,
+!!piosneczkę mu zaśpiewała:
+!!mój Michale daj mi owsa,
+!!bo ja będę twoja owca.
+!!Za owies'em zapłaciła,
+!!da bom ci się okociła,
+!!a za sianom ci oddała
+!!bom ci jagnię wychowała.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=172 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 158} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 158}
 !!!page: 158
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-25

@@ -3,126 +3,139 @@
 !!!source: DWOK04
 !!!id: K0271
 !!!signature:
-**kern
-*clefG2
-*k[f#]
-*G:
-*M3/8
-=1
-{16g
-16a
-8b
-8cc
-=2
-16dd
-16dd
-8ee
-16cc
-16a
-=3
-16a
-16cc
-16b
-16cc
-8ee
-=4
-8cc
-16b
-16cc
-8a}
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*G:	*
+*M3/8	*
+=1	=1
+{16g\	Nie
+16a\	wy-
+8b	-ga-
+8cc	-niaj
+=2	=2
+16dd	owcza-
+16dd	.
+8ee	-ry-
+16ccL	-szku
+16a\J	.
+=3	=3
+16a\	owiec
+16cc	.
+16b	na
+16cc	ro-
+8ee	-se
+=4	=4
+8cc	na
+16bL	ro-
+16ccJ	.
+8a}\	-sę,
 !!LO:LB:g=esac
-=5
-{16g
-16a
-8b
-8cc
-=6
-16g
-16a
-8f#
-8f#
-=7
-16d
-16d
-16g
-16f#
-8a
-=8
-8d
-8g
-8b}
+=5	=5
+{16g	bom
+16a	ci
+8b/	wianka
+8cc/	.
+=6	=6
+16g	nie
+16a	u-
+8f#	-wi-
+8f#	-ła,
+=7	=7
+16d	cóż
+16d	ci
+16g	wynio-
+16f#	.
+8a	-sę,
+=8	=8
+8d	wy-
+8g	-nio-
+8b}	-sę,
 !!LO:LB:g=esac
-=9
-{16g
-16a
-8b
-8cc
-=10
-16g
-16a
-8f#
-8f#
-=11
-16f#
-16d
-16g
-16f#
-8a
-=12
-8d
-8g
-8b}
+=9	=9
+{16g	bom
+16a	ci
+8b/	chustki
+8cc/	.
+=10	=10
+16g	nie
+16a	u-
+8f#	-szyła,
+8f#	.
+=11	=11
+16f#	cóż
+16d	ci
+16g	wynio-
+16f#	.
+8a	-sę,
+=12	=12
+8d	wy-
+8g	-nio-
+8b}	-sę?
 !!LO:LB:g=esac
-=13
-{16f#
-16f#
-16g
-16f#
-8a
-=14
-16cc
-16ee
-8dd
-8b
-=15
-16f#
-16f#
-8g
-16a
-16a
-=16
-16cc
-16cc
-8a
-8g}
+=13	=13
+{16fL#	.
+16f#J	.
+16gL	.
+16f#	.
+8aJ	.
+=14	=14
+16cLc	.
+16eeJ	.
+8ddL	.
+8bJ	.
+=15	=15
+16fL#	.
+16f#J	.
+8gL	.
+16a	.
+16aJ	.
+=16	=16
+16ccL	.
+16ccJ	.
+8a\L	.
+8g}\J	.
 !!LO:LB:g=esac
-=17
-{16f#
-16f#
-8g
-16a
-16b
-=18
-16cc
-16a
-8dd
-16b
-16g
-=19
-16f#
-16f#
-8g
-16a
-16b
-=20
-16cc
-16cc
-8a
-8g}
-==
-*-
+=17	=17
+{16f#L	.
+16f#J	.
+8gL	.
+16a	.
+16b/J	.
+=18	=18
+16ccL	.
+16a\	.
+8ddJ	.
+16b/L	.
+16gJ	.
+=19	=19
+16f#L	.
+16f#J	.
+8gL	.
+16a	.
+16b/J	.
+=20	=20
+16ccL	.
+16ccJ	.
+8a\L	.
+8g}\J	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Nie wyganiaj owczaryszku
+!!owiec na rose na rosę,
+!!bom ci wianka nie uwiła,
+!!cóż ci wyniosę, wyniosę,
+!!bom ci chustki nie uszyła,
+!!cóż ci wyniosę, wyniosę?
+!!@@END: VERSES
+!!!role-singer: Girl
+!!!role-listener: Shepherd
+!!!singer-sex: Female
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=148 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 134-135} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), pp. 134-135}
 !!!page: 134-135
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-21

@@ -3,135 +3,155 @@
 !!!source: DWOK04
 !!!id: K0283
 !!!signature:
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=
-{24dd
-24ff
-24ee
-8dd
-8cc#
-=1
-16a
-16a
-8g#
-16e
-16e
-=2
-16a
-16b
-16cc
-16dd
-8ee
-=3
-8.ee
-16dd
-16ff
-16ee}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+!LO:TUP:a	!
+{(24ddL	Da
+24ffJ	.
+24ee)	owcza-
+8dd	.
+8cc#	-rzu
+=2	=2
+16a	psie
+16a	ra-
+8g#	-ka-
+16e;	-rzu
+16e	da
+=3	=3
+16a	du-
+16b/	-że
+16cc	torby
+16dd	.
+8ee	masz,
+=4	=4
+8.ee	masz
+16dd	da
+16ff	i
+16ee}	masz.
 !!LO:LB:g=esac
-=4
-{16ff
-16ee
-8dd
-16dd
-16cc#
-=5
-16a
-16a
-8g#
-16e
-16e}
+=5	=5
+{16ff	Da
+16ee	spo-
+8dd	-ję
+16ddL	cię
+16cc#J	za
+=6	=6
+16a	groszy
+16a	.
+8g#	cztery
+16e;	.
+16e}	da
 !!LO:LB:g=esac
-=
-{24g#
-24b
-24a
-8g#
-8e
-=6
-16a
-16cc
-8ee
-16b
-16e
-=7
-16a
-16cc
-8b
-8g#
-=8
-8.a
-16g#
-16b
-16e}
+=7	=7
+{(>24g#L	i
+24bJ	.
+24a)	wy
+8g#	bio
+8e	rę
+=8	=8
+16a	wszystkie
+16cc/	.
+8ee	sery
+16b/	.
+16e	da
+=9	=9
+16a	to
+16cc	mi
+8b/	wszystkie
+8g#	.
+=10	=10
+8.a	dasz
+16g#	da
+16b/	i
+16e}	dasz.
 !!LO:LB:g=esac
-=
-{24dd
-24ff
-24ee
-8dd
-8cc#
-=9
-16a
-16a
-8g#
-16e
-16e
-=10
-16a
-16b
-16cc
-16dd
-8ee
-=11
-8.ee
-16dd
-16ff
-32ee
-32dd}
+=11	=11
+!LO:TUP:a	!
+{(24ddL	Ko-
+24ffJ	.
+24ee)	-ło-
+8dd	-dzie-
+8cc#	-ju,
+=12	=12
+16a	psie
+16a	zło-
+8g#	-dzieju
+16e;	.
+16e	da
+=13	=13
+16a	ładne
+16b/	.
+16cc	córki
+16dd	.
+8ee	masz,
+=14	=14
+8.ee	masz
+16dd	da
+16ff	i
+32ee/L	masz.
+32dd/J}	.
 !!LO:LB:g=esac
-=12
-{16ff
-16ee
-8dd
-16dd
-16cc#
-=13
-16a
-16a
-8g#
-16e
-16e}
+=15	=15
+{16ff	Ukła-
+16ee	.
+8dd	-dę
+16ddL	się
+16cc#J	.
+=16	=16
+16a	wedle
+16a	.
+8g#	proga
+16e;	.
+16e}	da
 !!LO:LB:g=esac
-=
-{24g#
-24b
-24a
-8g#
-8e
-=14
-16a
-16cc
-8ee
-16b
-16e
-=15
-16a
-16cc
-8b
-8g#
-=16
-8.a
-16g#
-16b
-16e}
-==
-*-
+=17	=17
+{(>24g#L	i
+24bJ	.
+24a)	po-
+8g#	-pro-
+8e	-szę
+=18	=18
+16a	pana
+16cc/	.
+8ee	Bo-
+16b/	-ga
+16e	da
+=19	=19
+16a	to
+16cc	mi
+8b/	je-
+8g#	-dnę
+=20	=20
+8.a	dasz
+16g#	da
+16b/	i
+16e}	dasz.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!1. Da owczarzu psie rakarzu
+!!da duże torby masz, masz da i masz.
+!!Da spoję cię za groszy cztery
+!!da i wy bio rę wszystkie sery
+!!da to mi wszystkie dasz da i dasz.
+!!@VERSE:
+!!2. Kołodzieju, psie złodzieju
+!!da ładne córki masz, masz da i masz.
+!!Układę się wedle proga
+!!da i poproszę pana Boga
+!!da to mi jednę dasz da i dasz.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!singer-sex: Male
+!!!RDF**kern: >= above
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=155 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 141} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 141}
 !!!page: 141
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-22

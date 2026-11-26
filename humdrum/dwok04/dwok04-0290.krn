@@ -3,204 +3,214 @@
 !!!source: DWOK04
 !!!id: K0290
 !!!signature:
-**kern
-*clefG2
-*k[]
-*a:
-*M3/8
-=1
-{16a
-16b
-8cc
-8ff#
-=2
-16ee
-32dd
-32cc
-8b
-16a
-16g
-=3
-16cc
-16ee
-4g#}
+**kern	**text
+*clefG2	*
+*k[]	*
+*a:	*
+*M3/8	*
+=1	=1
+{16a	A
+16b/	za
+8cc	la-
+8ff#	-sem
+=2	=2
+16ee	wołki
+32ddL	.
+32ccJ	.
+8b	mo-
+16a\L	-je,
+16g\J	.
+=3	=3
+16cc	za
+16ee	la-
+4g#}	-sem,
 !!LO:LB:g=esac
-=4
-{16a
-16b
-8cc
-8ff#
-=5
-16ee
-32dd
-32cc
-8b
-16a
-16g
-=6
-16a
-16cc
-4g#}
+=4	=4
+{16a	a
+16b/	mam-
+8cc	-ci
+8ff#	ja
+=5	=5
+16ee	piszczałecz-
+32ddL	.
+32ccJ	.
+8b	.
+16aL	-kę
+16gJ	.
+=6	=6
+16a\	za
+16cc	pasem.
+4g#}	.
 !!LO:LB:g=esac
-=7
-{16a
-16a
-8b
-8b
-=8
-16ee
-32dd
-32cc
-8a
-8g
-=9
-16cc
-16ee
-4g#}
+=7	=7
+{16a	Weznę,
+16a	.
+8b	wez-
+8b	-nę
+=8	=8
+16ee	piszczałecz-
+32ddL	.
+32ccJ	.
+8a	.
+8g	-kę
+=9	=9
+16cc	z_za
+16ee	pa-
+4g#}	-sa,
 !!LO:LB:g=esac
-=10
-{16a
-16a
-8b
-8b
-=11
-16ee
-32dd
-32cc
-8a
-8g
-=12
-16b
-16cc
-4g#}
+=10	=10
+{16a	za-
+16a	-gram,
+8b/	zagram
+8b/	.
+=11	=11
+16ee	moim
+32dLd	.
+32ccJ	.
+8a	wołkom
+8g	.
+=12	=12
+16b	od
+16cc	la-
+4g#}	-sa.
 !!LO:LB:g=esac
-=13
-{16.a
-32b
-16cc
-16ee
-16g#
-16b
-=
-24a
-24g
-24b
-16cc
-16ee
-16g#
-16b
-=
-24a
-24g
-24b
-8cc
-16g#
-16b
-=14
-8a
-8a
-8a}
+=13	=13
+{16.La	.
+32b/J	.
+16ccL	.
+16eeJ	.
+16g#L	.
+16b/J	.
+=14	=14
+*Xtuplet	*
+24aL	.
+24gn	.
+24b/J	.
+16ccL	.
+16eeJ	.
+16g#L	.
+16b/J	.
+=15	=15
+24aL	.
+24gn	.
+24b/J	.
+8cc	.
+16g#L	.
+16b/J	.
+=16	=16
+8aL	.
+8a	.
+8aJ}	.
 !!LO:LB:g=esac
-=15
-{16a
-16b
-8cc
-8ff#
-=16
-16ee
-32dd
-32cc
-8b
-16a
-16b
-=17
-16cc
-16ee
-4g#}
+=17	=17
+{16a	.
+16b/	.
+8cc	.
+8ff#	.
+=18	=18
+16ee	.
+32ddL	.
+32ccJ	.
+8b	.
+16aL	.
+16b/J	.
+=19	=19
+16cc	.
+16ee	.
+4g#}	.
 !!LO:LB:g=esac
-=18
-{16a
-16b
-8cc
-8ff#
-=19
-16ee
-32dd
-32cc
-8b
-16a
-16g
-=
-24a
-24b
-24cc
-4g#}
+=20	=20
+{16a	.
+16b/	.
+8cc	.
+8ff#	.
+=21	=21
+16ee	.
+32ddL	.
+32ccJ	.
+8b	.
+16aL	.
+16gJ	.
+=22	=22
+24aL	.
+24b/	.
+24ccJ/	.
+4g#}	.
 !!LO:LB:g=esac
-=20
-{16a
-16a
-8b
-8b
-=21
-16ee
-32dd
-32cc
-8a
-8g
-=22
-32cc
-32ee
-32dd#
-32ee
-4g#}
+=23	=23
+{16a	.
+16a	.
+8b/	.
+8b/	.
+=24	=24
+16ee	.
+32dLd	.
+32ccJ	.
+8a	.
+8g	.
+=25	=25
+32cc/L	.
+32ee/	.
+32dd#/	.
+32ee/J	.
+4g#}	.
 !!LO:LB:g=esac
-=23
-{16a
-16a
-8b
-8b
-=24
-16ee
-32dd
-32cc
-8a
-8g
-=25
-16b
-16cc
-4g#}
+=26	=26
+{16a	.
+16a	.
+8b/	.
+8b/	.
+=27	=27
+16ee	.
+32dLd	.
+32ccJ	.
+8a	.
+8g	.
+=28	=28
+16b	.
+16cc	.
+4g#}	.
 !!LO:LB:g=esac
-=26
-{16.a
-32b
-16cc
-16ee
-16g#
-16b
-=
-24a
-24g
-24b
-16cc
-16ee
-16g#
-16b
-=
-24a
-24g
-24b
-16cc
-16ee
-16g#
-16b
-=27
-8a
-8a
-8a}
-==
-*-
+=29	=29
+{16.aL	.
+32b/J	.
+16ccL	.
+16eeJ	.
+16g#L	.
+16b/J	.
+=30	=30
+24aL	.
+24gn	.
+24b/J	.
+16cc/L	.
+16ee/J	.
+16g#L	.
+16b/J	.
+=31	=31
+24aL	.
+24gn	.
+24b/J	.
+16cc/L	.
+16ee/J	.
+16g#L	.
+16b/J	.
+=32	=32
+8aL	.
+8a	.
+8a}J	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!A za lasem wołki moje, za lasem,
+!!a mamci ja piszczałeczkę za pasem.
+!!Weznę, weznę piszczałeczkę z za pasa,
+!!zagram, zagram moim wołkom od lasa.
+!!@@END: VERSES
+!!!role-singer: Narrator
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=158 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 144-145} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), pp. 144-145}
 !!!page: 144-145
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-22

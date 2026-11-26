@@ -3,108 +3,127 @@
 !!!source: DWOK04
 !!!id: K0296
 !!!signature:
-**kern
-*clefG2
-*k[]
-*C:
-*M3/8
-=1
-{16cc
-16cc
-8dd
-16cc
-16b
-=2
-16g
-32a
-32b
-4cc
-=3
-16ee
-16ee
-8dd
-16cc
-16b
-=4
-16g
-32a
-32b
-4cc}
+**kern	**text
+*clefG2	*
+*k[]	*
+*C:	*
+*M3/8	*
+=1	=1
+{16cc	Nie-
+8bq	.
+16cc	-da-
+8dd	-le-
+16cLc	-ko
+16bJ	.
+=2	=2
+16g	święty
+32aL	.
+32b/J	.
+4cc	Michał,
+=3	=3
+16ee	owczarskie
+8ffq	.
+16ee	.
+8dd	.
+16ccL	.
+16bJ	go-
+=4	=4
+16g	-dy
+32aL	da
+32b/J	gody,
+4cc}	.
 !!LO:LB:g=esac
-=5
-{8cc
-16ee
-16dd
-8cc
-=6
-16dd
-16ff
-8aa
-8dd
-=7
-8ee
-16ee
-16dd
-16cc
-16b
-=8
-16g
-32a
-32b
-4cc}
+=5	=5
+{8cc	zgo-
+16eeL	-dzę
+16ddJ	.
+8cc	sobie
+=6	=6
+16dd	owczaryszkę
+8eeq	.
+16ff	.
+8aa	.
+8dd	.
+=7	=7
+8ee	do
+8ggq	.
+16eeL	swéj
+16ddJ	.
+16ccL	wygody
+16bJ	.
+=8	=8
+16g	.
+32aL	wygody.
+32b/J	.
+4cc}	.
 !!LO:LB:g=esac
-=9
-{16cc
-16cc
-8dd
-16cc
-16b
-=10
-16g
-32a
-32b
-8cc
-8g
-=11
-16ee
-16ee
-8dd
-16cc
-16b
-=12
-16g
-32a
-32b
-8cc
-8g}
+=9	=9
+{16cc	Nie-
+8bq	.
+16cc	-da-
+8dd	-le-
+16cLc	-ko
+16bJ	.
+=10	=10
+16g	święty
+32aL	.
+32b/J	.
+8cc/L	Michał,
+8gJ	.
+=11	=11
+8ee	owczarskie
+8ffq	.
+16ee	.
+16dd	.
+16ccL	.
+16bJ	go-
+=12	=12
+16g	-dy
+32aL	da
+32b/J	.
+8cc/L	gody,
+8g}J	.
 !!LO:LB:g=esac
-=13
-{8ee
-16ee
-16dd
-16cc
-16b
-=14
-16dd
-16ff
-8aa
-8dd
-=15
-8ee
-16ee
-16dd
-16cc
-16b
-=16
-16g
-32a
-32b
-8cc
-8g}
-==
-*-
+=13	=13
+{8ee	zgo-
+8ffq	.
+16eeL	-dzę
+16ddJ	.
+16ccL/	sobie
+16b/J	.
+=14	=14
+16dd	owczaryszkę
+8eeq	.
+16ff	.
+8aa	.
+8dd	.
+=15	=15
+8ee	do
+8ggq	.
+16eeL	swéj
+16ddUJ	.
+16ccL	wygody
+16bJ	.
+=16	=16
+16g	.
+32aL	wygody.
+32b/J	.
+8cc/L	.
+8gJ}	.
+==	==
+*-	*-
+!!@@BEGIN: VERSES
+!!Niedaleko święty Michał,
+!!owczarskie gody da gody,
+!!zgodzę sobie owczaryszkę
+!!do swéj wygody wygody.
+!!@@END: VERSES
+!!!role-singer: Narrator
+!!!singer-sex: Male
 !!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
 !!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
 !!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=161 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 147} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 147}
 !!!page: 147
 !!!ONB: Converted on 2024/12/26 with esac2hum
+!!!ENC: Agata Krajewska-Mikosz
+!!!END: 2026-11-23
